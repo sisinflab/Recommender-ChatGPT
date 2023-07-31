@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Graveyard Book by Neil Gaiman
+2. Stardust by Neil Gaiman
+3. American Gods by Neil Gaiman
+4. The Shadow of the Wind by Carlos Ruiz Zafón
+5. The Bell Jar by Sylvia Plath
+6. The Catcher in the Rye by J.D. Salinger
+7. Wuthering Heights by Emily Bronte
+8. Jane Eyre by Charlotte Bronte
+9. Frankenstein by Mary Shelley
+10. The Princess Bride by William Goldman
+11. Memoirs of a Geisha by Arthur Golden
+12. To Kill a Mockingbird by Harper Lee
+13. The Hunger Games by Suzanne Collins
+14. A Clockwork Orange by Anthony Burgess
+15. The Stranger by Albert Camus
+16. Inferno by Dante Alighieri
+17. Persuasion by Jane Austen
+18. Bridget Jones's Diary by Helen Fielding
+19. Great Expectations by Charles Dickens
+20. Alice's Adventures in Wonderland by Lewis Carroll
+21. The Black Tattoo by Sam Enthoven
+22. The Cosmic Serpent by Jeremy Narby
+23. Slaughterhouse-Five by Kurt Vonnegut
+24. A Midsummer Night's Dream by William Shakespeare
+25. The Forgotten Garden by Kate Morton
+26. The Pillowman by Martin McDonagh
+27. Red Dragon by Thomas Harris
+28. The Devil's Dictionary by Ambrose Bierce
+29. Left Behind by Tim LaHaye and Jerry B. Jenkins
+30. Torah Or by Rabbi Shneur Zalman of Liadi
+31. Battle Royale by Koushun Takami
+32. The Outsiders by S.E. Hinton
+33. Manga by Various Authors
+34. The Gold Bug Variations by Richard Powers
+35. The Last Storytellers by Richard Hamilton
+36. Gunnerkrigg Court by Tom Siddell
+37. VALIS by Philip K. Dick
+38. Three by Ted Dekker
+39. Inkspell by Cornelia Funke
+40. Only Revolutions by Mark Z. Danielewski
+41. Generation Dead by Daniel Waters
+42. Book of Revelation by John of Patmos
+43. The Murders in the Rue Morgue by Edgar Allan Poe
+44. Lenore by Edgar Allan Poe
+45. The Fall of the House of Usher by Edgar Allan Poe
+46. The Cask of Amontillado by Edgar Allan Poe
+47. Glass by Ellen Hopkins
+48. Twilight by Stephenie Meyer
+49. The Secret Garden by Frances Hodgson Burnett
+50. To the Lighthouse by Virginia Woolf

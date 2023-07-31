@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Chronicles of Narnia by C.S. Lewis
+2. The Lord of the Rings by J.R.R. Tolkien
+3. The Catcher in the Rye by J.D. Salinger
+4. To Kill a Mockingbird by Harper Lee
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Animal Farm by George Orwell
+7. The Picture of Dorian Gray by Oscar Wilde
+8. The Adventures of Tom Sawyer by Mark Twain
+9. The Adventures of Huckleberry Finn by Mark Twain
+10. The Secret Garden by Frances Hodgson Burnett
+11. The Wind in the Willows by Kenneth Grahame
+12. The Little Prince by Antoine de Saint-Exupéry
+13. The Alchemist by Paulo Coelho
+14. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+15. The Giver by Lois Lowry
+16. The Hunger Games by Suzanne Collins
+17. The Book Thief by Markus Zusak
+18. The Road by Cormac McCarthy
+19. The Old Man and the Sea by Ernest Hemingway
+20. One Hundred Years of Solitude by Gabriel Garcia Marquez
+21. The Brothers Karamazov by Fyodor Dostoevsky
+22. Crime and Punishment by Fyodor Dostoevsky
+23. The Idiot by Fyodor Dostoevsky
+24. War and Peace by Leo Tolstoy
+25. Anna Karenina by Leo Tolstoy
+26. The Count of Monte Cristo by Alexandre Dumas
+27. Les Misérables by Victor Hugo
+28. The Three Musketeers by Alexandre Dumas
+29. The Name of the Rose by Umberto Eco
+30. The Picture of Dorian Gray by Oscar Wilde
+31. The Importance of Being Earnest by Oscar Wilde
+32. The Canterbury Tales by Geoffrey Chaucer
+33. The Divine Comedy by Dante Alighieri
+34. The Iliad by Homer
+35. The Odyssey by Homer
+36. The Aeneid by Virgil
+37. The Inferno by Dante Alighieri
+38. The Republic by Plato
+39. The Symposium by Plato
+40. The Apology by Plato
+41. The Nicomachean Ethics by Aristotle
+42. The Politics by Aristotle
+43. The Prince by Niccolò Machiavelli
+44. Don Quixote by Miguel de Cervantes
+45. The Phantom Tollbooth by Norton Juster
+46. Alice's Adventures in Wonderland by Lewis Carroll
+47. The Hobbit by J.R.R. Tolkien
+48. Nineteen Eighty-Four by George Orwell
+49. Brave New World by Aldous Huxley
+50. The Bible.

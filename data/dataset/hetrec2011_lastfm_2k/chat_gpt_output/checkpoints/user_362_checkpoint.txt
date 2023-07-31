@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. My Chemical Romance
+2. Arctic Monkeys
+3. Muse
+4. Radiohead
+5. The Strokes
+6. The White Stripes
+7. Foo Fighters
+8. Nirvana
+9. Red Hot Chili Peppers
+10. Oasis
+11. Pearl Jam
+12. Weezer
+13. The Smashing Pumpkins
+14. The Black Keys
+15. Vampire Weekend
+16. The Kooks
+17. The Libertines
+18. The 1975
+19. The Vaccines
+20. Two Door Cinema Club
+21. Phoenix
+22. Interpol
+23. The National
+24. Arcade Fire
+25. Tame Impala
+26. Alt-J
+27. The xx
+28. Florence + The Machine
+29. Hozier
+30. Lorde
+31. Lana Del Rey
+32. Billie Eilish
+33. Taylor Swift
+34. Ed Sheeran
+35. Shawn Mendes
+36. Justin Bieber
+37. Maroon 5
+38. OneRepublic
+39. Imagine Dragons
+40. Bastille
+41. Cold War Kids
+42. Foster the People
+43. Grouplove
+44. Young the Giant
+45. The Lumineers
+46. Of Monsters and Men
+47. Mumford & Sons
+48. Bon Iver
+49. Fleet Foxes
+50. Iron & Wine

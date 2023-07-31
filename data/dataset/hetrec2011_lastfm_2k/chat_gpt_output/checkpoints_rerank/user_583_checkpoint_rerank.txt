@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Funeral for a Friend
+2. Nirvana
+3. Placebo
+4. 30 Seconds to Mars
+5. Silverstein
+6. Paramore
+7. God Is an Astronaut
+8. Rise Against
+9. Seether
+10. Flyleaf
+11. The Sounds
+12. System of a Down
+13. A Day to Remember
+14. Кино
+15. Green Day
+16. Bring Me The Horizon
+17. Before Their Eyes
+18. blessthefall
+19. Alexisonfire
+20. Slipknot
+21. Anberlin
+22. The Devil Wears Prada
+23. Saosin
+24. Senses Fail
+25. The Academy Is...
+26. Stone Sour
+27. Escape The Fate
+28. Muse
+29. The Killers
+30. Iron Maiden
+31. Metallica
+32. Led Zeppelin
+33. Pearl Jam
+34. Pink Floyd
+35. Radiohead
+36. Nine Inch Nails
+37. Linkin Park
+38. Avenged Sevenfold
+39. My Chemical Romance
+40. The Cure
+41. Arctic Monkeys
+42. Duran Duran
+43. Depeche Mode
+44. Michael Jackson
+45. Madonna
+46. Lady Gaga
+47. Christina Aguilera
+48. Beyoncé
+49. Rihanna
+50. Shakira

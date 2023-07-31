@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Nineteen Eighty-Four by George Orwell
+2. The Great Gatsby by F. Scott Fitzgerald
+3. To Kill a Mockingbird by Harper Lee
+4. Heart of Darkness by Joseph Conrad
+5. Frankenstein by Mary Shelley
+6. The Catcher in the Rye by J.D. Salinger
+7. Alice's Adventures in Wonderland by Lewis Carroll
+8. Madame Bovary by Gustave Flaubert
+9. Don Quixote by Miguel de Cervantes
+10. The Canterbury Tales by Geoffrey Chaucer
+11. The Picture of Dorian Gray by Oscar Wilde
+12. Catch-22 by Joseph Heller
+13. The Count of Monte Cristo by Alexandre Dumas
+14. Tess of the d'Urbervilles by Thomas Hardy
+15. Inferno by Dante Alighieri
+16. Odyssey by Homer
+17. Gulliver's Travels by Jonathan Swift
+18. Wuthering Heights by Emily Bronte
+19. The Fountainhead by Ayn Rand
+20. Les Miserables by Victor Hugo
+21. The Iliad by Homer
+22. The Communist Manifesto by Karl Marx and Friedrich Engels
+23. A Wrinkle in Time by Madeleine L'Engle
+24. The Odyssey by Homer
+25. Oedipus the King by Sophocles
+26. The Glass Menagerie by Tennessee Williams
+27. A Streetcar Named Desire by Tennessee Williams
+28. Like Water for Chocolate by Laura Esquivel
+29. The Last Storytellers: Tales from the Heart of Morocco by Richard Hamilton
+30. The Pact by Jodi Picoult
+31. Pyramids by Terry Pratchett
+32. The Yearling by Marjorie Kinnan Rawlings
+33. That Was Then, This Is Now by S.E. Hinton
+34. Oh, the Places You'll Go! by Dr. Seuss
+35. Of Mice and Men by John Steinbeck
+36. The Colour of Magic by Terry Pratchett
+37. Sun Bin's Art of War by Sun Bin
+38. Eragon by Christopher Paolini
+39. Uglies by Scott Westerfeld
+40. Fear and Loathing in Las Vegas by Hunter S. Thompson
+41. Warrior by Olivier Lafont
+42. New Arabian Nights by Robert Louis Stevenson
+43. Twilight by Stephenie Meyer
+44. I, Robot by Isaac Asimov
+45. The Hunchback of Notre-Dame by Victor Hugo
+46. The Trial by Franz Kafka
+47. Silas Marner by George Eliot
+48. The Jungle Book by Rudyard Kipling
+49. God Bless You, Dr. Kevorkian by Kurt Vonnegut
+50. Moby-Dick by Herman

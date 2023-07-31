@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. Brave New World by Aldous Huxley
+4. The Great Gatsby by F. Scott Fitzgerald
+5. The Picture of Dorian Gray by Oscar Wilde
+6. Frankenstein by Mary Shelley
+7. Dracula by Bram Stoker
+8. Wuthering Heights by Emily Bronte
+9. Jane Eyre by Charlotte Bronte
+10. Pride and Prejudice by Jane Austen
+11. Sense and Sensibility by Jane Austen
+12. Emma by Jane Austen
+13. Persuasion by Jane Austen
+14. Northanger Abbey by Jane Austen
+15. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+16. The Hound of the Baskervilles by Arthur Conan Doyle
+17. The Count of Monte Cristo by Alexandre Dumas
+18. Les Miserables by Victor Hugo
+19. The Three Musketeers by Alexandre Dumas
+20. The Brothers Karamazov by Fyodor Dostoevsky
+21. Crime and Punishment by Fyodor Dostoevsky
+22. The Idiot by Fyodor Dostoevsky
+23. Anna Karenina by Leo Tolstoy
+24. War and Peace by Leo Tolstoy
+25. One Hundred Years of Solitude by Gabriel Garcia Marquez
+26. Love in the Time of Cholera by Gabriel Garcia Marquez
+27. The Name of the Rose by Umberto Eco
+28. The Da Vinci Code by Dan Brown
+29. Angels and Demons by Dan Brown
+30. The Girl with the Dragon Tattoo by Stieg Larsson
+31. The Hunger Games by Suzanne Collins
+32. Catching Fire by Suzanne Collins
+33. Mockingjay by Suzanne Collins
+34. The Maze Runner by James Dashner
+35. The Scorch Trials by James Dashner
+36. The Death Cure by James Dashner
+37. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+38. The Hobbit by J.R.R. Tolkien
+39. The Silmarillion by J.R.R. Tolkien
+40. The Children of Hurin by J.R.R. Tolkien
+41. The Chronicles of Narnia by C.S. Lewis
+42. The Magician's Nephew by C.S. Lewis
+43. The Lion, the Witch and the Wardrobe by C.S. Lewis
+44. The Horse and His Boy by C.S. Lewis
+45. The Voyage of the Dawn Treader by C.S. Lewis
+46. The Silver Chair by C.S. Lewis
+47. The Last Battle by C.S. Lewis
+48. The Shining by Stephen King
+49. It by Stephen King
+50. Pet Sematary by Stephen

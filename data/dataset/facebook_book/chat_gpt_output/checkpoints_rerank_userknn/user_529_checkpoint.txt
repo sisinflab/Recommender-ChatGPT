@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games
+2. Nineteen Eighty-Four
+3. The God Delusion
+4. The Plague
+5. Heart of Darkness
+6. The Silence of the Lambs (novel)
+7. Frankenstein
+8. Lolita
+9. The Great Gatsby
+10. To Kill a Mockingbird
+11. Wuthering Heights
+12. The Catcher in the Rye
+13. The Lord of the Rings
+14. The Giver
+15. All Quiet on the Western Front
+16. Les Misérables
+17. The Scarlet Pimpernel
+18. Memoirs of a Geisha
+19. The Joy Luck Club (novel)
+20. Red Inferno: 1945
+21. The Anarchist Cookbook
+22. The Dirt
+23. Fingersmith (novel)
+24. Burned (Hopkins novel)
+25. The Merchant of Venice
+26. Macbeth
+27. Romeo and Juliet
+28. Pride and Prejudice
+29. 2001: A Space Odyssey (novel)
+30. A Wrinkle in Time
+31. The Messenger (Markus Zusak novel)
+32. Affinity (novel)
+33. Twilight (series)
+34. The Secret (book)
+35. Inferno (Dante)
+36. 3001: The Final Odyssey
+37. Eragon
+38. Hannibal (novel)
+39. Night (book)
+40. Miss Christina
+41. Naked Lunch
+42. The Watchmen (novel)
+43. Evermore (book)
+44. Children of the Mind
+45. Brisingr
+46. At Swim, Two Boys
+47. Teaching with Calvin and Hobbes
+48. The Long Hard Road Out of Hell
+49. Sun Bin's Art of War
+50. Tarzan of the Apes

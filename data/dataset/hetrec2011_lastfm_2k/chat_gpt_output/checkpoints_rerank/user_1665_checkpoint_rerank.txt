@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Breaking Benjamin
+2. Three Days Grace
+3. Skillet
+4. Disturbed
+5. Biffy Clyro
+6. Muse
+7. The Temper Trap
+8. Danny
+9. Simple Plan
+10. P.O.D.
+11. 3 Doors Down
+12. Avenged Sevenfold
+13. Evanescence
+14. Linkin Park
+15. System of a Down
+16. My Chemical Romance
+17. Nirvana
+18. Metallica
+19. Iron Maiden
+20. Pearl Jam
+21. The Killers
+22. Radiohead
+23. 30 Seconds to Mars
+24. Coldplay
+25. Placebo
+26. Blur
+27. Arctic Monkeys
+28. Green Day
+29. The Cure
+30. Black Eyed Peas
+31. Lady Gaga
+32. Beyoncé
+33. Rihanna
+34. Pink Floyd
+35. Michael Jackson
+36. Madonna
+37. U2
+38. The Beatles
+39. Ke$ha
+40. Katy Perry
+41. Christina Aguilera
+42. Paramore
+43. Taylor Swift
+44. Miley Cyrus
+45. Shakira
+46. Britney Spears
+47. Depeche Mode
+48. Kylie Minogue
+49. Amy Winehouse
+50. Daft Punk

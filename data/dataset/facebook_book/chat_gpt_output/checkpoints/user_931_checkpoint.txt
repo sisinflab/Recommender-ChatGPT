@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Chronicles of Narnia by C.S. Lewis
+2. Harry Potter series by J.K. Rowling
+3. The Hunger Games by Suzanne Collins
+4. Percy Jackson and the Olympians by Rick Riordan
+5. The Lord of the Rings by J.R.R. Tolkien
+6. The Giver by Lois Lowry
+7. Ender's Game by Orson Scott Card
+8. The Mortal Instruments by Cassandra Clare
+9. Divergent by Veronica Roth
+10. The Maze Runner by James Dashner
+11. The Fault in Our Stars by John Green
+12. The Book Thief by Markus Zusak
+13. The Selection by Kiera Cass
+14. The Infernal Devices by Cassandra Clare
+15. The Lunar Chronicles by Marissa Meyer
+16. The 5th Wave by Rick Yancey
+17. The Darkest Minds by Alexandra Bracken
+18. The Raven Cycle by Maggie Stiefvater
+19. The Knife of Never Letting Go by Patrick Ness
+20. The Magicians by Lev Grossman
+21. The Name of the Wind by Patrick Rothfuss
+22. The Night Circus by Erin Morgenstern
+23. The Secret History by Donna Tartt
+24. The Girl with the Dragon Tattoo by Stieg Larsson
+25. The Girl on the Train by Paula Hawkins
+26. The Help by Kathryn Stockett
+27. The Time Traveler's Wife by Audrey Niffenegger
+28. The Picture of Dorian Gray by Oscar Wilde
+29. The Catcher in the Rye by J.D. Salinger
+30. To Kill a Mockingbird by Harper Lee
+31. The Great Gatsby by F. Scott Fitzgerald
+32. 1984 by George Orwell
+33. Animal Farm by George Orwell
+34. Brave New World by Aldous Huxley
+35. Fahrenheit 451 by Ray Bradbury
+36. The Handmaid's Tale by Margaret Atwood
+37. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+38. The Martian by Andy Weir
+39. Ready Player One by Ernest Cline
+40. The Hunger Angel by Herta Müller
+41. The Shadow of the Wind by Carlos Ruiz Zafón
+42. The Alchemist by Paulo Coelho
+43. The Kite Runner by Khaled Hosseini
+44. A Thousand Splendid Suns by Khaled Hosseini
+45. The God of Small Things by Arundhati Roy
+46. The White Tiger by Aravind Adiga
+47. The Immortals of Meluha by Amish Tripathi
+48. The Palace of Illusions by Chitra Banerjee Divakaruni
+49. The Namesake by Jhumpa Lahiri
+50. Interpreter of Mal

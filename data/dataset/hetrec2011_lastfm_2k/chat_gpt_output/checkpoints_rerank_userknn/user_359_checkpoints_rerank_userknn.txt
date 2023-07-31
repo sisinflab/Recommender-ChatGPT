@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Depeche Mode
+2. New Order
+3. Kraftwerk
+4. The Human League
+5. Pet Shop Boys
+6. Erasure
+7. Ultravox
+8. Yazoo
+9. Gary Numan
+10. Simple Minds
+11. Orchestral Manoeuvres in the Dark
+12. Duran Duran
+13. Talk Talk
+14. Roxy Music
+15. Japan
+16. The Cars
+17. ABC
+18. Blondie
+19. A Flock of Seagulls
+20. Echo & The Bunnymen
+21. The Cure
+22. Siouxsie and the Banshees
+23. Spandau Ballet
+24. Heaven 17
+25. Visage
+26. Thomas Dolby
+27. John Foxx
+28. Camouflage
+29. Alphaville
+30. Dead Can Dance
+31. Cocteau Twins
+32. Enigma
+33. Delerium
+34. Amethystium
+35. Enya
+36. Vangelis
+37. Hans Zimmer
+38. John Williams
+39. James Horner
+40. Pink Floyd
+41. Queen
+42. Bryan Ferry
+43. Peter Gabriel
+44. Frank Sinatra
+45. Ella Fitzgerald
+46. Yanni
+47. Schiller
+48. Front 242
+49. KMFDM
+50. Iron Maiden

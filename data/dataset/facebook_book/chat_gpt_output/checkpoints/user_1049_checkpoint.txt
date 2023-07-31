@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. Brave New World by Aldous Huxley
+4. The Catcher in the Rye by J.D. Salinger
+5. Lord of the Flies by William Golding
+6. The Great Gatsby by F. Scott Fitzgerald
+7. The Hobbit by J.R.R. Tolkien
+8. The Fellowship of the Ring by J.R.R. Tolkien
+9. The Two Towers by J.R.R. Tolkien
+10. The Return of the King by J.R.R. Tolkien
+11. The Chronicles of Narnia by C.S. Lewis
+12. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+13. The Da Vinci Code by Dan Brown
+14. Angels and Demons by Dan Brown
+15. The Girl with the Dragon Tattoo by Stieg Larsson
+16. The Hunger Games by Suzanne Collins
+17. Catching Fire by Suzanne Collins
+18. Mockingjay by Suzanne Collins
+19. The Maze Runner by James Dashner
+20. The Bourne Identity by Robert Ludlum
+21. The Bourne Supremacy by Robert Ludlum
+22. The Bourne Ultimatum by Robert Ludlum
+23. The Girl on the Train by Paula Hawkins
+24. The Silence of the Lambs by Thomas Harris
+25. Red Dragon by Thomas Harris
+26. Hannibal by Thomas Harris
+27. The Shining by Stephen King
+28. Carrie by Stephen King
+29. The Stand by Stephen King
+30. The Dark Tower series by Stephen King
+31. The Name of the Wind by Patrick Rothfuss
+32. The Wise Man's Fear by Patrick Rothfuss
+33. The Way of Kings by Brandon Sanderson
+34. Mistborn by Brandon Sanderson
+35. The Final Empire by Brandon Sanderson
+36. The Gunslinger by Stephen King
+37. The Drawing of the Three by Stephen King
+38. The Waste Lands by Stephen King
+39. Wizard and Glass by Stephen King
+40. Wolves of the Calla by Stephen King
+41. Song of Susannah by Stephen King
+42. The Dark Tower by Stephen King
+43. The Girl Who Played with Fire by Stieg Larsson
+44. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+45. The Andromeda Strain by Michael Crichton
+46. Jurassic Park by Michael Crichton
+47. The Lost World by Michael Crichton
+48. Sphere by Michael Crichton
+49. Congo by Michael Crichton
+50. Ender's Game by Orson Scott Card

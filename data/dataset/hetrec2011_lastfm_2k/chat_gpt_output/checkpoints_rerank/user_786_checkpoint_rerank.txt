@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Gorillaz
+2. Dolphin
+3. Crystal Castles
+4. Дельфин
+5. Red Hot Chili Peppers
+6. The Prodigy
+7. Pendulum
+8. Why?
+9. Armin van Buuren
+10. Kid Cudi
+11. Nelly
+12. Funeral for a Friend
+13. OneRepublic
+14. Take That
+15. La Roux
+16. Zемфира
+17. Kasabian
+18. Suicide Silence
+19. MGMT
+20. Radiohead
+21. Katy Perry
+22. Muse
+23. Pink Floyd
+24. Nirvana
+25. Iron Maiden
+26. Led Zeppelin
+27. Metallica
+28. Michael Jackson
+29. Pearl Jam
+30. a-ha
+31. Björk
+32. System of a Down
+33. Daft Punk
+34. Nine Inch Nails
+35. Linkin Park
+36. Avenged Sevenfold
+37. My Chemical Romance
+38. Green Day
+39. The Cure
+40. Paramore
+41. Lady Gaga
+42. Rihanna
+43. Shakira
+44. Beyoncé
+45. Coldplay
+46. Blur
+47. Arctic Monkeys
+48. Placebo
+49. The Killers
+50. Amy Winehouse

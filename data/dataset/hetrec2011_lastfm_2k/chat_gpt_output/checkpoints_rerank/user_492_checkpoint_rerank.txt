@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Beatles
+2. Rufus Wainwright
+3. Paul McCartney
+4. Nick Drake
+5. Miles Davis
+6. Serge Gainsbourg
+7. Frédéric Chopin
+8. Neutral Milk Hotel
+9. Devendra Banhart
+10. Norah Jones
+11. T. Rex
+12. Ben Folds
+13. They Might Be Giants
+14. The Mountain Goats
+15. The Cure
+16. Patrick Wolf
+17. Elton John
+18. Scissor Sisters
+19. Czesław Śpiewa
+20. Peter Doherty
+21. Peter Bjorn and John
+22. Radiohead
+23. Pink Floyd
+24. Muse
+25. Led Zeppelin
+26. Nirvana
+27. Metallica
+28. Iron Maiden
+29. Pearl Jam
+30. System of a Down
+31. Nine Inch Nails
+32. Linkin Park
+33. My Chemical Romance
+34. Green Day
+35. Placebo
+36. The Killers
+37. Arctic Monkeys
+38. Blur
+39. Duran Duran
+40. Depeche Mode
+41. Madonna
+42. Lady Gaga
+43. Christina Aguilera
+44. Rihanna
+45. Shakira
+46. Katy Perry
+47. Avril Lavigne
+48. Taylor Swift
+49. Ke$ha
+50. Beyoncé

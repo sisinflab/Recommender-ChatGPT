@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Depeche Mode
+2. The Cure
+3. Rammstein
+4. Lady Gaga
+5. Pink
+6. Coldplay
+7. The Killers
+8. Kings of Leon
+9. Billy Idol
+10. She Wants Revenge
+11. The Crüxshadows
+12. L'Âme Immortelle
+13. Édith Piaf
+14. In Extremo
+15. Tarja
+16. Amy Macdonald
+17. Regina Spektor
+18. Black Sabbath
+19. Weezer
+20. Muse
+21. Radiohead
+22. Franz Ferdinand
+23. Jamiroquai
+24. Björk
+25. Daft Punk
+26. IAMX
+27. HIM
+28. AFI
+29. Hooverphonic
+30. Oasis
+31. Nirvana
+32. Crystal Castles
+33. The Last Shadow Puppets
+34. Linkin Park
+35. New Order
+36. Garbage
+37. The Chemical Brothers
+38. Soft Cell
+39. Pet Shop Boys
+40. Morcheeba
+41. Dave Gahan
+42. Sneaker Pimps
+43. Moby
+44. DJ Shadow
+45. Sade
+46. Dżem
+47. Martin L. Gore
+48. Lykke Li
+49. Röyksopp
+50. Pendulum

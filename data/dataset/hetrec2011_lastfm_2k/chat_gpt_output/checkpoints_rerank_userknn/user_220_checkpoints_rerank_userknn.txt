@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Nirvana
+3. The Beatles
+4. Foo Fighters
+5. Soundgarden
+6. Arctic Monkeys
+7. Queens of the Stone Age
+8. The Smiths
+9. The Strokes
+10. Bloc Party
+11. Interpol
+12. Elliott Smith
+13. Silversun Pickups
+14. Bombay Bicycle Club
+15. Doves
+16. Broken Social Scene
+17. Kings of Leon
+18. Muse
+19. Pixies
+20. Pink Floyd
+21. Oasis
+22. Sonic Youth
+23. The Stone Roses
+24. Arcade Fire
+25. R.E.M.
+26. Pearl Jam
+27. Weezer
+28. Morrissey
+29. Nick Cave and the Bad Seeds
+30. Red Hot Chili Peppers
+31. Slipknot
+32. The White Stripes
+33. Rise Against
+34. Legião Urbana
+35. System of a Down
+36. Grizzly Bear
+37. Hans Zimmer
+38. Antony and the Johnsons
+39. Thom Yorke
+40. Deftones
+41. Sigur Rós
+42. Belle and Sebastian
+43. Blur
+44. The Libertines
+45. Metallica
+46. Pantera
+47. Nick Drake
+48. Tom Waits
+49. Sufjan Stevens
+50. Babyshambles

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. Wuthering Heights by Emily Bronte
+3. Jane Eyre by Charlotte Bronte
+4. The Scarlet Letter by Nathaniel Hawthorne
+5. The Great Gatsby by F. Scott Fitzgerald
+6. To Kill a Mockingbird by Harper Lee
+7. The Catcher in the Rye by J.D. Salinger
+8. The Lord of the Rings by J.R.R. Tolkien
+9. 1984 by George Orwell
+10. Animal Farm by George Orwell
+11. The Diary of a Young Girl by Anne Frank
+12. The Bell Jar by Sylvia Plath
+13. The Outsiders by S.E. Hinton
+14. Lord of the Flies by William Golding
+15. The Chronicles of Narnia by C.S. Lewis
+16. The Hobbit by J.R.R. Tolkien
+17. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+18. The Hunger Games by Suzanne Collins
+19. Catching Fire by Suzanne Collins
+20. Mockingjay by Suzanne Collins
+21. The Da Vinci Code by Dan Brown
+22. Angels and Demons by Dan Brown
+23. Digital Fortress by Dan Brown
+24. The Girl with the Dragon Tattoo by Stieg Larsson
+25. The Girl Who Played with Fire by Stieg Larsson
+26. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+27. The Taming of the Shrew by William Shakespeare
+28. Romeo and Juliet by William Shakespeare
+29. Macbeth by William Shakespeare
+30. Hamlet by William Shakespeare
+31. The Merchant of Venice by William Shakespeare
+32. A Tale of Two Cities by Charles Dickens
+33. Great Expectations by Charles Dickens
+34. Oliver Twist by Charles Dickens
+35. David Copperfield by Charles Dickens
+36. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+37. The Hound of the Baskervilles by Arthur Conan Doyle
+38. The Time Machine by H.G. Wells
+39. The War of the Worlds by H.G. Wells
+40. Frankenstein by Mary Shelley
+41. Dracula by Bram Stoker
+42. The Picture of Dorian Gray by Oscar Wilde
+43. The Importance of Being Earnest by Oscar Wilde
+44. The Three Musketeers by Alexandre Dumas
+45. The Count of Monte Cristo by Alexandre Dumas
+46. Les Miserables by Victor Hugo
+47. Anna Karenina by Leo Tolstoy
+48. War and Peace by Leo Tolstoy
+49. Crime and Punishment by Fyodor Dostoevsky
+50. The Brothers Karamazov by Fyodor Dostoevsky

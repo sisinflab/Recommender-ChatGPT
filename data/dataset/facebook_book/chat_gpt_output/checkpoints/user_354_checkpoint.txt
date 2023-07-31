@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. American Gods by Neil Gaiman
+2. The Hunger Games by Suzanne Collins
+3. The Lord of the Rings by J.R.R. Tolkien
+4. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+5. The Girl with the Dragon Tattoo by Stieg Larsson
+6. The Da Vinci Code by Dan Brown
+7. The Catcher in the Rye by J.D. Salinger
+8. The Great Gatsby by F. Scott Fitzgerald
+9. To Kill a Mockingbird by Harper Lee
+10. 1984 by George Orwell
+11. Animal Farm by George Orwell
+12. Brave New World by Aldous Huxley
+13. The Handmaid's Tale by Margaret Atwood
+14. The Road by Cormac McCarthy
+15. The Stand by Stephen King
+16. The Shining by Stephen King
+17. The Dark Tower series by Stephen King
+18. The Name of the Wind by Patrick Rothfuss
+19. The Wise Man's Fear by Patrick Rothfuss
+20. The Kingkiller Chronicle series by Patrick Rothfuss
+21. The Wheel of Time series by Robert Jordan
+22. The Stormlight Archive series by Brandon Sanderson
+23. Mistborn series by Brandon Sanderson
+24. The Way of Kings by Brandon Sanderson
+25. The Final Empire by Brandon Sanderson
+26. The Lies of Locke Lamora by Scott Lynch
+27. The First Law trilogy by Joe Abercrombie
+28. The Blade Itself by Joe Abercrombie
+29. The Malazan Book of the Fallen series by Steven Erikson
+30. Gardens of the Moon by Steven Erikson
+31. The Lies of Locke Lamora by Scott Lynch
+32. The First Law trilogy by Joe Abercrombie
+33. The Blade Itself by Joe Abercrombie
+34. The Malazan Book of the Fallen series by Steven Erikson
+35. Gardens of the Moon by Steven Erikson
+36. The Dresden Files series by Jim Butcher
+37. Storm Front by Jim Butcher
+38. The A Song of Ice and Fire series by George R.R. Martin
+39. A Game of Thrones by George R.R. Martin
+40. The Dark Tower series by Stephen King
+41. The Name of the Wind by Patrick Rothfuss
+42. The Wise Man's Fear by Patrick Rothfuss
+43. The Kingkiller Chronicle series by Patrick Rothfuss
+44. The Wheel of Time series by Robert Jordan
+45. The Stormlight Archive series by Brandon Sanderson
+46. Mistborn series by Brandon Sanderson
+47. The Way of Kings by Brandon Sanderson
+48. The Final Empire by Brandon Sanderson
+49. The Lies of Locke Lamora by Scott Lynch
+50. The First Law trilogy by

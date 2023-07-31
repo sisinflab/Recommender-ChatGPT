@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. Pride and Prejudice by Jane Austen
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Animal Farm by George Orwell
+7. The Hobbit by J.R.R. Tolkien
+8. The Lord of the Rings by J.R.R. Tolkien
+9. The Hunger Games by Suzanne Collins
+10. Harry Potter and the Philosopher's Stone by J.K. Rowling
+11. The Da Vinci Code by Dan Brown
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Fault in Our Stars by John Green
+14. The Alchemist by Paulo Coelho
+15. The Kite Runner by Khaled Hosseini
+16. The Road by Cormac McCarthy
+17. The Adventures of Huckleberry Finn by Mark Twain
+18. The Adventures of Tom Sawyer by Mark Twain
+19. The Chronicles of Narnia by C.S. Lewis
+20. The Secret Life of Bees by Sue Monk Kidd
+21. The Lovely Bones by Alice Sebold
+22. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+23. The Help by Kathryn Stockett
+24. A Thousand Splendid Suns by Khaled Hosseini
+25. The Book of Lost Things by John Connolly
+26. The Book of Negroes by Lawrence Hill
+27. The Book Thief by Markus Zusak
+28. Sabriel by Garth Nix
+29. The Importance of Being Earnest by Oscar Wilde
+30. The Picture of Dorian Gray by Oscar Wilde
+31. Water for Elephants by Sara Gruen
+32. The Time Traveler's Wife by Audrey Niffenegger
+33. My Sister's Keeper by Jodi Picoult
+34. Oedipus the King by Sophocles
+35. One Hundred Years of Solitude by Gabriel García Márquez
+36. The Name of the Wind by Patrick Rothfuss
+37. The Wise Man's Fear by Patrick Rothfuss
+38. The Shadow of the Wind by Carlos Ruiz Zafón
+39. The Nightingale by Kristin Hannah
+40. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+41. The Help by Kathryn Stockett
+42. A Thousand Splendid Suns by Khaled Hosseini
+43. The Book of Lost Things by John Connolly
+44. The Book of Negroes by Lawrence Hill
+45. The Book Thief by Markus Zusak
+46. Sabriel by Garth Nix
+47. The Importance of Being Earnest by Oscar Wilde
+48. The Picture of Dorian Gray by Oscar

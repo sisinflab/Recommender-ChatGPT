@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. To Kill a Mockingbird by Harper Lee
+3. 1984 by George Orwell
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Pride and Prejudice by Jane Austen
+6. Wuthering Heights by Emily Bronte
+7. Jane Eyre by Charlotte Bronte
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Adventures of Huckleberry Finn by Mark Twain
+10. The Grapes of Wrath by John Steinbeck
+11. The Scarlet Letter by Nathaniel Hawthorne
+12. The Sound and the Fury by William Faulkner
+13. One Hundred Years of Solitude by Gabriel Garcia Marquez
+14. Crime and Punishment by Fyodor Dostoevsky
+15. The Brothers Karamazov by Fyodor Dostoevsky
+16. Anna Karenina by Leo Tolstoy
+17. War and Peace by Leo Tolstoy
+18. The Count of Monte Cristo by Alexandre Dumas
+19. Les Miserables by Victor Hugo
+20. The Hobbit by J.R.R. Tolkien
+21. The Lord of the Rings by J.R.R. Tolkien
+22. The Chronicles of Narnia by C.S. Lewis
+23. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+24. The Hunger Games by Suzanne Collins
+25. Harry Potter series by J.K. Rowling
+26. The Fault in Our Stars by John Green
+27. The Book Thief by Markus Zusak
+28. The Kite Runner by Khaled Hosseini
+29. A Thousand Splendid Suns by Khaled Hosseini
+30. The Alchemist by Paulo Coelho
+31. The Da Vinci Code by Dan Brown
+32. Angels and Demons by Dan Brown
+33. The Girl with the Dragon Tattoo by Stieg Larsson
+34. The Help by Kathryn Stockett
+35. The Secret Life of Bees by Sue Monk Kidd
+36. The Time Traveler's Wife by Audrey Niffenegger
+37. Water for Elephants by Sara Gruen
+38. The Lovely Bones by Alice Sebold
+39. The Bell Jar by Sylvia Plath
+40. Tess of the d'Urbervilles by Thomas Hardy
+41. For One More Day by Mitch Albom
+42. Running with Scissors by Augusten Burroughs
+43. The Reader by Bernhard Schlink
+44. Girl, Interrupted by Susanna Kaysen
+45. Wintergirls by Laurie Halse Anderson
+46. A Long Way Down by Nick Hornby
+47. American Psycho by Bret Easton Ellis
+48. The Picture of Dorian Gray by Oscar Wilde
+49. The Name of the Wind by Patrick Rothfuss
+50. The Wise Man's Fear by Patrick Rothfuss

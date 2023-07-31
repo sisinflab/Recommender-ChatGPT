@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Ender's Game by Orson Scott Card
+2. The Hunger Games by Suzanne Collins
+3. Divergent by Veronica Roth
+4. The Maze Runner by James Dashner
+5. The Giver by Lois Lowry
+6. Ready Player One by Ernest Cline
+7. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+8. The Lord of the Rings by J.R.R. Tolkien
+9. The Hobbit by J.R.R. Tolkien
+10. The Chronicles of Narnia by C.S. Lewis
+11. The Da Vinci Code by Dan Brown
+12. Angels and Demons by Dan Brown
+13. The Girl with the Dragon Tattoo by Stieg Larsson
+14. The Girl on the Train by Paula Hawkins
+15. The Help by Kathryn Stockett
+16. The Fault in Our Stars by John Green
+17. To Kill a Mockingbird by Harper Lee
+18. 1984 by George Orwell
+19. Animal Farm by George Orwell
+20. The Catcher in the Rye by J.D. Salinger
+21. The Great Gatsby by F. Scott Fitzgerald
+22. The Picture of Dorian Gray by Oscar Wilde
+23. The Time Machine by H.G. Wells
+24. War of the Worlds by H.G. Wells
+25. The War of the Worlds by H.G. Wells
+26. The Invisible Man by H.G. Wells
+27. The Island of Dr. Moreau by H.G. Wells
+28. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+29. Frankenstein by Mary Shelley
+30. Dracula by Bram Stoker
+31. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+32. The Hound of the Baskervilles by Arthur Conan Doyle
+33. The Count of Monte Cristo by Alexandre Dumas
+34. Les Miserables by Victor Hugo
+35. The Three Musketeers by Alexandre Dumas
+36. The Adventures of Tom Sawyer by Mark Twain
+37. The Adventures of Huckleberry Finn by Mark Twain
+38. Treasure Island by Robert Louis Stevenson
+39. The Swiss Family Robinson by Johann David Wyss
+40. Robinson Crusoe by Daniel Defoe
+41. The Call of the Wild by Jack London
+42. White Fang by Jack London
+43. The Jungle Book by Rudyard Kipling
+44. The Wind in the Willows by Kenneth Grahame
+45. Watership Down by Richard Adams
+46. The Once and Future King by T.H. White
+47. The Sword in the Stone by T.H. White
+48. The Lion, the Witch and the Wardrobe by C.S. Lewis
+49. The Magician's Nephew by C.S. Lewis
+50. Harry Potter

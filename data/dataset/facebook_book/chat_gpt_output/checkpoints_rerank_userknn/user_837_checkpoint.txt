@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. Harry Potter series by J.K. Rowling
+3. To Kill a Mockingbird by Harper Lee
+4. The Catcher in the Rye by J.D. Salinger
+5. Frankenstein by Mary Shelley
+6. Brave New World by Aldous Huxley
+7. Crime and Punishment by Fyodor Dostoevsky
+8. Paradise Lost by John Milton
+9. The Canterbury Tales by Geoffrey Chaucer
+10. The Picture of Dorian Gray by Oscar Wilde
+11. Les Misérables by Victor Hugo
+12. The Jungle Book by Rudyard Kipling
+13. The Hound of the Baskervilles by Arthur Conan Doyle
+14. Walden by Henry David Thoreau
+15. Invisible Man by Ralph Ellison
+16. The Dark Tower: The Gunslinger by Stephen King
+17. Slaughterhouse-Five by Kurt Vonnegut
+18. Murder on the Orient Express by Agatha Christie
+19. The Good Earth by Pearl S. Buck
+20. The Merchant of Venice by William Shakespeare
+21. Inferno by Dante Alighieri
+22. The Call of the Wild by Jack London
+23. Water for Elephants by Sara Gruen
+24. The Zombie Survival Guide by Max Brooks
+25. The Canterbury Tales by Geoffrey Chaucer
+26. The Seventh Tower by Garth Nix
+27. The Watchmen by Alan Moore
+28. Ramayana by Valmiki
+29. Quran by Muhammad
+30. The Big Over Easy by Jasper Fforde
+31. Nightmares & Dreamscapes by Stephen King
+32. Stranger than Fiction: True Stories by Chuck Palahniuk
+33. Seven Pillars of Wisdom by T.E. Lawrence
+34. Graphic novel by Alan Moore
+35. A Clockwork Orange by Anthony Burgess
+36. Tarzan of the Apes by Edgar Rice Burroughs
+37. Prose Edda by Snorri Sturluson
+38. 2001: A Space Odyssey by Arthur C. Clarke
+39. Tess of the d'Urbervilles by Thomas Hardy
+40. Dry by Augusten Burroughs
+41. Choke by Chuck Palahniuk
+42. 3001: The Final Odyssey by Arthur C. Clarke
+43. King James Version by Anonymous
+44. My Ishmael by Daniel Quinn
+45. Encyclopædia Britannica by Various
+46. Alice's Adventures in Wonderland by Lewis Carroll
+47. The Zombie Survival Guide by Max Brooks
+48. Book of Revelation by John of Patmos
+49. Twilight series by Stephenie Meyer
+50. Persepolis by Marjane Satrapi

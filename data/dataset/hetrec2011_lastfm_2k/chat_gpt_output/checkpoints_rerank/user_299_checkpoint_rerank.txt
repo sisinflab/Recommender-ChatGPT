@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Arctic Monkeys
+2. Bloc Party
+3. Colbie Caillat
+4. Kanye West
+5. Amy Winehouse
+6. Lykke Li
+7. Lily Allen
+8. Kylie Minogue
+9. Britney Spears
+10. KT Tunstall
+11. The Kooks
+12. The Strokes
+13. Coldplay
+14. Cássia Eller
+15. James Blunt
+16. Jack Johnson
+17. Kaiser Chiefs
+18. Madonna
+19. Lady Gaga
+20. Kate Nash
+21. Nando Reis
+22. The Ting Tings
+23. Vanessa da Mata
+24. Los Hermanos
+25. Black Kids
+26. Beyoncé
+27. Travis
+28. Keane
+29. Ben Harper
+30. The Fratellis
+31. Paramore
+32. Franz Ferdinand
+33. Radiohead
+34. Pink Floyd
+35. Muse
+36. Nirvana
+37. Led Zeppelin
+38. Metallica
+39. Michael Jackson
+40. Pearl Jam
+41. a-ha
+42. Björk
+43. System of a Down
+44. Daft Punk
+45. Nine Inch Nails
+46. Linkin Park
+47. Kelly Clarkson
+48. All Time Low
+49. P!nk
+50. My Chemical Romance

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Shining by Stephen King
+2. Salem's Lot by Stephen King
+3. The Stand by Stephen King
+4. Pet Sematary by Stephen King
+5. The Dark Tower series by Stephen King
+6. The Talisman by Stephen King and Peter Straub
+7. The Green Mile by Stephen King
+8. The Girl Who Loved Tom Gordon by Stephen King
+9. The Dead Zone by Stephen King
+10. Misery by Stephen King
+11. The Running Man by Stephen King
+12. Bag of Bones by Stephen King
+13. Needful Things by Stephen King
+14. Carrie by Stephen King
+15. Rose Madder by Stephen King
+16. Night Shift by Stephen King
+17. The Great Gatsby by F. Scott Fitzgerald
+18. To Kill a Mockingbird by Harper Lee
+19. Animal Farm by George Orwell
+20. Nineteen Eighty-Four by George Orwell
+21. The Lord of the Rings by J.R.R. Tolkien
+22. The Hobbit by J.R.R. Tolkien
+23. The Two Towers by J.R.R. Tolkien
+24. The Return of the King by J.R.R. Tolkien
+25. Harry Potter series by J.K. Rowling
+26. Neverwhere by Neil Gaiman
+27. The Sisterhood of the Traveling Pants by Ann Brashares
+28. My Sister's Keeper by Jodi Picoult
+29. The Five People You Meet in Heaven by Mitch Albom
+30. The Red Queen: Sex and the Evolution of Human Nature by Matt Ridley
+31. A Great and Terrible Beauty by Libba Bray
+32. Kushiel's Dart by Jacqueline Carey
+33. Rebel Angels by Libba Bray
+34. The Lake House by James Patterson
+35. Abhorsen by Garth Nix
+36. Emma by Jane Austen
+37. Lolita by Vladimir Nabokov
+38. The City by Dean Koontz
+39. Desperation by Stephen King
+40. The Regulators by Stephen King
+41. Guilty Pleasures by Laurell K. Hamilton
+42. Circus of the Damned by Laurell K. Hamilton
+43. Incubus Dreams by Laurell K. Hamilton
+44. Skin Trade by Laurell K. Hamilton
+45. Cerulean Sins by Laurell K. Hamilton
+46. The Long Walk by Stephen King
+47. Mockingjay by Suzanne Collins
+48. Paper Towns by John Green
+49. Roll of Thunder, Hear My Cry by Mildred D. Taylor
+50. The Watchmen by Alan Moore and Dave Gibbons

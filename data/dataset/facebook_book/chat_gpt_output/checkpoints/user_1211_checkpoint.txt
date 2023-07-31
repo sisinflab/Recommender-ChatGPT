@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Glass (Hopkins novel) by Ellen Hopkins
+2. The Hunger Games (series) by Suzanne Collins
+3. The Fault in Our Stars by John Green
+4. The Maze Runner (series) by James Dashner
+5. Divergent (series) by Veronica Roth
+6. The Giver by Lois Lowry
+7. The Book Thief by Markus Zusak
+8. The Perks of Being a Wallflower by Stephen Chbosky
+9. The Catcher in the Rye by J.D. Salinger
+10. The Great Gatsby by F. Scott Fitzgerald
+11. To Kill a Mockingbird by Harper Lee
+12. The Lord of the Rings (series) by J.R.R. Tolkien
+13. The Hobbit by J.R.R. Tolkien
+14. The Chronicles of Narnia (series) by C.S. Lewis
+15. The Harry Potter (series) by J.K. Rowling
+16. The Percy Jackson (series) by Rick Riordan
+17. The Heroes of Olympus (series) by Rick Riordan
+18. The Kane Chronicles (series) by Rick Riordan
+19. The Infernal Devices (series) by Cassandra Clare
+20. The Mortal Instruments (series) by Cassandra Clare
+21. The Twilight Saga (series) by Stephenie Meyer
+22. The Host by Stephenie Meyer
+23. The Alchemist by Paulo Coelho
+24. The Kite Runner by Khaled Hosseini
+25. A Thousand Splendid Suns by Khaled Hosseini
+26. The Girl with the Dragon Tattoo by Stieg Larsson
+27. The Girl Who Played with Fire by Stieg Larsson
+28. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+29. The Da Vinci Code by Dan Brown
+30. Angels and Demons by Dan Brown
+31. Inferno by Dan Brown
+32. The Help by Kathryn Stockett
+33. The Secret Life of Bees by Sue Monk Kidd
+34. The Color Purple by Alice Walker
+35. The Joy Luck Club by Amy Tan
+36. The House on Mango Street by Sandra Cisneros
+37. The Bell Jar by Sylvia Plath
+38. The Picture of Dorian Gray by Oscar Wilde
+39. The Time Traveler's Wife by Audrey Niffenegger
+40. The Lovely Bones by Alice Sebold
+41. The Outsiders by S.E. Hinton
+42. Of Mice and Men by John Steinbeck
+43. Animal Farm by George Orwell
+44. 1984 by George Orwell
+45. Brave New World by Aldous Huxley
+46. Fahrenheit 451 by Ray Bradbury
+47. One Hundred Years of Solitude by Gabriel Garcia Marquez
+48. Love in the Time of Cholera
+49. The Name of the Wind by Patrick Rothfuss
+50. The Wise Man's Fear by Patrick Rothfuss

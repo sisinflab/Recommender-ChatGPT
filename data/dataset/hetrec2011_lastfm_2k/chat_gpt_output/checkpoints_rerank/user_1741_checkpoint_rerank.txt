@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Muse
+2. Bring Me The Horizon
+3. Arctic Monkeys
+4. Michael Jackson
+5. Florence + the Machine
+6. Bloc Party
+7. The Strokes
+8. The Kooks
+9. Klaxons
+10. Frankmusik
+11. Calvin Harris
+12. Julian Casablancas
+13. Justice
+14. Kid Cudi
+15. Harry Gregson-Williams
+16. Cansei de Ser Sexy
+17. Maxïmo Park
+18. Alexandre Desplat
+19. MGMT
+20. Nicki Minaj
+21. Paolo Nutini
+22. Lil' Wayne
+23. As I Lay Dying
+24. Uffie
+25. 소녀시대
+26. Kaiser Chiefs
+27. Metro Station
+28. Atreyu
+29. Underoath
+30. Yann Tiersen
+31. Arch Enemy
+32. M.I.A.
+33. Radiohead
+34. Nirvana
+35. Led Zeppelin
+36. Metallica
+37. Pink Floyd
+38. The Beatles
+39. Coldplay
+40. Blur
+41. Placebo
+42. The Killers
+43. Duran Duran
+44. Amy Winehouse
+45. Lady Gaga
+46. Depeche Mode
+47. Madonna
+48. Rihanna
+49. Shakira
+50. Christina Aguilera

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Great Gatsby by F. Scott Fitzgerald
+2. Pride and Prejudice and Zombies by Seth Grahame-Smith
+3. Atonement by Ian McEwan
+4. The Catcher in the Rye by J.D. Salinger
+5. Memoirs of a Geisha by Arthur Golden
+6. The Lord of the Rings by J.R.R. Tolkien
+7. Wuthering Heights by Emily Bronte
+8. Nineteen Eighty-Four by George Orwell
+9. The Alchemist by Paulo Coelho
+10. The Bell Jar by Sylvia Plath
+11. Tess of the d'Urbervilles by Thomas Hardy
+12. The Lovely Bones by Alice Sebold
+13. For One More Day by Mitch Albom
+14. Running with Scissors by Augusten Burroughs
+15. The Reader by Bernhard Schlink
+16. Girl, Interrupted by Susanna Kaysen
+17. Wintergirls by Laurie Halse Anderson
+18. A Long Way Down by Nick Hornby
+19. American Psycho by Bret Easton Ellis
+20. Romeo and Juliet by William Shakespeare
+21. The Silence of the Lambs by Thomas Harris
+22. Vanity Fair by William Makepeace Thackeray
+23. Speak by Laurie Halse Anderson
+24. The Stranger by Albert Camus
+25. Brave New World by Aldous Huxley
+26. Love, Stargirl by Jerry Spinelli
+27. Angels & Demons by Dan Brown
+28. A Swiftly Tilting Planet by Madeleine L'Engle
+29. Black Like Me by John Howard Griffin
+30. Helter Skelter by Vincent Bugliosi
+31. Marley & Me by John Grogan
+32. The Time Machine by H.G. Wells
+33. The Perks of Being a Wallflower by Stephen Chbosky
+34. Sybil by Flora Rheta Schreiber
+35. Flowers in the Attic by V.C. Andrews
+36. Prozac Nation by Elizabeth Wurtzel
+37. My Antonia by Willa Cather
+38. The Waste Land by T.S. Eliot
+39. Anne of Green Gables by L.M. Montgomery
+40. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+41. A Clockwork Orange by Anthony Burgess
+42. Bastard Out of Carolina by Dorothy Allison
+43. Paper Towns by John Green
+44. Reading Lolita in Tehran by Azar Nafisi
+45. Last Words by George Carlin
+46. Manga by Various Authors
+47. The Hamlet by William Faulkner
+48. Touching Spirit Bear by Ben Mikaelsen
+49. Cathy's Book by Jordan Weisman
+50. Burned by Ellen Hopkins

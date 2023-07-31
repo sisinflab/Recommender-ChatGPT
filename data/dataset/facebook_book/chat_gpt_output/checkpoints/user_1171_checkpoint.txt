@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. Harry Potter series by J.K. Rowling
+3. The Hunger Games by Suzanne Collins
+4. Eragon by Christopher Paolini
+5. The Chronicles of Narnia by C.S. Lewis
+6. Percy Jackson and the Olympians by Rick Riordan
+7. The Maze Runner by James Dashner
+8. Divergent by Veronica Roth
+9. The Giver by Lois Lowry
+10. The Hobbit by J.R.R. Tolkien
+11. The Mortal Instruments by Cassandra Clare
+12. The Fault in Our Stars by John Green
+13. The Infernal Devices by Cassandra Clare
+14. The Selection by Kiera Cass
+15. The Lunar Chronicles by Marissa Meyer
+16. The 5th Wave by Rick Yancey
+17. The Darkest Minds by Alexandra Bracken
+18. The Knife of Never Letting Go by Patrick Ness
+19. The Name of the Wind by Patrick Rothfuss
+20. The Lies of Locke Lamora by Scott Lynch
+21. The Way of Kings by Brandon Sanderson
+22. Mistborn by Brandon Sanderson
+23. The Kingkiller Chronicle by Patrick Rothfuss
+24. The Stormlight Archive by Brandon Sanderson
+25. The First Law Trilogy by Joe Abercrombie
+26. The Black Prism by Brent Weeks
+27. The Lightbringer Series by Brent Weeks
+28. The Powder Mage Trilogy by Brian McClellan
+29. The Broken Empire Trilogy by Mark Lawrence
+30. The Red Queen's War Trilogy by Mark Lawrence
+31. The Riyria Revelations by Michael J. Sullivan
+32. The Night Angel Trilogy by Brent Weeks
+33. The Demon Cycle by Peter V. Brett
+34. The Wheel of Time by Robert Jordan
+35. The Malazan Book of the Fallen by Steven Erikson
+36. The Dresden Files by Jim Butcher
+37. The Codex Alera by Jim Butcher
+38. The Iron Druid Chronicles by Kevin Hearne
+39. The Belgariad by David Eddings
+40. The Elenium by David Eddings
+41. The Tamuli by David Eddings
+42. The Dark Tower by Stephen King
+43. The Stand by Stephen King
+44. The Shining by Stephen King
+45. The Gunslinger by Stephen King
+46. The Talisman by Stephen King and Peter Straub
+47. The Outsider by Stephen King
+48. The Girl Who Loved Tom Gordon by Stephen King
+49. The Green Mile by Stephen King
+50. The Dead Zone by Stephen King

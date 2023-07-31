@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. Animal Farm by George Orwell
+4. Lord of the Flies by William Golding
+5. Brave New World by Aldous Huxley
+6. The Lord of the Rings by J.R.R. Tolkien
+7. The Hobbit by J.R.R. Tolkien
+8. The Chronicles of Narnia by C.S. Lewis
+9. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+10. The Da Vinci Code by Dan Brown
+11. Angels and Demons by Dan Brown
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Girl Who Played with Fire by Stieg Larsson
+14. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+15. The Hunger Games Trilogy by Suzanne Collins
+16. Catching Fire by Suzanne Collins
+17. Mockingjay by Suzanne Collins
+18. Dune by Frank Herbert
+19. Ender's Game by Orson Scott Card
+20. The Foundation Trilogy by Isaac Asimov
+21. The Stand by Stephen King
+22. The Shining by Stephen King
+23. It by Stephen King
+24. The Dark Tower Series by Stephen King
+25. The Name of the Wind by Patrick Rothfuss
+26. The Wise Man's Fear by Patrick Rothfuss
+27. The Kingkiller Chronicle Series by Patrick Rothfuss
+28. The Wheel of Time Series by Robert Jordan
+29. A Song of Ice and Fire Series by George R.R. Martin
+30. The Harry Potter Series by J.K. Rowling
+31. The Magicians Trilogy by Lev Grossman
+32. American Gods by Neil Gaiman
+33. The Sandman Series by Neil Gaiman
+34. The Dresden Files Series by Jim Butcher
+35. The Belgariad Series by David Eddings
+36. The Malazan Book of the Fallen Series by Steven Erikson
+37. The Mistborn Trilogy by Brandon Sanderson
+38. The Stormlight Archive Series by Brandon Sanderson
+39. The First Law Trilogy by Joe Abercrombie
+40. The Lies of Locke Lamora by Scott Lynch
+41. The Name of the Rose by Umberto Eco
+42. The Pillars of the Earth by Ken Follett
+43. The Count of Monte Cristo by Alexandre Dumas
+44. Les Misérables by Victor Hugo
+45. Crime and Punishment by Fyodor Dostoevsky
+46. The Brothers Karamazov by Fyodor Dostoevsky
+47. War and Peace by Leo Tolstoy
+48. Anna Karenina by Leo Tolstoy
+49. One Hundred Years of Solitude by Gabriel Garcia Marquez
+50. American Gods by Neil Gaiman

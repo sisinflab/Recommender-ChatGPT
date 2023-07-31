@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Brave New World by Aldous Huxley
+2. Animal Farm by George Orwell
+3. Slaughterhouse-Five by Kurt Vonnegut
+4. The Road by Cormac McCarthy
+5. The Stranger by Albert Camus
+6. The Handmaid's Tale by Margaret Atwood
+7. 1984 by George Orwell
+8. The Martian Chronicles by Ray Bradbury
+9. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+10. The Giver by Lois Lowry
+11. The Catcher in the Rye by J.D. Salinger
+12. The Bell Jar by Sylvia Plath
+13. The Picture of Dorian Gray by Oscar Wilde
+14. The Great Gatsby by F. Scott Fitzgerald
+15. To Kill a Mockingbird by Harper Lee
+16. One Hundred Years of Solitude by Gabriel Garcia Marquez
+17. The Brothers Karamazov by Fyodor Dostoevsky
+18. Crime and Punishment by Fyodor Dostoevsky
+19. The Count of Monte Cristo by Alexandre Dumas
+20. The Name of the Wind by Patrick Rothfuss
+21. The Lord of the Rings by J.R.R. Tolkien
+22. The Hobbit by J.R.R. Tolkien
+23. The Chronicles of Narnia by C.S. Lewis
+24. The Hunger Games by Suzanne Collins
+25. Dune by Frank Herbert
+26. Ender's Game by Orson Scott Card
+27. The Foundation Trilogy by Isaac Asimov
+28. The Stand by Stephen King
+29. The Shining by Stephen King
+30. The Dark Tower series by Stephen King
+31. The Girl with the Dragon Tattoo by Stieg Larsson
+32. The Da Vinci Code by Dan Brown
+33. The Hitchhiker's Guide to the Galaxy series by Douglas Adams
+34. The Wheel of Time series by Robert Jordan
+35. The Dresden Files series by Jim Butcher
+36. The Name of the Rose by Umberto Eco
+37. The Shadow of the Wind by Carlos Ruiz Zafón
+38. The Pillars of the Earth by Ken Follett
+39. The Kite Runner by Khaled Hosseini
+40. The Book Thief by Markus Zusak
+41. The Fault in Our Stars by John Green
+42. The Perks of Being a Wallflower by Stephen Chbosky
+43. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+44. The Lovely Bones by Alice Sebold
+45. The Help by Kathryn Stockett
+46. The Secret Life of Bees by Sue Monk Kidd
+47. The Poisonwood Bible by Barbara Kingsolver
+48. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+49. The

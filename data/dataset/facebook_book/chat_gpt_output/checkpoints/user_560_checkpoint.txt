@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Holes by Louis Sachar
+2. The Giver by Lois Lowry
+3. Hatchet by Gary Paulsen
+4. The Hunger Games by Suzanne Collins
+5. The Maze Runner by James Dashner
+6. The Lightning Thief by Rick Riordan
+7. The Chronicles of Narnia by C.S. Lewis
+8. The Hobbit by J.R.R. Tolkien
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Fault in Our Stars by John Green
+11. To Kill a Mockingbird by Harper Lee
+12. The Catcher in the Rye by J.D. Salinger
+13. The Great Gatsby by F. Scott Fitzgerald
+14. 1984 by George Orwell
+15. Animal Farm by George Orwell
+16. Brave New World by Aldous Huxley
+17. Lord of the Flies by William Golding
+18. Fahrenheit 451 by Ray Bradbury
+19. The Outsiders by S.E. Hinton
+20. The Perks of Being a Wallflower by Stephen Chbosky
+21. The Book Thief by Markus Zusak
+22. The Secret Life of Bees by Sue Monk Kidd
+23. The Help by Kathryn Stockett
+24. The Color Purple by Alice Walker
+25. Their Eyes Were Watching God by Zora Neale Hurston
+26. Beloved by Toni Morrison
+27. The Joy Luck Club by Amy Tan
+28. The Kite Runner by Khaled Hosseini
+29. A Thousand Splendid Suns by Khaled Hosseini
+30. The Alchemist by Paulo Coelho
+31. Siddhartha by Hermann Hesse
+32. The Picture of Dorian Gray by Oscar Wilde
+33. Dracula by Bram Stoker
+34. Frankenstein by Mary Shelley
+35. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+36. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+37. The Count of Monte Cristo by Alexandre Dumas
+38. Les Misérables by Victor Hugo
+39. Pride and Prejudice by Jane Austen
+40. Sense and Sensibility by Jane Austen
+41. Emma by Jane Austen
+42. Persuasion by Jane Austen
+43. Wuthering Heights by Emily Bronte
+44. Jane Eyre by Charlotte Bronte
+45. Great Expectations by Charles Dickens
+46. Oliver Twist by Charles Dickens
+47. David Copperfield by Charles Dickens
+48. A Tale of Two Cities by Charles Dickens
+49. The Adventures of Tom Sawyer by Mark Twain
+50. Adventures of Huckleberry Finn by Mark Twain

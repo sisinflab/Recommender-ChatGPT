@@ -1,0 +1,46 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Book Thief by Markus Zusak
+2. The Catcher in the Rye by J.D. Salinger
+3. To Kill a Mockingbird by Harper Lee
+4. 1984 by George Orwell
+5. The Great Gatsby by F. Scott Fitzgerald
+6. The Hunger Games by Suzanne Collins
+7. The Fault in Our Stars by John Green
+8. The Girl with the Dragon Tattoo by Stieg Larsson
+9. The Da Vinci Code by Dan Brown
+10. The Help by Kathryn Stockett
+11. The Alchemist by Paulo Coelho
+12. The Picture of Dorian Gray by Oscar Wilde
+13. The Hobbit by J.R.R. Tolkien
+14. The Chronicles of Narnia by C.S. Lewis
+15. The Road by Cormac McCarthy
+16. The Color Purple by Alice Walker
+17. The Handmaid's Tale by Margaret Atwood
+18. The Bell Jar by Sylvia Plath
+19. The Secret Life of Bees by Sue Monk Kidd
+20. The Time Traveler's Wife by Audrey Niffenegger
+21. The Lovely Bones by Alice Sebold (since the user liked it)
+22. Life of Pi by Yann Martel (since the user liked it)
+23. The Kite Runner by Khaled Hosseini (since the user liked it)
+24. Harry Potter series by J.K. Rowling (since the user liked it)
+25. House of Sand and Fog by Andre Dubus III (since the user liked it)
+26. Vanity Fair by William Makepeace Thackeray (since the user liked it)
+27. A Thousand Splendid Suns by Khaled Hosseini (since the user liked it)
+28. Bible (since the user liked it)
+29. Timeline by Michael Crichton (since the user liked it)
+30. The Lord of the Rings by J.R.R. Tolkien (since the user liked it)
+31. I Am Legend by Richard Matheson (since the user liked it)
+32. A Fine Balance by Rohinton Mistry (since the user liked it)
+33. Eaters of the Dead by Michael Crichton (since the user liked it)
+34. The Name of the Wind by Patrick Rothfuss
+35. The Shadow of the Wind by Carlos Ruiz Zafón
+36. The Nightingale by Kristin Hannah
+37. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+38. The Martian by Andy Weir
+39. The Help by Kathryn Stockett (since the user liked it)
+40. The Joy Luck Club by Amy Tan
+41. The God of Small Things by Arundhati Roy
+42. The Poisonwood Bible by Barbara Kingsolver
+43. The Glass Castle by Jeannette Walls
+44. The Picture of D

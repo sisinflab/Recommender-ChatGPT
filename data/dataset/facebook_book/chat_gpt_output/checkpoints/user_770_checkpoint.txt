@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. Slaughterhouse-Five by Kurt Vonnegut
+4. The Catcher in the Rye by J.D. Salinger
+5. One Flew Over the Cuckoo's Nest by Ken Kesey
+6. The Bell Jar by Sylvia Plath
+7. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+8. The Great Gatsby by F. Scott Fitzgerald
+9. To Kill a Mockingbird by Harper Lee
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Hobbit by J.R.R. Tolkien
+12. The Hunger Games by Suzanne Collins
+13. Catching Fire by Suzanne Collins
+14. Mockingjay by Suzanne Collins
+15. The Maze Runner by James Dashner
+16. The Scorch Trials by James Dashner
+17. The Death Cure by James Dashner
+18. The Giver by Lois Lowry
+19. Gathering Blue by Lois Lowry
+20. Messenger by Lois Lowry
+21. Son by Lois Lowry
+22. The Road by Cormac McCarthy
+23. The Stand by Stephen King
+24. It by Stephen King
+25. The Shining by Stephen King
+26. Carrie by Stephen King
+27. The Dark Tower series by Stephen King
+28. The Girl with the Dragon Tattoo by Stieg Larsson
+29. The Girl Who Played with Fire by Stieg Larsson
+30. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+31. The Da Vinci Code by Dan Brown
+32. Angels and Demons by Dan Brown
+33. Inferno by Dan Brown
+34. The Name of the Wind by Patrick Rothfuss
+35. The Wise Man's Fear by Patrick Rothfuss
+36. The Lies of Locke Lamora by Scott Lynch
+37. The Blade Itself by Joe Abercrombie
+38. The Way of Kings by Brandon Sanderson
+39. Mistborn by Brandon Sanderson
+40. The Final Empire by Brandon Sanderson
+41. The Well of Ascension by Brandon Sanderson
+42. The Hero of Ages by Brandon Sanderson
+43. The Lies of Locke Lamora by Scott Lynch
+44. The Republic of Thieves by Scott Lynch
+45. The Kingkiller Chronicle by Patrick Rothfuss
+46. The First Law Trilogy by Joe Abercrombie
+47. The Stormlight Archive by Brandon Sanderson
+48. The Lies of Locke Lamora by Scott Lynch
+49. The Republic of Thieves by Scott Lynch
+50. The Kingkiller Chronicle by Patrick Rothfuss

@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. American Gods by Neil Gaiman
+2. The Catcher in the Rye by J.D. Salinger
+3. The Road by Cormac McCarthy
+4. The Picture of Dorian Gray by Oscar Wilde
+5. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+6. The Girl with the Dragon Tattoo by Stieg Larsson
+7. The Hunger Games by Suzanne Collins
+8. The Book Thief by Markus Zusak
+9. The Shining by Stephen King
+10. The Handmaid's Tale by Margaret Atwood
+11. The Martian by Andy Weir
+12. The Da Vinci Code by Dan Brown
+13. The Hobbit by J.R.R. Tolkien
+14. The Stand by Stephen King
+15. The Silence of the Lambs by Thomas Harris
+16. The Name of the Wind by Patrick Rothfuss
+17. The Giver by Lois Lowry
+18. The Time Traveler's Wife by Audrey Niffenegger
+19. The Alchemist by Paulo Coelho
+20. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+21. The Count of Monte Cristo by Alexandre Dumas
+22. The Picture of Dorian Gray by Oscar Wilde
+23. The Brothers Karamazov by Fyodor Dostoevsky
+24. The Stranger by Albert Camus
+25. The Road to Serfdom by Friedrich Hayek
+26. The Sun Also Rises by Ernest Hemingway
+27. The Wind-Up Bird Chronicle by Haruki Murakami
+28. The Three-Body Problem by Liu Cixin
+29. The God of Small Things by Arundhati Roy
+30. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+31. The Adventures of Huckleberry Finn by Mark Twain
+32. The Color Purple by Alice Walker
+33. The Joy Luck Club by Amy Tan
+34. The Poisonwood Bible by Barbara Kingsolver
+35. The Kite Runner by Khaled Hosseini
+36. The Brief Wondrous Life of Oscar Wao by Junot Diaz
+37. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+38. The Secret History by Donna Tartt
+39. The Nightingale by Kristin Hannah
+40. The Goldfinch by Donna Tartt
+41. The Immortalists by Chloe Benjamin
+42. The Overstory by Richard Powers
+43. The Water Dancer by Ta-Nehisi Coates
+44. The Testaments by Margaret Atwood
+45. The Dutch House by Ann Patchett
+46. The Nickel Boys by Colson Whitehead
+47. The Topeka School by Ben Lerner
+48. The Mirror and the Light by Hilary Mantel
+49. The Glass Hotel by Emily St. John Mand

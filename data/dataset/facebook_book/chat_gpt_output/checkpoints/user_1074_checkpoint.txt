@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Crime and Punishment by Fyodor Dostoevsky
+2. 1984 by George Orwell
+3. Brave New World by Aldous Huxley
+4. The Catcher in the Rye by J.D. Salinger
+5. To Kill a Mockingbird by Harper Lee
+6. The Great Gatsby by F. Scott Fitzgerald
+7. The Brothers Karamazov by Fyodor Dostoevsky
+8. The Stranger by Albert Camus
+9. Slaughterhouse-Five by Kurt Vonnegut
+10. The Road by Cormac McCarthy
+11. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+12. The Picture of Dorian Gray by Oscar Wilde
+13. The Bell Jar by Sylvia Plath
+14. The Handmaid's Tale by Margaret Atwood
+15. The Lord of the Rings by J.R.R. Tolkien
+16. The Hobbit by J.R.R. Tolkien
+17. The Chronicles of Narnia by C.S. Lewis
+18. The Name of the Wind by Patrick Rothfuss
+19. The Wise Man's Fear by Patrick Rothfuss
+20. The Dark Tower series by Stephen King
+21. The Stand by Stephen King
+22. The Shining by Stephen King
+23. The Girl with the Dragon Tattoo by Stieg Larsson
+24. The Hunger Games by Suzanne Collins
+25. Catch-22 by Joseph Heller
+26. One Flew Over the Cuckoo's Nest by Ken Kesey
+27. The Road to Serfdom by Friedrich Hayek
+28. The Wealth of Nations by Adam Smith
+29. The Communist Manifesto by Karl Marx and Friedrich Engels
+30. The Art of War by Sun Tzu
+31. The Prince by Niccolo Machiavelli
+32. The Republic by Plato
+33. The Iliad by Homer
+34. The Odyssey by Homer
+35. The Divine Comedy by Dante Alighieri
+36. Don Quixote by Miguel de Cervantes
+37. War and Peace by Leo Tolstoy
+38. Anna Karenina by Leo Tolstoy
+39. Les Miserables by Victor Hugo
+40. The Count of Monte Cristo by Alexandre Dumas
+41. The Three Musketeers by Alexandre Dumas
+42. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+43. The Hound of the Baskervilles by Arthur Conan Doyle
+44. The Picture of Dorian Gray by Oscar Wilde
+45. Heart of Darkness by Joseph Conrad
+46. Lord Jim by Joseph Conrad
+47. Moby-Dick by Herman Melville
+48. Walden by Henry David Thoreau
+49. The Complete Works of William Shakespeare
+50. The Canterbury Tales by Geoffrey Chaucer

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+2. 1984 by George Orwell
+3. Brave New World by Aldous Huxley
+4. The Catcher in the Rye by J.D. Salinger
+5. To Kill a Mockingbird by Harper Lee
+6. One Hundred Years of Solitude by Gabriel Garcia Marquez
+7. The Great Gatsby by F. Scott Fitzgerald
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Bell Jar by Sylvia Plath
+10. The Stranger by Albert Camus
+11. Crime and Punishment by Fyodor Dostoevsky
+12. The Brothers Karamazov by Fyodor Dostoevsky
+13. The Trial by Franz Kafka
+14. The Metamorphosis by Franz Kafka
+15. The Road by Cormac McCarthy
+16. The Name of the Wind by Patrick Rothfuss
+17. The Lord of the Rings by J.R.R. Tolkien
+18. The Hobbit by J.R.R. Tolkien
+19. The Chronicles of Narnia by C.S. Lewis
+20. The Dark Tower series by Stephen King
+21. The Stand by Stephen King
+22. The Shining by Stephen King
+23. The Girl with the Dragon Tattoo by Stieg Larsson
+24. The Da Vinci Code by Dan Brown
+25. Angels and Demons by Dan Brown
+26. The Hunger Games by Suzanne Collins
+27. Catching Fire by Suzanne Collins
+28. Mockingjay by Suzanne Collins
+29. Dune by Frank Herbert
+30. Ender's Game by Orson Scott Card
+31. The Hitchhiker's Guide to the Galaxy series by Douglas Adams
+32. The Foundation series by Isaac Asimov
+33. The Martian by Andy Weir
+34. Ready Player One by Ernest Cline
+35. The Handmaid's Tale by Margaret Atwood
+36. Oryx and Crake by Margaret Atwood
+37. The Selfish Gene by Richard Dawkins
+38. The God Delusion by Richard Dawkins
+39. The Blind Watchmaker by Richard Dawkins
+40. The Origin of Species by Charles Darwin
+41. The Descent of Man by Charles Darwin
+42. The Elegant Universe by Brian Greene
+43. A Brief History of Time by Stephen Hawking
+44. The Universe in a Nutshell by Stephen Hawking
+45. The Feynman Lectures on Physics by Richard Feynman
+46. Surely You're Joking, Mr. Feynman! by Richard Feynman
+47. The Demon-Haunted World by Carl Sagan
+48. Pale Blue Dot by Carl Sagan
+49. Cosmos by Carl Sagan
+50. The Elegant Universe by Brian Greene

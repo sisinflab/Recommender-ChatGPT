@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Picture of Dorian Gray by Oscar Wilde
+2. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+3. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+4. The Hound of the Baskervilles by Arthur Conan Doyle
+5. The Count of Monte Cristo by Alexandre Dumas
+6. The Three Musketeers by Alexandre Dumas
+7. The War of the Worlds by H.G. Wells
+8. The Time Machine by H.G. Wells
+9. 1984 by George Orwell
+10. Animal Farm by George Orwell
+11. Brave New World by Aldous Huxley
+12. Fahrenheit 451 by Ray Bradbury
+13. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+14. The Lord of the Rings by J.R.R. Tolkien
+15. The Hobbit by J.R.R. Tolkien
+16. The Chronicles of Narnia by C.S. Lewis
+17. The Catcher in the Rye by J.D. Salinger
+18. To Kill a Mockingbird by Harper Lee
+19. The Great Gatsby by F. Scott Fitzgerald
+20. One Hundred Years of Solitude by Gabriel Garcia Marquez
+21. Love in the Time of Cholera by Gabriel Garcia Marquez
+22. Crime and Punishment by Fyodor Dostoevsky
+23. War and Peace by Leo Tolstoy
+24. Anna Karenina by Leo Tolstoy
+25. The Brothers Karamazov by Fyodor Dostoevsky
+26. The Idiot by Fyodor Dostoevsky
+27. Don Quixote by Miguel de Cervantes
+28. The Canterbury Tales by Geoffrey Chaucer
+29. The Divine Comedy by Dante Alighieri
+30. Paradise Lost by John Milton
+31. The Odyssey by Homer
+32. The Iliad by Homer
+33. Beowulf by Unknown
+34. The Epic of Gilgamesh by Unknown
+35. The Book of Job by Unknown
+36. The Book of Psalms by Unknown
+37. The Book of Ecclesiastes by Unknown
+38. The Book of Proverbs by Unknown
+39. The Book of Daniel by Unknown
+40. The Book of Esther by Unknown
+41. The Book of Ruth by Unknown
+42. The Book of Jonah by Unknown
+43. The Book of Nehemiah by Unknown
+44. The Book of Ezra by Unknown
+45. The Book of Haggai by Unknown
+46. The Book of Zechariah by Unknown
+47. The Book of Malachi by Unknown
+48. The Book of Habakkuk by Unknown
+49. The Book of Obadiah by Unknown
+50. The Book of Zephaniah by Unknown

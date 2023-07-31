@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter series by J.K. Rowling
+2. The Picture of Dorian Gray by Oscar Wilde
+3. Frankenstein by Mary Shelley
+4. Dracula by Bram Stoker
+5. Alice's Adventures in Wonderland by Lewis Carroll
+6. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+7. Great Expectations by Charles Dickens
+8. War and Peace by Leo Tolstoy
+9. Moby-Dick by Herman Melville
+10. Romeo and Juliet by William Shakespeare
+11. The Alchemist by Paulo Coelho
+12. Animal Farm by George Orwell
+13. Freakonomics by Steven D. Levitt and Stephen J. Dubner
+14. The Host by Stephenie Meyer
+15. Love Story by Erich Segal
+16. The Cat in the Hat by Dr. Seuss
+17. The Silmarillion by J.R.R. Tolkien
+18. Twenty Thousand Leagues Under the Sea by Jules Verne
+19. The Hardy Boys series by Franklin W. Dixon
+20. Goosebumps series by R.L. Stine
+21. Inheritance Cycle by Christopher Paolini
+22. Island by Aldous Huxley
+23. Percy Jackson & the Olympians series by Rick Riordan
+24. Ramayana by Valmiki
+25. Sun Bin's Art of War by Sun Bin
+26. Twilight series by Stephenie Meyer
+27. A Walk to Remember by Nicholas Sparks
+28. Adventures of Huckleberry Finn by Mark Twain
+29. The Unbearable Lightness of Being by Milan Kundera
+30. The Coldest Winter Ever by Sister Souljah
+31. Charlie and the Chocolate Factory by Roald Dahl
+32. Jinx by Meg Cabot
+33. The Naughtiest Girl Again by Enid Blyton
+34. The Prisoner of Zenda by Anthony Hope
+35. I Am Legend by Richard Matheson
+36. A Thousand Splendid Suns by Khaled Hosseini
+37. Jane Eyre by Charlotte Bronte
+38. Cecilia by Fanny Burney
+39. The Hamlet by William Faulkner
+40. The French Lieutenant's Woman by John Fowles
+41. Miss Christina by Mircea Eliade
+42. The Name of the Rose by Umberto Eco
+43. Sense and Sensibility by Jane Austen
+44. Wuthering Heights by Emily Bronte
+45. Les Miserables by Victor Hugo
+46. Tess of the d'Urbervilles by Thomas Hardy
+47. Crime and Punishment by Fyodor Dostoyevsky
+48. Agnes Grey by Anne Bronte
+49. King Solomon's Mines by H. Rider Haggard
+50. The Holy Blood and the Holy Grail by Michael

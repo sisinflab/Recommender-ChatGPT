@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Avenged Sevenfold
+2. Bring Me The Horizon
+3. Bullet for My Valentine
+4. Lamb of God
+5. Slipknot
+6. Suicide Silence
+7. A Day to Remember
+8. Escape The Fate
+9. From First to Last
+10. blessthefall
+11. Eyes Set to Kill
+12. Senses Fail
+13. 36 Crazyfists
+14. Funeral for a Friend
+15. Silverstein
+16. The Used
+17. Good Charlotte
+18. NOFX
+19. Pennywise
+20. Comeback Kid
+21. Soulfly
+22. Dead Fish
+23. Finch
+24. Gloria
+25. Alesana
+26. Cradle of Filth
+27. Muse
+28. 30 Seconds to Mars
+29. Nirvana
+30. Iron Maiden
+31. Metallica
+32. Led Zeppelin
+33. Pearl Jam
+34. System of a Down
+35. Linkin Park
+36. Nine Inch Nails
+37. Arctic Monkeys
+38. Placebo
+39. The Killers
+40. Radiohead
+41. Duran Duran
+42. Depeche Mode
+43. Pink Floyd
+44. Blur
+45. Michael Jackson
+46. Madonna
+47. Lady Gaga
+48. Christina Aguilera
+49. Rihanna
+50. Katy Perry

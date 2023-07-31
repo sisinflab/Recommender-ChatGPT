@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Eminem
+2. Linkin Park
+3. Coldplay
+4. Green Day
+5. Katy Perry
+6. Chris Brown
+7. Rihanna
+8. Lady Gaga
+9. Shakira
+10. Justin Timberlake
+11. Mariah Carey
+12. Beyoncé
+13. Usher
+14. Pink
+15. Florence + the Machine
+16. Alanis Morissette
+17. Madonna
+18. Miley Cyrus
+19. Avril Lavigne
+20. Three Days Grace
+21. Within Temptation
+22. Amy Winehouse
+23. Jessie James
+24. Delta Goodrem
+25. BoA
+26. Ashley Tisdale
+27. Shania Twain
+28. Sia
+29. No Doubt
+30. Paramore
+31. Enrique Iglesias
+32. Carrie Underwood
+33. Kelly Clarkson
+34. Joss Stone
+35. A Fine Frenzy
+36. Jennifer Lopez
+37. Katharine McPhee
+38. The Pussycat Dolls
+39. Kylie Minogue
+40. Anastacia
+41. Brandy
+42. Taylor Swift
+43. Ricky Martin
+44. Pitty
+45. The Veronicas
+46. Breaking Benjamin
+47. Lifehouse
+48. Daughtry
+49. Britney Spears
+50. Marilyn Manson

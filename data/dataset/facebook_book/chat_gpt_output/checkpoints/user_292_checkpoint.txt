@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. 1984 by George Orwell
+3. The Great Gatsby by F. Scott Fitzgerald
+4. Pride and Prejudice by Jane Austen
+5. The Hobbit by J.R.R. Tolkien
+6. The Hunger Games by Suzanne Collins
+7. The Girl with the Dragon Tattoo by Stieg Larsson
+8. The Da Vinci Code by Dan Brown
+9. The Kite Runner by Khaled Hosseini
+10. The Fault in Our Stars by John Green
+11. The Picture of Dorian Gray by Oscar Wilde
+12. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+13. The Time Traveler's Wife by Audrey Niffenegger
+14. The Road by Cormac McCarthy
+15. The Book Thief by Markus Zusak
+16. The Alchemist by Paulo Coelho
+17. The Secret History by Donna Tartt
+18. The Bell Jar by Sylvia Plath
+19. The Handmaid's Tale by Margaret Atwood
+20. The Sun Also Rises by Ernest Hemingway
+21. The Old Man and the Sea by Ernest Hemingway
+22. The Stranger by Albert Camus
+23. The Brothers Karamazov by Fyodor Dostoevsky
+24. Crime and Punishment by Fyodor Dostoevsky
+25. One Hundred Years of Solitude by Gabriel Garcia Marquez
+26. Love in the Time of Cholera by Gabriel Garcia Marquez
+27. The Name of the Rose by Umberto Eco
+28. The Shadow of the Wind by Carlos Ruiz Zafon
+29. The God of Small Things by Arundhati Roy
+30. The Poisonwood Bible by Barbara Kingsolver
+31. The Color Purple by Alice Walker
+32. The Joy Luck Club by Amy Tan
+33. The Brief Wondrous Life of Oscar Wao by Junot Diaz
+34. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+35. The Corrections by Jonathan Franzen
+36. The Road to Character by David Brooks
+37. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+38. The Glass Castle by Jeannette Walls
+39. The Devil in the White City by Erik Larson
+40. The Boys in the Boat by Daniel James Brown
+41. The Wright Brothers by David McCullough
+42. The Innovators by Walter Isaacson
+43. The Power of Now by Eckhart Tolle
+44. The 7 Habits of Highly Effective People by Stephen Covey
+45. The Lean Startup by Eric Ries
+46. The Art of War by Sun Tzu
+47. The Prince by Niccolo Machiavelli
+48. The Wealth of Nations by Adam Smith

@@ -1,0 +1,54 @@
+Based on the user's preferences, the top 50 recommendations for user 237 would be:
+
+1. Radiohead
+2. The Strokes
+3. Arctic Monkeys
+4. The Smiths
+5. The Stone Roses
+6. Joy Division
+7. Elliott Smith
+8. Pixies
+9. Sufjan Stevens
+10. Grizzly Bear
+11. Cat Stevens
+12. Nick Drake
+13. Morrissey
+14. David Bowie
+15. Interpol
+16. Modest Mouse
+17. Bright Eyes
+18. The Last Shadow Puppets
+19. The Libertines
+20. Babyshambles
+21. Travis
+22. Phoenix
+23. Suede
+24. Pearl Jam
+25. Muse
+26. Billy Talent
+27. Yes
+28. The Verve
+29. The Smashing Pumpkins
+30. Animal Collective
+31. The Police
+32. U2
+33. The Beatles
+34. Duran Duran
+35. Coldplay
+36. Blur
+37. Placebo
+38. The Killers
+39. Nirvana
+40. Iron Maiden
+41. Led Zeppelin
+42. Metallica
+43. Michael Jackson
+44. a-ha
+45. Björk
+46. System of a Down
+47. Daft Punk
+48. Nine Inch Nails
+49. Linkin Park
+50. Kelly Clarkson
+
+Note: The artists that were not mentioned in the user's preferences were not included in the recommendations.

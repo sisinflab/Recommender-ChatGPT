@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for user 357 are:
+
+1. Radiohead
+2. The Killers
+3. David Bowie
+4. Depeche Mode
+5. The Smiths
+6. Joy Division
+7. The xx
+8. Editors
+9. MGMT
+10. Thom Yorke
+11. The National
+12. Arcade Fire
+13. Sigur Rós
+14. PJ Harvey
+15. Nick Cave and the Bad Seeds
+16. Morrissey
+17. Nirvana
+18. The Cure
+19. Sonic Youth
+20. My Bloody Valentine
+21. Portishead
+22. Beck
+23. Blondie
+24. Garbage
+25. The Velvet Underground
+26. Placebo
+27. She Wants Revenge
+28. The Mars Volta
+29. Queens of the Stone Age
+30. Tom Waits
+31. Pink Floyd
+32. The Doors
+33. Jeff Buckley
+34. Cat Power
+35. Air
+36. Alice in Chains
+37. Sublime
+38. The Clash
+39. Queen
+40. And One
+41. Echo & The Bunnymen
+42. Pet Shop Boys
+43. Suede
+44. Clan of Xymox
+45. These New Puritans
+46. Dave Gahan
+47. Electric Light Orchestra
+48. Manic Street Preachers
+49. Siouxsie and the Banshees
+50. Kings of Leon

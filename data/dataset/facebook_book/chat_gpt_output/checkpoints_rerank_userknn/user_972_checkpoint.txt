@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+2. To Kill a Mockingbird
+3. The Hobbit
+4. The Lord of the Rings
+5. Memoirs of a Geisha
+6. The Kite Runner
+7. A Tale of Two Cities
+8. The Age of Innocence
+9. The Jungle Book
+10. The Namesake
+11. The God of Small Things
+12. A Thousand Splendid Suns
+13. Wuthering Heights
+14. The Stranger (novel)
+15. The Lovely Bones
+16. Beloved (novel)
+17. Life of Pi
+18. The Heart Is a Lonely Hunter
+19. The Boy in the Striped Pyjamas
+20. The Outsiders (novel)
+21. The Mysterious Island
+22. Walden
+23. The Antichrist (book)
+24. The Prophet (book)
+25. The Myth of Sisyphus
+26. Tuesdays with Morrie
+27. The Hours (novel)
+28. The No. 1 Ladies' Detective Agency (novel)
+29. Sense and Sensibility
+30. White Oleander
+31. Steppenwolf (novel)
+32. The Hardy Boys
+33. Nancy Drew
+34. Goodnight Mister Tom
+35. Around the World in Eighty Days
+36. The Wonderful Wizard of Oz
+37. The Chronicles of Narnia: Prince Caspian
+38. Angels & Demons
+39. Digital Fortress
+40. Illusions (Bach novel)
+41. Drawing Blood
+42. Confessions of an Ugly Stepsister
+43. Eric (novel)
+44. Lajja
+45. 2 States: The Story of My Marriage
+46. Windmills of the Gods
+47. Griffin and Sabine
+48. Twilight (series)
+49. A Beautiful Mind (book)
+50. Room (novel)

@@ -1,0 +1,49 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Harry Potter and the Philosopher's Stone by J.K. Rowling
+3. To Kill a Mockingbird by Harper Lee
+4. The Catcher in the Rye by J.D. Salinger
+5. 1984 by George Orwell
+6. Animal Farm by George Orwell
+7. The Hobbit by J.R.R. Tolkien
+8. The Lord of the Rings by J.R.R. Tolkien
+9. The Chronicles of Narnia by C.S. Lewis
+10. The Da Vinci Code by Dan Brown
+11. Angels and Demons by Dan Brown
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Girl Who Played with Fire by Stieg Larsson
+14. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+15. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+16. The Great Gatsby by F. Scott Fitzgerald
+17. Pride and Prejudice by Jane Austen
+18. Jane Eyre by Charlotte Bronte
+19. Wuthering Heights by Emily Bronte
+20. The Picture of Dorian Gray by Oscar Wilde
+21. Frankenstein by Mary Shelley
+22. The Time Machine by H.G. Wells
+23. The War of the Worlds by H.G. Wells
+24. The Invisible Man by H.G. Wells
+25. The Island of Dr. Moreau by H.G. Wells
+26. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+27. The Hound of the Baskervilles by Arthur Conan Doyle
+28. The Sign of Four by Arthur Conan Doyle
+29. The Valley of Fear by Arthur Conan Doyle
+30. The Adventures of Tom Sawyer by Mark Twain
+31. The Adventures of Huckleberry Finn by Mark Twain
+32. The Call of the Wild by Jack London
+33. White Fang by Jack London
+34. The Old Man and the Sea by Ernest Hemingway
+35. For Whom the Bell Tolls by Ernest Hemingway
+36. The Sun Also Rises by Ernest Hemingway
+37. A Farewell to Arms by Ernest Hemingway
+38. The Grapes of Wrath by John Steinbeck
+39. Of Mice and Men by John Steinbeck
+40. East of Eden by John Steinbeck
+41. One Hundred Years of Solitude by Gabriel Garcia Marquez
+42. Love in the Time of Cholera by Gabriel Garcia Marquez
+43. The Name of the Rose by Umberto Eco
+44. The Pillars of the Earth by Ken Follett
+45. The Shadow of the Wind by Carlos Ruiz Zafon
+46. The Kite Runner by Khaled Hosseini
+47. A Thousand Splendid Suns by Khaled Hosseini

@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Speaker for the Dead by Orson Scott Card
+2. Pride and Prejudice by Jane Austen
+3. Mistborn: The Final Empire by Brandon Sanderson
+4. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+5. Junky by William S. Burroughs
+6. Shadow of the Hegemon by Orson Scott Card
+7. Through the Looking-Glass by Lewis Carroll
+8. Fight Club by Chuck Palahniuk
+9. Franny and Zooey by J.D. Salinger
+10. American Gods by Neil Gaiman
+11. The Restaurant at the End of the Universe by Douglas Adams
+12. The Shadow Rising by Robert Jordan
+13. The Graveyard Book by Neil Gaiman
+14. The Martian Chronicles by Ray Bradbury
+15. The Name of the Wind by Patrick Rothfuss
+16. The Road by Cormac McCarthy
+17. The Dark Tower I: The Gunslinger by Stephen King
+18. The Fellowship of the Ring by J.R.R. Tolkien
+19. The Hunger Games by Suzanne Collins
+20. The Girl with the Dragon Tattoo by Stieg Larsson
+21. The Da Vinci Code by Dan Brown
+22. The Stand by Stephen King
+23. The Shining by Stephen King
+24. The Hobbit by J.R.R. Tolkien
+25. The Catcher in the Rye by J.D. Salinger
+26. The Great Gatsby by F. Scott Fitzgerald
+27. The Picture of Dorian Gray by Oscar Wilde
+28. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+29. The Time Machine by H.G. Wells
+30. The War of the Worlds by H.G. Wells
+31. The Hitchhiker's Guide to the Galaxy: The Complete Radio Series by Douglas Adams
+32. The Complete Stories and Poems by Edgar Allan Poe
+33. The Complete Works of William Shakespeare by William Shakespeare
+34. The Complete Novels of Jane Austen by Jane Austen
+35. The Complete Sherlock Holmes by Arthur Conan Doyle
+36. The Lord of the Rings by J.R.R. Tolkien
+37. The Chronicles of Narnia by C.S. Lewis
+38. The Harry Potter series by J.K. Rowling
+39. The Hunger Games trilogy by Suzanne Collins
+40. The Millennium Trilogy by Stieg Larsson
+41. The Da Vinci Code series by Dan Brown
+42. The Dark Tower series by Stephen King
+43. The Wheel of Time series by Robert Jordan
+44. The Dresden Files series by Jim Butcher
+45. The Mistborn series by Brandon Sanderson
+46. The Stormlight Archive series by Brandon Sanderson
+47. The Kingkiller Chronicle series by Patrick Rothfuss
+48. The Earthsea Cycle series by Ursula K. Le Guin
+49

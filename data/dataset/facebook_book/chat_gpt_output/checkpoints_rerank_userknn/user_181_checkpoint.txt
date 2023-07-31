@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Count of Monte Cristo
+2. The Hobbit
+3. Romeo and Juliet
+4. The Great Gatsby
+5. To Kill a Mockingbird
+6. Les Misérables
+7. Heart of Darkness
+8. Fahrenheit 451
+9. The Picture of Dorian Gray
+10. Siddhartha (novel)
+11. The Chronicles of Narnia: Prince Caspian
+12. Lord of the Flies
+13. Harry Potter
+14. Gulliver's Travels
+15. The Once and Future King
+16. The Watchmen (novel)
+17. Inkheart
+18. The Myth of Sisyphus
+19. The Canterbury Tales
+20. Waiting for Godot
+21. The Fountainhead
+22. Demian
+23. The Space Vampires
+24. Medea (play)
+25. Brave New World
+26. Les Fleurs du mal
+27. Rhinoceros (play)
+28. The Shadow of the Wind
+29. The Phantom Tollbooth
+30. Pedro Páramo
+31. The Social Contract
+32. Around the World in Eighty Days
+33. Being and Nothingness
+34. Bible
+35. Carrie (novel)
+36. Iliad
+37. Anime
+38. Vampire Academy (novel)
+39. Chronicle of a Death Foretold
+40. Rosemary's Baby
+41. Goethe's Faust
+42. Songs of Innocence and of Experience
+43. Water for Elephants
+44. The Book of Lost Things
+45. Things Fall Apart
+46. Love Story (novel)
+47. Cujo
+48. Interview with the Vampire
+49. Macbeth
+50. Trainspotting (novel)

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for them would be:
+
+1. Radiohead
+2. Muse
+3. Queens of the Stone Age
+4. The Strokes
+5. Arctic Monkeys
+6. Interpol
+7. Franz Ferdinand
+8. The Smashing Pumpkins
+9. Red Hot Chili Peppers
+10. Yeah Yeah Yeahs
+11. Metric
+12. Klaxons
+13. Pendulum
+14. Hot Hot Heat
+15. David Bowie
+16. Morrissey
+17. Ladytron
+18. Elliott Smith
+19. Death Cab for Cutie
+20. Modest Mouse
+21. The Last Shadow Puppets
+22. Massive Attack
+23. Archive
+24. Daft Punk
+25. Crystal Castles
+26. Clint Mansell
+27. Nine Inch Nails
+28. Marilyn Manson
+29. Garbage
+30. System of a Down
+31. Einstürzende Neubauten
+32. Amon Tobin
+33. 65daysofstatic
+34. Beck
+35. Belle and Sebastian
+36. Billy Talent
+37. Nirvana
+38. The Killers
+39. Bloc Party
+40. Lily Allen
+41. Maroon 5
+42. Jamiroquai
+43. Tegan and Sara
+44. Beirut
+45. Linkin Park
+46. Alexisonfire
+47. The Used
+48. HIM
+49. Oasis
+50. Depeche Mode

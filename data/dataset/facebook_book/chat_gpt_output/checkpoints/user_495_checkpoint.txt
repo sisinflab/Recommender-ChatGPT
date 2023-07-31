@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Cat's Cradle by Kurt Vonnegut
+2. The Crying of Lot 49 by Thomas Pynchon
+3. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+4. The Catcher in the Rye by J.D. Salinger
+5. Brave New World by Aldous Huxley
+6. 1984 by George Orwell
+7. Slaughterhouse-Five by Kurt Vonnegut
+8. The Stranger by Albert Camus
+9. The Trial by Franz Kafka
+10. The Brothers Karamazov by Fyodor Dostoevsky
+11. Crime and Punishment by Fyodor Dostoevsky
+12. The Picture of Dorian Gray by Oscar Wilde
+13. The Great Gatsby by F. Scott Fitzgerald
+14. To Kill a Mockingbird by Harper Lee
+15. One Hundred Years of Solitude by Gabriel Garcia Marquez
+16. Love in the Time of Cholera by Gabriel Garcia Marquez
+17. The Name of the Rose by Umberto Eco
+18. Foucault's Pendulum by Umberto Eco
+19. The Shadow of the Wind by Carlos Ruiz Zafon
+20. The Wind-Up Bird Chronicle by Haruki Murakami
+21. Kafka on the Shore by Haruki Murakami
+22. The Master and Margarita by Mikhail Bulgakov
+23. The Bell Jar by Sylvia Plath
+24. The Road by Cormac McCarthy
+25. Blood Meridian by Cormac McCarthy
+26. Infinite Jest by David Foster Wallace
+27. Gravity's Rainbow by Thomas Pynchon
+28. White Noise by Don DeLillo
+29. Underworld by Don DeLillo
+30. American Gods by Neil Gaiman
+31. Neverwhere by Neil Gaiman
+32. The Sandman by Neil Gaiman
+33. The Dark Tower series by Stephen King
+34. The Stand by Stephen King
+35. It by Stephen King
+36. The Shining by Stephen King
+37. The Girl with the Dragon Tattoo by Stieg Larsson
+38. The Hunger Games by Suzanne Collins
+39. The Road to Serfdom by Friedrich Hayek
+40. The Wealth of Nations by Adam Smith
+41. The Communist Manifesto by Karl Marx and Friedrich Engels
+42. The Tao of Pooh by Benjamin Hoff
+43. The Alchemist by Paulo Coelho
+44. Siddhartha by Hermann Hesse
+45. Steppenwolf by Hermann Hesse
+46. The Glass Bead Game by Hermann Hesse
+47. The Prophet by Kahlil Gibran
+48. The Celestine Prophecy by James Redfield
+49. The Da Vinci Code by Dan Brown
+50. Angels and Demons by Dan Brown

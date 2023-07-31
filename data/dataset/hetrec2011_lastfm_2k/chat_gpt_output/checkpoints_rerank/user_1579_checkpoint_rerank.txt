@@ -1,0 +1,54 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Arctic Monkeys
+2. Queens of the Stone Age
+3. Kings of Leon
+4. Los Hermanos
+5. Placebo
+6. Feist
+7. Minus the Bear
+8. Spoon
+9. Franz Ferdinand
+10. Portishead
+11. The Strokes
+12. Nine Inch Nails
+13. Julieta Venegas
+14. Foo Fighters
+15. The Black Keys
+16. Yeah Yeah Yeahs
+17. Eagles of Death Metal
+18. Beck
+19. The Wombats
+20. Cansei de Ser Sexy
+21. Kid Cudi
+22. Phoenix
+23. Moptop
+24. The Distillers
+25. Oasis
+26. Lykke Li
+27. The Rolling Stones
+28. The Fratellis
+29. Kate Nash
+30. Wilco
+31. Radiohead
+32. Nirvana
+33. Led Zeppelin
+34. Pink Floyd
+35. Metallica
+36. Michael Jackson
+37. Pearl Jam
+38. Björk
+39. Daft Punk
+40. Iron Maiden
+41. Muse
+42. U2
+43. Duran Duran
+44. Coldplay
+45. Blur
+46. System of a Down
+47. Linkin Park
+48. My Chemical Romance
+49. Green Day
+50. The Cure
+
+Note: The other artists (Britney Spears, Depeche Mode, Lady Gaga, Christina Aguilera, Paramore, Madonna, Rihanna, Shakira, The Beatles, Katy Perry, Avril Lavigne, Taylor Swift, Evanescence, Glee Cast, Beyoncé, 30 Seconds to Mars, Kylie Minogue, Miley Cyrus, Ke$ha, Avenged Sevenfold, Black Eyed Peas, Kelly Clarkson, All Time Low, and P!nk) were not included in the top 50 recommendations as they do not match the user's preferences.

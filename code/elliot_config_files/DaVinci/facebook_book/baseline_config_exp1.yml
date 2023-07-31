@@ -1,0 +1,110 @@
+experiment:
+  gpu: 1 # Run on GPU
+  #
+  # Dataset pre-processing and configuration
+  #
+  dataset: facebook_book
+  data_config:
+    strategy: fixed
+    train_path: ../../../../data/dataset/facebook_book/trainingset.tsv
+    test_path: ../../../../data/dataset/facebook_book/testset.tsv
+    side_information:
+      - dataloader: ChainedKG
+        map: ../../../../data/dataset/facebook_book/MAPS/map.tsv
+        properties: ../../../../data/dataset/facebook_book/properties.config
+        threshold: 0
+        features: ../../../../data/dataset/facebook_book/features.tsv
+  top_k: 50
+  #
+  # Evaluation Setup
+  #
+  evaluation:
+    cutoffs: [10, 20, 50]
+    simple_metrics: [nDCG, Recall, Precision, nDCGRendle2020, HR, F1, MAP, MAR, MRR, ACLT, APLT, ARP, PopREO, PopRSP, ItemCoverage, NumRetrived, UserCoverage, Gini, SEntropy, EFD, EPC]
+    paired_ttest: True
+    wilcoxon_test: True
+  print_results_as_triplets: True
+  external_models_path: ../external/models/__init__.py
+  #
+  # Models Setup
+  #
+  models:
+    #
+    # Proxy Recommender to compute metrics on ChatGPT
+    #
+    ProxyRecommender:
+      path: ../data/dataset/facebook_book/text_davinci_output/output_EXP_1_elliot.tsv
+#    #
+#    # Content Base Filtering
+#    #
+    VSM:
+      meta:
+        hyper_max_evals: 10
+        hyper_opt_alg: tpe
+        save_recs: True
+        verbose: True
+      similarity: [ cosine, correlation ]
+      user_profile: [ tfidf, binary ]
+      item_profile: [ tfidf, binary ]
+      neighbors: [20, 40, 60, 80, 100]
+      loader: ChainedKG
+    AttributeItemKNN:
+      meta:
+        save_recs: True
+        verbose: True
+      neighbors: [20, 40, 60, 80, 100]
+      similarity: [ cosine, correlation ]
+      loader: ChainedKG
+    AttributeUserKNN:
+      meta:
+        save_recs: True
+        verbose: True
+      neighbors: [20, 40, 60, 80, 100]
+      similarity: [ cosine, correlation ]
+      loader: ChainedKG
+#    #
+#    # Collaborative Filtering
+#    #
+    ItemKNN:
+      meta:
+        save_recs: True
+        verbose: True
+      neighbors: [20, 40, 60, 80, 100]
+      similarity: [ cosine, correlation ]
+    UserKNN:
+      meta:
+        save_recs: True
+        verbose: True
+      neighbors: [20, 40, 60, 80, 100]
+      similarity: [ cosine, correlation ]
+    EASER:
+      meta:
+        verbose: True
+        save_recs: True
+        hyper_max_evals: 10
+        hyper_opt_alg: tpe
+      l2_norm: [ uniform, 10, 10e7 ]
+    RP3beta:
+      meta:
+        hyper_max_evals: 10
+        hyper_opt_alg: tpe
+        verbose: True
+        save_recs: True
+      neighborhood: [ uniform, 5, 1000 ]
+      alpha: [ uniform, 0, 2 ]
+      beta: [ uniform, 0, 2 ]
+      normalize_similarity: [ True, False ]
+#    #
+#    # Most Popular
+#    #
+    MostPop:
+      meta:
+        verbose: True
+        save_recs: True
+#    #
+#    # Random Recommender
+#    #
+    Random:
+      meta:
+        save_recs: True
+      random_seed: 42

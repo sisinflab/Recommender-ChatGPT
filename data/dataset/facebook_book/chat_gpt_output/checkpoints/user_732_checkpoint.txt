@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Animal Farm by George Orwell
+2. The Hunger Games by Suzanne Collins
+3. The Giver by Lois Lowry
+4. To Kill a Mockingbird by Harper Lee
+5. The Catcher in the Rye by J.D. Salinger
+6. Lord of the Flies by William Golding
+7. Brave New World by Aldous Huxley
+8. The Maze Runner by James Dashner
+9. Divergent by Veronica Roth
+10. The Fault in Our Stars by John Green
+11. The Book Thief by Markus Zusak
+12. The Chronicles of Narnia by C.S. Lewis
+13. The Lord of the Rings by J.R.R. Tolkien
+14. The Hobbit by J.R.R. Tolkien
+15. The Da Vinci Code by Dan Brown
+16. Angels and Demons by Dan Brown
+17. The Girl with the Dragon Tattoo by Stieg Larsson
+18. The Girl Who Played with Fire by Stieg Larsson
+19. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+20. The Bourne Identity by Robert Ludlum
+21. The Bourne Supremacy by Robert Ludlum
+22. The Bourne Ultimatum by Robert Ludlum
+23. The Girl on the Train by Paula Hawkins
+24. The Help by Kathryn Stockett
+25. The Secret Life of Bees by Sue Monk Kidd
+26. The Lovely Bones by Alice Sebold
+27. The Kite Runner by Khaled Hosseini
+28. A Thousand Splendid Suns by Khaled Hosseini
+29. The Alchemist by Paulo Coelho
+30. The Picture of Dorian Gray by Oscar Wilde
+31. The Great Gatsby by F. Scott Fitzgerald
+32. The Adventures of Tom Sawyer by Mark Twain
+33. The Adventures of Huckleberry Finn by Mark Twain
+34. The War of the Worlds by H.G. Wells
+35. The Time Machine by H.G. Wells
+36. The Invisible Man by H.G. Wells
+37. The Island of Dr. Moreau by H.G. Wells
+38. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+39. Treasure Island by Robert Louis Stevenson
+40. The Three Musketeers by Alexandre Dumas
+41. The Count of Monte Cristo by Alexandre Dumas
+42. Les Misérables by Victor Hugo
+43. The Hunchback of Notre-Dame by Victor Hugo
+44. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+45. The Memoirs of Sherlock Holmes by Arthur Conan Doyle
+46. The Return of Sherlock Holmes by Arthur Conan Doyle
+47. The Valley of Fear by Arthur Conan Doyle
+48. The Sign of the Four by Arthur Conan Doyle
+49.

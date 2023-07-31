@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Muse
+3. Pink Floyd
+4. Arcade Fire
+5. The Beatles
+6. Modest Mouse
+7. Death Cab for Cutie
+8. The Decemberists
+9. Fleet Foxes
+10. Animal Collective
+11. M83
+12. Explosions in the Sky
+13. Boards of Canada
+14. Spoon
+15. Yo La Tengo
+16. The Radio Dept.
+17. The New Pornographers
+18. Sufjan Stevens
+19. Ben Folds
+20. Passion Pit
+21. Zero 7
+22. Yeasayer
+23. Arctic Monkeys
+24. Band of Horses
+25. Doves
+26. Third Eye Blind
+27. Snow Patrol
+28. The Hush Sound
+29. Journey
+30. Something Corporate
+31. Ratatat
+32. of Montreal
+33. The Album Leaf
+34. Red Hot Chili Peppers
+35. Duran Duran
+36. Coldplay
+37. Blur
+38. Placebo
+39. The Killers
+40. Nirvana
+41. Led Zeppelin
+42. Metallica
+43. Michael Jackson
+44. Pearl Jam
+45. a-ha
+46. Björk
+47. System of a Down
+48. Daft Punk
+49. Nine Inch Nails
+50. Linkin Park

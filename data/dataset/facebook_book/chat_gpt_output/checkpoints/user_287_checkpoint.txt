@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Thief Lord by Cornelia Funke
+2. The Chronicles of Narnia by C.S. Lewis
+3. Percy Jackson and the Olympians by Rick Riordan
+4. The Hunger Games by Suzanne Collins
+5. The Maze Runner by James Dashner
+6. Divergent by Veronica Roth
+7. The Lord of the Rings by J.R.R. Tolkien
+8. Eragon by Christopher Paolini
+9. The Hobbit by J.R.R. Tolkien
+10. The Mortal Instruments by Cassandra Clare
+11. The Fault in Our Stars by John Green
+12. The Giver by Lois Lowry
+13. The Secret Series by Enid Blyton
+14. The Dark Tower by Stephen King
+15. The Wheel of Time by Robert Jordan
+16. The Inheritance Cycle by Christopher Paolini
+17. The Name of the Wind by Patrick Rothfuss
+18. The Kingkiller Chronicle by Patrick Rothfuss
+19. The Stormlight Archive by Brandon Sanderson
+20. The Mistborn Trilogy by Brandon Sanderson
+21. The Reckoners by Brandon Sanderson
+22. The First Law Trilogy by Joe Abercrombie
+23. The Blade Itself by Joe Abercrombie
+24. The Lies of Locke Lamora by Scott Lynch
+25. The Gentleman Bastard Sequence by Scott Lynch
+26. The Dresden Files by Jim Butcher
+27. The Codex Alera by Jim Butcher
+28. The Belgariad by David Eddings
+29. The Malloreon by David Eddings
+30. The Lightbringer Series by Brent Weeks
+31. The Night Angel Trilogy by Brent Weeks
+32. The Black Prism by Brent Weeks
+33. The Powder Mage Trilogy by Brian McClellan
+34. The Red Rising Saga by Pierce Brown
+35. The Broken Empire Trilogy by Mark Lawrence
+36. The Prince of Thorns by Mark Lawrence
+37. The Riyria Revelations by Michael J. Sullivan
+38. The Riyria Chronicles by Michael J. Sullivan
+39. The Farseer Trilogy by Robin Hobb
+40. The Liveship Traders Trilogy by Robin Hobb
+41. The Tawny Man Trilogy by Robin Hobb
+42. The Realm of the Elderlings by Robin Hobb
+43. The Powder Mage Trilogy by Brian McClellan
+44. The Lightbringer Series by Brent Weeks
+45. The Night Angel Trilogy by Brent Weeks
+46. The Black Prism by Brent Weeks
+47. The Red Rising Saga by Pierce Brown
+48. The Broken Empire Trilogy by Mark Lawrence
+49. The Prince of Thorns by Mark Lawrence
+50. The Riyria Revelations by Michael J. Sullivan

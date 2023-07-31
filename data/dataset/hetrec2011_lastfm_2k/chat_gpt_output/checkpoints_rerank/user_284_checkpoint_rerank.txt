@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Tool
+2. A Perfect Circle
+3. System of a Down
+4. Biffy Clyro
+5. Devin Townsend
+6. Foo Fighters
+7. Queen
+8. Korn
+9. Limp Bizkit
+10. The Blackout
+11. Fightstar
+12. Sum 41
+13. 36 Crazyfists
+14. Deep Purple
+15. Radiohead
+16. Björk
+17. Syd Barrett
+18. Cream
+19. The Doors
+20. Dire Straits
+21. Muse
+22. Pink Floyd
+23. Nirvana
+24. Iron Maiden
+25. Led Zeppelin
+26. Metallica
+27. Pearl Jam
+28. U2
+29. Arctic Monkeys
+30. Placebo
+31. The Killers
+32. Duran Duran
+33. Coldplay
+34. Blur
+35. Michael Jackson
+36. Madonna
+37. Lady Gaga
+38. Rihanna
+39. Beyoncé
+40. Shakira
+41. Christina Aguilera
+42. Katy Perry
+43. Taylor Swift
+44. Ke$ha
+45. My Chemical Romance
+46. Green Day
+47. The Cure
+48. Nine Inch Nails
+49. Daft Punk
+50. Black Eyed Peas

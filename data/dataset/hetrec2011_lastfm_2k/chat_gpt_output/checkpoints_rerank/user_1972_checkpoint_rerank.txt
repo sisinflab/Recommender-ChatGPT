@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Sigur Rós
+3. Mogwai
+4. Aphex Twin
+5. Boards of Canada
+6. Hammock
+7. Eluvium
+8. Porcupine Tree
+9. The Mars Volta
+10. Fantômas
+11. Mr. Bungle
+12. Shpongle
+13. Venetian Snares
+14. The Flashbulb
+15. Eels
+16. The Cinematic Orchestra
+17. At the Drive-In
+18. Red Hot Chili Peppers
+19. Blur
+20. Bonobo
+21. Pink Floyd
+22. Muse
+23. The Beatles
+24. Nirvana
+25. Metallica
+26. Led Zeppelin
+27. Iron Maiden
+28. Duran Duran
+29. Coldplay
+30. Arctic Monkeys
+31. Placebo
+32. The Killers
+33. Michael Jackson
+34. Madonna
+35. U2
+36. Beyoncé
+37. Lady Gaga
+38. Christina Aguilera
+39. Rihanna
+40. Shakira
+41. Katy Perry
+42. Taylor Swift
+43. Evanescence
+44. Glee Cast
+45. Ke$ha
+46. Britney Spears
+47. Depeche Mode
+48. Nine Inch Nails
+49. Daft Punk
+50. Björk

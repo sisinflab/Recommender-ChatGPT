@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Shiver by Maggie Stiefvater
+2. Linger by Maggie Stiefvater
+3. Forever by Maggie Stiefvater
+4. The Scorpio Races by Maggie Stiefvater
+5. The Raven Boys by Maggie Stiefvater
+6. Blue Lily, Lily Blue by Maggie Stiefvater
+7. The Dream Thieves by Maggie Stiefvater
+8. The Selection by Kiera Cass
+9. The Elite by Kiera Cass
+10. The One by Kiera Cass
+11. The Crown by Kiera Cass
+12. The Siren by Kiera Cass
+13. The Heir by Kiera Cass
+14. The Hunger Games: Mockingjay by Suzanne Collins
+15. Divergent by Veronica Roth
+16. Insurgent by Veronica Roth
+17. Allegiant by Veronica Roth
+18. The Fault in Our Stars by John Green
+19. Paper Towns by John Green
+20. Looking for Alaska by John Green
+21. An Abundance of Katherines by John Green
+22. Will Grayson, Will Grayson by John Green and David Levithan
+23. The Maze Runner: The Scorch Trials by James Dashner
+24. The Maze Runner: The Death Cure by James Dashner
+25. The 5th Wave by Rick Yancey
+26. The Infinite Sea by Rick Yancey
+27. The Last Star by Rick Yancey
+28. Legend by Marie Lu
+29. Prodigy by Marie Lu
+30. Champion by Marie Lu
+31. The Giver by Lois Lowry
+32. Gathering Blue by Lois Lowry
+33. Messenger by Lois Lowry
+34. Son by Lois Lowry
+35. Matched by Ally Condie
+36. Crossed by Ally Condie
+37. Reached by Ally Condie
+38. The Uglies by Scott Westerfeld
+39. Pretties by Scott Westerfeld
+40. Specials by Scott Westerfeld
+41. Extras by Scott Westerfeld
+42. If I Stay by Gayle Forman
+43. Where She Went by Gayle Forman
+44. Just One Day by Gayle Forman
+45. Just One Year by Gayle Forman
+46. The Book Thief by Markus Zusak
+47. The Night Circus by Erin Morgenstern
+48. The Girl on the Train by Paula Hawkins
+49. Gone Girl by Gillian Flynn
+50. The Lovely Bones by Alice Sebold

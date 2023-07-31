@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Fruits Basket by Natsuki Takaya
+2. Death Note by Tsugumi Ohba
+3. Fullmetal Alchemist by Hiromu Arakawa
+4. The Hunger Games by Suzanne Collins
+5. Harry Potter and the Philosopher's Stone by J.K. Rowling
+6. The Lord of the Rings by J.R.R. Tolkien
+7. The Hobbit by J.R.R. Tolkien
+8. The Da Vinci Code by Dan Brown
+9. The Girl with the Dragon Tattoo by Stieg Larsson
+10. The Girl on the Train by Paula Hawkins
+11. The Fault in Our Stars by John Green
+12. To Kill a Mockingbird by Harper Lee
+13. 1984 by George Orwell
+14. Animal Farm by George Orwell
+15. Brave New World by Aldous Huxley
+16. The Great Gatsby by F. Scott Fitzgerald
+17. Pride and Prejudice by Jane Austen
+18. Sense and Sensibility by Jane Austen
+19. Emma by Jane Austen
+20. Persuasion by Jane Austen
+21. Northanger Abbey by Jane Austen
+22. Wuthering Heights by Emily Bronte
+23. The Picture of Dorian Gray by Oscar Wilde
+24. Dracula by Bram Stoker
+25. Frankenstein by Mary Shelley
+26. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+27. The Hound of the Baskervilles by Arthur Conan Doyle
+28. The Time Machine by H.G. Wells
+29. The War of the Worlds by H.G. Wells
+30. The Invisible Man by H.G. Wells
+31. The Island of Dr. Moreau by H.G. Wells
+32. The Call of the Wild by Jack London
+33. White Fang by Jack London
+34. The Adventures of Tom Sawyer by Mark Twain
+35. The Adventures of Huckleberry Finn by Mark Twain
+36. The Catcher in the Rye by J.D. Salinger
+37. The Bell Jar by Sylvia Plath
+38. One Hundred Years of Solitude by Gabriel Garcia Marquez
+39. Love in the Time of Cholera by Gabriel Garcia Marquez
+40. The Alchemist by Paulo Coelho
+41. The Name of the Wind by Patrick Rothfuss
+42. The Wise Man's Fear by Patrick Rothfuss
+43. The Fellowship of the Ring by J.R.R. Tolkien
+44. The Two Towers by J.R.R. Tolkien
+45. The Return of the King by J.R.R. Tolkien
+46. The Chronicles of Narnia by C.S. Lewis
+47. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+48. The Dark Tower series by Stephen King
+49. The Stand by Stephen King
+50. It by

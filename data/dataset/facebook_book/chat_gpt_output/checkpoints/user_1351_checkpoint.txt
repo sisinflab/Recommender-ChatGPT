@@ -1,0 +1,53 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. A Brief History of Time by Stephen Hawking
+2. The Invisible Man by H. G. Wells
+3. 1984 by George Orwell
+4. The Da Vinci Code by Dan Brown
+5. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+6. The War of the Worlds by H. G. Wells
+7. The Lost Symbol by Dan Brown
+8. The Andromeda Strain by Michael Crichton
+9. The Martian by Andy Weir
+10. The Island of Dr. Moreau by H. G. Wells
+11. The Caves of Steel by Isaac Asimov
+12. The Stand by Stephen King
+13. The Hunger Games by Suzanne Collins
+14. The Catcher in the Rye by J.D. Salinger
+15. The Lord of the Rings by J.R.R. Tolkien
+16. The Hobbit by J.R.R. Tolkien
+17. The Chronicles of Narnia by C.S. Lewis
+18. The Time Traveler's Wife by Audrey Niffenegger
+19. The Girl with the Dragon Tattoo by Stieg Larsson
+20. The Shining by Stephen King
+21. The Silence of the Lambs by Thomas Harris
+22. The Bourne Identity by Robert Ludlum
+23. The Bourne Supremacy by Robert Ludlum
+24. The Bourne Ultimatum by Robert Ludlum
+25. The Day of the Triffids by John Wyndham
+26. The Road by Cormac McCarthy
+27. The Giver by Lois Lowry
+28. The Maze Runner by James Dashner
+29. The Hunger Games: Catching Fire by Suzanne Collins
+30. The Hunger Games: Mockingjay by Suzanne Collins
+31. The Girl Who Played with Fire by Stieg Larsson
+32. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+33. The Girl on the Train by Paula Hawkins
+34. The Martian Chronicles by Ray Bradbury
+35. The Time Machine and The Invisible Man by H. G. Wells
+36. The Three Musketeers by Alexandre Dumas
+37. The Count of Monte Cristo by Alexandre Dumas
+38. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+39. The Hound of the Baskervilles by Arthur Conan Doyle
+40. The Picture of Dorian Gray by Oscar Wilde
+41. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+42. The Call of the Wild by Jack London
+43. The Adventures of Tom Sawyer by Mark Twain
+44. The Adventures of Huckleberry Finn by Mark Twain
+45. The Great Gatsby by F. Scott Fitzgerald
+46. To Kill a Mockingbird by Harper Lee
+45. Gone with the Wind by Margaret Mitchell
+47. Jane Eyre by Charlotte Bronte
+48. Little Women by Louisa May Alcott
+49. Pride and Prejudice by Jane Austen
+50. The Adventures of Tom Sawyer by Mark Twain

@@ -1,0 +1,49 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Da Vinci Code by Dan Brown
+2. Inferno by Dan Brown
+3. The Girl with the Dragon Tattoo by Stieg Larsson
+4. The Catcher in the Rye by J.D. Salinger
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Animal Farm by George Orwell
+7. 1984 by George Orwell
+8. The Hobbit by J.R.R. Tolkien
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Hunger Games by Suzanne Collins
+11. Catching Fire by Suzanne Collins
+12. Mockingjay by Suzanne Collins
+13. Divergent by Veronica Roth
+14. Insurgent by Veronica Roth
+15. Allegiant by Veronica Roth
+16. The Fault in Our Stars by John Green
+17. Paper Towns by John Green
+18. Looking for Alaska by John Green
+19. The Maze Runner by James Dashner
+20. The Scorch Trials by James Dashner
+21. The Death Cure by James Dashner
+22. The Book Thief by Markus Zusak
+23. The Kite Runner by Khaled Hosseini
+24. A Thousand Splendid Suns by Khaled Hosseini
+25. And Then There Were None by Agatha Christie
+26. Murder on the Orient Express by Agatha Christie
+27. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+28. The Hound of the Baskervilles by Arthur Conan Doyle
+29. The Complete Adventures of Feluda by Satyajit Ray
+30. The Adventures of Tintin by Hergé
+31. The Secret of the Unicorn by Hergé
+32. The Red Sea Sharks by Hergé
+33. The Complete Adventures of Blinky Bill by Dorothy Wall
+34. The Complete Adventures of Snugglepot and Cuddlepie by May Gibbs
+35. The Complete Adventures of Curious George by H.A. Rey
+36. The Complete Adventures of Paddington Bear by Michael Bond
+37. The Complete Adventures of Winnie-the-Pooh by A.A. Milne
+38. The Complete Adventures of Peter Rabbit by Beatrix Potter
+39. The Complete Adventures of Pippi Longstocking by Astrid Lindgren
+40. The Complete Adventures of Madeline by Ludwig Bemelmans
+41. The Complete Adventures of Babar by Jean de Brunhoff
+42. The Complete Adventures of Little Bear by Else Holmelund Minarik
+43. The Complete Adventures of Frog and Toad by Arnold Lobel
+44. The Complete Adventures of Amelia Bedelia by Peggy Parish
+45. The Complete Adventures of Ramona Quimby by Beverly Cleary
+46. The Complete Adventures of Henry Huggins by Beverly Cleary
+47. The Complete Adventures of Nate the Great by Marjorie Weinman Sharm

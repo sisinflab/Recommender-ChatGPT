@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. Brave New World by Aldous Huxley
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Animal Farm by George Orwell
+7. Lord of the Flies by William Golding
+8. The Grapes of Wrath by John Steinbeck
+9. One Hundred Years of Solitude by Gabriel Garcia Marquez
+10. The Picture of Dorian Gray by Oscar Wilde
+11. The Adventures of Huckleberry Finn by Mark Twain
+12. The Brothers Karamazov by Fyodor Dostoevsky
+13. Crime and Punishment by Fyodor Dostoevsky
+14. Heart of Darkness by Joseph Conrad
+15. The Sound and the Fury by William Faulkner
+16. The Sun Also Rises by Ernest Hemingway
+17. The Old Man and the Sea by Ernest Hemingway
+18. The Stranger by Albert Camus
+19. The Trial by Franz Kafka
+20. The Metamorphosis by Franz Kafka
+21. The Bell Jar by Sylvia Plath
+22. Lolita by Vladimir Nabokov
+23. The Lord of the Rings by J.R.R. Tolkien
+24. The Hobbit by J.R.R. Tolkien
+25. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+26. The Da Vinci Code by Dan Brown
+27. Angels and Demons by Dan Brown
+28. The Girl with the Dragon Tattoo by Stieg Larsson
+29. The Hunger Games by Suzanne Collins
+30. Catching Fire by Suzanne Collins
+31. Mockingjay by Suzanne Collins
+32. The Help by Kathryn Stockett
+33. The Kite Runner by Khaled Hosseini
+34. A Thousand Splendid Suns by Khaled Hosseini
+35. The Alchemist by Paulo Coelho
+36. The Name of the Wind by Patrick Rothfuss
+37. The Wise Man's Fear by Patrick Rothfuss
+38. The Shadow of the Wind by Carlos Ruiz Zafon
+39. The Book Thief by Markus Zusak
+40. The Road by Cormac McCarthy
+41. The Shining by Stephen King
+42. The Stand by Stephen King
+43. The Silence of the Lambs by Thomas Harris
+44. Red Dragon by Thomas Harris
+45. American Gods by Neil Gaiman
+46. Neverwhere by Neil Gaiman
+47. Stardust by Neil Gaiman
+48. The Graveyard Book by Neil Gaiman
+49. The Ocean at the End of the Lane by Neil Gaiman
+50. Good Omens by Neil Gaiman and Terry Pratchett

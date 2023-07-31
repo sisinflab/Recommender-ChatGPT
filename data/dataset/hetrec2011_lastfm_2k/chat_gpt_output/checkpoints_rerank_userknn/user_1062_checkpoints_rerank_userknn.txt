@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for this user would be:
+
+1. Nirvana
+2. Radiohead
+3. Pixies
+4. Pearl Jam
+5. Jimi Hendrix
+6. The Beatles
+7. Led Zeppelin
+8. Joy Division
+9. Daft Punk
+10. Massive Attack
+11. Pavement
+12. Mark Lanegan
+13. Tricky
+14. Dinosaur Jr.
+15. Sublime
+16. Faith No More
+17. Michael Jackson
+18. Stevie Wonder
+19. Nick Drake
+20. Sam Cooke
+21. R.E.M.
+22. Beck
+23. Guns N' Roses
+24. Depeche Mode
+25. The Doors
+26. Foo Fighters
+27. My Chemical Romance
+28. Aerosmith
+29. The Mars Volta
+30. MGMT
+31. Bob Marley
+32. Kings of Convenience
+33. Oasis
+34. The Smashing Pumpkins
+35. Bruce Springsteen
+36. PJ Harvey
+37. Green Day
+38. AC/DC
+39. Elvis Presley
+40. U2
+41. Ramones
+42. Pink Floyd
+43. Alice in Chains
+44. The Rolling Stones
+45. Rage Against the Machine
+46. The Raconteurs
+47. Slipknot
+48. AFI
+49. Lady Gaga
+50. Beirut

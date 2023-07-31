@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Opeth
+2. In Flames
+3. Dark Tranquillity
+4. Scar Symmetry
+5. Hypocrisy
+6. Amon Amarth
+7. Behemoth
+8. Kreator
+9. Immortal
+10. Norther
+11. Death
+12. DevilDriver
+13. System of a Down
+14. Megadeth
+15. Metallica
+16. Katatonia
+17. Amorphis
+18. Tool
+19. Apocalyptica
+20. Anathema
+21. Marilyn Manson
+22. Slipknot
+23. Deftones
+24. Pain of Salvation
+25. Paradise Lost
+26. Rammstein
+27. HIM
+28. The Sisters of Mercy
+29. Joy Division
+30. Bauhaus
+31. Wire
+32. Massive Attack
+33. Boards of Canada
+34. Sigur Rós
+35. Clint Mansell
+36. Howard Shore
+37. Yann Tiersen
+38. DJ Shadow
+39. The Prodigy
+40. Stone Temple Pilots
+41. A Perfect Circle
+42. Foo Fighters
+43. Porcupine Tree
+44. Muse
+45. Coldplay
+46. Goo Goo Dolls
+47. Relient K
+48. Los Hermanos
+49. U2
+50. The Beatles

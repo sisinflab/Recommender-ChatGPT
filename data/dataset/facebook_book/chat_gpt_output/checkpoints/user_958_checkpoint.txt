@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. The Hunger Games by Suzanne Collins
+5. Harry Potter and the Philosopher's Stone by J.K. Rowling
+6. The Hobbit by J.R.R. Tolkien
+7. Animal Farm by George Orwell
+8. The Fault in Our Stars by John Green
+9. The Giver by Lois Lowry
+10. The Maze Runner by James Dashner
+11. The Girl with the Dragon Tattoo by Stieg Larsson
+12. The Da Vinci Code by Dan Brown
+13. The Girl on the Train by Paula Hawkins
+14. The Help by Kathryn Stockett
+15. The Kite Runner by Khaled Hosseini
+16. The Alchemist by Paulo Coelho
+17. The Picture of Dorian Gray by Oscar Wilde
+18. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+19. The Chronicles of Narnia by C.S. Lewis
+20. The Lord of the Flies by William Golding
+21. The Road by Cormac McCarthy
+22. The Stand by Stephen King
+23. The Shining by Stephen King
+24. The Silence of the Lambs by Thomas Harris
+25. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+26. The Martian by Andy Weir
+27. The Time Traveler's Wife by Audrey Niffenegger
+28. The Lovely Bones by Alice Sebold
+29. The Secret Life of Bees by Sue Monk Kidd
+30. The Color Purple by Alice Walker
+31. The Joy Luck Club by Amy Tan
+32. The Handmaid's Tale by Margaret Atwood
+33. The Bell Jar by Sylvia Plath
+34. The Sun Also Rises by Ernest Hemingway
+35. The Old Man and the Sea by Ernest Hemingway
+36. The Great Gatsby by F. Scott Fitzgerald
+37. The Sound and the Fury by William Faulkner
+38. The Grapes of Wrath by John Steinbeck
+39. The Scarlet Letter by Nathaniel Hawthorne
+40. The Picture of Dorian Gray by Oscar Wilde
+41. The Count of Monte Cristo by Alexandre Dumas
+42. The Three Musketeers by Alexandre Dumas
+43. Les Misérables by Victor Hugo
+44. Pride and Prejudice by Jane Austen
+45. Sense and Sensibility by Jane Austen
+46. Emma by Jane Austen
+47. Persuasion by Jane Austen
+48. Northanger Abbey by Jane Austen
+49. Wuthering Heights by Emily Bronte
+50. Jane Eyre by Charlotte Bronte

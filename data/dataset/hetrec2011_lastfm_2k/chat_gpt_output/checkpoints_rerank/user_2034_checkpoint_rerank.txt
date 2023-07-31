@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. The National
+3. Interpol
+4. The Velvet Underground
+5. The Beatles
+6. Black Rebel Motorcycle Club
+7. Kings of Leon
+8. The Killers
+9. Franz Ferdinand
+10. Oasis
+11. MGMT
+12. Metric
+13. Death Cab for Cutie
+14. Florence + the Machine
+15. Beirut
+16. Little Joy
+17. The Kooks
+18. The Libertines
+19. Feist
+20. Regina Spektor
+21. Cat Power
+22. Klaxons
+23. Mando Diao
+24. The Clash
+25. Los Hermanos
+26. Chico Buarque
+27. Madonna
+28. Lady Gaga
+29. Katy Perry
+30. Lily Allen
+31. Arctic Monkeys
+32. Placebo
+33. Muse
+34. Pink Floyd
+35. U2
+36. Nirvana
+37. Led Zeppelin
+38. Metallica
+39. Iron Maiden
+40. Björk
+41. Nine Inch Nails
+42. Daft Punk
+43. Linkin Park
+44. Coldplay
+45. Blur
+46. Duran Duran
+47. Michael Jackson
+48. Amy Winehouse
+49. Green Day
+50. The Cure

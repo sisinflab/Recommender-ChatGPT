@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Brave New World by Aldous Huxley
+6. The Bell Jar by Sylvia Plath
+7. One Hundred Years of Solitude by Gabriel Garcia Marquez
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Stranger by Albert Camus
+10. The Road by Cormac McCarthy
+11. The Handmaid's Tale by Margaret Atwood
+12. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+13. The Sun Also Rises by Ernest Hemingway
+14. The Old Man and the Sea by Ernest Hemingway
+15. The Grapes of Wrath by John Steinbeck
+16. East of Eden by John Steinbeck
+17. The Stand by Stephen King
+18. It by Stephen King
+19. The Shining by Stephen King
+20. Carrie by Stephen King
+21. The Dark Tower series by Stephen King
+22. The Martian Chronicles by Ray Bradbury
+23. Something Wicked This Way Comes by Ray Bradbury
+24. The Illustrated Man by Ray Bradbury
+25. The Martian by Andy Weir
+26. The Name of the Wind by Patrick Rothfuss
+27. The Hunger Games by Suzanne Collins
+28. Catching Fire by Suzanne Collins
+29. Mockingjay by Suzanne Collins
+30. The Maze Runner by James Dashner
+31. The Giver by Lois Lowry
+32. The Outsiders by S.E. Hinton
+33. Lord of the Flies by William Golding
+34. Animal Farm by George Orwell
+35. The Hobbit by J.R.R. Tolkien
+36. The Lord of the Rings trilogy by J.R.R. Tolkien
+37. The Chronicles of Narnia series by C.S. Lewis
+38. The Harry Potter series by J.K. Rowling
+39. The Girl with the Dragon Tattoo by Stieg Larsson
+40. The Da Vinci Code by Dan Brown
+41. Angels and Demons by Dan Brown
+42. The Bourne Identity by Robert Ludlum
+43. The Silence of the Lambs by Thomas Harris
+44. The Girl on the Train by Paula Hawkins
+45. The Help by Kathryn Stockett
+46. The Color Purple by Alice Walker
+47. The Joy Luck Club by Amy Tan
+48. The Kite Runner by Khaled Hosseini
+49. A Thousand Splendid Suns by Khaled Hosseini
+50. The Alchemist by Paulo Coelho

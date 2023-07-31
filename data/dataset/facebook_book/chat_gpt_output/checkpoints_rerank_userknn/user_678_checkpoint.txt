@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. The Catcher in the Rye by J.D. Salinger
+3. The Great Gatsby by F. Scott Fitzgerald
+4. 1984 by George Orwell
+5. Animal Farm by George Orwell
+6. The Book Thief by Markus Zusak
+7. The Fault in Our Stars by John Green
+8. The Girl with the Dragon Tattoo by Stieg Larsson
+9. The Da Vinci Code by Dan Brown
+10. The Help by Kathryn Stockett
+11. The Lovely Bones by Alice Sebold
+12. The Maze Runner by James Dashner
+13. The Perks of Being a Wallflower by Stephen Chbosky
+14. The Picture of Dorian Gray by Oscar Wilde
+15. The Road by Cormac McCarthy
+16. The Secret Life of Bees by Sue Monk Kidd
+17. The Shining by Stephen King
+18. The Stand by Stephen King
+19. The Time Traveler's Wife by Audrey Niffenegger
+20. The Twilight Saga by Stephenie Meyer
+21. The Wind-Up Bird Chronicle by Haruki Murakami
+22. A Clockwork Orange by Anthony Burgess
+23. A Confederacy of Dunces by John Kennedy Toole
+24. A Game of Thrones by George R.R. Martin
+25. A Prayer for Owen Meany by John Irving
+26. A Tale of Two Cities by Charles Dickens
+27. American Gods by Neil Gaiman
+28. And Then There Were None by Agatha Christie
+29. Angels and Demons by Dan Brown
+30. Anna Karenina by Leo Tolstoy
+31. Atlas Shrugged by Ayn Rand
+32. Beloved by Toni Morrison
+33. Brave New World by Aldous Huxley
+34. Catch-22 by Joseph Heller
+35. Crime and Punishment by Fyodor Dostoevsky
+36. Dracula by Bram Stoker
+37. Ender's Game by Orson Scott Card
+38. Fahrenheit 451 by Ray Bradbury
+39. Fight Club by Chuck Palahniuk
+40. Frankenstein by Mary Shelley
+41. Gone Girl by Gillian Flynn
+42. Heart of Darkness by Joseph Conrad
+43. House of Leaves by Mark Z. Danielewski
+44. I Am Legend by Richard Matheson
+45. Jane Eyre by Charlotte Bronte
+46. Les Miserables by Victor Hugo
+47. Life of Pi by Yann Martel
+48. Lolita by Vladimir Nabokov
+49. Lord of the Flies by William Golding
+50. Moby-Dick by Herman Melville

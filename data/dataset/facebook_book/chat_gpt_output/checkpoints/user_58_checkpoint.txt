@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. Brave New World by Aldous Huxley
+4. Fahrenheit 451 by Ray Bradbury
+5. The Catcher in the Rye by J.D. Salinger
+6. To Kill a Mockingbird by Harper Lee
+7. The Great Gatsby by F. Scott Fitzgerald
+8. Lord of the Flies by William Golding
+9. The Hobbit by J.R.R. Tolkien
+10. The Fellowship of the Ring by J.R.R. Tolkien
+11. The Two Towers by J.R.R. Tolkien
+12. The Return of the King by J.R.R. Tolkien
+13. The Silmarillion by J.R.R. Tolkien
+14. The Chronicles of Narnia by C.S. Lewis
+15. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+16. The Da Vinci Code by Dan Brown
+17. Angels and Demons by Dan Brown
+18. The Girl with the Dragon Tattoo by Stieg Larsson
+19. The Girl Who Played with Fire by Stieg Larsson
+20. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+21. The Hunger Games by Suzanne Collins
+22. Catching Fire by Suzanne Collins
+23. Mockingjay by Suzanne Collins
+24. Divergent by Veronica Roth
+25. Insurgent by Veronica Roth
+26. Allegiant by Veronica Roth
+27. The Maze Runner by James Dashner
+28. The Scorch Trials by James Dashner
+29. The Death Cure by James Dashner
+30. The Giver by Lois Lowry
+31. Gathering Blue by Lois Lowry
+32. Messenger by Lois Lowry
+33. Son by Lois Lowry
+34. The Alchemist by Paulo Coelho
+35. Veronika Decides to Die by Paulo Coelho
+36. The Zahir by Paulo Coelho
+37. The Picture of Dorian Gray by Oscar Wilde
+38. The Importance of Being Earnest by Oscar Wilde
+39. Pride and Prejudice by Jane Austen
+40. Sense and Sensibility by Jane Austen
+41. Emma by Jane Austen
+42. Persuasion by Jane Austen
+43. Mansfield Park by Jane Austen
+44. Around the World in Eighty Days by Jules Verne
+45. Journey to the Center of the Earth by Jules Verne
+46. Twenty Thousand Leagues Under the Sea by Jules Verne
+47. The Hamlet by William Faulkner
+48. A Wrinkle in Time by Madeleine L'Engle
+49. The Dark is Rising by Susan Cooper
+50. God Is Not Great by Christopher Hitchens

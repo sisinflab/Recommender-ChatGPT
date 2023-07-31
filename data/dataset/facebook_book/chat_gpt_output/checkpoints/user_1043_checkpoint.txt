@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+2. 1984 by George Orwell
+3. Brave New World by Aldous Huxley
+4. Sapiens: A Brief History of Humankind by Yuval Noah Harari
+5. The God Delusion by Richard Dawkins
+6. The Selfish Gene by Richard Dawkins
+7. The Blind Watchmaker by Richard Dawkins
+8. The Origin of Species by Charles Darwin
+9. The Elegant Universe by Brian Greene
+10. The Fabric of the Cosmos by Brian Greene
+11. The Grand Design by Stephen Hawking and Leonard Mlodinow
+12. The Universe in a Nutshell by Stephen Hawking
+13. The Theory of Everything by Stephen Hawking
+14. The Elegant Universe by Brian Greene
+15. The Structure of Scientific Revolutions by Thomas S. Kuhn
+16. The Demon-Haunted World: Science as a Candle in the Dark by Carl Sagan
+17. The Dragons of Eden: Speculations on the Evolution of Human Intelligence by Carl Sagan
+18. The Varieties of Scientific Experience: A Personal View of the Search for God by Carl Sagan
+19. The God Particle: If the Universe Is the Answer, What Is the Question? by Leon Lederman
+20. The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory by Brian Greene
+21. The Hidden Reality: Parallel Universes and the Deep Laws of the Cosmos by Brian Greene
+22. The Fabric of Reality: The Science of Parallel Universes--and Its Implications by David Deutsch
+23. The Beginning of Infinity: Explanations That Transform the World by David Deutsch
+24. The End of Faith: Religion, Terror, and the Future of Reason by Sam Harris
+25. The Moral Landscape: How Science Can Determine Human Values by Sam Harris
+26. The Better Angels of Our Nature: Why Violence Has Declined by Steven Pinker
+27. Enlightenment Now: The Case for Reason, Science, Humanism, and Progress by Steven Pinker
+28. The Selfish Gene: 40th Anniversary Edition by Richard Dawkins
+29. The Extended Phenotype: The Long Reach of the Gene by Richard Dawkins
+30. The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe without Design by Richard Dawkins
+31. The Ancestor's Tale: A Pilgrimage to the Dawn of Evolution by Richard Dawkins
+32. The Greatest Show on Earth: The Evidence for Evolution by Richard Dawkins
+33. The Magic of Reality: How We Know What's Really True by Richard Dawkins
+34. The God Delusion: 10th Anniversary Edition by Richard Dawkins
+35. The Origin of Species: 150th Anniversary Edition by Charles Darwin
+36. The Lean Toolbox by John
+37. The Old Man and the Sea by Ernest Hemingway
+38. The Catcher in the Rye by J.D. Salinger
+39. Franny and Zooey by J.D. Salinger
+40. Nine Stories by J.D. Salinger
+41. The Bell Jar by Sylvia Plath
+42. The Wise Man's Fear by Patrick Rothfuss
+43. The Lean Toolbox by John
+44. The Old Man and the Sea by Ernest Hemingway
+45. The Catcher in the Rye by J.D. Salinger
+46. Franny and Zooey by J.D. Salinger
+47. Nine Stories by J.D. Salinger
+48. The Bell Jar by Sylvia Plath
+49. The Wise Man's Fear by Patrick Rothfuss
+50. The Lean Toolbox by John

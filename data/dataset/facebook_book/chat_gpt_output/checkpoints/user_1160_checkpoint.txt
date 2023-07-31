@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Twilight (Twilight, #1) by Stephenie Meyer
+2. City of Bones (The Mortal Instruments, #1) by Cassandra Clare
+3. The Hunger Games (The Hunger Games, #1) by Suzanne Collins
+4. The Maze Runner (The Maze Runner, #1) by James Dashner
+5. Divergent (Divergent, #1) by Veronica Roth
+6. The Fault in Our Stars by John Green
+7. The Giver (The Giver, #1) by Lois Lowry
+8. The Selection (The Selection, #1) by Kiera Cass
+9. The Host (The Host, #1) by Stephenie Meyer
+10. The Vampire Lestat (The Vampire Chronicles, #2) by Anne Rice
+11. The Witching Hour (Lives of the Mayfair Witches, #1) by Anne Rice
+12. Interview with the Vampire (The Vampire Chronicles, #1) by Anne Rice
+13. The Vampire Armand (The Vampire Chronicles, #6) by Anne Rice
+14. The Vampire Diaries: The Awakening (The Vampire Diaries, #1) by L.J. Smith
+15. The Vampire Diaries: The Struggle (The Vampire Diaries, #2) by L.J. Smith
+16. The Vampire Diaries: The Fury (The Vampire Diaries, #3) by L.J. Smith
+17. The Vampire Diaries: Dark Reunion (The Vampire Diaries, #4) by L.J. Smith
+18. The Vampire Diaries: The Return: Nightfall (The Vampire Diaries, #5) by L.J. Smith
+19. The Vampire Diaries: The Return: Shadow Souls (The Vampire Diaries, #6) by L.J. Smith
+20. The Vampire Diaries: The Return: Midnight (The Vampire Diaries, #7) by L.J. Smith
+21. The Vampire Diaries: The Hunters: Phantom (The Vampire Diaries, #1) by L.J. Smith
+22. The Vampire Diaries: The Hunters: Moonsong (The Vampire Diaries, #2) by L.J. Smith
+23. The Vampire Diaries: The Hunters: Destiny Rising (The Vampire Diaries, #3) by L.J. Smith
+24. The Southern Vampire Mysteries Box Set (Sookie Stackhouse, #1-9) by Charlaine Harris
+25. The Southern Vampire Mysteries Companion by Charlaine Harris
+26. The Southern Vampire Mysteries: Dead Until Dark
+27. Living Dead in Dallas
+28. Club Dead
+29. Dead to the World
+30. Dead as a Doornail
+31. Definitely Dead
+32. All Together Dead
+33. From Dead to Worse
+34. Dead and Gone
+35. Dead in the Family
+36. Dead Reckoning
+37. Deadlocked
+38. Wizard and Glass by Stephen King
+39. Wolves of the Calla by Stephen King
+40. Song of Susannah by Stephen King
+41. The Dark Tower by Stephen King
+42. The Name of the Wind by Patrick Rothfuss
+43. The Wise Man's Fear by Patrick Rothfuss
+44. Wizard and Glass by Stephen King
+45. Wolves of the Calla by Stephen King
+46. Song of Susannah by Stephen King
+47. The Dark Tower by Stephen King
+48. The Name of the Wind by Patrick Rothfuss
+49. The Wise Man's Fear by Patrick Rothfuss
+50. The Wise Man's Fear by Patrick Rothfuss

@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hellbound Heart by Clive Barker
+2. The Blind Assassin by Margaret Atwood
+3. Nineteen Eighty-Four by George Orwell
+4. Oryx and Crake by Margaret Atwood
+5. The Vampire Lestat by Anne Rice
+6. Dracula by Bram Stoker
+7. The Great Gatsby by F. Scott Fitzgerald
+8. Lolita by Vladimir Nabokov
+9. The Brothers Karamazov by Fyodor Dostoevsky
+10. American Psycho by Bret Easton Ellis
+11. Girl, Interrupted by Susanna Kaysen
+12. Revolutionary Road by Richard Yates
+13. Gone with the Wind by Margaret Mitchell
+14. Romeo and Juliet by William Shakespeare
+15. Angels & Demons by Dan Brown
+16. Sense and Sensibility and Sea Monsters by Jane Austen and Ben H. Winters
+17. The Waste Land by T. S. Eliot
+18. Reading Lolita in Tehran by Azar Nafisi
+19. The Time Machine by H. G. Wells
+20. Pride and Prejudice and Zombies by Seth Grahame-Smith
+21. Books of Blood by Clive Barker
+22. Nine Stories by J. D. Salinger
+23. The Bell Jar by Sylvia Plath
+24. Tess of the d'Urbervilles by Thomas Hardy
+25. The Silence of the Lambs by Thomas Harris
+26. Prozac Nation by Elizabeth Wurtzel
+27. Charlie and the Chocolate Factory by Roald Dahl
+28. Adventures of Huckleberry Finn by Mark Twain
+29. Love, Stargirl by Jerry Spinelli
+30. Everything Is Illuminated by Jonathan Safran Foer
+31. Go Ask Alice by Anonymous
+32. The Crow by James O'Barr
+33. G�del, Escher, Bach by Douglas Hofstadter
+34. Hannibal by Thomas Harris
+35. Wintergirls by Laurie Halse Anderson
+36. My �ntonia by Willa Cather
+37. Gaunt's Ghosts by Dan Abnett
+38. Stupid White Men ...and Other Sorry Excuses for the State of the Nation! by Michael Moore
+39. A Swiftly Tilting Planet by Madeleine L'Engle
+40. The Lovely Bones by Alice Sebold
+41. Harry Potter by J.K. Rowling
+42. For One More Day by Mitch Albom
+43. Les Mis�rables by Victor Hugo
+44. Jarhead by Anthony Swofford
+45. Goodnight Moon by Margaret Wise Brown
+46. Digital Fortress by Dan Brown
+47. The Queen of the Damned by Anne Rice
+48. The Hamlet by William Faulkner
+49. The Dirt by Tommy Lee, Vince Neil, Mick Mars

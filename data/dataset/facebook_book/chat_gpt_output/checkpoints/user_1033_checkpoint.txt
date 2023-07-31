@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. Brave New World by Aldous Huxley
+5. Animal Farm by George Orwell
+6. The Great Gatsby by F. Scott Fitzgerald
+7. One Hundred Years of Solitude by Gabriel Garcia Marquez
+8. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+9. The Hobbit by J.R.R. Tolkien
+10. The Fellowship of the Ring by J.R.R. Tolkien
+11. The Two Towers by J.R.R. Tolkien
+12. The Return of the King by J.R.R. Tolkien
+13. The Chronicles of Narnia by C.S. Lewis
+14. The Da Vinci Code by Dan Brown
+15. Angels and Demons by Dan Brown
+16. The Girl with the Dragon Tattoo by Stieg Larsson
+17. The Girl Who Played with Fire by Stieg Larsson
+18. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+19. The Hunger Games by Suzanne Collins
+20. Catching Fire by Suzanne Collins
+21. Mockingjay by Suzanne Collins
+22. The Road by Cormac McCarthy
+23. No Country for Old Men by Cormac McCarthy
+24. All the Pretty Horses by Cormac McCarthy
+25. The Name of the Wind by Patrick Rothfuss
+26. The Wise Man's Fear by Patrick Rothfuss
+27. The Dark Tower series by Stephen King
+28. The Stand by Stephen King
+29. It by Stephen King
+30. The Shining by Stephen King
+31. The Silence of the Lambs by Thomas Harris
+32. Red Dragon by Thomas Harris
+33. Hannibal by Thomas Harris
+34. The Bourne Identity by Robert Ludlum
+35. The Bourne Supremacy by Robert Ludlum
+36. The Bourne Ultimatum by Robert Ludlum
+37. The Martian by Andy Weir
+38. Ready Player One by Ernest Cline
+39. Ender's Game by Orson Scott Card
+40. Speaker for the Dead by Orson Scott Card
+41. Xenocide by Orson Scott Card
+42. Children of the Mind by Orson Scott Card
+43. The Alchemist by Paulo Coelho
+44. The Picture of Dorian Gray by Oscar Wilde
+45. The Count of Monte Cristo by Alexandre Dumas
+46. Les Miserables by Victor Hugo
+47. Crime and Punishment by Fyodor Dostoevsky
+48. The Brothers Karamazov by Fyodor Dostoevsky
+49. War and Peace by Leo Tolstoy
+50. Anna Karenina by Leo Tolstoy

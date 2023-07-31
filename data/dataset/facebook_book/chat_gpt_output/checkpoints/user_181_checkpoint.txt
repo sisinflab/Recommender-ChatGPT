@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Crime and Punishment by Fyodor Dostoevsky
+2. One Hundred Years of Solitude by Gabriel Garcia Marquez
+3. To Kill a Mockingbird by Harper Lee
+4. The Catcher in the Rye by J.D. Salinger
+5. The Brothers Karamazov by Fyodor Dostoevsky
+6. The Picture of Dorian Gray by Oscar Wilde
+7. The Great Gatsby by F. Scott Fitzgerald
+8. The Adventures of Huckleberry Finn by Mark Twain
+9. The Count of Monte Cristo by Alexandre Dumas
+10. The Stranger by Albert Camus
+11. Heart of Darkness by Joseph Conrad
+12. The Bell Jar by Sylvia Plath
+13. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+14. The Hobbit by J.R.R. Tolkien
+15. The Lord of the Rings by J.R.R. Tolkien
+16. The Shining by Stephen King
+17. The Stand by Stephen King
+18. The Road by Cormac McCarthy
+19. The Handmaid's Tale by Margaret Atwood
+20. Brave New World by Aldous Huxley
+21. Slaughterhouse-Five by Kurt Vonnegut
+22. Catch-22 by Joseph Heller
+23. The Sun Also Rises by Ernest Hemingway
+24. For Whom the Bell Tolls by Ernest Hemingway
+25. The Old Man and the Sea by Ernest Hemingway
+26. The Grapes of Wrath by John Steinbeck
+27. East of Eden by John Steinbeck
+28. The Sound and the Fury by William Faulkner
+29. As I Lay Dying by William Faulkner
+30. The Divine Comedy by Dante Alighieri
+31. Les Miserables by Victor Hugo
+32. War and Peace by Leo Tolstoy
+33. Anna Karenina by Leo Tolstoy
+34. The Idiot by Fyodor Dostoevsky
+35. The Trial by Franz Kafka
+36. The Metamorphosis by Franz Kafka
+37. The Plague by Albert Camus
+38. The Name of the Rose by Umberto Eco
+39. The Shadow of the Wind by Carlos Ruiz Zafon
+40. The Girl with the Dragon Tattoo by Stieg Larsson
+41. The Hunger Games by Suzanne Collins
+42. Harry Potter and the Philosopher's Stone by J.K. Rowling
+43. The Da Vinci Code by Dan Brown
+44. Angels and Demons by Dan Brown
+45. The Girl on the Train by Paula Hawkins
+46. Gone Girl by Gillian Flynn
+47. The Lovely Bones by Alice Sebold
+48. Life of Pi by Yann Martel
+49. The Alchemist by Paulo Coelho
+50.

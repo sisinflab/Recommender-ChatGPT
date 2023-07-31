@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter by J.K. Rowling
+2. The Hunger Games by Suzanne Collins
+3. The Catcher in the Rye by J.D. Salinger
+4. His Dark Materials by Philip Pullman
+5. Looking for Alaska by John Green
+6. Paper Towns by John Green
+7. An Abundance of Katherines by John Green
+8. The Truth About Forever by Sarah Dessen
+9. Keeping the Moon by Sarah Dessen
+10. A Tree Grows in Brooklyn by Betty Smith
+11. The Picture of Dorian Gray by Oscar Wilde
+12. Les Misérables by Victor Hugo
+13. The Lord of the Rings by J.R.R. Tolkien
+14. The Hobbit by J.R.R. Tolkien
+15. The Outsiders by S.E. Hinton
+16. Speak by Laurie Halse Anderson
+17. Catching Fire by Suzanne Collins
+18. The Perks of Being a Wallflower by Stephen Chbosky
+19. The Lovely Bones by Alice Sebold
+20. Girl, Interrupted by Susanna Kaysen
+21. The Great Gatsby by F. Scott Fitzgerald
+22. Little Women by Louisa May Alcott
+23. Inkheart by Cornelia Funke
+24. A Wrinkle in Time by Madeleine L'Engle
+25. The Alchemist by Paulo Coelho
+26. Peter and Wendy by J.M. Barrie
+27. The Joy Luck Club by Amy Tan
+28. Burned by Ellen Hopkins
+29. Unwind by Neal Shusterman
+30. The Scarlet Pimpernel by Baroness Orczy
+31. Dracula by Bram Stoker
+32. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+33. Percy Jackson & the Olympians by Rick Riordan
+34. Jitterbug Perfume by Tom Robbins
+35. Never Let Me Go by Kazuo Ishiguro
+36. The Bean Trees by Barbara Kingsolver
+37. The Princess Bride by William Goldman
+38. Handle with Care by Jodi Picoult
+39. Son of a Witch by Gregory Maguire
+40. The Da Vinci Code by Dan Brown
+41. Angels & Demons by Dan Brown
+42. Candide by Voltaire
+43. Inkspell by Cornelia Funke
+44. Hairstyles of the Damned by Joe Meno
+45. Will Grayson, Will Grayson by John Green and David Levithan
+46. The Land of Elyon by Patrick Carman
+47. Touching Spirit Bear by Ben Mikaelsen
+48. Bunnicula: A Rabbit-Tale of Mystery by Deborah and James Howe
+49. Born to Rock by Gordon Korman
+50. 13 Little Blue Envelopes by Maureen Johnson

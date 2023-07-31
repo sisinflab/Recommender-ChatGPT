@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. To Kill a Mockingbird by Harper Lee
+3. The Great Gatsby by F. Scott Fitzgerald
+4. 1984 by George Orwell
+5. The Catcher in the Rye by J.D. Salinger
+6. The Hunger Games by Suzanne Collins
+7. Harry Potter and the Philosopher's Stone by J.K. Rowling
+8. The Fault in Our Stars by John Green
+9. The Girl with the Dragon Tattoo by Stieg Larsson
+10. The Da Vinci Code by Dan Brown
+11. The Help by Kathryn Stockett
+12. The Kite Runner by Khaled Hosseini
+13. The Book Thief by Markus Zusak
+14. The Time Traveler's Wife by Audrey Niffenegger
+15. The Lovely Bones by Alice Sebold
+16. The Picture of Dorian Gray by Oscar Wilde
+17. The Road by Cormac McCarthy
+18. The Handmaid's Tale by Margaret Atwood
+19. The Alchemist by Paulo Coelho
+20. The Chronicles of Narnia by C.S. Lewis
+21. The Lord of the Flies by William Golding
+22. The Secret Life of Bees by Sue Monk Kidd
+23. The Color Purple by Alice Walker
+24. The Bell Jar by Sylvia Plath
+25. The Sun Also Rises by Ernest Hemingway
+26. The Old Man and the Sea by Ernest Hemingway
+27. The Adventures of Huckleberry Finn by Mark Twain
+28. The Adventures of Tom Sawyer by Mark Twain
+29. The Count of Monte Cristo by Alexandre Dumas
+30. Les Misérables by Victor Hugo
+31. Wuthering Heights by Emily Bronte
+32. Jane Eyre by Charlotte Bronte
+33. Little Women by Louisa May Alcott
+34. The Scarlet Letter by Nathaniel Hawthorne
+35. Frankenstein by Mary Shelley
+36. Dracula by Bram Stoker
+37. The Shining by Stephen King
+38. The Stand by Stephen King
+39. The Green Mile by Stephen King
+40. The Silence of the Lambs by Thomas Harris
+41. The Bourne Identity by Robert Ludlum
+42. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+43. The Name of the Wind by Patrick Rothfuss
+44. The Way of Kings by Brandon Sanderson
+45. The Lies of Locke Lamora by Scott Lynch
+46. The Blade Itself by Joe Abercrombie
+47. The Final Empire by Brandon Sanderson
+48. The Eye of the World by Robert Jordan
+49. The Fellowship of the Ring by J.R.R. Tolkien
+50. The Two Towers by J.R.R. Tolkien

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Linkin Park
+2. Disturbed
+3. Slipknot
+4. System of a Down
+5. Avenged Sevenfold
+6. Iron Maiden
+7. Judas Priest
+8. Deftones
+9. Marilyn Manson
+10. Three Days Grace
+11. Ramones
+12. Pantera
+13. Dio
+14. Fear Factory
+15. Misfits
+16. Lacuna Coil
+17. Scary Kids Scaring Kids
+18. Creed
+19. Escape The Fate
+20. Alter Bridge
+21. Radiohead
+22. My Chemical Romance
+23. The Beatles
+24. Frankmusik
+25. Jeffree Star
+26. The Rocket Summer
+27. Atreyu
+28. Fightstar
+29. Journey
+30. Gorillaz
+31. Phoenix
+32. Coldplay
+33. Belle and Sebastian
+34. The Flashbulb
+35. Bob Dylan
+36. Eric Clapton
+37. Queen
+38. Lady Gaga
+39. Paul McCartney
+40. Owl City
+41. The Doors
+42. Rammstein
+43. Muse
+44. Led Zeppelin
+45. Jason Mraz
+46. Wilco
+47. The Who
+48. Boards of Canada
+49. Johann Sebastian Bach
+50. Leonard Cohen

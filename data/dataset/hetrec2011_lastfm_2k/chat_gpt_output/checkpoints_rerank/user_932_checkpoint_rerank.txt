@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for user 932 would be:
+
+1. Enigma
+2. Antonio Vivaldi
+3. Modern Talking
+4. t.A.T.u.
+5. Westlife
+6. Ария
+7. Ace of Base
+8. Alphaville
+9. Pet Shop Boys
+10. Erasure
+11. Groove Coverage
+12. Mylène Farmer
+13. The Rasmus
+14. Gregorian
+15. Mika
+16. Billy Joel
+17. Bee Gees
+18. Avril Lavigne
+19. The Beatles
+20. Lady Gaga
+21. Depeche Mode
+22. Madonna
+23. Rihanna
+24. Shakira
+25. Christina Aguilera
+26. Paramore
+27. Katy Perry
+28. Taylor Swift
+29. Evanescence
+30. Glee Cast
+31. Beyoncé
+32. U2
+33. 30 Seconds to Mars
+34. Muse
+35. Pink Floyd
+36. Kylie Minogue
+37. Miley Cyrus
+38. Radiohead
+39. Ke$ha
+40. Duran Duran
+41. Coldplay
+42. Blur
+43. Arctic Monkeys
+44. Placebo
+45. The Killers
+46. Nirvana
+47. Iron Maiden
+48. Led Zeppelin
+49. Metallica
+50. Michael Jackson

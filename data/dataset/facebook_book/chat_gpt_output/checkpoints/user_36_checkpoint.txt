@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Brave New World by Aldous Huxley
+2. Fahrenheit 451 by Ray Bradbury
+3. The Catcher in the Rye by J.D. Salinger
+4. To Kill a Mockingbird by Harper Lee
+5. Crime and Punishment by Fyodor Dostoevsky
+6. The Great Gatsby by F. Scott Fitzgerald
+7. One Hundred Years of Solitude by Gabriel Garcia Marquez
+8. The Brothers Karamazov by Fyodor Dostoevsky
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Stranger by Albert Camus
+11. Heart of Darkness by Joseph Conrad
+12. The Road by Cormac McCarthy
+13. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+14. The Hobbit by J.R.R. Tolkien
+15. The Silmarillion by J.R.R. Tolkien
+16. The Name of the Wind by Patrick Rothfuss
+17. The Wise Man's Fear by Patrick Rothfuss
+18. The Dark Tower series by Stephen King
+19. The Stand by Stephen King
+20. The Shining by Stephen King
+21. The Girl with the Dragon Tattoo by Stieg Larsson
+22. The Hunger Games by Suzanne Collins
+23. Catching Fire by Suzanne Collins
+24. Mockingjay by Suzanne Collins
+25. The Da Vinci Code by Dan Brown
+26. Angels and Demons by Dan Brown
+27. Inferno by Dan Brown
+28. The Girl on the Train by Paula Hawkins
+29. Gone Girl by Gillian Flynn
+30. The Silence of the Lambs by Thomas Harris
+31. Red Dragon by Thomas Harris
+32. Hannibal by Thomas Harris
+33. The Bourne Identity by Robert Ludlum
+34. The Bourne Supremacy by Robert Ludlum
+35. The Bourne Ultimatum by Robert Ludlum
+36. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+37. The Girl Who Played with Fire by Stieg Larsson
+38. The Girl in the Spider's Web by David Lagercrantz
+39. The Martian by Andy Weir
+40. Ready Player One by Ernest Cline
+41. Snow Crash by Neal Stephenson
+42. Neuromancer by William Gibson
+43. Ender's Game by Orson Scott Card
+44. Speaker for the Dead by Orson Scott Card
+45. Xenocide by Orson Scott Card
+46. Children of the Mind by Orson Scott Card
+47. The Foundation series by Isaac Asimov
+48. Dune by Frank Herbert
+49. The Chronicles of Narnia by C.S. Lewis
+50. The Harry Potter series by J.K. Rowling

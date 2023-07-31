@@ -1,0 +1,20 @@
+[
+    {
+        "default_validation_metric": "nDCG",
+        "default_validation_cutoff": 10,
+        "rel_threshold": 0
+    },
+    {
+        "meta": {
+            "save_recs": true,
+            "save_weights": true,
+            "verbose": true
+        },
+        "recommender": "UserKNN_nn=100_sim=cosine_imp=standard_bin=False_shrink=0_norm=True_asymalpha=_tvalpha=_tvbeta=_rweights=",
+        "configuration": {
+            "neighbors": 100,
+            "similarity": "cosine",
+            "name": "UserKNN_nn=100_sim=cosine_imp=standard_bin=False_shrink=0_norm=True_asymalpha=_tvalpha=_tvbeta=_rweights="
+        }
+    }
+]

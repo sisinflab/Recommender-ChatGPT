@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. Brave New World by Aldous Huxley
+4. The Catcher in the Rye by J.D. Salinger
+5. To Kill a Mockingbird by Harper Lee
+6. Lord of the Flies by William Golding
+7. The Picture of Dorian Gray by Oscar Wilde
+8. The Bell Jar by Sylvia Plath
+9. One Hundred Years of Solitude by Gabriel Garcia Marquez
+10. Crime and Punishment by Fyodor Dostoevsky
+11. The Brothers Karamazov by Fyodor Dostoevsky
+12. The Stranger by Albert Camus
+13. The Trial by Franz Kafka
+14. The Metamorphosis by Franz Kafka
+15. Heart of Darkness by Joseph Conrad
+16. The Sun Also Rises by Ernest Hemingway
+17. A Farewell to Arms by Ernest Hemingway
+18. For Whom the Bell Tolls by Ernest Hemingway
+19. The Old Man and the Sea by Ernest Hemingway
+20. The Great Gatsby by F. Scott Fitzgerald
+21. Tender Is the Night by F. Scott Fitzgerald
+22. Slaughterhouse-Five by Kurt Vonnegut
+23. Cat's Cradle by Kurt Vonnegut
+24. Breakfast of Champions by Kurt Vonnegut
+25. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+26. The Hobbit by J.R.R. Tolkien
+27. The Lord of the Rings by J.R.R. Tolkien
+28. The Silmarillion by J.R.R. Tolkien
+29. The Chronicles of Narnia by C.S. Lewis
+30. The Dark Tower series by Stephen King
+31. The Shining by Stephen King
+32. It by Stephen King
+33. The Stand by Stephen King
+34. The Gunslinger by Stephen King
+35. The Name of the Wind by Patrick Rothfuss
+36. The Wise Man's Fear by Patrick Rothfuss
+37. The Hunger Games by Suzanne Collins
+38. Catching Fire by Suzanne Collins
+39. Mockingjay by Suzanne Collins
+40. Dune by Frank Herbert
+41. Ender's Game by Orson Scott Card
+42. Speaker for the Dead by Orson Scott Card
+43. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+44. The Martian by Andy Weir
+45. Ready Player One by Ernest Cline
+46. Snow Crash by Neal Stephenson
+47. Neuromancer by William Gibson
+48. Do Androids Dream of Electric Sheep? by Philip K. Dick
+49. The War of the Worlds by H.G. Wells
+50. The Time Machine by H.G. Wells

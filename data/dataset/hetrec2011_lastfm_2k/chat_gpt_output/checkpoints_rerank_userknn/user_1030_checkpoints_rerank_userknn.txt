@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Metallica
+2. Pantera
+3. Slayer
+4. Exodus
+5. Municipal Waste
+6. All Shall Perish
+7. Hatebreed
+8. Despised Icon
+9. Parkway Drive
+10. Caliban
+11. In Flames
+12. Heaven Shall Burn
+13. Arch Enemy
+14. Killswitch Engage
+15. Anthrax
+16. Disturbed
+17. Fear Factory
+18. Ill Niño
+19. Suicide Silence
+20. The Black Dahlia Murder
+21. Rise Against
+22. The Offspring
+23. Bad Religion
+24. Volbeat
+25. Bonobo
+26. Incubus
+27. Audioslave
+28. Joy Division
+29. Radiohead
+30. The White Stripes
+31. Muse
+32. Stone Sour
+33. J Dilla
+34. Madlib
+35. De La Soul
+36. Gnarls Barkley
+37. Lupe Fiasco
+38. Mos Def
+39. System of a Down
+40. Nirvana
+41. Franz Ferdinand
+42. The Kooks
+43. The Hives
+44. Linkin Park
+45. U2
+46. Red Hot Chili Peppers
+47. Creed
+48. Jack Johnson
+49. August Burns Red
+50. Judas Priest

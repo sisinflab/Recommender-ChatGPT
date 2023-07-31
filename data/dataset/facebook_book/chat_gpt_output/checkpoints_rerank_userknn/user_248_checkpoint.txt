@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Harry Potter
+2. The Lord of the Rings
+3. Wuthering Heights
+4. The Count of Monte Cristo
+5. Les Misérables
+6. The Hobbit
+7. One Hundred Years of Solitude
+8. The Picture of Dorian Gray
+9. The Phantom Tollbooth
+10. The Old Man and the Sea
+11. Adventures of Huckleberry Finn
+12. The Snow Queen
+13. The Lightning Thief
+14. The Pit and the Pendulum
+15. The Freedom Writers Diary
+16. The City of Ember
+17. The Lorax
+18. The Screwtape Letters
+19. The Watchmen (novel)
+20. The Glass Menagerie
+21. The Winter's Tale
+22. The Prince
+23. The Return of the Native
+24. The Outsiders (novel)
+25. A Wrinkle in Time
+26. Anthem (novella)
+27. Dear John (novel)
+28. Persuasion (novel)
+29. Macbeth
+30. Othello
+31. A Midsummer Night's Dream
+32. Silas Marner
+33. Don Quixote
+34. Symposium (Plato)
+35. King Leary
+36. His Dark Materials
+37. Brave New World
+38. Fahrenheit 451
+39. Nineteen Eighty-Four
+40. Scarecrow (novel)
+41. Charlie and the Chocolate Factory
+42. My Ántonia
+43. Jane Eyre
+44. Ivanhoe
+45. Romeo and Juliet
+46. Sun Bin's Art of War
+47. The Ugly Duckling
+48. Alice's Adventures in Wonderland
+49. Twilight (series)
+50. The 48 Laws of Power

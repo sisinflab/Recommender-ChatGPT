@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. Fahrenheit 451 by Ray Bradbury
+4. The Catcher in the Rye by J.D. Salinger
+5. Slaughterhouse-Five by Kurt Vonnegut
+6. The Road by Cormac McCarthy
+7. The Handmaid's Tale by Margaret Atwood
+8. The Hunger Games by Suzanne Collins
+9. Ender's Game by Orson Scott Card
+10. Dune by Frank Herbert
+11. The Lord of the Rings by J.R.R. Tolkien
+12. The Hobbit by J.R.R. Tolkien
+13. The Chronicles of Narnia by C.S. Lewis
+14. Harry Potter and the Philosopher's Stone by J.K. Rowling
+15. The Da Vinci Code by Dan Brown
+16. Angels and Demons by Dan Brown
+17. The Girl with the Dragon Tattoo by Stieg Larsson
+18. The Girl Who Played with Fire by Stieg Larsson
+19. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+20. The Silence of the Lambs by Thomas Harris
+21. Red Dragon by Thomas Harris
+22. Hannibal by Thomas Harris
+23. The Shining by Stephen King
+24. It by Stephen King
+25. Pet Sematary by Stephen King
+26. Misery by Stephen King
+27. The Dark Tower series by Stephen King
+28. The Name of the Wind by Patrick Rothfuss
+29. The Wise Man's Fear by Patrick Rothfuss
+30. The Lies of Locke Lamora by Scott Lynch
+31. The Blade Itself by Joe Abercrombie
+32. The Way of Kings by Brandon Sanderson
+33. Mistborn by Brandon Sanderson
+34. The Final Empire by Brandon Sanderson
+35. The Well of Ascension by Brandon Sanderson
+36. The Hero of Ages by Brandon Sanderson
+37. The Lies of Locke Lamora by Scott Lynch
+38. The First Law Trilogy by Joe Abercrombie
+39. The Kingkiller Chronicle by Patrick Rothfuss
+40. The Dresden Files by Jim Butcher
+41. The Belgariad by David Eddings
+42. The Malloreon by David Eddings
+43. The Wheel of Time by Robert Jordan
+44. The Stormlight Archive by Brandon Sanderson
+45. The Mistborn Trilogy by Brandon Sanderson
+46. The Lightbringer Series by Brent Weeks
+47. The Night Angel Trilogy by Brent Weeks
+48. The Black Prism by Brent Weeks
+49. The Broken Empire Trilogy by Mark Lawrence
+50. The Red Queen's War Trilogy by Mark Lawrence

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Pink Floyd
+3. Queen
+4. David Bowie
+5. The Beatles
+6. Arcade Fire
+7. Sigur Rós
+8. Depeche Mode
+9. The Cure
+10. Foo Fighters
+11. Green Day
+12. Guns N' Roses
+13. Johnny Cash
+14. Elton John
+15. Dire Straits
+16. Massive Attack
+17. The Killers
+18. Razorlight
+19. The Sisters of Mercy
+20. Pet Shop Boys
+21. Clint Mansell
+22. Mogwai
+23. Max Richter
+24. Brian Eno
+25. Michael Bublé
+26. A Perfect Circle
+27. Moby
+28. The Beach Boys
+29. Lostprophets
+30. Three Days Grace
+31. Sum 41
+32. Fort Minor
+33. Pendulum
+34. Funeral for a Friend
+35. Seether
+36. The Prodigy
+37. Boards of Canada
+38. Daft Punk
+39. Eminem
+40. Kanye West
+41. Michael Jackson
+42. Britney Spears
+43. Katy Perry
+44. Avril Lavigne
+45. Ke$ha
+46. Lily Allen
+47. Taylor Swift
+48. Kelly Clarkson
+49. The Veronicas
+50. Bob Marley

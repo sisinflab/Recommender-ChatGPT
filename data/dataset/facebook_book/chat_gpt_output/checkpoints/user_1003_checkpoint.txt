@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. Brave New World by Aldous Huxley
+4. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+5. The Lord of the Rings by J.R.R. Tolkien
+6. The Hobbit by J.R.R. Tolkien
+7. The Catcher in the Rye by J.D. Salinger
+8. The Great Gatsby by F. Scott Fitzgerald
+9. Animal Farm by George Orwell
+10. One Hundred Years of Solitude by Gabriel Garcia Marquez
+11. The Bell Jar by Sylvia Plath
+12. The Picture of Dorian Gray by Oscar Wilde
+13. The Stranger by Albert Camus
+14. The Road by Cormac McCarthy
+15. The Handmaid's Tale by Margaret Atwood
+16. The Stand by Stephen King
+17. The Shining by Stephen King
+18. The Girl with the Dragon Tattoo by Stieg Larsson
+19. The Da Vinci Code by Dan Brown
+20. The Hunger Games by Suzanne Collins
+21. Catch-22 by Joseph Heller
+22. The Brothers Karamazov by Fyodor Dostoevsky
+23. Crime and Punishment by Fyodor Dostoevsky
+24. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+25. The Complete Works of William Shakespeare
+26. The Divine Comedy by Dante Alighieri
+27. The Canterbury Tales by Geoffrey Chaucer
+28. The Iliad by Homer
+29. The Odyssey by Homer
+30. The Aeneid by Virgil
+31. The Inferno by Dante Alighieri
+32. The Republic by Plato
+33. The Prince by Niccolo Machiavelli
+34. The Art of War by Sun Tzu
+35. The Tao Te Ching by Lao Tzu
+36. The Book of Five Rings by Miyamoto Musashi
+37. The Analects by Confucius
+38. The Bhagavad Gita
+39. The Bible
+40. The Quran
+41. The Complete Works of Edgar Allan Poe
+42. The Complete Works of H.P. Lovecraft
+43. The Complete Works of Arthur Conan Doyle
+44. The Complete Works of Jane Austen
+45. The Complete Works of Charles Dickens
+46. The Complete Works of Mark Twain
+47. The Complete Works of William Faulkner
+48. The Complete Works of Ernest Hemingway
+49. The Complete Works of James Joyce
+50. The Complete Works of Virginia Woolf

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Name of the Rose by Umberto Eco
+2. Nineteen Eighty-Four by George Orwell
+3. Dracula by Bram Stoker
+4. Ulysses (novel) by James Joyce
+5. The Castle of Otranto by Horace Walpole
+6. Les Fleurs du mal by Charles Baudelaire
+7. Divine Comedy by Dante Alighieri
+8. The Prince by Niccolò Machiavelli
+9. Waiting for Godot by Samuel Beckett
+10. Don Quixote by Miguel de Cervantes
+11. The Brothers Karamazov by Fyodor Dostoevsky
+12. The Great Gatsby by F. Scott Fitzgerald
+13. The Count of Monte Cristo by Alexandre Dumas
+14. Romeo and Juliet by William Shakespeare
+15. Lolita by Vladimir Nabokov
+16. Macbeth by William Shakespeare
+17. The Scarlet Letter by Nathaniel Hawthorne
+18. The Raven by Edgar Allan Poe
+19. Thus Spoke Zarathustra by Friedrich Nietzsche
+20. Catch-22 by Joseph Heller
+21. Little Women by Louisa May Alcott
+22. The Fountainhead by Ayn Rand
+23. Fahrenheit 451 by Ray Bradbury
+24. The Time Machine by H.G. Wells
+25. Atlas Shrugged by Ayn Rand
+26. Antigone by Sophocles
+27. Le Morte d'Arthur by Thomas Malory
+28. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+29. The Book Thief by Markus Zusak
+30. The Lord of the Rings by J.R.R. Tolkien
+31. Siddhartha by Hermann Hesse
+32. Paradise Lost by John Milton
+33. Animal Farm by George Orwell
+34. Wuthering Heights by Emily Bronte
+35. And Then There Were None by Agatha Christie
+36. The Once and Future King by T.H. White
+37. The General's Daughter by Nelson DeMille
+38. Water for Elephants by Sara Gruen
+39. The Girl Next Door by Jack Ketchum
+40. Rhinoceros by Eugène Ionesco
+41. King Leary by Stephen Leacock
+42. The Messenger by Markus Zusak
+43. The Idiot by Fyodor Dostoevsky
+44. The Cask of Amontillado by Edgar Allan Poe
+45. Girl, Interrupted by Susanna Kaysen
+46. Pir-e-Kamil by Umera Ahmed
+47. And I Don't Want to Live This Life by Deborah Spungen
+48. Sun Bin's Art of War by Sun Bin
+49. Kay Scarpetta by Patricia Cornwell
+50. Wishful Drinking by Carrie Fisher

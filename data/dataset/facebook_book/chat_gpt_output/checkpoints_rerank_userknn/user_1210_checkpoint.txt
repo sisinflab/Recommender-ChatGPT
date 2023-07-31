@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Lovely Bones by Alice Sebold
+3. Go Ask Alice by Anonymous
+4. The Outsiders by S.E. Hinton
+5. The Heroin Diaries: A Year in the Life of a Shattered Rock Star by Nikki Sixx
+6. Uglies by Scott Westerfeld
+7. Pretty Little Liars by Sara Shepard
+8. Fallen by Lauren Kate
+9. 13 Little Blue Envelopes by Maureen Johnson
+10. The Giver by Lois Lowry
+11. A Wrinkle in Time by Madeleine L'Engle
+12. Looking for Alaska by John Green
+13. A Separate Peace by John Knowles
+14. East of Eden by John Steinbeck
+15. The Lord of the Rings by J.R.R. Tolkien
+16. Romeo and Juliet by William Shakespeare
+17. The Secret by Rhonda Byrne
+18. The Sword of Truth by Terry Goodkind
+19. Persepolis by Marjane Satrapi
+20. The Little Prince by Antoine de Saint-Exupéry
+21. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+22. The Great Gatsby by F. Scott Fitzgerald
+23. Nineteen Eighty-Four by George Orwell
+24. Catching Fire by Suzanne Collins
+25. Harry Potter by J.K. Rowling
+26. Twilight by Stephenie Meyer
+27. The Girl with the Dragon Tattoo by Stieg Larsson
+28. American Gods by Neil Gaiman
+29. Angels & Demons by Dan Brown
+30. Speak by Laurie Halse Anderson
+31. Maximum Ride by James Patterson
+32. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+33. Shopaholic by Sophie Kinsella
+34. Red Dragon by Thomas Harris
+35. Bone by Jeff Smith
+36. The Old Man and the Sea by Ernest Hemingway
+37. Witch & Wizard by James Patterson
+38. Rebecca by Daphne du Maurier
+39. Manga by Various Authors
+40. The Last Olympian by Rick Riordan
+41. Quran by Various Authors
+42. Torah Or by Rabbi Shimon bar Yochai
+43. Artist's book by Various Artists
+44. Diary of a Wimpy Kid by Jeff Kinney
+45. The Death and Life of Charlie St. Cloud by Ben Sherwood
+46. Vampire Academy by Richelle Mead
+47. Cirque du Freak by Darren Shan
+48. Vampire$ by John Steakley
+49. Perfect Chemistry by Simone Elkeles
+50. The Anarchist Cookbook by William Powell

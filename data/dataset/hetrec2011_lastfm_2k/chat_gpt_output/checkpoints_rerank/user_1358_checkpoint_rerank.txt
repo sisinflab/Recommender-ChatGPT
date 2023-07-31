@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Opeth
+2. Anathema
+3. Paradise Lost
+4. Amorphis
+5. Alice in Chains
+6. God Is an Astronaut
+7. Avenged Sevenfold
+8. Slayer
+9. Morbid Angel
+10. Bloodbath
+11. Agalloch
+12. Metallica
+13. Megadeth
+14. Killswitch Engage
+15. System of a Down
+16. Queensrÿche
+17. Napalm Death
+18. Blink-182
+19. Muse
+20. HIM
+21. Lacuna Coil
+22. Demon Hunter
+23. Evanescence
+24. Pink Floyd
+25. Radiohead
+26. Nirvana
+27. Iron Maiden
+28. Led Zeppelin
+29. Pearl Jam
+30. The Beatles
+31. U2
+32. 30 Seconds to Mars
+33. Coldplay
+34. The Killers
+35. My Chemical Romance
+36. Green Day
+37. The Cure
+38. Nine Inch Nails
+39. Linkin Park
+40. Daft Punk
+41. Michael Jackson
+42. Beyoncé
+43. Lady Gaga
+44. Rihanna
+45. Shakira
+46. Madonna
+47. Christina Aguilera
+48. Katy Perry
+49. Taylor Swift
+50. Paramore

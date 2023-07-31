@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Fear and Loathing in Las Vegas by Hunter S. Thompson
+2. Nineteen Eighty-Four by George Orwell
+3. Crime and Punishment by Fyodor Dostoevsky
+4. The Picture of Dorian Gray by Oscar Wilde
+5. Slaughterhouse-Five by Kurt Vonnegut
+6. The Great Gatsby by F. Scott Fitzgerald
+7. The Catcher in the Rye by J.D. Salinger
+8. Brave New World by Aldous Huxley
+9. The Lord of the Rings by J.R.R. Tolkien
+10. A Clockwork Orange by Anthony Burgess
+11. The Old Man and the Sea by Ernest Hemingway
+12. Dracula by Bram Stoker
+13. The Count of Monte Cristo by Alexandre Dumas
+14. Inferno by Dante Alighieri
+15. The Elements of Style by William Strunk Jr. and E.B. White
+16. The Hamlet by William Faulkner
+17. The Grapes of Wrath by John Steinbeck
+18. Alice's Adventures in Wonderland by Lewis Carroll
+19. The Shadow of the Wind by Carlos Ruiz Zafón
+20. The Help by Kathryn Stockett
+21. The Queen of the Damned by Anne Rice
+22. The Da Vinci Code by Dan Brown
+23. The God Delusion by Richard Dawkins
+24. The Zombie Survival Guide by Max Brooks
+25. The Beach by Alex Garland
+26. Atonement by Ian McEwan
+27. The Wall by Jean-Paul Sartre
+28. The Rules of Attraction by Bret Easton Ellis
+29. Less Than Zero by Bret Easton Ellis
+30. Filth by Irvine Welsh
+31. Running with Scissors by Augusten Burroughs
+32. Prozac Nation by Elizabeth Wurtzel
+33. The Unbearable Lightness of Being by Milan Kundera
+34. Rant by Chuck Palahniuk
+35. Junkie by William S. Burroughs
+36. One Flew Over the Cuckoo's Nest by Ken Kesey
+37. Cat's Cradle by Kurt Vonnegut
+38. Requiem for a Dream by Hubert Selby Jr.
+39. The Phantom Tollbooth by Norton Juster
+40. Lamb: The Gospel According to Biff, Christ's Childhood Pal by Christopher Moore
+41. Symposium by Plato
+42. Of Mice and Men by John Steinbeck
+43. The Death and Life of Great American Cities by Jane Jacobs
+44. Sun Bin's Art of War by Sun Bin
+45. Das Kapital by Karl Marx
+46. Musashi by Eiji Yoshikawa
+47. Brisingr by Christopher Paolini
+48. God Is Not Great by Christopher H

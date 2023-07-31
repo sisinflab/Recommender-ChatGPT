@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Coldplay
+2. The Beatles
+3. Red Hot Chili Peppers
+4. Bob Marley
+5. Dave Matthews Band
+6. Pearl Jam
+7. Foo Fighters
+8. Kings of Leon
+9. Damien Rice
+10. John Mayer
+11. Jack Johnson
+12. Ryan Adams
+13. Belle and Sebastian
+14. Arctic Monkeys
+15. The Killers
+16. The Fray
+17. Death Cab for Cutie
+18. Muse
+19. Florence + the Machine
+20. Eric Clapton
+21. Goo Goo Dolls
+22. Zero 7
+23. Lily Allen
+24. Feist
+25. KT Tunstall
+26. Ingrid Michaelson
+27. Gavin DeGraw
+28. Alanis Morissette
+29. Björk
+30. Jamie Cullum
+31. Maria Bethânia
+32. Jewel
+33. Ray LaMontagne
+34. Eddie Vedder
+35. Jason Mraz
+36. Boys Like Girls
+37. Ashlee Simpson
+38. Michael Bublé
+39. Timbaland
+40. Imogen Heap
+41. Regina Spektor
+42. Joss Stone
+43. Hanson
+44. Maria Rita
+45. Chico Buarque
+46. Cute Is What We Aim For
+47. Avril Lavigne
+48. Britney Spears
+49. Kylie Minogue
+50. McFly

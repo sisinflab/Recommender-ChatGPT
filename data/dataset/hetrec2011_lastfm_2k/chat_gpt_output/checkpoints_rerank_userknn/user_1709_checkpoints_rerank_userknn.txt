@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for them would be:
+
+1. The Beatles
+2. Pink Floyd
+3. The Rolling Stones
+4. Jimi Hendrix
+5. Queen
+6. Santana
+7. Aerosmith
+8. John Lennon
+9. George Harrison
+10. Elvis Presley
+11. Tom Petty and the Heartbreakers
+12. Creedence Clearwater Revival
+13. Jethro Tull
+14. Electric Light Orchestra
+15. Gary Moore
+16. Gentle Giant
+17. Captain Beefheart & His Magic Band
+18. Depeche Mode
+19. Gustavo Cerati
+20. Jamie Cullum
+21. ABBA
+22. Paul McCartney
+23. Van Morrison
+24. Belle and Sebastian
+25. Bob Dylan
+26. Leonard Cohen
+27. Simon & Garfunkel
+28. The Who
+29. Eagles
+30. Michael Jackson
+31. The Beach Boys
+32. Muse
+33. Coldplay
+34. My Chemical Romance
+35. Paul McCartney & Wings
+36. Eric Clapton
+37. Led Zeppelin
+38. Chuck Berry
+39. Buddy Holly
+40. Johann Sebastian Bach
+41. Beastie Boys
+42. Van Halen
+43. Rammstein
+44. Scorpions
+45. Brand New
+46. Jonas Brothers
+47. Demi Lovato
+48. Panic! At the Disco
+49. Glee Cast
+50. The Cardigans

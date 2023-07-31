@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. Nirvana
+3. Pixies
+4. Joy Division
+5. Nick Cave and the Bad Seeds
+6. The Cure
+7. Nine Inch Nails
+8. Beck
+9. David Bowie
+10. Sonic Youth
+11. The Clash
+12. Gang Starr
+13. A Tribe Called Quest
+14. Nas
+15. Wu-Tang Clan
+16. OutKast
+17. MF DOOM
+18. Mos Def
+19. GZA/Genius
+20. Raekwon
+21. Snoop Dogg
+22. Cypress Hill
+23. 2Pac
+24. Ghostface Killah
+25. Mobb Deep
+26. Black Flag
+27. Misfits
+28. Hole
+29. Siouxsie and the Banshees
+30. The Smiths
+31. Björk
+32. Aphex Twin
+33. Flying Lotus
+34. Sneaker Pimps
+35. IAMX
+36. Florence + the Machine
+37. Phoenix
+38. Muse
+39. Kings of Leon
+40. Tom Waits
+41. Deerhunter
+42. Motion City Soundtrack
+43. Garbage
+44. Kanye West
+45. Lupe Fiasco
+46. Common
+47. The Roots
+48. Calvin Harris
+49. Sigur Rós
+50. A Perfect Circle

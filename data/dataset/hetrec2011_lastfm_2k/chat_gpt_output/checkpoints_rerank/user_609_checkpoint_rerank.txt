@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. MGMT
+2. Lady Gaga
+3. Kings of Leon
+4. Klaxons
+5. Peaches
+6. Jesse McCartney
+7. Razorlight
+8. The Kooks
+9. Hilary Duff
+10. La Roux
+11. Crystal Castles
+12. Florence + the Machine
+13. JoJo
+14. Kelis
+15. Editors
+16. Two Door Cinema Club
+17. Yeasayer
+18. Yeah Yeah Yeahs
+19. Peter Doherty
+20. The Drums
+21. The xx
+22. Lindsay Lohan
+23. Alicia Keys
+24. Beirut
+25. Lily Allen
+26. Muse
+27. Radiohead
+28. The Killers
+29. Michael Jackson
+30. Beyoncé
+31. Madonna
+32. Katy Perry
+33. Arctic Monkeys
+34. Coldplay
+35. Blur
+36. Nirvana
+37. Led Zeppelin
+38. Metallica
+39. Daft Punk
+40. Nine Inch Nails
+41. Linkin Park
+42. Kelly Clarkson
+43. All Time Low
+44. P!nk
+45. Avenged Sevenfold
+46. My Chemical Romance
+47. Green Day
+48. The Cure
+49. Pink Floyd
+50. U2

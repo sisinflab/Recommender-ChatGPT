@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. King Crimson
+3. Genesis
+4. Pink Floyd (related artists)
+5. David Bowie
+6. The Doors
+7. Tame Impala
+8. Rush (related artists)
+9. Yes (related artists)
+10. The Who
+11. The Mars Volta
+12. Frank Zappa
+13. Tool (related artists)
+14. Porcupine Tree (related artists)
+15. Muse
+16. Led Zeppelin (related artists)
+17. The Beatles (related artists)
+18. Joy Division (related artists)
+19. Steven Wilson
+20. The Flaming Lips
+21. Brian Eno (related artists)
+22. Talking Heads
+23. Miles Davis (related artists)
+24. Swans (related artists)
+25. Sigur Rós (related artists)
+26. Jethro Tull (related artists)
+27. The Jimi Hendrix Experience (related artists)
+28. The Rolling Stones (related artists)
+29. The Smashing Pumpkins (related artists)
+30. Black Sabbath (related artists)
+31. Nine Inch Nails (related artists)
+32. The Cure (related artists)
+33. Interpol (related artists)
+34. Emerson, Lake & Palmer (related artists)
+35. The Velvet Underground (related artists)
+36. Captain Beefheart & His Magic Band (related artists)
+37. Arcade Fire
+38. The National
+39. Joy Division/New Order
+40. Nick Cave & The Bad Seeds
+41. The Flaming Lips (related artists)
+42. The Clash
+43. The Police
+44. The Smiths
+45. Sonic Youth
+46. Pixies
+47. Pearl Jam
+48. Soundgarden
+49. Alice in Chains
+50. Nirvana

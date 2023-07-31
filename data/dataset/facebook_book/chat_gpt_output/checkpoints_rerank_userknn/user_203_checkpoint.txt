@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Harry Potter by J.K. Rowling
+2. Twilight (series) by Stephenie Meyer
+3. The Hunger Games by Suzanne Collins
+4. Catching Fire by Suzanne Collins
+5. Mockingjay by Suzanne Collins
+6. The Vampire Diaries by L.J. Smith
+7. American Gods by Neil Gaiman
+8. The Host by Stephenie Meyer
+9. The Luxe by Anna Godbersen
+10. The Girl Who Played with Fire by Stieg Larsson
+11. The Other Boleyn Girl by Philippa Gregory
+12. The Grapes of Wrath by John Steinbeck
+13. Lord of the Flies by William Golding
+14. Animal Farm by George Orwell
+15. Nineteen Eighty-Four by George Orwell
+16. Fahrenheit 451 by Ray Bradbury
+17. Wuthering Heights by Emily Bronte
+18. Ethan Frome by Edith Wharton
+19. To Kill a Mockingbird by Harper Lee
+20. Misery by Stephen King
+21. Slaughterhouse-Five by Kurt Vonnegut
+22. Romeo and Juliet by William Shakespeare
+23. Antony and Cleopatra by William Shakespeare
+24. Macbeth by William Shakespeare
+25. A Midsummer Night's Dream by William Shakespeare
+26. The Crucible of Time by John Brunner
+27. The Satanic Verses by Salman Rushdie
+28. Mythology by Edith Hamilton
+29. The Class by Erich Segal
+30. Haunted by Meg Cabot
+31. The Giving Tree by Shel Silverstein
+32. Speak by Laurie Halse Anderson
+33. Cirque du Freak by Darren Shan
+34. Quidditch Through the Ages by J.K. Rowling
+35. Bone by Jeff Smith
+36. A Series of Unfortunate Events by Lemony Snicket
+37. The Hunchback of Notre-Dame by Victor Hugo
+38. The Hatchet by Gary Paulsen
+39. Little Women by Louisa May Alcott
+40. The Giver by Lois Lowry
+41. The Umbrella Academy by Gerard Way
+42. So B. It by Sarah Weeks
+43. Red Dragon by Thomas Harris
+44. Torah Or by Rabbi Luria
+45. Book of Revelation by John of Patmos
+46. Quran by Muhammad
+47. Bible by Various Authors
+48. Manga by Various Authors
+49. Go Ask Alice by Anonymous
+50. The Life and Times of the Wicked Witch of the West by Gregory Maguire

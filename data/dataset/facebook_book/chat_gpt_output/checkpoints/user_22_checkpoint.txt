@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. A Song of Ice and Fire by George R.R. Martin
+3. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+4. The Chronicles of Narnia by C.S. Lewis
+5. The Wheel of Time by Robert Jordan
+6. The Dresden Files by Jim Butcher
+7. The Kingkiller Chronicle by Patrick Rothfuss
+8. The Name of the Wind by Patrick Rothfuss
+9. The Wise Man's Fear by Patrick Rothfuss
+10. The Stormlight Archive by Brandon Sanderson
+11. Mistborn by Brandon Sanderson
+12. The Final Empire by Brandon Sanderson
+13. The Well of Ascension by Brandon Sanderson
+14. The Hero of Ages by Brandon Sanderson
+15. The First Law Trilogy by Joe Abercrombie
+16. The Blade Itself by Joe Abercrombie
+17. Before They Are Hanged by Joe Abercrombie
+18. Last Argument of Kings by Joe Abercrombie
+19. The Lies of Locke Lamora by Scott Lynch
+20. Red Seas Under Red Skies by Scott Lynch
+21. The Republic of Thieves by Scott Lynch
+22. The Dark Tower by Stephen King
+23. The Gunslinger by Stephen King
+24. The Drawing of the Three by Stephen King
+25. The Waste Lands by Stephen King
+26. Wizard and Glass by Stephen King
+27. Wolves of the Calla by Stephen King
+28. Song of Susannah by Stephen King
+29. The Dark Tower by Stephen King
+30. American Gods by Neil Gaiman
+31. Neverwhere by Neil Gaiman
+32. Good Omens by Neil Gaiman and Terry Pratchett
+33. The Sandman by Neil Gaiman
+34. The Graveyard Book by Neil Gaiman
+35. The Belgariad by David Eddings
+36. Pawn of Prophecy by David Eddings
+37. Queen of Sorcery by David Eddings
+38. Magician: Apprentice by Raymond E. Feist
+39. Magician: Master by Raymond E. Feist
+40. The Farseer Trilogy by Robin Hobb
+41. Assassin's Apprentice by Robin Hobb
+42. Royal Assassin by Robin Hobb
+43. Assassin's Quest by Robin Hobb
+44. The Malazan Book of the Fallen by Steven Erikson
+45. Gardens of the Moon by Steven Erikson
+46. Deadhouse Gates by Steven Erikson
+47. Memories of Ice by Steven Erikson
+48. House of Chains by Steven Erikson
+49. Midnight Tides by Steven Erikson
+50. The Bonehunters by Steven Erikson

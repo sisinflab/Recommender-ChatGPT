@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Catching Fire by Suzanne Collins
+3. Mockingjay by Suzanne Collins
+4. The Book Thief by Markus Zusak
+5. Inkheart by Cornelia Funke
+6. Son of a Witch by Gregory Maguire
+7. The Graveyard Book by Neil Gaiman
+8. Anansi Boys by Neil Gaiman
+9. The Princess Bride by William Goldman
+10. Snow Flower and the Secret Fan by Lisa See
+11. Northanger Abbey by Jane Austen
+12. Jane Eyre by Charlotte Bronte
+13. Pride and Prejudice by Jane Austen
+14. Les Misérables by Victor Hugo
+15. The Picture of Dorian Gray by Oscar Wilde
+16. Romeo and Juliet by William Shakespeare
+17. The Scarlet Letter by Nathaniel Hawthorne
+18. To Kill a Mockingbird by Harper Lee
+19. My Sister's Keeper by Jodi Picoult
+20. The Help by Kathryn Stockett
+21. Fried Green Tomatoes at the Whistle Stop Cafe by Fannie Flagg
+22. Half Broke Horses by Jeannette Walls
+23. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+24. Things Fall Apart by Chinua Achebe
+25. The Giver by Lois Lowry
+26. Ender's Game by Orson Scott Card
+27. Speaker for the Dead by Orson Scott Card
+28. Ender's Shadow by Orson Scott Card
+29. Xenocide by Orson Scott Card
+30. Inkheart Trilogy by Cornelia Funke
+31. The Wheel of Time by Robert Jordan
+32. The Saga of Darren Shan by Darren Shan
+33. Stargirl by Jerry Spinelli
+34. Looking for Alaska by John Green
+35. Paper Towns by John Green
+36. Will Grayson, Will Grayson by John Green and David Levithan
+37. The Diary of a Young Girl by Anne Frank
+38. Persepolis by Marjane Satrapi
+39. Milkweed by Jerry Spinelli
+40. Congo by Michael Crichton
+41. The Jungle Book by Rudyard Kipling
+42. Abarat by Clive Barker
+43. Handle with Care by Jodi Picoult
+44. Dear John by Nicholas Sparks
+45. Leaves of Grass by Walt Whitman
+46. Mansfield Park by Jane Austen
+47. Twilight by Stephenie Meyer
+48. New Moon by Stephenie Meyer
+49. Eclipse by Stephenie Meyer
+50. Breaking Dawn by Stephenie Meyer

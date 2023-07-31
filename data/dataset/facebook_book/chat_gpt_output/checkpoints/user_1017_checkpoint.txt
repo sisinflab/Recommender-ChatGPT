@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Da Vinci Code by Dan Brown
+2. Inferno by Dan Brown
+3. Deception Point by Dan Brown
+4. The Hunger Games by Suzanne Collins
+5. Divergent by Veronica Roth
+6. The Maze Runner by James Dashner
+7. The Fault in Our Stars by John Green
+8. The Girl on the Train by Paula Hawkins
+9. Gone Girl by Gillian Flynn
+10. The Twilight Saga by Stephenie Meyer
+11. The Mortal Instruments series by Cassandra Clare
+12. The Infernal Devices series by Cassandra Clare
+13. The Bane Chronicles by Cassandra Clare
+14. The Dark Artifices series by Cassandra Clare
+15. The Vampire Academy series by Richelle Mead
+16. The Bloodlines series by Richelle Mead
+17. The Sookie Stackhouse series by Charlaine Harris
+18. The Southern Vampire Mysteries series by Charlaine Harris
+19. The Anita Blake series by Laurell K. Hamilton
+20. The Merry Gentry series by Laurell K. Hamilton
+21. The Black Dagger Brotherhood series by J.R. Ward
+22. The Night Huntress series by Jeaniene Frost
+23. The Night Prince series by Jeaniene Frost
+24. The Chicagoland Vampires series by Chloe Neill
+25. The House of Night series by P.C. Cast and Kristin Cast
+26. The Morganville Vampires series by Rachel Caine
+27. The Vampire Chronicles series by Anne Rice
+28. The Mayfair Witches series by Anne Rice
+29. The Witching Hour by Anne Rice
+30. The Vampire Lestat by Anne Rice
+31. The Queen of the Damned by Anne Rice
+32. The Vampire Armand by Anne Rice
+33. The Vampire Diaries: The Awakening by L.J. Smith
+34. The Vampire Diaries: The Struggle by L.J. Smith
+35. The Vampire Diaries: The Fury by L.J. Smith
+36. The Vampire Diaries: Dark Reunion by L.J. Smith
+37. The Vampire Diaries: The Return: Nightfall by L.J. Smith
+38. The Vampire Diaries: The Return: Shadow Souls by L.J. Smith
+39. The Vampire Diaries: The Return: Midnight by L.J. Smith
+40. The Vampire Diaries: The Hunters: Phantom by L.J. Smith
+41. The Vampire Diaries: The Hunters: Moonsong by L.J. Smith
+42. The Vampire Diaries: The Hunters: Destiny Rising by L.J. Smith
+43. The House of Night: Legacy by P.C. Cast and Kristin Cast
+44. The House of Night: Found by P.C. Cast and Kristin Cast
+45. The House of Night: Redeemed by P.C. Cast and
+46. The Pillars of the Earth by Ken Follett
+47. The Help by Kathryn Stockett
+48. Nine Stories by J.D. Salinger
+49. The Bell Jar by Sylvia Plath
+50. The Wise Man's Fear by Patrick Rothfuss

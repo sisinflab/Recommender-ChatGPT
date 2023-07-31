@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. To Kill a Mockingbird by Harper Lee
+3. 1984 by George Orwell
+4. Animal Farm by George Orwell
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Brave New World by Aldous Huxley
+7. Lord of the Flies by William Golding
+8. The Hobbit by J.R.R. Tolkien
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Chronicles of Narnia by C.S. Lewis
+11. Harry Potter series by J.K. Rowling
+12. The Hunger Games series by Suzanne Collins
+13. Catching Fire by Suzanne Collins
+14. Mockingjay by Suzanne Collins
+15. Memoirs of a Geisha by Arthur Golden
+16. Life of Pi by Yann Martel
+17. Moby-Dick by Herman Melville
+18. Dracula by Bram Stoker
+19. Jane Eyre by Charlotte Bronte
+20. The Bell Jar by Sylvia Plath
+21. The Notebook by Nicholas Sparks
+22. Water for Elephants by Sara Gruen
+23. The Last Song by Nicholas Sparks
+24. The Five People You Meet in Heaven by Mitch Albom
+25. Tuesdays with Morrie by Mitch Albom
+26. The Lovely Bones by Alice Sebold
+27. The Shack by William P. Young
+28. The Giver by Lois Lowry
+29. Island of the Blue Dolphins by Scott O'Dell
+30. Bridge to Terabithia by Katherine Paterson
+31. Little Women by Louisa May Alcott
+32. Black Beauty by Anna Sewell
+33. Holes by Louis Sachar
+34. The Sisterhood of the Traveling Pants by Ann Brashares
+35. All American Girl by Meg Cabot
+36. Fablehaven by Brandon Mull
+37. Inkspell by Cornelia Funke
+38. Eldest by Christopher Paolini
+39. The BFG by Roald Dahl
+40. Diary of a Wimpy Kid series by Jeff Kinney
+41. Vampire Knight by Matsuri Hino
+42. Fallen by Lauren Kate
+43. Haunted by Meg Cabot
+44. City of Ashes by Cassandra Clare
+45. Blood and Chocolate by Annette Curtis Klause
+46. So B. It by Sarah Weeks
+47. The Key by Joan Lowery Nixon
+48. Elixir by Hilary Duff
+49. Encyclopædia Britannica
+50. L.A. Candy by Lauren Conrad

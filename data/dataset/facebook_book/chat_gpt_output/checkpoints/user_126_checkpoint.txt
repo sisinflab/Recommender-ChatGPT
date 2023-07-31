@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Dune by Frank Herbert
+2. 1984 by George Orwell
+3. Brave New World by Aldous Huxley
+4. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+5. The Foundation Trilogy by Isaac Asimov
+6. The Martian Chronicles by Ray Bradbury
+7. The Handmaid's Tale by Margaret Atwood
+8. The War of the Worlds by H.G. Wells
+9. The Hunger Games by Suzanne Collins
+10. The Giver by Lois Lowry
+11. The Maze Runner by James Dashner
+12. The Dark Tower series by Stephen King
+13. The Chronicles of Prydain by Lloyd Alexander
+14. The Belgariad series by David Eddings
+15. The Wheel of Time series by Robert Jordan
+16. The Sword of Shannara series by Terry Brooks
+17. The Earthsea series by Ursula K. Le Guin
+18. The Mistborn series by Brandon Sanderson
+19. The Kingkiller Chronicle series by Patrick Rothfuss
+20. The Dresden Files series by Jim Butcher
+21. The Chronicles of Amber series by Roger Zelazny
+22. The Malazan Book of the Fallen series by Steven Erikson
+23. The First Law trilogy by Joe Abercrombie
+24. The Black Company series by Glen Cook
+25. The Riyria Revelations series by Michael J. Sullivan
+26. The Lies of Locke Lamora by Scott Lynch
+27. The Name of the Wind by Patrick Rothfuss
+28. The Way of Kings by Brandon Sanderson
+29. The Stormlight Archive series by Brandon Sanderson
+30. The Lightbringer series by Brent Weeks
+31. The Powder Mage trilogy by Brian McClellan
+32. The Broken Empire trilogy by Mark Lawrence
+33. The Red Rising series by Pierce Brown
+34. The Expanse series by James S.A. Corey
+35. The Hyperion Cantos series by Dan Simmons
+36. The Culture series by Iain M. Banks
+37. The Vorkosigan Saga series by Lois McMaster Bujold
+38. The Honor Harrington series by David Weber
+39. The Commonwealth Saga by Peter F. Hamilton
+40. The Revelation Space series by Alastair Reynolds
+41. The Nights Dawn trilogy by Peter F. Hamilton
+42. The Void Trilogy by Peter F. Hamilton
+43. The Hyperion Cantos series by Dan Simmons
+44. The Culture series by Iain M. Banks
+45. The Vorkosigan Saga series by Lois McMaster Bujold
+46. The Honor Harrington series by David Weber
+47. The Commonwealth Saga by Peter F. Hamilton
+48. The Revelation Space series by Alastair Reynolds
+49. The Nights Dawn trilogy by Peter F. Hamilton
+50.

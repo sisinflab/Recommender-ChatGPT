@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. Animal Farm by George Orwell
+4. The Catcher in the Rye by J.D. Salinger
+5. To Kill a Mockingbird by Harper Lee
+6. The Great Gatsby by F. Scott Fitzgerald
+7. One Hundred Years of Solitude by Gabriel Garcia Marquez
+8. The Brothers Karamazov by Fyodor Dostoevsky
+9. Crime and Punishment by Fyodor Dostoevsky
+10. The Stranger by Albert Camus
+11. The Bell Jar by Sylvia Plath
+12. The Road by Cormac McCarthy
+13. Slaughterhouse-Five by Kurt Vonnegut
+14. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+15. The Lord of the Rings by J.R.R. Tolkien
+16. The Hobbit by J.R.R. Tolkien
+17. The Chronicles of Narnia by C.S. Lewis
+18. The Da Vinci Code by Dan Brown
+19. Angels and Demons by Dan Brown
+20. The Girl with the Dragon Tattoo by Stieg Larsson
+21. The Hunger Games by Suzanne Collins
+22. Catching Fire by Suzanne Collins
+23. Mockingjay by Suzanne Collins
+24. The Maze Runner by James Dashner
+25. The Giver by Lois Lowry
+26. The Book Thief by Markus Zusak
+27. The Fault in Our Stars by John Green
+28. Looking for Alaska by John Green
+29. Paper Towns by John Green
+30. The Perks of Being a Wallflower by Stephen Chbosky
+31. The Lovely Bones by Alice Sebold
+32. The Help by Kathryn Stockett
+33. The Kite Runner by Khaled Hosseini
+34. A Thousand Splendid Suns by Khaled Hosseini
+35. The Alchemist by Paulo Coelho
+36. The Picture of Dorian Gray by Oscar Wilde
+37. The Mahabharata by R.K. Narayan
+38. Extremely Loud and Incredibly Close by Jonathan Safran Foer
+39. The Prestige by Christopher Priest
+40. The Scarlet Pimpernel by Emma Orczy
+41. Tess of the d'Urbervilles by Thomas Hardy
+42. Vanity Fair by William Makepeace Thackeray
+43. The Illustrated Man by Ray Bradbury
+44. Something Wicked This Way Comes by Ray Bradbury
+45. The Time Machine by H.G. Wells
+46. The War of the Worlds by H.G. Wells
+47. The Invisible Man by H.G. Wells
+48. The Island of Dr. Moreau by H.G. Wells
+49. The Strange Case of Dr. Jekyll and Mr

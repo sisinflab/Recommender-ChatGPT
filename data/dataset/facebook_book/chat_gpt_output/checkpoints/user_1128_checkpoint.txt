@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Animal Farm by George Orwell
+2. Brave New World by Aldous Huxley
+3. Fahrenheit 451 by Ray Bradbury
+4. The Catcher in the Rye by J.D. Salinger
+5. Lord of the Flies by William Golding
+6. To Kill a Mockingbird by Harper Lee
+7. The Great Gatsby by F. Scott Fitzgerald
+8. One Hundred Years of Solitude by Gabriel Garcia Marquez
+9. Crime and Punishment by Fyodor Dostoevsky
+10. The Brothers Karamazov by Fyodor Dostoevsky
+11. Heart of Darkness by Joseph Conrad
+12. The Picture of Dorian Gray by Oscar Wilde
+13. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+14. The War of the Worlds by H.G. Wells
+15. The Time Machine by H.G. Wells
+16. The Invisible Man by H.G. Wells
+17. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+18. The Count of Monte Cristo by Alexandre Dumas
+19. Les Misérables by Victor Hugo
+20. Anna Karenina by Leo Tolstoy
+21. War and Peace by Leo Tolstoy
+22. The Idiot by Fyodor Dostoevsky
+23. The Trial by Franz Kafka
+24. The Metamorphosis by Franz Kafka
+25. The Old Man and the Sea by Ernest Hemingway
+26. For Whom the Bell Tolls by Ernest Hemingway
+27. The Sun Also Rises by Ernest Hemingway
+28. The Sound and the Fury by William Faulkner
+29. As I Lay Dying by William Faulkner
+30. Absalom, Absalom! by William Faulkner
+31. The Grapes of Wrath by John Steinbeck
+32. East of Eden by John Steinbeck
+33. Of Mice and Men by John Steinbeck
+34. The Hobbit by J.R.R. Tolkien
+35. The Lord of the Rings by J.R.R. Tolkien
+36. The Silmarillion by J.R.R. Tolkien
+37. The Chronicles of Narnia by C.S. Lewis
+38. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+39. The Martian Chronicles by Ray Bradbury
+40. Slaughterhouse-Five by Kurt Vonnegut
+41. Cat's Cradle by Kurt Vonnegut
+42. Breakfast of Champions by Kurt Vonnegut
+43. The Handmaid's Tale by Margaret Atwood
+44. Oryx and Crake by Margaret Atwood
+45. The Blind Assassin by Margaret Atwood
+46. The Road by Cormac McCarthy
+47. Blood Meridian by Cormac McCarthy
+48. The Dark Tower by Stephen King
+49. The Name of the Wind by Patrick Rothfuss
+50. The Wise Man's Fear by Patrick Rothfuss

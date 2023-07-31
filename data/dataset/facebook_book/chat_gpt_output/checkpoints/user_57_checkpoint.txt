@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Catcher in the Rye by J.D. Salinger
+3. The Hunger Games by Suzanne Collins
+4. The Fault in Our Stars by John Green
+5. The Giver by Lois Lowry
+6. The Perks of Being a Wallflower by Stephen Chbosky
+7. The Book Thief by Markus Zusak
+8. The Maze Runner by James Dashner
+9. The Outsiders by S.E. Hinton
+10. The Secret Life of Bees by Sue Monk Kidd
+11. The Lovely Bones by Alice Sebold
+12. The Help by Kathryn Stockett
+13. The Girl on the Train by Paula Hawkins
+14. The Da Vinci Code by Dan Brown
+15. The Alchemist by Paulo Coelho
+16. The Kite Runner by Khaled Hosseini
+17. The Time Traveler's Wife by Audrey Niffenegger
+18. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+19. The Picture of Dorian Gray by Oscar Wilde
+20. The Handmaid's Tale by Margaret Atwood
+21. The Road by Cormac McCarthy
+22. The Bell Jar by Sylvia Plath
+23. The Color Purple by Alice Walker
+24. The Sun Also Rises by Ernest Hemingway
+25. The Old Man and the Sea by Ernest Hemingway
+26. The Great Gatsby by F. Scott Fitzgerald
+27. The Lord of the Rings by J.R.R. Tolkien
+28. The Hobbit by J.R.R. Tolkien
+29. The Chronicles of Narnia by C.S. Lewis
+30. The Harry Potter series by J.K. Rowling
+31. The Twilight series by Stephenie Meyer
+32. The Percy Jackson series by Rick Riordan
+33. The Heroes of Olympus series by Rick Riordan
+34. The Mortal Instruments series by Cassandra Clare
+35. The Infernal Devices series by Cassandra Clare
+36. The Selection series by Kiera Cass
+37. The Lunar Chronicles series by Marissa Meyer
+38. The Divergent series by Veronica Roth
+39. The Maze Runner series by James Dashner
+40. The Maze of Bones (The 39 Clues series) by Rick Riordan
+41. The Hunger Games series by Suzanne Collins
+42. The Maze Runner series by James Dashner
+43. The Fault in Our Stars by John Green
+44. The Maze Runner series by James Dashner
+45. The Maze Runner series by James Dashner
+46. The Maze Runner series by James Dashner
+47. The Maze Runner series by James Dashner
+48. The Maze Runner series by James Dashner
+49. The Maze Runner series by James Dashner
+50. The Maze Runner series by James Dashner

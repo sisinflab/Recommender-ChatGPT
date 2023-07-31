@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for user 533 would be:
+
+1. Céline Dion
+2. Sarah Brightman
+3. Josh Groban
+4. Laura Pausini
+5. Enrique Iglesias
+6. Elton John
+7. Roxette
+8. Gregorian
+9. Era
+10. Luis Miguel
+11. Diana Krall
+12. Tina Turner
+13. Madonna
+14. The Beatles
+15. Michael Jackson
+16. U2
+17. Pink Floyd
+18. Muse
+19. Radiohead
+20. Led Zeppelin
+21. Nirvana
+22. Metallica
+23. Pearl Jam
+24. a-ha
+25. Björk
+26. Depeche Mode
+27. Duran Duran
+28. Coldplay
+29. Blur
+30. Arctic Monkeys
+31. Placebo
+32. The Killers
+33. Iron Maiden
+34. Amy Winehouse
+35. System of a Down
+36. Daft Punk
+37. Nine Inch Nails
+38. Linkin Park
+39. Kelly Clarkson
+40. All Time Low
+41. Avenged Sevenfold
+42. Black Eyed Peas
+43. My Chemical Romance
+44. Green Day
+45. The Cure
+46. Lady Gaga
+47. Christina Aguilera
+48. Rihanna
+49. Shakira
+50. Katy Perry

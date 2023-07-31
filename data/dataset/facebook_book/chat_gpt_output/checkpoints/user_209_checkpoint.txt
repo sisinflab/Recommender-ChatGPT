@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Crime and Punishment by Fyodor Dostoyevsky
+2. 1984 by George Orwell
+3. Brave New World by Aldous Huxley
+4. One Hundred Years of Solitude by Gabriel Garcia Marquez
+5. To Kill a Mockingbird by Harper Lee
+6. The Catcher in the Rye by J.D. Salinger
+7. The Great Gatsby by F. Scott Fitzgerald
+8. The Lord of the Rings by J.R.R. Tolkien
+9. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+10. The Stranger by Albert Camus
+11. Slaughterhouse-Five by Kurt Vonnegut
+12. The Bell Jar by Sylvia Plath
+13. The Handmaid's Tale by Margaret Atwood
+14. The Road by Cormac McCarthy
+15. The Stand by Stephen King
+16. The Shining by Stephen King
+17. The Martian by Andy Weir
+18. The Hunger Games by Suzanne Collins
+19. The Girl with the Dragon Tattoo by Stieg Larsson
+20. The Da Vinci Code by Dan Brown
+21. The Name of the Rose by Umberto Eco
+22. The Shadow of the Wind by Carlos Ruiz Zafón
+23. The Time Traveler's Wife by Audrey Niffenegger
+24. The Alchemist by Paulo Coelho
+25. The Picture of Dorian Gray by Oscar Wilde
+26. The Brothers Grimm Fairy Tales by Jacob Grimm and Wilhelm Grimm
+27. The Chronicles of Narnia by C.S. Lewis
+28. The Hobbit by J.R.R. Tolkien
+29. The Lord of the Rings by J.R.R. Tolkien
+30. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+31. The War of the Worlds by H.G. Wells
+32. The Island of Dr. Moreau by H.G. Wells
+33. The Time Machine by H.G. Wells
+34. The Invisible Man by H.G. Wells
+35. The Andromeda Strain by Michael Crichton
+36. Jurassic Park by Michael Crichton
+37. The Lost World by Michael Crichton
+38. The Stand by Stephen King
+39. The Shining by Stephen King
+40. The Dark Tower series by Stephen King
+41. The Girl on the Train by Paula Hawkins
+42. The Silence of the Lambs by Thomas Harris
+43. The Da Vinci Code by Dan Brown
+44. Angels and Demons by Dan Brown
+45. Inferno by Dan Brown
+46. The Bourne Identity by Robert Ludlum
+47. The Bourne Supremacy by Robert Ludlum
+48. The Bourne Ultimatum by Robert Ludlum
+49. The Girl Who Played with Fire by Stieg Larsson
+50.

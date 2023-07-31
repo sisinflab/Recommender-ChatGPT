@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter series by J.K. Rowling
+2. The Great Gatsby by F. Scott Fitzgerald
+3. Pride and Prejudice by Jane Austen
+4. Wuthering Heights by Emily Bronte
+5. To Kill a Mockingbird by Harper Lee
+6. Romeo and Juliet by William Shakespeare
+7. The Catcher in the Rye by J.D. Salinger
+8. The Giver by Lois Lowry
+9. Nineteen Minutes by Jodi Picoult
+10. The Hunger Games by Suzanne Collins
+11. The Maze Runner by James Dashner
+12. The Fault in Our Stars by John Green
+13. The Book of Lost Things by John Connolly
+14. The Lovely Bones by Alice Sebold
+15. The Girl with the Dragon Tattoo by Stieg Larsson
+16. The Help by Kathryn Stockett
+17. The Kite Runner by Khaled Hosseini
+18. The Secret Life of Bees by Sue Monk Kidd
+19. The Time Traveler's Wife by Audrey Niffenegger
+20. The Road by Cormac McCarthy
+21. The Picture of Dorian Gray by Oscar Wilde
+22. The Bell Jar by Sylvia Plath
+23. The Handmaid's Tale by Margaret Atwood
+24. The Stand by Stephen King
+25. The Shining by Stephen King
+26. The Silence of the Lambs by Thomas Harris
+27. The Da Vinci Code by Dan Brown
+28. Angels & Demons by Dan Brown
+29. The Watchmen by Alan Moore
+30. Thirteen Reasons Why by Jay Asher
+31. Stargirl by Jerry Spinelli
+32. The Legend of Sleepy Hollow by Washington Irving
+33. The City of Ember by Jeanne DuPrau
+34. Room by Emma Donoghue
+35. If There Be Thorns by V.C. Andrews
+36. Before I Die by Jenny Downham
+37. The Heart Is a Lonely Hunter by Carson McCullers
+38. Drawing Blood by Poppy Z. Brite
+39. The Kane Chronicles by Rick Riordan
+40. The Summoning by Kelley Armstrong
+41. The Zombie Survival Guide by Max Brooks
+42. The Pigman by Paul Zindel
+43. The Messenger by Markus Zusak
+44. Jaws by Peter Benchley
+45. A Tale of Two Cities by Charles Dickens
+46. The Vampire Chronicles by Anne Rice
+47. The Twilight Saga by Stephenie Meyer
+48. Identical by Ellen Hopkins
+49. Pretties by Scott Westerfeld
+50. Go Ask Alice by Anonymous

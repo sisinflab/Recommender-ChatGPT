@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Graceling by Kristin Cashore
+2. The Hunger Games by Suzanne Collins
+3. The Maze Runner by James Dashner
+4. Divergent by Veronica Roth
+5. The Mortal Instruments series by Cassandra Clare
+6. The Giver by Lois Lowry
+7. The Fault in Our Stars by John Green
+8. The Selection by Kiera Cass
+9. The 5th Wave by Rick Yancey
+10. Legend by Marie Lu
+11. The Lunar Chronicles by Marissa Meyer
+12. The Darkest Minds by Alexandra Bracken
+13. Red Queen by Victoria Aveyard
+14. The Raven Boys by Maggie Stiefvater
+15. The Infernal Devices series by Cassandra Clare
+16. The Knife of Never Letting Go by Patrick Ness
+17. The Girl of Fire and Thorns by Rae Carson
+18. The Scorpio Races by Maggie Stiefvater
+19. The Name of the Wind by Patrick Rothfuss
+20. The Night Circus by Erin Morgenstern
+21. The Book Thief by Markus Zusak
+22. The Perks of Being a Wallflower by Stephen Chbosky
+23. The Secret History by Donna Tartt
+24. The Picture of Dorian Gray by Oscar Wilde
+25. The Catcher in the Rye by J.D. Salinger
+26. The Bell Jar by Sylvia Plath
+27. The Great Gatsby by F. Scott Fitzgerald
+28. 1984 by George Orwell
+29. Animal Farm by George Orwell
+30. Brave New World by Aldous Huxley
+31. Fahrenheit 451 by Ray Bradbury
+32. The Handmaid's Tale by Margaret Atwood
+33. The Road by Cormac McCarthy
+34. The Stand by Stephen King
+35. The Shining by Stephen King
+36. It by Stephen King
+37. The Dark Tower series by Stephen King
+38. The Lord of the Rings series by J.R.R. Tolkien
+39. The Hobbit by J.R.R. Tolkien
+40. The Chronicles of Narnia series by C.S. Lewis
+41. Harry Potter series by J.K. Rowling
+42. The Hunger Games trilogy by Suzanne Collins
+43. The Maze Runner series by James Dashner
+44. The Divergent trilogy by Veronica Roth
+45. The Mortal Instruments series by Cassandra Clare
+46. The Infernal Devices series by Cassandra Clare
+47. The Selection series by Kiera Cass
+48. The Lunar Chronicles series by Marissa Meyer
+49. The Darkest Minds series by Alexandra Bracken
+50. The Red Queen series by Victoria Aveyard

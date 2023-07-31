@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. One Hundred Years of Solitude by Gabriel Garcia Marquez
+5. The Grapes of Wrath by John Steinbeck
+6. Animal Farm by George Orwell
+7. The Bell Jar by Sylvia Plath
+8. The Color Purple by Alice Walker
+9. The Handmaid's Tale by Margaret Atwood
+10. Beloved by Toni Morrison
+11. The Sun Also Rises by Ernest Hemingway
+12. Slaughterhouse-Five by Kurt Vonnegut
+13. The Sound and the Fury by William Faulkner
+14. A Clockwork Orange by Anthony Burgess
+15. Brave New World by Aldous Huxley
+16. The Picture of Dorian Gray by Oscar Wilde
+17. Heart of Darkness by Joseph Conrad
+18. The Stranger by Albert Camus
+19. The Road by Cormac McCarthy
+20. The Old Man and the Sea by Ernest Hemingway
+21. The Great Gatsby by F. Scott Fitzgerald
+22. The Lord of the Rings by J.R.R. Tolkien
+23. The Hobbit by J.R.R. Tolkien
+24. The Chronicles of Narnia by C.S. Lewis
+25. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+26. The Hunger Games by Suzanne Collins
+27. The Girl with the Dragon Tattoo by Stieg Larsson
+28. The Da Vinci Code by Dan Brown
+29. The Help by Kathryn Stockett
+30. The Kite Runner by Khaled Hosseini
+31. The Secret Life of Bees by Sue Monk Kidd
+32. The Joy Luck Club by Amy Tan
+33. The Poisonwood Bible by Barbara Kingsolver
+34. The Alchemist by Paulo Coelho
+35. The Name of the Wind by Patrick Rothfuss
+36. The Nightingale by Kristin Hannah
+37. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+38. The Glass Castle by Jeannette Walls
+39. The Book Thief by Markus Zusak
+40. The Fault in Our Stars by John Green
+41. The Perks of Being a Wallflower by Stephen Chbosky
+42. The Outsiders by S.E. Hinton
+43. The Giver by Lois Lowry
+44. The Maze Runner by James Dashner
+45. The Selection by Kiera Cass
+46. The Hunger Games Trilogy Boxset by Suzanne Collins
+47. The Lord of the Rings Boxed Set by J.R.R. Tolkien
+48. The Chronicles of Narnia Boxed Set by C.S. Lewis
+49. The Harry Potter Boxed Set by J.K. Rowling
+50.

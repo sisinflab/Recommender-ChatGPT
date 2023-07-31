@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Daft Punk
+2. The Chemical Brothers
+3. Crystal Castles
+4. M.I.A.
+5. The Strokes
+6. Cut Copy
+7. Cansei de Ser Sexy
+8. Digitalism
+9. Peaches
+10. Kasabian
+11. Hadouken!
+12. MGMT
+13. Björk
+14. The Ting Tings
+15. Infected Mushroom
+16. Clap Your Hands Say Yeah
+17. The Bravery
+18. The Presets
+19. Depeche Mode
+20. Paramore
+21. Gossip
+22. Lily Allen
+23. Muse
+24. Radiohead
+25. Nirvana
+26. Pink Floyd
+27. Led Zeppelin
+28. Metallica
+29. Iron Maiden
+30. Pearl Jam
+31. Nine Inch Nails
+32. Linkin Park
+33. System of a Down
+34. The Killers
+35. Coldplay
+36. Blur
+37. Arctic Monkeys
+38. Placebo
+39. Duran Duran
+40. Michael Jackson
+41. Madonna
+42. Lady Gaga
+43. Beyoncé
+44. Rihanna
+45. Katy Perry
+46. Taylor Swift
+47. Avril Lavigne
+48. Kelly Clarkson
+49. P!nk
+50. My Chemical Romance

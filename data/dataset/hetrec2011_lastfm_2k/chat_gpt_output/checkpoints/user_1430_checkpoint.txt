@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Killers
+2. Weezer
+3. The Strokes
+4. Death Cab for Cutie
+5. The Postal Service
+6. Vampire Weekend
+7. Phoenix
+8. Arctic Monkeys
+9. The Shins
+10. Modest Mouse
+11. Spoon
+12. The Decemberists
+13. The Black Keys
+14. Muse
+15. Franz Ferdinand
+16. Interpol
+17. Bloc Party
+18. Yeah Yeah Yeahs
+19. The National
+20. Arcade Fire
+21. Radiohead
+22. Coldplay
+23. Kings of Leon
+24. The White Stripes
+25. Foo Fighters
+26. Nirvana
+27. Pearl Jam
+28. Soundgarden
+29. Alice in Chains
+30. Stone Temple Pilots
+31. Red Hot Chili Peppers
+32. Green Day
+33. Blink-182
+34. Sum 41
+35. Good Charlotte
+36. Simple Plan
+37. All Time Low
+38. Yellowcard
+39. New Found Glory
+40. Jimmy Eat World
+41. Taking Back Sunday
+42. Fall Out Boy
+43. Panic! at the Disco
+44. My Chemical Romance
+45. The Used
+46. Dashboard Confessional
+47. Brand New
+48. Saves the Day
+49. The Starting Line
+50. Something Corporate (since it is the user's favorite band)

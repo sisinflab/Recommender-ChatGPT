@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. City of Bones by Cassandra Clare
+2. Hush, Hush by Becca Fitzpatrick
+3. Shiver by Maggie Stiefvater
+4. Fallen by Lauren Kate
+5. Beautiful Creatures by Kami Garcia and Margaret Stohl
+6. The Mortal Instruments series by Cassandra Clare
+7. The Infernal Devices series by Cassandra Clare
+8. The Hunger Games by Suzanne Collins
+9. Divergent by Veronica Roth
+10. The Maze Runner by James Dashner
+11. The Fault in Our Stars by John Green
+12. If I Stay by Gayle Forman
+13. The Perks of Being a Wallflower by Stephen Chbosky
+14. The Book Thief by Markus Zusak
+15. The Giver by Lois Lowry
+16. The Selection by Kiera Cass
+17. Matched by Ally Condie
+18. Delirium by Lauren Oliver
+19. Uglies by Scott Westerfeld
+20. Leviathan by Scott Westerfeld
+21. The Knife of Never Letting Go by Patrick Ness
+22. The Ask and the Answer by Patrick Ness
+23. Monsters of Men by Patrick Ness
+24. The Lunar Chronicles by Marissa Meyer
+25. The 5th Wave by Rick Yancey
+26. Legend by Marie Lu
+27. The Darkest Minds by Alexandra Bracken
+28. The Testing by Joelle Charbonneau
+29. The Chemical Garden Trilogy by Lauren DeStefano
+30. The Maze of Bones by Rick Riordan
+31. The Lightning Thief by Rick Riordan
+32. The Sea of Monsters by Rick Riordan
+33. The Titan's Curse by Rick Riordan
+34. The Battle of the Labyrinth by Rick Riordan
+35. The Last Olympian by Rick Riordan
+36. The Heroes of Olympus series by Rick Riordan
+37. The Kane Chronicles series by Rick Riordan
+38. The Secrets of the Immortal Nicholas Flamel series by Michael Scott
+39. The Magicians by Lev Grossman
+40. The Name of the Wind by Patrick Rothfuss
+41. The Wise Man's Fear by Patrick Rothfuss
+42. The Lies of Locke Lamora by Scott Lynch
+43. Mistborn by Brandon Sanderson
+44. The Way of Kings by Brandon Sanderson
+45. The Final Empire by Brandon Sanderson
+46. The Well of Ascension by Brandon Sanderson
+47. The Hero of Ages by Brandon Sanderson
+48. The Stormlight Archive series by Brandon Sanderson
+49. The Kingkiller Chronicle series by Patrick Rothfuss
+50. The Gentleman Bastard series by Scott Lynch

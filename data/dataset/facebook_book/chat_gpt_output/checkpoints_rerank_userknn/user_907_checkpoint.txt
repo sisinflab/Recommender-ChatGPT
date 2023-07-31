@@ -1,0 +1,48 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Alchemist (novel) by Paulo Coelho
+2. The Kite Runner by Khaled Hosseini
+3. The Book Thief by Markus Zusak
+4. Siddhartha (novel) by Hermann Hesse
+5. The Lord of the Rings by J.R.R. Tolkien
+6. The Catcher in the Rye by J.D. Salinger
+7. Frankenstein by Mary Shelley
+8. Romeo and Juliet by William Shakespeare
+9. The Hobbit by J.R.R. Tolkien
+10. The Scarlet Letter by Nathaniel Hawthorne
+11. The Stand by Stephen King
+12. The Thief Lord by Cornelia Funke
+13. The Mysterious Island by Jules Verne
+14. The Things They Carried by Tim O'Brien
+15. The Watchmen (novel) by Alan Moore
+16. The White Tiger by Aravind Adiga
+17. The Gospel of Filth by Gavin Baddeley
+18. The Feminine Mystique by Betty Friedan
+19. The Antichrist (book) by Friedrich Nietzsche
+20. The Myth of Sisyphus by Albert Camus
+21. The Prophet (book) by Kahlil Gibran
+22. The Gold Bug Variations by Richard Powers
+23. The Long Hard Road Out of Hell by Marilyn Manson
+24. The Walking Dead (comic book) by Robert Kirkman
+25. Love Story (novel) by Erich Segal
+26. Madame Bovary by Gustave Flaubert
+27. Emma (novel) by Jane Austen
+28. The Five People You Meet in Heaven by Mitch Albom
+29. Holes (novel) by Louis Sachar
+30. Harry Potter by J.K. Rowling
+31. Ender's Game by Orson Scott Card
+32. I Am Legend (novel) by Richard Matheson
+33. Macbeth by William Shakespeare
+34. Maximum Ride by James Patterson
+35. A Brief History of Time by Stephen Hawking
+36. Illusions (Bach novel) by Richard Bach
+37. Around the World in Eighty Days by Jules Verne
+38. One Night @ the Call Center by Chetan Bhagat
+39. The Phantom of the Opera by Gaston Leroux
+40. Eleven Minutes by Paulo Coelho
+41. Mystic River (novel) by Dennis Lehane
+42. My Sister's Keeper (novel) by Jodi Picoult
+43. If You Could See Me Now (Cecelia Ahern novel) by Cecelia Ahern
+44. The 3 Mistakes of My Life by Chetan Bhagat
+45. Inferno (Dante) by Dante Alighieri
+46. False Memory (novel) by Dean Ko

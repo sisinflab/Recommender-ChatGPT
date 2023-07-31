@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Brand New
+2. The Used
+3. Death Cab for Cutie
+4. Taking Back Sunday
+5. Oasis
+6. The Strokes
+7. Muse
+8. Plain White T's
+9. The Cranberries
+10. The Veronicas
+11. The Smiths
+12. Los Hermanos
+13. Radiohead
+14. Nirvana
+15. blink-182
+16. AC/DC
+17. Jack's Mannequin
+18. Engenheiros do Hawaii
+19. Eisley
+20. Red Hot Chili Peppers
+21. Sum 41
+22. Dashboard Confessional
+23. Hilary Duff
+24. Bon Jovi
+25. Yeah Yeah Yeahs
+26. Depeche Mode
+27. Lady Gaga
+28. Christina Aguilera
+29. Paramore
+30. Madonna
+31. Rihanna
+32. Shakira
+33. The Beatles
+34. Katy Perry
+35. Avril Lavigne
+36. Taylor Swift
+37. Evanescence
+38. Glee Cast
+39. Beyoncé
+40. U2
+41. 30 Seconds to Mars
+42. Pink Floyd
+43. Kylie Minogue
+44. Miley Cyrus
+45. Ke$ha
+46. Duran Duran
+47. Coldplay
+48. Arctic Monkeys
+49. Placebo
+50. The Killers

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. System of a Down
+2. Slipknot
+3. Korn
+4. Metallica
+5. Guns N' Roses
+6. Avenged Sevenfold
+7. Muse
+8. Red Hot Chili Peppers
+9. Bullet for My Valentine
+10. In Flames
+11. Despised Icon
+12. Arch Enemy
+13. All That Remains
+14. As I Lay Dying
+15. The Dillinger Escape Plan
+16. The Black Dahlia Murder
+17. Parkway Drive
+18. August Burns Red
+19. Heaven Shall Burn
+20. Caliban
+21. A Day to Remember
+22. Linkin Park
+23. Lostprophets
+24. Godsmack
+25. 2Pac
+26. Evanescence
+27. Bowling for Soup
+28. Incubus
+29. We Butter The Bread With Butter
+30. Dire Straits
+31. Enter Shikari
+32. Charlie Brown Jr.
+33. Burial
+34. Whitechapel
+35. The Word Alive
+36. All Shall Perish
+37. Bring Me The Horizon
+38. Papa Roach
+39. Nightwish
+40. Attack Attack!
+41. Celldweller
+42. Keane
+43. Emmure
+44. Avril Lavigne
+45. Hoobastank
+46. Suicide Silence
+47. The Devil Wears Prada
+48. Born of Osiris
+49. Rammstein
+50. Aerosmith

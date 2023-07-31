@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Coil
+2. Throbbing Gristle
+3. Einstürzende Neubauten
+4. The Residents
+5. Kraftwerk
+6. Sonic Youth
+7. Devo
+8. David Bowie
+9. Nick Cave and the Bad Seeds
+10. Danny Elfman
+11. Pixies
+12. Skinny Puppy
+13. Cabaret Voltaire
+14. The Sisters of Mercy
+15. Oingo Boingo
+16. Antony and the Johnsons
+17. Fantômas
+18. Eminem
+19. Radiohead
+20. Nirvana
+21. Pink Floyd
+22. Led Zeppelin
+23. Metallica
+24. Iron Maiden
+25. Pearl Jam
+26. Nine Inch Nails
+27. Muse
+28. U2
+29. The Beatles
+30. The Cure
+31. Blur
+32. Arctic Monkeys
+33. Placebo
+34. The Killers
+35. Duran Duran
+36. Michael Jackson
+37. Björk
+38. System of a Down
+39. Daft Punk
+40. Ke$ha
+41. Lady Gaga
+42. Madonna
+43. Rihanna
+44. Beyoncé
+45. Shakira
+46. Katy Perry
+47. Christina Aguilera
+48. Avril Lavigne
+49. Taylor Swift
+50. Amy Winehouse

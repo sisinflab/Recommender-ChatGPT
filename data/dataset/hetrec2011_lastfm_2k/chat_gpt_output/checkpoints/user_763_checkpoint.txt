@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Avenged Sevenfold
+2. System of a Down
+3. Green Day
+4. Foo Fighters
+5. My Chemical Romance
+6. Bullet for My Valentine
+7. Breaking Benjamin
+8. Shinedown
+9. Seether
+10. Papa Roach
+11. Three Days Grace
+12. Linkin Park
+13. Lacuna Coil
+14. Rammstein
+15. Limp Bizkit
+16. Korn
+17. Slipknot
+18. Lostprophets
+19. Skillet
+20. Coldplay
+21. David Guetta
+22. Paradise Lost
+23. Placebo
+24. Cinema Bizarre
+25. HIM
+26. Trivium
+27. 30 Seconds to Mars
+28. OK Go
+29. Disturbed
+30. Marilyn Manson
+31. The All-American Rejects
+32. Thousand Foot Krutch
+33. Within Temptation
+34. Story of the Year
+35. Rise Against
+36. Simple Plan
+37. Muse
+38. Stone Sour
+39. Nickelback
+40. AFI
+41. Evanescence
+42. The Used
+43. Chevelle
+44. Red Hot Chili Peppers
+45. Tool
+46. Deftones
+47. Incubus
+48. Nine Inch Nails
+49. The Smashing Pumpkins
+50. Radiohead

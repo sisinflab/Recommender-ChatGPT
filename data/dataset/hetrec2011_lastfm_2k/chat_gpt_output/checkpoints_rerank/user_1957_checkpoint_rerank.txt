@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Panic! At The Disco
+2. All-American Rejects
+3. Weezer
+4. The Academy Is...
+5. Cobra Starship
+6. The Maine
+7. Mayday Parade
+8. Boys Like Girls
+9. The Fray
+10. Dashboard Confessional
+11. The Red Jumpsuit Apparatus
+12. The Used
+13. Fall Out Boy (already liked)
+14. Jack's Mannequin (already liked)
+15. Something Corporate (already liked)
+16. The Postal Service (already liked)
+17. Death Cab for Cutie (already liked)
+18. Taking Back Sunday (already liked)
+19. Jimmy Eat World (already liked)
+20. blink-182 (already liked)
+21. Matchbox Twenty (already liked)
+22. Rascal Flatts (already liked)
+23. Mariah Carey (already liked)
+24. Katy Perry (already liked)
+25. Lady Antebellum (already liked)
+26. Britney Spears
+27. Lady Gaga
+28. Christina Aguilera (already liked)
+29. Rihanna
+30. Shakira
+31. Avril Lavigne
+32. Taylor Swift (already liked)
+33. Evanescence
+34. Beyoncé
+35. U2
+36. 30 Seconds to Mars
+37. Muse
+38. Pink Floyd
+39. Kylie Minogue
+40. Miley Cyrus
+41. Radiohead
+42. Ke$ha
+43. Coldplay
+44. Blur
+45. Arctic Monkeys
+46. Placebo
+47. The Killers
+48. Nirvana
+49. Iron Maiden
+50. Amy Winehouse

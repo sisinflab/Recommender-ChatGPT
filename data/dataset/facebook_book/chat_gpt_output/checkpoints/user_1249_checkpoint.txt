@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Fault in Our Stars by John Green
+4. The Maze Runner by James Dashner
+5. The Book Thief by Markus Zusak
+6. The Giver by Lois Lowry
+7. The Selection by Kiera Cass
+8. Legend by Marie Lu
+9. The Mortal Instruments series by Cassandra Clare
+10. The Infernal Devices series by Cassandra Clare
+11. The Lunar Chronicles series by Marissa Meyer
+12. The Percy Jackson and the Olympians series by Rick Riordan
+13. The Heroes of Olympus series by Rick Riordan
+14. The Kane Chronicles series by Rick Riordan
+15. The Lord of the Rings series by J.R.R. Tolkien
+16. The Chronicles of Narnia series by C.S. Lewis
+17. The Harry Potter series by J.K. Rowling
+18. The Twilight series by Stephenie Meyer
+19. The Giver Quartet series by Lois Lowry
+20. The Uglies series by Scott Westerfeld
+21. The Selection series by Kiera Cass
+22. The 5th Wave by Rick Yancey
+23. The Darkest Minds by Alexandra Bracken
+24. The Maze Runner series by James Dashner
+25. The Lunar Chronicles series by Marissa Meyer
+26. The Percy Jackson and the Olympians series by Rick Riordan
+27. The Heroes of Olympus series by Rick Riordan
+28. The Kane Chronicles series by Rick Riordan
+29. The Lord of the Rings series by J.R.R. Tolkien
+30. The Chronicles of Narnia series by C.S. Lewis
+31. The Harry Potter series by J.K. Rowling
+32. The Twilight series by Stephenie Meyer
+33. The Giver Quartet series by Lois Lowry
+34. The Uglies series by Scott Westerfeld
+35. The Selection series by Kiera Cass
+36. The 5th Wave by Rick Yancey
+37. The Darkest Minds by Alexandra Bracken
+38. The Maze Runner series by James Dashner
+39. The Lunar Chronicles series by Marissa Meyer
+40. The Percy Jackson and the Olympians series by Rick Riordan
+41. The Heroes of Olympus series by Rick Riordan
+42. The Kane Chronicles series by Rick Riordan
+43. The Lord of the Rings series by J.R.R. Tolkien
+44. The Chronicles of Narnia series by C.S. Lewis
+45. The Harry Potter series by J.K. Rowling
+46. The Twilight series by Stephenie Meyer
+47. The Giver Quartet series by Lois Lowry
+48. The Uglies series by Scott Westerfeld
+49. The Selection series by Kiera Cass
+50. American Gods by Neil Gaiman

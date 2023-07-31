@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Björk
+2. Tori Amos
+3. Fiona Apple
+4. Imogen Heap
+5. Sarah McLachlan
+6. Regina Spektor
+7. A Fine Frenzy
+8. Rilo Kiley
+9. David Bowie
+10. Annie Lennox
+11. Kate Bush
+12. Goldfrapp
+13. Florence + the Machine
+14. Fever Ray
+15. The Knife
+16. Portishead
+17. Lykke Li
+18. Bat for Lashes
+19. The Bird and The Bee
+20. Sia
+21. Marisa Monte
+22. Caetano Veloso
+23. Radiohead
+24. Thom Yorke
+25. The xx
+26. Nine Inch Nails
+27. Swans
+28. Marilyn Manson
+29. Depeche Mode
+30. Crystal Castles
+31. Underworld
+32. Placebo
+33. Pink Floyd
+34. Simply Red
+35. Roberta Sá
+36. Shakira
+37. Joss Stone
+38. Lily Allen
+39. Tegan and Sara
+40. Enya
+41. Delerium
+42. Garbage
+43. The Used
+44. Kelly Clarkson
+45. Janet Jackson
+46. Madonna
+47. Cyndi Lauper
+48. Katy Perry
+49. Dido
+50. Luis Miguel

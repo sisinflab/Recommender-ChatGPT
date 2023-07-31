@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Rise Against
+2. Foo Fighters
+3. Radiohead
+4. Thrice
+5. Fugazi
+6. Circa Survive
+7. Bad Religion
+8. NOFX
+9. Alkaline Trio
+10. Brand New
+11. Say Anything
+12. Motion City Soundtrack
+13. Against Me!
+14. Minus the Bear
+15. The Gaslight Anthem
+16. Weezer
+17. Nirvana
+18. Metallica
+19. The Smashing Pumpkins
+20. Black Sabbath
+21. Deftones
+22. Rage Against the Machine
+23. Pink Floyd
+24. Queen
+25. Guns N' Roses
+26. AC/DC
+27. The Rolling Stones
+28. R.E.M.
+29. David Bowie
+30. Morrissey
+31. The Cure
+32. Neutral Milk Hotel
+33. My Bloody Valentine
+34. Animal Collective
+35. Klaxons
+36. Wu-Tang Clan
+37. Ramones
+38. blink-182
+39. Gorillaz
+40. Muse
+41. Depeche Mode
+42. Stars
+43. Snow Patrol
+44. Jimmy Eat World
+45. Jack's Mannequin
+46. Green Day
+47. Goo Goo Dolls
+48. Katy Perry
+49. The Who
+50. Bob Dylan

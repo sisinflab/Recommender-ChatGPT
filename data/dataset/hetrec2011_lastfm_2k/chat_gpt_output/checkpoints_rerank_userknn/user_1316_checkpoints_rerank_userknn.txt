@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for this user are:
+
+1. The Beatles
+2. Elvis Presley
+3. Michael Jackson
+4. Bruce Springsteen
+5. Madonna
+6. David Bowie
+7. Frank Sinatra
+8. Billy Joel
+9. Paul McCartney
+10. Queen
+11. Fleet Foxes
+12. R.E.M.
+13. The Beach Boys
+14. Buddy Holly
+15. The Kinks
+16. Bob Dylan
+17. Lady Gaga
+18. Taylor Swift
+19. Demi Lovato
+20. John Lennon
+21. Bon Jovi
+22. Eminem
+23. Paramore
+24. No Doubt
+25. Rihanna
+26. Colbie Caillat
+27. Adele
+28. Owl City
+29. Katy Perry
+30. P!nk
+31. Beyoncé
+32. Ke$ha
+33. Ellie Goulding
+34. Lights
+35. Shakira
+36. Metric
+37. The National
+38. Interpol
+39. The Killers
+40. Simon & Garfunkel
+41. Imogen Heap
+42. Nicki Minaj
+43. Avril Lavigne
+44. Christina Aguilera
+45. Pixie Lott
+46. Lily Allen
+47. Miley Cyrus
+48. Selena Gomez & the Scene
+49. High School Musical
+50. Emily Osment

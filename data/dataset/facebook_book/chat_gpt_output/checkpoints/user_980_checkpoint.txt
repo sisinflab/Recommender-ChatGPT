@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Inkdeath by Cornelia Funke
+2. Inkheart Trilogy Boxset by Cornelia Funke
+3. The Neverending Story by Michael Ende
+4. The Hobbit by J.R.R. Tolkien
+5. The Lord of the Rings Trilogy by J.R.R. Tolkien
+6. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+7. The Restaurant at the End of the Universe by Douglas Adams
+8. Life, the Universe and Everything by Douglas Adams
+9. So Long, and Thanks for All the Fish by Douglas Adams
+10. Mostly Harmless by Douglas Adams
+11. The Crucible by Arthur Miller
+12. Fahrenheit 451 by Ray Bradbury
+13. 1984 by George Orwell
+14. Animal Farm by George Orwell
+15. Brave New World by Aldous Huxley
+16. The Giver by Lois Lowry
+17. The Maze Runner by James Dashner
+18. The Hunger Games by Suzanne Collins
+19. Divergent by Veronica Roth
+20. The Selection by Kiera Cass
+21. The Fault in Our Stars by John Green
+22. The Book Thief by Markus Zusak
+23. The Chronicles of Narnia by C.S. Lewis
+24. The Golden Compass by Philip Pullman
+25. The Dark is Rising by Susan Cooper
+26. The Tale of Despereaux by Kate DiCamillo
+27. Because of Winn-Dixie by Kate DiCamillo
+28. The Miraculous Journey of Edward Tulane by Kate DiCamillo
+29. The Secret Keepers by Trenton Lee Stewart
+30. The Mysterious Benedict Society by Trenton Lee Stewart
+31. Harry Potter and the Philosopher's Stone by J.K. Rowling
+32. Harry Potter and the Chamber of Secrets by J.K. Rowling
+33. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+34. Harry Potter and the Goblet of Fire by J.K. Rowling
+35. Harry Potter and the Order of Phoenix by J.K. Rowling
+36. Harry Potter and the Half-Blood Prince by J.K. Rowling
+37. Harry Potter and the Deathly Hallows by J.K. Rowling
+38. The Lightning Thief by Rick Riordan
+39. Percy Jackson and the Sea of Monsters by Rick Riordan
+40. The Titan's Curse by Rick Riordan
+41. The Battle of the Labyrinth by Rick Riordan
+42. The Last Olympian by Rick Riordan
+43. The Maze of Bones by Rick Riordan
+44. The Sword of Summer by Rick Riordan
+45. The Hidden Oracle by Rick Riordan
+46. The Capture by Kathryn Lasky
+47. The Journey by Kathryn Lasky
+48. The Rescue by Kathryn Lasky
+49. The Bell Jar by Sylvia Plath
+50. The Wise Man's Fear by Patrick Rothfuss

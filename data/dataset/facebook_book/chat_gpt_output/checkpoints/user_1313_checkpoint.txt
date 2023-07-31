@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. Catching Fire by Suzanne Collins
+3. Persuasion by Jane Austen
+4. The Fault in Our Stars by John Green
+5. To Kill a Mockingbird by Harper Lee
+6. The Great Gatsby by F. Scott Fitzgerald
+7. The Catcher in the Rye by J.D. Salinger
+8. The Hobbit by J.R.R. Tolkien
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Chronicles of Narnia by C.S. Lewis
+11. The Book Thief by Markus Zusak
+12. The Hunger Games Trilogy Boxset by Suzanne Collins
+13. The Maze Runner by James Dashner
+14. Divergent by Veronica Roth
+15. Insurgent by Veronica Roth
+16. Allegiant by Veronica Roth
+17. The Girl with the Dragon Tattoo by Stieg Larsson
+18. The Da Vinci Code by Dan Brown
+19. Angels and Demons by Dan Brown
+20. The Lovely Bones by Alice Sebold
+21. The Help by Kathryn Stockett
+22. The Secret Life of Bees by Sue Monk Kidd
+23. The Color Purple by Alice Walker
+24. The Joy Luck Club by Amy Tan
+25. The Kite Runner by Khaled Hosseini
+26. A Thousand Splendid Suns by Khaled Hosseini
+27. The Alchemist by Paulo Coelho
+28. The Picture of Dorian Gray by Oscar Wilde
+29. Wuthering Heights by Emily Bronte
+30. Jane Eyre by Charlotte Bronte
+31. Little Women by Louisa May Alcott
+32. Anne of Green Gables by L.M. Montgomery
+33. The Adventures of Tom Sawyer by Mark Twain
+34. The Adventures of Huckleberry Finn by Mark Twain
+35. The Time Traveler's Wife by Audrey Niffenegger
+36. The Notebook by Nicholas Sparks
+37. A Walk to Remember by Nicholas Sparks
+38. The Last Song by Nicholas Sparks
+39. The Bridges of Madison County by Robert James Waller
+40. The Shining by Stephen King
+41. Carrie by Stephen King
+42. The Stand by Stephen King
+43. The Green Mile by Stephen King
+44. The Silence of the Lambs by Thomas Harris
+45. Red Dragon by Thomas Harris
+46. Hannibal by Thomas Harris
+47. The Bourne Identity by Robert Ludlum
+48. The Bourne Supremacy by Robert Ludlum
+49. The Bourne Ultimatum by Robert Ludlum
+50. The Girl on the Train by Paula Hawkins

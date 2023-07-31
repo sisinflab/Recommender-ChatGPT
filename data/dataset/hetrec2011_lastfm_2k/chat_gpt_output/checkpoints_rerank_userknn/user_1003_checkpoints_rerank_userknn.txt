@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for this user would be:
+
+1. Michael Jackson
+2. Madonna
+3. Queen
+4. U2
+5. Prince
+6. Bruce Springsteen
+7. Fleetwood Mac
+8. The Beatles
+9. David Bowie
+10. Elton John
+11. Stevie Wonder
+12. The Cure
+13. Duran Duran
+14. The Killers
+15. Lady Gaga
+16. Robbie Williams
+17. Erasure
+18. Scissor Sisters
+19. George Michael
+20. The Human League
+21. Kylie Minogue
+22. Amy Winehouse
+23. The Jackson 5
+24. Girls Aloud
+25. The Saturdays
+26. Kings of Leon
+27. Wham!
+28. Simple Minds
+29. Frankie Goes to Hollywood
+30. Cyndi Lauper
+31. Garbage
+32. Pet Shop Boys
+33. Depeche Mode
+34. New Order
+35. Tears for Fears
+36. Culture Club
+37. Eurythmics
+38. Roxette
+39. Moby
+40. Morrissey
+41. INXS
+42. Iron Maiden
+43. Sigur Rós
+44. Muse
+45. Mika
+46. Rihanna
+47. Britney Spears
+48. Spice Girls
+49. Nelly Furtado
+50. Coldplay

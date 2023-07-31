@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. David Bowie
+2. Madonna
+3. George Michael
+4. Queen
+5. The Prodigy
+6. Duran Duran
+7. Tears for Fears
+8. Bryan Ferry
+9. Pet Shop Boys
+10. Soft Cell
+11. Adam and the Ants
+12. INXS
+13. Moby
+14. Franz Ferdinand
+15. Sonic Youth
+16. Morrissey
+17. The B-52's
+18. Icehouse
+19. Dio
+20. Joan Jett and the Blackhearts
+21. Blondie
+22. The Cure
+23. New Order
+24. U2
+25. Michael Jackson
+26. Cyndi Lauper
+27. ABBA
+28. The Beatles
+29. Spandau Ballet
+30. a-ha
+31. Red Hot Chili Peppers
+32. Justin Bieber
+33. Garbage
+34. Ke$ha
+35. Nicki Minaj
+36. Lady Gaga
+37. Marilyn Manson
+38. Eurythmics
+39. David Guetta
+40. The Human League
+41. Erasure
+42. Backstreet Boys
+43. Pitbull
+44. Journey
+45. Kansas
+46. Johnny Cash
+47. Willow Smith
+48. Muse
+49. Anathema
+50. Sopor Aeternus & The Ensemble of Shadows

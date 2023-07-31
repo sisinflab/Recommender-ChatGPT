@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. 浜崎あゆみ
+2. Perfume
+3. 宇多田ヒカル
+4. YUI
+5. Oasis
+6. 倖田來未
+7. Rammstein
+8. The Sounds
+9. DIR EN GREY
+10. Misfits
+11. Yellowcard
+12. 安室奈美恵
+13. Rise Against
+14. HIM
+15. 소녀시대
+16. Muse
+17. Radiohead
+18. Nirvana
+19. Pearl Jam
+20. Metallica
+21. Iron Maiden
+22. Led Zeppelin
+23. The Beatles
+24. U2
+25. Pink Floyd
+26. Duran Duran
+27. Coldplay
+28. Blur
+29. Arctic Monkeys
+30. Placebo
+31. The Killers
+32. Amy Winehouse
+33. Michael Jackson
+34. a-ha
+35. Björk
+36. System of a Down
+37. Daft Punk
+38. Nine Inch Nails
+39. Linkin Park
+40. Avenged Sevenfold
+41. Green Day
+42. The Cure
+43. Lady Gaga
+44. Christina Aguilera
+45. Rihanna
+46. Shakira
+47. Katy Perry
+48. Avril Lavigne
+49. Taylor Swift
+50. Ke$ha

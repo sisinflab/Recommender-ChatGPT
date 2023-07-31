@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Alchemist by Paulo Coelho
+2. Brida by Paulo Coelho
+3. Veronika Decides to Die by Paulo Coelho
+4. The Zahir by Paulo Coelho
+5. The Valkyries by Paulo Coelho
+6. The Witch of Portobello by Paulo Coelho
+7. The Devil and Miss Prym by Paulo Coelho
+8. The Twilight Saga by Stephenie Meyer
+9. New Moon by Stephenie Meyer
+10. Eclipse by Stephenie Meyer
+11. Breaking Dawn by Stephenie Meyer
+12. The Prophet by Kahlil Gibran
+13. The Madman by Kahlil Gibran
+14. The Forerunner by Kahlil Gibran
+15. The Garden of the Prophet by Kahlil Gibran
+16. The Essential Rumi by Rumi
+17. The Masnavi by Rumi
+18. The Rubaiyat by Omar Khayyam
+19. The Conference of the Birds by Farid ud-Din Attar
+20. The Divine Comedy by Dante Alighieri
+21. The Canterbury Tales by Geoffrey Chaucer
+22. The Decameron by Giovanni Boccaccio
+23. The Iliad by Homer
+24. The Odyssey by Homer
+25. The Aeneid by Virgil
+26. The Inferno by Dante Alighieri
+27. The Divine Comedy by Dante Alighieri
+28. The Republic by Plato
+29. The Symposium by Plato
+30. The Apology by Plato
+31. The Phaedo by Plato
+32. The Bhagavad Gita by Vyasa
+33. The Upanishads by Various Authors
+34. The Tao Te Ching by Lao Tzu
+35. The Analects by Confucius
+36. The Art of War by Sun Tzu
+37. The Book of Five Rings by Miyamoto Musashi
+38. The Prince by Niccolo Machiavelli
+39. The Wealth of Nations by Adam Smith
+40. The Communist Manifesto by Karl Marx and Friedrich Engels
+41. The Origin of Species by Charles Darwin
+42. The Interpretation of Dreams by Sigmund Freud
+43. The Republic of Plato by Allan Bloom
+44. The Brothers Karamazov by Fyodor Dostoevsky
+45. Crime and Punishment by Fyodor Dostoevsky
+46. War and Peace by Leo Tolstoy
+47. Anna Karenina by Leo Tolstoy
+48. The Great Gatsby by F. Scott Fitzgerald
+49. To Kill a Mockingbird by Harper Lee
+50. 1984 by George Orwell

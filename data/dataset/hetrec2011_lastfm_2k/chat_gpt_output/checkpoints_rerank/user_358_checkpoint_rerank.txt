@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for user 358 would be:
+
+1. Radiohead
+2. Muse
+3. Pink Floyd
+4. Nine Inch Nails
+5. Aphex Twin
+6. Sigur Rós
+7. Daft Punk
+8. Justice
+9. MGMT
+10. Air
+11. Digitalism
+12. Bonobo
+13. Moby
+14. The Album Leaf
+15. Foals
+16. Archive
+17. Mogwai
+18. The Cinematic Orchestra
+19. Massive Attack
+20. The American Dollar
+21. Ratatat
+22. The Kooks
+23. The White Stripes
+24. The Last Shadow Puppets
+25. Arctic Monkeys
+26. Hans Zimmer
+27. Phoenix
+28. Parov Stelar
+29. Gorillaz
+30. The Beatles
+31. Coldplay
+32. Blur
+33. Placebo
+34. The Killers
+35. Nirvana
+36. Iron Maiden
+37. Led Zeppelin
+38. Metallica
+39. Michael Jackson
+40. Pearl Jam
+41. a-ha
+42. Björk
+43. System of a Down
+44. Linkin Park
+45. Avenged Sevenfold
+46. My Chemical Romance
+47. Green Day
+48. The Cure
+49. U2
+50. Amy Winehouse

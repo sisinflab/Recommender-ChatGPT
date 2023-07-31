@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Intensity by Dean Koontz
+2. The Stand by Stephen King
+3. The Shining by Stephen King
+4. The Girl with the Dragon Tattoo by Stieg Larsson
+5. The Hunger Games by Suzanne Collins
+6. The Da Vinci Code by Dan Brown
+7. The Silence of the Lambs by Thomas Harris
+8. The Bourne Identity by Robert Ludlum
+9. The Andromeda Strain by Michael Crichton
+10. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+11. The Lord of the Rings by J.R.R. Tolkien
+12. The Hobbit by J.R.R. Tolkien
+13. The Catcher in the Rye by J.D. Salinger
+14. The Great Gatsby by F. Scott Fitzgerald
+15. To Kill a Mockingbird by Harper Lee
+16. 1984 by George Orwell
+17. Animal Farm by George Orwell
+18. Brave New World by Aldous Huxley
+19. Fahrenheit 451 by Ray Bradbury
+20. The Martian by Andy Weir
+21. Ender's Game by Orson Scott Card
+22. The Maze Runner by James Dashner
+23. The Giver by Lois Lowry
+24. The Hunger by Alma Katsu
+25. The Road by Cormac McCarthy
+26. The Book Thief by Markus Zusak
+27. The Lovely Bones by Alice Sebold
+28. The Time Traveler's Wife by Audrey Niffenegger
+29. The Help by Kathryn Stockett
+30. The Secret Life of Bees by Sue Monk Kidd
+31. The Kite Runner by Khaled Hosseini
+32. A Thousand Splendid Suns by Khaled Hosseini
+33. The Alchemist by Paulo Coelho
+34. The Picture of Dorian Gray by Oscar Wilde
+35. The Count of Monte Cristo by Alexandre Dumas
+36. Les Misérables by Victor Hugo
+37. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+38. The Hound of the Baskervilles by Arthur Conan Doyle
+39. The Complete Works of Edgar Allan Poe by Edgar Allan Poe
+40. The Complete Sherlock Holmes by Arthur Conan Doyle
+41. The Complete Tales and Poems of Edgar Allan Poe by Edgar Allan Poe
+42. The Complete Novels of Jane Austen by Jane Austen
+43. The Complete Works of William Shakespeare by William Shakespeare
+44. The Canterbury Tales by Geoffrey Chaucer
+45. The Divine Comedy by Dante Alighieri
+46. The Iliad by Homer
+47. The Odyssey by Homer
+48. The Aeneid by Virgil
+49. Beowulf by Anonymous
+50. The Epic of Gilgamesh by Anonymous

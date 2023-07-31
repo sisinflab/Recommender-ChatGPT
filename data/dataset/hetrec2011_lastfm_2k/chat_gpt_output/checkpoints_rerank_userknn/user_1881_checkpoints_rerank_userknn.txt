@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for this user are:
+
+1. Madonna
+2. Michael Jackson
+3. U2
+4. Britney Spears
+5. Depeche Mode
+6. The Police
+7. Duran Duran
+8. Cyndi Lauper
+9. Bon Jovi
+10. Erasure
+11. The Beatles
+12. Tears for Fears
+13. Robbie Williams
+14. Bryan Adams
+15. Maroon 5
+16. The Corrs
+17. Heart
+18. Alicia Keys
+19. Craig David
+20. Matchbox Twenty
+21. Dido
+22. Spice Girls
+23. Crowded House
+24. Destiny's Child
+25. Roxette
+26. Backstreet Boys
+27. Arcadia
+28. Culture Club
+29. Eurythmics
+30. New Order
+31. Simple Minds
+32. Pet Shop Boys
+33. ABC
+34. Spandau Ballet
+35. George Michael
+36. Hall & Oates
+37. The Human League
+38. Ultravox
+39. David Bowie
+40. Pixies
+41. The B-52's
+42. Japan
+43. Stone Temple Pilots
+44. Madness
+45. No Doubt
+46. Archive
+47. Faith No More
+48. Iron Maiden
+49. Amon Tobin
+50. UNKLE

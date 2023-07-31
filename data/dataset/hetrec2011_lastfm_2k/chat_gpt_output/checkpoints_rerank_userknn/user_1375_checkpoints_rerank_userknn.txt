@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Pink Floyd
+2. The Smiths
+3. Alexisonfire
+4. Minus the Bear
+5. As I Lay Dying
+6. Thrice
+7. Porcupine Tree
+8. Parkway Drive
+9. Antimatter
+10. All That Remains
+11. Morrissey
+12. God Is an Astronaut
+13. Theatre of Tragedy
+14. Parov Stelar
+15. Pantera
+16. Jethro Tull
+17. Rammstein
+18. Sublime
+19. Raul Seixas
+20. Disturbed
+21. Stevie Ray Vaughan and Double Trouble
+22. Weezer
+23. City and Colour
+24. Between the Buried and Me
+25. Roger Waters
+26. Iron Maiden
+27. King Crimson
+28. Yes
+29. Led Zeppelin
+30. Jimi Hendrix
+31. The Beatles
+32. Red Hot Chili Peppers
+33. Crystal Castles
+34. Tool
+35. David Gilmour
+36. Fleetwood Mac
+37. Sigur Rós
+38. Miles Davis
+39. Coheed and Cambria
+40. The Cure
+41. Manu Chao
+42. Cat Stevens
+43. Syd Barrett
+44. The Doors
+45. Joe Satriani
+46. Eagles
+47. Brian Eno
+48. Dire Straits
+49. Depeche Mode
+50. Talk Talk

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Coldplay
+2. Pearl Jam
+3. Green Day
+4. Kings of Leon
+5. The Police
+6. Rise Against
+7. Mastodon
+8. Opeth
+9. HORSE the band
+10. Final Fantasy
+11. Newton Faulkner
+12. Matisyahu
+13. Lifehouse
+14. dredg
+15. Jack Johnson
+16. The Offspring
+17. Depeche Mode
+18. Ani DiFranco
+19. Iron & Wine
+20. Beck
+21. The White Stripes
+22. Arctic Monkeys
+23. Interpol
+24. Black Rebel Motorcycle Club
+25. Ryan Adams
+26. José González
+27. Mando Diao
+28. Matanza
+29. Charlie Brown Jr.
+30. CAKE
+31. Arcade Fire
+32. The Jimi Hendrix Experience
+33. The Rolling Stones
+34. Агата Кристи
+35. Sum 41
+36. The Who
+37. A Day to Remember
+38. Los Hermanos
+39. Snoop Dogg
+40. Pink Floyd
+41. Led Zeppelin
+42. Дельфин
+43. Metallica
+44. Wolfsheim
+45. Johnny Cash
+46. Telefon Tel Aviv
+47. Travis
+48. Bruce Springsteen
+49. Broken Social Scene
+50. Minus the Bear

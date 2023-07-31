@@ -1,0 +1,54 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Metallica
+2. Muse
+3. System of a Down
+4. Slipknot
+5. Korn
+6. Rage Against the Machine
+7. Disturbed
+8. Deftones
+9. Marilyn Manson
+10. Avenged Sevenfold
+11. Guns N' Roses
+12. Mastodon
+13. Red Hot Chili Peppers
+14. Eminem
+15. Bob Marley
+16. Bob Marley & The Wailers
+17. Dr. Dre
+18. 2Pac
+19. Walls of Jericho
+20. Comeback Kid
+21. As I Lay Dying
+22. Fear Factory
+23. Cypress Hill
+24. Kings of Leon
+25. Machine Head
+26. The Killers
+27. Arctic Monkeys
+28. Bring Me The Horizon
+29. Limp Bizkit
+30. Haste the Day
+31. The Doors
+32. The Prodigy
+33. Iron Maiden
+34. Nirvana
+35. Led Zeppelin
+36. Pearl Jam
+37. Michael Jackson
+38. Nine Inch Nails
+39. Linkin Park
+40. Green Day
+41. My Chemical Romance
+42. Black Eyed Peas
+43. P!nk
+44. Kelly Clarkson
+45. All Time Low
+46. Radiohead
+47. Coldplay
+48. Blur
+49. Duran Duran
+50. Pink Floyd
+
+Note: The other artists (Britney Spears, Depeche Mode, Lady Gaga, Christina Aguilera, Paramore, Madonna, Rihanna, Shakira, The Beatles, Katy Perry, Avril Lavigne, Taylor Swift, Evanescence, Glee Cast, Beyoncé, U2, Ke$ha, Kylie Minogue, Miley Cyrus, Björk, System of a Down, Daft Punk, and a-ha) were not included in the top 50 recommendations as they are not similar to the user's preferred genres.

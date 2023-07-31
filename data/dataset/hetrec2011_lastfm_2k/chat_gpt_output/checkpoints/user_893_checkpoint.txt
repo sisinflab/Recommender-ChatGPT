@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Nine Inch Nails
+2. The Prodigy
+3. Muse
+4. Radiohead
+5. Marilyn Manson
+6. Tool
+7. Korn
+8. Slipknot
+9. Linkin Park
+10. Disturbed
+11. Rob Zombie
+12. A Perfect Circle
+13. Ministry
+14. The Chemical Brothers
+15. Massive Attack
+16. Portishead
+17. Tricky
+18. Bjork
+19. The Crystal Method
+20. Fatboy Slim
+21. Daft Punk
+22. The Black Keys
+23. Queens of the Stone Age
+24. Foo Fighters
+25. Nirvana
+26. Pearl Jam
+27. Soundgarden
+28. Alice in Chains
+29. Stone Temple Pilots
+30. Smashing Pumpkins
+31. Nine Inch Nails
+32. The Prodigy
+33. Muse
+34. Radiohead
+35. Marilyn Manson
+36. Tool
+37. Korn
+38. Slipknot
+39. Linkin Park
+40. Disturbed
+41. Rob Zombie
+42. A Perfect Circle
+43. Ministry
+44. The Chemical Brothers
+45. Massive Attack
+46. Portishead
+47. Tricky
+48. Bjork
+49. The Crystal Method
+50. Fatboy Slim

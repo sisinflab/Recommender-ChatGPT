@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Watership Down by Richard Adams
+2. Animal Farm by George Orwell
+3. The Lord of the Rings by J.R.R. Tolkien
+4. The Hobbit by J.R.R. Tolkien
+5. The Chronicles of Narnia by C.S. Lewis
+6. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+7. 1984 by George Orwell
+8. Brave New World by Aldous Huxley
+9. Fahrenheit 451 by Ray Bradbury
+10. To Kill a Mockingbird by Harper Lee
+11. The Catcher in the Rye by J.D. Salinger
+12. The Great Gatsby by F. Scott Fitzgerald
+13. One Hundred Years of Solitude by Gabriel Garcia Marquez
+14. The Alchemist by Paulo Coelho
+15. The Da Vinci Code by Dan Brown
+16. The Girl with the Dragon Tattoo by Stieg Larsson
+17. The Hunger Games by Suzanne Collins
+18. Harry Potter series by J.K. Rowling
+19. The Name of the Wind by Patrick Rothfuss
+20. The Way of Kings by Brandon Sanderson
+21. Mistborn series by Brandon Sanderson
+22. The Lies of Locke Lamora by Scott Lynch
+23. The Blade Itself by Joe Abercrombie
+24. The First Law Trilogy by Joe Abercrombie
+25. The Kingkiller Chronicle by Patrick Rothfuss
+26. The Stormlight Archive by Brandon Sanderson
+27. The Dark Tower series by Stephen King
+28. The Stand by Stephen King
+29. The Shining by Stephen King
+30. The Road by Cormac McCarthy
+31. The Martian by Andy Weir
+32. Ender's Game by Orson Scott Card
+33. Dune by Frank Herbert
+34. The Foundation series by Isaac Asimov
+35. Neuromancer by William Gibson
+36. Snow Crash by Neal Stephenson
+37. Ready Player One by Ernest Cline
+38. The Handmaid's Tale by Margaret Atwood
+39. The Testaments by Margaret Atwood
+40. The Power by Naomi Alderman
+41. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+42. The Devil in the White City by Erik Larson
+43. The Boys in the Boat by Daniel James Brown
+44. The Glass Castle by Jeannette Walls
+45. Educated by Tara Westover
+46. Born a Crime by Trevor Noah
+47. Just Mercy by Bryan Stevenson
+48. The New Jim Crow by Michelle Alexander
+49. The Warmth of Other Suns by Isabel Wilkerson
+50. Between the World and Me by Ta-Nehisi Coates

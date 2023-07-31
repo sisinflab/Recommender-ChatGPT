@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Beatles
+2. Pink Floyd
+3. David Bowie
+4. Led Zeppelin
+5. The Rolling Stones
+6. Radiohead
+7. The Smiths
+8. Michael Jackson
+9. Bruce Springsteen
+10. Depeche Mode
+11. The Cure
+12. Muse
+13. The Police
+14. Duran Duran
+15. Oasis
+16. Red Hot Chili Peppers
+17. Johnny Cash
+18. Gorillaz
+19. Ryan Adams
+20. The White Stripes
+21. Dire Straits
+22. Toto
+23. John Frusciante
+24. Blackmore's Night
+25. Sting
+26. Blur
+27. Norah Jones
+28. Paul McCartney
+29. R.E.M.
+30. Madonna
+31. Eric Clapton
+32. George Harrison
+33. Iron Maiden
+34. Tears for Fears
+35. Pixies
+36. Stone Temple Pilots
+37. Lily Allen
+38. Faith No More
+39. Erasure
+40. Ultravox
+41. Nik Kershaw
+42. Howard Jones
+43. George Michael
+44. Culture Club
+45. Scissor Sisters
+46. Genesis
+47. Helloween
+48. Thompson Twins
+49. Elton John
+50. No Doubt

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Michael Jackson
+2. Madonna
+3. David Bowie
+4. Billie Holiday
+5. Aretha Franklin
+6. Janet Jackson
+7. Cher
+8. Grace Jones
+9. Marvin Gaye
+10. The Jackson 5
+11. Queen
+12. Tina Turner
+13. Pink Floyd
+14. Radiohead
+15. Björk
+16. The Rolling Stones
+17. Aerosmith
+18. Sade
+19. Cyndi Lauper
+20. The Police
+21. Beyoncé
+22. Katy Perry
+23. Kylie Minogue
+24. The Who
+25. Elton John
+26. Donna Summer
+27. Lady Gaga
+28. Britney Spears
+29. Prince
+30. Stevie Wonder
+31. ABBA
+32. La Roux
+33. Rihanna
+34. Bruno Mars
+35. Foo Fighters
+36. Duffy
+37. Clint Mansell
+38. Adam Lambert
+39. Within Temptation
+40. Howard Shore
+41. Os Mutantes
+42. The Pretty Reckless
+43. Rita Lee
+44. Avril Lavigne
+45. Depeche Mode
+46. Amy Winehouse
+47. Hans Zimmer
+48. AC/DC
+49. Placebo
+50. Dannii Minogue

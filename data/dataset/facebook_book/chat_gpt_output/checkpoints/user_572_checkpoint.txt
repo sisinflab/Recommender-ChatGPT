@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. Jane Eyre by Charlotte Bronte
+3. The Great Gatsby by F. Scott Fitzgerald
+4. 1984 by George Orwell
+5. Animal Farm by George Orwell
+6. The Catcher in the Rye by J.D. Salinger
+7. The Lord of the Rings by J.R.R. Tolkien
+8. The Hobbit by J.R.R. Tolkien
+9. The Chronicles of Narnia by C.S. Lewis
+10. The Da Vinci Code by Dan Brown
+11. Angels and Demons by Dan Brown
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Hunger Games by Suzanne Collins
+14. Harry Potter series by J.K. Rowling
+15. The Fault in Our Stars by John Green
+16. The Alchemist by Paulo Coelho
+17. The Kite Runner by Khaled Hosseini
+18. The Book Thief by Markus Zusak
+19. The Road by Cormac McCarthy
+20. The Grapes of Wrath by John Steinbeck
+21. The Old Man and the Sea by Ernest Hemingway
+22. The Sun Also Rises by Ernest Hemingway
+23. A Farewell to Arms by Ernest Hemingway
+24. The Sound and the Fury by William Faulkner
+25. As I Lay Dying by William Faulkner
+26. The Color Purple by Alice Walker
+27. Beloved by Toni Morrison
+28. One Hundred Years of Solitude by Gabriel Garcia Marquez
+29. Love in the Time of Cholera by Gabriel Garcia Marquez
+30. Crime and Punishment by Fyodor Dostoevsky
+31. The Brothers Karamazov by Fyodor Dostoevsky
+32. Anna Karenina by Leo Tolstoy
+33. War and Peace by Leo Tolstoy
+34. The Picture of Dorian Gray by Oscar Wilde
+35. Dracula by Bram Stoker
+36. Frankenstein by Mary Shelley
+37. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+38. The Count of Monte Cristo by Alexandre Dumas
+39. Les Miserables by Victor Hugo
+40. The Three Musketeers by Alexandre Dumas
+41. The Canterbury Tales by Geoffrey Chaucer
+42. Don Quixote by Miguel de Cervantes
+43. The Divine Comedy by Dante Alighieri
+44. The Iliad by Homer
+45. The Odyssey by Homer
+46. The Aeneid by Virgil
+47. Beowulf by Unknown
+48. The Canterbury Tales by Geoffrey Chaucer
+49. The Decameron by Giovanni Boccaccio
+50. The Prince by Niccolo Machiavelli

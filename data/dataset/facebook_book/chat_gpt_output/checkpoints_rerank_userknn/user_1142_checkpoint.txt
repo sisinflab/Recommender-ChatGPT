@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Shining by Stephen King
+2. The Stand by Stephen King
+3. 1984 by George Orwell
+4. Brave New World by Aldous Huxley
+5. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+6. The Lord of the Rings by J.R.R. Tolkien
+7. The Catcher in the Rye by J.D. Salinger
+8. To Kill a Mockingbird by Harper Lee
+9. The Great Gatsby by F. Scott Fitzgerald
+10. One Hundred Years of Solitude by Gabriel Garcia Marquez
+11. The Picture of Dorian Gray by Oscar Wilde
+12. The Hobbit by J.R.R. Tolkien
+13. The Hunger Games by Suzanne Collins
+14. The Girl with the Dragon Tattoo by Stieg Larsson
+15. The Road by Cormac McCarthy
+16. The Book Thief by Markus Zusak
+17. The Giver by Lois Lowry
+18. The Fault in Our Stars by John Green
+19. The Maze Runner by James Dashner
+20. The Chronicles of Narnia by C.S. Lewis
+21. The Color Purple by Alice Walker
+22. The Handmaid's Tale by Margaret Atwood
+23. The Secret History by Donna Tartt
+24. The Talisman by Stephen King and Peter Straub
+25. The Dark Tower series by Stephen King
+26. The Phantom Tollbooth by Norton Juster
+27. Needful Things by Stephen King
+28. Invisible Monsters by Chuck Palahniuk
+29. Lolita by Vladimir Nabokov
+30. Wuthering Heights by Emily Bronte
+31. Memoirs of a Geisha by Arthur Golden
+32. The Collector by John Fowles
+33. American Gods by Neil Gaiman
+34. Choke by Chuck Palahniuk
+35. Pet Sematary by Stephen King
+36. Bury My Heart at Wounded Knee by Dee Brown
+37. A Midsummer Night's Dream by William Shakespeare
+38. Slaughterhouse-Five by Kurt Vonnegut
+39. It's Kind of a Funny Story by Ned Vizzini
+40. The Kite Runner by Khaled Hosseini
+41. The Lord of the Rings by J.R.R. Tolkien
+42. Flowers in the Attic by V.C. Andrews
+43. Cat's Cradle by Kurt Vonnegut
+44. A Thousand Splendid Suns by Khaled Hosseini
+45. Stardust by Neil Gaiman
+46. Atonement by Ian McEwan
+47. Vanity Fair by William Makepeace Thackeray
+48. Nineteen Eighty-Four by George Orwell
+49. The Devil's Dictionary by Ambrose Bierce
+50. The Count of Monte Cristo by Alexandre Dumas

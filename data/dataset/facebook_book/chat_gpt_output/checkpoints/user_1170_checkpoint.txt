@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. The Fault in Our Stars by John Green
+3. Divergent by Veronica Roth
+4. The Giver by Lois Lowry
+5. The Maze Runner by James Dashner
+6. The Book Thief by Markus Zusak
+7. The Perks of Being a Wallflower by Stephen Chbosky
+8. The Selection by Kiera Cass
+9. The Mortal Instruments series by Cassandra Clare
+10. The Infernal Devices series by Cassandra Clare
+11. The Lunar Chronicles series by Marissa Meyer
+12. The Chronicles of Narnia series by C.S. Lewis
+13. The Lord of the Rings series by J.R.R. Tolkien
+14. The Hobbit by J.R.R. Tolkien
+15. The Girl on the Train by Paula Hawkins
+16. The Nightingale by Kristin Hannah
+17. The Help by Kathryn Stockett
+18. The Kite Runner by Khaled Hosseini
+19. The Alchemist by Paulo Coelho
+20. The Secret Life of Bees by Sue Monk Kidd
+21. The Lovely Bones by Alice Sebold
+22. The Time Traveler's Wife by Audrey Niffenegger
+23. The Handmaid's Tale by Margaret Atwood
+24. The Picture of Dorian Gray by Oscar Wilde
+25. The Catcher in the Rye by J.D. Salinger
+26. To Kill a Mockingbird by Harper Lee
+27. 1984 by George Orwell
+28. Animal Farm by George Orwell
+29. Fahrenheit 451 by Ray Bradbury
+30. The Martian by Andy Weir
+31. Ready Player One by Ernest Cline
+32. Ender's Game by Orson Scott Card
+33. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+34. The Da Vinci Code by Dan Brown
+35. Angels and Demons by Dan Brown
+36. The Bourne Identity by Robert Ludlum
+37. The Hunger Games trilogy by Suzanne Collins
+38. The Maze Runner trilogy by James Dashner
+39. The Divergent trilogy by Veronica Roth
+40. The Selection series by Kiera Cass
+41. The Mortal Instruments series by Cassandra Clare
+42. The Infernal Devices series by Cassandra Clare
+43. The Lunar Chronicles series by Marissa Meyer
+44. The Chronicles of Narnia series by C.S. Lewis
+45. The Lord of the Rings series by J.R.R. Tolkien
+46. The Hobbit by J.R.R. Tolkien
+47. The Girl with the Dragon Tattoo by Stieg Larsson
+48. The Help by Kathryn Stockett
+49. The Secret Life of Bees by Sue Monk Kidd
+50. The Lovely Bones by Alice Sebold

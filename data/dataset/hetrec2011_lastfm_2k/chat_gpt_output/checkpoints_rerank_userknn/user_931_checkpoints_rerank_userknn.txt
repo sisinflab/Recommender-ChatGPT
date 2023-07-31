@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Metallica
+2. Slayer
+3. Megadeth
+4. AC/DC
+5. Motörhead
+6. Guns N' Roses
+7. Pantera
+8. Anthrax
+9. Judas Priest
+10. Led Zeppelin
+11. Mastodon
+12. The Dillinger Escape Plan
+13. Overkill
+14. Misfits
+15. Burzum
+16. All Shall Perish
+17. Sepultura
+18. Cannibal Corpse
+19. Destruction
+20. Amon Amarth
+21. Children of Bodom
+22. In Flames
+23. Soilwork
+24. Municipal Waste
+25. Hatebreed
+26. Dream Theater
+27. Iron Maiden
+28. King Diamond
+29. Testament
+30. Black Sabbath
+31. Alice Cooper
+32. Rammstein
+33. Marilyn Manson
+34. The Jimi Hendrix Experience
+35. The Rolling Stones
+36. Deep Purple
+37. The Beatles
+38. Pink Floyd
+39. Nirvana
+40. Alice in Chains
+41. Pearl Jam
+42. The Smashing Pumpkins
+43. System of a Down
+44. Red Hot Chili Peppers
+45. Foo Fighters
+46. Johnny Cash
+47. Green Day
+48. Bad Religion
+49. Matanza
+50. Avril Lavigne

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. City of Bones by Cassandra Clare
+2. Divergent by Veronica Roth
+3. The Hunger Games by Suzanne Collins
+4. The Maze Runner by James Dashner
+5. The Fault in Our Stars by John Green
+6. The Giver by Lois Lowry
+7. The Selection by Kiera Cass
+8. The Mortal Instruments series by Cassandra Clare
+9. The Infernal Devices series by Cassandra Clare
+10. The Lunar Chronicles by Marissa Meyer
+11. The 5th Wave by Rick Yancey
+12. The Darkest Minds by Alexandra Bracken
+13. The Knife of Never Letting Go by Patrick Ness
+14. The War of the Worlds by H.G. Wells
+15. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+16. The Martian by Andy Weir
+17. Ender's Game by Orson Scott Card
+18. Ready Player One by Ernest Cline
+19. The Girl with the Dragon Tattoo by Stieg Larsson
+20. The Da Vinci Code by Dan Brown
+21. The Bourne Identity by Robert Ludlum
+22. The Silence of the Lambs by Thomas Harris
+23. The Shining by Stephen King
+24. The Stand by Stephen King
+25. The Dark Tower series by Stephen King
+26. The Name of the Wind by Patrick Rothfuss
+27. Mistborn series by Brandon Sanderson
+28. The Way of Kings by Brandon Sanderson
+29. The Lies of Locke Lamora by Scott Lynch
+30. The Kingkiller Chronicle series by Patrick Rothfuss
+31. The First Law trilogy by Joe Abercrombie
+32. The Blade Itself by Joe Abercrombie
+33. The Black Company by Glen Cook
+34. The Malazan Book of the Fallen series by Steven Erikson
+35. The Wheel of Time series by Robert Jordan
+36. The Stormlight Archive series by Brandon Sanderson
+37. The Lightbringer series by Brent Weeks
+38. The Night Angel trilogy by Brent Weeks
+39. The Broken Empire trilogy by Mark Lawrence
+40. The Powder Mage trilogy by Brian McClellan
+41. The Red Rising trilogy by Pierce Brown
+42. The Expanse series by James S.A. Corey
+43. The Culture series by Iain M. Banks
+44. The Hyperion Cantos by Dan Simmons
+45. The Foundation series by Isaac Asimov
+46. The Three-Body Problem by Liu Cixin
+47. The Windup Girl by Paolo Bacigalupi
+48. The Diamond Age by Neal Stephenson
+49. Snow Crash by Neal Stephenson
+50. Neuromancer by William Gibson

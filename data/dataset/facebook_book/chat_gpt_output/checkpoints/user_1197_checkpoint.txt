@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Joy Luck Club by Amy Tan
+2. The Secret Life of Bees by Sue Monk Kidd
+3. The Alchemist by Paulo Coelho
+4. The Help by Kathryn Stockett
+5. The Kite Runner by Khaled Hosseini
+6. The Girl with the Dragon Tattoo by Stieg Larsson
+7. The Hunger Games by Suzanne Collins
+8. The Da Vinci Code by Dan Brown
+9. The Lovely Bones by Alice Sebold
+10. The Time Traveler's Wife by Audrey Niffenegger
+11. The Notebook by Nicholas Sparks
+12. The Catcher in the Rye by J.D. Salinger
+13. The Great Gatsby by F. Scott Fitzgerald
+14. To Kill a Mockingbird by Harper Lee
+15. Pride and Prejudice by Jane Austen
+16. Jane Eyre by Charlotte Bronte
+17. Wuthering Heights by Emily Bronte
+18. Sense and Sensibility by Jane Austen
+19. Emma by Jane Austen
+20. Persuasion by Jane Austen
+21. Northanger Abbey by Jane Austen
+22. The Picture of Dorian Gray by Oscar Wilde
+23. Dracula by Bram Stoker
+24. Frankenstein by Mary Shelley
+25. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+26. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+27. The Hobbit by J.R.R. Tolkien
+28. The Lord of the Rings by J.R.R. Tolkien
+29. The Chronicles of Narnia by C.S. Lewis
+30. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+31. 1984 by George Orwell
+32. Animal Farm by George Orwell
+33. Brave New World by Aldous Huxley
+34. Fahrenheit 451 by Ray Bradbury
+35. The Martian by Andy Weir
+36. Ready Player One by Ernest Cline
+37. The Hunger Games Trilogy by Suzanne Collins
+38. The Maze Runner by James Dashner
+39. Divergent by Veronica Roth
+40. The Fault in Our Stars by John Green
+41. Looking for Alaska by John Green
+42. Paper Towns by John Green
+43. The Perks of Being a Wallflower by Stephen Chbosky
+44. The Book Thief by Markus Zusak
+45. A Man Called Ove by Fredrik Backman
+46. The Nightingale by Kristin Hannah
+47. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+48. The Glass Castle by Jeannette Walls
+49. Educated by Tara Westover
+50. Becoming by Michelle Obama

@@ -1,0 +1,14 @@
+2023-04-04 11:30:33.422235: I Loading parameters
+2023-04-04 11:30:33.422337: I Parameter neighbors set to 80
+2023-04-04 11:30:33.422408: I Parameter similarity set to correlation
+2023-04-04 11:30:33.422538: I Parameter implementation set to standard
+2023-04-04 11:30:33.422677: I Parameter implicit set to False
+2023-04-04 11:30:33.422755: I Parameter shrink set to 0
+2023-04-04 11:30:33.423019: I Parameter normalize set to True
+2023-04-04 11:30:33.423272: I Parameter asymmetric_alpha set to False
+2023-04-04 11:30:33.423334: I Parameter tversky_alpha set to False
+2023-04-04 11:30:33.423362: I Parameter tversky_beta set to False
+2023-04-04 11:30:33.423403: I Parameter row_weights set to None
+2023-04-04 11:30:34.203333: I Finished
+2023-04-04 11:30:34.203960: I Writing recommendations at: /home/dario/PhD/Recommender-ChatGPT/results/user_knn_movielens_small_2018
+2023-04-04 11:30:34.228570: I ******************************************

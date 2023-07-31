@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. To Kill a Mockingbird by Harper Lee
+3. Crime and Punishment by Fyodor Dostoevsky
+4. One Hundred Years of Solitude by Gabriel Garcia Marquez
+5. The Catcher in the Rye by J.D. Salinger
+6. The Picture of Dorian Gray by Oscar Wilde
+7. The Bell Jar by Sylvia Plath
+8. The Sun Also Rises by Ernest Hemingway
+9. The Stranger by Albert Camus
+10. The Road by Cormac McCarthy
+11. The Handmaid's Tale by Margaret Atwood
+12. The Old Man and the Sea by Ernest Hemingway
+13. The Great Gatsby by F. Scott Fitzgerald
+14. The Grapes of Wrath by John Steinbeck
+15. Slaughterhouse-Five by Kurt Vonnegut
+16. Brave New World by Aldous Huxley
+17. The Brothers Karamazov by Fyodor Dostoevsky
+18. The Sound and the Fury by William Faulkner
+19. Lolita by Vladimir Nabokov
+20. Heart of Darkness by Joseph Conrad
+21. The Trial by Franz Kafka
+22. The Idiot by Fyodor Dostoevsky
+23. The Count of Monte Cristo by Alexandre Dumas
+24. The Adventures of Huckleberry Finn by Mark Twain
+25. The Scarlet Letter by Nathaniel Hawthorne
+26. The Lord of the Rings by J.R.R. Tolkien
+27. The Hobbit by J.R.R. Tolkien
+28. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+29. The Shining by Stephen King
+30. The Stand by Stephen King
+31. The Dark Tower series by Stephen King
+32. The Girl with the Dragon Tattoo by Stieg Larsson
+33. The Hunger Games by Suzanne Collins
+34. The Da Vinci Code by Dan Brown
+35. The Name of the Rose by Umberto Eco
+36. The Picture of Dorian Gray by Oscar Wilde
+37. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+38. The Hound of the Baskervilles by Arthur Conan Doyle
+39. The Complete Works of William Shakespeare by William Shakespeare
+40. The Canterbury Tales by Geoffrey Chaucer
+41. The Divine Comedy by Dante Alighieri
+42. The Iliad by Homer
+43. The Odyssey by Homer
+44. The Republic by Plato
+45. The Prince by Niccolo Machiavelli
+46. The Art of War by Sun Tzu
+47. The Tao Te Ching by Lao Tzu
+48. The Analects by Confucius
+49. The Book of Five Rings by Miyamoto Musashi
+50. The Bhagavad G

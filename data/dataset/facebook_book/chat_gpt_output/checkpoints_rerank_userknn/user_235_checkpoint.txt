@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Lord of the Rings
+2. Dune (novel)
+3. Brave New World
+4. The Hitchhiker's Guide to the Galaxy (novel)
+5. The Great Gatsby
+6. American Gods
+7. The Dark Tower: The Gunslinger by ['Stephen King']
+8. The Sandman (book)
+9. The Little Prince
+10. The Forever War by ['Joe Haldeman']
+11. The God of Small Things
+12. The Silmarillion
+13. The Dark Half
+14. The Vampire Chronicles by []
+15. The Antichrist (book) by ['Friedrich Nietzsche']
+16. The Rules of Attraction
+17. The Giver
+18. Symposium (Plato)
+19. Tao of Jeet Kune Do by ['Bruce Lee']
+20. The Heart Is Deceitful Above All Things (novel)
+21. The Walking Dead (comic book)
+22. The Lost Years of Merlin
+23. The Pigman
+24. The Day of the Locust
+25. The Da Vinci Code
+26. The Dirt
+27. The Forever War by ['Joe Haldeman']
+28. The Dark Elf Trilogy
+29. The Hitchhiker's Guide to the Galaxy (novel)
+30. The Heart Is Deceitful Above All Things (novel)
+31. The Walking Dead (comic book)
+32. The Lost Years of Merlin
+33. The Pigman
+34. The Day of the Locust
+35. The Da Vinci Code
+36. The Dirt
+37. The Forever War by ['Joe Haldeman']
+38. The Dark Elf Trilogy
+39. The Hitchhiker's Guide to the Galaxy (novel)
+40. The Heart Is Deceitful Above All Things (novel)
+41. The Walking Dead (comic book)
+42. The Lost Years of Merlin
+43. The Pigman
+44. The Day of the Locust
+45. The Da Vinci Code
+46. The Dirt
+47. The Forever War by ['Joe Haldeman']
+48. The Dark Elf Trilogy
+49. The Hitchhiker's Guide to the Galaxy (novel)
+50. The Heart Is Deceitful Above All Things (novel)

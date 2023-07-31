@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Great Gatsby by F. Scott Fitzgerald
+2. To Kill a Mockingbird by Harper Lee
+3. Wuthering Heights by Emily Bronte
+4. The Catcher in the Rye by J.D. Salinger
+5. Pride and Prejudice by Jane Austen
+6. Dracula by Bram Stoker
+7. Alice's Adventures in Wonderland by Lewis Carroll
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Hobbit by J.R.R. Tolkien
+10. The Canterbury Tales by Geoffrey Chaucer
+11. The Last Storytellers: Tales from the Heart of Morocco by Richard Hamilton
+12. The Bell Jar by Sylvia Plath
+13. Memoirs of a Geisha by Arthur Golden
+14. The Hours by Michael Cunningham
+15. Franny and Zooey by J.D. Salinger
+16. A Tree Grows in Brooklyn by Betty Smith
+17. Bright Lights, Big City by Jay McInerney
+18. The Glass Menagerie by Tennessee Williams
+19. A Midsummer Night's Dream by William Shakespeare
+20. The Perks of Being a Wallflower by Stephen Chbosky
+21. The Shadow of the Wind by Carlos Ruiz Zafon
+22. The Giver by Lois Lowry
+23. Little Women by Louisa May Alcott
+24. Inferno by Dante Alighieri
+25. The Pit and the Pendulum by Edgar Allan Poe
+26. Uglies by Scott Westerfeld
+27. The Masque of the Red Death by Edgar Allan Poe
+28. The Rules of Attraction by Bret Easton Ellis
+29. The Girls' Guide to Hunting and Fishing by Melissa Bank
+30. A Brief History of Time by Stephen Hawking
+31. The Gold Bug Variations by Richard Powers
+32. Bluebeard by Kurt Vonnegut
+33. Common Sense by Thomas Paine
+34. New Living Translation by Tyndale House Publishers
+35. Book of Revelation by John the Apostle
+36. Slaughterhouse-Five by Kurt Vonnegut
+37. King James Version by King James
+38. Gospel of Mark by Mark the Evangelist
+39. Fear and Loathing in Las Vegas by Hunter S. Thompson
+40. The Diary of a Young Girl by Anne Frank
+41. King Leary by Paul Quarrington
+42. Nineteen Eighty-Four by George Orwell
+43. Naked Lunch by William S. Burroughs
+44. Emma by Jane Austen
+45. The Count of Monte Cristo by Alexandre Dumas
+46. Of Mice and Men by John Steinbeck
+47. Harry Potter by J.K. Rowling
+48. The Wonderful Wizard of Oz by L. Frank Baum
+49. Jane Eyre by Charlotte Bronte

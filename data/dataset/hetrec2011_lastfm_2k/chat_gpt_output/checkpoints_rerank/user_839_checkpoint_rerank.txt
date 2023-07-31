@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Three Days Grace
+2. Disturbed
+3. Rise Against
+4. Crossfade
+5. In Flames
+6. Soilwork
+7. Hoobastank
+8. All That Remains
+9. Atreyu
+10. Static-X
+11. Pain
+12. Alexisonfire
+13. Sonic Syndicate
+14. The Used
+15. Mindless Self Indulgence
+16. Escape The Fate
+17. Pendulum
+18. Stone Sour
+19. Scar Symmetry
+20. Thousand Foot Krutch
+21. Adema
+22. Billy Talent
+23. Ill Niño
+24. Drowning Pool
+25. Saosin
+26. Papa Roach
+27. Five Finger Death Punch
+28. Nickelback
+29. Muse
+30. Metallica
+31. Nirvana
+32. Iron Maiden
+33. Led Zeppelin
+34. Pearl Jam
+35. System of a Down
+36. Linkin Park
+37. Avenged Sevenfold
+38. Green Day
+39. The Killers
+40. My Chemical Romance
+41. Coldplay
+42. Radiohead
+43. Pink Floyd
+44. Blur
+45. Arctic Monkeys
+46. Placebo
+47. Nine Inch Nails
+48. Daft Punk
+49. Michael Jackson
+50. The Beatles

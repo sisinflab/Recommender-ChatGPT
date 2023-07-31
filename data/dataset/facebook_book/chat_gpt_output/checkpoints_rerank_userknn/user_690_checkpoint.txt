@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird
+2. The Great Gatsby
+3. Nineteen Eighty-Four
+4. The Catcher in the Rye
+5. Wuthering Heights
+6. Frankenstein
+7. The Picture of Dorian Gray
+8. Brave New World
+9. The Scarlet Letter
+10. Alice's Adventures in Wonderland
+11. The Hunger Games
+12. Catching Fire
+13. Mockingjay
+14. The Book Thief
+15. Memoirs of a Geisha
+16. Persepolis (comics)
+17. The Princess Bride
+18. Of Mice and Men
+19. Lolita
+20. Crime and Punishment
+21. A Clockwork Orange
+22. The Little Prince
+23. The Outsiders (novel)
+24. Lord of the Flies
+25. Stargirl (novel)
+26. Jane Eyre
+27. Inkdeath
+28. The Giver
+29. Maximum Ride
+30. Evernight (novel)
+31. The Notebook (novel)
+32. Misery (novel)
+33. The Things They Carried
+34. Go Ask Alice
+35. The Magician's Nephew
+36. Harry Potter
+37. Twilight (series)
+38. Beauty Pop
+39. Manga
+40. D.Gray-man
+41. Chibi Vampire
+42. Black Butler
+43. Isaac Asimov's Robot City
+44. Wolf Brother
+45. The BFG
+46. Faster than a Kiss
+47. The Watchmen (novel)
+48. Adam (novel)
+49. Ballet Shoes (novel)
+50. Sunshine (novel)

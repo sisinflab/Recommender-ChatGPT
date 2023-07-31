@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Paramore
+2. Bring Me The Horizon
+3. All Time Low
+4. B.o.B
+5. Cobra Starship
+6. LMFAO
+7. Ke$ha
+8. Drake
+9. Ludacris
+10. David Guetta
+11. Santigold
+12. Justin Nozuka
+13. Matt & Kim
+14. The Lonely Island
+15. 3OH!3
+16. Sam Sparro
+17. The Beatles
+18. nevershoutnever!
+19. Black Kids
+20. Jonas Brothers
+21. Owl City
+22. Amy Winehouse
+23. 宇多田ヒカル
+24. BrokeNCYDE
+25. Scorpions
+26. Avenged Sevenfold
+27. My Chemical Romance
+28. Escape The Fate
+29. Flyleaf
+30. Chiodos
+31. Panic! At the Disco
+32. The Used
+33. Linkin Park
+34. Muse
+35. Rammstein
+36. Van Halen
+37. Eagles
+38. Led Zeppelin
+39. The Who
+40. George Harrison
+41. Paul McCartney
+42. John Lennon
+43. Eric Clapton
+44. Leonard Cohen
+45. Belle and Sebastian
+46. Arctic Monkeys
+47. Phoenix
+48. Coldplay
+49. Queen
+50. Gorillaz

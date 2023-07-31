@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Animal Farm by George Orwell
+2. Brave New World by Aldous Huxley
+3. To Kill a Mockingbird by Harper Lee
+4. The Catcher in the Rye by J.D. Salinger
+5. Lord of the Flies by William Golding
+6. One Hundred Years of Solitude by Gabriel Garcia Marquez
+7. Crime and Punishment by Fyodor Dostoevsky
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Bell Jar by Sylvia Plath
+10. The Sun Also Rises by Ernest Hemingway
+11. The Grapes of Wrath by John Steinbeck
+12. Heart of Darkness by Joseph Conrad
+13. The Sound and the Fury by William Faulkner
+14. The Old Man and the Sea by Ernest Hemingway
+15. The Stranger by Albert Camus
+16. The Brothers Karamazov by Fyodor Dostoevsky
+17. The Trial by Franz Kafka
+18. The Great Gatsby by F. Scott Fitzgerald
+19. The Iliad by Homer
+20. The Odyssey by Homer
+21. The Aeneid by Virgil
+22. The Divine Comedy by Dante Alighieri
+23. The Canterbury Tales by Geoffrey Chaucer
+24. The Once and Future King by T.H. White
+25. The Lord of the Rings by J.R.R. Tolkien
+26. The Hobbit by J.R.R. Tolkien
+27. The Chronicles of Narnia by C.S. Lewis
+28. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+29. The Book of Lost Things by John Connolly
+30. The Fountainhead by Ayn Rand
+31. Atlas Shrugged by Ayn Rand
+32. Don Quixote by Miguel de Cervantes
+33. War and Peace by Leo Tolstoy
+34. Anna Karenina by Leo Tolstoy
+35. Crime and Punishment by Fyodor Dostoevsky
+36. The Brothers Karamazov by Fyodor Dostoevsky
+37. Les Miserables by Victor Hugo
+38. The Count of Monte Cristo by Alexandre Dumas
+39. The Three Musketeers by Alexandre Dumas
+40. Water for Elephants by Sara Gruen
+41. The Help by Kathryn Stockett
+42. The Color Purple by Alice Walker
+43. Beloved by Toni Morrison
+44. Waiting for Godot by Samuel Beckett
+45. Rosencrantz and Guildenstern Are Dead by Tom Stoppard
+46. The Importance of Being Earnest by Oscar Wilde
+47. A Streetcar Named Desire by Tennessee Williams
+48. Death of a Salesman by Arthur Miller
+49. The Glass Menagerie by Tennessee

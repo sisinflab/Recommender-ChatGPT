@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter
+2. Angels & Demons
+3. The Lord of the Rings
+4. Ender's Game
+5. The Da Vinci Code
+6. To Kill a Mockingbird
+7. The Old Man and the Sea
+8. A Thousand Splendid Suns
+9. Memoirs of a Geisha
+10. The Giver
+11. Great Expectations
+12. The Outsiders
+13. Stranger in a Strange Land
+14. The Scarlet Letter
+15. Atonement (novel)
+16. I Am Legend (novel)
+17. Cujo
+18. The Mist
+19. The Sea of Monsters
+20. The Battle of the Labyrinth
+21. Xenocide
+22. Dragons of Autumn Twilight
+23. Royal Assassin
+24. The Forest of Hands and Teeth
+25. The Host (novel)
+26. Twilight (series)
+27. Brisingr
+28. Gormenghast (novel)
+29. The Little Prince
+30. Alice's Adventures in Wonderland
+31. Helter Skelter (book)
+32. Love Story (novel)
+33. The Hatchet (novel)
+34. Jinx (novel)
+35. The Antichrist (book)
+36. Thus Spoke Zarathustra
+37. Of Mice and Men
+38. The Pirate (novel)
+39. Number the Stars
+40. The Girl Who Loved Tom Gordon
+41. Deception Point
+42. Honour Among Thieves
+43. King Rat (1962 novel)
+44. Go Ask Alice
+45. I Hope They Serve Beer in Hell
+46. The Pigman
+47. Sunshine (novel)
+48. Quran
+49. Manga
+50. Teaching with Calvin and Hobbes

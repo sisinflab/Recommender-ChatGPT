@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Oasis
+3. Blur
+4. Mew
+5. The Radio Dept.
+6. God Is an Astronaut
+7. Ólafur Arnalds
+8. Sigur Rós
+9. Arctic Monkeys
+10. Belle and Sebastian
+11. Suede
+12. Kings of Convenience
+13. Sonic Youth
+14. Röyksopp
+15. M83
+16. Telefon Tel Aviv
+17. Architecture in Helsinki
+18. Camera Obscura
+19. Two Door Cinema Club
+20. Air
+21. She & Him
+22. Mogwai
+23. Copeland
+24. New Order
+25. Passion Pit
+26. Muse
+27. Pink Floyd
+28. The Beatles
+29. U2
+30. Duran Duran
+31. Coldplay
+32. Placebo
+33. The Killers
+34. Nirvana
+35. Iron Maiden
+36. Led Zeppelin
+37. Metallica
+38. Michael Jackson
+39. Pearl Jam
+40. a-ha
+41. Björk
+42. Daft Punk
+43. Nine Inch Nails
+44. Linkin Park
+45. Avenged Sevenfold
+46. My Chemical Romance
+47. Green Day
+48. The Cure
+49. Katy Perry
+50. Lady Gaga

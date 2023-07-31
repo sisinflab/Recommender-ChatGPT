@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. The Catcher in the Rye by J.D. Salinger
+4. To Kill a Mockingbird by Harper Lee
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Animal Farm by George Orwell
+7. One Hundred Years of Solitude by Gabriel Garcia Marquez
+8. The Bell Jar by Sylvia Plath
+9. Slaughterhouse-Five by Kurt Vonnegut
+10. The Picture of Dorian Gray by Oscar Wilde
+11. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+12. The Lord of the Rings by J.R.R. Tolkien
+13. The Hobbit by J.R.R. Tolkien
+14. The Chronicles of Narnia by C.S. Lewis
+15. The Hunger Games by Suzanne Collins
+16. Harry Potter and the Philosopher's Stone by J.K. Rowling
+17. The Da Vinci Code by Dan Brown
+18. The Girl with the Dragon Tattoo by Stieg Larsson
+19. The Road by Cormac McCarthy
+20. The Shining by Stephen King
+21. The Stand by Stephen King
+22. The Dark Tower series by Stephen King
+23. The Name of the Wind by Patrick Rothfuss
+24. The Wise Man's Fear by Patrick Rothfuss
+25. The Fault in Our Stars by John Green
+26. The Perks of Being a Wallflower by Stephen Chbosky
+27. The Book Thief by Markus Zusak
+28. The Kite Runner by Khaled Hosseini
+29. A Thousand Splendid Suns by Khaled Hosseini
+30. The Alchemist by Paulo Coelho
+31. The Picture of Dorian Gray by Oscar Wilde
+32. The Road by Cormac McCarthy
+33. The Shining by Stephen King
+34. The Stand by Stephen King
+35. The Dark Tower series by Stephen King
+36. The Name of the Wind by Patrick Rothfuss
+37. The Wise Man's Fear by Patrick Rothfuss
+38. The Fault in Our Stars by John Green
+39. The Perks of Being a Wallflower by Stephen Chbosky
+40. The Book Thief by Markus Zusak
+41. The Kite Runner by Khaled Hosseini
+42. A Thousand Splendid Suns by Khaled Hosseini
+43. The Alchemist by Paulo Coelho
+44. The Road by Cormac McCarthy
+45. The Shining by Stephen King
+46. The Stand by Stephen King
+47. The Dark Tower series by Stephen King
+48. The Name of the Wind by Patrick Rothfuss
+49. The Wise Man's Fear by Patrick Rothfuss
+50. The Fault in Our Stars by John Green

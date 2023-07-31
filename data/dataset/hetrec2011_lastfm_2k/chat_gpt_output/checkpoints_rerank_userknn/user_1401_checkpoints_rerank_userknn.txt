@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Michael Jackson
+2. Madonna
+3. Beyoncé
+4. Justin Timberlake
+5. David Guetta
+6. Black Eyed Peas
+7. Kanye West
+8. Pitbull
+9. Nickelback
+10. AC/DC
+11. Linkin Park
+12. Chris Brown
+13. Daddy Yankee
+14. Skank
+15. T.I.
+16. La Roux
+17. Gwen Stefani
+18. Ace of Base
+19. Kelis
+20. Bob Marley
+21. Akon
+22. Kelly Clarkson
+23. Iron Maiden
+24. Guns N' Roses
+25. Aerosmith
+26. Green Day
+27. Foo Fighters
+28. Pink Floyd
+29. Led Zeppelin
+30. Whitesnake
+31. Megadeth
+32. Metallica
+33. Slayer
+34. Rammstein
+35. Anathema
+36. Opeth
+37. Bad Religion
+38. Alice in Chains
+39. The Black Keys
+40. The Mars Volta
+41. Portishead
+42. The Dillinger Escape Plan
+43. No Doubt
+44. The Hellacopters
+45. Sigur Rós
+46. Depeche Mode
+47. Daft Punk
+48. Usher
+49. Rihanna
+50. Janet Jackson

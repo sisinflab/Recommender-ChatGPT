@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter
+2. The Lord of the Rings
+3. The Hunger Games
+4. Percy Jackson & the Olympians
+5. The Book Thief
+6. The Alchemist (novel)
+7. Les Misérables
+8. The Hitchhiker's Guide to the Galaxy (novel)
+9. Inkspell
+10. The Bell Jar
+11. The Catcher in the Rye
+12. Pride and Prejudice
+13. Franny and Zooey
+14. The Secret Life of Bees
+15. The Vampire Chronicles
+16. The Little Prince
+17. His Dark Materials
+18. The Immortals (novel)
+19. The Queen of the Damned
+20. The Two Towers
+21. The Princess Bride
+22. Beauty: A Retelling of the Story of Beauty and the Beast
+23. The Land of Elyon
+24. Keeping the Moon
+25. Born to Rock (novel)
+26. Burned (Hopkins novel)
+27. The Curious Incident of the Dog in the Night-Time
+28. An Abundance of Katherines
+29. Cathy's Book
+30. Identical (novel)
+31. Mockingjay
+32. The Vampire Lestat
+33. 1776 (book)
+34. Holes (novel)
+35. Unwind (novel)
+36. The Truth About Forever
+37. Small Steps (novel)
+38. Catching Fire
+39. Hairstyles of the Damned
+40. The Umbrella Academy
+41. Carmilla
+42. Feed (Anderson novel)
+43. Daughter of the Lioness
+44. Will Grayson, Will Grayson
+45. Looking for Alaska
+46. Paper Towns
+47. Son of a Witch
+48. Handle with Care (novel)
+49. Invisible Monsters
+50. Leaves of Grass

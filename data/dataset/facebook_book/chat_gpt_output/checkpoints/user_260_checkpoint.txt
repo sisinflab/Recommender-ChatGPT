@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. To Kill a Mockingbird by Harper Lee
+3. 1984 by George Orwell
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Pride and Prejudice by Jane Austen
+6. Animal Farm by George Orwell
+7. The Picture of Dorian Gray by Oscar Wilde
+8. The Bell Jar by Sylvia Plath
+9. One Hundred Years of Solitude by Gabriel Garcia Marquez
+10. The Stranger by Albert Camus
+11. The Sun Also Rises by Ernest Hemingway
+12. The Old Man and the Sea by Ernest Hemingway
+13. The Grapes of Wrath by John Steinbeck
+14. The Sound and the Fury by William Faulkner
+15. A Farewell to Arms by Ernest Hemingway
+16. The Color Purple by Alice Walker
+17. The Handmaid's Tale by Margaret Atwood
+18. The Lord of the Rings by J.R.R. Tolkien
+19. The Hobbit by J.R.R. Tolkien
+20. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+21. The Chronicles of Narnia by C.S. Lewis
+22. The Da Vinci Code by Dan Brown
+23. The Girl with the Dragon Tattoo by Stieg Larsson
+24. The Hunger Games by Suzanne Collins
+25. The Help by Kathryn Stockett
+26. The Kite Runner by Khaled Hosseini
+27. The Secret Life of Bees by Sue Monk Kidd
+28. The Time Traveler's Wife by Audrey Niffenegger
+29. The Lovely Bones by Alice Sebold
+30. The Road by Cormac McCarthy
+31. The Book Thief by Markus Zusak
+32. The Fault in Our Stars by John Green
+33. The Alchemist by Paulo Coelho
+34. The Picture of Dorian Gray by Oscar Wilde
+35. The Adventures of Huckleberry Finn by Mark Twain
+36. The Adventures of Tom Sawyer by Mark Twain
+37. The Count of Monte Cristo by Alexandre Dumas
+38. Les Miserables by Victor Hugo
+39. Crime and Punishment by Fyodor Dostoevsky
+40. Anna Karenina by Leo Tolstoy
+41. War and Peace by Leo Tolstoy
+42. The Brothers Karamazov by Fyodor Dostoevsky
+43. Don Quixote by Miguel de Cervantes
+44. The Divine Comedy by Dante Alighieri
+45. The Canterbury Tales by Geoffrey Chaucer
+46. The Iliad by Homer
+47. The Odyssey by Homer
+48. Beowulf by Unknown
+49. Paradise Lost by John Milton
+50. The Inferno by Dante Alighieri

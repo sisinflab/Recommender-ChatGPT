@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. To Kill a Mockingbird by Harper Lee
+3. 1984 by George Orwell
+4. The Catcher in the Rye by J.D. Salinger
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Animal Farm by George Orwell
+7. The Hobbit by J.R.R. Tolkien
+8. The Fellowship of the Ring by J.R.R. Tolkien
+9. The Two Towers by J.R.R. Tolkien
+10. The Return of the King by J.R.R. Tolkien
+11. The Lion, the Witch and the Wardrobe by C.S. Lewis
+12. Prince Caspian by C.S. Lewis
+13. The Voyage of the Dawn Treader by C.S. Lewis
+14. The Silver Chair by C.S. Lewis
+15. The Last Battle by C.S. Lewis
+16. Harry Potter and the Philosopher's Stone by J.K. Rowling
+17. Harry Potter and the Chamber of Secrets by J.K. Rowling
+18. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+19. Harry Potter and the Goblet of Fire by J.K. Rowling
+20. Harry Potter and the Order of Phoenix by J.K. Rowling
+21. Harry Potter and the Half-Blood Prince by J.K. Rowling
+22. Harry Potter and the Deathly Hallows by J.K. Rowling
+23. The Hunger Games by Suzanne Collins
+24. Catching Fire by Suzanne Collins
+25. Mockingjay by Suzanne Collins
+26. Divergent by Veronica Roth
+27. Insurgent by Veronica Roth
+28. Allegiant by Veronica Roth
+29. The Maze Runner by James Dashner
+30. The Scorch Trials by James Dashner
+31. The Death Cure by James Dashner
+32. The Fault in Our Stars by John Green
+33. Paper Towns by John Green
+34. An Abundance of Katherines by John Green
+35. Will Grayson, Will Grayson by John Green and David Levithan
+36. The Book Thief by Markus Zusak
+37. The Giver by Lois Lowry
+38. Gathering Blue by Lois Lowry
+39. Messenger by Lois Lowry
+40. Son by Lois Lowry
+41. The Alchemist by Paulo Coelho
+42. The Da Vinci Code by Dan Brown
+43. Angels and Demons by Dan Brown
+44. Inferno by Dan Brown
+45. The Girl with the Dragon Tattoo by Stieg Larsson
+46. The Girl Who Played with Fire by Stieg Larsson
+47. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+48. The Name of the Wind by Patrick Rothfuss
+49. The Wise Man's Fear by Patrick

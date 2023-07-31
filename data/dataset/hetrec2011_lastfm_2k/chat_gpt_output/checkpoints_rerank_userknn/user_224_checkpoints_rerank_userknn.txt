@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations are:
+
+1. Depeche Mode
+2. The Cure
+3. New Order
+4. Duran Duran
+5. The Smiths
+6. Joy Division
+7. R.E.M.
+8. David Bowie
+9. The Human League
+10. Ultravox
+11. Erasure
+12. Pet Shop Boys
+13. Siouxsie and the Banshees
+14. Talking Heads
+15. Tears for Fears
+16. The Clash
+17. INXS
+18. Kate Bush
+19. Gary Numan
+20. Blondie
+21. Fleetwood Mac
+22. Phil Collins
+23. Michael Jackson
+24. Madonna
+25. Whitney Houston
+26. Eurythmics
+27. The Beatles
+28. The Rolling Stones
+29. Cyndi Lauper
+30. Culture Club
+31. Frankie Goes to Hollywood
+32. Spandau Ballet
+33. Crowded House
+34. Muse
+35. LCD Soundsystem
+36. Pulp
+37. XTC
+38. ABC
+39. Blur
+40. Suede
+41. Morrissey
+42. Billy Idol
+43. Echo & The Bunnymen
+44. Goldfrapp
+45. Manic Street Preachers
+46. Alphaville
+47. U2
+48. Devo
+49. The Chemical Brothers
+50. Nine Inch Nails

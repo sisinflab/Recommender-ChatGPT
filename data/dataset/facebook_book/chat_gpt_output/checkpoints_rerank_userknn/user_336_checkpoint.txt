@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Dracula by Bram Stoker
+2. The Hunchback of Notre-Dame by Victor Hugo
+3. Wuthering Heights by Emily Bronte
+4. Frankenstein by Mary Shelley
+5. The Count of Monte Cristo by Alexandre Dumas
+6. The Great Gatsby by F. Scott Fitzgerald
+7. Moby-Dick by Herman Melville
+8. The Scarlet Letter by Nathaniel Hawthorne
+9. Lord of the Flies by William Golding
+10. The Phantom of the Opera by Gaston Leroux
+11. Siddhartha by Hermann Hesse
+12. The Old Man and the Sea by Ernest Hemingway
+13. The Jungle Book by Rudyard Kipling
+14. The Hobbit by J.R.R. Tolkien
+15. The Lord of the Rings by J.R.R. Tolkien
+16. The Trial by Franz Kafka
+17. Lolita by Vladimir Nabokov
+18. The Divine Comedy by Dante Alighieri
+19. The Iliad by Homer
+20. Macbeth by William Shakespeare
+21. A Midsummer Night's Dream by William Shakespeare
+22. Inkheart by Cornelia Funke
+23. Fahrenheit 451 by Ray Bradbury
+24. The Swiss Family Robinson by Johann David Wyss
+25. The Cat Who Saw Red by Lilian Jackson Braun
+26. The Most Dangerous Game by Richard Connell
+27. Of Mice and Men by John Steinbeck
+28. The Gold Bug Variations by Richard Powers
+29. King Solomon's Mines by H. Rider Haggard
+30. Maximum Ride by James Patterson
+31. The Lost Years of Merlin by T.A. Barron
+32. Mother Night by Kurt Vonnegut
+33. Brave New World by Aldous Huxley
+34. Journey to the Center of the Earth by Jules Verne
+35. The Da Vinci Code by Dan Brown
+36. The Giver by Lois Lowry
+37. The Bible
+38. The Book of Revelation
+39. Percy Jackson & the Olympians by Rick Riordan
+40. New Living Translation of the Bible
+41. Gospel of Matthew
+42. Gospel of Mark
+43. King James Version of the Bible
+44. Ariel by Sylvia Plath
+45. Dune by Frank Herbert
+46. God Bless You, Dr. Kevorkian by Kurt Vonnegut
+47. The Wonderful Wizard of Oz by L. Frank Baum
+48. Ivanhoe by Sir Walter Scott
+49. Gulliver's Travels by Jonathan Swift
+50. Strange Case of Dr Jekyll and Mr Hyde by Robert Louis Stevenson

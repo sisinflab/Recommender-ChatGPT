@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Jurassic Park by Michael Crichton
+2. Sphere by Michael Crichton
+3. Congo by Michael Crichton
+4. The Andromeda Strain by Michael Crichton
+5. The Lost World by Michael Crichton
+6. The Great Train Robbery by Michael Crichton
+7. The Hot Zone by Richard Preston
+8. The Demon-Haunted World: Science as a Candle in the Dark by Carl Sagan
+9. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+10. The Martian by Andy Weir
+11. The Girl with the Dragon Tattoo by Stieg Larsson
+12. The Da Vinci Code by Dan Brown
+13. Angels and Demons by Dan Brown
+14. Inferno by Dan Brown
+15. The Bourne Identity by Robert Ludlum
+16. The Bourne Supremacy by Robert Ludlum
+17. The Bourne Ultimatum by Robert Ludlum
+18. The Silence of the Lambs by Thomas Harris
+19. Red Dragon by Thomas Harris
+20. Hannibal Rising by Thomas Harris
+21. The Shining by Stephen King
+22. It by Stephen King
+23. The Stand by Stephen King
+24. Misery by Stephen King
+25. Carrie by Stephen King
+26. The Gunslinger by Stephen King
+27. The Drawing of the Three by Stephen King
+28. The Waste Lands by Stephen King
+29. Wizard and Glass by Stephen King
+30. Wolves of the Calla by Stephen King
+31. Song of Susannah by Stephen King
+32. The Dark Tower by Stephen King
+33. The Exorcist by William Peter Blatty
+34. Rosemary's Baby by Ira Levin
+35. The Stepford Wives by Ira Levin
+36. The Island of Dr. Moreau by H.G. Wells
+37. The War of the Worlds by H.G. Wells
+38. The Time Machine by H.G. Wells
+39. The Invisible Man by H.G. Wells
+40. The Picture of Dorian Gray by Oscar Wilde
+41. Frankenstein by Mary Shelley
+42. Dracula by Bram Stoker
+43. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+44. The Hound of the Baskervilles by Arthur Conan Doyle
+45. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+46. The Memoirs of Sherlock Holmes by Arthur Conan Doyle
+47. The Return of Sherlock Holmes by Arthur Conan Doyle
+48. The Valley of Fear by Arthur Conan Doyle
+49. The Sign of the Four by Arthur Conan Doyle
+50. A Study in Scarlet by Arthur Conan Doyle

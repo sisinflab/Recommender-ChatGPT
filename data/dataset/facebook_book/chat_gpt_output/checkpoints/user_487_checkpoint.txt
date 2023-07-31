@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Shining by Stephen King
+2. Twilight by Stephenie Meyer
+3. The Fault in Our Stars by John Green
+4. The Hunger Games by Suzanne Collins
+5. The Girl with the Dragon Tattoo by Stieg Larsson
+6. The Da Vinci Code by Dan Brown
+7. The Catcher in the Rye by J.D. Salinger
+8. The Great Gatsby by F. Scott Fitzgerald
+9. To Kill a Mockingbird by Harper Lee
+10. 1984 by George Orwell
+11. The Hobbit by J.R.R. Tolkien
+12. The Lord of the Rings by J.R.R. Tolkien
+13. The Chronicles of Narnia by C.S. Lewis
+14. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+15. The Stand by Stephen King
+16. The Silence of the Lambs by Thomas Harris
+17. The Exorcist by William Peter Blatty
+18. The Godfather by Mario Puzo
+19. The Bourne Identity by Robert Ludlum
+20. The Andromeda Strain by Michael Crichton
+21. The Martian by Andy Weir
+22. The Road by Cormac McCarthy
+23. The Book Thief by Markus Zusak
+24. The Help by Kathryn Stockett
+25. The Kite Runner by Khaled Hosseini
+26. The Alchemist by Paulo Coelho
+27. The Secret Life of Bees by Sue Monk Kidd
+28. The Lovely Bones by Alice Sebold
+29. The Time Traveler's Wife by Audrey Niffenegger
+30. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+31. The Perks of Being a Wallflower by Stephen Chbosky
+32. The Maze Runner by James Dashner
+33. The Hunger Games: Catching Fire by Suzanne Collins
+34. The Hunger Games: Mockingjay by Suzanne Collins
+35. The Giver Quartet by Lois Lowry
+36. The Dark Tower V: Wolves of the Calla by Stephen King
+37. The Dark Tower VI: Song of Susannah by Stephen King
+38. The Dark Tower VII: The Dark Tower by Stephen King
+39. The Talisman by Stephen King and Peter Straub
+40. The Green Mile by Stephen King
+41. The Stand: The Complete and Uncut Edition by Stephen King
+42. The Dead Zone by Stephen King
+43. The Tommyknockers by Stephen King
+44. The Outsider by Stephen King
+45. The Institute by Stephen King
+46. The Silent Patient by Alex Michaelides
+47. The Nightingale by Kristin Hannah
+48. The Tattooist of Auschwitz by Heather Morris
+49. The Testaments by Margaret Atwood
+50. The Dutch House by Ann Patch

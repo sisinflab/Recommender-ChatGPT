@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Michael Jackson
+2. Destiny's Child
+3. Alicia Keys
+4. Mariah Carey
+5. Stevie Wonder
+6. Mary J. Blige
+7. Christina Aguilera
+8. Jennifer Lopez
+9. Brandy
+10. Toni Braxton
+11. Beyoncé
+12. Jay-Z
+13. Kanye West
+14. Rihanna
+15. Black Eyed Peas
+16. Ne-Yo
+17. Justin Timberlake
+18. Chris Brown
+19. Nicki Minaj
+20. T.I.
+21. JoJo
+22. Enrique Iglesias
+23. Backstreet Boys
+24. Jonas Brothers
+25. Spice Girls
+26. Simple Plan
+27. Kelly Clarkson
+28. Ashanti
+29. Kat DeLuna
+30. Britney Spears
+31. Lady Gaga
+32. Owl City
+33. Maroon 5
+34. Linkin Park
+35. 30 Seconds to Mars
+36. Eminem
+37. OutKast
+38. Mos Def
+39. Common
+40. Nas
+41. Keri Hilson
+42. Ciara
+43. The Pussycat Dolls
+44. Taylor Swift
+45. Adam Lambert
+46. Escape The Fate
+47. Black Sabbath
+48. The Game
+49. Pixie Lott
+50. Kelly Rowland

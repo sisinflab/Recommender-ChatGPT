@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Maze Runner by James Dashner
+4. Percy Jackson and the Olympians by Rick Riordan
+5. The Fault in Our Stars by John Green
+6. The Chronicles of Narnia by C.S. Lewis
+7. The Lord of the Rings by J.R.R. Tolkien
+8. The Hobbit by J.R.R. Tolkien
+9. The Girl with the Dragon Tattoo by Stieg Larsson
+10. The Girl on the Train by Paula Hawkins
+11. The Help by Kathryn Stockett
+12. To Kill a Mockingbird by Harper Lee
+13. The Catcher in the Rye by J.D. Salinger
+14. The Great Gatsby by F. Scott Fitzgerald
+15. 1984 by George Orwell
+16. Animal Farm by George Orwell
+17. Brave New World by Aldous Huxley
+18. The Handmaid's Tale by Margaret Atwood
+19. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+20. The Shining by Stephen King
+21. It by Stephen King
+22. The Stand by Stephen King
+23. The Dark Tower series by Stephen King
+24. The Silence of the Lambs by Thomas Harris
+25. Red Dragon by Thomas Harris
+26. Hannibal by Thomas Harris
+27. The Bourne Identity by Robert Ludlum
+28. The Bourne Supremacy by Robert Ludlum
+29. The Bourne Ultimatum by Robert Ludlum
+30. The Bourne Legacy by Eric Van Lustbader
+31. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+32. The Girl Who Played with Fire by Stieg Larsson
+33. The Girl in the Spider's Web by David Lagercrantz
+34. The Millennium Trilogy by Stieg Larsson
+35. The Dresden Files by Jim Butcher
+36. The Wheel of Time series by Robert Jordan
+37. The Sword of Truth series by Terry Goodkind
+38. The Belgariad series by David Eddings
+39. The Malloreon series by David Eddings
+40. The Elenium series by David Eddings
+41. The Tamuli series by David Eddings
+42. The Riftwar Saga by Raymond E. Feist
+43. The Empire Trilogy by Raymond E. Feist and Janny Wurts
+44. The Serpentwar Saga by Raymond E. Feist
+45. The Dark Elf Trilogy by R.A. Salvatore
+46. The Icewind Dale Trilogy by R.A. Salvatore
+47. The Legacy of the Drow series by R.A. Salvatore
+48. The Cleric Quintet by R.A. Salvatore
+49. Moby-Dick by Herman Melville
+50. The Wise Man's Fear by Patrick Rothfuss

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Divergent by Veronica Roth
+2. The Maze Runner by James Dashner
+3. The Fault in Our Stars by John Green
+4. The Book Thief by Markus Zusak
+5. The Giver by Lois Lowry
+6. The Hunger Games: Catching Fire by Suzanne Collins
+7. The Hunger Games: Mockingjay by Suzanne Collins
+8. The Vampire Chronicles by Anne Rice
+9. The Twilight Saga by Stephenie Meyer
+10. The Mortal Instruments by Cassandra Clare
+11. The Infernal Devices by Cassandra Clare
+12. The Dark Artifices by Cassandra Clare
+13. The Bane Chronicles by Cassandra Clare
+14. The Shadowhunter's Codex by Cassandra Clare
+15. The Iron Fey Series by Julie Kagawa
+16. The Selection Series by Kiera Cass
+17. The Lunar Chronicles by Marissa Meyer
+18. The Chemical Garden Trilogy by Lauren DeStefano
+19. The Delirium Trilogy by Lauren Oliver
+20. The Uglies Series by Scott Westerfeld
+21. The Leviathan Trilogy by Scott Westerfeld
+22. The GONE Series by Michael Grant
+23. The Darkest Minds Trilogy by Alexandra Bracken
+24. The Legend Trilogy by Marie Lu
+25. The Maze Runner Series by James Dashner
+26. The 5th Wave Series by Rick Yancey
+27. The Lunar Chronicles by Marissa Meyer
+28. The Selection Series by Kiera Cass
+29. The Chemical Garden Trilogy by Lauren DeStefano
+30. The Delirium Trilogy by Lauren Oliver
+31. The Uglies Series by Scott Westerfeld
+32. The Leviathan Trilogy by Scott Westerfeld
+33. The GONE Series by Michael Grant
+34. The Darkest Minds Trilogy by Alexandra Bracken
+35. The Legend Trilogy by Marie Lu
+36. The Maze Runner Series by James Dashner
+37. The 5th Wave Series by Rick Yancey
+38. The Infernal Devices by Cassandra Clare
+39. The Dark Artifices by Cassandra Clare
+40. The Bane Chronicles by Cassandra Clare
+41. The Shadowhunter's Codex by Cassandra Clare
+42. The Iron Fey Series by Julie Kagawa
+43. The Mortal Instruments by Cassandra Clare
+44. The Hunger Games: Catching Fire by Suzanne Collins
+45. The Hunger Games: Mockingjay by Suzanne Collins
+46. The Twilight Saga by Stephenie Meyer
+47. The Vampire Chronicles by Anne Rice
+48. The Giver by Lois Lowry
+49. The Book Thief by Markus Zusak
+50. The Fault in Our Stars by John Green

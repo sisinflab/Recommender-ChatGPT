@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Brothers Karamazov by Fyodor Dostoyevsky
+2. War and Peace by Leo Tolstoy
+3. The Trial by Franz Kafka
+4. The Picture of Dorian Gray by Oscar Wilde
+5. The Great Gatsby by F. Scott Fitzgerald
+6. One Hundred Years of Solitude by Gabriel Garcia Marquez
+7. Crime and Punishment by Fyodor Dostoyevsky
+8. The Idiot by Fyodor Dostoyevsky
+9. The Master and Margarita by Mikhail Bulgakov
+10. The Name of the Rose by Umberto Eco
+11. The Catcher in the Rye by J.D. Salinger
+12. To Kill a Mockingbird by Harper Lee
+13. The Lord of the Rings by J.R.R. Tolkien
+14. The Hobbit by J.R.R. Tolkien
+15. The Silmarillion by J.R.R. Tolkien
+16. The Chronicles of Narnia by C.S. Lewis
+17. The Screwtape Letters by C.S. Lewis
+18. The Space Trilogy by C.S. Lewis
+19. The Dark Tower series by Stephen King
+20. The Stand by Stephen King
+21. The Shining by Stephen King
+22. The Gunslinger by Stephen King
+23. The Prince by Niccolò Machiavelli
+24. The Art of War by Sun Tzu
+25. The Book of Five Rings by Miyamoto Musashi
+26. The Tao Te Ching by Lao Tzu
+27. Siddhartha by Hermann Hesse
+28. Steppenwolf by Hermann Hesse
+29. Demian by Hermann Hesse
+30. The Alchemist by Paulo Coelho
+31. The Little Prince by Antoine de Saint-Exupéry
+32. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+33. Dune by Frank Herbert
+34. Ender's Game by Orson Scott Card
+35. The Hunger Games by Suzanne Collins
+36. Nineteen Eighty-Four by George Orwell
+37. Animal Farm by George Orwell
+38. Brave New World by Aldous Huxley
+39. Fahrenheit 451 by Ray Bradbury
+40. The Martian Chronicles by Ray Bradbury
+41. The Neverending Story by Michael Ende
+42. Watership Down by Richard Adams
+43. The Bell Jar by Sylvia Plath
+44. The Handmaid's Tale by Margaret Atwood
+45. 1984 by David Peace
+46. The Road by Cormac McCarthy
+47. The Wind-Up Bird Chronicle by Haruki Murakami
+48. Kafka on the Shore by Haruki Murakami
+49. The Stranger by Albert Camus
+50. We by Yevgeny Zamyatin

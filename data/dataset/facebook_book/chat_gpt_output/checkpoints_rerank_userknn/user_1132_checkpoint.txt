@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Great Gatsby by F. Scott Fitzgerald
+2. 1984 by George Orwell
+3. Brave New World by Aldous Huxley
+4. To Kill a Mockingbird by Harper Lee
+5. The Lord of the Rings by J.R.R. Tolkien
+6. The Hobbit by J.R.R. Tolkien
+7. The Catcher in the Rye by J.D. Salinger
+8. Little Women by Louisa May Alcott
+9. Pride and Prejudice by Jane Austen
+10. Frankenstein by Mary Shelley
+11. Dracula by Bram Stoker
+12. The Picture of Dorian Gray by Oscar Wilde
+13. Macbeth by William Shakespeare
+14. Othello by William Shakespeare
+15. Romeo and Juliet by William Shakespeare
+16. Hamlet by William Shakespeare
+17. The Importance of Being Earnest by Oscar Wilde
+18. Les Misérables by Victor Hugo
+19. Crime and Punishment by Fyodor Dostoevsky
+20. The Stranger by Albert Camus
+21. The Giver by Lois Lowry
+22. Inkheart by Cornelia Funke
+23. The Hunger Games by Suzanne Collins
+24. The Outsiders by S.E. Hinton
+25. Lord of the Flies by William Golding
+26. The Scarlet Pimpernel by Baroness Orczy
+27. The Bean Trees by Barbara Kingsolver
+28. A Tree Grows in Brooklyn by Betty Smith
+29. The Joy Luck Club by Amy Tan
+30. The Secret Garden by Frances Hodgson Burnett
+31. The Shadow of the Wind by Carlos Ruiz Zafón
+32. The Fountainhead by Ayn Rand
+33. Atlas Shrugged by Ayn Rand
+34. Waiting for Godot by Samuel Beckett
+35. Fahrenheit 451 by Ray Bradbury
+36. The Unbearable Lightness of Being by Milan Kundera
+37. Inferno by Dante Alighieri
+38. Oedipus the King by Sophocles
+39. The Pact by Jodi Picoult
+40. Leaving a Doll's House: A Memoir by Claire Bloom
+41. The Messenger by Markus Zusak
+42. Where the Wild Things Are by Maurice Sendak
+43. Choke by Chuck Palahniuk
+44. Twilight by Stephenie Meyer
+45. Evermore by Alyson Noël
+46. Musashi by Eiji Yoshikawa
+47. Cosmos by Carl Sagan
+48. Charmed by Paul Ruditis
+49. Grimms' Fairy Tales by Jacob and Wilhelm Grimm
+50. Shakespeare's Sonnets by William Shakespeare

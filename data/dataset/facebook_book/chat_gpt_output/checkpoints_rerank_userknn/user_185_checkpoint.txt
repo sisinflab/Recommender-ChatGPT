@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Rainbow Six (novel) by Tom Clancy
+2. Red Rabbit by Tom Clancy
+3. Red Dragon (novel) by Thomas Harris
+4. Sphere (novel) by Michael Crichton
+5. The Partner by John Grisham
+6. The Walking Dead (comic book) by Robert Kirkman
+7. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+8. The Lord of the Rings by J.R.R. Tolkien
+9. The Hobbit by J.R.R. Tolkien
+10. A Tale of Two Cities by Charles Dickens
+11. Nineteen Eighty-Four by George Orwell
+12. To Kill a Mockingbird by Harper Lee
+13. Frankenstein by Mary Shelley
+14. Atlas Shrugged by Ayn Rand
+15. The Giver by Lois Lowry
+16. Fahrenheit 451 by Ray Bradbury
+17. A Clockwork Orange by Anthony Burgess
+18. Fear and Loathing in Las Vegas by Hunter S. Thompson
+19. Impulse (Hopkins novel) by Ellen Hopkins
+20. Confessor (novel) by Terry Goodkind
+21. The Catcher in the Rye by J.D. Salinger
+22. All American Girl (novel) by Meg Cabot
+23. The Outsiders (novel) by S.E. Hinton
+24. Dreamcatcher (novel) by Stephen King
+25. The Zombie Survival Guide by Max Brooks
+26. Mere Christianity by C.S. Lewis
+27. Eragon by Christopher Paolini
+28. The Last Olympian by Rick Riordan
+29. Inheritance Cycle by Christopher Paolini
+30. The Great Gatsby by F. Scott Fitzgerald
+31. Mystic River (novel) by Dennis Lehane
+32. Executive Orders by Tom Clancy
+33. Debt of Honor by Tom Clancy
+34. A Woman For All Seasons by Diana Palmer
+35. This Present Darkness by Frank E. Peretti
+36. L.A. Candy by Lauren Conrad
+37. Glass (novel) by Ellen Hopkins
+38. Fablehaven by Brandon Mull
+39. Twilight (series) by Stephenie Meyer
+40. The Notebook (novel) by Nicholas Sparks
+41. Dear John (novel) by Nicholas Sparks
+42. Identical (novel) by Ellen Hopkins
+43. Feed (Anderson novel) by M.T. Anderson
+44. City of Ashes by Cassandra Clare
+45. Rising Sun (novel) by Michael Crichton
+46. Jesus Freaks (book) by D.C. Talk
+47. Don Quixote by Miguel de Cervantes
+48. Patriot Games by Tom Clancy
+49. Teaching with Calvin and Hobbes by Linda Holmen
+50. E

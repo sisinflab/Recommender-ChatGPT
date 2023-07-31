@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. One Hundred Years of Solitude by Gabriel Garcia Marquez
+2. The Brothers Karamazov by Fyodor Dostoevsky
+3. The Picture of Dorian Gray by Oscar Wilde
+4. Crime and Punishment by Fyodor Dostoevsky
+5. The Bell Jar by Sylvia Plath
+6. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+7. The Name of the Rose by Umberto Eco
+8. The Stranger by Albert Camus
+9. The Sun Also Rises by Ernest Hemingway
+10. The Sound and the Fury by William Faulkner
+11. The Grapes of Wrath by John Steinbeck
+12. The Old Man and the Sea by Ernest Hemingway
+13. The Trial by Franz Kafka
+14. The Crying of Lot 49 by Thomas Pynchon
+15. Slaughterhouse-Five by Kurt Vonnegut
+16. The Canterbury Tales by Geoffrey Chaucer
+17. The Divine Comedy by Dante Alighieri
+18. The Iliad by Homer
+19. The Odyssey by Homer
+20. The Aeneid by Virgil
+21. The Inferno by Dante Alighieri
+22. The Metamorphosis by Franz Kafka
+23. The Stranger Beside Me by Ann Rule
+24. The Girl with the Dragon Tattoo by Stieg Larsson
+25. The Da Vinci Code by Dan Brown
+26. The Hunger Games by Suzanne Collins
+27. The Lord of the Rings by J.R.R. Tolkien
+28. The Hobbit by J.R.R. Tolkien
+29. The Chronicles of Narnia by C.S. Lewis
+30. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+31. The Martian by Andy Weir
+32. The Road by Cormac McCarthy
+33. The Handmaid's Tale by Margaret Atwood
+34. 1984 by George Orwell
+35. Animal Farm by George Orwell
+36. Brave New World by Aldous Huxley
+37. Fahrenheit 451 by Ray Bradbury
+38. The Catcher in the Rye by J.D. Salinger
+39. The Great Gatsby by F. Scott Fitzgerald
+40. To Kill a Mockingbird by Harper Lee
+41. The Adventures of Huckleberry Finn by Mark Twain
+42. The Adventures of Tom Sawyer by Mark Twain
+43. The War of the Worlds by H.G. Wells
+44. The Time Machine by H.G. Wells
+45. Frankenstein by Mary Shelley
+46. Dracula by Bram Stoker
+47. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+48. Heart of Darkness by Joseph Conrad
+49. Lord Jim by Joseph Conrad
+50. Moby-Dick by Herman

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Pink Floyd
+2. Porcupine Tree
+3. Isis
+4. Aphex Twin
+5. Rush
+6. Led Zeppelin
+7. Faith No More
+8. Mr. Bungle
+9. Queen
+10. Van Halen
+11. Burzum
+12. Radiohead
+13. Godspeed You! Black Emperor
+14. Stars of the Lid
+15. Joy Division
+16. Rage Against the Machine
+17. Pearl Jam
+18. Kyuss
+19. Metallica
+20. Queens of the Stone Age
+21. Akira Yamaoka
+22. Neutral Milk Hotel
+23. Green Day
+24. Dream Theater
+25. The Beatles
+26. The Dillinger Escape Plan
+27. Nine Inch Nails
+28. Fantômas
+29. Brand New
+30. The Who
+31. Tool
+32. DJ Shadow
+33. Jimi Hendrix
+34. Black Sabbath
+35. Opeth
+36. King Crimson
+37. Deep Purple
+38. David Gilmour
+39. Jethro Tull
+40. Miles Davis
+41. Muse
+42. Elliott Smith
+43. The Smiths
+44. Fleetwood Mac
+45. Nick Drake
+46. Cynic
+47. Captain Beefheart & His Magic Band
+48. Brian Eno
+49. Jeff Buckley
+50. The Velvet Underground

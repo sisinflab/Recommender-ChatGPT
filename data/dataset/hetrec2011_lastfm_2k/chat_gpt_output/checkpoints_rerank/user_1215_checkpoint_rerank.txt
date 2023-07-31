@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Coldplay
+2. Adele
+3. Michael Jackson
+4. Jason Mraz
+5. The Cranberries
+6. The Corrs
+7. Sara Bareilles
+8. Ingrid Michaelson
+9. Gavin DeGraw
+10. Paolo Nutini
+11. Jamie Cullum
+12. Regina Spektor
+13. Corinne Bailey Rae
+14. Billy Joel
+15. Mika
+16. Duffy
+17. Mariah Carey
+18. Rilo Kiley
+19. Ke$ha
+20. Kate Nash
+21. Norah Jones
+22. Shania Twain
+23. City and Colour
+24. Beyoncé
+25. Rihanna
+26. Lady Gaga
+27. Katy Perry
+28. Taylor Swift
+29. Pink Floyd
+30. Muse
+31. Radiohead
+32. Nirvana
+33. Led Zeppelin
+34. Metallica
+35. The Beatles
+36. U2
+37. 30 Seconds to Mars
+38. Paramore
+39. Evanescence
+40. My Chemical Romance
+41. Green Day
+42. The Killers
+43. Linkin Park
+44. Nine Inch Nails
+45. Avenged Sevenfold
+46. Black Eyed Peas
+47. Daft Punk
+48. Kylie Minogue
+49. Madonna
+50. Shakira

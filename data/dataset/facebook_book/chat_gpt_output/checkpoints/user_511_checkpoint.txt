@@ -1,0 +1,47 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. City of Ashes (Mortal Instruments) by Cassandra Clare
+2. Glass Houses (Morganville Vampires) by Rachel Caine
+3. The Hunger Games by Suzanne Collins
+4. The Maze Runner by James Dashner
+5. The Giver by Lois Lowry
+6. The Fault in Our Stars by John Green
+7. Divergent by Veronica Roth
+8. The Selection by Kiera Cass
+9. The 5th Wave by Rick Yancey
+10. The Host by Stephenie Meyer
+11. The Mortal Instruments Boxed Set by Cassandra Clare
+12. The Infernal Devices Boxed Set by Cassandra Clare
+13. The Twilight Saga Collection by Stephenie Meyer
+14. The Vampire Diaries Collection by L.J. Smith
+15. The Sookie Stackhouse Novels by Charlaine Harris
+16. The Anita Blake Vampire Hunter Series by Laurell K. Hamilton
+17. The Dresden Files by Jim Butcher
+18. The Iron Fey Series by Julie Kagawa
+19. The Dark Tower Series by Stephen King
+20. The Lord of the Rings Trilogy by J.R.R. Tolkien
+21. The Hobbit by J.R.R. Tolkien
+22. The Chronicles of Narnia by C.S. Lewis
+23. The Harry Potter Series by J.K. Rowling
+24. The Percy Jackson and the Olympians Series by Rick Riordan
+25. The Heroes of Olympus Series by Rick Riordan
+26. The Kane Chronicles Series by Rick Riordan
+27. The Secrets of the Immortal Nicholas Flamel Series by Michael Scott
+28. The Inheritance Cycle Series by Christopher Paolini
+29. The Hunger Games Trilogy Boxed Set by Suzanne Collins
+30. The Maze Runner Series Boxed Set by James Dashner
+31. The Giver Quartet Boxed Set by Lois Lowry
+32. The Fault in Our Stars Boxed Set by John Green
+33. The Divergent Series Boxed Set by Veronica Roth
+34. The Selection Series Boxed Set by Kiera Cass
+35. The 5th Wave Collection by Rick Yancey
+36. The Mortal Instruments Movie Tie-in Boxed Set by Cassandra Clare
+37. The Twilight Saga Movie Tie-in Boxed Set by Stephenie Meyer
+38. The Vampire Diaries Collection Boxed Set by L.J. Smith
+39. The Sookie Stackhouse Novels Boxed Set by Charlaine Harris
+40. The Anita Blake Vampire Hunter Series Boxed Set by Laurell K. Hamilton
+41. The Dresden Files Boxed Set by Jim Butcher
+42. The Iron Fey Series Boxed Set by Julie Kagawa
+43. The Dark Tower Series Boxed Set by Stephen King
+44. The Lord of the Rings Trilogy Boxed Set by J.R.R. Tolkien
+45. The Hobbit

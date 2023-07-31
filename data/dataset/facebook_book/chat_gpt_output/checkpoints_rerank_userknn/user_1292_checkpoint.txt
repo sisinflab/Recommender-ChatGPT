@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice
+2. Jane Eyre
+3. The Book Thief
+4. The Catcher in the Rye
+5. Harry Potter
+6. The Hunger Games
+7. To Kill a Mockingbird
+8. 1984
+9. The Picture of Dorian Gray
+10. The Immortal Life of Henrietta Lacks
+11. The Canterbury Tales
+12. Wuthering Heights
+13. The Perks of Being a Wallflower
+14. Never Let Me Go
+15. Atonement
+16. Brave New World
+17. The Fountainhead
+18. The Importance of Being Earnest
+19. Macbeth
+20. The Merchant of Venice
+21. Pygmalion
+22. Speak
+23. Blink
+24. The Tipping Point
+25. The End of the Affair
+26. Wide Sargasso Sea
+27. Little Women
+28. The Sorrows of Young Werther
+29. The Jungle Book
+30. Ramayana
+31. Leaves of Grass
+32. The Prince
+33. Dracula
+34. Carrie
+35. Son of a Witch
+36. Beauty: A Retelling of the Story of Beauty and the Beast
+37. Daughter of the Lioness
+38. God Bless You, Mr. Rosewater
+39. Last Words
+40. Great Expectations
+41. Of Course I Love You ..! Till I Find Someone Better
+42. Bhagavad Gita
+43. Chronicles of Ancient Darkness
+44. On the Origin of Species
+45. Someday This Pain Will Be Useful to You
+46. Mockingjay
+47. Paper Towns
+48. An Abundance of Katherines
+49. Will Grayson, Will Grayson
+50. A Series of Unfortunate Events

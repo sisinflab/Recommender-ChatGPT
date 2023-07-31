@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Pink Floyd
+3. The Beatles
+4. Nirvana
+5. Foo Fighters
+6. The Smashing Pumpkins
+7. Deftones
+8. Oasis
+9. The White Stripes
+10. Daft Punk
+11. Franz Ferdinand
+12. Gorillaz
+13. Beck
+14. Aerosmith
+15. The Strokes
+16. Weezer
+17. Green Day
+18. Rage Against the Machine
+19. Pearl Jam
+20. Led Zeppelin
+21. The Killers
+22. Death Cab for Cutie
+23. The Mars Volta
+24. Garbage
+25. The New Pornographers
+26. Tegan and Sara
+27. CAKE
+28. Scissor Sisters
+29. Justice
+30. Slipknot
+31. Dinosaur Jr.
+32. Counting Crows
+33. Faith No More
+34. blink-182
+35. Slash
+36. Band of Horses
+37. Bruce Springsteen
+38. Sublime
+39. Nickelback
+40. The Flaming Lips
+41. Placebo
+42. Relient K
+43. Depeche Mode
+44. The Calling
+45. AFI
+46. Stevie Wonder
+47. Alkaline Trio
+48. Pantera
+49. The Kooks
+50. Audioslave

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Beach House
+2. Laura Marling
+3. Ingrid Michaelson
+4. Regina Spektor
+5. Tegan and Sara
+6. Belle and Sebastian
+7. A Fine Frenzy
+8. Eisley
+9. The Hush Sound
+10. Kings of Convenience
+11. Au Revoir Simone
+12. The Pipettes
+13. Amy Macdonald
+14. Adele
+15. Blonde Redhead
+16. Imogen Heap
+17. Arcade Fire
+18. Stars
+19. Metric
+20. Florence + the Machine
+21. Bat for Lashes
+22. La Roux
+23. Yeah Yeah Yeahs
+24. Björk
+25. Crystal Castles
+26. Radiohead
+27. Explosions in the Sky
+28. Travis
+29. Bright Eyes
+30. The Kooks
+31. Snow Patrol
+32. The Cranberries
+33. Placebo
+34. Silverchair
+35. Dashboard Confessional
+36. Feist
+37. Garbage
+38. Ani DiFranco
+39. Elliott Smith
+40. Maria Mena
+41. Paramore
+42. Carrie Underwood
+43. Ladytron
+44. The Beatles
+45. Anberlin
+46. Modest Mouse
+47. Hollywood Undead
+48. Ellie Goulding
+49. Katy Perry
+50. Flobots

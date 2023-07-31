@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. The Road by Cormac McCarthy
+3. The Hunger Games by Suzanne Collins
+4. Lord of the Flies by William Golding
+5. The Giver by Lois Lowry
+6. Fahrenheit 451 by Ray Bradbury
+7. The Catcher in the Rye by J.D. Salinger
+8. To Kill a Mockingbird by Harper Lee
+9. The Maze Runner by James Dashner
+10. The Book Thief by Markus Zusak
+11. The Fault in Our Stars by John Green
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Da Vinci Code by Dan Brown
+14. The Hobbit by J.R.R. Tolkien
+15. The Lord of the Rings by J.R.R. Tolkien
+16. The Chronicles of Narnia by C.S. Lewis
+17. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+18. Ender's Game by Orson Scott Card
+19. The Alchemist by Paulo Coelho
+20. The Picture of Dorian Gray by Oscar Wilde
+21. The Great Gatsby by F. Scott Fitzgerald
+22. One Hundred Years of Solitude by Gabriel Garcia Marquez
+23. The Kite Runner by Khaled Hosseini
+24. A Thousand Splendid Suns by Khaled Hosseini
+25. The Color Purple by Alice Walker
+26. The Help by Kathryn Stockett
+27. The Secret Life of Bees by Sue Monk Kidd
+28. The Lovely Bones by Alice Sebold
+29. The Time Traveler's Wife by Audrey Niffenegger
+30. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+31. The Perks of Being a Wallflower by Stephen Chbosky
+32. The Bell Jar by Sylvia Plath
+33. The Handmaid's Tale by Margaret Atwood
+34. The Testaments by Margaret Atwood
+35. Alias Grace by Margaret Atwood
+36. The Blind Assassin by Margaret Atwood
+37. The Heart Goes Last by Margaret Atwood
+38. The Year of the Flood by Margaret Atwood
+39. The Oryx and Crake Trilogy by Margaret Atwood
+40. The Stand by Stephen King
+41. It by Stephen King
+42. The Shining by Stephen King
+43. Carrie by Stephen King
+44. Misery by Stephen King
+45. The Dark Tower Series by Stephen King
+46. The Girl on the Train by Paula Hawkins
+47. Gone Girl by Gillian Flynn
+48. Sharp Objects by Gillian Flynn
+49. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+50. The Devil in the White City by Erik Larson

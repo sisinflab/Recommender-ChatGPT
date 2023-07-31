@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. American Gods by Neil Gaiman
+2. The Hunger Games by Suzanne Collins
+3. The Da Vinci Code by Dan Brown
+4. The Lord of the Rings by J.R.R. Tolkien
+5. The Girl with the Dragon Tattoo by Stieg Larsson
+6. The Catcher in the Rye by J.D. Salinger
+7. The Great Gatsby by F. Scott Fitzgerald
+8. To Kill a Mockingbird by Harper Lee
+9. 1984 by George Orwell
+10. The Hobbit by J.R.R. Tolkien
+11. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+12. The Chronicles of Narnia by C.S. Lewis
+13. The Picture of Dorian Gray by Oscar Wilde
+14. The Book Thief by Markus Zusak
+15. The Road by Cormac McCarthy
+16. The Stand by Stephen King
+17. The Handmaid's Tale by Margaret Atwood
+18. The Name of the Wind by Patrick Rothfuss
+19. The Dark Tower series by Stephen King
+20. The Silence of the Lambs by Thomas Harris
+21. The Martian by Andy Weir
+22. The Alchemist by Paulo Coelho
+23. The Secret History by Donna Tartt
+24. The Shadow of the Wind by Carlos Ruiz Zafón
+25. The Time Traveler's Wife by Audrey Niffenegger
+26. The Kite Runner by Khaled Hosseini
+27. The Help by Kathryn Stockett
+28. The Fault in Our Stars by John Green
+29. The Maze Runner by James Dashner
+30. The Giver by Lois Lowry
+31. The Outsiders by S.E. Hinton
+32. The Perks of Being a Wallflower by Stephen Chbosky
+33. The Lovely Bones by Alice Sebold
+34. The Girl on the Train by Paula Hawkins
+35. The Nightingale by Kristin Hannah
+36. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+37. The Handmaid's Tale by Margaret Atwood
+38. The Hunger Games by Suzanne Collins
+39. The Road by Cormac McCarthy
+40. The Stand by Stephen King
+41. The Dark Tower series by Stephen King
+42. The Silence of the Lambs by Thomas Harris
+43. The Martian by Andy Weir
+44. The Alchemist by Paulo Coelho
+45. The Secret History by Donna Tartt
+46. The Shadow of the Wind by Carlos Ruiz Zafón
+47. The Time Traveler's Wife by Audrey Niffenegger
+48. The Kite Runner by Khaled Hosseini
+49. The Help by Kathryn Stockett
+50. The Fault in Our Stars by John Green

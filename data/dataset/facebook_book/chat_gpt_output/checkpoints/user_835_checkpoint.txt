@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Andromeda Strain by Michael Crichton
+2. Hannibal by Thomas Harris
+3. In Cold Blood by Truman Capote
+4. The Girl with the Dragon Tattoo by Stieg Larsson
+5. The Da Vinci Code by Dan Brown
+6. The Shining by Stephen King
+7. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+8. The Catcher in the Rye by J.D. Salinger
+9. The Great Gatsby by F. Scott Fitzgerald
+10. The Picture of Dorian Gray by Oscar Wilde
+11. The Hobbit by J.R.R. Tolkien
+12. The Lord of the Rings by J.R.R. Tolkien
+13. The Hunger Games by Suzanne Collins
+14. 1984 by George Orwell
+15. Animal Farm by George Orwell
+16. Brave New World by Aldous Huxley
+17. Crime and Punishment by Fyodor Dostoevsky
+18. The Brothers Karamazov by Fyodor Dostoevsky
+19. The Trial by Franz Kafka
+20. One Hundred Years of Solitude by Gabriel Garcia Marquez
+21. Love in the Time of Cholera by Gabriel Garcia Marquez
+22. The Name of the Rose by Umberto Eco
+23. The Count of Monte Cristo by Alexandre Dumas
+24. Les Miserables by Victor Hugo
+25. The Three Musketeers by Alexandre Dumas
+26. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+27. The Hound of the Baskervilles by Arthur Conan Doyle
+28. The War of the Worlds by H.G. Wells
+29. The Time Machine by H.G. Wells
+30. The Invisible Man by H.G. Wells
+31. The Island of Dr. Moreau by H.G. Wells
+32. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+33. Treasure Island by Robert Louis Stevenson
+34. The Adventures of Tom Sawyer by Mark Twain
+35. The Adventures of Huckleberry Finn by Mark Twain
+36. The Call of the Wild by Jack London
+37. White Fang by Jack London
+38. The Picture of Dorian Gray by Oscar Wilde
+39. The Importance of Being Earnest by Oscar Wilde
+40. The Canterbury Tales by Geoffrey Chaucer
+41. Beowulf by Unknown
+42. The Divine Comedy by Dante Alighieri
+43. The Iliad by Homer
+44. The Odyssey by Homer
+45. The Aeneid by Virgil
+46. The Inferno by Dante Alighieri
+47. The Republic by Plato
+48. The Prince by Niccolo Machiavelli
+49. The Art of War by Sun Tzu
+50. The Tao Te Ching by L

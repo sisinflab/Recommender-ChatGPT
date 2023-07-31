@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. A Song of Ice and Fire by George R.R. Martin
+3. Ender's Game by Orson Scott Card
+4. The Hobbit by J.R.R. Tolkien
+5. The Chronicles of Narnia by C.S. Lewis
+6. The Hunger Games by Suzanne Collins
+7. Harry Potter by J.K. Rowling
+8. The Alchemist by Paulo Coelho
+9. Crime and Punishment by Fyodor Dostoyevsky
+10. The Catcher in the Rye by J.D. Salinger
+11. The Great Gatsby by F. Scott Fitzgerald
+12. To Kill a Mockingbird by Harper Lee
+13. 1984 by George Orwell
+14. Animal Farm by George Orwell
+15. Brave New World by Aldous Huxley
+16. Lord of the Flies by William Golding
+17. The Old Man and the Sea by Ernest Hemingway
+18. The Little Prince by Antoine de Saint-Exupéry
+19. The Master and Margarita by Mikhail Bulgakov
+20. The Picture of Dorian Gray by Oscar Wilde
+21. The Count of Monte Cristo by Alexandre Dumas
+22. Les Misérables by Victor Hugo
+23. The Three Musketeers by Alexandre Dumas
+24. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+25. The Hound of the Baskervilles by Arthur Conan Doyle
+26. The Da Vinci Code by Dan Brown
+27. Angels and Demons by Dan Brown
+28. Inferno by Dan Brown
+29. The Bourne Identity by Robert Ludlum
+30. The Bourne Supremacy by Robert Ludlum
+31. The Bourne Ultimatum by Robert Ludlum
+32. The Girl with the Dragon Tattoo by Stieg Larsson
+33. The Girl Who Played with Fire by Stieg Larsson
+34. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+35. The Silence of the Lambs by Thomas Harris
+36. Hannibal by Thomas Harris
+37. Red Dragon by Thomas Harris
+38. The Shining by Stephen King
+39. Carrie by Stephen King
+40. The Stand by Stephen King
+41. The Dark Tower series by Stephen King
+42. The Name of the Wind by Patrick Rothfuss
+43. The Wise Man's Fear by Patrick Rothfuss
+44. The Way of Kings by Brandon Sanderson
+45. Mistborn by Brandon Sanderson
+46. Warbreaker by Brandon Sanderson
+47. Elantris by Brandon Sanderson
+48. The Eye of the World by Robert Jordan
+49. The Wheel of Time series by Robert Jordan
+50. A Game of Thrones by George R.R.

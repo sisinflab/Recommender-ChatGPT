@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Fault in Our Stars by John Green
+2. Paper Towns by John Green
+3. The Hunger Games by Suzanne Collins
+4. Catching Fire by Suzanne Collins
+5. Mockingjay by Suzanne Collins
+6. Divergent by Veronica Roth
+7. Insurgent by Veronica Roth
+8. Allegiant by Veronica Roth
+9. The Maze Runner by James Dashner
+10. The Scorch Trials by James Dashner
+11. The Death Cure by James Dashner
+12. The Giver by Lois Lowry
+13. Gathering Blue by Lois Lowry
+14. Messenger by Lois Lowry
+15. Son by Lois Lowry
+16. The Book Thief by Markus Zusak
+17. The Girl on the Train by Paula Hawkins
+18. Gone Girl by Gillian Flynn
+19. The Da Vinci Code by Dan Brown
+20. Angels and Demons by Dan Brown
+21. Inferno by Dan Brown
+22. The Lost Symbol by Dan Brown
+23. The Help by Kathryn Stockett
+24. The Lovely Bones by Alice Sebold
+25. The Time Traveler's Wife by Audrey Niffenegger
+26. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+27. The Kite Runner by Khaled Hosseini
+28. A Thousand Splendid Suns by Khaled Hosseini
+29. The Alchemist by Paulo Coelho
+30. The Chronicles of Narnia by C.S. Lewis
+31. The Lord of the Rings by J.R.R. Tolkien
+32. The Hobbit by J.R.R. Tolkien
+33. The Harry Potter series by J.K. Rowling
+34. The Shining by Stephen King
+35. Carrie by Stephen King
+36. The Stand by Stephen King
+37. It by Stephen King
+38. The Dark Tower series by Stephen King
+39. The Catcher in the Rye by J.D. Salinger
+40. To Kill a Mockingbird by Harper Lee
+41. 1984 by George Orwell
+42. Animal Farm by George Orwell
+43. Brave New World by Aldous Huxley
+44. Fahrenheit 451 by Ray Bradbury
+45. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+46. The Martian by Andy Weir
+47. Ready Player One by Ernest Cline
+48. Ender's Game by Orson Scott Card
+49. The Name of the Wind by Patrick Rothfuss
+50. The Way of Kings by Brandon Sanderson

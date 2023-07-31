@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter
+2. The Chronicles of Narnia
+3. The Lord of the Rings
+4. The Maze Runner
+5. Ender's Game
+6. Anthem (novella)
+7. Nineteen Eighty-Four
+8. Brave New World
+9. The Da Vinci Code
+10. Moby-Dick
+11. Slaughterhouse-Five
+12. The Great Gatsby
+13. A Farewell to Arms
+14. Animal Farm
+15. Great Expectations
+16. Romeo and Juliet
+17. A Midsummer Night's Dream
+18. The Hunchback of Notre-Dame
+19. The Adventures of Tom Sawyer
+20. The Little Prince
+21. The Giver
+22. Franny and Zooey
+23. Lolita
+24. The Catcher in the Rye
+25. Beyond Good and Evil
+26. Odyssey
+27. The Old Man and the Sea
+28. Treasure Island
+29. The Cat in the Hat
+30. James and the Giant Peach
+31. Misty of Chincoteague
+32. The Tale of Peter Rabbit
+33. Something Wicked This Way Comes (novel)
+34. The Lion, the Witch and the Wardrobe
+35. Lord of the Flies
+36. The Hitchhiker's Guide to the Galaxy (novel)
+37. The Hamlet
+38. A Tale of Two Cities
+39. Beyond Good and Evil
+40. The Eyes of the Dragon
+41. Logan's Run
+42. Sphere (novel)
+43. Dragonlance Adventures
+44. The Riftwar Saga
+45. How to Eat Fried Worms
+46. Common Sense (pamphlet)
+47. The Ear, the Eye and the Arm
+48. Thirteen Reasons Why
+49. Chobits
+50. Everworld

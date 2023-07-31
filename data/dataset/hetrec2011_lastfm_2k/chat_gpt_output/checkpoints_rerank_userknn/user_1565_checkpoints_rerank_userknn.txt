@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Muse
+3. Pearl Jam
+4. Arctic Monkeys
+5. Queens of the Stone Age
+6. The White Stripes
+7. Rage Against the Machine
+8. Bloc Party
+9. Kings of Leon
+10. The Strokes
+11. Franz Ferdinand
+12. Daft Punk
+13. The Killers
+14. Wilco
+15. MGMT
+16. Portishead
+17. Björk
+18. She Wants Revenge
+19. The National
+20. The Fratellis
+21. Editors
+22. Snow Patrol
+23. Regina Spektor
+24. Black Rebel Motorcycle Club
+25. Spiritualized
+26. Bombay Bicycle Club
+27. The Last Shadow Puppets
+28. Lily Allen
+29. Los Hermanos
+30. of Montreal
+31. Dashboard Confessional
+32. The Rakes
+33. Megadeth
+34. Iron Maiden
+35. Soundgarden
+36. Alice in Chains
+37. Nirvana
+38. Black Sabbath
+39. Led Zeppelin
+40. The Rolling Stones
+41. Pink Floyd
+42. AC/DC
+43. Aerosmith
+44. The Who
+45. Jimmy Eat World
+46. Elliott Smith
+47. System of a Down
+48. Slayer
+49. Tool
+50. Depeche Mode

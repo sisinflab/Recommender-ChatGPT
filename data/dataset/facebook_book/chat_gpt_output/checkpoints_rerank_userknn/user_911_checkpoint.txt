@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. The Brothers Karamazov by Fyodor Dostoevsky
+6. Dracula by Bram Stoker
+7. Heart of Darkness by Joseph Conrad
+8. Lord of the Flies by William Golding
+9. Moby-Dick by Herman Melville
+10. The Picture of Dorian Gray by Oscar Wilde
+11. Leaves of Grass by Walt Whitman
+12. As I Lay Dying by William Faulkner
+13. The Stand by Stephen King
+14. Inkheart by Cornelia Funke
+15. The Master and Margarita by Mikhail Bulgakov
+16. The Turn of the Screw by Henry James
+17. A Midsummer Night's Dream by William Shakespeare
+18. Macbeth by William Shakespeare
+19. The Sicilian by Mario Puzo
+20. The Celestine Prophecy by James Redfield
+21. The Grapes of Wrath by John Steinbeck
+22. American Pastoral by Philip Roth
+23. Breakfast of Champions by Kurt Vonnegut
+24. The Murders in the Rue Morgue by Edgar Allan Poe
+25. Dune by Frank Herbert
+26. Lord Jim by Joseph Conrad
+27. The Walking Dead by Robert Kirkman
+28. Ender's Game by Orson Scott Card
+29. The Outsiders by S.E. Hinton
+30. Carrie by Stephen King
+31. Oil! by Upton Sinclair
+32. The Anarchist Cookbook by William Powell
+33. Choke by Chuck Palahniuk
+34. Haunted by Chuck Palahniuk
+35. The Bean Trees by Barbara Kingsolver
+36. Still Life with Woodpecker by Tom Robbins
+37. One Fish Two Fish Red Fish Blue Fish by Dr. Seuss
+38. High Fidelity by Nick Hornby
+39. The God Delusion by Richard Dawkins
+40. Notes from Underground by Fyodor Dostoevsky
+41. The Stand by Stephen King
+42. Teaching with Calvin and Hobbes by Linda Holmen
+43. The Turn of the Screw by Henry James
+44. The Celestine Prophecy by James Redfield
+45. Girlfriend in a Coma by Douglas Coupland
+46. Twilight by Stephenie Meyer
+47. Maurice by E.M. Forster
+48. The Story of Edgar Sawtelle by David Wroblewski
+49. In Cold Blood by Truman Capote
+50. Adventures of Huckleberry Finn by Mark Twain

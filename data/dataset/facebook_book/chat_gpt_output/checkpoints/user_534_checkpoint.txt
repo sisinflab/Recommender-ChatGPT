@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Catcher in the Rye by J.D. Salinger
+3. The Great Gatsby by F. Scott Fitzgerald
+4. One Hundred Years of Solitude by Gabriel Garcia Marquez
+5. Pride and Prejudice by Jane Austen
+6. Animal Farm by George Orwell
+7. The Picture of Dorian Gray by Oscar Wilde
+8. Brave New World by Aldous Huxley
+9. The Bell Jar by Sylvia Plath
+10. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+11. The Hobbit by J.R.R. Tolkien
+12. The Lord of the Rings by J.R.R. Tolkien
+13. The Chronicles of Narnia by C.S. Lewis
+14. The Hunger Games by Suzanne Collins
+15. Harry Potter and the Philosopher's Stone by J.K. Rowling
+16. The Da Vinci Code by Dan Brown
+17. The Girl with the Dragon Tattoo by Stieg Larsson
+18. The Road by Cormac McCarthy
+19. The Kite Runner by Khaled Hosseini
+20. The Book Thief by Markus Zusak
+21. The Fault in Our Stars by John Green
+22. The Lovely Bones by Alice Sebold
+23. The Help by Kathryn Stockett
+24. The Secret Life of Bees by Sue Monk Kidd
+25. The Color Purple by Alice Walker
+26. The Joy Luck Club by Amy Tan
+27. The God of Small Things by Arundhati Roy
+28. The Poisonwood Bible by Barbara Kingsolver
+29. The Handmaid's Tale by Margaret Atwood
+30. The Stand by Stephen King
+31. The Shining by Stephen King
+32. The Silence of the Lambs by Thomas Harris
+33. The Bourne Identity by Robert Ludlum
+34. The Girl on the Train by Paula Hawkins
+35. Gone Girl by Gillian Flynn
+36. The Martian by Andy Weir
+37. Ready Player One by Ernest Cline
+38. Ender's Game by Orson Scott Card
+39. The Name of the Wind by Patrick Rothfuss
+40. American Gods by Neil Gaiman
+41. The Road to Serfdom by Friedrich Hayek
+42. The Wealth of Nations by Adam Smith
+43. The Art of War by Sun Tzu
+44. The Prince by Niccolo Machiavelli
+45. The Republic by Plato
+46. Meditations by Marcus Aurelius
+47. The Divine Comedy by Dante Alighieri
+48. The Canterbury Tales by Geoffrey Chaucer
+49. Beowulf by Unknown
+50. The Iliad by Homer

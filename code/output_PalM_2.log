@@ -1,0 +1,59 @@
+nohup: ignoring input
+An error occurred: [Errno 2] No such file or directory: '../results/user_knn_movielens_small_2018/UserKNN_nn=80_sim=correlation_imp=standard_bin=False_shrink=0_norm=True_asymalpha=_tvalpha=_tvbeta=_rweights=/best-weights-UserKNN_nn=80_sim=correlation_imp=standard_bin=False_shrink=0_norm=True_asymalpha=_tvalpha=_tvbeta=_rweights='
+Traceback (most recent call last):
+  File "/home/dario/anaconda3/envs/Recommender-ChatGPT/lib/python3.8/smtplib.py", line 358, in send
+    self.sock.sendall(s)
+  File "/home/dario/anaconda3/envs/Recommender-ChatGPT/lib/python3.8/ssl.py", line 1204, in sendall
+    v = self.send(byte_view[count:])
+  File "/home/dario/anaconda3/envs/Recommender-ChatGPT/lib/python3.8/ssl.py", line 1173, in send
+    return self._sslobj.write(data)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main_google_palm.py", line 428, in <module>
+    server.send_message(message)
+  File "/home/dario/anaconda3/envs/Recommender-ChatGPT/lib/python3.8/smtplib.py", line 984, in send_message
+    return self.sendmail(from_addr, to_addrs, flatmsg, mail_options,
+  File "/home/dario/anaconda3/envs/Recommender-ChatGPT/lib/python3.8/smtplib.py", line 879, in sendmail
+    (code, resp) = self.mail(from_addr, esmtp_opts)
+  File "/home/dario/anaconda3/envs/Recommender-ChatGPT/lib/python3.8/smtplib.py", line 543, in mail
+    self.putcmd("mail", "FROM:%s%s" % (quoteaddr(sender), optionlist))
+  File "/home/dario/anaconda3/envs/Recommender-ChatGPT/lib/python3.8/smtplib.py", line 376, in putcmd
+    self.send(f'{s}{CRLF}')
+  File "/home/dario/anaconda3/envs/Recommender-ChatGPT/lib/python3.8/smtplib.py", line 361, in send
+    raise SMTPServerDisconnected('Server not connected')
+smtplib.SMTPServerDisconnected: Server not connected
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main_google_palm.py", line 434, in <module>
+    server.send_message(message)
+  File "/home/dario/anaconda3/envs/Recommender-ChatGPT/lib/python3.8/smtplib.py", line 984, in send_message
+    return self.sendmail(from_addr, to_addrs, flatmsg, mail_options,
+  File "/home/dario/anaconda3/envs/Recommender-ChatGPT/lib/python3.8/smtplib.py", line 879, in sendmail
+    (code, resp) = self.mail(from_addr, esmtp_opts)
+  File "/home/dario/anaconda3/envs/Recommender-ChatGPT/lib/python3.8/smtplib.py", line 543, in mail
+    self.putcmd("mail", "FROM:%s%s" % (quoteaddr(sender), optionlist))
+  File "/home/dario/anaconda3/envs/Recommender-ChatGPT/lib/python3.8/smtplib.py", line 376, in putcmd
+    self.send(f'{s}{CRLF}')
+  File "/home/dario/anaconda3/envs/Recommender-ChatGPT/lib/python3.8/smtplib.py", line 363, in send
+    raise SMTPServerDisconnected('please run connect() first')
+smtplib.SMTPServerDisconnected: please run connect() first
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main_google_palm.py", line 438, in <module>
+    server.quit()
+  File "/home/dario/anaconda3/envs/Recommender-ChatGPT/lib/python3.8/smtplib.py", line 1002, in quit
+    res = self.docmd("quit")
+  File "/home/dario/anaconda3/envs/Recommender-ChatGPT/lib/python3.8/smtplib.py", line 429, in docmd
+    self.putcmd(cmd, args)
+  File "/home/dario/anaconda3/envs/Recommender-ChatGPT/lib/python3.8/smtplib.py", line 376, in putcmd
+    self.send(f'{s}{CRLF}')
+  File "/home/dario/anaconda3/envs/Recommender-ChatGPT/lib/python3.8/smtplib.py", line 363, in send
+    raise SMTPServerDisconnected('please run connect() first')
+smtplib.SMTPServerDisconnected: please run connect() first

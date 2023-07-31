@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter
+2. The Hunger Games
+3. Twilight (series)
+4. The Lord of the Rings
+5. The Book Thief
+6. Inkheart
+7. His Dark Materials
+8. The Lovely Bones
+9. Jane Eyre
+10. Nineteen Eighty-Four
+11. The Hobbit
+12. The Phantom Tollbooth
+13. A Midsummer Night's Dream
+14. The Little Prince
+15. Anne of Green Gables
+16. The Giver
+17. Great Expectations
+18. The Shipping News
+19. The Old Man and the Sea
+20. Chronicle of a Death Foretold
+21. Daughter of the Forest
+22. A Study in Scarlet
+23. Valiant: A Modern Tale of Faerie
+24. Hawksong
+25. Inkspell
+26. Demian
+27. The Lost Symbol
+28. Inferno (Dante)
+29. The Antichrist (book)
+30. Thus Spoke Zarathustra
+31. Angels & Demons
+32. Digital Fortress
+33. The Host (novel)
+34. Vampire Academy (novel)
+35. Dark Prince
+36. Vampire Kisses
+37. Brisingr
+38. Burned (Hopkins novel)
+39. Hopscotch (Julio Cortázar novel)
+40. Fushigi Yûgi
+41. Mafalda
+42. The Hatchet (novel)
+43. Johnny the Homicidal Maniac
+44. At the Mountains of Madness
+45. Midnight Sun (novel)
+46. Tithe: A Modern Faerie Tale
+47. A Demon in My View
+48. Bible
+49. The Last Storytellers: Tales from the Heart of Morocco
+50. The Trumpet of the Swan

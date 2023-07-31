@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Diary of a Wimpy Kid (series) by []
+2. Lock and Key by []
+3. Flirt (novella) by []
+4. Dear John (novel) by ['Nicholas Sparks']
+5. The Last Song (novel) by ['Nicholas Sparks']
+6. Wild Magic by ['Tamora Pierce']
+7. A Hat Full of Sky by ['Terry Pratchett']
+8. Green Angel by ['Alice Hoffman']
+9. Underworld (DeLillo novel) by ['Don DeLillo']
+10. Valiant : A Modern Tale of Faerie by []
+11. Inkheart
+12. The Chronicles of Narnia: Prince Caspian
+13. Twilight (series)
+14. The Hunger Games
+15. To Kill a Mockingbird
+16. Romeo and Juliet
+17. The Notebook (novel)
+18. Pride and Prejudice
+19. The Five People You Meet in Heaven
+20. The Little Prince
+21. Mythology (book)
+22. A Walk in the Woods
+23. The Perks of Being a Wallflower
+24. Freakonomics
+25. Tuesdays with Morrie
+26. The Shack
+27. Number the Stars
+28. The Wheel of Time
+29. Northanger Abbey
+30. Angela's Ashes
+31. Chicken Soup for the Soul
+32. Macbeth
+33. Harry Potter
+34. Crime (novel)
+35. The Walking Dead (comic book)
+36. Holes (novel)
+37. Thirteen Reasons Why
+38. A Bend in the Road
+39. The Purpose Driven Life
+40. Ninth Grade Slays
+41. Someone like You (novel)
+42. Dracula
+43. The Zombie Survival Guide
+44. Forever... (Blume novel)
+45. Put on By Cunning
+46. So B. It
+47. Flipped
+48. Vampire: The Masquerade
+49. Sun Bin's Art of War
+50. Going Rogue: An American Life

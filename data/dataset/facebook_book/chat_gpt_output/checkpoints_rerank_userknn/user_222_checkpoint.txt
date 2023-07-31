@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Crime and Punishment by Fyodor Dostoevsky
+2. The Stranger by Albert Camus
+3. Heart-Shaped Box by Joe Hill
+4. Frankenstein by Mary Shelley
+5. The Shadow of the Wind by Carlos Ruiz Zafón
+6. Nineteen Eighty-Four by George Orwell
+7. The Count of Monte Cristo by Alexandre Dumas
+8. Les Misérables by Victor Hugo
+9. The Time Machine by H.G. Wells
+10. The Art of Racing in the Rain by Garth Stein
+11. The Great Gatsby by F. Scott Fitzgerald
+12. A Farewell to Arms by Ernest Hemingway
+13. The Lord of the Rings by J.R.R. Tolkien
+14. The Hobbit by J.R.R. Tolkien
+15. The Secret Garden by Frances Hodgson Burnett
+16. The Scarlet Letter by Nathaniel Hawthorne
+17. Adventures of Huckleberry Finn by Mark Twain
+18. Gulliver's Travels by Jonathan Swift
+19. The Little Prince by Antoine de Saint-Exupéry
+20. Iliad by Homer
+21. Aeneid by Virgil
+22. Paradise Lost by John Milton
+23. The Dante Club by Matthew Pearl
+24. Sense and Sensibility and Sea Monsters by Jane Austen and Ben H. Winters
+25. Pride and Prejudice and Zombies by Jane Austen and Seth Grahame-Smith
+26. The Dresden Files by Jim Butcher
+27. The Eyes of the Dragon by Stephen King
+28. Ivanhoe by Walter Scott
+29. The End of Mr. Y by Scarlett Thomas
+30. The Spy Who Came in from the Cold by John le Carré
+31. Sun Bin's Art of War by Sun Bin
+32. World War Z by Max Brooks
+33. The Watchmen by Alan Moore and Dave Gibbons
+34. The Walking Dead by Robert Kirkman and Tony Moore
+35. Persepolis by Marjane Satrapi
+36. Tender Is the Night by F. Scott Fitzgerald
+37. Three Cups of Tea by Greg Mortenson and David Oliver Relin
+38. Angels & Demons by Dan Brown
+39. The Outsiders by S.E. Hinton
+40. Soldier X by Don L. Wulffson
+41. Rifles for Watie by Harold Keith
+42. The Thief of Always by Clive Barker
+43. Hush by Jacqueline Woodson
+44. Eric by Terry Pratchett
+45. Cat's Cradle by Kurt Vonnegut
+46. Where the Wild Things Are by Maurice Sendak
+47. Journey to the Center of the Earth by Jules Verne
+48. Twenty Thousand Leagues Under the Sea by Jules Verne
+49. King Solomon

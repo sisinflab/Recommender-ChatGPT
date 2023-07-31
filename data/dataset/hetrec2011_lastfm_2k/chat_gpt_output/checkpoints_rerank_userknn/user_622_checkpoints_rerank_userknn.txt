@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Nine Inch Nails
+3. David Bowie
+4. Pink Floyd
+5. The Smashing Pumpkins
+6. Beck
+7. The Mars Volta
+8. Arcade Fire
+9. The Clash
+10. Animal Collective
+11. Porcupine Tree
+12. Frank Zappa
+13. Spoon
+14. Thrice
+15. Pain of Salvation
+16. Tom Waits
+17. Marilyn Manson
+18. R.E.M.
+19. Bloc Party
+20. The Cure
+21. Sufjan Stevens
+22. Alice in Chains
+23. Weezer
+24. Aphex Twin
+25. Crystal Castles
+26. Thom Yorke
+27. Portishead
+28. Depeche Mode
+29. Nirvana
+30. Modest Mouse
+31. Boards of Canada
+32. Caribou
+33. Placebo
+34. Massive Attack
+35. Muse
+36. Sigur Rós
+37. Explosions in the Sky
+38. Kings of Leon
+39. Arctic Monkeys
+40. Neutral Milk Hotel
+41. The Decemberists
+42. City and Colour
+43. The White Stripes
+44. Lamb of God
+45. Mumford & Sons
+46. Metric
+47. Death from Above 1979
+48. A Tribe Called Quest
+49. The Beatles
+50. Pixies

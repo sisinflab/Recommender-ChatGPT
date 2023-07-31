@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Oasis
+2. Depeche Mode
+3. The Beatles
+4. Franz Ferdinand
+5. Apocalyptica
+6. The Last Shadow Puppets
+7. Kasabian
+8. Recoil
+9. Nine Inch Nails
+10. Placebo
+11. Michael Jackson
+12. 30 Seconds to Mars
+13. a-ha
+14. Klaxons
+15. Wolfgang Amadeus Mozart
+16. James Blunt
+17. Zемфира
+18. Martin L. Gore
+19. Garbage
+20. Pet Shop Boys
+21. Muse
+22. Pink Floyd
+23. Nirvana
+24. Led Zeppelin
+25. Metallica
+26. Radiohead
+27. The Killers
+28. Arctic Monkeys
+29. Duran Duran
+30. Coldplay
+31. Blur
+32. Placebo
+33. Iron Maiden
+34. Pearl Jam
+35. Björk
+36. System of a Down
+37. Daft Punk
+38. Linkin Park
+39. My Chemical Romance
+40. Green Day
+41. The Cure
+42. U2
+43. Beyoncé
+44. Lady Gaga
+45. Rihanna
+46. Shakira
+47. Christina Aguilera
+48. Katy Perry
+49. Avril Lavigne
+50. Taylor Swift

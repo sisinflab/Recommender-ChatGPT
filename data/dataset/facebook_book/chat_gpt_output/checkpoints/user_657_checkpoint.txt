@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Twilight by Stephenie Meyer
+2. The Hunger Games by Suzanne Collins
+3. Divergent by Veronica Roth
+4. The Fault in Our Stars by John Green
+5. The Maze Runner by James Dashner
+6. The Giver by Lois Lowry
+7. The Book Thief by Markus Zusak
+8. The Girl on the Train by Paula Hawkins
+9. The Help by Kathryn Stockett
+10. The Lovely Bones by Alice Sebold
+11. The Da Vinci Code by Dan Brown
+12. Angels and Demons by Dan Brown
+13. Inferno by Dan Brown
+14. The Catcher in the Rye by J.D. Salinger
+15. To Kill a Mockingbird by Harper Lee
+16. The Great Gatsby by F. Scott Fitzgerald
+17. 1984 by George Orwell
+18. Animal Farm by George Orwell
+19. Brave New World by Aldous Huxley
+20. Fahrenheit 451 by Ray Bradbury
+21. The Handmaid's Tale by Margaret Atwood
+22. The Road by Cormac McCarthy
+23. The Stand by Stephen King
+24. It by Stephen King
+25. The Shining by Stephen King
+26. Misery by Stephen King
+27. Carrie by Stephen King
+28. The Silence of the Lambs by Thomas Harris
+29. Red Dragon by Thomas Harris
+30. Hannibal by Thomas Harris
+31. The Bourne Identity by Robert Ludlum
+32. The Bourne Supremacy by Robert Ludlum
+33. The Bourne Ultimatum by Robert Ludlum
+34. The Girl with the Dragon Tattoo by Stieg Larsson
+35. The Girl Who Played with Fire by Stieg Larsson
+36. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+37. The Martian by Andy Weir
+38. Ready Player One by Ernest Cline
+39. Ender's Game by Orson Scott Card
+40. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+41. The Lord of the Rings by J.R.R. Tolkien
+42. The Hobbit by J.R.R. Tolkien
+43. The Chronicles of Narnia by C.S. Lewis
+44. The Harry Potter series by J.K. Rowling
+45. The Twilight Saga by Stephenie Meyer
+46. The Host by Stephenie Meyer
+47. Black Boy by Richard Wright
+48. Native Son by Richard Wright
+49. Lord of the Flies by William Golding
+50. The Tipping Point by Malcolm Gladwell

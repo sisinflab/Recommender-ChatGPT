@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. Brave New World by Aldous Huxley
+5. The Great Gatsby by F. Scott Fitzgerald
+6. One Hundred Years of Solitude by Gabriel Garcia Marquez
+7. Crime and Punishment by Fyodor Dostoevsky
+8. The Brothers Karamazov by Fyodor Dostoevsky
+9. The Stranger by Albert Camus
+10. The Bell Jar by Sylvia Plath
+11. The Sun Also Rises by Ernest Hemingway
+12. For Whom the Bell Tolls by Ernest Hemingway
+13. The Sound and the Fury by William Faulkner
+14. As I Lay Dying by William Faulkner
+15. Heart of Darkness by Joseph Conrad
+16. Lord of the Flies by William Golding
+17. The Lord of the Rings by J.R.R. Tolkien
+18. The Hobbit by J.R.R. Tolkien
+19. The Chronicles of Narnia by C.S. Lewis
+20. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+21. The Shining by Stephen King
+22. The Stand by Stephen King
+23. The Dark Tower series by Stephen King
+24. The Girl with the Dragon Tattoo by Stieg Larsson
+25. The Girl Who Played with Fire by Stieg Larsson
+26. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+27. The Da Vinci Code by Dan Brown
+28. Angels and Demons by Dan Brown
+29. The Name of the Rose by Umberto Eco
+30. The Shadow of the Wind by Carlos Ruiz Zafón
+31. The Time Traveler's Wife by Audrey Niffenegger
+32. The Handmaid's Tale by Margaret Atwood
+33. The Road by Cormac McCarthy
+34. No Country for Old Men by Cormac McCarthy
+35. Blood Meridian by Cormac McCarthy
+36. The Picture of Dorian Gray by Oscar Wilde
+37. The Importance of Being Earnest by Oscar Wilde
+38. Frankenstein by Mary Shelley
+39. Dracula by Bram Stoker
+40. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+41. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+42. The Hound of the Baskervilles by Arthur Conan Doyle
+43. The Count of Monte Cristo by Alexandre Dumas
+44. Les Misérables by Victor Hugo
+45. The Three Musketeers by Alexandre Dumas
+46. The War of the Worlds by H.G. Wells
+47. The Time Machine by H.G. Wells
+48.

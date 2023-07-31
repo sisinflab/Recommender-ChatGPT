@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games (series) by Suzanne Collins
+2. 1984 by George Orwell
+3. Brave New World by Aldous Huxley
+4. The Catcher in the Rye by J.D. Salinger
+5. Lord of the Flies by William Golding
+6. The Great Gatsby by F. Scott Fitzgerald
+7. Animal Farm by George Orwell
+8. The Hobbit by J.R.R. Tolkien
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Hitchhiker's Guide to the Galaxy (series) by Douglas Adams
+11. To Kill a Mockingbird by Harper Lee
+12. The Da Vinci Code by Dan Brown
+13. The Girl with the Dragon Tattoo by Stieg Larsson
+14. The Shining by Stephen King
+15. The Stand by Stephen King
+16. The Silence of the Lambs by Thomas Harris
+17. The Road by Cormac McCarthy
+18. The Lovely Bones by Alice Sebold
+19. The Atonement Child by Francine Rivers
+20. The Giver by Lois Lowry
+21. The Outsiders by S.E. Hinton
+22. The Bell Jar by Sylvia Plath
+23. Lolita by Vladimir Nabokov
+24. Misery by Stephen King
+25. The Most Dangerous Game by Richard Connell
+26. Moby-Dick by Herman Melville
+27. Jane Eyre by Charlotte Bronte
+28. The Grapes of Wrath by John Steinbeck
+29. Atonement by Ian McEwan
+30. The Black Tattoo by Sam Enthoven
+31. Burned by Ellen Hopkins
+32. Speak by Laurie Halse Anderson
+33. Gathering Blue by Lois Lowry
+34. Prozac Nation by Elizabeth Wurtzel
+35. My Friend Leonard by James Frey
+36. Extremely Loud and Incredibly Close by Jonathan Safran Foer
+37. The Little Mermaid by Hans Christian Andersen
+38. Ella Enchanted by Gail Carson Levine
+39. Number the Stars by Lois Lowry
+40. The God Delusion by Richard Dawkins
+41. Fear and Loathing in Las Vegas by Hunter S. Thompson
+42. The Long Hard Road Out of Hell by Marilyn Manson
+43. I Hope They Serve Beer in Hell by Tucker Max
+44. Jay's Journal by Beatrice Sparks
+45. Candy: A Novel of Love and Addiction by Luke Davies
+46. Hairstyles of the Damned by Joe Meno
+47. Tricks by Ellen Hopkins
+48. John Dies at the End by David Wong
+49. Twilight by Stephenie Meyer
+50. Vampire Academy by Richelle Mead

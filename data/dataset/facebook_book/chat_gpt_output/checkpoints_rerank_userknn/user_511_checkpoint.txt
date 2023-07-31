@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Valiant: A Modern Tale of Faerie by Holly Black
+2. Ink Exchange by Holly Black
+3. Tithe: A Modern Faerie Tale by Holly Black
+4. The Looking Glass Wars by Frank Beddor
+5. Seeing Redd by Frank Beddor
+6. City of Bones (Mortal Instruments) by Cassandra Clare
+7. City of Ashes by Cassandra Clare
+8. The Hunger Games by Suzanne Collins
+9. Catching Fire by Suzanne Collins
+10. Mockingjay by Suzanne Collins
+11. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+12. The Perks of Being a Wallflower by Stephen Chbosky
+13. Fahrenheit 451 by Ray Bradbury
+14. Speak by Laurie Halse Anderson
+15. Impulse by Ellen Hopkins
+16. Crank by Ellen Hopkins
+17. Glass by Ellen Hopkins
+18. White Fang by Jack London
+19. The Call of the Wild by Jack London
+20. Romeo and Juliet by William Shakespeare
+21. Harry Potter and the Philosopher's Stone by J.K. Rowling
+22. Harry Potter and the Chamber of Secrets by J.K. Rowling
+23. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+24. Harry Potter and the Goblet of Fire by J.K. Rowling
+25. Harry Potter and the Order of Phoenix by J.K. Rowling
+26. Harry Potter and the Half-Blood Prince by J.K. Rowling
+27. Harry Potter and the Deathly Hallows by J.K. Rowling
+28. The Giver by Lois Lowry
+29. The Outsiders by S.E. Hinton
+30. Bridge to Terabithia by Katherine Paterson
+31. The Immortals by Alyson Noel
+32. Blue Moon by Alyson Noel
+33. Vampire Academy by Richelle Mead
+34. Twilight by Stephenie Meyer
+35. New Moon by Stephenie Meyer
+36. Eclipse by Stephenie Meyer
+37. Breaking Dawn by Stephenie Meyer
+38. The Vampire Lestat by Anne Rice
+39. Lolita by Vladimir Nabokov
+40. Brave New World by Aldous Huxley
+41. The Tale of Despereaux by Kate DiCamillo
+42. Alice's Adventures in Wonderland by Lewis Carroll
+43. The Last Storytellers: Tales from the Heart of Morocco by Richard Hamilton
+44. The Summoning by Kelley Armstrong
+45. The Reckoning by Kelley Armstrong
+46. Hunter by Mercedes Lackey
+47. Rhapsody: Child of Blood by Elizabeth Haydon
+48. Anne of Green Gables by L.M. Montgomery
+49. Silas Marner by George Eliot
+50. That Was Then, This Is Now by S.E.

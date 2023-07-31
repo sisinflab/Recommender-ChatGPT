@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Emilie Autumn
+2. Sopor Aeternus & The Ensemble of Shadows
+3. Blutengel
+4. Pixie Lott
+5. Clint Mansell
+6. Die Ärzte
+7. Maroon 5
+8. L'Âme Immortelle
+9. Yann Tiersen
+10. Danny Elfman
+11. Hans Zimmer
+12. Kate Nash
+13. Marilyn Manson
+14. The Hush Sound
+15. Amy Macdonald
+16. Lady Gaga
+17. Evanescence
+18. Rihanna
+19. Ke$ha
+20. Michael Jackson
+21. Amy Winehouse
+22. Depeche Mode
+23. Madonna
+24. The Beatles
+25. Beyoncé
+26. U2
+27. Muse
+28. Pink Floyd
+29. Radiohead
+30. Duran Duran
+31. Coldplay
+32. Arctic Monkeys
+33. Placebo
+34. The Killers
+35. Nirvana
+36. Iron Maiden
+37. Led Zeppelin
+38. Metallica
+39. a-ha
+40. Björk
+41. System of a Down
+42. Daft Punk
+43. Nine Inch Nails
+44. Linkin Park
+45. Kelly Clarkson
+46. All Time Low
+47. P!nk
+48. Avenged Sevenfold
+49. My Chemical Romance
+50. Green Day

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. Animal Farm by George Orwell
+3. Brave New World by Aldous Huxley
+4. Nineteen Eighty-Four by George Orwell
+5. The Great Gatsby by F. Scott Fitzgerald
+6. The Catcher in the Rye by J.D. Salinger
+7. Frankenstein by Mary Shelley
+8. Romeo and Juliet by William Shakespeare
+9. The Fountainhead by Ayn Rand
+10. A Tale of Two Cities by Charles Dickens
+11. The Hobbit by J.R.R. Tolkien
+12. The Giving Tree by Shel Silverstein
+13. Anne of Green Gables by L.M. Montgomery
+14. The Book Thief by Markus Zusak
+15. The Brothers Karamazov by Fyodor Dostoevsky
+16. The Stranger by Albert Camus
+17. A Farewell to Arms by Ernest Hemingway
+18. Jane Eyre by Charlotte Bronte
+19. The Old Man and the Sea by Ernest Hemingway
+20. The Crucible of Time by John Brunner
+21. The Mists of Avalon by Marion Zimmer Bradley
+22. The Once and Future King by T.H. White
+23. The Trumpet of the Swan by E.B. White
+24. The Hatchet by Gary Paulsen
+25. Holes by Louis Sachar
+26. Of Mice and Men by John Steinbeck
+27. The Hamlet by William Faulkner
+28. A Clockwork Orange by Anthony Burgess
+29. The Watchmen by Alan Moore
+30. Isaac Asimov's Robot City by William F. Wu
+31. Cosmos by Carl Sagan
+32. Divine Comedy by Dante Alighieri
+33. Inferno by Dante Alighieri
+34. The Giving Tree by Shel Silverstein
+35. Stargirl by Jerry Spinelli
+36. Fade by Lisa McMann
+37. D.Gray-man by Katsura Hoshino
+38. The Giver by Lois Lowry
+39. PiHKAL by Ann Shulgin and Alexander Shulgin
+40. Brighton Rock by Graham Greene
+41. Lolita by Vladimir Nabokov
+42. And the Hippos Were Boiled in Their Tanks by Jack Kerouac and William S. Burroughs
+43. Lord of the Flies by William Golding
+44. Through the Looking-Glass by Lewis Carroll
+45. Big Sur by Jack Kerouac
+46. The Waste Land by T.S. Eliot
+47. Harry Potter by J.K. Rowling
+48. The Kane Chronicles by Rick Riordan
+49. Sun Bin's Art of War by Sun Bin
+50. Christine by Stephen King

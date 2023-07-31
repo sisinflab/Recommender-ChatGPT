@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Strokes
+2. Franz Ferdinand
+3. The Last Shadow Puppets
+4. Arctic Monkeys
+5. The Libertines
+6. Radiohead
+7. Queens of the Stone Age
+8. Muse
+9. Pink Floyd
+10. Nirvana
+11. The Beatles
+12. The Smiths
+13. Garbage
+14. Led Zeppelin
+15. The Raconteurs
+16. The Vines
+17. Sonic Youth
+18. Oasis
+19. Kings of Leon
+20. Belle and Sebastian
+21. Kings of Convenience
+22. Albert Hammond, Jr.
+23. The Subways
+24. The Velvet Underground
+25. Los Campesinos!
+26. Little Joy
+27. Jet
+28. Placebo
+29. The Killers
+30. My Chemical Romance
+31. Green Day
+32. The Cure
+33. Pearl Jam
+34. Iron Maiden
+35. Metallica
+36. System of a Down
+37. Nine Inch Nails
+38. Linkin Park
+39. Avenged Sevenfold
+40. Daft Punk
+41. Björk
+42. Michael Jackson
+43. U2
+44. 30 Seconds to Mars
+45. Duran Duran
+46. Coldplay
+47. Blur
+48. Amy Winehouse
+49. a-ha
+50. P!nk

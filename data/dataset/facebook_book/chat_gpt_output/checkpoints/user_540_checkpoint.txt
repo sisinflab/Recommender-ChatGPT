@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. Divergent by Veronica Roth
+3. Ender's Game by Orson Scott Card
+4. The Giver by Lois Lowry
+5. The Maze Runner Series by James Dashner
+6. The Hunger Games Series by Suzanne Collins
+7. The Chronicles of Narnia by C.S. Lewis
+8. The Percy Jackson Series by Rick Riordan
+9. The Mortal Instruments Series by Cassandra Clare
+10. The Fault in Our Stars by John Green
+11. The Harry Potter Series by J.K. Rowling
+12. The Inheritance Cycle by Christopher Paolini
+13. The Dark Tower Series by Stephen King
+14. The Name of the Wind by Patrick Rothfuss
+15. The Wheel of Time Series by Robert Jordan
+16. The Kingkiller Chronicle by Patrick Rothfuss
+17. The Stormlight Archive by Brandon Sanderson
+18. The Mistborn Trilogy by Brandon Sanderson
+19. The Way of Kings by Brandon Sanderson
+20. The Lies of Locke Lamora by Scott Lynch
+21. The First Law Trilogy by Joe Abercrombie
+22. The Blade Itself by Joe Abercrombie
+23. The Black Company by Glen Cook
+24. The Malazan Book of the Fallen by Steven Erikson
+25. The Dresden Files by Jim Butcher
+26. The Codex Alera Series by Jim Butcher
+27. The Riyria Revelations by Michael J. Sullivan
+28. The Farseer Trilogy by Robin Hobb
+29. The Liveship Traders Trilogy by Robin Hobb
+30. The Tawny Man Trilogy by Robin Hobb
+31. The Lightbringer Series by Brent Weeks
+32. The Night Angel Trilogy by Brent Weeks
+33. The Powder Mage Trilogy by Brian McClellan
+34. The Red Rising Trilogy by Pierce Brown
+35. The Broken Empire Trilogy by Mark Lawrence
+36. The Prince of Thorns by Mark Lawrence
+37. The Gentleman Bastard Sequence by Scott Lynch
+38. The Black Prism by Brent Weeks
+39. The Shadow of What Was Lost by James Islington
+40. The Riyria Chronicles by Michael J. Sullivan
+41. The Demon Cycle by Peter V. Brett
+42. The King's Dark Tidings Series by Kel Kade
+43. The Lightbringer Series by Brent Weeks
+44. The Powder Mage Trilogy by Brian McClellan
+45. The Red Rising Trilogy by Pierce Brown
+46. The Broken Empire Trilogy by Mark Lawrence
+47. The Prince of Thorns by Mark Lawrence
+48. The Gentleman Bastard Sequence by Scott Lynch
+49. The Black Prism by Brent Weeks
+50. The Shadow of What Was Lost by James Islington

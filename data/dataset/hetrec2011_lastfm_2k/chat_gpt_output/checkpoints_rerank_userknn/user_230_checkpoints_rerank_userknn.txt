@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for user 230 are:
+
+1. Lady Gaga
+2. Rihanna
+3. Katy Perry
+4. Beyoncé
+5. Christina Aguilera
+6. Madonna
+7. Mariah Carey
+8. P!nk
+9. Jennifer Lopez
+10. Shakira
+11. Britney Spears
+12. Ke$ha
+13. Kelly Clarkson
+14. Avril Lavigne
+15. Miley Cyrus
+16. Hilary Duff
+17. Vanessa Hudgens
+18. Ashley Tisdale
+19. Demi Lovato
+20. Selena Gomez & the Scene
+21. The Pussycat Dolls
+22. Black Eyed Peas
+23. Alicia Keys
+24. Jason Mraz
+25. Coldplay
+26. Maroon 5
+27. Justin Timberlake
+28. Adele
+29. Florence + the Machine
+30. My Chemical Romance
+31. Panic! At the Disco
+32. 3OH!3
+33. Glee Cast
+34. Skye Sweetnam
+35. Sara Bareilles
+36. JoJo
+37. Katharine McPhee
+38. High School Musical
+39. Mandy Moore
+40. Nelly Furtado
+41. Destiny's Child
+42. Chris Brown
+43. Eva Simons
+44. Paulina Rubio
+45. BoA
+46. t.A.T.u.
+47. Jessica Simpson
+48. James Blunt
+49. Spice Girls
+50. Janis Joplin

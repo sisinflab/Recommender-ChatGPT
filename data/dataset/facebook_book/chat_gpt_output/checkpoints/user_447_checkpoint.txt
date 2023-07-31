@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. The Maze Runner by James Dashner
+3. Percy Jackson and the Olympians (series) by Rick Riordan
+4. Divergent by Veronica Roth
+5. The Giver by Lois Lowry
+6. The Fault in Our Stars by John Green
+7. The Chronicles of Narnia (series) by C.S. Lewis
+8. The Lord of the Rings (series) by J.R.R. Tolkien
+9. Ender's Game by Orson Scott Card
+10. The Hobbit by J.R.R. Tolkien
+11. The Da Vinci Code by Dan Brown
+12. Angels and Demons by Dan Brown
+13. The Girl with the Dragon Tattoo by Stieg Larsson
+14. The Girl Who Played with Fire by Stieg Larsson
+15. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+16. The Bourne Identity by Robert Ludlum
+17. The Bourne Supremacy by Robert Ludlum
+18. The Bourne Ultimatum by Robert Ludlum
+19. The Bourne Legacy by Eric Van Lustbader
+20. The Hunger Games: Catching Fire by Suzanne Collins
+21. The Hunger Games: Mockingjay by Suzanne Collins
+22. The Lightning Thief by Rick Riordan
+23. The Sea of Monsters by Rick Riordan
+24. The Titan's Curse by Rick Riordan
+25. The Battle of the Labyrinth by Rick Riordan
+26. The Last Olympian by Rick Riordan
+27. The Lost Hero by Rick Riordan
+28. The Son of Neptune by Rick Riordan
+29. The Mark of Athena by Rick Riordan
+30. The House of Hades by Rick Riordan
+31. The Blood of Olympus by Rick Riordan
+32. The Maze Runner: The Scorch Trials by James Dashner
+33. The Maze Runner: The Death Cure by James Dashner
+34. Insurgent by Veronica Roth
+35. Allegiant by Veronica Roth
+36. The Giver Quartet (series) by Lois Lowry
+37. The Fellowship of the Ring by J.R.R. Tolkien
+38. The Two Towers by J.R.R. Tolkien
+39. The Return of the King by J.R.R. Tolkien
+40. The Silmarillion by J.R.R. Tolkien
+41. The Children of Hurin by J.R.R. Tolkien
+42. The Hobbit: The Desolation of Smaug by J.R.R. Tolkien
+43. The Hobbit: The Battle of the Five Armies by J.R.R. Tolkien
+44. Inferno by Dan Brown
+45. Origin by Dan Brown
+46. The Lost Symbol by Dan Brown
+47. Digital Fortress by Dan Brown
+48. Deception Point by

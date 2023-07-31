@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. In This Moment
+2. Breaking Benjamin
+3. Halestorm
+4. Five Finger Death Punch
+5. Lacrimas Profundere
+6. Apocalyptica
+7. Disturbed
+8. Slipknot
+9. Stone Sour
+10. Papa Roach
+11. Seether
+12. Shinedown
+13. Three Days Grace
+14. Godsmack
+15. Skillet
+16. Trivium
+17. All That Remains
+18. Killswitch Engage
+19. As I Lay Dying
+20. Lamb of God
+21. Parkway Drive
+22. August Burns Red
+23. Miss May I
+24. Motionless in White
+25. The Amity Affliction
+26. Bring Me the Horizon
+27. Architects
+28. A Day to Remember
+29. Memphis May Fire
+30. Crown the Empire
+31. We Came as Romans
+32. Of Mice & Men
+33. The Devil Wears Prada
+34. Asking Alexandria
+35. Escape the Fate
+36. Falling in Reverse
+37. My Chemical Romance
+38. Green Day
+39. Nirvana
+40. Foo Fighters
+41. Red Hot Chili Peppers
+42. Pearl Jam
+43. Soundgarden
+44. Alice in Chains
+45. Stone Temple Pilots
+46. Guns N' Roses
+47. AC/DC
+48. Led Zeppelin
+49. Black Sabbath
+50. Iron Maiden

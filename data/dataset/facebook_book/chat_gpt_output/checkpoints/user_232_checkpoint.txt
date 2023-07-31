@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Infinite Jest by David Foster Wallace
+2. The Catcher in the Rye by J.D. Salinger
+3. 1984 by George Orwell
+4. Slaughterhouse-Five by Kurt Vonnegut
+5. To Kill a Mockingbird by Harper Lee
+6. The Great Gatsby by F. Scott Fitzgerald
+7. The Road by Cormac McCarthy
+8. The Stranger by Albert Camus
+9. One Hundred Years of Solitude by Gabriel Garcia Marquez
+10. The Bell Jar by Sylvia Plath
+11. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+12. The Sun Also Rises by Ernest Hemingway
+13. The Picture of Dorian Gray by Oscar Wilde
+14. The Sound and the Fury by William Faulkner
+15. Brave New World by Aldous Huxley
+16. Crime and Punishment by Fyodor Dostoyevsky
+17. Lolita by Vladimir Nabokov
+18. The Grapes of Wrath by John Steinbeck
+19. The Old Man and the Sea by Ernest Hemingway
+20. The Trial by Franz Kafka
+21. Heart of Darkness by Joseph Conrad
+22. The Fountainhead by Ayn Rand
+23. The Lord of the Rings by J.R.R. Tolkien
+24. The Hobbit by J.R.R. Tolkien
+25. The Chronicles of Narnia by C.S. Lewis
+26. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+27. The Martian Chronicles by Ray Bradbury
+28. The War of the Worlds by H.G. Wells
+29. The Time Machine by H.G. Wells
+30. The Invisible Man by H.G. Wells
+31. The Island of Dr. Moreau by H.G. Wells
+32. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+33. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+34. The Hound of the Baskervilles by Arthur Conan Doyle
+35. The Count of Monte Cristo by Alexandre Dumas
+36. Les Misérables by Victor Hugo
+37. The Three Musketeers by Alexandre Dumas
+38. The Iliad by Homer
+39. The Odyssey by Homer
+40. Beowulf by Unknown
+41. The Divine Comedy by Dante Alighieri
+42. Paradise Lost by John Milton
+43. Don Quixote by Miguel de Cervantes
+44. The Canterbury Tales by Geoffrey Chaucer
+45. The Decameron by Giovanni Boccaccio
+46. The Prince by Niccolò Machiavelli
+47. The Republic by Plato
+48. The Wealth of Nations by Adam Smith
+49. The Communist Manifesto by Karl Marx and Friedrich Engels
+50. The Bible by Various

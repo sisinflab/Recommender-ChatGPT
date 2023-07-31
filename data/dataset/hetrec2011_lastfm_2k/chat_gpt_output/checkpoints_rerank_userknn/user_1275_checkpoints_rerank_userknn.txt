@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Nirvana
+3. The Beatles
+4. Pink Floyd
+5. Led Zeppelin
+6. The Rolling Stones
+7. Jimi Hendrix
+8. The Doors
+9. David Bowie
+10. Queen
+11. The Who
+12. Bob Dylan
+13. Arcade Fire
+14. The Strokes
+15. Muse
+16. The Killers
+17. Franz Ferdinand
+18. Yeah Yeah Yeahs
+19. The White Stripes
+20. Oasis
+21. Kings of Leon
+22. Arctic Monkeys
+23. U2
+24. The Kinks
+25. The Police
+26. Black Sabbath
+27. AC/DC
+28. Guns N' Roses
+29. Foo Fighters
+30. Stone Temple Pilots
+31. Janis Joplin
+32. Stevie Wonder
+33. Marvin Gaye
+34. Ray Charles
+35. Sam Cooke
+36. Patti Smith
+37. Neil Young
+38. Lou Reed
+39. Syd Barrett
+40. The Velvet Underground
+41. Howlin' Wolf
+42. Muddy Waters
+43. Aretha Franklin
+44. Ray LaMontagne
+45. Stereolab
+46. Animal Collective
+47. Kanye West
+48. Depeche Mode
+49. Cabaret Voltaire
+50. XTC

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations are:
+
+1. Iron Maiden
+2. Nightwish
+3. Children of Bodom
+4. Sonata Arctica
+5. Kamelot
+6. In Flames
+7. Epica
+8. Arch Enemy
+9. Delain
+10. Lacuna Coil
+11. Leaves' Eyes
+12. Therion
+13. Eluveitie
+14. Rammstein
+15. Slipknot
+16. Linkin Park
+17. Norther
+18. Cradle of Filth
+19. Disturbed
+20. Slayer
+21. Ozzy Osbourne
+22. Megadeth
+23. Avantasia
+24. HammerFall
+25. Blind Guardian
+26. Scorpions
+27. Queen
+28. Pink Floyd
+29. The Beatles
+30. Johnny Cash
+31. Blackmore's Night
+32. Dire Straits
+33. AC/DC
+34. Judas Priest
+35. Apocalyptica
+36. Angra
+37. Within Temptation
+38. Opeth
+39. Ayreon
+40. Nevermore
+41. Anathema
+42. Agalloch
+43. Devin Townsend
+44. Porcupine Tree
+45. Hans Zimmer
+46. Andrea Bocelli
+47. Sarah Brightman
+48. Dido
+49. Alanis Morissette
+50. Shakira

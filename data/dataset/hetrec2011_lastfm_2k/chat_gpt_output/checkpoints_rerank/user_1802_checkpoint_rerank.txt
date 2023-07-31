@@ -1,0 +1,54 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Death Cab for Cutie
+2. Snow Patrol
+3. Dashboard Confessional
+4. Third Eye Blind
+5. Motion City Soundtrack
+6. Say Anything
+7. Mae
+8. Jimmy Eat World
+9. The Fray
+10. The Hush Sound
+11. Taking Back Sunday
+12. Panic! At the Disco
+13. Brand New
+14. The Rocket Summer
+15. New Found Glory
+16. The Postal Service
+17. Incubus
+18. Sufjan Stevens
+19. Elliott Smith
+20. Paramore
+21. T.I.
+22. Plain White T's
+23. The Killers
+24. Red Hot Chili Peppers
+25. Coldplay
+26. John Mayer
+27. Yellowcard
+28. Dave Matthews Band
+29. Sheryl Crow
+30. Copeland
+31. Muse
+32. Radiohead
+33. Nirvana
+34. Pearl Jam
+35. Led Zeppelin
+36. Metallica
+37. Iron Maiden
+38. Pink Floyd
+39. U2
+40. Duran Duran
+41. Arctic Monkeys
+42. Placebo
+43. Blur
+44. Michael Jackson
+45. Madonna
+46. Beyoncé
+47. Lady Gaga
+48. Christina Aguilera
+49. Rihanna
+50. Shakira
+
+Note: Paramore was already included in the user's preferences, so it was not added again to the recommendations.

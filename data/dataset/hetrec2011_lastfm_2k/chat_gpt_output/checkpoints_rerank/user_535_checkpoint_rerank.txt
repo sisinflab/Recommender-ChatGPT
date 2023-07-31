@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Backstreet Boys
+2. Matchbox Twenty
+3. Jay Vaquer
+4. Bryan Adams
+5. Bon Jovi
+6. Nickelback
+7. Aerosmith
+8. Capital Inicial
+9. The Calling
+10. Jason Mraz
+11. Lenine
+12. John Mayer
+13. Three Days Grace
+14. Sara Bareilles
+15. Joss Stone
+16. Colbie Caillat
+17. Lady Gaga
+18. Mariah Carey
+19. Jessie James
+20. Strike
+21. Within Temptation
+22. Adam Lambert
+23. 3 Doors Down
+24. Roxette
+25. David Guetta
+26. Nelly Furtado
+27. Muse
+28. Pink Floyd
+29. U2
+30. Evanescence
+31. Radiohead
+32. Ke$ha
+33. Coldplay
+34. Arctic Monkeys
+35. Placebo
+36. The Killers
+37. Nirvana
+38. Iron Maiden
+39. Led Zeppelin
+40. Metallica
+41. Michael Jackson
+42. Pearl Jam
+43. a-ha
+44. Björk
+45. System of a Down
+46. Daft Punk
+47. Nine Inch Nails
+48. Linkin Park
+49. Avril Lavigne
+50. Taylor Swift

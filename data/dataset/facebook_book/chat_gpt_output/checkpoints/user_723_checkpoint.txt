@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Interview with the Vampire by Anne Rice
+2. Salem's Lot by Stephen King
+3. Let the Right One In by John Ajvide Lindqvist
+4. The Historian by Elizabeth Kostova
+5. The Strain by Guillermo del Toro and Chuck Hogan
+6. I Am Legend by Richard Matheson
+7. The Vampire Lestat by Anne Rice
+8. The Shining by Stephen King
+9. Frankenstein by Mary Shelley
+10. The Picture of Dorian Gray by Oscar Wilde
+11. The Haunting of Hill House by Shirley Jackson
+12. The Exorcist by William Peter Blatty
+13. The Silence of the Lambs by Thomas Harris
+14. The Girl with All the Gifts by M.R. Carey
+15. The Road by Cormac McCarthy
+16. The Stand by Stephen King
+17. The Dark Tower series by Stephen King
+18. The Complete Tales and Poems of Edgar Allan Poe
+19. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+20. The Call of Cthulhu and Other Weird Stories by H.P. Lovecraft
+21. The Complete Works of William Shakespeare
+22. The Iliad and The Odyssey by Homer
+23. The Divine Comedy by Dante Alighieri
+24. The Canterbury Tales by Geoffrey Chaucer
+25. The Hobbit by J.R.R. Tolkien
+26. The Lord of the Rings trilogy by J.R.R. Tolkien
+27. The Chronicles of Narnia series by C.S. Lewis
+28. Harry Potter series by J.K. Rowling
+29. The Hunger Games trilogy by Suzanne Collins
+30. Divergent trilogy by Veronica Roth
+31. The Maze Runner series by James Dashner
+32. The Giver by Lois Lowry
+33. The Fault in Our Stars by John Green
+34. To Kill a Mockingbird by Harper Lee
+35. 1984 by George Orwell
+36. Animal Farm by George Orwell
+37. Brave New World by Aldous Huxley
+38. Fahrenheit 451 by Ray Bradbury
+39. The Catcher in the Rye by J.D. Salinger
+40. Lord of the Flies by William Golding
+41. The Great Gatsby by F. Scott Fitzgerald
+42. One Hundred Years of Solitude by Gabriel Garcia Marquez
+43. Love in the Time of Cholera by Gabriel Garcia Marquez
+44. Crime and Punishment by Fyodor Dostoevsky
+45. The Brothers Karamazov by Fyodor Dostoevsky
+46. War and Peace by Leo Tolstoy
+47. Anna Karenina by Leo Tolstoy
+48. The Count of Monte Cristo by Alexandre Dumas
+49. Les Miserables by Victor

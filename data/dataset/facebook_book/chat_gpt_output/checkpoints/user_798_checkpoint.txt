@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Mockingjay by Suzanne Collins
+3. Divergent by Veronica Roth
+4. Insurgent by Veronica Roth
+5. The Fault in Our Stars by John Green
+6. The Maze Runner by James Dashner
+7. The Scorch Trials by James Dashner
+8. The Death Cure by James Dashner
+9. The Giver by Lois Lowry
+10. The Book Thief by Markus Zusak
+11. The Chronicles of Narnia by C.S. Lewis
+12. The Lord of the Rings by J.R.R. Tolkien
+13. The Hobbit by J.R.R. Tolkien
+14. The Da Vinci Code by Dan Brown
+15. Angels and Demons by Dan Brown
+16. The Girl with the Dragon Tattoo by Stieg Larsson
+17. The Girl Who Played with Fire by Stieg Larsson
+18. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+19. The Shining by Stephen King
+20. Carrie by Stephen King
+21. The Stand by Stephen King
+22. The Dark Tower by Stephen King
+23. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+24. Ender's Game by Orson Scott Card
+25. The Ender's Shadow series by Orson Scott Card
+26. The Percy Jackson series by Rick Riordan
+27. The Heroes of Olympus series by Rick Riordan
+28. The Kane Chronicles series by Rick Riordan
+29. The Mortal Instruments series by Cassandra Clare
+30. The Infernal Devices series by Cassandra Clare
+31. The Twilight series by Stephenie Meyer
+32. The Host by Stephenie Meyer
+33. The Selection series by Kiera Cass
+34. The Lunar Chronicles series by Marissa Meyer
+35. The Maze of Bones by Rick Riordan
+36. The 39 Clues series by various authors
+37. The Secret Series by Enid Blyton
+38. The Famous Five series by Enid Blyton
+39. The Nancy Drew series by Carolyn Keene
+40. The Hardy Boys series by Franklin W. Dixon
+41. The Boxcar Children series by Gertrude Chandler Warner
+42. The Magic Tree House series by Mary Pope Osborne
+43. The Babysitters Club series by Ann M. Martin
+44. The Goosebumps series by R.L. Stine
+45. The Fear Street series by R.L. Stine
+46. The Animorphs series by K.A. Applegate
+47. The Baby-Sitters Little Sister series by Ann M. Martin
+48. The Baby-Sitters Club Mysteries series by Ann M. Martin
+49. The Baby-Sitters Club Super Special series by Ann M. Martin
+50. The Baby-Sitters Club Friends Forever series by Ann M

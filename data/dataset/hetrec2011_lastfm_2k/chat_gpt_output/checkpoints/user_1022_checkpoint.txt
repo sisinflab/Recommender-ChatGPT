@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Panic! At The Disco
+2. Maroon 5
+3. OneRepublic
+4. Imagine Dragons
+5. Ed Sheeran
+6. The Killers
+7. Coldplay
+8. Muse
+9. Arctic Monkeys
+10. Twenty One Pilots
+11. Green Day
+12. Paramore
+13. The 1975
+14. Hozier
+15. Florence + The Machine
+16. Red Hot Chili Peppers
+17. Foo Fighters
+18. Linkin Park
+19. Nirvana
+20. Radiohead
+21. The Strokes
+22. Vampire Weekend
+23. Weezer
+24. The Black Keys
+25. Kings of Leon
+26. The Fray
+27. Train
+28. Matchbox Twenty
+29. Goo Goo Dolls
+30. Lifehouse
+31. Nickelback
+32. Daughtry
+33. Shinedown
+34. Three Days Grace
+35. Breaking Benjamin
+36. Seether
+37. Theory of a Deadman
+38. Stone Sour
+39. Papa Roach
+40. Skillet
+41. Disturbed
+42. Slipknot
+43. System of a Down
+44. Korn
+45. Avenged Sevenfold
+46. Metallica
+47. Guns N' Roses
+48. AC/DC
+49. Led Zeppelin
+50. Pink Floyd

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Batman: The Dark Knight Returns by Frank Miller
+2. Watchmen by Alan Moore and Dave Gibbons
+3. V for Vendetta by Alan Moore and David Lloyd
+4. The Sandman by Neil Gaiman
+5. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+6. The Lord of the Rings by J.R.R. Tolkien
+7. The Hobbit by J.R.R. Tolkien
+8. The Chronicles of Narnia by C.S. Lewis
+9. Harry Potter and the Philosopher's Stone by J.K. Rowling
+10. Harry Potter and the Chamber of Secrets by J.K. Rowling
+11. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+12. Harry Potter and the Goblet of Fire by J.K. Rowling
+13. Harry Potter and the Order of Phoenix by J.K. Rowling
+14. Harry Potter and the Half-Blood Prince by J.K. Rowling
+15. Harry Potter and the Deathly Hallows by J.K. Rowling
+16. The Hunger Games by Suzanne Collins
+17. Catching Fire by Suzanne Collins
+18. Mockingjay by Suzanne Collins
+19. Divergent by Veronica Roth
+20. Insurgent by Veronica Roth
+21. Allegiant by Veronica Roth
+22. The Maze Runner by James Dashner
+23. The Scorch Trials by James Dashner
+24. The Death Cure by James Dashner
+25. The Fault in Our Stars by John Green
+26. Paper Towns by John Green
+27. Looking for Alaska by John Green
+28. The Perks of Being a Wallflower by Stephen Chbosky
+29. The Girl with the Dragon Tattoo by Stieg Larsson
+30. The Girl Who Played with Fire by Stieg Larsson
+31. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+32. The Da Vinci Code by Dan Brown
+33. Angels and Demons by Dan Brown
+34. Inferno by Dan Brown
+35. The Bourne Identity by Robert Ludlum
+36. The Bourne Supremacy by Robert Ludlum
+37. The Bourne Ultimatum by Robert Ludlum
+38. The Girl on the Train by Paula Hawkins
+39. Gone Girl by Gillian Flynn
+40. The Shining by Stephen King
+41. It by Stephen King
+42. The Stand by Stephen King
+43. Carrie by Stephen King
+44. Misery by Stephen King
+45. The Gunslinger by Stephen King
+46. The Drawing of the Three by Stephen King
+47. The Waste Lands by Stephen King
+48. Wizard and Glass by Stephen King
+49. Wolves of the Calla by Stephen King
+50. Song of Susannah by Stephen King

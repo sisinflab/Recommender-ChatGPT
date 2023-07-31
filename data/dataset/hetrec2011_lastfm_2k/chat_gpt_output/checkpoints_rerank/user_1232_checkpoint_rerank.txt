@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Depeche Mode
+2. Joy Division
+3. Siouxsie and the Banshees
+4. David Bowie
+5. Clan of Xymox
+6. Cocteau Twins
+7. Morrissey
+8. Dave Gahan
+9. New Order
+10. Echo & The Bunnymen
+11. Gary Numan
+12. Editors
+13. Sigur Rós
+14. Suede
+15. Dead Can Dance
+16. Placebo
+17. Adam and the Ants
+18. Martin L. Gore
+19. And One
+20. The Smiths
+21. Radiohead
+22. The Cure
+23. Muse
+24. Pink Floyd
+25. Nirvana
+26. Iron Maiden
+27. Led Zeppelin
+28. Metallica
+29. Michael Jackson
+30. Pearl Jam
+31. a-ha
+32. Björk
+33. System of a Down
+34. Nine Inch Nails
+35. Linkin Park
+36. Avenged Sevenfold
+37. My Chemical Romance
+38. Green Day
+39. Coldplay
+40. Blur
+41. Arctic Monkeys
+42. The Killers
+43. U2
+44. Duran Duran
+45. Madonna
+46. Lady Gaga
+47. Christina Aguilera
+48. Shakira
+49. Katy Perry
+50. Taylor Swift

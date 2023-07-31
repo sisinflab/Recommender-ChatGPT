@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Brave New World by Aldous Huxley
+2. 1984 by George Orwell
+3. Frankenstein by Mary Shelley
+4. The Picture of Dorian Gray by Oscar Wilde
+5. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+6. Animal Farm by George Orwell
+7. The Bell Jar by Sylvia Plath
+8. Memoirs of a Geisha by Arthur Golden
+9. The Stranger by Albert Camus
+10. Inferno by Dante Alighieri
+11. The Catcher in the Rye by J.D. Salinger
+12. Lolita by Vladimir Nabokov
+13. A Clockwork Orange by Anthony Burgess
+14. The Island of Doctor Moreau by H.G. Wells
+15. To Kill a Mockingbird by Harper Lee
+16. Red Dragon by Thomas Harris
+17. The Giver by Lois Lowry
+18. City of Bones by Cassandra Clare
+19. The Shadow of the Wind by Carlos Ruiz Zafón
+20. The Divine Comedy by Dante Alighieri
+21. Les Misérables by Victor Hugo
+22. Adventures of Huckleberry Finn by Mark Twain
+23. Alice's Adventures in Wonderland by Lewis Carroll
+24. Wuthering Heights by Emily Bronte
+25. Dune by Frank Herbert
+26. The Other Boleyn Girl by Philippa Gregory
+27. Earthsea by Ursula K. Le Guin
+28. The Sevenwaters Trilogy by Juliet Marillier
+29. The Outsiders by S.E. Hinton
+30. The Fountainhead by Ayn Rand
+31. Eat, Pray, Love by Elizabeth Gilbert
+32. The Zombie Survival Guide by Max Brooks
+33. Torah Or by Rabbi Shimon bar Yochai
+34. Bible by Various Authors
+35. Quran by Various Authors
+36. Starship Troopers by Robert A. Heinlein
+37. Beauty Pop by Kiyoko Arai
+38. Black Butler by Yana Toboso
+39. Chibi Vampire by Yuna Kagesaki
+40. Manga by Various Authors
+41. The Hamlet by William Faulkner
+42. Darkest Powers by Kelley Armstrong
+43. Stargirl by Jerry Spinelli
+44. Book of Revelation by John of Patmos
+45. The Mists of Avalon by Marion Zimmer Bradley
+46. Battle Royale by Koushun Takami
+47. Cosmos by Carl Sagan
+48. Diary by Chuck Palahniuk
+49. The Seventh Tower by Garth Nix
+50. Atlas Shrugged by Ayn Rand

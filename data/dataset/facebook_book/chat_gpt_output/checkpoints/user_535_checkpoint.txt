@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. To Kill a Mockingbird by Harper Lee
+4. The Great Gatsby by F. Scott Fitzgerald
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Bell Jar by Sylvia Plath
+7. The Picture of Dorian Gray by Oscar Wilde
+8. The Stranger by Albert Camus
+9. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+10. The Road by Cormac McCarthy
+11. The Handmaid's Tale by Margaret Atwood
+12. The Sun Also Rises by Ernest Hemingway
+13. The Old Man and the Sea by Ernest Hemingway
+14. The Grapes of Wrath by John Steinbeck
+15. East of Eden by John Steinbeck
+16. The Brothers Karamazov by Fyodor Dostoevsky
+17. Crime and Punishment by Fyodor Dostoevsky
+18. The Idiot by Fyodor Dostoevsky
+19. The Trial by Franz Kafka
+20. The Metamorphosis by Franz Kafka
+21. Heart of Darkness by Joseph Conrad
+22. Lord Jim by Joseph Conrad
+23. The Secret Agent by Joseph Conrad
+24. The Catcher in the Rye by J.D. Salinger
+25. Slaughterhouse-Five by Kurt Vonnegut
+26. In Cold Blood by Truman Capote
+27. The Count of Monte Cristo by Alexandre Dumas
+28. Oil! by Upton Sinclair
+29. Lord of the Flies by William Golding
+30. The Zombie Survival Guide by Max Brooks
+31. A Clockwork Orange by Anthony Burgess
+32. Brave New World by Aldous Huxley
+33. Fahrenheit 451 by Ray Bradbury
+34. The Martian Chronicles by Ray Bradbury
+35. The Chronicles of Narnia by C.S. Lewis
+36. The Lord of the Rings by J.R.R. Tolkien
+37. The Hobbit by J.R.R. Tolkien
+38. The Silmarillion by J.R.R. Tolkien
+39. The Name of the Wind by Patrick Rothfuss
+40. The Wise Man's Fear by Patrick Rothfuss
+41. The Lies of Locke Lamora by Scott Lynch
+42. The Blade Itself by Joe Abercrombie
+43. The Way of Kings by Brandon Sanderson
+44. Mistborn by Brandon Sanderson
+45. The Final Empire by Brandon Sanderson
+46. The Lies of Locke Lamora by Scott Lynch
+47. The Blade Itself by Joe Abercrombie
+48. The Way of Kings by Brandon Sanderson
+49. Mistborn by Brandon Sanderson
+50. The Final Empire by Brandon Sanderson

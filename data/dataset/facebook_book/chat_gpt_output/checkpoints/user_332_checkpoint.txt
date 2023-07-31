@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. Brave New World by Aldous Huxley
+4. The Catcher in the Rye by J.D. Salinger
+5. Lord of the Flies by William Golding
+6. One Hundred Years of Solitude by Gabriel Garcia Marquez
+7. Crime and Punishment by Fyodor Dostoevsky
+8. The Brothers Karamazov by Fyodor Dostoevsky
+9. The Trial by Franz Kafka
+10. The Metamorphosis by Franz Kafka
+11. The Stranger by Albert Camus
+12. The Plague by Albert Camus
+13. The Bell Jar by Sylvia Plath
+14. Slaughterhouse-Five by Kurt Vonnegut
+15. Cat's Cradle by Kurt Vonnegut
+16. The Road by Cormac McCarthy
+17. Blood Meridian by Cormac McCarthy
+18. The Name of the Rose by Umberto Eco
+19. The Shadow of the Wind by Carlos Ruiz Zafón
+20. The Book Thief by Markus Zusak
+21. The Kite Runner by Khaled Hosseini
+22. A Thousand Splendid Suns by Khaled Hosseini
+23. The God of Small Things by Arundhati Roy
+24. The Handmaid's Tale by Margaret Atwood
+25. The Hitchhiker's Guide to the Galaxy series by Douglas Adams
+26. The Hobbit by J.R.R. Tolkien
+27. The Lord of the Rings trilogy by J.R.R. Tolkien
+28. The Chronicles of Narnia series by C.S. Lewis
+29. The Dark Tower series by Stephen King
+30. The Shining by Stephen King
+31. It by Stephen King
+32. The Silence of the Lambs by Thomas Harris
+33. The Girl with the Dragon Tattoo by Stieg Larsson
+34. The Da Vinci Code by Dan Brown
+35. The Hunger Games trilogy by Suzanne Collins
+36. The Maze Runner series by James Dashner
+37. The Giver by Lois Lowry
+38. The Outsiders by S.E. Hinton
+39. The Fault in Our Stars by John Green
+40. The Perks of Being a Wallflower by Stephen Chbosky
+41. The Picture of Dorian Gray by Oscar Wilde
+42. Heart of Darkness by Joseph Conrad
+43. The Great Gatsby by F. Scott Fitzgerald
+44. To Kill a Mockingbird by Harper Lee
+45. The Adventures of Huckleberry Finn by Mark Twain
+46. The Adventures of Tom Sawyer by Mark Twain
+47. The War of the Worlds by H.G. Wells
+48. The Time Machine by H.G. Wells
+49. Frankenstein by Mary Shelley
+50. Dr

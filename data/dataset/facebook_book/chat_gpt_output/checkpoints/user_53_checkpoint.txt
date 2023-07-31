@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. The Hunger Games by Suzanne Collins
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Lord of the Flies by William Golding
+6. Animal Farm by George Orwell
+7. Brave New World by Aldous Huxley
+8. The Road by Cormac McCarthy
+9. The Handmaid's Tale by Margaret Atwood
+10. The Giver by Lois Lowry
+11. The Maze Runner by James Dashner
+12. The Fault in Our Stars by John Green
+13. The Book Thief by Markus Zusak
+14. The Girl with the Dragon Tattoo by Stieg Larsson
+15. The Da Vinci Code by Dan Brown
+16. The Help by Kathryn Stockett
+17. The Lovely Bones by Alice Sebold
+18. The Kite Runner by Khaled Hosseini
+19. The Hobbit by J.R.R. Tolkien
+20. The Lord of the Rings by J.R.R. Tolkien
+21. The Chronicles of Narnia by C.S. Lewis
+22. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+23. The Alchemist by Paulo Coelho
+24. The Picture of Dorian Gray by Oscar Wilde
+25. The Count of Monte Cristo by Alexandre Dumas
+26. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+27. The Time Machine by H.G. Wells
+28. The War of the Worlds by H.G. Wells
+29. The Invisible Man by H.G. Wells
+30. The Island of Dr. Moreau by H.G. Wells
+31. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+32. The Adventures of Tom Sawyer by Mark Twain
+33. The Adventures of Huckleberry Finn by Mark Twain
+34. The Picture of Dorian Gray by Oscar Wilde
+35. The Portrait of a Lady by Henry James
+36. The Turn of the Screw by Henry James
+37. The Scarlet Letter by Nathaniel Hawthorne
+38. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+39. The Hound of the Baskervilles by Arthur Conan Doyle
+40. The Valley of Fear by Arthur Conan Doyle
+41. The Sign of Four by Arthur Conan Doyle
+42. The Adventures of Pinocchio by Carlo Collodi
+43. The Wonderful Wizard of Oz by L. Frank Baum
+44. The Wind in the Willows by Kenneth Grahame
+45. The Secret Garden by Frances Hodgson Burnett
+46. Little Women by Louisa May Alcott
+47. Anne of Green Gables by L.M. Montgomery
+48. The Swiss Family Robinson by Johann David Wyss
+49. Robinson Crusoe by Daniel Def

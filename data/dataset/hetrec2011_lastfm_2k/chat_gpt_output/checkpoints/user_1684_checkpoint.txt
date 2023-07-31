@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. One Direction
+2. Justin Bieber
+3. Ariana Grande
+4. Shawn Mendes
+5. Ed Sheeran
+6. Demi Lovato
+7. Selena Gomez
+8. Katy Perry
+9. Bruno Mars
+10. The Weeknd
+11. Imagine Dragons
+12. Halsey
+13. Billie Eilish
+14. Twenty One Pilots
+15. Lorde
+16. Camila Cabello
+17. Khalid
+18. Post Malone
+19. Dua Lipa
+20. Taylor Swift (more recent albums)
+21. Harry Styles
+22. Zayn
+23. Niall Horan
+24. Liam Payne
+25. Louis Tomlinson
+26. Little Mix
+27. Fifth Harmony
+28. Blackpink
+29. BTS
+30. EXO
+31. Red Velvet
+32. Twice
+33. Girls' Generation
+34. Super Junior
+35. SHINee
+36. Big Bang
+37. 2NE1
+38. CLC
+39. (G)I-DLE
+40. ITZY
+41. Mamamoo
+42. Oh My Girl
+43. GFriend
+44. Apink
+45. IU
+46. Taeyeon
+47. Sunmi
+48. Hyuna
+49. Jessi
+50. Ailee

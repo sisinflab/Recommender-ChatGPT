@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. The Time Machine by H.G. Wells
+5. The Alchemist by Paulo Coelho
+6. The Kite Runner by Khaled Hosseini
+7. The Secret Life of Bees by Sue Monk Kidd
+8. The Girl with the Dragon Tattoo by Stieg Larsson
+9. The Wind-Up Bird Chronicle by Haruki Murakami
+10. The Sound and the Fury by William Faulkner
+11. Lolita by Vladimir Nabokov
+12. The Neverending Story by Michael Ende
+13. The Giver by Lois Lowry
+14. A Thousand Splendid Suns by Khaled Hosseini
+15. The Pearl by John Steinbeck
+16. Romeo and Juliet by William Shakespeare
+17. The Winter's Tale by William Shakespeare
+18. The Sandman by Neil Gaiman
+19. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+20. The Rime of the Ancient Mariner by Samuel Taylor Coleridge
+21. The Tipping Point by Malcolm Gladwell
+22. The Five People You Meet in Heaven by Mitch Albom
+23. The Shadow of the Wind by Carlos Ruiz Zafón
+24. The Hundred Secret Senses by Amy Tan
+25. The God Delusion by Richard Dawkins
+26. The Story of My Experiments with Truth by Mahatma Gandhi
+27. The Zahir by Paulo Coelho
+28. The Vampire Lestat by Anne Rice
+29. The Girls' Guide to Hunting and Fishing by Melissa Bank
+30. The Wind in the Willows by Kenneth Grahame
+31. The Gargoyle by Andrew Davidson
+32. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+33. The Bell Jar by Sylvia Plath
+34. The Picture of Dorian Gray by Oscar Wilde
+35. The Road by Cormac McCarthy
+36. The Stranger by Albert Camus
+37. The Brothers Karamazov by Fyodor Dostoevsky
+38. The Odyssey by Homer
+39. The Iliad by Homer
+40. The Divine Comedy by Dante Alighieri
+41. The Canterbury Tales by Geoffrey Chaucer
+42. The Inferno by Dante Alighieri
+43. The Republic by Plato
+44. The Prince by Niccolò Machiavelli
+45. The Art of War by Sun Tzu
+46. The 48 Laws of Power by Robert Greene
+47. The Book of Five Rings by Miyamoto Musashi
+48. The Tao Te Ching by Lao Tzu
+49. The Analects by Confucius

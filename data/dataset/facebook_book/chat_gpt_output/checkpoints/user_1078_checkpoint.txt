@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Angels and Demons by Dan Brown
+2. Interview with the Vampire by Anne Rice
+3. The Vampire Lestat by Anne Rice
+4. Memnoch the Devil by Anne Rice
+5. The Mummy by Anne Rice
+6. The Witching Hour by Anne Rice
+7. The Fellowship of the Ring by J.R.R. Tolkien
+8. The Two Towers by J.R.R. Tolkien
+9. The Return of the King by J.R.R. Tolkien
+10. The Silmarillion by J.R.R. Tolkien
+11. The Children of Hurin by J.R.R. Tolkien
+12. The Hobbit and The Lord of the Rings Boxed Set by J.R.R. Tolkien
+13. The Chronicles of Narnia by C.S. Lewis
+14. The Hunger Games by Suzanne Collins
+15. Catching Fire by Suzanne Collins
+16. Mockingjay by Suzanne Collins
+17. Divergent by Veronica Roth
+18. Insurgent by Veronica Roth
+19. Allegiant by Veronica Roth
+20. The Maze Runner by James Dashner
+21. The Scorch Trials by James Dashner
+22. The Death Cure by James Dashner
+23. The Kill Order by James Dashner
+24. The Giver by Lois Lowry
+25. Gathering Blue by Lois Lowry
+26. Messenger by Lois Lowry
+27. Son by Lois Lowry
+28. The Girl with the Dragon Tattoo by Stieg Larsson
+29. The Girl Who Played with Fire by Stieg Larsson
+30. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+31. The Bourne Identity by Robert Ludlum
+32. The Bourne Supremacy by Robert Ludlum
+33. The Bourne Ultimatum by Robert Ludlum
+34. The Bourne Legacy by Eric Van Lustbader
+35. The Bourne Betrayal by Eric Van Lustbader
+36. The Bourne Sanction by Eric Van Lustbader
+37. The Bourne Deception by Eric Van Lustbader
+38. The Bourne Objective by Eric Van Lustbader
+39. The Bourne Dominion by Eric Van Lustbader
+40. The Bourne Imperative by Eric Van Lustbader
+41. The Bourne Retribution by Eric Van Lustbader
+42. The Bourne Ascendancy by Eric Van Lustbader
+43. The Bourne Enigma by Eric Van Lustbader
+44. The Bourne Initiative by Eric Van Lustbader
+45. The Bourne Nemesis by Eric Van Lustbader
+46. The Bourne Evolution by Brian Freeman
+47. The Bourne Treachery by Brian Freeman
+48. The Bourne Reprisal by Brian Freeman
+49. The Bourne Asc
+50. The Wise Man's Fear by Patrick Rothfuss

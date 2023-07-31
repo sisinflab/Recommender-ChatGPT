@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+2. The Handmaid's Tale by Margaret Atwood
+3. The Road by Cormac McCarthy
+4. The Catcher in the Rye by J.D. Salinger
+5. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+6. 1984 by George Orwell
+7. Brave New World by Aldous Huxley
+8. The Martian by Andy Weir
+9. The Girl with the Dragon Tattoo by Stieg Larsson
+10. The Hunger Games by Suzanne Collins
+11. The Da Vinci Code by Dan Brown
+12. The Name of the Wind by Patrick Rothfuss
+13. The Shadow of the Wind by Carlos Ruiz Zafón
+14. The Picture of Dorian Gray by Oscar Wilde
+15. The Great Gatsby by F. Scott Fitzgerald
+16. The Lord of the Rings by J.R.R. Tolkien
+17. The Hobbit by J.R.R. Tolkien
+18. The Chronicles of Narnia by C.S. Lewis
+19. The Dark Tower series by Stephen King
+20. The Stand by Stephen King
+21. The Shining by Stephen King
+22. The Silence of the Lambs by Thomas Harris
+23. The Girl on the Train by Paula Hawkins
+24. The Help by Kathryn Stockett
+25. The Color Purple by Alice Walker
+26. The Joy Luck Club by Amy Tan
+27. The Kite Runner by Khaled Hosseini
+28. The Alchemist by Paulo Coelho
+29. The Secret Life of Bees by Sue Monk Kidd
+30. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+31. The Poisonwood Bible by Barbara Kingsolver
+32. The Time Traveler's Wife by Audrey Niffenegger
+33. The Lovely Bones by Alice Sebold
+34. The Book Thief by Markus Zusak
+35. The Fault in Our Stars by John Green
+36. The Perks of Being a Wallflower by Stephen Chbosky
+37. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+38. The Giver by Lois Lowry
+39. The Maze Runner by James Dashner
+40. The Bourne Identity by Robert Ludlum
+41. The Silence of the Sea by Yrsa Sigurðardóttir
+42. The Snowman by Jo Nesbø
+43. The Girl Who Played with Fire by Stieg Larsson
+44. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+45. The Bourne Supremacy by Robert Ludlum
+46. The Bourne Ultimatum by Robert Ludlum
+47. The Hunger Games: Catching Fire by Suzanne Collins
+48. The Hunger

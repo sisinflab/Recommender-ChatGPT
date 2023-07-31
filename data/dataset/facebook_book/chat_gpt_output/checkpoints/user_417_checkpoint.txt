@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. The Catcher in the Rye by J.D. Salinger
+3. The Girl with the Dragon Tattoo by Stieg Larsson
+4. The Hunger Games by Suzanne Collins
+5. To Kill a Mockingbird by Harper Lee
+6. The Da Vinci Code by Dan Brown
+7. The Shining by Stephen King
+8. The Great Gatsby by F. Scott Fitzgerald
+9. The Hobbit by J.R.R. Tolkien
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+12. The Chronicles of Narnia by C.S. Lewis
+13. The Road by Cormac McCarthy
+14. The Stand by Stephen King
+15. The Silence of the Lambs by Thomas Harris
+16. The Picture of Dorian Gray by Oscar Wilde
+17. The Dark Tower series by Stephen King
+18. The Harry Potter series by J.K. Rowling
+19. The Name of the Wind by Patrick Rothfuss
+20. The Wise Man's Fear by Patrick Rothfuss
+21. The Book Thief by Markus Zusak
+22. The Fault in Our Stars by John Green
+23. The Maze Runner by James Dashner
+24. The Giver by Lois Lowry
+25. The Outsiders by S.E. Hinton
+26. The Perks of Being a Wallflower by Stephen Chbosky
+27. The Road to Serfdom by Friedrich Hayek
+28. The Communist Manifesto by Karl Marx and Friedrich Engels
+29. The Wealth of Nations by Adam Smith
+30. The Republic by Plato
+31. The Prince by Niccolo Machiavelli
+32. The Art of War by Sun Tzu
+33. The Divine Comedy by Dante Alighieri
+34. The Canterbury Tales by Geoffrey Chaucer
+35. The Iliad by Homer
+36. The Odyssey by Homer
+37. The Aeneid by Virgil
+38. The Inferno by Dante Alighieri
+39. The Divine Comedy by Dante Alighieri
+40. The Canterbury Tales by Geoffrey Chaucer
+41. The Iliad by Homer
+42. The Odyssey by Homer
+43. The Aeneid by Virgil
+44. The Inferno by Dante Alighieri
+45. The Divine Comedy by Dante Alighieri
+46. The Canterbury Tales by Geoffrey Chaucer
+47. The Iliad by Homer
+48. The Odyssey by Homer
+49. The Aeneid by Virgil
+50. The Inferno by Dante Alighieri

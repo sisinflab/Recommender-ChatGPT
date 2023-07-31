@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Harry Potter series by J.K. Rowling
+2. The Lord of the Rings by J.R.R. Tolkien
+3. The Hobbit by J.R.R. Tolkien
+4. Pride and Prejudice by Jane Austen
+5. Les Misérables by Victor Hugo
+6. The Count of Monte Cristo by Alexandre Dumas
+7. Animal Farm by George Orwell
+8. Nineteen Eighty-Four by George Orwell
+9. The Kite Runner by Khaled Hosseini
+10. Memoirs of a Geisha by Arthur Golden
+11. The Alchemist by Paulo Coelho
+12. The Catcher in the Rye by J.D. Salinger
+13. A Tale of Two Cities by Charles Dickens
+14. Romeo and Juliet by William Shakespeare
+15. Othello by William Shakespeare
+16. Medea by Euripides
+17. A Midsummer Night's Dream by William Shakespeare
+18. The Secret by Rhonda Byrne
+19. The Time Traveler's Wife by Audrey Niffenegger
+20. The Lovely Bones by Alice Sebold
+21. The Lion in Winter by James Goldman
+22. The Messenger by Markus Zusak
+23. The Phantom Tollbooth by Norton Juster
+24. Charlie and the Chocolate Factory by Roald Dahl
+25. Matilda by Roald Dahl
+26. Eats, Shoots & Leaves by Lynne Truss
+27. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+28. Inferno by Dante Alighieri
+29. The Belgariad by David Eddings
+30. The Last Song by Nicholas Sparks
+31. King Leary by Paul Quarrington
+32. The Fountainhead by Ayn Rand
+33. Silas Marner by George Eliot
+34. Brain Droppings by George Carlin
+35. The Diary of a Young Girl by Anne Frank
+36. Evermore by Alyson Noël
+37. Identical by Ellen Hopkins
+38. Sun Bin's Art of War by Sun Bin
+39. The Voyage of the Dawn Treader by C.S. Lewis
+40. World Without End by Ken Follett
+41. The Hamlet by William Faulkner
+42. Miss Christina by Mircea Eliade
+43. Antigone by Sophocles
+44. Oliver Twist by Charles Dickens
+45. The Fountainhead by Ayn Rand
+46. The Inheritance Cycle by Christopher Paolini
+47. Elfquest by Wendy and Richard Pini
+48. Spud by John van de Ruit
+49. Vampire Knight by Matsuri Hino
+50. Charmed (comics) by Paul Ruditis

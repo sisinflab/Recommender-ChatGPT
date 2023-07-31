@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. System of a Down
+2. Meshuggah
+3. Killswitch Engage
+4. Mudvayne
+5. Ill Niño
+6. Parkway Drive
+7. Hatebreed
+8. August Burns Red
+9. Architects
+10. Atreyu
+11. Soulfly
+12. Protest The Hero
+13. 36 Crazyfists
+14. Staind
+15. Saosin
+16. Asking Alexandria
+17. Limp Bizkit
+18. Wu-Tang Clan
+19. Adema
+20. Rihanna
+21. Lady Gaga
+22. Beyoncé
+23. Pink Floyd
+24. Muse
+25. Radiohead
+26. Nirvana
+27. Metallica
+28. Iron Maiden
+29. Led Zeppelin
+30. Michael Jackson
+31. The Beatles
+32. U2
+33. Duran Duran
+34. Coldplay
+35. Blur
+36. Arctic Monkeys
+37. Placebo
+38. The Killers
+39. Amy Winehouse
+40. Björk
+41. Nine Inch Nails
+42. Daft Punk
+43. Linkin Park
+44. Green Day
+45. My Chemical Romance
+46. Avenged Sevenfold
+47. All Time Low
+48. P!nk
+49. Katy Perry
+50. Taylor Swift

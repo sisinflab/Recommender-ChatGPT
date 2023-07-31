@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Alchemist by Paulo Coelho
+2. 1984 by George Orwell
+3. The Great Gatsby by F. Scott Fitzgerald
+4. One Hundred Years of Solitude by Gabriel Garcia Marquez
+5. The Bell Jar by Sylvia Plath
+6. The Picture of Dorian Gray by Oscar Wilde
+7. The Kite Runner by Khaled Hosseini
+8. The Handmaid's Tale by Margaret Atwood
+9. The Stranger by Albert Camus
+10. The Road by Cormac McCarthy
+11. The God of Small Things by Arundhati Roy
+12. The Catcher in the Rye by J.D. Salinger
+13. The Name of the Wind by Patrick Rothfuss
+14. The Shadow of the Wind by Carlos Ruiz Zafón
+15. The Girl with the Dragon Tattoo by Stieg Larsson
+16. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+17. The Hunger Games by Suzanne Collins
+18. The Book Thief by Markus Zusak
+19. The Fault in Our Stars by John Green
+20. The Da Vinci Code by Dan Brown
+21. The Hobbit by J.R.R. Tolkien
+22. The Lord of the Rings by J.R.R. Tolkien
+23. The Chronicles of Narnia by C.S. Lewis
+24. The Giver by Lois Lowry
+25. The Maze Runner by James Dashner
+26. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+27. The Lovely Bones by Alice Sebold
+28. The Help by Kathryn Stockett
+29. The Secret Life of Bees by Sue Monk Kidd
+30. The Color Purple by Alice Walker
+31. The Joy Luck Club by Amy Tan
+32. The Poisonwood Bible by Barbara Kingsolver
+33. The Time Traveler's Wife by Audrey Niffenegger
+34. The 48 Laws of Power by Robert Greene
+35. The Art of War by Sun Tzu
+36. The Prince by Niccolo Machiavelli
+37. The Republic by Plato
+38. The Wealth of Nations by Adam Smith
+39. The Communist Manifesto by Karl Marx and Friedrich Engels
+40. The Tao Te Ching by Lao Tzu
+41. The Bhagavad Gita
+42. The Bible
+43. The Quran
+44. The Tibetan Book of the Dead
+45. The Teachings of Buddha
+46. The Yoga Sutras of Patanjali
+47. The Upanishads
+48. The Book of Mormon
+49. The Analects of Confucius
+50. The Tao of Pooh by Benjamin Hoff

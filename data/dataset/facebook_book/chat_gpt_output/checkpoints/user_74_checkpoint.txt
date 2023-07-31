@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Catcher in the Rye by J.D. Salinger
+3. Pride and Prejudice by Jane Austen
+4. 1984 by George Orwell
+5. The Hobbit by J.R.R. Tolkien
+6. The Lord of the Rings by J.R.R. Tolkien
+7. The Hunger Games by Suzanne Collins
+8. Harry Potter and the Philosopher's Stone by J.K. Rowling
+9. The Da Vinci Code by Dan Brown
+10. The Girl with the Dragon Tattoo by Stieg Larsson
+11. The Help by Kathryn Stockett
+12. The Fault in Our Stars by John Green
+13. The Alchemist by Paulo Coelho
+14. The Kite Runner by Khaled Hosseini
+15. The Picture of Dorian Gray by Oscar Wilde
+16. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+17. The Time Traveler's Wife by Audrey Niffenegger
+18. The Road by Cormac McCarthy
+19. The Book Thief by Markus Zusak
+20. The Lovely Bones by Alice Sebold
+21. The Shining by Stephen King
+22. The Stand by Stephen King
+23. The Silence of the Lambs by Thomas Harris
+24. The Girl on the Train by Paula Hawkins
+25. The Martian by Andy Weir
+26. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+27. The Chronicles of Narnia by C.S. Lewis
+28. The Secret Life of Bees by Sue Monk Kidd
+29. The Color Purple by Alice Walker
+30. The Joy Luck Club by Amy Tan
+31. The God of Small Things by Arundhati Roy
+32. The Picture of Dorian Gray by Oscar Wilde
+33. The Adventures of Huckleberry Finn by Mark Twain
+34. The Count of Monte Cristo by Alexandre Dumas
+35. The Three Musketeers by Alexandre Dumas
+36. The Brothers Karamazov by Fyodor Dostoevsky
+37. Crime and Punishment by Fyodor Dostoevsky
+38. Anna Karenina by Leo Tolstoy
+39. War and Peace by Leo Tolstoy
+40. One Hundred Years of Solitude by Gabriel Garcia Marquez
+41. Love in the Time of Cholera by Gabriel Garcia Marquez
+42. The Name of the Rose by Umberto Eco
+43. The Picture of Dorian Gray by Oscar Wilde
+44. The Picture of Dorian Gray by Oscar Wilde
+45. The Picture of Dorian Gray by Oscar Wilde
+46. The Picture of Dorian Gray by Oscar Wilde
+47. The Picture of Dorian Gray by Oscar Wilde
+48. The Picture of Dorian Gray by Oscar Wilde
+49. The

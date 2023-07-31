@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations are:
+
+1. Radiohead
+2. Marilyn Manson
+3. Rammstein
+4. The Cure
+5. My Chemical Romance
+6. Placebo
+7. Avril Lavigne
+8. 30 Seconds to Mars
+9. Silverstein
+10. The Birthday Massacre
+11. Beck
+12. Maxïmo Park
+13. The Killers
+14. Alexisonfire
+15. Evanescence
+16. Enter Shikari
+17. From First to Last
+18. Escape The Fate
+19. Billy Talent
+20. Linkin Park
+21. Red Hot Chili Peppers
+22. Muse
+23. Nine Inch Nails
+24. Lacuna Coil
+25. Crystal Castles
+26. Death Cab for Cutie
+27. Tegan and Sara
+28. Modest Mouse
+29. The Used
+30. Panic! At the Disco
+31. Franz Ferdinand
+32. Bloc Party
+33. Mindless Self Indulgence
+34. HammerFall
+35. Metallica
+36. Bullet for My Valentine
+37. Angels & Airwaves
+38. Elliott Smith
+39. Moby
+40. Clint Mansell
+41. Sigur Rós
+42. Beirut
+43. Belle and Sebastian
+44. The Jesus and Mary Chain
+45. Oasis
+46. Michael Jackson
+47. Pitty
+48. Katy Perry
+49. Rihanna
+50. Britney Spears

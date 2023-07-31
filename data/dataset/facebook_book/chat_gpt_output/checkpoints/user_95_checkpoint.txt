@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Fault in Our Stars by John Green
+2. Looking for Alaska by John Green
+3. Thirteen Reasons Why by Jay Asher
+4. The Perks of Being a Wallflower by Stephen Chbosky
+5. The Book Thief by Markus Zusak
+6. Eleanor & Park by Rainbow Rowell
+7. All the Bright Places by Jennifer Niven
+8. Me and Earl and the Dying Girl by Jesse Andrews
+9. The Maze Runner by James Dashner
+10. The Hunger Games by Suzanne Collins
+11. Divergent by Veronica Roth
+12. The Giver by Lois Lowry
+13. The Outsiders by S.E. Hinton
+14. To Kill a Mockingbird by Harper Lee
+15. The Secret Life of Bees by Sue Monk Kidd
+16. The Help by Kathryn Stockett
+17. The Color Purple by Alice Walker
+18. The Kite Runner by Khaled Hosseini
+19. A Thousand Splendid Suns by Khaled Hosseini
+20. The Alchemist by Paulo Coelho
+21. The Girl on the Train by Paula Hawkins
+22. Gone Girl by Gillian Flynn
+23. The Da Vinci Code by Dan Brown
+24. Angels and Demons by Dan Brown
+25. The Girl with the Dragon Tattoo by Stieg Larsson
+26. The Girl Who Played with Fire by Stieg Larsson
+27. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+28. The Bourne Identity by Robert Ludlum
+29. The Bourne Supremacy by Robert Ludlum
+30. The Bourne Ultimatum by Robert Ludlum
+31. The Silence of the Lambs by Thomas Harris
+32. Red Dragon by Thomas Harris
+33. Hannibal by Thomas Harris
+34. The Shining by Stephen King
+35. Carrie by Stephen King
+36. Misery by Stephen King
+37. The Stand by Stephen King
+38. It by Stephen King
+39. The Dark Tower I: The Gunslinger by Stephen King
+40. The Dark Tower II: The Drawing of the Three by Stephen King
+41. The Dark Tower III: The Waste Lands by Stephen King
+42. The Dark Tower IV: Wizard and Glass by Stephen King
+43. The Dark Tower V: Wolves of the Calla by Stephen King
+44. The Dark Tower VI: Song of Susannah by Stephen King
+45. The Dark Tower VII: The Dark Tower by Stephen King
+46. The Lord of the Rings by J.R.R. Tolkien
+47. The Hobbit by J.R.R. Tolkien
+48. The Chronicles of Narnia by C.S. Lewis
+49. Harry Potter and the Philosopher's Stone by J.K. Rowling
+50. Harry Potter and the Chamber of Secrets by

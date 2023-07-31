@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Paramore
+2. Avril Lavigne
+3. Green Day
+4. A Day to Remember
+5. Simple Plan
+6. The Used
+7. Escape The Fate
+8. Boys Like Girls
+9. A Skylit Drive
+10. From First to Last
+11. Alexisonfire
+12. Alesana
+13. Cute Is What We Aim For
+14. Gloria
+15. Fresno
+16. NX Zero
+17. Forfun
+18. Before Their Eyes
+19. City and Colour
+20. Emarosa
+21. nevershoutnever!
+22. Kaiser Chiefs
+23. Band of Horses
+24. Panic! At the Disco
+25. O Teatro Mágico
+26. Flyleaf
+27. Cueio Limão
+28. OneRepublic
+29. New Found Glory
+30. Beeshop
+31. Scracho
+32. Legião Urbana
+33. Strike
+34. Caliban
+35. Walls of Jericho
+36. Britney Spears
+37. Lady Gaga
+38. Christina Aguilera
+39. Madonna
+40. Rihanna
+41. Shakira
+42. Katy Perry
+43. Taylor Swift
+44. Evanescence
+45. Glee Cast
+46. Beyoncé
+47. Muse
+48. Pink Floyd
+49. Radiohead
+50. Ke$ha

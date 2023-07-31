@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Green Day
+2. Blink-182
+3. The Offspring
+4. Sum 41
+5. Rancid
+6. NOFX
+7. Bad Religion
+8. The Clash
+9. The Ramones
+10. Social Distortion
+11. The Misfits
+12. Dead Kennedys
+13. Descendents
+14. Black Flag
+15. Minor Threat
+16. Fugazi
+17. Dave Matthews Band
+18. John Mayer Trio
+19. Jack Johnson
+20. Ben Harper
+21. Jason Mraz
+22. Incubus
+23. Red Hot Chili Peppers
+24. Pearl Jam
+25. Soundgarden
+26. Alice in Chains
+27. Stone Temple Pilots
+28. Kings of Leon
+29. The Strokes
+30. Arctic Monkeys
+31. The Libertines
+32. The Kooks
+33. The Fratellis
+34. The Killers
+35. Muse
+36. Radiohead
+37. Coldplay
+38. Oasis
+39. U2
+40. The Smiths
+41. Joy Division
+42. The Cure
+43. Depeche Mode
+44. New Order
+45. Nine Inch Nails
+46. Foo Fighters
+47. Nirvana
+48. Alice Cooper
+49. Guns N' Roses
+50. AC/DC

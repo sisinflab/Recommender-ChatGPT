@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations are:
+
+1. Nightwish
+2. Alanis Morissette
+3. The Cranberries
+4. Tarja
+5. Dido
+6. Kid Abelha
+7. t.A.T.u.
+8. Florence + the Machine
+9. The Mamas & The Papas
+10. Rammstein
+11. Legião Urbana
+12. Cansei de Ser Sexy
+13. Feist
+14. Lindsay Lohan
+15. The Corrs
+16. ABBA
+17. Cássia Eller
+18. Skye Sweetnam
+19. Raimundos
+20. Shakira
+21. The Beatles
+22. Paramore
+23. Muse
+24. Katy Perry
+25. Avril Lavigne
+26. Evanescence
+27. Britney Spears
+28. Green Day
+29. The Killers
+30. Good Charlotte
+31. Pitty
+32. The Offspring
+33. Christina Aguilera
+34. Lady Gaga
+35. Madonna
+36. Rihanna
+37. Beyoncé
+38. U2
+39. 30 Seconds to Mars
+40. Pink Floyd
+41. Kylie Minogue
+42. Miley Cyrus
+43. Radiohead
+44. Ke$ha
+45. Duran Duran
+46. Coldplay
+47. Blur
+48. Arctic Monkeys
+49. Placebo
+50. Iron Maiden

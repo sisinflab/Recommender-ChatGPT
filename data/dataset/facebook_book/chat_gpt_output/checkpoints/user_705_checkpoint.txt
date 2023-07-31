@@ -1,0 +1,46 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Shining by Stephen King
+2. The Stand by Stephen King
+3. Misery by Stephen King
+4. The Silence of the Lambs by Thomas Harris
+5. The Girl with the Dragon Tattoo by Stieg Larsson
+6. The Da Vinci Code by Dan Brown
+7. Angels and Demons by Dan Brown
+8. The Lost Symbol by Dan Brown
+9. The Bourne Identity by Robert Ludlum
+10. The Bourne Supremacy by Robert Ludlum
+11. The Bourne Ultimatum by Robert Ludlum
+12. The Firm by John Grisham
+13. The Pelican Brief by John Grisham
+14. The Rainmaker by John Grisham
+15. The Runaway Jury by John Grisham
+16. The Partner by John Grisham
+17. The Testament by John Grisham
+18. The Street Lawyer by John Grisham
+19. The Client by John Grisham
+20. The Chamber by John Grisham
+21. The Brethren by John Grisham
+22. The Summons by John Grisham
+23. The King of Torts by John Grisham
+24. The Last Juror by John Grisham
+25. The Innocent Man by John Grisham
+26. The Racketeer by John Grisham
+27. The Whistler by John Grisham
+28. The Reckoning by John Grisham
+29. The Partner Track by Helen Wan
+30. The Firm: The Story of McKinsey and Its Secret Influence on American Business by Duff McDonald
+31. The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses by Eric Ries
+32. The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change by Stephen R. Covey
+33. The Power of Now: A Guide to Spiritual Enlightenment by Eckhart Tolle
+34. The Alchemist by Paulo Coelho
+35. The Four Agreements: A Practical Guide to Personal Freedom by Don Miguel Ruiz
+36. The Secret by Rhonda Byrne
+37. The Celestine Prophecy: An Adventure by James Redfield
+38. The Art of War by Sun Tzu
+39. The Prince by Niccolo Machiavelli
+40. The 48 Laws of Power by Robert Greene
+41. The War of Art: Break Through the Blocks and Win Your Inner Creative Battles by Steven Pressfield
+42. The 5 Love Languages: The Secret to Love That Lasts by Gary Chapman
+43. The Gifts of Imperfection: Let Go of Who You Think You're Supposed to Be and Embrace Who You Are by Brené Brown
+44. The Life-Changing Magic of Tidying Up: The

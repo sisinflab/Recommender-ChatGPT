@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Eragon by Christopher Paolini
+2. Eldest by Christopher Paolini
+3. Inheritance by Christopher Paolini
+4. The Inheritance Cycle Boxed Set by Christopher Paolini
+5. The Hunger Games by Suzanne Collins
+6. Catching Fire by Suzanne Collins
+7. Mockingjay by Suzanne Collins
+8. Divergent by Veronica Roth
+9. Insurgent by Veronica Roth
+10. Allegiant by Veronica Roth
+11. The Maze Runner by James Dashner
+12. The Scorch Trials by James Dashner
+13. The Death Cure by James Dashner
+14. The Kill Order by James Dashner
+15. The Giver by Lois Lowry
+16. Gathering Blue by Lois Lowry
+17. Messenger by Lois Lowry
+18. Son by Lois Lowry
+19. The Hobbit by J.R.R. Tolkien
+20. The Lord of the Rings by J.R.R. Tolkien
+21. The Silmarillion by J.R.R. Tolkien
+22. The Children of Hurin by J.R.R. Tolkien
+23. The Chronicles of Narnia by C.S. Lewis
+24. The Lion, the Witch and the Wardrobe by C.S. Lewis
+25. Prince Caspian by C.S. Lewis
+26. The Voyage of the Dawn Treader by C.S. Lewis
+27. The Horse and His Boy by C.S. Lewis
+28. The Magician's Nephew by C.S. Lewis
+29. The Last Battle by C.S. Lewis
+30. The Name of the Wind by Patrick Rothfuss
+31. The Wise Man's Fear by Patrick Rothfuss
+32. The Slow Regard of Silent Things by Patrick Rothfuss
+33. The Kingkiller Chronicle: Day One by Patrick Rothfuss
+34. The Kingkiller Chronicle: Day Two by Patrick Rothfuss
+35. The Kingkiller Chronicle: Day Three by Patrick Rothfuss
+36. Mistborn: The Final Empire by Brandon Sanderson
+37. Mistborn: The Well of Ascension by Brandon Sanderson
+38. Mistborn: The Hero of Ages by Brandon Sanderson
+39. The Alloy of Law by Brandon Sanderson
+40. Shadows of Self by Brandon Sanderson
+41. The Bands of Mourning by Brandon Sanderson
+42. Warbreaker by Brandon Sanderson
+43. The Way of Kings by Brandon Sanderson
+44. Words of Radiance by Brandon Sanderson
+45. Oathbringer by Brandon Sanderson
+46. The Stormlight Archive Boxed Set by Brandon Sanderson
+47. The Final Empire Boxed Set by Brandon Sanderson
+48. The Reckoners Boxed Set by Brandon Sanderson
+49. The Rithmatist by Brandon Sanderson
+50. Steelheart by Brandon Sanderson

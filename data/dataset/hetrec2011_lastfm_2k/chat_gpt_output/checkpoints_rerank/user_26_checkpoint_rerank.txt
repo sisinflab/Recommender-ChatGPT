@@ -1,0 +1,54 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Iron Maiden
+2. Megadeth
+3. Dream Theater
+4. Bruce Dickinson
+5. Children of Bodom
+6. Angra
+7. Nightwish
+8. Moonspell
+9. Matanza
+10. Kamelot
+11. Stratovarius
+12. Nevermore
+13. Metallica
+14. Symphony X
+15. Journey
+16. Avantasia
+17. Johnny Cash
+18. Bon Jovi
+19. Skid Row
+20. Arch Enemy
+21. Cradle of Filth
+22. Kreator
+23. Yngwie Malmsteen
+24. Slayer
+25. Blind Guardian
+26. Led Zeppelin
+27. Nirvana
+28. Pearl Jam
+29. Michael Jackson
+30. System of a Down
+31. Nine Inch Nails
+32. Linkin Park
+33. Avenged Sevenfold
+34. Green Day
+35. My Chemical Romance
+36. The Cure
+37. Muse
+38. Pink Floyd
+39. U2
+40. 30 Seconds to Mars
+41. Radiohead
+42. Arctic Monkeys
+43. Placebo
+44. The Killers
+45. Evanescence
+46. Beyoncé
+47. P!nk
+48. Katy Perry
+49. Taylor Swift
+50. Ke$ha
+
+Note: The artists that are not related to the user's preferences have been removed from the list.

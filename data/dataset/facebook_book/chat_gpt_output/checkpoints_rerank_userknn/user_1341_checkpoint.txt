@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Jane Eyre
+2. To Kill a Mockingbird
+3. Wuthering Heights
+4. The Lord of the Rings
+5. The Divine Comedy
+6. Les Misérables
+7. A Thousand Splendid Suns
+8. The Scarlet Letter
+9. Frankenstein
+10. A Separate Peace
+11. The Notebook
+12. Sense and Sensibility
+13. The Prince
+14. Emma
+15. The Mayor of Casterbridge
+16. Dracula
+17. Gulliver's Travels
+18. The Tempest
+19. A Midsummer Night's Dream
+20. Paradise Lost
+21. The House of the Scorpion
+22. The Mists of Avalon
+23. Angels & Demons
+24. Inferno (Dante)
+25. The Alchemist
+26. Bloodbrothers
+27. The Seventh Tower
+28. Holes
+29. The Old Man and the Sea
+30. The Jungle Book
+31. Eragon
+32. Twisted
+33. Slaughterhouse-Five
+34. The Hamlet
+35. Nineteen Eighty-Four
+36. Cat's Cradle
+37. The Zombie Survival Guide
+38. Twilight
+39. Darkest Powers
+40. Unaccustomed Earth
+41. The Constitution of Liberty
+42. Not Without My Daughter
+43. Eat, Pray, Love
+44. City of Bones
+45. Tess of the d'Urbervilles
+46. Lioness Rampant
+47. The Sevenwaters Trilogy
+48. Esperanza Rising
+49. Lolita
+50. Great Expectations

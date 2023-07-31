@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Metallica
+2. Nirvana
+3. Slipknot
+4. Pantera
+5. Deftones
+6. Korn
+7. Slayer
+8. Nine Inch Nails
+9. Stone Sour
+10. The Dillinger Escape Plan
+11. Architects
+12. Killswitch Engage
+13. Explosions in the Sky
+14. Incubus
+15. System of a Down
+16. Radiohead
+17. A Day to Remember
+18. Ramones
+19. Motörhead
+20. The Beatles
+21. Machine Head
+22. The Killers
+23. Funeral for a Friend
+24. Converge
+25. A Perfect Circle
+26. Whitechapel
+27. Angels & Airwaves
+28. City and Colour
+29. Rammstein
+30. Pixies
+31. Papa Roach
+32. Chevelle
+33. Fort Minor
+34. The Prodigy
+35. Cypress Hill
+36. Faith No More
+37. Red Hot Chili Peppers
+38. Marilyn Manson
+39. Klaxons
+40. The Smashing Pumpkins
+41. Bring Me The Horizon
+42. Placebo
+43. Ill Niño
+44. Atreyu
+45. The Cure
+46. The Jimi Hendrix Experience
+47. Sum 41
+48. Queens of the Stone Age
+49. P.O.D.
+50. Lamb of God

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Wuthering Heights by Emily Bronte
+2. The Catcher in the Rye by J.D. Salinger
+3. 1984 by George Orwell
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Pride and Prejudice by Jane Austen
+6. Animal Farm by George Orwell
+7. Lord of the Flies by William Golding
+8. The Bell Jar by Sylvia Plath
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Handmaid's Tale by Margaret Atwood
+11. The Hobbit by J.R.R. Tolkien
+12. The Lord of the Rings by J.R.R. Tolkien
+13. The Hunger Games by Suzanne Collins
+14. The Fault in Our Stars by John Green
+15. The Giver by Lois Lowry
+16. The Maze Runner by James Dashner
+17. The Chronicles of Narnia by C.S. Lewis
+18. The Da Vinci Code by Dan Brown
+19. The Girl with the Dragon Tattoo by Stieg Larsson
+20. The Help by Kathryn Stockett
+21. The Kite Runner by Khaled Hosseini
+22. The Lovely Bones by Alice Sebold
+23. The Secret Life of Bees by Sue Monk Kidd
+24. The Time Traveler's Wife by Audrey Niffenegger
+25. The Alchemist by Paulo Coelho
+26. The Road by Cormac McCarthy
+27. The Stand by Stephen King
+28. The Shining by Stephen King
+29. The Silence of the Lambs by Thomas Harris
+30. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+31. The Martian by Andy Weir
+32. The Name of the Wind by Patrick Rothfuss
+33. The Nightingale by Kristin Hannah
+34. The Picture of Dorian Gray by Oscar Wilde
+35. The Secret History by Donna Tartt
+36. The Shadow of the Wind by Carlos Ruiz Zafón
+37. The Sun Also Rises by Ernest Hemingway
+38. The Talented Mr. Ripley by Patricia Highsmith
+39. The Thirteenth Tale by Diane Setterfield
+40. The Time Machine by H.G. Wells
+41. The Unbearable Lightness of Being by Milan Kundera
+42. The Wind-Up Bird Chronicle by Haruki Murakami
+43. The Wonderful Wizard of Oz by L. Frank Baum
+44. The World According to Garp by John Irving
+45. The Yellow Wallpaper by Charlotte Perkins Gilman
+46. Their Eyes Were Watching God by Zora Neale Hurston
+47. Things Fall Apart by Chinua Achebe
+48. To the Lighthouse by Virginia Woolf
+49. Watership Down by Richard Adams
+50. White Teeth by Zadie Smith

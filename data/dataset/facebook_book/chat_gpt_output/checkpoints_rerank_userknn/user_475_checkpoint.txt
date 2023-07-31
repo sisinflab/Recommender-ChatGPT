@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter by J.K. Rowling
+2. The Hobbit by J.R.R. Tolkien
+3. To Kill a Mockingbird by Harper Lee
+4. The Great Gatsby by F. Scott Fitzgerald
+5. The Count of Monte Cristo by Alexandre Dumas
+6. Pride and Prejudice and Zombies by Seth Grahame-Smith
+7. Atonement by Ian McEwan
+8. Wuthering Heights by Emily Bronte
+9. The Kite Runner by Khaled Hosseini
+10. The Scarlet Letter by Nathaniel Hawthorne
+11. Gone with the Wind by Margaret Mitchell
+12. The Bell Jar by Sylvia Plath
+13. Mockingjay by Suzanne Collins
+14. Inkheart by Cornelia Funke
+15. The Princess Bride by William Goldman
+16. Persepolis by Marjane Satrapi
+17. All Quiet on the Western Front by Erich Maria Remarque
+18. His Dark Materials by Philip Pullman
+19. The Anarchist Cookbook by William Powell
+20. The Jungle Book by Rudyard Kipling
+21. Island by Aldous Huxley
+22. The Heroin Diaries by Nikki Sixx
+23. The Prosecution of George W. Bush for Murder by Vincent Bugliosi
+24. The Awakening by Kate Chopin
+25. Bury My Heart at Wounded Knee by Dee Brown
+26. The Secret by Rhonda Byrne
+27. The Zombie Survival Guide by Max Brooks
+28. Brave New World by Aldous Huxley
+29. The Catcher in the Rye by J.D. Salinger
+30. Sleeping Freshmen Never Lie by David Lubar
+31. Where the Red Fern Grows by Wilson Rawls
+32. The Da Vinci Code by Dan Brown
+33. Memoirs of a Geisha by Arthur Golden
+34. Tuesdays with Morrie by Mitch Albom
+35. Rich Dad Poor Dad by Robert Kiyosaki and Sharon Lechter
+36. Don Quixote by Miguel de Cervantes
+37. Stargirl by Jerry Spinelli
+38. Cecilia by Linda Ferri
+39. A Memory of Light by Robert Jordan and Brandon Sanderson
+40. Valiant: A Modern Tale of Faerie by Holly Black
+41. 2 States: The Story of My Marriage by Chetan Bhagat
+42. The Crucible of Time by John Brunner
+43. Choke by Chuck Palahniuk
+44. The Zombie Survival Guide by Max Brooks
+45. Ella Enchanted by Gail Carson Levine
+46. This Lullaby by Sarah Dessen
+47. Will Grayson, Will Grayson by John Green and David Levithan
+48. Paper Towns by John Green
+49. Gl

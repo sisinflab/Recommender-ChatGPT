@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Slayer
+2. Cannibal Corpse
+3. Machine Head
+4. Children of Bodom
+5. Arch Enemy
+6. Sepultura
+7. Bloodbath
+8. Dimmu Borgir
+9. Hatebreed
+10. In Flames
+11. Kreator
+12. Cradle of Filth
+13. Vader
+14. Metallica
+15. Hypocrisy
+16. Iron Maiden
+17. Nirvana
+18. Pearl Jam
+19. Led Zeppelin
+20. Metallica
+21. System of a Down
+22. Nine Inch Nails
+23. Linkin Park
+24. Avenged Sevenfold
+25. Green Day
+26. My Chemical Romance
+27. The Killers
+28. Muse
+29. Pink Floyd
+30. Radiohead
+31. Arctic Monkeys
+32. Placebo
+33. Duran Duran
+34. Coldplay
+35. Blur
+36. Michael Jackson
+37. Madonna
+38. Lady Gaga
+39. Beyoncé
+40. Rihanna
+41. Shakira
+42. Christina Aguilera
+43. Katy Perry
+44. Taylor Swift
+45. Ke$ha
+46. Paramore
+47. Evanescence
+48. Glee Cast
+49. P!nk
+50. Kelly Clarkson

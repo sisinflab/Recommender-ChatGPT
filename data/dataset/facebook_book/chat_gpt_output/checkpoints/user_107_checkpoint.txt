@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Great Gatsby by F. Scott Fitzgerald
+3. 1984 by George Orwell
+4. The Catcher in the Rye by J.D. Salinger
+5. The Hobbit by J.R.R. Tolkien
+6. The Lord of the Rings by J.R.R. Tolkien
+7. The Hunger Games by Suzanne Collins
+8. The Girl with the Dragon Tattoo by Stieg Larsson
+9. The Da Vinci Code by Dan Brown
+10. The Help by Kathryn Stockett
+11. The Kite Runner by Khaled Hosseini
+12. The Fault in Our Stars by John Green
+13. The Book Thief by Markus Zusak
+14. The Alchemist by Paulo Coelho
+15. The Secret Life of Bees by Sue Monk Kidd
+16. The Lovely Bones by Alice Sebold
+17. The Time Traveler's Wife by Audrey Niffenegger
+18. The Road by Cormac McCarthy
+19. The Picture of Dorian Gray by Oscar Wilde
+20. The Adventures of Huckleberry Finn by Mark Twain
+21. The Adventures of Tom Sawyer by Mark Twain
+22. The Chronicles of Narnia by C.S. Lewis
+23. The Giver by Lois Lowry
+24. The Maze Runner by James Dashner
+25. The Outsiders by S.E. Hinton
+26. The Perks of Being a Wallflower by Stephen Chbosky
+27. The Shining by Stephen King
+28. The Stand by Stephen King
+29. The Silence of the Lambs by Thomas Harris
+30. The Bourne Identity by Robert Ludlum
+31. The Bourne Supremacy by Robert Ludlum
+32. The Bourne Ultimatum by Robert Ludlum
+33. The Girl on the Train by Paula Hawkins
+34. The Martian by Andy Weir
+35. The Name of the Wind by Patrick Rothfuss
+36. The Wise Man's Fear by Patrick Rothfuss
+37. The Nightingale by Kristin Hannah
+38. The Help by Kathryn Stockett
+39. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+40. The Devil in the White City by Erik Larson
+41. The Glass Castle by Jeannette Walls
+42. The Handmaid's Tale by Margaret Atwood
+43. The Road Less Traveled by M. Scott Peck
+44. The Power of Now by Eckhart Tolle
+45. The 7 Habits of Highly Effective People by Stephen Covey
+46. The Lean Startup by Eric Ries
+47. The Innovator's Dilemma by Clayton Christensen
+48. The Art of War by Sun Tzu
+49. The Prince by Niccolo Machiav

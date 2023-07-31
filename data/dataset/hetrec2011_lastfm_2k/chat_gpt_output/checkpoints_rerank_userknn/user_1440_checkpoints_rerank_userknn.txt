@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for user 1440 would be:
+
+1. Mariah Carey
+2. Céline Dion
+3. Whitney Houston
+4. Alicia Keys
+5. Christina Aguilera
+6. Marisa Monte
+7. Ana Carolina
+8. Jota Quest
+9. Legião Urbana
+10. Sandy Leah
+11. Maria Rita
+12. Shania Twain
+13. Evanescence
+14. Mandy Moore
+15. Ashlee Simpson
+16. Christina Milian
+17. Kelly Clarkson
+18. Rihanna
+19. Janet Jackson
+20. Norah Jones
+21. Selena Gomez & the Scene
+22. Corinne Bailey Rae
+23. Kanye West
+24. Laura Pausini
+25. The Beatles
+26. Demi Lovato
+27. Jesse McCartney
+28. Maysa
+29. Keyshia Cole
+30. Sade
+31. BoA
+32. Joss Stone
+33. Taylor Swift
+34. Skye Sweetnam
+35. Shakira
+36. Black Eyed Peas
+37. Michael Jackson
+38. Miley Cyrus
+39. Jennifer Hudson
+40. Kelly Rowland
+41. Leona Lewis
+42. Jessica Simpson
+43. Nelly Furtado
+44. Aretha Franklin
+45. Lady Antebellum
+46. Beyoncé
+47. Elvis Presley
+48. Britney Spears
+49. Adele
+50. Toni Braxton

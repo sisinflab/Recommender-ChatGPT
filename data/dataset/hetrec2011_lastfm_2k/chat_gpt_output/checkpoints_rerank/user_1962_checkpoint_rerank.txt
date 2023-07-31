@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for user 1962 would be:
+
+1. Interpol
+2. Crystal Castles
+3. Death from Above 1979
+4. The Presets
+5. Klaxons
+6. Yeasayer
+7. The Futureheads
+8. Pulp
+9. Simian Mobile Disco
+10. New Order
+11. These New Puritans
+12. Maxïmo Park
+13. Wire
+14. Toro y Moi
+15. The B-52's
+16. Blur
+17. Arctic Monkeys
+18. Muse
+19. Radiohead
+20. Pink Floyd
+21. Nirvana
+22. Led Zeppelin
+23. Metallica
+24. Iron Maiden
+25. The Killers
+26. Duran Duran
+27. Placebo
+28. Coldplay
+29. Madonna
+30. U2
+31. Beyoncé
+32. Lady Gaga
+33. Christina Aguilera
+34. Rihanna
+35. Shakira
+36. Katy Perry
+37. Taylor Swift
+38. Avril Lavigne
+39. Miley Cyrus
+40. Ke$ha
+41. Michael Jackson
+42. Pearl Jam
+43. a-ha
+44. Björk
+45. Daft Punk
+46. Nine Inch Nails
+47. Linkin Park
+48. Kelly Clarkson
+49. All Time Low
+50. Green Day

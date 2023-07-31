@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations are:
+
+1. Depeche Mode
+2. Paradise Lost
+3. Nitzer Ebb
+4. Recoil
+5. Ария
+6. a-ha
+7. System of a Down
+8. Client
+9. Feeder
+10. Martin L. Gore
+11. L7
+12. The Cure
+13. Hans Zimmer
+14. Serj Tankian
+15. Cinema Bizarre
+16. The Offspring
+17. Lady Gaga
+18. Seether
+19. Kylie Minogue
+20. Metallica
+21. Gary Numan
+22. Massive Attack
+23. Travis
+24. Radiohead
+25. Muse
+26. Crystal Castles
+27. Kraftwerk
+28. U2
+29. Kings of Leon
+30. Ladytron
+31. The Beatles
+32. Duran Duran
+33. Air
+34. Madonna
+35. No Doubt
+36. P!nk
+37. Placebo
+38. New Order
+39. Сплин
+40. Zемфира
+41. Britney Spears
+42. Savage Garden
+43. Cut Copy
+44. And One
+45. Thousand Foot Krutch
+46. Avril Lavigne
+47. Pet Shop Boys
+48. 30 Seconds to Mars
+49. Boards of Canada
+50. Front 242

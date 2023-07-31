@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Beatles
+2. Bob Dylan
+3. Neil Young
+4. Radiohead
+5. Elliott Smith
+6. The Magnetic Fields
+7. Belle and Sebastian
+8. The Decemberists
+9. Broken Social Scene
+10. Simon & Garfunkel
+11. Johnny Cash
+12. Chico Buarque
+13. Os Mutantes
+14. Vanguart
+15. They Might Be Giants
+16. Built to Spill
+17. The Cure
+18. Jimi Hendrix
+19. Antônio Carlos Jobim
+20. God Is an Astronaut
+21. Fleetwood Mac
+22. Miles Davis
+23. Nina Simone
+24. Stevie Wonder
+25. Marvin Gaye
+26. Led Zeppelin
+27. Pink Floyd
+28. The National
+29. Sufjan Stevens
+30. David Bowie
+31. The Beach Boys
+32. The Jimi Hendrix Experience
+33. Rage Against the Machine
+34. The Who
+35. The Doors
+36. Arctic Monkeys
+37. Los Hermanos
+38. Daft Punk
+39. Air
+40. Röyksopp
+41. Björk
+42. Spiritualized
+43. System of a Down
+44. The Strokes
+45. John Lennon
+46. Gary Numan
+47. Nine Inch Nails
+48. Chuck Berry
+49. Justice
+50. Florence + the Machine

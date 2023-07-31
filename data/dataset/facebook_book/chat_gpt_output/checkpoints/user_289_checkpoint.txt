@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. Animal Farm by George Orwell
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Brave New World by Aldous Huxley
+7. One Hundred Years of Solitude by Gabriel Garcia Marquez
+8. The Bell Jar by Sylvia Plath
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Hobbit by J.R.R. Tolkien
+11. The Lord of the Rings by J.R.R. Tolkien
+12. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+13. The Hunger Games by Suzanne Collins
+14. The Girl with the Dragon Tattoo by Stieg Larsson
+15. The Da Vinci Code by Dan Brown
+16. The Road by Cormac McCarthy
+17. The Book Thief by Markus Zusak
+18. The Kite Runner by Khaled Hosseini
+19. The Help by Kathryn Stockett
+20. The Secret Life of Bees by Sue Monk Kidd
+21. The Fault in Our Stars by John Green
+22. The Perks of Being a Wallflower by Stephen Chbosky
+23. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+24. The Giver by Lois Lowry
+25. The Maze Runner by James Dashner
+26. The Outsiders by S.E. Hinton
+27. The Chronicles of Narnia by C.S. Lewis
+28. The Harry Potter series by J.K. Rowling
+29. The Girl on the Train by Paula Hawkins
+30. The Alchemist by Paulo Coelho
+31. The Picture of Dorian Gray by Oscar Wilde
+32. The Adventures of Huckleberry Finn by Mark Twain
+33. The Adventures of Tom Sawyer by Mark Twain
+34. The Color Purple by Alice Walker
+35. The Handmaid's Tale by Margaret Atwood
+36. The Road Less Traveled by M. Scott Peck
+37. The Sun Also Rises by Ernest Hemingway
+38. The Old Man and the Sea by Ernest Hemingway
+39. The Stranger by Albert Camus
+40. The Brothers Karamazov by Fyodor Dostoevsky
+41. Crime and Punishment by Fyodor Dostoevsky
+42. The Idiot by Fyodor Dostoevsky
+43. The Picture of Dorian Gray by Oscar Wilde
+44. The Portrait of a Lady by Henry James
+45. The Turn of the Screw by Henry James
+46. The Age of Innocence by Edith Wharton
+47. The House of Mirth by Edith Wharton
+48. The Scarlet Letter by Nathaniel

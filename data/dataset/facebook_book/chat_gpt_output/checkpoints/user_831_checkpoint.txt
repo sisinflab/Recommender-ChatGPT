@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. One Hundred Years of Solitude by Gabriel Garcia Marquez
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. 1984 by George Orwell
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Brave New World by Aldous Huxley
+7. The Brothers Karamazov by Fyodor Dostoyevsky
+8. Moby-Dick by Herman Melville
+9. The Odyssey by Homer
+10. The Iliad by Homer
+11. The Divine Comedy by Dante Alighieri
+12. War and Peace by Leo Tolstoy
+13. The Picture of Dorian Gray by Oscar Wilde
+14. Heart of Darkness by Joseph Conrad
+15. The Canterbury Tales by Geoffrey Chaucer
+16. Don Quixote by Miguel de Cervantes
+17. The Adventures of Huckleberry Finn by Mark Twain
+18. The Scarlet Letter by Nathaniel Hawthorne
+19. The Grapes of Wrath by John Steinbeck
+20. The Sun Also Rises by Ernest Hemingway
+21. A Farewell to Arms by Ernest Hemingway
+22. For Whom the Bell Tolls by Ernest Hemingway
+23. The Old Man and the Sea by Ernest Hemingway
+24. The Sound and the Fury by William Faulkner
+25. As I Lay Dying by William Faulkner
+26. Light in August by William Faulkner
+27. Absalom, Absalom! by William Faulkner
+28. Dubliners by James Joyce
+29. A Portrait of the Artist as a Young Man by James Joyce
+30. The Trial by Franz Kafka
+31. The Metamorphosis by Franz Kafka
+32. Crime and Punishment by Fyodor Dostoyevsky
+33. The Idiot by Fyodor Dostoyevsky
+34. Anna Karenina by Leo Tolstoy
+35. Madame Bovary by Gustave Flaubert
+36. Les Misérables by Victor Hugo
+37. The Count of Monte Cristo by Alexandre Dumas
+38. The Three Musketeers by Alexandre Dumas
+39. The Hunchback of Notre-Dame by Victor Hugo
+40. The Stranger by Albert Camus
+41. The Plague by Albert Camus
+42. The Fall by Albert Camus
+43. Siddhartha by Hermann Hesse
+44. Steppenwolf by Hermann Hesse
+45. Narcissus and Goldmund by Hermann Hesse
+46. Beloved by Toni Morrison
+47. Song of Solomon by Toni Morrison
+48. The Bluest Eye by Toni Morrison
+49. The Tin Drum by Günter Grass
+50. Cat and Mouse

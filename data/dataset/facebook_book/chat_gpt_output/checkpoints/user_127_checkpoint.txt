@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Great Gatsby by F. Scott Fitzgerald
+2. Wuthering Heights by Emily Bronte
+3. To Kill a Mockingbird by Harper Lee
+4. Pride and Prejudice by Jane Austen
+5. The Catcher in the Rye by J.D. Salinger
+6. 1984 by George Orwell
+7. One Hundred Years of Solitude by Gabriel Garcia Marquez
+8. The Bell Jar by Sylvia Plath
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Handmaid's Tale by Margaret Atwood
+11. The Road by Cormac McCarthy
+12. The Color Purple by Alice Walker
+13. The God of Small Things by Arundhati Roy
+14. The Kite Runner by Khaled Hosseini
+15. The Book Thief by Markus Zusak
+16. The Secret History by Donna Tartt
+17. The Shadow of the Wind by Carlos Ruiz Zafon
+18. The Name of the Rose by Umberto Eco
+19. The Remains of the Day by Kazuo Ishiguro
+20. The Poisonwood Bible by Barbara Kingsolver
+21. The Time Traveler's Wife by Audrey Niffenegger
+22. The Girl with the Dragon Tattoo by Stieg Larsson
+23. The Hunger Games by Suzanne Collins
+24. The Help by Kathryn Stockett
+25. The Fault in Our Stars by John Green
+26. The Alchemist by Paulo Coelho
+27. The Picture of Dorian Gray by Oscar Wilde
+28. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+29. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+30. The Lord of the Rings by J.R.R. Tolkien
+31. The Hobbit by J.R.R. Tolkien
+32. The Chronicles of Narnia by C.S. Lewis
+33. The Da Vinci Code by Dan Brown
+34. The Bourne Identity by Robert Ludlum
+35. The Silence of the Lambs by Thomas Harris
+36. The Shining by Stephen King
+37. The Stand by Stephen King
+38. The Talisman by Stephen King and Peter Straub
+39. The Dark Tower series by Stephen King
+40. The Girl on the Train by Paula Hawkins
+41. The Nightingale by Kristin Hannah
+42. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+43. The Glass Castle by Jeannette Walls
+44. The Martian by Andy Weir
+45. The Help by Kathryn Stockett
+46. The Hunger Games by Suzanne Collins
+47. The Road by Cormac McCarthy
+48. The Book Thief by Markus Zusak
+49. The Secret History by Donna Tartt
+50. The Shadow of the Wind by Carlos Ruiz Zafon

@@ -1,0 +1,52 @@
+Based on the user's liking history, here are the top 50 book recommendations:
+
+1. The Picture of Dorian Gray by Oscar Wilde
+2. Frankenstein by Mary Shelley
+3. The Great Gatsby by F. Scott Fitzgerald
+4. Dracula by Bram Stoker
+5. The Lord of the Rings by J.R.R. Tolkien
+6. Brave New World by Aldous Huxley
+7. Crime and Punishment by Fyodor Dostoevsky
+8. The Catcher in the Rye by J.D. Salinger
+9. The Hobbit by J.R.R. Tolkien
+10. The Stand by Stephen King
+11. The Scarlet Letter by Nathaniel Hawthorne
+12. The Phantom of the Opera by Gaston Leroux
+13. The Giver by Lois Lowry
+14. The Southern Vampire Mysteries by Charlaine Harris
+15. A Series of Unfortunate Events by Lemony Snicket
+16. The Maze Runner by James Dashner
+17. The City of Ember by Jeanne DuPrau
+18. The House of Mirth by Edith Wharton
+19. The Outsiders by S.E. Hinton
+20. The Rapture by Tim LaHaye and Jerry B. Jenkins
+21. The Pillowman by Martin McDonagh
+22. The Tenant of Wildfell Hall by Anne Bronte
+23. Invisible Man by Ralph Ellison
+24. Pygmalion by George Bernard Shaw
+25. Through the Looking-Glass by Lewis Carroll
+26. Medea by Euripides
+27. The Silmarillion by J.R.R. Tolkien
+28. Shakespeares sonnets by William Shakespeare
+29. Delta of Venus by Anaïs Nin
+30. The Unbearable Lightness of Being by Milan Kundera
+31. Gravity's Rainbow by Thomas Pynchon
+32. The Lost Books by Ted Dekker
+33. Evil Under the Sun by Agatha Christie
+34. Mere Christianity by C.S. Lewis
+35. I Am Legend by Richard Matheson
+36. The Three Musketeers by Alexandre Dumas and Auguste Maquet
+37. Black by Ted Dekker
+38. Twilight Eyes by Dean Koontz
+39. Across the Universe by Beth Revis
+40. World War Z by Max Brooks
+41. List of Scott Pilgrim characters by Bryan Lee O'Malley
+42. W.I.T.C.H. by Elisabetta Gnone
+43. If There Be Thorns by V.C. Andrews
+44. Petals on the Wind by V.C. Andrews
+45. Cut by Patricia McCormick
+46. Vampire Kisses by Ellen Schreiber
+47. And the Ass Saw the Angel by Nick Cave
+48. Incarceron by Catherine Fisher
+49. Dexter in the Dark by Jeff Lindsay
+50. Gantz by Hiroya Oku

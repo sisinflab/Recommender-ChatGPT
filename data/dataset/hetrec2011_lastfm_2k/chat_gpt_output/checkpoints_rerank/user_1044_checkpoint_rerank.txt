@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Elliott Smith
+2. Frank Zappa
+3. Swans
+4. Captain Beefheart & His Magic Band
+5. Melvins
+6. The Mars Volta
+7. Joanna Newsom
+8. Sonic Youth
+9. Animal Collective
+10. Crystal Castles
+11. The Cramps
+12. Throbbing Gristle
+13. Radiohead
+14. Nirvana
+15. Pink Floyd
+16. Led Zeppelin
+17. Metallica
+18. Iron Maiden
+19. Muse
+20. The Rolling Stones
+21. U2
+22. The Beatles
+23. Blur
+24. Arctic Monkeys
+25. Placebo
+26. The Killers
+27. Duran Duran
+28. Coldplay
+29. Nine Inch Nails
+30. Daft Punk
+31. System of a Down
+32. Linkin Park
+33. Avenged Sevenfold
+34. My Chemical Romance
+35. Green Day
+36. The Cure
+37. Michael Jackson
+38. Pearl Jam
+39. Björk
+40. Amy Winehouse
+41. Depeche Mode
+42. Madonna
+43. Lady Gaga
+44. Christina Aguilera
+45. Rihanna
+46. Shakira
+47. Katy Perry
+48. Taylor Swift
+49. Ke$ha
+50. Black Eyed Peas

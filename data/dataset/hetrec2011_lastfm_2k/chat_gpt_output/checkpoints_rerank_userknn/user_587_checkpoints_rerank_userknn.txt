@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Metallica
+2. Iron Maiden
+3. Soundgarden
+4. Rise Against
+5. Dark Tranquillity
+6. Bullet for My Valentine
+7. Lamb of God
+8. Children of Bodom
+9. Atreyu
+10. Apocalyptica
+11. Trivium
+12. Slipknot
+13. Avenged Sevenfold
+14. Blind Guardian
+15. Stratovarius
+16. Nevermore
+17. Caliban
+18. All That Remains
+19. Amon Amarth
+20. Sonata Arctica
+21. Nightwish
+22. Ensiferum
+23. Paradise Lost
+24. Whitechapel
+25. As I Lay Dying
+26. Shinedown
+27. Stone Temple Pilots
+28. Nickelback
+29. Three Days Grace
+30. Tokio Hotel
+31. Celldweller
+32. Emmure
+33. Escape The Fate
+34. Matanza
+35. Hoobastank
+36. Dream Theater
+37. HIM
+38. Alexisonfire
+39. Pain of Salvation
+40. Anathema
+41. Los Hermanos
+42. Amorphis
+43. Katatonia
+44. Board of Canada
+45. Therion
+46. Eluveitie
+47. Haste the Day
+48. A Day to Remember
+49. Burial
+50. Pink Floyd

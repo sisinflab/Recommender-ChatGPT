@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Pet Shop Boys
+2. Depeche Mode
+3. Duran Duran
+4. Erasure
+5. New Order
+6. Madonna
+7. Michael Jackson
+8. George Michael
+9. Whitney Houston
+10. Janet Jackson
+11. Prince
+12. Cyndi Lauper
+13. David Bowie
+14. Phil Collins
+15. Bryan Adams
+16. Roxette
+17. Ace of Base
+18. Spice Girls
+19. Backstreet Boys
+20. *NSYNC
+21. Westlife
+22. Boyzone
+23. Take That
+24. Steps
+25. S Club 7
+26. Atomic Kitten
+27. Girls Aloud
+28. Sugababes
+29. Pussycat Dolls
+30. Lady Gaga
+31. Katy Perry
+32. Rihanna
+33. Taylor Swift
+34. Ariana Grande
+35. Dua Lipa
+36. Billie Eilish
+37. Lorde
+38. Lana Del Rey
+39. Florence + The Machine
+40. Adele
+41. Sam Smith
+42. Ed Sheeran
+43. Justin Timberlake
+44. Bruno Mars
+45. Maroon 5
+46. Coldplay
+47. Imagine Dragons
+48. OneRepublic
+49. The Chainsmokers
+50. Calvin Harris

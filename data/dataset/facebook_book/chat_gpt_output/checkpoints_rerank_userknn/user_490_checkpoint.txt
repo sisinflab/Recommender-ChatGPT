@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Bell Jar by Sylvia Plath
+2. To Kill a Mockingbird by Harper Lee
+3. The Great Gatsby by F. Scott Fitzgerald
+4. Ethan Frome by Edith Wharton
+5. The Catcher in the Rye by J.D. Salinger
+6. The Adventures of Tom Sawyer by Mark Twain
+7. The Canterbury Tales by Geoffrey Chaucer
+8. A Tale of Two Cities by Charles Dickens
+9. The Stranger by Albert Camus
+10. The War of the Worlds by H.G. Wells
+11. The Last Lecture by Randy Pausch
+12. The Book Thief by Markus Zusak
+13. The Giver by Lois Lowry
+14. Anne of Green Gables by L.M. Montgomery
+15. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+16. Romeo and Juliet by William Shakespeare
+17. A Midsummer Night's Dream by William Shakespeare
+18. The Hamlet by William Faulkner
+19. Moby-Dick by Herman Melville
+20. Lord of the Flies by William Golding
+21. Treasure Island by Robert Louis Stevenson
+22. The Lovely Bones by Alice Sebold
+23. A Farewell to Arms by Ernest Hemingway
+24. Brave New World by Aldous Huxley
+25. Nineteen Eighty-Four by George Orwell
+26. The Walking Dead (comic book) by Robert Kirkman
+27. Geek Love by Katherine Dunn
+28. Of Mice and Men by John Steinbeck
+29. Speak by Laurie Halse Anderson
+30. The Perks of Being a Wallflower by Stephen Chbosky
+31. Night by Elie Wiesel
+32. Digital Fortress by Dan Brown
+33. Anthem by Ayn Rand
+34. Sun Bin's Art of War by Sun Bin
+35. Still Life with Woodpecker by Tom Robbins
+36. City of Glass (Mortal Instruments) by Cassandra Clare
+37. Sounder by William H. Armstrong
+38. The Hardy Boys by Franklin W. Dixon
+39. Dreamcatcher by Stephen King
+40. The Kane Chronicles by Rick Riordan
+41. Breaking Point by Alex Flinn
+42. Stargirl by Jerry Spinelli
+43. Journey to the West by Wu Cheng'en
+44. Iliad by Homer
+45. The Talisman by Walter Scott
+46. Leaving a Doll's House: A Memoir by Claire Bloom
+47. Einstein's Dreams by Alan Lightman
+48. Bartleby, the Scrivener by Herman Melville
+49. Self-Reliance by Ralph Waldo Emerson
+50. Spring Awakening by Frank Wedekind

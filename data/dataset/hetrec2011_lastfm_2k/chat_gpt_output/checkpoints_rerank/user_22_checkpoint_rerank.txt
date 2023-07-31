@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. In Flames
+2. Parkway Drive
+3. Rise Against
+4. Sonic Syndicate
+5. Dark Tranquillity
+6. As I Lay Dying
+7. Caliban
+8. Killswitch Engage
+9. A Day to Remember
+10. Amon Amarth
+11. August Burns Red
+12. Ensiferum
+13. Ill Niño
+14. Whitechapel
+15. Atreyu
+16. Emmure
+17. Five Finger Death Punch
+18. blink-182
+19. Scar Symmetry
+20. Eluveitie
+21. Millencolin
+22. Slayer
+23. Despised Icon
+24. Pantera
+25. Haste the Day
+26. Iron Maiden
+27. Metallica
+28. Nirvana
+29. Pearl Jam
+30. Led Zeppelin
+31. Michael Jackson
+32. System of a Down
+33. Nine Inch Nails
+34. Linkin Park
+35. Avenged Sevenfold
+36. Green Day
+37. The Killers
+38. Muse
+39. Pink Floyd
+40. Radiohead
+41. Arctic Monkeys
+42. Placebo
+43. My Chemical Romance
+44. Duran Duran
+45. Coldplay
+46. Blur
+47. The Cure
+48. U2
+49. Daft Punk
+50. Katy Perry

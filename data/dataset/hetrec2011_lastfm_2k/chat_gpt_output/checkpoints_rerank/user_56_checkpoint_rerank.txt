@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Clash
+2. Green Day
+3. The Offspring
+4. Blink-182
+5. Rancid
+6. NOFX
+7. Bad Religion
+8. Dropkick Murphys
+9. Pennywise
+10. Sum 41
+11. Social Distortion
+12. Ramones
+13. Anti-Flag
+14. The Distillers
+15. Dead Kennedys
+16. Misfits
+17. Descendents
+18. Bad Brains
+19. Black Flag
+20. Minor Threat
+21. Fugazi
+22. Circle Jerks
+23. Agent Orange
+24. Adolescents
+25. The Vandals
+26. The Damned
+27. X
+28. The Stooges
+29. MC5
+30. New York Dolls
+31. Iggy Pop
+32. The Replacements
+33. Husker Du
+34. Sonic Youth
+35. Dinosaur Jr.
+36. Mudhoney
+37. Melvins
+38. Nirvana
+39. Pearl Jam
+40. Soundgarden
+41. Alice in Chains
+42. Stone Temple Pilots
+43. Foo Fighters
+44. Queens of the Stone Age
+45. The White Stripes
+46. The Black Keys
+47. Arctic Monkeys
+48. The Strokes
+49. Interpol
+50. Yeah Yeah Yeahs

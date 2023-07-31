@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Tori Amos
+2. Bee Gees
+3. Sarah Brightman
+4. John Williams
+5. Josh Groban
+6. Coldplay
+7. Céline Dion
+8. Stars
+9. Ashlee Simpson
+10. Jewel
+11. Harry Gregson-Williams
+12. Feist
+13. Hans Zimmer
+14. The Cranberries
+15. Matchbox Twenty
+16. Cher
+17. The Beatles
+18. U2
+19. Muse
+20. Pink Floyd
+21. Radiohead
+22. Led Zeppelin
+23. Nirvana
+24. Metallica
+25. Michael Jackson
+26. Pearl Jam
+27. Björk
+28. Duran Duran
+29. Arctic Monkeys
+30. Placebo
+31. The Killers
+32. Iron Maiden
+33. Depeche Mode
+34. Madonna
+35. Rihanna
+36. Lady Gaga
+37. Christina Aguilera
+38. Paramore
+39. Shakira
+40. Katy Perry
+41. Avril Lavigne
+42. Taylor Swift
+43. Evanescence
+44. Glee Cast
+45. Beyoncé
+46. 30 Seconds to Mars
+47. Ke$ha
+48. Daft Punk
+49. Nine Inch Nails
+50. Linkin Park

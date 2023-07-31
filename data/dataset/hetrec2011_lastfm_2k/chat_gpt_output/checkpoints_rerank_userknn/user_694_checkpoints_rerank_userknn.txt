@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Depeche Mode
+2. The Cure
+3. New Order
+4. The Smiths
+5. Duran Duran
+6. Pet Shop Boys
+7. Rammstein
+8. The Clash
+9. The Doors
+10. Led Zeppelin
+11. Morrissey
+12. Echo & The Bunnymen
+13. Adam and the Ants
+14. Mesh
+15. Lacuna Coil
+16. Apoptygma Berzerk
+17. And One
+18. The White Stripes
+19. Devo
+20. Gary Numan
+21. David Bowie
+22. Joy Division
+23. Erasure
+24. The Sisters of Mercy
+25. Massive Attack
+26. Orchestral Manoeuvres in the Dark
+27. Dave Gahan
+28. Siouxsie and the Banshees
+29. Marilyn Manson
+30. Billy Idol
+31. The Velvet Underground
+32. Bauhaus
+33. INXS
+34. Scissor Sisters
+35. a-ha
+36. U2
+37. Kylie Minogue
+38. Lady Gaga
+39. She Wants Revenge
+40. Michael Jackson
+41. Suede
+42. Placebo
+43. The Killers
+44. Muse
+45. Coldplay
+46. Martin L. Gore
+47. VNV Nation
+48. Red Hot Chili Peppers
+49. Nirvana
+50. Hurts

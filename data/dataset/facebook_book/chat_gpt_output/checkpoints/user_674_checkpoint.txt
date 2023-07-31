@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Pride and Prejudice by Jane Austen
+6. The Hobbit by J.R.R. Tolkien
+7. The Lord of the Rings by J.R.R. Tolkien
+8. The Hunger Games by Suzanne Collins
+9. Harry Potter and the Philosopher's Stone by J.K. Rowling
+10. The Da Vinci Code by Dan Brown
+11. The Girl with the Dragon Tattoo by Stieg Larsson
+12. The Help by Kathryn Stockett
+13. The Fault in Our Stars by John Green
+14. The Alchemist by Paulo Coelho
+15. The Picture of Dorian Gray by Oscar Wilde
+16. The Adventures of Tom Sawyer by Mark Twain
+17. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+18. The Chronicles of Narnia by C.S. Lewis
+19. The Road by Cormac McCarthy
+20. The Kite Runner by Khaled Hosseini
+21. The Book Thief by Markus Zusak
+22. The Secret Life of Bees by Sue Monk Kidd
+23. The Color Purple by Alice Walker
+24. The Sun Also Rises by Ernest Hemingway
+25. The Old Man and the Sea by Ernest Hemingway
+26. The Grapes of Wrath by John Steinbeck
+27. One Hundred Years of Solitude by Gabriel Garcia Marquez
+28. The Picture of Dorian Gray by Oscar Wilde
+29. The Bell Jar by Sylvia Plath
+30. The Lovely Bones by Alice Sebold
+31. The Hamlet by William Faulkner
+32. Prozac Nation by Elizabeth Wurtzel
+33. Love, Stargirl by Jerry Spinelli
+34. My Antonia by Willa Cather
+35. The Adventures of Huckleberry Finn by Mark Twain
+36. Angels and Demons by Dan Brown
+37. Goodnight Moon by Margaret Wise Brown
+38. A Swiftly Tilting Planet by Madeleine L'Engle
+39. The Giver by Lois Lowry
+40. The Outsiders by S.E. Hinton
+41. The Perks of Being a Wallflower by Stephen Chbosky
+42. The Time Traveler's Wife by Audrey Niffenegger
+43. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+44. The Shadow of the Wind by Carlos Ruiz Zafon
+45. The Name of the Wind by Patrick Rothfuss
+46. The Nightingale by Kristin Hannah
+47. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+48. The Help by Kathryn St

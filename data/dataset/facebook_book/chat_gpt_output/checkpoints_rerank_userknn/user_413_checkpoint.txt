@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter by J.K. Rowling
+2. Pride and Prejudice by Jane Austen
+3. The Hunger Games by Suzanne Collins
+4. Nineteen Eighty-Four by George Orwell
+5. The Lord of the Rings by J.R.R. Tolkien
+6. Frankenstein by Mary Shelley
+7. Alice's Adventures in Wonderland by Lewis Carroll
+8. Jane Eyre by Charlotte Bronte
+9. The Chronicles of Narnia by C.S. Lewis
+10. The Hobbit by J.R.R. Tolkien
+11. The Princess Bride by William Goldman
+12. Little Women by Louisa May Alcott
+13. A Clockwork Orange by Anthony Burgess
+14. The Giver by Lois Lowry
+15. A Tale of Two Cities by Charles Dickens
+16. The Scarlet Letter by Nathaniel Hawthorne
+17. Brave New World by Aldous Huxley
+18. The Alchemist by Paulo Coelho
+19. Mansfield Park by Jane Austen
+20. Persuasion by Jane Austen
+21. Wuthering Heights by Emily Bronte
+22. Madame Bovary by Gustave Flaubert
+23. Far from the Madding Crowd by Thomas Hardy
+24. Great Expectations by Charles Dickens
+25. The Walking Dead (comic book) by Robert Kirkman
+26. The Boy in the Striped Pyjamas by John Boyne
+27. Ulysses by James Joyce
+28. A Midsummer Night's Dream by William Shakespeare
+29. Practical Magic by Alice Hoffman
+30. Oliver Twist by Charles Dickens
+31. The Zombie Survival Guide by Max Brooks
+32. A Separate Peace by John Knowles
+33. Les Miserables by Victor Hugo
+34. The Borrowers by Mary Norton
+35. The No. 1 Ladies' Detective Agency by Alexander McCall Smith
+36. The Wonderful Wizard of Oz by L. Frank Baum
+37. Ella Enchanted by Gail Carson Levine
+38. Fathers and Sons by Ivan Turgenev
+39. Mockingjay by Suzanne Collins
+40. The Hunchback of Notre-Dame by Victor Hugo
+41. Northanger Abbey by Jane Austen
+42. Emma by Jane Austen
+43. Captain Underpants by Dav Pilkey
+44. Stainless Longganisa by Bob Ong
+45. Seeds of Yesterday by V.C. Andrews
+46. The Purpose Driven Life by Rick Warren
+47. Kapitan Sino by Bob Ong
+48. The Borrowers by Mary Norton
+49. The Chronicles of Narnia by C.S. Lewis
+50. The Lord of the Rings by J.R.R. Tolkien

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. To Kill a Mockingbird by Harper Lee
+5. Lord of the Flies by William Golding
+6. The Hobbit by J.R.R. Tolkien
+7. The Lord of the Rings by J.R.R. Tolkien
+8. The Chronicles of Narnia by C.S. Lewis
+9. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+10. The Da Vinci Code by Dan Brown
+11. Angels and Demons by Dan Brown
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Hunger Games by Suzanne Collins
+14. Catching Fire by Suzanne Collins
+15. Mockingjay by Suzanne Collins
+16. The Maze Runner by James Dashner
+17. The Bourne Identity by Robert Ludlum
+18. The Bourne Supremacy by Robert Ludlum
+19. The Bourne Ultimatum by Robert Ludlum
+20. The Girl on the Train by Paula Hawkins
+21. Gone Girl by Gillian Flynn
+22. The Silence of the Lambs by Thomas Harris
+23. Red Dragon by Thomas Harris
+24. Hannibal by Thomas Harris
+25. The Shining by Stephen King
+26. It by Stephen King
+27. The Stand by Stephen King
+28. The Dark Tower series by Stephen King
+29. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+30. The Girl Who Played with Fire by Stieg Larsson
+31. The Girl in the Spider's Web by David Lagercrantz
+32. The Name of the Wind by Patrick Rothfuss
+33. The Wise Man's Fear by Patrick Rothfuss
+34. The Way of Kings by Brandon Sanderson
+35. Mistborn by Brandon Sanderson
+36. The Final Empire by Brandon Sanderson
+37. The Well of Ascension by Brandon Sanderson
+38. The Hero of Ages by Brandon Sanderson
+39. The Lies of Locke Lamora by Scott Lynch
+40. Red Seas Under Red Skies by Scott Lynch
+41. The Republic of Thieves by Scott Lynch
+42. The Blade Itself by Joe Abercrombie
+43. Before They Are Hanged by Joe Abercrombie
+44. Last Argument of Kings by Joe Abercrombie
+45. The First Law Trilogy by Joe Abercrombie
+46. The Lies of Locke Lamora by Scott Lynch
+47. The Name of the Wind by Patrick Rothfuss
+48. The Wise Man's Fear by Patrick Rothfuss
+49. The Way of Kings by Brandon Sanderson
+50. Mistborn by Brandon Sanderson

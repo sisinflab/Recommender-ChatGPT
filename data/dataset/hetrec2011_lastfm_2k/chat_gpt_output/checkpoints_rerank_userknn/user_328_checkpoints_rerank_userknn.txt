@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for them would be:
+
+1. Arctic Monkeys
+2. Muse
+3. The Beatles
+4. The Killers
+5. Lady Gaga
+6. MGMT
+7. Sigur Rós
+8. Björk
+9. Foals
+10. The Strokes
+11. Panic! At the Disco
+12. Avril Lavigne
+13. Yellowcard
+14. Coldplay
+15. Andrew Bird
+16. The Kooks
+17. Final Fantasy
+18. Amy Winehouse
+19. Chiodos
+20. Sandy e Junior
+21. Manu Chao
+22. Yann Tiersen
+23. Linkin Park
+24. The Used
+25. t.A.T.u.
+26. Goldfrapp
+27. Florence + the Machine
+28. Marina & the Diamonds
+29. Ellie Goulding
+30. La Roux
+31. Lily Allen
+32. Pixie Lott
+33. David Guetta
+34. Britney Spears
+35. Rihanna
+36. Beyoncé
+37. Madonna
+38. Katy Perry
+39. Ke$ha
+40. Adam Lambert
+41. Kylie Minogue
+42. Kings of Leon
+43. My Chemical Romance
+44. James Blunt
+45. Feeder
+46. Bruce Springsteen
+47. Hurts
+48. Alanis Morissette
+49. Scissor Sisters
+50. Gwen Stefani

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. Slaughterhouse-Five by Kurt Vonnegut
+4. The Catcher in the Rye by J.D. Salinger
+5. To Kill a Mockingbird by Harper Lee
+6. Animal Farm by George Orwell
+7. The Great Gatsby by F. Scott Fitzgerald
+8. One Hundred Years of Solitude by Gabriel Garcia Marquez
+9. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Hobbit by J.R.R. Tolkien
+12. The Chronicles of Narnia by C.S. Lewis
+13. The Da Vinci Code by Dan Brown
+14. The Girl with the Dragon Tattoo by Stieg Larsson
+15. The Hunger Games by Suzanne Collins
+16. The Road by Cormac McCarthy
+17. The Stand by Stephen King
+18. The Shining by Stephen King
+19. The Silence of the Lambs by Thomas Harris
+20. The Picture of Dorian Gray by Oscar Wilde
+21. The Count of Monte Cristo by Alexandre Dumas
+22. Les Miserables by Victor Hugo
+23. Crime and Punishment by Fyodor Dostoevsky
+24. The Brothers Karamazov by Fyodor Dostoevsky
+25. War and Peace by Leo Tolstoy
+26. Anna Karenina by Leo Tolstoy
+27. Heart of Darkness by Joseph Conrad
+28. The Stranger by Albert Camus
+29. The Trial by Franz Kafka
+30. The Metamorphosis by Franz Kafka
+31. The Bell Jar by Sylvia Plath
+32. The Handmaid's Tale by Margaret Atwood
+33. 1984 by George Orwell
+34. Brave New World by Aldous Huxley
+35. The Catcher in the Rye by J.D. Salinger
+36. To Kill a Mockingbird by Harper Lee
+37. Animal Farm by George Orwell
+38. The Great Gatsby by F. Scott Fitzgerald
+39. One Hundred Years of Solitude by Gabriel Garcia Marquez
+40. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+41. The Lord of the Rings by J.R.R. Tolkien
+42. The Hobbit by J.R.R. Tolkien
+43. The Chronicles of Narnia by C.S. Lewis
+44. The Da Vinci Code by Dan Brown
+45. The Girl with the Dragon Tattoo by Stieg Larsson
+46. The Hunger Games by Suzanne Collins
+47. The Road by Cormac McCarthy
+48. The Stand by Stephen King
+49. The Shining by Stephen King
+50. The Silence of the Lambs by Thomas Harris

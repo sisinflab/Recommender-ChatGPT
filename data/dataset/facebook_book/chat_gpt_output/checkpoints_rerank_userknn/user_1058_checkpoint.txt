@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Hobbit by J.R.R. Tolkien
+2. The Lord of the Rings by J.R.R. Tolkien
+3. To Kill a Mockingbird by Harper Lee
+4. Jane Eyre by Charlotte Bronte
+5. Wuthering Heights by Emily Bronte
+6. Frankenstein by Mary Shelley
+7. The Catcher in the Rye by J.D. Salinger
+8. Animal Farm by George Orwell
+9. Nineteen Eighty-Four by George Orwell
+10. The Handmaid's Tale by Margaret Atwood
+11. Memoirs of a Geisha by Arthur Golden
+12. The Alchemist by Paulo Coelho
+13. The Lovely Bones by Alice Sebold
+14. The Kite Runner by Khaled Hosseini
+15. A Thousand Splendid Suns by Khaled Hosseini
+16. Love in the Time of Cholera by Gabriel Garcia Marquez
+17. One Hundred Years of Solitude by Gabriel Garcia Marquez
+18. Crime and Punishment by Fyodor Dostoevsky
+19. War and Peace by Leo Tolstoy
+20. The Brothers Karamazov by Fyodor Dostoevsky
+21. The Picture of Dorian Gray by Oscar Wilde
+22. The Adventures of Tom Sawyer by Mark Twain
+23. The Adventures of Huckleberry Finn by Mark Twain
+24. The Great Gatsby by F. Scott Fitzgerald
+25. The Bell Jar by Sylvia Plath
+26. The White Tiger by Aravind Adiga
+27. The Green Mile by Stephen King
+28. Misery by Stephen King
+29. The Notebook by Nicholas Sparks
+30. PS, I Love You by Cecelia Ahern
+31. Eat, Pray, Love by Elizabeth Gilbert
+32. The Lost Symbol by Dan Brown
+33. Angels and Demons by Dan Brown
+34. The Da Vinci Code by Dan Brown
+35. The Taming of the Shrew by William Shakespeare
+36. The Merchant of Venice by William Shakespeare
+37. Ulysses by James Joyce
+38. Zen and the Art of Motorcycle Maintenance by Robert M. Pirsig
+39. Tuesdays with Morrie by Mitch Albom
+40. The Prophet by Kahlil Gibran
+41. The Southern Vampire Mysteries by Charlaine Harris
+42. Ethan Frome by Edith Wharton
+43. Far from the Madding Crowd by Thomas Hardy
+44. Never Cry Wolf by Farley Mowat
+45. The Female Brain by Louann Brizendine
+46. Stranger with My Face by Lois Duncan
+47. Maximum City by Suketu Mehta
+48. To Sir, With Love by E.R. Braithwaite
+49. Inkheart by Cornelia Funke
+50. Tithe:

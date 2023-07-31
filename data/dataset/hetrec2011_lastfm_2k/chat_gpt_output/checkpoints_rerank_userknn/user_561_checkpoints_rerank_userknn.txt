@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for this user are:
+
+1. Aaliyah
+2. Mary J. Blige
+3. Brandy
+4. Ciara
+5. Ashanti
+6. Nas
+7. Keri Hilson
+8. De La Soul
+9. ATB
+10. Amerie
+11. Beyoncé
+12. Rihanna
+13. Janet Jackson
+14. Whitney Houston
+15. Mariah Carey
+16. Destiny's Child
+17. Alicia Keys
+18. Jennifer Lopez
+19. Usher
+20. Jay-Z
+21. Common
+22. Mos Def
+23. OutKast
+24. Raekwon
+25. Lil' Wayne
+26. MF DOOM
+27. Busta Rhymes
+28. Kanye West
+29. The Black Keys
+30. The Killers
+31. 50 Cent
+32. Shakira
+33. Keyshia Cole
+34. Britney Spears
+35. Lady Gaga
+36. Madonna
+37. Sugababes
+38. The Pussycat Dolls
+39. Kelly Rowland
+40. Kelly Clarkson
+41. Leona Lewis
+42. M.I.A.
+43. Ayria
+44. Erykah Badu
+45. Ke$ha
+46. Katy Perry
+47. Christina Aguilera
+48. Lindsay Lohan
+49. Michelle Williams
+50. The Saturdays

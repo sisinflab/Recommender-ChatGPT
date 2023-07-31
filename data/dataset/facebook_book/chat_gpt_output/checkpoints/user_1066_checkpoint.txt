@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The House of the Spirits by Isabel Allende
+2. The God of Small Things by Arundhati Roy
+3. The Joy Luck Club by Amy Tan
+4. The Time Traveler's Wife by Audrey Niffenegger
+5. The Kite Runner by Khaled Hosseini
+6. The Book Thief by Markus Zusak
+7. The Nightingale by Kristin Hannah
+8. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+9. The Help by Kathryn Stockett
+10. The Secret Life of Bees by Sue Monk Kidd
+11. The Girl with the Dragon Tattoo by Stieg Larsson
+12. The Hunger Games by Suzanne Collins
+13. The Fault in Our Stars by John Green
+14. The Da Vinci Code by Dan Brown
+15. The Lovely Bones by Alice Sebold
+16. The Catcher in the Rye by J.D. Salinger
+17. The Picture of Dorian Gray by Oscar Wilde
+18. The Great Gatsby by F. Scott Fitzgerald
+19. To Kill a Mockingbird by Harper Lee
+20. 1984 by George Orwell
+21. Animal Farm by George Orwell
+22. Brave New World by Aldous Huxley
+23. Fahrenheit 451 by Ray Bradbury
+24. The Martian by Andy Weir
+25. Ready Player One by Ernest Cline
+26. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+27. The Lord of the Rings by J.R.R. Tolkien
+28. Harry Potter and the Philosopher's Stone by J.K. Rowling
+29. The Hobbit by J.R.R. Tolkien
+30. The Chronicles of Narnia by C.S. Lewis
+31. The Hunger Games Trilogy by Suzanne Collins
+32. The Maze Runner by James Dashner
+33. Divergent by Veronica Roth
+34. The Selection by Kiera Cass
+35. The Giver by Lois Lowry
+36. The Outsiders by S.E. Hinton
+37. The Perks of Being a Wallflower by Stephen Chbosky
+38. The Fault in Our Stars by John Green
+39. Looking for Alaska by John Green
+40. Paper Towns by John Green
+41. An Abundance of Katherines by John Green
+42. The Sun Also Rises by Ernest Hemingway
+43. A Farewell to Arms by Ernest Hemingway
+44. For Whom the Bell Tolls by Ernest Hemingway
+45. The Old Man and the Sea by Ernest Hemingway
+46. The Catcher in the Rye by J.D. Salinger
+47. Franny and Zooey by J.D. Salinger
+48. Nine Stories by J.D. Salinger
+49. The Bell Jar by Sylvia Plath
+50. The Wise Man's Fear by Patrick Rothfuss

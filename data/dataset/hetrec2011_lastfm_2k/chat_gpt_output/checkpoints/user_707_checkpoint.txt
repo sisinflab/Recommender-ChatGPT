@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Fleetwood Mac
+2. Journey
+3. The Beatles
+4. Queen
+5. Pink Floyd
+6. Led Zeppelin
+7. The Eagles
+8. Boston
+9. Enya
+10. Yanni
+11. Colbie Caillat
+12. Sara Bareilles
+13. Steely Dan
+14. Lady Antebellum
+15. Carrie Underwood
+16. Kansas
+17. Heart
+18. Corinne Bailey Rae
+19. Adele
+20. Ed Sheeran
+21. Taylor Swift
+22. Maroon 5
+23. Coldplay
+24. Bruno Mars
+25. Justin Timberlake
+26. Michael Jackson
+27. Whitney Houston
+28. Celine Dion
+29. Beyonce
+30. Rihanna
+31. Ariana Grande
+32. Shawn Mendes
+33. Billie Eilish
+34. Harry Styles
+35. The Weeknd
+36. Drake
+37. Post Malone
+38. Kendrick Lamar
+39. Childish Gambino
+40. Frank Ocean
+41. Lana Del Rey
+42. Lorde
+43. Hozier
+44. Imagine Dragons
+45. OneRepublic
+46. The Lumineers
+47. Mumford & Sons
+48. The Avett Brothers
+49. The Head and the Heart
+50. Of Monsters and Men

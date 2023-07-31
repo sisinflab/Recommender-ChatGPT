@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. To Kill a Mockingbird by Harper Lee
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Lord of the Flies by William Golding
+7. One Hundred Years of Solitude by Gabriel Garcia Marquez
+8. The Bell Jar by Sylvia Plath
+9. The Handmaid's Tale by Margaret Atwood
+10. The Road by Cormac McCarthy
+11. The Stranger by Albert Camus
+12. The Sun Also Rises by Ernest Hemingway
+13. A Clockwork Orange by Anthony Burgess
+14. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+15. The Brothers Karamazov by Fyodor Dostoevsky
+16. Crime and Punishment by Fyodor Dostoevsky
+17. The Trial by Franz Kafka
+18. The Metamorphosis by Franz Kafka
+19. Heart of Darkness by Joseph Conrad
+20. The Picture of Dorian Gray by Oscar Wilde
+21. Fahrenheit 451 by Ray Bradbury
+22. Slaughterhouse-Five by Kurt Vonnegut
+23. Haunted by Chuck Palahniuk
+24. Brave New World by Aldous Huxley
+25. The Zombie Survival Guide by Max Brooks
+26. The Perks of Being a Wallflower by Stephen Chbosky
+27. The World According to Garp by John Irving
+28. Common Sense by Thomas Paine
+29. The Adventures of Huckleberry Finn by Mark Twain
+30. The Adventures of Tom Sawyer by Mark Twain
+31. The Count of Monte Cristo by Alexandre Dumas
+32. Les Miserables by Victor Hugo
+33. The Three Musketeers by Alexandre Dumas
+34. The Hobbit by J.R.R. Tolkien
+35. The Lord of the Rings by J.R.R. Tolkien
+36. The Chronicles of Narnia by C.S. Lewis
+37. The Hunger Games by Suzanne Collins
+38. Catching Fire by Suzanne Collins
+39. Mockingjay by Suzanne Collins
+40. The Girl with the Dragon Tattoo by Stieg Larsson
+41. The Girl Who Played with Fire by Stieg Larsson
+42. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+43. The Da Vinci Code by Dan Brown
+44. Angels and Demons by Dan Brown
+45. Inferno by Dan Brown
+46. The Name of the Wind by Patrick Rothfuss
+47. The Wise Man's Fear by Patrick Rothfuss
+48. American Gods by Neil Gaiman
+49. Neverwhere by Neil Gaiman
+50. Good Omens by Neil G

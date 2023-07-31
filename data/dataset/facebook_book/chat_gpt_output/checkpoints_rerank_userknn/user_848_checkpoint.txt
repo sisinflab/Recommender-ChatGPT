@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Great Gatsby by F. Scott Fitzgerald
+2. 1984 by George Orwell
+3. Brave New World by Aldous Huxley
+4. The Catcher in the Rye by J.D. Salinger
+5. Lord of the Flies by William Golding
+6. A Farewell to Arms by Ernest Hemingway
+7. The Old Man and the Sea by Ernest Hemingway
+8. Lolita by Vladimir Nabokov
+9. The Hobbit by J.R.R. Tolkien
+10. The Lord of the Rings by J.R.R. Tolkien
+11. Frankenstein by Mary Shelley
+12. Alice's Adventures in Wonderland by Lewis Carroll
+13. The Stranger by Albert Camus
+14. A Tale of Two Cities by Charles Dickens
+15. Don Quixote by Miguel de Cervantes
+16. The Da Vinci Code by Dan Brown
+17. Slaughterhouse-Five by Kurt Vonnegut
+18. The Fountainhead by Ayn Rand
+19. Beyond Good and Evil by Friedrich Nietzsche
+20. Symposium by Plato
+21. The Waste Land by T.S. Eliot
+22. On the Road by Jack Kerouac
+23. The Phantom Tollbooth by Norton Juster
+24. The Life and Times of the Thunderbolt Kid by Bill Bryson
+25. Something Wicked This Way Comes by Ray Bradbury
+26. The Fall of the House of Usher by Edgar Allan Poe
+27. The Outsiders by S.E. Hinton
+28. How to Eat Fried Worms by Thomas Rockwell
+29. Freakonomics by Steven D. Levitt and Stephen J. Dubner
+30. Pagan Theology by Michael York
+31. Old Farmer's Almanac by Robert B. Thomas
+32. A Clockwork Orange by Anthony Burgess
+33. Through the Looking-Glass by Lewis Carroll
+34. Harry Potter series by J.K. Rowling
+35. Dragonlance Adventures by Margaret Weis and Tracy Hickman
+36. Logan's Run by William F. Nolan and George Clayton Johnson
+37. The Riftwar Saga by Raymond E. Feist
+38. Brighton Rock by Graham Greene
+39. Reviving Ophelia by Mary Pipher
+40. Nancy Drew series by Carolyn Keene
+41. Gospel of John by Anonymous
+42. Common Sense by Thomas Paine
+43. PiHKAL by Alexander Shulgin
+44. Fade by Robert Cormier
+45. Cosmos by Carl Sagan
+46. The Watchmen by Alan Moore and Dave Gibbons
+47. Isaac Asimov's Robot City by various authors
+48. Diary by Chuck Palahniuk
+49. Big Sur by Jack Kerouac
+50. Encyclopædia Britannica by various authors

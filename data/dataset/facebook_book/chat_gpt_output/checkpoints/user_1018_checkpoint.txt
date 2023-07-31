@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Girl with the Dragon Tattoo by Stieg Larsson
+2. The Hunger Games by Suzanne Collins
+3. The Da Vinci Code by Dan Brown
+4. The Help by Kathryn Stockett
+5. The Fault in Our Stars by John Green
+6. The Catcher in the Rye by J.D. Salinger
+7. To Kill a Mockingbird by Harper Lee
+8. The Great Gatsby by F. Scott Fitzgerald
+9. 1984 by George Orwell
+10. Animal Farm by George Orwell
+11. The Hobbit by J.R.R. Tolkien
+12. The Lord of the Rings by J.R.R. Tolkien
+13. The Chronicles of Narnia by C.S. Lewis
+14. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+15. The Shining by Stephen King
+16. Carrie by Stephen King
+17. The Stand by Stephen King
+18. Misery by Stephen King
+19. The Green Mile by Stephen King
+20. The Dark Tower series by Stephen King
+21. The Silence of the Lambs by Thomas Harris
+22. Red Dragon by Thomas Harris
+23. Hannibal by Thomas Harris
+24. The Bourne Identity by Robert Ludlum
+25. The Bourne Supremacy by Robert Ludlum
+26. The Bourne Ultimatum by Robert Ludlum
+27. The Girl on the Train by Paula Hawkins
+28. Gone Girl by Gillian Flynn
+29. The Maze Runner by James Dashner
+30. The Scorch Trials by James Dashner
+31. The Death Cure by James Dashner
+32. The Giver by Lois Lowry
+33. Gathering Blue by Lois Lowry
+34. Messenger by Lois Lowry
+35. Son by Lois Lowry
+36. The Alchemist by Paulo Coelho
+37. The Name of the Wind by Patrick Rothfuss
+38. The Wise Man's Fear by Patrick Rothfuss
+39. The Way of Kings by Brandon Sanderson
+40. Mistborn by Brandon Sanderson
+41. Warbreaker by Brandon Sanderson
+42. Elantris by Brandon Sanderson
+43. The Final Empire by Brandon Sanderson
+44. The Well of Ascension by Brandon Sanderson
+45. The Hero of Ages by Brandon Sanderson
+46. The Lies of Locke Lamora by Scott Lynch
+47. Red Seas Under Red Skies by Scott Lynch
+48. The Republic of Thieves by Scott Lynch
+49. The Name of the Rose by Umberto Eco
+50. The Shadow of the Wind by Carlos Ruiz Zafón

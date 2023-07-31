@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Da Vinci Code by Dan Brown
+2. Angels and Demons by Dan Brown
+3. Inferno by Dan Brown
+4. The Lost Symbol by Dan Brown
+5. The Girl with the Dragon Tattoo by Stieg Larsson
+6. The Girl Who Played with Fire by Stieg Larsson
+7. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+8. The Hunger Games by Suzanne Collins
+9. Catching Fire by Suzanne Collins
+10. Mockingjay by Suzanne Collins
+11. Divergent by Veronica Roth
+12. Insurgent by Veronica Roth
+13. Allegiant by Veronica Roth
+14. The Maze Runner by James Dashner
+15. The Scorch Trials by James Dashner
+16. The Death Cure by James Dashner
+17. The Hobbit by J.R.R. Tolkien
+18. The Silmarillion by J.R.R. Tolkien
+19. The Children of Hurin by J.R.R. Tolkien
+20. The Fellowship of the Ring by J.R.R. Tolkien
+21. The Two Towers by J.R.R. Tolkien
+22. The Return of the King by J.R.R. Tolkien
+23. The Catcher in the Rye by J.D. Salinger
+24. To Kill a Mockingbird by Harper Lee
+25. 1984 by George Orwell
+26. Animal Farm by George Orwell
+27. Brave New World by Aldous Huxley
+28. Fahrenheit 451 by Ray Bradbury
+29. The Great Gatsby by F. Scott Fitzgerald
+30. The Adventures of Huckleberry Finn by Mark Twain
+31. The Adventures of Tom Sawyer by Mark Twain
+32. The Chronicles of Narnia by C.S. Lewis
+33. The Lion, the Witch and the Wardrobe by C.S. Lewis
+34. Prince Caspian by C.S. Lewis
+35. The Voyage of the Dawn Treader by C.S. Lewis
+36. The Silver Chair by C.S. Lewis
+37. The Last Battle by C.S. Lewis
+38. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+39. Ender's Game by Orson Scott Card
+40. Speaker for the Dead by Orson Scott Card
+41. Xenocide by Orson Scott Card
+42. Children of the Mind by Orson Scott Card
+43. The Name of the Wind by Patrick Rothfuss
+44. The Wise Man's Fear by Patrick Rothfuss
+45. The Way of Kings by Brandon Sanderson
+46. Words of Radiance by Brandon Sanderson
+47. Mistborn: The Final Empire by Brandon Sanderson
+48. Mistborn: The Well of Ascension by Brandon Sanderson
+49. Mistborn: The Hero of Ages by Brandon Sanderson
+50. Warbreaker

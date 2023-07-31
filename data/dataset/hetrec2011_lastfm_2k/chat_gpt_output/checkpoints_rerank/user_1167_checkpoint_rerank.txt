@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for them would be:
+
+1. Kings of Convenience
+2. The Kooks
+3. José González
+4. Franz Ferdinand
+5. The Strokes
+6. Tori Amos
+7. Boards of Canada
+8. Bonobo
+9. Erykah Badu
+10. Hammock
+11. Stars of the Lid
+12. Sia
+13. Radiohead
+14. Muse
+15. Pink Floyd
+16. Nirvana
+17. Led Zeppelin
+18. Metallica
+19. Pearl Jam
+20. Iron Maiden
+21. Duran Duran
+22. Coldplay
+23. Blur
+24. Arctic Monkeys
+25. Placebo
+26. The Killers
+27. Michael Jackson
+28. Madonna
+29. Beyoncé
+30. Lady Gaga
+31. Christina Aguilera
+32. Rihanna
+33. Shakira
+34. Katy Perry
+35. Taylor Swift
+36. Miley Cyrus
+37. Ke$ha
+38. Amy Winehouse
+39. Björk
+40. Daft Punk
+41. Nine Inch Nails
+42. Linkin Park
+43. System of a Down
+44. Avenged Sevenfold
+45. Green Day
+46. My Chemical Romance
+47. All Time Low
+48. P!nk
+49. Black Eyed Peas
+50. Glee Cast

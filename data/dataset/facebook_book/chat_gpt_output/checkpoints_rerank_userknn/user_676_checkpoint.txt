@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter series by J.K. Rowling
+2. The Hunger Games by Suzanne Collins
+3. A Series of Unfortunate Events by Lemony Snicket
+4. The Graveyard Book by Neil Gaiman
+5. Twilight series by Stephenie Meyer
+6. The Alchemist by Paulo Coelho
+7. The Little Prince by Antoine de Saint-Exupéry
+8. Romeo and Juliet by William Shakespeare
+9. The Secret Garden by Frances Hodgson Burnett
+10. Great Expectations by Charles Dickens
+11. The Giver by Lois Lowry
+12. Tuesdays with Morrie by Mitch Albom
+13. The House on Mango Street by Sandra Cisneros
+14. The Princess Diaries by Meg Cabot
+15. Sophie's World by Jostein Gaarder
+16. The Truth About Forever by Sarah Dessen
+17. The Silver Kiss by Annette Curtis Klause
+18. City of Ashes by Cassandra Clare
+19. So Yesterday by Scott Westerfeld
+20. Impulse Economy by Gary Schwartz
+21. A Thousand Splendid Suns by Khaled Hosseini
+22. Bible
+23. After Dark by Haruki Murakami
+24. Anansi Boys by Neil Gaiman
+25. Go Ask Alice by Anonymous
+26. Alice's Adventures in Wonderland by Lewis Carroll
+27. The Outsiders by S.E. Hinton
+28. Black Beauty by Anna Sewell
+29. The Sleeping Beauty by Mercedes Lackey
+30. Never Let Me Go by Kazuo Ishiguro
+31. The Host by Stephenie Meyer
+32. Book of Revelation
+33. Fire by Kristin Cashore
+34. Stargirl by Jerry Spinelli
+35. Grimms' Fairy Tales by Jacob and Wilhelm Grimm
+36. This Lullaby by Sarah Dessen
+37. The Picture of Dorian Gray by Oscar Wilde
+38. Gone with the Wind by Margaret Mitchell
+39. You Don't Know Me by David Klass
+40. Lolita by Vladimir Nabokov
+41. Red Dragon by Thomas Harris
+42. The Reader by Bernhard Schlink
+43. Bone by Jeff Smith
+44. House of Leaves by Mark Z. Danielewski
+45. Catching Fire by Suzanne Collins
+46. Quran
+47. The City of Ember by Jeanne DuPrau
+48. Inkheart by Cornelia Funke
+49. The Looking Glass Wars by Frank Beddor
+50. The Wee Free Men by Terry Pratchett

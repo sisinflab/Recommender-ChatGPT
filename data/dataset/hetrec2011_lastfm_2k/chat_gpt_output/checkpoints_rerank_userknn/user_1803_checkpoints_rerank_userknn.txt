@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for user 1803 would be:
+
+1. Taylor Swift
+2. Demi Lovato
+3. Hilary Duff
+4. JoJo
+5. Selena Gomez
+6. Jessica Simpson
+7. Cheryl Cole
+8. Belinda
+9. Shania Twain
+10. Thalía
+11. Geri Halliwell
+12. A*Teens
+13. Faith Hill
+14. Katy Perry
+15. Lady Gaga
+16. Rihanna
+17. Beyoncé
+18. Avril Lavigne
+19. P!nk
+20. Christina Aguilera
+21. Miley Cyrus
+22. Ashley Tisdale
+23. Lily Allen
+24. Madonna
+25. Nelly Furtado
+26. Paramore
+27. Kelly Clarkson
+28. Jessie J
+29. Fergie
+30. Jennifer Lopez
+31. Dulce María
+32. Nicole Scherzinger
+33. Shakira
+34. Carrie Underwood
+35. Justin Timberlake
+36. Timbaland
+37. Josh Groban
+38. Céline Dion
+39. Three Days Grace
+40. Fall Out Boy
+41. My Chemical Romance
+42. Linkin Park
+43. Hollywood Undead
+44. Breathe Carolina
+45. All Time Low
+46. Mayday Parade
+47. The Pretty Reckless
+48. Within Temptation
+49. David Archuleta
+50. Glee Cast

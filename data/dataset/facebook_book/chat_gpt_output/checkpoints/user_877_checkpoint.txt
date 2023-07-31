@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Speak by Laurie Halse Anderson
+2. The Fault in Our Stars by John Green
+3. The Hunger Games by Suzanne Collins
+4. The Perks of Being a Wallflower by Stephen Chbosky
+5. Looking for Alaska by John Green
+6. The Maze Runner by James Dashner
+7. Divergent by Veronica Roth
+8. The Giver by Lois Lowry
+9. The Book Thief by Markus Zusak
+10. The Catcher in the Rye by J.D. Salinger
+11. The Lord of the Rings by J.R.R. Tolkien
+12. The Hobbit by J.R.R. Tolkien
+13. The Chronicles of Narnia by C.S. Lewis
+14. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+15. Ender's Game by Orson Scott Card
+16. The Girl with the Dragon Tattoo by Stieg Larsson
+17. The Da Vinci Code by Dan Brown
+18. The Shining by Stephen King
+19. The Stand by Stephen King
+20. The Dark Tower series by Stephen King
+21. The Silence of the Lambs by Thomas Harris
+22. The Bourne Identity by Robert Ludlum
+23. The Girl on the Train by Paula Hawkins
+24. Gone Girl by Gillian Flynn
+25. The Lovely Bones by Alice Sebold
+26. The Help by Kathryn Stockett
+27. The Secret Life of Bees by Sue Monk Kidd
+28. The Color Purple by Alice Walker
+29. The Joy Luck Club by Amy Tan
+30. The Kite Runner by Khaled Hosseini
+31. A Thousand Splendid Suns by Khaled Hosseini
+32. The Alchemist by Paulo Coelho
+33. The Picture of Dorian Gray by Oscar Wilde
+34. The Great Gatsby by F. Scott Fitzgerald
+35. 1984 by George Orwell
+36. Animal Farm by George Orwell
+37. Brave New World by Aldous Huxley
+38. Fahrenheit 451 by Ray Bradbury
+39. The Handmaid's Tale by Margaret Atwood
+40. The Road by Cormac McCarthy
+41. The Martian by Andy Weir
+42. Ready Player One by Ernest Cline
+43. The Name of the Wind by Patrick Rothfuss
+44. The Lies of Locke Lamora by Scott Lynch
+45. Mistborn by Brandon Sanderson
+46. The Way of Kings by Brandon Sanderson
+47. The Kingkiller Chronicle by Patrick Rothfuss
+48. The Stormlight Archive by Brandon Sanderson
+49. The First Law Trilogy by Joe Abercrombie
+50. The Malazan Book of the Fallen by Steven Erikson

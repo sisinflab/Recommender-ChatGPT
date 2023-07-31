@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Red Hot Chili Peppers
+2. Arctic Monkeys
+3. Foo Fighters
+4. Muse
+5. Green Day
+6. Coldplay
+7. Radiohead
+8. The Strokes
+9. Pearl Jam
+10. Oasis
+11. The Killers
+12. Kings of Leon
+13. U2
+14. The White Stripes
+15. Franz Ferdinand
+16. The Black Keys
+17. Vampire Weekend
+18. The Kooks
+19. Phoenix
+20. The 1975
+21. Florence + The Machine
+22. Tame Impala
+23. Cage The Elephant
+24. The Lumineers
+25. Mumford & Sons
+26. Bon Iver
+27. Alt-J
+28. Hozier
+29. Lana Del Rey
+30. Lorde
+31. Billie Eilish
+32. Taylor Swift
+33. Ed Sheeran
+34. Shawn Mendes
+35. Ariana Grande
+36. Justin Bieber
+37. Demi Lovato
+38. Selena Gomez
+39. One Direction
+40. Maroon 5
+41. Imagine Dragons
+42. Twenty One Pilots
+43. Panic! At The Disco
+44. Fall Out Boy
+45. My Chemical Romance
+46. All Time Low
+47. Simple Plan
+48. Good Charlotte
+49. Sum 41
+50. Yellowcard

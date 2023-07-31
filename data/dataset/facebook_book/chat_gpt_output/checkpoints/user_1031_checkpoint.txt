@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Shining by Stephen King
+2. The Dark Tower series by Stephen King
+3. The Lord of the Rings by J.R.R. Tolkien
+4. The Hobbit by J.R.R. Tolkien
+5. The Girl with the Dragon Tattoo by Stieg Larsson
+6. The Da Vinci Code by Dan Brown
+7. The Catcher in the Rye by J.D. Salinger
+8. To Kill a Mockingbird by Harper Lee
+9. 1984 by George Orwell
+10. Animal Farm by George Orwell
+11. The Great Gatsby by F. Scott Fitzgerald
+12. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+13. The Chronicles of Narnia by C.S. Lewis
+14. The Harry Potter series by J.K. Rowling
+15. The Hunger Games series by Suzanne Collins
+16. The Fault in Our Stars by John Green
+17. The Book Thief by Markus Zusak
+18. The Picture of Dorian Gray by Oscar Wilde
+19. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+20. The Complete Works of William Shakespeare
+21. The Road by Cormac McCarthy
+22. The Stand by Stephen King
+23. The Gunslinger by Stephen King
+24. The Talisman by Stephen King and Peter Straub
+25. The Green Mile by Stephen King
+26. The Dead Zone by Stephen King
+27. The Tommyknockers by Stephen King
+28. The Outsider by Stephen King
+29. The Institute by Stephen King
+30. The Dark Half by Stephen King
+31. The Silence of the Lambs by Thomas Harris
+32. The Hannibal Lecter series by Thomas Harris
+33. The Bourne Identity by Robert Ludlum
+34. The Bourne Supremacy by Robert Ludlum
+35. The Bourne Ultimatum by Robert Ludlum
+36. The Bourne Legacy by Eric Van Lustbader
+37. The Girl on the Train by Paula Hawkins
+38. Gone Girl by Gillian Flynn
+39. The Maze Runner by James Dashner
+40. The Scorch Trials by James Dashner
+41. The Death Cure by James Dashner
+42. The Kill Order by James Dashner
+43. The Maze Runner series by James Dashner
+44. The Hunger Games trilogy by Suzanne Collins
+45. The Divergent series by Veronica Roth
+46. The Maze Runner trilogy by James Dashner
+47. The Maze Runner prequel by James Dashner
+48. The Maze Runner sequel by James Dashner
+49. The Maze Runner finale by James Dashner
+50. The Maze Runner complete series by James Dashner

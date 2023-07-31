@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. Ender's Game by Orson Scott Card
+3. The Chronicles of Narnia by C.S. Lewis
+4. Harry Potter series by J.K. Rowling
+5. The Hunger Games by Suzanne Collins
+6. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+7. The Name of the Wind by Patrick Rothfuss
+8. The Wheel of Time series by Robert Jordan
+9. The Dark Tower series by Stephen King
+10. The Dresden Files series by Jim Butcher
+11. The Mistborn series by Brandon Sanderson
+12. The Kingkiller Chronicle series by Patrick Rothfuss
+13. The Stormlight Archive series by Brandon Sanderson
+14. The First Law trilogy by Joe Abercrombie
+15. The Lies of Locke Lamora by Scott Lynch
+16. The Blade Itself by Joe Abercrombie
+17. The Way of Kings by Brandon Sanderson
+18. The Malazan Book of the Fallen series by Steven Erikson
+19. The Black Company series by Glen Cook
+20. The Belgariad series by David Eddings
+21. The Farseer Trilogy by Robin Hobb
+22. The Liveship Traders Trilogy by Robin Hobb
+23. The Tawny Man Trilogy by Robin Hobb
+24. The Lightbringer series by Brent Weeks
+25. The Night Angel Trilogy by Brent Weeks
+26. The Powder Mage trilogy by Brian McClellan
+27. The Gentleman Bastard series by Scott Lynch
+28. The Riyria Revelations series by Michael J. Sullivan
+29. The Broken Empire trilogy by Mark Lawrence
+30. The Red Queen's War trilogy by Mark Lawrence
+31. The Book of the New Sun series by Gene Wolfe
+32. The Hyperion Cantos series by Dan Simmons
+33. The Foundation series by Isaac Asimov
+34. Dune by Frank Herbert
+35. The Martian by Andy Weir
+36. Ready Player One by Ernest Cline
+37. The Girl with the Dragon Tattoo by Stieg Larsson
+38. The Girl on the Train by Paula Hawkins
+39. The Da Vinci Code by Dan Brown
+40. Angels and Demons by Dan Brown
+41. Inferno by Dan Brown
+42. The Bourne Identity by Robert Ludlum
+43. The Bourne Supremacy by Robert Ludlum
+44. The Bourne Ultimatum by Robert Ludlum
+45. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+46. The Girl Who Played with Fire by Stieg Larsson
+47. The Girl in the Spider's Web by David Lagercrantz
+48. The Maze Runner by James Dashner
+49. Lord Jim by Joseph Conrad
+50. Moby-Dick by Herman Melville

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Fault in Our Stars by John Green
+4. The Maze Runner by James Dashner
+5. The Girl with the Dragon Tattoo by Stieg Larsson
+6. The Help by Kathryn Stockett
+7. The Book Thief by Markus Zusak
+8. The Lovely Bones by Alice Sebold
+9. The Kite Runner by Khaled Hosseini
+10. The Catcher in the Rye by J.D. Salinger
+11. The Great Gatsby by F. Scott Fitzgerald
+12. To Kill a Mockingbird by Harper Lee
+13. The Picture of Dorian Gray by Oscar Wilde
+14. The Shining by Stephen King
+15. The Stand by Stephen King
+16. The Lord of the Rings by J.R.R. Tolkien
+17. The Hobbit by J.R.R. Tolkien
+18. The Chronicles of Narnia by C.S. Lewis
+19. The Dark Tower series by Stephen King
+20. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+21. The Alchemist by Paulo Coelho
+22. The Giver by Lois Lowry
+23. The Outsiders by S.E. Hinton
+24. The Perks of Being a Wallflower by Stephen Chbosky
+25. The Bell Jar by Sylvia Plath
+26. The Road by Cormac McCarthy
+27. The Handmaid's Tale by Margaret Atwood
+28. 1984 by George Orwell
+29. Animal Farm by George Orwell
+30. Brave New World by Aldous Huxley
+31. Fahrenheit 451 by Ray Bradbury
+32. One Hundred Years of Solitude by Gabriel Garcia Marquez
+33. Love in the Time of Cholera by Gabriel Garcia Marquez
+34. The Name of the Wind by Patrick Rothfuss
+35. The Wise Man's Fear by Patrick Rothfuss
+36. The Kingkiller Chronicle series by Patrick Rothfuss
+37. The Dark Materials series by Philip Pullman
+38. The Harry Potter series by J.K. Rowling
+39. The Twilight series by Stephenie Meyer
+40. The Host by Stephenie Meyer
+41. The Time Traveler's Wife by Audrey Niffenegger
+42. In Cold Blood by Truman Capote
+43. Lolita by Vladimir Nabokov
+44. Jane Eyre by Charlotte Brontë
+45. Cloud Atlas by David Mitchell
+46. Evermore by Stephen Mark Rainey and James Robert Smith
+47. The Secret Garden by Frances Hodgson Burnett
+48. The Da Vinci Code by Dan Brown
+49. Angels and Demons by Dan Brown
+50. Inferno by Dan Brown

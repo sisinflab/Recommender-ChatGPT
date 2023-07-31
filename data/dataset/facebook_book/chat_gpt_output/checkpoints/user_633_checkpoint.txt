@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Maze Runner by James Dashner
+4. The Giver by Lois Lowry
+5. The Fault in Our Stars by John Green
+6. The Book Thief by Markus Zusak
+7. The Lord of the Rings by J.R.R. Tolkien
+8. Harry Potter and the Philosopher's Stone by J.K. Rowling
+9. The Hobbit by J.R.R. Tolkien
+10. The Chronicles of Narnia: The Lion, the Witch and the Wardrobe by C.S. Lewis
+11. The Da Vinci Code by Dan Brown
+12. Angels and Demons by Dan Brown
+13. The Girl with the Dragon Tattoo by Stieg Larsson
+14. The Girl Who Played with Fire by Stieg Larsson
+15. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+16. The Bourne Identity by Robert Ludlum
+17. The Bourne Supremacy by Robert Ludlum
+18. The Bourne Ultimatum by Robert Ludlum
+19. The Catcher in the Rye by J.D. Salinger
+20. To Kill a Mockingbird by Harper Lee
+21. Animal Farm by George Orwell
+22. Brave New World by Aldous Huxley
+23. Fahrenheit 451 by Ray Bradbury
+24. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+25. The Shining by Stephen King
+26. Carrie by Stephen King
+27. The Stand by Stephen King
+28. The Dark Tower: The Gunslinger by Stephen King
+29. The Dark Tower II: The Drawing of the Three by Stephen King
+30. The Dark Tower III: The Waste Lands by Stephen King
+31. The Dark Tower IV: Wizard and Glass by Stephen King
+32. The Dark Tower V: Wolves of the Calla by Stephen King
+33. The Dark Tower VI: Song of Susannah by Stephen King
+34. The Dark Tower VII: The Dark Tower by Stephen King
+35. The Silence of the Lambs by Thomas Harris
+36. Red Dragon by Thomas Harris
+37. Hannibal by Thomas Harris
+38. The Lovely Bones by Alice Sebold
+39. The Road by Cormac McCarthy
+40. The Alchemist by Paulo Coelho
+41. The Picture of Dorian Gray by Oscar Wilde
+42. The Count of Monte Cristo by Alexandre Dumas
+43. Les Misérables by Victor Hugo
+44. The Three Musketeers by Alexandre Dumas
+45. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+46. The Hound of the Baskervilles by Arthur Conan Doyle
+47. The Return of Sherlock Holmes by Arthur Conan Doyle
+48. The Memoirs of Sherlock Holmes by Arthur Conan

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. 1984 by George Orwell
+3. The Great Gatsby by F. Scott Fitzgerald
+4. One Hundred Years of Solitude by Gabriel Garcia Marquez
+5. The Picture of Dorian Gray by Oscar Wilde
+6. The Bell Jar by Sylvia Plath
+7. The Hobbit by J.R.R. Tolkien
+8. The Lord of the Rings by J.R.R. Tolkien
+9. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+10. The Hunger Games by Suzanne Collins
+11. The Girl with the Dragon Tattoo by Stieg Larsson
+12. The Kite Runner by Khaled Hosseini
+13. The Road by Cormac McCarthy
+14. The Book Thief by Markus Zusak
+15. The Shadow of the Wind by Carlos Ruiz Zafón
+16. The Name of the Wind by Patrick Rothfuss
+17. The Nightingale by Kristin Hannah
+18. The Help by Kathryn Stockett
+19. The Fault in Our Stars by John Green
+20. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+21. The Secret History by Donna Tartt
+22. The Time Traveler's Wife by Audrey Niffenegger
+23. The Handmaid's Tale by Margaret Atwood
+24. The Stand by Stephen King
+25. The Shining by Stephen King
+26. The Silence of the Lambs by Thomas Harris
+27. The Girl on the Train by Paula Hawkins
+28. The Martian by Andy Weir
+29. The Catcher in the Rye by J.D. Salinger
+30. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+31. The Count of Monte Cristo by Alexandre Dumas
+32. The Three Musketeers by Alexandre Dumas
+33. The Picture of Dorian Gray by Oscar Wilde
+34. The Importance of Being Earnest by Oscar Wilde
+35. The Brothers Karamazov by Fyodor Dostoevsky
+36. Crime and Punishment by Fyodor Dostoevsky
+37. War and Peace by Leo Tolstoy
+38. Anna Karenina by Leo Tolstoy
+39. The Odyssey by Homer
+40. The Iliad by Homer
+41. The Divine Comedy by Dante Alighieri
+42. The Canterbury Tales by Geoffrey Chaucer
+43. Don Quixote by Miguel de Cervantes
+44. The Adventures of Tom Sawyer by Mark Twain
+45. The Adventures of Huckleberry Finn by Mark Twain
+46. The Call of the Wild by Jack London
+47. White Fang by Jack London
+48. Heart of Darkness by Joseph Conrad
+49. Lord Jim by Joseph Conrad
+50. Moby-Dick

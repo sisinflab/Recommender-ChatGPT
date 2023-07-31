@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Angels and Demons by Dan Brown
+2. Digital Fortress by Dan Brown
+3. Deception Point by Dan Brown
+4. The Girl with the Dragon Tattoo by Stieg Larsson
+5. The Girl Who Played with Fire by Stieg Larsson
+6. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+7. The Lord of the Rings by J.R.R. Tolkien
+8. The Silmarillion by J.R.R. Tolkien
+9. The Children of Hurin by J.R.R. Tolkien
+10. The Hobbit and The Lord of the Rings Boxed Set by J.R.R. Tolkien
+11. The Catcher in the Rye by J.D. Salinger
+12. To Kill a Mockingbird by Harper Lee
+13. 1984 by George Orwell
+14. Animal Farm by George Orwell
+15. Brave New World by Aldous Huxley
+16. Fahrenheit 451 by Ray Bradbury
+17. The Martian Chronicles by Ray Bradbury
+18. The Illustrated Man by Ray Bradbury
+19. The Chronicles of Narnia by C.S. Lewis
+20. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+21. Ender's Game by Orson Scott Card
+22. Dune by Frank Herbert
+23. The Foundation Trilogy by Isaac Asimov
+24. The Caves of Steel by Isaac Asimov
+25. The Robots of Dawn by Isaac Asimov
+26. The Name of the Wind by Patrick Rothfuss
+27. The Wise Man's Fear by Patrick Rothfuss
+28. The Lies of Locke Lamora by Scott Lynch
+29. The Blade Itself by Joe Abercrombie
+30. The Way of Kings by Brandon Sanderson
+31. Mistborn: The Final Empire by Brandon Sanderson
+32. The Eye of the World by Robert Jordan
+33. A Game of Thrones by George R.R. Martin
+34. The Name of the Rose by Umberto Eco
+35. The Pillars of the Earth by Ken Follett
+36. The Da Vinci Code by Dan Brown
+37. Inferno by Dan Brown
+38. Origin by Dan Brown
+39. The Lost City of Z by David Grann
+40. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+41. The Devil in the White City by Erik Larson
+42. The Boys in the Boat by Daniel James Brown
+43. The Glass Castle by Jeannette Walls
+44. Educated by Tara Westover
+45. The Nightingale by Kristin Hannah
+46. All the Light We Cannot See by Anthony Doerr
+47. The Book Thief by Markus Zusak
+48. The Kite Runner by Khaled Hosseini
+49. A Thousand Splendid Suns by K

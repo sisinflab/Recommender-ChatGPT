@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Marina and the Diamonds
+2. Lorde
+3. Hozier
+4. Lana Del Rey
+5. The 1975
+6. Tame Impala
+7. Billie Eilish
+8. Arctic Monkeys
+9. Vampire Weekend
+10. The Strokes
+11. Radiohead
+12. Florence + the Machine
+13. Alt-J
+14. Arcade Fire
+15. The xx
+16. Bon Iver
+17. The National
+18. Fleet Foxes
+19. Grimes
+20. CHVRCHES
+21. MGMT
+22. Phoenix
+23. Two Door Cinema Club
+24. The Killers
+25. Imagine Dragons
+26. Bastille
+27. Muse
+28. Coldplay
+29. Kings of Leon
+30. Foals
+31. Bombay Bicycle Club
+32. The Black Keys
+33. Queens of the Stone Age
+34. Red Hot Chili Peppers
+35. Green Day
+36. Blink-182
+37. Fall Out Boy
+38. Panic! at the Disco
+39. My Chemical Romance
+40. Paramore
+41. Twenty One Pilots
+42. Linkin Park
+43. Eminem
+44. Jay-Z
+45. Kanye West
+46. Childish Gambino
+47. Frank Ocean
+48. Kendrick Lamar
+49. Janelle Monae
+50. Solange

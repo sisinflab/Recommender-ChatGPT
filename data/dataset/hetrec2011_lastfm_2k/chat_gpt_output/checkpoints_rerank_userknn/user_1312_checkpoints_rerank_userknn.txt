@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations are:
+
+1. Linkin Park
+2. Muse
+3. Avenged Sevenfold
+4. Disturbed
+5. Slipknot
+6. System of a Down
+7. Bullet for My Valentine
+8. Rise Against
+9. My Chemical Romance
+10. Paramore
+11. Three Days Grace
+12. Rage Against the Machine
+13. Papa Roach
+14. Stone Sour
+15. Atreyu
+16. Shinedown
+17. Fort Minor
+18. Bring Me The Horizon
+19. Skillet
+20. Crossfade
+21. Saliva
+22. Scars on Broadway
+23. Alesana
+24. Blessthefall
+25. Flyleaf
+26. Jimmy Eat World
+27. Haste the Day
+28. All That Remains
+29. As I Lay Dying
+30. Hollywood Undead
+31. Cradle of Filth
+32. Blind Guardian
+33. Scar Symmetry
+34. Eluveitie
+35. Edguy
+36. Dimmu Borgir
+37. In Flames
+38. Megadeth
+39. Rammstein
+40. AC/DC
+41. Static-X
+42. Black Label Society
+43. Foo Fighters
+44. Mötley Crüe
+45. Nine Inch Nails
+46. Apocalyptica
+47. Limp Bizkit
+48. The 69 Eyes
+49. DevilDriver
+50. Tool

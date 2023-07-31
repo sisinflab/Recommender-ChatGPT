@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Harry Potter series by J.K. Rowling
+3. The Lord of the Rings by J.R.R. Tolkien
+4. The Chronicles of Narnia by C.S. Lewis
+5. The Da Vinci Code by Dan Brown
+6. The Girl with the Dragon Tattoo by Stieg Larsson
+7. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+8. The Catcher in the Rye by J.D. Salinger
+9. To Kill a Mockingbird by Harper Lee
+10. 1984 by George Orwell
+11. The Great Gatsby by F. Scott Fitzgerald
+12. Pride and Prejudice by Jane Austen
+13. The Hobbit by J.R.R. Tolkien
+14. The Picture of Dorian Gray by Oscar Wilde
+15. The Shining by Stephen King
+16. The Stand by Stephen King
+17. The Silence of the Lambs by Thomas Harris
+18. The Road by Cormac McCarthy
+19. The Book Thief by Markus Zusak
+20. The Fault in Our Stars by John Green
+21. The Maze Runner by James Dashner
+22. The Giver by Lois Lowry
+23. The Outsiders by S.E. Hinton
+24. The Perks of Being a Wallflower by Stephen Chbosky
+25. The Secret Life of Bees by Sue Monk Kidd
+26. The Help by Kathryn Stockett
+27. The Lovely Bones by Alice Sebold
+28. The Time Traveler's Wife by Audrey Niffenegger
+29. The Alchemist by Paulo Coelho
+30. The Name of the Wind by Patrick Rothfuss
+31. The Night Circus by Erin Morgenstern
+32. The Girl on the Train by Paula Hawkins
+33. The Martian by Andy Weir
+34. The Handmaid's Tale by Margaret Atwood
+35. The Picture of Dorian Gray by Oscar Wilde
+36. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+37. The Count of Monte Cristo by Alexandre Dumas
+38. The Three Musketeers by Alexandre Dumas
+39. The War of the Worlds by H.G. Wells
+40. The Time Machine by H.G. Wells
+41. The Invisible Man by H.G. Wells
+42. The Island of Dr. Moreau by H.G. Wells
+43. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+44. The Call of the Wild by Jack London
+45. The Jungle Book by Rudyard Kipling
+46. The Wind in the Willows by Kenneth Grahame
+47. Watership Down by Richard Adams
+48. The Once and Future King by T.H. White
+49. The Sword in the Stone by T.H. White
+50. The Wise Man's Fear by Patrick Rothfuss

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. Daft Punk
+3. The Prodigy
+4. Massive Attack
+5. Gorillaz
+6. MGMT
+7. Crystal Castles
+8. Justice
+9. Air
+10. The Beatles
+11. Muse
+12. Fatboy Slim
+13. Black Eyed Peas
+14. The Killers
+15. Arctic Monkeys
+16. Ludacris
+17. Björk
+18. Portishead
+19. Moby
+20. Timbaland
+21. Tiësto
+22. Simian Mobile Disco
+23. Goldfrapp
+24. Cut Copy
+25. Green Day
+26. Kanye West
+27. 2Pac
+28. Pendulum
+29. Orbital
+30. Plaid
+31. Interpol
+32. Phoenix
+33. Ólafur Arnalds
+34. The Bloody Beetroots
+35. The Knife
+36. Autechre
+37. Bonobo
+38. Groove Armada
+39. Bloc Party
+40. Placebo
+41. The Flashbulb
+42. Capsule
+43. Scooter
+44. Sigur Rós
+45. Schiller
+46. Infected Mushroom
+47. Tycho
+48. Shpongle
+49. Red Hot Chili Peppers
+50. Underworld

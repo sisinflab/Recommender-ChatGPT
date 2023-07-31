@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter
+2. The Handmaid's Tale
+3. The Hobbit
+4. The Giver
+5. Brave New World
+6. Dracula
+7. The Alchemist
+8. Othello
+9. Romeo and Juliet
+10. The Stranger
+11. The Shining
+12. Inferno
+13. The Tao of Pooh
+14. The Myth of Sisyphus
+15. A Clockwork Orange
+16. The Phantom Tollbooth
+17. Winnie-the-Pooh
+18. The Doors of Perception
+19. Neuromancer
+20. The Grapes of Wrath
+21. Island
+22. Symposium
+23. Le Morte d'Arthur
+24. Speak
+25. List of Scott Pilgrim characters
+26. The Vagina Monologues
+27. Don Quixote
+28. The Thirteenth Tale
+29. Room
+30. Strange Case of Dr Jekyll and Mr Hyde
+31. Dear John
+32. The Stainless Steel Rat
+33. Journey to the West
+34. Battle Royale
+35. In Cold Blood
+36. Even Cowgirls Get the Blues
+37. The Far Side
+38. Garfield
+39. Curious George
+40. A Streetcar Named Desire
+41. Let the Right One In
+42. Ender's Game
+43. Confessions of an Ugly Stepsister
+44. Mrs Dalloway
+45. Alice's Adventures in Wonderland
+46. Night
+47. The Watchmen
+48. Never Let Me Go
+49. The Name of the Wind
+50. Batman: Year One

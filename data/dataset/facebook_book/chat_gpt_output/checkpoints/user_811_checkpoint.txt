@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. The Bell Jar by Sylvia Plath
+3. The Perks of Being a Wallflower by Stephen Chbosky
+4. The Fault in Our Stars by John Green
+5. The Kite Runner by Khaled Hosseini
+6. The Hunger Games by Suzanne Collins
+7. To Kill a Mockingbird by Harper Lee
+8. The Great Gatsby by F. Scott Fitzgerald
+9. 1984 by George Orwell
+10. Animal Farm by George Orwell
+11. Lord of the Flies by William Golding
+12. Brave New World by Aldous Huxley
+13. One Hundred Years of Solitude by Gabriel Garcia Marquez
+14. Love in the Time of Cholera by Gabriel Garcia Marquez
+15. The Alchemist by Paulo Coelho
+16. The Picture of Dorian Gray by Oscar Wilde
+17. The Importance of Being Earnest by Oscar Wilde
+18. The Adventures of Huckleberry Finn by Mark Twain
+19. The Adventures of Tom Sawyer by Mark Twain
+20. The Hobbit by J.R.R. Tolkien
+21. The Lord of the Rings by J.R.R. Tolkien
+22. The Chronicles of Narnia by C.S. Lewis
+23. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+24. The Da Vinci Code by Dan Brown
+25. Angels and Demons by Dan Brown
+26. The Girl with the Dragon Tattoo by Stieg Larsson
+27. The Girl Who Played with Fire by Stieg Larsson
+28. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+29. The Shining by Stephen King
+30. Carrie by Stephen King
+31. The Stand by Stephen King
+32. It by Stephen King
+33. The Silence of the Lambs by Thomas Harris
+34. Red Dragon by Thomas Harris
+35. Hannibal by Thomas Harris
+36. The Bourne Identity by Robert Ludlum
+37. The Bourne Supremacy by Robert Ludlum
+38. The Bourne Ultimatum by Robert Ludlum
+39. The Firm by John Grisham
+40. A Time to Kill by John Grisham
+41. The Pelican Brief by John Grisham
+42. The Client by John Grisham
+43. The Rainmaker by John Grisham
+44. The Chamber by John Grisham
+45. The Street Lawyer by John Grisham
+46. The Partner by John Grisham
+47. The Testament by John Grisham
+48. The Brethren by John Grisham
+49. The Summons by John Grisham
+50. The King of Torts by John Grisham

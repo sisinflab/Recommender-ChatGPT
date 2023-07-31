@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Fight Club by Chuck Palahniuk
+2. Survivor by Chuck Palahniuk
+3. Choke by Chuck Palahniuk
+4. Lullaby by Chuck Palahniuk
+5. Haunted by Chuck Palahniuk
+6. Pygmy by Chuck Palahniuk
+7. Rant by Chuck Palahniuk
+8. Diary by Chuck Palahniuk
+9. Snuff by Chuck Palahniuk
+10. Invisible Monsters Remix by Chuck Palahniuk
+11. The Perks of Being a Wallflower by Stephen Chbosky
+12. The Catcher in the Rye by J.D. Salinger
+13. The Bell Jar by Sylvia Plath
+14. The Road by Cormac McCarthy
+15. 1984 by George Orwell
+16. Animal Farm by George Orwell
+17. Brave New World by Aldous Huxley
+18. Fahrenheit 451 by Ray Bradbury
+19. Slaughterhouse-Five by Kurt Vonnegut
+20. Cat's Cradle by Kurt Vonnegut
+21. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+22. The Martian by Andy Weir
+23. Ready Player One by Ernest Cline
+24. Ender's Game by Orson Scott Card
+25. Dune by Frank Herbert
+26. The Hunger Games by Suzanne Collins
+27. Catching Fire by Suzanne Collins
+28. Mockingjay by Suzanne Collins
+29. The Maze Runner by James Dashner
+30. The Scorch Trials by James Dashner
+31. The Death Cure by James Dashner
+32. The Giver by Lois Lowry
+33. Gathering Blue by Lois Lowry
+34. Messenger by Lois Lowry
+35. Son by Lois Lowry
+36. The Girl with the Dragon Tattoo by Stieg Larsson
+37. The Girl Who Played with Fire by Stieg Larsson
+38. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+39. The Da Vinci Code by Dan Brown
+40. Angels & Demons by Dan Brown
+41. Inferno by Dan Brown
+42. The Shining by Stephen King
+43. It by Stephen King
+44. The Stand by Stephen King
+45. Misery by Stephen King
+46. Carrie by Stephen King
+47. The Gunslinger by Stephen King
+48. The Drawing of the Three by Stephen King
+49. The Waste Lands by Stephen King
+50. Wizard and Glass by Stephen King

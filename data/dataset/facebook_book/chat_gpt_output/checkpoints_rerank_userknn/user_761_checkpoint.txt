@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. The Three Musketeers by Alexandre Dumas
+3. The Picture of Dorian Gray by Oscar Wilde
+4. Frankenstein by Mary Shelley
+5. The Island of Doctor Moreau by H.G. Wells
+6. The Scarlet Pimpernel by Baroness Orczy
+7. Alice's Adventures in Wonderland by Lewis Carroll
+8. The Lovely Bones by Alice Sebold
+9. The Importance of Being Earnest by Oscar Wilde
+10. Adventures of Huckleberry Finn by Mark Twain
+11. Walden by Henry David Thoreau
+12. Shakespeare's sonnets by William Shakespeare
+13. The Elements of Style by William Strunk Jr. and E.B. White
+14. War and Peace by Leo Tolstoy
+15. Grimms' Fairy Tales by Jacob and Wilhelm Grimm
+16. Persuasion by Jane Austen
+17. Othello by William Shakespeare
+18. The Kite Runner by Khaled Hosseini
+19. Frankenstein by Mary Shelley
+20. The Boy in the Striped Pyjamas by John Boyne
+21. Nineteen Eighty-Four by George Orwell
+22. Great Expectations by Charles Dickens
+23. The Woman in White by Wilkie Collins
+24. Night by Elie Wiesel
+25. The Bell Jar by Sylvia Plath
+26. How to Read Literature Like a Professor by Thomas C. Foster
+27. Romeo and Juliet by William Shakespeare
+28. Harry Potter series by J.K. Rowling
+29. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+30. Slaughterhouse-Five by Kurt Vonnegut
+31. Medea by Euripides
+32. The Taming of the Shrew by William Shakespeare
+33. One Hundred Years of Solitude by Gabriel Garcia Marquez
+34. Son of a Witch by Gregory Maguire
+35. The Diving Bell and the Butterfly by Jean-Dominique Bauby
+36. Pygmalion by George Bernard Shaw
+37. Waiting for Godot by Samuel Beckett
+38. To Kill a Mockingbird by Harper Lee
+39. The Waste Land by T.S. Eliot
+40. King Leary by Stephen Leacock
+41. Ink Exchange by Melissa Marr
+42. Shakespeare's sonnets by William Shakespeare
+43. The Prince by Niccolo Machiavelli
+44. The Rime of the Ancient Mariner by Samuel Taylor Coleridge
+45. The Prestige by Christopher Priest
+46. Les Misérables by Victor Hugo
+47. The Hamlet by William Faulkner
+48. Leaving a Doll's House: A Memoir by Claire Bloom
+49. Quran by Anonymous
+50. Antigone by Sophocles

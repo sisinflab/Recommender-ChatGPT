@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Great Gatsby by F. Scott Fitzgerald
+3. Brave New World by Aldous Huxley
+4. 1984 by George Orwell
+5. Animal Farm by George Orwell
+6. Lord of the Flies by William Golding
+7. The Catcher in the Rye by J.D. Salinger
+8. Fahrenheit 451 by Ray Bradbury
+9. The Picture of Dorian Gray by Oscar Wilde
+10. Jane Eyre by Charlotte Bronte
+11. Wuthering Heights by Emily Bronte
+12. Little Women by Louisa May Alcott
+13. Ethan Frome by Edith Wharton
+14. The Outsiders by S.E. Hinton
+15. Slaughterhouse-Five by Kurt Vonnegut
+16. The Other Boleyn Girl by Philippa Gregory
+17. Gone with the Wind by Margaret Mitchell
+18. The Adventures of Tom Sawyer by Mark Twain
+19. Alice's Adventures in Wonderland by Lewis Carroll
+20. Through the Looking-Glass by Lewis Carroll
+21. The Giving Tree by Shel Silverstein
+22. The Bible
+23. The Quran
+24. The Complete Works of William Shakespeare
+25. Macbeth by William Shakespeare
+26. Antony and Cleopatra by William Shakespeare
+27. The Hamlet by William Faulkner
+28. A Separate Peace by John Knowles
+29. A Clockwork Orange by Anthony Burgess
+30. The City of Ember by Jeanne DuPrau
+31. The Giver by Lois Lowry
+32. The Luxe by Anna Godbersen
+33. Stardust by Neil Gaiman
+34. Wolf Brother by Michelle Paver
+35. The Watchmen by Alan Moore
+36. Batman: The Killing Joke by Alan Moore
+37. Bone by Jeff Smith
+38. Red Dragon by Thomas Harris
+39. The Mayor of Casterbridge by Thomas Hardy
+40. The Satanic Verses by Salman Rushdie
+41. A People's History of the United States by Howard Zinn
+42. Isaac Asimov's Robot City by William F. Wu
+43. Eragon by Christopher Paolini
+44. American Gods by Neil Gaiman
+45. The Vampire Diaries by L.J. Smith
+46. Twilight by Stephenie Meyer
+47. Mockingjay by Suzanne Collins
+48. Of Mice and Men by John Steinbeck
+49. The Prince by Niccolo Machiavelli
+50. Book of Revelation by Saint John the Apostle

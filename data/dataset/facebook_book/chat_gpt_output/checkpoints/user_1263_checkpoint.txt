@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Wintergirls by Laurie Halse Anderson
+2. Speak by Laurie Halse Anderson
+3. Identical by Ellen Hopkins
+4. Glass by Ellen Hopkins
+5. Burned by Ellen Hopkins
+6. Impulse by Ellen Hopkins
+7. Perfect by Ellen Hopkins
+8. Tricks by Ellen Hopkins
+9. Fallout by Ellen Hopkins
+10. The Hunger Games by Suzanne Collins
+11. Catching Fire by Suzanne Collins
+12. Mockingjay by Suzanne Collins
+13. Divergent by Veronica Roth
+14. Insurgent by Veronica Roth
+15. Allegiant by Veronica Roth
+16. The Maze Runner by James Dashner
+17. The Scorch Trials by James Dashner
+18. The Death Cure by James Dashner
+19. The Giver by Lois Lowry
+20. Gathering Blue by Lois Lowry
+21. Messenger by Lois Lowry
+22. Son by Lois Lowry
+23. The Fault in Our Stars by John Green
+24. Looking for Alaska by John Green
+25. Paper Towns by John Green
+26. An Abundance of Katherines by John Green
+27. Thirteen Reasons Why by Jay Asher
+28. The Perks of Being a Wallflower by Stephen Chbosky
+29. The Book Thief by Markus Zusak
+30. If I Stay by Gayle Forman
+31. Where She Went by Gayle Forman
+32. Before I Fall by Lauren Oliver
+33. Delirium by Lauren Oliver
+34. Pandemonium by Lauren Oliver
+35. Requiem by Lauren Oliver
+36. The Selection by Kiera Cass
+37. The Elite by Kiera Cass
+38. The One by Kiera Cass
+39. The 5th Wave by Rick Yancey
+40. The Infinite Sea by Rick Yancey
+41. The Last Star by Rick Yancey
+42. The Girl on the Train by Paula Hawkins
+43. Gone Girl by Gillian Flynn
+44. Sharp Objects by Gillian Flynn
+45. Dark Places by Gillian Flynn
+46. The Girl with the Dragon Tattoo by Stieg Larsson
+47. The Girl Who Played with Fire by Stieg Larsson
+48. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+49. The Da Vinci Code by Dan Brown
+50. Angels and Demons by Dan Brown

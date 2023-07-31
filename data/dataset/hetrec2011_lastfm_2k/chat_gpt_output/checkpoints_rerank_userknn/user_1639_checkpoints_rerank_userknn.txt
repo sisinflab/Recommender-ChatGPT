@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Pink Floyd
+2. The Beatles
+3. Elton John
+4. Uriah Heep
+5. Scorpions
+6. Blackmore's Night
+7. Metallica
+8. The Rasmus
+9. Bon Jovi
+10. Rainbow
+11. Good Charlotte
+12. Bowling for Soup
+13. Dire Straits
+14. Robbie Williams
+15. Simon & Garfunkel
+16. System of a Down
+17. Queen
+18. Avril Lavigne
+19. Travis
+20. KISS
+21. ABBA
+22. Green Day
+23. Weird Al Yankovic
+24. The Corrs
+25. Juanes
+26. Nickelback
+27. Simple Plan
+28. Iron Maiden
+29. Sonata Arctica
+30. Gary Moore
+31. Electric Light Orchestra
+32. Eric Clapton
+33. Alice Cooper
+34. Yellowcard
+35. Mägo de Oz
+36. Bob Marley
+37. AC/DC
+38. Led Zeppelin
+39. The Rolling Stones
+40. Guns N' Roses
+41. Supertramp
+42. The Doors
+43. Frank Sinatra
+44. Alanis Morissette
+45. Miles Davis
+46. Cat Stevens
+47. Eagles
+48. Elvis Presley
+49. Billy Joel
+50. Santana

@@ -1,0 +1,49 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Harry Potter by J.K. Rowling
+2. The Lord of the Rings by J.R.R. Tolkien
+3. The Hobbit by J.R.R. Tolkien
+4. Alice's Adventures in Wonderland by Lewis Carroll
+5. The Kite Runner by Khaled Hosseini
+6. His Dark Materials by Philip Pullman
+7. Twilight (series) by Stephenie Meyer
+8. Dune (novel) by Frank Herbert
+9. Black Beauty by Anna Sewell
+10. Sophie's World by Jostein Gaarder
+11. Emma (novel) by Jane Austen
+12. The Autobiography of Malcolm X by Malcolm X
+13. Evermore (book) by Alyson Noël
+14. The Hunger Games by Suzanne Collins
+15. The Little Prince by Antoine de Saint-Exupéry
+16. A Midsummer Night's Dream by William Shakespeare
+17. Northanger Abbey by Jane Austen
+18. Frankenstein by Mary Shelley
+19. Bram Stoker's Dracula by Bram Stoker
+20. Franny and Zooey by J.D. Salinger
+21. Maximum Ride by James Patterson
+22. The Walking Dead (comic book) by Robert Kirkman
+23. The Hitchhiker's Guide to the Galaxy (novel) by Douglas Adams
+24. To Kill a Mockingbird by Harper Lee
+25. Fingersmith (novel) by Sarah Waters
+26. Merrick (novel) by Anne Rice
+27. The Tale of the Body Thief by Anne Rice
+28. Angels & Demons by Dan Brown
+29. Inferno (Dante) by Dante Alighieri
+30. Fear and Loathing in Las Vegas by Hunter S. Thompson
+31. Madame Bovary by Gustave Flaubert
+32. The Solitaire Mystery by Jostein Gaarder
+33. The Last Storytellers: Tales from the Heart of Morocco by Richard Hamilton
+34. Encyclopædia Britannica by Encyclopædia Britannica, Inc.
+35. Tuck Everlasting by Natalie Babbitt
+36. The Silmarillion by J.R.R. Tolkien
+37. An Inconvenient Book by Glenn Beck
+38. His Dark Materials by Philip Pullman
+39. Fushigi Yûgi by Yuu Watase
+40. Shopgirl (novella) by Steve Martin
+41. The Watchmen (novel) by Alan Moore
+42. Night (book) by Elie Wiesel
+43. Practical Magic (novel) by Alice Hoffman
+44. Le Morte d'Arthur by Thomas Malory
+45. City of Ashes by Cassandra Clare
+46. Ranger's Apprentice by John Flanagan
+47. Fathers and Sons (novel) by Ivan Turgenev

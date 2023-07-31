@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Alchemist by Paulo Coelho
+2. The Hunger Games by Suzanne Collins
+3. The Catcher in the Rye by J.D. Salinger
+4. To Kill a Mockingbird by Harper Lee
+5. The Fault in Our Stars by John Green
+6. The Book Thief by Markus Zusak
+7. 1984 by George Orwell
+8. Animal Farm by George Orwell
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Hobbit by J.R.R. Tolkien
+11. The Chronicles of Narnia by C.S. Lewis
+12. The Da Vinci Code by Dan Brown
+13. Angels and Demons by Dan Brown
+14. Inferno by Dan Brown
+15. The Girl with the Dragon Tattoo by Stieg Larsson
+16. The Girl Who Played with Fire by Stieg Larsson
+17. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+18. The Shining by Stephen King
+19. It by Stephen King
+20. Carrie by Stephen King
+21. Misery by Stephen King
+22. The Stand by Stephen King
+23. The Dark Tower series by Stephen King
+24. The Silence of the Lambs by Thomas Harris
+25. Red Dragon by Thomas Harris
+26. Hannibal by Thomas Harris
+27. The Bourne Identity by Robert Ludlum
+28. The Bourne Supremacy by Robert Ludlum
+29. The Bourne Ultimatum by Robert Ludlum
+30. The Bourne Legacy by Eric Van Lustbader
+31. The Bourne Betrayal by Eric Van Lustbader
+32. The Bourne Sanction by Eric Van Lustbader
+33. The Bourne Deception by Eric Van Lustbader
+34. The Bourne Objective by Eric Van Lustbader
+35. The Bourne Dominion by Eric Van Lustbader
+36. The Bourne Imperative by Eric Van Lustbader
+37. The Bourne Retribution by Eric Van Lustbader
+38. The Bourne Ascendancy by Eric Van Lustbader
+39. The Bourne Enigma by Eric Van Lustbader
+40. The Bourne Initiative by Eric Van Lustbader
+41. The Bourne Nemesis by Eric Van Lustbader
+42. The Bourne Evolution by Brian Freeman
+43. The Bourne Treachery by Brian Freeman
+44. The Bourne Retaliation by Brian Freeman
+45. The Bourne Ascendency by Brian Freeman
+46. The Bourne Resurrection by Brian Freeman
+47. The Bourne Enigma by Brian Freeman
+48. The Bourne Vendetta by Brian Freeman
+49. The Bourne Objective by Brian Freeman
+50. The Bourne Deception by Brian Freeman

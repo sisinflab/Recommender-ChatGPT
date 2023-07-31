@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Da Vinci Code by Dan Brown
+2. Inferno by Dan Brown
+3. The Lost Symbol by Dan Brown
+4. The Catcher in the Rye by J.D. Salinger
+5. 1984 by George Orwell
+6. Animal Farm by George Orwell
+7. To Kill a Mockingbird by Harper Lee
+8. The Great Gatsby by F. Scott Fitzgerald
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Hobbit by J.R.R. Tolkien
+11. The Chronicles of Narnia by C.S. Lewis
+12. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+13. The Hunger Games by Suzanne Collins
+14. Catching Fire by Suzanne Collins
+15. Mockingjay by Suzanne Collins
+16. Divergent by Veronica Roth
+17. Insurgent by Veronica Roth
+18. Allegiant by Veronica Roth
+19. The Maze Runner by James Dashner
+20. The Scorch Trials by James Dashner
+21. The Death Cure by James Dashner
+22. The Girl with the Dragon Tattoo by Stieg Larsson
+23. The Girl Who Played with Fire by Stieg Larsson
+24. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+25. The Bourne Identity by Robert Ludlum
+26. The Bourne Supremacy by Robert Ludlum
+27. The Bourne Ultimatum by Robert Ludlum
+28. The Firm by John Grisham
+29. The Pelican Brief by John Grisham
+30. A Time to Kill by John Grisham
+31. The Stand by Stephen King
+32. The Shining by Stephen King
+33. It by Stephen King
+34. The Silence of the Lambs by Thomas Harris
+35. Hannibal by Thomas Harris
+36. Red Dragon by Thomas Harris
+37. The Andromeda Strain by Michael Crichton
+38. Jurassic Park by Michael Crichton
+39. The Lost World by Michael Crichton
+40. The God of Small Things by Arundhati Roy
+41. The Kite Runner by Khaled Hosseini
+42. A Thousand Splendid Suns by Khaled Hosseini
+43. The Alchemist by Paulo Coelho
+44. One Hundred Years of Solitude by Gabriel Garcia Marquez
+45. Love in the Time of Cholera by Gabriel Garcia Marquez
+46. Crime and Punishment by Fyodor Dostoevsky
+47. War and Peace by Leo Tolstoy
+48. Anna Karenina by Leo Tolstoy
+49. The Brothers Karamazov by Fyodor Dostoevsky
+50. Pride and Prejudice by Jane Austen

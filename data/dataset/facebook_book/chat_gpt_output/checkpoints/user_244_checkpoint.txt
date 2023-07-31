@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Crime and Punishment by Fyodor Dostoyevsky
+2. The Hobbit by J.R.R. Tolkien
+3. A Clockwork Orange by Anthony Burgess
+4. The Catcher in the Rye by J.D. Salinger
+5. The Trial by Franz Kafka
+6. One Hundred Years of Solitude by Gabriel Garcia Marquez
+7. The Great Gatsby by F. Scott Fitzgerald
+8. The Stranger by Albert Camus
+9. To Kill a Mockingbird by Harper Lee
+10. The Name of the Rose by Umberto Eco
+11. 1984 by George Orwell
+12. The Bell Jar by Sylvia Plath
+13. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+14. The Master and Margarita by Mikhail Bulgakov
+15. The Sound and the Fury by William Faulkner
+16. The Sun Also Rises by Ernest Hemingway
+17. The Idiot by Fyodor Dostoyevsky
+18. The Lord of the Rings by J.R.R. Tolkien
+19. The Plague by Albert Camus
+20. The Brothers by Asko Sahlberg
+21. The Handmaid's Tale by Margaret Atwood
+22. The Metamorphosis by Franz Kafka
+23. The Picture of Dorian Gray by Oscar Wilde
+24. The Trial of Henry Kissinger by Christopher Hitchens
+25. The Unbearable Lightness of Being by Milan Kundera
+26. The Wind-Up Bird Chronicle by Haruki Murakami
+27. The Book Thief by Markus Zusak
+28. The Secret History by Donna Tartt
+29. The Shadow of the Wind by Carlos Ruiz Zafón
+30. The Poisonwood Bible by Barbara Kingsolver
+31. The God of Small Things by Arundhati Roy
+32. The Kite Runner by Khaled Hosseini
+33. The Road by Cormac McCarthy
+34. The Girl with the Dragon Tattoo by Stieg Larsson
+35. The Da Vinci Code by Dan Brown
+36. The Hunger Games by Suzanne Collins
+37. The Help by Kathryn Stockett
+38. The Lovely Bones by Alice Sebold
+39. The Time Traveler's Wife by Audrey Niffenegger
+40. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+41. The Fault in Our Stars by John Green
+42. The Maze Runner by James Dashner
+43. The Giver by Lois Lowry
+44. The Outsiders by S.E. Hinton
+45. The Perks of Being a Wallflower by Stephen Chbosky
+46. The Alchemist by Paulo Coelho
+47. The Celestine Prophecy by James Redfield
+48. The Power of Now by Eckhart Tolle
+49

@@ -1,0 +1,47 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Bell Jar by Sylvia Plath
+2. A Heartbreaking Work of Staggering Genius by Dave Eggers
+3. The Namesake by Jhumpa Lahiri
+4. Dune (novel) by Frank Herbert
+5. The History of Love by Nicole Krauss
+6. Metamorphoses by Ovid
+7. The Grapes of Wrath by John Steinbeck
+8. Infinite Jest by David Foster Wallace
+9. Madame Bovary by Gustave Flaubert
+10. Invisible Cities by Italo Calvino
+11. Dark-Hunter (series) by Sherrilyn Kenyon
+12. The Alchemist (novel) by Paulo Coelho
+13. The Tipping Point by Malcolm Gladwell
+14. A Portrait of the Artist as a Young Man by James Joyce
+15. The Da Vinci Code by Dan Brown
+16. The Thirteenth Tale by Diane Setterfield
+17. Nineteen Eighty-Four by George Orwell
+18. On the Road by Jack Kerouac
+19. The Perks of Being a Wallflower by Stephen Chbosky
+20. Brave New World by Aldous Huxley
+21. Harry Potter by J.K. Rowling
+22. The Awakening (Chopin novel) by Kate Chopin
+23. The Lord of the Rings by J.R.R. Tolkien
+24. Lullaby (Palahniuk novel) by Chuck Palahniuk
+25. Memoirs of a Geisha by Arthur Golden
+26. Never Let Me Go (novel) by Kazuo Ishiguro
+27. The Hunchback of Notre-Dame by Victor Hugo
+28. The Vampire Chronicles by Anne Rice
+29. Slaughterhouse-Five by Kurt Vonnegut
+30. The Witch of Portobello by Paulo Coelho
+31. Stranger than Fiction: True Stories by Chuck Palahniuk
+32. The Brothers Karamazov by Fyodor Dostoevsky
+33. The Unbearable Lightness of Being by Milan Kundera
+34. Ulysses (novel) by James Joyce
+35. Conversations with God by Neale Donald Walsch
+36. City of Ashes by Cassandra Clare
+37. Nietzsche: Philosopher, Psychologist, Antichrist by Walter Kaufmann
+38. Rose Madder (novel) by Stephen King
+39. Like Water for Chocolate by Laura Esquivel
+40. For Whom the Bell Tolls by Ernest Hemingway
+41. The Glass Bead Game by Hermann Hesse
+42. Freakonomics by Stephen J. Dubner and Steven Levitt
+43. Demian by Hermann Hesse
+44. All the Pretty Horses (novel) by Cormac McCarthy
+45

@@ -1,0 +1,46 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. A Brief History of Time by Stephen Hawking
+2. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+3. The Elements of Style by William Strunk Jr. and E. B. White
+4. The Brothers Karamazov by Fyodor Dostoyevsky
+5. Les Misérables by Victor Hugo
+6. The Waste Land by T. S. Eliot
+7. The Little Prince by Antoine de Saint-Exupéry
+8. White Noise by Don DeLillo
+9. The Chronicles of Narnia by C. S. Lewis
+10. The Canterbury Tales by Geoffrey Chaucer
+11. The Stranger by Albert Camus
+12. Of Mice and Men by John Steinbeck
+13. The Queen of the Damned by Anne Rice
+14. The Road to Reality by Roger Penrose
+15. The Maze Runner by James Dashner
+16. The Satanic Verses by Salman Rushdie
+17. The Woman in White by Wilkie Collins
+18. The Outsiders by S. E. Hinton
+19. The Killer Angels by Michael Shaara
+20. Gulliver's Travels by Jonathan Swift
+21. Nausea by Jean-Paul Sartre
+22. Franny and Zooey by J. D. Salinger
+23. The Prince by Niccolò Machiavelli
+24. Romeo and Juliet by William Shakespeare
+25. The Chronicles of Narnia: Prince Caspian by C. S. Lewis
+26. The Big Short by Michael Lewis
+27. Three Cups of Tea by Greg Mortenson and David Oliver Relin
+28. The Elements of Scientific Revolutions by Thomas S. Kuhn
+29. The Structure of Scientific Revolutions by Thomas S. Kuhn
+30. The Hamlet by William Faulkner
+31. The Wretched of the Earth by Frantz Fanon
+32. Universe by Robert Dinwiddie, Philip Eales, David Hughes, Iain Nicolson, Ian Ridpath, Giles Sparrow, Carole Stott, and Kevin Tildsley
+33. Twilight by Stephenie Meyer
+34. Everything Is Illuminated by Jonathan Safran Foer
+35. The Girl Who Played with Fire by Stieg Larsson
+36. Ender's Game by Orson Scott Card
+37. Decision Points by George W. Bush
+38. Les Fleurs du mal by Charles Baudelaire
+39. Tuck Everlasting by Natalie Babbitt
+40. Nineteen Eighty-Four by George Orwell
+41. Encyclopædia Britannica
+42. Pinheads and Patriots by Bill O'Reilly
+43. Walden by Henry David Thoreau
+44. Snow Flower and the Secret Fan by Lisa

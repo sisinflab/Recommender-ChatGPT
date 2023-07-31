@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Twilight by Stephenie Meyer
+3. The Girl with the Dragon Tattoo by Stieg Larsson
+4. The Da Vinci Code by Dan Brown
+5. The Help by Kathryn Stockett
+6. The Fault in Our Stars by John Green
+7. Gone Girl by Gillian Flynn
+8. The Maze Runner by James Dashner
+9. Divergent by Veronica Roth
+10. The Book Thief by Markus Zusak
+11. The Lovely Bones by Alice Sebold
+12. The Time Traveler's Wife by Audrey Niffenegger
+13. The Secret Life of Bees by Sue Monk Kidd
+14. Water for Elephants by Sara Gruen
+15. The Kite Runner by Khaled Hosseini
+16. The Alchemist by Paulo Coelho
+17. The Catcher in the Rye by J.D. Salinger
+18. The Picture of Dorian Gray by Oscar Wilde
+19. The Great Gatsby by F. Scott Fitzgerald
+20. To Kill a Mockingbird by Harper Lee
+21. 1984 by George Orwell
+22. Animal Farm by George Orwell
+23. Brave New World by Aldous Huxley
+24. Fahrenheit 451 by Ray Bradbury
+25. The Handmaid's Tale by Margaret Atwood
+26. The Lord of the Rings by J.R.R. Tolkien
+27. Harry Potter and the Philosopher's Stone by J.K. Rowling
+28. The Hobbit by J.R.R. Tolkien
+29. The Chronicles of Narnia by C.S. Lewis
+30. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+31. Ender's Game by Orson Scott Card
+32. The Name of the Wind by Patrick Rothfuss
+33. The Lies of Locke Lamora by Scott Lynch
+34. The Way of Kings by Brandon Sanderson
+35. Mistborn by Brandon Sanderson
+36. The Blade Itself by Joe Abercrombie
+37. The Black Company by Glen Cook
+38. The First Law Trilogy by Joe Abercrombie
+39. The Kingkiller Chronicle by Patrick Rothfuss
+40. The Stormlight Archive by Brandon Sanderson
+41. The Malazan Book of the Fallen by Steven Erikson
+42. The Wheel of Time by Robert Jordan
+43. The Dark Tower by Stephen King
+44. The Dresden Files by Jim Butcher
+45. The Belgariad by David Eddings
+46. The Sword of Truth by Terry Goodkind
+47. The Chronicles of Amber by Roger Zelazny
+48. The Earthsea Cycle by Ursula K. Le Guin
+49. The Farseer Trilogy by Robin Hobb
+50. The Liveship Traders Trilogy by Robin Hobb

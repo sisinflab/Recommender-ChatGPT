@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Harry Potter series by J.K. Rowling
+2. Percy Jackson & the Olympians series by Rick Riordan
+3. Inkspell by Cornelia Funke
+4. Inkheart by Cornelia Funke
+5. The Alchemist by Paulo Coelho
+6. A Wrinkle in Time by Madeleine L'Engle
+7. The Tale of Despereaux by Kate DiCamillo
+8. Ender's Game by Orson Scott Card
+9. Mistborn: The Hero of Ages by Brandon Sanderson
+10. The Book Thief by Markus Zusak
+11. A Thousand Splendid Suns by Khaled Hosseini
+12. The Great Gatsby by F. Scott Fitzgerald
+13. To Kill a Mockingbird by Harper Lee
+14. Romeo and Juliet by William Shakespeare
+15. The Catcher in the Rye by J.D. Salinger
+16. The Outsiders by S.E. Hinton
+17. Guardians of Ga'Hoole: The Capture by Kathryn Lasky
+18. A Series of Unfortunate Events by Lemony Snicket
+19. The Picture of Dorian Gray by Oscar Wilde
+20. Angels & Demons by Dan Brown
+21. Macbeth by William Shakespeare
+22. The Crucible of Time by John Brunner
+23. Witch & Wizard by James Patterson
+24. Nineteen Eighty-Four by George Orwell
+25. The Sisterhood of the Traveling Pants by Ann Brashares
+26. Dragon Rider by Cornelia Funke
+27. The Bean Trees by Barbara Kingsolver
+28. A Tree Grows in Brooklyn by Betty Smith
+29. Black Beauty by Anna Sewell
+30. Diary by Chuck Palahniuk
+31. Love Hina by Ken Akamatsu
+32. Manga by Various Authors
+33. Fell by David Clement-Davies
+34. Rant by Chuck Palahniuk
+35. Catching Fire by Suzanne Collins
+36. Mockingjay by Suzanne Collins
+37. The Reader by Bernhard Schlink
+38. Dracula by Bram Stoker
+39. The Sight by David Clement-Davies
+40. Invisible Monsters by Chuck Palahniuk
+41. Skeleton Creek by Patrick Carman
+42. Animorphs by K.A. Applegate
+43. A Memory of Light by Robert Jordan and Brandon Sanderson
+44. Cirque du Freak by Darren Shan
+45. Witch & Wizard by James Patterson
+46. Alchemy by Margaret Mahy
+47. The Cat Who Saw Red by Lilian Jackson Braun
+48. Divine Comedy by Dante Alighieri
+49. Bible by Various Authors
+50. The Jungle Book by Rudyard Kipling

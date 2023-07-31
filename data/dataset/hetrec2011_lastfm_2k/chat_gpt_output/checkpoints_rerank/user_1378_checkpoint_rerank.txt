@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Sigur Rós
+2. Boards of Canada
+3. DJ Shadow
+4. Nick Drake
+5. Devendra Banhart
+6. Édith Piaf
+7. A Silver Mt. Zion
+8. The Velvet Underground
+9. Tom Waits
+10. The Clash
+11. The Jesus and Mary Chain
+12. Iron & Wine
+13. Best Coast
+14. múm
+15. Beck
+16. The White Stripes
+17. Prefuse 73
+18. A Tribe Called Quest
+19. Pink Floyd
+20. The Beatles
+21. Radiohead
+22. Muse
+23. Nirvana
+24. Led Zeppelin
+25. Metallica
+26. Pearl Jam
+27. Coldplay
+28. Blur
+29. Arctic Monkeys
+30. Placebo
+31. The Killers
+32. U2
+33. Duran Duran
+34. Michael Jackson
+35. Madonna
+36. Björk
+37. Daft Punk
+38. Nine Inch Nails
+39. Linkin Park
+40. System of a Down
+41. Amy Winehouse
+42. Green Day
+43. My Chemical Romance
+44. Avenged Sevenfold
+45. Black Eyed Peas
+46. P!nk
+47. Kelly Clarkson
+48. Lady Gaga
+49. Rihanna
+50. Shakira

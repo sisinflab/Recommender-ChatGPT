@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Metallica
+2. Slipknot
+3. System of a Down
+4. Iron Maiden
+5. Rammstein
+6. Muse
+7. Nightwish
+8. Chevelle
+9. All That Remains
+10. Trivium
+11. As I Lay Dying
+12. Killswitch Engage
+13. Rise Against
+14. Soilwork
+15. Volbeat
+16. Sum 41
+17. Alestorm
+18. Helloween
+19. Arch Enemy
+20. Breaking Benjamin
+21. Papa Roach
+22. Dethklok
+23. The Red Jumpsuit Apparatus
+24. Lamb of God
+25. Stone Sour
+26. Guns N' Roses
+27. Linkin Park
+28. Nine Inch Nails
+29. Led Zeppelin
+30. Disturbed
+31. Machine Head
+32. Bullet for My Valentine
+33. Lacuna Coil
+34. Amorphis
+35. In Flames
+36. A Perfect Circle
+37. Avenged Sevenfold
+38. Eluveitie
+39. 30 Seconds to Mars
+40. KISS
+41. Poets of the Fall
+42. Soundgarden
+43. Isis
+44. Infected Mushroom
+45. Dark Tranquillity
+46. Sonata Arctica
+47. Skillet
+48. Alter Bridge
+49. Epica
+50. Pink Floyd

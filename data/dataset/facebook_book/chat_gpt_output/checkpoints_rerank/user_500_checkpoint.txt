@@ -1,0 +1,52 @@
+Based on the user's liking history, here are the top 50 book recommendations:
+
+1. Harry Potter
+2. The Hobbit
+3. The Lord of the Rings
+4. Frankenstein
+5. Dracula
+6. The Picture of Dorian Gray
+7. The Great Gatsby
+8. Brave New World
+9. Crime and Punishment
+10. The Scarlet Letter
+11. Invisible Man
+12. The Stand
+13. Pygmalion (play)
+14. The Giver
+15. The Maze Runner
+16. Across the Universe (novel)
+17. The City of Ember
+18. Medea (play)
+19. The Southern Vampire Mysteries
+20. Twilight Eyes
+21. Vampire Kisses
+22. The Phantom of the Opera
+23. The Rapture (novel)
+24. Shakespeares sonnets
+25. A Series of Unfortunate Events
+26. The House of Mirth
+27. The Tenant of Wildfell Hall
+28. List of Scott Pilgrim characters
+29. The Lost Books (novel series)
+30. Maximum Ride by []
+31. The Lovely Bones by ['Alice Sebold']
+32. Wyvernhail by ['Amelia Atwater-Rhodes']
+33. Falcondance by ['Amelia Atwater-Rhodes']
+34. Hawksong by ['Amelia Atwater-Rhodes']
+35. In the Forests of the Night by ['Amelia Atwater-Rhodes']
+36. Shattered Mirror by ['Amelia Atwater-Rhodes']
+37. Delta of Venus
+38. Dexter in the Dark
+39. Incarceron
+40. Made in America (book)
+41. World War Z
+42. And the Ass Saw the Angel
+43. Cut (novel)
+44. The Pillowman
+45. Gravitys Rainbow
+46. Dragon Ball Z
+47. Gantz
+48. If There Be Thorns
+49. Petals on the Wind
+50. The Outsiders (novel)

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Harry Potter and the Philosopher's Stone by J.K. Rowling
+3. The Fault in Our Stars by John Green
+4. To Kill a Mockingbird by Harper Lee
+5. The Catcher in the Rye by J.D. Salinger
+6. The Great Gatsby by F. Scott Fitzgerald
+7. 1984 by George Orwell
+8. Animal Farm by George Orwell
+9. The Hobbit by J.R.R. Tolkien
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Chronicles of Narnia by C.S. Lewis
+12. The Da Vinci Code by Dan Brown
+13. Angels and Demons by Dan Brown
+14. The Girl with the Dragon Tattoo by Stieg Larsson
+15. The Girl Who Played with Fire by Stieg Larsson
+16. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+17. The Alchemist by Paulo Coelho
+18. The Kite Runner by Khaled Hosseini
+19. A Thousand Splendid Suns by Khaled Hosseini
+20. The Book Thief by Markus Zusak
+21. The Help by Kathryn Stockett
+22. The Secret Life of Bees by Sue Monk Kidd
+23. The Color Purple by Alice Walker
+24. The Joy Luck Club by Amy Tan
+25. Memoirs of a Geisha by Arthur Golden
+26. The Picture of Dorian Gray by Oscar Wilde
+27. Wuthering Heights by Emily Bronte
+28. Pride and Prejudice by Jane Austen
+29. Sense and Sensibility by Jane Austen
+30. Emma by Jane Austen
+31. Persuasion by Jane Austen
+32. Northanger Abbey by Jane Austen
+33. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+34. The Hound of the Baskervilles by Arthur Conan Doyle
+35. The Memoirs of Sherlock Holmes by Arthur Conan Doyle
+36. The Return of Sherlock Holmes by Arthur Conan Doyle
+37. The Valley of Fear by Arthur Conan Doyle
+38. The Sign of Four by Arthur Conan Doyle
+39. The Adventures of Tom Sawyer by Mark Twain
+40. The Adventures of Huckleberry Finn by Mark Twain
+41. The Picture of Dorian Gray by Oscar Wilde
+42. The Importance of Being Earnest by Oscar Wilde
+43. The Canterbury Tales by Geoffrey Chaucer
+44. The Divine Comedy by Dante Alighieri
+45. The Iliad by Homer
+46. The Odyssey by Homer
+47. The Aeneid by Virgil
+48. The Inferno by Dante Alighieri
+49. The Decameron by Giovanni Boccaccio
+50. The Canterbury Tales by Geoffrey Chaucer

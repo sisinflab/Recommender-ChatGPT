@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Kite Runner by Khaled Hosseini
+2. The Girl on the Train by Paula Hawkins
+3. To Kill a Mockingbird by Harper Lee
+4. The Catcher in the Rye by J.D. Salinger
+5. The Great Gatsby by F. Scott Fitzgerald
+6. 1984 by George Orwell
+7. Pride and Prejudice by Jane Austen
+8. The Hunger Games by Suzanne Collins
+9. The Da Vinci Code by Dan Brown
+10. The Hobbit by J.R.R. Tolkien
+11. The Lord of the Rings by J.R.R. Tolkien
+12. The Chronicles of Narnia by C.S. Lewis
+13. The Fault in Our Stars by John Green
+14. The Book Thief by Markus Zusak
+15. The Help by Kathryn Stockett
+16. The Secret Life of Bees by Sue Monk Kidd
+17. The Color Purple by Alice Walker
+18. The Joy Luck Club by Amy Tan
+19. The God of Small Things by Arundhati Roy
+20. The Namesake by Jhumpa Lahiri
+21. The Poisonwood Bible by Barbara Kingsolver
+22. The Time Traveler's Wife by Audrey Niffenegger
+23. The Lovely Bones by Alice Sebold
+24. The Picture of Dorian Gray by Oscar Wilde
+25. The Bell Jar by Sylvia Plath
+26. The Handmaid's Tale by Margaret Atwood
+27. The Road by Cormac McCarthy
+28. The Stand by Stephen King
+29. The Shining by Stephen King
+30. The Silence of the Lambs by Thomas Harris
+31. The Bourne Identity by Robert Ludlum
+32. The Firm by John Grisham
+33. The Andromeda Strain by Michael Crichton
+34. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+35. The Martian by Andy Weir
+36. The Hunger Games Trilogy by Suzanne Collins
+37. The Maze Runner by James Dashner
+38. The Giver by Lois Lowry
+39. The Outsiders by S.E. Hinton
+40. The Perks of Being a Wallflower by Stephen Chbosky
+41. The Fault in Our Stars by John Green
+42. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+43. The Book of Lost Things by John Connolly
+44. The Nightingale by Kristin Hannah
+45. The Help by Kathryn Stockett
+46. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+47. The Glass Castle by Jeannette Walls
+48. The Devil in the White City by Erik Larson
+49. The Boys in the Boat by Daniel James Brown
+50. The Wright Brothers by David McCullough

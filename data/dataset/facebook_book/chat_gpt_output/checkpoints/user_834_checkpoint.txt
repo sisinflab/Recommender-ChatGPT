@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. The Bell Jar by Sylvia Plath
+3. The Perks of Being a Wallflower by Stephen Chbosky
+4. The Fault in Our Stars by John Green
+5. The Hunger Games by Suzanne Collins
+6. Divergent by Veronica Roth
+7. The Maze Runner by James Dashner
+8. The Giver by Lois Lowry
+9. The Book Thief by Markus Zusak
+10. To Kill a Mockingbird by Harper Lee
+11. 1984 by George Orwell
+12. Animal Farm by George Orwell
+13. Brave New World by Aldous Huxley
+14. Fahrenheit 451 by Ray Bradbury
+15. Lord of the Flies by William Golding
+16. The Lord of the Rings by J.R.R. Tolkien
+17. Harry Potter series by J.K. Rowling
+18. The Hobbit by J.R.R. Tolkien
+19. The Chronicles of Narnia by C.S. Lewis
+20. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+21. Ender's Game by Orson Scott Card
+22. The Alchemist by Paulo Coelho
+23. The Da Vinci Code by Dan Brown
+24. Angels and Demons by Dan Brown
+25. The Girl with the Dragon Tattoo by Stieg Larsson
+26. The Girl Who Played with Fire by Stieg Larsson
+27. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+28. The Bourne Identity by Robert Ludlum
+29. The Bourne Supremacy by Robert Ludlum
+30. The Bourne Ultimatum by Robert Ludlum
+31. The Hunger Games: Catching Fire by Suzanne Collins
+32. The Hunger Games: Mockingjay by Suzanne Collins
+33. Insurgent by Veronica Roth
+34. Allegiant by Veronica Roth
+35. The Scorch Trials by James Dashner
+36. The Death Cure by James Dashner
+37. The Kill Order by James Dashner
+38. The City of Ember by Jeanne DuPrau
+39. The People of Sparks by Jeanne DuPrau
+40. The Prophet of Yonwood by Jeanne DuPrau
+41. The Diamond of Darkhold by Jeanne DuPrau
+42. The Lightning Thief by Rick Riordan
+43. The Sea of Monsters by Rick Riordan
+44. The Titan's Curse by Rick Riordan
+45. The Battle of the Labyrinth by Rick Riordan
+46. The Last Olympian by Rick Riordan
+47. The Lost Hero by Rick Riordan
+48. The Son of Neptune by Rick Riordan
+49. The Mark of Athena by Rick Riordan
+50. The House of H

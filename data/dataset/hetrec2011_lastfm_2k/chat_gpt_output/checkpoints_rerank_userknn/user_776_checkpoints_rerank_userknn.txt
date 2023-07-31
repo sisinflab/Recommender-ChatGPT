@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Linkin Park
+2. Nirvana
+3. The Beatles
+4. Red Hot Chili Peppers
+5. Eminem
+6. Korn
+7. Blink-182
+8. Killswitch Engage
+9. Limp Bizkit
+10. Trivium
+11. Misfits
+12. NOFX
+13. Hatebreed
+14. Suicide Silence
+15. Converge
+16. Caliban
+17. Despised Icon
+18. Alexisonfire
+19. Born of Osiris
+20. Emmure
+21. Silverchair
+22. Soundgarden
+23. Alice in Chains
+24. Pearl Jam
+25. Bush
+26. My Chemical Romance
+27. Foo Fighters
+28. Incubus
+29. Fall Out Boy
+30. Papa Roach
+31. Crystal Castles
+32. Metallica
+33. AC/DC
+34. Judas Priest
+35. David Bowie
+36. Modest Mouse
+37. Boards of Canada
+38. Tom Waits
+39. The Smiths
+40. Gorillaz
+41. Blur
+42. Paramore
+43. P.O.D.
+44. Fightstar
+45. The Used
+46. Daft Punk
+47. Maroon 5
+48. Bauhaus
+49. Joy Division
+50. Louis Armstrong

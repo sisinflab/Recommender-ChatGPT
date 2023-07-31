@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Harry Potter by J.K. Rowling
+2. The Hunger Games by Suzanne Collins
+3. Catching Fire by Suzanne Collins
+4. Mockingjay by Suzanne Collins
+5. His Dark Materials by Philip Pullman
+6. The Maze Runner by James Dashner
+7. The Bourne Identity by Robert Ludlum
+8. Lord of the Flies by William Golding
+9. Life of Pi by Yann Martel
+10. The Da Vinci Code by Dan Brown
+11. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+12. The Kite Runner by Khaled Hosseini
+13. A Series of Unfortunate Events by Lemony Snicket
+14. Eragon by Christopher Paolini
+15. The Time Traveler's Wife by Audrey Niffenegger
+16. Romeo and Juliet by William Shakespeare
+17. A Midsummer Night's Dream by William Shakespeare
+18. Villette by Charlotte Bronte
+19. Alice's Adventures in Wonderland by Lewis Carroll
+20. The Truth About Forever by Sarah Dessen
+21. Looking for Alaska by John Green
+22. Paper Towns by John Green
+23. An Abundance of Katherines by John Green
+24. The Lovely Bones by Alice Sebold
+25. If I Stay by Gayle Forman
+26. Sarah's Key by Tatiana de Rosnay
+27. The Boy in the Striped Pyjamas by John Boyne
+28. The War of the Worlds by H.G. Wells
+29. The Catcher in the Rye by J.D. Salinger
+30. Island of the Blue Dolphins by Scott O'Dell
+31. Holes by Louis Sachar
+32. Speak by Laurie Halse Anderson
+33. Gathering Blue by Lois Lowry
+34. A Great and Terrible Beauty by Libba Bray
+35. The Wolves of Mercy Falls by Maggie Stiefvater
+36. The Sight by David Clement-Davies
+37. Anne of Green Gables by L.M. Montgomery
+38. The Hardy Boys by Franklin W. Dixon
+39. The Last Sin Eater by Francine Rivers
+40. The People of Sparks by Jeanne DuPrau
+41. A Northern Light by Jennifer Donnelly
+42. Uglies by Scott Westerfeld
+43. Graceling by Kristin Cashore
+44. Fire by Kristin Cashore
+45. The Goose Girl by Shannon Hale
+46. Small Gods by Terry Pratchett
+47. Perfect Chemistry by Simone Elkeles
+48. Brisingr by Christopher Paolini
+49. Quran by Anonymous
+50. Bible by Anonymous

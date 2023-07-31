@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The House of the Scorpion by Nancy Farmer
+2. Anansi Boys by Neil Gaiman
+3. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+4. Inkdeath by Cornelia Funke
+5. Les Misérables by Victor Hugo
+6. A Clash of Kings by George R.R. Martin
+7. The Historian by Elizabeth Kostova
+8. Romeo and Juliet by William Shakespeare
+9. Frankenstein by Mary Shelley
+10. The Silence of the Lambs by Thomas Harris
+11. Harry Potter series by J.K. Rowling
+12. Snow Flower and the Secret Fan by Lisa See
+13. Percy Jackson & the Olympians series by Rick Riordan
+14. Angels & Demons by Dan Brown
+15. The Lost Symbol by Dan Brown
+16. Flowers for Algernon by Daniel Keyes
+17. Pride and Prejudice by Jane Austen
+18. The Wonderful Wizard of Oz by L. Frank Baum
+19. Crime and Punishment by Fyodor Dostoevsky
+20. Sense and Sensibility by Jane Austen
+21. Jane Eyre by Charlotte Bronte
+22. The Awakening by Kate Chopin
+23. A Farewell to Arms by Ernest Hemingway
+24. Wuthering Heights by Emily Bronte
+25. A Connecticut Yankee in King Arthur's Court by Mark Twain
+26. Out of the Dust by Karen Hesse
+27. The Gospel of Matthew
+28. The Gospel of Mark
+29. The Book of Revelation
+30. The King James Version of the Bible
+31. The Five People You Meet in Heaven by Mitch Albom
+32. Tunnels by Roderick Gordon and Brian Williams
+33. Crime by Irvine Welsh
+34. The Memory Keeper's Daughter by Kim Edwards
+35. Macbeth by William Shakespeare
+36. The Crow by Alison Croggon
+37. The Tombs of Atuan by Ursula K. Le Guin
+38. A Wizard of Earthsea by Ursula K. Le Guin
+39. The Autobiography of Malcolm X by Malcolm X
+40. New Arabian Nights by Robert Louis Stevenson
+41. Dracula by Bram Stoker
+42. Black Like Me by John Howard Griffin
+43. Kindred by Octavia Butler
+44. Night by Elie Wiesel
+45. Johnny the Homicidal Maniac by Jhonen Vasquez
+46. Studies of the Book of Mormon by Brigham Young University
+47. Fall of Giants by Ken Follett
+48. Vanity Fair by William Makepeace Thackeray
+49. Timeline by Michael Crichton
+50. The Last Song by Nicholas Sparks

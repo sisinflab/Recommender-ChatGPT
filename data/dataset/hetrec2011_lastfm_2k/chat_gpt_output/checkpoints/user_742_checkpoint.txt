@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Lana Del Rey
+2. Lorde
+3. Hozier
+4. The xx
+5. London Grammar
+6. Bon Iver
+7. Sia
+8. James Blake
+9. Alt-J
+10. The National
+11. Radiohead
+12. Arcade Fire
+13. Tame Impala
+14. Vampire Weekend
+15. The Black Keys
+16. Arctic Monkeys
+17. The Strokes
+18. Phoenix
+19. MGMT
+20. Daft Punk
+21. Justice
+22. The Chemical Brothers
+23. LCD Soundsystem
+24. Hot Chip
+25. Disclosure
+26. Jamie xx
+27. SBTRKT
+28. Flume
+29. Chet Faker
+30. Grimes
+31. FKA Twigs
+32. Solange
+33. Frank Ocean
+34. Kendrick Lamar
+35. Childish Gambino
+36. Janelle Monáe
+37. Anderson .Paak
+38. Thundercat
+39. Tyler, The Creator
+40. Mac Miller
+41. Billie Eilish
+42. Dua Lipa
+43. Ariana Grande
+44. Taylor Swift
+45. Halsey
+46. Charli XCX
+47. Marina and the Diamonds
+48. Florence Welch (solo)
+49. Marina Diamandis (solo)
+50. Lykke Li (solo)

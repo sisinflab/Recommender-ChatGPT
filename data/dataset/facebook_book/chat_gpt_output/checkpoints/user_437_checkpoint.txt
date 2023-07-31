@@ -1,0 +1,49 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. 1984 by George Orwell
+3. To Kill a Mockingbird by Harper Lee
+4. The Catcher in the Rye by J.D. Salinger
+5. The Lord of the Rings by J.R.R. Tolkien
+6. Harry Potter and the Philosopher's Stone by J.K. Rowling
+7. The Da Vinci Code by Dan Brown
+8. The Girl with the Dragon Tattoo by Stieg Larsson
+9. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+10. The Great Gatsby by F. Scott Fitzgerald
+11. Animal Farm by George Orwell
+12. The Hobbit by J.R.R. Tolkien
+13. The Shining by Stephen King
+14. The Stand by Stephen King
+15. The Silence of the Lambs by Thomas Harris
+16. The Girl on the Train by Paula Hawkins
+17. The Help by Kathryn Stockett
+18. The Kite Runner by Khaled Hosseini
+19. The Alchemist by Paulo Coelho
+20. The Picture of Dorian Gray by Oscar Wilde
+21. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+22. The War of the Worlds by H.G. Wells
+23. The Time Machine by H.G. Wells
+24. The Invisible Man by H.G. Wells
+25. The Island of Dr. Moreau by H.G. Wells
+26. The Martian by Andy Weir
+27. The Road by Cormac McCarthy
+28. The Book Thief by Markus Zusak
+29. The Fault in Our Stars by John Green
+30. The Maze Runner by James Dashner
+31. The Bourne Identity by Robert Ludlum
+32. The Bourne Supremacy by Robert Ludlum
+33. The Bourne Ultimatum by Robert Ludlum
+34. The Bourne Legacy by Eric Van Lustbader
+35. The Hunger Games: Catching Fire by Suzanne Collins
+36. The Hunger Games: Mockingjay by Suzanne Collins
+37. The Girl Who Played with Fire by Stieg Larsson
+38. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+39. The Name of the Wind by Patrick Rothfuss
+40. The Wise Man's Fear by Patrick Rothfuss
+41. The Fellowship of the Ring by J.R.R. Tolkien
+42. The Two Towers by J.R.R. Tolkien
+43. The Return of the King by J.R.R. Tolkien
+44. The Silmarillion by J.R.R. Tolkien
+45. The Children of Hurin by J.R.R. Tolkien
+46. The Hobbit: The Desolation of Smaug by J.R.R. Tolkien
+47. The Hobbit: The Battle of the Five Armies by J.R.R.

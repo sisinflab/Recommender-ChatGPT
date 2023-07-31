@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Led Zeppelin
+2. Black Sabbath
+3. Deep Purple
+4. Iron Maiden
+5. AC/DC
+6. Pink Floyd
+7. Queen
+8. The Beatles
+9. Judas Priest
+10. Slayer
+11. Ozzy Osbourne
+12. Rainbow
+13. Whitesnake
+14. Uriah Heep
+15. Blind Guardian
+16. Gregorian
+17. Blue Öyster Cult
+18. Phil Collins
+19. The Doors
+20. Melvins
+21. Metallica
+22. Nirvana
+23. Pearl Jam
+24. System of a Down
+25. Nine Inch Nails
+26. Linkin Park
+27. Avenged Sevenfold
+28. My Chemical Romance
+29. Green Day
+30. The Cure
+31. Muse
+32. U2
+33. 30 Seconds to Mars
+34. Arctic Monkeys
+35. Placebo
+36. The Killers
+37. Radiohead
+38. Duran Duran
+39. Coldplay
+40. Blur
+41. Michael Jackson
+42. Madonna
+43. Lady Gaga
+44. Beyoncé
+45. Rihanna
+46. Shakira
+47. Christina Aguilera
+48. Britney Spears
+49. Ke$ha
+50. Katy Perry

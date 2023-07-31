@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Justin Timberlake
+2. Backstreet Boys
+3. *NSYNC
+4. Jesse McCartney
+5. David Archuleta
+6. Lady Gaga
+7. Britney Spears
+8. Rihanna
+9. Michael Jackson
+10. Beyoncé
+11. Usher
+12. Christina Aguilera
+13. Katy Perry
+14. Justin Bieber
+15. Noize MC
+16. Miley Cyrus
+17. Darren Hayes
+18. Craig David
+19. Eminem
+20. Nirvana
+21. The Pussycat Dolls
+22. Chris Brown
+23. Green Day
+24. Westlife
+25. Alicia Keys
+26. Madonna
+27. Metro Station
+28. 3 Doors Down
+29. Ke$ha
+30. Leona Lewis
+31. Simple Plan
+32. Kelis
+33. Glee Cast
+34. Avril Lavigne
+35. Taylor Swift
+36. Evanescence
+37. Shakira
+38. The Beatles
+39. Paramore
+40. Muse
+41. Pink Floyd
+42. Kylie Minogue
+43. Radiohead
+44. Duran Duran
+45. Coldplay
+46. Blur
+47. Arctic Monkeys
+48. Placebo
+49. The Killers
+50. Iron Maiden

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Nineteen Eighty-Four by George Orwell
+2. Fahrenheit 451 by Ray Bradbury
+3. To Kill a Mockingbird by Harper Lee
+4. Frankenstein by Mary Shelley
+5. Crime and Punishment by Fyodor Dostoevsky
+6. The Picture of Dorian Gray by Oscar Wilde
+7. The Island of Doctor Moreau by H.G. Wells
+8. The Hunchback of Notre-Dame by Victor Hugo
+9. Brave New World by Aldous Huxley
+10. The Secret History by Donna Tartt
+11. The Call of the Wild by Jack London
+12. The Good Earth by Pearl S. Buck
+13. The Mayor of Casterbridge by Thomas Hardy
+14. A Clockwork Orange by Anthony Burgess
+15. The Giver by Lois Lowry
+16. The Last Lecture by Randy Pausch
+17. The Prince by Niccolò Machiavelli
+18. All Quiet on the Western Front by Erich Maria Remarque
+19. The Hamlet by William Faulkner
+20. My Sister's Keeper by Jodi Picoult
+21. Alice's Adventures in Wonderland by Lewis Carroll
+22. The Glass Bead Game by Hermann Hesse
+23. Invisible Man by Ralph Ellison
+24. In Cold Blood by Truman Capote
+25. Eragon by Christopher Paolini
+26. Never Let Me Go by Kazuo Ishiguro
+27. The Hatchet by Gary Paulsen
+28. Inferno by Dante Alighieri
+29. As Simple as Snow by Gregory Galloway
+30. Rosemary's Baby by Ira Levin
+31. Nietzsche: Philosopher, Psychologist, Antichrist by Walter Kaufmann
+32. For Whom the Bell Tolls by Ernest Hemingway
+33. High Fidelity by Nick Hornby
+34. Steppenwolf by Hermann Hesse
+35. Invisible Cities by Italo Calvino
+36. Lolita by Vladimir Nabokov
+37. The Age of Innocence by Edith Wharton
+38. The Zombie Survival Guide by Max Brooks
+39. Batman: The Killing Joke by Alan Moore
+40. Anthem by Ayn Rand
+41. The Green Mile by Stephen King
+42. Breakfast of Champions by Kurt Vonnegut
+43. One Hundred Years of Solitude by Gabriel García Márquez
+44. Slaughterhouse-Five by Kurt Vonnegut
+45. Velocity by Dean Koontz
+46. A Wolf at the Table by Augusten Burroughs
+47. The Picture of Dorian Gray by Oscar Wilde
+48. The Green Mile by Stephen King
+49. Twilight by Stephenie Meyer
+50. Thirteen Reasons Why by Jay Asher

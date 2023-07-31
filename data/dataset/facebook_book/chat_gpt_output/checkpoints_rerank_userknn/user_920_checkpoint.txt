@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Vampire Chronicles by Anne Rice
+2. Harry Potter series by J.K. Rowling
+3. His Dark Materials by Philip Pullman
+4. Twilight series by Stephenie Meyer
+5. The Lord of the Rings by J.R.R. Tolkien
+6. Frankenstein by Mary Shelley
+7. Memoirs of a Geisha by Arthur Golden
+8. Nineteen Eighty-Four by George Orwell
+9. I Am Legend by Richard Matheson
+10. Misery by Stephen King
+11. The Dead Zone by Stephen King
+12. The Bell Jar by Sylvia Plath
+13. Girl, Interrupted by Susanna Kaysen
+14. The Hobbit by J.R.R. Tolkien
+15. Catch-22 by Joseph Heller
+16. Gulliver's Travels by Jonathan Swift
+17. Animal Farm by George Orwell
+18. David Copperfield by Charles Dickens
+19. Treasure Island by Robert Louis Stevenson
+20. The Grapes of Wrath by John Steinbeck
+21. Roll of Thunder, Hear My Cry by Mildred D. Taylor
+22. Lorna Doone by R.D. Blackmore
+23. Emma by Jane Austen
+24. The Red Queen: Sex and the Evolution of Human Nature by Matt Ridley
+25. The Watchmen by Alan Moore
+26. Code to Zero by Ken Follett
+27. The Iliad by Homer
+28. Bag of Bones by Stephen King
+29. Needful Things by Stephen King
+30. The Five People You Meet in Heaven by Mitch Albom
+31. Shane by Jack Schaefer
+32. Burnt Offerings by Laurell K. Hamilton
+33. Rose Madder by Stephen King
+34. Circus of the Damned by Laurell K. Hamilton
+35. Obsidian Butterfly by Laurell K. Hamilton
+36. Kushiel's Dart by Jacqueline Carey
+37. Narcissus in Chains by Laurell K. Hamilton
+38. Abhorsen by Garth Nix
+39. Twilight Eyes by Dean Koontz
+40. D.N.Angel by Yukiru Sugisaki
+41. The Laughing Corpse by Laurell K. Hamilton
+42. Incubus Dreams by Laurell K. Hamilton
+43. Cerulean Sins by Laurell K. Hamilton
+44. The Lunatic Cafe by Laurell K. Hamilton
+45. Guilty Pleasures by Laurell K. Hamilton
+46. Flirt by Laurell K. Hamilton
+47. Micah by Laurell K. Hamilton
+48. Danse Macabre by Stephen King
+49. Blood Noir by Laurell K. Hamilton
+50. Harlequin by Bernard Cornwell

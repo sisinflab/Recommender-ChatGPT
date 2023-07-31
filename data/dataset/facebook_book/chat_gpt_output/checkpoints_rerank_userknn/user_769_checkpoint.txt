@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hitchhiker's Guide to the Galaxy (novel) by Douglas Adams
+2. Harry Potter by J.K. Rowling
+3. The Lord of the Rings by J.R.R. Tolkien
+4. Dune (novel) by Frank Herbert
+5. Brave New World by Aldous Huxley
+6. The Great Gatsby by F. Scott Fitzgerald
+7. Animal Farm by George Orwell
+8. Frankenstein by Mary Shelley
+9. The Hobbit by J.R.R. Tolkien
+10. Nineteen Eighty-Four by George Orwell
+11. The Catcher in the Rye by J.D. Salinger
+12. Les Misérables by Victor Hugo
+13. Life of Pi by Yann Martel
+14. The Stand by Stephen King
+15. The Fountainhead by Ayn Rand
+16. The Da Vinci Code by Dan Brown
+17. The Phantom Tollbooth by Norton Juster
+18. Earthsea by Ursula K. Le Guin
+19. The Grapes of Wrath by John Steinbeck
+20. Romeo and Juliet by William Shakespeare
+21. Goodnight Mister Tom by Michelle Magorian
+22. The Hours (novel) by Michael Cunningham
+23. Illusions (Bach novel) by Richard Bach
+24. The Prophet (book) by Kahlil Gibran
+25. The Hunchback of Notre-Dame by Victor Hugo
+26. The Watchmen (novel) by Alan Moore
+27. The Runaway Jury by John Grisham
+28. The Lords of the North by Bernard Cornwell
+29. Percy Jackson & the Olympians by Rick Riordan
+30. And Then There Were None by Agatha Christie
+31. Skeleton Creek (novel) by Patrick Carman
+32. Inheritance (novel) by Christopher Paolini
+33. For Whom the Bell Tolls by Ernest Hemingway
+34. Red Dragon (novel) by Thomas Harris
+35. The Third Policeman by Flann O'Brien
+36. The Hitchhiker's Guide to the Galaxy (novel) by Douglas Adams
+37. The Prophet (book) by Kahlil Gibran
+38. The Hours (novel) by Michael Cunningham
+39. Illusions (Bach novel) by Richard Bach
+40. The Phantom Tollbooth by Norton Juster
+41. Earthsea by Ursula K. Le Guin
+42. The Grapes of Wrath by John Steinbeck
+43. Romeo and Juliet by William Shakespeare
+44. Goodnight Mister Tom by Michelle Magorian
+45. The Stand by Stephen King
+46. The Fountainhead by Ayn Rand
+47. The Da Vinci Code by Dan Brown
+48. The Lord of the Rings by J.R.R. Tolkien
+49. Dune (

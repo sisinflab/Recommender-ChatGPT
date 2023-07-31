@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations are:
+
+1. In Flames
+2. Children of Bodom
+3. Dark Tranquillity
+4. Atreyu
+5. Saosin
+6. Devin Townsend
+7. Pain of Salvation
+8. Agalloch
+9. Kamelot
+10. Katatonia
+11. Moonspell
+12. Lacuna Coil
+13. Arch Enemy
+14. Nightwish
+15. Sonata Arctica
+16. Helloween
+17. Blind Guardian
+18. Edguy
+19. Stratovarius
+20. Angra
+21. Apocalyptica
+22. Megadeth
+23. Ozzy Osbourne
+24. Mötley Crüe
+25. KISS
+26. Disturbed
+27. Bullet for My Valentine
+28. Five Finger Death Punch
+29. Escape The Fate
+30. In This Moment
+31. The Used
+32. Red
+33. Yellowcard
+34. Hawthorne Heights
+35. The Birthday Massacre
+36. My Chemical Romance
+37. Panic! At the Disco
+38. The Rasmus
+39. Linkin Park
+40. Paramore
+41. A Day to Remember
+42. Avenged Sevenfold
+43. Underoath
+44. System of a Down
+45. Nevermore
+46. Rammstein
+47. Hollywood Undead
+48. The Prodigy
+49. Depeche Mode
+50. New Order

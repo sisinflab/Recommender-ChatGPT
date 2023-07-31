@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Fault in Our Stars by John Green
+4. The Girl on the Train by Paula Hawkins
+5. Gone Girl by Gillian Flynn
+6. The Maze Runner by James Dashner
+7. The Da Vinci Code by Dan Brown
+8. The Lovely Bones by Alice Sebold
+9. The Help by Kathryn Stockett
+10. The Book Thief by Markus Zusak
+11. The Catcher in the Rye by J.D. Salinger
+12. The Great Gatsby by F. Scott Fitzgerald
+13. To Kill a Mockingbird by Harper Lee
+14. The Lord of the Rings by J.R.R. Tolkien
+15. Harry Potter and the Philosopher's Stone by J.K. Rowling
+16. The Hobbit by J.R.R. Tolkien
+17. The Chronicles of Narnia by C.S. Lewis
+18. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+19. The Shining by Stephen King
+20. The Stand by Stephen King
+21. The Silence of the Lambs by Thomas Harris
+22. The Bourne Identity by Robert Ludlum
+23. The Girl with the Dragon Tattoo by Stieg Larsson
+24. The Kite Runner by Khaled Hosseini
+25. A Thousand Splendid Suns by Khaled Hosseini
+26. The Alchemist by Paulo Coelho
+27. The Picture of Dorian Gray by Oscar Wilde
+28. The Time Traveler's Wife by Audrey Niffenegger
+29. The Road by Cormac McCarthy
+30. The Handmaid's Tale by Margaret Atwood
+31. 1984 by George Orwell
+32. Animal Farm by George Orwell
+33. Brave New World by Aldous Huxley
+34. Fahrenheit 451 by Ray Bradbury
+35. The Martian by Andy Weir
+36. Ready Player One by Ernest Cline
+37. Ender's Game by Orson Scott Card
+38. The Name of the Wind by Patrick Rothfuss
+39. The Way of Kings by Brandon Sanderson
+40. Mistborn by Brandon Sanderson
+41. The Lies of Locke Lamora by Scott Lynch
+42. The Blade Itself by Joe Abercrombie
+43. The First Law Trilogy by Joe Abercrombie
+44. The Kingkiller Chronicle by Patrick Rothfuss
+45. The Stormlight Archive by Brandon Sanderson
+46. The Dark Tower by Stephen King
+47. The Wheel of Time by Robert Jordan
+48. The Malazan Book of the Fallen by Steven Erikson
+49. The Black Company by Glen Cook
+50. The Dresden Files by Jim Butcher

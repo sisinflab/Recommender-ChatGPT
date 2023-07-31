@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Within Temptation
+2. Lacuna Coil
+3. Epica
+4. Emilie Autumn
+5. Delain
+6. Blutengel
+7. L'Âme Immortelle
+8. Ayria
+9. The 69 Eyes
+10. Deathstars
+11. Rammstein
+12. Apoptygma Berzerk
+13. VNV Nation
+14. KMFDM
+15. Alice in Videoland
+16. Katatonia
+17. Nine Inch Nails
+18. Metallica
+19. Tarja
+20. Killswitch Engage
+21. Lady Gaga
+22. Evanescence
+23. Muse
+24. Pink Floyd
+25. Depeche Mode
+26. Radiohead
+27. Nirvana
+28. Iron Maiden
+29. Led Zeppelin
+30. The Beatles
+31. U2
+32. Coldplay
+33. Ke$ha
+34. My Chemical Romance
+35. Green Day
+36. The Killers
+37. Paramore
+38. Avenged Sevenfold
+39. System of a Down
+40. Pearl Jam
+41. Michael Jackson
+42. Madonna
+43. Beyoncé
+44. Christina Aguilera
+45. Shakira
+46. Kylie Minogue
+47. Duran Duran
+48. Blur
+49. Arctic Monkeys
+50. Placebo

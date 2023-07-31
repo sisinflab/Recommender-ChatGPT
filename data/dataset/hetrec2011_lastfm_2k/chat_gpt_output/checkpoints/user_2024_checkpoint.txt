@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Joy Division
+2. The Smiths
+3. New Order
+4. The Cure
+5. Echo & the Bunnymen
+6. The Jesus and Mary Chain
+7. The Psychedelic Furs
+8. The Chameleons
+9. The Sound
+10. The Sisters of Mercy
+11. Siouxsie and the Banshees
+12. Bauhaus
+13. Cocteau Twins
+14. My Bloody Valentine
+15. Slowdive
+16. Ride
+17. Lush
+18. Catherine Wheel
+19. Swervedriver
+20. Chapterhouse
+21. Curve
+22. The Verve
+23. Oasis
+24. Blur
+25. Pulp
+26. Suede
+27. The Stone Roses
+28. Happy Mondays
+29. Inspiral Carpets
+30. The Charlatans
+31. The La's
+32. The Coral
+33. The Zutons
+34. Arctic Monkeys
+35. The Libertines
+36. Franz Ferdinand
+37. The Strokes
+38. Interpol
+39. Editors
+40. White Lies
+41. Foals
+42. The National
+43. Arcade Fire
+44. LCD Soundsystem
+45. Vampire Weekend
+46. Phoenix
+47. Tame Impala
+48. Alt-J
+49. The War on Drugs
+50. Radiohead (if not already in the user's library)

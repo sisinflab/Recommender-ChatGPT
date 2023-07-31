@@ -1,0 +1,54 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Beatles
+2. Nirvana
+3. Pink Floyd
+4. David Gilmour
+5. Joy Division
+6. My Bloody Valentine
+7. The Velvet Underground
+8. Jimi Hendrix
+9. The Doors
+10. Alice in Chains
+11. Soundgarden
+12. Black Sabbath
+13. Rush
+14. Iron Maiden
+15. Led Zeppelin
+16. Metallica
+17. Pearl Jam
+18. System of a Down
+19. Nine Inch Nails
+20. Garbage
+21. Roger Waters
+22. The Stone Roses
+23. Genesis
+24. Yes
+25. INXS
+26. Syd Barrett
+27. Peter Gabriel
+28. Jefferson Airplane
+29. Nick Cave and the Bad Seeds
+30. The Jimi Hendrix Experience
+31. Avenged Sevenfold
+32. Muse
+33. Radiohead
+34. Arctic Monkeys
+35. Placebo
+36. The Killers
+37. Evanescence
+38. Foo Fighters
+39. Sublime
+40. Taylor Swift
+41. Katy Perry
+42. Madonna
+43. Rihanna
+44. Beyoncé
+45. Lady Gaga
+46. Ke$ha
+47. Kelly Clarkson
+48. P!nk
+49. Paramore
+50. All Time Low
+
+Note: The artists that were not mentioned in the user's preferences were not included in the recommendations.

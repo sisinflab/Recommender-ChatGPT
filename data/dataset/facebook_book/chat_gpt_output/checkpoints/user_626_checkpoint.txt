@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. The Maze Runner by James Dashner
+3. The Chronicles of Narnia by C.S. Lewis
+4. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+5. The Giver by Lois Lowry
+6. The Dark Tower series by Stephen King
+7. The Name of the Wind by Patrick Rothfuss
+8. The Wheel of Time series by Robert Jordan
+9. The Dresden Files series by Jim Butcher
+10. The Mistborn series by Brandon Sanderson
+11. The Kingkiller Chronicle series by Patrick Rothfuss
+12. The Stormlight Archive series by Brandon Sanderson
+13. The Inheritance Cycle series by Christopher Paolini
+14. The Belgariad series by David Eddings
+15. The Malazan Book of the Fallen series by Steven Erikson
+16. The First Law trilogy by Joe Abercrombie
+17. The Riyria Revelations series by Michael J. Sullivan
+18. The Lightbringer series by Brent Weeks
+19. The Black Company series by Glen Cook
+20. The Farseer Trilogy by Robin Hobb
+21. The Powder Mage trilogy by Brian McClellan
+22. The Broken Empire trilogy by Mark Lawrence
+23. The Codex Alera series by Jim Butcher
+24. The Gentleman Bastard series by Scott Lynch
+25. The Night Angel trilogy by Brent Weeks
+26. The Demon Cycle series by Peter V. Brett
+27. The Hyperion Cantos series by Dan Simmons
+28. The Red Rising series by Pierce Brown
+29. The Riyria Chronicles series by Michael J. Sullivan
+30. The Chronicles of Amber series by Roger Zelazny
+31. The Earthsea Cycle series by Ursula K. Le Guin
+32. The Black Magician trilogy by Trudi Canavan
+33. The Bartimaeus Trilogy by Jonathan Stroud
+34. The Abhorsen Trilogy by Garth Nix
+35. The Old Kingdom series by Garth Nix
+36. The Dark is Rising sequence by Susan Cooper
+37. The Riddle-Master Trilogy by Patricia A. McKillip
+38. The Chronicles of Prydain series by Lloyd Alexander
+39. The Sword of Truth series by Terry Goodkind
+40. The Shannara series by Terry Brooks
+41. The Dragonriders of Pern series by Anne McCaffrey
+42. The Xanth series by Piers Anthony
+43. The Foundation series by Isaac Asimov
+44. The Culture series by Iain M. Banks
+45. The Vorkosigan Saga series by Lois McMaster Bujold
+46. The Honor Harrington series by David Weber
+47. The Commonwealth Saga series by Peter F. Hamilton
+48. The Revelation Space

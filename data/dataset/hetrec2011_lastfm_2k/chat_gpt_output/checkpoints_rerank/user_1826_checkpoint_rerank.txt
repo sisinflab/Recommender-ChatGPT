@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. HIM
+2. Patrick Wolf
+3. Anathema
+4. Cansei de Ser Sexy
+5. Lady Gaga
+6. Placebo
+7. Katy Perry
+8. The Killers
+9. Panic! At the Disco
+10. Duffy
+11. Nine Inch Nails
+12. Depeche Mode
+13. MGMT
+14. Paramore
+15. Shiny Toy Guns
+16. Vive la Fête
+17. Kings of Leon
+18. Incubus
+19. Ke$ha
+20. Nightwish
+21. Within Temptation
+22. Megadeth
+23. Gwen Stefani
+24. Yeah Yeah Yeahs
+25. Lenine
+26. Los Hermanos
+27. Björk
+28. Dangerous Muse
+29. VNV Nation
+30. Mallu Magalhães
+31. Scissor Sisters
+32. David Bowie
+33. The Subways
+34. Muse
+35. Pink Floyd
+36. Radiohead
+37. Nirvana
+38. Led Zeppelin
+39. Metallica
+40. Michael Jackson
+41. Pearl Jam
+42. a-ha
+43. System of a Down
+44. Daft Punk
+45. Linkin Park
+46. Avenged Sevenfold
+47. My Chemical Romance
+48. Green Day
+49. The Cure
+50. Iron Maiden

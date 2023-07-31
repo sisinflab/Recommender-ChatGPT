@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. American Gods by Neil Gaiman
+2. The Graveyard Book by Neil Gaiman
+3. Neverwhere by Neil Gaiman
+4. The Ocean at the End of the Lane by Neil Gaiman
+5. Good Omens by Neil Gaiman and Terry Pratchett
+6. The Hunger Games by Suzanne Collins
+7. Divergent by Veronica Roth
+8. The Maze Runner by James Dashner
+9. The Selection by Kiera Cass
+10. The Mortal Instruments series by Cassandra Clare
+11. The Infernal Devices series by Cassandra Clare
+12. The Twilight Saga by Stephenie Meyer
+13. The Vampire Diaries series by L.J. Smith
+14. The Sookie Stackhouse series by Charlaine Harris
+15. The Southern Vampire Mysteries series by Charlaine Harris
+16. The Anita Blake series by Laurell K. Hamilton
+17. The Dresden Files series by Jim Butcher
+18. The Iron Druid Chronicles series by Kevin Hearne
+19. The Mercy Thompson series by Patricia Briggs
+20. The Kate Daniels series by Ilona Andrews
+21. The Black Dagger Brotherhood series by J.R. Ward
+22. The Dark Hunter series by Sherrilyn Kenyon
+23. The Night Huntress series by Jeaniene Frost
+24. The Morgan Kingsley series by Jenna Black
+25. The Rachel Morgan series by Kim Harrison
+26. The Hollows series by Kim Harrison
+27. The House of Night series by P.C. Cast and Kristin Cast
+28. The Vampire Academy series by Richelle Mead
+29. The Bloodlines series by Richelle Mead
+30. The Darkest Powers series by Kelley Armstrong
+31. The Women of the Otherworld series by Kelley Armstrong
+32. The Caster Chronicles series by Kami Garcia and Margaret Stohl
+33. The Beautiful Creatures series by Kami Garcia and Margaret Stohl
+34. The Percy Jackson and the Olympians series by Rick Riordan
+35. The Heroes of Olympus series by Rick Riordan
+36. The Kane Chronicles series by Rick Riordan
+37. The Inheritance Cycle series by Christopher Paolini
+38. The Lord of the Rings series by J.R.R. Tolkien
+39. The Hobbit by J.R.R. Tolkien
+40. The Chronicles of Narnia series by C.S. Lewis
+41. The Harry Potter series by J.K. Rowling
+42. The Hunger Games trilogy by Suzanne Collins
+43. The Divergent trilogy by Veronica Roth
+44. The Maze Runner trilogy by James Dashner
+45. The Selection trilogy by Kiera Cass
+46. The Mortal Instruments series by Cassandra Clare
+47. The Infernal Devices series by Cassandra Clare
+48. The Twilight Saga by Stephenie Meyer
+49. The Vampire Diaries series by L.J. Smith
+50. The Wise Man's Fear by Patrick Rothfuss

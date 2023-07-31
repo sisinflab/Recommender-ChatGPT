@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Kite Runner by Khaled Hosseini
+2. And the Mountains Echoed by Khaled Hosseini
+3. The Hunger Games by Suzanne Collins
+4. Catching Fire by Suzanne Collins
+5. Mockingjay by Suzanne Collins
+6. The Help by Kathryn Stockett
+7. The Fault in Our Stars by John Green
+8. Looking for Alaska by John Green
+9. Paper Towns by John Green
+10. The Book Thief by Markus Zusak
+11. Room by Emma Donoghue
+12. The Girl on the Train by Paula Hawkins
+13. The Nightingale by Kristin Hannah
+14. The Alchemist by Paulo Coelho
+15. The Catcher in the Rye by J.D. Salinger
+16. To Kill a Mockingbird by Harper Lee
+17. The Great Gatsby by F. Scott Fitzgerald
+18. 1984 by George Orwell
+19. Animal Farm by George Orwell
+20. The Lord of the Rings by J.R.R. Tolkien
+21. The Hobbit by J.R.R. Tolkien
+22. The Chronicles of Narnia by C.S. Lewis
+23. The Girl with the Dragon Tattoo by Stieg Larsson
+24. The Girl Who Played with Fire by Stieg Larsson
+25. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+26. The Da Vinci Code by Dan Brown
+27. Angels and Demons by Dan Brown
+28. Inferno by Dan Brown
+29. The Lost Symbol by Dan Brown
+30. The Lovely Bones by Alice Sebold
+31. The Time Traveler's Wife by Audrey Niffenegger
+32. The Boy in the Striped Pyjamas by John Boyne
+33. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+34. The Road by Cormac McCarthy
+35. The God of Small Things by Arundhati Roy
+36. A Fine Balance by Rohinton Mistry
+37. Life of Pi by Yann Martel
+38. The Shadow of the Wind by Carlos Ruiz Zafón
+39. The Name of the Wind by Patrick Rothfuss
+40. The Wise Man's Fear by Patrick Rothfuss
+41. The Picture of Dorian Gray by Oscar Wilde
+42. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+43. The Hound of the Baskervilles by Arthur Conan Doyle
+44. The Complete Works of William Shakespeare by William Shakespeare
+45. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+46. The Stand by Stephen King
+47. The Shining by Stephen King
+48. It by Stephen King
+49. Gone with the Wind by Margaret Mitchell
+50. Midnight's Children by Salman Rushdie

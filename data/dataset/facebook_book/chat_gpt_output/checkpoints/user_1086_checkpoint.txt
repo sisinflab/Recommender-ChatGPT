@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hobbit by J.R.R. Tolkien
+2. The Silmarillion by J.R.R. Tolkien
+3. A Song of Ice and Fire series by George R.R. Martin
+4. The Da Vinci Code by Dan Brown
+5. The Girl with the Dragon Tattoo by Stieg Larsson
+6. The Hunger Games series by Suzanne Collins
+7. The Catcher in the Rye by J.D. Salinger
+8. To Kill a Mockingbird by Harper Lee
+9. The Great Gatsby by F. Scott Fitzgerald
+10. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+11. The Chronicles of Narnia series by C.S. Lewis
+12. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+13. The Stand by Stephen King
+14. The Shining by Stephen King
+15. The Dark Tower series by Stephen King
+16. The Name of the Wind by Patrick Rothfuss
+17. The Wise Man's Fear by Patrick Rothfuss
+18. The Kingkiller Chronicle series by Patrick Rothfuss
+19. The Dresden Files series by Jim Butcher
+20. The Wheel of Time series by Robert Jordan
+21. The Stormlight Archive series by Brandon Sanderson
+22. Mistborn series by Brandon Sanderson
+23. The Way of Kings by Brandon Sanderson
+24. The Final Empire by Brandon Sanderson
+25. The Reckoners series by Brandon Sanderson
+26. The First Law trilogy by Joe Abercrombie
+27. The Blade Itself by Joe Abercrombie
+28. The Lies of Locke Lamora by Scott Lynch
+29. The Gentlemen Bastards series by Scott Lynch
+30. The Malazan Book of the Fallen series by Steven Erikson
+31. Gardens of the Moon by Steven Erikson
+32. The Black Company series by Glen Cook
+33. The Chronicles of Amber series by Roger Zelazny
+34. American Gods by Neil Gaiman
+35. Neverwhere by Neil Gaiman
+36. Good Omens by Neil Gaiman and Terry Pratchett
+37. The Discworld series by Terry Pratchett
+38. The Color of Magic by Terry Pratchett
+39. The Light Fantastic by Terry Pratchett
+40. The Hitchhiker's Guide to the Galaxy series by Douglas Adams
+41. The Foundation series by Isaac Asimov
+42. Dune by Frank Herbert
+43. Ender's Game by Orson Scott Card
+44. The Hyperion Cantos series by Dan Simmons
+45. The Three-Body Problem by Liu Cixin
+46. The Expanse series by James S.A. Corey
+47. Leviathan Wakes by James S.A. Corey
+48. Red Rising series by Pierce Brown
+49. Wool by Hugh
+50. The Wise Man's Fear by Patrick Rothfuss

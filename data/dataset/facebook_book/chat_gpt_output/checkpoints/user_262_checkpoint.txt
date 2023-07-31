@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Shining by Stephen King
+2. Carrie by Stephen King
+3. Pet Sematary by Stephen King
+4. Misery by Stephen King
+5. Salem's Lot by Stephen King
+6. The Green Mile by Stephen King
+7. The Dead Zone by Stephen King
+8. The Talisman by Stephen King and Peter Straub
+9. The Girl Who Loved Tom Gordon by Stephen King
+10. The Tommyknockers by Stephen King
+11. Bag of Bones by Stephen King
+12. The Regulators by Stephen King (as Richard Bachman)
+13. The Long Walk by Stephen King (as Richard Bachman)
+14. The Running Man by Stephen King (as Richard Bachman)
+15. The Eyes of the Dragon by Stephen King
+16. The Dark Tower series by Stephen King
+17. The Hunger Games by Suzanne Collins
+18. Divergent by Veronica Roth
+19. The Maze Runner by James Dashner
+20. The Giver by Lois Lowry
+21. The Fault in Our Stars by John Green
+22. Looking for Alaska by John Green
+23. Paper Towns by John Green
+24. An Abundance of Katherines by John Green
+25. Eleanor & Park by Rainbow Rowell
+26. Fangirl by Rainbow Rowell
+27. Carry On by Rainbow Rowell
+28. The Book Thief by Markus Zusak
+29. The Catcher in the Rye by J.D. Salinger
+30. To Kill a Mockingbird by Harper Lee
+31. 1984 by George Orwell
+32. Animal Farm by George Orwell
+33. Brave New World by Aldous Huxley
+34. Fahrenheit 451 by Ray Bradbury
+35. The Martian by Andy Weir
+36. Ready Player One by Ernest Cline
+37. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+38. The Lord of the Rings by J.R.R. Tolkien
+39. The Hobbit by J.R.R. Tolkien
+40. Harry Potter series by J.K. Rowling
+41. The Chronicles of Narnia by C.S. Lewis
+42. The Hunger Games trilogy by Suzanne Collins
+43. The Maze Runner series by James Dashner
+44. The Giver quartet by Lois Lowry
+45. The Fault in Our Stars by John Green
+46. Looking for Alaska by John Green
+47. Paper Towns by John Green
+48. An Abundance of Katherines by John Green
+49. Eleanor & Park by Rainbow Rowell
+50. Fangirl by Rainbow Rowell

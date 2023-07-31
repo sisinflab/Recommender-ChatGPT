@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Fault in Our Stars by John Green
+2. The Hunger Games by Suzanne Collins
+3. The Help by Kathryn Stockett
+4. The Time Traveler's Wife by Audrey Niffenegger
+5. The Girl on the Train by Paula Hawkins
+6. The Kite Runner by Khaled Hosseini
+7. The Great Gatsby by F. Scott Fitzgerald
+8. The Catcher in the Rye by J.D. Salinger
+9. The Perks of Being a Wallflower by Stephen Chbosky
+10. The Lovely Bones by Alice Sebold
+11. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+12. The Secret Life of Bees by Sue Monk Kidd
+13. The Alchemist by Paulo Coelho
+14. The Picture of Dorian Gray by Oscar Wilde
+15. The Bell Jar by Sylvia Plath
+16. The Giver by Lois Lowry
+17. The Maze Runner by James Dashner
+18. The Book of Lost Things by John Connolly
+19. The Nightingale by Kristin Hannah
+20. The Help by Kathryn Stockett
+21. The Girl with the Dragon Tattoo by Stieg Larsson
+22. The Da Vinci Code by Dan Brown
+23. The Name of the Wind by Patrick Rothfuss
+24. The Lord of the Rings by J.R.R. Tolkien
+25. The Hobbit by J.R.R. Tolkien
+26. The Chronicles of Narnia by C.S. Lewis
+27. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+28. The Stand by Stephen King
+29. The Shining by Stephen King
+30. The Silence of the Lambs by Thomas Harris
+31. The Bourne Identity by Robert Ludlum
+32. The Girl Who Played with Fire by Stieg Larsson
+33. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+34. The Hunger Games: Catching Fire by Suzanne Collins
+35. The Hunger Games: Mockingjay by Suzanne Collins
+36. The Maze Runner: The Scorch Trials by James Dashner
+37. The Maze Runner: The Death Cure by James Dashner
+38. The Road by Cormac McCarthy
+39. The Martian by Andy Weir
+40. The Help by Kathryn Stockett
+41. The Girl on the Train by Paula Hawkins
+42. The Nightingale by Kristin Hannah
+43. The Book Thief by Markus Zusak
+44. The Notebook by Nicholas Sparks
+45. To Kill a Mockingbird by Harper Lee
+46. Emma by Jane Austen
+47. Mansfield Park by Jane Austen
+48. Tess of the d'Urbervilles by Thomas Hardy
+49. The Messenger by Markus Zusak
+50. The

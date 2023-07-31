@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Slaughterhouse-Five by Kurt Vonnegut
+2. A Clockwork Orange by Anthony Burgess
+3. The Bell Jar by Sylvia Plath
+4. The Catcher in the Rye by J.D. Salinger
+5. Crime and Punishment by Fyodor Dostoevsky
+6. Brave New World by Aldous Huxley
+7. Nineteen Eighty-Four by George Orwell
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Handmaid's Tale by Margaret Atwood
+10. The Great Gatsby by F. Scott Fitzgerald
+11. The Outsiders by S.E. Hinton
+12. The Perks of Being a Wallflower by Stephen Chbosky
+13. The Alchemist by Paulo Coelho
+14. The Little Prince by Antoine de Saint-Exupéry
+15. The Vampire Lestat by Anne Rice
+16. The World According to Garp by John Irving
+17. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+18. The Book Thief by Markus Zusak
+19. The Old Man and the Sea by Ernest Hemingway
+20. The Importance of Being Earnest by Oscar Wilde
+21. The Da Vinci Code by Dan Brown
+22. The Time Traveler's Wife by Audrey Niffenegger
+23. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+24. The Other Boleyn Girl by Philippa Gregory
+25. The Zombie Survival Guide by Max Brooks
+26. The Watchmen by Alan Moore and Dave Gibbons
+27. The Prince by Niccolò Machiavelli
+28. The Birth of Tragedy by Friedrich Nietzsche
+29. The Picture of Dorian Gray by Oscar Wilde
+30. The Stranger by Albert Camus
+31. The Facebook Effect by David Kirkpatrick
+32. Fahrenheit 451 by Ray Bradbury
+33. Macbeth by William Shakespeare
+34. Jane Eyre by Charlotte Bronte
+35. Green Eggs and Ham by Dr. Seuss
+36. Common Sense by Thomas Paine
+37. On the Road by Jack Kerouac
+38. Beauty: A Retelling of the Story of Beauty and the Beast by Robin McKinley
+39. Inferno by Dante Alighieri
+40. Siddhartha by Hermann Hesse
+41. Time's Arrow by Martin Amis
+42. Harry Potter by J.K. Rowling
+43. Death Note by Tsugumi Ohba and Takeshi Obata
+44. Revolutionary Road by Richard Yates
+45. Lullabies for Little Criminals by Heather O'Neill
+46. Dracula by Bram Stoker
+47. Diary by Chuck Palahniuk
+48. Girl, Interrupted by Susanna Kaysen
+49. Fear and

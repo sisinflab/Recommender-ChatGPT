@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. My Chemical Romance
+2. Avenged Sevenfold
+3. Bullet for My Valentine
+4. Escape The Fate
+5. Hollywood Undead
+6. Linkin Park
+7. Disturbed
+8. Five Finger Death Punch
+9. Shinedown
+10. Seether
+11. Black Veil Brides
+12. All That Remains
+13. Killswitch Engage
+14. Sick Puppies
+15. The Used
+16. Hawthorne Heights
+17. From First to Last
+18. Underoath
+19. Taking Back Sunday
+20. The Red Jumpsuit Apparatus
+21. Panic! At the Disco
+22. Simple Plan
+23. Yellowcard
+24. Alesana
+25. Otep
+26. Attack Attack!
+27. Flyleaf
+28. Sum 41
+29. Anti-Flag
+30. System of a Down
+31. Nirvana
+32. Metallica
+33. Iron Maiden
+34. Led Zeppelin
+35. Pearl Jam
+36. Michael Jackson
+37. Madonna
+38. The Beatles
+39. U2
+40. Muse
+41. Pink Floyd
+42. Radiohead
+43. Nine Inch Nails
+44. Daft Punk
+45. Coldplay
+46. Arctic Monkeys
+47. Placebo
+48. The Killers
+49. Duran Duran
+50. Björk

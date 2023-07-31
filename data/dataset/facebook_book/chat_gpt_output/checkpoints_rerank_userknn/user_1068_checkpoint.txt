@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. Macbeth by William Shakespeare
+3. Les Misérables by Victor Hugo
+4. Heart of Darkness by Joseph Conrad
+5. Fahrenheit 451 by Ray Bradbury
+6. Don Quixote by Miguel de Cervantes
+7. The Catcher in the Rye by J.D. Salinger
+8. Nineteen Eighty-Four by George Orwell
+9. The Picture of Dorian Gray by Oscar Wilde
+10. Romeo and Juliet by William Shakespeare
+11. Great Expectations by Charles Dickens
+12. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+13. Harry Potter by J.K. Rowling
+14. The Outsiders by S.E. Hinton
+15. The Secret Garden by Frances Hodgson Burnett
+16. A Little Princess by Frances Hodgson Burnett
+17. Inkheart by Cornelia Funke
+18. The Bean Trees by Barbara Kingsolver
+19. The Golden Ass by Apuleius
+20. Ella Enchanted by Gail Carson Levine
+21. The Master and Margarita by Mikhail Bulgakov
+22. Trainspotting by Irvine Welsh
+23. Underworld by Don DeLillo
+24. The God Delusion by Richard Dawkins
+25. The Rum Diary by Hunter S. Thompson
+26. Fear and Loathing in Las Vegas by Hunter S. Thompson
+27. Naked Lunch by William S. Burroughs
+28. Junkie by William S. Burroughs
+29. Cujo by Stephen King
+30. No Country for Old Men by Cormac McCarthy
+31. Dress Your Family in Corduroy and Denim by David Sedaris
+32. American Pastoral by Philip Roth
+33. The Frog Princess by E.D. Baker
+34. Blue Is for Nightmares by Laurie Faria Stolarz
+35. Crank by Ellen Hopkins
+36. Atlas Shrugged by Ayn Rand
+37. The Gold Bug Variations by Richard Powers
+38. The Five People You Meet in Heaven by Mitch Albom
+39. Veronika Decides to Die by Paulo Coelho
+40. Iliad by Homer
+41. The Stand by Stephen King
+42. Dracula by Bram Stoker
+43. Moby-Dick by Herman Melville
+44. In Cold Blood by Truman Capote
+45. Gone with the Wind by Margaret Mitchell
+46. One Fish Two Fish Red Fish Blue Fish by Dr. Seuss
+47. The Murders in the Rue Morgue by Edgar Allan Poe
+48. The Great Gatsby by F. Scott Fitzgerald
+49. Leaves of Grass by Walt Whitman
+50. The Zahir by Paulo Coelho

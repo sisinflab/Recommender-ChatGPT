@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lion, the Witch and the Wardrobe by C.S. Lewis
+2. The Lord of the Rings by J.R.R. Tolkien
+3. The Hobbit by J.R.R. Tolkien
+4. The Magician's Nephew by C.S. Lewis
+5. The Silver Chair by C.S. Lewis
+6. The Last Battle by C.S. Lewis
+7. The Screwtape Letters by C.S. Lewis
+8. The Space Trilogy by C.S. Lewis
+9. The Stand by Stephen King
+10. The Dark Tower series by Stephen King
+11. The Gunslinger by Stephen King
+12. The Drawing of the Three by Stephen King
+13. The Waste Lands by Stephen King
+14. Wizard and Glass by Stephen King
+15. Wolves of the Calla by Stephen King
+16. Song of Susannah by Stephen King
+17. The Dark Tower by Stephen King
+18. The Fountains of Paradise by Arthur C. Clarke
+19. Rendezvous with Rama by Arthur C. Clarke
+20. Childhood's End by Arthur C. Clarke
+21. 2001: A Space Odyssey by Arthur C. Clarke
+22. The City and the Stars by Arthur C. Clarke
+23. The Martian Chronicles by Ray Bradbury
+24. Fahrenheit 451 by Ray Bradbury
+25. Something Wicked This Way Comes by Ray Bradbury
+26. The Illustrated Man by Ray Bradbury
+27. The Time Machine by H.G. Wells
+28. The War of the Worlds by H.G. Wells
+29. The Invisible Man by H.G. Wells
+30. The Island of Dr. Moreau by H.G. Wells
+31. The First Men in the Moon by H.G. Wells
+32. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+33. The Restaurant at the End of the Universe by Douglas Adams
+34. Life, the Universe and Everything by Douglas Adams
+35. So Long, and Thanks for All the Fish by Douglas Adams
+36. Mostly Harmless by Douglas Adams
+37. The Foundation series by Isaac Asimov
+38. I, Robot by Isaac Asimov
+39. The Caves of Steel by Isaac Asimov
+40. The Naked Sun by Isaac Asimov
+41. The Robots of Dawn by Isaac Asimov
+42. The Currents of Space by Isaac Asimov
+43. The Stars, Like Dust by Isaac Asimov
+44. The End of Eternity by Isaac Asimov
+45. The Left Hand of Darkness by Ursula K. Le Guin
+46. The Dispossessed by Ursula K. Le Guin
+47. A Wizard of Earthsea by Ursula K. Le Guin
+48. The Tombs of Atuan by Ursula
+49. The Name of the Wind by Patrick Rothfuss
+50. The Wise Man's Fear by Patrick Rothfuss

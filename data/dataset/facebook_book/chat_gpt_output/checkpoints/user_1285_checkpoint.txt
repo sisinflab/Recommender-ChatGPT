@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Harry Potter and the Philosopher's Stone by J.K. Rowling
+3. Divergent by Veronica Roth
+4. The Maze Runner by James Dashner
+5. The Fault in Our Stars by John Green
+6. The Giver by Lois Lowry
+7. The Chronicles of Narnia by C.S. Lewis
+8. The Lord of the Rings by J.R.R. Tolkien
+9. The Hobbit by J.R.R. Tolkien
+10. The Girl with the Dragon Tattoo by Stieg Larsson
+11. The Da Vinci Code by Dan Brown
+12. Angels and Demons by Dan Brown
+13. The Catcher in the Rye by J.D. Salinger
+14. To Kill a Mockingbird by Harper Lee
+15. The Great Gatsby by F. Scott Fitzgerald
+16. 1984 by George Orwell
+17. Animal Farm by George Orwell
+18. Brave New World by Aldous Huxley
+19. Fahrenheit 451 by Ray Bradbury
+20. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+21. The Shining by Stephen King
+22. Carrie by Stephen King
+23. The Stand by Stephen King
+24. It by Stephen King
+25. The Dark Tower series by Stephen King
+26. The Girl on the Train by Paula Hawkins
+27. Gone Girl by Gillian Flynn
+28. The Lovely Bones by Alice Sebold
+29. The Help by Kathryn Stockett
+30. The Book Thief by Markus Zusak
+31. The Kite Runner by Khaled Hosseini
+32. A Thousand Splendid Suns by Khaled Hosseini
+33. The Alchemist by Paulo Coelho
+34. The Secret Life of Bees by Sue Monk Kidd
+35. The Time Traveler's Wife by Audrey Niffenegger
+36. The Picture of Dorian Gray by Oscar Wilde
+37. The Count of Monte Cristo by Alexandre Dumas
+38. Les Misérables by Victor Hugo
+39. The Three Musketeers by Alexandre Dumas
+40. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+41. The Hound of the Baskervilles by Arthur Conan Doyle
+42. The Name of the Wind by Patrick Rothfuss
+43. The Wise Man's Fear by Patrick Rothfuss
+44. The Lies of Locke Lamora by Scott Lynch
+45. The Blade Itself by Joe Abercrombie
+46. The Way of Kings by Brandon Sanderson
+47. Mistborn by Brandon Sanderson
+48. The Final Empire by Brandon Sanderson
+49. The Eye of the World by Robert Jordan
+50. A Game of Thrones by George R.R. Martin

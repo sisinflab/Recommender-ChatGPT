@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Jurassic Park by Michael Crichton
+2. The Andromeda Strain by Michael Crichton
+3. The Lost World by Michael Crichton
+4. The Stand by Stephen King
+5. The Shining by Stephen King
+6. Dracula by Bram Stoker
+7. The Picture of Dorian Gray by Oscar Wilde
+8. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+9. The Time Machine by H.G. Wells
+10. The War of the Worlds by H.G. Wells
+11. 1984 by George Orwell
+12. Animal Farm by George Orwell
+13. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+14. The Hobbit by J.R.R. Tolkien
+15. The Lord of the Rings by J.R.R. Tolkien
+16. The Silmarillion by J.R.R. Tolkien
+17. The Chronicles of Narnia by C.S. Lewis
+18. The Dark Tower series by Stephen King
+19. The Gunslinger by Stephen King
+20. The Drawing of the Three by Stephen King
+21. The Waste Lands by Stephen King
+22. Wizard and Glass by Stephen King
+23. Wolves of the Calla by Stephen King
+24. Song of Susannah by Stephen King
+25. The Dark Tower by Stephen King
+26. The Hunger Games by Suzanne Collins
+27. Catching Fire by Suzanne Collins
+28. Mockingjay by Suzanne Collins
+29. Ender's Game by Orson Scott Card
+30. Speaker for the Dead by Orson Scott Card
+31. Xenocide by Orson Scott Card
+32. Children of the Mind by Orson Scott Card
+33. The Hitchhiker's Guide to the Galaxy series by Douglas Adams
+34. The Restaurant at the End of the Universe by Douglas Adams
+35. Life, the Universe and Everything by Douglas Adams
+36. So Long, and Thanks for All the Fish by Douglas Adams
+37. Mostly Harmless by Douglas Adams
+38. The Foundation series by Isaac Asimov
+39. Foundation by Isaac Asimov
+40. Foundation and Empire by Isaac Asimov
+41. Second Foundation by Isaac Asimov
+42. Foundation's Edge by Isaac Asimov
+43. Foundation and Earth by Isaac Asimov
+44. The Caves of Steel by Isaac Asimov
+45. The Naked Sun by Isaac Asimov
+46. The Robots of Dawn by Isaac Asimov
+47. Robots and Empire by Isaac Asimov
+48. The Martian Chronicles by Ray Bradbury
+49. Fahrenheit 451 by Ray Bradbury
+50. Something Wicked This Way Comes by Ray Bradbury

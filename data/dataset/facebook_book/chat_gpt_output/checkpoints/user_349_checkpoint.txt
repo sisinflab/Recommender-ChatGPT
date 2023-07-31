@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Interview with the Vampire by Anne Rice
+2. Crime and Punishment by Fyodor Dostoyevsky
+3. Hamlet by William Shakespeare
+4. Extremely Loud and Incredibly Close by Jonathan Safran Foer
+5. Gödel's Proof by Ernest Nagel and James R. Newman
+6. The Hunchback of Notre-Dame by Victor Hugo
+7. Animal Farm by George Orwell
+8. The Elegant Universe by Brian Greene
+9. The Grand Design by Stephen Hawking and Leonard Mlodinow
+10. As I Lay Dying by William Faulkner
+11. Midnight's Children by Salman Rushdie
+12. The Love Song of J. Alfred Prufrock and Other Poems by T. S. Eliot
+13. Howards End by E. M. Forster
+14. Far From the Madding Crowd by Thomas Hardy
+15. The Vampire Lestat by Anne Rice
+16. The Idiot by Fyodor Dostoyevsky
+17. Macbeth by William Shakespeare
+18. Everything is Possible by Dan Brown
+19. The Catcher in the Rye by J.D. Salinger
+20. The Picture of Dorian Gray by Oscar Wilde
+21. The God of Small Things by Arundhati Roy
+22. The Bell Jar by Sylvia Plath
+23. The Great Gatsby by F. Scott Fitzgerald
+24. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+25. The Da Vinci Code by Dan Brown
+26. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+27. The Hobbit by J.R.R. Tolkien
+28. The Lord of the Rings by J.R.R. Tolkien
+29. The Chronicles of Narnia by C.S. Lewis
+30. The Hunger Games by Suzanne Collins
+31. To Kill a Mockingbird by Harper Lee
+32. The Diary of a Young Girl by Anne Frank
+33. The Alchemist by Paulo Coelho
+34. The Kite Runner by Khaled Hosseini
+35. The Girl with the Dragon Tattoo by Stieg Larsson
+36. The Help by Kathryn Stockett
+37. The Fault in Our Stars by John Green
+38. The Book Thief by Markus Zusak
+39. The Road by Cormac McCarthy
+40. The Stand by Stephen King
+41. The Shining by Stephen King
+42. The Silence of the Lambs by Thomas Harris
+43. The Girl on the Train by Paula Hawkins
+44. The Martian by Andy Weir
+45. Ready Player One by Ernest Cline
+46. The Hunger Games Trilogy Boxset by Suzanne Collins
+47. The Lord of the Rings Boxed Set by J.R.R. Tolkien
+48. The Chronicles of Narnia Boxed Set by C.S. Lewis

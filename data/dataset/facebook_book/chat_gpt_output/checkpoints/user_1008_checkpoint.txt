@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. Brave New World by Aldous Huxley
+4. Catch-22 by Joseph Heller
+5. Crime and Punishment by Fyodor Dostoevsky
+6. Dracula by Bram Stoker
+7. Fahrenheit 451 by Ray Bradbury
+8. Heart of Darkness by Joseph Conrad
+9. Jane Eyre by Charlotte Bronte
+10. Lord of the Flies by William Golding
+11. One Hundred Years of Solitude by Gabriel Garcia Marquez
+12. Pride and Prejudice by Jane Austen
+13. Slaughterhouse-Five by Kurt Vonnegut
+14. The Bell Jar by Sylvia Plath
+15. The Catcher in the Rye by J.D. Salinger
+16. The Color Purple by Alice Walker
+17. The Count of Monte Cristo by Alexandre Dumas
+18. The Da Vinci Code by Dan Brown
+19. The Diary of a Young Girl by Anne Frank
+20. The Grapes of Wrath by John Steinbeck
+21. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+22. The Hobbit by J.R.R. Tolkien
+23. The Hunger Games by Suzanne Collins
+24. The Lord of the Rings by J.R.R. Tolkien
+25. The Picture of Dorian Gray by Oscar Wilde
+26. The Road by Cormac McCarthy
+27. The Secret History by Donna Tartt
+28. The Shining by Stephen King
+29. The Stranger by Albert Camus
+30. The Sun Also Rises by Ernest Hemingway
+31. The Time Traveler's Wife by Audrey Niffenegger
+32. The Trial by Franz Kafka
+33. The Wind-Up Bird Chronicle by Haruki Murakami
+34. Their Eyes Were Watching God by Zora Neale Hurston
+35. Things They Carried by Tim O'Brien
+36. To the Lighthouse by Virginia Woolf
+37. Ulysses by James Joyce
+38. War and Peace by Leo Tolstoy
+39. Watership Down by Richard Adams
+40. We Have Always Lived in the Castle by Shirley Jackson
+41. White Teeth by Zadie Smith
+42. Wuthering Heights by Emily Bronte
+43. A Clockwork Orange by Anthony Burgess
+44. A Tale of Two Cities by Charles Dickens
+45. Beloved by Toni Morrison
+46. Lolita by Vladimir Nabokov
+47. Middlemarch by George Eliot
+48. The Brothers Karamazov by Fyodor Dostoevsky
+49. The Picture of Dorian Gray by Oscar Wilde
+50. The Sound and the Fury by William Faulkner

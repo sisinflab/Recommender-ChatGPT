@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Shining by Stephen King
+2. Dracula by Bram Stoker
+3. The Hobbit by J.R.R. Tolkien
+4. To Kill a Mockingbird by Harper Lee
+5. The Great Gatsby by F. Scott Fitzgerald
+6. The Lord of the Rings by J.R.R. Tolkien
+7. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+8. The Hunger Games by Suzanne Collins
+9. The Girl with the Dragon Tattoo by Stieg Larsson
+10. The Road by Cormac McCarthy
+11. The Stand by Stephen King
+12. The Silence of the Lambs by Thomas Harris
+13. The Picture of Dorian Gray by Oscar Wilde
+14. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+15. The War of the Worlds by H.G. Wells
+16. The Martian by Andy Weir
+17. The Handmaid's Tale by Margaret Atwood
+18. The Catcher in the Rye by J.D. Salinger
+19. The Da Vinci Code by Dan Brown
+20. The Girl on the Train by Paula Hawkins
+21. The Name of the Wind by Patrick Rothfuss
+22. The Nightingale by Kristin Hannah
+23. The Help by Kathryn Stockett
+24. The Book Thief by Markus Zusak
+25. The Fault in Our Stars by John Green
+26. The Lovely Bones by Alice Sebold
+27. The Time Traveler's Wife by Audrey Niffenegger
+28. The Alchemist by Paulo Coelho
+29. The Secret History by Donna Tartt
+30. The Road Less Traveled by M. Scott Peck
+31. The Giver by Lois Lowry
+32. The Outsiders by S.E. Hinton
+33. The Chronicles of Narnia by C.S. Lewis
+34. The Adventures of Tom Sawyer by Mark Twain
+35. The Count of Monte Cristo by Alexandre Dumas
+36. The Picture of Dorian Gray by Oscar Wilde
+37. The Color Purple by Alice Walker
+38. The Bell Jar by Sylvia Plath
+39. The Sun Also Rises by Ernest Hemingway
+40. The Old Man and the Sea by Ernest Hemingway
+41. The Grapes of Wrath by John Steinbeck
+42. The Sound and the Fury by William Faulkner
+43. The Catcher in the Rye by J.D. Salinger
+44. The Great Gatsby by F. Scott Fitzgerald
+45. The Adventures of Huckleberry Finn by Mark Twain
+46. The Scarlet Letter by Nathaniel Hawthorne
+47. The Canterbury Tales by Geoffrey Chaucer
+48. The Divine Comedy by Dante Alighieri
+49. The Iliad by Homer
+50. The Odyssey by Homer

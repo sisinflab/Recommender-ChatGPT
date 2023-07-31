@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Great Gatsby by F. Scott Fitzgerald
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. Jane Eyre by Charlotte Bronte
+5. Wuthering Heights by Emily Bronte
+6. The Secret Garden by Frances Hodgson Burnett
+7. The Woman in White by Wilkie Collins
+8. Sense and Sensibility by Jane Austen
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Princess Bride by William Goldman
+11. Fahrenheit 451 by Ray Bradbury
+12. Life of Pi by Yann Martel
+13. The Things They Carried by Tim O'Brien
+14. Rebecca by Daphne du Maurier
+15. A Portrait of the Artist as a Young Man by James Joyce
+16. Lolita by Vladimir Nabokov
+17. The Outsiders by S.E. Hinton
+18. Black Butler by Yana Toboso
+19. The Giver by Lois Lowry
+20. A Series of Unfortunate Events by Lemony Snicket
+21. The Screwtape Letters by C.S. Lewis
+22. The Canterville Ghost by Oscar Wilde
+23. The Jungle Book by Rudyard Kipling
+24. The Scarlet Letter by Nathaniel Hawthorne
+25. Water for Elephants by Sara Gruen
+26. Petals on the Wind by V.C. Andrews
+27. My Friend Leonard by James Frey
+28. The Monk by Matthew Lewis
+29. Seeds of Yesterday by V.C. Andrews
+30. Brisingr by Christopher Paolini
+31. Paradise Lost by John Milton
+32. The Virgin Suicides by Jeffrey Eugenides
+33. Alas, Babylon by Pat Frank
+34. Anthem by Ayn Rand
+35. Look Me in the Eye by John Elder Robison
+36. Fear and Loathing in Las Vegas by Hunter S. Thompson
+37. Go Ask Alice by Anonymous
+38. Diary of a Wimpy Kid by Jeff Kinney
+39. Stargirl by Jerry Spinelli
+40. Emma by Jane Austen
+41. Trivia by Logan Pearsall Smith
+42. The Tenant of Wildfell Hall by Anne Bronte
+43. Dawn by V.C. Andrews
+44. Obsessed by Ted Dekker
+45. Eat This, Not That by David Zinczenko
+46. The Most Dangerous Game by Richard Connell
+47. Through the Looking-Glass by Lewis Carroll
+48. The Umbrella Academy by Gerard Way
+49. Will Grayson, Will Grayson by John Green and David Levithan
+50. Cat's Cradle by Kurt Vonnegut

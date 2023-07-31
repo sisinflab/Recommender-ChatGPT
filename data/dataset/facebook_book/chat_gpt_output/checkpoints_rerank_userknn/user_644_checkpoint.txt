@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter by J.K. Rowling
+2. The Chronicles of Narnia: The Lion, the Witch and the Wardrobe by C.S. Lewis
+3. The Secret Circle by L.J. Smith
+4. The Hunger Games by Suzanne Collins
+5. The Maze Runner by James Dashner
+6. The Lord of the Rings by J.R.R. Tolkien
+7. The Hobbit by J.R.R. Tolkien
+8. The Da Vinci Code by Dan Brown
+9. Angels and Demons by Dan Brown
+10. The Girl with the Dragon Tattoo by Stieg Larsson
+11. The Girl Who Played with Fire by Stieg Larsson
+12. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+13. The Catcher in the Rye by J.D. Salinger
+14. To Kill a Mockingbird by Harper Lee
+15. The Great Gatsby by F. Scott Fitzgerald
+16. 1984 by George Orwell
+17. Animal Farm by George Orwell
+18. Brave New World by Aldous Huxley
+19. Lord of the Flies by William Golding
+20. The Outsiders by S.E. Hinton
+21. The Giver by Lois Lowry
+22. The Alchemist by Paulo Coelho
+23. The Picture of Dorian Gray by Oscar Wilde
+24. The Count of Monte Cristo by Alexandre Dumas
+25. Les Misérables by Victor Hugo
+26. The Three Musketeers by Alexandre Dumas
+27. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+28. The Hound of the Baskervilles by Arthur Conan Doyle
+29. The Time Machine by H.G. Wells
+30. The War of the Worlds by H.G. Wells
+31. The Invisible Man by H.G. Wells
+32. The Island of Dr. Moreau by H.G. Wells
+33. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+34. Treasure Island by Robert Louis Stevenson
+35. The Call of the Wild by Jack London
+36. White Fang by Jack London
+37. The Adventures of Tom Sawyer by Mark Twain
+38. The Adventures of Huckleberry Finn by Mark Twain
+39. The Scarlet Letter by Nathaniel Hawthorne
+40. Moby-Dick by Herman Melville
+41. Frankenstein by Mary Shelley
+42. Dracula by Bram Stoker
+43. The Legend of Sleepy Hollow by Washington Irving
+44. Rip Van Winkle by Washington Irving
+45. The Red Badge of Courage by Stephen Crane
+46. The Picture of Dorian Gray by Oscar Wilde
+47. The Importance of Being Earnest by Oscar Wilde
+48. The Canterbury Tales by Geoffrey Chaucer
+49. Beowulf by Anonymous
+50.

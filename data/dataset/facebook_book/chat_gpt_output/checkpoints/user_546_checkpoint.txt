@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Lamb: The Gospel According to Biff, Christ's Childhood Pal by Christopher Moore
+2. Slaughterhouse-Five by Kurt Vonnegut
+3. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+4. The Graveyard Book by Neil Gaiman
+5. The Dresden Files series by Jim Butcher
+6. The Dark Tower series by Stephen King
+7. The Hunger Games trilogy by Suzanne Collins
+8. The Girl with the Dragon Tattoo by Stieg Larsson
+9. The Name of the Wind by Patrick Rothfuss
+10. The Lord of the Rings trilogy by J.R.R. Tolkien
+11. The Chronicles of Narnia series by C.S. Lewis
+12. The Harry Potter series by J.K. Rowling
+13. The Hobbit by J.R.R. Tolkien
+14. The Da Vinci Code by Dan Brown
+15. The Catcher in the Rye by J.D. Salinger
+16. The Great Gatsby by F. Scott Fitzgerald
+17. To Kill a Mockingbird by Harper Lee
+18. 1984 by George Orwell
+19. Animal Farm by George Orwell
+20. Brave New World by Aldous Huxley
+21. Fahrenheit 451 by Ray Bradbury
+22. The Martian by Andy Weir
+23. Ready Player One by Ernest Cline
+24. The Road by Cormac McCarthy
+25. The Stand by Stephen King
+26. The Shining by Stephen King
+27. Misery by Stephen King
+28. The Green Mile by Stephen King
+29. The Talisman by Stephen King and Peter Straub
+30. The Gunslinger by Stephen King
+31. The Drawing of the Three by Stephen King
+32. The Waste Lands by Stephen King
+33. Wizard and Glass by Stephen King
+34. Wolves of the Calla by Stephen King
+35. Song of Susannah by Stephen King
+36. The Dark Tower by Stephen King
+37. The Andromeda Strain by Michael Crichton
+38. Jurassic Park by Michael Crichton
+39. The Lost World by Michael Crichton
+40. Ender's Game by Orson Scott Card
+41. Speaker for the Dead by Orson Scott Card
+42. Xenocide by Orson Scott Card
+43. Children of the Mind by Orson Scott Card
+44. The Hitchhiker's Guide to the Galaxy series by Douglas Adams
+45. The Discworld series by Terry Pratchett
+46. American Gods by Neil Gaiman
+47. Neverwhere by Neil Gaiman
+48. Stardust by Neil Gaiman
+49. Coraline by Neil Gaiman
+50. Good Omens by Neil Gaiman and Terry Pratchett

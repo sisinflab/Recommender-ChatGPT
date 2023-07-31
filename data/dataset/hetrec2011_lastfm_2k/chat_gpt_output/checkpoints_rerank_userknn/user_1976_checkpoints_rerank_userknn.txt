@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Pink Floyd
+2. Tom Waits
+3. Miles Davis
+4. Beirut
+5. Yann Tiersen
+6. God Is an Astronaut
+7. The Last Shadow Puppets
+8. Editors
+9. Led Zeppelin
+10. Brian Eno
+11. David Gilmour
+12. Tool
+13. The Beatles
+14. King Crimson
+15. Porcupine Tree
+16. Roger Waters
+17. Syd Barrett
+18. Yes
+19. Talk Talk
+20. Joy Division
+21. The Smiths
+22. Morrissey
+23. The Cure
+24. Depeche Mode
+25. Antimatter
+26. Skid Row
+27. Slayer
+28. Parkway Drive
+29. All That Remains
+30. As I Lay Dying
+31. Jethro Tull
+32. Camel
+33. Dire Straits
+34. Eric Clapton
+35. Joe Satriani
+36. Captain Beefheart & His Magic Band
+37. Suzanne Vega
+38. Édith Piaf
+39. Cat Stevens
+40. Frank Sinatra
+41. The Shins
+42. Kings of Convenience
+43. Minus the Bear
+44. Thrice
+45. Alexisonfire
+46. Jack Johnson
+47. Sia
+48. Cinderella
+49. Czesław Śpiewa
+50. Sigur Rós

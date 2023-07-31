@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Fault in Our Stars by John Green
+4. The Maze Runner by James Dashner
+5. The Giver by Lois Lowry
+6. The Selection by Kiera Cass
+7. Matched by Ally Condie
+8. Delirium by Lauren Oliver
+9. Legend by Marie Lu
+10. Shiver by Maggie Stiefvater
+11. The Mortal Instruments by Cassandra Clare
+12. City of Bones by Cassandra Clare
+13. City of Ashes by Cassandra Clare
+14. City of Glass by Cassandra Clare
+15. City of Fallen Angels by Cassandra Clare
+16. City of Lost Souls by Cassandra Clare
+17. City of Heavenly Fire by Cassandra Clare
+18. The Infernal Devices by Cassandra Clare
+19. Clockwork Angel by Cassandra Clare
+20. Clockwork Prince by Cassandra Clare
+21. Clockwork Princess by Cassandra Clare
+22. The Twilight Saga by Stephenie Meyer
+23. New Moon by Stephenie Meyer
+24. Eclipse by Stephenie Meyer
+25. Breaking Dawn by Stephenie Meyer
+26. The Host by Stephenie Meyer
+27. The Chemical Garden Trilogy by Lauren DeStefano
+28. Wither by Lauren DeStefano
+29. Fever by Lauren DeStefano
+30. Sever by Lauren DeStefano
+31. The Lunar Chronicles by Marissa Meyer
+32. Cinder by Marissa Meyer
+33. Scarlet by Marissa Meyer
+34. Cress by Marissa Meyer
+35. Winter by Marissa Meyer
+36. The Selection Series by Kiera Cass
+37. The Elite by Kiera Cass
+38. The One by Kiera Cass
+39. The Heir by Kiera Cass
+40. The Crown by Kiera Cass
+41. The Chemical Garden Trilogy by Lauren DeStefano
+42. Wither by Lauren DeStefano
+43. Fever by Lauren DeStefano
+44. Sever by Lauren DeStefano
+45. The Darkest Minds by Alexandra Bracken
+46. Never Fade by Alexandra Bracken
+47. In the Afterlight by Alexandra Bracken
+48. The 5th Wave by Rick Yancey
+49. The Infinite Sea by Rick Yancey
+50. The Last Star by Rick Yancey

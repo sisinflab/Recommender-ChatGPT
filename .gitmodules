@@ -1,0 +1,4 @@
+[submodule "external"]
+	path = external
+	url = https://github.com/sisinflab/elliot.git
+	branch = sir_elliot

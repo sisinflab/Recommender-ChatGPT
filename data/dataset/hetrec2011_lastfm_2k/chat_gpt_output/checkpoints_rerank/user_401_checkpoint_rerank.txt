@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for user 401 are:
+
+1. Nirvana
+2. The Offspring
+3. Green Day
+4. Ramones
+5. Blink-182
+6. The Distillers
+7. Bikini Kill
+8. The Runaways
+9. Sum 41
+10. Alice in Chains
+11. AC/DC
+12. The Donnas
+13. Funeral for a Friend
+14. New Found Glory
+15. Lady Gaga
+16. HEVO84
+17. Underoath
+18. Bullet for My Valentine
+19. Secondhand Serenade
+20. Charlie Brown Jr.
+21. Mamonas Assassinas
+22. Forfun
+23. Papa Roach
+24. Incubus
+25. Matanza
+26. Eminem
+27. Metallica
+28. Iron Maiden
+29. Pearl Jam
+30. Led Zeppelin
+31. Michael Jackson
+32. Madonna
+33. Beyoncé
+34. Rihanna
+35. Shakira
+36. Christina Aguilera
+37. Britney Spears
+38. Katy Perry
+39. Avril Lavigne
+40. Taylor Swift
+41. Evanescence
+42. Muse
+43. 30 Seconds to Mars
+44. Pink Floyd
+45. Kylie Minogue
+46. Radiohead
+47. Duran Duran
+48. Coldplay
+49. Blur
+50. Arctic Monkeys

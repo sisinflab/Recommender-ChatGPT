@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Little Women by Louisa May Alcott
+6. The Hunger Games by Suzanne Collins
+7. The Book Thief by Markus Zusak
+8. The Fault in Our Stars by John Green
+9. The Hobbit by J.R.R. Tolkien
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Chronicles of Narnia by C.S. Lewis
+12. Harry Potter series by J.K. Rowling
+13. The Girl with the Dragon Tattoo by Stieg Larsson
+14. The Da Vinci Code by Dan Brown
+15. The Help by Kathryn Stockett
+16. The Kite Runner by Khaled Hosseini
+17. The Alchemist by Paulo Coelho
+18. The Picture of Dorian Gray by Oscar Wilde
+19. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+20. The Adventures of Tom Sawyer by Mark Twain
+21. The Adventures of Huckleberry Finn by Mark Twain
+22. The Secret Garden by Frances Hodgson Burnett
+23. The Time Traveler's Wife by Audrey Niffenegger
+24. The Lovely Bones by Alice Sebold
+25. The Road by Cormac McCarthy
+26. The Handmaid's Tale by Margaret Atwood
+27. The Stand by Stephen King
+28. The Shining by Stephen King
+29. The Silence of the Lambs by Thomas Harris
+30. The Bourne Identity by Robert Ludlum
+31. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+32. The Name of the Wind by Patrick Rothfuss
+33. The Nightingale by Kristin Hannah
+34. The Help by Kathryn Stockett
+35. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+36. The Martian by Andy Weir
+37. The Girl on the Train by Paula Hawkins
+38. The Maze Runner by James Dashner
+39. The Giver by Lois Lowry
+40. The Outsiders by S.E. Hinton
+41. The Perks of Being a Wallflower by Stephen Chbosky
+42. The Fault in Our Stars by John Green
+43. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+44. The Road Less Traveled by M. Scott Peck
+45. The Power of Now by Eckhart Tolle
+46. The 7 Habits of Highly Effective People by Stephen Covey
+47. The Lean Startup by Eric Ries
+48. The Innovator's Dilemma by Clayton Christensen
+49. The Art of War
+50. American Gods by Neil Gaiman

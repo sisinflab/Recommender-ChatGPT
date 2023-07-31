@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. My Chemical Romance
+2. Evanescence
+3. Placebo
+4. Children of Bodom
+5. Scar Symmetry
+6. Bring Me The Horizon
+7. Chiodos
+8. The Red Jumpsuit Apparatus
+9. Anti-Flag
+10. Machine Head
+11. Assemblage 23
+12. IAMX
+13. Combichrist
+14. Dashboard Confessional
+15. Elliott Smith
+16. Bright Eyes
+17. Aphex Twin
+18. Einstürzende Neubauten
+19. Good Charlotte
+20. Björk
+21. Radiohead
+22. Muse
+23. Pink Floyd
+24. Nirvana
+25. Led Zeppelin
+26. Metallica
+27. Iron Maiden
+28. Pearl Jam
+29. The Beatles
+30. U2
+31. Duran Duran
+32. Coldplay
+33. Blur
+34. Arctic Monkeys
+35. Ke$ha
+36. Lady Gaga
+37. Christina Aguilera
+38. Madonna
+39. Rihanna
+40. Shakira
+41. Katy Perry
+42. Avril Lavigne
+43. Taylor Swift
+44. Glee Cast
+45. Beyoncé
+46. Daft Punk
+47. Nine Inch Nails
+48. Linkin Park
+49. Kelly Clarkson
+50. P!nk

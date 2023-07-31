@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Crime and Punishment by Fyodor Dostoevsky
+2. 1984 by George Orwell
+3. Brave New World by Aldous Huxley
+4. The Catcher in the Rye by J.D. Salinger
+5. To Kill a Mockingbird by Harper Lee
+6. The Great Gatsby by F. Scott Fitzgerald
+7. The Bell Jar by Sylvia Plath
+8. The Handmaid's Tale by Margaret Atwood
+9. The Road by Cormac McCarthy
+10. The Stranger by Albert Camus
+11. The Waste Land by T.S. Eliot
+12. Waiting for the Barbarians by J.M. Coetzee
+13. Go Ask Alice by Anonymous
+14. Nickel and Dimed by Barbara Ehrenreich
+15. We by Yevgeny Zamyatin
+16. Slaughterhouse-Five by Kurt Vonnegut
+17. The Communist Manifesto by Karl Marx and Friedrich Engels
+18. Silent Spring by Rachel Carson
+19. The Kite Runner by Khaled Hosseini
+20. One Hundred Years of Solitude by Gabriel García Márquez
+21. The Picture of Dorian Gray by Oscar Wilde
+22. Heart of Darkness by Joseph Conrad
+23. The Sun Also Rises by Ernest Hemingway
+24. The Grapes of Wrath by John Steinbeck
+25. The Sound and the Fury by William Faulkner
+26. Lolita by Vladimir Nabokov
+27. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+28. The Hobbit by J.R.R. Tolkien
+29. The Lord of the Rings by J.R.R. Tolkien
+30. The Chronicles of Narnia by C.S. Lewis
+31. The Hunger Games by Suzanne Collins
+32. Harry Potter and the Philosopher's Stone by J.K. Rowling
+33. The Da Vinci Code by Dan Brown
+34. Angels and Demons by Dan Brown
+35. The Girl with the Dragon Tattoo by Stieg Larsson
+36. The Help by Kathryn Stockett
+37. The Secret Life of Bees by Sue Monk Kidd
+38. The Color Purple by Alice Walker
+39. The Joy Luck Club by Amy Tan
+40. The Alchemist by Paulo Coelho
+41. The Name of the Rose by Umberto Eco
+42. The Shadow of the Wind by Carlos Ruiz Zafón
+43. The Time Traveler's Wife by Audrey Niffenegger
+44. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+45. Life of Pi by Yann Martel
+46. The Book Thief by Markus Zusak
+47. The Fault in Our Stars by John Green
+48. The Perks of Being a Wallflower by Stephen Chbosky
+49.

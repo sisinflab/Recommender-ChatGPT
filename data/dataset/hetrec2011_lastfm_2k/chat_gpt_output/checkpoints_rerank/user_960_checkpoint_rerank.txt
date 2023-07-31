@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Kanye West
+2. Eminem
+3. Drake
+4. Jay-Z
+5. The Prodigy
+6. Armin van Buuren
+7. J Dilla
+8. David Guetta
+9. Coldplay
+10. Depeche Mode
+11. Daft Punk
+12. Linkin Park
+13. System of a Down
+14. The Roots
+15. Ludwig van Beethoven
+16. Common
+17. Akira Yamaoka
+18. La Roux
+19. Sting
+20. Rihanna
+21. Beyoncé
+22. Lady Gaga
+23. Madonna
+24. Pink Floyd
+25. Muse
+26. Radiohead
+27. U2
+28. Nirvana
+29. Metallica
+30. Led Zeppelin
+31. Michael Jackson
+32. Pearl Jam
+33. Björk
+34. The Beatles
+35. Duran Duran
+36. Arctic Monkeys
+37. Placebo
+38. The Killers
+39. Amy Winehouse
+40. Ke$ha
+41. Katy Perry
+42. Taylor Swift
+43. Avril Lavigne
+44. Evanescence
+45. Glee Cast
+46. 30 Seconds to Mars
+47. Kylie Minogue
+48. Miley Cyrus
+49. Green Day
+50. Black Eyed Peas

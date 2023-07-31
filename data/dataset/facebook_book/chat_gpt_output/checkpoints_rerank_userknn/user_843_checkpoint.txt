@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. The Hobbit by J.R.R. Tolkien
+3. The Chronicles of Narnia by C.S. Lewis
+4. 1984 by George Orwell
+5. Animal Farm by George Orwell
+6. The Catcher in the Rye by J.D. Salinger
+7. To Kill a Mockingbird by Harper Lee
+8. One Hundred Years of Solitude by Gabriel Garcia Marquez
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Count of Monte Cristo by Alexandre Dumas
+11. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+12. The Hound of the Baskervilles by Arthur Conan Doyle
+13. The Three Musketeers by Alexandre Dumas
+14. The Scarlet Letter by Nathaniel Hawthorne
+15. The Grapes of Wrath by John Steinbeck
+16. The Old Man and the Sea by Ernest Hemingway
+17. The Great Gatsby by F. Scott Fitzgerald
+18. The Sun Also Rises by Ernest Hemingway
+19. The Sound and the Fury by William Faulkner
+20. The Brothers Karamazov by Fyodor Dostoyevsky
+21. Crime and Punishment by Fyodor Dostoyevsky
+22. Les Misérables by Victor Hugo
+23. War and Peace by Leo Tolstoy
+24. Anna Karenina by Leo Tolstoy
+25. Don Quixote by Miguel de Cervantes
+26. The Idiot by Fyodor Dostoyevsky
+27. The Name of the Rose by Umberto Eco
+28. Dracula by Bram Stoker
+29. Frankenstein by Mary Shelley
+30. Brave New World by Aldous Huxley
+31. Fahrenheit 451 by Ray Bradbury
+32. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+33. The Chronicles of Prydain by Lloyd Alexander
+34. The Dark Tower series by Stephen King
+35. The Hunger Games by Suzanne Collins
+36. The Maze Runner by James Dashner
+37. The Giver by Lois Lowry
+38. Ender's Game by Orson Scott Card
+39. The Wheel of Time series by Robert Jordan
+40. The Sword of Shannara by Terry Brooks
+41. The Belgariad series by David Eddings
+42. The Malazan Book of the Fallen series by Steven Erikson
+43. The Dresden Files series by Jim Butcher
+44. The Kingkiller Chronicle series by Patrick Rothfuss
+45. The Stormlight Archive series by Brandon Sanderson
+46. The Mistborn series by Brandon Sanderson
+47. The First Law trilogy by Joe Abercrombie
+48. The Lies of Locke Lamora by Scott Lynch

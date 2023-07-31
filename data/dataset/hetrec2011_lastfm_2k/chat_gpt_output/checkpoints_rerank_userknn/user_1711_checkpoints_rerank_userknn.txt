@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Velvet Underground
+2. Nick Drake
+3. The Clash
+4. Tom Waits
+5. David Bowie
+6. Pulp
+7. Emilie Autumn
+8. Regina Spektor
+9. The Magnetic Fields
+10. of Montreal
+11. Misfits
+12. Buzzcocks
+13. Emilíana Torrini
+14. Dragonette
+15. Aerosmith
+16. Britney Spears
+17. Beck
+18. Ramones
+19. Pet Shop Boys
+20. The Stooges
+21. The White Stripes
+22. Arcade Fire
+23. Radiohead
+24. Blur
+25. Oasis
+26. Spoon
+27. The New Pornographers
+28. Kings of Convenience
+29. José González
+30. Arctic Monkeys
+31. The Killers
+32. The Knife
+33. Frank Zappa
+34. Captain Beefheart & His Magic Band
+35. Bob Dylan
+36. Prince
+37. Jethro Tull
+38. Moby
+39. Aphex Twin
+40. Tori Amos
+41. Simon & Garfunkel
+42. Red Hot Chili Peppers
+43. Iron & Wine
+44. My Chemical Romance
+45. Incubus
+46. Rufus Wainwright
+47. The Dresden Dolls
+48. Billy Joel
+49. Elvis Costello
+50. Anti-Flag

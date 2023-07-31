@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. Pearl Jam
+3. Muse
+4. Tool
+5. Death Cab for Cutie
+6. Iron & Wine
+7. Queens of the Stone Age
+8. Incubus
+9. A Perfect Circle
+10. Chevelle
+11. Coheed and Cambria
+12. Opeth
+13. Sufjan Stevens
+14. Elliott Smith
+15. The Black Keys
+16. Pain of Salvation
+17. Ray LaMontagne
+18. John Mayer
+19. Jimmy Eat World
+20. Damien Rice
+21. The Mars Volta
+22. Alanis Morissette
+23. System of a Down
+24. dredg
+25. Creed
+26. Sting
+27. Britney Spears
+28. Lady Gaga
+29. Christina Aguilera
+30. Paramore
+31. Madonna
+32. Rihanna
+33. Shakira
+34. Katy Perry
+35. Avril Lavigne
+36. Taylor Swift
+37. Evanescence
+38. Beyoncé
+39. U2
+40. 30 Seconds to Mars
+41. Ke$ha
+42. Coldplay
+43. Blur
+44. Arctic Monkeys
+45. Placebo
+46. The Killers
+47. Nirvana
+48. Led Zeppelin
+49. Metallica
+50. Michael Jackson

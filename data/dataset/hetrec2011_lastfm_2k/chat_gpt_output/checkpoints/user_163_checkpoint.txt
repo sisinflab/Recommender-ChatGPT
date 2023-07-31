@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Blake Shelton
+2. Tim McGraw
+3. Miranda Lambert
+4. Jason Aldean
+5. Luke Bryan
+6. Rascal Flatts
+7. Kenny Chesney
+8. Toby Keith
+9. George Strait
+10. Zac Brown Band
+11. Eric Church
+12. Florida Georgia Line
+13. Dierks Bentley
+14. Chris Young
+15. Kacey Musgraves
+16. Little Big Town
+17. Thomas Rhett
+18. Sam Hunt
+19. Brett Eldredge
+20. Dan + Shay
+21. Old Dominion
+22. Maren Morris
+23. Jon Pardi
+24. Cole Swindell
+25. Brantley Gilbert
+26. Chris Stapleton
+27. Carrie Underwood & Brad Paisley
+28. Lady Antebellum & Darius Rucker
+29. Keith Urban & Miranda Lambert
+30. Shania Twain & Billy Currington
+31. Taylor Swift & Ed Sheeran
+32. Faith Hill & Tim McGraw
+33. Dixie Chicks & James Taylor
+34. Garth Brooks
+35. Alan Jackson
+36. Martina McBride
+37. Reba McEntire
+38. Vince Gill
+39. Trisha Yearwood
+40. Sara Evans
+41. Lee Ann Womack
+42. Patty Loveless
+43. Dwight Yoakam
+44. Randy Travis
+45. Clint Black
+46. Brooks & Dunn
+47. The Judds
+48. Alabama
+49. Charlie Daniels Band
+50. Johnny Cash

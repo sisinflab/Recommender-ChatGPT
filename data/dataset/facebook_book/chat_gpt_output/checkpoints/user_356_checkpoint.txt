@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Harry Potter and the Philosopher's Stone by J.K. Rowling
+3. Percy Jackson and the Lightning Thief by Rick Riordan
+4. The Hobbit by J.R.R. Tolkien
+5. The Chronicles of Narnia by C.S. Lewis
+6. The Lord of the Rings by J.R.R. Tolkien
+7. Eragon by Christopher Paolini
+8. The Golden Compass by Philip Pullman
+9. The Mortal Instruments by Cassandra Clare
+10. Divergent by Veronica Roth
+11. The Maze Runner by James Dashner
+12. The Giver by Lois Lowry
+13. The Fault in Our Stars by John Green
+14. The Book Thief by Markus Zusak
+15. The Secret Garden by Frances Hodgson Burnett
+16. Alice's Adventures in Wonderland by Lewis Carroll
+17. The Wind in the Willows by Kenneth Grahame
+18. The Adventures of Tom Sawyer by Mark Twain
+19. Little Women by Louisa May Alcott
+20. Anne of Green Gables by L.M. Montgomery
+21. The Catcher in the Rye by J.D. Salinger
+22. To Kill a Mockingbird by Harper Lee
+23. The Great Gatsby by F. Scott Fitzgerald
+24. 1984 by George Orwell
+25. Animal Farm by George Orwell
+26. Brave New World by Aldous Huxley
+27. Fahrenheit 451 by Ray Bradbury
+28. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+29. The Da Vinci Code by Dan Brown
+30. Angels and Demons by Dan Brown
+31. The Girl with the Dragon Tattoo by Stieg Larsson
+32. The Girl on the Train by Paula Hawkins
+33. Gone Girl by Gillian Flynn
+34. The Help by Kathryn Stockett
+35. The Kite Runner by Khaled Hosseini
+36. A Thousand Splendid Suns by Khaled Hosseini
+37. The Alchemist by Paulo Coelho
+38. The Picture of Dorian Gray by Oscar Wilde
+39. Dracula by Bram Stoker
+40. Frankenstein by Mary Shelley
+41. Wuthering Heights by Emily Bronte
+42. Jane Eyre by Charlotte Bronte
+43. Pride and Prejudice by Jane Austen
+44. Sense and Sensibility by Jane Austen
+45. Emma by Jane Austen
+46. Persuasion by Jane Austen
+47. Northanger Abbey by Jane Austen
+48. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+49. The Hound of the Baskervilles by Arthur Conan Doyle
+50. The Time Machine by H.G. Wells

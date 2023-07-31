@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Killers
+2. Depeche Mode
+3. Nine Inch Nails
+4. Queens of the Stone Age
+5. Foo Fighters
+6. Muse
+7. Radiohead
+8. Nirvana
+9. Pearl Jam
+10. Audioslave
+11. Iron Maiden
+12. Metallica
+13. Fleet Foxes
+14. Editors
+15. Massive Attack
+16. Goldfrapp
+17. Yeah Yeah Yeahs
+18. Interpol
+19. Trentemøller
+20. The Mars Volta
+21. Placebo
+22. Coldplay
+23. Blur
+24. Arctic Monkeys
+25. R.E.M.
+26. New Order
+27. Duran Duran
+28. The Beatles
+29. Pink Floyd
+30. Led Zeppelin
+31. Michael Jackson
+32. Madonna
+33. Beyoncé
+34. Lady Gaga
+35. Rihanna
+36. Shakira
+37. Kylie Minogue
+38. Christina Aguilera
+39. Katy Perry
+40. Taylor Swift
+41. Miley Cyrus
+42. Ke$ha
+43. Amy Winehouse
+44. Björk
+45. Daft Punk
+46. System of a Down
+47. Linkin Park
+48. Avenged Sevenfold
+49. My Chemical Romance
+50. Green Day

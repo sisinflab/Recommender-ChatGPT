@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Nine Inch Nails
+2. David Bowie
+3. Einstürzende Neubauten
+4. The Dillinger Escape Plan
+5. Mastodon
+6. Venetian Snares
+7. Howlin' Wolf
+8. Misfits
+9. The Dresden Dolls
+10. Björk
+11. Michael Jackson
+12. The Beatles
+13. Shpongle
+14. Lush
+15. Frédéric Chopin
+16. Radiohead
+17. Nirvana
+18. Led Zeppelin
+19. Pink Floyd
+20. Metallica
+21. Iron Maiden
+22. Pearl Jam
+23. Muse
+24. U2
+25. Coldplay
+26. Blur
+27. Arctic Monkeys
+28. Placebo
+29. The Killers
+30. Amy Winehouse
+31. System of a Down
+32. Daft Punk
+33. Linkin Park
+34. Green Day
+35. My Chemical Romance
+36. The Cure
+37. Avenged Sevenfold
+38. Katy Perry
+39. Lady Gaga
+40. Rihanna
+41. Britney Spears
+42. Christina Aguilera
+43. Madonna
+44. Shakira
+45. Taylor Swift
+46. Ke$ha
+47. Paramore
+48. Avril Lavigne
+49. Miley Cyrus
+50. Kelly Clarkson

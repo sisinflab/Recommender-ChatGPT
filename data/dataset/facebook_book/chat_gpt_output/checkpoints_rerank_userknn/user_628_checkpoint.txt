@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Crime and Punishment by Fyodor Dostoevsky
+2. The Brothers Karamazov by Fyodor Dostoevsky
+3. The Picture of Dorian Gray by Oscar Wilde
+4. The Count of Monte Cristo by Alexandre Dumas
+5. The Trial by Franz Kafka
+6. Lolita by Vladimir Nabokov
+7. Animal Farm by George Orwell
+8. Brave New World by Aldous Huxley
+9. Nineteen Eighty-Four by George Orwell
+10. The Handmaid's Tale by Margaret Atwood
+11. The Bell Jar by Sylvia Plath
+12. Invisible Man by Ralph Ellison
+13. A Passage to India by E.M. Forster
+14. The Lord of the Rings by J.R.R. Tolkien
+15. The Hobbit by J.R.R. Tolkien
+16. The Chronicles of Narnia by C.S. Lewis
+17. Winnie-the-Pooh by A.A. Milne
+18. Alice's Adventures in Wonderland by Lewis Carroll
+19. The Neverending Story by Michael Ende
+20. The Phantom Tollbooth by Norton Juster
+21. Journey to the West by Wu Cheng'en
+22. Symposium by Plato
+23. The Canterbury Tales by Geoffrey Chaucer
+24. Pygmy by Chuck Palahniuk
+25. Neuromancer by William Gibson
+26. The Da Vinci Code by Dan Brown
+27. Notes from Underground by Fyodor Dostoevsky
+28. The Sound and the Fury by William Faulkner
+29. Beloved by Toni Morrison
+30. The Stainless Steel Rat by Harry Harrison
+31. Ender's Game by Orson Scott Card
+32. The Watchmen by Alan Moore
+33. Infinite Jest by David Foster Wallace
+34. Bible
+35. The Jungle Book by Rudyard Kipling
+36. On the Origin of Species by Charles Darwin
+37. The Prince by Niccolò Machiavelli
+38. Last Words by George Carlin
+39. The Chosen by Chaim Potok
+40. Stargirl by Jerry Spinelli
+41. Running with Scissors by Augusten Burroughs
+42. City of Ashes by Cassandra Clare
+43. The Catcher in the Rye by J.D. Salinger
+44. Uncle Tom's Cabin by Harriet Beecher Stowe
+45. God Is Not Great by Christopher Hitchens
+46. Harry Potter by J.K. Rowling
+47. Garfield by Jim Davis
+48. Songs of Innocence and of Experience by William Blake
+49. Sybil by Flora Rheta Schreiber
+50. Flowers in the Attic by V.C. Andrews

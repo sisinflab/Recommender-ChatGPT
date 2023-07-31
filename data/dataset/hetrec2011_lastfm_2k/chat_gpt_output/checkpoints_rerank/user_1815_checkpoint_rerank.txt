@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Smiths
+2. Ryan Adams
+3. Rufus Wainwright
+4. Belle and Sebastian
+5. Morrissey
+6. Sigur Rós
+7. Arcade Fire
+8. Aimee Mann
+9. Antony and the Johnsons
+10. Wilco
+11. Foo Fighters
+12. Elliott Smith
+13. Alanis Morissette
+14. Incubus
+15. The Verve
+16. Suede
+17. Beirut
+18. Band of Horses
+19. Bright Eyes
+20. Adele
+21. The Flaming Lips
+22. Travis
+23. Radiohead
+24. Pink Floyd
+25. U2
+26. Muse
+27. Coldplay
+28. Blur
+29. Arctic Monkeys
+30. Placebo
+31. The Killers
+32. Nirvana
+33. Iron Maiden
+34. Led Zeppelin
+35. Metallica
+36. Pearl Jam
+37. Björk
+38. Daft Punk
+39. Nine Inch Nails
+40. Linkin Park
+41. Kelly Clarkson
+42. P!nk
+43. My Chemical Romance
+44. Green Day
+45. The Cure
+46. Depeche Mode
+47. Madonna
+48. Lady Gaga
+49. Christina Aguilera
+50. Paramore

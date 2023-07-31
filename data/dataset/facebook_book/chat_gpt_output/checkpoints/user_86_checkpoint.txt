@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Ella Enchanted by Gail Carson Levine
+2. The Hunger Games by Suzanne Collins
+3. Harry Potter and the Philosopher's Stone by J.K. Rowling
+4. The Giver by Lois Lowry
+5. The Selection by Kiera Cass
+6. Divergent by Veronica Roth
+7. The Maze Runner by James Dashner
+8. The Fault in Our Stars by John Green
+9. The Mortal Instruments by Cassandra Clare
+10. Percy Jackson and the Lightning Thief by Rick Riordan
+11. The Chronicles of Narnia by C.S. Lewis
+12. The Hobbit by J.R.R. Tolkien
+13. The Lord of the Rings by J.R.R. Tolkien
+14. The Book Thief by Markus Zusak
+15. The Secret Garden by Frances Hodgson Burnett
+16. Little Women by Louisa May Alcott
+17. Anne of Green Gables by L.M. Montgomery
+18. To Kill a Mockingbird by Harper Lee
+19. The Catcher in the Rye by J.D. Salinger
+20. The Great Gatsby by F. Scott Fitzgerald
+21. Pride and Prejudice by Jane Austen
+22. Sense and Sensibility by Jane Austen
+23. Emma by Jane Austen
+24. Persuasion by Jane Austen
+25. Northanger Abbey by Jane Austen
+26. Wuthering Heights by Emily Bronte
+27. The Picture of Dorian Gray by Oscar Wilde
+28. Dracula by Bram Stoker
+29. Frankenstein by Mary Shelley
+30. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+31. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+32. The Hound of the Baskervilles by Arthur Conan Doyle
+33. The War of the Worlds by H.G. Wells
+34. 1984 by George Orwell
+35. Animal Farm by George Orwell
+36. Brave New World by Aldous Huxley
+37. Fahrenheit 451 by Ray Bradbury
+38. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+39. Ender's Game by Orson Scott Card
+40. The Name of the Wind by Patrick Rothfuss
+41. The Way of Kings by Brandon Sanderson
+42. Mistborn by Brandon Sanderson
+43. The Lies of Locke Lamora by Scott Lynch
+44. The Blade Itself by Joe Abercrombie
+45. The Black Prism by Brent Weeks
+46. The Final Empire by Brandon Sanderson
+47. The Eye of the World by Robert Jordan
+48. The Name of the Rose by Umberto Eco
+49. The Da Vinci Code by Dan Brown
+50. Angels and Demons by Dan Brown

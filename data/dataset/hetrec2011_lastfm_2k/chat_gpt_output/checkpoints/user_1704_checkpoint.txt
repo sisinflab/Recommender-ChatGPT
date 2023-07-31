@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Backstreet Boys
+2. One Direction
+3. Spice Girls
+4. Boyzone
+5. N'Sync
+6. Britney Spears
+7. Christina Aguilera
+8. Justin Timberlake
+9. Kelly Clarkson
+10. Avril Lavigne
+11. Katy Perry
+12. Rihanna
+13. Beyoncé
+14. Ariana Grande
+15. Demi Lovato
+16. Selena Gomez
+17. Miley Cyrus
+18. Taylor Swift
+19. Ed Sheeran
+20. Shawn Mendes
+21. Justin Bieber
+22. The Wanted
+23. McFly
+24. Busted
+25. 5 Seconds of Summer
+26. Little Mix
+27. Fifth Harmony
+28. Jonas Brothers
+29. The Vamps
+30. Union J
+31. Lawson
+32. The Script
+33. Train
+34. Coldplay
+35. Imagine Dragons
+36. Maroon 5
+37. The Killers
+38. U2
+39. Bon Jovi
+40. Aerosmith
+41. Queen
+42. Led Zeppelin
+43. The Beatles
+44. Michael Jackson
+45. Prince
+46. Madonna
+47. Whitney Houston
+48. Celine Dion
+49. Adele
+50. Sam Smith

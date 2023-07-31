@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Crime and Punishment by Fyodor Dostoyevsky
+2. The Count of Monte Cristo by Alexandre Dumas
+3. The Picture of Dorian Gray by Oscar Wilde
+4. To Kill a Mockingbird by Harper Lee
+5. The Great Gatsby by F. Scott Fitzgerald
+6. 1984 by George Orwell
+7. One Hundred Years of Solitude by Gabriel Garcia Marquez
+8. The Catcher in the Rye by J.D. Salinger
+9. Pride and Prejudice by Jane Austen
+10. The Hobbit by J.R.R. Tolkien
+11. The Lord of the Rings by J.R.R. Tolkien
+12. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+13. The Hunger Games by Suzanne Collins
+14. The Girl with the Dragon Tattoo by Stieg Larsson
+15. The Da Vinci Code by Dan Brown
+16. The Shining by Stephen King
+17. The Stand by Stephen King
+18. The Silence of the Lambs by Thomas Harris
+19. The Road by Cormac McCarthy
+20. The Handmaid's Tale by Margaret Atwood
+21. The Name of the Wind by Patrick Rothfuss
+22. The Wise Man's Fear by Patrick Rothfuss
+23. The Dark Tower series by Stephen King
+24. The Chronicles of Narnia by C.S. Lewis
+25. The Book Thief by Markus Zusak
+26. The Fault in Our Stars by John Green
+27. The Alchemist by Paulo Coelho
+28. The Kite Runner by Khaled Hosseini
+29. The Help by Kathryn Stockett
+30. The Secret Life of Bees by Sue Monk Kidd
+31. The Lovely Bones by Alice Sebold
+32. The Time Traveler's Wife by Audrey Niffenegger
+33. The Giver by Lois Lowry
+34. The Maze Runner by James Dashner
+35. The Bourne Identity by Robert Ludlum
+36. The Bourne Supremacy by Robert Ludlum
+37. The Bourne Ultimatum by Robert Ludlum
+38. The Girl on the Train by Paula Hawkins
+39. Gone Girl by Gillian Flynn
+40. The Martian by Andy Weir
+41. Ready Player One by Ernest Cline
+42. The Name of the Rose by Umberto Eco
+43. Les Misérables by Victor Hugo
+44. The Brothers Karamazov by Fyodor Dostoyevsky
+45. Ethan Frome by Edith Wharton
+46. Rebecca by Daphne du Maurier
+47. Peace Like a River by Leif Enger
+48. The Beekeeper's Apprentice by Laurie R. King
+49. The Four Loves by C.S. Lewis
+50. Space by James

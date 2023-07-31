@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Metallica
+2. Iron Maiden
+3. Dream Theater
+4. Nightwish
+5. Rammstein
+6. Slayer
+7. Judas Priest
+8. Lacuna Coil
+9. Alter Bridge
+10. Faith No More
+11. Depeche Mode
+12. Hans Zimmer
+13. Whitesnake
+14. Fear Factory
+15. Type O Negative
+16. Paradise Lost
+17. Blind Guardian
+18. Rhapsody of Fire
+19. Sepultura
+20. Riverside
+21. Cradle of Filth
+22. Nine Inch Nails
+23. Green Day
+24. Jamiroquai
+25. Nickelback
+26. The Birthday Massacre
+27. Limp Bizkit
+28. Korn
+29. Avenged Sevenfold
+30. Muse
+31. Pink Floyd
+32. Nirvana
+33. Led Zeppelin
+34. Radiohead
+35. The Killers
+36. Arctic Monkeys
+37. Placebo
+38. My Chemical Romance
+39. System of a Down
+40. Linkin Park
+41. Pearl Jam
+42. Michael Jackson
+43. Duran Duran
+44. Coldplay
+45. Blur
+46. a-ha
+47. Björk
+48. Daft Punk
+49. Kelly Clarkson
+50. P!nk

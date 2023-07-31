@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Jay-Z
+2. Nas
+3. De La Soul
+4. A Tribe Called Quest
+5. Madlib
+6. Mos Def
+7. Common
+8. Raekwon
+9. 2Pac
+10. MF DOOM
+11. Madvillain
+12. The Roots
+13. GZA/Genius
+14. Gang Starr
+15. Snoop Dogg
+16. Lil' Wayne
+17. The Game
+18. Erykah Badu
+19. Kid Cudi
+20. OutKast
+21. Flying Lotus
+22. Burial
+23. Aphex Twin
+24. Prefuse 73
+25. Capsule
+26. Radiohead
+27. Pink Floyd
+28. The Beatles
+29. Jeff Buckley
+30. David Bowie
+31. The Cure
+32. Morrissey
+33. Elvis Presley
+34. B.B. King
+35. Stevie Ray Vaughan and Double Trouble
+36. John Mayer
+37. Michael Bublé
+38. Frank Sinatra
+39. Kings of Convenience
+40. Tori Amos
+41. Alicia Keys
+42. Usher
+43. Maroon 5
+44. Bonobo
+45. Explosions in the Sky
+46. Red Hot Chili Peppers
+47. Cypress Hill
+48. Parov Stelar
+49. The Flashbulb
+50. DJ Shadow

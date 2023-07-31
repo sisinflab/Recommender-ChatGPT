@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations are:
+
+1. Nirvana
+2. Pearl Jam
+3. Alice in Chains
+4. Soundgarden
+5. Red Hot Chili Peppers
+6. Queens of the Stone Age
+7. Foo Fighters
+8. The Jimi Hendrix Experience
+9. Led Zeppelin
+10. The Rolling Stones
+11. The Beatles
+12. Black Rebel Motorcycle Club
+13. Pink Floyd
+14. David Bowie
+15. Oasis
+16. Muse
+17. Elliott Smith
+18. My Bloody Valentine
+19. Sonic Youth
+20. Mogwai
+21. Explosions in the Sky
+22. A Silver Mt. Zion
+23. Sigur Rós
+24. Isis
+25. Fantômas
+26. Mr. Bungle
+27. Miles Davis
+28. Fugazi
+29. Dinosaur Jr.
+30. Sepultura
+31. Howard Shore
+32. God Is an Astronaut
+33. Silverchair
+34. Engenheiros do Hawaii
+35. Chico Buarque
+36. Aerosmith
+37. Placebo
+38. Eddie Vedder
+39. The Cure
+40. The Who
+41. The Doors
+42. Van Halen
+43. P.O.D.
+44. Hanoi Rocks
+45. M83
+46. The Beach Boys
+47. Primal Scream
+48. Bon Jovi
+49. Guns N' Roses
+50. Arctic Monkeys

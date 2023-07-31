@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for user 1635 are:
+
+1. Kings of Leon
+2. Beck
+3. Pearl Jam
+4. dredg
+5. U2
+6. Bruce Springsteen
+7. Wolfmother
+8. Mando Diao
+9. Black Rebel Motorcycle Club
+10. Red Hot Chili Peppers
+11. Moby
+12. Minus the Bear
+13. Interpol
+14. Oasis
+15. The Magnetic Fields
+16. Hot Hot Heat
+17. The Script
+18. ...And You Will Know Us by the Trail of Dead
+19. The Stranglers
+20. Audioslave
+21. Garbage
+22. Muse
+23. Underworld
+24. Coldplay
+25. Sting
+26. The White Stripes
+27. The Verve
+28. Blackfield
+29. Ryan Adams
+30. Biffy Clyro
+31. Kasabian
+32. Peter Gabriel
+33. Radiohead
+34. Nirvana
+35. Led Zeppelin
+36. Metallica
+37. Iron Maiden
+38. Pink Floyd
+39. The Beatles
+40. Duran Duran
+41. Blur
+42. Arctic Monkeys
+43. Placebo
+44. The Killers
+45. Amy Winehouse
+46. Michael Jackson
+47. Björk
+48. Daft Punk
+49. Nine Inch Nails
+50. Linkin Park

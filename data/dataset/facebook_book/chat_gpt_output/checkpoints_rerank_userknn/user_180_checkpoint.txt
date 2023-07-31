@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Divine Comedy
+2. Nineteen Eighty-Four
+3. The Picture of Dorian Gray
+4. The Stand
+5. To Kill a Mockingbird
+6. The Lord of the Rings
+7. Paradise Lost
+8. Emma (novel)
+9. The Kite Runner
+10. Romeo and Juliet
+11. The Great Gatsby
+12. Alice's Adventures in Wonderland
+13. The Chronicles of Narnia: Prince Caspian
+14. The Hitchhiker's Guide to the Galaxy (novel)
+15. Haunted (Palahniuk novel)
+16. The Scarlet Letter
+17. Sense and Sensibility
+18. Cat's Cradle
+19. Adventures of Huckleberry Finn
+20. The Grapes of Wrath
+21. Lilith (novel)
+22. Iliad
+23. A Midsummer Night's Dream
+24. Lord of the Flies
+25. Pride and Prejudice and Zombies
+26. Choke (novel)
+27. The Black Dahlia (novel)
+28. Around the World in Eighty Days
+29. Twenty Thousand Leagues Under the Sea
+30. The Last Song (novel)
+31. Dear John (novel)
+32. Another Roadside Attraction
+33. The Gospel of Filth
+34. The Zombie Survival Guide
+35. Metaphysics of War
+36. I Hope They Serve Beer in Hell
+37. The Shack
+38. Alas, Babylon
+39. A Brief History of Time
+40. Angela's Ashes
+41. Teaching with Calvin and Hobbes
+42. Tuesdays with Morrie
+43. Five Point Someone
+44. Jane Eyre
+45. Number the Stars
+46. Going Rogue: An American Life
+47. The Occult: A History
+48. The Crucible of Time
+49. The Prodigal Daughter
+50. Harry Potter

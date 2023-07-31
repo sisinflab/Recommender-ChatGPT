@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Beatles
+2. Nirvana
+3. Pink Floyd
+4. David Bowie
+5. The Velvet Underground
+6. Joy Division
+7. Radiohead
+8. Led Zeppelin
+9. The Who
+10. The Doors
+11. The White Stripes
+12. Pixies
+13. Ramones
+14. Cream
+15. Janis Joplin
+16. Oasis
+17. Arctic Monkeys
+18. MGMT
+19. My Chemical Romance
+20. The Fratellis
+21. She & Him
+22. Weezer
+23. The Killers
+24. Muse
+25. Florence + the Machine
+26. Lady Gaga
+27. System of a Down
+28. Caetano Veloso
+29. Little Joy
+30. The Rakes
+31. Os Mutantes
+32. Móveis Coloniais de Acaju
+33. UFO
+34. The Mars Volta
+35. Kate Nash
+36. Duran Duran
+37. Depeche Mode
+38. Madonna
+39. Rihanna
+40. Shakira
+41. Katy Perry
+42. Taylor Swift
+43. Ke$ha
+44. Evanescence
+45. Beyoncé
+46. U2
+47. 30 Seconds to Mars
+48. Metallica
+49. Iron Maiden
+50. Pearl Jam

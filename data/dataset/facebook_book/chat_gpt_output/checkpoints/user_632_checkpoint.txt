@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. A Clockwork Orange by Anthony Burgess
+3. American Gods by Neil Gaiman
+4. Brave New World by Aldous Huxley
+5. Catch-22 by Joseph Heller
+6. Do Androids Dream of Electric Sheep? by Philip K. Dick
+7. Dune by Frank Herbert
+8. Ender's Game by Orson Scott Card
+9. Fahrenheit 451 by Ray Bradbury
+10. Fight Club by Chuck Palahniuk
+11. Good Omens by Neil Gaiman and Terry Pratchett
+12. Harry Potter and the Philosopher's Stone by J.K. Rowling
+13. His Dark Materials by Philip Pullman
+14. I Am Legend by Richard Matheson
+15. Jurassic Park by Michael Crichton
+16. Life of Pi by Yann Martel
+17. Little Women by Louisa May Alcott
+18. Lord of the Flies by William Golding
+19. Memoirs of a Geisha by Arthur Golden
+20. Neverwhere by Neil Gaiman
+21. Nineteen Minutes by Jodi Picoult
+22. One Hundred Years of Solitude by Gabriel Garcia Marquez
+23. Outlander by Diana Gabaldon
+24. Pet Sematary by Stephen King
+25. Pride and Prejudice by Jane Austen
+26. Ready Player One by Ernest Cline
+27. Red Rising by Pierce Brown
+28. Slaughterhouse-Five by Kurt Vonnegut
+29. Snow Crash by Neal Stephenson
+30. Station Eleven by Emily St. John Mandel
+31. The Bell Jar by Sylvia Plath
+32. The Book Thief by Markus Zusak
+33. The Catcher in the Rye by J.D. Salinger
+34. The Chronicles of Narnia by C.S. Lewis
+35. The Color Purple by Alice Walker
+36. The Count of Monte Cristo by Alexandre Dumas
+37. The Dark Tower series by Stephen King
+38. The Girl with the Dragon Tattoo by Stieg Larsson
+39. The Handmaid's Tale by Margaret Atwood
+40. The Hunger Games by Suzanne Collins
+41. The Martian by Andy Weir
+42. The Picture of Dorian Gray by Oscar Wilde
+43. The Road by Cormac McCarthy
+44. The Shining by Stephen King
+45. The Stand by Stephen King
+46. The Time Traveler's Wife by Audrey Niffenegger
+47. To Kill a Mockingbird by Harper Lee
+48. Watership Down by Richard Adams
+49. We Need to Talk About Kevin by Lionel Shriver
+50. World War Z by Max Brooks

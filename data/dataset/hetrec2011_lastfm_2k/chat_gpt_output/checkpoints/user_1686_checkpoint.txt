@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. One Direction
+2. Ed Sheeran
+3. Taylor Swift
+4. Coldplay
+5. Imagine Dragons
+6. Bruno Mars
+7. Adele
+8. Shawn Mendes
+9. The 1975
+10. Panic! At The Disco
+11. Fall Out Boy
+12. Green Day
+13. Paramore
+14. All Time Low
+15. The Script
+16. The Fray
+17. Snow Patrol
+18. The Lumineers
+19. Mumford & Sons
+20. Of Monsters and Men
+21. Florence + The Machine
+22. Hozier
+23. Bastille
+24. Vampire Weekend
+25. Arctic Monkeys
+26. The Kooks
+27. Two Door Cinema Club
+28. The Wombats
+29. Franz Ferdinand
+30. The Vaccines
+31. Foals
+32. Bombay Bicycle Club
+33. The Maccabees
+34. The Libertines
+35. The Arctic Monkeys
+36. The Strokes
+37. The Black Keys
+38. Kings of Leon
+39. Muse
+40. Radiohead
+41. Nirvana
+42. Red Hot Chili Peppers
+43. Foo Fighters
+44. Pearl Jam
+45. Soundgarden
+46. Alice in Chains
+47. Stone Temple Pilots
+48. Smashing Pumpkins
+49. Nine Inch Nails
+50. Metallica

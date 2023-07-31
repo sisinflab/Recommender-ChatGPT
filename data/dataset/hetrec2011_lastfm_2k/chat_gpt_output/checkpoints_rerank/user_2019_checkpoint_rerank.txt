@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Mumford & Sons
+2. Kings of Leon
+3. John Mayer
+4. Florence + the Machine
+5. Lifehouse
+6. James Morrison
+7. Switchfoot
+8. Imogen Heap
+9. Relient K
+10. Paramore
+11. Flyleaf
+12. Thousand Foot Krutch
+13. Pitty
+14. Mika
+15. Madonna
+16. Beyoncé
+17. Lady Gaga
+18. Rihanna
+19. Shakira
+20. Christina Aguilera
+21. Katy Perry
+22. Taylor Swift
+23. Evanescence
+24. Muse
+25. Pink Floyd
+26. U2
+27. 30 Seconds to Mars
+28. Radiohead
+29. Ke$ha
+30. Coldplay
+31. The Beatles
+32. Nirvana
+33. Metallica
+34. Led Zeppelin
+35. Pearl Jam
+36. Iron Maiden
+37. System of a Down
+38. Nine Inch Nails
+39. Linkin Park
+40. Michael Jackson
+41. Green Day
+42. My Chemical Romance
+43. The Killers
+44. Blur
+45. Arctic Monkeys
+46. Placebo
+47. Black Eyed Peas
+48. Daft Punk
+49. Kelly Clarkson
+50. P!nk

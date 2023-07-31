@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Enya
+2. Ennio Morricone
+3. Yanni
+4. Vangelis
+5. Jean-Michel Jarre
+6. Mike Oldfield
+7. Schiller
+8. Delerium
+9. Hans Zimmer
+10. Peter Gabriel
+11. Dead Can Dance
+12. Frédéric Chopin
+13. Hooverphonic
+14. Mylène Farmer
+15. David Bowie
+16. Ultravox
+17. Depeche Mode
+18. Radiohead
+19. Echo & The Bunnymen
+20. Simple Minds
+21. Tears for Fears
+22. Fleetwood Mac
+23. John Williams
+24. Pink Floyd
+25. The Beatles
+26. Queen
+27. Paul McCartney
+28. Blondie
+29. The Cars
+30. Gary Numan
+31. Nightwish
+32. Evanescence
+33. Joe Satriani
+34. Iron Maiden
+35. Linkin Park
+36. Kings of Leon
+37. ABBA
+38. Nitzer Ebb
+39. Van Halen
+40. A Flock of Seagulls
+41. De/Vision
+42. Kim Wilde
+43. Alphaville
+44. Pet Shop Boys
+45. Whitesnake
+46. Anathema
+47. U2
+48. The Human League
+49. Owl City
+50. Breaking Benjamin

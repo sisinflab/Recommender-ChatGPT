@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. The Catcher in the Rye by J.D. Salinger
+4. American Psycho by Bret Easton Ellis
+5. A Clockwork Orange by Anthony Burgess
+6. Crime and Punishment by Fyodor Dostoevsky
+7. Lord of the Flies by William Golding
+8. The Handmaid's Tale by Margaret Atwood
+9. Frankenstein by Mary Shelley
+10. The Picture of Dorian Gray by Oscar Wilde
+11. Inferno by Dante Alighieri
+12. Paradise Lost by John Milton
+13. The Iliad by Homer
+14. Macbeth by William Shakespeare
+15. Romeo and Juliet by William Shakespeare
+16. The Hobbit by J.R.R. Tolkien
+17. The Lord of the Rings by J.R.R. Tolkien
+18. Ender's Game by Orson Scott Card
+19. The Hunger Games by Suzanne Collins
+20. Percy Jackson & the Olympians by Rick Riordan
+21. The Giver by Lois Lowry
+22. The Outsiders by S.E. Hinton
+23. The Old Man and the Sea by Ernest Hemingway
+24. A Farewell to Arms by Ernest Hemingway
+25. Night by Elie Wiesel
+26. Notes from Underground by Fyodor Dostoevsky
+27. The Little Prince by Antoine de Saint-Exupéry
+28. High Fidelity by Nick Hornby
+29. The Prince by Niccolò Machiavelli
+30. The Bible
+31. Tess of the d'Urbervilles by Thomas Hardy
+32. Cosmos by Carl Sagan
+33. The Count of Monte Cristo by Alexandre Dumas
+34. Alice's Adventures in Wonderland by Lewis Carroll
+35. The Adventures of Tom Sawyer by Mark Twain
+36. Isaac Asimov's Robot City by William F. Wu
+37. The Fountainhead by Ayn Rand
+38. The Zombie Survival Guide by Max Brooks
+39. City of Ashes by Cassandra Clare
+40. Lolita by Vladimir Nabokov
+41. The Stranger by Albert Camus
+42. The Watchmen by Alan Moore
+43. The Perks of Being a Wallflower by Stephen Chbosky
+44. Girl, Interrupted by Susanna Kaysen
+45. Diary by Chuck Palahniuk
+46. Thirteen Reasons Why by Jay Asher
+47. The Chosen by Chaim Potok
+48. Fade by Lisa McMann
+49. Choke by Chuck Palahniuk
+50. Fallen by Lauren Kate

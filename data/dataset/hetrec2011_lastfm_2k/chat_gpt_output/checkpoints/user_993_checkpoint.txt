@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. The National
+3. Sigur Rós
+4. Explosions in the Sky
+5. Mogwai
+6. Godspeed You! Black Emperor
+7. My Bloody Valentine
+8. Slowdive
+9. The Cure
+10. The Smiths
+11. New Order
+12. The Jesus and Mary Chain
+13. Sonic Youth
+14. Pixies
+15. Pavement
+16. Neutral Milk Hotel
+17. Modest Mouse
+18. The Flaming Lips
+19. Animal Collective
+20. Grizzly Bear
+21. Fleet Foxes
+22. Bon Iver
+23. Sufjan Stevens
+24. The Antlers
+25. Beach House
+26. Tame Impala
+27. Vampire Weekend
+28. Arcade Fire
+29. The Strokes
+30. Interpol (since the user already likes them)
+31. Editors
+32. White Lies
+33. The Horrors
+34. Bloc Party
+35. The Killers
+36. Muse
+37. Queens of the Stone Age
+38. Arctic Monkeys
+39. The Black Keys
+40. The Raconteurs
+41. The White Stripes
+42. Yeah Yeah Yeahs
+43. TV on the Radio
+44. LCD Soundsystem
+45. Hot Chip
+46. Cut Copy
+47. M83
+48. Passion Pit
+49. Phoenix
+50. Two Door Cinema Club

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games (series) by Suzanne Collins
+2. Harry Potter (series) by J.K. Rowling
+3. Mockingjay by Suzanne Collins
+4. To Kill a Mockingbird by Harper Lee
+5. Twilight (series) by Stephenie Meyer
+6. The Maze Runner (series) by James Dashner
+7. Nineteen Eighty-Four by George Orwell
+8. In Cold Blood by Truman Capote
+9. The Lovely Bones by Alice Sebold
+10. Frankenstein by Mary Shelley
+11. Ender's Game by Orson Scott Card
+12. Les Misérables by Victor Hugo
+13. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+14. A Farewell to Arms by Ernest Hemingway
+15. Slaughterhouse-Five by Kurt Vonnegut
+16. The Time Traveler's Wife by Audrey Niffenegger
+17. The Five People You Meet in Heaven by Mitch Albom
+18. Sarah's Key by Tatiana de Rosnay
+19. Life as We Knew It by Susan Beth Pfeffer
+20. The Forest of Hands and Teeth by Carrie Ryan
+21. Rebel Angels by Libba Bray
+22. The Dead-Tossed Waves by Carrie Ryan
+23. The Luxe by Anna Godbersen
+24. Perfect Chemistry by Simone Elkeles
+25. Flipped by Wendelin Van Draanen
+26. If I Stay by Gayle Forman
+27. The Wolves of Mercy Falls by Maggie Stiefvater
+28. The Supernaturalist by Eoin Colfer
+29. The Black Tattoo by Sam Enthoven
+30. The Accursed Kings by Maurice Druon
+31. Fruits Basket by Natsuki Takaya
+32. A Midsummer Night's Dream by William Shakespeare
+33. Digital Fortress by Dan Brown
+34. Glass by Ellen Hopkins
+35. The Rules of Survival by Nancy Werlin
+36. Emma by Jane Austen
+37. Leven Thumps by Obert Skye
+38. Ella Enchanted by Gail Carson Levine
+39. Northern Lights by Philip Pullman
+40. The Short Second Life of Bree Tanner by Stephenie Meyer
+41. Holes by Louis Sachar
+42. The Boy in the Striped Pyjamas by John Boyne
+43. Tuck Everlasting by Natalie Babbitt
+44. Anthem by Ayn Rand
+45. God Is Not Great by Christopher Hitchens
+46. The Devil in the White City by Erik Larson
+47. City of Ashes by Cassandra Clare
+48. Beautiful Creatures by Kami Garcia and Margaret Stohl
+49. Without You by Anthony Rapp
+50. Mark of the Lion Series by Francine Rivers

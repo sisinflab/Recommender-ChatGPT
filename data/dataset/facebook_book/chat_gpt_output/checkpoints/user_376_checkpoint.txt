@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. Brave New World by Aldous Huxley
+4. Catch-22 by Joseph Heller
+5. Crime and Punishment by Fyodor Dostoevsky
+6. Dracula by Bram Stoker
+7. Fahrenheit 451 by Ray Bradbury
+8. Frankenstein by Mary Shelley
+9. Heart of Darkness by Joseph Conrad
+10. Jane Eyre by Charlotte Bronte
+11. Les Miserables by Victor Hugo
+12. Lord of the Flies by William Golding
+13. Moby-Dick by Herman Melville
+14. One Hundred Years of Solitude by Gabriel Garcia Marquez
+15. Pride and Prejudice by Jane Austen
+16. Slaughterhouse-Five by Kurt Vonnegut
+17. The Bell Jar by Sylvia Plath
+18. The Brothers Karamazov by Fyodor Dostoevsky
+19. The Canterbury Tales by Geoffrey Chaucer
+20. The Count of Monte Cristo by Alexandre Dumas
+21. The Divine Comedy by Dante Alighieri
+22. The Great Gatsby by F. Scott Fitzgerald
+23. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+24. The Hobbit by J.R.R. Tolkien
+25. The Iliad by Homer
+26. The Lord of the Rings by J.R.R. Tolkien
+27. The Metamorphosis by Franz Kafka
+28. The Picture of Dorian Gray by Oscar Wilde
+29. The Plague by Albert Camus
+30. The Scarlet Letter by Nathaniel Hawthorne
+31. The Shining by Stephen King
+32. The Sound and the Fury by William Faulkner
+33. The Stranger by Albert Camus
+34. The Sun Also Rises by Ernest Hemingway
+35. The Three Musketeers by Alexandre Dumas
+36. The Time Machine by H.G. Wells
+37. The Trial by Franz Kafka
+38. The War of the Worlds by H.G. Wells
+39. The Wind in the Willows by Kenneth Grahame
+40. The Wonderful Wizard of Oz by L. Frank Baum
+41. Things Fall Apart by Chinua Achebe
+42. To the Lighthouse by Virginia Woolf
+43. Ulysses by James Joyce
+44. Wuthering Heights by Emily Bronte
+45. A Clockwork Orange by Anthony Burgess
+46. A Farewell to Arms by Ernest Hemingway
+47. A Room of One's Own by Virginia Woolf
+48. Dubliners by James Joyce
+49. Lolita by Vladimir Nabokov
+50. The Handmaid's Tale by Margaret Atwood

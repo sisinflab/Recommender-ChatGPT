@@ -1,0 +1,33 @@
+experiment:
+  gpu: 1 # Run on GPU
+  #
+  # Dataset pre-processing and configuration
+  #
+  dataset: hetrec2011_lastfm_2k
+  data_config:
+    strategy: fixed
+    train_path: ../../../../data/dataset/hetrec2011_lastfm_2k/splitting/0/train.tsv
+    test_path: ../../../../data/dataset/hetrec2011_lastfm_2k/splitting/0/test.tsv
+    side_information:
+      - dataloader: ItemAttributes
+        attribute_file: ../../../../data/dataset/hetrec2011_lastfm_2k/map_hetrec.tsv
+  top_k: 50
+  #
+  # Evaluation Setup
+  #
+  evaluation:
+    cutoffs: [10, 20, 50]
+    simple_metrics: [nDCG, Recall, Precision, nDCGRendle2020, HR, F1, MAP, MAR, MRR, ACLT, APLT, ARP, PopREO, PopRSP, ItemCoverage, NumRetrived, UserCoverage, Gini, SEntropy, EFD, EPC]
+    paired_ttest: True
+    wilcoxon_test: True
+  print_results_as_triplets: True
+  external_models_path: ../external/models/__init__.py
+  #
+  # Models Setup
+  #
+  models:
+    #
+    # Proxy Recommender to compute metrics on ChatGPT rerank
+    #
+    ProxyRecommender:
+      path: ../data/dataset/hetrec2011_lastfm_2k/text_davinci_output/output_EXP_3_elliot.tsv

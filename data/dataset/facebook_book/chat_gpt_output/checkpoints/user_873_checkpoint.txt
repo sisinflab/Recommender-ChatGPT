@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Sandman by Neil Gaiman
+2. American Gods by Neil Gaiman
+3. Coraline by Neil Gaiman
+4. The Graveyard Book by Neil Gaiman
+5. The Ocean at the End of the Lane by Neil Gaiman
+6. The Dark Tower series by Stephen King
+7. The Shining by Stephen King
+8. It by Stephen King
+9. Pet Sematary by Stephen King
+10. The Stand by Stephen King
+11. The Girl with the Dragon Tattoo by Stieg Larsson
+12. The Girl Who Played with Fire by Stieg Larsson
+13. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+14. The Hunger Games by Suzanne Collins
+15. Catching Fire by Suzanne Collins
+16. Mockingjay by Suzanne Collins
+17. The Lord of the Rings by J.R.R. Tolkien
+18. The Hobbit by J.R.R. Tolkien
+19. The Silmarillion by J.R.R. Tolkien
+20. The Chronicles of Narnia by C.S. Lewis
+21. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+22. Ender's Game by Orson Scott Card
+23. Dune by Frank Herbert
+24. The Foundation series by Isaac Asimov
+25. 1984 by George Orwell
+26. Animal Farm by George Orwell
+27. Brave New World by Aldous Huxley
+28. Fahrenheit 451 by Ray Bradbury
+29. The Martian by Andy Weir
+30. Ready Player One by Ernest Cline
+31. The Handmaid's Tale by Margaret Atwood
+32. The Road by Cormac McCarthy
+33. The Book Thief by Markus Zusak
+34. The Fault in Our Stars by John Green
+35. To Kill a Mockingbird by Harper Lee
+36. The Catcher in the Rye by J.D. Salinger
+37. One Hundred Years of Solitude by Gabriel Garcia Marquez
+38. The Picture of Dorian Gray by Oscar Wilde
+39. Frankenstein by Mary Shelley
+40. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+41. The Time Machine by H.G. Wells
+42. The War of the Worlds by H.G. Wells
+43. The Invisible Man by H.G. Wells
+44. The Island of Dr. Moreau by H.G. Wells
+45. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+46. The Hound of the Baskervilles by Arthur Conan Doyle
+47. The Complete Works of Edgar Allan Poe by Edgar Allan Poe
+48. The Canterbury Tales by Geoffrey Chaucer
+49. Beowulf by Unknown
+50. The Iliad by Homer

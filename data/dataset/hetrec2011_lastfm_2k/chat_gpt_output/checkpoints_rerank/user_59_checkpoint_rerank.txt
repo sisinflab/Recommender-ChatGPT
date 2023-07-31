@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Tool
+2. Nine Inch Nails
+3. Deftones
+4. Rammstein
+5. Apocalyptica
+6. A Perfect Circle
+7. Marilyn Manson
+8. Metallica
+9. Judas Priest
+10. Tarja
+11. Therion
+12. Eisbrecher
+13. Black Label Society
+14. Hans Zimmer
+15. Philip Glass
+16. Dead Can Dance
+17. The Sisters of Mercy
+18. Korn
+19. She Wants Revenge
+20. Eminem
+21. Aphex Twin
+22. Daft Punk
+23. David Bowie
+24. HIM
+25. Oomph!
+26. The Cult
+27. Unheilig
+28. Björk
+29. Muse
+30. Pink Floyd
+31. Radiohead
+32. Nirvana
+33. Led Zeppelin
+34. Iron Maiden
+35. Pearl Jam
+36. System of a Down
+37. Linkin Park
+38. Avenged Sevenfold
+39. My Chemical Romance
+40. Green Day
+41. The Killers
+42. Duran Duran
+43. Coldplay
+44. Blur
+45. Arctic Monkeys
+46. Placebo
+47. Michael Jackson
+48. Madonna
+49. Beyoncé
+50. Lady Gaga

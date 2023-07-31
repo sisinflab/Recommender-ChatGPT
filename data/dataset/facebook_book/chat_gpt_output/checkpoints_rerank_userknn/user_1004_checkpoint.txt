@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Naruto
+2. Dragon Ball Z
+3. Fullmetal Alchemist
+4. Soul Eater (manga)
+5. YuYu Hakusho
+6. Rosario + Vampire
+7. Vampire Kisses
+8. Battle Royale
+9. Gantz
+10. Ouran High School Host Club
+11. Sabriel
+12. Sailor Moon
+13. .hack
+14. Azumanga Daioh
+15. Middlesex (novel)
+16. Frankenstein
+17. Twilight (series)
+18. The Gargoyle (novel)
+19. House of Many Ways
+20. Castle in the Air (novel)
+21. The Outsiders (novel)
+22. The Loch
+23. Brave New World
+24. Fahrenheit 451
+25. Nineteen Eighty-Four
+26. Wuthering Heights
+27. Pride and Prejudice and Zombies
+28. The Da Vinci Code
+29. Digital Fortress
+30. Stalingrad (book)
+31. Iliad
+32. The Raging Quiet
+33. Dear John (novel)
+34. Harry Potter
+35. Lord of the Flies
+36. Musicophilia
+37. Rosemary's Baby
+38. Like Water for Chocolate
+39. Moby-Dick
+40. The Zombie Survival Guide
+41. Needful Things
+42. Fried Green Tomatoes at the Whistle Stop Cafe
+43. The Great Gatsby
+44. Farmers' Almanac
+45. The Queen's Fool
+46. Heavier Than Heaven
+47. Roronoa Zoro
+48. Romance of the Three Kingdoms
+49. Highschool of the Dead
+50. Macbeth

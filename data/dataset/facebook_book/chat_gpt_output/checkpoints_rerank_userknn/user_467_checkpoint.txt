@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Count of Monte Cristo by Alexandre Dumas
+3. Les Misérables by Victor Hugo
+4. The Picture of Dorian Gray by Oscar Wilde
+5. Don Quixote by Miguel de Cervantes
+6. The Lord of the Rings by J.R.R. Tolkien
+7. The Hobbit by J.R.R. Tolkien
+8. Romeo and Juliet by William Shakespeare
+9. Jane Eyre by Charlotte Bronte
+10. Wuthering Heights by Emily Bronte
+11. The Catcher in the Rye by J.D. Salinger
+12. Brave New World by Aldous Huxley
+13. Fahrenheit 451 by Ray Bradbury
+14. A Clockwork Orange by Anthony Burgess
+15. The Giver by Lois Lowry
+16. The Canterbury Tales by Geoffrey Chaucer
+17. The Iliad by Homer
+18. Othello by William Shakespeare
+19. The Bell Jar by Sylvia Plath
+20. Heart of Darkness by Joseph Conrad
+21. The Sound and the Fury by William Faulkner
+22. The Grapes of Wrath by John Steinbeck
+23. The Stranger by Albert Camus
+24. The Master and Margarita by Mikhail Bulgakov
+25. Being and Nothingness by Jean-Paul Sartre
+26. The Forgotten Garden by Kate Morton
+27. The Five People You Meet in Heaven by Mitch Albom
+28. A Separate Peace by John Knowles
+29. The Chosen by Chaim Potok
+30. The Prince by Niccolo Machiavelli
+31. The Glass Menagerie by Tennessee Williams
+32. Bridge to Terabithia by Katherine Paterson
+33. Inkspell by Cornelia Funke
+34. Eragon by Christopher Paolini
+35. The Graveyard Book by Neil Gaiman
+36. Twilight by Stephenie Meyer
+37. The Zombie Survival Guide by Max Brooks
+38. Cosmos by Carl Sagan
+39. Esperanza Rising by Pam Munoz Ryan
+40. Thus Spoke Zarathustra by Friedrich Nietzsche
+41. Motherless Brooklyn by Jonathan Lethem
+42. State of Fear by Michael Crichton
+43. A Passage to India by E.M. Forster
+44. Airframe by Michael Crichton
+45. Emma by Jane Austen
+46. Infinite Jest by David Foster Wallace
+47. Timeline by Michael Crichton
+48. Howl by Allen Ginsberg
+49. Candide by Voltaire
+50. The Little Prince by Antoine de Saint-Exupéry

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Explosions in the Sky
+2. Sigur Rós
+3. This Will Destroy You
+4. Hammock
+5. Caspian
+6. Mono
+7. Russian Circles
+8. If These Trees Could Talk
+9. God Is an Astronaut (already liked by the user)
+10. Mogwai (already liked by the user)
+11. M83 (already liked by the user)
+12. My Bloody Valentine (already liked by the user)
+13. [unknown] (already liked by the user)
+14. Isis (already liked by the user)
+15. Godspeed You! Black Emperor (already liked by the user)
+16. Sonic Youth (already liked by the user)
+17. Slowdive (already liked by the user)
+18. Radiohead
+19. Pink Floyd
+20. Muse
+21. The Beatles
+22. Nirvana
+23. Led Zeppelin
+24. Metallica
+25. Iron Maiden
+26. Pearl Jam
+27. Nine Inch Nails
+28. Daft Punk
+29. Linkin Park
+30. Arctic Monkeys
+31. Placebo
+32. The Killers
+33. Green Day
+34. My Chemical Romance
+35. Avenged Sevenfold
+36. System of a Down
+37. Duran Duran
+38. Coldplay
+39. Blur
+40. Michael Jackson
+41. Amy Winehouse
+42. Björk
+43. a-ha
+44. U2
+45. Ke$ha
+46. Lady Gaga
+47. Rihanna
+48. Beyoncé
+49. Madonna
+50. Shakira

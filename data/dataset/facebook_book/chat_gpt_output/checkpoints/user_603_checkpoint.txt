@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Girl with the Dragon Tattoo by Stieg Larsson
+2. The Catcher in the Rye by J.D. Salinger
+3. The Hunger Games by Suzanne Collins
+4. To Kill a Mockingbird by Harper Lee
+5. The Great Gatsby by F. Scott Fitzgerald
+6. 1984 by George Orwell
+7. Pride and Prejudice by Jane Austen
+8. The Hobbit by J.R.R. Tolkien
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Chronicles of Narnia by C.S. Lewis
+11. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+12. The Shining by Stephen King
+13. The Stand by Stephen King
+14. The Silence of the Lambs by Thomas Harris
+15. The Talented Mr. Ripley by Patricia Highsmith
+16. The Picture of Dorian Gray by Oscar Wilde
+17. The Count of Monte Cristo by Alexandre Dumas
+18. The Three Musketeers by Alexandre Dumas
+19. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+20. The Hound of the Baskervilles by Arthur Conan Doyle
+21. The War of the Worlds by H.G. Wells
+22. The Time Machine by H.G. Wells
+23. The Invisible Man by H.G. Wells
+24. The Island of Dr. Moreau by H.G. Wells
+25. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+26. Treasure Island by Robert Louis Stevenson
+27. The Adventures of Tom Sawyer by Mark Twain
+28. The Adventures of Huckleberry Finn by Mark Twain
+29. The Call of the Wild by Jack London
+30. White Fang by Jack London
+31. The Old Man and the Sea by Ernest Hemingway
+32. For Whom the Bell Tolls by Ernest Hemingway
+33. The Sun Also Rises by Ernest Hemingway
+34. The Catcher in the Rye by J.D. Salinger
+35. Franny and Zooey by J.D. Salinger
+36. Nine Stories by J.D. Salinger
+37. The Bell Jar by Sylvia Plath
+38. The Picture of Dorian Gray by Oscar Wilde
+39. The Importance of Being Earnest by Oscar Wilde
+40. The Canterbury Tales by Geoffrey Chaucer
+41. The Divine Comedy by Dante Alighieri
+42. The Iliad by Homer
+43. The Odyssey by Homer
+44. The Aeneid by Virgil
+45. The Inferno by Dante Alighieri
+46. The Canterbury Tales by Geoffrey Chaucer
+47. The Decameron by Giovanni Boccaccio
+48. The Prince by Niccolò Machiavelli
+49.

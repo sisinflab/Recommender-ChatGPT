@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Muse
+2. Coldplay
+3. Red Hot Chili Peppers
+4. Queen
+5. The Strokes
+6. Arctic Monkeys
+7. Radiohead
+8. The Beatles
+9. Death Cab for Cutie
+10. The Kooks
+11. The Fray
+12. Snow Patrol
+13. Blink-182
+14. Mayday Parade
+15. Panic! At the Disco
+16. The All-American Rejects
+17. Taking Back Sunday
+18. Dashboard Confessional
+19. Fall Out Boy
+20. Jimmy Eat World
+21. Motion City Soundtrack
+22. Mae
+23. Anberlin
+24. Owl City
+25. Alkaline Trio
+26. Copeland
+27. Forfun
+28. CPM 22
+29. Marcelo Camelo
+30. Raul Seixas
+31. Los Hermanos
+32. Chico Buarque
+33. The Last Shadow Puppets
+34. The Fratellis
+35. The Hush Sound
+36. Thirteen Senses
+37. Sigur Rós
+38. M83
+39. The White Stripes
+40. Cut Copy
+41. Lady Gaga
+42. Britney Spears
+43. AC/DC
+44. Metallica
+45. Audioslave
+46. System of a Down
+47. Korn
+48. Alesana
+49. Breaking Benjamin
+50. CAKE

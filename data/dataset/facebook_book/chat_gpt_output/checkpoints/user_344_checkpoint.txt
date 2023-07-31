@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Name of the Wind by Patrick Rothfuss
+2. Mistborn by Brandon Sanderson
+3. The Lies of Locke Lamora by Scott Lynch
+4. The Way of Kings by Brandon Sanderson
+5. The Hunger Games by Suzanne Collins
+6. Ender's Game by Orson Scott Card
+7. The Martian by Andy Weir
+8. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+9. The Dresden Files by Jim Butcher
+10. The Kingkiller Chronicle by Patrick Rothfuss
+11. The Stormlight Archive by Brandon Sanderson
+12. The First Law Trilogy by Joe Abercrombie
+13. The Dark Tower by Stephen King
+14. The Wheel of Time by Robert Jordan
+15. The Malazan Book of the Fallen by Steven Erikson
+16. The Chronicles of Narnia by C.S. Lewis
+17. The Lord of the Rings by J.R.R. Tolkien
+18. The Hobbit by J.R.R. Tolkien
+19. The Mistborn Trilogy by Brandon Sanderson
+20. The Reckoners by Brandon Sanderson
+21. The Inheritance Trilogy by N.K. Jemisin
+22. The Broken Empire Trilogy by Mark Lawrence
+23. The Powder Mage Trilogy by Brian McClellan
+24. The Lightbringer Series by Brent Weeks
+25. The Black Company by Glen Cook
+26. The Riyria Revelations by Michael J. Sullivan
+27. The Farseer Trilogy by Robin Hobb
+28. The Liveship Traders Trilogy by Robin Hobb
+29. The Tawny Man Trilogy by Robin Hobb
+30. The Gentleman Bastard Sequence by Scott Lynch
+31. The Bartimaeus Trilogy by Jonathan Stroud
+32. The Abhorsen Trilogy by Garth Nix
+33. The Old Kingdom Series by Garth Nix
+34. The Belgariad by David Eddings
+35. The Malloreon by David Eddings
+36. The Codex Alera by Jim Butcher
+37. The Dresden Files by Jim Butcher
+38. The Iron Druid Chronicles by Kevin Hearne
+39. The Demon Cycle by Peter V. Brett
+40. The Night Angel Trilogy by Brent Weeks
+41. The Black Magician Trilogy by Trudi Canavan
+42. The Age of the Five Trilogy by Trudi Canavan
+43. The Bartimaeus Trilogy by Jonathan Stroud
+44. The Inheritance Cycle by Christopher Paolini
+45. The Kane Chronicles by Rick Riordan
+46. The Percy Jackson and the Olympians Series by Rick Riordan
+47. The Heroes of Olympus Series by Rick Riordan
+48. The Lost World by Michael Crichton
+49. The Jurassic Park by Michael Crichton
+50. The

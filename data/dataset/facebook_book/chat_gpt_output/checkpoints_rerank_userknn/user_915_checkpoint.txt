@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Harry Potter by J.K. Rowling
+2. The Chronicles of Narnia by C.S. Lewis
+3. Maximum Ride by James Patterson
+4. Holes by Louis Sachar
+5. The Lorax by Dr. Seuss
+6. Gossip Girl by Cecily von Ziegesar
+7. Speak by Laurie Halse Anderson
+8. To Kill a Mockingbird by Harper Lee
+9. The Hobbit by J.R.R. Tolkien
+10. Romeo and Juliet by William Shakespeare
+11. Inkspell by Cornelia Funke
+12. Percy Jackson & the Olympians by Rick Riordan
+13. Charlie and the Chocolate Factory by Roald Dahl
+14. The Secret by Rhonda Byrne
+15. Frankenstein by Mary Shelley
+16. The Hamlet by William Faulkner
+17. Wicked Lovely by Melissa Marr
+18. Angels & Demons by Dan Brown
+19. PS, I Love You by Cecelia Ahern
+20. Soul Eater by Atsushi Ohkubo
+21. Evermore by Alyson Noel
+22. Atlas Shrugged by Ayn Rand
+23. Othello by William Shakespeare
+24. Eragon by Christopher Paolini
+25. The Host by Stephenie Meyer
+26. The Black Stallion by Walter Farley
+27. The Watchmen by Alan Moore
+28. Dracula by Bram Stoker
+29. The Idiot by Fyodor Dostoevsky
+30. Neverwhere by Neil Gaiman
+31. The Hunt for Red October by Tom Clancy
+32. The Time Traveler's Wife by Audrey Niffenegger
+33. Mockingjay by Suzanne Collins
+34. City of Glass by Cassandra Clare
+35. Tuesdays with Morrie by Mitch Albom
+36. City of Ashes by Cassandra Clare
+37. Dear John by Nicholas Sparks
+38. A Midsummer Night's Dream by William Shakespeare
+39. Goodnight Moon by Margaret Wise Brown
+40. Twilight by Stephenie Meyer
+41. Chicken Soup for the Soul by Jack Canfield and Mark Victor Hansen
+42. Inferno by Dante Alighieri
+43. The Hunger Games by Suzanne Collins
+44. Garfield by Jim Davis
+45. Crank by Ellen Hopkins
+46. The Lord of the Rings by J.R.R. Tolkien
+47. Skeleton Creek by Patrick Carman
+48. Ender's Game by Orson Scott Card
+49. Crime and Punishment by Fyodor Dostoevsky
+50. Cable & Deadpool by Fabian Nicieza and Reilly Brown

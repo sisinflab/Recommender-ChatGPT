@@ -1,0 +1,54 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Placebo
+2. The Rolling Stones
+3. Guns N' Roses
+4. Lady Gaga
+5. Avril Lavigne
+6. KISS
+7. Lindsay Lohan
+8. Alanis Morissette
+9. Madonna
+10. Gossip
+11. Paramore
+12. P!nk
+13. Cássia Eller
+14. Miley Cyrus
+15. Rihanna
+16. Beyoncé
+17. Cansei de Ser Sexy
+18. Foo Fighters
+19. Christina Aguilera
+20. Adele
+21. Blondie
+22. ABBA
+23. The Subways
+24. Duffy
+25. Anahí
+26. Maria Gadú
+27. Kings of Leon
+28. Engenheiros do Hawaii
+29. Gwen Stefani
+30. Panic! At the Disco
+31. Cazuza
+32. MGMT
+33. Katy Perry
+34. Maysa
+35. Queen
+36. Kate Nash
+37. Mötley Crüe
+38. Britney Spears
+39. Depeche Mode
+40. Shakira
+41. The Beatles
+42. Taylor Swift
+43. Evanescence
+44. Glee Cast
+45. U2
+46. 30 Seconds to Mars
+47. Muse
+48. Pink Floyd
+49. Kylie Minogue
+50. Radiohead
+
+Note: The recommendations are based on the user's preferences and the similarity of the artists to the ones the user likes. The order of the recommendations may vary depending on the algorithm used by the Recommender System.

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Muse
+2. Linkin Park
+3. Slipknot
+4. Bullet for My Valentine
+5. A Day to Remember
+6. Stone Sour
+7. Avenged Sevenfold
+8. Alter Bridge
+9. Incubus
+10. From First to Last
+11. The Used
+12. As I Lay Dying
+13. Disturbed
+14. Three Days Grace
+15. The Devil Wears Prada
+16. Hadouken!
+17. Alesana
+18. Funeral for a Friend
+19. Copeland
+20. Interpol
+21. Franz Ferdinand
+22. Joy Division
+23. Death from Above 1979
+24. Static-X
+25. 36 Crazyfists
+26. Blue October
+27. Lifehouse
+28. Snow Patrol
+29. Keane
+30. Maroon 5
+31. Lady Gaga
+32. My Chemical Romance
+33. Paramore
+34. Jimmy Eat World
+35. Fall Out Boy
+36. The All-American Rejects
+37. Kings of Leon
+38. Tokyo Police Club
+39. Mando Diao
+40. Dirty Pretty Things
+41. The Kooks
+42. Jack Johnson
+43. Plain White T's
+44. Boys Like Girls
+45. The Strokes
+46. The Academy Is...
+47. Atreyu
+48. Kaiser Chiefs
+49. The Fratellis
+50. Cobra Starship

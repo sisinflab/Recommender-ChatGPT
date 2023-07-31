@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for user 1402 are:
+
+1. Nirvana
+2. The Beatles
+3. Pink Floyd
+4. Led Zeppelin
+5. Radiohead
+6. The Doors
+7. Jimi Hendrix
+8. Black Sabbath
+9. The Rolling Stones
+10. Queen
+11. Alice in Chains
+12. Soundgarden
+13. Rush
+14. The Velvet Underground
+15. David Gilmour
+16. Foo Fighters
+17. Pearl Jam
+18. My Bloody Valentine
+19. Garbage
+20. Joy Division
+21. The Cure
+22. Iron Maiden
+23. The Jimi Hendrix Experience
+24. Genesis
+25. The Stone Roses
+26. Yes
+27. Jefferson Airplane
+28. Nick Cave and the Bad Seeds
+29. Roger Waters
+30. Syd Barrett
+31. Deep Purple
+32. Scorpions
+33. George Harrison
+34. Simon & Garfunkel
+35. Bob Marley
+36. The Who
+37. Oasis
+38. Tenacious D
+39. Blur
+40. Rage Against the Machine
+41. Red Hot Chili Peppers
+42. Gorillaz
+43. Muse
+44. The Kinks
+45. Tom Waits
+46. Cake
+47. The Smiths
+48. AC/DC
+49. Queens of the Stone Age
+50. Metallica

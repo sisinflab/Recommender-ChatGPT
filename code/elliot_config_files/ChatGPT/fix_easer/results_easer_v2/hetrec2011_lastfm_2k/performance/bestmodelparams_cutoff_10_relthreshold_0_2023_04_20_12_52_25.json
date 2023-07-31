@@ -1,0 +1,20 @@
+[
+    {
+        "default_validation_metric": "nDCG",
+        "default_validation_cutoff": 10,
+        "rel_threshold": 0
+    },
+    {
+        "meta": {
+            "verbose": true,
+            "save_recs": true,
+            "hyper_max_evals": 10,
+            "hyper_opt_alg": "tpe"
+        },
+        "recommender": "EASER_neighborhood=1507_l2_norm=1676$4028275510354",
+        "configuration": {
+            "l2_norm": 1676.4028275510354,
+            "name": "EASER_neighborhood=1507_l2_norm=1676$4028275510354"
+        }
+    }
+]

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Coldplay
+2. Katy Perry
+3. Glee Cast
+4. Metric
+5. Tegan and Sara
+6. Passion Pit
+7. The National
+8. Interpol
+9. Two Door Cinema Club
+10. Ingrid Michaelson
+11. Garbage
+12. Goldfrapp
+13. Kings of Convenience
+14. Suzanne Vega
+15. Primal Scream
+16. Eels
+17. The Cranberries
+18. No Doubt
+19. Zeca Baleiro
+20. Madonna
+21. Beyoncé
+22. Lady Gaga
+23. Rihanna
+24. Pink Floyd
+25. Muse
+26. Radiohead
+27. Nirvana
+28. Led Zeppelin
+29. Michael Jackson
+30. The Beatles
+31. U2
+32. Duran Duran
+33. Arctic Monkeys
+34. Placebo
+35. The Killers
+36. Metallica
+37. Iron Maiden
+38. Pearl Jam
+39. a-ha
+40. Björk
+41. Daft Punk
+42. Nine Inch Nails
+43. Linkin Park
+44. Avril Lavigne
+45. Evanescence
+46. Christina Aguilera
+47. Shakira
+48. Ke$ha
+49. Taylor Swift
+50. Kelly Clarkson

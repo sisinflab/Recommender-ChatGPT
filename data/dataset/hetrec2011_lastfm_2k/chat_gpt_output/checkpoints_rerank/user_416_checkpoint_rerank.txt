@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Boards of Canada
+2. Aphex Twin
+3. Tim Hecker
+4. Coil
+5. The Future Sound of London
+6. Eluvium
+7. Burzum
+8. God Is an Astronaut
+9. Brian Eno
+10. Underoath
+11. Circa Survive
+12. dredg
+13. Radiohead
+14. Pink Floyd
+15. Muse
+16. Nirvana
+17. Led Zeppelin
+18. Metallica
+19. Iron Maiden
+20. Pearl Jam
+21. Nine Inch Nails
+22. System of a Down
+23. Daft Punk
+24. Linkin Park
+25. The Beatles
+26. U2
+27. Coldplay
+28. Blur
+29. Arctic Monkeys
+30. Placebo
+31. The Killers
+32. Amy Winehouse
+33. Michael Jackson
+34. Björk
+35. Duran Duran
+36. Madonna
+37. Lady Gaga
+38. Christina Aguilera
+39. Rihanna
+40. Shakira
+41. Katy Perry
+42. Taylor Swift
+43. Evanescence
+44. Glee Cast
+45. Beyoncé
+46. Ke$ha
+47. Kylie Minogue
+48. Miley Cyrus
+49. Avril Lavigne
+50. P!nk

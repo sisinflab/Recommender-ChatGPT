@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. To Kill a Mockingbird by Harper Lee
+3. 1984 by George Orwell
+4. The Catcher in the Rye by J.D. Salinger
+5. The Hobbit by J.R.R. Tolkien
+6. The Lord of the Rings by J.R.R. Tolkien
+7. The Chronicles of Narnia by C.S. Lewis
+8. Harry Potter and the Philosopher's Stone by J.K. Rowling
+9. The Da Vinci Code by Dan Brown
+10. The Girl with the Dragon Tattoo by Stieg Larsson
+11. The Help by Kathryn Stockett
+12. The Fault in Our Stars by John Green
+13. The Book Thief by Markus Zusak
+14. The Kite Runner by Khaled Hosseini
+15. The Alchemist by Paulo Coelho
+16. The Picture of Dorian Gray by Oscar Wilde
+17. The Road by Cormac McCarthy
+18. The Giver by Lois Lowry
+19. The Maze Runner by James Dashner
+20. The Outsiders by S.E. Hinton
+21. The Secret Life of Bees by Sue Monk Kidd
+22. The Lovely Bones by Alice Sebold
+23. The Perks of Being a Wallflower by Stephen Chbosky
+24. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+25. The Girl on the Train by Paula Hawkins
+26. The Help by Kathryn Stockett
+27. The Fault in Our Stars by John Green
+28. The Book Thief by Markus Zusak
+29. The Kite Runner by Khaled Hosseini
+30. The Alchemist by Paulo Coelho
+31. The Picture of Dorian Gray by Oscar Wilde
+32. The Road by Cormac McCarthy
+33. The Giver by Lois Lowry
+34. The Maze Runner by James Dashner
+35. The Outsiders by S.E. Hinton
+36. The Secret Life of Bees by Sue Monk Kidd
+37. The Lovely Bones by Alice Sebold
+38. The Perks of Being a Wallflower by Stephen Chbosky
+39. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+40. The Girl on the Train by Paula Hawkins
+41. The Help by Kathryn Stockett
+42. The Fault in Our Stars by John Green
+43. The Book Thief by Markus Zusak
+44. The Kite Runner by Khaled Hosseini
+45. The Alchemist by Paulo Coelho
+46. The Picture of Dorian Gray by Oscar Wilde
+47. The Road by Cormac McCarthy
+48. The Giver by Lois Lowry
+49. The Maze Runner by James Dashner
+50. The Outsiders by S.E. Hinton

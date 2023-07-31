@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Nirvana
+2. Pearl Jam
+3. Metallica
+4. AC/DC
+5. Guns N' Roses
+6. Stone Temple Pilots
+7. Alice in Chains
+8. Black Label Society
+9. In Flames
+10. Alter Bridge
+11. Stone Sour
+12. Creed
+13. Staind
+14. Shinedown
+15. Nickelback
+16. Theory of a Deadman
+17. Hinder
+18. Puddle of Mudd
+19. All That Remains
+20. Apocalyptica
+21. Scorpions
+22. Nightwish
+23. Sonata Arctica
+24. Lacuna Coil
+25. In This Moment
+26. Backyard Babies
+27. Franz Ferdinand
+28. The Strokes
+29. Arctic Monkeys
+30. Kasabian
+31. The Last Shadow Puppets
+32. Black Rebel Motorcycle Club
+33. Red Hot Chili Peppers
+34. The Rolling Stones
+35. Jimi Hendrix
+36. Michael Jackson
+37. Queen
+38. Oasis
+39. U2
+40. R.E.M.
+41. Radiohead
+42. Nine Inch Nails
+43. Depeche Mode
+44. The Cure
+45. Kings of Leon
+46. Coldplay
+47. Green Day
+48. The Beatles
+49. Daft Punk
+50. The Chemical Brothers

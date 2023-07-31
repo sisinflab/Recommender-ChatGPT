@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Maze Runner by James Dashner
+4. The Fault in Our Stars by John Green
+5. The Giver by Lois Lowry
+6. The Chronicles of Narnia by C.S. Lewis
+7. The Lord of the Rings by J.R.R. Tolkien
+8. The Hobbit by J.R.R. Tolkien
+9. The Mortal Instruments by Cassandra Clare
+10. Percy Jackson and the Olympians by Rick Riordan
+11. The Infernal Devices by Cassandra Clare
+12. The Dark Tower by Stephen King
+13. The Stand by Stephen King
+14. The Shining by Stephen King
+15. The Girl with the Dragon Tattoo by Stieg Larsson
+16. The Girl Who Played with Fire by Stieg Larsson
+17. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+18. The Da Vinci Code by Dan Brown
+19. Angels and Demons by Dan Brown
+20. Inferno by Dan Brown
+21. The Alchemist by Paulo Coelho
+22. The Name of the Wind by Patrick Rothfuss
+23. The Wise Man's Fear by Patrick Rothfuss
+24. The Kingkiller Chronicle by Patrick Rothfuss
+25. The Wheel of Time by Robert Jordan
+26. A Song of Ice and Fire by George R.R. Martin
+27. The Dresden Files by Jim Butcher
+28. The Belgariad by David Eddings
+29. The Malloreon by David Eddings
+30. The Sword of Shannara by Terry Brooks
+31. The Elfstones of Shannara by Terry Brooks
+32. The Wishsong of Shannara by Terry Brooks
+33. The First Law Trilogy by Joe Abercrombie
+34. The Blade Itself by Joe Abercrombie
+35. The Lies of Locke Lamora by Scott Lynch
+36. Mistborn by Brandon Sanderson
+37. Warbreaker by Brandon Sanderson
+38. The Stormlight Archive by Brandon Sanderson
+39. The Way of Kings by Brandon Sanderson
+40. The Final Empire by Brandon Sanderson
+41. The Well of Ascension by Brandon Sanderson
+42. The Hero of Ages by Brandon Sanderson
+43. The Lightbringer Series by Brent Weeks
+44. The Black Prism by Brent Weeks
+45. The Night Angel Trilogy by Brent Weeks
+46. The Broken Empire Trilogy by Mark Lawrence
+47. Prince of Thorns by Mark Lawrence
+48. The King of Thorns by Mark Lawrence
+49. The Emperor's Blades by Brian Staveley
+50. The Chronicles of Amber by Roger Zelazny

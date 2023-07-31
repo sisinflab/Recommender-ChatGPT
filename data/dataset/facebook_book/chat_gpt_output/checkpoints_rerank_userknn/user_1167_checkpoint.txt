@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Crime and Punishment by Fyodor Dostoyevsky
+2. War and Peace by Leo Tolstoy
+3. The Count of Monte Cristo by Alexandre Dumas
+4. Jane Eyre by Charlotte Bronte
+5. The Hobbit by J.R.R. Tolkien
+6. Dracula by Bram Stoker
+7. A Clockwork Orange by Anthony Burgess
+8. Nineteen Eighty-Four by George Orwell
+9. Animal Farm by George Orwell
+10. Pride and Prejudice by Jane Austen
+11. The Bell Jar by Sylvia Plath
+12. Wuthering Heights by Emily Bronte
+13. Ender's Game by Orson Scott Card
+14. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+15. The Giver by Lois Lowry
+16. The Scarlet Letter by Nathaniel Hawthorne
+17. Inferno by Dante Alighieri
+18. The Dresden Files by Jim Butcher
+19. His Dark Materials by Philip Pullman
+20. Left Behind by Tim LaHaye and Jerry B. Jenkins
+21. Catch-22 by Joseph Heller
+22. The Secret (book) by Rhonda Byrne
+23. The Castle by Franz Kafka
+24. Sunshine by Robin McKinley
+25. The Wonderful Wizard of Oz by L. Frank Baum
+26. Fullmetal Alchemist by Hiromu Arakawa
+27. The Sisterhood of the Traveling Pants by Ann Brashares
+28. Bridget Jones's Diary by Helen Fielding
+29. American Gods by Neil Gaiman
+30. The Other Boleyn Girl by Philippa Gregory
+31. The Princess Diaries by Meg Cabot
+32. Thirteen Reasons Why by Jay Asher
+33. Sophie's World by Jostein Gaarder
+34. Emma by Jane Austen
+35. Skip Beat! by Yoshiki Nakamura
+36. The Cricket in Times Square by George Selden
+37. The Wallflower by Tomoko Hayakawa
+38. The Screwtape Letters by C.S. Lewis
+39. Charmed (comics) by Paul Ruditis
+40. Sun Bin's Art of War by Sun Bin
+41. Evermore by Alyson Noel
+42. Miss Christina by Mircea Eliade
+43. The Idiot by Fyodor Dostoyevsky
+44. Persuasion by Jane Austen
+45. Peter and Wendy by J.M. Barrie
+46. The Brothers Karamazov by Fyodor Dostoyevsky
+47. Macbeth by William Shakespeare
+48. Fahrenheit 451 by Ray Bradbury
+49. The Horse and His Boy by C.S. Lewis
+50. Jurassic Park by Michael Crichton

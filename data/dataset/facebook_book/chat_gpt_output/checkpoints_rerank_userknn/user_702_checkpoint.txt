@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Lord of the Flies
+2. A Clockwork Orange
+3. The Catcher in the Rye
+4. 1984
+5. Brave New World
+6. The Hunger Games
+7. The Lord of the Rings
+8. Harry Potter
+9. The Hobbit
+10. The Outsiders
+11. Jane Eyre
+12. Frankenstein
+13. Les Misérables
+14. Romeo and Juliet
+15. The Giver
+16. A Midsummer Night's Dream
+17. The Phantom Tollbooth
+18. The Chronicles of Narnia: Prince Caspian
+19. The Magus
+20. The Power of Myth
+21. The Screwtape Letters
+22. The Book of the Law
+23. The Watchmen
+24. The Umbrella Academy
+25. Symposium
+26. Thus Spoke Zarathustra
+27. Mere Christianity
+28. A Confederacy of Dunces
+29. The Shack
+30. The Five People You Meet in Heaven
+31. High Fidelity
+32. Girl, Interrupted
+33. The Stranger
+34. Night
+35. Alice's Adventures in Wonderland
+36. The Rigveda: A Historical Analysis
+37. Das Nibelungenlied: Ein Heldenepos in 39 Abenteuern
+38. Grimms' Fairy Tales
+39. Don Quixote
+40. Isaac Asimov's Robot City
+41. Oxford English Dictionary
+42. Songs of Innocence and of Experience
+43. Civil Disobedience
+44. Fade
+45. Manga
+46. Cirque du Freak
+47. Uglies
+48. Lords of Chaos
+49. Bible
+50. Sarah's Key

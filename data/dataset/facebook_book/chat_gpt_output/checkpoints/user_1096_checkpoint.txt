@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. Pride and Prejudice by Jane Austen
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Animal Farm by George Orwell
+7. The Hobbit by J.R.R. Tolkien
+8. The Fellowship of the Ring by J.R.R. Tolkien
+9. The Two Towers by J.R.R. Tolkien
+10. The Return of the King by J.R.R. Tolkien
+11. The Hunger Games by Suzanne Collins
+12. Catching Fire by Suzanne Collins
+13. Mockingjay by Suzanne Collins
+14. Divergent by Veronica Roth
+15. Insurgent by Veronica Roth
+16. Allegiant by Veronica Roth
+17. The Maze Runner by James Dashner
+18. The Scorch Trials by James Dashner
+19. The Death Cure by James Dashner
+20. The Fault in Our Stars by John Green
+21. Looking for Alaska by John Green
+22. Paper Towns by John Green
+23. The Book Thief by Markus Zusak
+24. The Girl with the Dragon Tattoo by Stieg Larsson
+25. The Girl Who Played with Fire by Stieg Larsson
+26. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+27. The Da Vinci Code by Dan Brown
+28. Angels and Demons by Dan Brown
+29. Inferno by Dan Brown
+30. The Help by Kathryn Stockett
+31. The Kite Runner by Khaled Hosseini
+32. A Thousand Splendid Suns by Khaled Hosseini
+33. The Alchemist by Paulo Coelho
+34. The Chronicles of Narnia by C.S. Lewis
+35. The Lion, the Witch and the Wardrobe by C.S. Lewis
+36. Prince Caspian by C.S. Lewis
+37. The Voyage of the Dawn Treader by C.S. Lewis
+38. The Silver Chair by C.S. Lewis
+39. The Last Battle by C.S. Lewis
+40. The Lovely Bones by Alice Sebold
+41. The Time Traveler's Wife by Audrey Niffenegger
+42. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+43. The Picture of Dorian Gray by Oscar Wilde
+44. The Count of Monte Cristo by Alexandre Dumas
+45. Les Misérables by Victor Hugo
+46. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+47. The Hound of the Baskervilles by Arthur Conan Doyle
+48. The Complete Works of William Shakespeare by William Shakespeare
+49. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+50. The Name of the Wind by

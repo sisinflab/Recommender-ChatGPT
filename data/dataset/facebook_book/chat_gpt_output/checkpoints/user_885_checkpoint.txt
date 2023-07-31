@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Fire by Kristin Cashore
+2. Bitterblue by Kristin Cashore
+3. Crown Duel by Sherwood Smith
+4. Poison Study by Maria V. Snyder
+5. The Maze Runner by James Dashner
+6. Divergent by Veronica Roth
+7. Legend by Marie Lu
+8. Cinder by Marissa Meyer
+9. Shatter Me by Tahereh Mafi
+10. The Selection by Kiera Cass
+11. The Lunar Chronicles by Marissa Meyer
+12. The Mortal Instruments series by Cassandra Clare
+13. The Infernal Devices series by Cassandra Clare
+14. The Dark Artifices series by Cassandra Clare
+15. The Twilight Saga by Stephenie Meyer
+16. The Chemist by Stephenie Meyer
+17. The Giver by Lois Lowry
+18. Matched by Ally Condie
+19. Delirium by Lauren Oliver
+20. Uglies by Scott Westerfeld
+21. The Knife of Never Letting Go by Patrick Ness
+22. The 5th Wave by Rick Yancey
+23. The Darkest Minds by Alexandra Bracken
+24. The Testing by Joelle Charbonneau
+25. The Hunger Games trilogy by Suzanne Collins
+26. The Lunar Chronicles by Marissa Meyer
+27. The Raven Cycle by Maggie Stiefvater
+28. The Scorpio Races by Maggie Stiefvater
+29. The Diviners by Libba Bray
+30. The Gemma Doyle Trilogy by Libba Bray
+31. The Forest of Hands and Teeth series by Carrie Ryan
+32. The Monstrumologist by Rick Yancey
+33. The Leviathan Trilogy by Scott Westerfeld
+34. The Chaos Walking Trilogy by Patrick Ness
+35. The Reckoners series by Brandon Sanderson
+36. The Mistborn Trilogy by Brandon Sanderson
+37. The Kingkiller Chronicle by Patrick Rothfuss
+38. The Name of the Wind by Patrick Rothfuss
+39. The Lies of Locke Lamora by Scott Lynch
+40. The First Law Trilogy by Joe Abercrombie
+41. The Blade Itself by Joe Abercrombie
+42. The Black Prism by Brent Weeks
+43. The Lightbringer series by Brent Weeks
+44. The Powder Mage Trilogy by Brian McClellan
+45. The Stormlight Archive by Brandon Sanderson
+46. The Way of Kings by Brandon Sanderson
+47. The Broken Empire Trilogy by Mark Lawrence
+48. Prince of Thorns by Mark Lawrence
+49. The Farseer Trilogy by Robin Hobb
+50. Assassin's Apprentice by Robin Hobb

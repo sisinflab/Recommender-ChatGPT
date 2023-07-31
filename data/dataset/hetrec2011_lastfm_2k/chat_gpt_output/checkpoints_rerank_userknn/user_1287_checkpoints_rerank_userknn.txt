@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Slipknot
+2. Pantera
+3. Morbid Angel
+4. Arch Enemy
+5. Cannibal Corpse
+6. Dimmu Borgir
+7. Mudvayne
+8. Whitechapel
+9. Otep
+10. Hypocrisy
+11. Immortal
+12. Bloodbath
+13. Behemoth
+14. Slayer
+15. Sepultura
+16. Machine Head
+17. Hatebreed
+18. Vader
+19. Death
+20. Linkin Park
+21. Rammstein
+22. Trivium
+23. Queens of the Stone Age
+24. Nirvana
+25. Iced Earth
+26. Kreator
+27. Megadeth
+28. Green Day
+29. Muse
+30. Iron Maiden
+31. King Diamond
+32. Judas Priest
+33. AC/DC
+34. Thin Lizzy
+35. Metallica
+36. System of a Down
+37. Stone Sour
+38. Rise Against
+39. The 69 Eyes
+40. Foo Fighters
+41. Children of Bodom
+42. Tool
+43. Bon Jovi
+44. Destruction
+45. Limp Bizkit
+46. Rage Against the Machine
+47. Billy Talent
+48. A Day to Remember
+49. KISS
+50. Marilyn Manson

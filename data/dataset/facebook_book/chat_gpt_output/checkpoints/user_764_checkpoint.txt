@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Haunting of Hill House by Shirley Jackson
+2. The Turn of the Screw by Henry James
+3. The Woman in Black by Susan Hill
+4. The Little Stranger by Sarah Waters
+5. The Silent Companions by Laura Purcell
+6. The Thirteenth Tale by Diane Setterfield
+7. The Nightingale by Kristin Hannah
+8. The Hunger Games by Suzanne Collins
+9. Divergent by Veronica Roth
+10. The Maze Runner by James Dashner
+11. The Giver by Lois Lowry
+12. The Fault in Our Stars by John Green
+13. Looking for Alaska by John Green
+14. Eleanor & Park by Rainbow Rowell
+15. Fangirl by Rainbow Rowell
+16. The Perks of Being a Wallflower by Stephen Chbosky
+17. The Catcher in the Rye by J.D. Salinger
+18. To Kill a Mockingbird by Harper Lee
+19. 1984 by George Orwell
+20. Animal Farm by George Orwell
+21. The Great Gatsby by F. Scott Fitzgerald
+22. The Picture of Dorian Gray by Oscar Wilde
+23. Dracula by Bram Stoker
+24. Frankenstein by Mary Shelley
+25. Jane Eyre by Charlotte Bronte
+26. Wuthering Heights by Emily Bronte
+27. Rebecca by Daphne du Maurier
+28. Gone Girl by Gillian Flynn
+29. The Girl on the Train by Paula Hawkins
+30. Sharp Objects by Gillian Flynn
+31. Dark Places by Gillian Flynn
+32. The Da Vinci Code by Dan Brown
+33. Angels and Demons by Dan Brown
+34. The Hunger by Alma Katsu
+35. The Shining by Stephen King
+36. Carrie by Stephen King
+37. Misery by Stephen King
+38. The Stand by Stephen King
+39. The Outsiders by S.E. Hinton
+40. Lord of the Flies by William Golding
+41. The Chronicles of Narnia by C.S. Lewis
+42. Harry Potter series by J.K. Rowling
+43. The Lord of the Rings by J.R.R. Tolkien
+44. The Hobbit by J.R.R. Tolkien
+45. The Name of the Wind by Patrick Rothfuss
+46. The Lies of Locke Lamora by Scott Lynch
+47. The Blade Itself by Joe Abercrombie
+48. The Way of Kings by Brandon Sanderson
+49. The Final Empire by Brandon Sanderson
+50. Mistborn by Brandon Sanderson

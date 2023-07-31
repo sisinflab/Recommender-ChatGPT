@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Brothers Karamazov by Fyodor Dostoyevsky
+2. Crime and Punishment by Fyodor Dostoyevsky
+3. Les Misérables by Victor Hugo
+4. To Kill a Mockingbird by Harper Lee
+5. The Picture of Dorian Gray by Oscar Wilde
+6. Heart of Darkness by Joseph Conrad
+7. The Plague by Albert Camus
+8. The Canterbury Tales by Geoffrey Chaucer
+9. The Iliad by Homer
+10. Romeo and Juliet by William Shakespeare
+11. Macbeth by William Shakespeare
+12. The Giver by Lois Lowry
+13. Moby-Dick by Herman Melville
+14. Frankenstein by Mary Shelley
+15. The Red Tent by Anita Diamant
+16. Memoirs of a Geisha by Arthur Golden
+17. The Secret Garden by Frances Hodgson Burnett
+18. Wuthering Heights by Emily Bronte
+19. The Lord of the Rings by J.R.R. Tolkien
+20. The Hobbit by J.R.R. Tolkien
+21. The Silmarillion by J.R.R. Tolkien
+22. The Horse and His Boy by C.S. Lewis
+23. The Screwtape Letters by C.S. Lewis
+24. The Beautiful Boy by Germaine Greer
+25. The Fountainhead by Ayn Rand
+26. Atlas Shrugged by Ayn Rand
+27. Sin City by Frank Miller
+28. The Watchmen by Alan Moore
+29. Where the Wild Things Are by Maurice Sendak
+30. Peter and Wendy by J.M. Barrie
+31. The Kite Runner by Khaled Hosseini
+32. The Bourne Identity by Robert Ludlum
+33. Jurassic Park by Michael Crichton
+34. Don Quixote by Miguel de Cervantes
+35. The Idiot by Fyodor Dostoyevsky
+36. Mountains Beyond Mountains by Tracy Kidder
+37. The Queen of the Damned by Anne Rice
+38. Kidnapped by Robert Louis Stevenson
+39. Inferno by Dante Alighieri
+40. His Dark Materials by Philip Pullman
+41. The Silver Wolf by Alice Borchardt
+42. Brisingr by Christopher Paolini
+43. A Memory of Light by Robert Jordan and Brandon Sanderson
+44. Where the Sidewalk Ends by Shel Silverstein
+45. Danse Macabre by Stephen King
+46. Strange Angels by Lili St. Crow
+47. Black Beauty by Anna Sewell
+48. Sun Bin's Art of War by Sun Bin
+49. This Is Your Brain On Music by Daniel J. Levitin
+50. Mere Christianity by C.S. Lewis

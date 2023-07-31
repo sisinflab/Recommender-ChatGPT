@@ -1,0 +1,54 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Mogwai
+2. Fugazi
+3. Black Rebel Motorcycle Club
+4. Sigur Rós
+5. A Silver Mt. Zion
+6. Sonic Youth
+7. Godspeed You! Black Emperor
+8. Explosions in the Sky
+9. The Kinks
+10. Yeah Yeah Yeahs
+11. The Velvet Underground
+12. Primal Scream
+13. God Is an Astronaut
+14. Morrissey
+15. This Will Destroy You
+16. Mono
+17. Radiohead
+18. The National
+19. Pink Floyd
+20. Muse
+21. Nirvana
+22. Iron Maiden
+23. Led Zeppelin
+24. Metallica
+25. Michael Jackson
+26. Pearl Jam
+27. Björk
+28. System of a Down
+29. Daft Punk
+30. Nine Inch Nails
+31. Linkin Park
+32. Avenged Sevenfold
+33. Green Day
+34. The Cure
+35. Arctic Monkeys
+36. Placebo
+37. The Killers
+38. Duran Duran
+39. Coldplay
+40. Blur
+41. U2
+42. 30 Seconds to Mars
+43. Kylie Minogue
+44. Amy Winehouse
+45. P!nk
+46. Kelly Clarkson
+47. Lady Gaga
+48. Christina Aguilera
+49. Rihanna
+50. Shakira
+
+Note: The artists that were not mentioned in the user's preferences were not included in the recommendations.

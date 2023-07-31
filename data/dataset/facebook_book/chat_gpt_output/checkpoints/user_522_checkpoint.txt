@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Interview with the Vampire by Anne Rice
+2. The Tale of the Body Thief by Anne Rice
+3. The Mummy or Ramses the Damned by Anne Rice
+4. The Hunger Games by Suzanne Collins
+5. Twilight by Stephenie Meyer
+6. New Moon by Stephenie Meyer
+7. Eclipse by Stephenie Meyer
+8. Breaking Dawn by Stephenie Meyer
+9. Alias Grace by Margaret Atwood
+10. The Blind Assassin by Margaret Atwood
+11. Oryx and Crake by Margaret Atwood
+12. The Year of the Flood by Margaret Atwood
+13. The Giver by Lois Lowry
+14. Gathering Blue by Lois Lowry
+15. Messenger by Lois Lowry
+16. Son by Lois Lowry
+17. The Lord of the Rings by J.R.R. Tolkien
+18. The Hobbit by J.R.R. Tolkien
+19. The Silmarillion by J.R.R. Tolkien
+20. The Chronicles of Narnia by C.S. Lewis
+21. The Lion, the Witch and the Wardrobe by C.S. Lewis
+22. Prince Caspian by C.S. Lewis
+23. The Voyage of the Dawn Treader by C.S. Lewis
+24. The Magician's Nephew by C.S. Lewis
+25. The Horse and His Boy by C.S. Lewis
+26. The Last Battle by C.S. Lewis
+27. The Name of the Wind by Patrick Rothfuss
+28. The Wise Man's Fear by Patrick Rothfuss
+29. The Lies of Locke Lamora by Scott Lynch
+30. Red Rising by Pierce Brown
+31. Golden Son by Pierce Brown
+32. Morning Star by Pierce Brown
+33. The Way of Kings by Brandon Sanderson
+34. Words of Radiance by Brandon Sanderson
+35. Oathbringer by Brandon Sanderson
+36. Mistborn: The Final Empire by Brandon Sanderson
+37. The Well of Ascension by Brandon Sanderson
+38. The Hero of Ages by Brandon Sanderson
+39. Elantris by Brandon Sanderson
+40. Warbreaker by Brandon Sanderson
+41. The Final Empire by Michael A. Stackpole
+42. The Dragonriders of Pern by Anne McCaffrey
+43. Eragon by Christopher Paolini
+44. The Name of the Rose by Umberto Eco
+45. The Pillars of the Earth by Ken Follett
+46. The Eye of the World by Robert Jordan
+47. The Great Hunt by Robert Jordan
+48. The Dragon Reborn by Robert Jordan
+49. The Shadow Rising by Robert Jordan
+50. The Fires of Heaven by Robert Jordan

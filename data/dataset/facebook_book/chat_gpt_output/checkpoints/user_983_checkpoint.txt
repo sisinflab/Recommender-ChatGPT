@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. Brave New World by Aldous Huxley
+4. The Lord of the Rings by J.R.R. Tolkien
+5. The Hobbit by J.R.R. Tolkien
+6. The Chronicles of Narnia by C.S. Lewis
+7. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+8. Ender's Game by Orson Scott Card
+9. Dune by Frank Herbert
+10. The Foundation Trilogy by Isaac Asimov
+11. The Catcher in the Rye by J.D. Salinger
+12. To Kill a Mockingbird by Harper Lee
+13. The Great Gatsby by F. Scott Fitzgerald
+14. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+15. The Da Vinci Code by Dan Brown
+16. Angels and Demons by Dan Brown
+17. The Girl with the Dragon Tattoo by Stieg Larsson
+18. The Girl Who Played with Fire by Stieg Larsson
+19. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+20. The Hunger Games Trilogy by Suzanne Collins
+21. The Maze Runner by James Dashner
+22. The Giver by Lois Lowry
+23. The Road by Cormac McCarthy
+24. The Stand by Stephen King
+25. The Shining by Stephen King
+26. The Dark Tower Series by Stephen King
+27. The Name of the Wind by Patrick Rothfuss
+28. The Wise Man's Fear by Patrick Rothfuss
+29. The Lies of Locke Lamora by Scott Lynch
+30. The Blade Itself by Joe Abercrombie
+31. The Way of Kings by Brandon Sanderson
+32. Mistborn Trilogy by Brandon Sanderson
+33. The Kingkiller Chronicle by Patrick Rothfuss
+34. The Dresden Files by Jim Butcher
+35. American Gods by Neil Gaiman
+36. Good Omens by Neil Gaiman and Terry Pratchett
+37. The Sandman Series by Neil Gaiman
+38. The Malazan Book of the Fallen by Steven Erikson
+39. The First Law Trilogy by Joe Abercrombie
+40. The Lies of Locke Lamora by Scott Lynch
+41. The Blade Itself by Joe Abercrombie
+42. The Way of Kings by Brandon Sanderson
+43. Mistborn Trilogy by Brandon Sanderson
+44. The Kingkiller Chronicle by Patrick Rothfuss
+45. The Dresden Files by Jim Butcher
+46. American Gods by Neil Gaiman
+47. Good Omens by Neil Gaiman and Terry Pratchett
+48. The Sandman Series by Neil Gaiman
+49. The Malazan Book of the Fallen by Steven Erikson
+50. The First

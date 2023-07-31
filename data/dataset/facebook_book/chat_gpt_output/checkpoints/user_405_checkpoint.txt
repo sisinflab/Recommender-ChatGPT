@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. The Catcher in the Rye by J.D. Salinger
+4. To Kill a Mockingbird by Harper Lee
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Great Gatsby by F. Scott Fitzgerald
+7. The Brothers Karamazov by Fyodor Dostoevsky
+8. Crime and Punishment by Fyodor Dostoevsky
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Stranger by Albert Camus
+11. The Bell Jar by Sylvia Plath
+12. Lolita by Vladimir Nabokov
+13. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+14. The Road by Cormac McCarthy
+15. The Sun Also Rises by Ernest Hemingway
+16. The Old Man and the Sea by Ernest Hemingway
+17. The Sound and the Fury by William Faulkner
+18. The Grapes of Wrath by John Steinbeck
+19. East of Eden by John Steinbeck
+20. The Lord of the Rings by J.R.R. Tolkien
+21. The Hobbit by J.R.R. Tolkien
+22. The Chronicles of Narnia by C.S. Lewis
+23. The Divine Comedy by Dante Alighieri
+24. The Iliad by Homer
+25. The Odyssey by Homer
+26. The Canterbury Tales by Geoffrey Chaucer
+27. Don Quixote by Miguel de Cervantes
+28. Les Miserables by Victor Hugo
+29. War and Peace by Leo Tolstoy
+30. Anna Karenina by Leo Tolstoy
+31. The Count of Monte Cristo by Alexandre Dumas
+32. Moby-Dick by Herman Melville
+33. Heart of Darkness by Joseph Conrad
+34. Lord of the Flies by William Golding
+35. Animal Farm by George Orwell
+36. The Trial by Franz Kafka
+37. The Metamorphosis by Franz Kafka
+38. The Stranger by Harlan Coben
+39. The Da Vinci Code by Dan Brown
+40. Angels and Demons by Dan Brown
+41. The Girl with the Dragon Tattoo by Stieg Larsson
+42. The Hunger Games by Suzanne Collins
+43. Harry Potter and the Philosopher's Stone by J.K. Rowling
+44. The Name of the Wind by Patrick Rothfuss
+45. The Lies of Locke Lamora by Scott Lynch
+46. The Blade Itself by Joe Abercrombie
+47. The Way of Kings by Brandon Sanderson
+48. The Final Empire by Brandon Sanderson
+49. Mistborn: The Hero of Ages by Brandon Sanderson
+50. The Eye of the World by Robert Jordan

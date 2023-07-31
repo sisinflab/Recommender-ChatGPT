@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Nine Inch Nails
+3. Tool
+4. Mogwai
+5. Godspeed You! Black Emperor
+6. Explosions in the Sky
+7. Sigur Rós
+8. Boards of Canada
+9. Aphex Twin
+10. The Mars Volta
+11. The Flaming Lips
+12. Animal Collective
+13. Grizzly Bear
+14. LCD Soundsystem
+15. Arcade Fire
+16. The National
+17. Interpol
+18. Joy Division
+19. New Order
+20. The Smiths
+21. The Cure
+22. Siouxsie and the Banshees
+23. Cocteau Twins
+24. My Bloody Valentine
+25. Slowdive
+26. Ride
+27. Lush
+28. The Jesus and Mary Chain
+29. Sonic Youth
+30. Dinosaur Jr.
+31. Pixies
+32. Nirvana
+33. Soundgarden
+34. Pearl Jam
+35. Alice in Chains
+36. Tool
+37. Rage Against the Machine
+38. System of a Down
+39. Korn
+40. Slipknot
+41. Lamb of God
+42. Mastodon
+43. Gojira
+44. Opeth
+45. Meshuggah
+46. Between the Buried and Me
+47. Converge
+48. The Black Dahlia Murder
+49. Every Time I Die
+50. Norma Jean

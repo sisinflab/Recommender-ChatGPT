@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Notebook by Nicholas Sparks
+2. The Time Traveler's Wife by Audrey Niffenegger
+3. Me Before You by Jojo Moyes
+4. The Fault in Our Stars by John Green
+5. The Hunger Games by Suzanne Collins
+6. The Help by Kathryn Stockett
+7. The Girl on the Train by Paula Hawkins
+8. The Kite Runner by Khaled Hosseini
+9. The Alchemist by Paulo Coelho
+10. The Catcher in the Rye by J.D. Salinger
+11. The Great Gatsby by F. Scott Fitzgerald
+12. To Kill a Mockingbird by Harper Lee
+13. The Book Thief by Markus Zusak
+14. The Secret Life of Bees by Sue Monk Kidd
+15. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+16. The Nightingale by Kristin Hannah
+17. The Help by Kathryn Stockett
+18. The Hunger Games by Suzanne Collins
+19. The Girl on the Train by Paula Hawkins
+20. The Kite Runner by Khaled Hosseini
+21. The Alchemist by Paulo Coelho
+22. The Catcher in the Rye by J.D. Salinger
+23. The Great Gatsby by F. Scott Fitzgerald
+24. To Kill a Mockingbird by Harper Lee
+25. The Book Thief by Markus Zusak
+26. The Secret Life of Bees by Sue Monk Kidd
+27. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+28. The Nightingale by Kristin Hannah
+29. The Help by Kathryn Stockett
+30. The Hunger Games by Suzanne Collins
+31. The Girl on the Train by Paula Hawkins
+32. The Kite Runner by Khaled Hosseini
+33. The Alchemist by Paulo Coelho
+34. The Catcher in the Rye by J.D. Salinger
+35. The Great Gatsby by F. Scott Fitzgerald
+36. To Kill a Mockingbird by Harper Lee
+37. The Book Thief by Markus Zusak
+38. The Secret Life of Bees by Sue Monk Kidd
+39. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+40. The Nightingale by Kristin Hannah
+41. The Help by Kathryn Stockett
+42. The Hunger Games by Suzanne Collins
+43. The Girl on the Train by Paula Hawkins
+44. The Kite Runner by Khaled Hosseini
+45. The Alchemist by Paulo Coelho
+46. The Catcher in the Rye by J.D. Salinger
+47. The Great Gatsby by F. Scott Fitzgerald
+48. To Kill a Mockingbird by Harper Lee
+49. The Book Thief by Markus Zusak
+50. The Secret

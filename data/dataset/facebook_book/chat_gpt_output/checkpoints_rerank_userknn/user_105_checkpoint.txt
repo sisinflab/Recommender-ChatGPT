@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. 1984 by George Orwell
+3. Brave New World by Aldous Huxley
+4. The Catcher in the Rye by J.D. Salinger
+5. Animal Farm by George Orwell
+6. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+7. The Chronicles of Narnia by C.S. Lewis
+8. The Da Vinci Code by Dan Brown
+9. The Hunger Games by Suzanne Collins
+10. The Girl with the Dragon Tattoo by Stieg Larsson
+11. The Shining by Stephen King
+12. The Stand by Stephen King
+13. The Dark Tower series by Stephen King
+14. The Silence of the Lambs by Thomas Harris
+15. The Bourne Identity by Robert Ludlum
+16. The Bourne Supremacy by Robert Ludlum
+17. The Bourne Ultimatum by Robert Ludlum
+18. The Girl Who Played with Fire by Stieg Larsson
+19. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+20. The Name of the Wind by Patrick Rothfuss
+21. The Wise Man's Fear by Patrick Rothfuss
+22. The Way of Kings by Brandon Sanderson
+23. Mistborn by Brandon Sanderson
+24. Warbreaker by Brandon Sanderson
+25. Elantris by Brandon Sanderson
+26. The Final Empire by Brandon Sanderson
+27. The Well of Ascension by Brandon Sanderson
+28. The Hero of Ages by Brandon Sanderson
+29. The Gunslinger by Stephen King
+30. The Drawing of the Three by Stephen King
+31. The Waste Lands by Stephen King
+32. Wizard and Glass by Stephen King
+33. Wolves of the Calla by Stephen King
+34. Song of Susannah by Stephen King
+35. The Dark Tower by Stephen King
+36. The Girl on the Train by Paula Hawkins
+37. Gone Girl by Gillian Flynn
+38. The Maze Runner by James Dashner
+39. The Scorch Trials by James Dashner
+40. The Death Cure by James Dashner
+41. The Kill Order by James Dashner
+42. The Giver by Lois Lowry
+43. Gathering Blue by Lois Lowry
+44. Messenger by Lois Lowry
+45. Son by Lois Lowry
+46. The Road by Cormac McCarthy
+47. The Book Thief by Markus Zusak
+48. The Fault in Our Stars by John Green
+49. The Alchemist by Paulo Coelho
+50. The Secret Life of Bees by Sue Monk Kidd

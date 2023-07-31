@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. To Kill a Mockingbird by Harper Lee
+3. The Great Gatsby by F. Scott Fitzgerald
+4. Animal Farm by George Orwell
+5. The Bell Jar by Sylvia Plath
+6. The Picture of Dorian Gray by Oscar Wilde
+7. The Handmaid's Tale by Margaret Atwood
+8. The Stranger by Albert Camus
+9. One Hundred Years of Solitude by Gabriel Garcia Marquez
+10. The Sun Also Rises by Ernest Hemingway
+11. The Old Man and the Sea by Ernest Hemingway
+12. The Alchemist by Paulo Coelho
+13. The Lord of the Rings by J.R.R. Tolkien
+14. The Hobbit by J.R.R. Tolkien
+15. The Chronicles of Narnia by C.S. Lewis
+16. The Da Vinci Code by Dan Brown
+17. Angels & Demons by Dan Brown
+18. The Hunger Games by Suzanne Collins
+19. Mockingjay by Suzanne Collins
+20. Romeo and Juliet by William Shakespeare
+21. Jane Eyre by Charlotte Bronte
+22. Wuthering Heights by Emily Bronte
+23. Pride and Prejudice by Jane Austen
+24. Mansfield Park by Jane Austen
+25. Emma by Jane Austen
+26. Sense and Sensibility by Jane Austen
+27. The Scarlet Letter by Nathaniel Hawthorne
+28. The Secret Garden by Frances Hodgson Burnett
+29. Little Women by Louisa May Alcott
+30. The Adventures of Tom Sawyer by Mark Twain
+31. The Adventures of Huckleberry Finn by Mark Twain
+32. The Giver by Lois Lowry
+33. The Five People You Meet in Heaven by Mitch Albom
+34. Tuesdays with Morrie by Mitch Albom
+35. The Lovely Bones by Alice Sebold
+36. The Girl with the Dragon Tattoo by Stieg Larsson
+37. The Girl Who Played with Fire by Stieg Larsson
+38. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+39. The Secret Dreamworld of a Shopaholic by Sophie Kinsella
+40. The Vagina Monologues by Eve Ensler
+41. The Purpose Driven Life by Rick Warren
+42. The Shack by William P. Young
+43. The Lightning Thief by Rick Riordan
+44. Eragon by Christopher Paolini
+45. The Watchmen by Alan Moore
+46. Brave New World by Aldous Huxley
+47. 1984 by George Orwell
+48. The Myth of Sisyphus by Albert Camus
+49. Island by Aldous Huxley
+50. The Little Prince by Antoine de Saint-Exupéry

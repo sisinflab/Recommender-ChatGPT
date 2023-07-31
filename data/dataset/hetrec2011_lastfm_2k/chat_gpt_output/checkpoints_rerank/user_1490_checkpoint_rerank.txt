@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Avenged Sevenfold
+2. Trivium
+3. Scar Symmetry
+4. Demon Hunter
+5. Pain
+6. Five Finger Death Punch
+7. Children of Bodom
+8. Rise Against
+9. All That Remains
+10. Bullet for My Valentine
+11. Soilwork
+12. As I Lay Dying
+13. In Flames
+14. Linkin Park
+15. Skillet
+16. HammerFall
+17. Parkway Drive
+18. Papa Roach
+19. System of a Down
+20. Muse
+21. Metallica
+22. Nirvana
+23. Iron Maiden
+24. Pearl Jam
+25. The Beatles
+26. U2
+27. Pink Floyd
+28. Led Zeppelin
+29. Michael Jackson
+30. Beyoncé
+31. Rihanna
+32. Lady Gaga
+33. Katy Perry
+34. Christina Aguilera
+35. Paramore
+36. Taylor Swift
+37. Evanescence
+38. Glee Cast
+39. Ke$ha
+40. Coldplay
+41. Blur
+42. Arctic Monkeys
+43. Placebo
+44. The Killers
+45. Duran Duran
+46. Madonna
+47. Shakira
+48. Kylie Minogue
+49. Miley Cyrus
+50. Radiohead

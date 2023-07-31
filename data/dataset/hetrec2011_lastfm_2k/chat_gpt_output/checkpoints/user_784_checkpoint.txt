@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Elliott Smith
+2. Arcade Fire
+3. Belle and Sebastian
+4. Wilco
+5. Fleet Foxes
+6. Grizzly Bear
+7. The Decemberists
+8. Yo La Tengo
+9. The National
+10. Pavement
+11. Modest Mouse
+12. The Velvet Underground
+13. David Bowie
+14. Talking Heads
+15. The Smiths
+16. Joy Division
+17. Pixies
+18. Sonic Youth
+19. My Bloody Valentine
+20. The Cure
+21. R.E.M.
+22. Nick Drake
+23. Bob Dylan
+24. Leonard Cohen
+25. Joni Mitchell
+26. Neil Young
+27. Simon & Garfunkel
+28. The Kinks
+29. The Rolling Stones
+30. The Who
+31. Led Zeppelin
+32. Pink Floyd
+33. The Doors
+34. Jimi Hendrix
+35. Bob Marley
+36. Stevie Wonder
+37. Marvin Gaye
+38. Otis Redding
+39. Al Green
+40. Aretha Franklin
+41. Nina Simone
+42. Billie Holiday
+43. Ella Fitzgerald
+44. Frank Sinatra
+45. Miles Davis
+46. John Coltrane
+47. Thelonious Monk
+48. Duke Ellington
+49. Charles Mingus
+50. Herbie Hancock

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Blutengel
+2. Within Temptation
+3. Lady Gaga
+4. The Birthday Massacre
+5. Diary of Dreams
+6. Lacuna Coil
+7. Belinda
+8. t.A.T.u.
+9. Girls Aloud
+10. Madonna
+11. Kylie Minogue
+12. Vive la Fête
+13. Kudai
+14. Adam Lambert
+15. And One
+16. Sugababes
+17. Belanova
+18. Anahí
+19. Alice in Videoland
+20. Nightwish
+21. Depeche Mode
+22. Theatre of Tragedy
+23. Dangerous Muse
+24. Kerli
+25. Combichrist
+26. Britney Spears
+27. Christina Aguilera
+28. Rihanna
+29. Katy Perry
+30. Paramore
+31. Beyoncé
+32. Muse
+33. Pink Floyd
+34. U2
+35. 30 Seconds to Mars
+36. Coldplay
+37. Radiohead
+38. The Killers
+39. Nirvana
+40. Iron Maiden
+41. Led Zeppelin
+42. Metallica
+43. Michael Jackson
+44. Pearl Jam
+45. a-ha
+46. Björk
+47. System of a Down
+48. Daft Punk
+49. Nine Inch Nails
+50. Linkin Park

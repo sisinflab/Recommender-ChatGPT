@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Nineteen Eighty-Four
+2. Dracula
+3. Alice's Adventures in Wonderland
+4. Of Mice and Men
+5. The Call of the Wild
+6. Inkheart
+7. The Secret Garden
+8. The Count of Monte Cristo
+9. A Midsummer Night's Dream
+10. The Sound and the Fury
+11. Cat's Cradle
+12. The Illuminatus! Trilogy
+13. Summer of My German Soldier
+14. The Five People You Meet in Heaven
+15. Oliver Twist
+16. Strange Case of Dr Jekyll and Mr Hyde
+17. Life of Pi
+18. Adventures of Huckleberry Finn
+19. Iliad
+20. Inferno (Dante)
+21. The Scarlet Thread
+22. As I Lay Dying (novel)
+23. War and Peace
+24. Johnny Got His Gun
+25. The Time Machine
+26. Slaughterhouse-Five
+27. Henry V (play)
+28. The Rime of the Ancient Mariner
+29. To the Lighthouse
+30. Fox in Socks
+31. Zen and the Art of Motorcycle Maintenance
+32. Quran
+33. Lolita
+34. Sense and Sensibility
+35. Crime and Punishment
+36. Phantoms (novel)
+37. The Heroin Diaries: A Year in the Life of a Shattered Rock Star
+38. The Winner Stands Alone
+39. The End of Faith
+40. The Dresden Files
+41. Eat, Pray, Love
+42. Cecilia (McClure novel)
+43. Wild at Heart (book)
+44. The Da Vinci Code
+45. Angels & Demons
+46. Memoirs of a Geisha
+47. The Great Gatsby
+48. One Day in the Life of Ivan Denisovich
+49. The Jungle Book
+50. The Alchemist (novel)

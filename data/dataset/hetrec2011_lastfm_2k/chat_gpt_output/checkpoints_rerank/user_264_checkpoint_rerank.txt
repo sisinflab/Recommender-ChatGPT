@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Coldplay
+2. Keane
+3. George Michael
+4. Erasure
+5. Angels & Airwaves
+6. a-ha
+7. ATB
+8. ABBA
+9. The Rasmus
+10. Scorpions
+11. Michael Jackson
+12. Blackfield
+13. Enigma
+14. Alphaville
+15. The Cranberries
+16. Jack Johnson
+17. Modern Talking
+18. Cocteau Twins
+19. Sade
+20. Madonna
+21. 30 Seconds to Mars
+22. Tiësto
+23. Wham!
+24. Michael Bublé
+25. La Roux
+26. Camouflage
+27. ABC
+28. Depeche Mode
+29. Muse
+30. Pink Floyd
+31. Radiohead
+32. The Beatles
+33. Nirvana
+34. Led Zeppelin
+35. Iron Maiden
+36. Metallica
+37. Pearl Jam
+38. Björk
+39. Duran Duran
+40. The Killers
+41. Arctic Monkeys
+42. Placebo
+43. Lady Gaga
+44. Christina Aguilera
+45. Rihanna
+46. Shakira
+47. Katy Perry
+48. Avril Lavigne
+49. Taylor Swift
+50. Evanescence

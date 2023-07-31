@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Great Gatsby by F. Scott Fitzgerald
+2. To Kill a Mockingbird by Harper Lee
+3. Adventures of Huckleberry Finn by Mark Twain
+4. The Catcher in the Rye by J.D. Salinger
+5. 1984 by George Orwell
+6. The Count of Monte Cristo by Alexandre Dumas
+7. Crime and Punishment by Fyodor Dostoevsky
+8. Romeo and Juliet by William Shakespeare
+9. Dracula by Bram Stoker
+10. The Bell Jar by Sylvia Plath
+11. The Importance of Being Earnest by Oscar Wilde
+12. The Outsiders by S.E. Hinton
+13. The Hunchback of Notre-Dame by Victor Hugo
+14. The Jungle Book by Rudyard Kipling
+15. The Lovely Bones by Alice Sebold
+16. The Power and the Glory by Graham Greene
+17. The Alchemist by Paulo Coelho
+18. The Devil Wears Prada by Lauren Weisberger
+19. Angels & Demons by Dan Brown
+20. The Da Vinci Code by Dan Brown
+21. Brida by Paulo Coelho
+22. The Winner Stands Alone by Paulo Coelho
+23. The Valkyries by Paulo Coelho
+24. Veronika Decides to Die by Paulo Coelho
+25. Eleven Minutes by Paulo Coelho
+26. The Pilgrimage by Paulo Coelho
+27. The Unbearable Lightness of Being by Milan Kundera
+28. The Blind Assassin by Margaret Atwood
+29. I Am Legend by Richard Matheson
+30. Twilight by Stephenie Meyer
+31. The Coldest Winter Ever by Sister Souljah
+32. Prozac Nation by Elizabeth Wurtzel
+33. The Interpretation of Dreams by Sigmund Freud
+34. The Story of My Experiments with Truth by Mahatma Gandhi
+35. Candide by Voltaire
+36. A Tale of Two Cities by Charles Dickens
+37. The Iliad by Homer
+38. The Bible
+39. Horrible Histories by Terry Deary
+40. Goosebumps by R.L. Stine
+41. Oliver Twist by Charles Dickens
+42. Where the Wild Things Are by Maurice Sendak
+43. Red Inferno: 1945 by Robert Conroy
+44. Phantoms by Dean Koontz
+45. A Swiftly Tilting Planet by Madeleine L'Engle
+46. Glass by Ellen Hopkins
+47. Jaws by Peter Benchley
+48. My Antonia by Willa Cather
+49. Goodnight Moon by Margaret Wise Brown
+50. Teaching with Calvin and Hobbes by Linda Holmen

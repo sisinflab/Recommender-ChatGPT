@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. MF DOOM
+2. J Dilla
+3. Madlib
+4. Madvillain
+5. A Tribe Called Quest
+6. Lupe Fiasco
+7. Ghostface Killah
+8. Nas
+9. Kanye West
+10. The Roots
+11. Aphex Twin
+12. Amon Tobin
+13. Burial
+14. The Flashbulb
+15. Prefuse 73
+16. Radiohead
+17. Nirvana
+18. Pearl Jam
+19. Led Zeppelin
+20. Metallica
+21. Iron Maiden
+22. Michael Jackson
+23. Nine Inch Nails
+24. Daft Punk
+25. Linkin Park
+26. Muse
+27. Pink Floyd
+28. U2
+29. The Beatles
+30. The Cure
+31. Depeche Mode
+32. Duran Duran
+33. Arctic Monkeys
+34. Placebo
+35. The Killers
+36. Green Day
+37. My Chemical Romance
+38. Avenged Sevenfold
+39. Black Eyed Peas
+40. Beyoncé
+41. Lady Gaga
+42. Rihanna
+43. Shakira
+44. Madonna
+45. Christina Aguilera
+46. Katy Perry
+47. Taylor Swift
+48. Ke$ha
+49. Paramore
+50. P!nk

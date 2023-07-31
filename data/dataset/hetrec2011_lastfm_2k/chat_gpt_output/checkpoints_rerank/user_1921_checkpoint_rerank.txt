@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Green Day
+2. Paramore
+3. Rise Against
+4. Three Days Grace
+5. Bullet for My Valentine
+6. Breaking Benjamin
+7. Sum 41
+8. Sick Puppies
+9. Papa Roach
+10. The Offspring
+11. Linkin Park
+12. Trapt
+13. Rob Zombie
+14. Eminem
+15. Demi Lovato
+16. Hey Monday
+17. Selena Gomez
+18. Aly & AJ
+19. Story of the Year
+20. The Veronicas
+21. Cascada
+22. Groove Coverage
+23. Miranda Cosgrove
+24. VersaEmerge
+25. RBD
+26. Rihanna
+27. Ke$ha
+28. Adam Lambert
+29. Jonas Brothers
+30. Aloha From Hell
+31. B.o.B
+32. Britney Spears
+33. Lady Gaga
+34. Christina Aguilera
+35. Madonna
+36. Shakira
+37. Katy Perry
+38. Avril Lavigne
+39. Taylor Swift
+40. Evanescence
+41. Glee Cast
+42. Beyoncé
+43. U2
+44. 30 Seconds to Mars
+45. Muse
+46. Pink Floyd
+47. Kylie Minogue
+48. Miley Cyrus
+49. Radiohead
+50. Duran Duran

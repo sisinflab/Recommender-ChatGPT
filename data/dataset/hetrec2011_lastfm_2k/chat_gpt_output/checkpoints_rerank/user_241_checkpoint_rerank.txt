@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Opeth
+2. Katatonia
+3. Anathema
+4. In Flames
+5. Pain of Salvation
+6. Paradise Lost
+7. Bloodbath
+8. Antimatter
+9. Hypocrisy
+10. Porcupine Tree
+11. The Gathering
+12. Camel
+13. Dream Theater
+14. Black Label Society
+15. Velvet Revolver
+16. Foo Fighters
+17. Stone Temple Pilots
+18. HIM
+19. Los Hermanos
+20. Oasis
+21. The Smashing Pumpkins
+22. Immortal
+23. AC/DC
+24. Elvis Presley
+25. Weezer
+26. Led Zeppelin
+27. Faith No More
+28. Aerosmith
+29. Muse
+30. Pink Floyd
+31. Radiohead
+32. Nirvana
+33. Iron Maiden
+34. Metallica
+35. Michael Jackson
+36. Pearl Jam
+37. a-ha
+38. Björk
+39. System of a Down
+40. Nine Inch Nails
+41. Linkin Park
+42. Avenged Sevenfold
+43. Green Day
+44. The Cure
+45. Coldplay
+46. Blur
+47. Arctic Monkeys
+48. Placebo
+49. The Killers
+50. U2

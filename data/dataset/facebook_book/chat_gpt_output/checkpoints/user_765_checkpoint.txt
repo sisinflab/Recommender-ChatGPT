@@ -1,0 +1,49 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Road by Cormac McCarthy
+2. No Country for Old Men by Cormac McCarthy
+3. The Border Trilogy by Cormac McCarthy
+4. A Clockwork Orange by Anthony Burgess
+5. Filth by Irvine Welsh
+6. The Acid House by Irvine Welsh
+7. The Dark Tower series by Stephen King
+8. The Wheel of Time series by Robert Jordan
+9. The Belgariad series by David Eddings
+10. The Malazan Book of the Fallen series by Steven Erikson
+11. The Chronicles of Narnia series by C.S. Lewis
+12. The Once and Future King by T.H. White
+13. The Mists of Avalon by Marion Zimmer Bradley
+14. The Name of the Wind by Patrick Rothfuss
+15. The Lies of Locke Lamora by Scott Lynch
+16. The First Law Trilogy by Joe Abercrombie
+17. The Kingkiller Chronicle series by Patrick Rothfuss
+18. The Dresden Files series by Jim Butcher
+19. American Gods by Neil Gaiman
+20. The Hitchhiker's Guide to the Galaxy series by Douglas Adams
+21. The Catcher in the Rye by J.D. Salinger
+22. One Hundred Years of Solitude by Gabriel Garcia Marquez
+23. Crime and Punishment by Fyodor Dostoevsky
+24. War and Peace by Leo Tolstoy
+25. The Brothers Karamazov by Fyodor Dostoevsky
+26. The Picture of Dorian Gray by Oscar Wilde
+27. Frankenstein by Mary Shelley
+28. Dracula by Bram Stoker
+29. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+30. The Great Gatsby by F. Scott Fitzgerald
+31. To Kill a Mockingbird by Harper Lee
+32. 1984 by George Orwell
+33. Animal Farm by George Orwell
+34. Brave New World by Aldous Huxley
+35. Fahrenheit 451 by Ray Bradbury
+36. Slaughterhouse-Five by Kurt Vonnegut
+37. Catch-22 by Joseph Heller
+38. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+39. The Hobbit by J.R.R. Tolkien
+40. The Silmarillion by J.R.R. Tolkien
+41. The Children of Hurin by J.R.R. Tolkien
+42. The Hobbit and The Lord of the Rings Boxed Set by J.R.R. Tolkien
+43. The Chronicles of Prydain series by Lloyd Alexander
+44. The Earthsea Cycle series by Ursula K. Le Guin
+45. The Dark is Rising series by Susan Cooper
+46. The Sword of Shannara Trilogy by Terry Brooks
+47. The Wheel of Time Boxed Set by Robert

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Bring Me The Horizon
+2. Paramore
+3. Alesana
+4. The Beatles
+5. The Killers
+6. Enter Shikari
+7. Marilyn Manson
+8. Underoath
+9. Attack Attack!
+10. My Chemical Romance
+11. 30 Seconds to Mars
+12. Emarosa
+13. Slipknot
+14. Muse
+15. Suicide Silence
+16. Escape The Fate
+17. Asking Alexandria
+18. Good Charlotte
+19. BrokeNCYDE
+20. Breathe Carolina
+21. t.A.T.u.
+22. Uffie
+23. nevershoutnever!
+24. Ellie Goulding
+25. Pitty
+26. Kudai
+27. Brandon Flowers
+28. Cinema Bizarre
+29. DIR EN GREY
+30. Britney Spears
+31. Lady Gaga
+32. Christina Aguilera
+33. Madonna
+34. Rihanna
+35. Shakira
+36. Katy Perry
+37. Avril Lavigne
+38. Taylor Swift
+39. Evanescence
+40. Glee Cast
+41. Beyoncé
+42. U2
+43. Pink Floyd
+44. Kylie Minogue
+45. Miley Cyrus
+46. Radiohead
+47. Ke$ha
+48. Duran Duran
+49. Coldplay
+50. Blur

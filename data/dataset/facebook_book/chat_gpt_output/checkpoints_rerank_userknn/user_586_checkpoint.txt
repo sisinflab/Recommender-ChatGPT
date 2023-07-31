@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. The Hobbit by J.R.R. Tolkien
+3. Dracula by Bram Stoker
+4. Frankenstein by Mary Shelley
+5. Nineteen Eighty-Four by George Orwell
+6. The Time Machine by H.G. Wells
+7. The Vampire Chronicles by Anne Rice
+8. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+9. Crime and Punishment by Fyodor Dostoevsky
+10. To Kill a Mockingbird by Harper Lee
+11. The Great Gatsby by F. Scott Fitzgerald
+12. The Alchemist by Paulo Coelho
+13. The Sandman by Neil Gaiman
+14. Alice's Adventures in Wonderland by Lewis Carroll
+15. The Hunchback of Notre-Dame by Victor Hugo
+16. The Da Vinci Code by Dan Brown
+17. The Romantic Manifesto by Ayn Rand
+18. The Fountainhead by Ayn Rand
+19. The Southern Vampire Mysteries by Charlaine Harris
+20. The Dresden Files by Jim Butcher
+21. The Dark Tower: The Gunslinger by Stephen King
+22. The Lost Symbol by Dan Brown
+23. Ramayana by Valmiki
+24. A Farewell to Arms by Ernest Hemingway
+25. Mountains Beyond Mountains by Tracy Kidder
+26. Tender Is the Night by F. Scott Fitzgerald
+27. Sabriel by Garth Nix
+28. The Graveyard Book by Neil Gaiman
+29. The Adventures of Tom Sawyer by Mark Twain
+30. Adventures of Huckleberry Finn by Mark Twain
+31. Through the Looking-Glass by Lewis Carroll
+32. A Christmas Carol by Charles Dickens
+33. The Canterbury Tales by Geoffrey Chaucer
+34. Lies My Teacher Told Me by James W. Loewen
+35. Black Beauty by Anna Sewell
+36. The Last Storytellers: Tales from the Heart of Morocco by Richard Hamilton
+37. The Girl Who Leapt Through Time by Yasutaka Tsutsui
+38. Dirk Gently's Holistic Detective Agency by Douglas Adams
+39. The Tao of Pooh by Benjamin Hoff
+40. The Beautiful Boy by Germaine Greer
+41. Anthem by Ayn Rand
+42. Midnight's Children by Salman Rushdie
+43. Twisted by Laurie Halse Anderson
+44. The War of the Worlds by H.G. Wells
+45. Strange Angels by Lili St. Crow
+46. Earl Cain by Kaori Yuki
+47. Common Sense by Thomas Paine
+48. Heidi by Johanna Spyri
+49. Christine by Stephen King
+50. Eric by Terry Pratchett

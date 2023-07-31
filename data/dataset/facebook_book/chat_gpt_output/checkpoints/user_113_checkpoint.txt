@@ -1,0 +1,42 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. The Eye of the World (The Wheel of Time, Book 1) by Robert Jordan
+3. Anne of Green Gables by L.M. Montgomery
+4. Guards! Guards! (Discworld, #8) by Terry Pratchett
+5. A Short History of Nearly Everything by Bill Bryson
+6. Jurassic Park by Michael Crichton
+7. Foundation (Foundation, #1) by Isaac Asimov
+8. The Fellowship of the Ring (The Lord of the Rings, #1) by J.R.R. Tolkien
+9. The Name of the Wind (The Kingkiller Chronicle, #1) by Patrick Rothfuss
+10. The Lies of Locke Lamora (Gentleman Bastard, #1) by Scott Lynch
+11. The Color of Magic (Discworld, #1) by Terry Pratchett
+12. The Way of Kings (The Stormlight Archive, #1) by Brandon Sanderson
+13. The Belgariad by David Eddings
+14. The Princess Bride by William Goldman
+15. The Chronicles of Narnia by C.S. Lewis
+16. The Dresden Files by Jim Butcher
+17. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+18. The Dark Tower series by Stephen King
+19. The First Law Trilogy by Joe Abercrombie
+20. The Malazan Book of the Fallen by Steven Erikson
+21. The Lies of Locke Lamora (Gentleman Bastard, #1) by Scott Lynch
+22. The Hunger Games by Suzanne Collins
+23. The Martian by Andy Weir
+24. The Name of the Wind (The Kingkiller Chronicle, #1) by Patrick Rothfuss
+25. The Way of Kings (The Stormlight Archive, #1) by Brandon Sanderson
+26. The Belgariad by David Eddings
+27. The Princess Bride by William Goldman
+28. The Chronicles of Narnia by C.S. Lewis
+29. The Dresden Files by Jim Butcher
+30. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+31. The Dark Tower series by Stephen King
+32. The First Law Trilogy by Joe Abercrombie
+33. The Malazan Book of the Fallen by Steven Erikson
+34. The Hunger Games by Suzanne Collins
+35. The Martian by Andy Weir
+36. The Name of the Wind (The Kingkiller Chronicle, #1) by Patrick Rothfuss
+37. The Way of Kings (The Stormlight Archive, #1) by Brandon Sanderson
+38. The Belgariad by David Eddings
+39. The Princess Bride by William Goldman
+40. The Chronicles of Narnia by C.S. Lewis

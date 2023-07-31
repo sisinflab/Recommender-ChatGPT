@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Animal Farm by George Orwell
+6. Brave New World by Aldous Huxley
+7. The Bell Jar by Sylvia Plath
+8. One Hundred Years of Solitude by Gabriel Garcia Marquez
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Handmaid's Tale by Margaret Atwood
+11. The Road by Cormac McCarthy
+12. The Stranger by Albert Camus
+13. The Sun Also Rises by Ernest Hemingway
+14. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+15. The Lord of the Rings by J.R.R. Tolkien
+16. The Hobbit by J.R.R. Tolkien
+17. The Chronicles of Narnia by C.S. Lewis
+18. The Hunger Games by Suzanne Collins
+19. The Girl with the Dragon Tattoo by Stieg Larsson
+20. The Da Vinci Code by Dan Brown
+21. The Shining by Stephen King
+22. The Stand by Stephen King
+23. The Silence of the Lambs by Thomas Harris
+24. The God of Small Things by Arundhati Roy
+25. The Kite Runner by Khaled Hosseini
+26. The Color Purple by Alice Walker
+27. The Joy Luck Club by Amy Tan
+28. The Help by Kathryn Stockett
+29. The Fault in Our Stars by John Green
+30. The Perks of Being a Wallflower by Stephen Chbosky
+31. The Alchemist by Paulo Coelho
+32. The Name of the Wind by Patrick Rothfuss
+33. The Wise Man's Fear by Patrick Rothfuss
+34. The Nightingale by Kristin Hannah
+35. The Book Thief by Markus Zusak
+36. The Giver by Lois Lowry
+37. The Maze Runner by James Dashner
+38. The Bourne Identity by Robert Ludlum
+39. The Bourne Supremacy by Robert Ludlum
+40. The Bourne Ultimatum by Robert Ludlum
+41. The Girl on the Train by Paula Hawkins
+42. The Martian by Andy Weir
+43. The Help by Kathryn Stockett
+44. The Lovely Bones by Alice Sebold
+45. The Secret Life of Bees by Sue Monk Kidd
+46. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+47. The Glass Castle by Jeannette Walls
+48. The Devil Wears Prada by Lauren Weisberger
+49. The Time Traveler's Wife by Audrey Niffenegger
+50. The Notebook by Nicholas Sparks

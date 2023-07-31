@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Depeche Mode
+2. David Bowie
+3. Patrick Wolf
+4. Morrissey
+5. Martin L. Gore
+6. Madonna
+7. Nine Inch Nails
+8. Faith No More
+9. Florence + the Machine
+10. The Cure
+11. Lady Gaga
+12. IAMX
+13. The Smiths
+14. Yeah Yeah Yeahs
+15. Garbage
+16. Bat for Lashes
+17. Marina & the Diamonds
+18. Gustavo Cerati
+19. Recoil
+20. Siouxsie and the Banshees
+21. Iggy Pop
+22. Queen
+23. Mr. Bungle
+24. Billy Idol
+25. INXS
+26. Ladytron
+27. Alexandre Desplat
+28. The Killers
+29. John Williams
+30. George Michael
+31. Antony and the Johnsons
+32. Pet Shop Boys
+33. Danny Elfman
+34. PJ Harvey
+35. Beyoncé
+36. Radiohead
+37. Muse
+38. Pink Floyd
+39. Kylie Minogue
+40. Nirvana
+41. Led Zeppelin
+42. Michael Jackson
+43. Pearl Jam
+44. a-ha
+45. Björk
+46. Nine Inch Nails
+47. Linkin Park
+48. My Chemical Romance
+49. Green Day
+50. The Cure

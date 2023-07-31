@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Maze Runner by James Dashner
+4. Eragon by Christopher Paolini
+5. The Chronicles of Narnia by C.S. Lewis
+6. Percy Jackson and the Olympians by Rick Riordan
+7. The Mortal Instruments by Cassandra Clare
+8. The Infernal Devices by Cassandra Clare
+9. The Dark Artifices by Cassandra Clare
+10. The Kingkiller Chronicle by Patrick Rothfuss
+11. The Name of the Wind by Patrick Rothfuss
+12. The Wise Man's Fear by Patrick Rothfuss
+13. Mistborn by Brandon Sanderson
+14. Warbreaker by Brandon Sanderson
+15. Elantris by Brandon Sanderson
+16. The Stormlight Archive by Brandon Sanderson
+17. The Way of Kings by Brandon Sanderson
+18. Words of Radiance by Brandon Sanderson
+19. Oathbringer by Brandon Sanderson
+20. The Final Empire by Brandon Sanderson
+21. The Well of Ascension by Brandon Sanderson
+22. The Hero of Ages by Brandon Sanderson
+23. The Lightbringer Series by Brent Weeks
+24. The Black Prism by Brent Weeks
+25. The Blinding Knife by Brent Weeks
+26. The Broken Eye by Brent Weeks
+27. The Blood Mirror by Brent Weeks
+28. The Night Angel Trilogy by Brent Weeks
+29. The Lies of Locke Lamora by Scott Lynch
+30. Red Seas Under Red Skies by Scott Lynch
+31. The Republic of Thieves by Scott Lynch
+32. The First Law Trilogy by Joe Abercrombie
+33. The Blade Itself by Joe Abercrombie
+34. Before They Are Hanged by Joe Abercrombie
+35. Last Argument of Kings by Joe Abercrombie
+36. The King's Dark Tidings by Kel Kade
+37. Free the Darkness by Kel Kade
+38. Reign of Madness by Kel Kade
+39. Legends of Ahn by Kel Kade
+40. Fate of the Fallen by Kel Kade
+41. The Broken Empire Trilogy by Mark Lawrence
+42. Prince of Thorns by Mark Lawrence
+43. King of Thorns by Mark Lawrence
+44. Emperor of Thorns by Mark Lawrence
+45. The Powder Mage Trilogy by Brian McClellan
+46. Promise of Blood by Brian McClellan
+47. The Crimson Campaign by Brian McClellan
+48. The Autumn Republic by Brian McClellan
+49. The Black Company by Glen Cook
+50. The Chronicles of Amber by Roger Zelazny

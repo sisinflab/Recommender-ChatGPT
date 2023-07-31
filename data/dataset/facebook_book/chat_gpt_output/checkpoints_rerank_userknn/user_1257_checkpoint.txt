@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Bell Jar by Sylvia Plath
+2. Lolita by Vladimir Nabokov
+3. Lord of the Flies by William Golding
+4. The Great Gatsby by F. Scott Fitzgerald
+5. 1984 by George Orwell
+6. Brave New World by Aldous Huxley
+7. The Catcher in the Rye by J.D. Salinger
+8. Frankenstein by Mary Shelley
+9. The Stranger by Albert Camus
+10. The Fountainhead by Ayn Rand
+11. Night by Elie Wiesel
+12. The Lord of the Rings by J.R.R. Tolkien
+13. A Clockwork Orange by Anthony Burgess
+14. The Silence of the Lambs by Thomas Harris
+15. Hannibal by Thomas Harris
+16. The Da Vinci Code by Dan Brown
+17. Inferno by Dante Alighieri
+18. The Divine Comedy by Dante Alighieri
+19. Alice's Adventures in Wonderland by Lewis Carroll
+20. The Old Man and the Sea by Ernest Hemingway
+21. A Wrinkle in Time by Madeleine L'Engle
+22. The Mists of Avalon by Marion Zimmer Bradley
+23. The Watchmen by Alan Moore
+24. High Fidelity by Nick Hornby
+25. Running with Scissors by Augusten Burroughs
+26. Speak by Laurie Halse Anderson
+27. Dune by Frank Herbert
+28. The Hamlet by William Faulkner
+29. Sun Bin's Art of War by Sun Bin
+30. Last Words by George Carlin
+31. Ulysses by James Joyce
+32. The Outsiders by S.E. Hinton
+33. A Memory of Light by Robert Jordan and Brandon Sanderson
+34. Girl, Interrupted by Susanna Kaysen
+35. American Psycho by Bret Easton Ellis
+36. Manga by Various Authors
+37. For Whom the Bell Tolls by Ernest Hemingway
+38. Isaac Asimov's Robot City by Various Authors
+39. The Hunger Games by Suzanne Collins
+40. Earthsea by Ursula K. Le Guin
+41. Fade by Lisa McMann
+42. Misery by Stephen King
+43. Les Misérables by Victor Hugo
+44. The Lovely Bones by Alice Sebold
+45. Starship Troopers by Robert A. Heinlein
+46. A Farewell to Arms by Ernest Hemingway
+47. Anne of Green Gables by L.M. Montgomery
+48. Disco Bloodbath by James St. James
+49. Atlas Shrugged by Ayn Rand
+50. Pygmy by Chuck Palahniuk

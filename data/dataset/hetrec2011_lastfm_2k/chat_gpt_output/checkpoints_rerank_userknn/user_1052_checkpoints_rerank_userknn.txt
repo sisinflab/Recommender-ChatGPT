@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations are:
+
+1. Nirvana
+2. Interpol
+3. The Beatles
+4. Ramones
+5. The Jesus and Mary Chain
+6. Sigur Rós
+7. The xx
+8. Editors
+9. White Lies
+10. Kings of Leon
+11. Vampire Weekend
+12. The Strokes
+13. Franz Ferdinand
+14. The Libertines
+15. Razorlight
+16. Arctic Monkeys
+17. Radiohead
+18. Pearl Jam
+19. Joy Division
+20. The Smiths
+21. Led Zeppelin
+22. The Rolling Stones
+23. Bruce Springsteen
+24. Neil Young
+25. Bob Dylan
+26. Johnny Cash
+27. The Jimi Hendrix Experience
+28. Social Distortion
+29. Ryan Adams
+30. Death Cab for Cutie
+31. Iron & Wine
+32. Broken Social Scene
+33. The White Stripes
+34. Sonic Youth
+35. The Verve
+36. José González
+37. Ani DiFranco
+38. Paul McCartney
+39. Dave Matthews Band
+40. U2
+41. AC/DC
+42. The Who
+43. Creedence Clearwater Revival
+44. Janis Joplin
+45. Matanza
+46. Los Hermanos
+47. O Teatro Mágico
+48. Anti-Flag
+49. Three Days Grace
+50. Jet

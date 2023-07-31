@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Bullet for My Valentine
+2. Asking Alexandria
+3. The Black Dahlia Murder
+4. Suicide Silence
+5. All Shall Perish
+6. Born of Osiris
+7. August Burns Red
+8. NOFX
+9. Four Year Strong
+10. Alesana
+11. Finch
+12. Lady Gaga
+13. Black Eyed Peas
+14. Paramore
+15. Avenged Sevenfold
+16. My Chemical Romance
+17. Metallica
+18. Nirvana
+19. Iron Maiden
+20. Pearl Jam
+21. Linkin Park
+22. System of a Down
+23. Nine Inch Nails
+24. Muse
+25. Pink Floyd
+26. Led Zeppelin
+27. Michael Jackson
+28. Madonna
+29. Rihanna
+30. Beyoncé
+31. Christina Aguilera
+32. Britney Spears
+33. Katy Perry
+34. Taylor Swift
+35. Miley Cyrus
+36. Ke$ha
+37. Evanescence
+38. Glee Cast
+39. U2
+40. 30 Seconds to Mars
+41. Coldplay
+42. Blur
+43. Arctic Monkeys
+44. Placebo
+45. The Killers
+46. Green Day
+47. The Cure
+48. Kylie Minogue
+49. Shakira
+50. Daft Punk

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Fight Club by Chuck Palahniuk
+2. American Gods by Neil Gaiman
+3. The Shining by Stephen King
+4. The Catcher in the Rye by J.D. Salinger
+5. The Hunger Games by Suzanne Collins
+6. The Girl with the Dragon Tattoo by Stieg Larsson
+7. The Road by Cormac McCarthy
+8. The Stand by Stephen King
+9. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+10. The Perks of Being a Wallflower by Stephen Chbosky
+11. The Giver by Lois Lowry
+12. The Fault in Our Stars by John Green
+13. The Book Thief by Markus Zusak
+14. The Lord of the Rings by J.R.R. Tolkien
+15. The Hobbit by J.R.R. Tolkien
+16. 1984 by George Orwell
+17. Animal Farm by George Orwell
+18. Brave New World by Aldous Huxley
+19. Fahrenheit 451 by Ray Bradbury
+20. To Kill a Mockingbird by Harper Lee
+21. One Hundred Years of Solitude by Gabriel Garcia Marquez
+22. The Alchemist by Paulo Coelho
+23. The Picture of Dorian Gray by Oscar Wilde
+24. The Great Gatsby by F. Scott Fitzgerald
+25. The Bell Jar by Sylvia Plath
+26. The Handmaid's Tale by Margaret Atwood
+27. The Road Less Traveled by M. Scott Peck
+28. The Power of Now by Eckhart Tolle
+29. The Secret by Rhonda Byrne
+30. The Celestine Prophecy by James Redfield
+31. The Da Vinci Code by Dan Brown
+32. Angels and Demons by Dan Brown
+33. The Lost Symbol by Dan Brown
+34. Inferno by Dan Brown
+35. The Bourne Identity by Robert Ludlum
+36. The Bourne Supremacy by Robert Ludlum
+37. The Bourne Ultimatum by Robert Ludlum
+38. The Girl on the Train by Paula Hawkins
+39. Gone Girl by Gillian Flynn
+40. The Silence of the Lambs by Thomas Harris
+41. Red Dragon by Thomas Harris
+42. Hannibal by Thomas Harris
+43. The Lovely Bones by Alice Sebold
+44. The Help by Kathryn Stockett
+45. The Kite Runner by Khaled Hosseini
+46. A Thousand Splendid Suns by Khaled Hosseini
+47. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+48. The Martian by Andy Weir
+49. Ready Player One by Ernest Cline
+50. The Hunger Games: Catching Fire by Suzanne Collins

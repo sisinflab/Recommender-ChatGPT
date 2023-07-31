@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Maze Runner by James Dashner
+4. The Fault in Our Stars by John Green
+5. The Book Thief by Markus Zusak
+6. The Giver by Lois Lowry
+7. The Selection by Kiera Cass
+8. The Mortal Instruments by Cassandra Clare
+9. The Infernal Devices by Cassandra Clare
+10. The Lunar Chronicles by Marissa Meyer
+11. The 5th Wave by Rick Yancey
+12. The Darkest Minds by Alexandra Bracken
+13. The Knife of Never Letting Go by Patrick Ness
+14. The Ask and the Answer by Patrick Ness
+15. Monsters of Men by Patrick Ness
+16. The Girl on the Train by Paula Hawkins
+17. Gone Girl by Gillian Flynn
+18. The Da Vinci Code by Dan Brown
+19. Angels and Demons by Dan Brown
+20. Inferno by Dan Brown
+21. The Lost Symbol by Dan Brown
+22. The Help by Kathryn Stockett
+23. The Secret Life of Bees by Sue Monk Kidd
+24. The Lovely Bones by Alice Sebold
+25. The Time Traveler's Wife by Audrey Niffenegger
+26. The Nightingale by Kristin Hannah
+27. The Kite Runner by Khaled Hosseini
+28. A Thousand Splendid Suns by Khaled Hosseini
+29. The Alchemist by Paulo Coelho
+30. The Catcher in the Rye by J.D. Salinger
+31. To Kill a Mockingbird by Harper Lee
+32. The Great Gatsby by F. Scott Fitzgerald
+33. 1984 by George Orwell
+34. Animal Farm by George Orwell
+35. Brave New World by Aldous Huxley
+36. Fahrenheit 451 by Ray Bradbury
+37. The Handmaid's Tale by Margaret Atwood
+38. The Road by Cormac McCarthy
+39. The Stand by Stephen King
+40. It by Stephen King
+41. The Shining by Stephen King
+42. Carrie by Stephen King
+43. The Outsiders by S.E. Hinton
+44. Lord of the Flies by William Golding
+45. The Chronicles of Narnia by C.S. Lewis
+46. Harry Potter series by J.K. Rowling
+47. The Hobbit by J.R.R. Tolkien
+48. The Lord of the Rings by J.R.R. Tolkien
+49. The Name of the Wind by Patrick Rothfuss
+50. The Wise Man's Fear by Patrick Rothfuss

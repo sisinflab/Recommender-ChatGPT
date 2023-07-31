@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter series by J.K. Rowling
+2. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+3. The Lord of the Rings by J.R.R. Tolkien
+4. To Kill a Mockingbird by Harper Lee
+5. The Alchemist by Paulo Coelho
+6. The Giver by Lois Lowry
+7. The Time Traveler's Wife by Audrey Niffenegger
+8. Pride and Prejudice by Jane Austen
+9. The Secret by Rhonda Byrne
+10. The Lovely Bones by Alice Sebold
+11. Angels & Demons by Dan Brown
+12. A Midsummer Night's Dream by William Shakespeare
+13. Bridget Jones's Diary by Helen Fielding
+14. Catching Fire by Suzanne Collins
+15. Mockingjay by Suzanne Collins
+16. Twilight series by Stephenie Meyer
+17. The Lightning Thief by Rick Riordan
+18. Diary of a Wimpy Kid series by Jeff Kinney
+19. The Last Olympian by Rick Riordan
+20. The Secret Dreamworld of a Shopaholic by Sophie Kinsella
+21. Lock and Key by Sarah Dessen
+22. A Walk to Remember by Nicholas Sparks
+23. The Five People You Meet in Heaven by Mitch Albom
+24. Tuesdays with Morrie by Mitch Albom
+25. The Purpose Driven Life by Rick Warren
+26. Chicken Soup for the Soul by Jack Canfield and Mark Victor Hansen
+27. The Little Prince by Antoine de Saint-Exupéry
+28. Around the World in Eighty Days by Jules Verne
+29. Dear John by Nicholas Sparks
+30. Veronika Decides to Die by Paulo Coelho
+31. The Wallflower (manga) by Tomoko Hayakawa
+32. A Hat Full of Sky by Terry Pratchett
+33. Wild Magic by Tamora Pierce
+34. Matched by Ally Condie
+35. Flirt (novella) by Laurell K. Hamilton
+36. Peeps by Scott Westerfeld
+37. Going Rogue: An American Life by Sarah Palin
+38. Book of Esther by Anonymous
+39. Collected Ghost Stories by M.R. James
+40. For One More Day by Mitch Albom
+41. Black Boy by Richard Wright
+42. Infidel by Ayaan Hirsi Ali
+43. The Rules of Survival by Nancy Werlin
+44. Smashed: Story of a Drunken Girlhood by Koren Zailckas
+45. Number the Stars by Lois Lowry
+46. Chinese Cinderella by Adeline Yen Mah
+47. Desert Flower by Waris Dirie
+48. Underworld by Don DeLillo
+49. From the Mixed-Up Files of Mrs. Basil E. Frankwe

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hobbit by J.R.R. Tolkien
+2. The Chronicles of Narnia by C.S. Lewis
+3. The Lord of the Rings by J.R.R. Tolkien
+4. Harry Potter and the Philosopher's Stone by J.K. Rowling
+5. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+6. The Giver by Lois Lowry
+7. The Hunger Games by Suzanne Collins
+8. Ender's Game by Orson Scott Card
+9. The Alchemist by Paulo Coelho
+10. The Catcher in the Rye by J.D. Salinger
+11. The Great Gatsby by F. Scott Fitzgerald
+12. To Kill a Mockingbird by Harper Lee
+13. 1984 by George Orwell
+14. Brave New World by Aldous Huxley
+15. Fahrenheit 451 by Ray Bradbury
+16. The Handmaid's Tale by Margaret Atwood
+17. The Road by Cormac McCarthy
+18. The Stand by Stephen King
+19. The Shining by Stephen King
+20. The Dark Tower series by Stephen King
+21. The Name of the Wind by Patrick Rothfuss
+22. The Lies of Locke Lamora by Scott Lynch
+23. The Blade Itself by Joe Abercrombie
+24. The Way of Kings by Brandon Sanderson
+25. Mistborn by Brandon Sanderson
+26. The Final Empire by Brandon Sanderson
+27. The Well of Ascension by Brandon Sanderson
+28. The Hero of Ages by Brandon Sanderson
+29. The Stormlight Archive by Brandon Sanderson
+30. The Kingkiller Chronicle by Patrick Rothfuss
+31. The Wise Man's Fear by Patrick Rothfuss
+32. The Lies of Locke Lamora by Scott Lynch
+33. The Blade Itself by Joe Abercrombie
+34. The Way of Kings by Brandon Sanderson
+35. Mistborn by Brandon Sanderson
+36. The Final Empire by Brandon Sanderson
+37. The Well of Ascension by Brandon Sanderson
+38. The Hero of Ages by Brandon Sanderson
+39. The Stormlight Archive by Brandon Sanderson
+40. The Kingkiller Chronicle by Patrick Rothfuss
+41. The Wise Man's Fear by Patrick Rothfuss
+42. The Lies of Locke Lamora by Scott Lynch
+43. The Blade Itself by Joe Abercrombie
+44. The Way of Kings by Brandon Sanderson
+45. Mistborn by Brandon Sanderson
+46. The Final Empire by Brandon Sanderson
+47. The Well of Ascension by Brandon Sanderson
+48. The Hero of Ages by Brandon Sanderson
+49. The Stormlight Archive by Brandon Sanderson
+50. The Kingkiller Chronicle by Patrick Rothfuss

@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. The Fault in Our Stars by John Green
+5. The Girl with the Dragon Tattoo by Stieg Larsson
+6. The Help by Kathryn Stockett
+7. The Kite Runner by Khaled Hosseini
+8. The Lord of the Rings by J.R.R. Tolkien
+9. The Maze Runner by James Dashner
+10. The Perks of Being a Wallflower by Stephen Chbosky
+11. The Secret Life of Bees by Sue Monk Kidd
+12. The Shack by William P. Young
+13. The Time Traveler's Wife by Audrey Niffenegger
+14. The Twilight Saga by Stephenie Meyer
+15. The Book Thief by Markus Zusak
+16. The Chronicles of Narnia by C.S. Lewis
+17. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+18. The Da Vinci Code by Dan Brown
+19. The Giver by Lois Lowry
+20. The Great Gatsby by F. Scott Fitzgerald
+21. The Hobbit by J.R.R. Tolkien
+22. The Hunger Games Trilogy by Suzanne Collins
+23. The Lovely Bones by Alice Sebold
+24. The Notebook by Nicholas Sparks
+25. The Outsiders by S.E. Hinton
+26. The Perks of Being a Wallflower by Stephen Chbosky
+27. The Pillars of the Earth by Ken Follett
+28. The Red Tent by Anita Diamant
+29. The Secret by Rhonda Byrne
+30. The Shack by William P. Young
+31. The Stand by Stephen King
+32. The Time Traveler's Wife by Audrey Niffenegger
+33. The White Tiger by Aravind Adiga
+34. The Wind-Up Bird Chronicle by Haruki Murakami
+35. The Witch of Portobello by Paulo Coelho
+36. The World According to Garp by John Irving
+37. The 7 Habits of Highly Effective People by Stephen R. Covey
+38. The Alchemist by Paulo Coelho
+39. The Art of War by Sun Tzu
+40. The Bourne Identity by Robert Ludlum
+41. The Bridges of Madison County by Robert James Waller
+42. The Celestine Prophecy by James Redfield
+43. The Chronicles of Narnia by C.S. Lewis
+44. The Color Purple by Alice Walker
+45. The Complete Sherlock Holmes by Arthur Conan Doyle
+46. The Count of Monte Cristo by Alexandre Dumas
+47. The Dark Tower Series by Stephen King
+48. The Diary of a Young Girl by Anne Frank
+49. The Divine Comedy by

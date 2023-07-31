@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Alchemist by Paulo Coelho
+2. Think and Grow Rich by Napoleon Hill
+3. The 7 Habits of Highly Effective People by Stephen Covey
+4. The Power of Now by Eckhart Tolle
+5. The Secret by Rhonda Byrne
+6. The Da Vinci Code by Dan Brown
+7. The Hunger Games by Suzanne Collins
+8. The Girl with the Dragon Tattoo by Stieg Larsson
+9. The Catcher in the Rye by J.D. Salinger
+10. To Kill a Mockingbird by Harper Lee
+11. The Great Gatsby by F. Scott Fitzgerald
+12. 1984 by George Orwell
+13. Animal Farm by George Orwell
+14. Brave New World by Aldous Huxley
+15. Fahrenheit 451 by Ray Bradbury
+16. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+17. The Hobbit by J.R.R. Tolkien
+18. The Fellowship of the Ring by J.R.R. Tolkien
+19. The Two Towers by J.R.R. Tolkien
+20. The Return of the King by J.R.R. Tolkien
+21. The Chronicles of Narnia by C.S. Lewis
+22. The Lion, the Witch and the Wardrobe by C.S. Lewis
+23. The Magician's Nephew by C.S. Lewis
+24. The Horse and His Boy by C.S. Lewis
+25. The Last Battle by C.S. Lewis
+26. The Name of the Wind by Patrick Rothfuss
+27. The Wise Man's Fear by Patrick Rothfuss
+28. The Way of Kings by Brandon Sanderson
+29. Mistborn by Brandon Sanderson
+30. The Final Empire by Brandon Sanderson
+31. Warbreaker by Brandon Sanderson
+32. The Well of Ascension by Brandon Sanderson
+33. The Hero of Ages by Brandon Sanderson
+34. The Eye of the World by Robert Jordan
+35. The Great Hunt by Robert Jordan
+36. The Dragon Reborn by Robert Jordan
+37. A Game of Thrones by George R.R. Martin
+38. A Clash of Kings by George R.R. Martin
+39. A Storm of Swords by George R.R. Martin
+40. A Feast for Crows by George R.R. Martin
+41. A Dance with Dragons by George R.R. Martin
+42. The Name of the Rose by Umberto Eco
+43. The Pillars of the Earth by Ken Follett
+44. The Girl on the Train by Paula Hawkins
+45. Gone Girl by Gillian Flynn
+46. The Help by Kathryn Stockett
+47. The Kite Runner by Khaled Hosseini
+48. The Fault in Our Stars by John Green
+49. The Maze Runner by James Dashner
+50. Divergent

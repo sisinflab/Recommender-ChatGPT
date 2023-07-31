@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Nirvana
+2. Pearl Jam
+3. Jimi Hendrix
+4. The Beatles
+5. AC/DC
+6. Metallica
+7. Guns N' Roses
+8. Red Hot Chili Peppers
+9. Foo Fighters
+10. The Clash
+11. The Ramones
+12. The Kinks
+13. The Beach Boys
+14. The Cure
+15. Joy Division
+16. Talking Heads
+17. R.E.M.
+18. Sonic Youth
+19. Pixies
+20. Pavement
+21. Wilco
+22. My Morning Jacket
+23. Fleet Foxes
+24. Vampire Weekend
+25. Tame Impala
+26. Arctic Monkeys
+27. The Strokes
+28. Interpol
+29. Yeah Yeah Yeahs
+30. LCD Soundsystem
+31. The National
+32. Bon Iver
+33. Sufjan Stevens
+34. Elliott Smith
+35. Nick Drake
+36. Bob Marley
+37. James Brown
+38. Otis Redding
+39. Marvin Gaye
+40. Stevie Wonder
+41. Prince
+42. Michael Jackson
+43. Madonna
+44. Beyoncé
+45. Kendrick Lamar
+46. J. Cole
+47. Frank Ocean
+48. Anderson .Paak
+49. Tyler, The Creator
+50. Billie Eilish

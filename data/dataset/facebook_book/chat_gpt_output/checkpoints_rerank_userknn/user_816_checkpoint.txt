@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter by J.K. Rowling
+2. The Chronicles of Narnia by C.S. Lewis
+3. The Secret Garden by Frances Hodgson Burnett
+4. To Kill a Mockingbird by Harper Lee
+5. The Looking Glass Wars by Frank Beddor
+6. The Jungle Book by Rudyard Kipling
+7. The Princess Diaries by Meg Cabot
+8. The Other Boleyn Girl by Philippa Gregory
+9. The Namesake by Jhumpa Lahiri
+10. The Great Gatsby by F. Scott Fitzgerald
+11. Romeo and Juliet by William Shakespeare
+12. Black Beauty by Anna Sewell
+13. Inkheart by Cornelia Funke
+14. The Sleeping Beauty by Mercedes Lackey
+15. Adventures of Huckleberry Finn by Mark Twain
+16. The Wonderful Wizard of Oz by L. Frank Baum
+17. Peter and Wendy by J.M. Barrie
+18. The Canterbury Tales by Geoffrey Chaucer
+19. The Taming of the Shrew by William Shakespeare
+20. The Notebook by Nicholas Sparks
+21. Mansfield Park by Jane Austen
+22. Jane Eyre by Charlotte Bronte
+23. Les Miserables by Victor Hugo
+24. The Picture of Dorian Gray by Oscar Wilde
+25. The Scarlet Letter by Nathaniel Hawthorne
+26. The Lord of the Rings by J.R.R. Tolkien
+27. The Bible
+28. The Quran
+29. Divine Comedy by Dante Alighieri
+30. Nineteen Eighty-Four by George Orwell
+31. Mere Christianity by C.S. Lewis
+32. Gone with the Wind by Margaret Mitchell
+33. A Hero of Our Time by Mikhail Lermontov
+34. The Adventures of Tom Sawyer by Mark Twain
+35. Speak by Laurie Halse Anderson
+36. Lorna Doone by R.D. Blackmore
+37. Around the World in Eighty Days by Jules Verne
+38. Ways to Live Forever by Sally Nicholls
+39. For Whom the Bell Tolls by Ernest Hemingway
+40. The Glass Menagerie by Tennessee Williams
+41. Tuesdays with Morrie by Mitch Albom
+42. Wuthering Heights by Emily Bronte
+43. Lolita by Vladimir Nabokov
+44. It by Stephen King
+45. The Cat Who Saw Red by Lilian Jackson Braun
+46. The Crucible of Time by John Brunner
+47. The Smurfs by Peyo
+48. Go Ask Alice by Anonymous
+49. Vampire Kisses by Ellen Schreiber
+50. Ttyl by Lauren Myracle

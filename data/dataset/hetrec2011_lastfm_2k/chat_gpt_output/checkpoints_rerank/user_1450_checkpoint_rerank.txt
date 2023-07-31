@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Fall Out Boy
+2. The Used
+3. Mayday Parade
+4. From First to Last
+5. Alesana
+6. The Academy Is...
+7. Plain White T's
+8. Beeshop
+9. Bring Me The Horizon
+10. Copeland
+11. Forever the Sickest Kids
+12. Late of the Pier
+13. HORSE the band
+14. The Devil Wears Prada
+15. The Red Jumpsuit Apparatus
+16. Regina Spektor
+17. Boys Like Girls
+18. Cobra Starship
+19. Vampire Weekend
+20. Coldplay
+21. nevershoutnever!
+22. The Smiths
+23. Lady Gaga
+24. 3OH!3
+25. The Prodigy
+26. Britney Spears
+27. Muse
+28. Paramore
+29. Pink Floyd
+30. Depeche Mode
+31. Madonna
+32. Rihanna
+33. Shakira
+34. The Beatles
+35. Katy Perry
+36. Avril Lavigne
+37. Taylor Swift
+38. Evanescence
+39. Glee Cast
+40. Beyoncé
+41. U2
+42. 30 Seconds to Mars
+43. Ke$ha
+44. Duran Duran
+45. Blur
+46. Arctic Monkeys
+47. Placebo
+48. The Killers
+49. Nirvana
+50. Iron Maiden

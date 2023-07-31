@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Nightwish
+2. Glee Cast
+3. Avantasia
+4. Angra
+5. Lady Gaga
+6. Blackmore's Night
+7. Within Temptation
+8. Judas Priest
+9. Whitesnake
+10. Epica
+11. Opeth
+12. Blind Guardian
+13. Aerosmith
+14. Motörhead
+15. Hans Zimmer
+16. Sonata Arctica
+17. KISS
+18. Scorpions
+19. Stratovarius
+20. Rammstein
+21. Megadeth
+22. Iron Maiden
+23. Metallica
+24. Pearl Jam
+25. Nirvana
+26. Led Zeppelin
+27. Michael Jackson
+28. U2
+29. Muse
+30. Pink Floyd
+31. The Beatles
+32. Radiohead
+33. Coldplay
+34. The Killers
+35. Duran Duran
+36. Arctic Monkeys
+37. Placebo
+38. Nine Inch Nails
+39. Daft Punk
+40. System of a Down
+41. Linkin Park
+42. All Time Low
+43. Avenged Sevenfold
+44. My Chemical Romance
+45. Green Day
+46. The Cure
+47. Evanescence
+48. Beyoncé
+49. P!nk
+50. Katy Perry

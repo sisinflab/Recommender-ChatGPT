@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. 1984 by George Orwell
+2. The Great Gatsby by F. Scott Fitzgerald
+3. The Once and Future King by T.H. White
+4. Don Quixote by Miguel de Cervantes
+5. The Fountainhead by Ayn Rand
+6. Waiting for Godot by Samuel Beckett
+7. The Name of the Rose by Umberto Eco
+8. Brave New World by Aldous Huxley
+9. Lolita by Vladimir Nabokov
+10. Divine Comedy by Dante Alighieri
+11. The Brothers Karamazov by Fyodor Dostoevsky
+12. Romeo and Juliet by William Shakespeare
+13. The Lord of the Rings by J.R.R. Tolkien
+14. Harry Potter by J.K. Rowling
+15. The Hobbit by J.R.R. Tolkien
+16. Dracula by Bram Stoker
+17. The Giver by Lois Lowry
+18. A Tale of Two Cities by Charles Dickens
+19. The Bell Jar by Sylvia Plath
+20. Alice's Adventures in Wonderland by Lewis Carroll
+21. The Trial by Franz Kafka
+22. The Prince by Niccolo Machiavelli
+23. Symposium by Plato
+24. War and Peace by Leo Tolstoy
+25. Freakonomics by Steven Levitt and Stephen Dubner
+26. The Phantom Tollbooth by Norton Juster
+27. Lord of the Flies by William Golding
+28. The Book Thief by Markus Zusak
+29. A Passage to India by E.M. Forster
+30. Ulysses by James Joyce
+31. The Fall of the House of Usher by Edgar Allan Poe
+32. The Castle of Otranto by Horace Walpole
+33. The Prophet by Kahlil Gibran
+34. Macbeth by William Shakespeare
+35. The Kane Chronicles by Rick Riordan
+36. Full Dark, No Stars by Stephen King
+37. Through the Eye of the Needle by Ken Follett
+38. Hogan by Curt Sampson
+39. Stargirl by Jerry Spinelli
+40. Redeeming Love by Francine Rivers
+41. Starship Troopers by Robert A. Heinlein
+42. Howl by Allen Ginsberg
+43. Old Farmer's Almanac by Robert B. Thomas
+44. Mrs. Frisby and the Rats of NIMH by Robert C. O'Brien
+45. Les Fleurs du mal by Charles Baudelaire
+46. Unlimited Power by Tony Robbins
+47. Christine by Stephen King
+48. The Hamlet by William Faulkner
+49. On the Road by Jack Kerouac
+50. The Prophet by Michael Koryta

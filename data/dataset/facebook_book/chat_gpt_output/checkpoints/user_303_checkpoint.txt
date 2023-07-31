@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. The Maze Runner by James Dashner
+3. Divergent by Veronica Roth
+4. The Giver by Lois Lowry
+5. The Fault in Our Stars by John Green
+6. The Chronicles of Narnia by C.S. Lewis
+7. The Lord of the Rings by J.R.R. Tolkien
+8. The Hobbit by J.R.R. Tolkien
+9. The Da Vinci Code by Dan Brown
+10. The Lost Symbol by Dan Brown
+11. Digital Fortress by Dan Brown
+12. Deception Point by Dan Brown
+13. The Alchemist by Paulo Coelho
+14. The Girl with the Dragon Tattoo by Stieg Larsson
+15. The Girl Who Played with Fire by Stieg Larsson
+16. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+17. The Name of the Wind by Patrick Rothfuss
+18. The Wise Man's Fear by Patrick Rothfuss
+19. The Dark Tower series by Stephen King
+20. The Stand by Stephen King
+21. It by Stephen King
+22. The Shining by Stephen King
+23. Carrie by Stephen King
+24. The Outsider by Stephen King
+25. The Green Mile by Stephen King
+26. The Silence of the Lambs by Thomas Harris
+27. Red Dragon by Thomas Harris
+28. Hannibal by Thomas Harris
+29. The Bourne Identity by Robert Ludlum
+30. The Bourne Supremacy by Robert Ludlum
+31. The Bourne Ultimatum by Robert Ludlum
+32. The Bourne Legacy by Eric Van Lustbader
+33. The Bourne Betrayal by Eric Van Lustbader
+34. The Bourne Sanction by Eric Van Lustbader
+35. The Bourne Deception by Eric Van Lustbader
+36. The Bourne Objective by Eric Van Lustbader
+37. The Bourne Dominion by Eric Van Lustbader
+38. The Bourne Imperative by Eric Van Lustbader
+39. The Bourne Retribution by Eric Van Lustbader
+40. The Bourne Ascendancy by Eric Van Lustbader
+41. The Bourne Enigma by Eric Van Lustbader
+42. The Bourne Initiative by Eric Van Lustbader
+43. The Bourne Nemesis by Eric Van Lustbader
+44. The Bourne Objective by Eric Van Lustbader
+45. The Bourne Dominion by Eric Van Lustbader
+46. The Bourne Imperative by Eric Van Lustbader
+47. The Bourne Retribution by Eric Van Lustbader
+48. The Bourne Ascendancy by Eric Van Lustbader
+49. The Bourne Enigma by Eric Van Lustbader

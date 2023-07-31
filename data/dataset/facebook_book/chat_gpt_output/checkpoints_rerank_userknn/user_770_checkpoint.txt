@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Catching Fire by Suzanne Collins
+2. Mockingjay by Suzanne Collins
+3. Battle Royale by Koushun Takami
+4. The Name of the Wind by Patrick Rothfuss
+5. Maximum Ride by James Patterson
+6. Lord of the Flies by William Golding
+7. Inkheart by Cornelia Funke
+8. The Forest of Hands and Teeth by Carrie Ryan
+9. A Brief History of Time by Stephen Hawking
+10. The Great Gatsby by F. Scott Fitzgerald
+11. A Confederacy of Dunces by John Kennedy Toole
+12. The Road by Cormac McCarthy
+13. His Dark Materials by Philip Pullman
+14. American Psycho by Bret Easton Ellis
+15. Slaughterhouse-Five by Kurt Vonnegut
+16. Catch-22 by Joseph Heller
+17. The Secret Life of Bees by Sue Monk Kidd
+18. The Hobbit by J.R.R. Tolkien
+19. The Outsiders by S.E. Hinton
+20. The Little Prince by Antoine de Saint-Exupéry
+21. The Princess Bride by William Goldman
+22. The Man in the High Castle by Philip K. Dick
+23. A Northern Light by Jennifer Donnelly
+24. Great Expectations by Charles Dickens
+25. The Elegant Universe by Brian Greene
+26. The Tipping Point by Malcolm Gladwell
+27. Freakonomics by Steven D. Levitt and Stephen J. Dubner
+28. We by Yevgeny Zamyatin
+29. Anthem by Ayn Rand
+30. The Mists of Avalon by Marion Zimmer Bradley
+31. Oliver Twist by Charles Dickens
+32. The Hatchet by Gary Paulsen
+33. The Fall of Hyperion by Dan Simmons
+34. Like Water for Chocolate by Laura Esquivel
+35. Pride and Prejudice and Zombies by Seth Grahame-Smith
+36. The Stranger by Albert Camus
+37. So Yesterday by Scott Westerfeld
+38. Highschool of the Dead by Daisuke Sato
+39. The Kreutzer Sonata by Leo Tolstoy
+40. Nickel and Dimed by Barbara Ehrenreich
+41. Sex, Drugs, and Cocoa Puffs by Chuck Klosterman
+42. Uglies by Scott Westerfeld
+43. City of God by Paulo Lins
+44. Inkspell by Cornelia Funke
+45. The Psychedelic Experience by Richard Alpert, Timothy Leary, and Ralph Metzner
+46. Fahrenheit 451 by Ray Bradbury
+47. Warriors (anthology) by Erin Hunter
+48. Brave New World by Aldous Huxley
+49. The House of the Scorpion by Nancy Farmer
+50. My Friend Leonard by James Frey

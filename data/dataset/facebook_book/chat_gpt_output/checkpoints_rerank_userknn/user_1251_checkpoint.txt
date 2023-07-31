@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. Les Misérables by Victor Hugo
+3. Great Expectations by Charles Dickens
+4. Dracula by Bram Stoker
+5. Sense and Sensibility by Jane Austen
+6. Frankenstein by Mary Shelley
+7. To the Lighthouse by Virginia Woolf
+8. Wuthering Heights by Emily Bronte
+9. Nineteen Eighty-Four by George Orwell
+10. A Tale of Two Cities by Charles Dickens
+11. The Bell Jar by Sylvia Plath
+12. Night by Elie Wiesel
+13. The Color of Water by James McBride
+14. The Scarlet Pimpernel by Baroness Orczy
+15. Johnny the Homicidal Maniac by Jhonen Vasquez
+16. The Messenger by Markus Zusak
+17. Angels & Demons by Dan Brown
+18. The Ruins by Scott Smith
+19. Book of Revelation by Rupert Thomson
+20. Dragonlance Adventures by Tracy Hickman and Margaret Weis
+21. Macbeth by William Shakespeare
+22. Anthem by Ayn Rand
+23. Mockingjay by Suzanne Collins
+24. Twilight by Stephenie Meyer
+25. Fear and Loathing in Las Vegas by Hunter S. Thompson
+26. Peter and the Shadow Thieves by Dave Barry and Ridley Pearson
+27. Vampire: The Requiem by White Wolf Publishing
+28. The Shadow of the Wind by Carlos Ruiz Zafón
+29. The Legend of Sleepy Hollow by Washington Irving
+30. Dealing with Dragons by Patricia C. Wrede
+31. Eldest by Christopher Paolini
+32. The Girl Who Played with Fire by Stieg Larsson
+33. The Watchmen by Alan Moore and Dave Gibbons
+34. Uncle Tom's Cabin by Harriet Beecher Stowe
+35. Dry by Augusten Burroughs
+36. Percy Jackson & the Olympians by Rick Riordan
+37. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+38. Stardust by Neil Gaiman
+39. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+40. Chelsea Chelsea Bang Bang by Chelsea Handler
+41. The Lord of the Rings by J.R.R. Tolkien
+42. Sarah's Key by Tatiana de Rosnay
+43. Dead Until Dark by Charlaine Harris
+44. Pet Sematary by Stephen King
+45. Catching Fire by Suzanne Collins
+46. The Taming of the Shrew by William Shakespeare
+47. A Wolf at the Table by Augusten Burroughs
+48. Inferno by Dante Alighieri
+49. The Joy Luck Club by Amy Tan
+50. The Other Boleyn Girl by Philippa Gregory

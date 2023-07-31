@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Muse
+2. Radiohead
+3. Coldplay
+4. Keane
+5. The Killers
+6. Snow Patrol
+7. Kings of Leon
+8. Foo Fighters
+9. Red Hot Chili Peppers
+10. Oasis
+11. Arctic Monkeys
+12. Franz Ferdinand
+13. The Strokes
+14. U2
+15. Michael Jackson
+16. The Beatles
+17. Florence + the Machine
+18. Stereophonics
+19. James Blunt
+20. Friendly Fires
+21. Switchfoot
+22. Jason Mraz
+23. Daft Punk
+24. Kasabian
+25. Elliott Smith
+26. Explosions in the Sky
+27. Hans Zimmer
+28. Porcupine Tree
+29. Gorillaz
+30. Nelly Furtado
+31. Mika
+32. Paramore
+33. The Kooks
+34. Two Door Cinema Club
+35. Justice
+36. Cut Copy
+37. Sophie Ellis-Bextor
+38. Camouflage
+39. ABC
+40. Madonna
+41. La Roux
+42. Sade
+43. Michael Bublé
+44. Wham!
+45. ABC
+46. ABC
+47. ABC
+48. ABC
+49. ABC
+50. ABC
+
+Note: The last few recommendations are repeated due to a lack of data.

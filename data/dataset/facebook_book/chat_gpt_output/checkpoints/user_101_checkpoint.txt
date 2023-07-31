@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. The Catcher in the Rye by J.D. Salinger
+4. Slaughterhouse-Five by Kurt Vonnegut
+5. The Road by Cormac McCarthy
+6. Fahrenheit 451 by Ray Bradbury
+7. The Stranger by Albert Camus
+8. Crime and Punishment by Fyodor Dostoevsky
+9. The Brothers Karamazov by Fyodor Dostoevsky
+10. The Trial by Franz Kafka
+11. One Hundred Years of Solitude by Gabriel Garcia Marquez
+12. The Great Gatsby by F. Scott Fitzgerald
+13. To Kill a Mockingbird by Harper Lee
+14. The Sun Also Rises by Ernest Hemingway
+15. The Old Man and the Sea by Ernest Hemingway
+16. For Whom the Bell Tolls by Ernest Hemingway
+17. The Sound and the Fury by William Faulkner
+18. As I Lay Dying by William Faulkner
+19. The Grapes of Wrath by John Steinbeck
+20. East of Eden by John Steinbeck
+21. The Picture of Dorian Gray by Oscar Wilde
+22. The Importance of Being Earnest by Oscar Wilde
+23. Heart of Darkness by Joseph Conrad
+24. Lord of the Flies by William Golding
+25. Animal Farm by George Orwell
+26. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+27. The Martian by Andy Weir
+28. The Hunger Games by Suzanne Collins
+29. Catching Fire by Suzanne Collins
+30. Mockingjay by Suzanne Collins
+31. The Girl with the Dragon Tattoo by Stieg Larsson
+32. The Girl Who Played with Fire by Stieg Larsson
+33. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+34. The Da Vinci Code by Dan Brown
+35. Angels and Demons by Dan Brown
+36. Inferno by Dan Brown
+37. The Name of the Rose by Umberto Eco
+38. The Shadow of the Wind by Carlos Ruiz Zafón
+39. The Time Traveler's Wife by Audrey Niffenegger
+40. The Alchemist by Paulo Coelho
+41. The Kite Runner by Khaled Hosseini
+42. A Thousand Splendid Suns by Khaled Hosseini
+43. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+44. The God of Small Things by Arundhati Roy
+45. The Handmaid's Tale by Margaret Atwood
+46. The Blind Assassin by Margaret Atwood
+47. The Road to Serfdom by Friedrich Hayek
+48. The Shock Doctrine by Naomi Klein
+49. The End

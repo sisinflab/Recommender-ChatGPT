@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Killers
+2. White Lies
+3. Interpol
+4. Japan
+5. Hurts
+6. Franz Ferdinand
+7. Keane
+8. Kaiser Chiefs
+9. Editors
+10. Blur
+11. Ladytron
+12. The Clash
+13. Tears for Fears
+14. Late of the Pier
+15. Crystal Castles
+16. Kasabian
+17. The Smiths
+18. Cut Copy
+19. The Good, the Bad & the Queen
+20. Echo & The Bunnymen
+21. Arcade Fire
+22. Ladyhawke
+23. Hard-Fi
+24. Gorillaz
+25. Ramones
+26. Two Door Cinema Club
+27. Visage
+28. Joy Division
+29. The Strokes
+30. Blondie
+31. Depeche Mode
+32. Radiohead
+33. Nirvana
+34. Muse
+35. Pink Floyd
+36. Led Zeppelin
+37. Metallica
+38. Iron Maiden
+39. Pearl Jam
+40. The Beatles
+41. Duran Duran
+42. Arctic Monkeys
+43. Placebo
+44. Michael Jackson
+45. a-ha
+46. Björk
+47. Daft Punk
+48. Nine Inch Nails
+49. Linkin Park
+50. System of a Down

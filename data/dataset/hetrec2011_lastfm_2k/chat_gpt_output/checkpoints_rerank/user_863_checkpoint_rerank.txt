@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Kings of Leon
+2. Franz Ferdinand
+3. Crystal Castles
+4. The Ting Tings
+5. Friendly Fires
+6. Arctic Monkeys
+7. Digitalism
+8. MGMT
+9. The Killers
+10. Muse
+11. Lady Gaga
+12. The Beatles
+13. Amy Winehouse
+14. The Kooks
+15. Paramore
+16. Metric
+17. Klaxons
+18. Coldplay
+19. Justice
+20. Placebo
+21. The Strokes
+22. Queens of the Stone Age
+23. The Bravery
+24. Fischerspooner
+25. Vive la Fête
+26. Kaiser Chiefs
+27. Simian Mobile Disco
+28. Yelle
+29. Incubus
+30. Yeah Yeah Yeahs
+31. Ladyhawke
+32. Keane
+33. The Presets
+34. Daft Punk
+35. Radiohead
+36. Nirvana
+37. Led Zeppelin
+38. Pink Floyd
+39. Metallica
+40. Michael Jackson
+41. Pearl Jam
+42. a-ha
+43. Björk
+44. Nine Inch Nails
+45. Linkin Park
+46. Duran Duran
+47. Blur
+48. Iron Maiden
+49. Depeche Mode
+50. The Cure

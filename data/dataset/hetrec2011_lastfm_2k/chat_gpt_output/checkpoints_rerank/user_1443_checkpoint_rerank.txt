@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Queen
+2. Pink Floyd
+3. Led Zeppelin
+4. The Beatles
+5. Guns N' Roses
+6. AC/DC
+7. The Doors
+8. Bon Jovi
+9. R.E.M.
+10. Dire Straits
+11. Ramones
+12. Scorpions
+13. Poison
+14. Mamonas Assassinas
+15. Legião Urbana
+16. Engenheiros do Hawaii
+17. Angra
+18. The Cranberries
+19. Cyndi Lauper
+20. Simon & Garfunkel
+21. Elvis Presley
+22. Eric Clapton
+23. Katie Melua
+24. Pato Fu
+25. Cássia Eller
+26. Cazuza
+27. Skid Row
+28. Britney Spears
+29. Lady Gaga
+30. Christina Aguilera
+31. Madonna
+32. Rihanna
+33. Shakira
+34. Katy Perry
+35. Avril Lavigne
+36. Taylor Swift
+37. Evanescence
+38. Beyoncé
+39. U2
+40. 30 Seconds to Mars
+41. Muse
+42. Kylie Minogue
+43. Miley Cyrus
+44. Radiohead
+45. Ke$ha
+46. Duran Duran
+47. Coldplay
+48. Blur
+49. Arctic Monkeys
+50. Placebo

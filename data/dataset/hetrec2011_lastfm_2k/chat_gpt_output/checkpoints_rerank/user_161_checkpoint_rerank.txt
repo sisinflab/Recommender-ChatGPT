@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Rammstein
+2. Slipknot
+3. In Flames
+4. Arch Enemy
+5. Dark Tranquillity
+6. Deathstars
+7. Fear Factory
+8. DevilDriver
+9. The Birthday Massacre
+10. Ayria
+11. Akira Yamaoka
+12. Static-X
+13. Enigma
+14. Daft Punk
+15. Muse
+16. Radiohead
+17. Nine Inch Nails
+18. Iron Maiden
+19. Metallica
+20. Pearl Jam
+21. Nirvana
+22. Led Zeppelin
+23. Pink Floyd
+24. The Beatles
+25. U2
+26. 30 Seconds to Mars
+27. Arctic Monkeys
+28. Placebo
+29. The Killers
+30. My Chemical Romance
+31. Green Day
+32. Duran Duran
+33. Depeche Mode
+34. Madonna
+35. Lady Gaga
+36. Christina Aguilera
+37. Beyoncé
+38. Rihanna
+39. Shakira
+40. Katy Perry
+41. Avril Lavigne
+42. Taylor Swift
+43. Evanescence
+44. Glee Cast
+45. Ke$ha
+46. Blur
+47. Coldplay
+48. Michael Jackson
+49. Björk
+50. Black Eyed Peas

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter by J.K. Rowling
+2. The Lord of the Rings by J.R.R. Tolkien
+3. The Hobbit by J.R.R. Tolkien
+4. The Hunger Games by Suzanne Collins
+5. Catching Fire by Suzanne Collins
+6. Mockingjay by Suzanne Collins
+7. The Giver by Lois Lowry
+8. Animal Farm by George Orwell
+9. Nineteen Eighty-Four by George Orwell
+10. The Great Gatsby by F. Scott Fitzgerald
+11. To Kill a Mockingbird by Harper Lee
+12. The Catcher in the Rye by J.D. Salinger
+13. Romeo and Juliet by William Shakespeare
+14. Complete Works of Shakespeare by William Shakespeare
+15. The Giving Tree by Shel Silverstein
+16. Where the Wild Things Are by Maurice Sendak
+17. Alice's Adventures in Wonderland by Lewis Carroll
+18. Through the Looking-Glass by Lewis Carroll
+19. The BFG by Roald Dahl
+20. Charlie and the Chocolate Factory by Roald Dahl
+21. Matilda by Roald Dahl
+22. James and the Giant Peach by Roald Dahl
+23. The Secret Garden by Frances Hodgson Burnett
+24. Little Women by Louisa May Alcott
+25. The Chronicles of Narnia by C.S. Lewis
+26. Watership Down by Richard Adams
+27. The Outsiders by S.E. Hinton
+28. Flowers in the Attic by V.C. Andrews
+29. The Lovely Bones by Alice Sebold
+30. The Host by Stephenie Meyer
+31. Twilight by Stephenie Meyer
+32. New Moon by Stephenie Meyer
+33. Eclipse by Stephenie Meyer
+34. Breaking Dawn by Stephenie Meyer
+35. The Vampire Lestat by Anne Rice
+36. Dead Until Dark by Charlaine Harris
+37. Club Dead by Charlaine Harris
+38. Definitely Dead by Charlaine Harris
+39. Dead and Gone by Charlaine Harris
+40. Dead in the Family by Charlaine Harris
+41. The Lost Boy by Dave Pelzer
+42. Tuesdays with Morrie by Mitch Albom
+43. The Five People You Meet in Heaven by Mitch Albom
+44. Guinness World Records by Guinness World Records
+45. The Zombie Survival Guide by Max Brooks
+46. The Luxe by Anna Godbersen
+47. A Series of Unfortunate Events by Lemony Snicket
+48. Wicked: The Life and Times of the Wicked Witch of the West by Gregory Maguire
+49. Haunted by Meg Cabot
+50. Speak by Laurie Halse Anderson

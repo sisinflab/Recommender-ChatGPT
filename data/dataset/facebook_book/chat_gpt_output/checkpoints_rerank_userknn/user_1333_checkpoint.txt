@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird
+2. The Catcher in the Rye
+3. Nineteen Eighty-Four
+4. The Handmaid's Tale
+5. The Great Gatsby
+6. Brave New World
+7. The Lord of the Rings
+8. The Hobbit
+9. The Picture of Dorian Gray
+10. Frankenstein
+11. Don Quixote
+12. Crime and Punishment
+13. The Count of Monte Cristo
+14. The Old Man and the Sea
+15. Inferno (Dante)
+16. The Little Prince
+17. Alice's Adventures in Wonderland
+18. The Phantom Tollbooth
+19. Tess of the d'Urbervilles
+20. The Scarlet Letter
+21. Symposium (Plato)
+22. A Brief History of Time
+23. Utopia (book)
+24. The Tipping Point
+25. Freakonomics
+26. The Fall of the House of Usher
+27. Lord of the Flies
+28. Ender's Game
+29. The Man in the High Castle
+30. Fahrenheit 451
+31. The Road
+32. The Fall of Hyperion
+33. The Name of the Wind
+34. My Horizontal Life
+35. Thank You for Smoking (novel)
+36. Darkly Dreaming Dexter
+37. The Kite Runner
+38. A Series of Unfortunate Events
+39. Harry Potter
+40. Uglies
+41. Fallen (Kate novel)
+42. The Prodigal Daughter
+43. Reviving Ophelia
+44. The Chosen (Potok novel)
+45. On the Road
+46. Fear and Loathing in Las Vegas
+47. Old Farmer's Almanac
+48. Nancy Drew
+49. Teaching with Calvin and Hobbes
+50. Religious text

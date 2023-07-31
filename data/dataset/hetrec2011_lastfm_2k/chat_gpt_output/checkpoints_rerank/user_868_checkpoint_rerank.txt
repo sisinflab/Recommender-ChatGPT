@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Tiësto
+2. Rammstein
+3. Paul van Dyk
+4. ATB
+5. Serj Tankian
+6. OneRepublic
+7. Moby
+8. Apocalyptica
+9. Within Temptation
+10. Muse
+11. Benny Benassi
+12. Armin van Buuren
+13. System of a Down
+14. Lady Gaga
+15. Queen
+16. Nautilus Pompilius
+17. Pink Floyd
+18. Radiohead
+19. Nirvana
+20. Led Zeppelin
+21. Metallica
+22. Iron Maiden
+23. Michael Jackson
+24. The Beatles
+25. U2
+26. 30 Seconds to Mars
+27. Evanescence
+28. Muse
+29. Coldplay
+30. The Killers
+31. My Chemical Romance
+32. Green Day
+33. The Cure
+34. Depeche Mode
+35. Madonna
+36. Beyoncé
+37. Rihanna
+38. Shakira
+39. Katy Perry
+40. Avril Lavigne
+41. Taylor Swift
+42. Miley Cyrus
+43. Ke$ha
+44. Duran Duran
+45. Blur
+46. Arctic Monkeys
+47. Placebo
+48. Nine Inch Nails
+49. Daft Punk
+50. Linkin Park

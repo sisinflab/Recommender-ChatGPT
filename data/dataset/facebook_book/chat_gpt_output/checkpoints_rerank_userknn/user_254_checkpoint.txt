@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Brothers Karamazov by Fyodor Dostoevsky
+2. Notes from Underground by Fyodor Dostoevsky
+3. The Great Gatsby by F. Scott Fitzgerald
+4. The Grapes of Wrath by John Steinbeck
+5. A Farewell to Arms by Ernest Hemingway
+6. The Catcher in the Rye by J.D. Salinger
+7. One Hundred Years of Solitude by Gabriel Garcia Marquez
+8. Memoirs of a Geisha by Arthur Golden
+9. The Bell Jar by Sylvia Plath
+10. The Scarlet Letter by Nathaniel Hawthorne
+11. The Alchemist by Paulo Coelho
+12. Adventures of Huckleberry Finn by Mark Twain
+13. The Hobbit by J.R.R. Tolkien
+14. The Kite Runner by Khaled Hosseini
+15. War and Peace by Leo Tolstoy
+16. The Old Man and the Sea by Ernest Hemingway
+17. The Sound and the Fury by William Faulkner
+18. Outlander by Diana Gabaldon
+19. The Story of Edgar Sawtelle by David Wroblewski
+20. Beyond Good and Evil by Friedrich Nietzsche
+21. The Tipping Point by Malcolm Gladwell
+22. Pet Sematary by Stephen King
+23. Geek Love by Katherine Dunn
+24. The Giver by Lois Lowry
+25. Number the Stars by Lois Lowry
+26. Surely You're Joking, Mr. Feynman! by Richard Feynman
+27. Winnie-the-Pooh by A.A. Milne
+28. Inherit the Wind by Jerome Lawrence and Robert E. Lee
+29. Strange Case of Dr Jekyll and Mr Hyde by Robert Louis Stevenson
+30. Bhagavad Gita by Anonymous
+31. A Tree Grows in Brooklyn by Betty Smith
+32. Dubliners by James Joyce
+33. In Cold Blood by Truman Capote
+34. Maurice by E.M. Forster
+35. Othello by William Shakespeare
+36. The Importance of Being Earnest by Oscar Wilde
+37. A Room of One's Own by Virginia Woolf
+38. Flowers in the Attic by V.C. Andrews
+39. The Secret Life of Bees by Sue Monk Kidd
+40. The Year of Living Biblically by A.J. Jacobs
+41. Among the Impostors by Margaret Peterson Haddix
+42. This Side of Paradise by F. Scott Fitzgerald
+43. The Sandman by Neil Gaiman
+44. The Secrets of the Immortal Nicholas Flamel by Michael Scott
+45. A New Earth by Eckhart Tolle
+46. Teaching with Calvin and Hobbes by Linda Holmen
+47. Zeitoun by Dave Eggers
+48. Naked

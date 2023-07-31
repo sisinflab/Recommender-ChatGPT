@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Fault in Our Stars by John Green
+2. Divergent by Veronica Roth
+3. The Maze Runner by James Dashner
+4. The Hunger Games by Suzanne Collins
+5. If I Stay by Gayle Forman
+6. Looking for Alaska by John Green
+7. Uglies by Scott Westerfeld
+8. The Book Thief by Markus Zusak
+9. Thirteen Reasons Why by Jay Asher
+10. Paper Towns by John Green
+11. The City of Ember by Jeanne DuPrau
+12. The Secret Life of Bees by Sue Monk Kidd
+13. Before I Die by Jenny Downham
+14. The Bell Jar by Sylvia Plath
+15. Impulse by Ellen Hopkins
+16. Burned by Ellen Hopkins
+17. The Messenger by Markus Zusak
+18. Romeo and Juliet by William Shakespeare
+19. Lock and Key by Sarah Dessen
+20. The Legend of Sleepy Hollow by Washington Irving
+21. A Lion Among Men by Gregory Maguire
+22. Fear and Loathing in Las Vegas by Hunter S. Thompson
+23. Stolen by Lucy Christopher
+24. The Watchmen by Alan Moore
+25. The Long Hard Road Out of Hell by Marilyn Manson
+26. What I Saw and How I Lied by Judy Blundell
+27. Breaking Point by Alex Flinn
+28. Under the Dome by Stephen King
+29. A Million Little Pieces by James Frey
+30. The Summoning by Kelley Armstrong
+31. Tricks by Ellen Hopkins
+32. Cut by Patricia McCormick
+33. Wake by Lisa McMann
+34. Go Ask Alice by Anonymous
+35. Wings by Aprilynne Pike
+36. Forever Odd by Dean Koontz
+37. Harry Potter by J.K. Rowling
+38. The Pigman by Paul Zindel
+39. Luna by Julie Anne Peters
+40. Darkfever by Karen Marie Moning
+41. Glass by Ellen Hopkins
+42. Inkheart by Cornelia Funke
+43. Catching Fire by Suzanne Collins
+44. Son of a Witch by Gregory Maguire
+45. Brother Odd by Dean Koontz
+46. The Southern Vampire Mysteries by Charlaine Harris
+47. The Chocolate War by Robert Cormier
+48. The Haunting of Alaizabel Cray by Chris Wooding
+49. Wuthering Heights by Emily Bronte
+50. Reviving Ophelia by Mary Pipher

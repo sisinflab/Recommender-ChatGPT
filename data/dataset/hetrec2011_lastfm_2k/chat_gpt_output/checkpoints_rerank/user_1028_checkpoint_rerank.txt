@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Muse
+2. Green Day
+3. Linkin Park
+4. Evanescence
+5. My Chemical Romance
+6. Paramore
+7. 30 Seconds to Mars
+8. Nirvana
+9. The Used
+10. Fall Out Boy
+11. Lady Gaga
+12. Katy Perry
+13. The Pretty Reckless
+14. Guns N' Roses
+15. The Rasmus
+16. Seether
+17. Nickelback
+18. The Hush Sound
+19. Nightwish
+20. Clint Mansell
+21. Hans Zimmer
+22. David Cook
+23. Britney Spears
+24. Christina Aguilera
+25. Madonna
+26. Rihanna
+27. Shakira
+28. Beyoncé
+29. U2
+30. Pink Floyd
+31. Radiohead
+32. Ke$ha
+33. Coldplay
+34. Arctic Monkeys
+35. Placebo
+36. The Killers
+37. Iron Maiden
+38. Led Zeppelin
+39. Metallica
+40. Michael Jackson
+41. Pearl Jam
+42. a-ha
+43. Björk
+44. System of a Down
+45. Daft Punk
+46. Nine Inch Nails
+47. Kelly Clarkson
+48. All Time Low
+49. P!nk
+50. Avenged Sevenfold

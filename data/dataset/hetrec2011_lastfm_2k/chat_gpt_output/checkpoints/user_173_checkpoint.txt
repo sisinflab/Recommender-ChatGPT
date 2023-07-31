@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Nirvana
+2. Pearl Jam
+3. Oasis
+4. The Clash
+5. The Rolling Stones
+6. U2
+7. The Killers
+8. The White Stripes
+9. Red Hot Chili Peppers
+10. Green Day
+11. Foo Fighters
+12. The Black Keys
+13. The Kooks
+14. The National
+15. Vampire Weekend
+16. Arcade Fire
+17. The Smithereens
+18. The Who
+19. The Kinks
+20. The Beach Boys
+21. The Velvet Underground
+22. The Byrds
+23. The Zombies
+24. The Monkees
+25. The Turtles
+26. The Mamas & The Papas
+27. The Lovin' Spoonful
+28. The Doors of Perception
+29. The Jimi Hendrix Experience
+30. The Grateful Dead
+31. Cream
+32. The Yardbirds
+33. The Animals
+34. The Hollies
+35. The Everly Brothers
+36. The Four Seasons
+37. The Temptations
+38. The Supremes
+39. The Jackson 5
+40. The Bee Gees
+41. The Eagles
+42. Fleetwood Mac
+43. The Doobie Brothers
+44. Steely Dan
+45. The Police
+46. Genesis
+47. Yes
+48. Rush
+49. Pink Floyd
+50. Led Zeppelin

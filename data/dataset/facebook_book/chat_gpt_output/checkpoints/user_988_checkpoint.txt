@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. A Thousand Splendid Suns by Khaled Hosseini
+2. The Remains of the Day by Kazuo Ishiguro
+3. Jane Eyre by Charlotte Bronte
+4. The Picture of Dorian Gray by Oscar Wilde
+5. Rebecca by Daphne du Maurier
+6. The Shadow of the Wind by Carlos Ruiz Zafón
+7. The Great Gatsby by F. Scott Fitzgerald
+8. The Catcher in the Rye by J.D. Salinger
+9. To Kill a Mockingbird by Harper Lee
+10. The Bell Jar by Sylvia Plath
+11. The Handmaid's Tale by Margaret Atwood
+12. The Hunger Games by Suzanne Collins
+13. The Lord of the Rings by J.R.R. Tolkien
+14. The Hobbit by J.R.R. Tolkien
+15. The Chronicles of Narnia by C.S. Lewis
+16. The Fault in Our Stars by John Green
+17. The Perks of Being a Wallflower by Stephen Chbosky
+18. The Secret History by Donna Tartt
+19. The Girl with the Dragon Tattoo by Stieg Larsson
+20. The Da Vinci Code by Dan Brown
+21. The Name of the Rose by Umberto Eco
+22. The Road by Cormac McCarthy
+23. The Stand by Stephen King
+24. The Shining by Stephen King
+25. The Silence of the Lambs by Thomas Harris
+26. The Talented Mr. Ripley by Patricia Highsmith
+27. The Picture of Dorian Gray by Oscar Wilde
+28. The Importance of Being Earnest by Oscar Wilde
+29. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+30. The Hound of the Baskervilles by Arthur Conan Doyle
+31. The Complete Stories and Poems by Edgar Allan Poe
+32. The Complete Works of William Shakespeare
+33. The Canterbury Tales by Geoffrey Chaucer
+34. The Divine Comedy by Dante Alighieri
+35. The Iliad by Homer
+36. The Odyssey by Homer
+37. The Aeneid by Virgil
+38. The Metamorphoses by Ovid
+39. The Inferno by Dante Alighieri
+40. The Decameron by Giovanni Boccaccio
+41. The Canterbury Tales by Geoffrey Chaucer
+42. The Faerie Queene by Edmund Spenser
+43. The Pilgrim's Progress by John Bunyan
+44. The Divine Comedy by Dante Alighieri
+45. The Prince by Niccolò Machiavelli
+46. Don Quixote by Miguel de Cervantes
+47. One Hundred Years of Solitude by Gabriel Garcia Marquez
+48. Love in the Time of Cholera by Gabriel Garcia Marquez
+49. Crime and Punishment by Fyodor Dostoev
+50. The Wise Man's Fear by Patrick Rothfuss

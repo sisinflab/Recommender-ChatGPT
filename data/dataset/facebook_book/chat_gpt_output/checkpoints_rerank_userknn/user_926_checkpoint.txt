@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. To Kill a Mockingbird by Harper Lee
+3. The Bell Jar by Sylvia Plath
+4. The Brothers Karamazov by Fyodor Dostoevsky
+5. Crime and Punishment by Fyodor Dostoevsky
+6. The Picture of Dorian Gray by Oscar Wilde
+7. 1984 by George Orwell
+8. Brave New World by Aldous Huxley
+9. One Hundred Years of Solitude by Gabriel Garcia Marquez
+10. Lolita by Vladimir Nabokov
+11. The Great Gatsby by F. Scott Fitzgerald
+12. The Hobbit by J.R.R. Tolkien
+13. Harry Potter series by J.K. Rowling
+14. The Lord of the Rings series by J.R.R. Tolkien
+15. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+16. The Hunger Games by Suzanne Collins
+17. The Name of the Wind by Patrick Rothfuss
+18. Slaughterhouse-Five by Kurt Vonnegut
+19. The Silence of the Lambs by Thomas Harris
+20. Dracula by Bram Stoker
+21. Frankenstein by Mary Shelley
+22. The Picture of Dorian Gray by Oscar Wilde
+23. The Phantom Tollbooth by Norton Juster
+24. Alice's Adventures in Wonderland by Lewis Carroll
+25. Through the Looking-Glass by Lewis Carroll
+26. The Art of Deception by Kevin Mitnick
+27. The Watchmen by Alan Moore
+28. The Stranger by Albert Camus
+29. The Fall of the House of Usher by Edgar Allan Poe
+30. The Rats by James Herbert
+31. Helter Skelter by Vincent Bugliosi
+32. Hannibal by Thomas Harris
+33. Something Wicked This Way Comes by Ray Bradbury
+34. The Hamlet by William Faulkner
+35. Don Quixote by Miguel de Cervantes
+36. Symposium by Plato
+37. Nicomachean Ethics by Aristotle
+38. Bible
+39. Religious text
+40. Welcome to the Monkey House by Kurt Vonnegut
+41. Girl, Interrupted by Susanna Kaysen
+42. Old Farmer's Almanac
+43. Raise High the Roof Beam, Carpenters and Seymour: An Introduction by J.D. Salinger
+44. Freakonomics by Steven Levitt and Stephen Dubner
+45. Rule of the Bone by Russell Banks
+46. Eggs by Jerry Spinelli
+47. City of Glass by Cassandra Clare
+48. City of Ashes by Cassandra Clare
+49. Weetzie Bat by Francesca Lia Block
+50. Pippi Longstocking by Astrid Lindgren

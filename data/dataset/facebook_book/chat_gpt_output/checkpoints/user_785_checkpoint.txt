@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Survivor by Chuck Palahniuk
+2. Slaughterhouse-Five by Kurt Vonnegut
+3. American Psycho by Bret Easton Ellis
+4. The Bell Jar by Sylvia Plath
+5. The Picture of Dorian Gray by Oscar Wilde
+6. The Road by Cormac McCarthy
+7. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+8. The Great Gatsby by F. Scott Fitzgerald
+9. The Sun Also Rises by Ernest Hemingway
+10. The Stranger by Albert Camus
+11. The Perks of Being a Wallflower by Stephen Chbosky
+12. The Handmaid's Tale by Margaret Atwood
+13. The Girl with the Dragon Tattoo by Stieg Larsson
+14. The Hunger Games by Suzanne Collins
+15. The Fault in Our Stars by John Green
+16. The Alchemist by Paulo Coelho
+17. The Da Vinci Code by Dan Brown
+18. The Shining by Stephen King
+19. The Stand by Stephen King
+20. The Lord of the Rings by J.R.R. Tolkien
+21. The Hobbit by J.R.R. Tolkien
+22. The Chronicles of Narnia by C.S. Lewis
+23. The Catcher in the Rye by J.D. Salinger
+24. The Giver by Lois Lowry
+25. The Maze Runner by James Dashner
+26. The Outsiders by S.E. Hinton
+27. The Secret History by Donna Tartt
+28. The Name of the Wind by Patrick Rothfuss
+29. The Dark Tower series by Stephen King
+30. The Dresden Files series by Jim Butcher
+31. The Wheel of Time series by Robert Jordan
+32. The Stormlight Archive series by Brandon Sanderson
+33. The Kingkiller Chronicle series by Patrick Rothfuss
+34. The Mistborn series by Brandon Sanderson
+35. The First Law trilogy by Joe Abercrombie
+36. The Lies of Locke Lamora by Scott Lynch
+37. The Blade Itself by Joe Abercrombie
+38. The Way of Kings by Brandon Sanderson
+39. The Final Empire by Brandon Sanderson
+40. The Wise Man's Fear by Patrick Rothfuss
+41. The Last Wish by Andrzej Sapkowski
+42. The Witcher series by Andrzej Sapkowski
+43. The Dark Tower: The Gunslinger by Stephen King
+44. The Dark Tower: The Drawing of the Three by Stephen King
+45. The Dark Tower: The Waste Lands by Stephen King
+46. The Dark Tower: Wizard and Glass by Stephen King
+47. The Dark Tower: Wolves of the Calla by Stephen King
+48. The Dark Tower: Song of Susannah by Stephen King
+49. The Dark Tower: The Dark Tower by Stephen King
+50

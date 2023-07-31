@@ -1,0 +1,54 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Matanza
+2. Legião Urbana
+3. Bob Dylan
+4. The Cure
+5. Alanis Morissette
+6. Killswitch Engage
+7. Avenged Sevenfold
+8. Nirvana
+9. AC/DC
+10. Iron Maiden
+11. The Who
+12. Guns N' Roses
+13. Panic! At the Disco
+14. Motörhead
+15. Exodus
+16. Slayer
+17. Oasis
+18. Tenacious D
+19. Lynyrd Skynyrd
+20. Apocalyptica
+21. Pitty
+22. Arctic Monkeys
+23. Megadeth
+24. Helloween
+25. The Libertines
+26. Bad Religion
+27. Stratovarius
+28. Morbid Angel
+29. Raul Seixas
+30. Norther
+31. NOFX
+32. Cannibal Corpse
+33. Angra
+34. Deep Purple
+35. Beirut
+36. Pink Floyd
+37. Led Zeppelin
+38. Metallica
+39. Michael Jackson
+40. Pearl Jam
+41. System of a Down
+42. Nine Inch Nails
+43. Linkin Park
+44. My Chemical Romance
+45. Green Day
+46. The Beatles
+47. U2
+48. Muse
+49. Coldplay
+50. Radiohead
+
+Note: Paramore, which is already in the user's list of liked artists, has been excluded from the recommendations.

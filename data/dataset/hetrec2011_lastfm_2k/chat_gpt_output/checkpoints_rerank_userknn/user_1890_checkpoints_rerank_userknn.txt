@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Slipknot
+2. System of a Down
+3. Korn
+4. Mudvayne
+5. Godsmack
+6. Rammstein
+7. Metallica
+8. Nirvana
+9. Guns N' Roses
+10. Avril Lavigne
+11. Linkin Park
+12. Papa Roach
+13. Three Days Grace
+14. Megadeth
+15. Iron Maiden
+16. Ozzy Osbourne
+17. AC/DC
+18. Rage Against the Machine
+19. Skid Row
+20. Whitesnake
+21. Helloween
+22. Dimmu Borgir
+23. Cradle of Filth
+24. DevilDriver
+25. Stone Sour
+26. Lynyrd Skynyrd
+27. The Prodigy
+28. Arctic Monkeys
+29. Muse
+30. The Killers
+31. Rise Against
+32. Machine Head
+33. Blind Guardian
+34. Static-X
+35. Good Charlotte
+36. Sum 41
+37. Cobra Starship
+38. Yellowcard
+39. Angels & Airwaves
+40. Mindless Self Indulgence
+41. Green Day
+42. Edguy
+43. Sonata Arctica
+44. Haste the Day
+45. Black Label Society
+46. Scar Symmetry
+47. Oomph!
+48. The 69 Eyes
+49. Bring Me The Horizon
+50. Kings of Leon

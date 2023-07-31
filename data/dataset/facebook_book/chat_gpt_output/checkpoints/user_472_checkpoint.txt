@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Interview with the Vampire by Anne Rice
+2. The Vampire Lestat by Anne Rice
+3. The Witching Hour by Anne Rice
+4. The Tale of the Body Thief by Anne Rice
+5. Memnoch the Devil by Anne Rice
+6. The Vampire Armand by Anne Rice
+7. Blood and Gold by Anne Rice
+8. Blackwood Farm by Anne Rice
+9. The Wolf Gift by Anne Rice
+10. The Mayfair Witches series by Anne Rice
+11. Hamlet by William Shakespeare
+12. Romeo and Juliet by William Shakespeare
+13. Othello by William Shakespeare
+14. King Lear by William Shakespeare
+15. The Tempest by William Shakespeare
+16. Twelfth Night by William Shakespeare
+17. A Midsummer Night's Dream by William Shakespeare
+18. The Merchant of Venice by William Shakespeare
+19. The Winter's Tale by William Shakespeare
+20. The Complete Works of William Shakespeare
+21. Life of Pi by Yann Martel
+22. Beatrice and Virgil by Yann Martel
+23. The High Mountains of Portugal by Yann Martel
+24. The Shadow of the Wind by Carlos Ruiz Zafón
+25. The Name of the Wind by Patrick Rothfuss
+26. The Lies of Locke Lamora by Scott Lynch
+27. The Blade Itself by Joe Abercrombie
+28. The Way of Kings by Brandon Sanderson
+29. The Black Prism by Brent Weeks
+30. The Night Angel Trilogy by Brent Weeks
+31. The Lightbringer Series by Brent Weeks
+32. The Lord of the Rings by J.R.R. Tolkien
+33. The Hobbit by J.R.R. Tolkien
+34. A Song of Ice and Fire series by George R.R. Martin
+35. The Wheel of Time series by Robert Jordan
+36. The Malazan Book of the Fallen series by Steven Erikson
+37. The First Law Trilogy by Joe Abercrombie
+38. The Kingkiller Chronicle series by Patrick Rothfuss
+39. The Dresden Files series by Jim Butcher
+40. The Mistborn Trilogy by Brandon Sanderson
+41. The Stormlight Archive series by Brandon Sanderson
+42. The Dark Tower series by Stephen King
+43. American Gods by Neil Gaiman
+44. Neverwhere by Neil Gaiman
+45. Good Omens by Neil Gaiman and Terry Pratchett
+46. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+47. The Martian by Andy Weir
+48. Ready Player One by Ernest Cline
+49. Ender's Game by Orson Scott Card
+50. Dune by Frank Herbert

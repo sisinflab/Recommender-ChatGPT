@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird
+2. The Kite Runner
+3. Memoirs of a Geisha
+4. The Hunger Games
+5. The Lovely Bones
+6. A Thousand Splendid Suns
+7. The Picture of Dorian Gray
+8. The Da Vinci Code
+9. The Lord of the Rings
+10. Great Expectations
+11. Romeo and Juliet
+12. World Without End (Follett novel)
+13. War and Peace
+14. The Pelican Brief
+15. The Good Earth
+16. The Secret (book)
+17. Ink Exchange
+18. The Thief of Always
+19. Alice's Adventures in Wonderland
+20. Thirteen Reasons Why
+21. Speak (novel)
+22. Tuesdays with Morrie
+23. The Last Lecture
+24. The Five People You Meet in Heaven
+25. The True Believer
+26. House of Night
+27. Maximum Ride
+28. Twilight (series)
+29. The Lucky One (novel)
+30. Dear John (novel)
+31. The Choice (novel)
+32. Along for the Ride
+33. The Guardian (novel)
+34. Pretties
+35. Suck It Up
+36. Cut (novel)
+37. Gossip Girl (novel series)
+38. Eragon
+39. Crank (novel)
+40. Sweet Valley High
+41. Nothing But the Truth (novel)
+42. Sense and Sensibility
+43. Impulse economy
+44. Fade (novel)
+45. Chicken Soup for the Soul
+46. Collected Ghost Stories
+47. The White Tiger
+48. The Queen's Fool
+49. At First Sight (novel)
+50. Marley & Me

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Guns N' Roses
+2. Metallica
+3. AC/DC
+4. Aerosmith
+5. System of a Down
+6. Slipknot
+7. Nirvana
+8. Iron Maiden
+9. Raimundos
+10. HammerFall
+11. Korn
+12. Def Leppard
+13. Edguy
+14. Mr. Big
+15. Creedence Clearwater Revival
+16. Eagles
+17. Johnny Cash
+18. Raul Seixas
+19. Legião Urbana
+20. Engenheiros do Hawaii
+21. Capital Inicial
+22. Cachorro Grande
+23. Rosa De Saron
+24. Avantasia
+25. O Teatro Mágico
+26. Skank
+27. Los Hermanos
+28. Lenine
+29. Muse
+30. Pink Floyd
+31. Radiohead
+32. U2
+33. 30 Seconds to Mars
+34. The Beatles
+35. Pearl Jam
+36. Led Zeppelin
+37. Arctic Monkeys
+38. Placebo
+39. The Killers
+40. Coldplay
+41. Duran Duran
+42. Depeche Mode
+43. Björk
+44. Daft Punk
+45. Nine Inch Nails
+46. Linkin Park
+47. My Chemical Romance
+48. Green Day
+49. The Cure
+50. Avril Lavigne

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Opeth
+2. Iron Maiden
+3. Mastodon
+4. Rush
+5. Agalloch
+6. Devin Townsend
+7. Death
+8. Dark Tranquillity
+9. Ensiferum
+10. Korpiklaani
+11. Municipal Waste
+12. Jethro Tull
+13. Frank Zappa
+14. King Diamond
+15. Stevie Ray Vaughan
+16. Bad Religion
+17. Cynic
+18. The Adicts
+19. Napalm Death
+20. Black Flag
+21. David Gilmour
+22. Marillion
+23. Pantera
+24. Metallica
+25. Slayer
+26. Megadeth
+27. Sepultura
+28. Kreator
+29. Bathory
+30. Black Sabbath
+31. Dimmu Borgir
+32. Arch Enemy
+33. In Flames
+34. Sodom
+35. Epica
+36. Nightwish
+37. Kamelot
+38. Paradise Lost
+39. Uriah Heep
+40. Rainbow
+41. Deep Purple
+42. Dream Theater
+43. Amorphis
+44. Blind Guardian
+45. Rammstein
+46. Pain
+47. Queens of the Stone Age
+48. Muse
+49. The Black Keys
+50. Nirvana

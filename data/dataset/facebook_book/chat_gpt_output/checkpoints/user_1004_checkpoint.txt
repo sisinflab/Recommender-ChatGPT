@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Naruto by Masashi Kishimoto
+2. One Piece by Eiichiro Oda
+3. Attack on Titan by Hajime Isayama
+4. Death Note by Tsugumi Ohba and Takeshi Obata
+5. Bleach by Tite Kubo
+6. Fairy Tail by Hiro Mashima
+7. Tokyo Ghoul by Sui Ishida
+8. My Hero Academia by Kohei Horikoshi
+9. Black Butler by Yana Toboso
+10. Sword Art Online by Reki Kawahara
+11. Fullmetal Alchemist: Brotherhood by Hiromu Arakawa
+12. Hunter x Hunter by Yoshihiro Togashi
+13. Jojo's Bizarre Adventure by Hirohiko Araki
+14. The Promised Neverland by Kaiu Shirai and Posuka Demizu
+15. Assassination Classroom by Yusei Matsui
+16. Akame ga Kill! by Takahiro and Tetsuya Tashiro
+17. Soul Eater by Atsushi Ohkubo
+18. Blue Exorcist by Kazue Kato
+19. Magi: The Labyrinth of Magic by Shinobu Ohtaka
+20. Claymore by Norihiro Yagi
+21. D.Gray-man by Katsura Hoshino
+22. Black Clover by Yuki Tabata
+23. Inuyasha by Rumiko Takahashi
+24. Code Geass: Lelouch of the Rebellion by Ichiro Okouchi and Goro Taniguchi
+25. Neon Genesis Evangelion by Yoshiyuki Sadamoto
+26. Mobile Suit Gundam by Yoshiyuki Tomino
+27. Dragon Ball by Akira Toriyama
+28. Yu-Gi-Oh! by Kazuki Takahashi
+29. Sailor Moon by Naoko Takeuchi
+30. Cardcaptor Sakura by CLAMP
+31. Fruits Basket by Natsuki Takaya
+32. Ouran High School Host Club by Bisco Hatori
+33. Skip Beat! by Yoshiki Nakamura
+34. Nana by Ai Yazawa
+35. Paradise Kiss by Ai Yazawa
+36. Love Hina by Ken Akamatsu
+37. Ranma 1/2 by Rumiko Takahashi
+38. Maison Ikkoku by Rumiko Takahashi
+39. Kimi ni Todoke by Karuho Shiina
+40. Toradora! by Yuyuko Takemiya
+41. The Melancholy of Haruhi Suzumiya by Nagaru Tanigawa
+42. Lucky Star by Kagami Yoshimizu
+43. K-On! by Kakifly
+44. Azumanga Daioh by Kiyohiko Azuma
+45. Nichijou by Keiichi Arawi
+44. The Devil in the White City by Erik Larson
+45. The Power of One by Bryce Courtenay
+46. The Pillars of the Earth by Ken Follett
+47. The Help by Kathryn Stockett
+48. Nine Stories by J.D. Salinger
+49. The Bell Jar by Sylvia Plath
+50. The Wise Man's Fear by Patrick Rothfuss

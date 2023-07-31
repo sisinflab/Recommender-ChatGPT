@@ -1,0 +1,43 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Running with Scissors by Augusten Burroughs
+2. A Wolf at the Table by Augusten Burroughs
+3. The Catcher in the Rye by J.D. Salinger
+4. 1984 by George Orwell
+5. Animal Farm by George Orwell
+6. Brave New World by Aldous Huxley
+7. Lord of the Flies by William Golding
+8. The Hunger Games by Suzanne Collins
+9. Catching Fire by Suzanne Collins
+10. Mockingjay by Suzanne Collins
+11. The Encyclopedia of Serial Killers by Michael Newton
+12. The Encyclopedia of Unsolved Crimes by Michael Newton
+13. The Complete Idiot's Guide to World History by Timothy C. Hall
+14. The Complete Idiot's Guide to American History by Alan Axelrod
+15. The Complete Idiot's Guide to Geography by Joseph Gonzalez
+16. The Complete Idiot's Guide to Literature by Jay Stevenson
+17. The Complete Idiot's Guide to Shakespeare by Laurie E. Maguire
+18. The Complete Idiot's Guide to Philosophy by Jay Stevenson
+19. The Complete Idiot's Guide to Psychology by Joni E. Johnston
+20. The Complete Idiot's Guide to Sociology by Jay Stevenson
+21. The Complete Idiot's Guide to Politics by Franco Scardino
+22. The Complete Idiot's Guide to Economics by Tom Gorman
+23. The Complete Idiot's Guide to Law by J.D. Sherry
+24. The Complete Idiot's Guide to Business by Dan Ramsey
+25. The Complete Idiot's Guide to Investing by Edward T. Koch
+26. The Complete Idiot's Guide to Personal Finance by Ken Little
+27. The Complete Idiot's Guide to Cooking by Ellen Brown
+28. The Complete Idiot's Guide to Wine by Tara Q. Thomas
+29. The Complete Idiot's Guide to Beer by Stuart A. Kallen
+30. The Complete Idiot's Guide to Gardening by Jane O'Connor
+31. The Complete Idiot's Guide to Home Repair by David J. Tenenbaum
+32. The Complete Idiot's Guide to Car Care and Repair by Dan Ramsey
+33. The Complete Idiot's Guide to Fitness by Claire Walter
+34. The Complete Idiot's Guide to Yoga by Joan Budilovsky
+35. The Complete Idiot's Guide to Weight Training by Deidre Johnson-Cane
+36. The Complete Idiot's Guide to Running by Bill Rodgers
+37. The Complete Idiot's Guide to Golf by Michelle McGann
+38. The Complete Idiot's Guide to Tennis by Joan V. Tenenbaum
+39. The Complete Idiot's Guide to Baseball by Johnny Bench
+40. The Complete Idiot's Guide to Football by Joe Theismann
+41. The Complete Idiot's Guide

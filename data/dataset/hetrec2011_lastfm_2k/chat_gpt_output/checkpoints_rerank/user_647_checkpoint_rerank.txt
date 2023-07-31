@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. Sigur Rós
+3. Cocteau Twins
+4. Hammock
+5. Slowdive
+6. My Bloody Valentine
+7. Explosions in the Sky
+8. Mono
+9. M83
+10. The Album Leaf
+11. God Is an Astronaut
+12. The Radio Dept.
+13. Massive Attack
+14. Portishead
+15. The Smashing Pumpkins
+16. Death Cab for Cutie
+17. The Brian Jonestown Massacre
+18. Stereolab
+19. Telefon Tel Aviv
+20. Feist
+21. Apparat
+22. Air
+23. The Cardigans
+24. The Smiths
+25. Blur
+26. Arctic Monkeys
+27. Placebo
+28. Nirvana
+29. Iron Maiden
+30. Led Zeppelin
+31. Metallica
+32. Michael Jackson
+33. Pearl Jam
+34. Björk
+35. Nine Inch Nails
+36. System of a Down
+37. Daft Punk
+38. Linkin Park
+39. Avenged Sevenfold
+40. Green Day
+41. My Chemical Romance
+42. The Cure
+43. U2
+44. Muse
+45. Pink Floyd
+46. The Beatles
+47. Duran Duran
+48. Kylie Minogue
+49. Madonna
+50. Beyoncé

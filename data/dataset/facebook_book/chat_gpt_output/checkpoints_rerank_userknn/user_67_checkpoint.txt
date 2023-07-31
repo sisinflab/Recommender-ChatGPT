@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter
+2. The Hunger Games
+3. Mockingjay
+4. Catching Fire
+5. The Giver
+6. The Lord of the Rings
+7. A Wrinkle in Time
+8. Ender's Game
+9. The Lovely Bones
+10. The Girl with the Dragon Tattoo
+11. The True Confessions of Charlotte Doyle
+12. A Tale of Two Cities
+13. Jane Eyre
+14. The Outsiders
+15. Brave New World
+16. Gone (novel series)
+17. Diary of a Wimpy Kid (series)
+18. Angels & Demons
+19. Northanger Abbey
+20. Running Out of Time (novel)
+21. A Great and Terrible Beauty
+22. Uglies
+23. Beautiful Creatures (novel)
+24. Twilight (series)
+25. Maximum Ride
+26. The Last Days (Masterson novel)
+27. Ella Enchanted
+28. The Key (Curley novel)
+29. The Diary of a Young Girl
+30. The Time Traveler's Wife
+31. Outlander (novel)
+32. The Notebook (novel)
+33. Hard Times
+34. The Host (novel)
+35. Identical (novel)
+36. The Dead and the Gone
+37. Peeps (novel)
+38. Seeds of Yesterday
+39. Generation Dead
+40. City of Ashes
+41. The Morganville Vampires
+42. Stargirl (novel)
+43. The Named
+44. The Hitchhiker's Guide to the Galaxy (novel)
+45. The Little Prince
+46. Emma (novel)
+47. Impulse economy
+48. A Demon in My View
+49. Bluebeard (Vonnegut novel)
+50. Feed (Anderson novel)

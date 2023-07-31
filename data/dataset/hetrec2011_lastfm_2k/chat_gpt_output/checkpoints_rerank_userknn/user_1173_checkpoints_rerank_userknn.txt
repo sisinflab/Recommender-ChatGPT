@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Massive Attack
+3. Nine Inch Nails
+4. The Smiths
+5. Joy Division
+6. Talking Heads
+7. David Bowie
+8. Pet Shop Boys
+9. LCD Soundsystem
+10. Aphex Twin
+11. Boards of Canada
+12. The Jesus and Mary Chain
+13. R.E.M.
+14. My Bloody Valentine
+15. Hot Chip
+16. Crystal Castles
+17. Air
+18. Serge Gainsbourg
+19. Saint Etienne
+20. XTC
+21. Deerhunter
+22. M83
+23. Yeah Yeah Yeahs
+24. Stars of the Lid
+25. Primal Scream
+26. Cabaret Voltaire
+27. Electronic
+28. Duran Duran
+29. Daft Punk
+30. Kraftwerk
+31. New Order
+32. The Cure
+33. Morrissey
+34. Tears for Fears
+35. Florence + the Machine
+36. Goldfrapp
+37. Hooverphonic
+38. Peter Gabriel
+39. The Smashing Pumpkins
+40. Madonna
+41. Soulwax
+42. Suede
+43. Orchestral Manoeuvres in the Dark
+44. a-ha
+45. Yazoo
+46. Queen
+47. IAMX
+48. U2
+49. Editors
+50. The xx

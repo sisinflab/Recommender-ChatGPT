@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Arctic Monkeys
+3. Queens of the Stone Age
+4. The Killers
+5. Red Hot Chili Peppers
+6. Coldplay
+7. System of a Down
+8. Pearl Jam
+9. Smashing Pumpkins
+10. Tool
+11. Deftones
+12. Muse (if not already listened to extensively)
+13. Foo Fighters (if not already listened to extensively)
+14. Nirvana (if not already listened to extensively)
+15. Rage Against the Machine (if not already listened to extensively)
+16. Green Day (if not already listened to extensively)
+17. Blink-182 (if not already listened to extensively)
+18. My Chemical Romance (if not already listened to extensively)
+19. Linkin Park
+20. Slipknot
+21. Metallica
+22. Iron Maiden
+23. Black Sabbath
+24. Led Zeppelin
+25. AC/DC
+26. Guns N' Roses
+27. Aerosmith
+28. Bon Jovi
+29. Van Halen
+30. Kiss
+31. Motley Crue
+32. Def Leppard
+33. Ozzy Osbourne
+34. Alice Cooper
+35. Marilyn Manson (if not already listened to extensively)
+36. Korn
+37. System of a Down
+38. Disturbed
+39. Slipknot
+40. Avenged Sevenfold (if not already listened to extensively)
+41. Bullet for My Valentine
+42. Trivium
+43. Lamb of God
+44. Mastodon
+45. Gojira
+46. Opeth
+47. Dream Theater
+48. Tool (if not already listened to extensively)
+49. A Perfect Circle
+50. Nine Inch Nails (if not already listened to extensively)

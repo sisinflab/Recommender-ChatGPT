@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Bullet for My Valentine
+2. Killswitch Engage
+3. A Day to Remember
+4. All Shall Perish
+5. Whitechapel
+6. Cannibal Corpse
+7. Hatebreed
+8. Emmure
+9. Suicide Silence
+10. Sepultura
+11. Raimundos
+12. Jason Mraz
+13. Backstreet Boys
+14. Justin Timberlake
+15. Limp Bizkit
+16. 3OH!3
+17. Britney Spears
+18. Lady Gaga
+19. Christina Aguilera
+20. Rihanna
+21. Beyoncé
+22. Katy Perry
+23. Avril Lavigne
+24. Taylor Swift
+25. Paramore
+26. Madonna
+27. Shakira
+28. Muse
+29. Pink Floyd
+30. Radiohead
+31. Coldplay
+32. Ke$ha
+33. Duran Duran
+34. Arctic Monkeys
+35. Placebo
+36. The Killers
+37. Nirvana
+38. Iron Maiden
+39. Led Zeppelin
+40. Metallica
+41. Michael Jackson
+42. Pearl Jam
+43. a-ha
+44. Björk
+45. System of a Down
+46. Daft Punk
+47. Nine Inch Nails
+48. Linkin Park
+49. My Chemical Romance
+50. Green Day

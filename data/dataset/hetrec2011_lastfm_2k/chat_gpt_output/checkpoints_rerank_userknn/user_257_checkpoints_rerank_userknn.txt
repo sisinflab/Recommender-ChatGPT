@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations are:
+
+1. Depeche Mode
+2. Skinny Puppy
+3. Covenant
+4. Mesh
+5. VNV Nation
+6. Apoptygma Berzerk
+7. Combichrist
+8. Assemblage 23
+9. The Crüxshadows
+10. mind.in.a.box
+11. Ayria
+12. Wolfsheim
+13. Blutengel
+14. Diary of Dreams
+15. Hocico
+16. Crystal Castles
+17. Ladytron
+18. Recoil
+19. Front Line Assembly
+20. KMFDM
+21. New Order
+22. The Birthday Massacre
+23. Clan of Xymox
+24. L'Âme Immortelle
+25. She Wants Revenge
+26. Gary Numan
+27. Kraftwerk
+28. Howard Jones
+29. The Cure
+30. Massive Attack
+31. Burial
+32. Telefon Tel Aviv
+33. Aphex Twin
+34. Echo & The Bunnymen
+35. The Knife
+36. Sophie Ellis-Bextor
+37. Muse
+38. Placebo
+39. The Killers
+40. Coldplay
+41. Electric Light Orchestra
+42. Billy Idol
+43. Beck
+44. AFI
+45. The Offspring
+46. Deftones
+47. Mew
+48. Type O Negative
+49. Killing Joke
+50. Lady Gaga

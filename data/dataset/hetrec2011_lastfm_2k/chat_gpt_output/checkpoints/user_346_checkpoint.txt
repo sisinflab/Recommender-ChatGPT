@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Muse
+3. The Strokes
+4. The Black Keys
+5. Florence + The Machine
+6. Tame Impala
+7. Vampire Weekend
+8. Arcade Fire
+9. Queens of the Stone Age
+10. The National
+11. The xx
+12. Arctic Monkeys (if not already listened to all albums)
+13. The Killers (if not already listened to all albums)
+14. Amy Winehouse (if not already listened to all albums)
+15. Pitty (if not already listened to all albums)
+16. Lady Gaga (if not already listened to all albums)
+17. Elvis Presley (if not already listened to all albums)
+18. Duffy (if not already listened to all albums)
+19. The Raveonettes (if not already listened to all albums)
+20. Yeah Yeah Yeahs (if not already listened to all albums)
+21. blink-182 (if not already listened to all albums)
+22. Green Day (if not already listened to all albums)
+23. Pixies (if not already listened to all albums)
+24. New Order (if not already listened to all albums)
+25. Cansei de Ser Sexy (if not already listened to all albums)
+26. Katy Perry (if not already listened to all albums)
+27. The Kooks (if not already listened to all albums)
+28. U2 (if not already listened to all albums)
+29. The Offspring (if not already listened to all albums)
+30. The Pretty Reckless (if not already listened to all albums)
+31. We Are Scientists (if not already listened to all albums)
+32. Nirvana (if not already listened to all albums)
+33. My Chemical Romance (if not already listened to all albums)
+34. Bloc Party (if not already listened to all albums)
+35. Marilyn Manson (if not already listened to all albums)
+36. Hot Chip (if not already listened to all albums)
+37. Foo Fighters (if not already listened to all albums)
+38. Franz Ferdinand (if not already listened to all albums)
+39. Kylie Minogue (if not already listened to all albums)
+40. The Subways (if not already listened to all albums)
+41. Madonna (if not already listened to all albums)
+42. Ke$ha (if not already listened to all albums)
+43. Dangerous Muse (if not already listened to all albums)
+44. Britney Spears (if not already listened to all albums)
+45. Mando Diao (if not already listened to all albums)
+46. The White Stripes (if not already listened to all albums)
+47. HIM (if not already listened to all albums)
+48. The Hives
+49. The Raconteurs
+50. The Arctic Monkeys (if already listened to all albums, listen to

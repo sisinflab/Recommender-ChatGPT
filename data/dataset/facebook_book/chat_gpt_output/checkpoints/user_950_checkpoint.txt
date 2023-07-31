@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Catcher in the Rye by J.D. Salinger
+3. 1984 by George Orwell
+4. Animal Farm by George Orwell
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Pride and Prejudice by Jane Austen
+7. Jane Eyre by Charlotte Bronte
+8. Wuthering Heights by Emily Bronte
+9. The Picture of Dorian Gray by Oscar Wilde
+10. Frankenstein by Mary Shelley
+11. Dracula by Bram Stoker
+12. The Adventures of Huckleberry Finn by Mark Twain
+13. The Adventures of Tom Sawyer by Mark Twain
+14. Little Women by Louisa May Alcott
+15. The Hobbit by J.R.R. Tolkien
+16. The Lord of the Rings by J.R.R. Tolkien
+17. The Chronicles of Narnia by C.S. Lewis
+18. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+19. The Da Vinci Code by Dan Brown
+20. Angels and Demons by Dan Brown
+21. The Girl with the Dragon Tattoo by Stieg Larsson
+22. The Hunger Games by Suzanne Collins
+23. Catching Fire by Suzanne Collins
+24. Mockingjay by Suzanne Collins
+25. Divergent by Veronica Roth
+26. Insurgent by Veronica Roth
+27. Allegiant by Veronica Roth
+28. The Maze Runner by James Dashner
+29. The Scorch Trials by James Dashner
+30. The Death Cure by James Dashner
+31. The Fault in Our Stars by John Green
+32. Looking for Alaska by John Green
+33. Paper Towns by John Green
+34. The Book Thief by Markus Zusak
+35. The Kite Runner by Khaled Hosseini
+36. A Thousand Splendid Suns by Khaled Hosseini
+37. The Alchemist by Paulo Coelho
+38. One Hundred Years of Solitude by Gabriel Garcia Marquez
+39. Love in the Time of Cholera by Gabriel Garcia Marquez
+40. The Name of the Wind by Patrick Rothfuss
+41. The Wise Man's Fear by Patrick Rothfuss
+42. The Shadow of the Wind by Carlos Ruiz Zafon
+43. The Nightingale by Kristin Hannah
+44. All the Light We Cannot See by Anthony Doerr
+45. The Help by Kathryn Stockett
+46. The Secret Life of Bees by Sue Monk Kidd
+47. The Color Purple by Alice Walker
+48. The Joy Luck Club by Amy Tan
+49. The God of Small Things by Arundhati Roy
+50. Life of Pi by Yann Martel

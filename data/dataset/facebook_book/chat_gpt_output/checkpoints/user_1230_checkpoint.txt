@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. American Gods by Neil Gaiman
+2. Neverwhere by Neil Gaiman
+3. The Sandman (comics) by Neil Gaiman
+4. Coraline by Neil Gaiman
+5. Stardust by Neil Gaiman
+6. The Graveyard Book by Neil Gaiman
+7. Good Omens by Neil Gaiman and Terry Pratchett
+8. The Dark Tower series by Stephen King
+9. The Stand by Stephen King
+10. The Shining by Stephen King
+11. It by Stephen King
+12. Pet Sematary by Stephen King
+13. The Talisman by Stephen King and Peter Straub
+14. The Eyes of the Dragon by Stephen King
+15. The Green Mile by Stephen King
+16. The Dead Zone by Stephen King
+17. The Mist by Stephen King
+18. The Gunslinger by Stephen King
+19. The Drawing of the Three by Stephen King
+20. The Waste Lands by Stephen King
+21. Wizard and Glass by Stephen King
+22. Wolves of the Calla by Stephen King
+23. Song of Susannah by Stephen King
+24. The Dark Tower by Stephen King
+25. The Walking Dead (comics) by Robert Kirkman
+26. World War Z by Max Brooks
+27. The Strain by Guillermo del Toro and Chuck Hogan
+28. I Am Legend by Richard Matheson
+29. The Passage by Justin Cronin
+30. The Road by Cormac McCarthy
+31. The Stand: The Complete and Uncut Edition by Stephen King
+32. The Andromeda Strain by Michael Crichton
+33. Jurassic Park by Michael Crichton
+34. The Lost World by Michael Crichton
+35. Sphere by Michael Crichton
+36. Congo by Michael Crichton
+37. Prey by Michael Crichton
+38. Timeline by Michael Crichton
+39. The Girl with the Dragon Tattoo by Stieg Larsson
+40. The Girl Who Played with Fire by Stieg Larsson
+41. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+42. The Hunger Games by Suzanne Collins
+43. Catching Fire by Suzanne Collins
+44. Mockingjay by Suzanne Collins
+45. The Maze Runner by James Dashner
+46. The Scorch Trials by James Dashner
+47. The Death Cure by James Dashner
+48. The Bourne Identity by Robert Ludlum
+49. The Bourne Supremacy by Robert Ludlum
+50. The Bourne Ultimatum by Robert Ludlum

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Divergent (series) by Veronica Roth
+2. The Hunger Games (series) by Suzanne Collins
+3. The Fault in Our Stars by John Green
+4. The Maze Runner (series) by James Dashner
+5. The Giver by Lois Lowry
+6. The Selection (series) by Kiera Cass
+7. The Mortal Instruments (series) by Cassandra Clare
+8. The Twilight Saga (series) by Stephenie Meyer
+9. The Infernal Devices (series) by Cassandra Clare
+10. The Book Thief by Markus Zusak
+11. The Perks of Being a Wallflower by Stephen Chbosky
+12. The Outsiders by S.E. Hinton
+13. The Catcher in the Rye by J.D. Salinger
+14. The Great Gatsby by F. Scott Fitzgerald
+15. To Kill a Mockingbird by Harper Lee
+16. The Lord of the Rings (series) by J.R.R. Tolkien
+17. Harry Potter (series) by J.K. Rowling
+18. The Chronicles of Narnia (series) by C.S. Lewis
+19. The Hobbit by J.R.R. Tolkien
+20. The Da Vinci Code by Dan Brown
+21. Angels and Demons by Dan Brown
+22. Inferno by Dan Brown
+23. The Girl with the Dragon Tattoo by Stieg Larsson
+24. Gone Girl by Gillian Flynn
+25. The Help by Kathryn Stockett
+26. The Kite Runner by Khaled Hosseini
+27. A Thousand Splendid Suns by Khaled Hosseini
+28. The Alchemist by Paulo Coelho
+29. The Picture of Dorian Gray by Oscar Wilde
+30. The Time Traveler's Wife by Audrey Niffenegger
+31. The Lovely Bones by Alice Sebold
+32. The Road by Cormac McCarthy
+33. The Stand by Stephen King
+34. 1984 by George Orwell
+35. Animal Farm by George Orwell
+36. Brave New World by Aldous Huxley
+37. Fahrenheit 451 by Ray Bradbury
+38. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+39. The Shining by Stephen King
+40. The Silence of the Lambs by Thomas Harris
+41. The Girl on the Train by Paula Hawkins
+42. The Nightingale by Kristin Hannah
+43. The Help by Kathryn Stockett
+44. The Color Purple by Alice Walker
+45. The Handmaid's Tale by Margaret Atwood
+46. The Bell Jar by Sylvia Plath
+47. The Sun Also Rises by Ernest Hemingway
+48. The Old Man and the Sea by Ernest Hemingway
+49. The Catcher in the Rye by J.D. Salinger
+50. The Picture of Dorian Gray

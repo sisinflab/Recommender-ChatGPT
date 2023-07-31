@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. The Chronicles of Narnia by C.S. Lewis
+3. The Hobbit by J.R.R. Tolkien
+4. The Name of the Wind by Patrick Rothfuss
+5. The Wise Man's Fear by Patrick Rothfuss
+6. The Kingkiller Chronicle by Patrick Rothfuss
+7. The Wheel of Time by Robert Jordan
+8. Mistborn by Brandon Sanderson
+9. The Stormlight Archive by Brandon Sanderson
+10. The Way of Kings by Brandon Sanderson
+11. The Final Empire by Brandon Sanderson
+12. The Hero of Ages by Brandon Sanderson
+13. The Alloy of Law by Brandon Sanderson
+14. The Dark Tower by Stephen King
+15. The Gunslinger by Stephen King
+16. The Drawing of the Three by Stephen King
+17. The Waste Lands by Stephen King
+18. Wizard and Glass by Stephen King
+19. Wolves of the Calla by Stephen King
+20. Song of Susannah by Stephen King
+21. The Dark Tower VII: The Dark Tower by Stephen King
+22. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+23. The Catcher in the Rye by J.D. Salinger
+24. To Kill a Mockingbird by Harper Lee
+25. 1984 by George Orwell
+26. Animal Farm by George Orwell
+27. Brave New World by Aldous Huxley
+28. Fahrenheit 451 by Ray Bradbury
+29. The Giver by Lois Lowry
+30. The Maze Runner by James Dashner
+31. Divergent by Veronica Roth
+32. The Hunger Games Trilogy by Suzanne Collins
+33. The Fault in Our Stars by John Green
+34. The Book Thief by Markus Zusak
+35. The Girl with the Dragon Tattoo by Stieg Larsson
+36. The Da Vinci Code by Dan Brown
+37. Angels and Demons by Dan Brown
+38. The Bourne Identity by Robert Ludlum
+39. The Bourne Supremacy by Robert Ludlum
+40. The Bourne Ultimatum by Robert Ludlum
+41. The Girl on the Train by Paula Hawkins
+42. Gone Girl by Gillian Flynn
+43. The Silence of the Lambs by Thomas Harris
+44. Red Dragon by Thomas Harris
+45. The Shining by Stephen King
+46. Doctor Sleep by Stephen King
+47. The Stand by Stephen King
+48. It by Stephen King
+49. Pet Sematary by Stephen King
+50. Carrie by Stephen King

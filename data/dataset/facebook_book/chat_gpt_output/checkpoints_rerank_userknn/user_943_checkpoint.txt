@@ -1,0 +1,49 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Midnight's Children by Salman Rushdie
+2. The Notebook (novel) by Nicholas Sparks
+3. A Prayer for Owen Meany by John Irving
+4. Le Morte d'Arthur by Thomas Malory
+5. Childhood's End by Arthur C. Clarke
+6. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+7. Pygmalion (play) by George Bernard Shaw
+8. The Elegant Universe by Brian Greene
+9. Interview with the Vampire by Anne Rice
+10. A History of Western Philosophy by Bertrand Russell
+11. The Brothers Karamazov by Fyodor Dostoevsky
+12. A Handful of Dust by Evelyn Waugh
+13. Pir-e-Kamil by Umera Ahmed
+14. A Brief History of Time by Stephen Hawking
+15. G�del, Escher, Bach by Douglas Hofstadter
+16. The Godfather (novel) by Mario Puzo
+17. Nineteen Eighty-Four by George Orwell
+18. The Stranger (novel) by Albert Camus
+19. A Clockwork Orange by Anthony Burgess
+20. The Last Song (novel) by Nicholas Sparks
+21. The Alchemist (novel) by Paulo Coelho
+22. Anthem (novella) by Ayn Rand
+23. The Lord of the Rings by J.R.R. Tolkien
+24. Sense and Sensibility by Jane Austen
+25. The Monk Who Sold His Ferrari by Robin Sharma
+26. Master of the Game (novel) by Sidney Sheldon
+27. Bible by Various Authors
+28. Ender's Game by Orson Scott Card
+29. The Little Prince by Antoine de Saint-Exupéry
+30. Ulysses (novel) by James Joyce
+31. Paradise Lost by John Milton
+32. The Unbearable Lightness of Being by Milan Kundera
+33. The Prince by Niccolò Machiavelli
+34. Harry Potter by J.K. Rowling
+35. Illusions (Bach novel) by Richard Bach
+36. The Lords of the North by Bernard Cornwell
+37. The Illustrated Man by Ray Bradbury
+38. Inheritance (novel) by Christopher Paolini
+39. Memoirs of a Geisha by Arthur Golden
+40. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+41. Romeo and Juliet by William Shakespeare
+42. The Glass Bead Game by Hermann Hesse
+43. Sun Bin's Art of War by Sun Bin
+44. The Selfish Gene by Richard Dawkins
+45. Women (novel) by Charles Bukowski
+46. Slaughterhouse-Five by Kurt Vonnegut
+47. Veronika Decides to

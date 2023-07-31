@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter and the Philosopher's Stone by J.K. Rowling
+2. To Kill a Mockingbird by Harper Lee
+3. The Hunger Games by Suzanne Collins
+4. The Lord of the Rings by J.R.R. Tolkien
+5. Pride and Prejudice by Jane Austen
+6. The Catcher in the Rye by J.D. Salinger
+7. 1984 by George Orwell
+8. Animal Farm by George Orwell
+9. The Great Gatsby by F. Scott Fitzgerald
+10. The Hobbit by J.R.R. Tolkien
+11. The Chronicles of Narnia by C.S. Lewis
+12. The Da Vinci Code by Dan Brown
+13. The Girl with the Dragon Tattoo by Stieg Larsson
+14. The Help by Kathryn Stockett
+15. The Kite Runner by Khaled Hosseini
+16. The Lovely Bones by Alice Sebold
+17. The Maze Runner by James Dashner
+18. The Name of the Wind by Patrick Rothfuss
+19. The Picture of Dorian Gray by Oscar Wilde
+20. The Road by Cormac McCarthy
+21. The Secret Life of Bees by Sue Monk Kidd
+22. The Shining by Stephen King
+23. The Stand by Stephen King
+24. The Time Traveler's Wife by Audrey Niffenegger
+25. The Twilight Saga by Stephenie Meyer
+26. The Wind-Up Bird Chronicle by Haruki Murakami
+27. A Game of Thrones by George R.R. Martin
+28. A Wrinkle in Time by Madeleine L'Engle
+29. Brave New World by Aldous Huxley
+30. Catch-22 by Joseph Heller
+31. Dracula by Bram Stoker
+32. Fahrenheit 451 by Ray Bradbury
+33. Gone Girl by Gillian Flynn
+34. Life of Pi by Yann Martel
+35. Little Women by Louisa May Alcott
+36. One Hundred Years of Solitude by Gabriel Garcia Marquez
+37. Outlander by Diana Gabaldon
+38. Rebecca by Daphne du Maurier
+39. Slaughterhouse-Five by Kurt Vonnegut
+40. The Alchemist by Paulo Coelho
+41. The Bell Jar by Sylvia Plath
+42. The Book Thief by Markus Zusak
+43. The Color Purple by Alice Walker
+44. The Fault in Our Stars by John Green
+45. The Girl on the Train by Paula Hawkins
+46. The Handmaid's Tale by Margaret Atwood
+47. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+48. The Picture of Dorian Gray by Oscar Wilde
+49. The Silence of the Lambs by Thomas Harris
+50. The Stand by Stephen King

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The God of Small Things by Arundhati Roy
+2. Atonement by Ian McEwan
+3. The French Lieutenant's Woman by John Fowles
+4. Wolf Hall by Hilary Mantel
+5. Lolita by Vladimir Nabokov
+6. The Satanic Verses by Salman Rushdie
+7. We Need to Talk About Kevin by Lionel Shriver
+8. The Kite Runner by Khaled Hosseini
+9. A Thousand Splendid Suns by Khaled Hosseini
+10. Tess of the d'Urbervilles by Thomas Hardy
+11. The Magus by John Fowles
+12. Memoirs of a Geisha by Arthur Golden
+13. White Oleander by Janet Fitch
+14. Miss Christina by Mircea Eliade
+15. My Name Is Red by Orhan Pamuk
+16. The Hours by Michael Cunningham
+17. Midnight's Children by Salman Rushdie
+18. The Book Thief by Markus Zusak
+19. Romeo and Juliet by William Shakespeare
+20. The Jungle Book by Rudyard Kipling
+21. The Hobbit by J.R.R. Tolkien
+22. The Namesake by Jhumpa Lahiri
+23. Walden by Henry David Thoreau
+24. Inheritance by Christopher Paolini
+25. The Lost Symbol by Dan Brown
+26. Les Misérables by Victor Hugo
+27. Crime and Punishment by Fyodor Dostoevsky
+28. Sense and Sensibility by Jane Austen
+29. The Name of the Rose by Umberto Eco
+30. The Stranger by Albert Camus
+31. To Kill a Mockingbird by Harper Lee
+32. Wuthering Heights by Emily Bronte
+33. Tender Is the Night by F. Scott Fitzgerald
+34. The 3 Mistakes of My Life by Chetan Bhagat
+35. Never Let Me Go by Kazuo Ishiguro
+36. The Lovely Bones by Alice Sebold
+37. Abhorsen by Garth Nix
+38. Sabriel by Garth Nix
+39. Bloodlines by Richelle Mead
+40. Digital Fortress by Dan Brown
+41. The Boy in the Striped Pyjamas by John Boyne
+42. Lajja by Taslima Nasrin
+43. Confessions of an Ugly Stepsister by Gregory Maguire
+44. Nancy Drew by Carolyn Keene
+45. Gormenghast by Mervyn Peake
+46. Annie on My Mind by Nancy Garden
+47. Revolutionary Road by Richard Yates
+48. 2 States: The Story of My Marriage by Chetan Bhagat
+49. Twilight by Stephenie Meyer
+50. Wicked: The Life and Times of the Wicked Witch of the

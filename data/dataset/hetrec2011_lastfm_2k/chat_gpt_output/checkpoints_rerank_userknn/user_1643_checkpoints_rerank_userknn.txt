@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Beatles
+2. Muse
+3. Paul McCartney
+4. Duran Duran
+5. George Michael
+6. Pet Shop Boys
+7. Eric Clapton
+8. Wham!
+9. Sigur Rós
+10. Simply Red
+11. Spice Girls
+12. Girls Aloud
+13. t.A.T.u.
+14. Glee Cast
+15. Au Revoir Simone
+16. Sugababes
+17. David Bowie
+18. Madonna
+19. Eurythmics
+20. Depeche Mode
+21. Cyndi Lauper
+22. Orchestral Manoeuvres in the Dark
+23. Tears for Fears
+24. Ultravox
+25. The Human League
+26. Erasure
+27. Pixies
+28. PJ Harvey
+29. Spandau Ballet
+30. Nik Kershaw
+31. Scissor Sisters
+32. ABC
+33. New Order
+34. Genesis
+35. U2
+36. Beck
+37. Faith No More
+38. The Cure
+39. Simple Minds
+40. Ryan Adams
+41. No Doubt
+42. Stone Temple Pilots
+43. Thompson Twins
+44. George Harrison
+45. Amy Winehouse
+46. Iron Maiden
+47. Icehouse
+48. Billy Joel
+49. Usher
+50. Roxette

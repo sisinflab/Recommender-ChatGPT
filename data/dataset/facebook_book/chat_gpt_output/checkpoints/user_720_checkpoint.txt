@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Great Expectations by Charles Dickens
+2. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+3. The Picture of Dorian Gray by Oscar Wilde
+4. Heart of Darkness by Joseph Conrad
+5. The War of the Worlds by H.G. Wells
+6. The Adventures of Tom Sawyer by Mark Twain
+7. The Call of the Wild by Jack London
+8. The Time Machine by H.G. Wells
+9. The Three Musketeers by Alexandre Dumas
+10. The Canterbury Tales by Geoffrey Chaucer
+11. The Divine Comedy by Dante Alighieri
+12. The Odyssey by Homer
+13. Les Misérables by Victor Hugo
+14. The Brothers Karamazov by Fyodor Dostoevsky
+15. Crime and Punishment by Fyodor Dostoevsky
+16. The Catcher in the Rye by J.D. Salinger
+17. To Kill a Mockingbird by Harper Lee
+18. 1984 by George Orwell
+19. Animal Farm by George Orwell
+20. Lord of the Flies by William Golding
+21. Brave New World by Aldous Huxley
+22. The Great Gatsby by F. Scott Fitzgerald
+23. One Hundred Years of Solitude by Gabriel García Márquez
+24. Love in the Time of Cholera by Gabriel García Márquez
+25. The Name of the Rose by Umberto Eco
+26. The Girl with the Dragon Tattoo by Stieg Larsson
+27. The Hunger Games by Suzanne Collins
+28. The Lord of the Rings by J.R.R. Tolkien
+29. The Hobbit by J.R.R. Tolkien
+30. The Chronicles of Narnia by C.S. Lewis
+31. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+32. The Martian by Andy Weir
+33. The Road by Cormac McCarthy
+34. The Shining by Stephen King
+35. The Stand by Stephen King
+36. The Silence of the Lambs by Thomas Harris
+37. The Da Vinci Code by Dan Brown
+38. Angels & Demons by Dan Brown
+39. Inferno by Dan Brown
+40. The Lost Symbol by Dan Brown
+41. The Bourne Identity by Robert Ludlum
+42. The Day of the Jackal by Frederick Forsyth
+43. The Spy Who Came in from the Cold by John le Carré
+44. The Girl on the Train by Paula Hawkins
+45. Gone Girl by Gillian Flynn
+46. The Silence of the Sea by Yrsa Sigurðardóttir
+47. The Snowman by Jo Nesbø
+48. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+49. The Girl Who Played with Fire by Stieg Larsson
+50.

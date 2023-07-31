@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. Pride and Prejudice by Jane Austen
+4. The Catcher in the Rye by J.D. Salinger
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Animal Farm by George Orwell
+7. The Hobbit by J.R.R. Tolkien
+8. The Lord of the Rings by J.R.R. Tolkien
+9. The Da Vinci Code by Dan Brown
+10. The Girl with the Dragon Tattoo by Stieg Larsson
+11. The Hunger Games by Suzanne Collins
+12. The Help by Kathryn Stockett
+13. The Alchemist by Paulo Coelho
+14. The Picture of Dorian Gray by Oscar Wilde
+15. The Adventures of Huckleberry Finn by Mark Twain
+16. The Count of Monte Cristo by Alexandre Dumas
+17. The Secret Garden by Frances Hodgson Burnett
+18. The Time Traveler's Wife by Audrey Niffenegger
+19. The Road by Cormac McCarthy
+20. The Book Thief by Markus Zusak
+21. The Lovely Bones by Alice Sebold
+22. The Fault in Our Stars by John Green
+23. The Maze Runner by James Dashner
+24. The Chronicles of Narnia by C.S. Lewis
+25. The Giver by Lois Lowry
+26. The Outsiders by S.E. Hinton
+27. The Perks of Being a Wallflower by Stephen Chbosky
+28. The Shining by Stephen King
+29. The Stand by Stephen King
+30. The Silence of the Lambs by Thomas Harris
+31. The Bourne Identity by Robert Ludlum
+32. The Godfather by Mario Puzo
+33. The Catcher in the Rye by J.D. Salinger
+34. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+35. The Picture of Dorian Gray by Oscar Wilde
+36. The Importance of Being Earnest by Oscar Wilde
+37. The War of the Worlds by H.G. Wells
+38. The Time Machine by H.G. Wells
+39. The Invisible Man by H.G. Wells
+40. The Island of Dr. Moreau by H.G. Wells
+41. The Call of the Wild by Jack London
+42. The Old Man and the Sea by Ernest Hemingway
+43. The Sun Also Rises by Ernest Hemingway
+44. The Great Gatsby by F. Scott Fitzgerald
+45. The Sound and the Fury by William Faulkner
+46. The Grapes of Wrath by John Steinbeck
+47. The Catcher in the Rye by J.D. Salinger
+48. The Adventures of Tom Sawyer by Mark Twain
+49. The Adventures of Sherlock Holmes by Arthur Conan Doyle

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Glass by Ellen Hopkins
+2. Fallout by Ellen Hopkins
+3. Tricks by Ellen Hopkins
+4. Identical by Ellen Hopkins
+5. Perfect by Ellen Hopkins
+6. Tilt by Ellen Hopkins
+7. Impulse by Ellen Hopkins
+8. Burned by Ellen Hopkins
+9. Crank by Ellen Hopkins
+10. Go Ask Alice by Anonymous
+11. The Perks of Being a Wallflower by Stephen Chbosky
+12. Thirteen Reasons Why by Jay Asher
+13. Speak by Laurie Halse Anderson
+14. The Fault in Our Stars by John Green
+15. Looking for Alaska by John Green
+16. Paper Towns by John Green
+17. Eleanor & Park by Rainbow Rowell
+18. Fangirl by Rainbow Rowell
+19. The Hunger Games by Suzanne Collins
+20. Catching Fire by Suzanne Collins
+21. Mockingjay by Suzanne Collins
+22. Divergent by Veronica Roth
+23. Insurgent by Veronica Roth
+24. Allegiant by Veronica Roth
+25. The Maze Runner by James Dashner
+26. The Scorch Trials by James Dashner
+27. The Death Cure by James Dashner
+28. The Giver by Lois Lowry
+29. Gathering Blue by Lois Lowry
+30. Messenger by Lois Lowry
+31. Son by Lois Lowry
+32. The Book Thief by Markus Zusak
+33. The Outsiders by S.E. Hinton
+34. To Kill a Mockingbird by Harper Lee
+35. The Catcher in the Rye by J.D. Salinger
+36. Lord of the Flies by William Golding
+37. Animal Farm by George Orwell
+38. 1984 by George Orwell
+39. Brave New World by Aldous Huxley
+40. The Handmaid's Tale by Margaret Atwood
+41. The Girl on the Train by Paula Hawkins
+42. Gone Girl by Gillian Flynn
+43. The Da Vinci Code by Dan Brown
+44. Angels and Demons by Dan Brown
+45. The Hunger Games Trilogy Boxed Set by Suzanne Collins
+46. Divergent Series Box Set by Veronica Roth
+47. The Maze Runner Series Complete Collection Boxed Set by James Dashner
+48. The Giver Quartet boxed set by Lois Lowry
+49. The Harry Potter Boxed Set by J.K. Rowling
+50. Cut by Patricia McCormick

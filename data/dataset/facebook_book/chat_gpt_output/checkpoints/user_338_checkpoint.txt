@@ -1,0 +1,47 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Chronicles of Narnia: The Lion, the Witch and the Wardrobe by C.S. Lewis
+2. The Hobbit by J.R.R. Tolkien
+3. The Hunger Games by Suzanne Collins
+4. To Kill a Mockingbird by Harper Lee
+5. The Catcher in the Rye by J.D. Salinger
+6. 1984 by George Orwell
+7. Animal Farm by George Orwell
+8. The Great Gatsby by F. Scott Fitzgerald
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Chronicles of Narnia: The Magician's Nephew by C.S. Lewis
+11. The Chronicles of Narnia: The Horse and His Boy by C.S. Lewis
+12. The Chronicles of Narnia: The Voyage of the Dawn Treader by C.S. Lewis
+13. The Chronicles of Narnia: The Silver Chair by C.S. Lewis
+14. The Chronicles of Narnia: The Last Battle by C.S. Lewis
+15. The Da Vinci Code by Dan Brown
+16. Inferno by Dan Brown
+17. Angels and Demons by Dan Brown
+18. The Girl with the Dragon Tattoo by Stieg Larsson
+19. The Girl Who Played with Fire by Stieg Larsson
+20. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+21. The Shining by Stephen King
+22. Carrie by Stephen King
+23. The Stand by Stephen King
+24. It by Stephen King
+25. Misery by Stephen King
+26. The Dark Tower I: The Gunslinger by Stephen King
+27. The Dark Tower II: The Drawing of the Three by Stephen King
+28. The Dark Tower III: The Waste Lands by Stephen King
+29. The Dark Tower IV: Wizard and Glass by Stephen King
+30. The Dark Tower V: Wolves of the Calla by Stephen King
+31. The Dark Tower VI: Song of Susannah by Stephen King
+32. The Dark Tower VII: The Dark Tower by Stephen King
+33. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+34. The Restaurant at the End of the Universe by Douglas Adams
+35. Life, the Universe and Everything by Douglas Adams
+36. So Long, and Thanks for All the Fish by Douglas Adams
+37. Mostly Harmless by Douglas Adams
+38. The War of the Worlds by H.G. Wells
+39. The Time Machine by H.G. Wells
+40. The Invisible Man by H.G. Wells
+41. The Island of Dr. Moreau by H.G. Wells
+42. The Picture of Dorian Gray by Oscar Wilde
+43. Dracula by Bram Stoker
+44. Frankenstein by Mary Shelley
+45. The Strange Case of Dr.

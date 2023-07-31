@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Björk
+2. PJ Harvey
+3. Kate Bush
+4. Regina Spektor
+5. Sigur Rós
+6. Florence + the Machine
+7. Alanis Morissette
+8. Radiohead
+9. The Corrs
+10. Franz Ferdinand
+11. The Strokes
+12. Interpol
+13. She Wants Revenge
+14. Beirut
+15. Suede
+16. The Ting Tings
+17. Weezer
+18. Vanessa da Mata
+19. Peaches
+20. Feist
+21. Lily Allen
+22. Cat Power
+23. Lady Gaga
+24. Madonna
+25. Rihanna
+26. Shakira
+27. Beyoncé
+28. Coldplay
+29. U2
+30. The Killers
+31. Blur
+32. Nirvana
+33. Pearl Jam
+34. Metallica
+35. Led Zeppelin
+36. Iron Maiden
+37. Pink Floyd
+38. Muse
+39. Arctic Monkeys
+40. Placebo
+41. Daft Punk
+42. Nine Inch Nails
+43. Linkin Park
+44. Kelly Clarkson
+45. Avril Lavigne
+46. Taylor Swift
+47. Evanescence
+48. My Chemical Romance
+49. Green Day
+50. The Cure

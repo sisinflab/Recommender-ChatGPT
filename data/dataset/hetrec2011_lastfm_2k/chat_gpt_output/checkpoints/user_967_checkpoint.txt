@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Smiths
+2. Radiohead
+3. Arctic Monkeys
+4. The Strokes
+5. Weezer
+6. The Killers
+7. Oasis
+8. Nirvana
+9. Foo Fighters
+10. Green Day
+11. Blink-182
+12. My Chemical Romance
+13. Fall Out Boy
+14. Panic! At The Disco
+15. Muse
+16. Queens of the Stone Age
+17. The White Stripes
+18. The Black Keys
+19. Vampire Weekend
+20. Arcade Fire
+21. The National
+22. The Shins
+23. Death Cab for Cutie
+24. Modest Mouse
+25. The Decemberists
+26. Neutral Milk Hotel
+27. Belle and Sebastian
+28. Saosin
+29. AC/DC
+30. A Day to Remember
+31. Little Joy
+32. Escape The Fate
+33. Funeral for a Friend
+34. Mombojó
+35. AFI
+36. Forfun
+37. Los Hermanos
+38. Alkaline Trio
+39. L7
+40. Keane
+41. Interpol
+42. Paramore
+43. Coldplay
+44. Millencolin
+45. Matchbox Twenty
+46. CPM 22
+47. Travis
+48. Sum 41
+49. The Red Jumpsuit Apparatus
+50. Lostprophets

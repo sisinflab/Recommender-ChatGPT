@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird
+2. Nineteen Eighty-Four
+3. Animal Farm
+4. The Great Gatsby
+5. The Hunger Games
+6. The Kite Runner
+7. The Plague
+8. The Stranger (novel)
+9. Dracula
+10. The Bell Jar
+11. The Catcher in the Rye
+12. Little Women
+13. A Wrinkle in Time
+14. Frankenstein
+15. The Giver
+16. The Hobbit
+17. The Lord of the Rings
+18. The Silmarillion
+19. A Midsummer Night's Dream
+20. Brave New World
+21. Les Misérables
+22. The Picture of Dorian Gray
+23. The Scarlet Pimpernel
+24. Of Mice and Men
+25. The Autobiography of Malcolm X
+26. The Fountainhead
+27. The Joy Luck Club (novel)
+28. The Messenger (Markus Zusak novel)
+29. The Wardstone Chronicles
+30. Halo: Contact Harvest
+31. Blood and Chocolate (novel)
+32. Holes (novel)
+33. Twilight (series)
+34. The Anarchist Cookbook
+35. The Dirt
+36. The Awakening (Chopin novel)
+37. Sun Bin's Art of War
+38. Common Sense (pamphlet)
+39. Mere Christianity
+40. Red Inferno: 1945
+41. The Fire Within (novel)
+42. Diary (novel)
+43. Cosmos (book)
+44. Goodnight Moon
+45. Sin City
+46. Kidnapped (novel)
+47. The Purpose Driven Life
+48. Angels & Demons
+49. Eragon
+50. Hannibal (novel)

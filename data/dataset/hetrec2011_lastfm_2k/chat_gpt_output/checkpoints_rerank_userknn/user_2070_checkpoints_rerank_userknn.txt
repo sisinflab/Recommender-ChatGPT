@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Linkin Park
+2. Paramore
+3. Three Days Grace
+4. Evanescence
+5. Muse
+6. Marilyn Manson
+7. Guns N' Roses
+8. Ozzy Osbourne
+9. The Beatles
+10. Sum 41
+11. Aerosmith
+12. The Killers
+13. Red Hot Chili Peppers
+14. Foo Fighters
+15. Led Zeppelin
+16. Slash
+17. Good Charlotte
+18. Van Halen
+19. 30 Seconds to Mars
+20. The Distillers
+21. AFI
+22. Angels & Airwaves
+23. New Found Glory
+24. Avril Lavigne
+25. Bowling for Soup
+26. Jeffree Star
+27. Joan Jett and the Blackhearts
+28. B.o.B
+29. 3 Doors Down
+30. Tokio Hotel
+31. Bring Me The Horizon
+32. AC/DC
+33. The Who
+34. Lady Gaga
+35. Pink
+36. Rihanna
+37. Death Cab for Cutie
+38. Dashboard Confessional
+39. Sonata Arctica
+40. Epica
+41. Slipknot
+42. Nickelback
+43. System of a Down
+44. Placebo
+45. Flyleaf
+46. Apocalyptica
+47. Coldplay
+48. Radiohead
+49. HammerFall
+50. Lily Allen

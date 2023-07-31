@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Last Shadow Puppets
+2. Dirty Pretty Things
+3. Hoobastank
+4. Panic! At the Disco
+5. The Strokes
+6. Lily Allen
+7. The Kooks
+8. Babyshambles
+9. The Libertines
+10. Klaxons
+11. Patrick Wolf
+12. IAMX
+13. Justice
+14. Marilyn Manson
+15. Queen
+16. Three Days Grace
+17. La Roux
+18. Oomph!
+19. The Smiths
+20. Two Door Cinema Club
+21. Frank Sinatra
+22. AFI
+23. Kaiser Chiefs
+24. Arctic Monkeys
+25. Muse
+26. Placebo
+27. Radiohead
+28. Nirvana
+29. Led Zeppelin
+30. Metallica
+31. Iron Maiden
+32. Pearl Jam
+33. Michael Jackson
+34. a-ha
+35. Björk
+36. System of a Down
+37. Daft Punk
+38. Nine Inch Nails
+39. Linkin Park
+40. Avenged Sevenfold
+41. My Chemical Romance
+42. Green Day
+43. The Cure
+44. Pink Floyd
+45. U2
+46. Duran Duran
+47. Coldplay
+48. Blur
+49. Katy Perry
+50. Taylor Swift

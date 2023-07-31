@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. One Hundred Years of Solitude by Gabriel Garcia Marquez
+5. The Bell Jar by Sylvia Plath
+6. The Picture of Dorian Gray by Oscar Wilde
+7. The Stranger by Albert Camus
+8. The Sun Also Rises by Ernest Hemingway
+9. The Grapes of Wrath by John Steinbeck
+10. Heart of Darkness by Joseph Conrad
+11. The Sound and the Fury by William Faulkner
+12. Lolita by Vladimir Nabokov
+13. Crime and Punishment by Fyodor Dostoevsky
+14. The Brothers Karamazov by Fyodor Dostoevsky
+15. The Trial by Franz Kafka
+16. The Metamorphosis by Franz Kafka
+17. The Old Man and the Sea by Ernest Hemingway
+18. The Great Gatsby by F. Scott Fitzgerald
+19. The Adventures of Huckleberry Finn by Mark Twain
+20. The Adventures of Tom Sawyer by Mark Twain
+21. The Scarlet Letter by Nathaniel Hawthorne
+22. Moby-Dick by Herman Melville
+23. Jane Eyre by Charlotte Bronte
+24. Wuthering Heights by Emily Bronte
+25. Pride and Prejudice by Jane Austen
+26. Sense and Sensibility by Jane Austen
+27. Emma by Jane Austen
+28. Persuasion by Jane Austen
+29. Northanger Abbey by Jane Austen
+30. Frankenstein by Mary Shelley
+31. Dracula by Bram Stoker
+32. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+33. The War of the Worlds by H.G. Wells
+34. The Time Machine by H.G. Wells
+35. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+36. The Lord of the Rings by J.R.R. Tolkien
+37. The Hobbit by J.R.R. Tolkien
+38. The Chronicles of Narnia by C.S. Lewis
+39. The Hunger Games by Suzanne Collins
+40. Harry Potter and the Philosopher's Stone by J.K. Rowling
+41. The Da Vinci Code by Dan Brown
+42. Angels and Demons by Dan Brown
+43. The Girl with the Dragon Tattoo by Stieg Larsson
+44. The Help by Kathryn Stockett
+45. The Kite Runner by Khaled Hosseini
+46. A Thousand Splendid Suns by Khaled Hosseini
+47. The Alchemist by Paulo Coelho
+48. The Name of the Rose by Umberto Eco
+49. The Shadow of the Wind by Carlos Ruiz Zafon
+50. The Wise Man's Fear by Patrick Rothfuss

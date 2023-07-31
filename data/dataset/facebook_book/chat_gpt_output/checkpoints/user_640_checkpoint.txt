@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Percy Jackson and the Olympians by Rick Riordan
+2. The Mortal Instruments by Cassandra Clare
+3. Divergent by Veronica Roth
+4. The Maze Runner by James Dashner
+5. The Fault in Our Stars by John Green
+6. The Infernal Devices by Cassandra Clare
+7. The Selection by Kiera Cass
+8. The Giver by Lois Lowry
+9. The 5th Wave by Rick Yancey
+10. The Lunar Chronicles by Marissa Meyer
+11. The Darkest Minds by Alexandra Bracken
+12. The Raven Boys by Maggie Stiefvater
+13. The Iron Fey by Julie Kagawa
+14. The Chemical Garden Trilogy by Lauren DeStefano
+15. The Program by Suzanne Young
+16. The Unbecoming of Mara Dyer by Michelle Hodkin
+17. Legend by Marie Lu
+18. Matched by Ally Condie
+19. Delirium by Lauren Oliver
+20. Shatter Me by Tahereh Mafi
+21. The Selection by Kiera Cass
+22. The Host by Stephenie Meyer
+23. The 100 by Kass Morgan
+24. The Testing by Joelle Charbonneau
+25. The Knife of Never Letting Go by Patrick Ness
+26. The Uglies by Scott Westerfeld
+27. The Hunger Games by Suzanne Collins
+28. The Maze Runner by James Dashner
+29. The Giver by Lois Lowry
+30. The Fault in Our Stars by John Green
+31. The Infernal Devices by Cassandra Clare
+32. The Mortal Instruments by Cassandra Clare
+33. The Lunar Chronicles by Marissa Meyer
+34. The Darkest Minds by Alexandra Bracken
+35. The Raven Boys by Maggie Stiefvater
+36. The Iron Fey by Julie Kagawa
+37. The Chemical Garden Trilogy by Lauren DeStefano
+38. The Program by Suzanne Young
+39. The Unbecoming of Mara Dyer by Michelle Hodkin
+40. Legend by Marie Lu
+41. Matched by Ally Condie
+42. Delirium by Lauren Oliver
+43. Shatter Me by Tahereh Mafi
+44. The Selection by Kiera Cass
+45. The Host by Stephenie Meyer
+46. The 100 by Kass Morgan
+47. The Testing by Joelle Charbonneau
+48. The Knife of Never Letting Go by Patrick Ness
+49. The Uglies by Scott Westerfeld
+50. The Hunger Games by Suzanne Collins

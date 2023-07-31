@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for user 269 are:
+
+1. Muse
+2. Queen
+3. Linkin Park
+4. Green Day
+5. Blur
+6. The Killers
+7. Radiohead
+8. Bon Jovi
+9. AC/DC
+10. David Bowie
+11. Bob Marley & The Wailers
+12. U2
+13. Marilyn Manson
+14. Duran Duran
+15. Depeche Mode
+16. Archive
+17. Gorillaz
+18. Bloodhound Gang
+19. The Beatles
+20. Arctic Monkeys
+21. Simple Minds
+22. Placebo
+23. Massive Attack
+24. The Police
+25. Coldplay
+26. Keane
+27. Travis
+28. Manic Street Preachers
+29. The Smiths
+30. Kings of Leon
+31. Pet Shop Boys
+32. Daft Punk
+33. Pendulum
+34. MGMT
+35. The Last Shadow Puppets
+36. Metric
+37. Three Days Grace
+38. Brandon Flowers
+39. Bryan Adams
+40. Ashlee Simpson
+41. Kasabian
+42. Fort Minor
+43. Snow Patrol
+44. AFI
+45. Spandau Ballet
+46. The Fratellis
+47. We The Kings
+48. Air
+49. Björk
+50. Tiziano Ferro

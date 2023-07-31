@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Muse
+2. Fall Out Boy
+3. The Last Shadow Puppets
+4. Placebo
+5. The Strokes
+6. Arctic Monkeys
+7. Cobra Starship
+8. Little Boots
+9. Klaxons
+10. Yeah Yeah Yeahs
+11. The Veronicas
+12. Infected Mushroom
+13. My Chemical Romance
+14. Kid Abelha
+15. Air
+16. Rammstein
+17. Queens of the Stone Age
+18. Regina Spektor
+19. Gorillaz
+20. Portishead
+21. Oasis
+22. Maroon 5
+23. Beirut
+24. September
+25. [unknown]
+26. Audioslave
+27. Silverchair
+28. Radiohead
+29. Nirvana
+30. Pearl Jam
+31. Led Zeppelin
+32. Metallica
+33. Iron Maiden
+34. The Beatles
+35. Pink Floyd
+36. U2
+37. Duran Duran
+38. Blur
+39. The Killers
+40. Coldplay
+41. Arctic Monkeys
+42. Placebo
+43. Green Day
+44. My Chemical Romance
+45. Nine Inch Nails
+46. Linkin Park
+47. Avenged Sevenfold
+48. Black Eyed Peas
+49. Michael Jackson
+50. The Cure

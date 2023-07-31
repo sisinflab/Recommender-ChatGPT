@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Great Gatsby by F. Scott Fitzgerald
+4. The Bell Jar by Sylvia Plath
+5. The Picture of Dorian Gray by Oscar Wilde
+6. Brave New World by Aldous Huxley
+7. The Handmaid's Tale by Margaret Atwood
+8. The Lord of the Rings by J.R.R. Tolkien
+9. The Hobbit by J.R.R. Tolkien
+10. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+11. The Hunger Games by Suzanne Collins
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Da Vinci Code by Dan Brown
+14. The Kite Runner by Khaled Hosseini
+15. The Alchemist by Paulo Coelho
+16. The Road by Cormac McCarthy
+17. The Book Thief by Markus Zusak
+18. The Fault in Our Stars by John Green
+19. The Perks of Being a Wallflower by Stephen Chbosky
+20. The Shining by Stephen King
+21. The Stand by Stephen King
+22. The Dark Tower series by Stephen King
+23. The Chronicles of Narnia by C.S. Lewis
+24. The Harry Potter series by J.K. Rowling
+25. The Lord of the Flies by William Golding
+26. Animal Farm by George Orwell
+27. The Catch-22 by Joseph Heller
+28. Slaughterhouse-Five by Kurt Vonnegut
+29. One Flew Over the Cuckoo's Nest by Ken Kesey
+30. The Color Purple by Alice Walker
+31. Beloved by Toni Morrison
+32. The Joy Luck Club by Amy Tan
+33. The God of Small Things by Arundhati Roy
+34. The Poisonwood Bible by Barbara Kingsolver
+35. The Secret History by Donna Tartt
+36. The Goldfinch by Donna Tartt
+37. The Name of the Wind by Patrick Rothfuss
+38. The Lies of Locke Lamora by Scott Lynch
+39. The Blade Itself by Joe Abercrombie
+40. The Way of Kings by Brandon Sanderson
+41. The Final Empire by Brandon Sanderson
+42. The Lies of Locke Lamora by Scott Lynch
+43. The First Law Trilogy by Joe Abercrombie
+44. The Kingkiller Chronicle by Patrick Rothfuss
+45. The Stormlight Archive by Brandon Sanderson
+46. The Malazan Book of the Fallen by Steven Erikson
+47. The Wheel of Time by Robert Jordan
+48. The Dresden Files by Jim Butcher
+49. The Mistborn Trilogy by Brandon Sanderson
+50. The Dark Tower series by Stephen King

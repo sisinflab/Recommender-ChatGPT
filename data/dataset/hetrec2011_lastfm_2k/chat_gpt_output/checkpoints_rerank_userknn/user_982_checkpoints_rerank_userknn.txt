@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for this user are:
+
+1. Daft Punk
+2. Jay-Z
+3. Madonna
+4. Dr. Dre
+5. Hans Zimmer
+6. Armin van Buuren
+7. Infected Mushroom
+8. Pendulum
+9. Lady Gaga
+10. M.I.A.
+11. Chase & Status
+12. Tim Hecker
+13. Nightwish
+14. Amon Tobin
+15. Sam Sparro
+16. Owl City
+17. Faithless
+18. Enter Shikari
+19. David Guetta
+20. Rihanna
+21. Beyoncé
+22. P!nk
+23. Hurts
+24. Lily Allen
+25. Marilyn Manson
+26. Scissor Sisters
+27. James Blunt
+28. Kylie Minogue
+29. Elvis Presley
+30. Paramore
+31. Avril Lavigne
+32. Adam Lambert
+33. Ashlee Simpson
+34. Far East Movement
+35. Bruce Springsteen
+36. ABBA
+37. Cyndi Lauper
+38. Pixie Lott
+39. Christina Aguilera
+40. Kings of Leon
+41. 30 Seconds to Mars
+42. Shakira
+43. Timbaland
+44. Britney Spears
+45. Ke$ha
+46. Gwen Stefani
+47. Katy Perry
+48. Michael Jackson
+49. The Pussycat Dolls
+50. Amy Winehouse

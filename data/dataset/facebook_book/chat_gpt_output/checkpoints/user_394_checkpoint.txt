@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Stand by Stephen King
+2. World War Z by Max Brooks
+3. As I Lay Dying by William Faulkner
+4. The Picture of Dorian Gray by Oscar Wilde
+5. Vampire Academy by Richelle Mead
+6. Miss Peregrine's Home for Peculiar Children by Ransom Riggs
+7. Much Ado About Nothing by William Shakespeare
+8. Uglies by Scott Westerfeld
+9. The Lord of the Rings by J.R.R. Tolkien
+10. A Thousand Splendid Suns by Khaled Hosseini
+11. The Outsiders by S.E. Hinton
+12. The Crucible by Arthur Miller
+13. Silent Hill by Sadamu Yamashita
+14. Speak by Laurie Halse Anderson
+15. The Adventures of Tom Sawyer by Mark Twain
+16. The Dirt: Confessions of the World's Most Notorious Rock Band by Nikki Sixx
+17. The Hunger Games by Suzanne Collins
+18. The Maze Runner by James Dashner
+19. The Giver by Lois Lowry
+20. The Fault in Our Stars by John Green
+21. The Catcher in the Rye by J.D. Salinger
+22. The Great Gatsby by F. Scott Fitzgerald
+23. To Kill a Mockingbird by Harper Lee
+24. The Book Thief by Markus Zusak
+25. The Road by Cormac McCarthy
+26. The Shining by Stephen King
+27. Carrie by Stephen King
+28. The Dark Tower II: The Drawing of the Three by Stephen King
+29. The Dark Tower III: The Waste Lands by Stephen King
+30. The Dark Tower IV: Wizard and Glass by Stephen King
+31. The Dark Tower V: Wolves of the Calla by Stephen King
+32. The Dark Tower VI: Song of Susannah by Stephen King
+33. The Dark Tower VII: The Dark Tower by Stephen King
+34. The Walking Dead by Robert Kirkman
+35. The Road to Woodbury by Robert Kirkman
+36. The Rise of the Governor by Robert Kirkman
+37. The Fall of the Governor by Robert Kirkman
+38. The Scarlet Letter by Nathaniel Hawthorne
+39. The Tell-Tale Heart by Edgar Allan Poe
+40. The Raven by Edgar Allan Poe
+41. The Cask of Amontillado by Edgar Allan Poe
+42. The Black Cat by Edgar Allan Poe
+43. The Masque of the Red Death by Edgar Allan Poe
+44. The Pit and the Pendulum by Edgar Allan Poe
+45. The Murders in the Rue Morgue by Edgar Allan Poe
+46. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+47. The Hound of the Baskervilles by Arthur Conan Doyle
+48. The Sign of Four by Arthur Conan Doyle
+49

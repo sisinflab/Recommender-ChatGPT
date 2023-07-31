@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Pearl Jam
+2. Lifehouse
+3. HIM
+4. Bruce Springsteen
+5. The Script
+6. Hinder
+7. The Fratellis
+8. Switchfoot
+9. Alice in Chains
+10. Radiohead
+11. Three Days Grace
+12. U2
+13. Queen
+14. White Lies
+15. Snow Patrol
+16. The Killers
+17. The Cure
+18. Green Day
+19. Staind
+20. Queens of the Stone Age
+21. Metro Station
+22. Simple Plan
+23. Augustana
+24. Shinedown
+25. nevershoutnever!
+26. The Fray
+27. John Mayer
+28. Volbeat
+29. Cobra Starship
+30. Ellie Goulding
+31. Kasabian
+32. Bob Dylan
+33. Muse
+34. Nirvana
+35. Iron Maiden
+36. Led Zeppelin
+37. Metallica
+38. Michael Jackson
+39. a-ha
+40. Björk
+41. System of a Down
+42. Nine Inch Nails
+43. Linkin Park
+44. Avenged Sevenfold
+45. My Chemical Romance
+46. The Beatles
+47. Pink Floyd
+48. Coldplay
+49. Arctic Monkeys
+50. Placebo

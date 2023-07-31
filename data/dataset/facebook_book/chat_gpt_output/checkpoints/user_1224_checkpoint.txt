@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Slaughterhouse-Five by Kurt Vonnegut
+2. The Catcher in the Rye by J.D. Salinger
+3. 1984 by George Orwell
+4. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+5. The Bell Jar by Sylvia Plath
+6. One Hundred Years of Solitude by Gabriel Garcia Marquez
+7. The Picture of Dorian Gray by Oscar Wilde
+8. The Great Gatsby by F. Scott Fitzgerald
+9. To Kill a Mockingbird by Harper Lee
+10. The Road by Cormac McCarthy
+11. The Handmaid's Tale by Margaret Atwood
+12. The Stranger by Albert Camus
+13. The Sun Also Rises by Ernest Hemingway
+14. The Old Man and the Sea by Ernest Hemingway
+15. The Brothers Karamazov by Fyodor Dostoevsky
+16. Crime and Punishment by Fyodor Dostoevsky
+17. The Trial by Franz Kafka
+18. The Metamorphosis by Franz Kafka
+19. Heart of Darkness by Joseph Conrad
+20. Lord of the Flies by William Golding
+21. The Lord of the Rings by J.R.R. Tolkien
+22. The Hobbit by J.R.R. Tolkien
+23. The Chronicles of Narnia by C.S. Lewis
+24. The Name of the Wind by Patrick Rothfuss
+25. The Hunger Games by Suzanne Collins
+26. Catch-22 by Joseph Heller
+27. The Shining by Stephen King
+28. The Stand by Stephen King
+29. The Dark Tower series by Stephen King
+30. The Girl with the Dragon Tattoo by Stieg Larsson
+31. The Girl Who Played with Fire by Stieg Larsson
+32. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+33. The Da Vinci Code by Dan Brown
+34. Angels and Demons by Dan Brown
+35. The Bourne Identity by Robert Ludlum
+36. The Bourne Supremacy by Robert Ludlum
+37. The Bourne Ultimatum by Robert Ludlum
+38. The Silence of the Lambs by Thomas Harris
+39. Red Dragon by Thomas Harris
+40. Hannibal by Thomas Harris
+41. The Girl on the Train by Paula Hawkins
+42. Gone Girl by Gillian Flynn
+43. The Martian by Andy Weir
+44. Ready Player One by Ernest Cline
+45. Ender's Game by Orson Scott Card
+46. The Maze Runner by James Dashner
+47. The Giver by Lois Lowry
+48. The Outsiders by S.E. Hinton
+49. The Fault in Our Stars by John Green
+50. Looking for Alaska by John Green

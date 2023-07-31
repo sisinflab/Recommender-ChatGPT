@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. The Great Gatsby by F. Scott Fitzgerald
+3. 1984 by George Orwell
+4. The Catcher in the Rye by J.D. Salinger
+5. The Lord of the Rings by J.R.R. Tolkien
+6. The Hobbit by J.R.R. Tolkien
+7. The Chronicles of Narnia by C.S. Lewis
+8. The Hunger Games by Suzanne Collins
+9. The Fault in Our Stars by John Green
+10. The Book Thief by Markus Zusak
+11. The Girl with the Dragon Tattoo by Stieg Larsson
+12. The Da Vinci Code by Dan Brown
+13. The Help by Kathryn Stockett
+14. The Kite Runner by Khaled Hosseini
+15. The Lovely Bones by Alice Sebold
+16. The Secret Life of Bees by Sue Monk Kidd
+17. The Time Traveler's Wife by Audrey Niffenegger
+18. The Picture of Dorian Gray by Oscar Wilde
+19. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+20. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+21. The Shining by Stephen King
+22. The Stand by Stephen King
+23. The Silence of the Lambs by Thomas Harris
+24. The Bourne Identity by Robert Ludlum
+25. The Girl on the Train by Paula Hawkins
+26. The Maze Runner by James Dashner
+27. The Giver by Lois Lowry
+28. The Outsiders by S.E. Hinton
+29. The Perks of Being a Wallflower by Stephen Chbosky
+30. The Road by Cormac McCarthy
+31. The Alchemist by Paulo Coelho
+32. The Name of the Wind by Patrick Rothfuss
+33. The Shadow of the Wind by Carlos Ruiz Zafón
+34. The Nightingale by Kristin Hannah
+35. The Help by Kathryn Stockett
+36. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+37. The Devil Wears Prada by Lauren Weisberger
+38. The Hunger Games by Suzanne Collins
+39. The Maze Runner by James Dashner
+40. The Giver by Lois Lowry
+41. The Perks of Being a Wallflower by Stephen Chbosky
+42. The Road by Cormac McCarthy
+43. The Alchemist by Paulo Coelho
+44. The Name of the Wind by Patrick Rothfuss
+45. The Shadow of the Wind by Carlos Ruiz Zafón
+46. The Nightingale by Kristin Hannah
+47. The Help by Kathryn Stockett
+48. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+49. The Devil Wears Prada by Lauren Weisberger
+50. The Wise Man's Fear by Patrick Rothfuss

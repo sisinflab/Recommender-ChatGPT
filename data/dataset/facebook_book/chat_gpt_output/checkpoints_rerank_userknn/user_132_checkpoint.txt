@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. A Tale of Two Cities by Charles Dickens
+2. Wuthering Heights by Emily Bronte
+3. Pride and Prejudice by Jane Austen
+4. The Great Gatsby by F. Scott Fitzgerald
+5. The Lord of the Rings by J.R.R. Tolkien
+6. The Hobbit by J.R.R. Tolkien
+7. The Catcher in the Rye by J.D. Salinger
+8. Frankenstein by Mary Shelley
+9. Heart of Darkness by Joseph Conrad
+10. Nineteen Eighty-Four by George Orwell
+11. The Handmaid's Tale by Margaret Atwood
+12. The Alchemist by Paulo Coelho
+13. Life of Pi by Yann Martel
+14. The Scarlet Pimpernel by Baroness Orczy
+15. The Legend of Sleepy Hollow by Washington Irving
+16. Angels & Demons by Dan Brown
+17. The Da Vinci Code by Dan Brown
+18. Deception Point by Dan Brown
+19. Digital Fortress by Dan Brown
+20. Timeline by Michael Crichton
+21. Eaters of the Dead by Michael Crichton
+22. The Grapes of Wrath by John Steinbeck
+23. A Fine Balance by Rohinton Mistry
+24. Eat, Pray, Love by Elizabeth Gilbert
+25. The White Tiger by Aravind Adiga
+26. House of Sand and Fog by Andre Dubus III
+27. My Sister's Keeper by Jodi Picoult
+28. PS, I Love You by Cecelia Ahern
+29. Love Story by Erich Segal
+30. The Lovely Bones by Alice Sebold
+31. War and Peace by Leo Tolstoy
+32. Vanity Fair by William Makepeace Thackeray
+33. Tess of the d'Urbervilles by Thomas Hardy
+34. Brisingr by Christopher Paolini
+35. Eragon by Christopher Paolini
+36. The Female Brain by Louann Brizendine
+37. Jinx by Meg Cabot
+38. Misery by Stephen King
+39. The Lottery by Shirley Jackson
+40. Bartleby, the Scrivener by Herman Melville
+41. Civil Disobedience by Henry David Thoreau
+42. The Sands of Time by Michael Hoeye
+43. At First Sight by Nicholas Sparks
+44. Master of the Game by Sidney Sheldon
+45. Quran
+46. I Am Legend by Richard Matheson
+47. Charlie and the Chocolate Factory by Roald Dahl
+48. The Famous Five by Enid Blyton
+49. Ulysses by James Joyce
+50. The Prophet by Kahlil Gibran

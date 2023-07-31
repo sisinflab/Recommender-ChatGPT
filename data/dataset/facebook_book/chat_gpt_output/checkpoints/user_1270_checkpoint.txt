@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. To Kill a Mockingbird by Harper Lee
+3. Lord of the Flies by William Golding
+4. The Great Gatsby by F. Scott Fitzgerald
+5. 1984 by George Orwell
+6. Animal Farm by George Orwell
+7. Brave New World by Aldous Huxley
+8. The Hunger Games by Suzanne Collins
+9. Catch-22 by Joseph Heller
+10. One Hundred Years of Solitude by Gabriel Garcia Marquez
+11. The Bell Jar by Sylvia Plath
+12. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+13. The Hobbit by J.R.R. Tolkien
+14. The Lord of the Rings by J.R.R. Tolkien
+15. The Chronicles of Narnia by C.S. Lewis
+16. The Da Vinci Code by Dan Brown
+17. Angels and Demons by Dan Brown
+18. The Girl with the Dragon Tattoo by Stieg Larsson
+19. The Girl Who Played with Fire by Stieg Larsson
+20. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+21. The Shining by Stephen King
+22. Carrie by Stephen King
+23. The Stand by Stephen King
+24. It by Stephen King
+25. Misery by Stephen King
+26. The Silence of the Lambs by Thomas Harris
+27. Red Dragon by Thomas Harris
+28. Hannibal by Thomas Harris
+29. The Bourne Identity by Robert Ludlum
+30. The Bourne Supremacy by Robert Ludlum
+31. The Bourne Ultimatum by Robert Ludlum
+32. The Firm by John Grisham
+33. The Pelican Brief by John Grisham
+34. A Time to Kill by John Grisham
+35. The Client by John Grisham
+36. The Rainmaker by John Grisham
+37. The Chamber by John Grisham
+38. The Green Mile by Stephen King
+39. The Dark Tower series by Stephen King
+40. The Road by Cormac McCarthy
+41. No Country for Old Men by Cormac McCarthy
+42. Blood Meridian by Cormac McCarthy
+43. The Name of the Wind by Patrick Rothfuss
+44. The Wise Man's Fear by Patrick Rothfuss
+45. The Lies of Locke Lamora by Scott Lynch
+46. The Blade Itself by Joe Abercrombie
+47. The Way of Kings by Brandon Sanderson
+48. Mistborn by Brandon Sanderson
+49. The Final Empire by Brandon Sanderson
+50. The Alloy of Law by Brandon Sanderson

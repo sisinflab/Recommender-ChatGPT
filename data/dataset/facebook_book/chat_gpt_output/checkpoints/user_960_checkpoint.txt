@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Pride and Prejudice by Jane Austen
+6. Animal Farm by George Orwell
+7. The Hunger Games by Suzanne Collins
+8. The Fault in Our Stars by John Green
+9. The Book Thief by Markus Zusak
+10. The Girl with the Dragon Tattoo by Stieg Larsson
+11. The Da Vinci Code by Dan Brown
+12. The Help by Kathryn Stockett
+13. The Kite Runner by Khaled Hosseini
+14. The Maze Runner by James Dashner
+15. The Girl on the Train by Paula Hawkins
+16. The Alchemist by Paulo Coelho
+17. The Picture of Dorian Gray by Oscar Wilde
+18. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+19. The Chronicles of Narnia by C.S. Lewis
+20. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+21. The Shining by Stephen King
+22. The Silence of the Lambs by Thomas Harris
+23. The Stand by Stephen King
+24. The Road by Cormac McCarthy
+25. The Giver by Lois Lowry
+26. The Lovely Bones by Alice Sebold
+27. The Time Traveler's Wife by Audrey Niffenegger
+28. The Handmaid's Tale by Margaret Atwood
+29. The Picture of Dorian Gray by Oscar Wilde
+30. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+31. The Chronicles of Narnia by C.S. Lewis
+32. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+33. The Shining by Stephen King
+34. The Silence of the Lambs by Thomas Harris
+35. The Stand by Stephen King
+36. The Road by Cormac McCarthy
+37. The Giver by Lois Lowry
+38. The Lovely Bones by Alice Sebold
+39. The Time Traveler's Wife by Audrey Niffenegger
+40. The Handmaid's Tale by Margaret Atwood
+41. The Picture of Dorian Gray by Oscar Wilde
+42. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+43. The Chronicles of Narnia by C.S. Lewis
+44. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+45. The Shining by Stephen King
+46. The Silence of the Lambs by Thomas Harris
+47. The Stand by Stephen King
+48. The Road by Cormac McCarthy
+49. The Giver by Lois Lowry
+50. The Lovely Bones by Alice Sebold

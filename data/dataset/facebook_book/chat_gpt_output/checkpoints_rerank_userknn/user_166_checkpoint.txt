@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. 1984 by George Orwell
+3. To Kill a Mockingbird by Harper Lee
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Animal Farm by George Orwell
+6. Lord of the Flies by William Golding
+7. The Bell Jar by Sylvia Plath
+8. One Flew Over the Cuckoo's Nest by Ken Kesey
+9. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+10. The Stranger by Albert Camus
+11. The Sun Also Rises by Ernest Hemingway
+12. The Road by Cormac McCarthy
+13. The Picture of Dorian Gray by Oscar Wilde
+14. The Grapes of Wrath by John Steinbeck
+15. The Sound and the Fury by William Faulkner
+16. Heart of Darkness by Joseph Conrad
+17. The Brothers Karamazov by Fyodor Dostoevsky
+18. Crime and Punishment by Fyodor Dostoevsky
+19. The Trial by Franz Kafka
+20. The Metamorphosis by Franz Kafka
+21. The Old Man and the Sea by Ernest Hemingway
+22. The Count of Monte Cristo by Alexandre Dumas
+23. Les Misérables by Victor Hugo
+24. The Three Musketeers by Alexandre Dumas
+25. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+26. The Hound of the Baskervilles by Arthur Conan Doyle
+27. The War of the Worlds by H.G. Wells
+28. The Time Machine by H.G. Wells
+29. The Invisible Man by H.G. Wells
+30. The Island of Dr. Moreau by H.G. Wells
+31. The Martian Chronicles by Ray Bradbury
+32. Fahrenheit 451 by Ray Bradbury
+33. Brave New World by Aldous Huxley
+34. The Handmaid's Tale by Margaret Atwood
+35. The Hunger Games by Suzanne Collins
+36. Catching Fire by Suzanne Collins
+37. Mockingjay by Suzanne Collins
+38. The Maze Runner by James Dashner
+39. The Scorch Trials by James Dashner
+40. The Death Cure by James Dashner
+41. The Giver by Lois Lowry
+42. Gathering Blue by Lois Lowry
+43. Messenger by Lois Lowry
+44. Son by Lois Lowry
+45. Ender's Game by Orson Scott Card
+46. Speaker for the Dead by Orson Scott Card
+47. Xenocide by Orson Scott Card
+48. Children of the Mind by Orson Scott Card
+49. The Name of the Wind by Patrick Rothfuss
+50. The Wise Man's Fear by Patrick Rothfuss

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Opeth
+2. Ulver
+3. Burzum
+4. Testament
+5. Johann Sebastian Bach
+6. Frédéric Chopin
+7. Tom Waits
+8. Blondie
+9. Lady Gaga
+10. Dropkick Murphys
+11. Howard Shore
+12. Metallica
+13. Iron Maiden
+14. Pearl Jam
+15. Nirvana
+16. Led Zeppelin
+17. Black Eyed Peas
+18. System of a Down
+19. Nine Inch Nails
+20. Daft Punk
+21. Linkin Park
+22. Avenged Sevenfold
+23. Muse
+24. Pink Floyd
+25. The Beatles
+26. U2
+27. Radiohead
+28. Coldplay
+29. The Killers
+30. Placebo
+31. Arctic Monkeys
+32. My Chemical Romance
+33. Green Day
+34. The Cure
+35. Paramore
+36. Evanescence
+37. Katy Perry
+38. Lady Gaga
+39. Christina Aguilera
+40. Beyoncé
+41. Rihanna
+42. Shakira
+43. Ke$ha
+44. Madonna
+45. P!nk
+46. Kelly Clarkson
+47. Taylor Swift
+48. Avril Lavigne
+49. Blur
+50. Kylie Minogue

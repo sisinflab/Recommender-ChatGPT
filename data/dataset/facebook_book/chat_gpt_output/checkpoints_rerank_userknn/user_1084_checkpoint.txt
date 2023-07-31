@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Bell Jar by Sylvia Plath
+2. Frankenstein by Mary Shelley
+3. Alice's Adventures in Wonderland by Lewis Carroll
+4. The Picture of Dorian Gray by Oscar Wilde
+5. The Hobbit by J.R.R. Tolkien
+6. The Lord of the Rings by J.R.R. Tolkien
+7. Crime and Punishment by Fyodor Dostoevsky
+8. The Handmaid's Tale by Margaret Atwood
+9. The Giver by Lois Lowry
+10. The Kite Runner by Khaled Hosseini
+11. The Canterbury Tales by Geoffrey Chaucer
+12. Odyssey by Homer
+13. Les Misérables by Victor Hugo
+14. A Clockwork Orange by Anthony Burgess
+15. Fahrenheit 451 by Ray Bradbury
+16. Through the Looking-Glass by Lewis Carroll
+17. The Shadow of the Wind by Carlos Ruiz Zafón
+18. Inferno by Dante Alighieri
+19. The Aeneid by Virgil
+20. The Screwtape Letters by C.S. Lewis
+21. To the Lighthouse by Virginia Woolf
+22. The Other Boleyn Girl by Philippa Gregory
+23. Angels & Demons by Dan Brown
+24. The Princess Diaries by Meg Cabot
+25. Harry Potter by J.K. Rowling
+26. The Host by Stephenie Meyer
+27. Persuasion by Jane Austen
+28. The Red Tent by Anita Diamant
+29. The Tale of Despereaux by Kate DiCamillo
+30. A Wrinkle in Time by Madeleine L'Engle
+31. Twenty Thousand Leagues Under the Sea by Jules Verne
+32. The Adventures of Tom Sawyer by Mark Twain
+33. Goosebumps by R.L. Stine
+34. Dear John by Nicholas Sparks
+35. A Portrait of the Artist as a Young Man by James Joyce
+36. Lord of the Flies by William Golding
+37. The Melancholy Death of Oyster Boy & Other Stories by Tim Burton
+38. The Prisoner of Zenda by Anthony Hope
+39. The Catcher in the Rye by J.D. Salinger
+40. Dracula by Bram Stoker
+41. Wuthering Heights by Emily Brontë
+42. A Christmas Carol by Charles Dickens
+43. Just Kids by Patti Smith
+44. Nine Princes in Amber by Roger Zelazny
+45. Jane Eyre by Charlotte Brontë
+46. My Ántonia by Willa Cather
+47. Cecilia by Fanny Burney
+48. Sunshine by Robin McKinley
+49. Eighth Grade Bites by Heather Brewer
+50. Vampire$ by John Steakley

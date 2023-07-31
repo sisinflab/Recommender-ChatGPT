@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Great Gatsby by F. Scott Fitzgerald
+2. Pride and Prejudice by Jane Austen
+3. The Secret Garden by Frances Hodgson Burnett
+4. The Book Thief by Markus Zusak
+5. Memoirs of a Geisha by Arthur Golden
+6. The Picture of Dorian Gray by Oscar Wilde
+7. The Alchemist by Paulo Coelho
+8. The Time Traveler's Wife by Audrey Niffenegger
+9. The Stand by Stephen King
+10. The Da Vinci Code by Dan Brown
+11. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+12. Fahrenheit 451 by Ray Bradbury
+13. Little Women by Louisa May Alcott
+14. The Secret History by Donna Tartt
+15. The Brain That Changes Itself by Norman Doidge
+16. The Tipping Point by Malcolm Gladwell
+17. The Lord of the Rings by J.R.R. Tolkien
+18. The Forgotten Garden by Kate Morton
+19. Light in August by William Faulkner
+20. The New Jedi Order by R.A. Salvatore
+21. The Fountainhead by Ayn Rand
+22. The Art of Racing in the Rain by Garth Stein
+23. Romeo and Juliet by William Shakespeare
+24. The Lost World: Jurassic Park by Michael Crichton
+25. All Quiet on the Western Front by Erich Maria Remarque
+26. The Tempest by William Shakespeare
+27. Nineteen Minutes by Jodi Picoult
+28. Night by Elie Wiesel
+29. Go Ask Alice by Anonymous
+30. Son of a Witch by Gregory Maguire
+31. Dead Until Dark by Charlaine Harris
+32. The Secret Life of Bees by Sue Monk Kidd
+33. Emma by Jane Austen
+34. Timeline by Michael Crichton
+35. The Stand by Stephen King
+36. A Lion Among Men by Gregory Maguire
+37. Holes by Louis Sachar
+38. The Memory Keeper's Daughter by Kim Edwards
+39. Tuck Everlasting by Natalie Babbitt
+40. Bloodbrothers by Richard Price
+41. Native Son by Richard Wright
+42. Frankenstein by Mary Shelley
+43. Where the Heart Is by Billie Letts
+44. Fullmetal Alchemist by Hiromu Arakawa
+45. Black Boy by Richard Wright
+46. I Am David by Anne Holm
+47. Unwind by Neal Shusterman
+48. Twilight by Stephenie Meyer
+49. Lolita by Vladimir Nabokov
+50. The Lost Boy by Dave Pelzer

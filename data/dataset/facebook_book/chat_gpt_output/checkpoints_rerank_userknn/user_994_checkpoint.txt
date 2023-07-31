@@ -1,0 +1,48 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Alchemist (novel) by Paulo Coelho
+2. Veronika Decides to Die by Paulo Coelho
+3. Brida (novel) by Paulo Coelho
+4. The Zahir (novel) by Paulo Coelho
+5. Eleven Minutes by Paulo Coelho
+6. By the River Piedra I Sat Down and Wept by Paulo Coelho
+7. The Witch of Portobello by Paulo Coelho
+8. Crime and Punishment by Fyodor Dostoyevsky
+9. Eat, Pray, Love by Elizabeth Gilbert
+10. Little Women by Louisa May Alcott
+11. The Picture of Dorian Gray by Oscar Wilde
+12. The Namesake by Jhumpa Lahiri
+13. Interpreter of Maladies by Jhumpa Lahiri
+14. Atonement (novel) by Ian McEwan
+15. The Catcher in the Rye by J.D. Salinger
+16. Vanity Fair (novel) by William Makepeace Thackeray
+17. The House of Mirth by Edith Wharton
+18. Jane Eyre by Charlotte Bronte
+19. The Taming of the Shrew by William Shakespeare
+20. Anne of Green Gables by L.M. Montgomery
+21. The Importance of Being Earnest by Oscar Wilde
+22. The Clan of the Cave Bear by Jean M. Auel
+23. The Bronze Horseman (novel) by Paullina Simons
+24. The Hamlet by William Faulkner
+25. The Devil and Miss Prym by Paulo Coelho
+26. The Valkyries (novel) by Paulo Coelho
+27. The Pilgrimage by Paulo Coelho
+28. The Argumentative Indian by Amartya Sen
+29. The Interpretation of Dreams by Sigmund Freud
+30. Sense and Sensibility by Jane Austen
+31. Harry Potter by J.K. Rowling
+32. Twilight (series) by Stephenie Meyer
+33. The Black Stallion by Walter Farley
+34. Angels & Demons by Dan Brown
+35. A Tale of Two Cities by Charles Dickens
+36. A Series of Unfortunate Events by Lemony Snicket
+37. Charlie and the Chocolate Factory by Roald Dahl
+38. Fall of Giants by Ken Follett
+39. The Magic Faraway Tree (novel) by Enid Blyton
+40. Gone with the Wind by Margaret Mitchell
+41. Out of the Dust by Karen Hesse
+42. Bonjour Tristesse by Francoise Sagan
+43. The Sisterhood of the Traveling Pants (novel) by Ann Brashares
+44. Snow Flower and the Secret Fan by Lisa See
+45. Gulliver's Travels by Jonathan Swift
+46

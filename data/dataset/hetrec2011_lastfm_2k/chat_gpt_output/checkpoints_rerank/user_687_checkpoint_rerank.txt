@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Velvet Underground
+2. Iggy Pop
+3. Joy Division
+4. The Stooges
+5. Talking Heads
+6. New Order
+7. Echo & the Bunnymen
+8. The Clash
+9. Pixies
+10. The Smiths
+11. Joy Division
+12. The Ramones
+13. The Jam
+14. The Cure
+15. Blondie
+16. The Stranglers
+17. The Damned
+18. The Buzzcocks
+19. The Psychedelic Furs
+20. The Replacements
+21. The Gun Club
+22. The Birthday Party
+23. The Cramps
+24. The Fall
+25. The Jesus Lizard
+26. Sonic Youth
+27. Dinosaur Jr.
+28. Mudhoney
+29. Screaming Trees
+30. Soundgarden
+31. Alice in Chains
+32. Stone Temple Pilots
+33. Pearl Jam
+34. Nirvana
+35. Smashing Pumpkins
+36. Radiohead
+37. Oasis
+38. Blur
+39. Pulp
+40. Suede
+41. Supergrass
+42. The Verve
+43. Travis
+44. Coldplay
+45. Muse
+46. Arcade Fire
+47. Interpol
+48. The National
+49. Vampire Weekend
+50. Tame Impala

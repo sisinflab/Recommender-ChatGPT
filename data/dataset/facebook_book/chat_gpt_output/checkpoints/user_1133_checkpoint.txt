@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Alchemist by Paulo Coelho
+2. The Catcher in the Rye by J.D. Salinger
+3. To Kill a Mockingbird by Harper Lee
+4. The Great Gatsby by F. Scott Fitzgerald
+5. 1984 by George Orwell
+6. Pride and Prejudice by Jane Austen
+7. The Picture of Dorian Gray by Oscar Wilde
+8. The Bell Jar by Sylvia Plath
+9. The Handmaid's Tale by Margaret Atwood
+10. The Hunger Games by Suzanne Collins
+11. The Fault in Our Stars by John Green
+12. The Perks of Being a Wallflower by Stephen Chbosky
+13. The Lord of the Rings by J.R.R. Tolkien
+14. The Hobbit by J.R.R. Tolkien
+15. The Chronicles of Narnia by C.S. Lewis
+16. The Girl with the Dragon Tattoo by Stieg Larsson
+17. The Da Vinci Code by Dan Brown
+18. The Help by Kathryn Stockett
+19. The Kite Runner by Khaled Hosseini
+20. The Road by Cormac McCarthy
+21. The Book Thief by Markus Zusak
+22. The Lovely Bones by Alice Sebold
+23. The Shining by Stephen King
+24. The Stand by Stephen King
+25. The Silence of the Lambs by Thomas Harris
+26. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+27. The Martian by Andy Weir
+28. The Name of the Wind by Patrick Rothfuss
+29. The Shadow of the Wind by Carlos Ruiz Zafón
+30. The Nightingale by Kristin Hannah
+31. The Help by Kathryn Stockett
+32. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+33. The Glass Castle by Jeannette Walls
+34. The Color Purple by Alice Walker
+35. The Joy Luck Club by Amy Tan
+36. The God of Small Things by Arundhati Roy
+37. The Poisonwood Bible by Barbara Kingsolver
+38. The Secret Life of Bees by Sue Monk Kidd
+39. The Time Machine by H.G. Wells
+40. The War of the Worlds by H.G. Wells
+41. The Invisible Man by H.G. Wells
+42. The Island of Dr. Moreau by H.G. Wells
+43. The Picture of Dorian Gray by Oscar Wilde
+44. The Importance of Being Earnest by Oscar Wilde
+45. The Picture of Dorian Gray by Oscar Wilde
+46. The Importance of Being Earnest by Oscar Wilde
+47. The Picture of Dorian Gray by Oscar Wilde
+48. The Importance of Being Earnest by Oscar Wilde
+49. The Picture of Dorian Gray by Oscar Wilde
+50. The Importance of Being Earn

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Depeche Mode
+2. The Cure
+3. Kraftwerk
+4. Yazoo
+5. Pet Shop Boys
+6. Gary Numan
+7. Front 242
+8. Front Line Assembly
+9. Alphaville
+10. Orchestral Manoeuvres in the Dark
+11. Duran Duran
+12. Eurythmics
+13. Björk
+14. Aphex Twin
+15. The Human League
+16. Apoptygma Berzerk
+17. And One
+18. New Order
+19. Joy Division
+20. Bauhaus
+21. Siouxsie and the Banshees
+22. The Sisters of Mercy
+23. The Smiths
+24. Morrissey
+25. David Bowie
+26. Roxy Music
+27. Talking Heads
+28. Iggy Pop
+29. Lou Reed
+30. Elvis Costello
+31. Blondie
+32. Patti Smith
+33. Nick Cave and the Bad Seeds
+34. Tom Waits
+35. Leonard Cohen
+36. Frank Sinatra
+37. Ella Fitzgerald
+38. Billie Holiday
+39. Nina Simone
+40. Miles Davis
+41. John Coltrane
+42. Thelonious Monk
+43. Charles Mingus
+44. Duke Ellington
+45. Count Basie
+46. Ella Fitzgerald & Louis Armstrong
+47. Louis Armstrong
+48. Nat King Cole
+49. Sarah Vaughan
+50. Dinah Washington

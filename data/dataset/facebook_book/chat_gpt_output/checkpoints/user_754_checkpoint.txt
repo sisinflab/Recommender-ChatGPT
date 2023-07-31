@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. One Hundred Years of Solitude by Gabriel Garcia Marquez
+5. The Picture of Dorian Gray by Oscar Wilde
+6. The Handmaid's Tale by Margaret Atwood
+7. The Lord of the Rings by J.R.R. Tolkien
+8. The Hobbit by J.R.R. Tolkien
+9. The Chronicles of Narnia by C.S. Lewis
+10. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+11. The Hunger Games by Suzanne Collins
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Da Vinci Code by Dan Brown
+14. The Shining by Stephen King
+15. The Stand by Stephen King
+16. The Road by Cormac McCarthy
+17. The Book Thief by Markus Zusak
+18. The Kite Runner by Khaled Hosseini
+19. The Alchemist by Paulo Coelho
+20. The Secret History by Donna Tartt
+21. The Name of the Wind by Patrick Rothfuss
+22. The Wise Man's Fear by Patrick Rothfuss
+23. The Shadow of the Wind by Carlos Ruiz Zafón
+24. The Time Traveler's Wife by Audrey Niffenegger
+25. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+26. The Fault in Our Stars by John Green
+27. The Perks of Being a Wallflower by Stephen Chbosky
+28. The Bell Jar by Sylvia Plath
+29. The Great Gatsby by F. Scott Fitzgerald
+30. The Waste Land by T.S. Eliot
+31. Charlotte's Web by E.B. White
+32. Charlie and the Chocolate Factory by Roald Dahl
+33. Oryx and Crake by Margaret Atwood
+34. Battle Royale by Koushun Takami
+35. The Vampire Chronicles by Anne Rice
+36. The Blind Assassin by Margaret Atwood
+37. You Shall Know Our Velocity by Dave Eggers
+38. The Road to Serfdom by Friedrich Hayek
+39. The Communist Manifesto by Karl Marx and Friedrich Engels
+40. The Wealth of Nations by Adam Smith
+41. The Art of War by Sun Tzu
+42. The Prince by Niccolò Machiavelli
+43. The Republic by Plato
+44. The Odyssey by Homer
+45. The Iliad by Homer
+46. The Divine Comedy by Dante Alighieri
+47. Crime and Punishment by Fyodor Dostoevsky
+48. War and Peace by Leo Tolstoy
+49. Anna Karenina by Leo Tolstoy
+50. Pride and Prejud

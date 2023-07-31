@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Interview with the Vampire by Anne Rice
+2. Dracula by Bram Stoker
+3. The Phantom of the Opera by Gaston Leroux
+4. Frankenstein by Mary Shelley
+5. Twilight (series) by Stephenie Meyer
+6. Witch & Wizard by James Patterson
+7. Love in the Time of Cholera by Gabriel Garcia Marquez
+8. Memoirs of a Geisha by Arthur Golden
+9. The Alchemist by Paulo Coelho
+10. The Shadow of the Wind by Carlos Ruiz Zafon
+11. Angels & Demons by Dan Brown
+12. The Picture of Dorian Gray by Oscar Wilde
+13. Les Misérables by Victor Hugo
+14. Gone with the Wind by Margaret Mitchell
+15. Romeo and Juliet by William Shakespeare
+16. The Scarlet Letter by Nathaniel Hawthorne
+17. Jane Eyre by Charlotte Bronte
+18. Moby-Dick by Herman Melville
+19. The Lord of the Rings by J.R.R. Tolkien
+20. Cujo by Stephen King
+21. Demian by Hermann Hesse
+22. The Metamorphosis by Franz Kafka
+23. The Watchmen by Alan Moore
+24. Chronicle of a Death Foretold by Gabriel Garcia Marquez
+25. The Illuminatus! Trilogy by Robert Shea and Robert Anton Wilson
+26. Flowers in the Attic by V.C. Andrews
+27. Rosemary's Baby by Ira Levin
+28. Medea by Euripides
+29. Let the Right One In by John Ajvide Lindqvist
+30. The Memory Keeper's Daughter by Kim Edwards
+31. Around the World in Eighty Days by Jules Verne
+32. The Secret Garden by Frances Hodgson Burnett
+33. Holes by Louis Sachar
+34. The Gospel of Matthew
+35. The Gospel of Mark
+36. The Book of Revelation
+37. The Epistle to the Romans
+38. The Quran
+39. The King James Version of the Bible
+40. The New Living Translation of the Bible
+41. A Lion Among Men by Gregory Maguire
+42. We Were Soldiers Once… And Young by Harold G. Moore and Joseph L. Galloway
+43. The Wonderful Wizard of Oz by L. Frank Baum
+44. Alice's Adventures in Wonderland by Lewis Carroll
+45. Weetzie Bat by Francesca Lia Block
+46. Cecilia by Fanny Burney
+47. Pedro Páramo by Juan Rulfo
+48. Les Fleurs du mal by Charles Baudelaire
+49. Carmilla by J. Sheridan Le Fanu
+50. Aura by Carlos Fuentes

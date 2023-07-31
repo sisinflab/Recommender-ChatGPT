@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Fault in Our Stars by John Green
+2. Divergent by Veronica Roth
+3. The Hunger Games by Suzanne Collins
+4. The Maze Runner by James Dashner
+5. The Book Thief by Markus Zusak
+6. The Catcher in the Rye by J.D. Salinger
+7. To Kill a Mockingbird by Harper Lee
+8. 1984 by George Orwell
+9. Animal Farm by George Orwell
+10. Lord of the Flies by William Golding
+11. Brave New World by Aldous Huxley
+12. Fahrenheit 451 by Ray Bradbury
+13. The Handmaid's Tale by Margaret Atwood
+14. The Road by Cormac McCarthy
+15. The Girl with the Dragon Tattoo by Stieg Larsson
+16. The Da Vinci Code by Dan Brown
+17. Angels and Demons by Dan Brown
+18. The Bourne Identity by Robert Ludlum
+19. The Bourne Supremacy by Robert Ludlum
+20. The Bourne Ultimatum by Robert Ludlum
+21. The Girl on the Train by Paula Hawkins
+22. Gone Girl by Gillian Flynn
+23. The Lovely Bones by Alice Sebold
+24. The Help by Kathryn Stockett
+25. The Secret Life of Bees by Sue Monk Kidd
+26. The Color Purple by Alice Walker
+27. The Joy Luck Club by Amy Tan
+28. The Kite Runner by Khaled Hosseini
+29. A Thousand Splendid Suns by Khaled Hosseini
+30. The Alchemist by Paulo Coelho
+31. The Picture of Dorian Gray by Oscar Wilde
+32. The Great Gatsby by F. Scott Fitzgerald
+33. The Bell Jar by Sylvia Plath
+34. One Hundred Years of Solitude by Gabriel Garcia Marquez
+35. Love in the Time of Cholera by Gabriel Garcia Marquez
+36. The Name of the Wind by Patrick Rothfuss
+37. The Wise Man's Fear by Patrick Rothfuss
+38. The Hobbit by J.R.R. Tolkien
+39. The Lord of the Rings by J.R.R. Tolkien
+40. The Chronicles of Narnia by C.S. Lewis
+41. Harry Potter and the Philosopher's Stone by J.K. Rowling
+42. Harry Potter and the Chamber of Secrets by J.K. Rowling
+43. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+44. Harry Potter and the Goblet of Fire by J.K. Rowling
+45. Harry Potter and the Order of Phoenix by J.K. Rowling
+46. Harry Potter and the Half-Blood Prince by J.K. Rowling
+47. Harry Potter and the Deathly Hallows by J.K. Rowling
+48. The Hunger Games: Catching Fire
+49. Moby-Dick by Herman Melville
+50. The Wise Man's Fear by Patrick Rothfuss

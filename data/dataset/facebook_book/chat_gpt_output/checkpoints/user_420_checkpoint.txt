@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Neverwhere by Neil Gaiman
+2. The Graveyard Book by Neil Gaiman
+3. Coraline by Neil Gaiman
+4. Stardust by Neil Gaiman
+5. Good Omens by Neil Gaiman and Terry Pratchett
+6. The Ocean at the End of the Lane by Neil Gaiman
+7. The Sandman series by Neil Gaiman
+8. The Dresden Files series by Jim Butcher
+9. The Name of the Wind by Patrick Rothfuss
+10. The Wise Man's Fear by Patrick Rothfuss
+11. The Lies of Locke Lamora by Scott Lynch
+12. The Kingkiller Chronicle series by Patrick Rothfuss
+13. The Dark Tower series by Stephen King
+14. The Shining by Stephen King
+15. It by Stephen King
+16. The Stand by Stephen King
+17. The Complete Sherlock Holmes by Arthur Conan Doyle
+18. The Cask of Amontillado by Edgar Allan Poe
+19. The Tell-Tale Heart by Edgar Allan Poe
+20. The Raven by Edgar Allan Poe
+21. The Masque of the Red Death by Edgar Allan Poe
+22. The Black Cat by Edgar Allan Poe
+23. The Picture of Dorian Gray by Oscar Wilde
+24. Dracula by Bram Stoker
+25. Frankenstein by Mary Shelley
+26. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+27. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+28. The Lord of the Rings series by J.R.R. Tolkien
+29. The Hobbit by J.R.R. Tolkien
+30. The Chronicles of Narnia series by C.S. Lewis
+31. The Hunger Games series by Suzanne Collins
+32. The Girl with the Dragon Tattoo by Stieg Larsson
+33. The Da Vinci Code by Dan Brown
+34. The Catcher in the Rye by J.D. Salinger
+35. To Kill a Mockingbird by Harper Lee
+36. 1984 by George Orwell
+37. Animal Farm by George Orwell
+38. Brave New World by Aldous Huxley
+39. Fahrenheit 451 by Ray Bradbury
+40. Slaughterhouse-Five by Kurt Vonnegut
+41. One Hundred Years of Solitude by Gabriel Garcia Marquez
+42. The Great Gatsby by F. Scott Fitzgerald
+43. Catch-22 by Joseph Heller
+44. The Bell Jar by Sylvia Plath
+45. The Gold Bug Variations by Richard Powers
+46. The Last Storytellers: Tales from the Heart of Morocco by Richard Hamilton
+47. The Fall of the House of Usher by Edgar Allan Poe
+48. The Complete Tales and Poems of Edgar Allan Poe by Edgar Allan Poe
+49. The Crow:

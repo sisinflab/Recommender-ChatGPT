@@ -1,0 +1,49 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Chronicles of Narnia by C.S. Lewis
+2. Pride and Prejudice by Jane Austen
+3. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+4. The Catcher in the Rye by J.D. Salinger
+5. To Kill a Mockingbird by Harper Lee
+6. The Great Gatsby by F. Scott Fitzgerald
+7. The Secret Garden by Frances Hodgson Burnett
+8. The Wind in the Willows by Kenneth Grahame
+9. The Adventures of Tom Sawyer by Mark Twain
+10. Little Women by Louisa May Alcott
+11. The Catcher in the Rye by J.D. Salinger
+12. The Picture of Dorian Gray by Oscar Wilde
+13. The Time Machine by H.G. Wells
+14. The War of the Worlds by H.G. Wells
+15. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+16. The Hound of the Baskervilles by Arthur Conan Doyle
+17. The Three Musketeers by Alexandre Dumas
+18. The Count of Monte Cristo by Alexandre Dumas
+19. The Scarlet Letter by Nathaniel Hawthorne
+20. The Adventures of Huckleberry Finn by Mark Twain
+21. The Call of the Wild by Jack London
+22. White Fang by Jack London
+23. The Old Man and the Sea by Ernest Hemingway
+24. For Whom the Bell Tolls by Ernest Hemingway
+25. The Sun Also Rises by Ernest Hemingway
+26. The Grapes of Wrath by John Steinbeck
+27. Of Mice and Men by John Steinbeck
+28. East of Eden by John Steinbeck
+29. The Sound and the Fury by William Faulkner
+30. As I Lay Dying by William Faulkner
+31. Light in August by William Faulkner
+32. The Maltese Falcon by Dashiell Hammett
+33. The Big Sleep by Raymond Chandler
+34. The Long Goodbye by Raymond Chandler
+35. The Postman Always Rings Twice by James M. Cain
+36. Double Indemnity by James M. Cain
+37. The Thin Man by Dashiell Hammett
+38. The Glass Key by Dashiell Hammett
+39. The Talented Mr. Ripley by Patricia Highsmith
+40. Strangers on a Train by Patricia Highsmith
+41. The Day of the Jackal by Frederick Forsyth
+42. The Bourne Identity by Robert Ludlum
+43. The Hunt for Red October by Tom Clancy
+44. The Da Vinci Code by Dan Brown
+45. Angels and Demons by Dan Brown
+46. The Girl with the Dragon Tattoo by Stieg Larsson
+47. The Girl Who Played with Fire by

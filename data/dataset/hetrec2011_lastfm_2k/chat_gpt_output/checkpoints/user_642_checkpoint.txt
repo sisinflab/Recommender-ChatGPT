@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Eric Clapton
+2. Jimi Hendrix
+3. The Rolling Stones
+4. Led Zeppelin
+5. Pink Floyd
+6. The Beatles
+7. Bob Dylan
+8. Bruce Springsteen
+9. Fleetwood Mac
+10. Queen
+11. The Who
+12. David Bowie
+13. Neil Young
+14. The Doors
+15. Cream
+16. The Allman Brothers Band
+17. John Lee Hooker
+18. Chuck Berry
+19. Elvis Presley
+20. Johnny Cash
+21. Bob Marley & The Wailers
+22. The Kinks
+23. The Beach Boys
+24. The Byrds
+25. The Mamas & The Papas
+26. Simon & Garfunkel
+27. The Eagles
+28. Lynyrd Skynyrd
+29. ZZ Top
+30. AC/DC
+31. Guns N' Roses
+32. Metallica
+33. Nirvana
+34. Pearl Jam
+35. Soundgarden
+36. Alice in Chains
+37. Red Hot Chili Peppers
+38. Foo Fighters
+39. Green Day
+40. Oasis
+41. Radiohead
+42. Coldplay
+43. Muse
+44. The Killers
+45. Arctic Monkeys
+46. Vampire Weekend
+47. Tame Impala
+48. The Black Keys
+49. Cage the Elephant
+50. Alabama Shakes

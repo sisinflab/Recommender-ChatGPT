@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for user 203 would be:
+
+1. Killswitch Engage
+2. In Flames
+3. All That Remains
+4. As I Lay Dying
+5. Dead by April
+6. Bullet for My Valentine
+7. Escape The Fate
+8. Caliban
+9. Demon Hunter
+10. Born of Osiris
+11. A Day to Remember
+12. Haste the Day
+13. The Devil Wears Prada
+14. Underoath
+15. We Came As Romans
+16. Slash
+17. Muse
+18. 30 Seconds to Mars
+19. Paramore
+20. Avenged Sevenfold
+21. My Chemical Romance
+22. Green Day
+23. Nirvana
+24. Metallica
+25. Iron Maiden
+26. Pearl Jam
+27. Linkin Park
+28. System of a Down
+29. Nine Inch Nails
+30. The Killers
+31. Coldplay
+32. Radiohead
+33. Pink Floyd
+34. Led Zeppelin
+35. Michael Jackson
+36. Madonna
+37. Lady Gaga
+38. Beyoncé
+39. Rihanna
+40. Katy Perry
+41. Christina Aguilera
+42. Ke$ha
+43. Taylor Swift
+44. Evanescence
+45. P!nk
+46. Kelly Clarkson
+47. Arctic Monkeys
+48. Placebo
+49. Blur
+50. Depeche Mode

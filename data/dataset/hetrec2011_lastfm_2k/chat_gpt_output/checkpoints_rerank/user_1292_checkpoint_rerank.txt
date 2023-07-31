@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. MGMT
+2. Demi Lovato
+3. Vanessa Hudgens
+4. Ladyhawke
+5. The Ting Tings
+6. Jonas Brothers
+7. Black Kids
+8. Hannah Montana
+9. Selena Gomez
+10. The Kooks
+11. Camp Rock
+12. High School Musical
+13. Katy Perry
+14. Jesse McCartney
+15. Skye Sweetnam
+16. Hilary Duff
+17. Aly & AJ
+18. The Stone Roses
+19. Lindsay Lohan
+20. Kate Voegele
+21. Yelle
+22. Drake Bell
+23. The Jimi Hendrix Experience
+24. Jessica Simpson
+25. The Rolling Stones
+26. Jennifer Lopez
+27. Britney Spears
+28. Madonna
+29. Christina Aguilera
+30. Rihanna
+31. Shakira
+32. Beyoncé
+33. Taylor Swift
+34. Ke$ha
+35. Pink Floyd
+36. Muse
+37. Radiohead
+38. Coldplay
+39. Nirvana
+40. Led Zeppelin
+41. Michael Jackson
+42. Pearl Jam
+43. Björk
+44. Daft Punk
+45. Nine Inch Nails
+46. Linkin Park
+47. Kelly Clarkson
+48. All Time Low
+49. Green Day
+50. The Cure

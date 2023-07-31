@@ -1,0 +1,49 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Maze Runner by James Dashner
+2. Divergent by Veronica Roth
+3. The Giver by Lois Lowry
+4. Eragon by Christopher Paolini
+5. The Hunger Games Trilogy Boxed Set by Suzanne Collins
+6. The Percy Jackson and the Olympians Boxed Set by Rick Riordan
+7. The Lord of the Rings Trilogy by J.R.R. Tolkien
+8. The Hobbit by J.R.R. Tolkien
+9. The Chronicles of Narnia Boxed Set by C.S. Lewis
+10. The Mortal Instruments Boxed Set by Cassandra Clare
+11. The Infernal Devices Boxed Set by Cassandra Clare
+12. The Harry Potter Boxed Set by J.K. Rowling
+13. The Name of the Wind by Patrick Rothfuss
+14. The Wise Man's Fear by Patrick Rothfuss
+15. The Kingkiller Chronicle Series by Patrick Rothfuss
+16. The Wheel of Time Series by Robert Jordan
+17. Mistborn Trilogy Boxed Set by Brandon Sanderson
+18. The Stormlight Archive Series by Brandon Sanderson
+19. The Way of Kings by Brandon Sanderson
+20. The Final Empire by Brandon Sanderson
+21. The Well of Ascension by Brandon Sanderson
+22. The Hero of Ages by Brandon Sanderson
+23. The Lies of Locke Lamora by Scott Lynch
+24. The Gentlemen Bastards Series by Scott Lynch
+25. The First Law Trilogy by Joe Abercrombie
+26. The Blade Itself by Joe Abercrombie
+27. Before They Are Hanged by Joe Abercrombie
+28. Last Argument of Kings by Joe Abercrombie
+29. The Lies of Locke Lamora by Scott Lynch
+30. The Gentlemen Bastards Series by Scott Lynch
+31. The First Law Trilogy by Joe Abercrombie
+32. The Blade Itself by Joe Abercrombie
+33. Before They Are Hanged by Joe Abercrombie
+34. Last Argument of Kings by Joe Abercrombie
+35. The Lies of Locke Lamora by Scott Lynch
+36. The Gentlemen Bastards Series by Scott Lynch
+37. The First Law Trilogy by Joe Abercrombie
+38. The Blade Itself by Joe Abercrombie
+39. Before They Are Hanged by Joe Abercrombie
+40. Last Argument of Kings by Joe Abercrombie
+41. The Lies of Locke Lamora by Scott Lynch
+42. The Gentlemen Bastards Series by Scott Lynch
+43. The First Law Trilogy by Joe Abercrombie
+44. The Blade Itself by Joe Abercrombie
+45. Before They Are Hanged by Joe Abercrombie
+46. Last Argument of Kings by Joe Abercrombie
+47. The Lies of

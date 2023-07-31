@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Animal Farm by George Orwell
+2. Brave New World by Aldous Huxley
+3. The Catcher in the Rye by J.D. Salinger
+4. To Kill a Mockingbird by Harper Lee
+5. Lord of the Flies by William Golding
+6. One Hundred Years of Solitude by Gabriel Garcia Marquez
+7. Crime and Punishment by Fyodor Dostoevsky
+8. The Brothers Karamazov by Fyodor Dostoevsky
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Trial by Franz Kafka
+11. Heart of Darkness by Joseph Conrad
+12. The Stranger by Albert Camus
+13. The Sun Also Rises by Ernest Hemingway
+14. The Old Man and the Sea by Ernest Hemingway
+15. The Sound and the Fury by William Faulkner
+16. As I Lay Dying by William Faulkner
+17. The Grapes of Wrath by John Steinbeck
+18. East of Eden by John Steinbeck
+19. The Bell Jar by Sylvia Plath
+20. Lolita by Vladimir Nabokov
+21. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+22. Slaughterhouse-Five by Kurt Vonnegut
+23. Cat's Cradle by Kurt Vonnegut
+24. The Handmaid's Tale by Margaret Atwood
+25. Oryx and Crake by Margaret Atwood
+26. The Road by Cormac McCarthy
+27. Blood Meridian by Cormac McCarthy
+28. The Name of the Rose by Umberto Eco
+29. The Shadow of the Wind by Carlos Ruiz Zafon
+30. The Girl with the Dragon Tattoo by Stieg Larsson
+31. The Girl Who Played with Fire by Stieg Larsson
+32. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+33. The Hunger Games by Suzanne Collins
+34. Catching Fire by Suzanne Collins
+35. Mockingjay by Suzanne Collins
+36. The Maze Runner by James Dashner
+37. The Scorch Trials by James Dashner
+38. The Death Cure by James Dashner
+39. The Bourne Identity by Robert Ludlum
+40. The Bourne Supremacy by Robert Ludlum
+41. The Bourne Ultimatum by Robert Ludlum
+42. The Da Vinci Code by Dan Brown
+43. Angels & Demons by Dan Brown
+44. Inferno by Dan Brown
+45. Digital Fortress by Dan Brown
+46. The Lost Symbol by Dan Brown
+47. The Secret History by Donna Tartt
+48. The Goldfinch by Donna Tartt
+49. American Gods by Neil Gaiman
+50. Neverwhere by Neil Gaiman

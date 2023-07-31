@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. Frankenstein by Mary Shelley
+3. Brave New World by Aldous Huxley
+4. Nineteen Eighty-Four by George Orwell
+5. Pride and Prejudice by Jane Austen
+6. The Great Gatsby by F. Scott Fitzgerald
+7. Crime and Punishment by Fyodor Dostoevsky
+8. The Scarlet Letter by Nathaniel Hawthorne
+9. Memoirs of a Geisha by Arthur Golden
+10. Inkspell by Cornelia Funke
+11. The Princess Bride by William Goldman
+12. The Vampire Chronicles by Anne Rice
+13. Tess of the d'Urbervilles by Thomas Hardy
+14. Oliver Twist by Charles Dickens
+15. Little Women by Louisa May Alcott
+16. The Hobbit by J.R.R. Tolkien
+17. Robinson Crusoe by Daniel Defoe
+18. The Dante Club by Matthew Pearl
+19. The Eyes of the Dragon by Stephen King
+20. The Bloody Chamber by Angela Carter
+21. Mrs Dalloway by Virginia Woolf
+22. Waiting for Godot by Samuel Beckett
+23. Good Omens by Neil Gaiman and Terry Pratchett
+24. The End of Mr. Y by Scarlett Thomas
+25. Perfume by Patrick Süskind
+26. The Jungle Book by Rudyard Kipling
+27. The Old Man and the Sea by Ernest Hemingway
+28. Around the World in Eighty Days by Jules Verne
+29. Valiant: A Modern Tale of Faerie by Holly Black
+30. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+31. I, Robot by Isaac Asimov
+32. A Clockwork Orange by Anthony Burgess
+33. The Thief of Always by Clive Barker
+34. Stalingrad by Antony Beevor
+35. Fullmetal Alchemist by Hiromu Arakawa
+36. Gulliver's Travels by Jonathan Swift
+37. Fushigi Yûgi by Yuu Watase
+38. Azumanga Daioh by Kiyohiko Azuma
+39. Born to Rock by Gordon Korman
+40. Holes by Louis Sachar
+41. Danse Macabre by Stephen King
+42. Quran by Anonymous
+43. Twilight by Stephenie Meyer
+44. The Iliad by Homer
+45. Emma by Jane Austen
+46. Justine by Marquis de Sade
+47. Small Steps by Louis Sachar
+48. Vampire Kisses by Ellen Schreiber
+49. Paper Towns by John Green
+50. His Dark Materials by Philip Pullman

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Gone Girl by Gillian Flynn
+3. The Fault in Our Stars by John Green
+4. The Help by Kathryn Stockett
+5. The Da Vinci Code by Dan Brown
+6. The Catcher in the Rye by J.D. Salinger
+7. The Maze Runner by James Dashner
+8. The Lovely Bones by Alice Sebold
+9. The Book Thief by Markus Zusak
+10. The Secret Life of Bees by Sue Monk Kidd
+11. The Time Traveler's Wife by Audrey Niffenegger
+12. The Kite Runner by Khaled Hosseini
+13. The Girl on the Train by Paula Hawkins
+14. The Nightingale by Kristin Hannah
+15. The Alchemist by Paulo Coelho
+16. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+17. The Help by Kathryn Stockett
+18. The Hunger Games by Suzanne Collins
+19. The Da Vinci Code by Dan Brown
+20. The Catcher in the Rye by J.D. Salinger
+21. The Maze Runner by James Dashner
+22. The Lovely Bones by Alice Sebold
+23. The Book Thief by Markus Zusak
+24. The Secret Life of Bees by Sue Monk Kidd
+25. The Time Traveler's Wife by Audrey Niffenegger
+26. The Kite Runner by Khaled Hosseini
+27. The Girl on the Train by Paula Hawkins
+28. The Nightingale by Kristin Hannah
+29. The Alchemist by Paulo Coelho
+30. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+31. The Help by Kathryn Stockett
+32. The Hunger Games by Suzanne Collins
+33. The Da Vinci Code by Dan Brown
+34. The Catcher in the Rye by J.D. Salinger
+35. The Maze Runner by James Dashner
+36. The Lovely Bones by Alice Sebold
+37. The Book Thief by Markus Zusak
+38. The Secret Life of Bees by Sue Monk Kidd
+39. The Time Traveler's Wife by Audrey Niffenegger
+40. The Kite Runner by Khaled Hosseini
+41. The Girl on the Train by Paula Hawkins
+42. The Nightingale by Kristin Hannah
+43. The Alchemist by Paulo Coelho
+44. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+45. The Help by Kathryn Stockett
+46. The Hunger Games by Suzanne Collins
+47. The Da Vinci Code by Dan Brown
+48. The Catcher in the Rye by J.D. Salinger
+49. The Maze Runner by James Dashner
+50. The Lovely Bones by Alice Sebold

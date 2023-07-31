@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Nirvana
+2. Green Day
+3. The Beatles
+4. Foo Fighters
+5. My Chemical Romance
+6. Red Hot Chili Peppers
+7. Nine Inch Nails
+8. Rage Against the Machine
+9. Audioslave
+10. Beck
+11. Weezer
+12. The Smashing Pumpkins
+13. Rise Against
+14. Alkaline Trio
+15. AFI
+16. Taking Back Sunday
+17. Coheed and Cambria
+18. Sublime
+19. No Doubt
+20. Alanis Morissette
+21. Bowling for Soup
+22. Weird Al Yankovic
+23. Avenged Sevenfold
+24. Motion City Soundtrack
+25. The Rolling Stones
+26. Guns N' Roses
+27. Rancid
+28. The Killers
+29. Bob Marley
+30. Radiohead
+31. Queen
+32. The Doors
+33. Pink Floyd
+34. Led Zeppelin
+35. AC/DC
+36. The White Stripes
+37. blink-182
+38. The Kinks
+39. Oasis
+40. Metallica
+41. Ramones
+42. George Harrison
+43. Franz Ferdinand
+44. Muse
+45. Arctic Monkeys
+46. Band of Horses
+47. MGMT
+48. The Faint
+49. Death from Above 1979
+50. Deep Purple

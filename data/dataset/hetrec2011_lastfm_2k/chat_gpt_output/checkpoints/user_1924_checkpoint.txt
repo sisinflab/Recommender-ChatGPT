@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Bring Me The Horizon
+2. Muse
+3. My Chemical Romance
+4. The Killers
+5. Arctic Monkeys
+6. Green Day
+7. System Of A Down
+8. Slipknot
+9. Breaking Benjamin
+10. Three Days Grace
+11. Avenged Sevenfold
+12. Disturbed
+13. Papa Roach
+14. Bullet For My Valentine
+15. A Day To Remember
+16. All Time Low
+17. Fall Out Boy
+18. Panic! At The Disco
+19. Paramore (if not already in user's library)
+20. Katatonia (if not already in user's library)
+21. 30 Seconds to Mars (if not already in user's library)
+22. Radiohead (if not already in user's library)
+23. Flyleaf (if not already in user's library)
+24. The Birthday Massacre (if not already in user's library)
+25. Evanescence (if not already in user's library)
+26. Florence + the Machine (if not already in user's library)
+27. Marduk (if not already in user's library)
+28. Coldplay (if not already in user's library)
+29. Suicide Silence (if not already in user's library)
+30. Atreyu (if not already in user's library)
+31. Rihanna (if not already in user's library)
+32. She & Him (if not already in user's library)
+33. The Beatles (if not already in user's library)
+34. Crystal Castles (if not already in user's library)
+35. Uffie (if not already in user's library)
+36. In Flames (if not already in user's library)
+37. Behemoth (if not already in user's library)
+38. Ke$ha (if not already in user's library)
+39. Justice (if not already in user's library)
+40. Architects (if not already in user's library)
+41. Linkin Park (if not already in user's library)
+42. Lady Gaga (if not already in user's library)
+43. Heaven Shall Burn (if not already in user's library)
+44. Die Ärzte (if not already in user's library)
+45. Sigur Rós (if not already in user's library)
+46. Bright Eyes (if not already in user's library)
+47. Immortal (if not already in user's library)
+48. Silverstein (if not already in user's library)
+49. The Used
+50. Thrice

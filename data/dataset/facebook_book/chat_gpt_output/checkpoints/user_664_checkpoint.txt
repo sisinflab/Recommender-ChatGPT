@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. A Clockwork Orange by Anthony Burgess
+3. American Gods by Neil Gaiman
+4. Animal Farm by George Orwell
+5. Brave New World by Aldous Huxley
+6. Catch-22 by Joseph Heller
+7. Do Androids Dream of Electric Sheep? by Philip K. Dick
+8. Dracula by Bram Stoker
+9. Fahrenheit 451 by Ray Bradbury
+10. Fight Club by Chuck Palahniuk
+11. Frankenstein by Mary Shelley
+12. Good Omens by Neil Gaiman and Terry Pratchett
+13. Hitchhiker's Guide to the Galaxy by Douglas Adams
+14. I Am Legend by Richard Matheson
+15. It by Stephen King
+16. Jurassic Park by Michael Crichton
+17. Lord of the Flies by William Golding
+18. Misery by Stephen King
+19. Neuromancer by William Gibson
+20. Nineteen Minutes by Jodi Picoult
+21. One Flew Over the Cuckoo's Nest by Ken Kesey
+22. Pet Sematary by Stephen King
+23. Red Dragon by Thomas Harris
+24. Salem's Lot by Stephen King
+25. Shutter Island by Dennis Lehane
+26. Silence of the Lambs by Thomas Harris
+27. Something Wicked This Way Comes by Ray Bradbury
+28. Stranger in a Strange Land by Robert A. Heinlein
+29. The Andromeda Strain by Michael Crichton
+30. The Bell Jar by Sylvia Plath
+31. The Catcher in the Rye by J.D. Salinger
+32. The Dark Tower series by Stephen King
+33. The Exorcist by William Peter Blatty
+34. The Girl with the Dragon Tattoo by Stieg Larsson
+35. The Godfather by Mario Puzo
+36. The Hitchhiker's Guide to the Galaxy series by Douglas Adams
+37. The Hobbit by J.R.R. Tolkien
+38. The Lord of the Rings trilogy by J.R.R. Tolkien
+39. The Martian by Andy Weir
+40. The Road by Cormac McCarthy
+41. The Shining by Stephen King
+42. The Stand by Stephen King
+43. The Stranger by Albert Camus
+44. The Time Machine by H.G. Wells
+45. The War of the Worlds by H.G. Wells
+46. To Kill a Mockingbird by Harper Lee
+47. Watchmen by Alan Moore and Dave Gibbons
+48. Watership Down by Richard Adams
+49. We Need to Talk About Kevin by Lionel Shriver
+50. World War Z by Max Brooks

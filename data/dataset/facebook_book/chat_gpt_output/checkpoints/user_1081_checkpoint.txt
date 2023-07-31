@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. 1984 by George Orwell
+3. To Kill a Mockingbird by Harper Lee
+4. Animal Farm by George Orwell
+5. Brave New World by Aldous Huxley
+6. The Great Gatsby by F. Scott Fitzgerald
+7. The Lord of the Rings by J.R.R. Tolkien
+8. The Hobbit by J.R.R. Tolkien
+9. The Chronicles of Narnia by C.S. Lewis
+10. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+11. The Da Vinci Code by Dan Brown
+12. Angels and Demons by Dan Brown
+13. The Girl with the Dragon Tattoo by Stieg Larsson
+14. The Hunger Games by Suzanne Collins
+15. Catching Fire by Suzanne Collins
+16. Mockingjay by Suzanne Collins
+17. The Alchemist by Paulo Coelho
+18. The Kite Runner by Khaled Hosseini
+19. A Thousand Splendid Suns by Khaled Hosseini
+20. The Help by Kathryn Stockett
+21. The Secret Life of Bees by Sue Monk Kidd
+22. The Color Purple by Alice Walker
+23. The Joy Luck Club by Amy Tan
+24. The God of Small Things by Arundhati Roy
+25. The Poisonwood Bible by Barbara Kingsolver
+26. The Time Traveler's Wife by Audrey Niffenegger
+27. The Lovely Bones by Alice Sebold
+28. The Road by Cormac McCarthy
+29. Life of Pi by Yann Martel
+30. The Book Thief by Markus Zusak
+31. The Fault in Our Stars by John Green
+32. Looking for Alaska by John Green
+33. Paper Towns by John Green
+34. The Perks of Being a Wallflower by Stephen Chbosky
+35. The Bell Jar by Sylvia Plath
+36. The Picture of Dorian Gray by Oscar Wilde
+37. The Mill on the Floss by George Eliot
+38. Jane Eyre by Charlotte Bronte
+39. Wuthering Heights by Emily Bronte
+40. Pride and Prejudice by Jane Austen
+41. Sense and Sensibility by Jane Austen
+42. Emma by Jane Austen
+43. Persuasion by Jane Austen
+44. Northanger Abbey by Jane Austen
+45. The Name of the Rose by Umberto Eco
+46. The Picture of Dorian Gray by Oscar Wilde
+47. Atlas Shrugged by Ayn Rand
+48. The Fountainhead by Ayn Rand
+49. The Diary of a Young Girl by Anne Frank
+50. The Story of My Experiments with Truth by Mohandas Karamchand Gandhi

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Crime and Punishment by Fyodor Dostoevsky
+2. To Kill a Mockingbird by Harper Lee
+3. 1984 by George Orwell
+4. The Catcher in the Rye by J.D. Salinger
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Great Gatsby by F. Scott Fitzgerald
+7. The Brothers Karamazov by Fyodor Dostoevsky
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Stranger by Albert Camus
+10. Heart of Darkness by Joseph Conrad
+11. The Bell Jar by Sylvia Plath
+12. The Trial by Franz Kafka
+13. The Sun Also Rises by Ernest Hemingway
+14. The Sound and the Fury by William Faulkner
+15. Lolita by Vladimir Nabokov
+16. Brave New World by Aldous Huxley
+17. The Grapes of Wrath by John Steinbeck
+18. The Old Man and the Sea by Ernest Hemingway
+19. The Canterbury Tales by Geoffrey Chaucer
+20. The Divine Comedy by Dante Alighieri
+21. The Iliad by Homer
+22. The Odyssey by Homer
+23. The Aeneid by Virgil
+24. The Inferno by Dante Alighieri
+25. The Republic by Plato
+26. The Symposium by Plato
+27. The Nicomachean Ethics by Aristotle
+28. The Politics by Aristotle
+29. The Wealth of Nations by Adam Smith
+30. The Origin of Species by Charles Darwin
+31. The Interpretation of Dreams by Sigmund Freud
+32. The Communist Manifesto by Karl Marx and Friedrich Engels
+33. The Tao Te Ching by Lao Tzu
+34. The Analects by Confucius
+35. The Art of War by Sun Tzu
+36. The Prince and the Pauper by Mark Twain
+37. The Adventures of Tom Sawyer by Mark Twain
+38. The Adventures of Huckleberry Finn by Mark Twain
+39. The Scarlet Letter by Nathaniel Hawthorne
+40. Moby-Dick by Herman Melville
+41. Frankenstein by Mary Shelley
+42. Dracula by Bram Stoker
+43. Wuthering Heights by Emily Bronte
+44. Jane Eyre by Charlotte Bronte
+45. Pride and Prejudice by Jane Austen
+46. Sense and Sensibility by Jane Austen
+47. Emma by Jane Austen
+48. Persuasion by Jane Austen
+49. Northanger Abbey by Jane Austen
+50. Mansfield Park by Jane Austen

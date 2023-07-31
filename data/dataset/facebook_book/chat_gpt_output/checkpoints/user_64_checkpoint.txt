@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. To Kill a Mockingbird by Harper Lee
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Great Gatsby by F. Scott Fitzgerald
+7. The Grapes of Wrath by John Steinbeck
+8. The Sound and the Fury by William Faulkner
+9. Lolita by Vladimir Nabokov
+10. Heart of Darkness by Joseph Conrad
+11. The Stranger by Albert Camus
+12. The Trial by Franz Kafka
+13. The Brothers Karamazov by Fyodor Dostoyevsky
+14. Crime and Punishment by Fyodor Dostoyevsky
+15. The Idiot by Fyodor Dostoyevsky
+16. The Picture of Dorian Gray by Oscar Wilde
+17. Dracula by Bram Stoker
+18. Frankenstein by Mary Shelley
+19. Wuthering Heights by Emily Bronte
+20. Jane Eyre by Charlotte Bronte
+21. Pride and Prejudice by Jane Austen
+22. Sense and Sensibility by Jane Austen
+23. Emma by Jane Austen
+24. Persuasion by Jane Austen
+25. Northanger Abbey by Jane Austen
+26. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+27. The Hound of the Baskervilles by Arthur Conan Doyle
+28. The War of the Worlds by H.G. Wells
+29. The Time Machine by H.G. Wells
+30. The Invisible Man by H.G. Wells
+31. The Island of Dr. Moreau by H.G. Wells
+32. The Call of the Wild by Jack London
+33. White Fang by Jack London
+34. The Old Man and the Sea by Ernest Hemingway
+35. A Farewell to Arms by Ernest Hemingway
+36. For Whom the Bell Tolls by Ernest Hemingway
+37. The Sun Also Rises by Ernest Hemingway
+38. The Lord of the Rings by J.R.R. Tolkien
+39. The Hobbit by J.R.R. Tolkien
+40. The Silmarillion by J.R.R. Tolkien
+41. The Chronicles of Narnia by C.S. Lewis
+42. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+43. The Foundation Trilogy by Isaac Asimov
+44. Dune by Frank Herbert
+45. Ender's Game by Orson Scott Card
+46. The Martian Chronicles by Ray Bradbury
+47. Fahrenheit 451 by Ray Bradbury
+48. The Handmaid's Tale by Margaret Atwood
+49. The Hunger Games by Suzanne Collins
+50. Harry Potter and the Philosopher's Stone

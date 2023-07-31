@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Catcher in the Rye by J.D. Salinger
+3. The Great Gatsby by F. Scott Fitzgerald
+4. Fahrenheit 451 by Ray Bradbury
+5. Brave New World by Aldous Huxley
+6. Of Mice and Men by John Steinbeck
+7. The Picture of Dorian Gray by Oscar Wilde
+8. Frankenstein by Mary Shelley
+9. Romeo and Juliet by William Shakespeare
+10. The Giver by Lois Lowry
+11. Nineteen Eighty-Four by George Orwell
+12. Les Misérables by Victor Hugo
+13. Dracula by Bram Stoker
+14. A People's History of the United States by Howard Zinn
+15. The Fountainhead by Ayn Rand
+16. The Iliad by Homer
+17. Dune by Frank Herbert
+18. The Most Dangerous Game by Richard Connell
+19. The Zombie Survival Guide by Max Brooks
+20. The Secrets of the Immortal Nicholas Flamel by Michael Scott
+21. The Lost Years of Merlin by T.A. Barron
+22. The Mysterious Benedict Society by Trenton Lee Stewart
+23. The Call of the Wild by Jack London
+24. Evermore by Alyson Noël
+25. Maximum Ride: School's Out Forever by James Patterson
+26. Ender's Shadow by Orson Scott Card
+27. A Swiftly Tilting Planet by Madeleine L'Engle
+28. The Martian Chronicles by Ray Bradbury
+29. Pride and Prejudice and Zombies by Seth Grahame-Smith
+30. Twilight by Stephenie Meyer
+31. Vampire Academy by Richelle Mead
+32. Battle Royale by Koushun Takami
+33. Highschool of the Dead by Daisuke Sato
+34. Batman: The Killing Joke by Alan Moore
+35. 2001: A Space Odyssey by Arthur C. Clarke
+36. Inherit the Wind by Jerome Lawrence and Robert E. Lee
+37. Titus Andronicus by William Shakespeare
+38. Go Ask Alice by Anonymous
+39. Oedipus the King by Sophocles
+40. Candide by Voltaire
+41. Lolita by Vladimir Nabokov
+42. God Bless You, Dr. Kevorkian by Kurt Vonnegut
+43. Twisted by Laurie Halse Anderson
+44. Common Sense by Thomas Paine
+45. October Sky by Homer Hickam
+46. New Arabian Nights by Robert Louis Stevenson
+47. Point Blanc by Anthony Horowitz
+48. Oh, the Places You'll Go! by Dr. Seuss
+49. The Jungle Book by Rudyard Kipling
+50. The World According to Garp by John Irving

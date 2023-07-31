@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+4. Fahrenheit 451 by Ray Bradbury
+5. The Catcher in the Rye by J.D. Salinger
+6. The Great Gatsby by F. Scott Fitzgerald
+7. To Kill a Mockingbird by Harper Lee
+8. One Hundred Years of Solitude by Gabriel Garcia Marquez
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Hobbit by J.R.R. Tolkien
+11. The Chronicles of Narnia by C.S. Lewis
+12. The Hunger Games by Suzanne Collins
+13. Harry Potter and the Philosopher's Stone by J.K. Rowling
+14. The Da Vinci Code by Dan Brown
+15. The Girl with the Dragon Tattoo by Stieg Larsson
+16. The Girl on the Train by Paula Hawkins
+17. The Road by Cormac McCarthy
+18. The Stand by Stephen King
+19. The Shining by Stephen King
+20. The Silence of the Lambs by Thomas Harris
+21. The Talisman by Stephen King and Peter Straub
+22. The Dark Tower series by Stephen King
+23. The Name of the Wind by Patrick Rothfuss
+24. The Wise Man's Fear by Patrick Rothfuss
+25. The Lies of Locke Lamora by Scott Lynch
+26. The Blade Itself by Joe Abercrombie
+27. The Way of Kings by Brandon Sanderson
+28. Mistborn by Brandon Sanderson
+29. The Final Empire by Brandon Sanderson
+30. The Well of Ascension by Brandon Sanderson
+31. The Hero of Ages by Brandon Sanderson
+32. The Lies of Locke Lamora by Scott Lynch
+33. The Blade Itself by Joe Abercrombie
+34. The Way of Kings by Brandon Sanderson
+35. Mistborn by Brandon Sanderson
+36. The Final Empire by Brandon Sanderson
+37. The Well of Ascension by Brandon Sanderson
+38. The Hero of Ages by Brandon Sanderson
+39. The Name of the Wind by Patrick Rothfuss
+40. The Wise Man's Fear by Patrick Rothfuss
+41. The Lies of Locke Lamora by Scott Lynch
+42. The Blade Itself by Joe Abercrombie
+43. The Way of Kings by Brandon Sanderson
+44. Mistborn by Brandon Sanderson
+45. The Final Empire by Brandon Sanderson
+46. The Well of Ascension by Brandon Sanderson
+47. The Hero of Ages by Brandon Sanderson
+48. The Name of the Wind by Patrick Rothfuss
+49. The Wise Man's Fear by Patrick Rothfuss
+50. The Lies of Locke Lamora by Scott Lynch

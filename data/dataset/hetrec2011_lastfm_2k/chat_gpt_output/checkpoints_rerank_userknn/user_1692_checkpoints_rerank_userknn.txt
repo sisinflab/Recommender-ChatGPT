@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Coldplay
+2. Muse
+3. The Beatles
+4. Lady Gaga
+5. Maroon 5
+6. Justin Timberlake
+7. Rihanna
+8. Daft Punk
+9. Metallica
+10. Led Zeppelin
+11. Cobra Starship
+12. Kings of Convenience
+13. The Fray
+14. Britney Spears
+15. Creedence Clearwater Revival
+16. The Postal Service
+17. Ace of Base
+18. Glee Cast
+19. Tegan and Sara
+20. Godsmack
+21. Mika
+22. Snow Patrol
+23. Nelly Furtado
+24. Darren Hayes
+25. Savage Garden
+26. U2
+27. Jonathan Larson
+28. Queen
+29. Paul McCartney
+30. Elvis Costello
+31. Christina Aguilera
+32. John Mayer
+33. Journey
+34. Beyoncé
+35. Shakira
+36. Scorpions
+37. The Killers
+38. Rammstein
+39. Lights
+40. Avril Lavigne
+41. George Harrison
+42. The Beach Boys
+43. Jonas Brothers
+44. Cascada
+45. Regina Spektor
+46. Gavin DeGraw
+47. John Lennon
+48. Simon & Garfunkel
+49. Ke$ha
+50. Panic! At the Disco

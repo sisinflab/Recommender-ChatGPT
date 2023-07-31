@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Jurassic Park by Michael Crichton
+2. The Stand by Stephen King
+3. Angels and Demons by Dan Brown
+4. 1984 by George Orwell
+5. The Catcher in the Rye by J.D. Salinger
+6. The Great Gatsby by F. Scott Fitzgerald
+7. To Kill a Mockingbird by Harper Lee
+8. The Hobbit by J.R.R. Tolkien
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+11. The Shining by Stephen King
+12. The Silence of the Lambs by Thomas Harris
+13. The Girl with the Dragon Tattoo by Stieg Larsson
+14. The Hunger Games by Suzanne Collins
+15. The Road by Cormac McCarthy
+16. The Martian by Andy Weir
+17. The Alchemist by Paulo Coelho
+18. The Picture of Dorian Gray by Oscar Wilde
+19. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+20. The Count of Monte Cristo by Alexandre Dumas
+21. The Three Musketeers by Alexandre Dumas
+22. The War of the Worlds by H.G. Wells
+23. The Time Machine by H.G. Wells
+24. The Invisible Man by H.G. Wells
+25. The Island of Dr. Moreau by H.G. Wells
+26. The Call of the Wild by Jack London
+27. White Fang by Jack London
+28. The Old Man and the Sea by Ernest Hemingway
+29. For Whom the Bell Tolls by Ernest Hemingway
+30. The Sun Also Rises by Ernest Hemingway
+31. Brave New World by Aldous Huxley
+32. Fahrenheit 451 by Ray Bradbury
+33. The Giver by Lois Lowry
+34. Animal Farm by George Orwell
+35. Lord of the Flies by William Golding
+36. Heart of Darkness by Joseph Conrad
+37. One Hundred Years of Solitude by Gabriel Garcia Marquez
+38. Crime and Punishment by Fyodor Dostoevsky
+39. The Brothers Karamazov by Fyodor Dostoevsky
+40. The Idiot by Fyodor Dostoevsky
+41. Anna Karenina by Leo Tolstoy
+42. War and Peace by Leo Tolstoy
+43. Don Quixote by Miguel de Cervantes
+44. The Canterbury Tales by Geoffrey Chaucer
+45. The Divine Comedy by Dante Alighieri
+46. Paradise Lost by John Milton
+47. The Odyssey by Homer
+48. The Iliad by Homer
+49. Beowulf by Unknown
+50. The Epic of Gilgamesh by Unknown

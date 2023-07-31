@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. The Great Gatsby by F. Scott Fitzgerald
+3. To Kill a Mockingbird by Harper Lee
+4. The Hobbit by J.R.R. Tolkien
+5. The Lord of the Rings by J.R.R. Tolkien
+6. A Separate Peace by John Knowles
+7. The Picture of Dorian Gray by Oscar Wilde
+8. Frankenstein by Mary Shelley
+9. Les Misérables by Victor Hugo
+10. The Kite Runner by Khaled Hosseini
+11. Speak by Laurie Halse Anderson
+12. The Perks of Being a Wallflower by Stephen Chbosky
+13. Into Thin Air by Jon Krakauer
+14. Brave New World by Aldous Huxley
+15. Fahrenheit 451 by Ray Bradbury
+16. A Series of Unfortunate Events by Lemony Snicket
+17. The Wolves of Mercy Falls by Maggie Stiefvater
+18. Hush, Hush by Becca Fitzpatrick
+19. The Chosen by Chaim Potok
+20. A Midsummer Night's Dream by William Shakespeare
+21. Crank by Ellen Hopkins
+22. The Princess Bride by William Goldman
+23. Titus Andronicus by William Shakespeare
+24. Inherit the Wind by Jerome Lawrence and Robert E. Lee
+25. A Brief History of Time by Stephen Hawking
+26. The Kama Sutra by Vatsyayana
+27. The Wonderful Story of Henry Sugar and Six More by Roald Dahl
+28. Eldest by Christopher Paolini
+29. Macbeth by William Shakespeare
+30. Cosmos by Carl Sagan
+31. The Autobiography of Malcolm X by Malcolm X and Alex Haley
+32. How to Read Literature Like a Professor by Thomas C. Foster
+33. The Hamlet by William Faulkner
+34. Ink Exchange by Melissa Marr
+35. Of Mice and Men by John Steinbeck
+36. The Little Prince by Antoine de Saint-Exupéry
+37. Son of a Witch by Gregory Maguire
+38. The Red Tent by Anita Diamant
+39. The Man Who Mistook His Wife for a Hat by Oliver Sacks
+40. Crime and Punishment by Fyodor Dostoevsky
+41. Oh, the Places You'll Go! by Dr. Seuss
+42. Identical by Ellen Hopkins
+43. Boy Meets Boy by David Levithan
+44. The Chosen One by Carol Lynch Williams
+45. Hop on Pop by Dr. Seuss
+46. Forged by Fire by Sharon M. Draper
+47. Tricks by Ellen Hopkins
+48. The Twits by Roald Dahl
+49. I Hope They Serve Beer in Hell by Tucker Max
+50

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Guns N' Roses
+2. Aerosmith
+3. Van Halen
+4. Judas Priest
+5. Kiss
+6. AC/DC
+7. Iron Maiden
+8. Metallica
+9. Motley Crue
+10. Ozzy Osbourne
+11. Black Sabbath
+12. Alice Cooper
+13. Megadeth
+14. Slayer
+15. Motorhead
+16. Deep Purple
+17. Led Zeppelin
+18. Pink Floyd
+19. Nirvana
+20. Pearl Jam
+21. Soundgarden
+22. Alice in Chains
+23. Stone Temple Pilots
+24. Foo Fighters
+25. Green Day
+26. The Offspring
+27. Blink-182
+28. Sum 41
+29. My Chemical Romance
+30. The Ramones
+31. The Clash
+32. Sex Pistols
+33. The Misfits
+34. Bad Brains
+35. Social Distortion
+36. Rancid
+37. NOFX
+38. Pennywise
+39. Dropkick Murphys
+40. Flogging Molly
+41. The Pogues
+42. The Dubliners
+43. The Chieftains
+44. Thin Lizzy
+45. UFO
+46. Scorpions
+47. Whitesnake
+48. Cinderella
+49. Poison
+50. Warrant

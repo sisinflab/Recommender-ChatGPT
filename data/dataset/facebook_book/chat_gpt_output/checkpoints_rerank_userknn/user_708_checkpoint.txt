@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter
+2. The Hunger Games
+3. Twilight (series)
+4. Maximum Ride
+5. The Maze Runner
+6. Mockingjay
+7. Vampire Academy (novel)
+8. The Giver
+9. Ink Exchange
+10. City of Bones (Mortal Instruments)
+11. The Host (novel)
+12. The Other Boleyn Girl
+13. The Forest of Hands and Teeth
+14. Thirteen Reasons Why
+15. Evermore (book)
+16. Ella Enchanted
+17. The Dead and the Gone
+18. Sarah's Key (novel)
+19. All Quiet on the Western Front
+20. The Hobbit
+21. A Thousand Splendid Suns
+22. The Watchmen (novel)
+23. The Awakening (Chopin novel)
+24. Brisingr
+25. My Side of the Mountain
+26. Uglies
+27. Speak (novel)
+28. Stargirl (novel)
+29. The Sisterhood of the Traveling Pants (novel)
+30. Shattered (book)
+31. Burned (Hopkins novel)
+32. Peeps (novel)
+33. Go Ask Alice
+34. The Hamlet by ['William Faulkner']
+35. Brother Odd by ['Dean Koontz']
+36. Flyte by ['Angie Sage']
+37. The Zombie Survival Guide
+38. Grimms' Fairy Tales
+39. Marley & Me
+40. Manga
+41. The Morganville Vampires
+42. Vampire Kisses
+43. Tsubasa: Reservoir Chronicle
+44. Nineteen Minutes
+45. Dark Visions
+46. Suck It Up
+47. City of Glass (Mortal Instruments)
+48. Crank (novel)
+49. Fallen (Kate novel)
+50. Inferno (Dante)

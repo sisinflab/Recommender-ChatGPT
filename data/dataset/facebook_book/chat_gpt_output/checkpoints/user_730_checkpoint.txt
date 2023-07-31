@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. The Fault in Our Stars by John Green
+3. Gone Girl by Gillian Flynn
+4. The Girl on the Train by Paula Hawkins
+5. The Maze Runner by James Dashner
+6. Divergent by Veronica Roth
+7. The Book Thief by Markus Zusak
+8. The Help by Kathryn Stockett
+9. The Da Vinci Code by Dan Brown
+10. The Lovely Bones by Alice Sebold
+11. The Time Traveler's Wife by Audrey Niffenegger
+12. The Kite Runner by Khaled Hosseini
+13. The Secret Life of Bees by Sue Monk Kidd
+14. The Girl with the Dragon Tattoo by Stieg Larsson
+15. The Alchemist by Paulo Coelho
+16. The Catcher in the Rye by J.D. Salinger
+17. The Perks of Being a Wallflower by Stephen Chbosky
+18. The Giver by Lois Lowry
+19. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+20. The Help by Kathryn Stockett
+21. The Hunger Games by Suzanne Collins
+22. The Fault in Our Stars by John Green
+23. Gone Girl by Gillian Flynn
+24. The Girl on the Train by Paula Hawkins
+25. The Maze Runner by James Dashner
+26. Divergent by Veronica Roth
+27. The Book Thief by Markus Zusak
+28. The Help by Kathryn Stockett
+29. The Da Vinci Code by Dan Brown
+30. The Lovely Bones by Alice Sebold
+31. The Time Traveler's Wife by Audrey Niffenegger
+32. The Kite Runner by Khaled Hosseini
+33. The Secret Life of Bees by Sue Monk Kidd
+34. The Girl with the Dragon Tattoo by Stieg Larsson
+35. The Alchemist by Paulo Coelho
+36. The Catcher in the Rye by J.D. Salinger
+37. The Perks of Being a Wallflower by Stephen Chbosky
+38. The Giver by Lois Lowry
+39. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+40. The Help by Kathryn Stockett
+41. The Hunger Games by Suzanne Collins
+42. The Fault in Our Stars by John Green
+43. Gone Girl by Gillian Flynn
+44. The Girl on the Train by Paula Hawkins
+45. The Maze Runner by James Dashner
+46. Divergent by Veronica Roth
+47. The Book Thief by Markus Zusak
+48. The Help by Kathryn Stockett
+49. The Da Vinci Code by Dan Brown
+50. The Lovely Bones by Alice Sebold

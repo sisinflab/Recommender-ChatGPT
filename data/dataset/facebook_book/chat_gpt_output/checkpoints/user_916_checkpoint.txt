@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Angels and Demons by Dan Brown
+2. Veronika Decides to Die by Paulo Coelho
+3. The Silmarillion by J. R. R. Tolkien
+4. The Children of Hurin by J. R. R. Tolkien
+5. The Fellowship of the Ring by J. R. R. Tolkien
+6. The Two Towers by J. R. R. Tolkien
+7. The Return of the King by J. R. R. Tolkien
+8. The Silmarillion by J. R. R. Tolkien
+9. The Hobbit by J. R. R. Tolkien
+10. Franny and Zooey by J. D. Salinger
+11. Nine Stories by J. D. Salinger
+12. Shutter Island by Dennis Lehane
+13. Gone, Baby, Gone by Dennis Lehane
+14. Inkheart by Cornelia Funke
+15. Inkspell by Cornelia Funke
+16. Inkdeath by Cornelia Funke
+17. One Night @ the Call Center by Chetan Bhagat
+18. 2 States: The Story of My Marriage by Chetan Bhagat
+19. The Alchemist by Paulo Coelho
+20. A Thousand Splendid Suns by Khaled Hosseini
+21. And the Mountains Echoed by Khaled Hosseini
+22. The Restaurant at the End of the Universe by Douglas Adams
+23. Life, the Universe and Everything by Douglas Adams
+24. So Long, and Thanks for All the Fish by Douglas Adams
+25. Mostly Harmless by Douglas Adams
+26. The Martian by Andy Weir
+27. The Hunger Games by Suzanne Collins
+28. Catching Fire by Suzanne Collins
+29. Mockingjay by Suzanne Collins
+30. The Girl with the Dragon Tattoo by Stieg Larsson
+31. The Girl Who Played with Fire by Stieg Larsson
+32. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+33. The Name of the Wind by Patrick Rothfuss
+34. The Wise Man's Fear by Patrick Rothfuss
+35. American Gods by Neil Gaiman
+36. Neverwhere by Neil Gaiman
+37. Stardust by Neil Gaiman
+38. The Graveyard Book by Neil Gaiman
+39. The Shadow of the Wind by Carlos Ruiz Zafón
+40. The Angel's Game by Carlos Ruiz Zafón
+41. The Prisoner of Heaven by Carlos Ruiz Zafón
+42. The Thirteenth Tale by Diane Setterfield
+43. The Night Circus by Erin Morgenstern
+44. The Book Thief by Markus Zusak
+45. The Time Traveler's Wife by Audrey Niffenegger
+46. The Help by Kathryn Stockett
+47. The Wind in the Willows by Kenneth Grahame
+48. Nine Stories by J.D. Salinger
+49. The Bell Jar by Sylvia Plath
+50. The Wise Man's Fear by Patrick Rothfuss

@@ -1,0 +1,30 @@
+experiment:
+  gpu: 1 # Run on GPU
+  #                                           #
+  # Dataset pre-processing and configuration  #
+  #                                           #
+  dataset: hetrec2011_lastfm_2k
+  data_config:
+    strategy: fixed
+    train_path: ../../../../data/dataset/hetrec2011_lastfm_2k/splitting/0/train.tsv
+    test_path: ../../../../data/dataset/hetrec2011_lastfm_2k/splitting/0/subset_test_cold_users.tsv
+  top_k: 50
+  #                   #
+  # Evaluation Setup  #
+  #                   #
+  evaluation:
+    cutoffs: 50
+    simple_metrics: [nDCG, Recall, Precision, nDCGRendle2020, HR, F1, MAP, MAR, MRR, ACLT, APLT, ARP, PopREO, PopRSP, ItemCoverage, NumRetrived, UserCoverage, Gini, SEntropy, EFD, EPC]
+    paired_ttest: True
+    wilcoxon_test: True
+  print_results_as_triplets: True
+  external_models_path: ../external/models/__init__.py
+  #               #
+  # Models Setup  #
+  #               #
+  models:
+    #                                                             #
+    # RecommendationFolder to compute metrics on the best models  #
+    #                                                             #
+    RecommendationFolder:
+      folder: ../results/DaVinci/hetrec2011_exp_results/EXP_4/best_models/best_models_top_50

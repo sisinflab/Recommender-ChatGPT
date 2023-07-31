@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Twilight by Stephenie Meyer
+2. The Hunger Games by Suzanne Collins
+3. Divergent by Veronica Roth
+4. The Fault in Our Stars by John Green
+5. The Maze Runner by James Dashner
+6. The Giver by Lois Lowry
+7. The Perks of Being a Wallflower by Stephen Chbosky
+8. Thirteen Reasons Why by Jay Asher
+9. Looking for Alaska by John Green
+10. The Book Thief by Markus Zusak
+11. The Selection by Kiera Cass
+12. The Mortal Instruments series by Cassandra Clare
+13. The Infernal Devices series by Cassandra Clare
+14. The Vampire Diaries series by L.J. Smith
+15. The Secret Circle series by L.J. Smith
+16. The Twilight Saga series by Stephenie Meyer
+17. The Host by Stephenie Meyer
+18. The Chemical Garden trilogy by Lauren DeStefano
+19. The Delirium trilogy by Lauren Oliver
+20. The Uglies series by Scott Westerfeld
+21. The Lunar Chronicles series by Marissa Meyer
+22. The Darkest Minds series by Alexandra Bracken
+23. The Selection series by Kiera Cass
+24. The 5th Wave series by Rick Yancey
+25. The Maze Runner series by James Dashner
+26. The Giver quartet by Lois Lowry
+27. The Fault in Our Stars by John Green
+28. Paper Towns by John Green
+29. An Abundance of Katherines by John Green
+30. Will Grayson, Will Grayson by John Green and David Levithan
+31. The Outsiders by S.E. Hinton
+32. The Catcher in the Rye by J.D. Salinger
+33. To Kill a Mockingbird by Harper Lee
+34. The Great Gatsby by F. Scott Fitzgerald
+35. 1984 by George Orwell
+36. Animal Farm by George Orwell
+37. Lord of the Flies by William Golding
+38. Brave New World by Aldous Huxley
+39. Fahrenheit 451 by Ray Bradbury
+40. The Handmaid's Tale by Margaret Atwood
+41. The Hunger Games trilogy by Suzanne Collins
+42. The Divergent trilogy by Veronica Roth
+43. The Maze Runner trilogy by James Dashner
+44. The Selection trilogy by Kiera Cass
+45. The Mortal Instruments series by Cassandra Clare
+46. The Infernal Devices series by Cassandra Clare
+47. The Vampire Diaries series by L.J. Smith
+48. The Secret Circle series by L.J. Smith
+49. The Twilight Saga series by Stephenie Meyer
+50. The Host by Stephenie Meyer

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Florence + the Machine
+2. Kate Bush
+3. Marina & the Diamonds
+4. Róisín Murphy
+5. Zoé
+6. Suede
+7. Travis
+8. The Smashing Pumpkins
+9. Elliott Smith
+10. Ryan Adams
+11. Mansun
+12. The Kinks
+13. Crowded House
+14. The Magnetic Fields
+15. David Bowie
+16. Fleet Foxes
+17. The Smiths
+18. Duran Duran
+19. Air
+20. Patrick Wolf
+21. She & Him
+22. Placebo
+23. The Jesus and Mary Chain
+24. Madonna
+25. Lady Gaga
+26. Rihanna
+27. Beyoncé
+28. Pink Floyd
+29. Muse
+30. Radiohead
+31. Coldplay
+32. Blur
+33. Arctic Monkeys
+34. The Killers
+35. Nirvana
+36. Led Zeppelin
+37. Metallica
+38. Michael Jackson
+39. Pearl Jam
+40. a-ha
+41. Björk
+42. Depeche Mode
+43. Daft Punk
+44. Nine Inch Nails
+45. Linkin Park
+46. Avril Lavigne
+47. Paramore
+48. Kelly Clarkson
+49. All Time Low
+50. Green Day

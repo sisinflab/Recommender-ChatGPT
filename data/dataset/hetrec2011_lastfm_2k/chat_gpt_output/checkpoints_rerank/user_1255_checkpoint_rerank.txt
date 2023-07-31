@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Depeche Mode
+2. Lady Gaga
+3. Morrissey
+4. Arcade Fire
+5. The Smashing Pumpkins
+6. New Order
+7. Florence + the Machine
+8. Phoenix
+9. MGMT
+10. Regina Spektor
+11. Muse
+12. Garbage
+13. Animal Collective
+14. The Killers
+15. Placebo
+16. Christina Aguilera
+17. Madonna
+18. Beyoncé
+19. Kylie Minogue
+20. She & Him
+21. Lily Allen
+22. Gwen Stefani
+23. Katy Perry
+24. Feist
+25. HIM
+26. Marina & the Diamonds
+27. Alanis Morissette
+28. Damien Rice
+29. Chico Buarque
+30. Vanessa da Mata
+31. Los Hermanos
+32. Coldplay
+33. Radiohead
+34. Nirvana
+35. Pearl Jam
+36. Led Zeppelin
+37. Pink Floyd
+38. The Beatles
+39. Michael Jackson
+40. Duran Duran
+41. Arctic Monkeys
+42. Iron Maiden
+43. Metallica
+44. a-ha
+45. Björk
+46. Daft Punk
+47. Nine Inch Nails
+48. Linkin Park
+49. Kelly Clarkson
+50. My Chemical Romance

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Harry Potter by J.K. Rowling
+2. Pride and Prejudice by Jane Austen
+3. The Catcher in the Rye by J.D. Salinger
+4. To Kill a Mockingbird by Harper Lee
+5. Wuthering Heights by Emily Bronte
+6. The Bell Jar by Sylvia Plath
+7. The Secret Garden by Frances Hodgson Burnett
+8. The Other Boleyn Girl by Philippa Gregory
+9. Bridget Jones's Diary by Helen Fielding
+10. American Gods by Neil Gaiman
+11. The Dresden Files by Jim Butcher
+12. Frankenstein by Mary Shelley
+13. Slaughterhouse-Five by Kurt Vonnegut
+14. Fahrenheit 451 by Ray Bradbury
+15. The Trial by Franz Kafka
+16. Romeo and Juliet by William Shakespeare
+17. Inferno by Dante Alighieri
+18. Ender's Game by Orson Scott Card
+19. The Shadow of the Wind by Carlos Ruiz Zafon
+20. Persuasion by Jane Austen
+21. Macbeth by William Shakespeare
+22. Les Miserables by Victor Hugo
+23. The Brothers Karamazov by Fyodor Dostoevsky
+24. Lolita by Vladimir Nabokov
+25. Alice's Adventures in Wonderland by Lewis Carroll
+26. Ariel by Sylvia Plath
+27. The World as Will and Representation by Arthur Schopenhauer
+28. The Fall of the House of Usher by Edgar Allan Poe
+29. Lenore by Edgar Allan Poe
+30. A Clockwork Orange by Anthony Burgess
+31. To the Lighthouse by Virginia Woolf
+32. The Crow by James O'Barr
+33. The Wallflower by Tomoko Hayakawa
+34. Peter and Wendy by J.M. Barrie
+35. The Grapes of Wrath by John Steinbeck
+36. The Last Storytellers: Tales from the Heart of Morocco by Richard Hamilton
+37. Number the Stars by Lois Lowry
+38. A Hero of Our Time by Mikhail Lermontov
+39. Quran by Anonymous
+40. The Idiot by Fyodor Dostoevsky
+41. Skip Beat! by Yoshiki Nakamura
+42. Book of Revelation by Anonymous
+43. The Cricket in Times Square by George Selden
+44. Crank by Ellen Hopkins
+45. The Murders in the Rue Morgue by Edgar Allan Poe
+46. Charmed by Paul Ruditis
+47. Impulse Economy by Gary Schwartz
+48. The Notebook by Nicholas Sparks
+49. The Bourne Identity by Robert Ludlum
+50. Miss Christina by Mircea Eliade

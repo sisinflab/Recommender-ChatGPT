@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. 1984 by George Orwell
+3. Brave New World by Aldous Huxley
+4. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+5. Ender's Game by Orson Scott Card
+6. The Hunger Games by Suzanne Collins
+7. The Catcher in the Rye by J.D. Salinger
+8. To Kill a Mockingbird by Harper Lee
+9. Animal Farm by George Orwell
+10. The Giver by Lois Lowry
+11. Fahrenheit 451 by Ray Bradbury
+12. The Chronicles of Narnia by C.S. Lewis
+13. The Da Vinci Code by Dan Brown
+14. The Girl with the Dragon Tattoo by Stieg Larsson
+15. The Name of the Wind by Patrick Rothfuss
+16. The Road by Cormac McCarthy
+17. The Stand by Stephen King
+18. The Shining by Stephen King
+19. The Dark Tower series by Stephen King
+20. The Silence of the Lambs by Thomas Harris
+21. The Talisman by Stephen King and Peter Straub
+22. The Outsiders by S.E. Hinton
+23. The Fault in Our Stars by John Green
+24. The Maze Runner by James Dashner
+25. The Book Thief by Markus Zusak
+26. The Picture of Dorian Gray by Oscar Wilde
+27. The Great Gatsby by F. Scott Fitzgerald
+28. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+29. The War of the Worlds by H.G. Wells
+30. The Time Machine by H.G. Wells
+31. The Invisible Man by H.G. Wells
+32. The Island of Dr. Moreau by H.G. Wells
+33. The Martian Chronicles by Ray Bradbury
+34. The Illustrated Man by Ray Bradbury
+35. The Stand by Stephen King
+36. The Dark Tower series by Stephen King
+37. The Silence of the Lambs by Thomas Harris
+38. The Talisman by Stephen King and Peter Straub
+39. The Outsiders by S.E. Hinton
+40. The Fault in Our Stars by John Green
+41. The Maze Runner by James Dashner
+42. The Book Thief by Markus Zusak
+43. The Picture of Dorian Gray by Oscar Wilde
+44. The Great Gatsby by F. Scott Fitzgerald
+45. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+46. The War of the Worlds by H.G. Wells
+47. The Time Machine by H.G. Wells
+48. The Invisible Man by H.G. Wells
+49. The Island of Dr. Moreau by H.G. Wells
+50. The Martian Chronicles by Ray Bradbury

@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Harry Potter series by J.K. Rowling
+2. The Help by Kathryn Stockett
+3. The Great Gatsby by F. Scott Fitzgerald
+4. Pride and Prejudice by Jane Austen
+5. Little Women by Louisa May Alcott
+6. The Picture of Dorian Gray by Oscar Wilde
+7. The Princess Bride by William Goldman
+8. The Time Traveler's Wife by Audrey Niffenegger
+9. The Secret Life of Bees by Sue Monk Kidd
+10. A Thousand Splendid Suns by Khaled Hosseini
+11. The Book Thief by Markus Zusak
+12. The Lion, the Witch and the Wardrobe by C.S. Lewis
+13. Wuthering Heights by Emily Bronte
+14. Anne of Green Gables by L.M. Montgomery
+15. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+16. Speaker for the Dead by Orson Scott Card
+17. Sabriel by Garth Nix
+18. Snow Flower and the Secret Fan by Lisa See
+19. Les Misérables by Victor Hugo
+20. My Sister's Keeper by Jodi Picoult
+21. The House of the Scorpion by Nancy Farmer
+22. The Lost Boy (memoir) by Dave Pelzer
+23. The Tipping Point by Malcolm Gladwell
+24. The Pact (novel) by Jodi Picoult
+25. The Five People You Meet in Heaven by Mitch Albom
+26. Mansfield Park by Jane Austen
+27. Sense and Sensibility by Jane Austen
+28. The Body of Christopher Creed by Carol Plum-Ucci
+29. Around the World in Eighty Days by Jules Verne
+30. Robinson Crusoe by Daniel Defoe
+31. The Host by Stephenie Meyer
+32. Ender's Game by Orson Scott Card
+33. The Diary of a Young Girl by Anne Frank
+34. The Importance of Being Earnest by Oscar Wilde
+35. The Ear, the Eye and the Arm by Nancy Farmer
+36. Keeping the Moon by Sarah Dessen
+37. Generation Dead by Daniel Waters
+38. Black Boy by Richard Wright
+39. Native Son by Richard Wright
+40. The Body of Christopher Creed by Carol Plum-Ucci
+41. The Lost Boy (memoir) by Dave Pelzer
+42. The Tipping Point by Malcolm Gladwell
+43. The Pact (novel) by Jodi Picoult
+44. The Five People You Meet in Heaven by Mitch Albom
+45. Mansfield Park by Jane Austen
+46. Sense and Sensibility by Jane Austen
+47. The Time Traveler's Wife by Audrey Niffenegger
+48. The Princess Bride by William Goldman
+49. The Help by Kathryn Stockett

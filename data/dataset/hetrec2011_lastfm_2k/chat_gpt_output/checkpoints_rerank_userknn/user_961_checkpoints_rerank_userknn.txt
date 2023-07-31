@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. The Beatles
+3. Death Cab for Cutie
+4. Fleetwood Mac
+5. Elliott Smith
+6. Neutral Milk Hotel
+7. Kanye West
+8. The Decemberists
+9. The Postal Service
+10. Lupe Fiasco
+11. Brand New
+12. Tegan and Sara
+13. Weezer
+14. Rilo Kiley
+15. The Magnetic Fields
+16. The National
+17. Sufjan Stevens
+18. Sigur Rós
+19. Arcade Fire
+20. Metric
+21. Kings of Leon
+22. Bright Eyes
+23. Regina Spektor
+24. Joanna Newsom
+25. Built to Spill
+26. Band of Horses
+27. Snow Patrol
+28. Garbage
+29. Crystal Castles
+30. Matt & Kim
+31. Jónsi
+32. Underoath
+33. Oasis
+34. Anberlin
+35. Silverstein
+36. Dashboard Confessional
+37. Bombay Bicycle Club
+38. Placebo
+39. Pierce the Veil
+40. Dragonette
+41. Bad Religion
+42. Ladytron
+43. Eisley
+44. Modest Mouse
+45. Hollywood Undead
+46. Bat for Lashes
+47. Interpol
+48. HorrorPops
+49. Vive la Fête
+50. Avril Lavigne

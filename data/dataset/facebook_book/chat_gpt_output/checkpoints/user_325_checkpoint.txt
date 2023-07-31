@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. On the Road by Jack Kerouac
+3. The Bell Jar by Sylvia Plath
+4. One Flew Over the Cuckoo's Nest by Ken Kesey
+5. The Electric Kool-Aid Acid Test by Tom Wolfe
+6. The Rum Diary by Hunter S. Thompson
+7. Less Than Zero by Bret Easton Ellis
+8. American Psycho by Bret Easton Ellis
+9. The Great Gatsby by F. Scott Fitzgerald
+10. The Sun Also Rises by Ernest Hemingway
+11. A Farewell to Arms by Ernest Hemingway
+12. For Whom the Bell Tolls by Ernest Hemingway
+13. The Old Man and the Sea by Ernest Hemingway
+14. Slaughterhouse-Five by Kurt Vonnegut
+15. Cat's Cradle by Kurt Vonnegut
+16. Breakfast of Champions by Kurt Vonnegut
+17. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+18. The Picture of Dorian Gray by Oscar Wilde
+19. The Importance of Being Earnest by Oscar Wilde
+20. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+21. Heart of Darkness by Joseph Conrad
+22. Lord of the Flies by William Golding
+23. 1984 by George Orwell
+24. Animal Farm by George Orwell
+25. Brave New World by Aldous Huxley
+26. Fahrenheit 451 by Ray Bradbury
+27. The Martian Chronicles by Ray Bradbury
+28. The Road by Cormac McCarthy
+29. No Country for Old Men by Cormac McCarthy
+30. Blood Meridian by Cormac McCarthy
+31. The Stand by Stephen King
+32. The Shining by Stephen King
+33. It by Stephen King
+34. The Girl with the Dragon Tattoo by Stieg Larsson
+35. The Hunger Games by Suzanne Collins
+36. Catching Fire by Suzanne Collins
+37. Mockingjay by Suzanne Collins
+38. The Maze Runner by James Dashner
+39. The Scorch Trials by James Dashner
+40. The Death Cure by James Dashner
+41. The Giver by Lois Lowry
+42. Gathering Blue by Lois Lowry
+43. Messenger by Lois Lowry
+44. The Road Less Traveled by M. Scott Peck
+45. The Alchemist by Paulo Coelho
+46. The Power of Now by Eckhart Tolle
+47. The Celestine Prophecy by James Redfield
+48. The Da Vinci Code by Dan Brown
+49. Angels and Demons by Dan Brown
+50. The Lost Symbol by Dan Brown

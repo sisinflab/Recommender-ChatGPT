@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Wuthering Heights by Emily Bronte
+2. Jane Eyre by Charlotte Bronte
+3. The Bell Jar by Sylvia Plath
+4. The Great Gatsby by F. Scott Fitzgerald
+5. To Kill a Mockingbird by Harper Lee
+6. Nineteen Eighty-Four by George Orwell
+7. Harry Potter series by J.K. Rowling
+8. The Lord of the Rings by J.R.R. Tolkien
+9. Little Women by Louisa May Alcott
+10. Sense and Sensibility by Jane Austen
+11. Great Expectations by Charles Dickens
+12. Romeo and Juliet by William Shakespeare
+13. Macbeth by William Shakespeare
+14. Othello by William Shakespeare
+15. A Midsummer Night's Dream by William Shakespeare
+16. The Merchant of Venice by William Shakespeare
+17. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+18. The Vampire Lestat by Anne Rice
+19. The Name of the Wind by Patrick Rothfuss
+20. The Blind Assassin by Margaret Atwood
+21. Oryx and Crake by Margaret Atwood
+22. Enduring Love by Ian McEwan
+23. The Art of Deception by Kevin Mitnick
+24. The Watchmen by Alan Moore
+25. Batman: The Killing Joke by Alan Moore
+26. Batman: Year One by Frank Miller
+27. The Lorax by Dr. Seuss
+28. White Noise by Don DeLillo
+29. Leaving a Doll's House: A Memoir by Claire Bloom
+30. You Shall Know Our Velocity by Dave Eggers
+31. The Hamlet by William Faulkner
+32. The Witches by Roald Dahl
+33. Matilda by Roald Dahl
+34. Charlie and the Chocolate Factory by Roald Dahl
+35. Angela's Ashes by Frank McCourt
+36. Dear John by Nicholas Sparks
+37. The Crow by James O'Barr
+38. The Name of the Rose by Umberto Eco
+39. The Picture of Dorian Gray by Oscar Wilde
+40. The Importance of Being Earnest by Oscar Wilde
+41. The Waste Land by T.S. Eliot
+42. Les Miserables by Victor Hugo
+43. War and Peace by Leo Tolstoy
+44. Villette by Charlotte Bronte
+45. Mansfield Park by Jane Austen
+46. Immortality by Milan Kundera
+47. Never Let Me Go by Kazuo Ishiguro
+48. Sold by Patricia McCormick
+49. Bad Girls by Jacqueline Wilson
+50. Number the Stars by Lois Lowry

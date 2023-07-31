@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. The Hunger Games by Suzanne Collins
+3. Eragon by Christopher Paolini
+4. The Chronicles of Narnia by C.S. Lewis
+5. Harry Potter and the Philosopher's Stone by J.K. Rowling
+6. The Maze Runner by James Dashner
+7. The Giver by Lois Lowry
+8. Divergent by Veronica Roth
+9. The Name of the Wind by Patrick Rothfuss
+10. The Dark Tower series by Stephen King
+11. The Wheel of Time series by Robert Jordan
+12. The Kingkiller Chronicle series by Patrick Rothfuss
+13. Mistborn series by Brandon Sanderson
+14. The Stormlight Archive series by Brandon Sanderson
+15. The Lies of Locke Lamora by Scott Lynch
+16. The First Law trilogy by Joe Abercrombie
+17. The Blade Itself by Joe Abercrombie
+18. The Way of Kings by Brandon Sanderson
+19. The Final Empire by Brandon Sanderson
+20. The Well of Ascension by Brandon Sanderson
+21. The Hero of Ages by Brandon Sanderson
+22. The Wise Man's Fear by Patrick Rothfuss
+23. The Lightbringer series by Brent Weeks
+24. The Black Prism by Brent Weeks
+25. The Night Angel trilogy by Brent Weeks
+26. The Broken Empire trilogy by Mark Lawrence
+27. The Prince of Thorns by Mark Lawrence
+28. The Emperor's Blades by Brian Staveley
+29. The Shadow of What Was Lost by James Islington
+30. The Farseer Trilogy by Robin Hobb
+31. The Liveship Traders Trilogy by Robin Hobb
+32. The Tawny Man Trilogy by Robin Hobb
+33. The Malazan Book of the Fallen series by Steven Erikson
+34. The Lies of Locke Lamora by Scott Lynch
+35. The Republic of Thieves by Scott Lynch
+36. The Gentleman Bastard series by Scott Lynch
+37. The Black Company series by Glen Cook
+38. The Dresden Files series by Jim Butcher
+39. The Codex Alera series by Jim Butcher
+40. The King's Dark Tidings series by Kel Kade
+41. The Riyria Revelations series by Michael J. Sullivan
+42. The Riyria Chronicles series by Michael J. Sullivan
+43. The Powder Mage trilogy by Brian McClellan
+44. The Red Rising series by Pierce Brown
+45. The Broken Earth trilogy by N.K. Jemisin
+46. The Fifth Season by N.K. Jemisin
+47. The Stone Sky by N.K. Jemisin
+48. The Inheritance Trilogy by N.K. Jemisin
+49. The Hundred Thousand Kingdoms by N.K
+50. The Wise Man's Fear by Patrick Rothfuss

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. My Chemical Romance
+2. Green Day
+3. Bullet for My Valentine
+4. Rise Against
+5. Three Days Grace
+6. Breaking Benjamin
+7. Papa Roach
+8. Disturbed
+9. Alter Bridge
+10. Guns N' Roses
+11. Iron Maiden
+12. blessthefall
+13. Alesana
+14. Asking Alexandria
+15. The Used
+16. Seether
+17. Foo Fighters
+18. Panic! At the Disco
+19. A Skylit Drive
+20. All Time Low
+21. The All-American Rejects
+22. Good Charlotte
+23. The Red Jumpsuit Apparatus
+24. Before Their Eyes
+25. Lostprophets
+26. VersaEmerge
+27. The Maine
+28. Trapt
+29. Alexisonfire
+30. Simple Plan
+31. Billy Talent
+32. Goo Goo Dolls
+33. Paramore
+34. Avenged Sevenfold
+35. Nirvana
+36. Metallica
+37. Led Zeppelin
+38. Pearl Jam
+39. System of a Down
+40. Linkin Park
+41. Nine Inch Nails
+42. The Killers
+43. Muse
+44. Pink Floyd
+45. Coldplay
+46. Arctic Monkeys
+47. Placebo
+48. Duran Duran
+49. Michael Jackson
+50. Madonna

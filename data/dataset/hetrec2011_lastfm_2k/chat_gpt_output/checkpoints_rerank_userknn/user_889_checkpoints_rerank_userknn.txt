@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Pixies
+3. Sonic Youth
+4. Talking Heads
+5. My Bloody Valentine
+6. Pavement
+7. The Flaming Lips
+8. Neutral Milk Hotel
+9. Arcade Fire
+10. Bob Dylan
+11. Tom Waits
+12. Gorillaz
+13. Manic Street Preachers
+14. Daft Punk
+15. Madvillain
+16. Mastodon
+17. Weezer
+18. The Black Keys
+19. Pink Floyd
+20. The Rolling Stones
+21. Built to Spill
+22. Björk
+23. The National
+24. Feist
+25. Grizzly Bear
+26. Miles Davis
+27. Spiritualized
+28. The White Stripes
+29. Band of Horses
+30. Led Zeppelin
+31. Nick Cave and the Bad Seeds
+32. The Doors
+33. Captain Beefheart & His Magic Band
+34. Animal Collective
+35. Tenacious D
+36. The Libertines
+37. Aerosmith
+38. The Jimi Hendrix Experience
+39. Red Hot Chili Peppers
+40. The Brian Jonestown Massacre
+41. Aphex Twin
+42. Spoon
+43. Autechre
+44. Sufjan Stevens
+45. Simon & Garfunkel
+46. The Kinks
+47. Wilco
+48. Bob Marley
+49. Tom Petty and the Heartbreakers
+50. Elliott Smith

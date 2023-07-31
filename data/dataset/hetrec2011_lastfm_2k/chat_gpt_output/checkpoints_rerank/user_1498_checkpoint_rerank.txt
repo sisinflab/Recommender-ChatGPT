@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. U2
+2. David Bowie
+3. Depeche Mode
+4. Morrissey
+5. R.E.M.
+6. Nick Cave and the Bad Seeds
+7. The Smiths
+8. Joy Division
+9. Leonard Cohen
+10. Wolfsheim
+11. Belle and Sebastian
+12. Cocteau Twins
+13. Bryan Ferry
+14. Peter Gabriel
+15. Dead Can Dance
+16. Loreena McKennitt
+17. Placebo
+18. Björk
+19. Duran Duran
+20. Ultravox
+21. Annie Lennox
+22. Pulp
+23. The Cranberries
+24. Madonna
+25. Radiohead
+26. Pink Floyd
+27. Muse
+28. The Beatles
+29. Coldplay
+30. Blur
+31. Arctic Monkeys
+32. Nirvana
+33. Led Zeppelin
+34. Metallica
+35. Michael Jackson
+36. Pearl Jam
+37. a-ha
+38. System of a Down
+39. Daft Punk
+40. Nine Inch Nails
+41. Linkin Park
+42. Amy Winehouse
+43. Kelly Clarkson
+44. Avril Lavigne
+45. Taylor Swift
+46. Shakira
+47. Lady Gaga
+48. Christina Aguilera
+49. Katy Perry
+50. My Chemical Romance

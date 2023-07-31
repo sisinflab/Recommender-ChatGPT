@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. Björk
+3. Sigur Rós
+4. Ólafur Arnalds
+5. Massive Attack
+6. Portishead
+7. Jónsi
+8. Fever Ray
+9. Antony and the Johnsons
+10. Blonde Redhead
+11. PJ Harvey
+12. Tom Waits
+13. Air
+14. Gorillaz
+15. The National
+16. Cat Power
+17. Laura Marling
+18. Regina Spektor
+19. Ludwig van Beethoven
+20. Pink Floyd
+21. Moby
+22. Devendra Banhart
+23. Zемфира
+24. Placebo
+25. Flunk
+26. Muse
+27. The Beatles
+28. Nirvana
+29. Pearl Jam
+30. Led Zeppelin
+31. Iron Maiden
+32. Metallica
+33. Duran Duran
+34. Coldplay
+35. Blur
+36. Arctic Monkeys
+37. Ke$ha
+38. Lady Gaga
+39. Christina Aguilera
+40. Madonna
+41. Rihanna
+42. Shakira
+43. Katy Perry
+44. Avril Lavigne
+45. Taylor Swift
+46. Evanescence
+47. Glee Cast
+48. Beyoncé
+49. U2
+50. 30 Seconds to Mars

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Killers
+2. Arcade Fire
+3. Beck
+4. The Strokes
+5. Phoenix
+6. Gorillaz
+7. Daft Punk
+8. The White Stripes
+9. Arctic Monkeys
+10. Franz Ferdinand
+11. Yeah Yeah Yeahs
+12. The Black Keys
+13. LCD Soundsystem
+14. Vampire Weekend
+15. The xx
+16. Tame Impala
+17. Grimes
+18. HAIM
+19. CHVRCHES
+20. Lorde
+21. Florence + The Machine
+22. Lana Del Rey
+23. Sia
+24. Adele
+25. Taylor Swift
+26. Ed Sheeran
+27. Shawn Mendes
+28. Billie Eilish
+29. Dua Lipa
+30. Ariana Grande
+31. Justin Timberlake
+32. Bruno Mars
+33. Maroon 5
+34. Calvin Harris
+35. David Guetta
+36. Avicii
+37. Zedd
+38. Kygo
+39. Martin Garrix
+40. The Chainsmokers
+41. Post Malone
+42. Drake
+43. Kendrick Lamar
+44. Childish Gambino
+45. J. Cole
+46. Travis Scott
+47. Kanye West
+48. Jay-Z
+49. Nas
+50. Eminem

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Nine Inch Nails
+2. Massive Attack
+3. Boards of Canada
+4. Ulver
+5. Opeth
+6. Meshuggah
+7. Mastodon
+8. The Dillinger Escape Plan
+9. Gojira
+10. Isis
+11. Cynic
+12. Death
+13. deadmau5
+14. Jamiroquai
+15. Chase & Status
+16. Hadouken!
+17. Katatonia
+18. Simply Red
+19. Green Day
+20. Bonobo
+21. Telefon Tel Aviv
+22. Four Tet
+23. Autechre
+24. Mogwai
+25. Fleet Foxes
+26. Linkin Park
+27. The Flashbulb
+28. Björk
+29. Explosions in the Sky
+30. Crystal Castles
+31. Air
+32. The Album Leaf
+33. Sigur Rós
+34. Groove Armada
+35. Tool
+36. Apparat
+37. Aphex Twin
+38. Flying Lotus
+39. The Cure
+40. Parov Stelar
+41. José González
+42. Arovane
+43. Kettel
+44. R.E.M.
+45. Animal Collective
+46. Enigma
+47. Sting
+48. Plaid
+49. Nina Simone
+50. Enya

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. 1984 by George Orwell
+2. A Clockwork Orange by Anthony Burgess
+3. A Game of Thrones by George R. R. Martin
+4. American Gods by Neil Gaiman
+5. Animal Farm by George Orwell
+6. Brave New World by Aldous Huxley
+7. Catch-22 by Joseph Heller
+8. Dracula by Bram Stoker
+9. Dune by Frank Herbert
+10. Fahrenheit 451 by Ray Bradbury
+11. Fight Club by Chuck Palahniuk
+12. Frankenstein by Mary Shelley
+13. Good Omens by Neil Gaiman and Terry Pratchett
+14. Heart of Darkness by Joseph Conrad
+15. Hitchhiker's Guide to the Galaxy by Douglas Adams
+16. House of Leaves by Mark Z. Danielewski
+17. I, Robot by Isaac Asimov
+18. Jurassic Park by Michael Crichton
+19. Lolita by Vladimir Nabokov
+20. Lord of the Flies by William Golding
+21. Neuromancer by William Gibson
+22. Nineteen Eighty-Four by George Orwell
+23. One Hundred Years of Solitude by Gabriel Garcia Marquez
+24. Slaughterhouse-Five by Kurt Vonnegut
+25. Snow Crash by Neal Stephenson
+26. Stranger in a Strange Land by Robert A. Heinlein
+27. The Catcher in the Rye by J.D. Salinger
+28. The Chronicles of Narnia by C.S. Lewis
+29. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+30. The Hunger Games by Suzanne Collins
+31. The Martian by Andy Weir
+32. The Picture of Dorian Gray by Oscar Wilde
+33. The Road by Cormac McCarthy
+34. The Shining by Stephen King
+35. The Stand by Stephen King
+36. The Stranger by Albert Camus
+37. The Time Machine by H.G. Wells
+38. The War of the Worlds by H.G. Wells
+39. To Kill a Mockingbird by Harper Lee
+40. Watchmen by Alan Moore and Dave Gibbons
+41. Watership Down by Richard Adams
+42. We by Yevgeny Zamyatin
+43. World War Z by Max Brooks
+44. 1984 by George Orwell
+45. A Clockwork Orange by Anthony Burgess
+46. A Game of Thrones by George R. R. Martin
+47. American Gods by Neil Gaiman
+48. Animal Farm by George Orwell
+49. Brave New World by Aldous Huxley
+50. Catch-22 by Joseph Heller

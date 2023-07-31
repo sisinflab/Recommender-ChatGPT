@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Guns N' Roses
+2. AC/DC
+3. Metallica
+4. Led Zeppelin
+5. Queen
+6. Nirvana
+7. Pearl Jam
+8. Soundgarden
+9. Alice in Chains
+10. Stone Temple Pilots
+11. Foo Fighters
+12. Green Day
+13. Blink-182
+14. The Offspring
+15. Sum 41
+16. My Chemical Romance
+17. Fall Out Boy
+18. Panic! At The Disco
+19. All Time Low
+20. Mayday Parade
+21. The Maine
+22. Sleeping With Sirens
+23. Pierce The Veil
+24. Bring Me The Horizon
+25. Asking Alexandria
+26. Black Veil Brides
+27. Motionless In White
+28. Escape The Fate
+29. A Day To Remember
+30. Parkway Drive
+31. Architects
+32. August Burns Red
+33. Killswitch Engage
+34. Trivium
+35. Lamb of God
+36. Slipknot
+37. System of a Down
+38. Korn
+39. Disturbed
+40. Five Finger Death Punch
+41. Avenged Sevenfold
+42. Bullet For My Valentine
+43. Atreyu
+44. As I Lay Dying
+45. Underoath
+46. Norma Jean
+47. The Devil Wears Prada
+48. Every Time I Die
+49. Converge
+50. Code Orange

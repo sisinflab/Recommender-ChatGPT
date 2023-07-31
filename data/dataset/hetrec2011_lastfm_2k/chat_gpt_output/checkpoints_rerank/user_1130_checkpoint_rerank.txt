@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Muse
+2. Radiohead
+3. Nirvana
+4. Coldplay
+5. 30 Seconds to Mars
+6. The Killers
+7. Depeche Mode
+8. Joy Division
+9. Interpol
+10. Massive Attack
+11. Portishead
+12. She Wants Revenge
+13. White Lies
+14. Metric
+15. Bat for Lashes
+16. Siouxsie and the Banshees
+17. Kasabian
+18. Franz Ferdinand
+19. The Smiths
+20. IAMX
+21. Kings of Leon
+22. Chevelle
+23. Moby
+24. Bloc Party
+25. Sia
+26. Amy Macdonald
+27. Cat Power
+28. Keane
+29. Evanescence
+30. Bat for Lashes
+31. Metric
+32. White Lies
+33. Portishead
+34. Joy Division
+35. She Wants Revenge
+36. The Beatles
+37. Pink Floyd
+38. Led Zeppelin
+39. Metallica
+40. Iron Maiden
+41. Duran Duran
+42. Arctic Monkeys
+43. Placebo
+44. a-ha
+45. Björk
+46. Nine Inch Nails
+47. Daft Punk
+48. Linkin Park
+49. My Chemical Romance
+50. Green Day

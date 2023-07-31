@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. The Catcher in the Rye by J.D. Salinger
+4. Slaughterhouse-Five by Kurt Vonnegut
+5. The Great Gatsby by F. Scott Fitzgerald
+6. To Kill a Mockingbird by Harper Lee
+7. One Hundred Years of Solitude by Gabriel Garcia Marquez
+8. The Brothers Karamazov by Fyodor Dostoevsky
+9. Crime and Punishment by Fyodor Dostoevsky
+10. The Stranger by Albert Camus
+11. The Road by Cormac McCarthy
+12. The Bell Jar by Sylvia Plath
+13. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+14. The Lord of the Rings by J.R.R. Tolkien
+15. The Hobbit by J.R.R. Tolkien
+16. The Chronicles of Narnia by C.S. Lewis
+17. The Stand by Stephen King
+18. The Shining by Stephen King
+19. The Silence of the Lambs by Thomas Harris
+20. The Girl with the Dragon Tattoo by Stieg Larsson
+21. The Da Vinci Code by Dan Brown
+22. The Hunger Games by Suzanne Collins
+23. The Road to Serfdom by Friedrich Hayek
+24. The Wealth of Nations by Adam Smith
+25. The Communist Manifesto by Karl Marx and Friedrich Engels
+26. The Art of War by Sun Tzu
+27. The Prince by Niccolo Machiavelli
+28. The Republic by Plato
+29. The Divine Comedy by Dante Alighieri
+30. The Canterbury Tales by Geoffrey Chaucer
+31. The Iliad by Homer
+32. The Odyssey by Homer
+33. The Aeneid by Virgil
+34. The Metamorphoses by Ovid
+35. The Inferno by Dante Alighieri
+36. The Picture of Dorian Gray by Oscar Wilde
+37. The Importance of Being Earnest by Oscar Wilde
+38. The Sun Also Rises by Ernest Hemingway
+39. A Farewell to Arms by Ernest Hemingway
+40. The Old Man and the Sea by Ernest Hemingway
+41. The Sound and the Fury by William Faulkner
+42. As I Lay Dying by William Faulkner
+43. The Grapes of Wrath by John Steinbeck
+44. East of Eden by John Steinbeck
+45. The Adventures of Tom Sawyer by Mark Twain
+46. The Adventures of Huckleberry Finn by Mark Twain
+47. The Picture of Dorian Gray by Oscar Wilde
+48. The Importance of Being Earnest by Oscar Wilde
+49. The Satanic Verses by Salman Rushdie
+50. The God of

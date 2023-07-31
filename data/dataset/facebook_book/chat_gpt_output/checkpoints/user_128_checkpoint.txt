@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+2. The Lord of the Rings by J.R.R. Tolkien
+3. 1984 by George Orwell
+4. The Catcher in the Rye by J.D. Salinger
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Pride and Prejudice by Jane Austen
+7. The Chronicles of Narnia by C.S. Lewis
+8. The Hunger Games by Suzanne Collins
+9. The Da Vinci Code by Dan Brown
+10. The Girl with the Dragon Tattoo by Stieg Larsson
+11. The Hobbit by J.R.R. Tolkien
+12. The Picture of Dorian Gray by Oscar Wilde
+13. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+14. The Time Traveler's Wife by Audrey Niffenegger
+15. The Road by Cormac McCarthy
+16. The Kite Runner by Khaled Hosseini
+17. The Book Thief by Markus Zusak
+18. The Fault in Our Stars by John Green
+19. The Alchemist by Paulo Coelho
+20. The Secret Life of Bees by Sue Monk Kidd
+21. The Help by Kathryn Stockett
+22. The Color Purple by Alice Walker
+23. The Handmaid's Tale by Margaret Atwood
+24. The Stand by Stephen King
+25. The Shining by Stephen King
+26. The Silence of the Lambs by Thomas Harris
+27. The Girl on the Train by Paula Hawkins
+28. The Martian by Andy Weir
+29. The Catcher in the Rye by J.D. Salinger
+30. The Picture of Dorian Gray by Oscar Wilde
+31. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+32. The Time Traveler's Wife by Audrey Niffenegger
+33. The Road by Cormac McCarthy
+34. The Kite Runner by Khaled Hosseini
+35. The Book Thief by Markus Zusak
+36. The Fault in Our Stars by John Green
+37. The Alchemist by Paulo Coelho
+38. The Secret Life of Bees by Sue Monk Kidd
+39. The Help by Kathryn Stockett
+40. The Color Purple by Alice Walker
+41. The Handmaid's Tale by Margaret Atwood
+42. The Stand by Stephen King
+43. The Shining by Stephen King
+44. The Silence of the Lambs by Thomas Harris
+45. The Girl on the Train by Paula Hawkins
+46. The Martian by Andy Weir
+47. The Fellowship of the Ring by J.R.R. Tolkien
+48. The Two Towers by J.R.R. Tolkien
+49. The Return of the King by J.R.R. Tolkien
+50. The Silmarillion by J.R.R. Tolkien

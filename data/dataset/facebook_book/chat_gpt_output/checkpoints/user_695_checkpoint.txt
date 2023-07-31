@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Dracula by Bram Stoker
+2. Frankenstein by Mary Shelley
+3. The Picture of Dorian Gray by Oscar Wilde
+4. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+5. Wuthering Heights by Emily Bronte
+6. Jane Eyre by Charlotte Bronte
+7. Pride and Prejudice by Jane Austen
+8. Sense and Sensibility by Jane Austen
+9. Emma by Jane Austen
+10. Persuasion by Jane Austen
+11. Northanger Abbey by Jane Austen
+12. The Hobbit by J.R.R. Tolkien
+13. The Fellowship of the Ring by J.R.R. Tolkien
+14. The Two Towers by J.R.R. Tolkien
+15. The Return of the King by J.R.R. Tolkien
+16. The Chronicles of Narnia by C.S. Lewis
+17. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+18. The Catcher in the Rye by J.D. Salinger
+19. To Kill a Mockingbird by Harper Lee
+20. 1984 by George Orwell
+21. Animal Farm by George Orwell
+22. The Great Gatsby by F. Scott Fitzgerald
+23. The Adventures of Tom Sawyer by Mark Twain
+24. The Adventures of Huckleberry Finn by Mark Twain
+25. The Count of Monte Cristo by Alexandre Dumas
+26. Les Miserables by Victor Hugo
+27. The Three Musketeers by Alexandre Dumas
+28. The Phantom of the Opera by Gaston Leroux
+29. The Hunchback of Notre Dame by Victor Hugo
+30. The Picture of Dorian Gray by Oscar Wilde
+31. The Importance of Being Earnest by Oscar Wilde
+32. The Time Machine by H.G. Wells
+33. The War of the Worlds by H.G. Wells
+34. The Invisible Man by H.G. Wells
+35. The Island of Dr. Moreau by H.G. Wells
+36. The Call of the Wild by Jack London
+37. White Fang by Jack London
+38. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+39. The Hound of the Baskervilles by Arthur Conan Doyle
+40. The Return of Sherlock Holmes by Arthur Conan Doyle
+41. The Valley of Fear by Arthur Conan Doyle
+42. The Sign of Four by Arthur Conan Doyle
+43. The Moonstone by Wilkie Collins
+44. The Woman in White by Wilkie Collins
+45. The Adventures of Robin Hood by Howard Pyle
+46. The Scarlet Pimpernel by Baroness Orczy
+47. The Prisoner of Zenda by Anthony Hope
+48. The Picture of Dorian Gray by Oscar Wilde
+49. The Importance of Being Earnest by Oscar Wilde
+50

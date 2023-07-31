@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Smiths
+2. Joy Division
+3. Talking Heads
+4. Pixies
+5. Arcade Fire
+6. Interpol
+7. The Strokes
+8. New Order
+9. The National
+10. The Jesus and Mary Chain
+11. The Stone Roses
+12. The Cure
+13. David Bowie
+14. Sonic Youth
+15. Radiohead
+16. The Velvet Underground
+17. My Bloody Valentine
+18. The Clash
+19. The Pixies
+20. The White Stripes
+21. The Black Keys
+22. The Libertines
+23. The Arctic Monkeys
+24. The Yeah Yeah Yeahs
+25. The Hives
+26. The Vines
+27. The Kills
+28. The Raconteurs
+29. The Dead Weather
+30. The Flaming Lips
+31. The Shins
+32. The Decemberists
+33. The Postal Service
+34. Death Cab for Cutie
+35. Vampire Weekend
+36. Fleet Foxes
+37. Grizzly Bear
+38. Animal Collective
+39. Beach House
+40. Deerhunter
+41. The Radio Dept.
+42. múm
+43. The Drums
+44. Air
+45. The Beach Boys
+46. Yann Tiersen
+47. Metronomy
+48. Klaxons
+49. Xiu Xiu
+50. MGMT

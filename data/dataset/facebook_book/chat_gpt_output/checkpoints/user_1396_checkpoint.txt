@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Alchemist by Paulo Coelho
+2. Veronika Decides to Die by Paulo Coelho
+3. Eleven Minutes by Paulo Coelho
+4. The Zahir by Paulo Coelho
+5. The Valkyries by Paulo Coelho
+6. The Fifth Mountain by Paulo Coelho
+7. The Devil and Miss Prym by Paulo Coelho
+8. The Winner Stands Alone by Paulo Coelho
+9. The Pilgrimage by Paulo Coelho
+10. Like the Flowing River by Paulo Coelho
+11. The Prophet by Kahlil Gibran
+12. The Little Prince by Antoine de Saint-Exupéry
+13. The Catcher in the Rye by J.D. Salinger
+14. To Kill a Mockingbird by Harper Lee
+15. 1984 by George Orwell
+16. Animal Farm by George Orwell
+17. Brave New World by Aldous Huxley
+18. Fahrenheit 451 by Ray Bradbury
+19. The Handmaid's Tale by Margaret Atwood
+20. The Hunger Games by Suzanne Collins
+21. The Giver by Lois Lowry
+22. The Maze Runner by James Dashner
+23. The Fault in Our Stars by John Green
+24. Looking for Alaska by John Green
+25. Paper Towns by John Green
+26. The Perks of Being a Wallflower by Stephen Chbosky
+27. The Lovely Bones by Alice Sebold
+28. The Time Traveler's Wife by Audrey Niffenegger
+29. The Girl on the Train by Paula Hawkins
+30. Gone Girl by Gillian Flynn
+31. The Da Vinci Code by Dan Brown
+32. Angels and Demons by Dan Brown
+33. Inferno by Dan Brown
+34. The Name of the Rose by Umberto Eco
+35. The Shadow of the Wind by Carlos Ruiz Zafón
+36. The Book Thief by Markus Zusak
+37. The Kite Runner by Khaled Hosseini
+38. A Thousand Splendid Suns by Khaled Hosseini
+39. The God of Small Things by Arundhati Roy
+40. Life of Pi by Yann Martel
+41. The Unbearable Lightness of Being by Milan Kundera
+42. One Hundred Years of Solitude by Gabriel García Márquez
+43. Love in the Time of Cholera by Gabriel García Márquez
+44. The House of the Spirits by Isabel Allende
+45. The Time of the Hero by Mario Vargas Llosa
+46. The Feast of the Goat by Mario Vargas Llosa
+47. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+48. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+49. The Road by Cormac
+50. Ready Player One by Ernest Cline

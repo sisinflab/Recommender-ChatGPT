@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Jane Eyre by Charlotte Bronte
+2. The Picture of Dorian Gray by Oscar Wilde
+3. The Catcher in the Rye by J.D. Salinger
+4. To Kill a Mockingbird by Harper Lee
+5. Pride and Prejudice by Jane Austen
+6. The Great Gatsby by F. Scott Fitzgerald
+7. 1984 by George Orwell
+8. Animal Farm by George Orwell
+9. The Bell Jar by Sylvia Plath
+10. The Handmaid's Tale by Margaret Atwood
+11. The Road by Cormac McCarthy
+12. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+13. The Lord of the Rings by J.R.R. Tolkien
+14. The Hobbit by J.R.R. Tolkien
+15. The Chronicles of Narnia by C.S. Lewis
+16. The Hunger Games by Suzanne Collins
+17. The Girl with the Dragon Tattoo by Stieg Larsson
+18. The Da Vinci Code by Dan Brown
+19. The Name of the Rose by Umberto Eco
+20. The Shadow of the Wind by Carlos Ruiz Zafon
+21. The Time Traveler's Wife by Audrey Niffenegger
+22. The Alchemist by Paulo Coelho
+23. The Kite Runner by Khaled Hosseini
+24. A Thousand Splendid Suns by Khaled Hosseini
+25. The God of Small Things by Arundhati Roy
+26. The Secret History by Donna Tartt
+27. The Goldfinch by Donna Tartt
+28. The Book Thief by Markus Zusak
+29. The Fault in Our Stars by John Green
+30. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+31. The Lovely Bones by Alice Sebold
+32. The Help by Kathryn Stockett
+33. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+34. The Poisonwood Bible by Barbara Kingsolver
+35. The Color Purple by Alice Walker
+36. The Joy Luck Club by Amy Tan
+37. The House on Mango Street by Sandra Cisneros
+38. The Brief Wondrous Life of Oscar Wao by Junot Diaz
+39. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+40. The Road to Serfdom by Friedrich Hayek
+41. The Wealth of Nations by Adam Smith
+42. The Communist Manifesto by Karl Marx and Friedrich Engels
+43. The Art of War by Sun Tzu
+44. The Prince by Niccolo Machiavelli
+45. The Republic by Plato
+46. The Odyssey by Homer
+47. The Iliad by Homer
+48. The Divine Comedy by Dante Alighieri
+49. The Canterbury Tales by Geoffrey Chaucer
+50. Moby-Dick by Herman Melville

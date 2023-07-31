@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Beatles
+2. Nirvana
+3. Pearl Jam
+4. Alice in Chains
+5. Rammstein
+6. Deftones
+7. Nine Inch Nails
+8. Stone Temple Pilots
+9. Faith No More
+10. Pixies
+11. Mr. Bungle
+12. Genesis
+13. Muse
+14. Duran Duran
+15. Elton John
+16. Billy Joel
+17. Hall & Oates
+18. No Doubt
+19. Lady Gaga
+20. Marilyn Manson
+21. Phil Collins
+22. Sting
+23. Tears for Fears
+24. George Harrison
+25. Michael Jackson
+26. John Lennon
+27. David Bowie
+28. The Cure
+29. Madonna
+30. Eurythmics
+31. Cyndi Lauper
+32. George Michael
+33. Spandau Ballet
+34. Simply Red
+35. Pet Shop Boys
+36. New Order
+37. Ultravox
+38. Erasure
+39. Depeche Mode
+40. Japan
+41. ABC
+42. Tori Amos
+43. The Human League
+44. Madness
+45. Thompson Twins
+46. Orchestral Manoeuvres in the Dark
+47. Bob Marley & The Wailers
+48. Green Day
+49. U2
+50. Crowded House

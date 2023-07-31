@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Fault in Our Stars by John Green
+2. Looking for Alaska by John Green
+3. Thirteen Reasons Why by Jay Asher
+4. The Hunger Games by Suzanne Collins
+5. Catching Fire by Suzanne Collins
+6. Mockingjay by Suzanne Collins
+7. Divergent by Veronica Roth
+8. Insurgent by Veronica Roth
+9. Allegiant by Veronica Roth
+10. The Maze Runner by James Dashner
+11. The Scorch Trials by James Dashner
+12. The Death Cure by James Dashner
+13. The Giver by Lois Lowry
+14. Gathering Blue by Lois Lowry
+15. Messenger by Lois Lowry
+16. Son by Lois Lowry
+17. The Book Thief by Markus Zusak
+18. The Perks of Being a Wallflower by Stephen Chbosky
+19. Eleanor & Park by Rainbow Rowell
+20. Fangirl by Rainbow Rowell
+21. The Selection by Kiera Cass
+22. The Elite by Kiera Cass
+23. The One by Kiera Cass
+24. The 5th Wave by Rick Yancey
+25. The Infinite Sea by Rick Yancey
+26. The Last Star by Rick Yancey
+27. The Maze Runner Files by James Dashner
+28. The Kill Order by James Dashner
+29. The Hunger Games: Official Illustrated Movie Companion by Kate Egan
+30. The Fault in Our Stars: Official Movie Tie-in by John Green
+31. Looking for Alaska: Special 10th Anniversary Edition by John Green
+32. The Maze Runner: The Official Movie Tie-in Edition by James Dashner
+33. The Scorch Trials: The Official Graphic Novel Prelude by James Dashner
+34. The Giver Quartet boxed set by Lois Lowry
+35. The Selection Stories: The Prince & The Guard by Kiera Cass
+36. The Selection Coloring Book by Kiera Cass
+37. The 5th Wave Collection by Rick Yancey
+38. The Maze Runner Series Complete Collection Boxed Set by James Dashner
+39. The Hunger Games Trilogy Boxed Set by Suzanne Collins
+40. The Fault in Our Stars Deluxe Edition by John Green
+41. Looking for Alaska Deluxe Edition by John Green
+42. The Outsiders 50th Anniversary Edition by S. E. Hinton
+43. The Lovely Bones Deluxe Edition by Alice Sebold
+44. To Kill a Mockingbird 50th Anniversary Edition by Harper Lee
+45. Go Ask Alice by Anonymous
+46. The Heroin Diaries: A Year in the Life of a Shattered Rock Star by Nikki Sixx
+47. Fallen by Lauren Kate
+48. Uglies by Scott Westerfeld
+49. Pretty Little Liars by Sara Shepard
+50. 13 Little Blue Envelopes by Ma

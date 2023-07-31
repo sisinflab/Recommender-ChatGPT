@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter
+2. To Kill a Mockingbird
+3. Fahrenheit 451
+4. Slaughterhouse-Five
+5. The Chronicles of Narnia: Prince Caspian
+6. Crime and Punishment
+7. The Martian Chronicles
+8. Gulliver's Travels
+9. The Hunger Games
+10. The Girl Who Played with Fire
+11. The Idiot
+12. The Lightning Thief
+13. Pygmalion (play)
+14. City of God (book)
+15. The Curious Incident of the Dog in the Night-Time
+16. The Lorax
+17. Holes (novel)
+18. Strange Case of Dr Jekyll and Mr Hyde
+19. The Hatchet (novel)
+20. The Wind-Up Bird Chronicle
+21. Cat's Cradle
+22. Rosemary's Baby
+23. Wake (Lisa McMann novel)
+24. The Winter's Tale
+25. Magic Tree House series
+26. The Sound and the Fury
+27. Of Mice and Men
+28. Maximum Ride
+29. Neverwhere (novel)
+30. We (novel)
+31. The Sandman (book)
+32. Carrie (novel)
+33. The Fountainhead
+34. Dragon Rider (novel)
+35. Vampire Academy (novel)
+36. Cecilia (McClure novel)
+37. The Kreutzer Sonata
+38. Atlas Shrugged
+39. A Confederacy of Dunces
+40. On the Road
+41. Thirteen Reasons Why
+42. Watchmen
+43. Mockingjay
+44. The Sight (novel)
+45. Death of a Salesman
+46. The Zombie Survival Guide
+47. The Tipping Point
+48. Eldest
+49. Pretty Little Liars (book)
+50. Gossip Girl (novel series)

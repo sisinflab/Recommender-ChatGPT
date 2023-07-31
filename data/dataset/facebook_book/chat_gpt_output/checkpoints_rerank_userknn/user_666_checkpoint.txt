@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Never Let Me Go (novel)
+2. Emma (novel)
+3. The Bell Jar
+4. Veronika Decides to Die
+5. Norwegian Wood (novel)
+6. Jane Eyre
+7. The Forgotten Garden
+8. I Am David
+9. Grimms' Fairy Tales
+10. Half Broke Horses
+11. Girl with a Pearl Earring (novel)
+12. Leaving a Doll's House: A Memoir
+13. The Perks of Being a Wallflower
+14. We the Living
+15. Persuasion (novel)
+16. Anne of Green Gables
+17. Mansfield Park
+18. Wuthering Heights
+19. The Alchemist (novel)
+20. The Picture of Dorian Gray
+21. One Hundred Years of Solitude
+22. The Help
+23. A Thousand Splendid Suns
+24. The Book Thief
+25. Water for Elephants
+26. The Time Traveler's Wife
+27. My Sister's Keeper (novel)
+28. Oedipus the King
+29. Sabriel
+30. Abhorsen
+31. Lord of the Flies
+32. Waiting for Godot
+33. Snow Flower and the Secret Fan
+34. The Hobbit
+35. Great Expectations
+36. The Hitchhiker's Guide to the Galaxy (novel)
+37. Pride and Prejudice
+38. Twilight (series)
+39. Quran
+40. Shakespeare's sonnets
+41. Les Misérables
+42. Sons and Lovers
+43. The Seven Habits of Highly Effective People
+44. The Prestige
+45. Othello
+46. Nineteen Eighty-Four
+47. Pygmalion (play)
+48. The Kite Runner
+49. The Merchant of Venice
+50. Animal Farm

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Harry Potter
+2. The Giver
+3. The Vampire Diaries (novel series)
+4. Percy Jackson & the Olympians
+5. Twilight (series)
+6. Vampire Academy (novel)
+7. Ink Exchange
+8. A Great and Terrible Beauty
+9. The Faerie Wars Chronicles
+10. Speak (novel)
+11. The Named
+12. Blue Moon (Noel novel)
+13. Vampire Kisses
+14. Little Women
+15. The Sweet Far Thing
+16. The Vampire Lestat
+17. Evermore (book)
+18. Uglies
+19. Fallen (Kate novel)
+20. Nineteen Minutes
+21. Ella Enchanted
+22. Perfect Match (novel)
+23. City of Glass (Mortal Instruments)
+24. Through the Looking-Glass
+25. The Joy Luck Club (novel)
+26. The Lord of the Rings
+27. The Time Traveler's Wife
+28. Beautiful Darkness
+29. Rebel Angels
+30. The Catcher in the Rye
+31. Brisingr
+32. Fade (novel)
+33. Feed (Anderson novel)
+34. Les Misérables
+35. Wuthering Heights
+36. The Messenger (Markus Zusak novel)
+37. The Lost Boy (memoir)
+38. My Sister's Keeper (novel)
+39. Sarah's Key (novel)
+40. Holes (novel)
+41. The Boy in the Striped Pyjamas
+42. Marley & Me
+43. Along for the Ride
+44. The Truth About Forever
+45. Salem Falls by ['Jodi Picoult']
+46. The Glass Menagerie by ['Tennessee Williams']
+47. Thirteen Reasons Why by ['Jay Asher']
+48. The Maze Runner by ['James Dashner']
+49. Tomorrow, When the War Began by ['John Marsden (writer)']
+50. Noughts & Crosses (novel series) by ['Malorie Blackman']

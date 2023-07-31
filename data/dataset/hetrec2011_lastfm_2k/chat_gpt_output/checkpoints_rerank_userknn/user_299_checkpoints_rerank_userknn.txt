@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations are:
+
+1. Muse
+2. Radiohead
+3. The Killers
+4. Franz Ferdinand
+5. Arctic Monkeys
+6. The Strokes
+7. Coldplay
+8. Oasis
+9. The Beatles
+10. Queen
+11. Pink Floyd
+12. Green Day
+13. Foo Fighters
+14. Keane
+15. The Vines
+16. The Libertines
+17. The Smiths
+18. Yeah Yeah Yeahs
+19. Vampire Weekend
+20. The Last Shadow Puppets
+21. Bloc Party
+22. Kaiser Chiefs
+23. Travis
+24. The Fratellis
+25. The Ting Tings
+26. Los Hermanos
+27. Black Kids
+28. Lady Gaga
+29. Beyoncé
+30. Rihanna
+31. Katy Perry
+32. Kylie Minogue
+33. Madonna
+34. Christina Aguilera
+35. Nicki Minaj
+36. Avril Lavigne
+37. McFly
+38. Boys Like Girls
+39. Maroon 5
+40. Duffy
+41. Lily Allen
+42. Lykke Li
+43. Kate Nash
+44. Vanessa da Mata
+45. Nando Reis
+46. Cássia Eller
+47. Ben Harper
+48. Paramore
+49. The Rakes
+50. Cansei de Ser Sexy

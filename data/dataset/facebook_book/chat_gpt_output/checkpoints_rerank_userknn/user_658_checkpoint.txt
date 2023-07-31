@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Jane Eyre by Charlotte Bronte
+2. Frankenstein by Mary Shelley
+3. The Bell Jar by Sylvia Plath
+4. To the Lighthouse by Virginia Woolf
+5. The Catcher in the Rye by J.D. Salinger
+6. A Thousand Splendid Suns by Khaled Hosseini
+7. Memoirs of a Geisha by Arthur Golden
+8. The Book Thief by Markus Zusak
+9. Little Women by Louisa May Alcott
+10. The Old Man and the Sea by Ernest Hemingway
+11. The Lord of the Rings by J.R.R. Tolkien
+12. Dune by Frank Herbert
+13. Fahrenheit 451 by Ray Bradbury
+14. Nineteen Eighty-Four by George Orwell
+15. The Great Divorce by C.S. Lewis
+16. The Scarlet Letter by Nathaniel Hawthorne
+17. Macbeth by William Shakespeare
+18. The Legend of Sleepy Hollow by Washington Irving
+19. Oliver Twist by Charles Dickens
+20. The Shadow of the Wind by Carlos Ruiz Zafon
+21. Thirteen Reasons Why by Jay Asher
+22. It's Kind of a Funny Story by Ned Vizzini
+23. The Wolves of Mercy Falls by Maggie Stiefvater
+24. The Vampire Diaries by L.J. Smith
+25. Twilight by Stephenie Meyer
+26. A Separate Peace by John Knowles
+27. The Ear, the Eye and the Arm by Nancy Farmer
+28. The Satanic Verses by Salman Rushdie
+29. Inkheart by Cornelia Funke
+30. Rose Daughter by Robin McKinley
+31. Rage of Angels by Sidney Sheldon
+32. Angels & Demons by Dan Brown
+33. Inferno by Dante Alighieri
+34. Things Fall Apart by Chinua Achebe
+35. Nectar in a Sieve by Kamala Markandaya
+36. Antony and Cleopatra by William Shakespeare
+37. Burned by Ellen Hopkins
+38. Teaching with Calvin and Hobbes by Linda Holmen
+39. The Notebook by Nicholas Sparks
+40. Lioness Rampant by Tamora Pierce
+41. The House of the Scorpion by Nancy Farmer
+42. Wuthering Heights by Emily Bronte
+43. Their Eyes Were Watching God by Zora Neale Hurston
+44. Studies of the Book of Mormon by B.H. Roberts
+45. The Constitution of Liberty by Friedrich Hayek
+46. Les Miserables by Victor Hugo
+47. A Midsummer Night's Dream by William Shakespeare
+48. Harry Potter by J.K. Rowling
+49. The Great Gatsby by F. Scott Fitzgerald
+50. A Tree Grows in Brooklyn by Betty Smith

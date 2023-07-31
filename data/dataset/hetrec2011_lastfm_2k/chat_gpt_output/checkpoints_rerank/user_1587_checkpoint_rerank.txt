@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Travis
+2. Morcheeba
+3. Zемфира
+4. Armin van Buuren
+5. Madonna
+6. Thirteen Senses
+7. Stars
+8. Keane
+9. Pink Floyd
+10. Pearl Jam
+11. Death Cab for Cutie
+12. Flunk
+13. The Killers
+14. Mylène Farmer
+15. Jamiroquai
+16. Matisyahu
+17. Interpol
+18. Maroon 5
+19. Kylie Minogue
+20. Placebo
+21. Band of Horses
+22. Air
+23. The Kooks
+24. Blackfield
+25. Stereolab
+26. Audioslave
+27. The Flaming Lips
+28. Feeder
+29. Hooverphonic
+30. Stereophonics
+31. Radiohead
+32. Muse
+33. Coldplay
+34. Blur
+35. Arctic Monkeys
+36. Nirvana
+37. Led Zeppelin
+38. Metallica
+39. Michael Jackson
+40. a-ha
+41. Björk
+42. System of a Down
+43. Daft Punk
+44. Nine Inch Nails
+45. Linkin Park
+46. Avril Lavigne
+47. Green Day
+48. The Cure
+49. Amy Winehouse
+50. U2

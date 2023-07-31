@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Chronicles of Narnia
+2. The Secret Garden
+3. The Giver
+4. The Book Thief
+5. Romeo and Juliet
+6. The Outsiders (novel)
+7. Alice's Adventures in Wonderland
+8. Jane Eyre
+9. Oliver Twist
+10. The Great Gatsby
+11. Nineteen Eighty-Four
+12. Memoirs of a Geisha
+13. The Forest of Hands and Teeth
+14. The Lost Boy (memoir)
+15. The Five People You Meet in Heaven
+16. Frankenstein
+17. Beauty Pop
+18. Left Behind (novel)
+19. The Zombie Survival Guide
+20. The Hunger Games
+21. The Host (novel)
+22. Fahrenheit 451
+23. The Kane Chronicles
+24. The Lost Hero
+25. The Dead-Tossed Waves
+26. Black Butler
+27. Naruto
+28. Manga
+29. Fruits Basket
+30. Chibi Vampire
+31. Like Water for Chocolate
+32. Wicked: The Life and Times of the Wicked Witch of the West
+33. The Smurfs
+34. The Very Hungry Caterpillar
+35. Burned (Hopkins novel)
+36. Ttyl (novel)
+37. The Surgeon (novel)
+38. Misty of Chincoteague by ['Marguerite Henry']
+39. Esperanza Rising by ['Pam Muñoz Ryan']
+40. Stargirl (novel) by ['Jerry Spinelli']
+41. Walk Two Moons by ['Sharon Creech']
+42. Harry Potter
+43. Flipped by ['Wendelin Van Draanen']
+44. The Stinky Cheese Man and Other Fairly Stupid Tales by ['Jon Scieszka']
+45. City of Ashes
+46. Marked (novel)
+47. The Crucible of Time
+48. Vampire Kisses
+49. Evernight (novel)
+50. Assholes Finish First

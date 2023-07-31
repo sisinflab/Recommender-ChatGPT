@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. The Hunger Games by Suzanne Collins
+4. Catching Fire by Suzanne Collins
+5. Mockingjay by Suzanne Collins
+6. Divergent by Veronica Roth
+7. Insurgent by Veronica Roth
+8. Allegiant by Veronica Roth
+9. The Maze Runner by James Dashner
+10. The Scorch Trials by James Dashner
+11. The Death Cure by James Dashner
+12. The Giver by Lois Lowry
+13. Gathering Blue by Lois Lowry
+14. Messenger by Lois Lowry
+15. Son by Lois Lowry
+16. The Handmaid's Tale by Margaret Atwood
+17. Oryx and Crake by Margaret Atwood
+18. The Year of the Flood by Margaret Atwood
+19. MaddAddam by Margaret Atwood
+20. The Infernal Devices series by Cassandra Clare
+21. The Mortal Instruments series by Cassandra Clare
+22. The Dark Artifices series by Cassandra Clare
+23. The Count of Monte Cristo by Alexandre Dumas
+24. The Three Musketeers by Alexandre Dumas
+25. The Man in the Iron Mask by Alexandre Dumas
+26. The Chosen by Chaim Potok
+27. The Promise by Chaim Potok
+28. My Name Is Asher Lev by Chaim Potok
+29. The Picture of Dorian Gray by Oscar Wilde
+30. The Importance of Being Earnest by Oscar Wilde
+31. The Canterville Ghost by Oscar Wilde
+32. Brave New World by Aldous Huxley
+33. Island by Aldous Huxley
+34. The Doors of Perception by Aldous Huxley
+35. The Lord of the Rings series by J.R.R. Tolkien
+36. The Hobbit by J.R.R. Tolkien
+37. The Silmarillion by J.R.R. Tolkien
+38. Harry Potter and the Philosopher's Stone by J.K. Rowling
+39. Harry Potter and the Chamber of Secrets by J.K. Rowling
+40. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+41. Harry Potter and the Goblet of Fire by J.K. Rowling
+42. Harry Potter and the Order of Phoenix by J.K. Rowling
+43. Harry Potter and the Half-Blood Prince by J.K. Rowling
+44. Harry Potter and the Deathly Hallows by J.K. Rowling
+45. Fallen by Lauren Kate
+46. Torment by Lauren Kate
+47. Passion by Lauren Kate
+48. Rapture by Lauren Kate
+49. City of Bones by Cassandra Clare
+50. City of Glass by Cassandra Clare

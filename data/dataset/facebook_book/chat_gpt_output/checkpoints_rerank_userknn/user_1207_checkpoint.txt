@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. Harry Potter series by J.K. Rowling
+3. To Kill a Mockingbird by Harper Lee
+4. Frankenstein by Mary Shelley
+5. Brave New World by Aldous Huxley
+6. Animal Farm by George Orwell
+7. The Giver by Lois Lowry
+8. The Count of Monte Cristo by Alexandre Dumas
+9. Romeo and Juliet by William Shakespeare
+10. Siddhartha by Hermann Hesse
+11. Waiting for Godot by Samuel Beckett
+12. Cry, the Beloved Country by Alan Paton
+13. Dangerous Angels by Francesca Lia Block
+14. The Host by Stephenie Meyer
+15. The Pact by Jodi Picoult
+16. My Sister's Keeper by Jodi Picoult
+17. The Luxe by Anna Godbersen
+18. The Summoning by Kelley Armstrong
+19. The Reckoning by Kelley Armstrong
+20. The Messenger by Markus Zusak
+21. A Great and Terrible Beauty by Libba Bray
+22. City of Ashes by Cassandra Clare
+23. Impulse by Ellen Hopkins
+24. Burned by Ellen Hopkins
+25. Glass by Ellen Hopkins
+26. Identical by Ellen Hopkins
+27. Go Ask Alice by Anonymous
+28. Candy by Luke Davies
+29. Cut by Patricia McCormick
+30. Lucas by Kevin Brooks
+31. The Silver Kiss by Annette Curtis Klause
+32. Lock and Key by Sarah Dessen
+33. Doing It by Melvin Burgess
+34. Elsewhere by Gabrielle Zevin
+35. Shake Hands with the Devil by Romeo Dallaire
+36. Jay's Journal by Anonymous
+37. Fear and Loathing in Las Vegas by Hunter S. Thompson
+38. The Last Dog on Earth by Daniel Ehrenhaft
+39. Manga by Various Authors
+40. Cirque du Freak by Darren Shan
+41. Wake by Lisa McMann
+42. Wings by Aprilynne Pike
+43. Dead and Gone by Charlaine Harris
+44. Living Dead in Dallas by Charlaine Harris
+45. The Wardstone Chronicles by Joseph Delaney
+46. Book of Revelation by Rupert Thomson
+47. Speak by Laurie Halse Anderson
+48. It Happened to Nancy by Anonymous
+49. Hate List by Jennifer Brown
+50. Blink by Malcolm Gladwell

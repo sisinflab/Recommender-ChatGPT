@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. To Kill a Mockingbird by Harper Lee
+3. The Kite Runner by Khaled Hosseini
+4. The Book Thief by Markus Zusak
+5. Nineteen Eighty-Four by George Orwell
+6. A Tale of Two Cities by Charles Dickens
+7. Little Women by Louisa May Alcott
+8. The Giver by Lois Lowry
+9. Sense and Sensibility by Jane Austen
+10. Rebecca by Daphne du Maurier
+11. The Lovely Bones by Alice Sebold
+12. The Princess Bride by William Goldman
+13. Gone with the Wind by Margaret Mitchell
+14. The Scarlet Letter by Nathaniel Hawthorne
+15. The Taming of the Shrew by William Shakespeare
+16. Uncle Tom's Cabin by Harriet Beecher Stowe
+17. Mansfield Park by Jane Austen
+18. Gulliver's Travels by Jonathan Swift
+19. The Color of Water by James McBride
+20. The God Delusion by Richard Dawkins
+21. The Other Side of Midnight by Sidney Sheldon
+22. Memories of Midnight by Sidney Sheldon
+23. Rage of Angels by Sidney Sheldon
+24. The Catcher in the Rye by J.D. Salinger
+25. Jane Eyre by Charlotte Bronte
+26. The Secret by Rhonda Byrne
+27. Emma by Jane Austen
+28. The Pact by Jodi Picoult
+29. My Sister's Keeper by Jodi Picoult
+30. Nineteen Minutes by Jodi Picoult
+31. The Host by Stephenie Meyer
+32. Twilight by Stephenie Meyer
+33. Skeleton Key by Anthony Horowitz
+34. The Lost Boy by Dave Pelzer
+35. A Clockwork Orange by Anthony Burgess
+36. The Tipping Point by Malcolm Gladwell
+37. The Tenth Circle by Jodi Picoult
+38. Columbine by Dave Cullen
+39. The Umbrella Academy by Gerard Way
+40. Black Boy by Richard Wright
+41. City of Glass by Cassandra Clare
+42. The Taming of the Shrew by William Shakespeare
+43. The Giver by Lois Lowry
+44. Will Grayson, Will Grayson by John Green and David Levithan
+45. Manga by Various Authors
+46. Persepolis by Marjane Satrapi
+47. Because of Winn-Dixie by Kate DiCamillo
+48. Eleven Minutes by Paulo Coelho
+49. Native Son by Richard Wright
+50. Seeds of Yesterday by V.C. Andrews

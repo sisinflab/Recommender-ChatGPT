@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Muse
+2. Green Day
+3. Linkin Park
+4. My Chemical Romance
+5. System of a Down
+6. Three Days Grace
+7. Breaking Benjamin
+8. Papa Roach
+9. Evanescence
+10. The Offspring
+11. Sum 41
+12. Rise Against
+13. Thirty Seconds to Mars
+14. Seether
+15. Shinedown
+16. Slipknot
+17. Disturbed
+18. Avril Lavigne
+19. The All-American Rejects
+20. The Fray
+21. The Script
+22. Imagine Dragons
+23. OneRepublic
+24. Maroon 5
+25. Train
+26. Cold War Kids
+27. The Black Keys
+28. Vampire Weekend
+29. Arctic Monkeys
+30. The Strokes
+31. The Kooks
+32. Franz Ferdinand
+33. The Libertines
+34. The White Stripes
+35. The Raconteurs
+36. The Hives
+37. The Vines
+38. The Bravery
+39. The Killers
+40. Placebo
+41. Goo Goo Dolls
+42. Red Hot Chili Peppers
+43. HIM
+44. Avenged Sevenfold
+45. Foo Fighters
+46. The Calling
+47. Nickelback
+48. The 69 Eyes
+49. Lifehouse
+50. Oasis

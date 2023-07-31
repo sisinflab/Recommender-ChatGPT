@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Nightwish
+2. Within Temptation
+3. Leaves' Eyes
+4. VAST
+5. Schiller
+6. Muse
+7. dredg
+8. My Chemical Romance
+9. A Perfect Circle
+10. Enter Shikari
+11. Red Hot Chili Peppers
+12. Breaking Benjamin
+13. Radiohead
+14. Linkin Park
+15. Serj Tankian
+16. Snow Patrol
+17. Garbage
+18. Theatre of Tragedy
+19. The Doors
+20. Die Ärzte
+21. Mando Diao
+22. Daft Punk
+23. Porcupine Tree
+24. Editors
+25. Mute Math
+26. Shakira
+27. Lady Gaga
+28. Madonna
+29. Beyoncé
+30. Rihanna
+31. Christina Aguilera
+32. Britney Spears
+33. Katy Perry
+34. Taylor Swift
+35. Paramore
+36. Evanescence
+37. Glee Cast
+38. U2
+39. 30 Seconds to Mars
+40. Pink Floyd
+41. Kylie Minogue
+42. Miley Cyrus
+43. Ke$ha
+44. Duran Duran
+45. Coldplay
+46. Blur
+47. Arctic Monkeys
+48. Placebo
+49. The Killers
+50. Nirvana

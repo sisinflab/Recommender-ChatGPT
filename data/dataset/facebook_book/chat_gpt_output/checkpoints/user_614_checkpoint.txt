@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. American Gods by Neil Gaiman
+2. The Shadowhunter Chronicles by Cassandra Clare
+3. Interview with the Vampire by Anne Rice
+4. Pale Fire by Vladimir Nabokov
+5. The Shining by Stephen King
+6. The Catcher in the Rye by J.D. Salinger
+7. The Dresden Files by Jim Butcher
+8. The Dark Tower series by Stephen King
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Hunger Games by Suzanne Collins
+11. The Lord of the Rings by J.R.R. Tolkien
+12. The Chronicles of Narnia by C.S. Lewis
+13. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+14. The Girl with the Dragon Tattoo by Stieg Larsson
+15. The Da Vinci Code by Dan Brown
+16. The Name of the Wind by Patrick Rothfuss
+17. The Wheel of Time series by Robert Jordan
+18. The Hobbit by J.R.R. Tolkien
+19. The Magicians by Lev Grossman
+20. The Stand by Stephen King
+21. The Bell Jar by Sylvia Plath
+22. The Dark-Hunter series by Sherrilyn Kenyon
+23. The Mortal Instruments series by Cassandra Clare
+24. The Inferno by Dante Alighieri
+25. The Odyssey by Homer
+26. The Divine Comedy by Dante Alighieri
+27. The Iliad by Homer
+28. The Canterbury Tales by Geoffrey Chaucer
+29. The Tempest by William Shakespeare
+30. The Complete Works of William Shakespeare
+31. The Picture of Dorian Gray by Oscar Wilde
+32. The Importance of Being Earnest by Oscar Wilde
+33. The Brothers Karamazov by Fyodor Dostoevsky
+34. Crime and Punishment by Fyodor Dostoevsky
+35. The Count of Monte Cristo by Alexandre Dumas
+36. Les Misérables by Victor Hugo
+37. The Three Musketeers by Alexandre Dumas
+38. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+39. The Hound of the Baskervilles by Arthur Conan Doyle
+40. The Complete Stories and Poems by Edgar Allan Poe
+41. The Raven by Edgar Allan Poe
+42. The Tell-Tale Heart by Edgar Allan Poe
+43. The Cask of Amontillado by Edgar Allan Poe
+44. The Pit and the Pendulum by Edgar Allan Poe
+45. The Masque of the Red Death by Edgar Allan Poe
+46. The Fall of the House of Usher by Edgar Allan Poe
+47. The Murders in the Rue Morgue by Edgar Allan Poe
+48. The Adventures of Tom Sawyer by Mark Twain
+49. The Adventures of Huckleberry Finn by Mark Twain
+50.

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Wicked Lovely by Melissa Marr
+2. Ink Exchange by Melissa Marr
+3. Fragile Eternity by Melissa Marr
+4. Radiant Shadows by Melissa Marr
+5. Darkest Mercy by Melissa Marr
+6. Tithe by Holly Black
+7. Valiant by Holly Black
+8. Ironside by Holly Black
+9. The Coldest Girl in Coldtown by Holly Black
+10. The Mortal Instruments series by Cassandra Clare
+11. The Infernal Devices series by Cassandra Clare
+12. The Hunger Games series by Suzanne Collins
+13. The Maze Runner series by James Dashner
+14. The Giver by Lois Lowry
+15. The Selection series by Kiera Cass
+16. The Lunar Chronicles series by Marissa Meyer
+17. The Fault in Our Stars by John Green
+18. Looking for Alaska by John Green
+19. Paper Towns by John Green
+20. An Abundance of Katherines by John Green
+21. The Perks of Being a Wallflower by Stephen Chbosky
+22. The Book Thief by Markus Zusak
+23. The Night Circus by Erin Morgenstern
+24. The Name of the Wind by Patrick Rothfuss
+25. The Wise Man's Fear by Patrick Rothfuss
+26. The Kingkiller Chronicle series by Patrick Rothfuss
+27. The Lies of Locke Lamora by Scott Lynch
+28. The Gentleman Bastard series by Scott Lynch
+29. The First Law trilogy by Joe Abercrombie
+30. The King's Dark Tidings series by Kel Kade
+31. The Stormlight Archive series by Brandon Sanderson
+32. Mistborn series by Brandon Sanderson
+33. Warbreaker by Brandon Sanderson
+34. Elantris by Brandon Sanderson
+35. The Lightbringer series by Brent Weeks
+36. The Night Angel trilogy by Brent Weeks
+37. The Black Prism by Brent Weeks
+38. The Broken Empire trilogy by Mark Lawrence
+39. The Red Queen's War trilogy by Mark Lawrence
+40. The Powder Mage trilogy by Brian McClellan
+41. The Shadow Campaigns series by Django Wexler
+42. The Riyria Revelations series by Michael J. Sullivan
+43. The Farseer trilogy by Robin Hobb
+44. The Liveship Traders trilogy by Robin Hobb
+45. The Tawny Man trilogy by Robin Hobb
+46. The Realm of the Elderlings series by Robin Hobb
+47. The Wheel of Time series by Robert Jordan and Brandon Sanderson
+48. The Malazan Book of the Fallen series by Steven Erikson
+49. The Black Company series by Glen Cook
+50. The Chronicles of Amber series by Roger Zelazny

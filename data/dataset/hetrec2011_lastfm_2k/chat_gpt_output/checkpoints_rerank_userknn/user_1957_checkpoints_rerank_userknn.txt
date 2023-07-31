@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Beatles
+2. Fall Out Boy
+3. Death Cab for Cutie
+4. The Postal Service
+5. Jack's Mannequin
+6. Something Corporate
+7. Yellowcard
+8. Taking Back Sunday
+9. Jimmy Eat World
+10. blink-182
+11. Garth Brooks
+12. Brad Paisley
+13. Rascal Flatts
+14. Mariah Carey
+15. Christina Aguilera
+16. Katy Perry
+17. Lady Antebellum
+18. Bob Marley & The Wailers
+19. Queen
+20. Led Zeppelin
+21. Lynyrd Skynyrd
+22. Van Morrison
+23. George Harrison
+24. Paul McCartney
+25. Paul McCartney & Wings
+26. The Byrds
+27. Simon & Garfunkel
+28. The Who
+29. Elvis Presley
+30. Eric Clapton
+31. Eagles
+32. AC/DC
+33. Journey
+34. The Cure
+35. Modest Mouse
+36. Stars
+37. Panic! At the Disco
+38. System of a Down
+39. Regina Spektor
+40. Scorpions
+41. The Beach Boys
+42. Dolly Parton
+43. John Lennon
+44. Gorillaz
+45. Coldplay
+46. Wilco
+47. She & Him
+48. Thievery Corporation
+49. Leonard Cohen
+50. Demi Lovato

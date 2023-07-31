@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Wuthering Heights by Emily Bronte
+2. To Kill a Mockingbird by Harper Lee
+3. The Lord of the Rings by J.R.R. Tolkien
+4. The Hunger Games by Suzanne Collins
+5. The Chronicles of Narnia by C.S. Lewis
+6. The Catcher in the Rye by J.D. Salinger
+7. Pride and Prejudice by Jane Austen
+8. Animal Farm by George Orwell
+9. 1984 by George Orwell
+10. The Great Gatsby by F. Scott Fitzgerald
+11. The Book Thief by Markus Zusak
+12. The Fault in Our Stars by John Green
+13. The Girl with the Dragon Tattoo by Stieg Larsson
+14. The Da Vinci Code by Dan Brown
+15. The Girl on the Train by Paula Hawkins
+16. The Help by Kathryn Stockett
+17. The Kite Runner by Khaled Hosseini
+18. The Alchemist by Paulo Coelho
+19. The Picture of Dorian Gray by Oscar Wilde
+20. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+21. The Secret Garden by Frances Hodgson Burnett
+22. Little Women by Louisa May Alcott
+23. The Time Traveler's Wife by Audrey Niffenegger
+24. The Lovely Bones by Alice Sebold
+25. The Shining by Stephen King
+26. The Stand by Stephen King
+27. The Silence of the Lambs by Thomas Harris
+28. The Bourne Identity by Robert Ludlum
+29. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+30. The Martian by Andy Weir
+31. The Name of the Wind by Patrick Rothfuss
+32. The Way of Kings by Brandon Sanderson
+33. Mistborn by Brandon Sanderson
+34. The Lies of Locke Lamora by Scott Lynch
+35. The Blade Itself by Joe Abercrombie
+36. The First Law Trilogy by Joe Abercrombie
+37. The Kingkiller Chronicle by Patrick Rothfuss
+38. The Stormlight Archive by Brandon Sanderson
+39. The Malazan Book of the Fallen by Steven Erikson
+40. The Wheel of Time by Robert Jordan
+41. The Dark Tower by Stephen King
+42. The Dresden Files by Jim Butcher
+43. The Belgariad by David Eddings
+44. The Sword of Shannara by Terry Brooks
+45. The Chronicles of Thomas Covenant by Stephen R. Donaldson
+46. The Earthsea Cycle by Ursula K. Le Guin
+47. The Black Company by Glen Cook
+48. The Farseer Trilogy by Robin Hobb
+49. The Liveship Traders Trilogy by Robin Hobb
+50. The Tawny Man Trilogy by Robin Hobb

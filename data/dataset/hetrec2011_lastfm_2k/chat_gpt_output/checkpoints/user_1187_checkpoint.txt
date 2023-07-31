@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Beatles
+2. Radiohead
+3. Arcade Fire
+4. Pixies
+5. Neutral Milk Hotel
+6. The Flaming Lips
+7. Wilco
+8. Modest Mouse
+9. The Shins
+10. Pavement
+11. Sonic Youth
+12. The Smiths
+13. Talking Heads
+14. David Bowie
+15. The Clash
+16. Joy Division
+17. The Strokes
+18. Vampire Weekend
+19. LCD Soundsystem
+20. The National
+21. Fleet Foxes
+22. Grizzly Bear
+23. Animal Collective (solo projects)
+24. Tame Impala
+25. Beach House
+26. My Bloody Valentine
+27. The Magnetic Fields
+28. Belle and Sebastian (solo projects)
+29. The Decemberists
+30. Sufjan Stevens
+31. Elliott Smith (solo projects)
+32. Nick Drake
+33. Bob Dylan
+34. Neil Young
+35. Tom Waits
+36. Leonard Cohen
+37. The Doors
+38. Pink Floyd (solo projects)
+39. Led Zeppelin
+40. The Who
+41. The Rolling Stones (solo projects)
+42. The Kinks (solo projects)
+43. The Beach Boys (solo projects)
+44. Brian Eno (solo projects)
+45. Talking Heads (solo projects)
+46. R.E.M. (solo projects)
+47. Guided by Voices (solo projects)
+48. The Velvet Underground (solo projects)
+49. Sonic Youth (solo projects)
+50. Yo La Tengo (solo projects)

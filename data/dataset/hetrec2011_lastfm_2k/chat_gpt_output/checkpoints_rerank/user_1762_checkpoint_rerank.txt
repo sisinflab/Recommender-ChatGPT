@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Justin Timberlake
+2. Fall Out Boy
+3. James Blunt
+4. Ashlee Simpson
+5. The Pussycat Dolls
+6. Leona Lewis
+7. Timbaland
+8. Cobra Starship
+9. T.I.
+10. Jessie J
+11. Daddy Yankee
+12. Little Boots
+13. Backstreet Boys
+14. Hey Monday
+15. The Strokes
+16. Goo Goo Dolls
+17. Enrique Iglesias
+18. Depeche Mode
+19. Lady Gaga
+20. Christina Aguilera
+21. Madonna
+22. Rihanna
+23. Shakira
+24. Katy Perry
+25. Avril Lavigne
+26. Taylor Swift
+27. Evanescence
+28. Beyoncé
+29. Muse
+30. Pink Floyd
+31. Kylie Minogue
+32. Radiohead
+33. Ke$ha
+34. Duran Duran
+35. Coldplay
+36. Blur
+37. Arctic Monkeys
+38. Placebo
+39. The Killers
+40. Nirvana
+41. Iron Maiden
+42. Led Zeppelin
+43. Metallica
+44. Michael Jackson
+45. Pearl Jam
+46. a-ha
+47. Björk
+48. System of a Down
+49. Daft Punk
+50. Nine Inch Nails

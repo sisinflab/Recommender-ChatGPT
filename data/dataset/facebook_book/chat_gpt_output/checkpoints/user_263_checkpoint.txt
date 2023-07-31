@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Delirium by Lauren Oliver
+2. Divergent by Veronica Roth
+3. Shiver by Maggie Stiefvater
+4. The Maze Runner by James Dashner
+5. Hush, Hush by Becca Fitzpatrick
+6. The Mortal Instruments series by Cassandra Clare
+7. The Twilight Saga by Stephenie Meyer
+8. The Vampire Diaries series by L.J. Smith
+9. The Infernal Devices series by Cassandra Clare
+10. The Selection by Kiera Cass
+11. The Chemical Garden Trilogy by Lauren DeStefano
+12. The Darkest Minds by Alexandra Bracken
+13. The Giver by Lois Lowry
+14. The Fault in Our Stars by John Green
+15. Legend by Marie Lu
+16. Matched by Ally Condie
+17. The Lunar Chronicles by Marissa Meyer
+18. The 5th Wave by Rick Yancey
+19. The Hunger Games Trilogy by Suzanne Collins
+20. The Uglies series by Scott Westerfeld
+21. The Vampire Academy series by Richelle Mead
+22. The House of Night series by P.C. Cast and Kristin Cast
+23. The Dark Artifices series by Cassandra Clare
+24. The Raven Cycle series by Maggie Stiefvater
+25. The Iron Fey series by Julie Kagawa
+26. The Lux series by Jennifer L. Armentrout
+27. The Bloodlines series by Richelle Mead
+28. The Mara Dyer Trilogy by Michelle Hodkin
+29. The Unbecoming of Mara Dyer by Michelle Hodkin
+30. The Program by Suzanne Young
+31. The 100 by Kass Morgan
+32. The Testing by Joelle Charbonneau
+33. The Maze Runner series by James Dashner
+34. The Darkest Part of the Forest by Holly Black
+35. The Coldest Girl in Coldtown by Holly Black
+36. The Diviners by Libba Bray
+37. The Gemma Doyle Trilogy by Libba Bray
+38. The Grisha Trilogy by Leigh Bardugo
+39. The Shadow and Bone Trilogy by Leigh Bardugo
+40. The Young Elites by Marie Lu
+41. The Legend Trilogy by Marie Lu
+42. The Lunar Chronicles by Marissa Meyer
+43. The Chemical Garden Trilogy by Lauren DeStefano
+44. The Selection series by Kiera Cass
+45. The Red Queen by Victoria Aveyard
+46. The Queen of the Tearling by Erika Johansen
+47. The Witch Hunter by Virginia Boecker
+48. The Bone Season by Samantha Shannon
+49. The Fifth Season by N.K. Jemisin
+50. The Broken Earth Trilogy by N.K. Jemisin

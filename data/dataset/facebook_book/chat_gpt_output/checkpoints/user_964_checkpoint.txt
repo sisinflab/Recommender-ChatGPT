@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Shining by Stephen King
+2. It by Stephen King
+3. Pet Sematary by Stephen King
+4. The Stand by Stephen King
+5. Salem's Lot by Stephen King
+6. 11/22/63 by Stephen King
+7. The Girl Who Loved Tom Gordon by Stephen King
+8. The Talisman by Stephen King and Peter Straub
+9. The Dark Tower series by Stephen King
+10. The Outsider by Stephen King
+11. Doctor Sleep by Stephen King
+12. The Green Mile by Stephen King
+13. The Silence of the Lambs by Thomas Harris
+14. Red Dragon by Thomas Harris
+15. Hannibal by Thomas Harris
+16. The Lovely Bones by Alice Sebold
+17. The Hunger Games by Suzanne Collins
+18. Catching Fire by Suzanne Collins
+19. Mockingjay by Suzanne Collins
+20. Divergent by Veronica Roth
+21. Insurgent by Veronica Roth
+22. Allegiant by Veronica Roth
+23. The Maze Runner by James Dashner
+24. The Scorch Trials by James Dashner
+25. The Death Cure by James Dashner
+26. The Giver by Lois Lowry
+27. Gathering Blue by Lois Lowry
+28. Messenger by Lois Lowry
+29. Son by Lois Lowry
+30. The Fault in Our Stars by John Green
+31. Looking for Alaska by John Green
+32. Paper Towns by John Green
+33. An Abundance of Katherines by John Green
+34. The Perks of Being a Wallflower by Stephen Chbosky
+35. The Book Thief by Markus Zusak
+36. The Help by Kathryn Stockett
+37. The Secret Life of Bees by Sue Monk Kidd
+38. The Kite Runner by Khaled Hosseini
+39. A Thousand Splendid Suns by Khaled Hosseini
+40. The Time Traveler's Wife by Audrey Niffenegger
+41. Water for Elephants by Sara Gruen
+42. The Nightingale by Kristin Hannah
+43. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+44. The Handmaid's Tale by Margaret Atwood
+45. 1984 by George Orwell
+46. Brave New World by Aldous Huxley
+47. Fahrenheit 451 by Ray Bradbury
+48. To Kill a Mockingbird by Harper Lee
+49. The Catcher in the Rye by J.D. Salinger
+50. Lord of the Flies by William Golding

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. Slaughterhouse-Five by Kurt Vonnegut
+4. To Kill a Mockingbird by Harper Lee
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Animal Farm by George Orwell
+7. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+8. The Lord of the Rings by J.R.R. Tolkien
+9. The Hobbit by J.R.R. Tolkien
+10. The Chronicles of Narnia by C.S. Lewis
+11. The Da Vinci Code by Dan Brown
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Hunger Games by Suzanne Collins
+14. The Road by Cormac McCarthy
+15. The Shining by Stephen King
+16. The Stand by Stephen King
+17. The Catch-22 by Joseph Heller
+18. The Picture of Dorian Gray by Oscar Wilde
+19. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+20. The War of the Worlds by H.G. Wells
+21. The Time Machine by H.G. Wells
+22. The Invisible Man by H.G. Wells
+23. The Island of Dr. Moreau by H.G. Wells
+24. The Call of the Wild by Jack London
+25. The Old Man and the Sea by Ernest Hemingway
+26. The Sun Also Rises by Ernest Hemingway
+27. The Catcher in the Rye by J.D. Salinger
+28. The Bell Jar by Sylvia Plath
+29. The Handmaid's Tale by Margaret Atwood
+30. The Road Less Traveled by M. Scott Peck
+31. The Alchemist by Paulo Coelho
+32. The Power of Now by Eckhart Tolle
+33. The Secret by Rhonda Byrne
+34. The Celestine Prophecy by James Redfield
+35. The Prophet by Kahlil Gibran
+36. The Tao of Pooh by Benjamin Hoff
+37. The Art of War by Sun Tzu
+38. The Prince by Niccolo Machiavelli
+39. The Republic by Plato
+40. The Divine Comedy by Dante Alighieri
+41. The Canterbury Tales by Geoffrey Chaucer
+42. The Iliad by Homer
+43. The Odyssey by Homer
+44. The Aeneid by Virgil
+45. The Inferno by Dante Alighieri
+46. The Decameron by Giovanni Boccaccio
+47. The Canterbury Tales by Geoffrey Chaucer
+48. The Divine Comedy by Dante Alighieri
+49. The Prince by Niccolo Machiavelli
+50. The Republic by Plato

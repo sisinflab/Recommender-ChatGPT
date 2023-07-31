@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Within Temptation
+2. Nightwish
+3. Epica
+4. Lacuna Coil
+5. Evanescence
+6. Sonata Arctica
+7. Arch Enemy
+8. Rammstein
+9. Bullet for My Valentine
+10. Atreyu
+11. Dead by April
+12. Sonic Syndicate
+13. Skid Row
+14. Adema
+15. Incubus
+16. Metallica
+17. The Used
+18. Theatre of Tragedy
+19. Otep
+20. Korn
+21. Avenged Sevenfold
+22. System of a Down
+23. Nirvana
+24. Iron Maiden
+25. Pearl Jam
+26. Led Zeppelin
+27. The Beatles
+28. Pink Floyd
+29. Muse
+30. Radiohead
+31. Nine Inch Nails
+32. Linkin Park
+33. My Chemical Romance
+34. Green Day
+35. The Cure
+36. Arctic Monkeys
+37. Placebo
+38. Blur
+39. Duran Duran
+40. Depeche Mode
+41. a-ha
+42. Björk
+43. Michael Jackson
+44. Lady Gaga
+45. Madonna
+46. Rihanna
+47. Beyoncé
+48. Katy Perry
+49. Christina Aguilera
+50. Shakira

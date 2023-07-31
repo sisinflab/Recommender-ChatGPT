@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Genesis
+2. Rush
+3. Yes
+4. Camel
+5. Kansas
+6. Gentle Giant
+7. Judas Priest
+8. King Crimson
+9. UFO
+10. Jethro Tull
+11. Uriah Heep
+12. Iron Maiden
+13. Emerson, Lake & Palmer
+14. Kraftwerk
+15. Gary Moore
+16. Marillion
+17. Led Zeppelin
+18. Metallica
+19. Pink Floyd
+20. Queen
+21. The Beatles
+22. U2
+23. Muse
+24. Radiohead
+25. Nirvana
+26. Pearl Jam
+27. The Cure
+28. Black Sabbath
+29. AC/DC
+30. Deep Purple
+31. Guns N' Roses
+32. Aerosmith
+33. Van Halen
+34. Alice Cooper
+35. Scorpions
+36. ZZ Top
+37. Bon Jovi
+38. Def Leppard
+39. Motley Crue
+40. Whitesnake
+41. Ozzy Osbourne
+42. Dio
+43. Rainbow
+44. Judas Priest
+45. Iron Maiden
+46. Metallica
+47. Slayer
+48. Megadeth
+49. Anthrax
+50. Testament

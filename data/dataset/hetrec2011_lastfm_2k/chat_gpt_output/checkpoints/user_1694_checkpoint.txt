@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Kendrick Lamar
+2. J. Cole
+3. Eminem
+4. Outkast
+5. Lupe Fiasco
+6. Childish Gambino
+7. Chance the Rapper
+8. Logic
+9. A Tribe Called Quest
+10. Run the Jewels
+11. Anderson .Paak
+12. Tyler, The Creator
+13. Frank Ocean
+14. Mac Miller
+15. Big Sean
+16. Travis Scott
+17. Post Malone
+18. Lil Wayne
+19. Wiz Khalifa
+20. Future
+21. Migos
+22. Cardi B
+23. Nicki Minaj
+24. Rihanna
+25. Beyoncé
+26. Ariana Grande
+27. Justin Timberlake
+28. Bruno Mars
+29. Ed Sheeran
+30. Adele
+31. Coldplay
+32. Imagine Dragons
+33. The Weeknd
+34. Hozier
+35. Florence + The Machine
+36. Lana Del Rey
+37. Lorde
+38. Billie Eilish
+39. Shawn Mendes
+40. Harry Styles
+41. Taylor Swift
+42. Maroon 5
+43. OneRepublic
+44. Imagine Dragons
+45. Panic! At The Disco
+46. Fall Out Boy
+47. Green Day
+48. Blink-182
+49. The 1975
+50. Arctic Monkeys

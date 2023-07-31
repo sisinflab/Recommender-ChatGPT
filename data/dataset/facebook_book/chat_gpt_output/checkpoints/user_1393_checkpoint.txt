@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. Brave New World by Aldous Huxley
+4. Crime and Punishment by Fyodor Dostoevsky
+5. Don Quixote by Miguel de Cervantes
+6. Dracula by Bram Stoker
+7. Frankenstein by Mary Shelley
+8. Heart of Darkness by Joseph Conrad
+9. Jane Eyre by Charlotte Bronte
+10. Les Miserables by Victor Hugo
+11. Lolita by Vladimir Nabokov
+12. Lord of the Flies by William Golding
+13. Moby-Dick by Herman Melville
+14. One Hundred Years of Solitude by Gabriel Garcia Marquez
+15. Pride and Prejudice by Jane Austen
+16. Slaughterhouse-Five by Kurt Vonnegut
+17. The Adventures of Huckleberry Finn by Mark Twain
+18. The Brothers Karamazov by Fyodor Dostoevsky
+19. The Catcher in the Rye by J.D. Salinger
+20. The Count of Monte Cristo by Alexandre Dumas
+21. The Divine Comedy by Dante Alighieri
+22. The Great Gatsby by F. Scott Fitzgerald
+23. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+24. The Iliad by Homer
+25. The Inferno by Dante Alighieri
+26. The Odyssey by Homer
+27. The Picture of Dorian Gray by Oscar Wilde
+28. The Republic by Plato
+29. The Scarlet Letter by Nathaniel Hawthorne
+30. The Stranger by Albert Camus
+31. The Sun Also Rises by Ernest Hemingway
+32. The Tempest by William Shakespeare
+33. The Three Musketeers by Alexandre Dumas
+34. The Trial by Franz Kafka
+35. The War of the Worlds by H.G. Wells
+36. To Kill a Mockingbird by Harper Lee
+37. Ulysses by James Joyce
+38. Walden by Henry David Thoreau
+39. Wuthering Heights by Emily Bronte
+40. A Clockwork Orange by Anthony Burgess
+41. A Tale of Two Cities by Charles Dickens
+42. Anna Karenina by Leo Tolstoy
+43. Catch-22 by Joseph Heller
+44. Dubliners by James Joyce
+45. Gulliver's Travels by Jonathan Swift
+46. Hamlet by William Shakespeare
+47. Julius Caesar by William Shakespeare
+48. King Lear by William Shakespeare
+49. Othello by William Shakespeare
+50. The Canterbury Tales by Geoffrey Chaucer

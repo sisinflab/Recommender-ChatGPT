@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Brothers Karamazov by Fyodor Dostoevsky
+2. Crime and Punishment by Fyodor Dostoevsky
+3. The Dark Tower: The Gunslinger by Stephen King
+4. Lolita by Vladimir Nabokov
+5. A Clockwork Orange by Anthony Burgess
+6. Steppenwolf by Hermann Hesse
+7. The Book Thief by Markus Zusak
+8. Cat's Cradle by Kurt Vonnegut
+9. The Lord of the Rings by J.R.R. Tolkien
+10. Brave New World by Aldous Huxley
+11. Dracula by Bram Stoker
+12. The Catcher in the Rye by J.D. Salinger
+13. Harry Potter series by J.K. Rowling
+14. Sense and Sensibility by Jane Austen
+15. Gulliver's Travels by Jonathan Swift
+16. Nineteen Eighty-Four by George Orwell
+17. The Scarlet Letter by Nathaniel Hawthorne
+18. Mere Christianity by C.S. Lewis
+19. Jane Eyre by Charlotte Bronte
+20. The Count of Monte Cristo by Alexandre Dumas
+21. Great Expectations by Charles Dickens
+22. Walden by Henry David Thoreau
+23. The Iliad by Homer
+24. The Bell Jar by Sylvia Plath
+25. The Watchmen by Alan Moore
+26. Paradise Lost by John Milton
+27. The Prince by Niccolo Machiavelli
+28. Into Thin Air by Jon Krakauer
+29. A Separate Peace by John Knowles
+30. The Screwtape Letters by C.S. Lewis
+31. Everything's Eventual by Stephen King
+32. The Zombie Survival Guide by Max Brooks
+33. The Mayor of Casterbridge by Thomas Hardy
+34. Misery by Stephen King
+35. The Messenger by Markus Zusak
+36. Nightmares & Dreamscapes by Stephen King
+37. The Smurfs by Peyo
+38. Thirteen Reasons Why by Jay Asher
+39. Ethan Frome by Edith Wharton
+40. Alas, Babylon by Pat Frank
+41. Book of Enoch by Enoch
+42. To Kill a Mockingbird by Harper Lee
+43. The Little Mermaid by Hans Christian Andersen
+44. Peter and Wendy by J.M. Barrie
+45. The Time Machine by H.G. Wells
+46. Lord of the Flies by William Golding
+47. Macbeth by William Shakespeare
+48. The Mysterious Stranger by Mark Twain
+49. Carrie by Stephen King
+50. Necronomicon: The Best Weird Tales of H.P. Lovecraft by H.P. Lovecraft

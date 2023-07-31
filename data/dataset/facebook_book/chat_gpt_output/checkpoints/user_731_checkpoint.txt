@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. The Hunger Games by Suzanne Collins
+5. The Fault in Our Stars by John Green
+6. The Book Thief by Markus Zusak
+7. The Maze Runner by James Dashner
+8. Divergent by Veronica Roth
+9. The Perks of Being a Wallflower by Stephen Chbosky
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Hobbit by J.R.R. Tolkien
+12. The Chronicles of Narnia by C.S. Lewis
+13. Harry Potter and the Philosopher's Stone by J.K. Rowling
+14. Harry Potter and the Chamber of Secrets by J.K. Rowling
+15. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+16. Harry Potter and the Goblet of Fire by J.K. Rowling
+17. Harry Potter and the Order of Phoenix by J.K. Rowling
+18. Harry Potter and the Half-Blood Prince by J.K. Rowling
+19. Harry Potter and the Deathly Hallows by J.K. Rowling
+20. The Girl with the Dragon Tattoo by Stieg Larsson
+21. The Girl Who Played with Fire by Stieg Larsson
+22. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+23. The Da Vinci Code by Dan Brown
+24. Angels and Demons by Dan Brown
+25. Inferno by Dan Brown
+26. The Alchemist by Paulo Coelho
+27. The Kite Runner by Khaled Hosseini
+28. A Thousand Splendid Suns by Khaled Hosseini
+29. The Lovely Bones by Alice Sebold
+30. The Help by Kathryn Stockett
+31. The Time Traveler's Wife by Audrey Niffenegger
+32. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+33. The Secret Life of Bees by Sue Monk Kidd
+34. The Color Purple by Alice Walker
+35. The Joy Luck Club by Amy Tan
+36. The Handmaid's Tale by Margaret Atwood
+37. The Road by Cormac McCarthy
+38. The Stand by Stephen King
+39. The Shining by Stephen King
+40. The Green Mile by Stephen King
+41. The Silence of the Lambs by Thomas Harris
+42. The Bourne Identity by Robert Ludlum
+43. The Bourne Supremacy by Robert Ludlum
+44. The Bourne Ultimatum by Robert Ludlum
+45. The Firm by John Grisham
+46. A Time to Kill by John Grisham
+47. The Pelican Brief by John Grisham
+48

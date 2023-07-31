@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for user 60 would be:
+
+1. Radiohead
+2. Muse
+3. Sigur Rós
+4. The National
+5. Mogwai
+6. Hammock
+7. Joanna Newsom
+8. The Album Leaf
+9. Balmorhea
+10. Ólafur Arnalds
+11. Damien Rice
+12. 65daysofstatic
+13. Los Campesinos!
+14. Ani DiFranco
+15. Pink Floyd
+16. Nirvana
+17. Led Zeppelin
+18. Metallica
+19. Iron Maiden
+20. Pearl Jam
+21. The Beatles
+22. U2
+23. Coldplay
+24. Blur
+25. Arctic Monkeys
+26. Placebo
+27. The Killers
+28. Amy Winehouse
+29. Michael Jackson
+30. Björk
+31. System of a Down
+32. Daft Punk
+33. Nine Inch Nails
+34. Linkin Park
+35. Avenged Sevenfold
+36. Green Day
+37. The Cure
+38. Depeche Mode
+39. Madonna
+40. Lady Gaga
+41. Christina Aguilera
+42. Rihanna
+43. Shakira
+44. Katy Perry
+45. Taylor Swift
+46. Avril Lavigne
+47. Ke$ha
+48. Britney Spears
+49. Black Eyed Peas
+50. P!nk

@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games (series) by Suzanne Collins
+2. Harry Potter (series) by J.K. Rowling
+3. The Da Vinci Code by Dan Brown
+4. The Girl with the Dragon Tattoo by Stieg Larsson
+5. The Fault in Our Stars by John Green
+6. The Help by Kathryn Stockett
+7. The Maze Runner (series) by James Dashner
+8. The Lord of the Rings (series) by J.R.R. Tolkien
+9. Divergent (series) by Veronica Roth
+10. The Chronicles of Narnia (series) by C.S. Lewis
+11. The Catcher in the Rye by J.D. Salinger
+12. The Great Gatsby by F. Scott Fitzgerald
+13. To Kill a Mockingbird by Harper Lee
+14. The Hobbit by J.R.R. Tolkien
+15. The Book Thief by Markus Zusak
+16. The Kite Runner by Khaled Hosseini
+17. The Alchemist by Paulo Coelho
+18. The Secret Life of Bees by Sue Monk Kidd
+19. The Perks of Being a Wallflower by Stephen Chbosky
+20. The Giver by Lois Lowry
+21. The Outsiders by S.E. Hinton
+22. The Lovely Bones by Alice Sebold
+23. The Time Traveler's Wife by Audrey Niffenegger
+24. The Picture of Dorian Gray by Oscar Wilde
+25. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+26. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+27. The Shining by Stephen King
+28. The Stand by Stephen King
+29. The Silence of the Lambs by Thomas Harris
+30. The Bourne Identity by Robert Ludlum
+31. The Girl on the Train by Paula Hawkins
+32. The Nightingale by Kristin Hannah
+33. The Help by Kathryn Stockett
+34. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+35. The Devil in the White City by Erik Larson
+36. The Glass Castle by Jeannette Walls
+37. The Color Purple by Alice Walker
+38. The Joy Luck Club by Amy Tan
+39. The Handmaid's Tale by Margaret Atwood
+40. The Road by Cormac McCarthy
+41. The Martian by Andy Weir
+42. The Name of the Wind by Patrick Rothfuss
+43. The Way of Kings by Brandon Sanderson
+44. The Lies of Locke Lamora by Scott Lynch
+45. The Blade Itself by Joe Abercrombie
+46. The Final Empire by Brandon Sanderson
+47. The Wise Man's Fear by Patrick Rothfuss
+48. The Well of Ascension by Brandon Sanderson
+49. The Republic of Thieves by Scott

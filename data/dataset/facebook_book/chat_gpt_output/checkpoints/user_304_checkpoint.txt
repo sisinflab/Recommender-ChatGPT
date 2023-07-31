@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Maze Runner by James Dashner
+4. The Giver by Lois Lowry
+5. The Fault in Our Stars by John Green
+6. The Book Thief by Markus Zusak
+7. The Selection by Kiera Cass
+8. Legend by Marie Lu
+9. The Mortal Instruments series by Cassandra Clare
+10. The Infernal Devices series by Cassandra Clare
+11. The Lunar Chronicles series by Marissa Meyer
+12. The 5th Wave by Rick Yancey
+13. The Darkest Minds by Alexandra Bracken
+14. The Knife of Never Letting Go by Patrick Ness
+15. The Ask and the Answer by Patrick Ness
+16. Monsters of Men by Patrick Ness
+17. The Chaos Walking trilogy by Patrick Ness
+18. The Uglies series by Scott Westerfeld
+19. The Leviathan series by Scott Westerfeld
+20. The Selection series by Kiera Cass
+21. The Red Queen series by Victoria Aveyard
+22. The Shatter Me series by Tahereh Mafi
+23. The Delirium series by Lauren Oliver
+24. The Matched series by Ally Condie
+25. The Chemical Garden trilogy by Lauren DeStefano
+26. The Unbecoming of Mara Dyer by Michelle Hodkin
+27. The Mara Dyer trilogy by Michelle Hodkin
+28. The Raven Boys by Maggie Stiefvater
+29. The Scorpio Races by Maggie Stiefvater
+30. The Grisha trilogy by Leigh Bardugo
+31. The Shadow and Bone trilogy by Leigh Bardugo
+32. The Daughter of Smoke and Bone trilogy by Laini Taylor
+33. The Strange and Beautiful Sorrows of Ava Lavender by Leslye Walton
+34. The Night Circus by Erin Morgenstern
+35. The Name of the Wind by Patrick Rothfuss
+36. The Wise Man's Fear by Patrick Rothfuss
+37. The Kingkiller Chronicle series by Patrick Rothfuss
+38. The Mistborn trilogy by Brandon Sanderson
+39. The Way of Kings by Brandon Sanderson
+40. The Stormlight Archive series by Brandon Sanderson
+41. The Lies of Locke Lamora by Scott Lynch
+42. The Gentleman Bastard series by Scott Lynch
+43. The First Law trilogy by Joe Abercrombie
+44. The King's Dark Tidings series by Kel Kade
+45. The Lightbringer series by Brent Weeks
+46. The Powder Mage trilogy by Brian McClellan
+47. The Black Prism by Brent Weeks
+48. The Night Angel trilogy by Brent Weeks
+49. The Broken Empire trilogy by Mark Lawrence
+50. The Red Rising series by Pierce Brown

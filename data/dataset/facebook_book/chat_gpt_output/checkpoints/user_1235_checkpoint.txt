@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Fruits Basket by Natsuki Takaya
+2. The Chronicles of Narnia by C.S. Lewis
+3. Pride and Prejudice by Jane Austen
+4. The Hunger Games by Suzanne Collins
+5. The Fault in Our Stars by John Green
+6. To Kill a Mockingbird by Harper Lee
+7. The Girl with the Dragon Tattoo by Stieg Larsson
+8. The Catcher in the Rye by J.D. Salinger
+9. The Great Gatsby by F. Scott Fitzgerald
+10. The Book Thief by Markus Zusak
+11. The Da Vinci Code by Dan Brown
+12. The Maze Runner by James Dashner
+13. The Giver by Lois Lowry
+14. The Secret Garden by Frances Hodgson Burnett
+15. The Picture of Dorian Gray by Oscar Wilde
+16. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+17. The Time Traveler's Wife by Audrey Niffenegger
+18. The Name of the Wind by Patrick Rothfuss
+19. The Alchemist by Paulo Coelho
+20. The Kite Runner by Khaled Hosseini
+21. The Help by Kathryn Stockett
+22. The Girl on the Train by Paula Hawkins
+23. The Handmaid's Tale by Margaret Atwood
+24. The Nightingale by Kristin Hannah
+25. The Lord of the Flies by William Golding
+26. The Picture of Dorian Gray by Oscar Wilde
+27. The Adventures of Tom Sawyer by Mark Twain
+28. The Outsiders by S.E. Hinton
+29. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+30. The Shining by Stephen King
+31. The Stand by Stephen King
+32. The Silence of the Lambs by Thomas Harris
+33. The Lovely Bones by Alice Sebold
+34. The Color Purple by Alice Walker
+35. The Bell Jar by Sylvia Plath
+36. The Road by Cormac McCarthy
+37. The Handmaid's Tale by Margaret Atwood
+38. The Help by Kathryn Stockett
+39. The Girl on the Train by Paula Hawkins
+40. The Nightingale by Kristin Hannah
+41. The Lord of the Flies by William Golding
+42. The Picture of Dorian Gray by Oscar Wilde
+43. The Adventures of Tom Sawyer by Mark Twain
+44. The Outsiders by S.E. Hinton
+45. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+46. The Shining by Stephen King
+47. The Stand by Stephen King
+48. The Silence of the Lambs by Thomas Harris
+49. The Lovely Bones by Alice Sebold
+50. The Color Purple by Alice Walker

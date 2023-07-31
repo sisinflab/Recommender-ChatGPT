@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Crime and Punishment by Fyodor Dostoevsky
+2. The Brothers Karamazov by Fyodor Dostoevsky
+3. The Idiot by Fyodor Dostoevsky
+4. Brave New World by Aldous Huxley
+5. Nineteen Eighty-Four by George Orwell
+6. The Catcher in the Rye by J.D. Salinger
+7. Slaughterhouse-Five by Kurt Vonnegut
+8. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+9. Lolita by Vladimir Nabokov
+10. Catch-22 by Joseph Heller
+11. The Trial by Franz Kafka
+12. A Tale of Two Cities by Charles Dickens
+13. The Count of Monte Cristo by Alexandre Dumas
+14. A Farewell to Arms by Ernest Hemingway
+15. The Picture of Dorian Gray by Oscar Wilde
+16. Dracula by Bram Stoker
+17. The Old Man and the Sea by Ernest Hemingway
+18. The Da Vinci Code by Dan Brown
+19. The Scarlet Letter by Nathaniel Hawthorne
+20. Frankenstein by Mary Shelley
+21. Invisible Man by Ralph Ellison
+22. The Giver by Lois Lowry
+23. The Sound and the Fury by William Faulkner
+24. Inferno by Dante Alighieri
+25. The Divine Comedy by Dante Alighieri
+26. The Life and Times of the Thunderbolt Kid by Bill Bryson
+27. The Mists of Avalon by Marion Zimmer Bradley
+28. The Colour of Magic by Terry Pratchett
+29. Pyramids by Terry Pratchett
+30. The Zombie Survival Guide by Max Brooks
+31. Haunted by Chuck Palahniuk
+32. The Time Machine by H.G. Wells
+33. Lord of the Flies by William Golding
+34. A Passage to India by E.M. Forster
+35. The Sicilian by Mario Puzo
+36. Fear and Trembling by Søren Kierkegaard
+37. Sun Bin's Art of War by Sun Bin
+38. Another Roadside Attraction by Tom Robbins
+39. Gospel of John by John the Apostle
+40. Bud, Not Buddy by Christopher Paul Curtis
+41. The Book Thief by Markus Zusak
+42. The Messenger by Markus Zusak
+43. Choke by Chuck Palahniuk
+44. I Hope They Serve Beer in Hell by Tucker Max
+45. Pagan Theology by Michael York
+46. The Occult: A History by Colin Wilson
+47. King Leary by Paul Quarrington
+48. The Long Hard Road Out of Hell by Marilyn Manson
+49. Pride and Prejudice and Zombies by Seth Grahame-Smith
+50. Notes

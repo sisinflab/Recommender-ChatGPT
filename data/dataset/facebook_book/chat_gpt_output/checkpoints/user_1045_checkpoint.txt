@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Pride and Prejudice by Jane Austen
+6. Animal Farm by George Orwell
+7. The Picture of Dorian Gray by Oscar Wilde
+8. Wuthering Heights by Emily Bronte
+9. Jane Eyre by Charlotte Bronte
+10. The Bell Jar by Sylvia Plath
+11. The Lord of the Rings by J.R.R. Tolkien
+12. The Hobbit by J.R.R. Tolkien
+13. The Chronicles of Narnia by C.S. Lewis
+14. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+15. The Hunger Games by Suzanne Collins
+16. Catch-22 by Joseph Heller
+17. Slaughterhouse-Five by Kurt Vonnegut
+18. The Road by Cormac McCarthy
+19. The Book Thief by Markus Zusak
+20. The Kite Runner by Khaled Hosseini
+21. A Thousand Splendid Suns by Khaled Hosseini
+22. The Alchemist by Paulo Coelho
+23. The Da Vinci Code by Dan Brown
+24. Angels and Demons by Dan Brown
+25. The Girl with the Dragon Tattoo by Stieg Larsson
+26. The Girl Who Played with Fire by Stieg Larsson
+27. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+28. The Name of the Rose by Umberto Eco
+29. The Shadow of the Wind by Carlos Ruiz Zafon
+30. The Pillars of the Earth by Ken Follett
+31. The Help by Kathryn Stockett
+32. The Secret Life of Bees by Sue Monk Kidd
+33. The Color Purple by Alice Walker
+34. The Joy Luck Club by Amy Tan
+35. The God of Small Things by Arundhati Roy
+36. The Poisonwood Bible by Barbara Kingsolver
+37. The Handmaid's Tale by Margaret Atwood
+38. Alias Grace by Margaret Atwood
+39. Cat's Eye by Margaret Atwood
+40. The Blind Assassin by Margaret Atwood
+41. The Hamlet by William Faulkner
+42. As I Lay Dying by William Faulkner
+43. Light in August by William Faulkner
+44. One Hundred Years of Solitude by Gabriel Garcia Marquez
+45. Love in the Time of Cholera by Gabriel Garcia Marquez
+46. Chronicle of a Death Foretold by Gabriel Garcia Marquez
+47. Midnight's Children by Salman Rushdie
+48. The Satanic Verses by Salman Rushdie
+49. Rebecca by Daphne du Maurier
+50. The Wise Man's Fear by Patrick Rothfuss

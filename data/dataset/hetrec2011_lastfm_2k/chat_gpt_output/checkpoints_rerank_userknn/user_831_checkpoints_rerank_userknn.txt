@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Madonna
+2. Michael Jackson
+3. U2
+4. Robbie Williams
+5. Simple Minds
+6. Pet Shop Boys
+7. Enigma
+8. Oasis
+9. The Police
+10. Amy Winehouse
+11. George Michael
+12. AC/DC
+13. Santana
+14. The Smiths
+15. Sade
+16. Within Temptation
+17. Katie Melua
+18. Prince
+19. Loreena McKennitt
+20. Mando Diao
+21. Depeche Mode
+22. Coldplay
+23. Goldfrapp
+24. R.E.M.
+25. The Beatles
+26. New Order
+27. Erasure
+28. Alphaville
+29. Bryan Adams
+30. The Human League
+31. Eurythmics
+32. Lacuna Coil
+33. Incubus
+34. De/Vision
+35. Hurts
+36. The Alan Parsons Project
+37. Calvin Harris
+38. Lady Gaga
+39. Groove Coverage
+40. Scissor Sisters
+41. Ace of Base
+42. Kelly Clarkson
+43. Blondie
+44. Justin Timberlake
+45. Lily Allen
+46. Queen
+47. The B-52's
+48. Westlife
+49. Brandon Flowers
+50. Janet Jackson

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. The Great Gatsby by F. Scott Fitzgerald
+3. To the Lighthouse by Virginia Woolf
+4. A Midsummer Night's Dream by William Shakespeare
+5. Choke by Chuck Palahniuk
+6. Love, Stargirl by Jerry Spinelli
+7. Let the Right One In by John Ajvide Lindqvist
+8. Carmilla by J. Sheridan Le Fanu
+9. Aura by Carlos Fuentes
+10. Holes by Louis Sachar
+11. The Book of Revelation by Rupert Thomson
+12. Twisted by Laurie Halse Anderson
+13. The Graveyard Book by Neil Gaiman
+14. Watchmen by Alan Moore and Dave Gibbons
+15. The Fountainhead by Ayn Rand
+16. Go Ask Alice by Anonymous
+17. Memoirs of a Geisha by Arthur Golden
+18. Frankenstein by Mary Shelley
+19. The Mists of Avalon by Marion Zimmer Bradley
+20. Angels & Demons by Dan Brown
+21. The Zombie Survival Guide by Max Brooks
+22. The Hamlet by William Faulkner
+23. Neverwhere by Neil Gaiman
+24. Divine Comedy by Dante Alighieri
+25. Adventures of Huckleberry Finn by Mark Twain
+26. Wuthering Heights by Emily Bronte
+27. Jane Eyre by Charlotte Bronte
+28. The Shadow of the Wind by Carlos Ruiz Zafon
+29. Dune by Frank Herbert
+30. The Vampire Chronicles by Anne Rice
+31. Twenty Thousand Leagues Under the Sea by Jules Verne
+32. Rose Madder by Stephen King
+33. The Picture of Dorian Gray by Oscar Wilde
+34. Inferno by Dante Alighieri
+35. Fahrenheit 451 by Ray Bradbury
+36. The Stranger by Albert Camus
+37. Twilight by Stephenie Meyer
+38. Sin City by Frank Miller
+39. The Lovely Bones by Alice Sebold
+40. The Metamorphosis by Franz Kafka
+41. The Pact by Jodi Picoult
+42. Nineteen Eighty-Four by George Orwell
+43. Interview with the Vampire by Anne Rice
+44. A Swiftly Tilting Planet by Madeleine L'Engle
+45. Dark-Hunter series by Sherrilyn Kenyon
+46. Love in the Time of Cholera by Gabriel Garcia Marquez
+47. Old Farmer's Almanac by Robert B. Thomas
+48. The Forgotten Garden by Kate Morton
+49. My Antonia by Willa Cather
+50. Gone with the Wind by Margaret Mitchell (since the user liked this book, it's possible they may enjoy other classic novels like this one)

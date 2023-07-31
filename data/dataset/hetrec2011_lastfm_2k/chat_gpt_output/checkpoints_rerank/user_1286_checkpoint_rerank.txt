@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. The Beatles
+3. Muse
+4. Pink Floyd
+5. Led Zeppelin
+6. Nirvana
+7. Joy Division
+8. My Bloody Valentine
+9. Sigur Rós
+10. Deerhunter
+11. Beach House
+12. Dinosaur Jr.
+13. Xiu Xiu
+14. Yo La Tengo
+15. Digitalism
+16. Editors
+17. The Jesus and Mary Chain
+18. The Velvet Underground
+19. Portishead
+20. M83
+21. Tokyo Police Club
+22. Cocteau Twins
+23. Massive Attack
+24. Slowdive
+25. Clap Your Hands Say Yeah
+26. Los Campesinos!
+27. Arctic Monkeys
+28. Ludwig van Beethoven
+29. Broken Social Scene
+30. Duran Duran
+31. Coldplay
+32. Blur
+33. Placebo
+34. The Killers
+35. Iron Maiden
+36. Metallica
+37. Michael Jackson
+38. Pearl Jam
+39. a-ha
+40. Björk
+41. System of a Down
+42. Daft Punk
+43. Nine Inch Nails
+44. Linkin Park
+45. Kelly Clarkson
+46. All Time Low
+47. P!nk
+48. Avenged Sevenfold
+49. My Chemical Romance
+50. Green Day

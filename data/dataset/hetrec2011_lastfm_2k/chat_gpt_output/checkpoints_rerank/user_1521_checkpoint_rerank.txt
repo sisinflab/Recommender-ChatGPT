@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Natalia Kills
+2. Adam Lambert
+3. The Pretty Reckless
+4. Pixie Lott
+5. Jessie J
+6. Far East Movement
+7. Leighton Meester
+8. Jeffree Star
+9. The Veronicas
+10. Natasha Bedingfield
+11. Ashlee Simpson
+12. Owl City
+13. Justin Bieber
+14. Miranda Cosgrove
+15. Relient K
+16. David Archuleta
+17. OneRepublic
+18. Rihanna
+19. Katy Perry
+20. Britney Spears
+21. Shakira
+22. Jennifer Lopez
+23. Ke$ha
+24. Taylor Swift
+25. Cheryl Cole
+26. Beyoncé
+27. Nickelback
+28. Christina Aguilera
+29. Enrique Iglesias
+30. Paramore
+31. Lady Gaga
+32. Madonna
+33. Pink Floyd
+34. Muse
+35. Radiohead
+36. Coldplay
+37. The Killers
+38. Nirvana
+39. Led Zeppelin
+40. Metallica
+41. Michael Jackson
+42. Pearl Jam
+43. System of a Down
+44. Daft Punk
+45. Nine Inch Nails
+46. Linkin Park
+47. All Time Low
+48. P!nk
+49. My Chemical Romance
+50. Green Day

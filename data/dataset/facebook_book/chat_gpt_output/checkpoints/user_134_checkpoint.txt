@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. The Lord of the Rings by J.R.R. Tolkien
+4. The Hobbit by J.R.R. Tolkien
+5. The Chronicles of Narnia by C.S. Lewis
+6. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+7. The Catcher in the Rye by J.D. Salinger
+8. To Kill a Mockingbird by Harper Lee
+9. The Great Gatsby by F. Scott Fitzgerald
+10. One Hundred Years of Solitude by Gabriel Garcia Marquez
+11. Crime and Punishment by Fyodor Dostoevsky
+12. The Brothers Karamazov by Fyodor Dostoevsky
+13. The Picture of Dorian Gray by Oscar Wilde
+14. The Count of Monte Cristo by Alexandre Dumas
+15. Les Miserables by Victor Hugo
+16. The Three Musketeers by Alexandre Dumas
+17. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+18. The War of the Worlds by H.G. Wells
+19. The Time Machine by H.G. Wells
+20. The Invisible Man by H.G. Wells
+21. Frankenstein by Mary Shelley
+22. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+23. Heart of Darkness by Joseph Conrad
+24. Lord Jim by Joseph Conrad
+25. Moby-Dick by Herman Melville
+26. The Adventures of Tom Sawyer by Mark Twain
+27. The Adventures of Huckleberry Finn by Mark Twain
+28. The Call of the Wild by Jack London
+29. White Fang by Jack London
+30. The Old Man and the Sea by Ernest Hemingway
+31. For Whom the Bell Tolls by Ernest Hemingway
+32. The Sun Also Rises by Ernest Hemingway
+33. The Grapes of Wrath by John Steinbeck
+34. Of Mice and Men by John Steinbeck
+35. East of Eden by John Steinbeck
+36. The Sound and the Fury by William Faulkner
+37. As I Lay Dying by William Faulkner
+38. Light in August by William Faulkner
+39. The Maltese Falcon by Dashiell Hammett
+40. The Big Sleep by Raymond Chandler
+41. The Long Goodbye by Raymond Chandler
+42. The Postman Always Rings Twice by James M. Cain
+43. Double Indemnity by James M. Cain
+44. The Day of the Locust by Nathanael West
+45. The Great Shark Hunt by Hunter S. Thompson
+46. Hell's Angels by Hunter S. Thompson
+47. The Rum Diary by Hunter S. Thompson
+48. The Electric Kool-Aid

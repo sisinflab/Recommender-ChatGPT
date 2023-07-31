@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Hobbit by J.R.R. Tolkien
+2. The Lord of the Rings by J.R.R. Tolkien
+3. Nineteen Eighty-Four by George Orwell
+4. Brave New World by Aldous Huxley
+5. Fahrenheit 451 by Ray Bradbury
+6. A Wrinkle in Time by Madeleine L'Engle
+7. Alice's Adventures in Wonderland by Lewis Carroll
+8. The Phantom Tollbooth by Norton Juster
+9. The Outsiders by S.E. Hinton
+10. The Brothers Karamazov by Fyodor Dostoyevsky
+11. Jane Eyre by Charlotte Bronte
+12. Les Miserables by Victor Hugo
+13. Don Quixote by Miguel de Cervantes
+14. The Odyssey by Homer
+15. The Iliad by Homer
+16. Oedipus the King by Sophocles
+17. Symposium by Plato
+18. The Last Storytellers: Tales from the Heart of Morocco by Richard Hamilton
+19. Inkheart by Cornelia Funke
+20. Inkspell by Cornelia Funke
+21. His Dark Materials by Philip Pullman
+22. The Secret Life of Bees by Sue Monk Kidd
+23. A Tree Grows in Brooklyn by Betty Smith
+24. The Hatchet by Gary Paulsen
+25. The Yearling by Marjorie Kinnan Rawlings
+26. The Call of the Wild by Jack London
+27. The Count of Monte Cristo by Alexandre Dumas
+28. Slaughterhouse-Five by Kurt Vonnegut
+29. Cat's Cradle by Kurt Vonnegut
+30. Rant by Chuck Palahniuk
+31. Lolita by Vladimir Nabokov
+32. The Hamlet by William Faulkner
+33. A Streetcar Named Desire by Tennessee Williams
+34. Speak by Laurie Halse Anderson
+35. Like Water for Chocolate by Laura Esquivel
+36. Oh, the Places You'll Go! by Dr. Seuss
+37. Eragon by Christopher Paolini
+38. The Watchmen by Alan Moore
+39. The Raw Shark Texts by Steven Hall
+40. Uglies by Scott Westerfeld
+41. Specials by Scott Westerfeld
+42. God Bless You, Dr. Kevorkian by Kurt Vonnegut
+43. Fear and Loathing in Las Vegas by Hunter S. Thompson
+44. That Was Then, This Is Now by S.E. Hinton
+45. Twilight by Stephenie Meyer
+46. Marley & Me by John Grogan
+47. Go Ask Alice by Anonymous
+48. Anthem by Ayn Rand
+49. Warrior by Erin Hunter
+50. Mythologies by Roland Barthes

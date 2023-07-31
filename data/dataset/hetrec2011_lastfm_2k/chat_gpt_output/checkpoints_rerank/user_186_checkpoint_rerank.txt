@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. All Time Low
+2. Hey Monday
+3. The Pretty Reckless
+4. Boys Like Girls
+5. Simple Plan
+6. Flyleaf
+7. Within Temptation
+8. Avenged Sevenfold
+9. Paramore
+10. VersaEmerge
+11. Automatic Loveletter
+12. Demi Lovato
+13. Ashlee Simpson
+14. Lindsay Lohan
+15. Ke$ha
+16. Britney Spears
+17. Pink
+18. B.o.B
+19. Sum 41
+20. Nickelback
+21. The Veronicas
+22. Green Day
+23. System of a Down
+24. Christina Aguilera
+25. Iron Maiden
+26. 3OH!3
+27. blink-182
+28. Red Hot Chili Peppers
+29. Lady Gaga
+30. Rihanna
+31. Madonna
+32. Beyoncé
+33. Katy Perry
+34. Taylor Swift
+35. Evanescence
+36. Glee Cast
+37. U2
+38. 30 Seconds to Mars
+39. Muse
+40. Pink Floyd
+41. Kylie Minogue
+42. Miley Cyrus
+43. Radiohead
+44. Duran Duran
+45. Coldplay
+46. Blur
+47. Arctic Monkeys
+48. Placebo
+49. The Killers
+50. Nirvana

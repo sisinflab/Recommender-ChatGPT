@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. Atonement by Ian McEwan
+3. The Perks of Being a Wallflower by Stephen Chbosky
+4. Jane Eyre by Charlotte Bronte
+5. Memoirs of a Geisha by Arthur Golden
+6. The Picture of Dorian Gray by Oscar Wilde
+7. To Kill a Mockingbird by Harper Lee
+8. Nineteen Eighty-Four by George Orwell
+9. Dracula by Bram Stoker
+10. The Scarlet Letter by Nathaniel Hawthorne
+11. Sense and Sensibility by Jane Austen
+12. Of Mice and Men by John Steinbeck
+13. The Adventures of Tom Sawyer by Mark Twain
+14. Fahrenheit 451 by Ray Bradbury
+15. Slaughterhouse-Five by Kurt Vonnegut
+16. The Lovely Bones by Alice Sebold
+17. The Da Vinci Code by Dan Brown
+18. PS, I Love You by Cecelia Ahern
+19. The Queen's Fool by Philippa Gregory
+20. The Sisterhood of the Traveling Pants by Ann Brashares
+21. Ink Exchange by Melissa Marr
+22. Digital Fortress by Dan Brown
+23. The Hamlet by William Faulkner
+24. Gone with the Wind by Margaret Mitchell
+25. Death Note by Tsugumi Ohba
+26. Sunshine by Robin McKinley
+27. Crank by Ellen Hopkins
+28. A Bend in the Road by Nicholas Sparks
+29. Night by Elie Wiesel
+30. A Great and Terrible Beauty by Libba Bray
+31. The Prince and the Pauper by Mark Twain
+32. Ender's Game by Orson Scott Card
+33. Eldest by Christopher Paolini
+34. Gormenghast by Mervyn Peake
+35. The Princess Diaries by Meg Cabot
+36. Batman: The Killing Joke by Alan Moore
+37. The Mist by Stephen King
+38. Anthem by Ayn Rand
+39. A Clockwork Orange by Anthony Burgess
+40. Bloody Jack by L.A. Meyer
+41. Hush, Hush by Becca Fitzpatrick
+42. Helter Skelter by Vincent Bugliosi
+43. Ender's Shadow by Orson Scott Card
+44. How to Read Literature Like a Professor by Thomas C. Foster
+45. A Million Little Pieces by James Frey
+46. The Importance of Being Earnest by Oscar Wilde
+47. Dear John by Nicholas Sparks
+48. Othello by William Shakespeare
+49. Fallen by Lauren Kate
+50. The Pirate by Harold Robbins

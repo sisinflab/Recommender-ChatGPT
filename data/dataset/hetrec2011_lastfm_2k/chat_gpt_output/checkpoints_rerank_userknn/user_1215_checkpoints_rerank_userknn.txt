@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for this user are:
+
+1. Jason Mraz
+2. Coldplay
+3. Adele
+4. Michael Jackson
+5. Regina Spektor
+6. Paolo Nutini
+7. The Cranberries
+8. Billy Joel
+9. Mariah Carey
+10. Kate Nash
+11. Norah Jones
+12. Sara Bareilles
+13. Ingrid Michaelson
+14. Gavin DeGraw
+15. Mika
+16. The Cardigans
+17. Corinne Bailey Rae
+18. Rilo Kiley
+19. Duffy
+20. Nevershoutnever!
+21. Shania Twain
+22. City and Colour
+23. Christina Aguilera
+24. Beyoncé
+25. Lady Gaga
+26. P!nk
+27. Rihanna
+28. Kelly Clarkson
+29. Avril Lavigne
+30. Jennifer Hudson
+31. She & Him
+32. Kelly Rowland
+33. Natasha Bedingfield
+34. Ana Carolina
+35. Hurts
+36. Enya
+37. Eagles
+38. Mary J. Blige
+39. Steely Dan
+40. Louis Armstrong
+41. Leona Lewis
+42. Sade
+43. Heart
+44. Laura Marling
+45. Toni Braxton
+46. Joss Stone
+47. Keyshia Cole
+48. Newton Faulkner
+49. Taylor Swift
+50. Vanessa Carlton

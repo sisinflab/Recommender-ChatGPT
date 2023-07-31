@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Nina Simone
+2. Aretha Franklin
+3. Elvis Presley
+4. The Rolling Stones
+5. David Bowie
+6. Ray Charles
+7. Thievery Corporation
+8. LCD Soundsystem
+9. The Beatles
+10. Tori Amos
+11. Pet Shop Boys
+12. Eurythmics
+13. Everything but the Girl
+14. Moby
+15. Saint Etienne
+16. Ella Fitzgerald
+17. Johnny Cash
+18. The Cure
+19. Madonna
+20. Beyoncé
+21. Lady Gaga
+22. Rihanna
+23. Michael Jackson
+24. Pink Floyd
+25. U2
+26. Muse
+27. Radiohead
+28. Pearl Jam
+29. Led Zeppelin
+30. Nirvana
+31. Iron Maiden
+32. Metallica
+33. System of a Down
+34. Nine Inch Nails
+35. Linkin Park
+36. Avenged Sevenfold
+37. My Chemical Romance
+38. Green Day
+39. Blur
+40. Arctic Monkeys
+41. Placebo
+42. The Killers
+43. Duran Duran
+44. Depeche Mode
+45. Björk
+46. Daft Punk
+47. Kylie Minogue
+48. Amy Winehouse
+49. Shakira
+50. Christina Aguilera

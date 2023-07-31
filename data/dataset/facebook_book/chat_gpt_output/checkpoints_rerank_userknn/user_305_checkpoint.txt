@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Queen of the Damned by Anne Rice
+2. Blackwood Farm by Anne Rice
+3. Merrick by Anne Rice
+4. Servant of the Bones by Anne Rice
+5. The Vampire Armand by Anne Rice
+6. The Tale of the Body Thief by Anne Rice
+7. The Witching Hour by Anne Rice
+8. The Mummy by Anne Rice
+9. The Alchemist by Paulo Coelho
+10. The Da Vinci Code by Dan Brown
+11. The Celestine Prophecy by James Redfield
+12. The Handmaid's Tale by Margaret Atwood
+13. Brave New World by Aldous Huxley
+14. The Giver by Lois Lowry
+15. A Clockwork Orange by Anthony Burgess
+16. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+17. The Hobbit by J.R.R. Tolkien
+18. The Lord of the Rings by J.R.R. Tolkien
+19. The Silmarillion by J.R.R. Tolkien
+20. The Canterbury Tales by Geoffrey Chaucer
+21. The Sound and the Fury by William Faulkner
+22. One Flew Over the Cuckoo's Nest by Ken Kesey
+23. Cat's Cradle by Kurt Vonnegut
+24. The Illustrated Man by Ray Bradbury
+25. Leaves of Grass by Walt Whitman
+26. Blood Meridian by Cormac McCarthy
+27. His Dark Materials by Philip Pullman
+28. Life of Pi by Yann Martel
+29. The Name of the Rose by Umberto Eco
+30. The Unbearable Lightness of Being by Milan Kundera
+31. The Rules of Attraction by Bret Easton Ellis
+32. Prozac Nation by Elizabeth Wurtzel
+33. The Wall by Jean-Paul Sartre
+34. Galapagos by Kurt Vonnegut
+35. Rurouni Kenshin by Nobuhiro Watsuki
+36. The Catcher in the Rye by J.D. Salinger
+37. On the Road by Jack Kerouac
+38. The Martian Chronicles by Ray Bradbury
+39. Gravity's Rainbow by Thomas Pynchon
+40. Zen and the Art of Motorcycle Maintenance by Robert M. Pirsig
+41. The Revolution: A Manifesto by Ron Paul
+42. Fear and Loathing in Las Vegas by Hunter S. Thompson
+43. Island by Aldous Huxley
+44. The Sword of Truth by Terry Goodkind
+45. Inferno by Dante Alighieri
+46. The 48 Laws of Power by Robert Greene
+47. A Wrinkle in Time by Madeleine L'Engle
+48. Angels & Demons by Dan Brown
+49. The Doors of Perception by Aldous Huxley
+50. Ghost

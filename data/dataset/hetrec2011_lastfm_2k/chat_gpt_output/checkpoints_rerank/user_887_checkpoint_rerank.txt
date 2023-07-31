@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Opeth
+2. Devin Townsend
+3. Porcupine Tree
+4. Ulver
+5. Symphony X
+6. Camel
+7. Tori Amos
+8. The Gathering
+9. Riverside
+10. Blackfield
+11. Ayreon
+12. Cynic
+13. Mew
+14. Gojira
+15. The Smashing Pumpkins
+16. Queen
+17. Elliott Smith
+18. Muse
+19. Pink Floyd
+20. Radiohead
+21. Nirvana
+22. Led Zeppelin
+23. Metallica
+24. Iron Maiden
+25. Pearl Jam
+26. U2
+27. 30 Seconds to Mars
+28. Coldplay
+29. The Killers
+30. Duran Duran
+31. Arctic Monkeys
+32. Placebo
+33. My Chemical Romance
+34. Green Day
+35. The Cure
+36. System of a Down
+37. Nine Inch Nails
+38. Linkin Park
+39. Avenged Sevenfold
+40. Daft Punk
+41. Michael Jackson
+42. Madonna
+43. Beyoncé
+44. Lady Gaga
+45. Christina Aguilera
+46. Rihanna
+47. Katy Perry
+48. Taylor Swift
+49. Ke$ha
+50. Black Eyed Peas

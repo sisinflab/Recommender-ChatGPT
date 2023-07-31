@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Natalie Imbruglia
+2. Garbage
+3. The Cardigans
+4. Anastacia
+5. Circa Survive
+6. Fresno
+7. Hole
+8. Alphabeat
+9. Pitty
+10. *NSYNC
+11. Red Hot Chili Peppers
+12. Spice Girls
+13. Alanis Morissette
+14. Ashley Tisdale
+15. Silverchair
+16. Mallu Magalhães
+17. Marilyn Manson
+18. Darren Hayes
+19. Mariah Carey
+20. Selena Gomez
+21. Demi Lovato
+22. Aerosmith
+23. Depeche Mode
+24. Lady Gaga
+25. Christina Aguilera
+26. Rihanna
+27. Shakira
+28. The Beatles
+29. Katy Perry
+30. Avril Lavigne
+31. Taylor Swift
+32. Evanescence
+33. Beyoncé
+34. U2
+35. 30 Seconds to Mars
+36. Muse
+37. Pink Floyd
+38. Kylie Minogue
+39. Miley Cyrus
+40. Radiohead
+41. Ke$ha
+42. Duran Duran
+43. Coldplay
+44. Blur
+45. Arctic Monkeys
+46. Placebo
+47. The Killers
+48. Nirvana
+49. Iron Maiden
+50. Amy Winehouse

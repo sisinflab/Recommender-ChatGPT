@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Divergent by Veronica Roth
+2. The Maze Runner by James Dashner
+3. The Fault in Our Stars by John Green
+4. The Book Thief by Markus Zusak
+5. The Selection by Kiera Cass
+6. The Outsiders by S.E. Hinton
+7. The Perks of Being a Wallflower by Stephen Chbosky
+8. The Chronicles of Narnia by C.S. Lewis
+9. The Hobbit by J.R.R. Tolkien
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Catcher in the Rye by J.D. Salinger
+12. To Kill a Mockingbird by Harper Lee
+13. The Great Gatsby by F. Scott Fitzgerald
+14. 1984 by George Orwell
+15. Animal Farm by George Orwell
+16. Brave New World by Aldous Huxley
+17. Fahrenheit 451 by Ray Bradbury
+18. The Handmaid's Tale by Margaret Atwood
+19. The Hunger Games Trilogy by Suzanne Collins
+20. The Giver Quartet by Lois Lowry
+21. The Little Prince by Antoine de Saint-Exupéry
+22. The Alchemist by Paulo Coelho
+23. The Secret Life of Bees by Sue Monk Kidd
+24. The Help by Kathryn Stockett
+25. The Color Purple by Alice Walker
+26. The Joy Luck Club by Amy Tan
+27. The Kite Runner by Khaled Hosseini
+28. A Thousand Splendid Suns by Khaled Hosseini
+29. The Girl with the Dragon Tattoo by Stieg Larsson
+30. The Da Vinci Code by Dan Brown
+31. Angels and Demons by Dan Brown
+32. The Bourne Identity by Robert Ludlum
+33. The Hunger Games by Suzanne Collins
+34. Catching Fire by Suzanne Collins
+35. Mockingjay by Suzanne Collins
+36. The Notebook by Nicholas Sparks
+37. A Walk to Remember by Nicholas Sparks
+38. The Last Song by Nicholas Sparks
+39. The Lucky One by Nicholas Sparks
+40. The Rescue by Nicholas Sparks
+41. The Guardian by Nicholas Sparks
+42. The Wedding by Nicholas Sparks
+43. The Best of Me by Nicholas Sparks
+44. The Longest Ride by Nicholas Sparks
+45. The Key by Marianne Curley
+46. The Darkangel Trilogy by Meredith Ann Pierce
+47. The Mortal Instruments Series by Cassandra Clare
+48. The Infernal Devices Series by Cassandra Clare
+49. The Twilight Saga by Stephenie Meyer
+50. Jane Eyre by Charlotte Brontë

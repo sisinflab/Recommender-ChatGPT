@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Twilight by Stephenie Meyer
+2. Interview with the Vampire by Anne Rice
+3. The Vampire Lestat by Anne Rice
+4. The Vampire Diaries by L.J. Smith
+5. The Hunger Games by Suzanne Collins
+6. Divergent by Veronica Roth
+7. The Maze Runner by James Dashner
+8. The Giver by Lois Lowry
+9. The Fault in Our Stars by John Green
+10. The Book Thief by Markus Zusak
+11. The Lord of the Rings by J.R.R. Tolkien
+12. The Hobbit by J.R.R. Tolkien
+13. The Chronicles of Narnia by C.S. Lewis
+14. Harry Potter and the Philosopher's Stone by J.K. Rowling
+15. Harry Potter and the Chamber of Secrets by J.K. Rowling
+16. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+17. Harry Potter and the Goblet of Fire by J.K. Rowling
+18. Harry Potter and the Order of Phoenix by J.K. Rowling
+19. Harry Potter and the Half-Blood Prince by J.K. Rowling
+20. Harry Potter and the Deathly Hallows by J.K. Rowling
+21. The Girl with the Dragon Tattoo by Stieg Larsson
+22. The Girl Who Played with Fire by Stieg Larsson
+23. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+24. The Da Vinci Code by Dan Brown
+25. Angels and Demons by Dan Brown
+26. Inferno by Dan Brown
+27. The Shining by Stephen King
+28. Carrie by Stephen King
+29. Misery by Stephen King
+30. The Stand by Stephen King
+31. It by Stephen King
+32. The Dark Tower by Stephen King
+33. The Catcher in the Rye by J.D. Salinger
+34. To Kill a Mockingbird by Harper Lee
+35. The Great Gatsby by F. Scott Fitzgerald
+36. 1984 by George Orwell
+37. Animal Farm by George Orwell
+38. Brave New World by Aldous Huxley
+39. Fahrenheit 451 by Ray Bradbury
+40. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+41. Ender's Game by Orson Scott Card
+42. The Martian by Andy Weir
+43. Ready Player One by Ernest Cline
+44. The Alchemist by Paulo Coelho
+45. The Picture of Dorian Gray by Oscar Wilde
+46. The Count of Monte Cristo by Alexandre Dumas
+47. Les Misérables by Victor Hugo
+48. Pride and Prejudice by Jane Austen
+49. Sense and Sensibility by Jane Austen
+50. Emma by Jane Austen

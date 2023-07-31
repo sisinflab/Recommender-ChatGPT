@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Björk
+3. Animal Collective
+4. Deerhunter
+5. Sonic Youth
+6. Broken Social Scene
+7. M83
+8. The Radio Dept.
+9. Sufjan Stevens
+10. Atlas Sound
+11. Pavement
+12. Interpol
+13. Air
+14. Xiu Xiu
+15. Yo La Tengo
+16. Ratatat
+17. Prefuse 73
+18. Death Cab for Cutie
+19. Panda Bear
+20. of Montreal
+21. Wire
+22. Patrick Wolf
+23. Wilco
+24. The Knife
+25. Sigur Rós
+26. M.I.A.
+27. Neutral Milk Hotel
+28. Britney Spears
+29. Lady Gaga
+30. Madonna
+31. Rihanna
+32. Beyoncé
+33. Daft Punk
+34. Nine Inch Nails
+35. Muse
+36. Pink Floyd
+37. The Beatles
+38. U2
+39. Nirvana
+40. Led Zeppelin
+41. Metallica
+42. Michael Jackson
+43. Pearl Jam
+44. The Cure
+45. Duran Duran
+46. Coldplay
+47. Blur
+48. Arctic Monkeys
+49. Placebo
+50. The Killers

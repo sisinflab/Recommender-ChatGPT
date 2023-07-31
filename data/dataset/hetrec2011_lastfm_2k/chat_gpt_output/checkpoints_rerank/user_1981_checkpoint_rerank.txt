@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for them would be:
+
+1. Coldplay
+2. Muse
+3. Radiohead
+4. Keane
+5. Florence + the Machine
+6. The Killers
+7. Phoenix
+8. Razorlight
+9. Travis
+10. James Morrison
+11. Thirteen Senses
+12. Richard Ashcroft
+13. Feeder
+14. Hard-Fi
+15. La Roux
+16. Imogen Heap
+17. The Radio Dept.
+18. Jimmy Eat World
+19. Britney Spears
+20. Lady Gaga
+21. Christina Aguilera
+22. Madonna
+23. Rihanna
+24. Shakira
+25. Katy Perry
+26. Avril Lavigne
+27. Taylor Swift
+28. Evanescence
+29. Beyoncé
+30. U2
+31. 30 Seconds to Mars
+32. Pink Floyd
+33. Kylie Minogue
+34. Miley Cyrus
+35. Duran Duran
+36. Blur
+37. Arctic Monkeys
+38. Placebo
+39. Nirvana
+40. Iron Maiden
+41. Led Zeppelin
+42. Metallica
+43. Michael Jackson
+44. Pearl Jam
+45. a-ha
+46. Björk
+47. System of a Down
+48. Daft Punk
+49. Nine Inch Nails
+50. Linkin Park

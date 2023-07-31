@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Unaccustomed Earth by Jhumpa Lahiri
+2. The Namesake by Jhumpa Lahiri
+3. Interpreter of Maladies by Jhumpa Lahiri
+4. The House of Mirth by Edith Wharton
+5. Little Women by Louisa May Alcott
+6. The Yellow Wallpaper by Charlotte Perkins Gilman
+7. Anne of Green Gables by Lucy Maud Montgomery
+8. The Inheritance of Loss by Kiran Desai
+9. The Time Traveler's Wife by Audrey Niffenegger
+10. Crime and Punishment by Fyodor Dostoevsky
+11. Great Expectations by Charles Dickens
+12. Mansfield Park by Jane Austen
+13. Sense and Sensibility by Jane Austen
+14. The Merchant of Venice by William Shakespeare
+15. Macbeth by William Shakespeare
+16. The Shadow Lines by Amitav Ghosh
+17. The God of Small Things by Arundhati Roy
+18. To Kill a Mockingbird by Harper Lee
+19. The Glass Menagerie by Tennessee Williams
+20. Giovanni's Room by James Baldwin
+21. The Awakening by Kate Chopin
+22. By the River Piedra I Sat Down and Wept by Paulo Coelho
+23. The Da Vinci Code by Dan Brown
+24. Angels & Demons by Dan Brown
+25. The Zahir by Paulo Coelho
+26. The Witch of Portobello by Paulo Coelho
+27. Veronika Decides to Die by Paulo Coelho
+28. Eleven Minutes by Paulo Coelho
+29. The Last Storytellers: Tales from the Heart of Morocco by Richard Hamilton
+30. Odyssey by Homer
+31. Where the Red Fern Grows by Wilson Rawls
+32. Uncle Tom's Cabin by Harriet Beecher Stowe
+33. Studies of the Book of Mormon by Brigham Young University
+34. Bhagavad Gita by Anonymous
+35. The Secret by Rhonda Byrne
+36. Someone like You by Sarah Dessen
+37. The Bluest Eye by Toni Morrison
+38. Carrie by Stephen King
+39. Twilight by Stephenie Meyer
+40. The Outsiders by S.E. Hinton
+41. Paradise Lost by John Milton
+42. Lock and Key by Sarah Dessen
+43. Pretties by Scott Westerfeld
+44. Extras by Scott Westerfeld
+45. The Song of the Lioness by Tamora Pierce
+46. Misery by Stephen King
+47. Crime by Irvine Welsh
+48. Northern Lights by Philip Pullman
+49. If Tomorrow Comes by Sidney Sheldon
+50. Identical by Ellen Hopkins

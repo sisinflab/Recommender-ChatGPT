@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. The Lord of the Rings by J.R.R. Tolkien
+3. The Da Vinci Code by Dan Brown
+4. 1984 by George Orwell
+5. The Fault in Our Stars by John Green
+6. Dracula by Bram Stoker
+7. The Hobbit by J.R.R. Tolkien
+8. The Catcher in the Rye by J.D. Salinger
+9. The Girl with the Dragon Tattoo by Stieg Larsson
+10. The Shining by Stephen King
+11. The Giver by Lois Lowry
+12. The Maze Runner by James Dashner
+13. The Chronicles of Narnia by C.S. Lewis
+14. The Girl on the Train by Paula Hawkins
+15. The Stand by Stephen King
+16. The Silence of the Lambs by Thomas Harris
+17. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+18. The Great Gatsby by F. Scott Fitzgerald
+19. The Book Thief by Markus Zusak
+20. The Picture of Dorian Gray by Oscar Wilde
+21. The Road by Cormac McCarthy
+22. The Dark Tower series by Stephen King
+23. The Handmaid's Tale by Margaret Atwood
+24. The Outsiders by S.E. Hinton
+25. The Name of the Wind by Patrick Rothfuss
+26. The Alchemist by Paulo Coelho
+27. The Secret History by Donna Tartt
+28. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+29. The Girl Who Played with Fire by Stieg Larsson
+30. The Stand by Stephen King
+31. The Martian by Andy Weir
+32. The Time Traveler's Wife by Audrey Niffenegger
+33. The Night Circus by Erin Morgenstern
+34. The Hunger Games Trilogy Boxset by Suzanne Collins
+35. The Lord of the Rings Boxed Set by J.R.R. Tolkien
+36. The Complete Harry Potter Collection by J.K. Rowling
+37. The Complete Sherlock Holmes Collection by Arthur Conan Doyle
+38. The Complete Works of Edgar Allan Poe by Edgar Allan Poe
+39. The Complete Works of William Shakespeare by William Shakespeare
+40. The Complete Novels of Jane Austen by Jane Austen
+41. The Complete Novels of Charles Dickens by Charles Dickens
+42. The Complete Novels of Mark Twain by Mark Twain
+43. The Complete Novels of Jane Austen by Jane Austen
+44. The Complete Novels of F. Scott Fitzgerald by F. Scott Fitzgerald
+45. The Complete Novels of Ernest Hemingway by Ernest Hemingway
+46. The Complete Novels of Virginia Woolf by Virginia Woolf
+47. The Complete Novels of James Joyce by James Joyce
+48. The Dark Tower by Stephen King
+49. The Name of the Wind by Patrick Rothfuss
+50. The Wise Man's Fear by Patrick Rothfuss

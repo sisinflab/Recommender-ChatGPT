@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Pride and Prejudice by Jane Austen
+6. Animal Farm by George Orwell
+7. Brave New World by Aldous Huxley
+8. The Hobbit by J.R.R. Tolkien
+9. The Fellowship of the Ring by J.R.R. Tolkien
+10. The Two Towers by J.R.R. Tolkien
+11. The Return of the King by J.R.R. Tolkien
+12. The Chronicles of Narnia by C.S. Lewis
+13. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+14. The Da Vinci Code by Dan Brown
+15. The Girl with the Dragon Tattoo by Stieg Larsson
+16. The Hunger Games by Suzanne Collins
+17. Catching Fire by Suzanne Collins
+18. Mockingjay by Suzanne Collins
+19. The Help by Kathryn Stockett
+20. The Kite Runner by Khaled Hosseini
+21. The Alchemist by Paulo Coelho
+22. The Picture of Dorian Gray by Oscar Wilde
+23. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+24. The Count of Monte Cristo by Alexandre Dumas
+25. Les Misérables by Victor Hugo
+26. The War of the Worlds by H.G. Wells
+27. The Time Machine by H.G. Wells
+28. The Invisible Man by H.G. Wells
+29. The Island of Dr. Moreau by H.G. Wells
+30. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+31. Treasure Island by Robert Louis Stevenson
+32. The Adventures of Tom Sawyer by Mark Twain
+33. The Adventures of Huckleberry Finn by Mark Twain
+34. The Sun Also Rises by Ernest Hemingway
+35. For Whom the Bell Tolls by Ernest Hemingway
+36. The Old Man and the Sea by Ernest Hemingway
+37. The Sound and the Fury by William Faulkner
+38. As I Lay Dying by William Faulkner
+39. One Hundred Years of Solitude by Gabriel Garcia Marquez
+40. Love in the Time of Cholera by Gabriel Garcia Marquez
+41. Crime and Punishment by Fyodor Dostoevsky
+42. War and Peace by Leo Tolstoy
+43. Anna Karenina by Leo Tolstoy
+44. The Brothers Karamazov by Fyodor Dostoevsky
+45. The Idiot by Fyodor Dostoevsky
+46. The Picture of Dorian Gray by Oscar Wilde
+47. The Importance of Being
+48. Little Women by Louisa May Alcott
+49. Pride and Prejudice by Jane Austen
+50. The Adventures of Tom Sawyer by Mark Twain

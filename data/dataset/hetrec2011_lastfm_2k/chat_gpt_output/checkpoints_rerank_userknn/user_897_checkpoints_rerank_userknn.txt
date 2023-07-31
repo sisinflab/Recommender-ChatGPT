@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Pink Floyd
+2. Nirvana
+3. Bob Dylan
+4. Eric Clapton
+5. The Beatles
+6. Led Zeppelin
+7. Queen
+8. Radiohead
+9. The Who
+10. Eagles
+11. Dire Straits
+12. Sting
+13. Mogwai
+14. Explosions in the Sky
+15. Anathema
+16. Agalloch
+17. Jamie Cullum
+18. Porcupine Tree
+19. Pain of Salvation
+20. Ayreon
+21. Swans
+22. Ólafur Arnalds
+23. Dream Theater
+24. Opeth
+25. Katatonia
+26. Blackfield
+27. Devin Townsend
+28. Rush
+29. Amorphis
+30. Camel
+31. Sigur Rós
+32. Zero 7
+33. Therion
+34. Beirut
+35. Kings of Leon
+36. Incubus
+37. Death Cab for Cutie
+38. José González
+39. Imogen Heap
+40. VNV Nation
+41. John Mayer
+42. The Killers
+43. Isis
+44. Faith No More
+45. Megadeth
+46. Sonata Arctica
+47. KT Tunstall
+48. Katie Melua
+49. Chuck Berry
+50. Elvis Presley

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Bram Stoker's Dracula
+2. The Adventures of Sherlock Holmes
+3. Frankenstein
+4. A Christmas Carol
+5. The Dark Tower: The Gunslinger
+6. The Lord of the Rings
+7. The Hobbit
+8. The Dante Club
+9. The Scarlet Letter
+10. Macbeth
+11. Othello
+12. A Midsummer Night's Dream
+13. The Kite Runner
+14. The Alchemist (novel)
+15. The Great Gatsby
+16. To Kill a Mockingbird
+17. Black Beauty
+18. Heidi
+19. Anne of Green Gables
+20. A Tree Grows in Brooklyn (novel)
+21. The Good Earth
+22. The Thief of Always
+23. My Sister's Keeper (novel)
+24. The Eyes of the Dragon
+25. The Canterbury Tales
+26. Pygmalion (play)
+27. The Secret (book)
+28. The Anarchist Cookbook
+29. The Taming of the Shrew
+30. Aeneid
+31. Paradise Lost
+32. The Lost Symbol by ['Dan Brown']
+33. The Girl Who Leapt Through Time by ['Yasutaka Tsutsui']
+34. Midnight's Children by ['Salman Rushdie']
+35. The Last Storytellers: Tales from the Heart of Morocco
+36. Carrie (novel)
+37. Intensity (novel)
+38. Through the Looking-Glass
+39. Venus in Furs
+40. Eric (novel)
+41. Fushigi Y�gi
+42. Night (book)
+43. His Dark Materials
+44. Needful Things
+45. The Autobiography of Malcolm X
+46. Manga
+47. Persepolis (comics)
+48. Ceres, Celestial Legend
+49. Shanghai Girls
+50. Encyclop�dia Britannica

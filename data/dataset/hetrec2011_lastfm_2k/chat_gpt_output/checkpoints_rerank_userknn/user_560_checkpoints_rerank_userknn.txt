@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for user 560 are:
+
+1. Nine Inch Nails
+2. Marilyn Manson
+3. Rammstein
+4. The Cure
+5. Deftones
+6. Combichrist
+7. Siouxsie and the Banshees
+8. Recoil
+9. PJ Harvey
+10. Klaxons
+11. Cocteau Twins
+12. Diary of Dreams
+13. The Smiths
+14. Morrissey
+15. The Prodigy
+16. Oasis
+17. Damien Rice
+18. Dead Can Dance
+19. Hot Chip
+20. Mudvayne
+21. The Human League
+22. The Horrors
+23. Daft Punk
+24. Orchestral Manoeuvres in the Dark
+25. Sex Pistols
+26. The Chemical Brothers
+27. Nirvana
+28. Queen
+29. Placebo
+30. Lamb of God
+31. Jay-Z
+32. George Harrison
+33. Beastie Boys
+34. Atreyu
+35. Silverchair
+36. Flyleaf
+37. Judas Priest
+38. Dio
+39. Gorillaz
+40. Alexisonfire
+41. Avenged Sevenfold
+42. Killswitch Engage
+43. Fightstar
+44. Fear Factory
+45. Metallica
+46. Slipknot
+47. Scorpions
+48. August Burns Red
+49. Led Zeppelin
+50. Three Days Grace

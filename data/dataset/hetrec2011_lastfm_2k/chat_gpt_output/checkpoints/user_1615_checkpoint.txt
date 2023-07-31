@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Pearl Jam
+3. Arctic Monkeys
+4. Muse
+5. Queens of the Stone Age
+6. The Strokes
+7. System of a Down
+8. Blink-182
+9. The White Stripes
+10. Incubus
+11. The Black Keys
+12. Soundgarden
+13. Vampire Weekend
+14. Modest Mouse
+15. Cage the Elephant
+16. Kings of Leon
+17. The Offspring
+18. The Smashing Pumpkins (Siamese Dream album)
+19. The Raconteurs
+20. The Hives
+21. The Vines
+22. The Libertines
+23. The Kooks
+24. The Fratellis
+25. The Bravery
+26. The Shins
+27. The Decemberists
+28. The Postal Service
+29. Death Cab for Cutie
+30. Interpol
+31. Bloc Party
+32. Franz Ferdinand
+33. The Killers (Hot Fuss album)
+34. The Arctic Monkeys (Whatever People Say I Am, That's What I'm Not album)
+35. The Strokes (Is This It album)
+36. The White Stripes (Elephant album)
+37. The Black Keys (Brothers album)
+38. The Smashing Pumpkins (Mellon Collie and the Infinite Sadness album)
+39. The Raconteurs (Consolers of the Lonely album)
+40. The Hives (Veni Vidi Vicious album)
+41. The Vines (Highly Evolved album)
+42. The Libertines (Up the Bracket album)
+43. The Kooks (Inside In/Inside Out album)
+44. The Fratellis (Costello Music album)
+45. The Bravery (The Sun and the Moon album)
+46. The Shins (Chutes Too Narrow album)
+47. The Decemberists (The Crane Wife album)
+48. Death Cab for Cutie (Plans album)
+49. Interpol (Turn on the Bright Lights album)
+50. Bloc Party (Silent Alarm album)

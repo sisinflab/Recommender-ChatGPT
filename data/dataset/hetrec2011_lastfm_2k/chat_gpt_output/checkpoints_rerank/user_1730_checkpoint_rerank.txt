@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. DIR EN GREY
+2. Lady Gaga
+3. Michael Jackson
+4. Adele
+5. Sonic Syndicate
+6. Guano Apes
+7. The Killers
+8. Capsule
+9. Gloria
+10. Slipknot
+11. Alexisonfire
+12. Rihanna
+13. Maroon 5
+14. Frankmusik
+15. Skillet
+16. Katy Perry
+17. Sam Sparro
+18. AFI
+19. Goldfrapp
+20. Pitty
+21. Adam Lambert
+22. Marilyn Manson
+23. Rammstein
+24. Madonna
+25. Björk
+26. Cut Copy
+27. Escape The Fate
+28. The Ting Tings
+29. Christina Aguilera
+30. Robyn
+31. Britney Spears
+32. Depeche Mode
+33. Paramore
+34. Shakira
+35. Katy Perry
+36. Avril Lavigne
+37. Taylor Swift
+38. Evanescence
+39. Beyoncé
+40. U2
+41. 30 Seconds to Mars
+42. Muse
+43. Pink Floyd
+44. Kylie Minogue
+45. Miley Cyrus
+46. Radiohead
+47. Ke$ha
+48. Duran Duran
+49. Coldplay
+50. Blur

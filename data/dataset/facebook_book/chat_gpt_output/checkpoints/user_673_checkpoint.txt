@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Darkest Part of the Forest by Holly Black
+2. The Cruel Prince by Holly Black
+3. The Coldest Girl in Coldtown by Holly Black
+4. White Cat by Holly Black
+5. Red Glove by Holly Black
+6. Black Heart by Holly Black
+7. The Spiderwick Chronicles by Holly Black and Tony DiTerlizzi
+8. Roar by Cora Carmack
+9. The Hazel Wood by Melissa Albert
+10. The Night Circus by Erin Morgenstern
+11. The Bone Witch by Rin Chupeco
+12. The Girl Who Drank the Moon by Kelly Barnhill
+13. The Name of the Wind by Patrick Rothfuss
+14. The Wise Man's Fear by Patrick Rothfuss
+15. The Lies of Locke Lamora by Scott Lynch
+16. The Final Empire by Brandon Sanderson
+17. Mistborn: The Well of Ascension by Brandon Sanderson
+18. Mistborn: The Hero of Ages by Brandon Sanderson
+19. Warbreaker by Brandon Sanderson
+20. Elantris by Brandon Sanderson
+21. The Way of Kings by Brandon Sanderson
+22. Words of Radiance by Brandon Sanderson
+23. Oathbringer by Brandon Sanderson
+24. The Eye of the World by Robert Jordan
+25. The Great Hunt by Robert Jordan
+26. The Dragon Reborn by Robert Jordan
+27. The Shadow Rising by Robert Jordan
+28. The Fires of Heaven by Robert Jordan
+29. Lord of Chaos by Robert Jordan
+30. A Crown of Swords by Robert Jordan
+31. The Path of Daggers by Robert Jordan
+32. Winter's Heart by Robert Jordan
+33. Crossroads of Twilight by Robert Jordan
+34. Knife of Dreams by Robert Jordan
+35. The Gathering Storm by Robert Jordan and Brandon Sanderson
+36. Towers of Midnight by Robert Jordan and Brandon Sanderson
+37. A Memory of Light by Robert Jordan and Brandon Sanderson
+38. The Mortal Instruments series by Cassandra Clare
+39. The Infernal Devices series by Cassandra Clare
+40. The Dark Artifices series by Cassandra Clare
+41. The Hunger Games series by Suzanne Collins
+42. The Maze Runner series by James Dashner
+43. The Divergent series by Veronica Roth
+44. The Selection series by Kiera Cass
+45. The Lunar Chronicles series by Marissa Meyer
+46. The Grisha Trilogy by Leigh Bardugo
+47. Six of Crows by Leigh Bardugo
+48. Crooked Kingdom by Leigh Bardugo
+49. The Raven Cycle series by Maggie Stiefvater
+50. The Kingkiller Chronicle series by Patrick Rothfuss

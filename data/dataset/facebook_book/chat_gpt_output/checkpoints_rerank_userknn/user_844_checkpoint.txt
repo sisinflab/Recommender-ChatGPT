@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. Harry Potter by J.K. Rowling
+3. The Hobbit by J.R.R. Tolkien
+4. The Da Vinci Code by Dan Brown
+5. Angels & Demons by Dan Brown
+6. Romeo and Juliet by William Shakespeare
+7. The Chronicles of Narnia: The Lion, the Witch and the Wardrobe by C.S. Lewis
+8. The Count of Monte Cristo by Alexandre Dumas
+9. The Scarlet Pimpernel by Baroness Orczy
+10. The Jungle Book by Rudyard Kipling
+11. Alice's Adventures in Wonderland by Lewis Carroll
+12. The Hunchback of Notre-Dame by Victor Hugo
+13. The Merchant of Venice by William Shakespeare
+14. A Tale of Two Cities by Charles Dickens
+15. Oliver Twist by Charles Dickens
+16. The Sound and the Fury by William Faulkner
+17. The Choice by Nicholas Sparks
+18. The Winner Stands Alone by Paulo Coelho
+19. The Host by Stephenie Meyer
+20. The Vampire Chronicles by Anne Rice
+21. The Satanic Verses by Salman Rushdie
+22. The Queen of the Damned by Anne Rice
+23. The Mummy! by Jane Loudon
+24. The Kite Runner by Khaled Hosseini
+25. Winter Rose by Patricia A. McKillip
+26. The Famous Five by Enid Blyton
+27. The Story of My Experiments with Truth by Mahatma Gandhi
+28. The Hardy Boys by Franklin W. Dixon
+29. The Hamlet by William Faulkner
+30. The Lost Symbol by Dan Brown
+31. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+32. Deception Point by Dan Brown
+33. If Tomorrow Comes by Sidney Sheldon
+34. Macbeth by William Shakespeare
+35. Gulliver's Travels by Jonathan Swift
+36. Valiant: A Modern Tale of Faerie by Holly Black
+37. Fool by Christopher Moore
+38. Vampire Kisses by Ellen Schreiber
+39. As I Lay Dying by William Faulkner
+40. Fushigi Yûgi by Yuu Watase
+41. His Dark Materials by Philip Pullman
+42. Contagious by Scott Sigler
+43. Mills & Boon by Various Authors
+44. Memnoch the Devil by Anne Rice
+45. Eragon by Christopher Paolini
+46. Blood Canticle by Anne Rice
+47. One Night @ the Call Center by Chetan Bhagat
+48. Digital Fortress by Dan Brown
+49. Tuck Everlasting by Natalie Babbitt
+50. Inferno by Dante Alighieri

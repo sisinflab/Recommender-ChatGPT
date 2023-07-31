@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Bell Jar by Sylvia Plath
+2. The Picture of Dorian Gray by Oscar Wilde
+3. The Road by Cormac McCarthy
+4. The Sun Also Rises by Ernest Hemingway
+5. The Stranger by Albert Camus
+6. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+7. The Handmaid's Tale by Margaret Atwood
+8. 1984 by George Orwell
+9. Animal Farm by George Orwell
+10. Brave New World by Aldous Huxley
+11. One Hundred Years of Solitude by Gabriel Garcia Marquez
+12. Crime and Punishment by Fyodor Dostoevsky
+13. The Brothers Karamazov by Fyodor Dostoevsky
+14. Lolita by Vladimir Nabokov
+15. The Catcher in the Rye by J.D. Salinger
+16. To Kill a Mockingbird by Harper Lee
+17. The Great Gatsby by F. Scott Fitzgerald
+18. The Jungle Book by Rudyard Kipling
+19. The Virgin Suicides by Jeffrey Eugenides
+20. The Secret History by Donna Tartt
+21. The Goldfinch by Donna Tartt
+22. The Girl with the Dragon Tattoo by Stieg Larsson
+23. The Hunger Games by Suzanne Collins
+24. The Help by Kathryn Stockett
+25. The Kite Runner by Khaled Hosseini
+26. The Lovely Bones by Alice Sebold
+27. The Da Vinci Code by Dan Brown
+28. Angels and Demons by Dan Brown
+29. The Name of the Rose by Umberto Eco
+30. The Shadow of the Wind by Carlos Ruiz Zafón
+31. The Time Traveler's Wife by Audrey Niffenegger
+32. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+33. The Fault in Our Stars by John Green
+34. The Maze Runner by James Dashner
+35. The Hunger Games Trilogy Boxset by Suzanne Collins
+36. The Lord of the Rings by J.R.R. Tolkien
+37. The Hobbit by J.R.R. Tolkien
+38. The Chronicles of Narnia by C.S. Lewis
+39. The Dark Tower Series by Stephen King
+40. The Shining by Stephen King
+41. The Stand by Stephen King
+42. The Girl on the Train by Paula Hawkins
+43. Gone Girl by Gillian Flynn
+44. The Silence of the Lambs by Thomas Harris
+45. Red Dragon by Thomas Harris
+46. Hannibal by Thomas Harris
+47. The Bourne Identity by Robert Ludlum
+48. The Bourne Supremacy by Robert Ludlum
+49. The Bourne Ultimatum by Robert Ludlum
+50. The Girl Who Played with Fire by

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Lady Gaga
+2. Beyoncé
+3. Robyn
+4. Pet Shop Boys
+5. David Bowie
+6. Prince
+7. Janet Jackson
+8. Michael Jackson
+9. Cyndi Lauper
+10. Kate Bush
+11. Björk
+12. Florence + The Machine
+13. The Killers
+14. Radiohead
+15. The Smiths
+16. Joy Division
+17. New Order
+18. The Cure
+19. Siouxsie and the Banshees
+20. Talking Heads
+21. Duran Duran
+22. Tears for Fears
+23. A-ha
+24. Erasure
+25. Yazoo
+26. Soft Cell
+27. Bronski Beat
+28. Frankie Goes to Hollywood
+29. Eurythmics
+30. Annie Lennox
+31. George Michael
+32. Wham!
+33. Madonna & Justin Timberlake
+34. Blondie & Iggy Pop
+35. Rufus Wainwright & Antony and the Johnsons
+36. The Presets & Kim Moyes
+37. Röyksopp & Robyn
+38. Kylie Minogue & Nick Cave
+39. MGMT & Ratatat
+40. Dolly Parton & Kenny Rogers
+41. ABBA & Agnetha Fältskog
+42. Arcade Fire & David Bowie
+43. The National & Sufjan Stevens
+44. Mika & Imogen Heap
+45. The Dandy Warhols & Brian Jonestown Massacre
+46. Whitney Houston & Mariah Carey
+47. Infected Mushroom & Astrix
+48. Nouvelle Vague & Camille
+49. Donna Summer & Giorgio Moroder
+50. Massive Attack & Tricky

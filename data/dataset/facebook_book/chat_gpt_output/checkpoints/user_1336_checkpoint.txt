@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Sight by David Clement-Davies
+2. The Last Unicorn by Peter S. Beagle
+3. Watership Down by Richard Adams
+4. The Hobbit by J.R.R. Tolkien
+5. The Lord of the Rings by J.R.R. Tolkien
+6. The Chronicles of Narnia by C.S. Lewis
+7. The Dark Tower series by Stephen King
+8. The Hunger Games by Suzanne Collins
+9. Eragon by Christopher Paolini
+10. The Name of the Wind by Patrick Rothfuss
+11. The Wheel of Time series by Robert Jordan
+12. The Dresden Files series by Jim Butcher
+13. The Mistborn series by Brandon Sanderson
+14. The Stormlight Archive series by Brandon Sanderson
+15. The Kingkiller Chronicle series by Patrick Rothfuss
+16. The Earthsea series by Ursula K. Le Guin
+17. The Belgariad series by David Eddings
+18. The Malazan Book of the Fallen series by Steven Erikson
+19. The First Law trilogy by Joe Abercrombie
+20. The Lies of Locke Lamora by Scott Lynch
+21. The Blade Itself by Joe Abercrombie
+22. The Black Company series by Glen Cook
+23. The Farseer Trilogy by Robin Hobb
+24. The Liveship Traders Trilogy by Robin Hobb
+25. The Tawny Man Trilogy by Robin Hobb
+26. The Lightbringer series by Brent Weeks
+27. The Night Angel Trilogy by Brent Weeks
+28. The Broken Empire Trilogy by Mark Lawrence
+29. The Red Queen's War Trilogy by Mark Lawrence
+30. The Powder Mage Trilogy by Brian McClellan
+31. The Shadow Campaigns series by Django Wexler
+32. The Riyria Revelations series by Michael J. Sullivan
+33. The Riyria Chronicles series by Michael J. Sullivan
+34. The Gentleman Bastard series by Scott Lynch
+35. The Black Prism by Brent Weeks
+36. The Way of Kings by Brandon Sanderson
+37. Mistborn: The Final Empire by Brandon Sanderson
+38. The Alloy of Law by Brandon Sanderson
+39. The Emperor's Soul by Brandon Sanderson
+40. The Rithmatist by Brandon Sanderson
+41. The Reckoners series by Brandon Sanderson
+42. The Magicians by Lev Grossman
+43. American Gods by Neil Gaiman
+44. Neverwhere by Neil Gaiman
+45. Stardust by Neil Gaiman
+46. Good Omens by Neil Gaiman and Terry Pratchett
+47. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+48. The Martian by Andy Weir
+49. Ready Player One by Ernest Cline
+50. The Girl with

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Great Gatsby by F. Scott Fitzgerald
+4. Pride and Prejudice by Jane Austen
+5. The Hobbit by J.R.R. Tolkien
+6. The Lord of the Rings by J.R.R. Tolkien
+7. Animal Farm by George Orwell
+8. The Chronicles of Narnia by C.S. Lewis
+9. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+10. The Picture of Dorian Gray by Oscar Wilde
+11. The Secret Garden by Frances Hodgson Burnett
+12. The Little Prince by Antoine de Saint-Exupéry
+13. The Alchemist by Paulo Coelho
+14. The Count of Monte Cristo by Alexandre Dumas
+15. Les Misérables by Victor Hugo
+16. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+17. The Diary of a Young Girl by Anne Frank
+18. The Hunger Games by Suzanne Collins
+19. The Book Thief by Markus Zusak
+20. The Kite Runner by Khaled Hosseini
+21. The Catch-22 by Joseph Heller
+22. The Bell Jar by Sylvia Plath
+23. The Color Purple by Alice Walker
+24. The Handmaid's Tale by Margaret Atwood
+25. The Road by Cormac McCarthy
+26. The Grapes of Wrath by John Steinbeck
+27. One Hundred Years of Solitude by Gabriel García Márquez
+28. The Stranger by Albert Camus
+29. The Sun Also Rises by Ernest Hemingway
+30. The Old Man and the Sea by Ernest Hemingway
+31. The Picture of Dorian Gray by Oscar Wilde
+32. The Scarlet Letter by Nathaniel Hawthorne
+33. The Sound and the Fury by William Faulkner
+34. The Brothers Karamazov by Fyodor Dostoevsky
+35. Crime and Punishment by Fyodor Dostoevsky
+36. Anna Karenina by Leo Tolstoy
+37. War and Peace by Leo Tolstoy
+38. Heart of Darkness by Joseph Conrad
+39. Moby-Dick by Herman Melville
+40. Frankenstein by Mary Shelley
+41. Dracula by Bram Stoker
+42. Wuthering Heights by Emily Bronte
+43. Jane Eyre by Charlotte Bronte
+44. Sense and Sensibility by Jane Austen
+45. Emma by Jane Austen
+46. Persuasion by Jane Austen
+47. Northanger Abbey by Jane Austen
+48. Mansfield Park by Jane Austen
+49. The Adventures of Huckleberry Finn by Mark Twain
+50. The Prince by Niccolò Machiavelli

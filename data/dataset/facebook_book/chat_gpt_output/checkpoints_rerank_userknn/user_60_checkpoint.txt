@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. The Hobbit by J.R.R. Tolkien
+3. Wuthering Heights by Emily Bronte
+4. Pride and Prejudice by Jane Austen
+5. The Count of Monte Cristo by Alexandre Dumas
+6. Dracula by Bram Stoker
+7. Nineteen Eighty-Four by George Orwell
+8. Fahrenheit 451 by Ray Bradbury
+9. The Da Vinci Code by Dan Brown
+10. Angels & Demons by Dan Brown
+11. Othello by William Shakespeare
+12. Macbeth by William Shakespeare
+13. Antony and Cleopatra by William Shakespeare
+14. The Tempest by William Shakespeare
+15. Medea by Euripides
+16. Antigone by Sophocles
+17. The Iliad by Homer
+18. The Jungle Book by Rudyard Kipling
+19. The Stinky Cheese Man and Other Fairly Stupid Tales by Jon Scieszka
+20. The Little Prince by Antoine de Saint-Exupéry
+21. The Solitaire Mystery by Jostein Gaarder
+22. Sophie's World by Jostein Gaarder
+23. The Winner Stands Alone by Paulo Coelho
+24. Kingdom of Fear by Hunter S. Thompson
+25. Factotum by Charles Bukowski
+26. The Rum Diary by Hunter S. Thompson
+27. In the Line of Fire: A Memoir by Pervez Musharraf
+28. The Story of My Experiments with Truth by Mahatma Gandhi
+29. Love & Respect by Emerson Eggerichs
+30. Be Here Now by Ram Dass
+31. The Doors of Perception by Aldous Huxley
+32. The Satanic Verses by Salman Rushdie
+33. Left Behind by Tim LaHaye and Jerry B. Jenkins
+34. The Vampire Diaries by L.J. Smith
+35. Northern Lights by Philip Pullman
+36. The City of Ember by Jeanne DuPrau
+37. Bridge to Terabithia by Katherine Paterson
+38. The Watchmen by Alan Moore and Dave Gibbons
+39. Watchmen by Zack Snyder
+40. Franny and Zooey by J.D. Salinger
+41. A Midsummer Night's Dream by William Shakespeare
+42. Alice's Adventures in Wonderland by Lewis Carroll
+43. Peter and Wendy by J.M. Barrie
+44. The Last Storytellers: Tales from the Heart of Morocco by Richard Hamilton
+45. The Masque of the Red Death by Edgar Allan Poe
+46. The Cask of Amontillado by Edgar Allan Poe
+47. The Pit and the Pendulum by Edgar Allan Poe
+48. Jabberwocky by Lewis Carroll
+49. Ph

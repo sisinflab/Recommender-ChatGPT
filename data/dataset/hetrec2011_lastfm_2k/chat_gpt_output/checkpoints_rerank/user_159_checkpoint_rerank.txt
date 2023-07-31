@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Alanis Morissette
+2. Natalie Imbruglia
+3. Darren Hayes
+4. P!nk
+5. Nelly Furtado
+6. Thalía
+7. Sugababes
+8. Röyksopp
+9. Alicia Keys
+10. Linkin Park
+11. Mylène Farmer
+12. Hurts
+13. Blue October
+14. Poets of the Fall
+15. Anastacia
+16. Robbie Williams
+17. Christina Aguilera
+18. HIM
+19. Jennifer Lopez
+20. Rihanna
+21. Travis
+22. Moby
+23. Michelle Williams
+24. Toni Braxton
+25. Céline Dion
+26. Leona Lewis
+27. Depeche Mode
+28. U2
+29. Ellie Goulding
+30. Sarah Connor
+31. Lifehouse
+32. Red Hot Chili Peppers
+33. Coldplay
+34. Britney Spears
+35. Madonna
+36. Lady Gaga
+37. Beyoncé
+38. Katy Perry
+39. Taylor Swift
+40. Evanescence
+41. Glee Cast
+42. 30 Seconds to Mars
+43. Muse
+44. Pink Floyd
+45. Kylie Minogue
+46. Miley Cyrus
+47. Radiohead
+48. Ke$ha
+49. Duran Duran
+50. Shakira

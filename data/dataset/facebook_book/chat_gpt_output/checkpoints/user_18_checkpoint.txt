@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. City of Bones by Cassandra Clare
+2. The Hunger Games by Suzanne Collins
+3. Divergent by Veronica Roth
+4. The Fault in Our Stars by John Green
+5. The Mortal Instruments series by Cassandra Clare
+6. The Maze Runner by James Dashner
+7. The Infernal Devices series by Cassandra Clare
+8. The Twilight Saga by Stephenie Meyer
+9. The Selection by Kiera Cass
+10. The Vampire Diaries series by L.J. Smith
+11. The Host by Stephenie Meyer
+12. The Chemical Garden Trilogy by Lauren DeStefano
+13. The Darkest Minds by Alexandra Bracken
+14. The Lunar Chronicles by Marissa Meyer
+15. The Giver by Lois Lowry
+16. The Uglies series by Scott Westerfeld
+17. The 5th Wave by Rick Yancey
+18. The Iron Fey series by Julie Kagawa
+19. The Lux series by Jennifer L. Armentrout
+20. The Raven Boys by Maggie Stiefvater
+21. The Selection series by Kiera Cass
+22. The Hunger Games trilogy by Suzanne Collins
+23. The Maze Runner series by James Dashner
+24. The Infernal Devices trilogy by Cassandra Clare
+25. The Mortal Instruments series by Cassandra Clare
+26. The Fault in Our Stars by John Green
+27. The Vampire Academy series by Richelle Mead
+28. The Bloodlines series by Richelle Mead
+29. The Hush, Hush series by Becca Fitzpatrick
+30. The Maximum Ride series by James Patterson
+31. The Gone series by Michael Grant
+32. The Percy Jackson and the Olympians series by Rick Riordan
+33. The Heroes of Olympus series by Rick Riordan
+34. The Kane Chronicles series by Rick Riordan
+35. The Secrets of the Immortal Nicholas Flamel series by Michael Scott
+36. The Dark Divine series by Bree Despain
+37. The Wolves of Mercy Falls series by Maggie Stiefvater
+38. The Shiver series by Maggie Stiefvater
+39. The Beautiful Creatures series by Kami Garcia and Margaret Stohl
+40. The House of Night series by P.C. Cast and Kristin Cast
+41. The Vampire Chronicles series by Anne Rice
+42. The Sookie Stackhouse series by Charlaine Harris
+43. The Anita Blake: Vampire Hunter series by Laurell K. Hamilton
+44. The Southern Vampire Mysteries series by Charlaine Harris
+45. The Black Dagger Brotherhood series by J.R. Ward
+46. The Night Huntress series by Jeaniene Frost
+47. The Mercy Thompson series by Patricia Briggs
+48. The Alpha and Omega series by Patricia Briggs
+49. The Kate Daniels series by Ilona Andrews
+50. The Fever series by Karen Marie Mon

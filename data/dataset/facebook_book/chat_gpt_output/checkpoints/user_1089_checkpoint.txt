@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. Fahrenheit 451 by Ray Bradbury
+5. The Great Gatsby by F. Scott Fitzgerald
+6. To Kill a Mockingbird by Harper Lee
+7. Lord of the Flies by William Golding
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Bell Jar by Sylvia Plath
+10. One Hundred Years of Solitude by Gabriel Garcia Marquez
+11. The Road by Cormac McCarthy
+12. The Stranger by Albert Camus
+13. Crime and Punishment by Fyodor Dostoevsky
+14. The Brothers Karamazov by Fyodor Dostoevsky
+15. The Trial by Franz Kafka
+16. The Metamorphosis by Franz Kafka
+17. Heart of Darkness by Joseph Conrad
+18. The Sun Also Rises by Ernest Hemingway
+19. For Whom the Bell Tolls by Ernest Hemingway
+20. The Old Man and the Sea by Ernest Hemingway
+21. The Sound of Waves by Yukio Mishima
+22. The Wind-Up Bird Chronicle by Haruki Murakami
+23. Kafka on the Shore by Haruki Murakami
+24. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+25. The Martian by Andy Weir
+26. The Hunger Games by Suzanne Collins
+27. Catching Fire by Suzanne Collins
+28. Mockingjay by Suzanne Collins
+29. The Maze Runner by James Dashner
+30. The Scorch Trials by James Dashner
+31. The Death Cure by James Dashner
+32. The Girl with the Dragon Tattoo by Stieg Larsson
+33. The Girl Who Played with Fire by Stieg Larsson
+34. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+35. The Da Vinci Code by Dan Brown
+36. Angels and Demons by Dan Brown
+37. Inferno by Dan Brown
+38. The Name of the Wind by Patrick Rothfuss
+39. The Wise Man's Fear by Patrick Rothfuss
+40. The Way of Kings by Brandon Sanderson
+41. Mistborn: The Final Empire by Brandon Sanderson
+42. The Eye of the World by Robert Jordan
+43. The Fellowship of the Ring by J.R.R. Tolkien
+44. The Two Towers by J.R.R. Tolkien
+45. The Return of the King by J.R.R. Tolkien
+46. The Chronicles of Narnia by C.S. Lewis
+47. The Dark Tower: The Gunslinger by Stephen King
+48. The Stand by Stephen King
+49. It by Stephen King
+50. The Shining by Stephen King

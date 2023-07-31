@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Dracula by Bram Stoker
+2. Alice's Adventures in Wonderland by Lewis Carroll
+3. The Picture of Dorian Gray by Oscar Wilde
+4. Interview with the Vampire by Anne Rice
+5. Frankenstein by Mary Shelley
+6. Nineteen Eighty-Four by George Orwell
+7. Crime and Punishment by Fyodor Dostoevsky
+8. The Hunchback of Notre-Dame by Victor Hugo
+9. The Island of Doctor Moreau by H.G. Wells
+10. The Glass Bead Game by Hermann Hesse
+11. Divine Comedy by Dante Alighieri
+12. Jurassic Park by Michael Crichton
+13. The Mists of Avalon by Marion Zimmer Bradley
+14. The Hamlet by William Faulkner
+15. Lord of the Flies by William Golding
+16. Inferno by Dante Alighieri
+17. Vanity Fair by William Makepeace Thackeray
+18. Adventures of Huckleberry Finn by Mark Twain
+19. The True Believer by Eric Hoffer
+20. The House of the Spirits by Isabel Allende
+21. The Perks of Being a Wallflower by Stephen Chbosky
+22. Memoirs of a Geisha by Arthur Golden
+23. Lolita by Vladimir Nabokov
+24. Slaughterhouse-Five by Kurt Vonnegut
+25. The Catcher in the Rye by J.D. Salinger
+26. The Bell Jar by Sylvia Plath
+27. The Great Gatsby by F. Scott Fitzgerald
+28. To Kill a Mockingbird by Harper Lee
+29. The Lord of the Rings by J.R.R. Tolkien
+30. Harry Potter series by J.K. Rowling
+31. The Hunger Games series by Suzanne Collins
+32. Twilight series by Stephenie Meyer
+33. Beauty Pop by Kiyoko Arai
+34. Chibi Vampire by Yuna Kagesaki
+35. Black Butler by Yana Toboso
+36. Evernight by Claudia Gray
+37. Weetzie Bat by Francesca Lia Block
+38. Stargirl by Jerry Spinelli
+39. The Portrait of a Lady by Henry James
+40. Jane Eyre by Charlotte Bronte
+41. The Scarlet Letter by Nathaniel Hawthorne
+42. A Clockwork Orange by Anthony Burgess
+43. Steppenwolf by Hermann Hesse
+44. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+45. The Alchemist by Paulo Coelho
+46. The Da Vinci Code by Dan Brown
+47. Angels & Demons by Dan Brown
+48. Inferno by Dan Brown
+49. The Bible
+50. The Old Farmer's Almanac

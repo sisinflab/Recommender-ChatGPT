@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. 1984 by George Orwell
+5. Pride and Prejudice by Jane Austen
+6. The Lord of the Rings by J.R.R. Tolkien
+7. The Hobbit by J.R.R. Tolkien
+8. The Da Vinci Code by Dan Brown
+9. The Girl with the Dragon Tattoo by Stieg Larsson
+10. The Help by Kathryn Stockett
+11. The Fault in Our Stars by John Green
+12. The Alchemist by Paulo Coelho
+13. The Chronicles of Narnia by C.S. Lewis
+14. The Picture of Dorian Gray by Oscar Wilde
+15. The Great Gatsby by F. Scott Fitzgerald
+16. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+17. The Secret Garden by Frances Hodgson Burnett
+18. The Time Traveler's Wife by Audrey Niffenegger
+19. The Book Thief by Markus Zusak
+20. The Lovely Bones by Alice Sebold
+21. The Road by Cormac McCarthy
+22. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+23. The Giver by Lois Lowry
+24. The Maze Runner by James Dashner
+25. The Perks of Being a Wallflower by Stephen Chbosky
+26. The Outsiders by S.E. Hinton
+27. The Fault in Our Stars by John Green
+28. The Help by Kathryn Stockett
+29. The Girl on the Train by Paula Hawkins
+30. The Nightingale by Kristin Hannah
+31. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+32. The Handmaid's Tale by Margaret Atwood
+33. The Stand by Stephen King
+34. The Shining by Stephen King
+35. The Silence of the Lambs by Thomas Harris
+36. The God of Small Things by Arundhati Roy
+37. The Color Purple by Alice Walker
+38. The Joy Luck Club by Amy Tan
+39. The House on Mango Street by Sandra Cisneros
+40. The Brief Wondrous Life of Oscar Wao by Junot Diaz
+41. The Namesake by Jhumpa Lahiri
+42. The Interpreter of Maladies by Jhumpa Lahiri
+43. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+44. The Road to Serfdom by Friedrich Hayek
+45. The Wealth of Nations by Adam Smith
+46. The Communist Manifesto by Karl Marx and Friedrich Engels
+47. The Republic by Plato
+48. The Prince by Niccolo Machiavelli
+49. The Art of War by Sun T

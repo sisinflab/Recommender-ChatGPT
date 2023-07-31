@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Frostbite (novel) by Richelle Mead
+2. City of Bones (novel) by Cassandra Clare
+3. Hush, Hush (novel) by Becca Fitzpatrick
+4. The Hunger Games (novel) by Suzanne Collins
+5. Twilight (novel) by Stephenie Meyer
+6. The Mortal Instruments series by Cassandra Clare
+7. The Infernal Devices series by Cassandra Clare
+8. The Twilight Saga series by Stephenie Meyer
+9. The Vampire Diaries series by L.J. Smith
+10. The Dark Tower series by Stephen King
+11. The Shining (novel) by Stephen King
+12. The Stand (novel) by Stephen King
+13. The Outsiders (novel) by S.E. Hinton
+14. The Fault in Our Stars (novel) by John Green
+15. Divergent (novel) by Veronica Roth
+16. Insurgent (novel) by Veronica Roth
+17. Allegiant (novel) by Veronica Roth
+18. The Maze Runner (novel) by James Dashner
+19. The Scorch Trials (novel) by James Dashner
+20. The Death Cure (novel) by James Dashner
+21. The Giver (novel) by Lois Lowry
+22. Gathering Blue (novel) by Lois Lowry
+23. Messenger (novel) by Lois Lowry
+24. Son (novel) by Lois Lowry
+25. The Hunger Games Trilogy Boxset by Suzanne Collins
+26. The Twilight Saga Collection Boxset by Stephenie Meyer
+27. The Vampire Diaries Collection Boxset by L.J. Smith
+28. The Dark Tower Boxset by Stephen King
+29. The Shining and Doctor Sleep Boxset by Stephen King
+30. The Outsiders and That Was Then, This Is Now Boxset by S.E. Hinton
+31. The Fault in Our Stars and Looking for Alaska Boxset by John Green
+32. Divergent Trilogy Boxset by Veronica Roth
+33. The Maze Runner Series Boxset by James Dashner
+34. The Giver Quartet Boxset by Lois Lowry
+35. The Hunger Games and Divergent Boxset by Suzanne Collins and Veronica Roth
+36. The Twilight Saga and The Mortal Instruments Boxset by Stephenie Meyer and Cassandra Clare
+37. The Dark Tower and The Shining Boxset by Stephen King
+38. The Outsiders and The Fault in Our Stars Boxset by S.E. Hinton and John Green
+39. The Maze Runner and The Giver Boxset by James Dashner and Lois Lowry
+40. The Hunger Games and The Maze Runner Boxset by Suzanne Collins and James Dashner
+41. The Twilight Saga and The Vampire Diaries Boxset by Stephen
+42. The Plains of Passage by Jean M. Auel
+43. The Shelters of Stone by Jean M. Auel
+44. The Land of Painted Caves by Jean M. Auel
+45. The Wind in the Willows by Kenneth Grahame
+46. Nine Stories by J.D. Salinger
+47. The Bell Jar by Sylvia Plath
+48. The Wise Man's Fear by Patrick Rothfuss
+49. The Bell Jar by Sylvia Plath
+50. The Wise Man's Fear by Patrick Rothfuss

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Fight Club by Chuck Palahniuk
+2. Breakfast of Champions by Kurt Vonnegut
+3. American Psycho by Bret Easton Ellis
+4. The Bell Jar by Sylvia Plath
+5. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+6. The Catcher in the Rye by J.D. Salinger
+7. The Picture of Dorian Gray by Oscar Wilde
+8. The Road by Cormac McCarthy
+9. The Stranger by Albert Camus
+10. The Great Gatsby by F. Scott Fitzgerald
+11. One Hundred Years of Solitude by Gabriel Garcia Marquez
+12. The Handmaid's Tale by Margaret Atwood
+13. The Shining by Stephen King
+14. The Sun Also Rises by Ernest Hemingway
+15. The Stand by Stephen King
+16. The Brothers Karamazov by Fyodor Dostoevsky
+17. The Trial by Franz Kafka
+18. The Name of the Wind by Patrick Rothfuss
+19. The Girl with the Dragon Tattoo by Stieg Larsson
+20. The Dark Tower series by Stephen King
+21. The Hitchhiker's Guide to the Galaxy series by Douglas Adams
+22. The Lord of the Rings series by J.R.R. Tolkien
+23. The Hobbit by J.R.R. Tolkien
+24. The Chronicles of Narnia series by C.S. Lewis
+25. The Hunger Games series by Suzanne Collins
+26. The Maze Runner series by James Dashner
+27. The Giver by Lois Lowry
+28. The Outsiders by S.E. Hinton
+29. The Fault in Our Stars by John Green
+30. The Perks of Being a Wallflower by Stephen Chbosky
+31. The Lovely Bones by Alice Sebold
+32. The Help by Kathryn Stockett
+33. The Color Purple by Alice Walker
+34. The Joy Luck Club by Amy Tan
+35. The Kite Runner by Khaled Hosseini
+36. The Alchemist by Paulo Coelho
+37. The Picture of Dorian Gray by Oscar Wilde
+38. The Count of Monte Cristo by Alexandre Dumas
+39. The Three Musketeers by Alexandre Dumas
+40. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+41. The Hound of the Baskervilles by Arthur Conan Doyle
+42. The Da Vinci Code by Dan Brown
+43. Angels and Demons by Dan Brown
+44. The Girl on the Train by Paula Hawkins
+45. Gone Girl by Gillian Flynn
+46. The Silence of the Lambs by Thomas Harris
+47. Red Dragon by Thomas Harris
+48. Hannibal by Thomas Harris
+49. The Bourne Identity by Robert Ludlum
+50. The Bourne Supremacy by Robert Ludlum

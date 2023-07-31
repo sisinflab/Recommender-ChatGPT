@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. To Kill a Mockingbird by Harper Lee
+3. 1984 by George Orwell
+4. Animal Farm by George Orwell
+5. The Great Gatsby by F. Scott Fitzgerald
+6. One Hundred Years of Solitude by Gabriel Garcia Marquez
+7. Brave New World by Aldous Huxley
+8. The Hobbit by J.R.R. Tolkien
+9. The Fellowship of the Ring by J.R.R. Tolkien
+10. The Two Towers by J.R.R. Tolkien
+11. The Return of the King by J.R.R. Tolkien
+12. The Chronicles of Narnia by C.S. Lewis
+13. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+14. The Picture of Dorian Gray by Oscar Wilde
+15. The Bell Jar by Sylvia Plath
+16. The Sun Also Rises by Ernest Hemingway
+17. A Moveable Feast by Ernest Hemingway
+18. The Old Man and the Sea by Ernest Hemingway
+19. The Sound and the Fury by William Faulkner
+20. Absalom, Absalom! by William Faulkner
+21. The Crying of Lot 49 by Thomas Pynchon
+22. Gravity's Rainbow by Thomas Pynchon
+23. The Stranger by Albert Camus
+24. The Plague by Albert Camus
+25. Crime and Punishment by Fyodor Dostoevsky
+26. The Brothers Karamazov by Fyodor Dostoevsky
+27. The Idiot by Fyodor Dostoevsky
+28. The Trial by Franz Kafka
+29. The Metamorphosis by Franz Kafka
+30. Heart of Darkness by Joseph Conrad
+31. Lord Jim by Joseph Conrad
+32. The Secret Agent by Joseph Conrad
+33. The Count of Monte Cristo by Alexandre Dumas
+34. Les Miserables by Victor Hugo
+35. The Three Musketeers by Alexandre Dumas
+36. The War of the Worlds by H.G. Wells
+37. The Time Machine by H.G. Wells
+38. The Invisible Man by H.G. Wells
+39. The Island of Dr. Moreau by H.G. Wells
+40. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+41. The Hound of the Baskervilles by Arthur Conan Doyle
+42. The Sign of Four by Arthur Conan Doyle
+43. The Valley of Fear by Arthur Conan Doyle
+44. The Adventures of Tom Sawyer by Mark Twain
+45. The Adventures of Huckleberry Finn by Mark Twain
+46. The Prince by Niccolo Machiavelli
+47. The Art of War by Sun Tzu
+48. The Republic by Plato
+49. Lord Jim by Joseph Conrad
+50. Moby-Dick by Herman Melville

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Cat's Cradle by Kurt Vonnegut
+2. The Picture of Dorian Gray by Oscar Wilde
+3. The Stranger by Albert Camus
+4. Brave New World by Aldous Huxley
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Catch-22 by Joseph Heller
+7. The Hunger Games by Suzanne Collins
+8. To Kill a Mockingbird by Harper Lee
+9. Lord of the Flies by William Golding
+10. Frankenstein by Mary Shelley
+11. Lolita by Vladimir Nabokov
+12. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+13. Harry Potter by J.K. Rowling
+14. The Giver by Lois Lowry
+15. Memoirs of a Geisha by Arthur Golden
+16. Atonement by Ian McEwan
+17. White Noise by Don DeLillo
+18. The Perks of Being a Wallflower by Stephen Chbosky
+19. The Da Vinci Code by Dan Brown
+20. The Trial by Franz Kafka
+21. The Vampire Lestat by Anne Rice
+22. The Hatchet by Gary Paulsen
+23. The Walking Dead by Robert Kirkman
+24. The Watchmen by Alan Moore
+25. Ender's Game by Orson Scott Card
+26. Thirteen Reasons Why by Jay Asher
+27. The Celestine Prophecy by James Redfield
+28. Cosmos by Carl Sagan
+29. Geek Love by Katherine Dunn
+30. The Sirens of Titan by Kurt Vonnegut
+31. The Fountainhead by Ayn Rand
+32. Pyramids by Terry Pratchett
+33. Of Mice and Men by John Steinbeck
+34. The Cay by Theodore Taylor
+35. The Adventures of Tom Sawyer by Mark Twain
+36. The Prince by Niccolo Machiavelli
+37. Ferdydurke by Witold Gombrowicz
+38. The Colour of Magic by Terry Pratchett
+39. Running with Scissors by Augusten Burroughs
+40. Iliad by Homer
+41. Jane Eyre by Charlotte Bronte
+42. A Farewell to Arms by Ernest Hemingway
+43. Girl, Interrupted by Susanna Kaysen
+44. Rant by Chuck Palahniuk
+45. The Zombie Survival Guide by Max Brooks
+46. Nineteen Eighty-Four by George Orwell
+47. Haunted by Chuck Palahniuk
+48. Choke by Chuck Palahniuk
+49. The Long Hard Road Out of Hell by Marilyn Manson and Neil Strauss
+50. Pride and Prejudice and Zombies by Seth Grahame-Smith

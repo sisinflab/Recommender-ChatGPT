@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. My Chemical Romance
+2. Evanescence
+3. Paramore
+4. Green Day
+5. The Used
+6. Slipknot
+7. Flyleaf
+8. Cobra Starship
+9. Hollywood Undead
+10. Jeffree Star
+11. A Day to Remember
+12. BrokeNCYDE
+13. Owl City
+14. 3OH!3
+15. Alesana
+16. Breathe Carolina
+17. Marilyn Manson
+18. Within Temptation
+19. Metro Station
+20. Hellogoodbye
+21. Porcelain and the Tramps
+22. Ke$ha
+23. Hawthorne Heights
+24. Panic! At the Disco
+25. A Fine Frenzy
+26. Pierce the Veil
+27. Lily Allen
+28. Linkin Park
+29. The Pretty Reckless
+30. The Hush Sound
+31. Eyes Set to Kill
+32. Black Veil Brides
+33. nevershoutnever!
+34. Muse
+35. Pink Floyd
+36. Nirvana
+37. Iron Maiden
+38. Led Zeppelin
+39. Metallica
+40. Michael Jackson
+41. Pearl Jam
+42. System of a Down
+43. Nine Inch Nails
+44. All Time Low
+45. Avenged Sevenfold
+46. The Cure
+47. Depeche Mode
+48. Lady Gaga
+49. Christina Aguilera
+50. Madonna

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Britney Spears
+2. Madonna
+3. Katy Perry
+4. Beyoncé
+5. Pink
+6. Mariah Carey
+7. Jennifer Lopez
+8. Gwen Stefani
+9. Kelly Clarkson
+10. Ariana Grande
+11. Demi Lovato
+12. Selena Gomez
+13. Taylor Swift
+14. Miley Cyrus
+15. Justin Bieber
+16. One Direction
+17. Backstreet Boys
+18. *NSYNC
+19. Spice Girls
+20. Destiny's Child
+21. TLC
+22. Janet Jackson
+23. Whitney Houston
+24. Celine Dion
+25. Adele
+26. Ed Sheeran
+27. Sam Smith
+28. Shawn Mendes
+29. Justin Timberlake (solo work)
+30. Christina Aguilera (recent work)
+31. Lady Gaga (recent work)
+32. Kesha (recent work)
+33. Avril Lavigne (recent work)
+34. Rihanna (recent work)
+35. Shakira (recent work)
+36. Kylie Minogue (recent work)
+37. Duffy (recent work)
+38. Amy Winehouse
+39. Florence + The Machine
+40. Lana Del Rey
+41. Hozier
+42. Imagine Dragons
+43. The Killers
+44. Coldplay
+45. U2
+46. Bruce Springsteen
+47. Bon Jovi
+48. Guns N' Roses
+49. Metallica
+50. Nirvana

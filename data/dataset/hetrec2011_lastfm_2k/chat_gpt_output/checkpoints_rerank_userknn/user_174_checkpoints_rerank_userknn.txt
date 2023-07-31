@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Pearl Jam
+2. The Beatles
+3. U2
+4. Red Hot Chili Peppers
+5. Foo Fighters
+6. Coldplay
+7. Muse
+8. The Killers
+9. Dave Matthews Band
+10. Lynyrd Skynyrd
+11. Eric Clapton
+12. Jimi Hendrix
+13. Beck
+14. James Blunt
+15. The Doors
+16. Garth Brooks
+17. Elvis Presley
+18. Sarah McLachlan
+19. Third Eye Blind
+20. Journey
+21. Kings of Leon
+22. Death Cab for Cutie
+23. Vampire Weekend
+24. Belle and Sebastian
+25. Modest Mouse
+26. KT Tunstall
+27. Ryan Adams
+28. Eddie Vedder
+29. Jason Mraz
+30. She & Him
+31. Zero 7
+32. Imogen Heap
+33. Florence + the Machine
+34. Social Distortion
+35. The Fray
+36. Goo Goo Dolls
+37. Augustana
+38. Boys Like Girls
+39. Yellowcard
+40. Savage Garden
+41. OK Go
+42. Dixie Chicks
+43. Jewel
+44. Michael Bublé
+45. Kings of Convenience
+46. Nas
+47. Common
+48. J Dilla
+49. Kid Cudi
+50. De La Soul

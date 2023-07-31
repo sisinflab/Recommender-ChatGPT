@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Jimi Hendrix Experience
+2. Mystery Jets
+3. We Are Scientists
+4. Bombay Bicycle Club
+5. The Beatles
+6. The Pains of Being Pure at Heart
+7. Simon & Garfunkel
+8. Tegan and Sara
+9. White Lies
+10. Arctic Monkeys
+11. Cream
+12. Jefferson Airplane
+13. The Rakes
+14. Yeah Yeah Yeahs
+15. Bloc Party
+16. Stevie Wonder
+17. The Rolling Stones
+18. Belle and Sebastian
+19. The Strokes
+20. The Animals
+21. 311
+22. Pink Floyd
+23. Muse
+24. Radiohead
+25. Nirvana
+26. Led Zeppelin
+27. Metallica
+28. Iron Maiden
+29. Pearl Jam
+30. Duran Duran
+31. Coldplay
+32. Blur
+33. Placebo
+34. The Killers
+35. U2
+36. Michael Jackson
+37. Madonna
+38. Beyoncé
+39. Lady Gaga
+40. Rihanna
+41. Shakira
+42. Katy Perry
+43. Christina Aguilera
+44. Ke$ha
+45. Amy Winehouse
+46. Björk
+47. Daft Punk
+48. Nine Inch Nails
+49. Linkin Park
+50. Green Day

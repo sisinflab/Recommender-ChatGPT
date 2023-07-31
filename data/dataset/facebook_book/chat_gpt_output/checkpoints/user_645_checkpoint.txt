@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. Fahrenheit 451 by Ray Bradbury
+4. Animal Farm by George Orwell
+5. The Catcher in the Rye by J.D. Salinger
+6. To Kill a Mockingbird by Harper Lee
+7. Lord of the Flies by William Golding
+8. The Giver by Lois Lowry
+9. The Hunger Games by Suzanne Collins
+10. Divergent by Veronica Roth
+11. The Maze Runner by James Dashner
+12. The Road by Cormac McCarthy
+13. The Girl with the Dragon Tattoo by Stieg Larsson
+14. The Da Vinci Code by Dan Brown
+15. The Girl on the Train by Paula Hawkins
+16. Gone Girl by Gillian Flynn
+17. The Lovely Bones by Alice Sebold
+18. The Help by Kathryn Stockett
+19. The Fault in Our Stars by John Green
+20. Looking for Alaska by John Green
+21. Paper Towns by John Green
+22. The Perks of Being a Wallflower by Stephen Chbosky
+23. The Bell Jar by Sylvia Plath
+24. One Hundred Years of Solitude by Gabriel Garcia Marquez
+25. Love in the Time of Cholera by Gabriel Garcia Marquez
+26. The Handmaid's Tale by Margaret Atwood
+27. Alias Grace by Margaret Atwood
+28. The Blind Assassin by Margaret Atwood
+29. The Old Man and the Sea by Ernest Hemingway
+30. For Whom the Bell Tolls by Ernest Hemingway
+31. A Farewell to Arms by Ernest Hemingway
+32. The Sun Also Rises by Ernest Hemingway
+33. The Great Gatsby by F. Scott Fitzgerald
+34. Tender Is the Night by F. Scott Fitzgerald
+35. This Side of Paradise by F. Scott Fitzgerald
+36. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+37. Dirk Gently's Holistic Detective Agency by Douglas Adams
+38. The Restaurant at the End of the Universe by Douglas Adams
+39. Twilight by Stephenie Meyer
+40. New Moon by Stephenie Meyer
+41. Eclipse by Stephenie Meyer
+42. Breaking Dawn by Stephenie Meyer
+43. The Host by Stephenie Meyer
+44. The Crucible of Time by John Brunner
+45. Stand on Zanzibar by John Brunner
+46. The Sheep Look Up by John Brunner
+47. The Watchmen by Alan Moore and Dave Gibbons
+48. V for Vendetta by Alan Moore and David Lloyd
+49. From Hell by Alan Moore and Eddie Campbell
+50. Beauty: A Retelling of the Story of Beauty and the Beast by Robin McKinley

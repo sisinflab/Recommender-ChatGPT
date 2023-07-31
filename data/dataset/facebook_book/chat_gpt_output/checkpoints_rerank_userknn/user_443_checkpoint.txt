@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Bell Jar by Sylvia Plath
+2. The Book Thief by Markus Zusak
+3. Looking for Alaska by John Green
+4. The Handmaid's Tale by Margaret Atwood
+5. Wuthering Heights by Emily Bronte
+6. Brave New World by Aldous Huxley
+7. The Giver by Lois Lowry
+8. Before I Die by Jenny Downham
+9. Thirteen Reasons Why by Jay Asher
+10. The Hunger Games by Suzanne Collins
+11. Romeo and Juliet by William Shakespeare
+12. Anne of Green Gables by L.M. Montgomery
+13. Tuck Everlasting by Natalie Babbitt
+14. The Legend of Sleepy Hollow by Washington Irving
+15. The Raven by Edgar Allan Poe
+16. Hiroshima by John Hersey
+17. Leaves of Grass by Walt Whitman
+18. The Secret Life of Bees by Sue Monk Kidd
+19. Invisible Monsters by Chuck Palahniuk
+20. The Vampire Lestat by Anne Rice
+21. The Lost Symbol by Dan Brown
+22. Angels & Demons by Dan Brown
+23. Digital Fortress by Dan Brown
+24. The City of Ember by Jeanne DuPrau
+25. The Wolves of Mercy Falls by Maggie Stiefvater
+26. Lock and Key by Sarah Dessen
+27. Identical by Ellen Hopkins
+28. Burned by Ellen Hopkins
+29. Tricks by Ellen Hopkins
+30. Feed by M.T. Anderson
+31. Go Ask Alice by Anonymous
+32. The Messenger by Markus Zusak
+33. Son of a Witch by Gregory Maguire
+34. Stargirl by Jerry Spinelli
+35. Handle with Care by Jodi Picoult
+36. Ink Exchange by Melissa Marr
+37. Speak by Laurie Halse Anderson
+38. The Summoning by Kelley Armstrong
+39. Vampire Academy by Richelle Mead
+40. Crank by Ellen Hopkins
+41. The Pigman by Paul Zindel
+42. Paper Towns by John Green
+43. Ouran High School Host Club by Bisco Hatori
+44. Generation Dead by Daniel Waters
+45. A Separate Peace by John Knowles
+46. Will Grayson, Will Grayson by David Levithan and John Green
+47. Uglies by Scott Westerfeld
+48. Impulse Economy by Gary Schwartz
+49. Revolutionary Road by Richard Yates
+50. Glass by Ellen Hopkins

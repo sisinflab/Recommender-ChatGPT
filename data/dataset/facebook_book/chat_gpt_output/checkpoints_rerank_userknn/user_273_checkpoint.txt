@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Nineteen Eighty-Four by George Orwell
+2. Brave New World by Aldous Huxley
+3. Crime and Punishment by Fyodor Dostoyevsky
+4. The Catcher in the Rye by J.D. Salinger
+5. Slaughterhouse-Five by Kurt Vonnegut
+6. The Picture of Dorian Gray by Oscar Wilde
+7. Dracula by Bram Stoker
+8. The Great Gatsby by F. Scott Fitzgerald
+9. The Bell Jar by Sylvia Plath
+10. The Old Man and the Sea by Ernest Hemingway
+11. Jane Eyre by Charlotte Bronte
+12. The Tempest by William Shakespeare
+13. The Count of Monte Cristo by Alexandre Dumas
+14. Notes from Underground by Fyodor Dostoyevsky
+15. The Sound and the Fury by William Faulkner
+16. Inferno by Dante Alighieri
+17. A Clockwork Orange by Anthony Burgess
+18. The Trial by Franz Kafka
+19. The Lost World: Jurassic Park by Michael Crichton
+20. The Lovely Bones by Alice Sebold
+21. The Shadow of the Wind by Carlos Ruiz Zafon
+22. The Mists of Avalon by Marion Zimmer Bradley
+23. The World According to Garp by John Irving
+24. All Quiet on the Western Front by Erich Maria Remarque
+25. The Unbearable Lightness of Being by Milan Kundera
+26. Midnight's Children by Salman Rushdie
+27. The Help by Kathryn Stockett
+28. A Passage to India by E.M. Forster
+29. The Satanic Verses by Salman Rushdie
+30. Ballet Shoes by Noel Streatfeild
+31. Tuck Everlasting by Natalie Babbitt
+32. The Girl Who Loved Tom Gordon by Stephen King
+33. The Elements of Style by William Strunk Jr. and E.B. White
+34. The Art of Racing in the Rain by Garth Stein
+35. Fear and Loathing in Las Vegas by Hunter S. Thompson
+36. Fullmetal Alchemist by Hiromu Arakawa
+37. Mind Siege by Tim LaHaye and David Noebel
+38. The Client by John Grisham
+39. Sun Bin's Art of War by Sun Bin
+40. Choke by Chuck Palahniuk
+41. Oil! by Upton Sinclair
+42. The Zombie Survival Guide by Max Brooks
+43. Finnegans Wake by James Joyce
+44. Harry Potter by J.K. Rowling
+45. Musashi by Eiji Yoshikawa
+46. The Call of the Wild by Jack London
+47. Fear and Trembling by Soren Kierkegaard
+48. Common Sense by Thomas Paine

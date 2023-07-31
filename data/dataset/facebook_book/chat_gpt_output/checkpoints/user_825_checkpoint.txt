@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Catching Fire by Suzanne Collins
+2. Mockingjay by Suzanne Collins
+3. Divergent by Veronica Roth
+4. Insurgent by Veronica Roth
+5. Allegiant by Veronica Roth
+6. The Maze Runner by James Dashner
+7. The Scorch Trials by James Dashner
+8. The Death Cure by James Dashner
+9. The Giver by Lois Lowry
+10. Gathering Blue by Lois Lowry
+11. Messenger by Lois Lowry
+12. Son by Lois Lowry
+13. The Lightning Thief by Rick Riordan
+14. The Sea of Monsters by Rick Riordan
+15. The Titan's Curse by Rick Riordan
+16. The Battle of the Labyrinth by Rick Riordan
+17. The Last Olympian by Rick Riordan
+18. The Red Pyramid by Rick Riordan
+19. The Throne of Fire by Rick Riordan
+20. The Serpent's Shadow by Rick Riordan
+21. The Alchemyst by Michael Scott
+22. The Magician by Michael Scott
+23. The Sorceress by Michael Scott
+24. The Necromancer by Michael Scott
+25. The Warlock by Michael Scott
+26. The Enchantress by Michael Scott
+27. The Golden Compass by Philip Pullman
+28. The Subtle Knife by Philip Pullman
+29. The Amber Spyglass by Philip Pullman
+30. Eragon by Christopher Paolini
+31. Eldest by Christopher Paolini
+32. Brisingr by Christopher Paolini
+33. Inheritance by Christopher Paolini
+34. The Hunger Games: Catching Fire Official Illustrated Movie Companion by Kate Egan
+35. The Hunger Games: Mockingjay Official Illustrated Movie Companion by Kate Egan
+36. The Hunger Games Tribute Guide by Emily Seife
+37. The Hunger Games: The Official Illustrated Movie Companion by Kate Egan
+38. The Mortal Instruments: City of Ashes by Cassandra Clare
+39. The Mortal Instruments: City of Glass by Cassandra Clare
+40. The Mortal Instruments: City of Fallen Angels by Cassandra Clare
+41. The Mortal Instruments: City of Lost Souls by Cassandra Clare
+42. The Mortal Instruments: City of Heavenly Fire by Cassandra Clare
+43. The Infernal Devices: Clockwork Angel by Cassandra Clare
+44. The Infernal Devices: Clockwork Prince by Cassandra Clare
+45. The Infernal Devices: Clockwork Princess by Cassandra Clare
+46. The Dark Artifices: Lady Midnight by Cassandra Clare
+47. The Dark Artifices: Lord of Shadows by Cassandra Clare
+48. The Dark Artifices: Queen of Air and Darkness by Cassandra Clare
+49. The Bane Chronicles by Cassandra Clare
+50. Tales from the Shadowhunter Academy by Cassandra Clare and others.

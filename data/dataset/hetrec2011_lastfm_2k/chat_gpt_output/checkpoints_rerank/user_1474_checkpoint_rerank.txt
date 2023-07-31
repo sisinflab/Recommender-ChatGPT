@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Bon Iver
+2. Iron & Wine
+3. Beirut
+4. Burial
+5. Four Tet
+6. Tycho
+7. Apparat
+8. Röyksopp
+9. Nouvelle Vague
+10. Parov Stelar
+11. Bang Gang
+12. Coil
+13. Matisyahu
+14. Daft Punk
+15. Autechre
+16. Telefon Tel Aviv
+17. Manu Chao
+18. Devendra Banhart
+19. Bob Marley
+20. Bonobo
+21. Jamiroquai
+22. Radiohead
+23. Muse
+24. Pink Floyd
+25. Nirvana
+26. Led Zeppelin
+27. Metallica
+28. Iron Maiden
+29. Pearl Jam
+30. The Beatles
+31. U2
+32. Duran Duran
+33. Coldplay
+34. Blur
+35. Arctic Monkeys
+36. Placebo
+37. The Killers
+38. Michael Jackson
+39. Madonna
+40. Beyoncé
+41. Shakira
+42. Christina Aguilera
+43. Lady Gaga
+44. Katy Perry
+45. Taylor Swift
+46. Ke$ha
+47. Amy Winehouse
+48. Björk
+49. Nine Inch Nails
+50. Depeche Mode

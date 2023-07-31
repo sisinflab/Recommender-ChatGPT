@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations are:
+
+1. Radiohead
+2. The Beatles
+3. The Smiths
+4. Muse
+5. The Killers
+6. Coldplay
+7. The Smashing Pumpkins
+8. New Order
+9. Duran Duran
+10. U2
+11. The Cure
+12. Interpol
+13. Franz Ferdinand
+14. Kasabian
+15. The Velvet Underground
+16. MGMT
+17. INXS
+18. Siouxsie and the Banshees
+19. Joy Division
+20. Oasis
+21. Bloc Party
+22. Kings of Leon
+23. Travis
+24. Manic Street Preachers
+25. Morrissey
+26. Blur
+27. The Police
+28. The Chemical Brothers
+29. Nirvana
+30. Metallica
+31. The Doors
+32. Pink Floyd
+33. Queen
+34. Gary Numan
+35. Ultravox
+36. Kamelot
+37. Tears for Fears
+38. Placebo
+39. Dead Can Dance
+40. Lady Gaga
+41. Jean-Michel Jarre
+42. Dave Gahan
+43. Recoil
+44. Tori Amos
+45. Pet Shop Boys
+46. a-ha
+47. Editors
+48. Arcade Fire
+49. Moby
+50. Daft Punk

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Depeche Mode
+2. Daft Punk
+3. Thievery Corporation
+4. Röyksopp
+5. Goldfrapp
+6. Portishead
+7. Moby
+8. Enigma
+9. Air
+10. Hooverphonic
+11. New Order
+12. Talk Talk
+13. Coldplay
+14. Madonna
+15. Lady Gaga
+16. Electronic
+17. Groove Armada
+18. Faithless
+19. Camouflage
+20. Jean-Michel Jarre
+21. Simply Red
+22. Fleetwood Mac
+23. Duffy
+24. INXS
+25. ABC
+26. Radiohead
+27. Muse
+28. Pink Floyd
+29. Nirvana
+30. Led Zeppelin
+31. Metallica
+32. Iron Maiden
+33. Pearl Jam
+34. The Beatles
+35. U2
+36. Duran Duran
+37. Blur
+38. Arctic Monkeys
+39. Placebo
+40. The Killers
+41. Amy Winehouse
+42. Michael Jackson
+43. Björk
+44. Nine Inch Nails
+45. Linkin Park
+46. Green Day
+47. My Chemical Romance
+48. Avenged Sevenfold
+49. Black Eyed Peas
+50. P!nk

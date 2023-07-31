@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Alchemist by Paulo Coelho
+2. The Great Gatsby by F. Scott Fitzgerald
+3. To Kill a Mockingbird by Harper Lee
+4. The Catcher in the Rye by J.D. Salinger
+5. Pride and Prejudice by Jane Austen
+6. 1984 by George Orwell
+7. Animal Farm by George Orwell
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Bell Jar by Sylvia Plath
+10. The Handmaid's Tale by Margaret Atwood
+11. The Girl with the Dragon Tattoo by Stieg Larsson
+12. The Hunger Games by Suzanne Collins
+13. The Da Vinci Code by Dan Brown
+14. The Hobbit by J.R.R. Tolkien
+15. The Lord of the Rings by J.R.R. Tolkien
+16. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+17. The Shining by Stephen King
+18. The Stand by Stephen King
+19. The Silence of the Lambs by Thomas Harris
+20. The Girl on the Train by Paula Hawkins
+21. The Help by Kathryn Stockett
+22. The Kite Runner by Khaled Hosseini
+23. The Secret Life of Bees by Sue Monk Kidd
+24. The Lovely Bones by Alice Sebold
+25. The Time Traveler's Wife by Audrey Niffenegger
+26. The Road by Cormac McCarthy
+27. The Book Thief by Markus Zusak
+28. The Fault in Our Stars by John Green
+29. The Maze Runner by James Dashner
+30. The Giver by Lois Lowry
+31. The Outsiders by S.E. Hinton
+32. The Perks of Being a Wallflower by Stephen Chbosky
+33. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+34. The Girl with All the Gifts by M.R. Carey
+35. The Name of the Wind by Patrick Rothfuss
+36. The Wise Man's Fear by Patrick Rothfuss
+37. The Nightingale by Kristin Hannah
+38. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+39. The Help by Kathryn Stockett
+40. The Color Purple by Alice Walker
+41. The Joy Luck Club by Amy Tan
+42. The God of Small Things by Arundhati Roy
+43. The Poisonwood Bible by Barbara Kingsolver
+44. The Glass Castle by Jeannette Walls
+45. The Brief Wondrous Life of Oscar Wao by Junot Diaz
+46. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+47. The Road to Character by David Brooks
+48. The Art of Fielding by Chad Harbach
+49. The Marriage Plot by Jeffrey Eugenides
+50

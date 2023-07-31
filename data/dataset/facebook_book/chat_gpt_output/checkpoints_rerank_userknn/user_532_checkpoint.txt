@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Harry Potter and the Philosopher's Stone by J.K. Rowling
+2. The Lord of the Rings by J.R.R. Tolkien
+3. The Hobbit by J.R.R. Tolkien
+4. The Hunger Games by Suzanne Collins
+5. To Kill a Mockingbird by Harper Lee
+6. Animal Farm by George Orwell
+7. The Catcher in the Rye by J.D. Salinger
+8. The Great Gatsby by F. Scott Fitzgerald
+9. 1984 by George Orwell
+10. The Book Thief by Markus Zusak
+11. A Tale of Two Cities by Charles Dickens
+12. The Giver by Lois Lowry
+13. The Chronicles of Narnia by C.S. Lewis
+14. Romeo and Juliet by William Shakespeare
+15. Frankenstein by Mary Shelley
+16. Brave New World by Aldous Huxley
+17. Lord of the Flies by William Golding
+18. The Canterbury Tales by Geoffrey Chaucer
+19. The Handmaid's Tale by Margaret Atwood
+20. Life of Pi by Yann Martel
+21. The Old Man and the Sea by Ernest Hemingway
+22. The Stranger by Albert Camus
+23. Fahrenheit 451 by Ray Bradbury
+24. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+25. The Lovely Bones by Alice Sebold
+26. The Outsiders by S.E. Hinton
+27. Treasure Island by Robert Louis Stevenson
+28. Moby-Dick by Herman Melville
+29. The Adventures of Tom Sawyer by Mark Twain
+30. The Fountainhead by Ayn Rand
+31. Wuthering Heights by Emily Bronte
+32. The Perks of Being a Wallflower by Stephen Chbosky
+33. The Good Earth by Pearl S. Buck
+34. The Hamlet by William Faulkner
+35. The Watchmen by Alan Moore
+36. Angels & Demons by Dan Brown
+37. The Walking Dead by Robert Kirkman
+38. The Handmaid's Tale by Margaret Atwood
+39. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+40. The Canterbury Tales by Geoffrey Chaucer
+41. The Pigman by Paul Zindel
+42. A Midsummer Night's Dream by William Shakespeare
+43. Twilight by Stephenie Meyer
+44. Rose Daughter by Robin McKinley
+45. Teaching with Calvin and Hobbes by Linda Holmen
+46. The Ear, the Eye and the Arm by Nancy Farmer
+47. The Stranger by Albert Camus
+48. Invisible Man by Ralph Ellison
+49. The Golem's Eye by Jonathan Stroud
+50. Diary by Chuck Palahniuk

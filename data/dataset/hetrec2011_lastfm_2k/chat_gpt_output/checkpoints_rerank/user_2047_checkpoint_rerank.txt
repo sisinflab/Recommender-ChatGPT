@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Depeche Mode
+2. Massive Attack
+3. Nine Inch Nails
+4. Björk
+5. Enigma
+6. Tori Amos
+7. Cocteau Twins
+8. Boards of Canada
+9. Underworld
+10. Dream Theater
+11. Manu Chao
+12. Zero 7
+13. Dave Gahan
+14. Gustavo Cerati
+15. The Sisters of Mercy
+16. The Cult
+17. Siouxsie and the Banshees
+18. Morcheeba
+19. Lamb
+20. Pet Shop Boys
+21. Air
+22. Faithless
+23. Broken Social Scene
+24. DJ Shadow
+25. David Bowie
+26. Radiohead
+27. Muse
+28. Pink Floyd
+29. Coldplay
+30. Blur
+31. Arctic Monkeys
+32. Placebo
+33. The Killers
+34. Nirvana
+35. Iron Maiden
+36. Led Zeppelin
+37. Metallica
+38. Michael Jackson
+39. Pearl Jam
+40. a-ha
+41. System of a Down
+42. Daft Punk
+43. Linkin Park
+44. Avril Lavigne
+45. Katy Perry
+46. Taylor Swift
+47. Lady Gaga
+48. Paramore
+49. Green Day
+50. My Chemical Romance

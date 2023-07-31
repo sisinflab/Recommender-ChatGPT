@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Linkin Park
+2. Eminem
+3. Kid Cudi
+4. Owl City
+5. blink-182
+6. B.o.B
+7. Hollywood Undead
+8. Lupe Fiasco
+9. Parkway Drive
+10. A Day to Remember
+11. The Devil Wears Prada
+12. Whitechapel
+13. Alexisonfire
+14. The All-American Rejects
+15. Asking Alexandria
+16. Suicide Silence
+17. Motion City Soundtrack
+18. The Black Dahlia Murder
+19. blessthefall
+20. Muse
+21. Nirvana
+22. Metallica
+23. Iron Maiden
+24. Pearl Jam
+25. System of a Down
+26. Nine Inch Nails
+27. The Beatles
+28. Green Day
+29. The Killers
+30. My Chemical Romance
+31. Coldplay
+32. Radiohead
+33. Placebo
+34. Arctic Monkeys
+35. Duran Duran
+36. Pink Floyd
+37. Led Zeppelin
+38. Michael Jackson
+39. Madonna
+40. Lady Gaga
+41. Beyoncé
+42. Rihanna
+43. Katy Perry
+44. Taylor Swift
+45. Ke$ha
+46. Christina Aguilera
+47. Shakira
+48. Britney Spears
+49. P!nk
+50. Kelly Clarkson

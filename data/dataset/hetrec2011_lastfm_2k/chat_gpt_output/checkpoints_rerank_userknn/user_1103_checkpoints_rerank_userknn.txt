@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Depeche Mode
+2. OneRepublic
+3. IAMX
+4. Beyoncé
+5. Unheilig
+6. Portishead
+7. Sia
+8. Maria Mena
+9. David Bowie
+10. De/Vision
+11. Dave Gahan
+12. Evanescence
+13. Black Eyed Peas
+14. Tricky
+15. System of a Down
+16. Camouflage
+17. Slipknot
+18. Moby
+19. Combichrist
+20. R.E.M.
+21. The Cranberries
+22. A Fine Frenzy
+23. Röyksopp
+24. Avril Lavigne
+25. Blutengel
+26. Björk
+27. Massive Attack
+28. Kraftwerk
+29. Crystal Castles
+30. Recoil
+31. Joy Division
+32. Nitzer Ebb
+33. Duran Duran
+34. Queen
+35. Bauhaus
+36. Linkin Park
+37. Dead Can Dance
+38. No Doubt
+39. Yann Tiersen
+40. Zемфира
+41. Placebo
+42. Muse
+43. Kings of Leon
+44. Daft Punk
+45. Soft Cell
+46. Pet Shop Boys
+47. Boards of Canada
+48. New Order
+49. HIM
+50. Travis

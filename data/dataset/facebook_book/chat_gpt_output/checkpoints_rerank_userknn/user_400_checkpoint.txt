@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+2. Team of Rivals by Doris Kearns Goodwin
+3. The Big Short by Michael Lewis
+4. Dreams from My Father by Barack Obama
+5. Three Cups of Tea by Greg Mortenson and David Oliver Relin
+6. In Defense of Food by Michael Pollan
+7. Decision Points by George Walker Bush
+8. The Girl Who Played with Fire by Stieg Larsson
+9. Eat This, Not That by David Zinczenko
+10. Pinheads and Patriots by Bill O'Reilly (commentator)
+11. Game Change by Mark Halperin and John Heilemann
+12. Of Mice and Men by John Steinbeck
+13. I Am Legend by Richard Matheson
+14. Outliers by Malcolm Gladwell
+15. The Audacity of Hope by Barack Obama
+16. Fahrenheit 451 by Ray Bradbury
+17. Crime and Punishment by Fyodor Dostoevsky
+18. The Brothers Karamazov by Fyodor Dostoevsky
+19. The Great Gatsby by F. Scott Fitzgerald
+20. The Elements of Style by William Strunk Jr. and E.B. White
+21. One Hundred Years of Solitude by Gabriel Garcia Marquez
+22. The Diary of a Young Girl by Anne Frank
+23. Adventures of Huckleberry Finn by Mark Twain
+24. Candide by Voltaire
+25. Frankenstein by Mary Shelley
+26. Invisible Man by Ralph Ellison
+27. As I Lay Dying by William Faulkner
+28. Beloved by Toni Morrison
+29. The Queen of the Damned by Anne Rice
+30. Franny and Zooey by J.D. Salinger
+31. The Killer Angels by Michael Shaara
+32. Inferno by Dante Alighieri
+33. Sex, Drugs, and Cocoa Puffs by Chuck Klosterman
+34. My Best Friend Bob by Steve James
+35. I Am the Cheese by Robert Cormier
+36. The Lathe of Heaven by Ursula K. Le Guin
+37. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+38. Universe by Robert Dinwiddie, et al.
+39. Galápagos by Kurt Vonnegut
+40. The Little Prince by Antoine de Saint-Exupéry
+41. The Secret Life of Bees by Sue Monk Kidd
+42. Woman Thou Art Loosed by T.D. Jakes
+43. The Outsiders by S.E. Hinton
+44. Romeo and Juliet by William Shakespeare
+45. Symposium by Plato
+46. White Noise by Don DeLillo
+47. Cannery Row by John Steinbeck
+48. Prozac Nation by Elizabeth W

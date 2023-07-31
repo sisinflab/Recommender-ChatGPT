@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Norah Jones
+2. Ed Sheeran
+3. John Mayer
+4. Coldplay
+5. Fleetwood Mac
+6. Bruno Mars
+7. The Beatles
+8. Sam Smith
+9. Adele
+10. Sara Bareilles
+11. James Taylor
+12. Carole King
+13. Michael Bublé
+14. Taylor Swift
+15. Hozier
+16. Shawn Mendes
+17. Alicia Keys
+18. Justin Timberlake
+19. Whitney Houston
+20. Elton John
+21. Beyoncé
+22. Stevie Nicks
+23. The Lumineers
+24. Mumford & Sons
+25. Florence + The Machine
+26. John Legend
+27. Imagine Dragons
+28. The Black Keys
+29. The Rolling Stones
+30. Bob Dylan
+31. Bruce Springsteen
+32. Tom Petty
+33. Neil Young
+34. The Who
+35. Led Zeppelin
+36. Pink Floyd
+37. Radiohead
+38. Arcade Fire
+39. The Strokes
+40. The Killers
+41. Franz Ferdinand
+42. Arctic Monkeys
+43. The White Stripes
+44. The Kooks
+45. The Shins
+46. Death Cab for Cutie
+47. Vampire Weekend
+48. Phoenix
+49. The Postal Service
+50. Belle and Sebastian

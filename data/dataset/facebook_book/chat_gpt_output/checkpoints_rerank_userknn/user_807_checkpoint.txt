@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Narcissus in Chains by Laurell K. Hamilton
+2. Incubus Dreams by Laurell K. Hamilton
+3. Abhorsen by Garth Nix
+4. The Hunger Games by Suzanne Collins
+5. A Kiss of Shadows by Laurell K. Hamilton
+6. Roll of Thunder, Hear My Cry by Mildred D. Taylor
+7. The Vampire Chronicles by Anne Rice
+8. Les Misérables by Victor Hugo
+9. Needful Things by Stephen King
+10. Isaac Asimov's Robot City by William F. Wu
+11. Lord of the Flies by William Golding
+12. Lolita by Vladimir Nabokov
+13. Ink Exchange by Melissa Marr
+14. The Lord of the Rings by J.R.R. Tolkien
+15. Rebel Angels by Libba Bray
+16. Skin Trade by Laurell K. Hamilton
+17. Sarah's Key by Tatiana de Rosnay
+18. The Red Queen: Sex and the Evolution of Human Nature by Matt Ridley
+19. Marked by P.C. Cast and Kristin Cast
+20. Jarhead by Anthony Swofford
+21. The Outsiders by S.E. Hinton
+22. Night by Elie Wiesel
+23. Dracula by Bram Stoker
+24. Anthem by Ayn Rand
+25. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+26. Guilty Pleasures by Laurell K. Hamilton
+27. A Great and Terrible Beauty by Libba Bray
+28. Blue Is for Nightmares by Laurie Faria Stolarz
+29. City of Glass by Cassandra Clare
+30. Mockingjay by Suzanne Collins
+31. The Lake House by Kate Morton
+32. Brave New World by Aldous Huxley
+33. Gone with the Wind by Margaret Mitchell
+34. Kushiel's Dart by Jacqueline Carey
+35. Jane Eyre by Charlotte Bronte
+36. Misery by Stephen King
+37. Prozac Nation by Elizabeth Wurtzel
+38. Carrie by Stephen King
+39. Bag of Bones by Stephen King
+40. Rose Madder by Stephen King
+41. The Giver by Lois Lowry
+42. The Dead Zone by Stephen King
+43. Fade by Lisa McMann
+44. Bible
+45. 2nd Chance by James Patterson
+46. Bunnicula: A Rabbit-Tale of Mystery by Deborah and James Howe
+47. Flirt by Laurell K. Hamilton
+48. Goodnight Moon by Margaret Wise Brown
+49. Twilight by Stephenie Meyer
+50. Revolutionary Road by Richard Yates

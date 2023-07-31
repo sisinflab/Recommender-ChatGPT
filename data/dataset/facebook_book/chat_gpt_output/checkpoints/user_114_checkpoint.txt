@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Flowers in the Attic by V. C. Andrews
+2. The Client by John Grisham
+3. Watchers by Dean Koontz
+4. The Lord of the Rings by J.R.R. Tolkien
+5. The Catcher in the Rye by J.D. Salinger
+6. The Shining by Stephen King
+7. The Da Vinci Code by Dan Brown
+8. The Hobbit by J.R.R. Tolkien
+9. The Silence of the Lambs by Thomas Harris
+10. The Girl with the Dragon Tattoo by Stieg Larsson
+11. The Stand by Stephen King
+12. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+13. The Hunger Games by Suzanne Collins
+14. The Great Gatsby by F. Scott Fitzgerald
+15. The Picture of Dorian Gray by Oscar Wilde
+16. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+17. The War of the Worlds by H.G. Wells
+18. The Time Machine by H.G. Wells
+19. The Invisible Man by H.G. Wells
+20. The Island of Dr. Moreau by H.G. Wells
+21. The Call of the Wild by Jack London
+22. The Old Man and the Sea by Ernest Hemingway
+23. The Sun Also Rises by Ernest Hemingway
+24. The Catcher in the Rye by J.D. Salinger
+25. The Bell Jar by Sylvia Plath
+26. The Handmaid's Tale by Margaret Atwood
+27. The Road by Cormac McCarthy
+28. The Stand by Stephen King
+29. The Dark Tower series by Stephen King
+30. The Gunslinger by Stephen King
+31. The Drawing of the Three by Stephen King
+32. The Waste Lands by Stephen King
+33. The Wizard and Glass by Stephen King
+34. The Wind Through the Keyhole by Stephen King
+35. The Dark Tower by Stephen King
+36. The Talisman by Stephen King and Peter Straub
+37. The Eyes of the Dragon by Stephen King
+38. The Green Mile by Stephen King
+39. The Dead Zone by Stephen King
+40. The Long Walk by Stephen King
+41. The Running Man by Stephen King
+42. The Bachman Books by Stephen King
+43. The Regulators by Stephen King
+44. The Tommyknockers by Stephen King
+45. The Stand: The Complete and Uncut Edition by Stephen King
+46. The Complete Stories by Edgar Allan Poe
+47. The Complete Works of William Shakespeare
+48. The Divine Comedy by Dante Alighieri
+49. The Canterbury Tales by Geoffrey Chaucer
+50. The Iliad and The Odyssey by Homer

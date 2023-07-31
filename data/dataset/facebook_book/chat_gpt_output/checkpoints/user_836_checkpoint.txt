@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Catching Fire by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Lightning Thief by Rick Riordan
+4. The Fault in Our Stars by John Green
+5. The Giver by Lois Lowry
+6. The Hobbit by J.R.R. Tolkien
+7. The Chronicles of Narnia by C.S. Lewis
+8. The Mortal Instruments series by Cassandra Clare
+9. The Infernal Devices series by Cassandra Clare
+10. The Selection by Kiera Cass
+11. The Maze Runner series by James Dashner
+12. The Lunar Chronicles by Marissa Meyer
+13. The Percy Jackson series by Rick Riordan
+14. The Heroes of Olympus series by Rick Riordan
+15. The Hunger Games series by Suzanne Collins
+16. The Harry Potter series by J.K. Rowling
+17. The Lord of the Rings series by J.R.R. Tolkien
+18. The Name of the Wind by Patrick Rothfuss
+19. The Wise Man's Fear by Patrick Rothfuss
+20. The Kingkiller Chronicle series by Patrick Rothfuss
+21. The Dark Tower series by Stephen King
+22. The Stand by Stephen King
+23. The Shining by Stephen King
+24. The Girl with the Dragon Tattoo by Stieg Larsson
+25. The Girl Who Played with Fire by Stieg Larsson
+26. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+27. The Millennium series by Stieg Larsson
+28. The Da Vinci Code by Dan Brown
+29. Angels and Demons by Dan Brown
+30. Inferno by Dan Brown
+31. The Robert Langdon series by Dan Brown
+32. The Girl on the Train by Paula Hawkins
+33. Gone Girl by Gillian Flynn
+34. The Maze Runner by James Dashner
+35. The Scorch Trials by James Dashner
+36. The Death Cure by James Dashner
+37. The 5th Wave by Rick Yancey
+38. The Infinite Sea by Rick Yancey
+39. The Last Star by Rick Yancey
+40. The 5th Wave series by Rick Yancey
+41. The Hunger Games: Catching Fire (movie tie-in edition) by Suzanne Collins
+42. The Hunger Games: Mockingjay (movie tie-in edition) by Suzanne Collins
+43. The Hunger Games Trilogy Boxed Set by Suzanne Collins
+44. The Maze Runner Trilogy Boxed Set by James Dashner
+45. The Mortal Instruments Boxed Set by Cassandra Clare
+46. The Infernal Devices Boxed Set by Cassandra Clare
+47. The Selection Boxed Set by Kiera Cass
+48. The Lunar Chronicles Boxed Set by Marissa Meyer
+49. The Percy Jackson and the Olympians Boxed Set by Rick Riordan
+50. The Wise Man's Fear by Patrick Rothfuss

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Time Traveler's Wife by Audrey Niffenegger
+2. The Fault in Our Stars by John Green
+3. Me Before You by Jojo Moyes
+4. The Notebook by Nicholas Sparks
+5. The Last Song by Nicholas Sparks
+6. A Walk to Remember by Nicholas Sparks
+7. The Lucky One by Nicholas Sparks
+8. The Best of Me by Nicholas Sparks
+9. The Longest Ride by Nicholas Sparks
+10. Safe Haven by Nicholas Sparks
+11. The Choice by Nicholas Sparks
+12. The Wedding by Nicholas Sparks
+13. The Guardian by Nicholas Sparks
+14. The Host by Stephenie Meyer
+15. Twilight by Stephenie Meyer
+16. New Moon by Stephenie Meyer
+17. Eclipse by Stephenie Meyer
+18. Breaking Dawn by Stephenie Meyer
+19. Sense and Sensibility by Jane Austen
+20. Northanger Abbey by Jane Austen
+21. Persuasion by Jane Austen
+22. The Jane Austen Book Club by Karen Joy Fowler
+23. The Bridges of Madison County by Robert James Waller
+24. The Notebook by Nicholas Sparks
+25. Nights in Rodanthe by Nicholas Sparks
+26. The Rescue by Nicholas Sparks
+27. The Lucky One by Nicholas Sparks
+28. The Best of Me by Nicholas Sparks
+29. The Longest Ride by Nicholas Sparks
+30. Safe Haven by Nicholas Sparks
+31. The Choice by Nicholas Sparks
+32. The Wedding by Nicholas Sparks
+33. The Guardian by Nicholas Sparks
+34. The Host by Stephenie Meyer
+35. Twilight by Stephenie Meyer
+36. New Moon by Stephenie Meyer
+37. Eclipse by Stephenie Meyer
+38. Breaking Dawn by Stephenie Meyer
+39. The Hunger Games by Suzanne Collins
+40. Catching Fire by Suzanne Collins
+41. Mockingjay by Suzanne Collins
+42. The Girl with the Dragon Tattoo by Stieg Larsson
+43. The Girl Who Played with Fire by Stieg Larsson
+44. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+45. The Da Vinci Code by Dan Brown
+46. Angels and Demons by Dan Brown
+47. Inferno by Dan Brown
+48. The Lovely Bones by Alice Sebold
+49. The Help by Kathryn Stockett
+50. Water for Elephants by Sara Gruen

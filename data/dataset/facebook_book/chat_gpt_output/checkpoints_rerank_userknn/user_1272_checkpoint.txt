@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Ender's Game by Orson Scott Card
+2. His Dark Materials by Philip Pullman
+3. Mistborn: The Hero of Ages by Brandon Sanderson
+4. Xenocide by Orson Scott Card
+5. Speaker for the Dead by Orson Scott Card
+6. The Hunger Games by Suzanne Collins
+7. Twilight (series) by Stephenie Meyer
+8. Inkheart by Cornelia Funke
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Hobbit by J.R.R. Tolkien
+11. Pride and Prejudice by Jane Austen
+12. Romeo and Juliet by William Shakespeare
+13. The Picture of Dorian Gray by Oscar Wilde
+14. To Kill a Mockingbird by Harper Lee
+15. The Outsiders (novel) by S.E. Hinton
+16. The Watchmen (novel) by Alan Moore
+17. The Memory Keeper's Daughter by Kim Edwards
+18. The Host (novel) by Stephenie Meyer
+19. City of Ashes by Cassandra Clare
+20. Haunted (The Mediator) by Meg Cabot
+21. Witch & Wizard by James Patterson
+22. Fablehaven by Brandon Mull
+23. Guardians of Ga'Hoole: The Capture by Kathryn Lasky
+24. Naruto by Masashi Kishimoto
+25. Cirque du Freak by Darren Shan
+26. Skeleton Creek (novel) by Patrick Carman
+27. Black Beauty by Anna Sewell
+28. Gone with the Wind by Margaret Mitchell
+29. Valiant : A Modern Tale of Faerie by Holly Black
+30. The Coldest Winter Ever by Sister Souljah
+31. A Memory of Light by Robert Jordan and Brandon Sanderson
+32. The Zombie Survival Guide by Max Brooks
+33. Dead Until Dark by Charlaine Harris
+34. A Lion Among Men by Gregory Maguire
+35. The Name of the Rose by Umberto Eco
+36. Memoirs of a Geisha by Arthur Golden
+37. The Handmaid's Tale by Margaret Atwood
+38. Catching Fire by Suzanne Collins
+39. Mockingjay by Suzanne Collins
+40. Dune (novel) by Frank Herbert
+41. Aztec (novel) by Gary Jennings
+42. The History of the Decline and Fall of the Roman Empire by Edward Gibbon
+43. Harry Potter by J.K. Rowling
+44. Congo (novel) by Michael Crichton
+45. Wolf Brother by Michelle Paver
+46. The Bible
+47. At the Mountains of Madness by H.P. Lovecraft
+48. Vampire Academy (novel) by Richelle Mead
+49. Speak (novel) by Laurie Halse Anderson
+50. Fathom (comics) by Michael Turner

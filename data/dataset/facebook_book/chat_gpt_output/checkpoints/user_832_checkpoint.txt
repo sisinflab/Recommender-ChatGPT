@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Snow Flower and the Secret Fan by Lisa See
+2. The Kite Runner by Khaled Hosseini
+3. The Help by Kathryn Stockett
+4. The Hunger Games by Suzanne Collins
+5. The Girl with the Dragon Tattoo by Stieg Larsson
+6. The Time Traveler's Wife by Audrey Niffenegger
+7. The Lovely Bones by Alice Sebold
+8. Water for Elephants by Sara Gruen
+9. The Book Thief by Markus Zusak
+10. The Secret Life of Bees by Sue Monk Kidd
+11. The Da Vinci Code by Dan Brown
+12. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+13. The Fault in Our Stars by John Green
+14. The Maze Runner by James Dashner
+15. The Giver by Lois Lowry
+16. The Alchemist by Paulo Coelho
+17. The Catcher in the Rye by J.D. Salinger
+18. The Perks of Being a Wallflower by Stephen Chbosky
+19. The Picture of Dorian Gray by Oscar Wilde
+20. The Great Gatsby by F. Scott Fitzgerald
+21. To Kill a Mockingbird by Harper Lee
+22. 1984 by George Orwell
+23. Animal Farm by George Orwell
+24. Brave New World by Aldous Huxley
+25. Fahrenheit 451 by Ray Bradbury
+26. Lord of the Flies by William Golding
+27. The Hobbit by J.R.R. Tolkien
+28. The Lord of the Rings by J.R.R. Tolkien
+29. The Chronicles of Narnia by C.S. Lewis
+30. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+31. Ender's Game by Orson Scott Card
+32. Dune by Frank Herbert
+33. Neuromancer by William Gibson
+34. Snow Crash by Neal Stephenson
+35. The Stand by Stephen King
+36. The Shining by Stephen King
+37. It by Stephen King
+38. The Silence of the Lambs by Thomas Harris
+39. Red Dragon by Thomas Harris
+40. The Bourne Identity by Robert Ludlum
+41. The Hunt for Red October by Tom Clancy
+42. Jurassic Park by Michael Crichton
+43. The Andromeda Strain by Michael Crichton
+44. The Girl on the Train by Paula Hawkins
+45. Gone Girl by Gillian Flynn
+46. The Nightingale by Kristin Hannah
+47. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+48. The Devil in the White City by Erik Larson
+49. The Glass Castle by Jeannette Walls
+50. Educated by Tara Westover

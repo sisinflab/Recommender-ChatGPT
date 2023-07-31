@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for user 1498 are:
+
+1. The Smiths
+2. R.E.M.
+3. Depeche Mode
+4. Joy Division
+5. U2
+6. David Bowie
+7. Morrissey
+8. Nick Cave and the Bad Seeds
+9. Cocteau Twins
+10. Björk
+11. Pulp
+12. Ultravox
+13. Peter Gabriel
+14. Leonard Cohen
+15. Belle and Sebastian
+16. Duran Duran
+17. Placebo
+18. The Cranberries
+19. Wolfsheim
+20. Annie Lennox
+21. The Cure
+22. Siouxsie and the Banshees
+23. Echo & The Bunnymen
+24. The Stone Roses
+25. Franz Ferdinand
+26. Stereophonics
+27. Suede
+28. Two Door Cinema Club
+29. Manic Street Preachers
+30. Coldplay
+31. Death Cab for Cutie
+32. The Killers
+33. Snow Patrol
+34. Editors
+35. Bruce Springsteen
+36. New Order
+37. Gary Numan
+38. Sparks
+39. Simple Minds
+40. The Who
+41. Misfits
+42. Train
+43. Moby
+44. Robbie Williams
+45. Sigur Rós
+46. Sixpence None the Richer
+47. Feist
+48. Lara Fabian
+49. Thirteen Senses
+50. Clan of Xymox

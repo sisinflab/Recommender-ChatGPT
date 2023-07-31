@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hobbit by J.R.R. Tolkien
+2. The Lord of the Rings by J.R.R. Tolkien
+3. Dune by Frank Herbert
+4. Nineteen Eighty-Four by George Orwell
+5. The Catcher in the Rye by J.D. Salinger
+6. A Tale of Two Cities by Charles Dickens
+7. Dracula by Bram Stoker
+8. The Vampire Chronicles by Anne Rice
+9. The Dark Tower: The Gunslinger by Stephen King
+10. His Dark Materials by Philip Pullman
+11. Ender's Game by Orson Scott Card
+12. Brave New World by Aldous Huxley
+13. The Things They Carried by Tim O'Brien
+14. The Bourne Identity by Robert Ludlum
+15. The Da Vinci Code by Dan Brown
+16. The Southern Vampire Mysteries by Charlaine Harris
+17. The Turn of the Screw by Henry James
+18. The Big Sleep by Raymond Chandler
+19. Starship Troopers by Robert A. Heinlein
+20. The God Delusion by Richard Dawkins
+21. The Brethren by John Grisham
+22. Collapse: How Societies Choose to Fail or Succeed by Jared Diamond
+23. Guns, Germs, and Steel by Jared Diamond
+24. To Kill a Mockingbird by Harper Lee
+25. The Watchmen by John Altman
+26. The Hunchback of Notre-Dame by Victor Hugo
+27. Les Misérables by Victor Hugo
+28. The Grapes of Wrath by John Steinbeck
+29. Of Mice and Men by John Steinbeck
+30. Red Dragon by Thomas Harris
+31. No Country for Old Men by Cormac McCarthy
+32. The Runaway Jury by John Grisham
+33. Sabriel by Garth Nix
+34. Harry Potter by J.K. Rowling
+35. Earl Cain by Kaori Yuki
+36. The Tao of Pooh by Benjamin Hoff
+37. Everything's Eventual by Stephen King
+38. Through the Looking-Glass by Lewis Carroll
+39. The Dark Is Rising Sequence by Susan Cooper
+40. Sun Bin's Art of War by Sun Bin
+41. Reviving Ophelia by Mary Pipher
+42. Harold and the Purple Crayon by Crockett Johnson
+43. Tuck Everlasting by Natalie Babbitt
+44. The Zombie Survival Guide by Max Brooks
+45. Anathem by Neal Stephenson
+46. Codex Alera by Jim Butcher
+47. Ranger's Apprentice by John Flanagan
+48. Demian by Hermann Hesse
+49. Fear and Loathing in Las Vegas by Hunter S. Thompson
+50. Big Sur by Jack Kerouac

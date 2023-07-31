@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. Wuthering Heights by Emily Bronte
+3. Frankenstein by Mary Shelley
+4. The Picture of Dorian Gray by Oscar Wilde
+5. The Count of Monte Cristo by Alexandre Dumas
+6. The Catcher in the Rye by J.D. Salinger
+7. The Lord of the Rings by J.R.R. Tolkien
+8. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+9. A Wrinkle in Time by Madeleine L'Engle
+10. The Taming of the Shrew by William Shakespeare
+11. A Midsummer Night's Dream by William Shakespeare
+12. Romeo and Juliet by William Shakespeare
+13. The Merchant of Venice by William Shakespeare
+14. Tartuffe by Molière
+15. To Kill a Mockingbird by Harper Lee
+16. Emma by Jane Austen
+17. Persuasion by Jane Austen
+18. The Fellowship of the Ring by J.R.R. Tolkien
+19. The Hobbit by J.R.R. Tolkien
+20. The Horse and His Boy by C.S. Lewis
+21. The Screwtape Letters by C.S. Lewis
+22. The Phantom Tollbooth by Norton Juster
+23. A Tree Grows in Brooklyn by Betty Smith
+24. The Good Earth by Pearl S. Buck
+25. Les Misérables by Victor Hugo
+26. The Scarlet Pimpernel by Baroness Orczy
+27. The Trial by Franz Kafka
+28. Oedipus the King by Sophocles
+29. The Autobiography of Malcolm X by Malcolm X
+30. Brave New World by Aldous Huxley
+31. Nineteen Eighty-Four by George Orwell
+32. Animal Farm by George Orwell
+33. Fahrenheit 451 by Ray Bradbury
+34. The Kite Runner by Khaled Hosseini
+35. My Sister's Keeper by Jodi Picoult
+36. The Prestige by Christopher Priest
+37. The Castle by Franz Kafka
+38. Leaving a Doll's House: A Memoir by Claire Bloom
+39. Symposium by Plato
+40. Alice's Adventures in Wonderland by Lewis Carroll
+41. The Three Musketeers by Alexandre Dumas
+42. War and Peace by Leo Tolstoy
+43. My Ántonia by Willa Cather
+44. Jane Eyre by Charlotte Bronte
+45. Sense and Sensibility by Jane Austen
+46. The Seven Habits of Highly Effective People by Stephen Covey
+47. Where the Sidewalk Ends by Shel Silverstein
+48. Dear John by Nicholas Sparks
+49. Night by Elie Wiesel
+50. Quran by Anonymous

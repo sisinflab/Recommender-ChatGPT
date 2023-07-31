@@ -1,0 +1,36 @@
+experiment:
+  gpu: 1 # Run on GPU
+  #
+  # Dataset pre-processing and configuration
+  #
+  dataset: movielens_small_2018
+  data_config:
+    strategy: fixed
+    train_path: ../../data/dataset/hetrec2011_lastfm_2k/splitting/0/train.tsv
+    test_path: ../../data/dataset/hetrec2011_lastfm_2k/splitting/0/test.tsv
+    side_information:
+      - dataloader: ItemAttributes
+        attribute_file: ../../data/dataset/hetrec2011_lastfm_2k/map_hetrec.tsv
+  top_k: 50
+  external_models_path: ../external/models/__init__.py
+  #
+  # Output directory
+  #
+  path_output_rec_result: ../results/hetrec2011_lastfm_2k
+  path_output_rec_weight: ../results/hetrec2011_lastfm_2k
+  path_output_rec_performance: ../results/hetrec2011_lastfm_2k
+  path_log_folder: ../results/hetrec2011_lastfm_2k
+  evaluation:
+    cutoffs: [10]
+    simple_metrics: [nDCG, Recall, Precision, nDCGRendle2020, HR, F1, MAP, MAR, MRR, ACLT, APLT, ARP, PopREO, PopRSP, ItemCoverage, NumRetrived, UserCoverage, Gini, SEntropy, EFD, EPC]
+  #
+  # Models Setup
+  #
+  models:
+    UserKNN:
+      meta:
+        save_recs: True
+        save_weights: True
+        verbose: True
+      neighbors: 100
+      similarity: cosine

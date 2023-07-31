@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. Muse
+3. Coldplay
+4. Arcade Fire
+5. Keane
+6. M83
+7. Yeah Yeah Yeahs
+8. Bat for Lashes
+9. White Lies
+10. Editors
+11. Franz Ferdinand
+12. The Killers
+13. Arctic Monkeys
+14. Placebo
+15. Hard-Fi
+16. Infected Mushroom
+17. Pain of Salvation
+18. Dream Theater
+19. God Is an Astronaut
+20. Hurts
+21. Silverchair
+22. A Perfect Circle
+23. Incubus
+24. The Used
+25. Jamiroquai
+26. MGMT
+27. Kamelot
+28. Depeche Mode
+29. Lady Gaga
+30. Goldfrapp
+31. John Mayer
+32. Enya
+33. Panic! At the Disco
+34. U2
+35. Pink Floyd
+36. Nirvana
+37. Led Zeppelin
+38. Metallica
+39. Michael Jackson
+40. Pearl Jam
+41. Björk
+42. System of a Down
+43. Nine Inch Nails
+44. Linkin Park
+45. Avenged Sevenfold
+46. My Chemical Romance
+47. Green Day
+48. The Cure
+49. Iron Maiden
+50. Daft Punk

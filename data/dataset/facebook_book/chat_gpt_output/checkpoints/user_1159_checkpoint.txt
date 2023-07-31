@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. Northanger Abbey by Jane Austen
+3. Emma by Jane Austen
+4. Persuasion by Jane Austen
+5. Jane Eyre by Charlotte Brontë
+6. The Tenant of Wildfell Hall by Anne Brontë
+7. The Fault in Our Stars by John Green
+8. Looking for Alaska by John Green
+9. Paper Towns by John Green
+10. Eleanor & Park by Rainbow Rowell
+11. Fangirl by Rainbow Rowell
+12. Attachments by Rainbow Rowell
+13. If I Stay by Gayle Forman
+14. Where She Went by Gayle Forman
+15. The Maze Runner by James Dashner
+16. Divergent by Veronica Roth
+17. Insurgent by Veronica Roth
+18. Allegiant by Veronica Roth
+19. The Hunger Games by Suzanne Collins
+20. Catching Fire by Suzanne Collins
+21. Mockingjay by Suzanne Collins
+22. The Giver by Lois Lowry
+23. Gathering Blue by Lois Lowry
+24. Messenger by Lois Lowry
+25. Son by Lois Lowry
+26. The Selection by Kiera Cass
+27. The Elite by Kiera Cass
+28. The One by Kiera Cass
+29. The 5th Wave by Rick Yancey
+30. The Infinite Sea by Rick Yancey
+31. The Last Star by Rick Yancey
+32. The Girl on the Train by Paula Hawkins
+33. Gone Girl by Gillian Flynn
+34. The Lovely Bones by Alice Sebold
+35. The Time Traveler's Wife by Audrey Niffenegger
+36. The Notebook by Nicholas Sparks
+37. A Walk to Remember by Nicholas Sparks
+38. The Lucky One by Nicholas Sparks
+39. Safe Haven by Nicholas Sparks
+40. The Help by Kathryn Stockett
+41. Water for Elephants by Sara Gruen
+42. The Nightingale by Kristin Hannah
+43. Me Before You by Jojo Moyes
+44. The Rosie Project by Graeme Simsion
+45. The Rosie Effect by Graeme Simsion
+46. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+47. The Kite Runner by Khaled Hosseini
+48. A Thousand Splendid Suns by Khaled Hosseini
+49. And Then There Were None by Agatha Christie
+50. Murder on the Orient Express by Agatha Christie

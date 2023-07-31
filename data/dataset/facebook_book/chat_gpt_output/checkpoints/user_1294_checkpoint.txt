@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Alchemist by Paulo Coelho
+2. The Catcher in the Rye by J.D. Salinger
+3. The Great Gatsby by F. Scott Fitzgerald
+4. Pride and Prejudice by Jane Austen
+5. The Picture of Dorian Gray by Oscar Wilde
+6. The Bell Jar by Sylvia Plath
+7. The Fault in Our Stars by John Green
+8. The Hunger Games by Suzanne Collins
+9. 1984 by George Orwell
+10. Animal Farm by George Orwell
+11. The Lord of the Rings by J.R.R. Tolkien
+12. The Hobbit by J.R.R. Tolkien
+13. The Chronicles of Narnia by C.S. Lewis
+14. Harry Potter and the Philosopher's Stone by J.K. Rowling
+15. Harry Potter and the Chamber of Secrets by J.K. Rowling
+16. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+17. Harry Potter and the Goblet of Fire by J.K. Rowling
+18. Harry Potter and the Order of Phoenix by J.K. Rowling
+19. Harry Potter and the Half-Blood Prince by J.K. Rowling
+20. Harry Potter and the Deathly Hallows by J.K. Rowling
+21. The Girl with the Dragon Tattoo by Stieg Larsson
+22. The Girl Who Played with Fire by Stieg Larsson
+23. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+24. The Help by Kathryn Stockett
+25. The Secret Life of Bees by Sue Monk Kidd
+26. The Lovely Bones by Alice Sebold
+27. The Time Traveler's Wife by Audrey Niffenegger
+28. The Notebook by Nicholas Sparks
+29. A Walk to Remember by Nicholas Sparks
+30. The Last Song by Nicholas Sparks
+31. The Shack by William P. Young
+32. The Road by Cormac McCarthy
+33. The Book Thief by Markus Zusak
+34. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+35. Life of Pi by Yann Martel
+36. The Name of the Wind by Patrick Rothfuss
+37. The Wise Man's Fear by Patrick Rothfuss
+38. The Shadow of the Wind by Carlos Ruiz Zafón
+39. The Angel's Game by Carlos Ruiz Zafón
+40. The Prisoner of Heaven by Carlos Ruiz Zafón
+41. The Nightingale by Kristin Hannah
+42. The Help by Kathryn Stockett
+43. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+44. The Martian by Andy Weir
+45. The Handmaid's Tale by Margaret Atwood
+46. The Testaments by Margaret Atwood
+47. The Water Dancer by Ta
+48. The Innovator's Dilemma by Clayton M. Christensen
+49. The Art of War
+50. American Gods by Neil Gaiman

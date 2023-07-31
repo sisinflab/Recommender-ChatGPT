@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Crime and Punishment by Fyodor Dostoevsky
+2. The Brothers Karamazov by Fyodor Dostoevsky
+3. To Kill a Mockingbird by Harper Lee
+4. The Catcher in the Rye by J.D. Salinger
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Brave New World by Aldous Huxley
+7. The Stranger by Albert Camus
+8. The Trial by Franz Kafka
+9. The Metamorphosis by Franz Kafka
+10. The Picture of Dorian Gray by Oscar Wilde
+11. Heart of Darkness by Joseph Conrad
+12. Lord of the Flies by William Golding
+13. Animal Farm by George Orwell
+14. The Bell Jar by Sylvia Plath
+15. A Clockwork Orange by Anthony Burgess
+16. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+17. The Road by Cormac McCarthy
+18. The Handmaid's Tale by Margaret Atwood
+19. The Stand by Stephen King
+20. The Shining by Stephen King
+21. The Dark Tower series by Stephen King
+22. The Name of the Wind by Patrick Rothfuss
+23. The Lord of the Rings by J.R.R. Tolkien
+24. The Hobbit by J.R.R. Tolkien
+25. The Silmarillion by J.R.R. Tolkien
+26. The Chronicles of Narnia by C.S. Lewis
+27. The Hitchhiker's Guide to the Galaxy series by Douglas Adams
+28. The Foundation series by Isaac Asimov
+29. The Martian Chronicles by Ray Bradbury
+30. Fahrenheit 451 by Ray Bradbury
+31. The War of the Worlds by H.G. Wells
+32. The Time Machine by H.G. Wells
+33. The Invisible Man by H.G. Wells
+34. The Island of Dr. Moreau by H.G. Wells
+35. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+36. Frankenstein by Mary Shelley
+37. Dracula by Bram Stoker
+38. The Picture of Dorian Gray by Oscar Wilde
+39. The Importance of Being Earnest by Oscar Wilde
+40. The Canterbury Tales by Geoffrey Chaucer
+41. The Divine Comedy by Dante Alighieri
+42. The Iliad by Homer
+43. The Odyssey by Homer
+44. Beowulf by Anonymous
+45. The Epic of Gilgamesh by Anonymous
+46. The Art of War by Sun Tzu
+47. The Tao Te Ching by Lao Tzu
+48. The Analects by Confucius
+49. The Republic by Plato
+50. The Symposium by Plato

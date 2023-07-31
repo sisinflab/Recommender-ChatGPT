@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Jane Eyre by Charlotte Bronte
+2. Nineteen Eighty-Four by George Orwell
+3. Macbeth by William Shakespeare
+4. The Picture of Dorian Gray by Oscar Wilde
+5. Wuthering Heights by Emily Bronte
+6. The Old Man and the Sea by Ernest Hemingway
+7. Dracula by Bram Stoker
+8. Great Expectations by Charles Dickens
+9. The Alchemist by Paulo Coelho
+10. The Da Vinci Code by Dan Brown
+11. Alice's Adventures in Wonderland by Lewis Carroll
+12. The Importance of Being Earnest by Oscar Wilde
+13. Les Miserables by Victor Hugo
+14. Sense and Sensibility by Jane Austen
+15. A Thousand Splendid Suns by Khaled Hosseini
+16. The Tipping Point by Malcolm Gladwell
+17. Angels & Demons by Dan Brown
+18. Private by James Patterson
+19. The Merchant of Venice by William Shakespeare
+20. Moby-Dick by Herman Melville
+21. White Noise by Don DeLillo
+22. Helter Skelter by Vincent Bugliosi
+23. Paper Towns by John Green
+24. The Fall of the House of Usher by Edgar Allan Poe
+25. The Valkyries by Paulo Coelho
+26. Wide Sargasso Sea by Jean Rhys
+27. The Perks of Being a Wallflower by Stephen Chbosky
+28. Freakonomics by Steven Levitt and Stephen Dubner
+29. Twenty Thousand Leagues Under the Sea by Jules Verne
+30. The Crucible of Time by John Brunner
+31. Lies That Chelsea Handler Told Me by Chelsea Handler
+32. The Holy Blood and the Holy Grail by Michael Baigent, Richard Leigh, and Henry Lincoln
+33. Harry Potter by J.K. Rowling
+34. Blink by Malcolm Gladwell
+35. Veronika Decides to Die by Paulo Coelho
+36. Weetzie Bat by Francesca Lia Block
+37. Day Watch by Sergei Lukyanenko
+38. We Were Soldiers Once... And Young by Harold G. Moore and Joseph L. Galloway
+39. Something Wicked This Way Comes by Ray Bradbury
+40. Raise High the Roof Beam, Carpenters and Seymour: An Introduction by J.D. Salinger
+41. A Series of Unfortunate Events by Lemony Snicket
+42. The Prisoner of Zenda by Anthony Hope
+43. Along Came a Spider by James Patterson
+44. Cecilia by Fanny Burney
+45. Chronicles of Ancient Darkness by Michelle Paver
+46. Sons and Lovers by D.H. Lawrence
+47. Will Grayson, Will Grayson by John Green and David Levithan
+48. We the Living by Ayn Rand

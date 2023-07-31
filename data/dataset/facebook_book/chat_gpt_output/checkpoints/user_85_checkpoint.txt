@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Fight Club by Chuck Palahniuk
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. Brave New World by Aldous Huxley
+5. The Alchemist by Paulo Coelho
+6. The Hunger Games by Suzanne Collins
+7. The Girl with the Dragon Tattoo by Stieg Larsson
+8. The Da Vinci Code by Dan Brown
+9. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+10. The Picture of Dorian Gray by Oscar Wilde
+11. The Road by Cormac McCarthy
+12. The Shining by Stephen King
+13. The Stand by Stephen King
+14. The Hobbit by J.R.R. Tolkien
+15. The Fellowship of the Ring by J.R.R. Tolkien
+16. The Two Towers by J.R.R. Tolkien
+17. The Return of the King by J.R.R. Tolkien
+18. The Chronicles of Narnia by C.S. Lewis
+19. The Giver by Lois Lowry
+20. The Outsiders by S.E. Hinton
+21. Lord of the Flies by William Golding
+22. Animal Farm by George Orwell
+23. The Bell Jar by Sylvia Plath
+24. One Hundred Years of Solitude by Gabriel Garcia Marquez
+25. Crime and Punishment by Fyodor Dostoevsky
+26. The Brothers Karamazov by Fyodor Dostoevsky
+27. The Idiot by Fyodor Dostoevsky
+28. The Picture of Dorian Gray by Oscar Wilde
+29. The Importance of Being Earnest by Oscar Wilde
+30. The Sun Also Rises by Ernest Hemingway
+31. A Farewell to Arms by Ernest Hemingway
+32. For Whom the Bell Tolls by Ernest Hemingway
+33. The Old Man and the Sea by Ernest Hemingway
+34. The Great Gatsby by F. Scott Fitzgerald
+35. Tender Is the Night by F. Scott Fitzgerald
+36. This Side of Paradise by F. Scott Fitzgerald
+37. To Kill a Mockingbird by Harper Lee
+38. Go Set a Watchman by Harper Lee
+39. The Secret Life of Bees by Sue Monk Kidd
+40. The Help by Kathryn Stockett
+41. The Color Purple by Alice Walker
+42. The Joy Luck Club by Amy Tan
+43. The Kite Runner by Khaled Hosseini
+44. A Thousand Splendid Suns by Khaled Hosseini
+45. The Glass Castle by Jeannette Walls
+46. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+47. The Devil in the White City by Erik Larson
+48. Into Thin Air by Jon Krakauer
+49.

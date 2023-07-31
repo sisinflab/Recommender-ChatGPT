@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Slaughterhouse-Five by Kurt Vonnegut
+2. Cat's Cradle by Kurt Vonnegut
+3. Breakfast of Champions by Kurt Vonnegut
+4. The Catcher in the Rye by J.D. Salinger
+5. 1984 by George Orwell
+6. Animal Farm by George Orwell
+7. Brave New World by Aldous Huxley
+8. One Hundred Years of Solitude by Gabriel Garcia Marquez
+9. Love in the Time of Cholera by Gabriel Garcia Marquez
+10. The Stranger by Albert Camus
+11. The Plague by Albert Camus
+12. The Bell Jar by Sylvia Plath
+13. To Kill a Mockingbird by Harper Lee
+14. The Great Gatsby by F. Scott Fitzgerald
+15. The Sun Also Rises by Ernest Hemingway
+16. For Whom the Bell Tolls by Ernest Hemingway
+17. The Sound and the Fury by William Faulkner
+18. As I Lay Dying by William Faulkner
+19. Crime and Punishment by Fyodor Dostoevsky
+20. The Brothers Karamazov by Fyodor Dostoevsky
+21. Anna Karenina by Leo Tolstoy
+22. War and Peace by Leo Tolstoy
+23. The Picture of Dorian Gray by Oscar Wilde
+24. Frankenstein by Mary Shelley
+25. Dracula by Bram Stoker
+26. Wuthering Heights by Emily Bronte
+27. Jane Eyre by Charlotte Bronte
+28. Pride and Prejudice by Jane Austen
+29. Sense and Sensibility by Jane Austen
+30. Emma by Jane Austen
+31. The Adventures of Huckleberry Finn by Mark Twain
+32. The Adventures of Tom Sawyer by Mark Twain
+33. The Hobbit by J.R.R. Tolkien
+34. The Lord of the Rings by J.R.R. Tolkien
+35. The Chronicles of Narnia by C.S. Lewis
+36. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+37. The Foundation Trilogy by Isaac Asimov
+38. Dune by Frank Herbert
+39. Ender's Game by Orson Scott Card
+40. The Martian Chronicles by Ray Bradbury
+41. Something Wicked This Way Comes by Ray Bradbury
+42. The Martian by Andy Weir
+43. The Road by Cormac McCarthy
+44. Blood Meridian by Cormac McCarthy
+45. The Name of the Wind by Patrick Rothfuss
+46. The Lies of Locke Lamora by Scott Lynch
+47. The Blade Itself by Joe Abercrombie
+48. The Way of Kings by Brandon Sanderson
+49. Mistborn by Brandon Sanderson
+50. The Final Empire

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Dean Martin
+2. Tony Bennett
+3. Nat King Cole
+4. Bing Crosby
+5. Louis Armstrong
+6. Ella Fitzgerald
+7. Ray Charles
+8. Johnny Cash
+9. Bob Dylan
+10. Simon & Garfunkel
+11. The Rolling Stones
+12. The Who
+13. Pink Floyd
+14. Bob Marley
+15. Eric Clapton
+16. Fleetwood Mac
+17. Tom Petty
+18. Neil Young
+19. The Eagles
+20. Guns N' Roses
+21. Metallica
+22. AC/DC
+23. Aerosmith
+24. Bon Jovi
+25. Def Leppard
+26. Journey
+27. Foreigner
+28. Boston
+29. Kansas
+30. Styx
+31. Rush
+32. Genesis
+33. Yes
+34. Emerson, Lake & Palmer
+35. Jethro Tull
+36. The Doors
+37. Jimi Hendrix
+38. Cream
+39. The Allman Brothers Band
+40. Lynyrd Skynyrd
+41. ZZ Top
+42. Steely Dan
+43. Earth, Wind & Fire
+44. Kool & The Gang
+45. The Temptations
+46. The Four Tops
+47. The Supremes
+48. Marvin Gaye
+49. Al Green
+50. Otis Redding

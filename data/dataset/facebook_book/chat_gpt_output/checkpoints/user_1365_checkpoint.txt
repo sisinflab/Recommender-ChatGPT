@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Inferno by Dan Brown
+2. Digital Fortress by Dan Brown
+3. The Lost Symbol by Dan Brown
+4. Origin by Dan Brown
+5. The Girl with the Dragon Tattoo by Stieg Larsson
+6. The Girl Who Played with Fire by Stieg Larsson
+7. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+8. The Shadow of the Wind by Carlos Ruiz Zafón
+9. One Hundred Years of Solitude by Gabriel García Márquez
+10. Love in the Time of Cholera by Gabriel García Márquez
+11. Crime and Punishment by Fyodor Dostoevsky
+12. The Brothers Karamazov by Fyodor Dostoevsky
+13. War and Peace by Leo Tolstoy
+14. Anna Karenina by Leo Tolstoy
+15. The Picture of Dorian Gray by Oscar Wilde
+16. The Great Gatsby by F. Scott Fitzgerald
+17. To Kill a Mockingbird by Harper Lee
+18. 1984 by George Orwell
+19. Animal Farm by George Orwell
+20. Brave New World by Aldous Huxley
+21. Fahrenheit 451 by Ray Bradbury
+22. The Catcher in the Rye by J.D. Salinger
+23. The Bell Jar by Sylvia Plath
+24. The Handmaid's Tale by Margaret Atwood
+25. The Road by Cormac McCarthy
+26. The Stand by Stephen King
+27. It by Stephen King
+28. The Shining by Stephen King
+29. The Silence of the Lambs by Thomas Harris
+30. Red Dragon by Thomas Harris
+31. The Name of the Rose by Umberto Eco
+32. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+33. The Lord of the Rings by J.R.R. Tolkien
+34. The Hobbit by J.R.R. Tolkien
+35. The Chronicles of Narnia by C.S. Lewis
+36. The Hunger Games by Suzanne Collins
+37. Catching Fire by Suzanne Collins
+38. Mockingjay by Suzanne Collins
+39. The Maze Runner by James Dashner
+40. The Bourne Identity by Robert Ludlum
+41. The Da Vinci Code (Young Adult Adaptation) by Dan Brown
+42. The Unbearable Lightness of Being (Movie Tie-in Edition) by Milan Kundera
+43. Romeo and Juliet (No Fear Shakespeare) by William Shakespeare
+44. The Bible (New International Version)
+45. I Am Legend and Other Stories by Richard Matheson
+46. The Coldest Winter Ever by Sister Souljah
+47. The Hamlet by William Faulkner
+48. Dracula by Bram Stoker
+49. Frankenstein by Mary Shelley
+50. Wuthering Heights by Emily Br

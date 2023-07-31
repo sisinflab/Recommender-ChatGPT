@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. A Tribe Called Quest
+2. Madlib
+3. J Dilla
+4. Mos Def
+5. O.S.T.R.
+6. Lupe Fiasco
+7. De La Soul
+8. The Roots
+9. Jay-Z
+10. Common
+11. Madvillain
+12. Flying Lotus
+13. Ratatat
+14. DJ Shadow
+15. Gnarls Barkley
+16. Bonobo
+17. Hot Chip
+18. Yeasayer
+19. Jack Johnson
+20. Black Eyed Peas
+21. Radiohead
+22. Muse
+23. Pink Floyd
+24. Nirvana
+25. Led Zeppelin
+26. Metallica
+27. Iron Maiden
+28. Pearl Jam
+29. Nine Inch Nails
+30. Daft Punk
+31. Linkin Park
+32. System of a Down
+33. The Killers
+34. Coldplay
+35. Arctic Monkeys
+36. Placebo
+37. Duran Duran
+38. Michael Jackson
+39. Madonna
+40. Beyoncé
+41. Rihanna
+42. Lady Gaga
+43. Christina Aguilera
+44. Katy Perry
+45. Taylor Swift
+46. Ke$ha
+47. Evanescence
+48. My Chemical Romance
+49. Green Day
+50. The Cure

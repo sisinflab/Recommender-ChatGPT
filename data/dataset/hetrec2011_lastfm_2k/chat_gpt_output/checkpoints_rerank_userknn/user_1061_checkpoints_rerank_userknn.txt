@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Stevie Ray Vaughan and Double Trouble
+2. Eric Clapton
+3. John Lee Hooker
+4. Muddy Waters
+5. Buddy Guy
+6. Gary Moore
+7. Robert Johnson
+8. Howlin' Wolf
+9. Aerosmith
+10. Red Hot Chili Peppers
+11. Metallica
+12. ZZ Top
+13. Guns N' Roses
+14. Nirvana
+15. The Rolling Stones
+16. Jimi Hendrix
+17. Cream
+18. The Doors
+19. Santana
+20. Lynyrd Skynyrd
+21. Paul McCartney & Wings
+22. The Beatles
+23. Ray Charles
+24. Stevie Wonder
+25. Louis Armstrong
+26. Sam Cooke
+27. Aretha Franklin
+28. Rage Against the Machine
+29. Audioslave
+30. Foo Fighters
+31. The Who
+32. Electric Light Orchestra
+33. Muse
+34. Janis Joplin
+35. Johnny Cash
+36. Ramones
+37. The Offspring
+38. Slash
+39. My Chemical Romance
+40. Coldplay
+41. Lady Gaga
+42. Beck
+43. Interpol
+44. AFI
+45. The Kooks
+46. MGMT
+47. Creedence Clearwater Revival
+48. Taking Back Sunday
+49. Relient K
+50. Alkaline Trio

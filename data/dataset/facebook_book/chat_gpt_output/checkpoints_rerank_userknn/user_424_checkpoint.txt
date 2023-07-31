@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hobbit
+2. The Lord of the Rings
+3. Harry Potter
+4. To Kill a Mockingbird
+5. The Kite Runner
+6. The Great Gatsby
+7. Romeo and Juliet
+8. Frankenstein
+9. The Fountainhead
+10. My Name Is Red
+11. The Alchemist
+12. Othello
+13. The Chronicles of Narnia: Prince Caspian
+14. The Return of the King
+15. The Fellowship of the Ring
+16. The Taming of the Shrew
+17. A Midsummer Night's Dream
+18. Beauty: A Retelling of the Story of Beauty and the Beast
+19. Persepolis (comics)
+20. The Secret (book)
+21. Rebecca (novel)
+22. State of Fear
+23. The Hardy Boys
+24. Ways to Live Forever
+25. The Prodigal Daughter
+26. The Shack
+27. My Sister's Keeper (novel)
+28. Angels & Demons
+29. The Anarchist Cookbook
+30. The Good Earth
+31. Deception Point
+32. The Heroin Diaries: A Year in the Life of a Shattered Rock Star
+33. The 3 Mistakes of My Life
+34. It (novel)
+35. Night (book)
+36. The Autobiography of Malcolm X
+37. Congo (novel)
+38. Timeline (novel)
+39. Shanghai Girls
+40. Strange Case of Dr Jekyll and Mr Hyde
+41. Choke (novel)
+42. Encyclopædia Britannica
+43. Before I Die
+44. Five Point Someone
+45. Looking for Alaska
+46. On War
+47. How the García Girls Lost Their Accents
+48. One Night @ the Call Center
+49. Cirque du Freak
+50. A Tree Grows in Brooklyn (novel)

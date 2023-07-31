@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Bell Jar by Sylvia Plath
+2. Prozac Nation by Elizabeth Wurtzel
+3. The Catcher in the Rye by J.D. Salinger
+4. The Virgin Suicides by Jeffrey Eugenides
+5. The Lovely Bones by Alice Sebold
+6. The Girl on the Train by Paula Hawkins
+7. The Secret History by Donna Tartt
+8. The Handmaid's Tale by Margaret Atwood
+9. The Hunger Games by Suzanne Collins
+10. The Fault in Our Stars by John Green
+11. The Perks of Being a Wallflower by Stephen Chbosky
+12. The Road by Cormac McCarthy
+13. The Book Thief by Markus Zusak
+14. The Kite Runner by Khaled Hosseini
+15. The Help by Kathryn Stockett
+16. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+17. The Picture of Dorian Gray by Oscar Wilde
+18. The Great Gatsby by F. Scott Fitzgerald
+19. The Shining by Stephen King
+20. The Stand by Stephen King
+21. The Silence of the Lambs by Thomas Harris
+22. The Da Vinci Code by Dan Brown
+23. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+24. The Lord of the Rings by J.R.R. Tolkien
+25. The Hobbit by J.R.R. Tolkien
+26. The Chronicles of Narnia by C.S. Lewis
+27. The Harry Potter series by J.K. Rowling
+28. The Hunger Games series by Suzanne Collins
+29. The Maze Runner series by James Dashner
+30. The Divergent series by Veronica Roth
+31. The Twilight series by Stephenie Meyer
+32. The Giver by Lois Lowry
+33. The Outsiders by S.E. Hinton
+34. The Fault in Our Stars by John Green
+35. The Perks of Being a Wallflower by Stephen Chbosky
+36. The Catcher in the Rye by J.D. Salinger
+37. The Bell Jar by Sylvia Plath
+38. The Virgin Suicides by Jeffrey Eugenides
+39. The Lovely Bones by Alice Sebold
+40. The Girl on the Train by Paula Hawkins
+41. The Secret History by Donna Tartt
+42. The Handmaid's Tale by Margaret Atwood
+43. The Hunger Games by Suzanne Collins
+44. The Fault in Our Stars by John Green
+45. The Perks of Being a Wallflower by Stephen Chbosky
+46. The Road by Cormac McCarthy
+47. The Book Thief by Markus Zusak
+48. The Kite Runner by Khaled Hosseini
+49. The Help by Kathryn Stockett
+50. The Curious Incident of the Dog in the Night-Time by Mark H

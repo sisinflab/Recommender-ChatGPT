@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games (series) by Suzanne Collins
+2. Divergent (series) by Veronica Roth
+3. The Maze Runner (series) by James Dashner
+4. The Fault in Our Stars by John Green
+5. The Book Thief by Markus Zusak
+6. The Chronicles of Narnia (series) by C.S. Lewis
+7. The Lord of the Rings (series) by J.R.R. Tolkien
+8. The Hobbit by J.R.R. Tolkien
+9. The Harry Potter (series) by J.K. Rowling
+10. The Giver by Lois Lowry
+11. The Outsiders by S.E. Hinton
+12. To Kill a Mockingbird by Harper Lee
+13. The Catcher in the Rye by J.D. Salinger
+14. The Perks of Being a Wallflower by Stephen Chbosky
+15. Romeo and Juliet by William Shakespeare
+16. The Great Gatsby by F. Scott Fitzgerald
+17. Animal Farm by George Orwell
+18. 1984 by George Orwell
+19. Lord of the Flies by William Golding
+20. Brave New World by Aldous Huxley
+21. Fahrenheit 451 by Ray Bradbury
+22. The Handmaid's Tale by Margaret Atwood
+23. The Picture of Dorian Gray by Oscar Wilde
+24. The Count of Monte Cristo by Alexandre Dumas
+25. Les Misérables by Victor Hugo
+26. Jane Eyre by Charlotte Bronte
+27. Wuthering Heights by Emily Bronte
+28. Pride and Prejudice by Jane Austen
+29. Sense and Sensibility by Jane Austen
+30. Emma by Jane Austen
+31. Persuasion by Jane Austen
+32. Northanger Abbey by Jane Austen
+33. The Secret Garden by Frances Hodgson Burnett
+34. A Little Princess by Frances Hodgson Burnett
+35. Anne of Green Gables by L.M. Montgomery
+36. Little Women by Louisa May Alcott
+37. The Adventures of Tom Sawyer by Mark Twain
+38. The Adventures of Huckleberry Finn by Mark Twain
+39. Treasure Island by Robert Louis Stevenson
+40. The Three Musketeers by Alexandre Dumas
+41. The Phantom of the Opera by Gaston Leroux
+42. Dracula by Bram Stoker
+43. Frankenstein by Mary Shelley
+44. The Picture of Dorian Gray by Oscar Wilde
+45. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+46. The War of the Worlds by H.G. Wells
+47. The Time Machine by H.G. Wells
+48. The Invisible Man by H.G. Wells
+49. The Island of Dr. Moreau by H.G. Wells
+50. The Call of

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Frankenstein by Mary Shelley
+2. Fahrenheit 451 by Ray Bradbury
+3. Macbeth by William Shakespeare
+4. Mere Christianity by C.S. Lewis
+5. The Giver by Lois Lowry
+6. Things Fall Apart by Chinua Achebe
+7. Stardust by Neil Gaiman
+8. Persuasion by Jane Austen
+9. Crime and Punishment by Fyodor Dostoevsky
+10. The Picture of Dorian Gray by Oscar Wilde
+11. To the Lighthouse by Virginia Woolf
+12. Sense and Sensibility by Jane Austen
+13. Les Misérables by Victor Hugo
+14. Wide Sargasso Sea by Jean Rhys
+15. Slaughterhouse-Five by Kurt Vonnegut
+16. Brave New World by Aldous Huxley
+17. Extremely Loud and Incredibly Close by Jonathan Safran Foer
+18. A Tale of Two Cities by Charles Dickens
+19. Great Expectations by Charles Dickens
+20. Memoirs of a Geisha by Arthur Golden
+21. Life of Pi by Yann Martel
+22. The Shadow of the Wind by Carlos Ruiz Zafón
+23. The Bell Jar by Sylvia Plath
+24. A Portrait of the Artist as a Young Man by James Joyce
+25. The Tipping Point by Malcolm Gladwell
+26. American Gods by Neil Gaiman
+27. The Awakening by Kate Chopin
+28. The Catcher in the Rye by J.D. Salinger
+29. The Hamlet by William Faulkner
+30. The Merchant of Venice by William Shakespeare
+31. The Devil's Dictionary by Ambrose Bierce
+32. Blue Like Jazz by Donald Miller
+33. Inferno by Dante Alighieri
+34. Battle Royale by Koushun Takami
+35. Tithe: A Modern Faerie Tale by Holly Black
+36. Dear John by Nicholas Sparks
+37. Sunshine by Robin McKinley
+38. Carmilla by J. Sheridan Le Fanu
+39. Mark of the Lion Series by Francine Rivers
+40. Space by James A. Michener
+41. Labyrinth by Kate Mosse
+42. The Tenth Circle by Jodi Picoult
+43. Blink by Malcolm Gladwell
+44. Three Cups of Tea by Greg Mortenson and David Oliver Relin
+45. Hood by Stephen R. Lawhead
+46. My Ántonia by Willa Cather
+47. The Great Divorce by C.S. Lewis
+48. Till We Have Faces by C.S. Lewis
+49. A Wrinkle in Time by Madeleine L'Engle
+50. Wuthering Heights by Emily Brontë

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Beatles
+2. Michael Jackson
+3. Queen
+4. U2
+5. Oasis
+6. John Mayer
+7. Justin Timberlake
+8. Paul McCartney
+9. Rihanna
+10. Shakira
+11. Madonna
+12. Elton John
+13. Backstreet Boys
+14. Alicia Keys
+15. Enrique Iglesias
+16. Red Hot Chili Peppers
+17. Christina Aguilera
+18. Bee Gees
+19. Jennifer Lopez
+20. Thalía
+21. Luis Miguel
+22. Alejandro Sanz
+23. Avril Lavigne
+24. Robyn
+25. Lady Antebellum
+26. Andrea Bocelli
+27. Sarah Brightman
+28. Chico Buarque
+29. Anahí
+30. Glee Cast
+31. *NSYNC
+32. Christian Chávez
+33. Juanes
+34. Delta Goodrem
+35. Amy Winehouse
+36. Taylor Swift
+37. Evanescence
+38. Timbaland
+39. Daughtry
+40. Kylie Minogue
+41. Katy Perry
+42. No Doubt
+43. Sophie Ellis-Bextor
+44. Ke$ha
+45. Black Eyed Peas
+46. Beyoncé
+47. A Fine Frenzy
+48. Marjorie Estiano
+49. Céline Dion
+50. Britney Spears

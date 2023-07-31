@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Depeche Mode
+2. Madonna
+3. Britney Spears
+4. Michael Jackson
+5. U2
+6. Iron Maiden
+7. Pink Floyd
+8. Queen
+9. Eminem
+10. The Cure
+11. Lady Gaga
+12. Within Temptation
+13. Schiller
+14. Alphaville
+15. Scooter
+16. Amy Macdonald
+17. Soulfly
+18. Gossip
+19. Nitzer Ebb
+20. Recoil
+21. David Bowie
+22. Dead Can Dance
+23. Crystal Castles
+24. Yann Tiersen
+25. Nirvana
+26. De/Vision
+27. Celldweller
+28. Dave Gahan
+29. Ladytron
+30. IAMX
+31. Marilyn Manson
+32. Moby
+33. Daft Punk
+34. Portishead
+35. Rammstein
+36. Emilie Autumn
+37. Muse
+38. Tiësto
+39. Linkin Park
+40. The Prodigy
+41. Duran Duran
+42. Placebo
+43. Pet Shop Boys
+44. Bauhaus
+45. And One
+46. Sia
+47. Zемфира
+48. Evanescence
+49. No Doubt
+50. OneRepublic

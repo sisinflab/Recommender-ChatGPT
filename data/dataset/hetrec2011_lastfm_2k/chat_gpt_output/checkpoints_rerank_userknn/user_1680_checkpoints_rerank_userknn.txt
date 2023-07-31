@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. Elliott Smith
+3. The Smiths
+4. Pink Floyd
+5. Jeff Buckley
+6. Queen
+7. Bob Marley
+8. The Beatles
+9. Coldplay
+10. The Cure
+11. Yann Tiersen
+12. Gorillaz
+13. MGMT
+14. The Strokes
+15. Arcade Fire
+16. Sufjan Stevens
+17. The Kooks
+18. Los Hermanos
+19. Band of Horses
+20. Iron & Wine
+21. The xx
+22. Regina Spektor
+23. Beirut
+24. Ulver
+25. Travis
+26. Maroon 5
+27. Feist
+28. Tori Amos
+29. Nouvelle Vague
+30. Dido
+31. Anathema
+32. Pet Shop Boys
+33. Lady Gaga
+34. Paolo Nutini
+35. John Lennon
+36. George Harrison
+37. The Beach Boys
+38. Hot Chip
+39. Erykah Badu
+40. Engenheiros do Hawaii
+41. U2
+42. Scorpions
+43. Tom Waits
+44. The Killers
+45. Parov Stelar
+46. Timbaland
+47. Arctic Monkeys
+48. Justin Timberlake
+49. Kanye West
+50. Katy Perry

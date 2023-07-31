@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Great Gatsby by F. Scott Fitzgerald
+2. Catch-22 by Joseph Heller
+3. Franny and Zooey by J.D. Salinger
+4. The Bell Jar by Sylvia Plath
+5. Crime and Punishment by Fyodor Dostoyevsky
+6. The Brothers Karamazov by Fyodor Dostoyevsky
+7. The Catcher in the Rye by J.D. Salinger
+8. Lolita by Vladimir Nabokov
+9. Nineteen Eighty-Four by George Orwell
+10. Brave New World by Aldous Huxley
+11. Invisible Man by Ralph Ellison
+12. The Trial by Franz Kafka
+13. The Picture of Dorian Gray by Oscar Wilde
+14. A Clockwork Orange by Anthony Burgess
+15. The Old Man and the Sea by Ernest Hemingway
+16. The Sound and the Fury by William Faulkner
+17. Paradise Lost by John Milton
+18. The Lord of the Rings by J.R.R. Tolkien
+19. Dracula by Bram Stoker
+20. The Fountainhead by Ayn Rand
+21. Frankenstein by Mary Shelley
+22. The Colour of Magic by Terry Pratchett
+23. The Giver by Lois Lowry
+24. All Quiet on the Western Front by Erich Maria Remarque
+25. The Mists of Avalon by Marion Zimmer Bradley
+26. The Shadow of the Wind by Carlos Ruiz Zafón
+27. The Satanic Verses by Salman Rushdie
+28. The Lovely Bones by Alice Sebold
+29. The Magus by John Fowles
+30. Pyramids by Terry Pratchett
+31. Through the Eye of the Needle by Ken Follett
+32. The Time Machine by H.G. Wells
+33. Twenty Thousand Leagues Under the Sea by Jules Verne
+34. Howl by Allen Ginsberg
+35. Underworld by Don DeLillo
+36. Mind Siege by Tim LaHaye
+37. Ferdydurke by Witold Gombrowicz
+38. Choke by Chuck Palahniuk
+39. The Grapes of Wrath by John Steinbeck
+40. On the Road by Jack Kerouac
+41. Musashi by Eiji Yoshikawa
+42. Reviving Ophelia by Mary Pipher
+43. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+44. Of Mice and Men by John Steinbeck
+45. The Good Earth by Pearl S. Buck
+46. Sun Bin's Art of War by Sun Bin
+47. Finnegans Wake by James Joyce
+48. The Unbearable Lightness of Being by Milan Kundera
+49. A Farewell to Arms by Ernest Hemingway
+50. Cosmos

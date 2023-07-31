@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter
+2. Pride and Prejudice
+3. Memoirs of a Geisha
+4. The Hunger Games
+5. Nineteen Eighty-Four
+6. Jane Eyre
+7. The Phantom of the Opera
+8. The Secret Garden
+9. Little Women
+10. The Catcher in the Rye
+11. The Vampire Chronicles
+12. Inkspell
+13. Alice's Adventures in Wonderland
+14. The Little Prince
+15. Mansfield Park
+16. A Tale of Two Cities
+17. The Count of Monte Cristo
+18. Roots: The Saga of an American Family
+19. Chocolat (novel)
+20. The Gift (book)
+21. The Wedding (Steel novel)
+22. The Sandman (book)
+23. The Canterville Ghost
+24. The True Believer
+25. The Guardian (novel)
+26. The Host (novel)
+27. Eat, Pray, Love
+28. The Lucky One (novel)
+29. Dear John (novel)
+30. For One More Day
+31. The Sisterhood of the Traveling Pants (novel)
+32. Romeo and Juliet
+33. Emma (novel)
+34. The Notebook (novel)
+35. At First Sight (novel)
+36. Twilight (series)
+37. Johnny Tremain
+38. Book of Revelation
+39. The Giver
+40. Dreams from My Father
+41. Where Rainbows End
+42. A Demon in My View
+43. Cut (novel)
+44. The Key (Curley novel)
+45. Northanger Abbey
+46. Chasing Vermeer
+47. Mockingjay
+48. Green Lantern (comic book)
+49. Cross My Heart and Hope to Spy
+50. The Sight (novel)

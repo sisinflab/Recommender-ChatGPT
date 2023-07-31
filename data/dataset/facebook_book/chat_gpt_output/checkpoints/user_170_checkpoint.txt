@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Fight Club by Chuck Palahniuk
+2. Survivor by Chuck Palahniuk
+3. Choke by Chuck Palahniuk
+4. Lullaby by Chuck Palahniuk
+5. Haunted by Chuck Palahniuk
+6. The Catcher in the Rye by J.D. Salinger
+7. The Great Gatsby by F. Scott Fitzgerald
+8. To Kill a Mockingbird by Harper Lee
+9. 1984 by George Orwell
+10. Animal Farm by George Orwell
+11. The Lord of the Rings by J.R.R. Tolkien
+12. The Hobbit by J.R.R. Tolkien
+13. The Hunger Games by Suzanne Collins
+14. Catching Fire by Suzanne Collins
+15. Mockingjay by Suzanne Collins
+16. Divergent by Veronica Roth
+17. Insurgent by Veronica Roth
+18. Allegiant by Veronica Roth
+19. The Maze Runner by James Dashner
+20. The Scorch Trials by James Dashner
+21. The Death Cure by James Dashner
+22. The Fault in Our Stars by John Green
+23. Looking for Alaska by John Green
+24. Paper Towns by John Green
+25. An Abundance of Katherines by John Green
+26. The Perks of Being a Wallflower by Stephen Chbosky
+27. The Girl with the Dragon Tattoo by Stieg Larsson
+28. The Girl Who Played with Fire by Stieg Larsson
+29. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+30. The Da Vinci Code by Dan Brown
+31. Angels & Demons by Dan Brown
+32. Inferno by Dan Brown
+33. The Shining by Stephen King
+34. Carrie by Stephen King
+35. It by Stephen King
+36. The Stand by Stephen King
+37. The Dark Tower I: The Gunslinger by Stephen King
+38. The Dark Tower II: The Drawing of the Three by Stephen King
+39. The Dark Tower III: The Waste Lands by Stephen King
+40. The Dark Tower IV: Wizard and Glass by Stephen King
+41. The Dark Tower V: Wolves of the Calla by Stephen King
+42. The Dark Tower VI: Song of Susannah by Stephen King
+43. The Dark Tower VII: The Dark Tower by Stephen King
+44. The Chronicles of Narnia by C.S. Lewis
+45. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+46. Ender's Game by Orson Scott Card
+47. Speaker for the Dead by Orson Scott Card
+48. Xenocide by Orson Scott Card
+49. Children of the Mind by Orson Scott Card
+50. The Name of the Wind by Patrick Rothfuss

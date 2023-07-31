@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Slaughterhouse-Five by Kurt Vonnegut
+2. Brave New World by Aldous Huxley
+3. Fahrenheit 451 by Ray Bradbury
+4. Catch-22 by Joseph Heller
+5. The Hobbit by J.R.R. Tolkien
+6. The Lord of the Rings by J.R.R. Tolkien
+7. His Dark Materials by Philip Pullman
+8. The Glass Bead Game by Hermann Hesse
+9. The Outsiders by S.E. Hinton
+10. The Little Prince by Antoine de Saint-Exupéry
+11. The Perks of Being a Wallflower by Stephen Chbosky
+12. Nineteen Eighty-Four by George Orwell
+13. The Stand by Stephen King
+14. The Princess Bride by William Goldman
+15. The Stranger by Albert Camus
+16. Gulliver's Travels by Jonathan Swift
+17. Don Quixote by Miguel de Cervantes
+18. Frankenstein by Mary Shelley
+19. Holes by Louis Sachar
+20. Great Expectations by Charles Dickens
+21. The Tao of Pooh by Benjamin Hoff
+22. Guns, Germs, and Steel by Jared Diamond
+23. The World Is Flat by Thomas Friedman
+24. Player Piano by Kurt Vonnegut
+25. Predictably Irrational by Dan Ariely
+26. The Phantom Tollbooth by Norton Juster
+27. Emma by Jane Austen
+28. Wuthering Heights by Emily Bronte
+29. Inkheart by Cornelia Funke
+30. The Watchmen by Alan Moore
+31. The Illuminatus! Trilogy by Robert Shea and Robert Anton Wilson
+32. Ulysses by James Joyce
+33. Symposium by Plato
+34. The Mists of Avalon by Marion Zimmer Bradley
+35. Lord of the Flies by William Golding
+36. The Hatchet by Gary Paulsen
+37. Anthem by Ayn Rand
+38. Uglies by Scott Westerfeld
+39. Eldest by Christopher Paolini
+40. The Secret Life of Bees by Sue Monk Kidd
+41. Be More Chill by Ned Vizzini
+42. City of God by Augustine of Hippo
+43. Das Nibelungenlied: Ein Heldenepos in 39 Abenteuern by Unknown
+44. The Kreutzer Sonata by Leo Tolstoy
+45. The Hamlet by William Faulkner
+46. We by Yevgeny Zamyatin
+47. So Yesterday by Scott Westerfeld
+48. Sex, Drugs, and Cocoa Puffs by Chuck Klosterman
+49. Oliver Twist by Charles Dickens
+50. A Confederacy of Dunces by John Kennedy Toole

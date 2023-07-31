@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Great Gatsby by F. Scott Fitzgerald
+2. Catch-22 by Joseph Heller
+3. The Adventures of Tom Sawyer by Mark Twain
+4. The Old Man and the Sea by Ernest Hemingway
+5. Brave New World by Aldous Huxley
+6. Fahrenheit 451 by Ray Bradbury
+7. The Count of Monte Cristo by Alexandre Dumas
+8. The Lord of the Rings by J.R.R. Tolkien
+9. The Giver by Lois Lowry
+10. Harry Potter series by J.K. Rowling
+11. The Stranger by Albert Camus
+12. The Bell Jar by Sylvia Plath
+13. The Catcher in the Rye by J.D. Salinger
+14. The Sound and the Fury by William Faulkner
+15. The Grapes of Wrath by John Steinbeck
+16. A Farewell to Arms by Ernest Hemingway
+17. The Unbearable Lightness of Being by Milan Kundera
+18. The Myth of Sisyphus by Albert Camus
+19. The Joke by Milan Kundera
+20. The Secret Garden by Frances Hodgson Burnett
+21. Anne of Green Gables by L.M. Montgomery
+22. Memoirs of a Geisha by Arthur Golden
+23. Paradise Lost by John Milton
+24. The Lovely Bones by Alice Sebold
+25. The Historian by Elizabeth Kostova
+26. Left Behind by Tim LaHaye and Jerry B. Jenkins
+27. Thirteen Reasons Why by Jay Asher
+28. Night by Elie Wiesel
+29. American Gods by Neil Gaiman
+30. Sundays at Tiffany's by James Patterson
+31. Bury My Heart at Wounded Knee by Dee Brown
+32. The Awakening by Kate Chopin
+33. Bridget Jones's Diary by Helen Fielding
+34. Inferno by Dante Alighieri
+35. Iliad by Homer
+36. Choke by Chuck Palahniuk
+37. Essays by Michel de Montaigne
+38. Of Mice and Men by John Steinbeck
+39. This Lullaby by Sarah Dessen
+40. The Year of Living Biblically by A.J. Jacobs
+41. Zeitoun by Dave Eggers
+42. I, Robot by Isaac Asimov
+43. A Room of One's Own by Virginia Woolf
+44. Waiting for Godot by Samuel Beckett
+45. Wringer by Jerry Spinelli
+46. The Last Lecture by Randy Pausch
+47. The Importance of Being Earnest by Oscar Wilde
+48. East of Eden by John Steinbeck
+49. The Executioner's Song by Norman Mailer
+50. Philosophical Investigations by Ludwig Wittgenstein

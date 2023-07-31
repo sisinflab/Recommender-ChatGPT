@@ -1,0 +1,10 @@
+model_name	jaccard_coefficient
+VSM_sim=cosine_up=tfidf_ip=binary_load=ItemAttributes	0.11043077895139153
+AttributeItemKNN_nn=40_sim=correlation_bin=False_load=ItemAttributes	0.10104148088684671
+AttributeUserKNN_nn=100_sim=correlation_profile=binary_bin=False_load=ItemAttributes	0.13313513324384912
+ItemKNN_nn=100_sim=cosine_imp=standard_bin=False_shrink=0_norm=True_asymalpha=_tvalpha=_tvbeta=_rweights=	0.12459206884299702
+UserKNN_nn=100_sim=cosine_imp=standard_bin=False_shrink=0_norm=True_asymalpha=_tvalpha=_tvbeta=_rweights=	0.13901624505774698
+EASER_neighborhood=1507_l2_norm=28754079$46612463	0.12848389086054557
+RP3beta_neighborhood=507_alpha=1$0180281935718316_beta=0$41875971052261285_normalize_similarity=True	0.14718932583414673
+MostPop	0.04571063675103277
+Random_seed=42	0.005176775120541046

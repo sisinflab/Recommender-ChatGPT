@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Harry Potter by J.K. Rowling
+2. The Hobbit by J.R.R. Tolkien
+3. The Lord of the Rings by J.R.R. Tolkien
+4. A Wrinkle in Time by Madeleine L'Engle
+5. Inkheart by Cornelia Funke
+6. Inkspell by Cornelia Funke
+7. The Giver by Lois Lowry
+8. The Secret Garden by Frances Hodgson Burnett
+9. The Hunger Games by Suzanne Collins
+10. Ender's Game by Orson Scott Card
+11. Frankenstein by Mary Shelley
+12. The Catcher in the Rye by J.D. Salinger
+13. Alice's Adventures in Wonderland by Lewis Carroll
+14. The Little Prince by Antoine de Saint-Exupéry
+15. Tuck Everlasting by Natalie Babbitt
+16. Island of the Blue Dolphins by Scott O'Dell
+17. The True Confessions of Charlotte Doyle by Avi
+18. The Memoirs of Sherlock Holmes by Arthur Conan Doyle
+19. The Silence of the Lambs by Thomas Harris
+20. The Notebook by Nicholas Sparks
+21. Outlander by Diana Gabaldon
+22. The Shack by William P. Young
+23. The Things They Carried by Tim O'Brien
+24. Dracula by Bram Stoker
+25. Uncle Tom's Cabin by Harriet Beecher Stowe
+26. The Time Traveler's Wife by Audrey Niffenegger
+27. Night by Elie Wiesel
+28. The Doll People by Ann M. Martin
+29. The City of Ember by Jeanne DuPrau
+30. The Watchmen by Alan Moore
+31. The League of Extraordinary Gentlemen by Alan Moore
+32. The Silmarillion by J.R.R. Tolkien
+33. The Runaways by Ruth Thomas
+34. The Taming of the Shrew by William Shakespeare
+35. Mere Christianity by C.S. Lewis
+36. Fear Street by R.L. Stine
+37. Eighth Grade Bites by Heather Brewer
+38. The Last Olympian by Rick Riordan
+39. Luna by Julie Anne Peters
+40. Chinese Cinderella by Adeline Yen Mah
+41. Watchers by Dean Koontz
+42. Hannibal by Thomas Harris
+43. Under the Dome by Stephen King
+44. The Messenger by Markus Zusak
+45. Sun Bin's Art of War by Sun Bin
+46. Johnny the Homicidal Maniac by Jhonen Vasquez
+47. Inkdeath by Cornelia Funke
+48. Junjo Romantica: Pure Romance by Shungiku Nakamura
+49. Stargirl by Jerry Spinelli
+50. King Leary by Paul Quarrington

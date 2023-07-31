@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. To Kill a Mockingbird by Harper Lee
+3. 1984 by George Orwell
+4. The Great Gatsby by F. Scott Fitzgerald
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Lord of the Rings by J.R.R. Tolkien
+7. Pride and Prejudice by Jane Austen
+8. Animal Farm by George Orwell
+9. The Hobbit by J.R.R. Tolkien
+10. The Picture of Dorian Gray by Oscar Wilde
+11. The Adventures of Huckleberry Finn by Mark Twain
+12. The Brothers Karamazov by Fyodor Dostoevsky
+13. Crime and Punishment by Fyodor Dostoevsky
+14. The Count of Monte Cristo by Alexandre Dumas
+15. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+16. The Bell Jar by Sylvia Plath
+17. The Sun Also Rises by Ernest Hemingway
+18. The Old Man and the Sea by Ernest Hemingway
+19. The Sound and the Fury by William Faulkner
+20. The Grapes of Wrath by John Steinbeck
+21. The Far Side Gallery by Gary Larson
+22. The Inferno by Dante Alighieri
+23. The Divine Comedy by Dante Alighieri
+24. The Canterbury Tales by Geoffrey Chaucer
+25. The Tao of Pooh by Benjamin Hoff
+26. The House of the Seven Gables by Nathaniel Hawthorne
+27. The Scarlet Letter by Nathaniel Hawthorne
+28. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+29. The Time Machine by H.G. Wells
+30. The War of the Worlds by H.G. Wells
+31. The Invisible Man by H.G. Wells
+32. The Island of Dr. Moreau by H.G. Wells
+33. The Confessions of an Ugly Stepsister by Gregory Maguire
+34. Wicked: The Life and Times of the Wicked Witch of the West by Gregory Maguire
+35. The Hamlet by William Faulkner
+36. The Merchant of Venice by William Shakespeare
+37. Romeo and Juliet by William Shakespeare
+38. Macbeth by William Shakespeare
+39. Hamlet by William Shakespeare
+40. Othello by William Shakespeare
+41. King Lear by William Shakespeare
+42. The Tempest by William Shakespeare
+43. The Watchmen by John Altman
+44. V for Vendetta by Alan Moore
+45. Watchmen: The Deluxe Edition by Alan Moore
+46. Le Morte d'Arthur by Thomas Malory
+47. The Once and Future King by T.H. White
+48. The Thirteenth Tale by
+49. The Name of the Wind by Patrick Rothfuss
+50. The Wise Man's Fear by Patrick Rothfuss

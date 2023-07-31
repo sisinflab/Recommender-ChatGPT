@@ -1,0 +1,48 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Alchemist (novel) by Paulo Coelho
+2. The Winner Stands Alone by Paulo Coelho
+3. Brida (novel) by Paulo Coelho
+4. The Zahir (novel) by Paulo Coelho
+5. The Monk Who Sold His Ferrari by Robin Sharma
+6. The Kite Runner by Khaled Hosseini
+7. A Thousand Splendid Suns by Khaled Hosseini
+8. The Da Vinci Code by Dan Brown
+9. Angels & Demons by Dan Brown
+10. Digital Fortress by Dan Brown
+11. Deception Point by Dan Brown
+12. The Lost Symbol by Dan Brown
+13. The Lord of the Rings by J.R.R. Tolkien
+14. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+15. Harry Potter by J.K. Rowling
+16. Twilight (series) by Stephenie Meyer
+17. The Last Song (novel) by Nicholas Sparks
+18. Rich Dad Poor Dad by Robert Kiyosaki
+19. Wings of Fire by A.P.J. Abdul Kalam
+20. India Unbound by Gurcharan Das
+21. The Argumentative Indian by Amartya Sen
+22. Godaan by Munshi Premchand
+23. To Kill a Mockingbird by Harper Lee
+24. The White Tiger by Aravind Adiga
+25. The Last Don by Mario Puzo
+26. The Godfather (novel) by Mario Puzo
+27. Rage of Angels by Sidney Sheldon
+28. Nothing Lasts Forever (1979 novel) by Sidney Sheldon
+29. The Fountainhead by Ayn Rand
+30. Love Story (novel) by Erich Segal
+31. The Class (Erich Segal novel) by Erich Segal
+32. In the Line of Fire: A Memoir by Pervez Musharraf
+33. Congo (novel) by Michael Crichton
+34. The Doomsday Conspiracy by Sidney Sheldon
+35. The Lucky One (novel) by Nicholas Sparks
+36. Gone with the Wind by Margaret Mitchell
+37. Asterix the Gaul by René Goscinny and Albert Uderzo
+38. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+39. The Firm (novel) by John Grisham
+40. State of Fear by Michael Crichton
+41. Anthem (novella) by Ayn Rand
+42. Adolf Hitler: My Part in His Downfall by Spike Milligan
+43. Goosebumps by R.L. Stine
+44. Made in America (book) by Bill Bryson
+45. Teaching with Calvin and Hobbes by Linda Holmen
+46. 2 States: The Story of My Marriage by

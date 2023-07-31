@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Crime and Punishment by Fyodor Dostoyevsky
+2. The Stand by Stephen King
+3. Animal Farm by George Orwell
+4. The Hobbit by J.R.R. Tolkien
+5. Atlas Shrugged by Ayn Rand
+6. The Catcher in the Rye by J.D. Salinger
+7. The Great Gatsby by F. Scott Fitzgerald
+8. To Kill a Mockingbird by Harper Lee
+9. One Hundred Years of Solitude by Gabriel Garcia Marquez
+10. The Picture of Dorian Gray by Oscar Wilde
+11. The Shining by Stephen King
+12. Brave New World by Aldous Huxley
+13. The Grapes of Wrath by John Steinbeck
+14. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+15. The Name of the Wind by Patrick Rothfuss
+16. The Dark Tower series by Stephen King
+17. The Road by Cormac McCarthy
+18. The Count of Monte Cristo by Alexandre Dumas
+19. The Silmarillion by J.R.R. Tolkien
+20. The Book Thief by Markus Zusak
+21. The Wind-Up Bird Chronicle by Haruki Murakami
+22. The Stranger by Albert Camus
+23. The Bell Jar by Sylvia Plath
+24. The Handmaid's Tale by Margaret Atwood
+25. The God of Small Things by Arundhati Roy
+26. The Shadow of the Wind by Carlos Ruiz Zafón
+27. The Picture of Dorian Gray by Oscar Wilde
+28. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+29. The Name of the Wind by Patrick Rothfuss
+30. The Dark Tower series by Stephen King
+31. The Road by Cormac McCarthy
+32. The Count of Monte Cristo by Alexandre Dumas
+33. The Silmarillion by J.R.R. Tolkien
+34. The Book Thief by Markus Zusak
+35. The Wind-Up Bird Chronicle by Haruki Murakami
+36. The Stranger by Albert Camus
+37. The Bell Jar by Sylvia Plath
+38. The Handmaid's Tale by Margaret Atwood
+39. The God of Small Things by Arundhati Roy
+40. The Shadow of the Wind by Carlos Ruiz Zafón
+41. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+42. The Name of the Wind by Patrick Rothfuss
+43. The Dark Tower series by Stephen King
+44. The Road by Cormac McCarthy
+45. The Count of Monte Cristo by Alexandre Dumas
+46. The Silmarillion by J.R.R. Tolkien
+47. The Book Thief by Markus Zusak
+48. The Wind-Up Bird Chronicle by Haruki Murakami
+49. The Stranger by Albert Camus
+50. The Wise Man's Fear by Patrick Rothfuss

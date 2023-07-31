@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Leviathan by Scott Westerfeld
+2. Paper Towns by John Green
+3. Hatchet by Gary Paulsen
+4. The Maze Runner by James Dashner
+5. The Giver by Lois Lowry
+6. The Hunger Games by Suzanne Collins
+7. The Fault in Our Stars by John Green
+8. The Lightning Thief by Rick Riordan
+9. The Outsiders by S.E. Hinton
+10. Divergent by Veronica Roth
+11. The Book Thief by Markus Zusak
+12. The Perks of Being a Wallflower by Stephen Chbosky
+13. The Call of the Wild by Jack London
+14. The Secret Life of Bees by Sue Monk Kidd
+15. The Catcher in the Rye by J.D. Salinger
+16. The Hobbit by J.R.R. Tolkien
+17. The Lord of the Rings by J.R.R. Tolkien
+18. The Chronicles of Narnia by C.S. Lewis
+19. The Alchemist by Paulo Coelho
+20. The Da Vinci Code by Dan Brown
+21. The Girl with the Dragon Tattoo by Stieg Larsson
+22. The Help by Kathryn Stockett
+23. The Kite Runner by Khaled Hosseini
+24. The Lovely Bones by Alice Sebold
+25. The Picture of Dorian Gray by Oscar Wilde
+26. The Road by Cormac McCarthy
+27. The Shining by Stephen King
+28. To Kill a Mockingbird by Harper Lee
+29. Watership Down by Richard Adams
+30. The Adventures of Tom Sawyer by Mark Twain
+31. The Adventures of Huckleberry Finn by Mark Twain
+32. The Great Gatsby by F. Scott Fitzgerald
+33. The Sun Also Rises by Ernest Hemingway
+34. 1984 by George Orwell
+35. Animal Farm by George Orwell
+36. Brave New World by Aldous Huxley
+37. Fahrenheit 451 by Ray Bradbury
+38. Lord of the Flies by William Golding
+39. One Hundred Years of Solitude by Gabriel Garcia Marquez
+40. Pride and Prejudice by Jane Austen
+41. Sense and Sensibility by Jane Austen
+42. Emma by Jane Austen
+43. Persuasion by Jane Austen
+44. Northanger Abbey by Jane Austen
+45. Wuthering Heights by Emily Bronte
+46. Jane Eyre by Charlotte Bronte
+47. Great Expectations by Charles Dickens
+48. Oliver Twist by Charles Dickens
+49. David Copperfield by Charles Dickens
+50. A Tale of Two Cities by Charles Dickens

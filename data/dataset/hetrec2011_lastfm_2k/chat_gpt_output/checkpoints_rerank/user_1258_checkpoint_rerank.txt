@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Clash
+2. Sex Pistols
+3. Dead Kennedys
+4. Ramones
+5. Joy Division
+6. The Smiths
+7. Nirvana
+8. The Velvet Underground
+9. Talking Heads
+10. The Cure
+11. Patti Smith
+12. The Jam
+13. Bauhaus
+14. The Stranglers
+15. The Sisters of Mercy
+16. XTC
+17. Madness
+18. Buzzcocks
+19. The Cramps
+20. Manic Street Preachers
+21. Die Toten Hosen
+22. Die Ärzte
+23. Nick Cave and the Bad Seeds
+24. Einstürzende Neubauten
+25. Arctic Monkeys
+26. Muse
+27. Radiohead
+28. Placebo
+29. The Killers
+30. Green Day
+31. My Chemical Romance
+32. Iron Maiden
+33. Metallica
+34. Pearl Jam
+35. Led Zeppelin
+36. Michael Jackson
+37. Nine Inch Nails
+38. System of a Down
+39. Daft Punk
+40. Linkin Park
+41. Avenged Sevenfold
+42. Black Eyed Peas
+43. U2
+44. Pink Floyd
+45. Blur
+46. Coldplay
+47. Duran Duran
+48. a-ha
+49. Björk
+50. Amy Winehouse

@@ -1,0 +1,48 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Silmarillion by J. R. R. Tolkien
+2. The Catcher in the Rye by J. D. Salinger
+3. Brave New World by Aldous Huxley
+4. Lord of the Flies by William Golding
+5. The Giver by Lois Lowry
+6. Holes (novel) by Louis Sachar
+7. Ender's Game by Orson Scott Card
+8. The Little Prince by Antoine de Saint-Exupéry
+9. The Hitchhiker's Guide to the Galaxy (novel) by Douglas Adams
+10. The Count of Monte Cristo by Alexandre Dumas
+11. Crime and Punishment by Fyodor Dostoevsky
+12. The Time Machine by H. G. Wells
+13. The Bourne Ultimatum by Robert Ludlum
+14. The Da Vinci Code by Dan Brown
+15. The Dark Knight Returns by Frank Miller
+16. The Stand by Stephen King
+17. The Old Man and the Sea by Ernest Hemingway
+18. The Plague by Albert Camus
+19. The Watchmen (novel) by Alan Moore
+20. The War of the Worlds by H. G. Wells
+21. Anne of Green Gables by L. M. Montgomery
+22. Romeo and Juliet by William Shakespeare
+23. The Last Storytellers: Tales from the Heart of Morocco by Richard Hamilton
+24. Stardust (novel) by Neil Gaiman
+25. Isaac Asimov's Robot City by William F. Wu
+26. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+27. Neverwhere (novel) by Neil Gaiman
+28. Angels & Demons by Dan Brown
+29. The Caves of Steel by Isaac Asimov
+30. Tess of the d'Urbervilles by Thomas Hardy
+31. The Wonderful Wizard of Oz by L. Frank Baum
+32. The Trumpet of the Swan by E. B. White
+33. Ranger's Apprentice by John Flanagan
+34. Inferno (Dante) by Dante Alighieri
+35. Cry, the Beloved Country by Alan Paton
+36. Kidnapped (novel) by Robert Louis Stevenson
+37. Dune (novel) by Frank Herbert
+38. Sabriel by Garth Nix
+39. The Hatchet (novel) by Gary Paulsen
+40. The Giver Quartet by Lois Lowry
+41. Life of Pi by Yann Martel
+42. Lolita by Vladimir Nabokov
+43. The Outsiders (novel) by S. E. Hinton
+44. Second Foundation by Isaac Asimov
+45. Iliad by Homer
+46. The End

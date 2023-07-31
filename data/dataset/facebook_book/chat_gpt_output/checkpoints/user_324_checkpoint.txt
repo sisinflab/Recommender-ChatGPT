@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Frankenstein by Mary Shelley
+2. Wuthering Heights by Emily Bronte
+3. Crime and Punishment by Fyodor Dostoevsky
+4. The Picture of Dorian Gray by Oscar Wilde
+5. The Trial by Franz Kafka
+6. One Hundred Years of Solitude by Gabriel Garcia Marquez
+7. The Stranger by Albert Camus
+8. The Catcher in the Rye by J.D. Salinger
+9. Heart of Darkness by Joseph Conrad
+10. The Great Gatsby by F. Scott Fitzgerald
+11. To Kill a Mockingbird by Harper Lee
+12. The Bell Jar by Sylvia Plath
+13. Lolita by Vladimir Nabokov
+14. The Brothers Karamazov by Fyodor Dostoevsky
+15. The Sound and the Fury by William Faulkner
+16. The Sun Also Rises by Ernest Hemingway
+17. The Grapes of Wrath by John Steinbeck
+18. The Old Man and the Sea by Ernest Hemingway
+19. The Canterbury Tales by Geoffrey Chaucer
+20. The Odyssey by Homer
+21. The Iliad by Homer
+22. The Divine Comedy by Dante Alighieri
+23. Don Quixote by Miguel de Cervantes
+24. The Canterbury Tales by Geoffrey Chaucer
+25. The Odyssey by Homer
+26. The Iliad by Homer
+27. The Divine Comedy by Dante Alighieri
+28. Don Quixote by Miguel de Cervantes
+29. The Metamorphosis by Franz Kafka
+30. The Stranger by Albert Camus
+31. The Plague by Albert Camus
+32. The Master and Margarita by Mikhail Bulgakov
+33. The Idiot by Fyodor Dostoevsky
+34. The Possessed by Fyodor Dostoevsky
+35. The Brothers Karamazov by Fyodor Dostoevsky
+36. The Trial by Franz Kafka
+37. The Castle by Franz Kafka
+38. The Name of the Rose by Umberto Eco
+39. Foucault's Pendulum by Umberto Eco
+40. The Picture of Dorian Gray by Oscar Wilde
+41. The Importance of Being Earnest by Oscar Wilde
+42. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+43. The War of the Worlds by H.G. Wells
+44. The Time Machine by H.G. Wells
+45. Brave New World by Aldous Huxley
+46. Fahrenheit 451 by Ray Bradbury
+47. Slaughterhouse-Five by Kurt Vonnegut
+48. Cat's Cradle by Kurt Vonnegut
+49. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+50.

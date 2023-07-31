@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Opeth
+2. Pink Floyd
+3. Nevermore
+4. System of a Down
+5. Bob Dylan
+6. Amon Amarth
+7. Ensiferum
+8. Devin Townsend
+9. Nightwish
+10. Beck
+11. Infected Mushroom
+12. Rise Against
+13. Metallica
+14. Disturbed
+15. Ratatat
+16. A Perfect Circle
+17. Shpongle
+18. Soilwork
+19. Dethklok
+20. The Lonely Island
+21. Lamb of God
+22. Justice
+23. The Faint
+24. Iced Earth
+25. Gojira
+26. Scars on Broadway
+27. Muse
+28. Radiohead
+29. Nirvana
+30. Iron Maiden
+31. Led Zeppelin
+32. Pearl Jam
+33. Nine Inch Nails
+34. Daft Punk
+35. Linkin Park
+36. Avenged Sevenfold
+37. My Chemical Romance
+38. Green Day
+39. The Cure
+40. U2
+41. Beyoncé
+42. Lady Gaga
+43. Madonna
+44. Rihanna
+45. Shakira
+46. The Beatles
+47. Katy Perry
+48. Taylor Swift
+49. Coldplay
+50. Blur

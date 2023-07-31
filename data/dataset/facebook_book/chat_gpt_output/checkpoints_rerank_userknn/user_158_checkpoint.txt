@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Runaway Jury by John Grisham
+2. The Hunger Games by Suzanne Collins
+3. Nineteen Eighty-Four by George Orwell
+4. The Book Thief by Markus Zusak
+5. The Giver by Lois Lowry
+6. The Catcher in the Rye by J.D. Salinger
+7. Brave New World by Aldous Huxley
+8. The Lord of the Rings by J.R.R. Tolkien
+9. Inkheart by Cornelia Funke
+10. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+11. Romeo and Juliet by William Shakespeare
+12. Les Misérables by Victor Hugo
+13. Frankenstein by Mary Shelley
+14. The Great Gatsby by F. Scott Fitzgerald
+15. A Clockwork Orange by Anthony Burgess
+16. The Testament by John Grisham
+17. The Kane Chronicles by Rick Riordan
+18. The Andromeda Strain by Michael Crichton
+19. The Outsiders by S.E. Hinton
+20. The Last Juror by John Grisham
+21. The Chamber by John Grisham
+22. The Appeal by John Grisham
+23. The Five People You Meet in Heaven by Mitch Albom
+24. Speaker for the Dead by Orson Scott Card
+25. Ender's Game by Orson Scott Card
+26. The Mists of Avalon by Marion Zimmer Bradley
+27. The Watchmen by Alan Moore
+28. Jane Eyre by Charlotte Bronte
+29. The Testament by John Grisham
+30. The Broker by John Grisham
+31. The King of Torts by John Grisham
+32. The Hunger Games: Mockingjay by Suzanne Collins
+33. The Divine Comedy by Dante Alighieri
+34. Inferno by Dante Alighieri
+35. Lolita by Vladimir Nabokov
+36. A Tale of Two Cities by Charles Dickens
+37. The Skeleton Creek by Patrick Carman
+38. The Sphere by Michael Crichton
+39. The Old Farmer's Almanac by Robert B. Thomas
+40. Isaac Asimov's Robot City by William F. Wu
+41. Night by Elie Wiesel
+42. Sarah's Key by Tatiana de Rosnay
+43. Fade by Lisa McMann
+44. Shadow Puppets by Orson Scott Card
+45. The Bible
+46. Stargirl by Jerry Spinelli
+47. Inkspell by Cornelia Funke
+48. Congo by Michael Crichton
+49. Angels & Demons by Dan Brown
+50. Teaching with Calvin and Hobbes by Linda Holmen

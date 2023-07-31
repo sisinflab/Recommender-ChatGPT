@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Shining by Stephen King
+2. The Da Vinci Code by Dan Brown
+3. The Girl with the Dragon Tattoo by Stieg Larsson
+4. The Hunger Games by Suzanne Collins
+5. The Lord of the Rings by J.R.R. Tolkien
+6. The Catcher in the Rye by J.D. Salinger
+7. The Stand by Stephen King
+8. The Silence of the Lambs by Thomas Harris
+9. The Hobbit by J.R.R. Tolkien
+10. The Godfather by Mario Puzo
+11. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+12. The Great Gatsby by F. Scott Fitzgerald
+13. The Dark Tower series by Stephen King
+14. The Chronicles of Narnia by C.S. Lewis
+15. The Name of the Wind by Patrick Rothfuss
+16. The Road by Cormac McCarthy
+17. The Book Thief by Markus Zusak
+18. The Talisman by Stephen King and Peter Straub
+19. The Martian by Andy Weir
+20. The Picture of Dorian Gray by Oscar Wilde
+21. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+22. The Outsiders by S.E. Hinton
+23. The Secret History by Donna Tartt
+24. The Giver by Lois Lowry
+25. The Handmaid's Tale by Margaret Atwood
+26. The Count of Monte Cristo by Alexandre Dumas
+27. The Hobbit and The Lord of the Rings Boxed Set by J.R.R. Tolkien
+28. The Gunslinger by Stephen King
+29. The Time Traveler's Wife by Audrey Niffenegger
+30. The Maze Runner by James Dashner
+31. The Fault in Our Stars by John Green
+32. The Picture of Dorian Gray by Oscar Wilde
+33. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+34. The Outsiders by S.E. Hinton
+35. The Secret History by Donna Tartt
+36. The Giver by Lois Lowry
+37. The Handmaid's Tale by Margaret Atwood
+38. The Count of Monte Cristo by Alexandre Dumas
+39. The Hobbit and The Lord of the Rings Boxed Set by J.R.R. Tolkien
+40. The Gunslinger by Stephen King
+41. The Time Traveler's Wife by Audrey Niffenegger
+42. The Maze Runner by James Dashner
+43. The Fault in Our Stars by John Green
+44. The Picture of Dorian Gray by Oscar Wilde
+45. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+46. The Outsiders by S.E. Hinton
+47. The Secret History by Donna Tartt
+48. The Giver by Lois Lowry
+49. The Handmaid's Tale by Margaret Atwood
+50.

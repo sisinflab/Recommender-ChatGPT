@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Nirvana
+2. Green Day
+3. Muse
+4. Nine Inch Nails
+5. Foo Fighters
+6. Marilyn Manson
+7. My Chemical Romance
+8. The White Stripes
+9. Rage Against the Machine
+10. Daft Punk
+11. Kasabian
+12. Beck
+13. Placebo
+14. Lacuna Coil
+15. The Used
+16. Avenged Sevenfold
+17. Blink-182
+18. Kings of Leon
+19. Jimmy Eat World
+20. The All-American Rejects
+21. The Kooks
+22. Hawthorne Heights
+23. Paramore
+24. Dashboard Confessional
+25. Slipknot
+26. Arctic Monkeys
+27. Radiohead
+28. Bloc Party
+29. The Strokes
+30. Franz Ferdinand
+31. Garbage
+32. Deftones
+33. Gorillaz
+34. Audioslave
+35. Skinny Puppy
+36. Nightwish
+37. Mindless Self Indulgence
+38. Linkin Park
+39. Death Cab for Cutie
+40. Kid Cudi
+41. Jack Johnson
+42. Incubus
+43. Katy Perry
+44. The Pretty Reckless
+45. P.O.D.
+46. Florence + the Machine
+47. Britney Spears
+48. Michael Jackson
+49. Mr. Bungle
+50. The Killers

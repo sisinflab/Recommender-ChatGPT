@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Slayer
+2. Cannibal Corpse
+3. Behemoth
+4. Vader
+5. Dimmu Borgir
+6. Opeth
+7. Korn
+8. Tool
+9. Marduk
+10. Sepultura
+11. Death
+12. Bathory
+13. Hypocrisy
+14. Bloodbath
+15. Cradle of Filth
+16. In Flames
+17. Testament
+18. Kreator
+19. Machine Head
+20. Arch Enemy
+21. Amon Amarth
+22. Pantera
+23. Iron Maiden
+24. Metallica
+25. Judas Priest
+26. Slipknot
+27. Nevermore
+28. Deathstars
+29. Rammstein
+30. Immortal
+31. Children of Bodom
+32. Ensiferum
+33. Eluveitie
+34. Nightwish
+35. Therion
+36. System of a Down
+37. Marilyn Manson
+38. Guano Apes
+39. Mr. Big
+40. Whitesnake
+41. Motörhead
+42. AC/DC
+43. Saxon
+44. Testament
+45. Led Zeppelin
+46. Pink Floyd
+47. The Mars Volta
+48. Anathema
+49. Devin Townsend
+50. Yann Tiersen

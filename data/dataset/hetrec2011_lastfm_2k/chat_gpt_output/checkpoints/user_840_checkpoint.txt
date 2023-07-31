@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Foo Fighters
+2. Red Hot Chili Peppers
+3. Queens of the Stone Age
+4. The Smashing Pumpkins
+5. Tool
+6. Alice in Chains
+7. System of a Down
+8. Muse
+9. Deftones
+10. The White Stripes
+11. Black Sabbath
+12. Metallica
+13. Iron Maiden
+14. Slayer
+15. Megadeth
+16. Pantera
+17. Judas Priest
+18. Ozzy Osbourne
+19. Guns N' Roses
+20. Kiss
+21. Van Halen
+22. Deep Purple
+23. Pink Floyd
+24. The Doors
+25. The Beatles
+26. The Rolling Stones
+27. Bob Dylan
+28. Neil Young
+29. Tom Petty and the Heartbreakers
+30. Bruce Springsteen
+31. David Bowie
+32. Talking Heads
+33. Joy Division
+34. The Cure
+35. Siouxsie and the Banshees
+36. The Smiths
+37. New Order
+38. Echo and the Bunnymen
+39. The Jesus and Mary Chain
+40. My Bloody Valentine
+41. Sonic Youth
+42. Pavement
+43. Neutral Milk Hotel
+44. Modest Mouse
+45. The Flaming Lips
+46. Wilco
+47. Radiohead (other albums)
+48. Sigur Rós
+49. Explosions in the Sky
+50. Godspeed You! Black Emperor

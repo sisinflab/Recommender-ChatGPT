@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. To Kill a Mockingbird by Harper Lee
+3. The Great Gatsby by F. Scott Fitzgerald
+4. Pride and Prejudice by Jane Austen
+5. The Picture of Dorian Gray by Oscar Wilde
+6. The Handmaid's Tale by Margaret Atwood
+7. The Hunger Games by Suzanne Collins
+8. The Girl with the Dragon Tattoo by Stieg Larsson
+9. The Da Vinci Code by Dan Brown
+10. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+11. The Lord of the Rings by J.R.R. Tolkien
+12. The Hobbit by J.R.R. Tolkien
+13. The Chronicles of Narnia by C.S. Lewis
+14. The Shining by Stephen King
+15. Carrie by Stephen King
+16. The Stand by Stephen King
+17. The Silence of the Lambs by Thomas Harris
+18. The Lovely Bones by Alice Sebold
+19. The Help by Kathryn Stockett
+20. The Secret Life of Bees by Sue Monk Kidd
+21. The Color Purple by Alice Walker
+22. The Joy Luck Club by Amy Tan
+23. The Kite Runner by Khaled Hosseini
+24. A Thousand Splendid Suns by Khaled Hosseini
+25. The Alchemist by Paulo Coelho
+26. One Hundred Years of Solitude by Gabriel Garcia Marquez
+27. Love in the Time of Cholera by Gabriel Garcia Marquez
+28. The Name of the Rose by Umberto Eco
+29. The Pillars of the Earth by Ken Follett
+30. The Girl on the Train by Paula Hawkins
+31. Gone Girl by Gillian Flynn
+32. The Fault in Our Stars by John Green
+33. Looking for Alaska by John Green
+34. Paper Towns by John Green
+35. The Perks of Being a Wallflower by Stephen Chbosky
+36. The Bell Jar by Sylvia Plath
+37. The Road by Cormac McCarthy
+38. The Book Thief by Markus Zusak
+39. The Giver by Lois Lowry
+40. The Maze Runner by James Dashner
+41. The Bourne Identity by Robert Ludlum
+42. The Bourne Supremacy by Robert Ludlum
+43. The Bourne Ultimatum by Robert Ludlum
+44. The Spy Who Came in from the Cold by John le Carré
+45. Tinker, Tailor, Soldier, Spy by John le Carré
+46. The Night Manager by John le Carré
+47. The Talented Mr. Ripley by Patricia Highsmith
+48. The Secret History by Donna Tartt
+49. The Goldfinch by Donna Tartt
+50. The Martian by Andy We

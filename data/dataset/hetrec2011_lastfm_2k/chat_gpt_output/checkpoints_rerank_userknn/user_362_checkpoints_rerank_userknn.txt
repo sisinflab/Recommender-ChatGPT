@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Muse
+2. Radiohead
+3. Foo Fighters
+4. The Killers
+5. Coldplay
+6. Queen
+7. Green Day
+8. Paramore
+9. Panic! At the Disco
+10. The Beatles
+11. System of a Down
+12. Blink-182
+13. Franz Ferdinand
+14. Kings of Leon
+15. Ramones
+16. Simple Plan
+17. The White Stripes
+18. Arctic Monkeys
+19. The Ting Tings
+20. Bloc Party
+21. Silversun Pickups
+22. Against Me!
+23. Razorlight
+24. Lostprophets
+25. The Strokes
+26. Garth Brooks
+27. Tim Hecker
+28. Lily Allen
+29. The Veronicas
+30. Klaxons
+31. Little Boots
+32. Hadouken!
+33. Mindless Self Indulgence
+34. Korn
+35. The Prodigy
+36. U2
+37. Boys Like Girls
+38. We The Kings
+39. Metro Station
+40. Jimmy Eat World
+41. CAKE
+42. Sublime
+43. The Last Shadow Puppets
+44. Snow Patrol
+45. Taylor Swift
+46. Chico Buarque
+47. My Chemical Romance
+48. Owl City
+49. Britney Spears
+50. Wu-Tang Clan

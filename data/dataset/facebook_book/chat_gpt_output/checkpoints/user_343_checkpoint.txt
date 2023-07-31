@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Beloved by Toni Morrison
+2. The Color Purple by Alice Walker
+3. The Bluest Eye by Toni Morrison
+4. The Handmaid's Tale by Margaret Atwood
+5. 1984 by George Orwell
+6. To Kill a Mockingbird by Harper Lee
+7. The Catcher in the Rye by J.D. Salinger
+8. One Hundred Years of Solitude by Gabriel Garcia Marquez
+9. The Great Gatsby by F. Scott Fitzgerald
+10. The Sun Also Rises by Ernest Hemingway
+11. The Old Man and the Sea by Ernest Hemingway
+12. The Sound and the Fury by William Faulkner
+13. As I Lay Dying by William Faulkner
+14. The Grapes of Wrath by John Steinbeck
+15. East of Eden by John Steinbeck
+16. The Picture of Dorian Gray by Oscar Wilde
+17. Frankenstein by Mary Shelley
+18. Wuthering Heights by Emily Bronte
+19. Jane Eyre by Charlotte Bronte
+20. Pride and Prejudice by Jane Austen
+21. Sense and Sensibility by Jane Austen
+22. Emma by Jane Austen
+23. Persuasion by Jane Austen
+24. Northanger Abbey by Jane Austen
+25. The Adventures of Huckleberry Finn by Mark Twain
+26. The Adventures of Tom Sawyer by Mark Twain
+27. The Scarlet Letter by Nathaniel Hawthorne
+28. Moby-Dick by Herman Melville
+29. Heart of Darkness by Joseph Conrad
+30. Lord of the Flies by William Golding
+31. Animal Farm by George Orwell
+32. Brave New World by Aldous Huxley
+33. Fahrenheit 451 by Ray Bradbury
+34. Slaughterhouse-Five by Kurt Vonnegut
+35. Catch-22 by Joseph Heller
+36. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+37. The Lord of the Rings by J.R.R. Tolkien
+38. The Hobbit by J.R.R. Tolkien
+39. The Chronicles of Narnia by C.S. Lewis
+40. The Harry Potter series by J.K. Rowling
+41. The Hunger Games series by Suzanne Collins
+42. The Divergent series by Veronica Roth
+43. The Maze Runner series by James Dashner
+44. The Fault in Our Stars by John Green
+45. Looking for Alaska by John Green
+46. Paper Towns by John Green
+47. An Abundance of Katherines by John Green
+48. The Perks of Being a Wallflower by Stephen Chbosky
+49. The Book Thief by Markus Zusak
+50. The Kite Runner by Khaled Hosseini

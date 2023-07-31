@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Linkin Park
+2. Evanescence
+3. 30 Seconds to Mars
+4. Three Days Grace
+5. Limp Bizkit
+6. Taylor Swift
+7. Seether
+8. OneRepublic
+9. Fort Minor
+10. Funeral for a Friend
+11. Lostprophets
+12. Finch
+13. Cold
+14. Papa Roach
+15. Paramore
+16. Flyleaf
+17. Rihanna
+18. Poets of the Fall
+19. Bullet for My Valentine
+20. Angels & Airwaves
+21. Depeche Mode
+22. In Flames
+23. HIM
+24. Anathema
+25. Saosin
+26. P.O.D.
+27. Deftones
+28. Ill Niño
+29. Celldweller
+30. Korn
+31. Katy Perry
+32. The Rasmus
+33. happysad
+34. Lacrimosa
+35. Muse
+36. Pink Floyd
+37. Radiohead
+38. Nirvana
+39. Iron Maiden
+40. Led Zeppelin
+41. Metallica
+42. Michael Jackson
+43. Pearl Jam
+44. a-ha
+45. Björk
+46. System of a Down
+47. Nine Inch Nails
+48. All Time Low
+49. Avenged Sevenfold
+50. The Killers

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Five People You Meet in Heaven by Mitch Albom
+2. For One More Day by Mitch Albom
+3. The Time Keeper by Mitch Albom
+4. The First Phone Call from Heaven by Mitch Albom
+5. The Magic Strings of Frankie Presto by Mitch Albom
+6. The Last Lecture by Randy Pausch
+7. The Art of Racing in the Rain by Garth Stein
+8. A Man Called Ove by Fredrik Backman
+9. The Nightingale by Kristin Hannah
+10. The Help by Kathryn Stockett
+11. The Book Thief by Markus Zusak
+12. The Kite Runner by Khaled Hosseini
+13. A Thousand Splendid Suns by Khaled Hosseini
+14. The Girl on the Train by Paula Hawkins
+15. Gone Girl by Gillian Flynn
+16. The Hunger Games by Suzanne Collins
+17. Catching Fire by Suzanne Collins
+18. Mockingjay by Suzanne Collins
+19. The Fault in Our Stars by John Green
+20. Looking for Alaska by John Green
+21. Paper Towns by John Green
+22. An Abundance of Katherines by John Green
+23. The Maze Runner by James Dashner
+24. The Scorch Trials by James Dashner
+25. The Death Cure by James Dashner
+26. The Giver by Lois Lowry
+27. Gathering Blue by Lois Lowry
+28. Messenger by Lois Lowry
+29. Son by Lois Lowry
+30. The Alchemist by Paulo Coelho
+31. Brida by Paulo Coelho
+32. Veronika Decides to Die by Paulo Coelho
+33. The Zahir by Paulo Coelho
+34. The Devil and Miss Prym by Paulo Coelho
+35. The Night Circus by Erin Morgenstern
+36. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+37. The Glass Castle by Jeannette Walls
+38. Educated by Tara Westover
+39. The Power of Now by Eckhart Tolle
+40. A New Earth by Eckhart Tolle
+41. The Celestine Prophecy by James Redfield
+42. The Four Agreements by Don Miguel Ruiz
+43. The Fifth Agreement by Don Miguel Ruiz
+44. The Secret of the Nagas by Amish Tripathi
+45. The Oath of the Vayuputras by Amish Tripathi
+46. The Immortals of Meluha by Amish Tripathi
+47. The Shiva Trilogy by Amish Tripathi
+48. The Da Vinci Code by Dan Brown
+49. Angels and Demons by Dan Brown
+50. Inferno by Dan Brown

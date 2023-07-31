@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Kite Runner by Khaled Hosseini
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Pride and Prejudice by Jane Austen
+6. Animal Farm by George Orwell
+7. 1984 by George Orwell
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+10. The Hobbit by J.R.R. Tolkien
+11. The Lord of the Rings by J.R.R. Tolkien
+12. The Chronicles of Narnia by C.S. Lewis
+13. The Hunger Games by Suzanne Collins
+14. Harry Potter and the Philosopher's Stone by J.K. Rowling
+15. The Da Vinci Code by Dan Brown
+16. Angels and Demons by Dan Brown
+17. The Girl with the Dragon Tattoo by Stieg Larsson
+18. The Girl Who Played with Fire by Stieg Larsson
+19. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+20. The Help by Kathryn Stockett
+21. The Fault in Our Stars by John Green
+22. The Book Thief by Markus Zusak
+23. The Lovely Bones by Alice Sebold
+24. The Time Traveler's Wife by Audrey Niffenegger
+25. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+26. The Road by Cormac McCarthy
+27. The Handmaid's Tale by Margaret Atwood
+28. The Stand by Stephen King
+29. The Shining by Stephen King
+30. Carrie by Stephen King
+31. The Silence of the Lambs by Thomas Harris
+32. The Bourne Identity by Robert Ludlum
+33. The Bourne Supremacy by Robert Ludlum
+34. The Bourne Ultimatum by Robert Ludlum
+35. The Firm by John Grisham
+36. A Time to Kill by John Grisham
+37. The Pelican Brief by John Grisham
+38. The Chamber by John Grisham
+39. The Rainmaker by John Grisham
+40. The Client by John Grisham
+41. The Runaway Jury by John Grisham
+42. The Street Lawyer by John Grisham
+43. The Testament by John Grisham
+44. The Partner by John Grisham
+45. The Brethren by John Grisham
+46. The Summons by John Grisham
+47. The King of Torts by John Grisham
+48. The Last Juror by John Grisham
+49. The Innocent Man by John Grisham
+50. The Confession by John Grisham

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Pretty Reckless
+2. blink-182
+3. Ramones
+4. MGMT
+5. Red Hot Chili Peppers
+6. Arctic Monkeys
+7. The Kooks
+8. Pixies
+9. Justin Bieber
+10. The Runaways
+11. Aloha From Hell
+12. Heidi Montag
+13. +44
+14. Lily Allen
+15. Ashlee Simpson
+16. Simple Plan
+17. The Kills
+18. Joan Jett and the Blackhearts
+19. The Veronicas
+20. Jet
+21. The All-American Rejects
+22. Aly & AJ
+23. Fall Out Boy
+24. Emily Osment
+25. Pixie Lott
+26. Sky Ferreira
+27. Elvis Presley
+28. Lady Gaga
+29. Britney Spears
+30. Katy Perry
+31. Rihanna
+32. Beyoncé
+33. Madonna
+34. Christina Aguilera
+35. Shakira
+36. Taylor Swift
+37. Evanescence
+38. Glee Cast
+39. U2
+40. 30 Seconds to Mars
+41. Muse
+42. Pink Floyd
+43. Kylie Minogue
+44. Miley Cyrus
+45. Radiohead
+46. Ke$ha
+47. Duran Duran
+48. Coldplay
+49. Blur
+50. Placebo

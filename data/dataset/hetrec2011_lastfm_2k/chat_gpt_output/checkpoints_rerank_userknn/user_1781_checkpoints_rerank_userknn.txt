@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Coldplay
+2. The Beatles
+3. U2
+4. Jack Johnson
+5. Ray Charles
+6. David Gray
+7. Elvis Presley
+8. The Rolling Stones
+9. Stevie Ray Vaughan
+10. Foo Fighters
+11. Red Hot Chili Peppers
+12. KT Tunstall
+13. Tears for Fears
+14. John Lee Hooker
+15. Creedence Clearwater Revival
+16. The Beach Boys
+17. P!nk
+18. INXS
+19. Wilco
+20. R.E.M.
+21. The Police
+22. Death Cab for Cutie
+23. Beck
+24. Stereophonics
+25. The Killers
+26. Lady Gaga
+27. My Chemical Romance
+28. The All-American Rejects
+29. Feist
+30. Madonna
+31. Alanis Morissette
+32. Simple Minds
+33. The White Stripes
+34. The Kooks
+35. Bruce Springsteen
+36. Phil Collins
+37. Sigur Rós
+38. Editors
+39. Linkin Park
+40. Keane
+41. Arctic Monkeys
+42. Genesis
+43. Ryan Adams
+44. The Cranberries
+45. The National
+46. Muse
+47. Moby
+48. Joy Division
+49. Katie Melua
+50. Maroon 5

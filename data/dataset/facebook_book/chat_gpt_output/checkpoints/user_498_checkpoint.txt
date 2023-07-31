@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Graceling by Kristin Cashore
+2. The Hunger Games by Suzanne Collins
+3. Eragon by Christopher Paolini
+4. The Maze Runner by James Dashner
+5. Divergent by Veronica Roth
+6. The Giver by Lois Lowry
+7. Percy Jackson and the Lightning Thief by Rick Riordan
+8. The Mortal Instruments by Cassandra Clare
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Hobbit by J.R.R. Tolkien
+11. The Chronicles of Narnia by C.S. Lewis
+12. The Name of the Wind by Patrick Rothfuss
+13. Mistborn by Brandon Sanderson
+14. The Way of Kings by Brandon Sanderson
+15. The Lies of Locke Lamora by Scott Lynch
+16. The Kingkiller Chronicle by Patrick Rothfuss
+17. The Wheel of Time by Robert Jordan
+18. The Stormlight Archive by Brandon Sanderson
+19. The First Law Trilogy by Joe Abercrombie
+20. The Blade Itself by Joe Abercrombie
+21. The Black Prism by Brent Weeks
+22. The Night Angel Trilogy by Brent Weeks
+23. The Lightbringer Series by Brent Weeks
+24. The Broken Empire Trilogy by Mark Lawrence
+25. Prince of Thorns by Mark Lawrence
+26. The Riyria Revelations by Michael J. Sullivan
+27. Theft of Swords by Michael J. Sullivan
+28. The Farseer Trilogy by Robin Hobb
+29. Assassin's Apprentice by Robin Hobb
+30. The Liveship Traders Trilogy by Robin Hobb
+31. The Tawny Man Trilogy by Robin Hobb
+32. The Gentleman Bastard Sequence by Scott Lynch
+33. The Lies of Locke Lamora by Scott Lynch
+34. The Dark Tower by Stephen King
+35. The Dresden Files by Jim Butcher
+36. American Gods by Neil Gaiman
+37. Neverwhere by Neil Gaiman
+38. Stardust by Neil Gaiman
+39. Coraline by Neil Gaiman
+40. The Graveyard Book by Neil Gaiman
+41. The Bartimaeus Trilogy by Jonathan Stroud
+42. The Inheritance Cycle by Christopher Paolini
+43. The Belgariad by David Eddings
+44. The Malloreon by David Eddings
+45. The Elenium by David Eddings
+46. The Tamuli by David Eddings
+47. The Sword of Truth by Terry Goodkind
+48. The Wheel of Time by Robert Jordan and Brandon Sanderson
+49. The Dark Tower by Stephen King
+50. The Dresden Files by Jim Butcher

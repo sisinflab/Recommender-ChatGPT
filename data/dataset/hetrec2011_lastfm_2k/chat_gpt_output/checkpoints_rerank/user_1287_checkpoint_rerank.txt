@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Pantera
+2. Morbid Angel
+3. Arch Enemy
+4. Slipknot
+5. Cannibal Corpse
+6. Dimmu Borgir
+7. Whitechapel
+8. Mudvayne
+9. Otep
+10. Hypocrisy
+11. Immortal
+12. Cradle of Filth
+13. Lacuna Coil
+14. Porcelain and the Tramps
+15. Serj Tankian
+16. The Prodigy
+17. Britney Spears
+18. Lady Gaga
+19. Christina Aguilera
+20. Rihanna
+21. Madonna
+22. Beyoncé
+23. Shakira
+24. Ke$ha
+25. P!nk
+26. Paramore
+27. Avril Lavigne
+28. Taylor Swift
+29. Evanescence
+30. Muse
+31. Pink Floyd
+32. Radiohead
+33. U2
+34. Duran Duran
+35. Coldplay
+36. Blur
+37. Arctic Monkeys
+38. Placebo
+39. The Killers
+40. Nirvana
+41. Iron Maiden
+42. Led Zeppelin
+43. Metallica
+44. Michael Jackson
+45. Pearl Jam
+46. a-ha
+47. Björk
+48. System of a Down
+49. Daft Punk
+50. Nine Inch Nails

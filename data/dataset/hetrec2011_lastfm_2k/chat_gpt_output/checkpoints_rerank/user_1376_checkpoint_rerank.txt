@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. 30 Seconds to Mars
+2. Taking Back Sunday
+3. blink-182
+4. Porcelain and the Tramps
+5. The Used
+6. Marilyn Manson
+7. Flyleaf
+8. Kill Hannah
+9. From First to Last
+10. Jeffree Star
+11. Bullet for My Valentine
+12. Panic! At the Disco
+13. AFI
+14. Good Charlotte
+15. Alesana
+16. OK Go
+17. Hellogoodbye
+18. Plain White T's
+19. The Rasmus
+20. Killing Joke
+21. Red Hot Chili Peppers
+22. Jethro Tull
+23. Fall Out Boy
+24. HIM
+25. Garbage
+26. Muse
+27. Nirvana
+28. Iron Maiden
+29. Led Zeppelin
+30. Metallica
+31. Pearl Jam
+32. System of a Down
+33. Nine Inch Nails
+34. Linkin Park
+35. Avenged Sevenfold
+36. My Chemical Romance
+37. Green Day
+38. The Cure
+39. Depeche Mode
+40. Lady Gaga
+41. Christina Aguilera
+42. Paramore
+43. Madonna
+44. Rihanna
+45. Shakira
+46. The Beatles
+47. Katy Perry
+48. Avril Lavigne
+49. Taylor Swift
+50. Evanescence

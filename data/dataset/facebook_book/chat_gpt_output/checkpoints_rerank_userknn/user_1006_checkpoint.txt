@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Harry Potter series by J.K. Rowling
+3. Twilight series by Stephenie Meyer
+4. Ender's Game by Orson Scott Card
+5. The Lord of the Rings by J.R.R. Tolkien
+6. The Chronicles of Narnia by C.S. Lewis
+7. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+8. The Giver by Lois Lowry
+9. Divergent by Veronica Roth
+10. The Maze Runner by James Dashner
+11. The Fault in Our Stars by John Green
+12. The Book Thief by Markus Zusak
+13. The Girl with the Dragon Tattoo by Stieg Larsson
+14. The Da Vinci Code by Dan Brown
+15. The Catcher in the Rye by J.D. Salinger
+16. To Kill a Mockingbird by Harper Lee
+17. 1984 by George Orwell
+18. Animal Farm by George Orwell
+19. Lord of the Flies by William Golding
+20. Brave New World by Aldous Huxley
+21. Fahrenheit 451 by Ray Bradbury
+22. Catch-22 by Joseph Heller
+23. Slaughterhouse-Five by Kurt Vonnegut
+24. The Time Traveler's Wife by Audrey Niffenegger
+25. Matilda by Roald Dahl
+26. Romeo and Juliet by William Shakespeare
+27. Dracula by Bram Stoker
+28. His Dark Materials by Philip Pullman
+29. The Song of the Lioness by Tamora Pierce
+30. The Hunger Games: Catching Fire by Suzanne Collins
+31. The Hunger Games: Mockingjay by Suzanne Collins
+32. The Lovely Bones by Alice Sebold
+33. The True Game by Sheri S. Tepper
+34. Night by Elie Wiesel
+35. The War of the Worlds by H.G. Wells
+36. Pride and Prejudice by Jane Austen
+37. Sense and Sensibility by Jane Austen
+38. Great Expectations by Charles Dickens
+39. Small Gods by Terry Pratchett
+40. Blood and Chocolate by Annette Curtis Klause
+41. The Lord of the Rings: The Two Towers by J.R.R. Tolkien
+42. The Lord of the Rings: The Return of the King by J.R.R. Tolkien
+43. Cirque du Freak by Darren Shan
+44. Jane Eyre by Charlotte Bronte
+45. Sabriel by Garth Nix
+46. Alice's Adventures in Wonderland by Lewis Carroll
+47. The Last Battle by C.S. Lewis
+48. Charlie and the Chocolate Factory by Roald Dahl
+49. The Hitchhiker's Guide to the Galaxy: The Restaurant at the End of the Universe by Douglas Adams
+50. The Hitchhiker's Guide

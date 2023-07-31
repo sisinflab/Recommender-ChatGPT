@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Depeche Mode
+2. Placebo
+3. Pet Shop Boys
+4. New Order
+5. Dave Gahan
+6. The Smiths
+7. The Chemical Brothers
+8. The Cure
+9. Franz Ferdinand
+10. Oasis
+11. Underworld
+12. The Smashing Pumpkins
+13. Morrissey
+14. Moby
+15. Coldplay
+16. Pearl Jam
+17. The Strokes
+18. Recoil
+19. Gustavo Cerati
+20. Kraftwerk
+21. Fatboy Slim
+22. The Clash
+23. Martin L. Gore
+24. Guns N' Roses
+25. INXS
+26. Black Sabbath
+27. The Verve
+28. Simple Minds
+29. Radiohead
+30. Muse
+31. Pink Floyd
+32. Iron Maiden
+33. Led Zeppelin
+34. Metallica
+35. Michael Jackson
+36. a-ha
+37. Björk
+38. Nine Inch Nails
+39. Linkin Park
+40. Avenged Sevenfold
+41. My Chemical Romance
+42. Green Day
+43. The Beatles
+44. U2
+45. Duran Duran
+46. Arctic Monkeys
+47. Ke$ha
+48. Kelly Clarkson
+49. P!nk
+50. Black Eyed Peas

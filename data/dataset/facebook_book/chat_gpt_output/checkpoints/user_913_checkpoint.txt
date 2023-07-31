@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Name of the Wind by Patrick Rothfuss
+2. The Lies of Locke Lamora by Scott Lynch
+3. The Way of Kings by Brandon Sanderson
+4. Mistborn by Brandon Sanderson
+5. The Final Empire by Brandon Sanderson
+6. The Well of Ascension by Brandon Sanderson
+7. The Hero of Ages by Brandon Sanderson
+8. The Wise Man's Fear by Patrick Rothfuss
+9. The Black Prism by Brent Weeks
+10. The Blinding Knife by Brent Weeks
+11. The Broken Eye by Brent Weeks
+12. The Blood Mirror by Brent Weeks
+13. The Fifth Season by N.K. Jemisin
+14. The Obelisk Gate by N.K. Jemisin
+15. The Stone Sky by N.K. Jemisin
+16. The Magicians by Lev Grossman
+17. The Magician King by Lev Grossman
+18. The Magician's Land by Lev Grossman
+19. The Lies of Locke Lamora by Scott Lynch
+20. Red Seas Under Red Skies by Scott Lynch
+21. The Republic of Thieves by Scott Lynch
+22. The Eye of the World by Robert Jordan
+23. The Great Hunt by Robert Jordan
+24. The Dragon Reborn by Robert Jordan
+25. The Shadow Rising by Robert Jordan
+26. The Fires of Heaven by Robert Jordan
+27. Lord of Chaos by Robert Jordan
+28. A Crown of Swords by Robert Jordan
+29. The Path of Daggers by Robert Jordan
+30. Winter's Heart by Robert Jordan
+31. Crossroads of Twilight by Robert Jordan
+32. Knife of Dreams by Robert Jordan
+33. The Gathering Storm by Robert Jordan and Brandon Sanderson
+34. Towers of Midnight by Robert Jordan and Brandon Sanderson
+35. A Memory of Light by Robert Jordan and Brandon Sanderson
+36. The Lies of Locke Lamora by Scott Lynch
+37. Red Seas Under Red Skies by Scott Lynch
+38. The Republic of Thieves by Scott Lynch
+39. The First Law Trilogy by Joe Abercrombie
+40. The Blade Itself by Joe Abercrombie
+41. Before They Are Hanged by Joe Abercrombie
+42. Last Argument of Kings by Joe Abercrombie
+43. The Kingkiller Chronicle by Patrick Rothfuss
+44. The Name of the Wind by Patrick Rothfuss
+45. The Wise Man's Fear by Patrick Rothfuss
+46. The Slow Regard of Silent Things by Patrick Rothfuss
+47. The Dark Tower by Stephen King
+48. The Gunslinger by Stephen King
+49. The Drawing of the Three by Stephen King
+50. The Waste Lands by Stephen King

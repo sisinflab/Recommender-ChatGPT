@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Secondhand Serenade
+2. Breaking Benjamin
+3. Avenged Sevenfold
+4. Muse
+5. The Killers
+6. 30 Seconds to Mars
+7. Brad Paisley
+8. Bullet for My Valentine
+9. Lady Gaga
+10. Angels & Airwaves
+11. Nickelback
+12. Rise Against
+13. Beyoncé
+14. Usher
+15. Mayday Parade
+16. Shiny Toy Guns
+17. Chevelle
+18. Story of the Year
+19. Flogging Molly
+20. Silverstein
+21. Kings of Leon
+22. Staind
+23. My Chemical Romance
+24. Iron & Wine
+25. Katy Perry
+26. Ludwig van Beethoven
+27. Coldplay
+28. Jay-Z
+29. Hole
+30. Sublime
+31. Pink Floyd
+32. Radiohead
+33. Nirvana
+34. Led Zeppelin
+35. Metallica
+36. Michael Jackson
+37. Pearl Jam
+38. System of a Down
+39. Daft Punk
+40. Nine Inch Nails
+41. Linkin Park
+42. Avenged Sevenfold
+43. Green Day
+44. The Cure
+45. Depeche Mode
+46. Christina Aguilera
+47. Paramore
+48. Madonna
+49. Rihanna
+50. Shakira

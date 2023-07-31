@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Animal Farm by George Orwell
+2. To Kill a Mockingbird by Harper Lee
+3. The Great Gatsby by F. Scott Fitzgerald
+4. One Hundred Years of Solitude by Gabriel Garcia Marquez
+5. The Picture of Dorian Gray by Oscar Wilde
+6. The Bell Jar by Sylvia Plath
+7. The Stranger by Albert Camus
+8. The Road by Cormac McCarthy
+9. The Handmaid's Tale by Margaret Atwood
+10. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+11. The Sun Also Rises by Ernest Hemingway
+12. Slaughterhouse-Five by Kurt Vonnegut
+13. The Brothers Karamazov by Fyodor Dostoevsky
+14. Crime and Punishment by Fyodor Dostoevsky
+15. The Trial by Franz Kafka
+16. The Metamorphosis by Franz Kafka
+17. Heart of Darkness by Joseph Conrad
+18. The Sound and the Fury by William Faulkner
+19. As I Lay Dying by William Faulkner
+20. The Catch-22 by Joseph Heller
+21. Catcher in the Rye by J.D. Salinger
+22. The Old Man and the Sea by Ernest Hemingway
+23. For Whom the Bell Tolls by Ernest Hemingway
+24. The Grapes of Wrath by John Steinbeck
+25. East of Eden by John Steinbeck
+26. The Lord of the Rings by J.R.R. Tolkien
+27. The Hobbit by J.R.R. Tolkien
+28. The Chronicles of Narnia by C.S. Lewis
+29. The Da Vinci Code by Dan Brown
+30. The Girl with the Dragon Tattoo by Stieg Larsson
+31. The Hunger Games by Suzanne Collins
+32. The Road Less Traveled by M. Scott Peck
+33. The Alchemist by Paulo Coelho
+34. The Kite Runner by Khaled Hosseini
+35. A Thousand Splendid Suns by Khaled Hosseini
+36. The God of Small Things by Arundhati Roy
+37. The Joy Luck Club by Amy Tan
+38. The Color Purple by Alice Walker
+39. Beloved by Toni Morrison
+40. The Handmaid's Tale by Margaret Atwood
+41. The Poisonwood Bible by Barbara Kingsolver
+42. The Secret Life of Bees by Sue Monk Kidd
+43. The Help by Kathryn Stockett
+44. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+45. The Glass Castle by Jeannette Walls
+46. The Devil in the White City by Erik Larson
+47. The Boys in the Boat by Daniel James Brown
+48. Unbroken by Laura Hillenbrand
+49. The Nightingale by
+50. The Wise Man's Fear by Patrick Rothfuss

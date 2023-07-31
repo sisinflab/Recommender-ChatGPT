@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Beloved by Toni Morrison
+2. To Kill a Mockingbird by Harper Lee
+3. The Color Purple by Alice Walker
+4. The Great Gatsby by F. Scott Fitzgerald
+5. The Grapes of Wrath by John Steinbeck
+6. One Hundred Years of Solitude by Gabriel Garcia Marquez
+7. The Sound and the Fury by William Faulkner
+8. The Sun Also Rises by Ernest Hemingway
+9. The Old Man and the Sea by Ernest Hemingway
+10. The Bell Jar by Sylvia Plath
+11. The Handmaid's Tale by Margaret Atwood
+12. Animal Farm by George Orwell
+13. Brave New World by Aldous Huxley
+14. Heart of Darkness by Joseph Conrad
+15. The Picture of Dorian Gray by Oscar Wilde
+16. The Stranger by Albert Camus
+17. Crime and Punishment by Fyodor Dostoevsky
+18. The Brothers Karamazov by Fyodor Dostoevsky
+19. Lolita by Vladimir Nabokov
+20. The Trial by Franz Kafka
+21. The Metamorphosis by Franz Kafka
+22. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+23. Slaughterhouse-Five by Kurt Vonnegut
+24. Catch-22 by Joseph Heller
+25. The Lord of the Rings by J.R.R. Tolkien
+26. The Hobbit by J.R.R. Tolkien
+27. The Chronicles of Narnia by C.S. Lewis
+28. The Alchemist by Paulo Coelho
+29. The Picture of Dorian Gray by Oscar Wilde
+30. The Count of Monte Cristo by Alexandre Dumas
+31. Les Miserables by Victor Hugo
+32. The Three Musketeers by Alexandre Dumas
+33. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+34. The Hound of the Baskervilles by Arthur Conan Doyle
+35. The Da Vinci Code by Dan Brown
+36. Angels and Demons by Dan Brown
+37. The Girl with the Dragon Tattoo by Stieg Larsson
+38. The Hunger Games by Suzanne Collins
+39. Harry Potter and the Philosopher's Stone by J.K. Rowling
+40. Harry Potter and the Chamber of Secrets by J.K. Rowling
+41. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+42. Harry Potter and the Goblet of Fire by J.K. Rowling
+43. Harry Potter and the Order of Phoenix by J.K. Rowling
+44. Harry Potter and the Half-Blood Prince by J.K. Rowling
+45. Harry Potter and the Deathly Hallows by J.K. Rowling
+46. The Name of the Wind by Patrick Rothfuss
+47. The Wise Man's Fear by Patrick Roth
+48. Nine Stories by J.D. Salinger
+49. The Bell Jar by Sylvia Plath
+50. The Wise Man's Fear by Patrick Rothfuss

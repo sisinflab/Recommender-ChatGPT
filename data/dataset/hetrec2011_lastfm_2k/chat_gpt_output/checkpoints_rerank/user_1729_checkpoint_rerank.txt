@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. Elliott Smith
+3. Sigur Rós
+4. Deerhunter
+5. Jimmy Eat World
+6. Interpol
+7. The Cure
+8. The National
+9. Nirvana
+10. Joy Division
+11. My Bloody Valentine
+12. Weezer
+13. The Pains of Being Pure at Heart
+14. Pavement
+15. The Cribs
+16. The Dandy Warhols
+17. Neutral Milk Hotel
+18. Brand New
+19. M83
+20. R.E.M.
+21. Queens of the Stone Age
+22. The Brian Jonestown Massacre
+23. Depeche Mode
+24. The Smashing Pumpkins
+25. White Lies
+26. Friendly Fires
+27. Deftones
+28. Muse
+29. Pink Floyd
+30. Arctic Monkeys
+31. Placebo
+32. The Killers
+33. Iron Maiden
+34. Led Zeppelin
+35. Metallica
+36. Pearl Jam
+37. a-ha
+38. Björk
+39. Nine Inch Nails
+40. Daft Punk
+41. Linkin Park
+42. Avenged Sevenfold
+43. My Chemical Romance
+44. Green Day
+45. The Beatles
+46. U2
+47. Michael Jackson
+48. Amy Winehouse
+49. Duran Duran
+50. Blur

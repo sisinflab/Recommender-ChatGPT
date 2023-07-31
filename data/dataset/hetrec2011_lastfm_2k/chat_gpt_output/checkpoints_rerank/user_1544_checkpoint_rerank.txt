@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Birthday Massacre
+2. A Day to Remember
+3. Fresno
+4. Adriana Calcanhotto
+5. Garbage
+6. Emilie Autumn
+7. Lacuna Coil
+8. Seether
+9. Billy Talent
+10. Anberlin
+11. Ashlee Simpson
+12. Flyleaf
+13. Muse
+14. Asking Alexandria
+15. t.A.T.u.
+16. Porcelain and the Tramps
+17. City and Colour
+18. The Rasmus
+19. Cássia Eller
+20. Rammstein
+21. Jay Vaquer
+22. Madonna
+23. Lady Gaga
+24. Britney Spears
+25. Amy Winehouse
+26. Avenged Sevenfold
+27. Linkin Park
+28. 3OH!3
+29. Jeffree Star
+30. The Veronicas
+31. Jamiroquai
+32. Kelly Clarkson
+33. U2
+34. Paramore
+35. Pink Floyd
+36. Christina Aguilera
+37. Shakira
+38. Beyoncé
+39. Evanescence
+40. Glee Cast
+41. Taylor Swift
+42. Ke$ha
+43. Duran Duran
+44. Coldplay
+45. Blur
+46. Arctic Monkeys
+47. Placebo
+48. The Killers
+49. Nirvana
+50. Iron Maiden

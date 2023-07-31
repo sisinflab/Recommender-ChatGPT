@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter series by J.K. Rowling
+2. Matilda by Roald Dahl
+3. Animal Farm by George Orwell
+4. Dracula by Bram Stoker
+5. Watchmen by Alan Moore and Dave Gibbons
+6. Jane Eyre by Charlotte Bronte
+7. Lord of the Flies by William Golding
+8. The Hunger Games by Suzanne Collins
+9. Murder on the Orient Express by Agatha Christie
+10. Neverwhere by Neil Gaiman
+11. Twilight series by Stephenie Meyer
+12. Bridge to Terabithia by Katherine Paterson
+13. Little Women by Louisa May Alcott
+14. A Tale of Two Cities by Charles Dickens
+15. The Lovely Bones by Alice Sebold
+16. The Lord of the Rings by J.R.R. Tolkien
+17. Fahrenheit 451 by Ray Bradbury
+18. The Time Machine by H.G. Wells
+19. Brighton Rock by Graham Greene
+20. The Girl Who Played with Fire by Stieg Larsson
+21. The Tenant of Wildfell Hall by Anne Bronte
+22. Great Expectations by Charles Dickens
+23. The Last Unicorn by Peter S. Beagle
+24. A Swiftly Tilting Planet by Madeleine L'Engle
+25. Paper Towns by John Green
+26. Mind Siege by Tim LaHaye and David Noebel
+27. The Zombie Survival Guide by Max Brooks
+28. Eugene Onegin by Alexander Pushkin
+29. The Hamlet by William Faulkner
+30. Bad Girls by Jacqueline Wilson
+31. Ingo by Helen Dunmore
+32. Women in Love by D.H. Lawrence
+33. Castaways of the Flying Dutchman by Brian Jacques
+34. The Witch of Blackbird Pond by Elizabeth George Speare
+35. Journey to the River Sea by Eva Ibbotson
+36. Nicholas Nickleby by Charles Dickens
+37. The End of the Affair by Graham Greene
+38. A Ring of Endless Light by Madeleine L'Engle
+39. Asterix the Gaul by Rene Goscinny and Albert Uderzo
+40. Tales of a Fourth Grade Nothing by Judy Blume
+41. The Watchmen (novelization) by Peter David
+42. The Outsiders by S.E. Hinton
+43. Angus, Thongs and Full-Frontal Snogging by Louise Rennison
+44. Spells by Aprilynne Pike
+45. City of Bones by Cassandra Clare
+46. The Story of Tracy Beaker by Jacqueline Wilson
+47. The Witches by Roald Dahl
+48. Manga by Various Authors
+49. The Pit and the Pendulum by Edgar Allan Poe
+50. Welcome to the Monkey House by Kurt Vonnegut

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Slipknot
+2. System of a Down
+3. Hatebreed
+4. Walls of Jericho
+5. Anthrax
+6. Parkway Drive
+7. Rise Against
+8. Millencolin
+9. Incubus
+10. Stone Sour
+11. Linkin Park
+12. Creed
+13. Audioslave
+14. Pennywise
+15. Depeche Mode
+16. Nirvana
+17. Metallica
+18. Iron Maiden
+19. Pearl Jam
+20. The Beatles
+21. Muse
+22. Radiohead
+23. Nine Inch Nails
+24. Avenged Sevenfold
+25. Green Day
+26. My Chemical Romance
+27. The Killers
+28. Coldplay
+29. Blur
+30. Arctic Monkeys
+31. Placebo
+32. Pink Floyd
+33. U2
+34. Michael Jackson
+35. Madonna
+36. Beyoncé
+37. Rihanna
+38. Lady Gaga
+39. Christina Aguilera
+40. Katy Perry
+41. Taylor Swift
+42. Ke$ha
+43. Paramore
+44. Evanescence
+45. Glee Cast
+46. Shakira
+47. Black Eyed Peas
+48. P!nk
+49. Kylie Minogue
+50. Amy Winehouse

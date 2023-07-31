@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Silmarillion by J.R.R. Tolkien
+2. The Chronicles of Narnia by C.S. Lewis
+3. The Lord of the Rings by J.R.R. Tolkien
+4. The Hobbit by J.R.R. Tolkien
+5. Harry Potter by J.K. Rowling
+6. Pride and Prejudice by Jane Austen
+7. Emma by Jane Austen
+8. Wuthering Heights by Emily Bronte
+9. The Princess Bride by William Goldman
+10. Les Miserables by Victor Hugo
+11. Oliver Twist by Charles Dickens
+12. The Bourne Ultimatum by Robert Ludlum
+13. Brave New World by Aldous Huxley
+14. The Hunchback of Notre-Dame by Victor Hugo
+15. The Spiderwick Chronicles by Tony DiTerlizzi and Holly Black
+16. The No. 1 Ladies' Detective Agency by Alexander McCall Smith
+17. The Sleeping Beauty by Mercedes Lackey
+18. The Crystal Cave by Mary Stewart
+19. Mountains Beyond Mountains by Tracy Kidder
+20. Fingersmith by Sarah Waters
+21. The Borrowers by Mary Norton
+22. The Watchmen by Alan Moore and Dave Gibbons
+23. The Wonderful Wizard of Oz by L. Frank Baum
+24. Northanger Abbey by Jane Austen
+25. Lorna Doone by R.D. Blackmore
+26. The Purpose Driven Life by Rick Warren
+27. Angels & Demons by Dan Brown
+28. Trainspotting by Irvine Welsh
+29. His Dark Materials by Philip Pullman
+30. Blood Meridian by Cormac McCarthy
+31. On a Pale Horse by Piers Anthony
+32. A Separate Peace by John Knowles
+33. The Sea of Trolls by Nancy Farmer
+34. The Nanny Diaries by Emma McLaughlin and Nicola Kraus
+35. The Zombie Survival Guide by Max Brooks
+36. Practical Magic by Alice Hoffman
+37. Fathers and Sons by Ivan Turgenev
+38. The Walking Dead by Robert Kirkman and Tony Moore
+39. Twisted by Laurie Halse Anderson
+40. Winnie-the-Pooh by A.A. Milne
+41. Eric by Terry Pratchett
+42. Gravity's Rainbow by Thomas Pynchon
+43. An Inconvenient Book by Glenn Beck
+44. Strange Angels by Lili St. Crow
+45. The Beautiful Boy by Germaine Greer
+46. 300 by Frank Miller
+47. Black Butler by Yana Toboso
+48. Romeo and Juliet by William Shakespeare
+49. Kapitan Sino by Bob Ong
+50. I Am America (And So Can You!) by Stephen Colbert

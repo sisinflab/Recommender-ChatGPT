@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Opeth
+2. Devin Townsend
+3. Porcupine Tree
+4. Ulver
+5. Symphony X
+6. Riverside
+7. Ensiferum
+8. Cynic
+9. Blackfield
+10. Ayreon
+11. Gojira
+12. Mew
+13. The Smashing Pumpkins
+14. Tori Amos
+15. Queen
+16. Elliott Smith
+17. Katatonia
+18. Anathema
+19. Pink Floyd
+20. Tool
+21. Death
+22. System of a Down
+23. Megadeth
+24. Ozzy Osbourne
+25. Children of Bodom
+26. Dark Tranquillity
+27. Nightwish
+28. Amorphis
+29. Kamelot
+30. Iron Maiden
+31. Dream Theater
+32. Meshuggah
+33. Arch Enemy
+34. Stratovarius
+35. Pain of Salvation
+36. A Perfect Circle
+37. Mastodon
+38. Rush
+39. Cream
+40. Jethro Tull
+41. Nick Drake
+42. Sigur Rós
+43. Beirut
+44. VNV Nation
+45. Captain Beefheart & His Magic Band
+46. Rise Against
+47. Korn
+48. Therion
+49. Municipal Waste
+50. The Blackout

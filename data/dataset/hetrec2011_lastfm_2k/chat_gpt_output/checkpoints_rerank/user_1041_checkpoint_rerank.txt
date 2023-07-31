@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Rammstein
+2. Disturbed
+3. Marilyn Manson
+4. HammerFall
+5. Nautilus Pompilius
+6. Adema
+7. Scars on Broadway
+8. Iron Maiden
+9. Metallica
+10. Avenged Sevenfold
+11. My Chemical Romance
+12. Linkin Park
+13. Nightwish
+14. Edguy
+15. Helloween
+16. The Rasmus
+17. Placebo
+18. Franz Ferdinand
+19. Muse
+20. Queen
+21. Red Hot Chili Peppers
+22. Sum 41
+23. Foo Fighters
+24. Breaking Benjamin
+25. The Offspring
+26. Noize MC
+27. Coldplay
+28. The Rolling Stones
+29. Nirvana
+30. Green Day
+31. Michael Jackson
+32. Pearl Jam
+33. System of a Down
+34. Nine Inch Nails
+35. Iron Maiden
+36. Led Zeppelin
+37. a-ha
+38. Björk
+39. Daft Punk
+40. Radiohead
+41. Arctic Monkeys
+42. Blur
+43. U2
+44. Pink Floyd
+45. The Beatles
+46. Duran Duran
+47. Ke$ha
+48. Katy Perry
+49. Taylor Swift
+50. Lady Gaga

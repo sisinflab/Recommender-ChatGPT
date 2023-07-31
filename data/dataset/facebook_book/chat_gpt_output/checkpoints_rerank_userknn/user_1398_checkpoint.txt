@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. To Kill a Mockingbird by Harper Lee
+3. The Great Gatsby by F. Scott Fitzgerald
+4. 1984 by George Orwell
+5. Animal Farm by George Orwell
+6. Lord of the Flies by William Golding
+7. The Bell Jar by Sylvia Plath
+8. The Picture of Dorian Gray by Oscar Wilde
+9. Dracula by Bram Stoker
+10. Wuthering Heights by Emily Bronte
+11. Frankenstein by Mary Shelley
+12. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+13. The Perks of Being a Wallflower by Stephen Chbosky
+14. Paper Towns by John Green
+15. The Secret Life of Bees by Sue Monk Kidd
+16. Their Eyes Were Watching God by Zora Neale Hurston
+17. Balzac and the Little Chinese Seamstress by Dai Sijie
+18. Because of Winn-Dixie by Kate DiCamillo
+19. A Series of Unfortunate Events by Lemony Snicket
+20. Harry Potter series by J.K. Rowling
+21. The Hunger Games series by Suzanne Collins
+22. Twilight series by Stephenie Meyer
+23. The Chronicles of Narnia series by C.S. Lewis
+24. Romeo and Juliet by William Shakespeare
+25. A Midsummer Night's Dream by William Shakespeare
+26. Macbeth by William Shakespeare
+27. The Phantom of the Opera by Gaston Leroux
+28. Les Misérables by Victor Hugo
+29. The Lovely Bones by Alice Sebold
+30. Never Let Me Go by Kazuo Ishiguro
+31. Of Mice and Men by John Steinbeck
+32. Flowers for Algernon by Daniel Keyes
+33. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+34. Go Ask Alice by Anonymous
+35. Running with Scissors by Augusten Burroughs
+36. The House of the Scorpion by Nancy Farmer
+37. The Lost World by Michael Crichton
+38. Jurassic Park by Michael Crichton
+39. The Last Days by Scott Westerfeld
+40. Uglies by Scott Westerfeld
+41. Touching Spirit Bear by Ben Mikaelsen
+42. The True Game by Sheri S. Tepper
+43. Rhapsody: Child of Blood by Elizabeth Haydon
+44. The Constitution of Liberty by Friedrich A. Hayek
+45. Studies of the Book of Mormon by B.H. Roberts
+46. The Little Prince by Antoine de Saint-Exupéry
+47. Manga by Various Authors
+48. Cathy's Book by Jordan Weisman
+49. Peeps by Scott Westerfeld
+50.

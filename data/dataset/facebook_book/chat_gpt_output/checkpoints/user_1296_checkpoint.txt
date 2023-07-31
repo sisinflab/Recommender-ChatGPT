@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Crime and Punishment by Fyodor Dostoyevsky
+2. To Kill a Mockingbird by Harper Lee
+3. 1984 by George Orwell
+4. The Catcher in the Rye by J.D. Salinger
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Great Gatsby by F. Scott Fitzgerald
+7. The Hobbit by J.R.R. Tolkien
+8. The Lord of the Rings by J.R.R. Tolkien
+9. The Chronicles of Narnia by C.S. Lewis
+10. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+11. The Picture of Dorian Gray by Oscar Wilde
+12. The Bell Jar by Sylvia Plath
+13. The Handmaid's Tale by Margaret Atwood
+14. The Road by Cormac McCarthy
+15. The Stand by Stephen King
+16. The Shining by Stephen King
+17. The Girl with the Dragon Tattoo by Stieg Larsson
+18. The Da Vinci Code by Dan Brown
+19. The Hunger Games by Suzanne Collins
+20. The Book Thief by Markus Zusak
+21. The Kite Runner by Khaled Hosseini
+22. The Alchemist by Paulo Coelho
+23. The Name of the Wind by Patrick Rothfuss
+24. The Wise Man's Fear by Patrick Rothfuss
+25. The Shadow of the Wind by Carlos Ruiz Zafon
+26. The Time Traveler's Wife by Audrey Niffenegger
+27. The Help by Kathryn Stockett
+28. The Secret Life of Bees by Sue Monk Kidd
+29. The Color Purple by Alice Walker
+30. The Joy Luck Club by Amy Tan
+31. The Poisonwood Bible by Barbara Kingsolver
+32. The God of Small Things by Arundhati Roy
+33. The Brief Wondrous Life of Oscar Wao by Junot Diaz
+34. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+35. The Corrections by Jonathan Franzen
+36. The Road Less Traveled by M. Scott Peck
+37. The Power of Now by Eckhart Tolle
+38. The 7 Habits of Highly Effective People by Stephen Covey
+39. The Art of War by Sun Tzu
+40. The Prince by Niccolo Machiavelli
+41. The Republic by Plato
+42. The Wealth of Nations by Adam Smith
+43. The Origin of Species by Charles Darwin
+44. The Structure of Scientific Revolutions by Thomas S. Kuhn
+45. The Selfish Gene by Richard Dawkins
+46. The Elegant Universe by Brian Greene
+47. The Universe in a Nutshell by Stephen Hawking
+48. The Feynman Lectures on Physics by Richard Feynman
+49. The Innovator's Dilemma by Clayton M. Christensen
+50. American Gods by Neil Gaiman

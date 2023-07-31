@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Catcher in the Rye by J.D. Salinger
+3. 1984 by George Orwell
+4. The Bell Jar by Sylvia Plath
+5. The Picture of Dorian Gray by Oscar Wilde
+6. The Handmaid's Tale by Margaret Atwood
+7. The Lord of the Rings by J.R.R. Tolkien
+8. The Hobbit by J.R.R. Tolkien
+9. The Hunger Games by Suzanne Collins
+10. The Book Thief by Markus Zusak
+11. The Fault in Our Stars by John Green
+12. The Perks of Being a Wallflower by Stephen Chbosky
+13. The Road by Cormac McCarthy
+14. The Kite Runner by Khaled Hosseini
+15. The Girl with the Dragon Tattoo by Stieg Larsson
+16. The Help by Kathryn Stockett
+17. The Lovely Bones by Alice Sebold
+18. The Time Traveler's Wife by Audrey Niffenegger
+19. The Alchemist by Paulo Coelho
+20. The Da Vinci Code by Dan Brown
+21. The Shining by Stephen King
+22. The Stand by Stephen King
+23. The Outsiders by S.E. Hinton
+24. The Giver by Lois Lowry
+25. The Chronicles of Narnia by C.S. Lewis
+26. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+27. The Color Purple by Alice Walker
+28. The Secret History by Donna Tartt
+29. The Name of the Wind by Patrick Rothfuss
+30. The Nightingale by Kristin Hannah
+31. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+32. The Martian by Andy Weir
+33. The Handmaid's Tale by Margaret Atwood
+34. The Road by Cormac McCarthy
+35. The Kite Runner by Khaled Hosseini
+36. The Girl with the Dragon Tattoo by Stieg Larsson
+37. The Help by Kathryn Stockett
+38. The Lovely Bones by Alice Sebold
+39. The Time Traveler's Wife by Audrey Niffenegger
+40. The Alchemist by Paulo Coelho
+41. The Da Vinci Code by Dan Brown
+42. The Shining by Stephen King
+43. The Stand by Stephen King
+44. The Outsiders by S.E. Hinton
+45. The Giver by Lois Lowry
+46. The Chronicles of Narnia by C.S. Lewis
+47. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+48. The Color Purple by Alice Walker
+49. The Secret History by Donna Tartt
+50. The Name of the Wind by Patrick Rothfuss

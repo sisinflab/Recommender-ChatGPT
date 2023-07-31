@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Nirvana
+3. Pearl Jam
+4. Elliott Smith
+5. Björk
+6. Nine Inch Nails
+7. Jimi Hendrix
+8. Soundgarden
+9. Led Zeppelin
+10. AC/DC
+11. Aerosmith
+12. R.E.M.
+13. Dinosaur Jr.
+14. Stone Temple Pilots
+15. The Who
+16. A Perfect Circle
+17. Mudhoney
+18. Yann Tiersen
+19. Howard Shore
+20. Placebo
+21. Janis Joplin
+22. Thom Yorke
+23. Queens of the Stone Age
+24. Pixies
+25. Pink Floyd
+26. The Rolling Stones
+27. Black Sabbath
+28. Alice in Chains
+29. The Smashing Pumpkins
+30. Iron Maiden
+31. Ramones
+32. Rage Against the Machine
+33. Tool
+34. Muse
+35. Kings of Leon
+36. Oasis
+37. Eminem
+38. Red Hot Chili Peppers
+39. System of a Down
+40. Marilyn Manson
+41. Disturbed
+42. The White Stripes
+43. Bloc Party
+44. Ryan Adams
+45. Silverchair
+46. Depeche Mode
+47. Editors
+48. U2
+49. Billy Talent
+50. Damien Rice

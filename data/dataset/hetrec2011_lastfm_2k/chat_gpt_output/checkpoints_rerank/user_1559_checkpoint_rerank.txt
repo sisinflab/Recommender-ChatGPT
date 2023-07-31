@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Maroon 5
+2. Ed Sheeran
+3. Imagine Dragons
+4. OneRepublic
+5. The Weeknd
+6. Shawn Mendes
+7. Ariana Grande
+8. Hozier
+9. Post Malone
+10. Billie Eilish
+11. Khalid
+12. Sam Smith
+13. Adele
+14. Justin Bieber
+15. Eminem
+16. Bruno Mars
+17. James Blunt
+18. Fresno
+19. Arctic Monkeys
+20. Justin Timberlake
+21. The Strokes
+22. Usher
+23. Fall Out Boy
+24. Panic! At the Disco
+25. Hawthorne Heights
+26. Luan Santana
+27. David Guetta
+28. Avril Lavigne
+29. Red Hot Chili Peppers
+30. Saosin
+31. Underoath
+32. MGMT
+33. Eddie Vedder
+34. Franz Ferdinand
+35. Oasis
+36. Beeshop
+37. Story of the Year
+38. Keane
+39. Snow Patrol
+40. Simple Plan
+41. Kings of Leon
+42. The Verve
+43. Duffy
+44. Legião Urbana
+45. Rage Against the Machine
+46. AC/DC
+47. R.E.M.
+48. Engenheiros do Hawaii
+49. Muse
+50. Radiohead

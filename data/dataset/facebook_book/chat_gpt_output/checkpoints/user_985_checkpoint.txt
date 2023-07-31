@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. American Gods by Neil Gaiman
+2. Fight Club by Chuck Palahniuk
+3. Neverwhere by Neil Gaiman
+4. The Catcher in the Rye by J.D. Salinger
+5. The Girl with the Dragon Tattoo by Stieg Larsson
+6. The Hunger Games by Suzanne Collins
+7. The Road by Cormac McCarthy
+8. The Shining by Stephen King
+9. The Stand by Stephen King
+10. A Clockwork Orange by Anthony Burgess
+11. Brave New World by Aldous Huxley
+12. Catch-22 by Joseph Heller
+13. Dune by Frank Herbert
+14. Ender's Game by Orson Scott Card
+15. Fahrenheit 451 by Ray Bradbury
+16. Harry Potter and the Philosopher's Stone by J.K. Rowling
+17. His Dark Materials by Philip Pullman
+18. I Am Legend by Richard Matheson
+19. Jurassic Park by Michael Crichton
+20. Life of Pi by Yann Martel
+21. Lord of the Flies by William Golding
+22. Neuromancer by William Gibson
+23. Nineteen Eighty-Four by George Orwell
+24. One Hundred Years of Solitude by Gabriel Garcia Marquez
+25. Slaughterhouse-Five by Kurt Vonnegut
+26. Snow Crash by Neal Stephenson
+27. The Alchemist by Paulo Coelho
+28. The Andromeda Strain by Michael Crichton
+29. The Da Vinci Code by Dan Brown
+30. The Dark Tower series by Stephen King
+31. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+32. The Martian by Andy Weir
+33. The Maze Runner by James Dashner
+34. The Name of the Wind by Patrick Rothfuss
+35. The Picture of Dorian Gray by Oscar Wilde
+36. The Silence of the Lambs by Thomas Harris
+37. The Time Machine by H.G. Wells
+38. The War of the Worlds by H.G. Wells
+39. To Kill a Mockingbird by Harper Lee
+40. Watership Down by Richard Adams
+41. We Need to Talk About Kevin by Lionel Shriver
+42. World War Z by Max Brooks
+43. A Game of Thrones by George R.R. Martin
+44. A Song of Ice and Fire series by George R.R. Martin
+45. Anansi Boys by Neil Gaiman
+46. Coraline by Neil Gaiman
+47. House of Leaves by Mark Z. Danielewski
+48. Jonathan Strange & Mr Norrell by Susanna Clarke
+49. The Lies of Locke Lamora by Scott Lynch
+50. The Wind-Up Bird Chronicle by Haruki Murakami

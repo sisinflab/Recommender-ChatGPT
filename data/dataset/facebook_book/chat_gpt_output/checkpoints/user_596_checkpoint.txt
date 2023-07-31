@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Kite Runner by Khaled Hosseini
+2. The Hunger Games by Suzanne Collins
+3. The Girl with the Dragon Tattoo by Stieg Larsson
+4. The Help by Kathryn Stockett
+5. The Fault in Our Stars by John Green
+6. The Book Thief by Markus Zusak
+7. The Catcher in the Rye by J.D. Salinger
+8. To Kill a Mockingbird by Harper Lee
+9. The Great Gatsby by F. Scott Fitzgerald
+10. 1984 by George Orwell
+11. Animal Farm by George Orwell
+12. Brave New World by Aldous Huxley
+13. The Lord of the Rings by J.R.R. Tolkien
+14. The Hobbit by J.R.R. Tolkien
+15. The Chronicles of Narnia by C.S. Lewis
+16. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+17. The Alchemist by Paulo Coelho
+18. The Picture of Dorian Gray by Oscar Wilde
+19. The Count of Monte Cristo by Alexandre Dumas
+20. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+21. The Time Traveler's Wife by Audrey Niffenegger
+22. The Lovely Bones by Alice Sebold
+23. The Secret Life of Bees by Sue Monk Kidd
+24. The Color Purple by Alice Walker
+25. The Joy Luck Club by Amy Tan
+26. The Bell Jar by Sylvia Plath
+27. The Handmaid's Tale by Margaret Atwood
+28. The Road by Cormac McCarthy
+29. The Stand by Stephen King
+30. The Shining by Stephen King
+31. The Silence of the Lambs by Thomas Harris
+32. The Bourne Identity by Robert Ludlum
+33. The Da Vinci Code by Dan Brown
+34. Angels & Demons by Dan Brown
+35. Digital Fortress by Dan Brown
+36. Inferno by Dan Brown
+37. The Lost Symbol by Dan Brown
+38. The Name of the Rose by Umberto Eco
+39. The Pillars of the Earth by Ken Follett
+40. The Clan of the Cave Bear by Jean M. Auel
+41. The Girl on the Train by Paula Hawkins
+42. Gone Girl by Gillian Flynn
+43. The Maze Runner by James Dashner
+44. Divergent by Veronica Roth
+45. The Giver by Lois Lowry
+46. The Outsiders by S.E. Hinton
+47. The Perks of Being a Wallflower by Stephen Chbosky
+48. The Fault in Our Stars by John Green
+49. Looking for Alaska by John Green
+50. Paper Towns by John Green

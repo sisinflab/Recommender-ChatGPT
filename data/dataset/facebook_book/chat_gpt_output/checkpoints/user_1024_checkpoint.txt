@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. World War Z by Max Brooks
+2. The Road by Cormac McCarthy
+3. A Child Called "It" by Dave Pelzer
+4. Lord of the Flies by William Golding
+5. The Catcher in the Rye by J.D. Salinger
+6. The Hobbit by J.R.R. Tolkien
+7. The Hunger Games by Suzanne Collins
+8. The Girl with the Dragon Tattoo by Stieg Larsson
+9. The Da Vinci Code by Dan Brown
+10. The Shining by Stephen King
+11. The Stand by Stephen King
+12. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+13. The Lord of the Rings by J.R.R. Tolkien
+14. The Catcher in the Rye by J.D. Salinger
+15. The Great Gatsby by F. Scott Fitzgerald
+16. The Adventures of Tom Sawyer by Mark Twain
+17. The Adventures of Huckleberry Finn by Mark Twain
+18. The Diary of a Young Girl by Anne Frank
+19. The Book Thief by Markus Zusak
+20. The Fault in Our Stars by John Green
+21. The Maze Runner by James Dashner
+22. The Giver by Lois Lowry
+23. The Chronicles of Narnia by C.S. Lewis
+24. The Harry Potter series by J.K. Rowling
+25. The Hunger Games series by Suzanne Collins
+26. The Divergent series by Veronica Roth
+27. The Maze Runner series by James Dashner
+28. The Percy Jackson series by Rick Riordan
+29. The Mortal Instruments series by Cassandra Clare
+30. The Infernal Devices series by Cassandra Clare
+31. The Dark Tower series by Stephen King
+32. The Stand by Stephen King
+33. The Gunslinger by Stephen King
+34. The Outsiders by S.E. Hinton
+35. The Bell Jar by Sylvia Plath
+36. The Picture of Dorian Gray by Oscar Wilde
+37. The Importance of Being Earnest by Oscar Wilde
+38. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+39. The Hound of the Baskervilles by Arthur Conan Doyle
+40. The Complete Works of William Shakespeare
+41. The Canterbury Tales by Geoffrey Chaucer
+42. The Divine Comedy by Dante Alighieri
+43. The Iliad by Homer
+44. The Odyssey by Homer
+45. The Republic by Plato
+46. The Prince by Niccolo Machiavelli
+47. The Art of War by Sun Tzu
+48. The Wealth of Nations by Adam Smith
+49. The Communist Manifesto by Karl Marx and Friedrich Engels
+50. The Origin of Species by Charles Darwin

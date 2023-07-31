@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for this user would be:
+
+1. The Beatles
+2. Pink Floyd
+3. Radiohead
+4. Fleetwood Mac
+5. Nirvana
+6. Michael Jackson
+7. David Bowie
+8. The Police
+9. Coldplay
+10. The Rolling Stones
+11. Phil Collins
+12. The Velvet Underground
+13. Beck
+14. Keane
+15. Enya
+16. Cat Stevens
+17. Paul McCartney
+18. The Kooks
+19. Modest Mouse
+20. Nine Inch Nails
+21. The Killers
+22. Nick Cave and the Bad Seeds
+23. The White Stripes
+24. Weezer
+25. Arctic Monkeys
+26. The Smiths
+27. Blur
+28. José González
+29. Metric
+30. Roxy Music
+31. Iron & Wine
+32. Red Hot Chili Peppers
+33. The Dresden Dolls
+34. Moby
+35. Placebo
+36. Yeah Yeah Yeahs
+37. Tori Amos
+38. The Jesus and Mary Chain
+39. Billy Idol
+40. The Stooges
+41. Iggy Pop
+42. Oasis
+43. Soundtrack
+44. Jethro Tull
+45. T. Rex
+46. Nick Drake
+47. Aphex Twin
+48. The Libertines
+49. Captain Beefheart & His Magic Band
+50. Bauhaus

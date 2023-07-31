@@ -1,0 +1,52 @@
+Based on the user's liking history, here are the top 50 book recommendations:
+
+1. The Great Gatsby by F. Scott Fitzgerald
+2. Brave New World by Aldous Huxley
+3. The Catcher in the Rye by J.D. Salinger
+4. Harry Potter by J.K. Rowling
+5. Frankenstein by Mary Shelley
+6. Dracula by Bram Stoker
+7. The Lord of the Rings by J.R.R. Tolkien
+8. Crime and Punishment by Fyodor Dostoevsky
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Hobbit by J.R.R. Tolkien
+11. The Stand by Stephen King
+12. The Giver by Lois Lowry
+13. The Scarlet Letter by Nathaniel Hawthorne
+14. The Phantom of the Opera by Gaston Leroux
+15. The House of Mirth by Edith Wharton
+16. The Southern Vampire Mysteries by Charlaine Harris
+17. The Maze Runner by James Dashner
+18. The City of Ember by Jeanne DuPrau
+19. The Unbearable Lightness of Being by Milan Kundera
+20. Invisible Man by Ralph Ellison
+21. Through the Looking-Glass by Lewis Carroll
+22. Pygmalion by George Bernard Shaw
+23. Medea by Euripides
+24. The Silmarillion by J.R.R. Tolkien
+25. A Series of Unfortunate Events by Lemony Snicket
+26. The Rapture by Liz Jensen
+27. List of Scott Pilgrim characters by Bryan Lee O'Malley
+28. The Pillowman by Martin McDonagh
+29. And the Ass Saw the Angel by Nick Cave
+30. The Lost Books by Ted Dekker
+31. The Outsiders by S.E. Hinton
+32. Delta of Venus by Anaïs Nin
+33. The Tenant of Wildfell Hall by Anne Brontë
+34. Shakespeares sonnets by William Shakespeare
+35. Gravity's Rainbow by Thomas Pynchon
+36. Across the Universe by Beth Revis
+37. The Lovely Bones by Alice Sebold
+38. Fast Food Nation by Eric Schlosser
+39. Running with Scissors by Augusten Burroughs
+40. Cujo by Stephen King
+41. To Kill a Mockingbird by Harper Lee
+42. Nineteen Eighty-Four by George Orwell
+43. Sphere by Michael Crichton
+44. Dry by Augusten Burroughs
+45. Magical Thinking by Augusten Burroughs
+46. A Wolf at the Table by Augusten Burroughs
+47. Twilight Eyes by Dean Koontz
+48. Incarceron by Catherine Fisher
+49. Made in America by Bill Bryson
+50. Vampire Kisses by Ellen Schreiber

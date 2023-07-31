@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter series by J.K. Rowling
+2. The Lord of the Rings by J.R.R. Tolkien
+3. To Kill a Mockingbird by Harper Lee
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Nineteen Eighty-Four by George Orwell
+6. Alice's Adventures in Wonderland by Lewis Carroll
+7. Treasure Island by Robert Louis Stevenson
+8. Wuthering Heights by Emily Bronte
+9. The Catcher in the Rye by J.D. Salinger
+10. The Stand by Stephen King
+11. The Host by Stephenie Meyer
+12. The Awakening by Kate Chopin
+13. Mansfield Park by Jane Austen
+14. A Clockwork Orange by Anthony Burgess
+15. The Canterbury Tales by Geoffrey Chaucer
+16. The Song of the Lioness by Tamora Pierce
+17. The Pit and the Pendulum by Edgar Allan Poe
+18. The Cask of Amontillado by Edgar Allan Poe
+19. The Masque of the Red Death by Edgar Allan Poe
+20. In Cold Blood by Truman Capote
+21. The Rose That Grew from Concrete by Tupac Shakur
+22. Leaves of Grass by Walt Whitman
+23. The Gold Bug Variations by Richard Powers
+24. Sense and Sensibility by Jane Austen
+25. The God Delusion by Richard Dawkins
+26. God Is Not Great by Christopher Hitchens
+27. The Merchant of Venice by William Shakespeare
+28. A Midsummer Night's Dream by William Shakespeare
+29. The Smurfs by Peyo
+30. Peanuts by Charles M. Schulz
+31. The Hamlet by William Faulkner
+32. Dracula by Bram Stoker
+33. Eldest by Christopher Paolini
+34. The Murders in the Rue Morgue by Edgar Allan Poe
+35. King Leary by Paul Quarrington
+36. Hinds' Feet on High Places by Hannah Hurnard
+37. World Almanac by Sarah Janssen
+38. Leaving a Doll's House: A Memoir by Claire Bloom
+39. The Two Princesses of Bamarre by Gail Carson Levine
+40. The Wish by Gail Carson Levine
+41. The Last Storytellers: Tales from the Heart of Morocco by Richard Hamilton
+42. Twilight series by Stephenie Meyer
+43. Veronika Decides to Die by Paulo Coelho
+44. The Christy Miller series by Robin Jones Gunn
+45. Where the Sidewalk Ends by Shel Silverstein
+46. When I was Puerto Rican by Esmeralda Santiago
+47. The Lost Boy by Dave Pelzer
+48. The Yearling by Marjorie Kinnan Rawlings
+49. One Fish Two Fish Red Fish Blue Fish by Dr.

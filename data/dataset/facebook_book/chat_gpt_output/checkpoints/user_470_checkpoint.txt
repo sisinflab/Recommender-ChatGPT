@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. The Catcher in the Rye by J.D. Salinger
+3. To Kill a Mockingbird by Harper Lee
+4. The Great Gatsby by F. Scott Fitzgerald
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Picture of Dorian Gray by Oscar Wilde
+7. The Bell Jar by Sylvia Plath
+8. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+9. The Brothers Karamazov by Fyodor Dostoevsky
+10. Crime and Punishment by Fyodor Dostoevsky
+11. The Stranger by Albert Camus
+12. The Road by Cormac McCarthy
+13. The Sun Also Rises by Ernest Hemingway
+14. The Old Man and the Sea by Ernest Hemingway
+15. The Sound and the Fury by William Faulkner
+16. The Grapes of Wrath by John Steinbeck
+17. The Lord of the Rings by J.R.R. Tolkien
+18. The Hobbit by J.R.R. Tolkien
+19. The Chronicles of Narnia by C.S. Lewis
+20. The Da Vinci Code by Dan Brown
+21. Angels and Demons by Dan Brown
+22. The Girl with the Dragon Tattoo by Stieg Larsson
+23. The Girl Who Played with Fire by Stieg Larsson
+24. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+25. The Hunger Games by Suzanne Collins
+26. Catching Fire by Suzanne Collins
+27. Mockingjay by Suzanne Collins
+28. The Help by Kathryn Stockett
+29. The Kite Runner by Khaled Hosseini
+30. A Thousand Splendid Suns by Khaled Hosseini
+31. The Alchemist by Paulo Coelho
+32. The Name of the Wind by Patrick Rothfuss
+33. The Wise Man's Fear by Patrick Rothfuss
+34. The Shadow of the Wind by Carlos Ruiz Zafón
+35. The Book Thief by Markus Zusak
+36. The Fault in Our Stars by John Green
+37. Looking for Alaska by John Green
+38. Paper Towns by John Green
+39. The Maze Runner by James Dashner
+40. The Scorch Trials by James Dashner
+41. The Death Cure by James Dashner
+42. The Martian by Andy Weir
+43. Ready Player One by Ernest Cline
+44. Ender's Game by Orson Scott Card
+45. Speaker for the Dead by Orson Scott Card
+46. The Hitchhiker's Guide to the Galaxy: The Complete Radio Series by Douglas Adams
+47. The Hitchhiker's Guide to the Galaxy: The Complete Trilogy of Five by Douglas Adams
+48. The Hitchhiker's

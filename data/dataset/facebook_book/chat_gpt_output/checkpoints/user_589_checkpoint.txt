@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Crime and Punishment by Fyodor Dostoevsky
+3. One Hundred Years of Solitude by Gabriel Garcia Marquez
+4. To Kill a Mockingbird by Harper Lee
+5. The Catcher in the Rye by J.D. Salinger
+6. Brave New World by Aldous Huxley
+7. The Brothers Karamazov by Fyodor Dostoevsky
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Stranger by Albert Camus
+10. Lolita by Vladimir Nabokov
+11. The Trial by Franz Kafka
+12. Heart of Darkness by Joseph Conrad
+13. The Sun Also Rises by Ernest Hemingway
+14. The Sound and the Fury by William Faulkner
+15. The Bell Jar by Sylvia Plath
+16. The Grapes of Wrath by John Steinbeck
+17. The Old Man and the Sea by Ernest Hemingway
+18. The Great Gatsby by F. Scott Fitzgerald
+19. The Plague by Albert Camus
+20. Animal Farm by George Orwell
+21. The Last Temptation of Christ by Nikos Kazantzakis
+22. Still Life with Woodpecker by Tom Robbins
+23. The Master and Margarita by Mikhail Bulgakov
+24. Ulysses by James Joyce
+25. Divine Comedy by Dante Alighieri
+26. The Name of the Rose by Umberto Eco
+27. Don Quixote by Miguel de Cervantes
+28. The Idiot by Fyodor Dostoevsky
+29. The Count of Monte Cristo by Alexandre Dumas
+30. Les Miserables by Victor Hugo
+31. War and Peace by Leo Tolstoy
+32. Anna Karenina by Leo Tolstoy
+33. The Odyssey by Homer
+34. The Iliad by Homer
+35. The Aeneid by Virgil
+36. Paradise Lost by John Milton
+37. The Canterbury Tales by Geoffrey Chaucer
+38. Beowulf by Unknown
+39. The Divine Comedy by Dante Alighieri
+40. The Inferno by Dante Alighieri
+41. The Odyssey by Homer
+42. The Iliad by Homer
+43. The Aeneid by Virgil
+44. Paradise Lost by John Milton
+45. The Canterbury Tales by Geoffrey Chaucer
+46. Beowulf by Unknown
+47. The Divine Comedy by Dante Alighieri
+48. The Inferno by Dante Alighieri
+49. The Odyssey by Homer
+50. The Iliad by Homer

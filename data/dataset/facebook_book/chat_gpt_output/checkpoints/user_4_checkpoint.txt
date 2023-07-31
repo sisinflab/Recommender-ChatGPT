@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Go Ask Alice by Anonymous
+2. Speak by Laurie Halse Anderson
+3. Thirteen Reasons Why by Jay Asher
+4. The Perks of Being a Wallflower by Stephen Chbosky
+5. Looking for Alaska by John Green
+6. The Fault in Our Stars by John Green
+7. It's Kind of a Funny Story by Ned Vizzini
+8. Wintergirls by Laurie Halse Anderson
+9. Identical by Ellen Hopkins
+10. Burned by Ellen Hopkins
+11. Impulse by Ellen Hopkins
+12. Perfect by Ellen Hopkins
+13. Tricks by Ellen Hopkins
+14. Fallout by Ellen Hopkins
+15. The Hunger Games by Suzanne Collins
+16. Catching Fire by Suzanne Collins
+17. Mockingjay by Suzanne Collins
+18. Divergent by Veronica Roth
+19. Insurgent by Veronica Roth
+20. Allegiant by Veronica Roth
+21. The Maze Runner by James Dashner
+22. The Scorch Trials by James Dashner
+23. The Death Cure by James Dashner
+24. The Kill Order by James Dashner
+25. The Giver by Lois Lowry
+26. Gathering Blue by Lois Lowry
+27. Messenger by Lois Lowry
+28. Son by Lois Lowry
+29. The Book Thief by Markus Zusak
+30. The Lovely Bones by Alice Sebold
+31. Room by Emma Donoghue
+32. We Were Liars by E. Lockhart
+33. The Girl on the Train by Paula Hawkins
+34. Gone Girl by Gillian Flynn
+35. Sharp Objects by Gillian Flynn
+36. Dark Places by Gillian Flynn
+37. The Secret History by Donna Tartt
+38. The Bell Jar by Sylvia Plath
+39. The Catcher in the Rye by J.D. Salinger
+40. Lord of the Flies by William Golding
+41. To Kill a Mockingbird by Harper Lee
+42. The Great Gatsby by F. Scott Fitzgerald
+43. 1984 by George Orwell
+44. Animal Farm by George Orwell
+45. Brave New World by Aldous Huxley
+46. Fahrenheit 451 by Ray Bradbury
+47. One Flew Over the Cuckoo's Nest by Ken Kesey
+48. A Clockwork Orange by Anthony Burgess
+49. The Shining by Stephen King
+50. Carrie by Stephen King

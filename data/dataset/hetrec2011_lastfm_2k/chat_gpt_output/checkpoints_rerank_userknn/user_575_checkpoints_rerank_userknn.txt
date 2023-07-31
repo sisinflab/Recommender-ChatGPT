@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Muse
+3. Depeche Mode
+4. U2
+5. Rammstein
+6. Scorpions
+7. Franz Ferdinand
+8. Lady Gaga
+9. Maroon 5
+10. Dave Gahan
+11. Moby
+12. Robbie Williams
+13. Recoil
+14. Eminem
+15. Madonna
+16. a-ha
+17. Hurts
+18. Alanis Morissette
+19. Kanye West
+20. Hans Zimmer
+21. Bon Jovi
+22. Сплин
+23. Marilyn Manson
+24. Sting
+25. 30 Seconds to Mars
+26. Gorillaz
+27. The Pussycat Dolls
+28. Martin L. Gore
+29. Mika
+30. Michael Jackson
+31. Leona Lewis
+32. Lily Allen
+33. Elton John
+34. Arctic Monkeys
+35. Yann Tiersen
+36. Enrique Iglesias
+37. MGMT
+38. OneRepublic
+39. Enigma
+40. Pendulum
+41. George Michael
+42. ATB
+43. Keane
+44. Cher
+45. Garbage
+46. System of a Down
+47. Thousand Foot Krutch
+48. David Bowie
+49. Joy Division
+50. Avril Lavigne

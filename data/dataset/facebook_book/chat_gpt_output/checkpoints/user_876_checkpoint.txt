@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Catching Fire by Suzanne Collins
+3. Divergent by Veronica Roth
+4. Insurgent by Veronica Roth
+5. Allegiant by Veronica Roth
+6. The Maze Runner by James Dashner
+7. The Scorch Trials by James Dashner
+8. The Death Cure by James Dashner
+9. The Kill Order by James Dashner
+10. The Giver by Lois Lowry
+11. Gathering Blue by Lois Lowry
+12. Messenger by Lois Lowry
+13. Son by Lois Lowry
+14. The Book Thief by Markus Zusak
+15. The Fault in Our Stars by John Green
+16. Looking for Alaska by John Green
+17. Paper Towns by John Green
+18. An Abundance of Katherines by John Green
+19. The Perks of Being a Wallflower by Stephen Chbosky
+20. The Girl on the Train by Paula Hawkins
+21. Gone Girl by Gillian Flynn
+22. The Da Vinci Code by Dan Brown
+23. Angels and Demons by Dan Brown
+24. Inferno by Dan Brown
+25. The Lost Symbol by Dan Brown
+26. The Bourne Identity by Robert Ludlum
+27. The Bourne Supremacy by Robert Ludlum
+28. The Bourne Ultimatum by Robert Ludlum
+29. The Bourne Legacy by Eric Van Lustbader
+30. The Bourne Betrayal by Eric Van Lustbader
+31. The Bourne Sanction by Eric Van Lustbader
+32. The Bourne Deception by Eric Van Lustbader
+33. The Bourne Objective by Eric Van Lustbader
+34. The Bourne Dominion by Eric Van Lustbader
+35. The Bourne Imperative by Eric Van Lustbader
+36. The Bourne Retribution by Eric Van Lustbader
+37. The Bourne Ascendancy by Eric Van Lustbader
+38. The Bourne Enigma by Eric Van Lustbader
+39. The Bourne Initiative by Eric Van Lustbader
+40. The Bourne Nemesis by Eric Van Lustbader
+41. The Bourne Evolution by Brian Freeman
+42. The Bourne Treachery by Brian Freeman
+43. The Bourne Objective by Robert Ludlum and Gayle Lynds
+44. The Bourne Dominion by Robert Ludlum and Eric Van Lustbader
+45. The Bourne Imperative by Robert Ludlum and Eric Van Lustbader
+46. The Bourne Retribution by Robert Ludlum and Eric Van Lustbader
+47. The Bourne Ascendancy by Robert Ludlum and Eric Van Lustbader
+48. The Bourne Enigma by Robert Ludlum and Eric Van Lustb
+49. The Bell Jar by Sylvia Plath
+50. The Wise Man's Fear by Patrick Rothfuss

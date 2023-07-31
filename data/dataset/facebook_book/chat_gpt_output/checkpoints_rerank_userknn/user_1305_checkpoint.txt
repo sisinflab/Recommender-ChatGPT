@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Jane Eyre by Charlotte Bronte
+2. Les Miserables by Victor Hugo
+3. Memoirs of a Geisha by Arthur Golden
+4. Frankenstein by Mary Shelley
+5. The Lord of the Rings by J.R.R. Tolkien
+6. Dracula by Bram Stoker
+7. The Catcher in the Rye by J.D. Salinger
+8. The Alchemist by Paulo Coelho
+9. Alice's Adventures in Wonderland by Lewis Carroll
+10. The Bell Jar by Sylvia Plath
+11. Macbeth by William Shakespeare
+12. Little Women by Louisa May Alcott
+13. The Shadow of the Wind by Carlos Ruiz Zafon
+14. The Da Vinci Code by Dan Brown
+15. Inferno by Dante Alighieri
+16. The Other Boleyn Girl by Philippa Gregory
+17. The House of the Scorpion by Nancy Farmer
+18. A Midsummer Night's Dream by William Shakespeare
+19. The Hamlet by William Faulkner
+20. The Lightning Thief by Rick Riordan
+21. The Thief Lord by Cornelia Funke
+22. Inkheart by Cornelia Funke
+23. Inkspell by Cornelia Funke
+24. Eldest by Christopher Paolini
+25. The Vampire Diaries by L.J. Smith
+26. Twilight by Stephenie Meyer
+27. Vampire Academy by Richelle Mead
+28. Burned by Ellen Hopkins
+29. Rage of Angels by Sidney Sheldon
+30. The Legend of Sleepy Hollow by Washington Irving
+31. Goosebumps by R.L. Stine
+32. The Sight by David Clement-Davies
+33. Warriors by Erin Hunter
+34. To the Lighthouse by Virginia Woolf
+35. Their Eyes Were Watching God by Zora Neale Hurston
+36. The Satanic Verses by Salman Rushdie
+37. Antony and Cleopatra by William Shakespeare
+38. The Constitution of Liberty by Friedrich Hayek
+39. Things Fall Apart by Chinua Achebe
+40. One Night @ the Call Center by Chetan Bhagat
+41. The White Tiger by Aravind Adiga
+42. David Copperfield by Charles Dickens
+43. Great Expectations by Charles Dickens
+44. Cecilia by Fanny Burney
+45. The Legend of Sleepy Hollow by Washington Irving
+46. The Book of Revelation by John of Patmos
+47. The Lightning Thief by Rick Riordan
+48. Wake by Lisa McMann
+49. The Thief Lord by Cornelia Funke
+50. The Eternity Code by Eoin Colfer

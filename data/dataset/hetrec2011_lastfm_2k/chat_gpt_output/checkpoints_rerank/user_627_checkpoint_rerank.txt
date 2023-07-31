@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Dream Theater
+2. Symphony X
+3. Blind Guardian
+4. Helloween
+5. Iron Maiden
+6. Gamma Ray
+7. Stratovarius
+8. Yngwie Malmsteen
+9. Death
+10. Cynic
+11. Queen
+12. Nightwish
+13. Therion
+14. Enigma
+15. Howard Shore
+16. Luis Miguel
+17. Sade
+18. Enya
+19. Adriana Calcanhotto
+20. Madonna
+21. Beyoncé
+22. Rihanna
+23. Lady Gaga
+24. Christina Aguilera
+25. Pink Floyd
+26. Muse
+27. Radiohead
+28. Nirvana
+29. Led Zeppelin
+30. Metallica
+31. Michael Jackson
+32. Pearl Jam
+33. a-ha
+34. Björk
+35. System of a Down
+36. Nine Inch Nails
+37. Linkin Park
+38. Avenged Sevenfold
+39. My Chemical Romance
+40. Green Day
+41. The Killers
+42. Coldplay
+43. Blur
+44. Arctic Monkeys
+45. Placebo
+46. Ke$ha
+47. Katy Perry
+48. Taylor Swift
+49. Paramore
+50. Black Eyed Peas

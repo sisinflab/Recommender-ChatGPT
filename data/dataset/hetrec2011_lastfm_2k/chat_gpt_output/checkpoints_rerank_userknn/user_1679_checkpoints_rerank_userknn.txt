@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Muse
+2. Enter Shikari
+3. Celldweller
+4. 30 Seconds to Mars
+5. IAMX
+6. Cinema Bizarre
+7. Apoptygma Berzerk
+8. Дельфин
+9. Assemblage 23
+10. Shiny Toy Guns
+11. HIM
+12. Queen
+13. Emilie Autumn
+14. The Killers
+15. Hadouken!
+16. AFI
+17. Radiohead
+18. Arctic Monkeys
+19. Nirvana
+20. White Lies
+21. Florence + the Machine
+22. The Beatles
+23. Placebo
+24. Linkin Park
+25. Franz Ferdinand
+26. Breaking Benjamin
+27. Red Hot Chili Peppers
+28. Kings of Leon
+29. Snow Patrol
+30. Garbage
+31. System of a Down
+32. Depeche Mode
+33. OneRepublic
+34. Jack Johnson
+35. Evanescence
+36. Bloc Party
+37. Sopor Aeternus & The Ensemble of Shadows
+38. Keane
+39. My Chemical Romance
+40. John Mayer
+41. Oasis
+42. Audioslave
+43. The Strokes
+44. Nickelback
+45. Death Cab for Cutie
+46. Dolphin
+47. Paramore
+48. Fall Out Boy
+49. The Hush Sound
+50. Korn

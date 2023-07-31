@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Nirvana
+2. Guns N' Roses
+3. Michael Jackson
+4. Coldplay
+5. AC/DC
+6. Metallica
+7. Iron Maiden
+8. Red Hot Chili Peppers
+9. The Beatles
+10. Lynyrd Skynyrd
+11. Hans Zimmer
+12. Ray Charles
+13. John Lee Hooker
+14. Elvis Presley
+15. Creedence Clearwater Revival
+16. Scars on Broadway
+17. Megadeth
+18. Blind Guardian
+19. Sonata Arctica
+20. Whitesnake
+21. Helloween
+22. Flogging Molly
+23. Explosions in the Sky
+24. Philip Glass
+25. The Decemberists
+26. Matanza
+27. David Gray
+28. Jason Mraz
+29. Arctic Monkeys
+30. Travis
+31. Franz Ferdinand
+32. The Hush Sound
+33. Mika
+34. Ray LaMontagne
+35. Bad Religion
+36. DevilDriver
+37. Serj Tankian
+38. Edguy
+39. Black Label Society
+40. Charlie Brown Jr.
+41. Los Hermanos
+42. Tiësto
+43. James Blunt
+44. Children of Bodom
+45. Apocalyptica
+46. System of a Down
+47. Jack Johnson
+48. The John Butler Trio
+49. Manu Chao
+50. Akon

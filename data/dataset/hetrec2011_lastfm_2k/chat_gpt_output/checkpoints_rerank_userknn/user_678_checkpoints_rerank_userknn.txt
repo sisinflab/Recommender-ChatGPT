@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Pearl Jam
+2. Nirvana
+3. Metallica
+4. Guns N' Roses
+5. AC/DC
+6. Led Zeppelin
+7. Foo Fighters
+8. U2
+9. Iron Maiden
+10. Bon Jovi
+11. The Beatles
+12. Raul Seixas
+13. Legião Urbana
+14. Engenheiros do Hawaii
+15. Cazuza
+16. Rammstein
+17. Muse
+18. Skank
+19. Oasis
+20. Lifehouse
+21. Daughtry
+22. Nickelback
+23. The Calling
+24. Snow Patrol
+25. Michael Jackson
+26. Laura Pausini
+27. Whitney Houston
+28. Ana Carolina
+29. Capital Inicial
+30. Cássia Eller
+31. Goo Goo Dolls
+32. Coldplay
+33. Radiohead
+34. Kaiser Chiefs
+35. Nando Reis
+36. 3 Doors Down
+37. Red Hot Chili Peppers
+38. Green Day
+39. Yellowcard
+40. The Kinks
+41. Electric Light Orchestra
+42. Billy Joel
+43. Ramones
+44. Gavin DeGraw
+45. Papa Roach
+46. Joss Stone
+47. Van Halen
+48. John Mayer
+49. Dido
+50. R.E.M.

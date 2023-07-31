@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Divergent by Veronica Roth
+2. The Maze Runner by James Dashner
+3. The Giver by Lois Lowry
+4. The Fault in Our Stars by John Green
+5. The Chronicles of Narnia by C.S. Lewis
+6. The Lord of the Rings by J.R.R. Tolkien
+7. The Mortal Instruments by Cassandra Clare
+8. The Infernal Devices by Cassandra Clare
+9. The Selection by Kiera Cass
+10. The 5th Wave by Rick Yancey
+11. The Lunar Chronicles by Marissa Meyer
+12. The Darkest Minds by Alexandra Bracken
+13. The Hunger Games Trilogy Boxset by Suzanne Collins
+14. The Percy Jackson and the Olympians Boxed Set by Rick Riordan
+15. The Heroes of Olympus Boxed Set by Rick Riordan
+16. The Kane Chronicles Boxed Set by Rick Riordan
+17. The Dark Tower Series by Stephen King
+18. The Stand by Stephen King
+19. The Shining by Stephen King
+20. The Girl with the Dragon Tattoo by Stieg Larsson
+21. The Girl Who Played with Fire by Stieg Larsson
+22. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+23. The Da Vinci Code by Dan Brown
+24. Angels and Demons by Dan Brown
+25. Digital Fortress by Dan Brown
+26. The Name of the Wind by Patrick Rothfuss
+27. The Wise Man's Fear by Patrick Rothfuss
+28. The Kingkiller Chronicle Series by Patrick Rothfuss
+29. The Wheel of Time Series by Robert Jordan
+30. The Sword of Truth Series by Terry Goodkind
+31. The Belgariad Series by David Eddings
+32. The Malloreon Series by David Eddings
+33. The Elenium Series by David Eddings
+34. The Tamuli Series by David Eddings
+35. The Black Magician Trilogy by Trudi Canavan
+36. The Age of Five Trilogy by Trudi Canavan
+37. The Lightbringer Series by Brent Weeks
+38. The Night Angel Trilogy by Brent Weeks
+39. The First Law Trilogy by Joe Abercrombie
+40. The Kingkiller Chronicle Series by Patrick Rothfuss
+41. The Dresden Files Series by Jim Butcher
+42. The Codex Alera Series by Jim Butcher
+43. The Iron Druid Chronicles by Kevin Hearne
+44. The Riyria Revelations Series by Michael J. Sullivan
+45. The Mistborn Trilogy by Brandon Sanderson
+46. The Stormlight Archive Series by Brandon Sanderson
+47. The Powder Mage Trilogy by Brian McClellan
+48. The Lightbringer Series by Brent Weeks
+49. The Night Angel Trilogy by Brent Weeks
+50. The Wise Man's Fear by Patrick Rothfuss

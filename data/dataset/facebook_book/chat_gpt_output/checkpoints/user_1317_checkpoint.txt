@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. 1984 by George Orwell
+3. Pride and Prejudice by Jane Austen
+4. The Great Gatsby by F. Scott Fitzgerald
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Picture of Dorian Gray by Oscar Wilde
+7. The Bell Jar by Sylvia Plath
+8. The Handmaid's Tale by Margaret Atwood
+9. Beloved by Toni Morrison
+10. The Color Purple by Alice Walker
+11. The Joy Luck Club by Amy Tan
+12. The Kite Runner by Khaled Hosseini
+13. The Alchemist by Paulo Coelho
+14. The Book Thief by Markus Zusak
+15. The Hunger Games by Suzanne Collins
+16. The Girl with the Dragon Tattoo by Stieg Larsson
+17. The Da Vinci Code by Dan Brown
+18. The Lord of the Rings by J.R.R. Tolkien
+19. The Hobbit by J.R.R. Tolkien
+20. The Chronicles of Narnia by C.S. Lewis
+21. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+22. The Martian by Andy Weir
+23. The Help by Kathryn Stockett
+24. The Fault in Our Stars by John Green
+25. The Perks of Being a Wallflower by Stephen Chbosky
+26. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+27. The Secret Life of Bees by Sue Monk Kidd
+28. The Lovely Bones by Alice Sebold
+29. The Time Traveler's Wife by Audrey Niffenegger
+30. The Road by Cormac McCarthy
+31. The Picture of Dorian Gray by Oscar Wilde
+32. The Sun Also Rises by Ernest Hemingway
+33. The Old Man and the Sea by Ernest Hemingway
+34. The Catch-22 by Joseph Heller
+35. The Grapes of Wrath by John Steinbeck
+36. The Sound and the Fury by William Faulkner
+37. The Heart is a Lonely Hunter by Carson McCullers
+38. The Outsiders by S.E. Hinton
+39. The Adventures of Huckleberry Finn by Mark Twain
+40. The Adventures of Tom Sawyer by Mark Twain
+41. The Count of Monte Cristo by Alexandre Dumas
+42. Les Miserables by Victor Hugo
+43. Crime and Punishment by Fyodor Dostoevsky
+44. Anna Karenina by Leo Tolstoy
+45. War and Peace by Leo Tolstoy
+46. The Brothers Karamazov by Fyodor Dostoevsky
+47. The Idiot by Fyodor Dostoevsky
+48. The Trial by Franz Kafka
+49. Lord Jim by Joseph Conrad
+50. Moby-Dick by Herman Melville

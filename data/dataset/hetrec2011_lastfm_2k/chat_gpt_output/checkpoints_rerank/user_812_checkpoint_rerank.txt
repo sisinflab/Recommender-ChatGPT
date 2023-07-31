@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Metallica
+2. Avenged Sevenfold
+3. Caliban
+4. Rammstein
+5. All Shall Perish
+6. My Chemical Romance
+7. Bullet for My Valentine
+8. Linkin Park
+9. Guns N' Roses
+10. Deep Purple
+11. Lamb of God
+12. Pantera
+13. All That Remains
+14. HORSE the band
+15. Meshuggah
+16. Haste the Day
+17. Despised Icon
+18. Yngwie Malmsteen
+19. Fear Factory
+20. August Burns Red
+21. Disturbed
+22. Destiny's Child
+23. 36 Crazyfists
+24. Arch Enemy
+25. Iron Maiden
+26. Nirvana
+27. Pearl Jam
+28. Led Zeppelin
+29. System of a Down
+30. Nine Inch Nails
+31. Black Eyed Peas
+32. Green Day
+33. The Cure
+34. Muse
+35. Pink Floyd
+36. U2
+37. Radiohead
+38. The Beatles
+39. The Killers
+40. Coldplay
+41. Arctic Monkeys
+42. Placebo
+43. Ke$ha
+44. Katy Perry
+45. Lady Gaga
+46. Paramore
+47. Evanescence
+48. Beyoncé
+49. P!nk
+50. Kelly Clarkson

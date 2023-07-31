@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Slaughterhouse-Five by Kurt Vonnegut
+3. Crime and Punishment by Fyodor Dostoyevsky
+4. The Catcher in the Rye by J.D. Salinger
+5. The Handmaid's Tale by Margaret Atwood
+6. One Hundred Years of Solitude by Gabriel Garcia Marquez
+7. To Kill a Mockingbird by Harper Lee
+8. The Great Gatsby by F. Scott Fitzgerald
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Stranger by Albert Camus
+11. The Road by Cormac McCarthy
+12. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+13. The Bell Jar by Sylvia Plath
+14. The Sun Also Rises by Ernest Hemingway
+15. The Grapes of Wrath by John Steinbeck
+16. The Lord of the Rings by J.R.R. Tolkien
+17. The Name of the Wind by Patrick Rothfuss
+18. The Hunger Games by Suzanne Collins
+19. The Girl with the Dragon Tattoo by Stieg Larsson
+20. The Shadow of the Wind by Carlos Ruiz Zafón
+21. The Wind-Up Bird Chronicle by Haruki Murakami
+22. The Stand by Stephen King
+23. The Martian by Andy Weir
+24. The Shining by Stephen King
+25. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+26. The Road by Cormac McCarthy
+27. The Bell Jar by Sylvia Plath
+28. The Sun Also Rises by Ernest Hemingway
+29. The Grapes of Wrath by John Steinbeck
+30. The Lord of the Rings by J.R.R. Tolkien
+31. The Name of the Wind by Patrick Rothfuss
+32. The Hunger Games by Suzanne Collins
+33. The Girl with the Dragon Tattoo by Stieg Larsson
+34. The Shadow of the Wind by Carlos Ruiz Zafón
+35. The Wind-Up Bird Chronicle by Haruki Murakami
+36. The Stand by Stephen King
+37. The Martian by Andy Weir
+38. The Shining by Stephen King
+39. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+40. The Road by Cormac McCarthy
+41. The Bell Jar by Sylvia Plath
+42. The Sun Also Rises by Ernest Hemingway
+43. The Grapes of Wrath by John Steinbeck
+44. The Lord of the Rings by J.R.R. Tolkien
+45. The Name of the Wind by Patrick Rothfuss
+46. The Hunger Games by Suzanne Collins
+47. The Girl with the Dragon Tattoo by Stieg Larsson
+48. The Shadow of the Wind by Carlos Ruiz Zafón
+49. The Wind-Up Bird Chronicle by Har

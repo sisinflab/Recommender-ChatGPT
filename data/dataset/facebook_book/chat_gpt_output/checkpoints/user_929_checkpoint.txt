@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Secret Garden by Frances Hodgson Burnett
+2. Charlotte's Web by E.B. White
+3. The Wind in the Willows by Kenneth Grahame
+4. The Phantom Tollbooth by Norton Juster
+5. A Wrinkle in Time by Madeleine L'Engle
+6. The Hobbit by J.R.R. Tolkien
+7. The Lion, the Witch and the Wardrobe by C.S. Lewis
+8. The Giver by Lois Lowry
+9. The Hunger Games by Suzanne Collins
+10. Harry Potter and the Philosopher's Stone by J.K. Rowling
+11. The Golden Compass by Philip Pullman
+12. The Magician's Nephew by C.S. Lewis
+13. The Neverending Story by Michael Ende
+14. The Wizard of Oz by L. Frank Baum
+15. The Tale of Despereaux by Kate DiCamillo
+16. The Miraculous Journey of Edward Tulane by Kate DiCamillo
+17. The Graveyard Book by Neil Gaiman
+18. The Mysterious Benedict Society by Trenton Lee Stewart
+19. The Westing Game by Ellen Raskin
+20. The Boxcar Children by Gertrude Chandler Warner
+21. The Secret Series by Enid Blyton
+22. The Famous Five by Enid Blyton
+23. The Hardy Boys by Franklin W. Dixon
+24. The Nancy Drew Files by Carolyn Keene
+25. The Enchanted Forest Chronicles by Patricia C. Wrede
+26. The Dark is Rising by Susan Cooper
+27. The Chronicles of Prydain by Lloyd Alexander
+28. The Earthsea Cycle by Ursula K. Le Guin
+29. The Belgariad by David Eddings
+30. The Malloreon by David Eddings
+31. The Sword of Shannara by Terry Brooks
+32. The Chronicles of Thomas Covenant by Stephen R. Donaldson
+33. The Wheel of Time by Robert Jordan
+34. The Dresden Files by Jim Butcher
+35. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+36. The Discworld Series by Terry Pratchett
+37. The Bartimaeus Trilogy by Jonathan Stroud
+38. The Artemis Fowl Series by Eoin Colfer
+39. The Percy Jackson and the Olympians Series by Rick Riordan
+40. The Heroes of Olympus Series by Rick Riordan
+41. The Kane Chronicles by Rick Riordan
+42. The Secrets of the Immortal Nicholas Flamel Series by Michael Scott
+43. The Inheritance Cycle by Christopher Paolini
+44. The Ranger's Apprentice Series by John Flanagan
+45. The Brotherband Chronicles by John Flanagan
+46. The Chronicles of Ancient Darkness by Michelle Paver
+47. The Wind in the Willows by Kenneth Grahame
+48. Nine Stories by J.D. Salinger
+49. The Bell Jar by Sylvia Plath
+50. The Wise Man's Fear by Patrick Rothfuss

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. One Hundred Years of Solitude by Gabriel Garcia Marquez
+2. The Catcher in the Rye by J.D. Salinger
+3. To Kill a Mockingbird by Harper Lee
+4. 1984 by George Orwell
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Animal Farm by George Orwell
+7. Catch-22 by Joseph Heller
+8. Slaughterhouse-Five by Kurt Vonnegut
+9. Brave New World by Aldous Huxley
+10. The Bell Jar by Sylvia Plath
+11. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+12. The Picture of Dorian Gray by Oscar Wilde
+13. The Stranger by Albert Camus
+14. The Road by Cormac McCarthy
+15. The Sun Also Rises by Ernest Hemingway
+16. The Old Man and the Sea by Ernest Hemingway
+17. The Grapes of Wrath by John Steinbeck
+18. The Sound and the Fury by William Faulkner
+19. The Brothers Karamazov by Fyodor Dostoevsky
+20. Crime and Punishment by Fyodor Dostoevsky
+21. The Trial by Franz Kafka
+22. The Metamorphosis by Franz Kafka
+23. The Name of the Rose by Umberto Eco
+24. The Shadow of the Wind by Carlos Ruiz Zafón
+25. The Master and Margarita by Mikhail Bulgakov
+26. The Idiot by Fyodor Dostoevsky
+27. The Count of Monte Cristo by Alexandre Dumas
+28. Les Misérables by Victor Hugo
+29. War and Peace by Leo Tolstoy
+30. Anna Karenina by Leo Tolstoy
+31. The Adventures of Huckleberry Finn by Mark Twain
+32. The Adventures of Tom Sawyer by Mark Twain
+33. The Lord of the Rings by J.R.R. Tolkien
+34. The Hobbit by J.R.R. Tolkien
+35. The Chronicles of Narnia by C.S. Lewis
+36. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+37. The Martian Chronicles by Ray Bradbury
+38. Fahrenheit 451 by Ray Bradbury
+39. The Handmaid's Tale by Margaret Atwood
+40. The Shining by Stephen King
+41. The Stand by Stephen King
+42. The Silence of the Lambs by Thomas Harris
+43. The Girl with the Dragon Tattoo by Stieg Larsson
+44. The Da Vinci Code by Dan Brown
+45. Angels and Demons by Dan Brown
+46. The Hunger Games by Suzanne Collins
+47. Harry Potter and the Philosopher's Stone by J.K. Rowling
+48. Harry Potter and the Chamber of Secrets by J.K. Rowling
+49. The Bell Jar by Sylvia Plath
+50. The Wise Man's Fear by Patrick Rothfuss

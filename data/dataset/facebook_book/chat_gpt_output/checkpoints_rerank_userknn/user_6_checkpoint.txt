@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Harry Potter
+2. The Hobbit
+3. Lord of the Flies
+4. Alice's Adventures in Wonderland
+5. The Chronicles of Narnia: Prince Caspian
+6. The Great Gatsby
+7. Pride and Prejudice and Zombies
+8. The Picture of Dorian Gray
+9. The Kite Runner
+10. Jane Eyre
+11. The Outsiders (novel)
+12. Of Mice and Men
+13. The Catcher in the Rye
+14. The Things They Carried
+15. All Quiet on the Western Front
+16. The Alchemist (novel)
+17. The Dark Tower: The Gunslinger
+18. The Watchmen (novel)
+19. Beautiful Creatures (novel)
+20. Pet Sematary
+21. The Wedding (Steel novel)
+22. The Princess Bride
+23. Ramayana
+24. Midnight's Children
+25. The Lost Symbol
+26. Inheritance Cycle
+27. Iliad
+28. The Prodigal Daughter
+29. The Merchant of Venice
+30. A Midsummer Night's Dream
+31. 2001: A Space Odyssey (novel)
+32. Black Beauty
+33. Heidi
+34. The Shack
+35. The Notebook (novel)
+36. Dear John (novel)
+37. The Girl Who Leapt Through Time
+38. Quidditch Through the Ages
+39. Doctrine and Covenants
+40. Harold and the Purple Crayon
+41. Teaching with Calvin and Hobbes
+42. Brisingr
+43. Nineteen Eighty-Four
+44. 3001: The Final Odyssey
+45. I Am America (And So Can You!)
+46. Through the Looking-Glass
+47. Tarzan of the Apes
+48. A Series of Unfortunate Events
+49. Intensity (novel)
+50. Dracula

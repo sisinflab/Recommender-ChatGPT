@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Strokes
+2. The Hives
+3. The Fratellis
+4. The Cribs
+5. Kaiser Chiefs
+6. Yeah Yeah Yeahs
+7. The Wombats
+8. Dirty Pretty Things
+9. The Donnas
+10. The Ting Tings
+11. Lily Allen
+12. She & Him
+13. Death Cab for Cutie
+14. Belle and Sebastian
+15. Elliott Smith
+16. Red Hot Chili Peppers
+17. Vampire Weekend
+18. The Horrors
+19. Joan Jett and the Blackhearts
+20. Yelle
+21. Caetano Veloso
+22. Los Hermanos
+23. MGMT
+24. Oasis
+25. Arctic Monkeys
+26. Nirvana
+27. Pearl Jam
+28. Led Zeppelin
+29. Iron Maiden
+30. Metallica
+31. Michael Jackson
+32. Johnny Cash
+33. Elvis Presley
+34. The Beatles
+35. Pink Floyd
+36. Muse
+37. Radiohead
+38. Duran Duran
+39. Depeche Mode
+40. Björk
+41. Daft Punk
+42. Nine Inch Nails
+43. Linkin Park
+44. System of a Down
+45. Coldplay
+46. Blur
+47. Placebo
+48. The Killers
+49. Green Day
+50. My Chemical Romance

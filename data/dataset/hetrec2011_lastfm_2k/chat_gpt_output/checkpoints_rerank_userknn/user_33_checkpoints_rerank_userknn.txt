@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Pink Floyd
+3. Led Zeppelin
+4. The Beatles
+5. Queen
+6. Tool
+7. Sigur Rós
+8. Opeth
+9. Rush
+10. Pearl Jam
+11. A Perfect Circle
+12. Porcupine Tree
+13. Faith No More
+14. Jethro Tull
+15. Ludwig van Beethoven
+16. Wolfgang Amadeus Mozart
+17. Johann Sebastian Bach
+18. Frédéric Chopin
+19. Yann Tiersen
+20. Joe Satriani
+21. At the Drive-In
+22. Isis
+23. Mastodon
+24. Metallica
+25. Iron Maiden
+26. Black Sabbath
+27. Deep Purple
+28. Municipal Waste
+29. Death
+30. Dead Kennedys
+31. KMFDM
+32. Combichrist
+33. Devin Townsend
+34. Regina Spektor
+35. Marillion
+36. Keane
+37. Air
+38. Moby
+39. Bonobo
+40. Aphex Twin
+41. Justice
+42. Gorillaz
+43. MGMT
+44. Foals
+45. Arctic Monkeys
+46. The Killers
+47. She Wants Revenge
+48. The Police
+49. The Cure
+50. Belle and Sebastian

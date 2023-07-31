@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Harry Potter by J.K. Rowling
+2. His Dark Materials by Philip Pullman
+3. The Hunger Games by Suzanne Collins
+4. Guardians of Ga'Hoole: The Capture by Kathryn Lasky
+5. Little Women by Louisa May Alcott
+6. Jane Eyre by Charlotte Brontë
+7. Persuasion by Jane Austen
+8. The Perks of Being a Wallflower by Stephen Chbosky
+9. Norwegian Wood by Haruki Murakami
+10. The Chosen by Chaim Potok
+11. My �ntonia by Willa Cather
+12. A Wrinkle in Time by Madeleine L'Engle
+13. The Picture of Dorian Gray by Oscar Wilde
+14. Mansfield Park by Jane Austen
+15. The Alchemist by Paulo Coelho
+16. Life of Pi by Yann Martel
+17. Les Misérables by Victor Hugo
+18. Wuthering Heights by Emily Brontë
+19. The Lord of the Rings by J.R.R. Tolkien
+20. The Kite Runner by Khaled Hosseini
+21. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+22. The Joy Luck Club by Amy Tan
+23. Iliad by Homer
+24. The Messenger by Markus Zusak
+25. Great Expectations by Charles Dickens
+26. The Da Vinci Code by Dan Brown
+27. Angels & Demons by Dan Brown
+28. Far from the Madding Crowd by Thomas Hardy
+29. Chinese Cinderella by Adeline Yen Mah
+30. Emma by Jane Austen
+31. Northanger Abbey by Jane Austen
+32. Candide by Voltaire
+33. The Girl Who Leapt Through Time by Yasutaka Tsutsui
+34. Death Note by Tsugumi Ohba
+35. Cardcaptor Sakura by Clamp
+36. Abhorsen by Garth Nix
+37. The Scarlet Pimpernel by Baroness Orczy
+38. Dracula by Bram Stoker
+39. Never Let Me Go by Kazuo Ishiguro
+40. Twilight by Stephenie Meyer
+41. A Clockwork Orange by Anthony Burgess
+42. The Zombie Survival Guide by Max Brooks
+43. Jitterbug Perfume by Tom Robbins
+44. Sin City by Frank Miller
+45. The Catcher in the Rye by J.D. Salinger
+46. Percy Jackson & the Olympians by Rick Riordan
+47. Black Butler by Yana Toboso
+48. Rhapsody: Child of Blood by Elizabeth Haydon
+49. The Sight by David Clement-Davies
+50. Dear John by Nicholas Sparks

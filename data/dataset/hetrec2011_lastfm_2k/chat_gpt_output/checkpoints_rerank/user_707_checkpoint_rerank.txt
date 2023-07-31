@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for user 707 would be:
+
+1. The Beatles
+2. Eagles
+3. Boston
+4. Enya
+5. Yanni
+6. Colbie Caillat
+7. Sara Bareilles
+8. Steely Dan
+9. Lady Antebellum
+10. Carrie Underwood
+11. Kansas
+12. Heart
+13. Corinne Bailey Rae
+14. Pink Floyd
+15. U2
+16. Muse
+17. Radiohead
+18. Led Zeppelin
+19. Metallica
+20. Nirvana
+21. Iron Maiden
+22. Michael Jackson
+23. Pearl Jam
+24. a-ha
+25. Björk
+26. Duran Duran
+27. Coldplay
+28. Blur
+29. Arctic Monkeys
+30. Placebo
+31. The Killers
+32. Amy Winehouse
+33. Daft Punk
+34. Nine Inch Nails
+35. Linkin Park
+36. Kelly Clarkson
+37. All Time Low
+38. P!nk
+39. Avenged Sevenfold
+40. Black Eyed Peas
+41. My Chemical Romance
+42. Green Day
+43. The Cure
+44. Lady Gaga
+45. Christina Aguilera
+46. Rihanna
+47. Shakira
+48. Katy Perry
+49. Taylor Swift
+50. Evanescence

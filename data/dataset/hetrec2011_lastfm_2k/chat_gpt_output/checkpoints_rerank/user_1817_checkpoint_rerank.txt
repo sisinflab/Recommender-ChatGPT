@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Strokes
+2. Arcade Fire
+3. Vampire Weekend
+4. Phoenix
+5. The White Stripes
+6. Arctic Monkeys
+7. Radiohead
+8. Muse
+9. The Killers
+10. Franz Ferdinand
+11. Yeah Yeah Yeahs
+12. Róisín Murphy
+13. Björk
+14. Fever Ray
+15. Michael Jackson
+16. 浜崎あゆみ
+17. Keane
+18. Ace of Base
+19. Florence + the Machine
+20. iamamiwhoami
+21. The Ting Tings
+22. Röyksopp
+23. 安室奈美恵
+24. Jamiroquai
+25. Emilie Simon
+26. M.I.A.
+27. Linkin Park
+28. Robyn
+29. Lady Gaga
+30. Madonna
+31. Beyoncé
+32. Rihanna
+33. Shakira
+34. Britney Spears
+35. Christina Aguilera
+36. Katy Perry
+37. Taylor Swift
+38. Evanescence
+39. U2
+40. 30 Seconds to Mars
+41. Coldplay
+42. Blur
+43. Duran Duran
+44. Pink Floyd
+45. Kylie Minogue
+46. Miley Cyrus
+47. Ke$ha
+48. Amy Winehouse
+49. Led Zeppelin
+50. Metallica

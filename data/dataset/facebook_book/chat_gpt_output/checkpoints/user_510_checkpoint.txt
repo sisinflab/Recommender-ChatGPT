@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. To Kill a Mockingbird by Harper Lee
+3. 1984 by George Orwell
+4. One Hundred Years of Solitude by Gabriel Garcia Marquez
+5. The Bell Jar by Sylvia Plath
+6. Slaughterhouse-Five by Kurt Vonnegut
+7. The Great Gatsby by F. Scott Fitzgerald
+8. Brave New World by Aldous Huxley
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Stranger by Albert Camus
+11. The Road by Cormac McCarthy
+12. The Handmaid's Tale by Margaret Atwood
+13. The Sun Also Rises by Ernest Hemingway
+14. A Clockwork Orange by Anthony Burgess
+15. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+16. The Brothers Karamazov by Fyodor Dostoevsky
+17. Crime and Punishment by Fyodor Dostoevsky
+18. The Trial by Franz Kafka
+19. The Metamorphosis by Franz Kafka
+20. The Shining by Stephen King
+21. The Stand by Stephen King
+22. The Dark Tower series by Stephen King
+23. The Lord of the Rings by J.R.R. Tolkien
+24. The Hobbit by J.R.R. Tolkien
+25. The Chronicles of Narnia by C.S. Lewis
+26. The Hitchhiker's Guide to the Galaxy series by Douglas Adams
+27. The Hunger Games by Suzanne Collins
+28. Catching Fire by Suzanne Collins
+29. Mockingjay by Suzanne Collins
+30. The Maze Runner by James Dashner
+31. The Giver by Lois Lowry
+32. The Outsiders by S.E. Hinton
+33. The Fault in Our Stars by John Green
+34. Looking for Alaska by John Green
+35. Paper Towns by John Green
+36. The Perks of Being a Wallflower by Stephen Chbosky
+37. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+38. The Little Prince by Antoine de Saint-Exupéry
+39. Girl, Interrupted by Susanna Kaysen
+40. Choke by Chuck Palahniuk
+41. Fight Club by Chuck Palahniuk
+42. Invisible Monsters by Chuck Palahniuk
+43. Survivor by Chuck Palahniuk
+44. Lullabies for Little Criminals by Heather O'Neill
+45. On the Road by Jack Kerouac
+46. Dharma Bums by Jack Kerouac
+47. Big Sur by Jack Kerouac
+48. In Cold Blood by Truman Capote
+49. Breakfast at Tiffany's by Truman Capote
+50. Cat's Cradle by Kurt

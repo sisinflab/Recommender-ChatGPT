@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Identical by Ellen Hopkins
+2. Impulse by Ellen Hopkins
+3. Fallout by Ellen Hopkins
+4. Perfect by Ellen Hopkins
+5. Tilt by Ellen Hopkins
+6. Delirium by Lauren Oliver
+7. Pandemonium by Lauren Oliver
+8. Requiem by Lauren Oliver
+9. The Maze Runner by James Dashner
+10. The Scorch Trials by James Dashner
+11. The Death Cure by James Dashner
+12. The Hunger Games by Suzanne Collins
+13. Catching Fire by Suzanne Collins
+14. Mockingjay by Suzanne Collins
+15. Divergent by Veronica Roth
+16. Insurgent by Veronica Roth
+17. Allegiant by Veronica Roth
+18. The Fault in Our Stars by John Green
+19. Looking for Alaska by John Green
+20. Paper Towns by John Green
+21. Thirteen Reasons Why by Jay Asher
+22. The Perks of Being a Wallflower by Stephen Chbosky
+23. The Giver by Lois Lowry
+24. Gathering Blue by Lois Lowry
+25. Messenger by Lois Lowry
+26. Son by Lois Lowry
+27. The Book Thief by Markus Zusak
+28. The Lovely Bones by Alice Sebold
+29. Speak by Laurie Halse Anderson
+30. Wintergirls by Laurie Halse Anderson
+31. The Bell Jar by Sylvia Plath
+32. The Virgin Suicides by Jeffrey Eugenides
+33. The Secret History by Donna Tartt
+34. The Picture of Dorian Gray by Oscar Wilde
+35. Frankenstein by Mary Shelley
+36. Dracula by Bram Stoker
+37. Wuthering Heights by Emily Bronte
+38. Jane Eyre by Charlotte Bronte
+39. Pride and Prejudice by Jane Austen
+40. Sense and Sensibility by Jane Austen
+41. Emma by Jane Austen
+42. Northanger Abbey by Jane Austen
+43. Persuasion by Jane Austen
+44. The Great Gatsby by F. Scott Fitzgerald
+45. To Kill a Mockingbird by Harper Lee
+46. One Flew Over the Cuckoo's Nest by Ken Kesey
+47. A Clockwork Orange by Anthony Burgess
+48. Brave New World by Aldous Huxley
+49. 1984 by George Orwell
+50. Animal Farm by George Orwell

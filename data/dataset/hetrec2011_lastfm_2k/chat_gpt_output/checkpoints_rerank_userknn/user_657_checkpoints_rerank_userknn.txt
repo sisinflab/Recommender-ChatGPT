@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. Muse
+3. Gorillaz
+4. Linkin Park
+5. Arctic Monkeys
+6. Nine Inch Nails
+7. Marilyn Manson
+8. Metallica
+9. Deftones
+10. Disturbed
+11. Placebo
+12. Red Hot Chili Peppers
+13. A Day to Remember
+14. My Chemical Romance
+15. Daft Punk
+16. The Used
+17. Enter Shikari
+18. Crystal Castles
+19. Sigur Rós
+20. Boards of Canada
+21. Autechre
+22. In Flames
+23. Isis
+24. 65daysofstatic
+25. Funeral for a Friend
+26. Finch
+27. Lostprophets
+28. Limp Bizkit
+29. Fort Minor
+30. Seether
+31. Audioslave
+32. Maroon 5
+33. Beyoncé
+34. Rihanna
+35. Lady Gaga
+36. Ke$ha
+37. Katy Perry
+38. Paramore
+39. Three Days Grace
+40. Evanescence
+41. Michael Jackson
+42. Proem
+43. M83
+44. Britney Spears
+45. Taylor Swift
+46. Miranda Cosgrove
+47. Selena Gomez & the Scene
+48. Emily Osment
+49. Glee Cast
+50. Noize MC

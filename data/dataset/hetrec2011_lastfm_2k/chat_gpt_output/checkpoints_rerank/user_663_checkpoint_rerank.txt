@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. 浜崎あゆみ
+2. Within Temptation
+3. L'Arc~en~Ciel
+4. Journey
+5. Lacuna Coil
+6. YUI
+7. 宇多田ヒカル
+8. Epica
+9. Evanescence
+10. Muse
+11. The Beatles
+12. Pink Floyd
+13. Led Zeppelin
+14. Metallica
+15. Nirvana
+16. Iron Maiden
+17. Pearl Jam
+18. U2
+19. Radiohead
+20. Duran Duran
+21. Coldplay
+22. Blur
+23. Arctic Monkeys
+24. Placebo
+25. The Killers
+26. System of a Down
+27. Nine Inch Nails
+28. Linkin Park
+29. Avenged Sevenfold
+30. My Chemical Romance
+31. Green Day
+32. The Cure
+33. Michael Jackson
+34. Madonna
+35. Lady Gaga
+36. Beyoncé
+37. Rihanna
+38. Shakira
+39. Katy Perry
+40. Christina Aguilera
+41. Britney Spears
+42. Ke$ha
+43. P!nk
+44. Black Eyed Peas
+45. Daft Punk
+46. Björk
+47. All Time Low
+48. Glee Cast
+49. Kelly Clarkson
+50. Miley Cyrus

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. My Bloody Valentine
+3. Boards of Canada
+4. Flying Lotus
+5. J Dilla
+6. Deerhunter
+7. Atlas Sound
+8. Spiritualized
+9. The xx
+10. M83
+11. Hot Chip
+12. Gorillaz
+13. Broken Social Scene
+14. Pavement
+15. New Order
+16. Robyn
+17. T. Rex
+18. Muse
+19. Pink Floyd
+20. The Beatles
+21. Nirvana
+22. Led Zeppelin
+23. Michael Jackson
+24. Madonna
+25. U2
+26. Coldplay
+27. Arctic Monkeys
+28. The Killers
+29. Duran Duran
+30. Blur
+31. Placebo
+32. Iron Maiden
+33. Metallica
+34. Pearl Jam
+35. Björk
+36. Nine Inch Nails
+37. Daft Punk
+38. Linkin Park
+39. System of a Down
+40. Amy Winehouse
+41. Kylie Minogue
+42. Shakira
+43. Rihanna
+44. Lady Gaga
+45. Christina Aguilera
+46. Beyoncé
+47. Katy Perry
+48. Taylor Swift
+49. Avril Lavigne
+50. Kelly Clarkson

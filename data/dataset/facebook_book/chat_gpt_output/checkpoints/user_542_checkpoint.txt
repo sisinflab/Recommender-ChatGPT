@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. To Kill a Mockingbird by Harper Lee
+3. The Great Gatsby by F. Scott Fitzgerald
+4. 1984 by George Orwell
+5. Animal Farm by George Orwell
+6. The Bell Jar by Sylvia Plath
+7. One Hundred Years of Solitude by Gabriel Garcia Marquez
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Handmaid's Tale by Margaret Atwood
+10. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+11. The Lord of the Rings by J.R.R. Tolkien
+12. The Hobbit by J.R.R. Tolkien
+13. The Hunger Games by Suzanne Collins
+14. Catch-22 by Joseph Heller
+15. Brave New World by Aldous Huxley
+16. The Road by Cormac McCarthy
+17. The Book Thief by Markus Zusak
+18. The Fault in Our Stars by John Green
+19. The Perks of Being a Wallflower by Stephen Chbosky
+20. The Giver by Lois Lowry
+21. The Alchemist by Paulo Coelho
+22. The Kite Runner by Khaled Hosseini
+23. The Girl with the Dragon Tattoo by Stieg Larsson
+24. The Da Vinci Code by Dan Brown
+25. The Help by Kathryn Stockett
+26. The Secret Life of Bees by Sue Monk Kidd
+27. The Lovely Bones by Alice Sebold
+28. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+29. The Time Traveler's Wife by Audrey Niffenegger
+30. The Name of the Wind by Patrick Rothfuss
+31. The Nightingale by Kristin Hannah
+32. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+33. The Glass Castle by Jeannette Walls
+34. The Color Purple by Alice Walker
+35. The Joy Luck Club by Amy Tan
+36. The Poisonwood Bible by Barbara Kingsolver
+37. The God of Small Things by Arundhati Roy
+38. The Shadow of the Wind by Carlos Ruiz Zafón
+39. The Thirteenth Tale by Diane Setterfield
+40. The Memory Keeper's Daughter by Kim Edwards
+41. The Help by Kathryn Stockett
+42. The Secret Life of Bees by Sue Monk Kidd
+43. The Lovely Bones by Alice Sebold
+44. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+45. The Time Traveler's Wife by Audrey Niffenegger
+46. The Name of the Wind by Patrick Rothfuss
+47. The Nightingale by Kristin Hannah
+48. The Immortal Life of Henrietta Lacks by Rebecca Skloot

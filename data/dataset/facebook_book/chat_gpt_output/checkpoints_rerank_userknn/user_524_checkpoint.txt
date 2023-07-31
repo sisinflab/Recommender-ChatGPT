@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Catch-22 by Joseph Heller
+2. Cat's Cradle by Kurt Vonnegut
+3. The Old Man and the Sea by Ernest Hemingway
+4. The Outsiders by S. E. Hinton
+5. Brave New World by Aldous Huxley
+6. A Clockwork Orange by Anthony Burgess
+7. The Great Gatsby by F. Scott Fitzgerald
+8. Frankenstein by Mary Shelley
+9. The Lord of the Rings by J. R. R. Tolkien
+10. One Hundred Years of Solitude by Gabriel Garcia Marquez
+11. In Cold Blood by Truman Capote
+12. The Trial by Franz Kafka
+13. The Count of Monte Cristo by Alexandre Dumas
+14. The Kite Runner by Khaled Hosseini
+15. Atonement by Ian McEwan
+16. Harry Potter series by J. K. Rowling
+17. The Giver by Lois Lowry
+18. Paradise Lost by John Milton
+19. Misery by Stephen King
+20. The Glass Bead Game by Hermann Hesse
+21. The Hunchback of Notre-Dame by Victor Hugo
+22. Ulysses by James Joyce
+23. The Colour of Magic by Terry Pratchett
+24. Player Piano by Kurt Vonnegut
+25. The Watchmen by Alan Moore
+26. For Whom the Bell Tolls by Ernest Hemingway
+27. The Zombie Survival Guide by Max Brooks
+28. Running with Scissors by Augusten Burroughs
+29. The Lovely Bones by Alice Sebold
+30. The Cay by Theodore Taylor
+31. Of Mice and Men by John Steinbeck
+32. Rant by Chuck Palahniuk
+33. Fear and Loathing in Las Vegas by Hunter S. Thompson
+34. Sun Bin's Art of War by Sun Bin
+35. Death Note Another Note: The Los Angeles BB Murder Cases by Nisio Isin
+36. Ferdydurke by Witold Gombrowicz
+37. Haunted by Chuck Palahniuk
+38. Look Me in the Eye by John Elder Robison
+39. Reviving Ophelia by Mary Pipher
+40. Oil! by Upton Sinclair
+41. A Thousand Splendid Suns by Khaled Hosseini
+42. Invisible Cities by Italo Calvino
+43. Nietzsche: Philosopher, Psychologist, Antichrist by Walter Kaufmann
+44. Isaac Asimov's Robot City by William F. Wu
+45. Pyramids by Terry Pratchett
+46. The Life and Times of the Thunderbolt Kid by Bill Bryson
+47. A Short History of Nearly Everything by Bill Bryson
+48. Nineteen Eighty-Four by George Orwell
+49. The Grapes of

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Muse
+2. The Smashing Pumpkins
+3. Nine Inch Nails
+4. Rammstein
+5. Tool
+6. Porcupine Tree
+7. The Mars Volta
+8. Radiohead
+9. Pink Floyd
+10. Depeche Mode
+11. Kim Wilde
+12. Orchestral Manoeuvres in the Dark
+13. Jean-Michel Jarre
+14. Dead Can Dance
+15. Nightwish
+16. Vangelis
+17. Ultravox
+18. Mylène Farmer
+19. Yanni
+20. Peter Gabriel
+21. Judas Priest
+22. Cocteau Twins
+23. The Cure
+24. Clan of Xymox
+25. Gregorian
+26. Paramore
+27. Hans Zimmer
+28. Led Zeppelin
+29. Garbage
+30. Marillion
+31. Alizée
+32. Phil Collins
+33. Green Day
+34. Howard Jones
+35. Katie Melua
+36. Ozzy Osbourne
+37. A Flock of Seagulls
+38. Deep Purple
+39. The Alan Parsons Project
+40. Tangerine Dream
+41. New Order
+42. Joy Division
+43. The Human League
+44. Gary Numan
+45. Kraftwerk
+46. Yazoo
+47. Erasure
+48. Pet Shop Boys
+49. Tears for Fears
+50. Duran Duran

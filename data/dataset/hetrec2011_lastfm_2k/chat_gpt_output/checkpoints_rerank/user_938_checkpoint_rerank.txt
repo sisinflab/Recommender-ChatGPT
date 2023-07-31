@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Within Temptation
+2. Delain
+3. Lacuna Coil
+4. Flyleaf
+5. The Veronicas
+6. Dido
+7. The Script
+8. Nelly Furtado
+9. Kelly Clarkson
+10. Timbaland
+11. P!nk
+12. t.A.T.u.
+13. Seether
+14. Evanescence
+15. Ke$ha
+16. Britney Spears
+17. Lady Gaga
+18. Beyoncé
+19. Katy Perry
+20. Taylor Swift
+21. Jennifer Lopez
+22. Nicki Minaj
+23. Destiny's Child
+24. Daughtry
+25. B.o.B
+26. Alicia Keys
+27. Madonna
+28. Rihanna
+29. Shakira
+30. U2
+31. Muse
+32. Coldplay
+33. Radiohead
+34. Duran Duran
+35. The Beatles
+36. Pink Floyd
+37. Arctic Monkeys
+38. Placebo
+39. The Killers
+40. Nirvana
+41. Iron Maiden
+42. Led Zeppelin
+43. Metallica
+44. Michael Jackson
+45. Pearl Jam
+46. a-ha
+47. Björk
+48. System of a Down
+49. Nine Inch Nails
+50. Linkin Park

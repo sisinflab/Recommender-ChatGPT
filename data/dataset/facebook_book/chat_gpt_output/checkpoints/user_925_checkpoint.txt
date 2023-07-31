@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Book Thief by Markus Zusak
+2. The Hunger Games by Suzanne Collins
+3. Divergent by Veronica Roth
+4. The Maze Runner by James Dashner
+5. The Fault in Our Stars by John Green
+6. The Selection by Kiera Cass
+7. Legend by Marie Lu
+8. Matched by Ally Condie
+9. Delirium by Lauren Oliver
+10. The 5th Wave by Rick Yancey
+11. The Knife of Never Letting Go by Patrick Ness
+12. The Ask and the Answer by Patrick Ness
+13. Monsters of Men by Patrick Ness
+14. The Disreputable History of Frankie Landau-Banks by E. Lockhart
+15. The Secret History by Donna Tartt
+16. The Catcher in the Rye by J.D. Salinger
+17. To Kill a Mockingbird by Harper Lee
+18. 1984 by George Orwell
+19. Animal Farm by George Orwell
+20. Lord of the Flies by William Golding
+21. The Great Gatsby by F. Scott Fitzgerald
+22. The Picture of Dorian Gray by Oscar Wilde
+23. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+24. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+25. The Hound of the Baskervilles by Arthur Conan Doyle
+26. The Complete Stories and Poems by Edgar Allan Poe
+27. The Hobbit by J.R.R. Tolkien
+28. The Lord of the Rings by J.R.R. Tolkien
+29. The Chronicles of Narnia by C.S. Lewis
+30. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+31. Ender's Game by Orson Scott Card
+32. The Alchemist by Paulo Coelho
+33. The Little Prince by Antoine de Saint-Exupéry
+34. The Giving Tree by Shel Silverstein
+35. Where the Wild Things Are by Maurice Sendak
+36. The Cat in the Hat by Dr. Seuss
+37. Green Eggs and Ham by Dr. Seuss
+38. One Fish Two Fish Red Fish Blue Fish by Dr. Seuss
+39. The Lorax by Dr. Seuss
+40. Oh, the Places You'll Go! by Dr. Seuss
+41. The Very Hungry Caterpillar by Eric Carle
+42. Goodnight Moon by Margaret Wise Brown
+43. The Runaway Bunny by Margaret Wise Brown
+44. Corduroy by Don Freeman
+45. Curious George by H.A. Rey
+46. Madeline by Ludwig Bemelmans
+47. The Giving Tree by Shel Silverstein
+48. The Velveteen Rabbit by Margery Williams
+49. Charlotte's Web by E.B. White
+50. Stuart

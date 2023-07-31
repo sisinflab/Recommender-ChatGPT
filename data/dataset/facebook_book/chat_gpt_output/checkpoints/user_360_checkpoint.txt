@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Great Gatsby by F. Scott Fitzgerald
+4. Pride and Prejudice by Jane Austen
+5. Animal Farm by George Orwell
+6. The Picture of Dorian Gray by Oscar Wilde
+7. The Bell Jar by Sylvia Plath
+8. The Adventures of Huckleberry Finn by Mark Twain
+9. The Hobbit by J.R.R. Tolkien
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+12. The Diary of a Young Girl by Anne Frank
+13. The Color Purple by Alice Walker
+14. The Handmaid's Tale by Margaret Atwood
+15. The Hunger Games by Suzanne Collins
+16. The Book Thief by Markus Zusak
+17. The Road by Cormac McCarthy
+18. The Kite Runner by Khaled Hosseini
+19. The Catcher in the Rye by J.D. Salinger
+20. Wuthering Heights by Emily Brontë
+21. Lord of the Flies by William Golding
+22. Frankenstein by Mary Shelley
+23. The Giver by Lois Lowry
+24. The Alchemist by Paulo Coelho
+25. The Secret Life of Bees by Sue Monk Kidd
+26. The Girl with the Dragon Tattoo by Stieg Larsson
+27. The Help by Kathryn Stockett
+28. The Fault in Our Stars by John Green
+29. The Perks of Being a Wallflower by Stephen Chbosky
+30. The Road Less Traveled by M. Scott Peck
+31. The Power of Now by Eckhart Tolle
+32. The 7 Habits of Highly Effective People by Stephen Covey
+33. The Art of War by Sun Tzu
+34. The Prince by Niccolò Machiavelli
+35. The Wealth of Nations by Adam Smith
+36. The Origin of Species by Charles Darwin
+37. The Interpretation of Dreams by Sigmund Freud
+38. The Republic by Plato
+39. The Divine Comedy by Dante Alighieri
+40. The Canterbury Tales by Geoffrey Chaucer
+41. The Iliad by Homer
+42. The Odyssey by Homer
+43. The Bible
+44. The Quran
+45. The Tao Te Ching by Lao Tzu
+46. The Analects by Confucius
+47. The Bhagavad Gita
+48. The Dhammapada
+49. The Book of Mormon
+50. The Teachings of Buddha

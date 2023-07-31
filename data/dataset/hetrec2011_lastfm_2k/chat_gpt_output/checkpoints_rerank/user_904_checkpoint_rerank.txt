@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Coldplay
+2. U2
+3. John Williams
+4. UNKLE
+5. Depeche Mode
+6. Placebo
+7. Alexandre Desplat
+8. Dido
+9. IAMX
+10. Within Temptation
+11. Paramore
+12. Florence + the Machine
+13. Nick Cave and the Bad Seeds
+14. Schiller
+15. Beyoncé
+16. Red Hot Chili Peppers
+17. Linkin Park
+18. P.O.D.
+19. Audioslave
+20. Evanescence
+21. Snow Patrol
+22. Adele
+23. Hurts
+24. Kerli
+25. The Offspring
+26. Armin van Buuren
+27. R.E.M.
+28. Metric
+29. Hoobastank
+30. Shinedown
+31. Eurythmics
+32. Muse
+33. Pink Floyd
+34. Radiohead
+35. Ke$ha
+36. Duran Duran
+37. Blur
+38. Arctic Monkeys
+39. The Killers
+40. Nirvana
+41. Iron Maiden
+42. Led Zeppelin
+43. Metallica
+44. Michael Jackson
+45. Pearl Jam
+46. a-ha
+47. Björk
+48. System of a Down
+49. Nine Inch Nails
+50. The Cure

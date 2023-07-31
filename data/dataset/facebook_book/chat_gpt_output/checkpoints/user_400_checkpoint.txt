@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Help by Kathryn Stockett
+2. The Hunger Games by Suzanne Collins
+3. The Kite Runner by Khaled Hosseini
+4. The Da Vinci Code by Dan Brown
+5. The Girl with the Dragon Tattoo by Stieg Larsson
+6. The Catcher in the Rye by J.D. Salinger
+7. To Kill a Mockingbird by Harper Lee
+8. The Great Gatsby by F. Scott Fitzgerald
+9. 1984 by George Orwell
+10. Animal Farm by George Orwell
+11. The Alchemist by Paulo Coelho
+12. The Fault in Our Stars by John Green
+13. The Lord of the Rings by J.R.R. Tolkien
+14. The Hobbit by J.R.R. Tolkien
+15. The Chronicles of Narnia by C.S. Lewis
+16. Harry Potter series by J.K. Rowling
+17. The Book Thief by Markus Zusak
+18. The Secret Life of Bees by Sue Monk Kidd
+19. The Color Purple by Alice Walker
+20. The Joy Luck Club by Amy Tan
+21. The Immortalists by Chloe Benjamin
+22. The Nightingale by Kristin Hannah
+23. The Glass Castle by Jeannette Walls
+24. The Lovely Bones by Alice Sebold
+25. The Time Traveler's Wife by Audrey Niffenegger
+26. The Help by Kathryn Stockett
+27. The Hunger Games by Suzanne Collins
+28. The Kite Runner by Khaled Hosseini
+29. The Da Vinci Code by Dan Brown
+30. The Girl with the Dragon Tattoo by Stieg Larsson
+31. The Catcher in the Rye by J.D. Salinger
+32. To Kill a Mockingbird by Harper Lee
+33. The Great Gatsby by F. Scott Fitzgerald
+34. 1984 by George Orwell
+35. Animal Farm by George Orwell
+36. The Alchemist by Paulo Coelho
+37. The Fault in Our Stars by John Green
+38. The Lord of the Rings by J.R.R. Tolkien
+39. The Hobbit by J.R.R. Tolkien
+40. The Chronicles of Narnia by C.S. Lewis
+41. Harry Potter series by J.K. Rowling
+42. The Book Thief by Markus Zusak
+43. The Secret Life of Bees by Sue Monk Kidd
+44. The Color Purple by Alice Walker
+45. The Joy Luck Club by Amy Tan
+46. The Immortalists by Chloe Benjamin
+47. The Nightingale by Kristin Hannah
+48. The Glass Castle by Jeannette Walls
+49. The Lovely Bones by Alice Sebold
+50. The Time Traveler's Wife by Audrey Niffenegger

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Rammstein
+2. Godsmack
+3. Slayer
+4. Sepultura
+5. Slipknot
+6. Hatebreed
+7. Trivium
+8. In Flames
+9. Rage Against the Machine
+10. Disturbed
+11. Stone Sour
+12. Lamb of God
+13. Killswitch Engage
+14. Megadeth
+15. Morbid Angel
+16. Iron Maiden
+17. Marilyn Manson
+18. Katatonia
+19. Static-X
+20. Comeback Kid
+21. Fear Factory
+22. Red Hot Chili Peppers
+23. System of a Down
+24. Motörhead
+25. Black Label Society
+26. Tool
+27. Cannibal Corpse
+28. Dope
+29. Metallica
+30. Nirvana
+31. Iron Maiden
+32. Led Zeppelin
+33. Pearl Jam
+34. Michael Jackson
+35. Nine Inch Nails
+36. Linkin Park
+37. Avenged Sevenfold
+38. Green Day
+39. The Cure
+40. Muse
+41. Pink Floyd
+42. The Beatles
+43. U2
+44. Radiohead
+45. Arctic Monkeys
+46. Placebo
+47. Duran Duran
+48. Coldplay
+49. Blur
+50. My Chemical Romance

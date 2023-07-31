@@ -1,0 +1,14 @@
+2023-04-16 11:22:36.540293: I Loading parameters
+2023-04-16 11:22:36.540593: I Parameter neighbors set to 100
+2023-04-16 11:22:36.540711: I Parameter similarity set to cosine
+2023-04-16 11:22:36.540871: I Parameter implementation set to standard
+2023-04-16 11:22:36.541049: I Parameter implicit set to False
+2023-04-16 11:22:36.541660: I Parameter shrink set to 0
+2023-04-16 11:22:36.541950: I Parameter normalize set to True
+2023-04-16 11:22:36.542189: I Parameter asymmetric_alpha set to False
+2023-04-16 11:22:36.542395: I Parameter tversky_alpha set to False
+2023-04-16 11:22:36.542491: I Parameter tversky_beta set to False
+2023-04-16 11:22:36.542596: I Parameter row_weights set to None
+2023-04-16 11:22:38.939422: I Finished
+2023-04-16 11:22:38.939886: I Writing recommendations at: /home/dario/PhD/Recommender-ChatGPT/code/results/hetrec2011_lastfm_2k
+2023-04-16 11:22:39.025371: I ******************************************

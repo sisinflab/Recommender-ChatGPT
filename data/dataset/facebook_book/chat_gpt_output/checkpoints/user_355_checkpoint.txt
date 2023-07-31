@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. Lord of the Flies by William Golding
+4. The Giver by Lois Lowry
+5. The Hunger Games by Suzanne Collins
+6. Brave New World by Aldous Huxley
+7. The Fault in Our Stars by John Green
+8. The Perks of Being a Wallflower by Stephen Chbosky
+9. The Maze Runner by James Dashner
+10. Divergent by Veronica Roth
+11. The Book Thief by Markus Zusak
+12. The Lord of the Rings by J.R.R. Tolkien
+13. The Hobbit by J.R.R. Tolkien
+14. The Chronicles of Narnia by C.S. Lewis
+15. Harry Potter series by J.K. Rowling
+16. The Da Vinci Code by Dan Brown
+17. Angels and Demons by Dan Brown
+18. The Girl with the Dragon Tattoo by Stieg Larsson
+19. The Girl Who Played with Fire by Stieg Larsson
+20. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+21. The Shining by Stephen King
+22. Carrie by Stephen King
+23. The Stand by Stephen King
+24. The Dark Tower series by Stephen King
+25. The Catcher in the Rye by J.D. Salinger
+26. To Kill a Mockingbird by Harper Lee
+27. The Outsiders by S.E. Hinton
+28. The Magician's Nephew by C.S. Lewis
+29. Macbeth by William Shakespeare
+30. Romeo and Juliet by William Shakespeare
+31. Twilight series by Stephenie Meyer
+32. Inkheart by Cornelia Funke
+33. Inkspell by Cornelia Funke
+34. Inkdeath by Cornelia Funke
+35. The BFG by Roald Dahl
+36. Charlie and the Chocolate Factory by Roald Dahl
+37. James and the Giant Peach by Roald Dahl
+38. Matilda by Roald Dahl
+39. Maximum Ride series by James Patterson
+40. Vampire$ by John Steakley
+41. Faster than a Kiss by Meca Tanaka
+42. Death Note by Tsugumi Ohba
+43. Naruto by Masashi Kishimoto
+44. One Piece by Eiichiro Oda
+45. Attack on Titan by Hajime Isayama
+46. Fullmetal Alchemist by Hiromu Arakawa
+47. The Great Gatsby by F. Scott Fitzgerald
+48. The Picture of Dorian Gray by Oscar Wilde
+49. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+50. The Count of Monte Cristo by Alexandre Dumas

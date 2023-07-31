@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. The Girl with the Dragon Tattoo by Stieg Larsson
+5. The Da Vinci Code by Dan Brown
+6. The Hobbit by J.R.R. Tolkien
+7. The Great Gatsby by F. Scott Fitzgerald
+8. The Shining by Stephen King
+9. The Stand by Stephen King
+10. The Silence of the Lambs by Thomas Harris
+11. The Road by Cormac McCarthy
+12. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+13. The Book Thief by Markus Zusak
+14. The Help by Kathryn Stockett
+15. The Lovely Bones by Alice Sebold
+16. The Fault in Our Stars by John Green
+17. The Maze Runner by James Dashner
+18. The Giver by Lois Lowry
+19. The Chronicles of Narnia by C.S. Lewis
+20. The Lord of the Rings by J.R.R. Tolkien
+21. The Harry Potter series by J.K. Rowling
+22. The Twilight series by Stephenie Meyer
+23. The Girl on the Train by Paula Hawkins
+24. Gone Girl by Gillian Flynn
+25. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+26. The Girl Who Played with Fire by Stieg Larsson
+27. The Help by Kathryn Stockett
+28. The Kite Runner by Khaled Hosseini
+29. The Secret Life of Bees by Sue Monk Kidd
+30. The Alchemist by Paulo Coelho
+31. The Picture of Dorian Gray by Oscar Wilde
+32. The 19th Wife by David Ebershoff
+33. The Taking by Dean Koontz
+34. The Dark Tower: The Gunslinger by Stephen King
+35. Carrie by Stephen King
+36. Pet Sematary by Stephen King
+37. The Stand by Stephen King
+38. To Kill a Mockingbird by Harper Lee
+39. Pride and Prejudice by Jane Austen
+40. Sense and Sensibility by Jane Austen
+41. Emma by Jane Austen
+42. Mansfield Park by Jane Austen
+43. Persuasion by Jane Austen
+44. Northanger Abbey by Jane Austen
+45. Wuthering Heights by Emily Bronte
+46. Jane Eyre by Charlotte Bronte
+47. The Count of Monte Cristo by Alexandre Dumas
+48. Les Miserables by Victor Hugo
+49. The Three Musketeers by Alexandre Dumas
+50. The Adventures of Sherlock Holmes by Arthur Conan Doyle

@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Silence of the Lambs by Thomas Harris
+2. The Bourne Identity by Robert Ludlum
+3. The Da Vinci Code by Dan Brown
+4. The Hunt for Red October by Tom Clancy
+5. The Andromeda Strain by Michael Crichton
+6. The Firm by John Grisham
+7. The Girl on the Train by Paula Hawkins
+8. The Lost Symbol by Dan Brown
+9. The Pelican Brief by John Grisham
+10. The Lincoln Lawyer by Michael Connelly
+11. The Revenant by Michael Punke
+12. The Martian by Andy Weir
+13. The Hunger Games by Suzanne Collins
+14. The Road by Cormac McCarthy
+15. The Catcher in the Rye by J.D. Salinger
+16. The Great Gatsby by F. Scott Fitzgerald
+17. To Kill a Mockingbird by Harper Lee
+18. 1984 by George Orwell
+19. Animal Farm by George Orwell
+20. Brave New World by Aldous Huxley
+21. Fahrenheit 451 by Ray Bradbury
+22. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+23. The Hobbit by J.R.R. Tolkien
+24. The Lord of the Rings by J.R.R. Tolkien
+25. The Chronicles of Narnia by C.S. Lewis
+26. Harry Potter and the Philosopher's Stone by J.K. Rowling
+27. Harry Potter and the Chamber of Secrets by J.K. Rowling
+28. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+29. Harry Potter and the Goblet of Fire by J.K. Rowling
+30. Harry Potter and the Order of Phoenix by J.K. Rowling
+31. Harry Potter and the Half-Blood Prince by J.K. Rowling
+32. Harry Potter and the Deathly Hallows by J.K. Rowling
+33. The Girl Who Played with Fire by Stieg Larsson
+34. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+35. The Girl with the Dragon Tattoo by Stieg Larsson
+36. The Day of the Jackal by Frederick Forsyth
+37. No Country for Old Men by Cormac McCarthy
+38. Blood Meridian by Cormac McCarthy
+39. World Without End by Ken Follett
+40. Heart of Darkness by Joseph Conrad
+41. Wuthering Heights by Emily Bronte
+42. Jane Eyre by Charlotte Bronte
+43. The Picture of Dorian Gray by Oscar Wilde
+44. Crime and Punishment by Fyodor Dostoevsky
+45. Catch-22 by Joseph Heller
+46. Watership Down by Richard Adams
+47. The Stand by Stephen King
+48. I Am Legend by Richard Matheson
+49. The

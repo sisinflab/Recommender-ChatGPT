@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Maze Runner by James Dashner
+4. The Fault in Our Stars by John Green
+5. The Book Thief by Markus Zusak
+6. To Kill a Mockingbird by Harper Lee
+7. 1984 by George Orwell
+8. Animal Farm by George Orwell
+9. Lord of the Flies by William Golding
+10. Brave New World by Aldous Huxley
+11. The Catcher in the Rye by J.D. Salinger
+12. The Outsiders by S.E. Hinton
+13. The Perks of Being a Wallflower by Stephen Chbosky
+14. The Girl with the Dragon Tattoo by Stieg Larsson
+15. The Girl on the Train by Paula Hawkins
+16. Gone Girl by Gillian Flynn
+17. The Da Vinci Code by Dan Brown
+18. Angels and Demons by Dan Brown
+19. The Shining by Stephen King
+20. Carrie by Stephen King
+21. The Stand by Stephen King
+22. It by Stephen King
+23. Misery by Stephen King
+24. The Silence of the Lambs by Thomas Harris
+25. Hannibal by Thomas Harris
+26. The Lovely Bones by Alice Sebold
+27. The Road by Cormac McCarthy
+28. A Clockwork Orange by Anthony Burgess
+29. One Flew Over the Cuckoo's Nest by Ken Kesey
+30. The Bell Jar by Sylvia Plath
+31. The Picture of Dorian Gray by Oscar Wilde
+32. Frankenstein by Mary Shelley
+33. Dracula by Bram Stoker
+34. The Hobbit by J.R.R. Tolkien
+35. The Lord of the Rings by J.R.R. Tolkien
+36. The Chronicles of Narnia by C.S. Lewis
+37. Watership Down by Richard Adams
+38. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+39. Ender's Game by Orson Scott Card
+40. The Dark Tower series by Stephen King
+41. The Wheel of Time series by Robert Jordan
+42. The Name of the Wind by Patrick Rothfuss
+43. The Lies of Locke Lamora by Scott Lynch
+44. The First Law trilogy by Joe Abercrombie
+45. The Kingkiller Chronicle by Patrick Rothfuss
+46. The Stormlight Archive by Brandon Sanderson
+47. Mistborn by Brandon Sanderson
+48. The Way of Kings by Brandon Sanderson
+49. The Final Empire by Brandon Sanderson
+50. Warbreaker by Brandon Sanderson

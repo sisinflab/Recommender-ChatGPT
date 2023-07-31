@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Jane Eyre by Charlotte Bronte
+2. Sense and Sensibility by Jane Austen
+3. David Copperfield by Charles Dickens
+4. The Count of Monte Cristo by Alexandre Dumas
+5. The Picture of Dorian Gray by Oscar Wilde
+6. Les Miserables by Victor Hugo
+7. The Adventures of Huckleberry Finn by Mark Twain
+8. Emma by Jane Austen
+9. The Scarlet Letter by Nathaniel Hawthorne
+10. The Three Musketeers by Alexandre Dumas
+11. The Brothers Karamazov by Fyodor Dostoevsky
+12. The Canterbury Tales by Geoffrey Chaucer
+13. The Odyssey by Homer
+14. The Iliad by Homer
+15. The Divine Comedy by Dante Alighieri
+16. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+17. The Great Gatsby by F. Scott Fitzgerald
+18. To Kill a Mockingbird by Harper Lee
+19. The Catcher in the Rye by J.D. Salinger
+20. The Grapes of Wrath by John Steinbeck
+21. The Old Man and the Sea by Ernest Hemingway
+22. Animal Farm by George Orwell
+23. 1984 by George Orwell
+24. One Hundred Years of Solitude by Gabriel Garcia Marquez
+25. Crime and Punishment by Fyodor Dostoevsky
+26. War and Peace by Leo Tolstoy
+27. Anna Karenina by Leo Tolstoy
+28. The Hobbit by J.R.R. Tolkien
+29. The Lord of the Rings by J.R.R. Tolkien
+30. The Chronicles of Narnia by C.S. Lewis
+31. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+32. The Hunger Games by Suzanne Collins
+33. Harry Potter and the Philosopher's Stone by J.K. Rowling
+34. The Da Vinci Code by Dan Brown
+35. Angels and Demons by Dan Brown
+36. The Girl with the Dragon Tattoo by Stieg Larsson
+37. The Girl Who Played with Fire by Stieg Larsson
+38. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+39. The Name of the Rose by Umberto Eco
+40. The Pillars of the Earth by Ken Follett
+41. The Kite Runner by Khaled Hosseini
+42. A Thousand Splendid Suns by Khaled Hosseini
+43. The Alchemist by Paulo Coelho
+44. The Picture of Dorian Gray by Oscar Wilde
+45. The Adventures of Tom Sawyer by Mark Twain
+46. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+47. The Adventures of Pinocchio by Carlo Collodi
+48. The Wind in the Willows by Kenneth Grahame
+49. The Wise Man's Fear by Patrick Rothfuss
+50. American Gods by Neil Gaiman

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Crime and Punishment by Fyodor Dostoevsky
+2. Jane Eyre by Charlotte Bronte
+3. The Picture of Dorian Gray by Oscar Wilde
+4. The Name of the Rose by Umberto Eco
+5. To Kill a Mockingbird by Harper Lee
+6. Nineteen Eighty-Four by George Orwell
+7. The Catcher in the Rye by J.D. Salinger
+8. The French Lieutenant's Woman by John Fowles
+9. The Count of Monte Cristo by Alexandre Dumas
+10. Great Expectations by Charles Dickens
+11. Wuthering Heights by Emily Bronte
+12. Sense and Sensibility by Jane Austen
+13. Persuasion by Jane Austen
+14. Mansfield Park by Jane Austen
+15. Emma by Jane Austen
+16. Les Miserables by Victor Hugo
+17. War and Peace by Leo Tolstoy
+18. The Iliad by Homer
+19. Atonement by Ian McEwan
+20. Angels & Demons by Dan Brown
+21. The Da Vinci Code by Dan Brown
+22. Fahrenheit 451 by Ray Bradbury
+23. Slaughterhouse-Five by Kurt Vonnegut
+24. Catch-22 by Joseph Heller
+25. Lord of the Flies by William Golding
+26. White Noise by Don DeLillo
+27. The Screwtape Letters by C.S. Lewis
+28. Macbeth by William Shakespeare
+29. A Midsummer Night's Dream by William Shakespeare
+30. The Trial by Franz Kafka
+31. The Castle by Franz Kafka
+32. Tess of the d'Urbervilles by Thomas Hardy
+33. The Fall of the House of Usher by Edgar Allan Poe
+34. Enduring Love by Ian McEwan
+35. Little Women by Louisa May Alcott
+36. Where the Sidewalk Ends by Shel Silverstein
+37. The Grapes of Wrath by John Steinbeck
+38. Girl with a Pearl Earring by Tracy Chevalier
+39. Fullmetal Alchemist by Hiromu Arakawa
+40. Stalingrad by Antony Beevor
+41. Leaving a Doll's House: A Memoir by Claire Bloom
+42. We Were Soldiers Once... And Young by Harold G. Moore and Joseph L. Galloway
+43. Azumanga Daioh by Kiyohiko Azuma
+44. Welcome to the Monkey House by Kurt Vonnegut
+45. Cecilia by Fanny Burney
+46. Black Cat by Kentaro Yabuki
+47. Lies That Chelsea Handler Told Me by Chelsea Handler
+48. Private by James Patterson
+49. Miss Christina by Mircea Eliade
+50. Things Fall Apart by Chinua Achebe

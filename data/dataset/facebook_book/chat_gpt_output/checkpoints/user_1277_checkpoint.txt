@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Great Gatsby by F. Scott Fitzgerald
+3. 1984 by George Orwell
+4. Pride and Prejudice by Jane Austen
+5. The Hobbit by J.R.R. Tolkien
+6. The Catcher in the Rye by J.D. Salinger
+7. Animal Farm by George Orwell
+8. Lord of the Flies by William Golding
+9. The Diary of a Young Girl by Anne Frank
+10. The Hunger Games by Suzanne Collins
+11. The Book Thief by Markus Zusak
+12. The Fault in Our Stars by John Green
+13. The Perks of Being a Wallflower by Stephen Chbosky
+14. The Outsiders by S.E. Hinton
+15. The Chronicles of Narnia by C.S. Lewis
+16. Harry Potter series by J.K. Rowling
+17. The Lord of the Rings by J.R.R. Tolkien
+18. The Secret Life of Bees by Sue Monk Kidd
+19. The Help by Kathryn Stockett
+20. The Color Purple by Alice Walker
+21. The Kite Runner by Khaled Hosseini
+22. A Thousand Splendid Suns by Khaled Hosseini
+23. The Alchemist by Paulo Coelho
+24. The Girl with the Dragon Tattoo by Stieg Larsson
+25. The Girl on the Train by Paula Hawkins
+26. Gone Girl by Gillian Flynn
+27. The Da Vinci Code by Dan Brown
+28. Angels and Demons by Dan Brown
+29. The Lovely Bones by Alice Sebold
+30. The Time Traveler's Wife by Audrey Niffenegger
+31. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+32. The Road by Cormac McCarthy
+33. The Handmaid's Tale by Margaret Atwood
+34. The Stand by Stephen King
+35. The Shining by Stephen King
+36. Carrie by Stephen King
+37. The Green Mile by Stephen King
+38. The Talisman by Stephen King and Peter Straub
+39. The Dark Tower series by Stephen King
+40. The Name of the Wind by Patrick Rothfuss
+41. The Wise Man's Fear by Patrick Rothfuss
+42. The Lies of Locke Lamora by Scott Lynch
+43. The Way of Kings by Brandon Sanderson
+44. Mistborn series by Brandon Sanderson
+45. The Final Empire by Brandon Sanderson
+46. The Well of Ascension by Brandon Sanderson
+47. The Hero of Ages by Brandon Sanderson
+48. The Lies of Locke Lamora by Scott Lynch
+49. The Blade Itself by Joe Abercrombie
+50. The Name of the Wind by Patrick Rothfuss

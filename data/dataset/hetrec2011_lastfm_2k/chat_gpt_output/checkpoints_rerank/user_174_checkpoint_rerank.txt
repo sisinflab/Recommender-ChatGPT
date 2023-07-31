@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for user 174 are:
+
+1. John Mayer
+2. Hanson
+3. Coldplay
+4. Dave Matthews Band
+5. Ray LaMontagne
+6. Eric Clapton
+7. Gavin DeGraw
+8. The Fray
+9. Timbaland
+10. Goo Goo Dolls
+11. Incubus
+12. Red Hot Chili Peppers
+13. Damien Rice
+14. The Killers
+15. U2
+16. Lynyrd Skynyrd
+17. Jimi Hendrix
+18. Beck
+19. James Blunt
+20. The All-American Rejects
+21. Sarah McLachlan
+22. Augustana
+23. Boys Like Girls
+24. Third Eye Blind
+25. Josh Groban
+26. Keith Urban
+27. Yellowcard
+28. Savage Garden
+29. OK Go
+30. The Doors
+31. Foo Fighters
+32. Journey
+33. Muse
+34. Pink Floyd
+35. Radiohead
+36. Nirvana
+37. Led Zeppelin
+38. Metallica
+39. Michael Jackson
+40. Pearl Jam
+41. a-ha
+42. Björk
+43. Duran Duran
+44. The Beatles
+45. The Cure
+46. Arctic Monkeys
+47. Placebo
+48. Iron Maiden
+49. Nine Inch Nails
+50. Daft Punk

@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Name of the Rose by Umberto Eco
+2. Crime and Punishment by Fyodor Dostoyevsky
+3. The Catcher in the Rye by J.D. Salinger
+4. Nineteen Eighty-Four by George Orwell
+5. Brave New World by Aldous Huxley
+6. Fahrenheit 451 by Ray Bradbury
+7. The Lord of the Rings by J.R.R. Tolkien
+8. Siddhartha by Hermann Hesse
+9. The Brothers Karamazov by Fyodor Dostoyevsky
+10. Thus Spoke Zarathustra by Friedrich Nietzsche
+11. The Prince by Niccolò Machiavelli
+12. Animal Farm by George Orwell
+13. The Giver by Lois Lowry
+14. Waiting for Godot by Samuel Beckett
+15. The Castle of Otranto by Horace Walpole
+16. Divine Comedy by Dante Alighieri
+17. Les Fleurs du mal by Charles Baudelaire
+18. Dracula by Bram Stoker
+19. The Bell Jar by Sylvia Plath
+20. The Interpretation of Dreams by Sigmund Freud
+21. The Raven by Edgar Allan Poe
+22. The Cask of Amontillado by Edgar Allan Poe
+23. The Neverending Story by Michael Ende
+24. And Then There Were None by Agatha Christie
+25. Wuthering Heights by Emily Bronte
+26. The Watchmen by Alan Moore
+27. The Chronicles of Narnia by C.S. Lewis
+28. Harry Potter by J.K. Rowling
+29. Percy Jackson & the Olympians by Rick Riordan
+30. The Thief of Always by Clive Barker
+31. Inheritance by Christopher Paolini
+32. The Shadow over Innsmouth by H.P. Lovecraft
+33. The Call of Cthulhu and Other Weird Stories by H.P. Lovecraft
+34. Good Omens by Neil Gaiman and Terry Pratchett
+35. The General's Daughter by Nelson DeMille
+36. Stalingrad by Antony Beevor
+37. Fullmetal Alchemist by Hiromu Arakawa
+38. Gray's Anatomy by Henry Gray
+39. Pet Sematary by Stephen King
+40. Johnny the Homicidal Maniac by Jhonen Vasquez
+41. Azumanga Daioh by Kiyohiko Azuma
+42. The Name of the Wind by Patrick Rothfuss
+43. The Lies of Locke Lamora by Scott Lynch
+44. The Blade Itself by Joe Abercrombie
+45. The Way of Kings by Brandon Sanderson
+46. The Eye of the World by Robert Jordan
+47. The Gunslinger by Stephen King
+48. The Dark Tower by Stephen King

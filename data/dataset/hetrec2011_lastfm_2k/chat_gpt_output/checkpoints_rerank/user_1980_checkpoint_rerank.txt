@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. John Mayer
+2. Belle and Sebastian
+3. Jason Mraz
+4. Jack Johnson
+5. Damien Rice
+6. Coldplay
+7. Dixie Chicks
+8. Death Cab for Cutie
+9. Pearl Jam
+10. Vampire Weekend
+11. Devendra Banhart
+12. Alanis Morissette
+13. Norah Jones
+14. Aqualung
+15. Paolo Nutini
+16. Yanni
+17. Lykke Li
+18. AC/DC
+19. Enigma
+20. The Beatles
+21. Muse
+22. Radiohead
+23. Pink Floyd
+24. Led Zeppelin
+25. Nirvana
+26. Metallica
+27. Iron Maiden
+28. The Killers
+29. U2
+30. Duran Duran
+31. Arctic Monkeys
+32. Placebo
+33. Blur
+34. My Chemical Romance
+35. Green Day
+36. The Cure
+37. Lady Gaga
+38. Madonna
+39. Rihanna
+40. Beyoncé
+41. Ke$ha
+42. Katy Perry
+43. Taylor Swift
+44. Avril Lavigne
+45. Evanescence
+46. Kelly Clarkson
+47. P!nk
+48. Black Eyed Peas
+49. Daft Punk
+50. Nine Inch Nails

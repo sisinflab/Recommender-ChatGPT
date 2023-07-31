@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Fault in Our Stars by John Green
+4. The Maze Runner by James Dashner
+5. The Twilight Saga by Stephenie Meyer
+6. The Mortal Instruments by Cassandra Clare
+7. The Infernal Devices by Cassandra Clare
+8. The Selection by Kiera Cass
+9. The Giver by Lois Lowry
+10. The Book Thief by Markus Zusak
+11. The Chronicles of Narnia by C.S. Lewis
+12. The Lord of the Rings by J.R.R. Tolkien
+13. Harry Potter series by J.K. Rowling
+14. The Percy Jackson series by Rick Riordan
+15. The Heroes of Olympus series by Rick Riordan
+16. The Kane Chronicles by Rick Riordan
+17. The Secret Circle by L.J. Smith
+18. The Vampire Diaries by L.J. Smith
+19. The Sookie Stackhouse series by Charlaine Harris
+20. The Anita Blake series by Laurell K. Hamilton
+21. The Dresden Files by Jim Butcher
+22. The Dark Tower series by Stephen King
+23. The Wheel of Time series by Robert Jordan
+24. The Sword of Truth series by Terry Goodkind
+25. The Belgariad series by David Eddings
+26. The Malloreon series by David Eddings
+27. The Elenium series by David Eddings
+28. The Tamuli series by David Eddings
+29. The Shannara series by Terry Brooks
+30. The Sword of Shannara by Terry Brooks
+31. The Elfstones of Shannara by Terry Brooks
+32. The Wishsong of Shannara by Terry Brooks
+33. The First King of Shannara by Terry Brooks
+34. The Black Company series by Glen Cook
+35. The Chronicles of Amber by Roger Zelazny
+36. The Farseer Trilogy by Robin Hobb
+37. The Liveship Traders Trilogy by Robin Hobb
+38. The Tawny Man Trilogy by Robin Hobb
+39. The Rain Wild Chronicles by Robin Hobb
+40. The Kingkiller Chronicle by Patrick Rothfuss
+41. The Gentleman Bastard series by Scott Lynch
+42. The Mistborn series by Brandon Sanderson
+43. The Stormlight Archive by Brandon Sanderson
+44. The Lightbringer series by Brent Weeks
+45. The Night Angel Trilogy by Brent Weeks
+46. The Broken Empire Trilogy by Mark Lawrence
+47. The Red Queen's War Trilogy by Mark Lawrence
+48. The Powder Mage Trilogy by Brian McClellan
+49. The Demon Cycle series by Peter V. Brett
+50. The Riyria Revelations by Michael J. Sullivan

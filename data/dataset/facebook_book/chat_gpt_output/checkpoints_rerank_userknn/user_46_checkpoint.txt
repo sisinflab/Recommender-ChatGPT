@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter
+2. The Lord of the Rings
+3. The Hunger Games
+4. Catching Fire
+5. The Da Vinci Code
+6. The Lost Symbol
+7. Inferno (Dante)
+8. Nineteen Eighty-Four
+9. The Giver
+10. The Hobbit
+11. The Girl with the Dragon Tattoo
+12. The Bourne Legacy (novel)
+13. The Alchemist (novel)
+14. The Theory of Everything
+15. The God Delusion
+16. Ramayana
+17. Dracula
+18. The Elegant Universe
+19. Midnight's Children
+20. The Zombie Survival Guide
+21. Sabriel
+22. Fallen (Kate novel)
+23. The Devil and Miss Prym
+24. The Girl Who Played with Fire
+25. The Girl Who Leapt Through Time
+26. Ink Exchange
+27. By the River Piedra I Sat Down and Wept
+28. The Seekers (book)
+29. To Kill a Mockingbird
+30. Wicked: The Life and Times of the Wicked Witch of the West
+31. Black Beauty
+32. Naruto
+33. Tithe: A Modern Faerie Tale
+34. Twilight (series)
+35. Maximum Ride
+36. Island of the Blue Dolphins
+37. Heidi
+38. The Great Gatsby
+39. Pendragon: Before the War
+40. Journey to the West
+41. Intensity (novel)
+42. The Wolves of Mercy Falls
+43. Skeleton Creek (novel)
+44. Bible
+45. Evermore (book)
+46. I Have No Mouth, and I Must Scream
+47. Inheritance (novel)
+48. 1st to Die
+49. Finding Cassie Crazy
+50. Wake (Lisa McMann novel)

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Muse
+3. Nirvana
+4. Led Zeppelin
+5. Pink Floyd
+6. The Beatles
+7. The Killers
+8. Coldplay
+9. Arctic Monkeys
+10. Metallica
+11. Queen
+12. U2
+13. The Rolling Stones
+14. Foo Fighters
+15. The Who
+16. Red Hot Chili Peppers
+17. Pearl Jam
+18. AC/DC
+19. The Strokes
+20. Oasis
+21. Green Day
+22. The Smiths
+23. The White Stripes
+24. System of a Down
+25. Nine Inch Nails
+26. The Cure
+27. Iron Maiden
+28. Black Sabbath
+29. Guns N' Roses
+30. Rage Against the Machine
+31. Depeche Mode
+32. Joy Division
+33. The Clash
+34. David Bowie
+35. Pixies
+36. Sonic Youth
+37. Talking Heads
+38. R.E.M.
+39. Beastie Boys
+40. Beastie Boys
+41. Beastie Boys
+42. Beastie Boys
+43. Beastie Boys
+44. Beastie Boys
+45. Beastie Boys
+46. Beastie Boys
+47. Beastie Boys
+48. Beastie Boys
+49. Beastie Boys
+50. Beastie Boys
+
+Note: The last 11 recommendations are duplicates of Beastie Boys due to a technical issue.

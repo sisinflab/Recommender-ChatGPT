@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Coldplay
+2. Adele
+3. Florence + the Machine
+4. 安室奈美恵
+5. 倖田來未
+6. Janis Joplin
+7. Lady Gaga
+8. Jesse McCartney
+9. Within Temptation
+10. Mariah Carey
+11. Glee Cast
+12. James Blunt
+13. Maria Bethânia
+14. The Saturdays
+15. Diana Krall
+16. Ana Carolina
+17. Justin Bieber
+18. Epica
+19. Simple Plan
+20. Alanis Morissette
+21. Evanescence
+22. Aretha Franklin
+23. Aimee Mann
+24. The Cranberries
+25. The Pussycat Dolls
+26. Kylie Minogue
+27. Whitney Houston
+28. Cher
+29. Rihanna
+30. Beyoncé
+31. Madonna
+32. Christina Aguilera
+33. Pink Floyd
+34. The Beatles
+35. Muse
+36. U2
+37. Radiohead
+38. Nirvana
+39. Led Zeppelin
+40. Metallica
+41. Michael Jackson
+42. Pearl Jam
+43. Björk
+44. Nine Inch Nails
+45. Linkin Park
+46. Green Day
+47. My Chemical Romance
+48. The Killers
+49. System of a Down
+50. Daft Punk

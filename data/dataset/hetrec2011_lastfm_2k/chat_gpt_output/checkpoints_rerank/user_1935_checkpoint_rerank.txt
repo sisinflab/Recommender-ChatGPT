@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Three Days Grace
+2. Breaking Benjamin
+3. Bullet for My Valentine
+4. A Day to Remember
+5. In Flames
+6. Poets of the Fall
+7. All That Remains
+8. Rise Against
+9. Adema
+10. Slipknot
+11. Children of Bodom
+12. Metallica
+13. Avenged Sevenfold
+14. Dead by April
+15. Linkin Park
+16. Guano Apes
+17. The Pretty Reckless
+18. Papa Roach
+19. Fall Out Boy
+20. Story of the Year
+21. Eyes Set to Kill
+22. Bring Me The Horizon
+23. Hoobastank
+24. All Time Low
+25. My Chemical Romance
+26. Green Day
+27. The Blackout
+28. AC/DC
+29. Mötley Crüe
+30. Nirvana
+31. Iron Maiden
+32. Pearl Jam
+33. Michael Jackson
+34. System of a Down
+35. Nine Inch Nails
+36. Black Eyed Peas
+37. P!nk
+38. Daft Punk
+39. The Killers
+40. Muse
+41. Pink Floyd
+42. Radiohead
+43. Coldplay
+44. Arctic Monkeys
+45. Placebo
+46. Led Zeppelin
+47. Duran Duran
+48. Björk
+49. U2
+50. The Beatles

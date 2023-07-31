@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Angels and Demons by Dan Brown
+2. The Shadow of the Wind by Carlos Ruiz Zafón
+3. 1984 by George Orwell
+4. The Catcher in the Rye by J.D. Salinger
+5. To Kill a Mockingbird by Harper Lee
+6. One Hundred Years of Solitude by Gabriel García Márquez
+7. The Alchemist by Paulo Coelho
+8. The Name of the Rose by Umberto Eco
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Great Gatsby by F. Scott Fitzgerald
+11. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+12. The Hunger Games by Suzanne Collins
+13. The Girl with the Dragon Tattoo by Stieg Larsson
+14. The Kite Runner by Khaled Hosseini
+15. The Road by Cormac McCarthy
+16. The Hobbit by J.R.R. Tolkien
+17. The Chronicles of Narnia by C.S. Lewis
+18. The Giver by Lois Lowry
+19. The Fault in Our Stars by John Green
+20. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+21. The Lovely Bones by Alice Sebold
+22. The Time Traveler's Wife by Audrey Niffenegger
+23. The Book of Lost Things by John Connolly
+24. The Secret History by Donna Tartt
+25. The Bell Jar by Sylvia Plath
+26. The God of Small Things by Arundhati Roy
+27. The Handmaid's Tale by Margaret Atwood
+28. The Road Less Traveled by M. Scott Peck
+29. The Stranger by Albert Camus
+30. The Unbearable Lightness of Being by Milan Kundera
+31. The Wind-Up Bird Chronicle by Haruki Murakami
+32. The Brothers Karamazov by Fyodor Dostoevsky
+33. Crime and Punishment by Fyodor Dostoevsky
+34. The Idiot by Fyodor Dostoevsky
+35. The Picture of Dorian Gray by Oscar Wilde
+36. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+37. The Hound of the Baskervilles by Arthur Conan Doyle
+38. The Complete Stories and Poems by Edgar Allan Poe
+39. The Raven by Edgar Allan Poe
+40. The Tell-Tale Heart by Edgar Allan Poe
+41. The Divine Comedy by Dante Alighieri
+42. The Inferno by Dante Alighieri
+43. The Odyssey by Homer
+44. The Iliad by Homer
+45. The Republic by Plato
+46. The Symposium by Plato
+47. The Tao Te Ching by Lao Tzu
+48. The Art of War by Sun Tzu
+49. The Art of War
+50. American Gods by Neil Gaiman

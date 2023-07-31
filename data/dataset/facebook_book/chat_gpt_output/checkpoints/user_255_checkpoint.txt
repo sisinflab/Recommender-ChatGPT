@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Fight Club by Chuck Palahniuk
+2. Crime and Punishment by Fyodor Dostoevsky
+3. The Catcher in the Rye by J.D. Salinger
+4. The Bell Jar by Sylvia Plath
+5. The Picture of Dorian Gray by Oscar Wilde
+6. The Great Gatsby by F. Scott Fitzgerald
+7. The Road by Cormac McCarthy
+8. The Hunger Games by Suzanne Collins
+9. 1984 by George Orwell
+10. Brave New World by Aldous Huxley
+11. Lord of the Flies by William Golding
+12. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+13. The Hobbit by J.R.R. Tolkien
+14. The Lord of the Rings by J.R.R. Tolkien
+15. The Chronicles of Narnia by C.S. Lewis
+16. The Dark Tower series by Stephen King
+17. The Stand by Stephen King
+18. The Shining by Stephen King
+19. Misery by Stephen King
+20. The Girl with the Dragon Tattoo by Stieg Larsson
+21. The Da Vinci Code by Dan Brown
+22. Angels and Demons by Dan Brown
+23. The Name of the Rose by Umberto Eco
+24. The Shadow of the Wind by Carlos Ruiz Zafón
+25. One Hundred Years of Solitude by Gabriel García Márquez
+26. Love in the Time of Cholera by Gabriel García Márquez
+27. The Alchemist by Paulo Coelho
+28. The Kite Runner by Khaled Hosseini
+29. A Thousand Splendid Suns by Khaled Hosseini
+30. The Book Thief by Markus Zusak
+31. To Kill a Mockingbird by Harper Lee
+32. The Adventures of Huckleberry Finn by Mark Twain
+33. The Adventures of Tom Sawyer by Mark Twain
+34. The Old Man and the Sea by Ernest Hemingway
+35. For Whom the Bell Tolls by Ernest Hemingway
+36. The Sun Also Rises by Ernest Hemingway
+37. The Picture of Dorian Gray by Oscar Wilde
+38. The Importance of Being Earnest by Oscar Wilde
+39. The Canterbury Tales by Geoffrey Chaucer
+40. The Divine Comedy by Dante Alighieri
+41. The Iliad by Homer
+42. The Odyssey by Homer
+43. The Aeneid by Virgil
+44. Beowulf by Unknown
+45. The Epic of Gilgamesh by Unknown
+46. The Bible by Various Authors
+47. The Quran by Various Authors
+48. The Tao Te Ching by Lao Tzu
+49. The Analects by Confucius
+50. The Republic by Plato

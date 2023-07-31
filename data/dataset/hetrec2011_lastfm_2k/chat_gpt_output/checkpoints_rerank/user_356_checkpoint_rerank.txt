@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Bring Me The Horizon
+2. Enter Shikari
+3. As I Lay Dying
+4. blessthefall
+5. Suicide Silence
+6. Drop Dead, Gorgeous
+7. Attack Attack!
+8. We Came As Romans
+9. Silverstein
+10. The xx
+11. Hawthorne Heights
+12. We Butter The Bread With Butter
+13. Paramore
+14. Evanescence
+15. Muse
+16. 30 Seconds to Mars
+17. The Killers
+18. Nirvana
+19. My Chemical Romance
+20. Iron Maiden
+21. Metallica
+22. Pearl Jam
+23. Linkin Park
+24. Avenged Sevenfold
+25. System of a Down
+26. Nine Inch Nails
+27. Daft Punk
+28. Coldplay
+29. Radiohead
+30. Pink Floyd
+31. Led Zeppelin
+32. Michael Jackson
+33. Madonna
+34. Lady Gaga
+35. Beyoncé
+36. Christina Aguilera
+37. Katy Perry
+38. Taylor Swift
+39. Rihanna
+40. Shakira
+41. Black Eyed Peas
+42. Ke$ha
+43. P!nk
+44. Green Day
+45. The Cure
+46. Blur
+47. Arctic Monkeys
+48. Placebo
+49. U2
+50. Depeche Mode

@@ -1,0 +1,47 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Fight Club by Chuck Palahniuk
+2. Invisible Monsters by Chuck Palahniuk
+3. Survivor by Chuck Palahniuk
+4. Rant by Chuck Palahniuk
+5. Haunted by Chuck Palahniuk
+6. Diary by Chuck Palahniuk
+7. Pygmy by Chuck Palahniuk
+8. Damned by Chuck Palahniuk
+9. Snuff by Chuck Palahniuk
+10. The Dark Knight Returns by Frank Miller
+11. V for Vendetta by Alan Moore
+12. Batman: The Killing Joke by Alan Moore
+13. The League of Extraordinary Gentlemen by Alan Moore
+14. From Hell by Alan Moore
+15. The Sandman: Preludes and Nocturnes by Neil Gaiman
+16. The Sandman: The Doll's House by Neil Gaiman
+17. The Sandman: Dream Country by Neil Gaiman
+18. The Sandman: Season of Mists by Neil Gaiman
+19. The Sandman: A Game of You by Neil Gaiman
+20. The Sandman: Fables and Reflections by Neil Gaiman
+21. The Sandman: Brief Lives by Neil Gaiman
+22. The Sandman: Worlds' End by Neil Gaiman
+23. The Sandman: The Kindly Ones by Neil Gaiman
+24. The Sandman: The Wake by Neil Gaiman
+25. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+26. The Restaurant at the End of the Universe by Douglas Adams
+27. Life, the Universe and Everything by Douglas Adams
+28. So Long, and Thanks for All the Fish by Douglas Adams
+29. Mostly Harmless by Douglas Adams
+30. The Catcher in the Rye by J.D. Salinger
+31. 1984 by George Orwell
+32. Animal Farm by George Orwell
+33. Brave New World by Aldous Huxley
+34. Slaughterhouse-Five by Kurt Vonnegut
+35. Cat's Cradle by Kurt Vonnegut
+36. Breakfast of Champions by Kurt Vonnegut
+37. The Sirens of Titan by Kurt Vonnegut
+38. The Martian Chronicles by Ray Bradbury
+39. Fahrenheit 451 by Ray Bradbury
+40. The Illustrated Man by Ray Bradbury
+41. The Hitchhiker's Guide to the Galaxy: The Complete Radio Series by Douglas Adams
+42. The Hitchhiker's Guide to the Galaxy: The Complete Trilogy of Five by Douglas Adams
+43. The Ultimate Hitchhiker's Guide to the Galaxy by Douglas Adams
+44. The Complete Maus by Art Spiegelman
+45. Persepolis by Marjane Satrapi

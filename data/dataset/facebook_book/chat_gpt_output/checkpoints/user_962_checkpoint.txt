@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Da Vinci Code by Dan Brown
+2. Inferno by Dan Brown
+3. The Lost Symbol by Dan Brown
+4. Digital Fortress by Dan Brown
+5. Origin by Dan Brown
+6. The Girl with the Dragon Tattoo by Stieg Larsson
+7. The Girl Who Played with Fire by Stieg Larsson
+8. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+9. Club Dead by Charlaine Harris
+10. Dead to the World by Charlaine Harris
+11. Dead as a Doornail by Charlaine Harris
+12. Definitely Dead by Charlaine Harris
+13. All Together Dead by Charlaine Harris
+14. From Dead to Worse by Charlaine Harris
+15. Dead and Gone by Charlaine Harris
+16. Dead in the Family by Charlaine Harris
+17. Dead Reckoning by Charlaine Harris
+18. Deadlocked by Charlaine Harris
+19. Dead Ever After by Charlaine Harris
+20. Harry Potter and the Philosopher's Stone by J.K. Rowling
+21. Harry Potter and the Chamber of Secrets by J.K. Rowling
+22. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+23. Harry Potter and the Goblet of Fire by J.K. Rowling
+24. Harry Potter and the Order of Phoenix by J.K. Rowling
+25. Harry Potter and the Half-Blood Prince by J.K. Rowling
+26. Harry Potter and the Deathly Hallows by J.K. Rowling
+27. The Restaurant at the End of the Universe by Douglas Adams
+28. Life, the Universe and Everything by Douglas Adams
+29. So Long, and Thanks for All the Fish by Douglas Adams
+30. Mostly Harmless by Douglas Adams
+31. Dead Until Dark by Charlaine Harris
+32. Living Dead in Dallas by Charlaine Harris
+33. Club Dead by Charlaine Harris
+34. Dead to the World by Charlaine Harris
+35. The Southern Vampire Mysteries by Charlaine Harris
+36. Dead as a Doornail by Charlaine Harris
+37. Definitely Dead by Charlaine Harris
+38. All Together Dead by Charlaine Harris
+39. From Dead to Worse by Charlaine Harris
+40. Dead and Gone by Charlaine Harris
+41. Dead in the Family by Charlaine Harris
+42. Dead Reckoning by Charlaine Harris
+43. Deadlocked by Charlaine Harris
+44. Dead Ever After by Charlaine Harris
+45. The Shining by Stephen King
+46. It by Stephen King
+47. Misery by Stephen King
+48. The Stand by Stephen King
+49. Salem's Lot by Stephen King
+50. Carrie by Stephen King

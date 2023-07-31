@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Beatles
+2. U2
+3. Bruce Springsteen
+4. Phil Collins
+5. Madonna
+6. R.E.M.
+7. Norah Jones
+8. Sting
+9. Frank Sinatra
+10. ABBA
+11. The Corrs
+12. Lara Fabian
+13. Maroon 5
+14. Snow Patrol
+15. Moby
+16. Simple Minds
+17. Feist
+18. Morcheeba
+19. Duran Duran
+20. Depeche Mode
+21. The Cure
+22. Tears for Fears
+23. Arctic Monkeys
+24. Editors
+25. Death Cab for Cutie
+26. My Chemical Romance
+27. Linkin Park
+28. The White Stripes
+29. Foo Fighters
+30. The Rolling Stones
+31. Kings of Leon
+32. Beck
+33. Arcade Fire
+34. Sigur Rós
+35. The National
+36. Pulp
+37. White Lies
+38. David Gray
+39. Stereophonics
+40. Jack Johnson
+41. Ryan Adams
+42. INXS
+43. The Killers
+44. The Police
+45. Joy Division
+46. New Order
+47. The Cranberries
+48. Paramore
+49. Robbie Williams
+50. Coldplay

@@ -1,0 +1,54 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Queen
+2. The Beatles
+3. The Who
+4. Muse
+5. David Bowie
+6. AC/DC
+7. Led Zeppelin
+8. Nirvana
+9. Chico Buarque
+10. Foo Fighters
+11. The Beach Boys
+12. Mamonas Assassinas
+13. The Rolling Stones
+14. Jet
+15. Tenacious D
+16. Paul McCartney
+17. George Harrison
+18. Elton John
+19. Coldplay
+20. U2
+21. Supertramp
+22. The Police
+23. Blur
+24. Bob Dylan
+25. Guns N' Roses
+26. Arctic Monkeys
+27. John Lennon
+28. Ramones
+29. Pearl Jam
+30. Dire Straits
+31. Iron Maiden
+32. Van Halen
+33. Paul McCartney & Wings
+34. Electric Light Orchestra
+35. Pink Floyd
+36. Radiohead
+37. Metallica
+38. Michael Jackson
+39. a-ha
+40. Björk
+41. System of a Down
+42. Daft Punk
+43. Nine Inch Nails
+44. Linkin Park
+45. Avenged Sevenfold
+46. My Chemical Romance
+47. Green Day
+48. The Cure
+49. Placebo
+50. The Killers
+
+Note: The artists that were not mentioned in the user's preferences were not included in the recommendations.

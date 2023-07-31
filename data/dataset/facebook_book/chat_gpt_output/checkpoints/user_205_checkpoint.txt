@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Great Gatsby by F. Scott Fitzgerald
+2. To Kill a Mockingbird by Harper Lee
+3. 1984 by George Orwell
+4. The Catcher in the Rye by J.D. Salinger
+5. Pride and Prejudice by Jane Austen
+6. The Hobbit by J.R.R. Tolkien
+7. The Lord of the Rings by J.R.R. Tolkien
+8. The Hunger Games by Suzanne Collins
+9. Harry Potter and the Philosopher's Stone by J.K. Rowling
+10. The Da Vinci Code by Dan Brown
+11. The Girl with the Dragon Tattoo by Stieg Larsson
+12. The Help by Kathryn Stockett
+13. The Fault in Our Stars by John Green
+14. The Alchemist by Paulo Coelho
+15. The Kite Runner by Khaled Hosseini
+16. The Secret Life of Bees by Sue Monk Kidd
+17. The Lovely Bones by Alice Sebold
+18. The Time Traveler's Wife by Audrey Niffenegger
+19. The Notebook by Nicholas Sparks
+20. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+21. The Road by Cormac McCarthy
+22. The Book Thief by Markus Zusak
+23. The Maze Runner by James Dashner
+24. The Chronicles of Narnia by C.S. Lewis
+25. The Picture of Dorian Gray by Oscar Wilde
+26. The Adventures of Tom Sawyer by Mark Twain
+27. The Adventures of Huckleberry Finn by Mark Twain
+28. The Count of Monte Cristo by Alexandre Dumas
+29. The Three Musketeers by Alexandre Dumas
+30. The Name of the Wind by Patrick Rothfuss
+31. The Wise Man's Fear by Patrick Rothfuss
+32. The Nightingale by Kristin Hannah
+33. The Help by Kathryn Stockett
+34. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+35. The Handmaid's Tale by Margaret Atwood
+36. The Stand by Stephen King
+37. The Shining by Stephen King
+38. The Silence of the Lambs by Thomas Harris
+39. The Bourne Identity by Robert Ludlum
+40. The Bourne Supremacy by Robert Ludlum
+41. The Bourne Ultimatum by Robert Ludlum
+42. The Girl on the Train by Paula Hawkins
+43. The Martian by Andy Weir
+44. The Revenant by Michael Punke
+45. The Help by Kathryn Stockett
+46. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+47. The Handmaid's Tale by Margaret Atwood
+48. The Stand by Stephen King
+49. The Shining by Stephen King
+50.

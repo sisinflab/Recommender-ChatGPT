@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Uglies by Scott Westerfeld
+2. Extras (novel) by Scott Westerfeld
+3. Thirteen Reasons Why by Jay Asher
+4. An Abundance of Katherines by John Green
+5. Looking for Alaska by John Green
+6. The Perks of Being a Wallflower by Stephen Chbosky
+7. Catching Fire by Suzanne Collins
+8. To Kill a Mockingbird by Harper Lee
+9. The Outsiders (novel) by S. E. Hinton
+10. Wonder Boys by Michael Chabon
+11. A Clockwork Orange by Anthony Burgess
+12. The Catcher in the Rye by J. D. Salinger
+13. The Alchemist (novel) by Paulo Coelho
+14. One Hundred Years of Solitude by Gabriel Garcia Marquez
+15. Middlesex (novel) by Jeffrey Eugenides
+16. Geek Love by Katherine Dunn
+17. Ender's Game by Orson Scott Card
+18. The Things They Carried by Tim O'Brien
+19. Little Women by Louisa May Alcott
+20. The Notebook (novel) by Nicholas Sparks
+21. Odyssey by Homer
+22. Wintergirls by Laurie Halse Anderson
+23. Alice's Adventures in Wonderland by Lewis Carroll
+24. Dubliners by James Joyce
+25. Paper Towns by John Green
+26. Leviathan (Auster novel) by Paul Auster
+27. Someone like You (novel) by Sarah Dessen
+28. The Time Traveler's Wife by Audrey Niffenegger
+29. So B. It by Sarah Weeks
+30. A Northern Light by Jennifer Donnelly
+31. The Land of Elyon by Patrick Carman
+32. The Sword of Truth by Terry Goodkind
+33. The Rebel (book) by Albert Camus
+34. Perfect Match (novel) by Jodi Picoult
+35. If Tomorrow Comes by Sidney Sheldon
+36. Persuasion (novel) by Jane Austen
+37. Witch & Wizard by James Patterson
+38. Unwind (novel) by Neal Shusterman
+39. Disgrace (novel) by J. M. Coetzee
+40. Go Ask Alice by Beatrice Sparks
+41. Glass (novel) by Ellen Hopkins
+42. Lock and Key by Sarah Dessen
+43. Summer of the Monkeys by Wilson Rawls
+44. The Last Book in the Universe by Rodman Philbrick
+45. She's Come Undone by Wally Lamb
+46. Watchers (novel) by Dean Koontz
+47. Everything Is Illuminated by Jonathan Safran Foer
+48. Extremely Loud and Incredibly Close by Jonathan Safran Foer
+49. Tricks

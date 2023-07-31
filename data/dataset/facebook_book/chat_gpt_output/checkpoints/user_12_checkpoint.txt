@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Uglies by Scott Westerfeld
+2. The Hunger Games by Suzanne Collins
+3. Divergent by Veronica Roth
+4. The Fault in Our Stars by John Green
+5. The Maze Runner by James Dashner
+6. The Giver by Lois Lowry
+7. The Selection by Kiera Cass
+8. Legend by Marie Lu
+9. Matched by Ally Condie
+10. Delirium by Lauren Oliver
+11. The Book Thief by Markus Zusak
+12. The Perks of Being a Wallflower by Stephen Chbosky
+13. Eleanor & Park by Rainbow Rowell
+14. The Outsiders by S.E. Hinton
+15. The Fault in Our Stars by John Green
+16. Looking for Alaska by John Green
+17. Paper Towns by John Green
+18. An Abundance of Katherines by John Green
+19. Thirteen Reasons Why by Jay Asher
+20. If I Stay by Gayle Forman
+21. Where She Went by Gayle Forman
+22. Before I Fall by Lauren Oliver
+23. We Were Liars by E. Lockhart
+24. The Raven Boys by Maggie Stiefvater
+25. The Scorpio Races by Maggie Stiefvater
+26. The Night Circus by Erin Morgenstern
+27. The Name of the Wind by Patrick Rothfuss
+28. The Wise Man's Fear by Patrick Rothfuss
+29. The Lies of Locke Lamora by Scott Lynch
+30. Mistborn by Brandon Sanderson
+31. The Way of Kings by Brandon Sanderson
+32. The Final Empire by Brandon Sanderson
+33. The Well of Ascension by Brandon Sanderson
+34. The Hero of Ages by Brandon Sanderson
+35. The Eye of the World by Robert Jordan
+36. The Great Hunt by Robert Jordan
+37. The Dragon Reborn by Robert Jordan
+38. The Shadow Rising by Robert Jordan
+39. The Fires of Heaven by Robert Jordan
+40. The Lord of the Rings by J.R.R. Tolkien
+41. The Hobbit by J.R.R. Tolkien
+42. The Silmarillion by J.R.R. Tolkien
+43. The Chronicles of Narnia by C.S. Lewis
+44. The Magicians by Lev Grossman
+45. The Name of the Wind by Patrick Rothfuss
+46. The Wise Man's Fear by Patrick Rothfuss
+47. The Lies of Locke Lamora by Scott Lynch
+48. Mistborn by Brandon Sanderson
+49. The Way of Kings by Brandon Sanderson
+50. The Final Empire by Brandon Sanderson

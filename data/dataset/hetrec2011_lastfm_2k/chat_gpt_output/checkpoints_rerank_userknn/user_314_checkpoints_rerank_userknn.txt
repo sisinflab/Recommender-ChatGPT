@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations are:
+
+1. Coldplay
+2. Radiohead
+3. Kings of Leon
+4. Death Cab for Cutie
+5. The Fray
+6. Green Day
+7. Florence + the Machine
+8. Regina Spektor
+9. The Cranberries
+10. Lady Gaga
+11. Mariah Carey
+12. Pink
+13. Lady Antebellum
+14. Ke$ha
+15. Avril Lavigne
+16. Alanis Morissette
+17. James Blunt
+18. 3 Doors Down
+19. Charlie Brown Jr.
+20. Guns N' Roses
+21. Legião Urbana
+22. P!nk
+23. Red Hot Chili Peppers
+24. Beyoncé
+25. Rihanna
+26. Lily Allen
+27. Lifehouse
+28. Jason Mraz
+29. John Mayer
+30. Justin Bieber
+31. Daughtry
+32. Evanescence
+33. Luan Santana
+34. 30 Seconds to Mars
+35. Paramore
+36. Miley Cyrus
+37. Sandy Leah
+38. Jorge & Mateus
+39. Flyleaf
+40. The Veronicas
+41. Eminem
+42. CAKE
+43. Detonautas Roque Clube
+44. Mallu Magalhães
+45. David Guetta
+46. Hey Monday
+47. Hilary Duff
+48. She & Him
+49. Kelly Clarkson
+50. Linkin Park

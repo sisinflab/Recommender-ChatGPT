@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. To Kill a Mockingbird by Harper Lee
+3. The Great Gatsby by F. Scott Fitzgerald
+4. The Bell Jar by Sylvia Plath
+5. The Picture of Dorian Gray by Oscar Wilde
+6. Brave New World by Aldous Huxley
+7. The Handmaid's Tale by Margaret Atwood
+8. The Road by Cormac McCarthy
+9. The Kite Runner by Khaled Hosseini
+10. The Book Thief by Markus Zusak
+11. The Hunger Games by Suzanne Collins
+12. The Fault in Our Stars by John Green
+13. The Perks of Being a Wallflower by Stephen Chbosky
+14. The Lovely Bones by Alice Sebold
+15. The Girl with the Dragon Tattoo by Stieg Larsson
+16. The Help by Kathryn Stockett
+17. The Secret Life of Bees by Sue Monk Kidd
+18. The Color Purple by Alice Walker
+19. The Joy Luck Club by Amy Tan
+20. The God of Small Things by Arundhati Roy
+21. The Poisonwood Bible by Barbara Kingsolver
+22. The Time Traveler's Wife by Audrey Niffenegger
+23. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+24. The Giver by Lois Lowry
+25. The Outsiders by S.E. Hinton
+26. The Lord of the Rings by J.R.R. Tolkien
+27. The Hobbit by J.R.R. Tolkien
+28. The Chronicles of Narnia by C.S. Lewis
+29. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+30. The Da Vinci Code by Dan Brown
+31. The Bourne Identity by Robert Ludlum
+32. The Silence of the Lambs by Thomas Harris
+33. The Shining by Stephen King
+34. The Stand by Stephen King
+35. The Talisman by Stephen King and Peter Straub
+36. The Dark Tower series by Stephen King
+37. The Name of the Wind by Patrick Rothfuss
+38. The Lies of Locke Lamora by Scott Lynch
+39. The Blade Itself by Joe Abercrombie
+40. The Way of Kings by Brandon Sanderson
+41. The Final Empire by Brandon Sanderson
+42. The Lies of Locke Lamora by Scott Lynch
+43. The Blade Itself by Joe Abercrombie
+44. The Way of Kings by Brandon Sanderson
+45. The Final Empire by Brandon Sanderson
+46. The Name of the Wind by Patrick Rothfuss
+47. The Lies of Locke Lamora by Scott Lynch
+48. The Blade Itself by Joe Abercrombie
+49. The Way of Kings by Brandon Sanderson
+50. The Wise Man's Fear by Patrick Rothfuss

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Fall Out Boy
+2. The Beatles
+3. Los Hermanos
+4. CPM 22
+5. Green Day
+6. Cobra Starship
+7. Raul Seixas
+8. Coldplay
+9. Detonautas Roque Clube
+10. Skank
+11. Scracho
+12. Panic! At the Disco
+13. Paramore
+14. Black Kids
+15. blink-182
+16. Forfun
+17. Franz Ferdinand
+18. Charlie Brown Jr.
+19. Ramones
+20. NX Zero
+21. Os Paralamas do Sucesso
+22. Carbona
+23. Kings of Leon
+24. 30 Seconds to Mars
+25. All Time Low
+26. Hey Monday
+27. Legião Urbana
+28. Rosa De Saron
+29. Bullet for My Valentine
+30. Queen
+31. System of a Down
+32. Raimundos
+33. Simple Plan
+34. Muse
+35. Nirvana
+36. Iron Maiden
+37. Led Zeppelin
+38. Metallica
+39. Michael Jackson
+40. Pearl Jam
+41. a-ha
+42. Björk
+43. Daft Punk
+44. Nine Inch Nails
+45. Linkin Park
+46. Avenged Sevenfold
+47. My Chemical Romance
+48. The Cure
+49. Arctic Monkeys
+50. Placebo

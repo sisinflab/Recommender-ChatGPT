@@ -1,0 +1,49 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. The Stand by Stephen King
+3. Fahrenheit 451 by Ray Bradbury
+4. Animal Farm by George Orwell
+5. Nineteen Eighty-Four by George Orwell
+6. Crime and Punishment by Fyodor Dostoevsky
+7. To Kill a Mockingbird by Harper Lee
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Old Man and the Sea by Ernest Hemingway
+10. The Little Prince by Antoine de Saint-Exupéry
+11. Life of Pi by Yann Martel
+12. Water for Elephants by Sara Gruen
+13. The Perks of Being a Wallflower by Stephen Chbosky
+14. Harriet the Spy by Louise Fitzhugh
+15. The Clan of the Cave Bear by Jean M. Auel
+16. Tess of the d'Urbervilles by Thomas Hardy
+17. The Innocent Man: Murder and Injustice in a Small Town by John Grisham
+18. The World According to Garp by John Irving
+19. The Client by John Grisham
+20. The Zombie Survival Guide by Max Brooks
+21. Haunted by Chuck Palahniuk
+22. Inferno by Dante Alighieri
+23. The Tommyknockers by Stephen King
+24. Bag of Bones by Stephen King
+25. Hiroshima by John Hersey
+26. The Hitchhiker's Guide to Lean by Andy Carlino, Jamie Flinchbaugh, Dennis Pawley
+27. The Sirens of Titan by Kurt Vonnegut
+28. The Sound and the Fury by William Faulkner
+29. A Wrinkle in Time by Madeleine L'Engle
+30. Slaughterhouse-Five by Kurt Vonnegut
+31. The Hobbit by J.R.R. Tolkien
+32. Bless Me, Ultima by Rudolfo Anaya
+33. The Handmaid's Tale by Margaret Atwood
+34. God Bless You, Mr. Rosewater by Kurt Vonnegut
+35. Rurouni Kenshin by Nobuhiro Watsuki
+36. The Vampire Lestat by Anne Rice
+37. The Watchmen by Alan Moore and Dave Gibbons
+38. The Firm by John Grisham
+39. Impulse economy by Gary Vaynerchuk
+40. Brisingr by Christopher Paolini
+41. Everything Bad Is Good for You by Steven Johnson
+42. Inheritance Cycle by Christopher Paolini
+43. V by Alan Moore and David Lloyd
+44. A Light in the Attic by Shel Silverstein
+45. Tamar by Mal Peet
+46. 'Salem's Lot by Stephen King
+47. Tricks by

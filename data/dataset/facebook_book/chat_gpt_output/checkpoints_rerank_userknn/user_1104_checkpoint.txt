@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. Harry Potter series by J.K. Rowling
+3. Nineteen Eighty-Four by George Orwell
+4. The Picture of Dorian Gray by Oscar Wilde
+5. Brave New World by Aldous Huxley
+6. Slaughterhouse-Five by Kurt Vonnegut
+7. The Adventures of Tom Sawyer by Mark Twain
+8. Little Women by Louisa May Alcott
+9. Roots: The Saga of an American Family by Alex Haley
+10. His Dark Materials series by Philip Pullman
+11. A Farewell to Arms by Ernest Hemingway
+12. Misery by Stephen King
+13. The Stranger by Albert Camus
+14. Walden by Henry David Thoreau
+15. The Notebook by Nicholas Sparks
+16. One Hundred Years of Solitude by Gabriel Garcia Marquez
+17. Into Thin Air by Jon Krakauer
+18. Fullmetal Alchemist by Hiromu Arakawa
+19. The Graveyard Book by Neil Gaiman
+20. The Vampire Lestat by Anne Rice
+21. Paradise Lost by John Milton
+22. Cosmos by Carl Sagan
+23. The Prince by Niccolo Machiavelli
+24. Iliad by Homer
+25. The Phantom of the Opera by Gaston Leroux
+26. Fahrenheit 451 by Ray Bradbury
+27. Great Expectations by Charles Dickens
+28. Dreams from My Father by Barack Obama
+29. Everything's Eventual by Stephen King
+30. The Giver by Lois Lowry
+31. A Lesson Before Dying by Ernest J. Gaines
+32. The Wonderful Wizard of Oz by L. Frank Baum
+33. Peter and Wendy by J.M. Barrie
+34. Extremely Loud and Incredibly Close by Jonathan Safran Foer
+35. Inheritance Cycle by Christopher Paolini
+36. The Smurfs by Peyo
+37. The Body of Christopher Creed by Carol Plum-Ucci
+38. Damage by Josephine Hart
+39. Hate List by Jennifer Brown
+40. Sharp Objects by Gillian Flynn
+41. Choke by Chuck Palahniuk
+42. A Million Little Pieces by James Frey
+43. Sophie's World by Jostein Gaarder
+44. Pictures of Hollis Woods by Patricia Reilly Giff
+45. Thirteen Reasons Why by Jay Asher
+46. Eat, Pray, Love by Elizabeth Gilbert
+47. A Wolf at the Table by Augusten Burroughs
+48. Smashed: Story of a Drunken Girlhood by Koren Zailckas
+49. Possible Side Effects by Augusten Burroughs
+50. Insomnia by Stephen King

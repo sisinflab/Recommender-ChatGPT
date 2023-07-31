@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Blake Shelton
+2. Jason Aldean
+3. Carrie Underwood
+4. Luke Bryan
+5. Keith Urban
+6. Kenny Chesney
+7. Eric Church
+8. Tim McGraw
+9. Miranda Lambert
+10. Florida Georgia Line
+11. Lady Antebellum
+12. Zac Brown Band
+13. Rascal Flatts
+14. Toby Keith
+15. Brad Paisley
+16. Taylor Swift
+17. Miley Cyrus
+18. AC/DC
+19. George Strait
+20. Queen
+21. The Who
+22. Garth Brooks
+23. Scorpions
+24. Glee Cast
+25. Lynyrd Skynyrd
+26. System of a Down
+27. Dolly Parton
+28. Guns N' Roses
+29. Elvis Presley
+30. Kansas
+31. Shania Twain
+32. Rainbow
+33. Sheryl Crow
+34. The Doors
+35. John Lennon
+36. Bon Jovi
+37. Aerosmith
+38. Metallica
+39. Nirvana
+40. Pearl Jam
+41. Red Hot Chili Peppers
+42. Foo Fighters
+43. Green Day
+44. Blink-182
+45. The Beatles
+46. Led Zeppelin
+47. Pink Floyd
+48. The Rolling Stones
+49. U2
+50. Coldplay

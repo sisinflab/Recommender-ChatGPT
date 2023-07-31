@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Shining by Stephen King
+2. The Picture of Dorian Gray by Oscar Wilde
+3. The Haunting of Hill House by Shirley Jackson
+4. The Turn of the Screw by Henry James
+5. The Exorcist by William Peter Blatty
+6. The Silence of the Lambs by Thomas Harris
+7. The Girl with the Dragon Tattoo by Stieg Larsson
+8. The Catcher in the Rye by J.D. Salinger
+9. The Great Gatsby by F. Scott Fitzgerald
+10. To Kill a Mockingbird by Harper Lee
+11. 1984 by George Orwell
+12. Animal Farm by George Orwell
+13. Lord of the Flies by William Golding
+14. Brave New World by Aldous Huxley
+15. Fahrenheit 451 by Ray Bradbury
+16. The Martian by Andy Weir
+17. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+18. The Hobbit by J.R.R. Tolkien
+19. The Lord of the Rings by J.R.R. Tolkien
+20. The Hunger Games by Suzanne Collins
+21. Catching Fire by Suzanne Collins
+22. Mockingjay by Suzanne Collins
+23. The Maze Runner by James Dashner
+24. The Scorch Trials by James Dashner
+25. The Death Cure by James Dashner
+26. The Giver by Lois Lowry
+27. Gathering Blue by Lois Lowry
+28. Messenger by Lois Lowry
+29. Son by Lois Lowry
+30. The Da Vinci Code by Dan Brown
+31. Angels and Demons by Dan Brown
+32. Inferno by Dan Brown
+33. The Bourne Identity by Robert Ludlum
+34. The Bourne Supremacy by Robert Ludlum
+35. The Bourne Ultimatum by Robert Ludlum
+36. The Girl on the Train by Paula Hawkins
+37. Gone Girl by Gillian Flynn
+38. The Lovely Bones by Alice Sebold
+39. The Help by Kathryn Stockett
+40. The Secret Life of Bees by Sue Monk Kidd
+41. The Kite Runner by Khaled Hosseini
+42. A Thousand Splendid Suns by Khaled Hosseini
+43. The Alchemist by Paulo Coelho
+44. The Name of the Wind by Patrick Rothfuss
+45. The Wise Man's Fear by Patrick Rothfuss
+46. The Way of Kings by Brandon Sanderson
+47. Mistborn: The Final Empire by Brandon Sanderson
+48. The Lies of Locke Lamora by Scott Lynch
+49. The Blade Itself by Joe Abercrombie
+50. The Final Empire by Michael J. Sullivan

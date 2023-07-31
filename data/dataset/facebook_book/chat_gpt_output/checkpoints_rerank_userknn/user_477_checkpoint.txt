@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Catch-22 by Joseph Heller
+3. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+4. The Catcher in the Rye by J.D. Salinger
+5. The Brothers Karamazov by Fyodor Dostoyevsky
+6. The Idiot by Fyodor Dostoyevsky
+7. Dracula by Bram Stoker
+8. The Scarlet Letter by Nathaniel Hawthorne
+9. A Clockwork Orange by Anthony Burgess
+10. The Picture of Dorian Gray by Oscar Wilde
+11. Brave New World by Aldous Huxley
+12. Lolita by Vladimir Nabokov
+13. The Trial by Franz Kafka
+14. Invisible Man by Ralph Ellison
+15. Paradise Lost by John Milton
+16. The Count of Monte Cristo by Alexandre Dumas
+17. The Prince by Niccolo Machiavelli
+18. The Sound and the Fury by William Faulkner
+19. Wuthering Heights by Emily Bronte
+20. Jane Eyre by Charlotte Bronte
+21. Pride and Prejudice by Jane Austen
+22. Sense and Sensibility by Jane Austen
+23. Northanger Abbey by Jane Austen
+24. Mansfield Park by Jane Austen
+25. Persuasion by Jane Austen
+26. A Christmas Carol by Charles Dickens
+27. The Secret Garden by Frances Hodgson Burnett
+28. The Time Machine by H.G. Wells
+29. The Horse and His Boy by C.S. Lewis
+30. Peter and Wendy by J.M. Barrie
+31. A Midsummer Night's Dream by William Shakespeare
+32. Romeo and Juliet by William Shakespeare
+33. The Bourne Identity by Robert Ludlum
+34. Memoirs of a Geisha by Arthur Golden
+35. The Book Thief by Markus Zusak
+36. Pyramids by Terry Pratchett
+37. The Phantom Tollbooth by Norton Juster
+38. The Messenger by Markus Zusak
+39. Thus Spoke Zarathustra by Friedrich Nietzsche
+40. Ferdydurke by Witold Gombrowicz
+41. The General's Daughter by Nelson DeMille
+42. Just Kids by Patti Smith
+43. Nine Princes in Amber by Roger Zelazny
+44. Seeds of Yesterday by V.C. Andrews
+45. Tunnels by Roderick Gordon and Brian Williams
+46. Fahrenheit 451 by Ray Bradbury
+47. Pir-e-Kamil by Umera Ahmed
+48. Infinite Jest by David Foster Wallace
+49. A Passage to India by E.M. Forster
+50. The Sicilian by Mario Puzo

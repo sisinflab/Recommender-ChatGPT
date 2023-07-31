@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The God of Small Things by Arundhati Roy
+2. The Alchemist by Paulo Coelho
+3. Love in the Time of Cholera by Gabriel García Márquez
+4. The Joy Luck Club by Amy Tan
+5. The Catcher in the Rye by J.D. Salinger
+6. The Picture of Dorian Gray by Oscar Wilde
+7. The Kite Runner by Khaled Hosseini
+8. The Great Gatsby by F. Scott Fitzgerald
+9. To Kill a Mockingbird by Harper Lee
+10. The Bell Jar by Sylvia Plath
+11. The Color Purple by Alice Walker
+12. The Handmaid's Tale by Margaret Atwood
+13. The Road by Cormac McCarthy
+14. The Stranger by Albert Camus
+15. The Sun Also Rises by Ernest Hemingway
+16. The Old Man and the Sea by Ernest Hemingway
+17. The Grapes of Wrath by John Steinbeck
+18. The Sound and the Fury by William Faulkner
+19. The Brothers Karamazov by Fyodor Dostoevsky
+20. Crime and Punishment by Fyodor Dostoevsky
+21. Anna Karenina by Leo Tolstoy
+22. War and Peace by Leo Tolstoy
+23. The Idiot by Fyodor Dostoevsky
+24. The Trial by Franz Kafka
+25. One Flew Over the Cuckoo's Nest by Ken Kesey
+26. 1984 by George Orwell
+27. Animal Farm by George Orwell
+28. The Lord of the Rings by J.R.R. Tolkien
+29. The Hobbit by J.R.R. Tolkien
+30. The Chronicles of Narnia by C.S. Lewis
+31. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+32. The Martian by Andy Weir
+33. The Hunger Games by Suzanne Collins
+34. Catching Fire by Suzanne Collins
+35. Mockingjay by Suzanne Collins
+36. The Girl with the Dragon Tattoo by Stieg Larsson
+37. The Girl Who Played with Fire by Stieg Larsson
+38. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+39. The Da Vinci Code by Dan Brown
+40. Angels and Demons by Dan Brown
+41. Inferno by Dan Brown
+42. The Help by Kathryn Stockett
+43. The Secret Life of Bees by Sue Monk Kidd
+44. The Lovely Bones by Alice Sebold
+45. Life of Pi by Yann Martel
+46. The Time Traveler's Wife by Audrey Niffenegger
+47. The Book Thief by Markus Zusak
+48. The Fault in Our Stars by John Green
+49. Looking for Alaska by John Green

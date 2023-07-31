@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Catcher in the Rye by J.D. Salinger
+2. To Kill a Mockingbird by Harper Lee
+3. The Catch-22 by Joseph Heller
+4. One Hundred Years of Solitude by Gabriel Garcia Marquez
+5. The Stranger by Albert Camus
+6. The Road by Cormac McCarthy
+7. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Sun Also Rises by Ernest Hemingway
+10. The Grapes of Wrath by John Steinbeck
+11. The Old Man and the Sea by Ernest Hemingway
+12. The Sound and the Fury by William Faulkner
+13. The Brothers Karamazov by Fyodor Dostoevsky
+14. Crime and Punishment by Fyodor Dostoevsky
+15. The Trial by Franz Kafka
+16. The Metamorphosis by Franz Kafka
+17. The Bell Jar by Sylvia Plath
+18. Brave New World by Aldous Huxley
+19. Fahrenheit 451 by Ray Bradbury
+20. Animal Farm by George Orwell
+21. Lord of the Flies by William Golding
+22. Heart of Darkness by Joseph Conrad
+23. The Great Gatsby by F. Scott Fitzgerald
+24. The Picture of Dorian Gray by Oscar Wilde
+25. The Stranger by Albert Camus
+26. The Road by Cormac McCarthy
+27. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+28. The Sun Also Rises by Ernest Hemingway
+29. The Grapes of Wrath by John Steinbeck
+30. The Old Man and the Sea by Ernest Hemingway
+31. The Sound and the Fury by William Faulkner
+32. The Brothers Karamazov by Fyodor Dostoevsky
+33. Crime and Punishment by Fyodor Dostoevsky
+34. The Trial by Franz Kafka
+35. The Metamorphosis by Franz Kafka
+36. The Bell Jar by Sylvia Plath
+37. Brave New World by Aldous Huxley
+38. Fahrenheit 451 by Ray Bradbury
+39. Animal Farm by George Orwell
+40. Lord of the Flies by William Golding
+41. Heart of Darkness by Joseph Conrad
+42. The Great Gatsby by F. Scott Fitzgerald
+43. The Picture of Dorian Gray by Oscar Wilde
+44. The Stranger by Albert Camus
+45. The Road by Cormac McCarthy
+46. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+47. The Sun Also Rises by Ernest Hemingway
+48. The Grapes of Wrath by John Steinbeck
+49. The Old Man and the Sea by Ernest Hemingway
+50. The Wise Man's Fear by Patrick Rothfuss

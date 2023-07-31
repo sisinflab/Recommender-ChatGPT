@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. Lolita by Vladimir Nabokov
+3. The Great Gatsby by F. Scott Fitzgerald
+4. To Kill a Mockingbird by Harper Lee
+5. The Lord of the Rings by J.R.R. Tolkien
+6. The Name of the Rose by Umberto Eco
+7. Brave New World by Aldous Huxley
+8. The Chronicles of Narnia by C.S. Lewis
+9. Alice's Adventures in Wonderland by Lewis Carroll
+10. The Little Prince by Antoine de Saint-Exupéry
+11. Lord of the Flies by William Golding
+12. The Maze Runner by James Dashner
+13. The Giver by Lois Lowry
+14. The Outsiders by S.E. Hinton
+15. Anne of Green Gables by L.M. Montgomery
+16. Ender's Game by Orson Scott Card
+17. The Messenger by Markus Zusak
+18. Snow Flower and the Secret Fan by Lisa See
+19. The Vampire Lestat by Anne Rice
+20. The Da Vinci Code by Dan Brown
+21. Angels & Demons by Dan Brown
+22. Fahrenheit 451 by Ray Bradbury
+23. The God Delusion by Richard Dawkins
+24. Veronika Decides to Die by Paulo Coelho
+25. The Alchemist by Paulo Coelho
+26. The Watchmen by Alan Moore
+27. Naked Lunch by William S. Burroughs
+28. Haunted by Chuck Palahniuk
+29. Junkie by William S. Burroughs
+30. Choke by Chuck Palahniuk
+31. The Rum Diary by Hunter S. Thompson
+32. On Writing by Stephen King
+33. The Long Hard Road Out of Hell by Marilyn Manson
+34. Catching Fire by Suzanne Collins
+35. Impulse Economy by Gary Vaynerchuk
+36. The Most Dangerous Game by Richard Connell
+37. The Stranger by Albert Camus
+38. That Was Then, This Is Now by S.E. Hinton
+39. The Hamlet by William Faulkner
+40. The Devil Wears Prada by Lauren Weisberger
+41. Speak by Laurie Halse Anderson
+42. Crank by Ellen Hopkins
+43. The Last Storytellers by Richard Hamilton
+44. Vampire Academy by Richelle Mead
+45. Everworld by Katherine Applegate
+46. Pretties by Scott Westerfeld
+47. Uglies by Scott Westerfeld
+48. Glass by Ellen Hopkins
+49. Cirque du Freak by Darren Shan
+50. John Dies at the End by David Wong

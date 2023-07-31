@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Just Listen by Sarah Dessen
+2. Lock and Key by Sarah Dessen
+3. Along for the Ride by Sarah Dessen
+4. Dreamland by Sarah Dessen
+5. Someone Like You by Sarah Dessen
+6. That Summer by Sarah Dessen
+7. The Moon and More by Sarah Dessen
+8. Saint Anything by Sarah Dessen
+9. The Rest of the Story by Sarah Dessen
+10. The Truth About Alice by Jennifer Mathieu
+11. The Fault in Our Stars by John Green
+12. Looking for Alaska by John Green
+13. Paper Towns by John Green
+14. An Abundance of Katherines by John Green
+15. Turtles All the Way Down by John Green
+16. The Maze Runner by James Dashner
+17. The Hunger Games by Suzanne Collins
+18. Divergent by Veronica Roth
+19. The Selection by Kiera Cass
+20. The Giver by Lois Lowry
+21. The Outsiders by S.E. Hinton
+22. The Perks of Being a Wallflower by Stephen Chbosky
+23. The Book Thief by Markus Zusak
+24. The Help by Kathryn Stockett
+25. The Secret Life of Bees by Sue Monk Kidd
+26. The Lovely Bones by Alice Sebold
+27. The Girl on the Train by Paula Hawkins
+28. Gone Girl by Gillian Flynn
+29. The Da Vinci Code by Dan Brown
+30. Angels and Demons by Dan Brown
+31. Inferno by Dan Brown
+32. The Lost Symbol by Dan Brown
+33. The Shack by William P. Young
+34. The Alchemist by Paulo Coelho
+35. The Nightingale by Kristin Hannah
+36. The Great Alone by Kristin Hannah
+37. The Silent Patient by Alex Michaelides
+38. The Tattooist of Auschwitz by Heather Morris
+39. The Night Circus by Erin Morgenstern
+40. The Name of the Wind by Patrick Rothfuss
+41. The Wise Man's Fear by Patrick Rothfuss
+42. The Hunger Games Trilogy Box Set by Suzanne Collins
+43. The Divergent Series Box Set by Veronica Roth
+44. The Maze Runner Series Box Set by James Dashner
+45. The Selection Series Box Set by Kiera Cass
+46. The Twilight Saga Collection by Stephenie Meyer
+47. The Chronicles of Narnia Box Set by C.S. Lewis
+48. The Harry Potter Box Set by J.K. Rowling
+49. The Lord of the Rings Box Set by J.R.R. Tolkien
+50. The Hobbit and The Lord of the Rings Box Set by J.R.R. Tolkien

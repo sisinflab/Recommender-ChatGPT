@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Nine Inch Nails
+2. Depeche Mode
+3. The Killers
+4. The Cure
+5. Garbage
+6. Placebo (similar to user's favorite)
+7. IAMX (similar to user's favorite)
+8. Apoptygma Berzerk (similar to user's favorite)
+9. Muse (similar to user's favorite)
+10. Sneaker Pimps (similar to user's favorite)
+11. Radiohead (similar to user's favorite)
+12. AFI (similar to user's favorite)
+13. Björk (similar to user's favorite)
+14. Snow Patrol (similar to user's favorite)
+15. Lykke Li (similar to user's favorite)
+16. Pendulum (similar to user's favorite)
+17. HIM (similar to user's favorite)
+18. The Birthday Massacre (similar to user's favorite)
+19. Parov Stelar (similar to user's favorite)
+20. Porcelain and the Tramps (similar to user's favorite)
+21. Bloc Party (similar to user's favorite)
+22. Sia (similar to user's favorite)
+23. Trentemøller (similar to user's favorite)
+24. Robyn (similar to user's favorite)
+25. Blutengel (similar to user's favorite)
+26. The Smashing Pumpkins (similar to user's favorite)
+27. Faithless (similar to user's favorite)
+28. Ayria (similar to user's favorite)
+29. L'Âme Immortelle (similar to user's favorite)
+30. Apparat (similar to user's favorite)
+31. Stereophonics (similar to user's favorite)
+32. Hadouken! (similar to user's favorite)
+33. Billy Talent (similar to user's favorite)
+34. Editors
+35. Interpol
+36. White Lies
+37. The National
+38. Arcade Fire
+39. Foals
+40. The Strokes
+41. Yeah Yeah Yeahs
+42. The Black Keys
+43. Vampire Weekend
+44. Phoenix
+45. MGMT
+46. LCD Soundsystem
+47. Grimes
+48. CHVRCHES
+49. Tame Impala
+50. Alt-J

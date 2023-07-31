@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. My Chemical Romance
+2. 30 Seconds to Mars
+3. Metallica
+4. Slipknot
+5. Bullet for My Valentine
+6. Breaking Benjamin
+7. Alter Bridge
+8. Megadeth
+9. In Flames
+10. Lacuna Coil
+11. Papa Roach
+12. Theory of a Deadman
+13. Angels & Airwaves
+14. The Used
+15. Mindless Self Indulgence
+16. Nickelback
+17. Daughtry
+18. Good Charlotte
+19. Billy Talent
+20. Escape The Fate
+21. The 69 Eyes
+22. Creed
+23. Goo Goo Dolls
+24. Sarah Brightman
+25. Mando Diao
+26. Paramore
+27. Avenged Sevenfold
+28. Green Day
+29. The Cure
+30. Nirvana
+31. Iron Maiden
+32. Led Zeppelin
+33. Pearl Jam
+34. Michael Jackson
+35. U2
+36. Muse
+37. Pink Floyd
+38. Radiohead
+39. The Beatles
+40. Duran Duran
+41. Coldplay
+42. Arctic Monkeys
+43. Placebo
+44. The Killers
+45. Depeche Mode
+46. Nine Inch Nails
+47. System of a Down
+48. Linkin Park
+49. Black Eyed Peas
+50. Lady Gaga

@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Notebook by Nicholas Sparks
+2. The Fault in Our Stars by John Green
+3. The Great Gatsby by F. Scott Fitzgerald
+4. The Catcher in the Rye by J.D. Salinger
+5. The Hunger Games by Suzanne Collins
+6. The Da Vinci Code by Dan Brown
+7. The Girl with the Dragon Tattoo by Stieg Larsson
+8. The Help by Kathryn Stockett
+9. The Kite Runner by Khaled Hosseini
+10. The Lovely Bones by Alice Sebold
+11. The Maze Runner by James Dashner
+12. The Outsiders by S.E. Hinton
+13. The Perks of Being a Wallflower by Stephen Chbosky
+14. The Picture of Dorian Gray by Oscar Wilde
+15. The Secret Life of Bees by Sue Monk Kidd
+16. The Shack by William P. Young
+17. The Time Traveler's Wife by Audrey Niffenegger
+18. The Twilight Saga by Stephenie Meyer
+19. The Alchemist by Paulo Coelho
+20. The Book Thief by Markus Zusak
+21. The Chronicles of Narnia by C.S. Lewis
+22. The Color Purple by Alice Walker
+23. The Count of Monte Cristo by Alexandre Dumas
+24. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+25. The Diary of a Young Girl by Anne Frank
+26. The Giver by Lois Lowry
+27. The God of Small Things by Arundhati Roy
+28. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+29. The House on Mango Street by Sandra Cisneros
+30. The Joy Luck Club by Amy Tan
+31. The Lion, the Witch and the Wardrobe by C.S. Lewis
+32. The Lord of the Rings by J.R.R. Tolkien
+33. The Lovely Bones by Alice Sebold
+34. The Martian by Andy Weir
+35. The Name of the Wind by Patrick Rothfuss
+36. The Nightingale by Kristin Hannah
+37. The Old Man and the Sea by Ernest Hemingway
+38. The Picture of Dorian Gray by Oscar Wilde
+39. The Pillars of the Earth by Ken Follett
+40. The Red Tent by Anita Diamant
+41. The Road by Cormac McCarthy
+42. The Secret Garden by Frances Hodgson Burnett
+43. The Shadow of the Wind by Carlos Ruiz Zafón
+44. The Stand by Stephen King
+45. The Sun Also Rises by Ernest Hemingway
+46. The Time Machine by H.G. Wells
+47. The Wind in the Willows by Kenneth Grahame
+48. The Wonderful Wizard of Oz by L. Frank Baum
+49. The World According to G

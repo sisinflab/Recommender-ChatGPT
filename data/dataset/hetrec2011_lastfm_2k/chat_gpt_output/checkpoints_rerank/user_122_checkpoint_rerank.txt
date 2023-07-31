@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for user 122 would be:
+
+1. The Velvet Underground
+2. David Bowie
+3. The Rolling Stones
+4. Ludwig van Beethoven
+5. Frank Zappa
+6. Elvis Presley
+7. The Stooges
+8. Miles Davis
+9. The Beatles
+10. Pink Floyd
+11. Led Zeppelin
+12. Nirvana
+13. Metallica
+14. Michael Jackson
+15. Pearl Jam
+16. Radiohead
+17. Muse
+18. U2
+19. Iron Maiden
+20. System of a Down
+21. Nine Inch Nails
+22. Linkin Park
+23. The Killers
+24. My Chemical Romance
+25. Green Day
+26. The Cure
+27. Depeche Mode
+28. Madonna
+29. Lady Gaga
+30. Beyoncé
+31. Rihanna
+32. Shakira
+33. Christina Aguilera
+34. Katy Perry
+35. Taylor Swift
+36. Avril Lavigne
+37. Miley Cyrus
+38. Ke$ha
+39. Duran Duran
+40. Coldplay
+41. Blur
+42. Arctic Monkeys
+43. Placebo
+44. Amy Winehouse
+45. Björk
+46. Daft Punk
+47. Kelly Clarkson
+48. All Time Low
+49. P!nk
+50. Avenged Sevenfold

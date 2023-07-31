@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. Animal Farm by George Orwell
+4. The Hobbit by J.R.R. Tolkien
+5. The Fellowship of the Ring by J.R.R. Tolkien
+6. The Two Towers by J.R.R. Tolkien
+7. The Return of the King by J.R.R. Tolkien
+8. The Chronicles of Narnia by C.S. Lewis
+9. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+10. The Da Vinci Code by Dan Brown
+11. Angels and Demons by Dan Brown
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Girl Who Played with Fire by Stieg Larsson
+14. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+15. The Hunger Games by Suzanne Collins
+16. Catching Fire by Suzanne Collins
+17. Mockingjay by Suzanne Collins
+18. The Maze Runner by James Dashner
+19. The Scorch Trials by James Dashner
+20. The Death Cure by James Dashner
+21. The Giver by Lois Lowry
+22. Gathering Blue by Lois Lowry
+23. Messenger by Lois Lowry
+24. Son by Lois Lowry
+25. The Fault in Our Stars by John Green
+26. Looking for Alaska by John Green
+27. Paper Towns by John Green
+28. An Abundance of Katherines by John Green
+29. The Alchemist by Paulo Coelho
+30. The Name of the Wind by Patrick Rothfuss
+31. The Wise Man's Fear by Patrick Rothfuss
+32. The Lies of Locke Lamora by Scott Lynch
+33. Red Rising by Pierce Brown
+34. Golden Son by Pierce Brown
+35. Morning Star by Pierce Brown
+36. The Martian by Andy Weir
+37. Ready Player One by Ernest Cline
+38. Ender's Game by Orson Scott Card
+39. Speaker for the Dead by Orson Scott Card
+40. Xenocide by Orson Scott Card
+41. Children of the Mind by Orson Scott Card
+42. Dune by Frank Herbert
+43. The Name of the Rose by Umberto Eco
+44. The Shadow of the Wind by Carlos Ruiz Zafón
+45. The Pillars of the Earth by Ken Follett
+46. World Without End by Ken Follett
+47. A Game of Thrones by George R.R. Martin
+48. A Clash of Kings by George R.R. Martin
+49. A Storm of Swords by George R.R. Martin
+50. A Feast for Crows by George R.R. Martin

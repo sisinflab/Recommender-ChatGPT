@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lost Symbol by Dan Brown
+2. Angels & Demons by Dan Brown
+3. The Da Vinci Code by Dan Brown
+4. The Bourne Identity by Robert Ludlum
+5. The Bourne Supremacy by Robert Ludlum
+6. The Bourne Ultimatum by Robert Ludlum
+7. Jurassic Park by Michael Crichton
+8. The Hobbit by J.R.R. Tolkien
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Kite Runner by Khaled Hosseini
+11. Harry Potter and the Philosopher's Stone by J.K. Rowling
+12. Harry Potter and the Chamber of Secrets by J.K. Rowling
+13. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+14. Harry Potter and the Goblet of Fire by J.K. Rowling
+15. Harry Potter and the Order of Phoenix by J.K. Rowling
+16. Harry Potter and the Half-Blood Prince by J.K. Rowling
+17. Harry Potter and the Deathly Hallows by J.K. Rowling
+18. The Catcher in the Rye by J.D. Salinger
+19. Wuthering Heights by Emily Bronte
+20. The Picture of Dorian Gray by Oscar Wilde
+21. Mystic River by Dennis Lehane
+22. Macbeth by William Shakespeare
+23. The Alchemist by Paulo Coelho
+24. The Fountainhead by Ayn Rand
+25. The True Believer by Eric Hoffer
+26. Love Story by Erich Segal
+27. The Choice by Nicholas Sparks
+28. A Bend in the Road by Nicholas Sparks
+29. For One More Day by Mitch Albom
+30. Have a Little Faith by Mitch Albom
+31. The Portable Atheist by Christopher Hitchens
+32. God Is Not Great by Christopher Hitchens
+33. The Moral Landscape by Sam Harris
+34. The Universe in a Nutshell by Stephen Hawking
+35. Illusions by Richard Bach
+36. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+37. The Hardy Boys by Franklin W. Dixon
+38. Nancy Drew by Carolyn Keene
+39. The Thief Lord by Cornelia Funke
+40. One Night @ the Call Center by Chetan Bhagat
+41. The 3 Mistakes of My Life by Chetan Bhagat
+42. False Memory by Dean Koontz
+43. Unwind by Neal Shusterman
+44. Hannibal by Thomas Harris
+45. Digital Fortress by Dan Brown
+46. Eragon by Christopher Paolini
+47. Eleven Minutes by Paulo Coelho
+48. The White Tiger by Aravind Adiga
+49. Cecilia by Linda Ferri
+50. Goosebumps by R.L

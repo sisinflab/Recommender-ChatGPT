@@ -1,0 +1,41 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Silmarillion by J.R.R. Tolkien
+2. The Fellowship of the Ring by J.R.R. Tolkien
+3. The Two Towers by J.R.R. Tolkien
+4. The Return of the King by J.R.R. Tolkien
+5. The Children of Hurin by J.R.R. Tolkien
+6. The Simarillion by J.R.R. Tolkien
+7. The Unfinished Tales by J.R.R. Tolkien
+8. The History of Middle-earth by J.R.R. Tolkien
+9. The Letters of J.R.R. Tolkien by J.R.R. Tolkien
+10. The Art of The Hobbit by J.R.R. Tolkien
+11. The Art of The Lord of the Rings by J.R.R. Tolkien
+12. The Art of The Silmarillion by J.R.R. Tolkien
+13. The Art of The Children of Hurin by J.R.R. Tolkien
+14. The Art of The Unfinished Tales by J.R.R. Tolkien
+15. The Art of The History of Middle-earth by J.R.R. Tolkien
+16. The Art of The Letters of J.R.R. Tolkien by J.R.R. Tolkien
+17. The Art of The Hobbit and The Lord of the Rings by J.R.R. Tolkien
+18. The Art of The Silmarillion and The Children of Hurin by J.R.R. Tolkien
+19. The Art of The Unfinished Tales and The History of Middle-earth by J.R.R. Tolkien
+20. The Art of The Letters of J.R.R. Tolkien and The Hobbit and The Lord of the Rings by J.R.R. Tolkien
+21. The Female Eunuch by Germaine Greer
+22. White Beech: The Rainforest Years by Germaine Greer
+23. Shakespeare: The World as Stage by Bill Bryson
+24. The Bible: A Biography by Karen Armstrong
+25. The Inheritance Trilogy by N.K. Jemisin
+26. The Inheritance Cycle by Christopher Paolini
+27. The Inheritance of Loss by Kiran Desai
+28. The Inheritance of Rome by Chris Wickham
+29. The Inheritance of Shame by Peter Gajdics
+30. The Inheritance of War by Margaret MacMillan
+31. The Inheritance of Lovers by Judith Michael
+32. The Inheritance of Exile by Susan Muaddi Darraj
+33. The Inheritance of Loss by Kiran Desai
+34. The Inheritance of Rome by Chris Wickham
+35. The Inheritance of Shame by Peter Gajdics
+36. The Inheritance of War by Margaret MacMillan
+37. The Inheritance of Lovers by Judith Michael
+38. The Inheritance of Exile by Susan Muaddi Darraj
+39. The Inheritance of Loss

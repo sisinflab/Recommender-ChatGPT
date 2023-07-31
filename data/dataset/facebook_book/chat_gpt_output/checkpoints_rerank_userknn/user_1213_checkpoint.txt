@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Giver by Lois Lowry
+3. The Secret Garden by Frances Hodgson Burnett
+4. The Bell Jar by Sylvia Plath
+5. The Joy Luck Club by Amy Tan
+6. Little Women by Louisa May Alcott
+7. The Hunchback of Notre-Dame by Victor Hugo
+8. The Catcher in the Rye by J.D. Salinger
+9. The Lion, the Witch and the Wardrobe by C.S. Lewis
+10. The Outsiders by S.E. Hinton
+11. The Hunger Games by Suzanne Collins
+12. Memoirs of a Geisha by Arthur Golden
+13. Les Misérables by Victor Hugo
+14. Wuthering Heights by Emily Bronte
+15. Pride and Prejudice by Jane Austen
+16. Dracula by Bram Stoker
+17. The Scarlet Pimpernel by Baroness Orczy
+18. Inferno by Dante Alighieri
+19. Things Fall Apart by Chinua Achebe
+20. The Lord of the Rings by J.R.R. Tolkien
+21. The Lovely Bones by Alice Sebold
+22. A Great and Terrible Beauty by Libba Bray
+23. The Messenger by Markus Zusak
+24. Speak by Laurie Halse Anderson
+25. The Anarchist Cookbook by William Powell
+26. The Grapes of Wrath by John Steinbeck
+27. Evermore by Alyson Noel
+28. The Secret by Rhonda Byrne
+29. The Dirt by Mötley Crüe
+30. The Swiss Family Robinson by Johann David Wyss
+31. Into Thin Air by Jon Krakauer
+32. Burned by Ellen Hopkins
+33. The Screwtape Letters by C.S. Lewis
+34. Around the World in Eighty Days by Jules Verne
+35. Red Inferno: 1945 by Robert Conroy
+36. Sun Bin's Art of War by Sun Bin
+37. Macbeth by William Shakespeare
+38. Anthem by Ayn Rand
+39. Harry Potter by J.K. Rowling
+40. So You Want to Be a Wizard by Diane Duane
+41. The Ear, the Eye and the Arm by Nancy Farmer
+42. Twilight by Stephenie Meyer
+43. L.A. Candy by Lauren Conrad
+44. The Long Hard Road Out of Hell by Marilyn Manson
+45. Bridget Jones's Diary by Helen Fielding
+46. Left Behind by Tim LaHaye and Jerry B. Jenkins
+47. Charmed by Paul Ruditis
+48. Percy Jackson & the Olympians by Rick Riordan
+49. Miss Christina by Mircea Eliade
+50. A Million Little Pieces by James Frey

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Ed Sheeran
+2. Coldplay
+3. Adele
+4. Maroon 5
+5. Bruno Mars
+6. Taylor Swift
+7. John Legend
+8. Imagine Dragons
+9. OneRepublic
+10. Sam Smith
+11. Hozier
+12. James Bay
+13. Vance Joy
+14. Passenger
+15. Mumford & Sons
+16. The Lumineers
+17. Bastille
+18. The 1975
+19. Florence + The Machine
+20. Of Monsters and Men
+21. The Head and the Heart
+22. The Avett Brothers
+23. The Black Keys
+24. Vampire Weekend
+25. Arcade Fire
+26. Phoenix
+27. The Strokes
+28. Franz Ferdinand
+29. The Shins
+30. Death Cab for Cutie
+31. Modest Mouse
+32. Spoon
+33. The National
+34. Wilco
+35. Radiohead
+36. Muse
+37. Foo Fighters
+38. Queens of the Stone Age
+39. Pearl Jam
+40. Soundgarden
+41. Alice in Chains
+42. Stone Temple Pilots
+43. Smashing Pumpkins
+44. Nine Inch Nails
+45. Beck
+46. Weezer
+47. Green Day
+48. Blink-182
+49. Fall Out Boy
+50. Panic! At The Disco

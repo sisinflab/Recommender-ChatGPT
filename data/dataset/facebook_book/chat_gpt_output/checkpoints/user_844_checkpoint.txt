@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. Harry Potter and the Philosopher's Stone by J.K. Rowling
+3. To Kill a Mockingbird by Harper Lee
+4. 1984 by George Orwell
+5. Pride and Prejudice by Jane Austen
+6. The Hobbit by J.R.R. Tolkien
+7. Animal Farm by George Orwell
+8. The Catcher in the Rye by J.D. Salinger
+9. The Great Gatsby by F. Scott Fitzgerald
+10. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+11. The Hunger Games by Suzanne Collins
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Kite Runner by Khaled Hosseini
+14. The Book Thief by Markus Zusak
+15. The Alchemist by Paulo Coelho
+16. The Picture of Dorian Gray by Oscar Wilde
+17. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+18. The Time Traveler's Wife by Audrey Niffenegger
+19. The Road by Cormac McCarthy
+20. The Secret History by Donna Tartt
+21. The Name of the Wind by Patrick Rothfuss
+22. The Shadow of the Wind by Carlos Ruiz Zafón
+23. The Count of Monte Cristo by Alexandre Dumas
+24. The Stand by Stephen King
+25. The Shining by Stephen King
+26. The Silence of the Lambs by Thomas Harris
+27. The Da Vinci Code by Dan Brown
+28. Angels & Demons by Dan Brown
+29. Inferno by Dan Brown
+30. Digital Fortress by Dan Brown
+31. The Hardy Boys by Franklin W. Dixon
+32. The Chronicles of Narnia: The Lion, the Witch and the Wardrobe by C.S. Lewis
+33. The Chronicles of Narnia: The Magician's Nephew by C.S. Lewis
+34. The Chronicles of Narnia: The Horse and His Boy by C.S. Lewis
+35. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+36. The Chronicles of Narnia: The Voyage of the Dawn Treader by C.S. Lewis
+37. The Chronicles of Narnia: The Silver Chair by C.S. Lewis
+38. The Chronicles of Narnia: The Last Battle by C.S. Lewis
+39. The God of Small Things by Arundhati Roy
+40. A Tale of Two Cities by Charles Dickens
+41. Great Expectations by Charles Dickens
+42. Oliver Twist by Charles Dickens
+43. David Copperfield by Charles Dickens
+44. Bleak House by Charles Dickens
+45. Little Women by Louisa May Alcott
+46. Jane Eyre by Charlotte Bronte
+47. White Fang by Jack London
+48. The Sea Wolf by Jack London
+49. Moby-Dick by Herman Melville
+50. The Wise Man's Fear by Patrick Rothfuss

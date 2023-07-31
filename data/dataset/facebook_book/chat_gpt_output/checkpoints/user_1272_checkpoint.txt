@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. 1984 by George Orwell
+3. Brave New World by Aldous Huxley
+4. The Hunger Games by Suzanne Collins
+5. Ender's Game by Orson Scott Card
+6. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+7. The Chronicles of Narnia by C.S. Lewis
+8. The Da Vinci Code by Dan Brown
+9. The Girl with the Dragon Tattoo by Stieg Larsson
+10. The Catcher in the Rye by J.D. Salinger
+11. To Kill a Mockingbird by Harper Lee
+12. The Great Gatsby by F. Scott Fitzgerald
+13. The Hobbit by J.R.R. Tolkien
+14. The Picture of Dorian Gray by Oscar Wilde
+15. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+16. The Count of Monte Cristo by Alexandre Dumas
+17. The Three Musketeers by Alexandre Dumas
+18. The War of the Worlds by H.G. Wells
+19. The Time Machine by H.G. Wells
+20. The Invisible Man by H.G. Wells
+21. The Island of Dr. Moreau by H.G. Wells
+22. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+23. The Adventures of Tom Sawyer by Mark Twain
+24. The Adventures of Huckleberry Finn by Mark Twain
+25. The Call of the Wild by Jack London
+26. White Fang by Jack London
+27. The Old Man and the Sea by Ernest Hemingway
+28. For Whom the Bell Tolls by Ernest Hemingway
+29. The Sun Also Rises by Ernest Hemingway
+30. The Sound and the Fury by William Faulkner
+31. As I Lay Dying by William Faulkner
+32. The Grapes of Wrath by John Steinbeck
+33. Of Mice and Men by John Steinbeck
+34. East of Eden by John Steinbeck
+35. One Hundred Years of Solitude by Gabriel Garcia Marquez
+36. Love in the Time of Cholera by Gabriel Garcia Marquez
+37. The Name of the Wind by Patrick Rothfuss
+38. The Wise Man's Fear by Patrick Rothfuss
+39. The Lies of Locke Lamora by Scott Lynch
+40. The Blade Itself by Joe Abercrombie
+41. The Way of Kings by Brandon Sanderson
+42. Mistborn: The Final Empire by Brandon Sanderson
+43. The Eye of the World by Robert Jordan
+44. A Game of Thrones by George R.R. Martin
+45. The Fellowship of the Ring by J.R.R. Tolkien
+46. The Two Towers by J.R.R. Tolkien
+47. The Bell Jar by Sylvia Plath
+48. The Innovator's Dilemma by Clayton M. Christensen
+49. The Art of War
+50. American Gods by Neil Gaiman

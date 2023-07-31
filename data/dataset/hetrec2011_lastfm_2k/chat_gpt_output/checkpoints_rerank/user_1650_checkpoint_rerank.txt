@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Ramones
+2. NOFX
+3. Joy Division
+4. Bad Religion
+5. The Velvet Underground
+6. The Cure
+7. Guided by Voices
+8. Buzzcocks
+9. Nautilus Pompilius
+10. Nirvana
+11. Pixies
+12. My Bloody Valentine
+13. Wire
+14. Pavement
+15. Sigur Rós
+16. The Beatles
+17. Led Zeppelin
+18. Louis Armstrong
+19. Wolfgang Amadeus Mozart
+20. Flogging Molly
+21. The Doors
+22. Radiohead
+23. Pink Floyd
+24. Muse
+25. Iron Maiden
+26. Pearl Jam
+27. Metallica
+28. System of a Down
+29. Nine Inch Nails
+30. Linkin Park
+31. The Killers
+32. Arctic Monkeys
+33. Placebo
+34. Green Day
+35. My Chemical Romance
+36. Blur
+37. Coldplay
+38. U2
+39. Duran Duran
+40. Michael Jackson
+41. Björk
+42. Amy Winehouse
+43. Shakira
+44. Madonna
+45. Lady Gaga
+46. Christina Aguilera
+47. Britney Spears
+48. Rihanna
+49. Ke$ha
+50. Katy Perry

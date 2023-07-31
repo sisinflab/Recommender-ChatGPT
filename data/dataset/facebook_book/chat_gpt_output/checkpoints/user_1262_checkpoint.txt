@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Catching Fire by Suzanne Collins
+3. Mockingjay by Suzanne Collins
+4. Divergent by Veronica Roth
+5. Insurgent by Veronica Roth
+6. Allegiant by Veronica Roth
+7. The Maze Runner by James Dashner
+8. The Scorch Trials by James Dashner
+9. The Death Cure by James Dashner
+10. The Fault in Our Stars by John Green
+11. Looking for Alaska by John Green
+12. Paper Towns by John Green
+13. The Book Thief by Markus Zusak
+14. The Help by Kathryn Stockett
+15. The Da Vinci Code by Dan Brown
+16. Angels and Demons by Dan Brown
+17. Inferno by Dan Brown
+18. The Girl on the Train by Paula Hawkins
+19. Gone Girl by Gillian Flynn
+20. The Lovely Bones by Alice Sebold
+21. The Time Traveler's Wife by Audrey Niffenegger
+22. The Notebook by Nicholas Sparks
+23. A Walk to Remember by Nicholas Sparks
+24. The Last Song by Nicholas Sparks
+25. The Secret Life of Bees by Sue Monk Kidd
+26. The Alchemist by Paulo Coelho
+27. The Kite Runner by Khaled Hosseini
+28. A Thousand Splendid Suns by Khaled Hosseini
+29. The Help by Kathryn Stockett
+30. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+31. The Nightingale by Kristin Hannah
+32. The Handmaid's Tale by Margaret Atwood
+33. 1984 by George Orwell
+34. Animal Farm by George Orwell
+35. To Kill a Mockingbird by Harper Lee
+36. Go Set a Watchman by Harper Lee
+37. The Catcher in the Rye by J.D. Salinger
+38. The Great Gatsby by F. Scott Fitzgerald
+39. The Lord of the Rings by J.R.R. Tolkien
+40. The Hobbit by J.R.R. Tolkien
+41. The Chronicles of Narnia by C.S. Lewis
+42. The Lion, the Witch and the Wardrobe by C.S. Lewis
+43. The Magician's Nephew by C.S. Lewis
+44. The Horse and His Boy by C.S. Lewis
+45. The Voyage of the Dawn Treader by C.S. Lewis
+46. The Silver Chair by C.S. Lewis
+47. The Last Battle by C.S. Lewis
+48. The Giver by Lois Lowry
+49. Gathering Blue by Lois Lowry
+50. Messenger by Lois Lowry

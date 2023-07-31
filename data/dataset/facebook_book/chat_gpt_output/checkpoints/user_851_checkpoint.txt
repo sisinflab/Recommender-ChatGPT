@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. Brave New World by Aldous Huxley
+4. Catch-22 by Joseph Heller
+5. The Catcher in the Rye by J.D. Salinger
+6. The Chronicles of Narnia by C.S. Lewis
+7. The Color Purple by Alice Walker
+8. The Count of Monte Cristo by Alexandre Dumas
+9. Crime and Punishment by Fyodor Dostoevsky
+10. The Da Vinci Code by Dan Brown
+11. Death of a Salesman by Arthur Miller
+12. The Diary of a Young Girl by Anne Frank
+13. Dracula by Bram Stoker
+14. The Fellowship of the Ring by J.R.R. Tolkien
+15. Frankenstein by Mary Shelley
+16. The Grapes of Wrath by John Steinbeck
+17. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+18. The Hobbit by J.R.R. Tolkien
+19. The Hunger Games by Suzanne Collins
+20. The Importance of Being Earnest by Oscar Wilde
+21. Jane Eyre by Charlotte Bronte
+22. The Joy Luck Club by Amy Tan
+23. The Kite Runner by Khaled Hosseini
+24. Les Miserables by Victor Hugo
+25. Life of Pi by Yann Martel
+26. Little Women by Louisa May Alcott
+27. Lord of the Flies by William Golding
+28. The Lord of the Rings by J.R.R. Tolkien
+29. The Lovely Bones by Alice Sebold
+30. The Martian by Andy Weir
+31. The Metamorphosis by Franz Kafka
+32. The Picture of Dorian Gray by Oscar Wilde
+33. The Poisonwood Bible by Barbara Kingsolver
+34. Pride and Prejudice by Jane Austen
+35. The Road by Cormac McCarthy
+36. The Secret Life of Bees by Sue Monk Kidd
+37. The Shining by Stephen King
+38. Siddhartha by Hermann Hesse
+39. Slaughterhouse-Five by Kurt Vonnegut
+40. The Stranger by Albert Camus
+41. A Tale of Two Cities by Charles Dickens
+42. The Things They Carried by Tim O'Brien
+43. To the Lighthouse by Virginia Woolf
+44. The Turn of the Screw by Henry James
+45. The Unbearable Lightness of Being by Milan Kundera
+46. War and Peace by Leo Tolstoy
+47. Watership Down by Richard Adams
+48. Wuthering Heights by Emily Bronte
+49. The Year of Magical Thinking by Joan Didion
+50. Zen and the Art of Motorcycle Maintenance by Robert M. Pirsig

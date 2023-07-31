@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Linkin Park
+2. Sum 41
+3. The Killers
+4. The Bravery
+5. Daft Punk
+6. We The Kings
+7. The Gaslight Anthem
+8. AFI
+9. Pendulum
+10. 30 Seconds to Mars
+11. Avril Lavigne
+12. Paramore
+13. Coldplay
+14. Fall Out Boy
+15. Augustana
+16. U2
+17. Queens of the Stone Age
+18. Muse
+19. Enrique Iglesias
+20. Metro Station
+21. Marilyn Manson
+22. OneRepublic
+23. Pennywise
+24. Good Charlotte
+25. Cobra Starship
+26. Fort Minor
+27. Papa Roach
+28. Billy Talent
+29. Keane
+30. Boys Like Girls
+31. Simple Plan
+32. Saosin
+33. The Fray
+34. Wolfmother
+35. Radiohead
+36. Ben Harper
+37. Akon
+38. Michael Jackson
+39. Rise Against
+40. Thirteen Senses
+41. Lady Gaga
+42. Rihanna
+43. Shakira
+44. Beyoncé
+45. Katy Perry
+46. Taylor Swift
+47. Evanescence
+48. U2
+49. Pink Floyd
+50. Coldplay

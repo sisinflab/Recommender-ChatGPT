@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. The Fault in Our Stars by John Green
+3. The Girl on the Train by Paula Hawkins
+4. The Help by Kathryn Stockett
+5. The Kite Runner by Khaled Hosseini
+6. The Book Thief by Markus Zusak
+7. The Time Traveler's Wife by Audrey Niffenegger
+8. The Catcher in the Rye by J.D. Salinger
+9. The Great Gatsby by F. Scott Fitzgerald
+10. The Alchemist by Paulo Coelho
+11. The Secret Life of Bees by Sue Monk Kidd
+12. The Lovely Bones by Alice Sebold (since the user liked it)
+13. The Da Vinci Code by Dan Brown (since the user liked it)
+14. PS, I Love You by Cecelia Ahern (since the user liked it)
+15. The Queen's Fool by Philippa Gregory (since the user liked it)
+16. To Kill a Mockingbird by Harper Lee (since the user liked it)
+17. The Sisterhood of the Traveling Pants by Ann Brashares (since the user liked it)
+18. Go Ask Alice by Anonymous
+19. Harry Potter and the Philosopher's Stone by J.K. Rowling
+20. The Picture of Dorian Gray by Oscar Wilde (since the user liked it)
+21. The Nightingale by Kristin Hannah
+22. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+23. The Martian by Andy Weir
+24. The Handmaid's Tale by Margaret Atwood
+25. The Name of the Wind by Patrick Rothfuss
+26. The Shadow of the Wind by Carlos Ruiz Zafón
+27. The Help by Kathryn Stockett (since the user liked it)
+28. The Girl with the Dragon Tattoo by Stieg Larsson
+29. The Maze Runner by James Dashner
+30. The Giver by Lois Lowry
+31. The Hobbit by J.R.R. Tolkien
+32. The Lord of the Rings by J.R.R. Tolkien
+33. The Chronicles of Narnia by C.S. Lewis
+34. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+35. The Catcher in the Rye by J.D. Salinger (since the user liked it)
+36. The Great Gatsby by F. Scott Fitzgerald (since the user liked it)
+37. The Alchemist by Paulo Coelho (since the user liked it)
+38. The Secret Life of Bees by Sue Monk Kidd (since the user liked it)
+39. The Hunger Games by Suzanne Collins (since the user liked it)
+40. The Fault in Our Stars by John Green (since the user liked it)
+41. The Girl on the Train by Paula Hawkins (since the user liked it
+42. The Devil in the White City by Erik Larson
+43. The Power of One by Bryce Courtenay
+44. The Devil in the White City by Erik Larson
+45. The Power of One by Bryce Courtenay
+46. The Pillars of the Earth by Ken Follett
+47. The Help by Kathryn Stockett
+48. Nine Stories by J.D. Salinger
+49. The Bell Jar by Sylvia Plath
+50. The Wise Man's Fear by Patrick Rothfuss

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Catcher in the Rye
+2. Nineteen Eighty-Four
+3. Romeo and Juliet
+4. The Great Gatsby
+5. The Bell Jar
+6. Frankenstein
+7. Heart of Darkness
+8. Dubliners
+9. Pride and Prejudice
+10. The Picture of Dorian Gray
+11. The Lost World (Crichton novel)
+12. The Kite Runner
+13. Flowers for Algernon
+14. Ulysses (novel)
+15. The Giver
+16. The Glass Menagerie
+17. The Chronicles of Narnia: Prince Caspian
+18. The Secret Garden
+19. Franny and Zooey
+20. Great Expectations
+21. Angels & Demons
+22. War and Peace
+23. Blood and Chocolate (novel)
+24. Battle Royale
+25. Love Story (novel)
+26. Jurassic Park (novel)
+27. The Walking Dead (comic book)
+28. The Book Thief
+29. Heart-Shaped Box (novel)
+30. The Phantom of the Opera
+31. Bluebeard (Vonnegut novel)
+32. Naked Lunch
+33. Go Ask Alice
+34. The Kane Chronicles
+35. Pride and Prejudice and Zombies
+36. Passion and Purity
+37. The Art of Seduction
+38. A Brief History of Time
+39. The Shadow of the Wind
+40. Stargirl (novel)
+41. World War Z
+42. Cut (novel)
+43. Bhagavad Gita
+44. Black Beauty
+45. Manga
+46. Eragon
+47. Sin City
+48. Twilight (series)
+49. The Children of Men
+50. The Hours (novel)

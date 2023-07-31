@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. The Hunger Games by Suzanne Collins
+3. To Kill a Mockingbird by Harper Lee
+4. The Catcher in the Rye by J.D. Salinger
+5. The Great Gatsby by F. Scott Fitzgerald
+6. 1984 by George Orwell
+7. Animal Farm by George Orwell
+8. The Fault in Our Stars by John Green
+9. The Book Thief by Markus Zusak
+10. The Girl with the Dragon Tattoo by Stieg Larsson
+11. The Help by Kathryn Stockett
+12. The Kite Runner by Khaled Hosseini
+13. The Lord of the Rings by J.R.R. Tolkien
+14. The Hobbit by J.R.R. Tolkien
+15. The Chronicles of Narnia by C.S. Lewis
+16. The Da Vinci Code by Dan Brown
+17. The Alchemist by Paulo Coelho
+18. The Picture of Dorian Gray by Oscar Wilde
+19. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+20. The Time Traveler's Wife by Audrey Niffenegger
+21. The Secret Life of Bees by Sue Monk Kidd
+22. The Color Purple by Alice Walker
+23. The Bell Jar by Sylvia Plath
+24. The Road by Cormac McCarthy
+25. The Giver by Lois Lowry
+26. The Handmaid's Tale by Margaret Atwood
+27. The Stand by Stephen King
+28. The Shining by Stephen King
+29. The Silence of the Lambs by Thomas Harris
+30. The Bourne Identity by Robert Ludlum
+31. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+32. The Name of the Wind by Patrick Rothfuss
+33. The Shadow of the Wind by Carlos Ruiz Zafón
+34. The Wind-Up Bird Chronicle by Haruki Murakami
+35. The God of Small Things by Arundhati Roy
+36. The Poisonwood Bible by Barbara Kingsolver
+37. The Joy Luck Club by Amy Tan
+38. The House on Mango Street by Sandra Cisneros
+39. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+40. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+41. The Road Less Traveled by M. Scott Peck
+42. The Prophet by Kahlil Gibran
+43. The Sun Also Rises by Ernest Hemingway
+44. The Old Man and the Sea by Ernest Hemingway
+45. The Picture of Dorian Gray by Oscar Wilde
+46. The Importance of Being Earnest by Oscar Wilde
+47. The Adventures of Tom Sawyer by Mark Twain
+48. The Adventures of Huckleberry Finn by Mark Twain
+49. The

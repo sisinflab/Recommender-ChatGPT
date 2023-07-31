@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Three Days Grace
+2. Linkin Park
+3. Paramore
+4. Green Day
+5. Red Hot Chili Peppers
+6. Foo Fighters
+7. Imagine Dragons
+8. Fall Out Boy
+9. Panic! At The Disco
+10. The All-American Rejects
+11. The Fray
+12. The Script
+13. Maroon 5
+14. OneRepublic
+15. Cold War Kids
+16. The Black Keys
+17. Arctic Monkeys
+18. Vampire Weekend
+19. The Strokes
+20. Radiohead
+21. Death Cab for Cutie
+22. The Postal Service
+23. Arcade Fire
+24. The Shins
+25. Modest Mouse
+26. The Decemberists
+27. Neutral Milk Hotel
+28. Belle and Sebastian
+29. Sufjan Stevens
+30. Fleet Foxes
+31. Bon Iver
+32. The National
+33. Band of Horses
+34. Mumford & Sons
+35. The Lumineers
+36. Of Monsters and Men
+37. Florence + The Machine
+38. Adele
+39. Ed Sheeran
+40. Sam Smith
+41. Hozier
+42. Lorde
+43. Lana Del Rey
+44. The Weeknd
+45. Drake
+46. Kendrick Lamar
+47. J. Cole
+48. Childish Gambino
+49. Frank Ocean
+50. Tyler, The Creator

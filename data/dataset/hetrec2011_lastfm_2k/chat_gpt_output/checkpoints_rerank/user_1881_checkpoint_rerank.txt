@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Madonna
+2. Britney Spears
+3. Michael Jackson
+4. U2
+5. Depeche Mode
+6. The Beatles
+7. Duran Duran
+8. Bon Jovi
+9. Cyndi Lauper
+10. Roxette
+11. Erasure
+12. Bryan Adams
+13. Tears for Fears
+14. The Police
+15. Crowded House
+16. Maroon 5
+17. Robbie Williams
+18. Alicia Keys
+19. Heart
+20. Spice Girls
+21. Backstreet Boys
+22. *NSYNC
+23. Craig David
+24. Matchbox Twenty
+25. Dido
+26. The Corrs
+27. Destiny's Child
+28. Akon
+29. Arcadia
+30. Lady Gaga
+31. Christina Aguilera
+32. Rihanna
+33. Shakira
+34. Katy Perry
+35. Taylor Swift
+36. Evanescence
+37. Beyoncé
+38. 30 Seconds to Mars
+39. Muse
+40. Pink Floyd
+41. Kylie Minogue
+42. Miley Cyrus
+43. Radiohead
+44. Ke$ha
+45. Coldplay
+46. Blur
+47. Arctic Monkeys
+48. Placebo
+49. The Killers
+50. Nirvana

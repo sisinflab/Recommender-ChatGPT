@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. Jane Eyre by Charlotte Bronte
+3. Wuthering Heights by Emily Bronte
+4. The Great Gatsby by F. Scott Fitzgerald
+5. 1984 by George Orwell
+6. Animal Farm by George Orwell
+7. The Catcher in the Rye by J.D. Salinger
+8. The Bell Jar by Sylvia Plath
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Adventures of Huckleberry Finn by Mark Twain
+11. The Adventures of Tom Sawyer by Mark Twain
+12. The Scarlet Letter by Nathaniel Hawthorne
+13. Frankenstein by Mary Shelley
+14. Dracula by Bram Stoker
+15. The Hobbit by J.R.R. Tolkien
+16. The Lord of the Rings by J.R.R. Tolkien
+17. The Chronicles of Narnia by C.S. Lewis
+18. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+19. The Da Vinci Code by Dan Brown
+20. Angels and Demons by Dan Brown
+21. The Girl with the Dragon Tattoo by Stieg Larsson
+22. The Hunger Games by Suzanne Collins
+23. Catching Fire by Suzanne Collins
+24. Mockingjay by Suzanne Collins
+25. The Fault in Our Stars by John Green
+26. Looking for Alaska by John Green
+27. Paper Towns by John Green
+28. The Book Thief by Markus Zusak
+29. The Kite Runner by Khaled Hosseini
+30. A Thousand Splendid Suns by Khaled Hosseini
+31. The Alchemist by Paulo Coelho
+32. One Hundred Years of Solitude by Gabriel Garcia Marquez
+33. Love in the Time of Cholera by Gabriel Garcia Marquez
+34. The Name of the Rose by Umberto Eco
+35. The Shadow of the Wind by Carlos Ruiz Zafon
+36. The Time Traveler's Wife by Audrey Niffenegger
+37. The Lovely Bones by Alice Sebold
+38. The Help by Kathryn Stockett
+39. The Secret Life of Bees by Sue Monk Kidd
+40. The Color Purple by Alice Walker
+41. The Joy Luck Club by Amy Tan
+42. The God of Small Things by Arundhati Roy
+43. Life of Pi by Yann Martel
+44. The Picture of Dorian Gray by Oscar Wilde
+45. The Importance of Being Earnest by Oscar Wilde
+46. The Canterbury Tales by Geoffrey Chaucer
+47. The Divine Comedy by Dante Alighieri
+48. The Iliad by Homer
+49. The Odyssey by Homer
+50. The Aeneid by Virgil

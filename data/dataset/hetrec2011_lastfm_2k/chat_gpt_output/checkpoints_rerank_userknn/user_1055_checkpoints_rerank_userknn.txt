@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Avenged Sevenfold
+2. Skillet
+3. Breaking Benjamin
+4. Lifehouse
+5. Creed
+6. Paramore
+7. Glee Cast
+8. 12 Stones
+9. The Calling
+10. Los Hermanos
+11. Switchfoot
+12. Marjorie Estiano
+13. Pitty
+14. Ana Carolina
+15. YUI
+16. Ellie Goulding
+17. Lights
+18. The Veronicas
+19. Muse
+20. Panic! At the Disco
+21. The Killers
+22. Linkin Park
+23. Green Day
+24. Ramones
+25. The Cure
+26. The Kinks
+27. Britney Spears
+28. Christina Aguilera
+29. Lady Gaga
+30. Rihanna
+31. Ke$ha
+32. Beyoncé
+33. Taylor Swift
+34. Demi Lovato
+35. Miley Cyrus
+36. Selena Gomez & the Scene
+37. Nicki Minaj
+38. Adam Lambert
+39. The Beatles
+40. John Mayer
+41. Katy Perry
+42. All Time Low
+43. NX Zero
+44. McFly
+45. Shakira
+46. Gloria
+47. Nando Reis
+48. Rita Lee
+49. Evanescence
+50. The Beach Boys

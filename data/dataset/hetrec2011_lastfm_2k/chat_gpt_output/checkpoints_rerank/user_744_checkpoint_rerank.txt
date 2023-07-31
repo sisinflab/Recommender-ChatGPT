@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Paramore
+2. Nickelback
+3. VersaEmerge
+4. Apocalyptica
+5. Linkin Park
+6. Sonata Arctica
+7. Ke$ha
+8. The Veronicas
+9. Epica
+10. HammerFall
+11. Nightwish
+12. The Rasmus
+13. Adam Lambert
+14. Michael Jackson
+15. Evanescence
+16. Gregorian
+17. Kat DeLuna
+18. Aly & AJ
+19. Riverside
+20. Jennifer Lopez
+21. Bon Jovi
+22. Hurts
+23. t.A.T.u.
+24. ATB
+25. Lady Gaga
+26. Rihanna
+27. Katy Perry
+28. Britney Spears
+29. Madonna
+30. Beyoncé
+31. Pink Floyd
+32. Muse
+33. U2
+34. 30 Seconds to Mars
+35. Radiohead
+36. Coldplay
+37. The Killers
+38. Nirvana
+39. Iron Maiden
+40. Led Zeppelin
+41. Metallica
+42. Pearl Jam
+43. a-ha
+44. Björk
+45. System of a Down
+46. Daft Punk
+47. Nine Inch Nails
+48. All Time Low
+49. Avenged Sevenfold
+50. Green Day

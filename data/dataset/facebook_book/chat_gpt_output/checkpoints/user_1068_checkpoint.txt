@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Frankenstein by Mary Shelley
+2. The Picture of Dorian Gray by Oscar Wilde
+3. The Catcher in the Rye by J.D. Salinger
+4. To Kill a Mockingbird by Harper Lee
+5. 1984 by George Orwell
+6. Animal Farm by George Orwell
+7. The Hobbit by J.R.R. Tolkien
+8. The Lord of the Rings by J.R.R. Tolkien
+9. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+10. The Chronicles of Narnia by C.S. Lewis
+11. The Hunger Games by Suzanne Collins
+12. Harry Potter and the Philosopher's Stone by J.K. Rowling
+13. The Da Vinci Code by Dan Brown
+14. The Girl with the Dragon Tattoo by Stieg Larsson
+15. The Shining by Stephen King
+16. The Silence of the Lambs by Thomas Harris
+17. The Road by Cormac McCarthy
+18. The Grapes of Wrath by John Steinbeck
+19. The Adventures of Huckleberry Finn by Mark Twain
+20. The Adventures of Tom Sawyer by Mark Twain
+21. The War of the Worlds by H.G. Wells
+22. The Time Machine by H.G. Wells
+23. The Invisible Man by H.G. Wells
+24. The Island of Dr. Moreau by H.G. Wells
+25. The Call of the Wild by Jack London
+26. White Fang by Jack London
+27. The Old Man and the Sea by Ernest Hemingway
+28. For Whom the Bell Tolls by Ernest Hemingway
+29. The Sun Also Rises by Ernest Hemingway
+30. The Great Train Robbery by Michael Crichton
+31. Jurassic Park by Michael Crichton
+32. The Andromeda Strain by Michael Crichton
+33. The Stand by Stephen King
+34. It by Stephen King
+35. The Dark Tower series by Stephen King
+36. The Talisman by Stephen King and Peter Straub
+37. The Name of the Rose by Umberto Eco
+38. The Three Musketeers by Alexandre Dumas
+39. The Count of Monte Cristo by Alexandre Dumas
+40. Les Misérables by Victor Hugo
+41. The Hunchback of Notre-Dame by Victor Hugo
+42. The Picture of Dorian Gray by Oscar Wilde
+43. The Importance of Being Earnest by Oscar Wilde
+44. The Canterbury Tales by Geoffrey Chaucer
+45. Beowulf by Unknown
+46. The Divine Comedy by Dante Alighieri
+47. Paradise Lost by John Milton
+48. Don Quixote by Miguel de Cervantes
+49. One Hundred Years of Solitude by Gabriel García Márquez
+50. Love in the Time of Cholera

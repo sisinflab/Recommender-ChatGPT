@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. A Thousand Splendid Suns by Khaled Hosseini
+2. The Book Thief by Markus Zusak
+3. The Great Gatsby by F. Scott Fitzgerald
+4. To Kill a Mockingbird by Harper Lee
+5. The Catcher in the Rye by J.D. Salinger
+6. The Alchemist by Paulo Coelho
+7. The Picture of Dorian Gray by Oscar Wilde
+8. The Bell Jar by Sylvia Plath
+9. The Handmaid's Tale by Margaret Atwood
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Hobbit by J.R.R. Tolkien
+12. The Hunger Games by Suzanne Collins
+13. The Girl with the Dragon Tattoo by Stieg Larsson
+14. The Da Vinci Code by Dan Brown
+15. The Name of the Rose by Umberto Eco
+16. The Shadow of the Wind by Carlos Ruiz Zafón
+17. The Road by Cormac McCarthy
+18. The Stand by Stephen King
+19. The Shining by Stephen King
+20. The Silence of the Lambs by Thomas Harris
+21. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+22. The Martian by Andy Weir
+23. The Time Traveler's Wife by Audrey Niffenegger
+24. The Help by Kathryn Stockett
+25. The Color Purple by Alice Walker
+26. The Joy Luck Club by Amy Tan
+27. The God of Small Things by Arundhati Roy
+28. The Poisonwood Bible by Barbara Kingsolver
+29. The Secret History by Donna Tartt
+30. The Picture of Dorian Gray by Oscar Wilde
+31. The Importance of Being Earnest by Oscar Wilde
+32. The Odyssey by Homer
+33. The Iliad by Homer
+34. The Divine Comedy by Dante Alighieri
+35. The Canterbury Tales by Geoffrey Chaucer
+36. The Decameron by Giovanni Boccaccio
+37. The Prince by Niccolò Machiavelli
+38. The Republic by Plato
+39. The Brothers Karamazov by Fyodor Dostoevsky
+40. Crime and Punishment by Fyodor Dostoevsky
+41. War and Peace by Leo Tolstoy
+42. Anna Karenina by Leo Tolstoy
+43. One Hundred Years of Solitude by Gabriel García Márquez
+44. Love in the Time of Cholera by Gabriel García Márquez
+45. The Picture of Dorian Gray by Oscar Wilde
+46. The Importance of Being Earnest by Oscar Wilde
+47. The Odyssey by Homer
+48. The Iliad by Homer
+49. The Divine Comedy by Dante Alighieri
+50. The Canterbury Tales by Geoffrey Chaucer

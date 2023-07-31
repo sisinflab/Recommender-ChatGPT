@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. The Hobbit by J.R.R. Tolkien
+3. Northern Lights (novel) by Philip Pullman
+4. The Hunger Games by Suzanne Collins
+5. The Fellowship of the Ring by J.R.R. Tolkien
+6. The Da Vinci Code by Dan Brown
+7. The Elegant Universe by Brian Greene
+8. The Alchemist (novel) by Paulo Coelho
+9. Inferno (Dante) by Dante Alighieri
+10. The Andromeda Strain by Michael Crichton
+11. Les Misérables by Victor Hugo
+12. Great Expectations by Charles Dickens
+13. Sense and Sensibility by Jane Austen
+14. The Count of Monte Cristo by Alexandre Dumas
+15. The Dark Tower: The Gunslinger by Stephen King
+16. The Notebook (novel) by Nicholas Sparks
+17. Bram Stoker's Dracula by Bram Stoker
+18. Vanity Fair (novel) by William Makepeace Thackeray
+19. Timeline (novel) by Michael Crichton
+20. The Chosen (Potok novel) by Chaim Potok
+21. The Belgariad by David Eddings
+22. The Hitchhiker's Guide to the Galaxy (novel) by Douglas Adams
+23. The Zombie Survival Guide by Max Brooks
+24. The Theory of Everything by Stephen Hawking
+25. The Return of the King by J.R.R. Tolkien
+26. Maximum Ride by James Patterson
+27. Five Point Someone by Chetan Bhagat
+28. Shopaholic (novels) by Sophie Kinsella
+29. How to Stop Worrying and Start Living by Dale Carnegie
+30. Kane and Abel (novel) by Jeffrey Archer
+31. Candide by Voltaire
+32. The Voyage of the Dawn Treader by C.S. Lewis
+33. Sun Bin's Art of War by Sun Bin
+34. Fingerprints of the Gods by Graham Hancock
+35. The Last Storytellers: Tales from the Heart of Morocco by Richard Hamilton
+36. Evermore (book) by Alyson Noël
+37. Ceres, Celestial Legend by Yuu Watase
+38. Fushigi Yûgi by Yuu Watase
+39. Manga by Various
+40. Green Rider by Kristen Britain
+41. Graceling by Kristin Cashore
+42. Ranger's Apprentice by John Flanagan
+43. Jane Eyre by Charlotte Brontë
+44. Macbeth by William Shakespeare
+45. Pellinor by Alison Croggon
+46. The Call of the Wild by Jack London
+47. Inheritance Cycle by Christopher Paolini
+48. The Watchmen (novel) by Alan Moore
+49

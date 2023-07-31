@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. U2
+2. Depeche Mode
+3. Michael Jackson
+4. Madonna
+5. Coldplay
+6. The Police
+7. Genesis
+8. Phil Collins
+9. Bryan Adams
+10. The Alan Parsons Project
+11. Pet Shop Boys
+12. Hall & Oates
+13. Journey
+14. Soft Cell
+15. Groove Armada
+16. INXS
+17. Yes
+18. Boards of Canada
+19. Sade
+20. Tiësto
+21. City and Colour
+22. Peter Gabriel
+23. The Beatles
+24. Pink Floyd
+25. Muse
+26. Radiohead
+27. Nirvana
+28. Led Zeppelin
+29. Metallica
+30. Pearl Jam
+31. a-ha
+32. Björk
+33. The Cure
+34. Duran Duran
+35. Iron Maiden
+36. System of a Down
+37. Daft Punk
+38. Nine Inch Nails
+39. Linkin Park
+40. Kelly Clarkson
+41. Christina Aguilera
+42. Lady Gaga
+43. Rihanna
+44. Shakira
+45. Katy Perry
+46. Avril Lavigne
+47. Taylor Swift
+48. Evanescence
+49. P!nk
+50. My Chemical Romance

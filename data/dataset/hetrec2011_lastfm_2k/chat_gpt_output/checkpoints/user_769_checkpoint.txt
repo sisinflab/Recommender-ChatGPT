@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Muse
+3. Arctic Monkeys
+4. The Killers
+5. Coldplay
+6. U2
+7. Pink Floyd
+8. Queen
+9. David Bowie
+10. The Rolling Stones
+11. Led Zeppelin
+12. The Who
+13. Nirvana
+14. Pearl Jam
+15. Soundgarden
+16. Alice in Chains
+17. Metallica
+18. Iron Maiden
+19. AC/DC
+20. Guns N' Roses
+21. Bon Jovi
+22. Aerosmith
+23. Van Halen
+24. Rush
+25. Yes
+26. Genesis
+27. The Police
+28. Duran Duran
+29. Tears for Fears
+30. Simple Minds
+31. New Order
+32. Joy Division
+33. The Smiths
+34. The Cure
+35. Depeche Mode (more albums)
+36. Oasis (more albums)
+37. The Beatles (more albums)
+38. Franz Ferdinand (more albums)
+39. The Last Shadow Puppets (more albums)
+40. Kasabian (more albums)
+41. Recoil (more albums)
+42. Nine Inch Nails (more albums)
+43. Placebo (more albums)
+44. Michael Jackson (more albums)
+45. 30 Seconds to Mars (more albums)
+46. a-ha (more albums)
+47. Klaxons (more albums)
+48. Paolo Nutini (more albums)
+49. Wolfgang Amadeus Mozart (more albums)
+50. James Blunt (more albums)

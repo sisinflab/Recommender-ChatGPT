@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Jay-Z
+2. Nas
+3. Kendrick Lamar
+4. J. Cole
+5. Wu-Tang Clan
+6. Outkast
+7. Dr. Dre
+8. Snoop Dogg
+9. Ice Cube
+10. Notorious B.I.G.
+11. Tupac
+12. N.W.A.
+13. Public Enemy
+14. Beastie Boys
+15. Run-DMC
+16. LL Cool J
+17. Rakim
+18. Mos Def
+19. Talib Kweli
+20. Common
+21. Lupe Fiasco
+22. A Tribe Called Quest
+23. The Roots
+24. Ghostface Killah
+25. Raekwon
+26. GZA
+27. Method Man
+28. Redman
+29. MF DOOM
+30. Madvillain
+31. Tyler, The Creator
+32. Earl Sweatshirt
+33. Frank Ocean
+34. Childish Gambino
+35. Chance The Rapper
+36. Travis Scott
+37. Post Malone
+38. Lil Uzi Vert
+39. Lil Baby
+40. DaBaby
+41. Megan Thee Stallion
+42. Cardi B
+43. Nicki Minaj
+44. Beyoncé
+45. Rihanna
+46. Ariana Grande
+47. Billie Eilish
+48. Taylor Swift
+49. Ed Sheeran
+50. Justin Bieber

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Slaughterhouse-Five by Kurt Vonnegut
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. To Kill a Mockingbird by Harper Lee
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Animal Farm by George Orwell
+7. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+8. The Lord of the Rings by J.R.R. Tolkien
+9. The Alchemist by Paulo Coelho
+10. The Da Vinci Code by Dan Brown
+11. The Girl with the Dragon Tattoo by Stieg Larsson
+12. The Hunger Games by Suzanne Collins
+13. The Road by Cormac McCarthy
+14. The Kite Runner by Khaled Hosseini
+15. The Picture of Dorian Gray by Oscar Wilde
+16. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+17. The Count of Monte Cristo by Alexandre Dumas
+18. The Brothers Karamazov by Fyodor Dostoevsky
+19. Crime and Punishment by Fyodor Dostoevsky
+20. The Stranger by Albert Camus
+21. One Hundred Years of Solitude by Gabriel Garcia Marquez
+22. The Name of the Wind by Patrick Rothfuss
+23. The Stand by Stephen King
+24. The Shining by Stephen King
+25. The Silence of the Lambs by Thomas Harris
+26. The God of Small Things by Arundhati Roy
+27. The Handmaid's Tale by Margaret Atwood
+28. The Road Less Traveled by M. Scott Peck
+29. The Power of Now by Eckhart Tolle
+30. The 7 Habits of Highly Effective People by Stephen Covey
+31. The Lean Startup by Eric Ries
+32. The Innovator's Dilemma by Clayton Christensen
+33. The Art of War by Sun Tzu
+34. The Prince by Niccolo Machiavelli
+35. The Wealth of Nations by Adam Smith
+36. The Theory of Moral Sentiments by Adam Smith
+37. The Republic by Plato
+38. Meditations by Marcus Aurelius
+39. The Divine Comedy by Dante Alighieri
+40. The Canterbury Tales by Geoffrey Chaucer
+41. The Iliad by Homer
+42. The Odyssey by Homer
+43. The Aeneid by Virgil
+44. Beowulf by Unknown
+45. The Epic of Gilgamesh by Unknown
+46. The Book of Five Rings by Miyamoto Musashi
+47. The Analects by Confucius
+48. Tao Te Ching by Lao Tzu
+49. The Art of Happiness by Dalai Lama XIV
+50. Man's Search for Meaning by Viktor E. Frankl

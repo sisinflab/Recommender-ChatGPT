@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Harry Potter by J.K. Rowling
+2. The Chronicles of Narnia by C.S. Lewis
+3. The Hunger Games by Suzanne Collins
+4. Ender's Game by Orson Scott Card
+5. The Lord of the Rings by J.R.R. Tolkien
+6. The Maze Runner by James Dashner
+7. Brave New World by Aldous Huxley
+8. Fahrenheit 451 by Ray Bradbury
+9. Nineteen Eighty-Four by George Orwell
+10. The Catcher in the Rye by J.D. Salinger
+11. The Giver by Lois Lowry
+12. Island of the Blue Dolphins by Scott O'Dell
+13. The Outsiders by S.E. Hinton
+14. Romeo and Juliet by William Shakespeare
+15. A Midsummer Night's Dream by William Shakespeare
+16. Great Expectations by Charles Dickens
+17. Jane Eyre by Charlotte Bronte
+18. The Little Prince by Antoine de Saint-Exupéry
+19. The Princess Bride by William Goldman
+20. The Notebook by Nicholas Sparks
+21. Snow Flower and the Secret Fan by Lisa See
+22. Angels & Demons by Dan Brown
+23. The Da Vinci Code by Dan Brown
+24. The Things They Carried by Tim O'Brien
+25. The Hamlet by William Faulkner
+26. The Waste Land by T.S. Eliot
+27. Thus Spoke Zarathustra by Friedrich Nietzsche
+28. Cosmos by Carl Sagan
+29. Bridge to Terabithia by Katherine Paterson
+30. Esperanza Rising by Pam Muñoz Ryan
+31. Stargirl by Jerry Spinelli
+32. The Antichrist by Friedrich Nietzsche
+33. Lolita by Vladimir Nabokov
+34. Black Butler by Yana Toboso
+35. Manga by various authors
+36. Medical literature by various authors
+37. PiHKAL by Alexander Shulgin
+38. The Mists of Avalon by Marion Zimmer Bradley
+39. Chinese Cinderella by Adeline Yen Mah
+40. Go Ask Alice by Anonymous
+41. The Most Dangerous Game by Richard Connell
+42. The Key by Joan Lowery Nixon
+43. The Watchmen by Alan Moore
+44. And the Hippos Were Boiled in Their Tanks by William S. Burroughs and Jack Kerouac
+45. Brighton Rock by Graham Greene
+46. Oliver Twist by Charles Dickens
+47. The Last Olympian by Rick Riordan
+48. Fade by Lisa McMann
+49. The Stranger by Albert Camus
+50. Isaac Asimov's Robot City by various authors

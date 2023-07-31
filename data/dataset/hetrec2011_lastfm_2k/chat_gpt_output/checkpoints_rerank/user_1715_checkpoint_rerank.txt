@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Florence + the Machine
+2. Ellie Goulding
+3. Alanis Morissette
+4. Little Boots
+5. Hurts
+6. Brandon Flowers
+7. Antony and the Johnsons
+8. Björk
+9. La Roux
+10. Fiona Apple
+11. Adele
+12. Duffy
+13. Snow Patrol
+14. David Gray
+15. Roberta Sá
+16. Maroon 5
+17. Rihanna
+18. Lady Gaga
+19. P!nk
+20. Britney Spears
+21. Beyoncé
+22. Evanescence
+23. The Pretty Reckless
+24. Mika
+25. O Teatro Mágico
+26. Alexandra Burke
+27. Depeche Mode
+28. Madonna
+29. Shakira
+30. The Beatles
+31. Katy Perry
+32. Avril Lavigne
+33. Taylor Swift
+34. Glee Cast
+35. U2
+36. 30 Seconds to Mars
+37. Muse
+38. Pink Floyd
+39. Kylie Minogue
+40. Miley Cyrus
+41. Radiohead
+42. Ke$ha
+43. Duran Duran
+44. Coldplay
+45. Blur
+46. Arctic Monkeys
+47. Placebo
+48. The Killers
+49. Nirvana
+50. Iron Maiden

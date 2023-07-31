@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations are:
+
+1. Radiohead
+2. Muse
+3. Arcade Fire
+4. The Strokes
+5. Nine Inch Nails
+6. Franz Ferdinand
+7. The White Stripes
+8. Kasabian
+9. Oasis
+10. Green Day
+11. Blur
+12. Kaiser Chiefs
+13. Spoon
+14. MGMT
+15. Vampire Weekend
+16. Editors
+17. Yeah Yeah Yeahs
+18. The Killers
+19. The Verve
+20. Gorillaz
+21. Crystal Castles
+22. Justice
+23. Depeche Mode
+24. The Hives
+25. The Smashing Pumpkins
+26. LCD Soundsystem
+27. The Shins
+28. Modest Mouse
+29. Kings of Leon
+30. Razorlight
+31. Coldplay
+32. The Beatles
+33. Pink Floyd
+34. The Stone Roses
+35. Daft Punk
+36. Arctic Monkeys
+37. Placebo
+38. Klaxons
+39. Massive Attack
+40. The Chemical Brothers
+41. Los Hermanos
+42. Stereophonics
+43. Apocalyptica
+44. Maxïmo Park
+45. Suede
+46. Tegan and Sara
+47. Travis
+48. The Cure
+49. Manic Street Preachers
+50. The Fratellis

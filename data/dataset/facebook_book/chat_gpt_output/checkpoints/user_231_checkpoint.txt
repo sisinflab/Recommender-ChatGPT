@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Uglies by Scott Westerfeld
+2. Specials by Scott Westerfeld
+3. Extras by Scott Westerfeld
+4. Leviathan by Scott Westerfeld
+5. Behemoth by Scott Westerfeld
+6. Goliath by Scott Westerfeld
+7. Dry by Augusten Burroughs
+8. Magical Thinking by Augusten Burroughs
+9. Lust & Wonder by Augusten Burroughs
+10. The Doors of Perception by Aldous Huxley
+11. Island by Aldous Huxley
+12. The Perennial Philosophy by Aldous Huxley
+13. The Maze Runner by James Dashner
+14. The Hunger Games by Suzanne Collins
+15. Divergent by Veronica Roth
+16. Insurgent by Veronica Roth
+17. Allegiant by Veronica Roth
+18. The Giver by Lois Lowry
+19. Gathering Blue by Lois Lowry
+20. Messenger by Lois Lowry
+21. Son by Lois Lowry
+22. The Mortal Instruments series by Cassandra Clare
+23. The Infernal Devices series by Cassandra Clare
+24. The Dark Artifices series by Cassandra Clare
+25. The Coldest Girl in Coldtown by Holly Black
+26. The Cruel Prince by Holly Black
+27. The Wicked King by Holly Black
+28. The Queen of Nothing by Holly Black
+29. The Golden Compass by Philip Pullman
+30. The Subtle Knife by Philip Pullman
+31. The Amber Spyglass by Philip Pullman
+32. The Book of Dust series by Philip Pullman
+33. The Fault in Our Stars by John Green
+34. Paper Towns by John Green
+35. Looking for Alaska by John Green
+36. An Abundance of Katherines by John Green
+37. The Perks of Being a Wallflower by Stephen Chbosky
+38. The Catcher in the Rye by J.D. Salinger
+39. 1984 by George Orwell
+40. Animal Farm by George Orwell
+41. The Handmaid's Tale by Margaret Atwood
+42. Oryx and Crake by Margaret Atwood
+43. The Year of the Flood by Margaret Atwood
+44. MaddAddam by Margaret Atwood
+45. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+46. The Devil in the White City by Erik Larson
+47. The Boys in the Boat by Daniel James Brown
+48. The Glass Castle by Jeannette Walls
+49. Educated by Tara Westover
+50. The Power of Habit by Charles Duhigg

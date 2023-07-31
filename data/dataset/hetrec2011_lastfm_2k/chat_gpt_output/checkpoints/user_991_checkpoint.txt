@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Pink Floyd
+2. The Beatles
+3. David Bowie
+4. Queen
+5. The Rolling Stones
+6. Nirvana
+7. Pearl Jam
+8. The Doors
+9. Metallica
+10. AC/DC
+11. Guns N' Roses
+12. The Cure
+13. Depeche Mode
+14. Joy Division
+15. Nine Inch Nails
+16. R.E.M.
+17. Sonic Youth
+18. Smashing Pumpkins
+19. Radiohead (if not already listened to extensively)
+20. Oasis (if not already listened to extensively)
+21. Porcupine Tree (if not already listened to extensively)
+22. Tom Waits (if not already listened to extensively)
+23. Coldplay (if not already listened to extensively)
+24. Sum 41 (if not already listened to extensively)
+25. Franz Ferdinand (if not already listened to extensively)
+26. Travis (if not already listened to extensively)
+27. Archive (if not already listened to extensively)
+28. John Lennon (if not already listened to extensively)
+29. Anathema (if not already listened to extensively)
+30. Massive Attack (if not already listened to extensively)
+31. The Verve (if not already listened to extensively)
+32. Jimi Hendrix (if not already listened to extensively)
+33. The Who (if not already listened to extensively)
+34. Led Zeppelin (if not already listened to extensively)
+35. Marilyn Manson (if not already listened to extensively)
+36. Muse (if not already listened to extensively)
+37. Camel (if not already listened to extensively)
+38. Keane (if not already listened to extensively)
+39. Eagles (if not already listened to extensively)
+40. Red (if not already listened to extensively)
+41. Eddie Vedder (if not already listened to extensively)
+42. U2 (if not already listened to extensively)
+43. Leonard Cohen (if not already listened to extensively)
+44. Blackfield (if not already listened to extensively)
+45. Tool (if not already listened to extensively)
+46. James Blunt (if not already listened to extensively)
+47. Green Day (if not already listened to extensively)
+48. Neil Young (if not already listened to extensively)
+49. Jethro Tull (if not already listened to extensively)
+50. Nick Drake (if not already listened to extensively)

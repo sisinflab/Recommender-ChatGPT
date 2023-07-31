@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Tame Impala
+2. The Strokes
+3. Arcade Fire
+4. The White Stripes
+5. Queens of the Stone Age
+6. Vampire Weekend
+7. The Black Keys
+8. Muse
+9. The Killers
+10. Arctic Monkeys (Tranquility Base Hotel & Casino)
+11. Radiohead (In Rainbows)
+12. Pink Floyd (The Wall)
+13. David Bowie (The Rise and Fall of Ziggy Stardust and the Spiders from Mars)
+14. Daft Punk (Random Access Memories)
+15. Gorillaz (Demon Days)
+16. Franz Ferdinand (Franz Ferdinand)
+17. Interpol (Turn on the Bright Lights)
+18. LCD Soundsystem (Sound of Silver)
+19. The National (Boxer)
+20. Fleet Foxes (Fleet Foxes)
+21. Bon Iver (For Emma, Forever Ago)
+22. Sufjan Stevens (Illinois)
+23. Grizzly Bear (Veckatimest)
+24. Animal Collective (Merriweather Post Pavilion)
+25. Beach House (Teen Dream)
+26. The xx (xx)
+27. Foals (Total Life Forever)
+28. Bombay Bicycle Club (I Had the Blues But I Shook Them Loose)
+29. Two Door Cinema Club (Tourist History)
+30. Vampire Weekend (Contra)
+31. Phoenix (Wolfgang Amadeus Phoenix)
+32. MGMT (Oracular Spectacular)
+33. The Shins (Chutes Too Narrow)
+34. Death Cab for Cutie (Plans)
+35. Belle and Sebastian (If You're Feeling Sinister)
+36. The Decemberists (The Crane Wife)
+37. Neutral Milk Hotel (In the Aeroplane Over the Sea)
+38. Elliott Smith (Either/Or)
+39. Nick Drake (Pink Moon)
+40. Bob Dylan (Highway 61 Revisited)
+41. Leonard Cohen (Songs of Leonard Cohen)
+42. Joni Mitchell (Blue)
+43. Neil Young (Harvest)
+44. Tom Waits (Rain Dogs)
+45. Patti Smith (Horses)
+46. Talking Heads (Remain in Light)
+47. Joy Division (Unknown Pleasures)
+48. The Cure (Disintegration)
+49. New Order (Power, Corruption & Lies)
+50. Depeche Mode (Violator)

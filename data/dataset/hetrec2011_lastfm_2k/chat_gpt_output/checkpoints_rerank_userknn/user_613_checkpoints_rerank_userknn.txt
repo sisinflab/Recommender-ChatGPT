@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Neil Young
+2. Bob Dylan
+3. The Rolling Stones
+4. Ryan Adams
+5. Ben Harper
+6. Iron & Wine
+7. José González
+8. Feist
+9. Sigur Rós
+10. Jack Johnson
+11. Creedence Clearwater Revival
+12. Broken Social Scene
+13. Ani DiFranco
+14. The Jimi Hendrix Experience
+15. Janis Joplin
+16. Johnny Cash
+17. The Beatles
+18. Paul McCartney
+19. Nirvana
+20. Pearl Jam
+21. Stone Temple Pilots
+22. Rage Against the Machine
+23. The Clash
+24. The Smiths
+25. Joy Division
+26. Interpol
+27. The Strokes
+28. Arctic Monkeys
+29. White Lies
+30. The Verve
+31. Kasabian
+32. Muse
+33. Radiohead
+34. Spiritualized
+35. Led Zeppelin
+36. Cream
+37. Eric Clapton
+38. ZZ Top
+39. The Who
+40. The White Stripes
+41. The Killers
+42. Oasis
+43. The Libertines
+44. Manic Street Preachers
+45. Ramones
+46. Sonic Youth
+47. Depeche Mode
+48. Cat Power
+49. Bush
+50. Razorlight

@@ -1,0 +1,49 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Good Omens by Neil Gaiman and Terry Pratchett
+2. Going Postal by Terry Pratchett
+3. The Wee Free Men by Terry Pratchett
+4. Mort by Terry Pratchett
+5. Guards! Guards! by Terry Pratchett
+6. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+7. The Color of Magic by Terry Pratchett
+8. Equal Rites by Terry Pratchett
+9. The Light Fantastic by Terry Pratchett
+10. Small Gods by Terry Pratchett
+11. The Amazing Maurice and His Educated Rodents by Terry Pratchett
+12. The Long Earth by Terry Pratchett and Stephen Baxter
+13. The Dark Tower series by Stephen King
+14. The Name of the Wind by Patrick Rothfuss
+15. American Gods by Neil Gaiman
+16. The Graveyard Book by Neil Gaiman
+17. The Ocean at the End of the Lane by Neil Gaiman
+18. Neverwhere by Neil Gaiman
+19. Stardust by Neil Gaiman
+20. The Sandman series by Neil Gaiman
+21. The Lies of Locke Lamora by Scott Lynch
+22. The Kingkiller Chronicle series by Patrick Rothfuss
+23. The First Law trilogy by Joe Abercrombie
+24. The Blade Itself by Joe Abercrombie
+25. The Black Company series by Glen Cook
+26. The Malazan Book of the Fallen series by Steven Erikson
+27. The Lies of Locke Lamora by Scott Lynch
+28. The Kingkiller Chronicle series by Patrick Rothfuss
+29. The First Law trilogy by Joe Abercrombie
+30. The Blade Itself by Joe Abercrombie
+31. The Black Company series by Glen Cook
+32. The Malazan Book of the Fallen series by Steven Erikson
+33. The Dresden Files series by Jim Butcher
+34. The Mistborn trilogy by Brandon Sanderson
+35. The Stormlight Archive series by Brandon Sanderson
+36. The Wheel of Time series by Robert Jordan and Brandon Sanderson
+37. The Belgariad series by David Eddings
+38. The Chronicles of Narnia series by C.S. Lewis
+39. The Lord of the Rings trilogy by J.R.R. Tolkien
+40. The Hobbit by J.R.R. Tolkien
+41. The Silmarillion by J.R.R. Tolkien
+42. The Earthsea series by Ursula K. Le Guin
+43. The Dark is Rising sequence by Susan Cooper
+44. The Prydain Chronicles by Lloyd Alexander
+45. The Sword of Shannara trilogy by Terry Brooks
+46. The Chronicles of Amber series by Roger Zelazny
+47. The Farseer Trilogy

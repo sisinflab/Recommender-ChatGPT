@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Shining by Stephen King
+2. Pet Sematary by Stephen King
+3. Misery by Stephen King
+4. The Dark Tower series by Stephen King
+5. The Girl Who Loved Tom Gordon by Stephen King
+6. The Talisman by Stephen King and Peter Straub
+7. The Eyes of the Dragon by Stephen King
+8. The Outsider by Stephen King
+9. The Dead Zone by Stephen King
+10. The Tommyknockers by Stephen King
+11. The Mist by Stephen King
+12. The Green Mile by Stephen King
+13. The Gunslinger by Stephen King
+14. The Drawing of the Three by Stephen King
+15. The Waste Lands by Stephen King
+16. Wizard and Glass by Stephen King
+17. Wolves of the Calla by Stephen King
+18. Song of Susannah by Stephen King
+19. The Dark Tower by Stephen King
+20. The Andromeda Strain by Michael Crichton
+21. Jurassic Park by Michael Crichton
+22. The Lost World by Michael Crichton
+23. Sphere by Michael Crichton
+24. Congo by Michael Crichton
+25. Prey by Michael Crichton
+26. Timeline by Michael Crichton
+27. The Da Vinci Code by Dan Brown
+28. Angels and Demons by Dan Brown
+29. Inferno by Dan Brown
+30. Digital Fortress by Dan Brown
+31. Deception Point by Dan Brown
+32. The Hunger Games series by Suzanne Collins
+33. Catching Fire by Suzanne Collins
+34. Mockingjay by Suzanne Collins
+35. The Maze Runner by James Dashner
+36. The Scorch Trials by James Dashner
+37. The Death Cure by James Dashner
+38. The Bourne Identity by Robert Ludlum
+39. The Bourne Supremacy by Robert Ludlum
+40. The Bourne Ultimatum by Robert Ludlum
+41. The Silence of the Lambs by Thomas Harris
+42. Hannibal by Thomas Harris
+43. Red Dragon by Thomas Harris
+44. The Girl with the Dragon Tattoo by Stieg Larsson
+45. The Girl Who Played with Fire by Stieg Larsson
+46. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+47. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+48. The Restaurant at the End of the Universe by Douglas Adams
+49. Life, the Universe and Everything by Douglas Adams
+50. So Long, and Thanks for All the Fish by Douglas Adams

@@ -1,0 +1,50 @@
+Based on the user's liking for the books, here are the top 50 recommendations for the user:
+
+1. Dracula by Bram Stoker
+2. The Picture of Dorian Gray by Oscar Wilde
+3. The Great Gatsby by F. Scott Fitzgerald
+4. The Hobbit by J.R.R. Tolkien
+5. The Lord of the Rings by J.R.R. Tolkien
+6. Brave New World by Aldous Huxley
+7. The Catcher in the Rye by J.D. Salinger
+8. The Giver by Lois Lowry
+9. The Maze Runner by James Dashner
+10. The City of Ember by Jeanne DuPrau
+11. The Stand by Stephen King
+12. Gravity's Rainbow by Thomas Pynchon
+13. World War Z by Max Brooks
+14. A Series of Unfortunate Events by Lemony Snicket
+15. The Southern Vampire Mysteries by Charlaine Harris
+16. Twilight Eyes by Dean Koontz
+17. The Rapture (novel) by Tim LaHaye and Jerry B. Jenkins
+18. The Outsiders (novel) by S.E. Hinton
+19. The House of Mirth by Edith Wharton
+20. The Portrait of a Lady by Henry James
+21. Pygmalion (play) by George Bernard Shaw
+22. The Silmarillion by J.R.R. Tolkien
+23. The Tenant of Wildfell Hall by Anne Bronte
+24. Invisible Man by Ralph Ellison
+25. Lady Chatterley's Lover by D.H. Lawrence
+26. Shakespeares sonnets by William Shakespeare
+27. The Pillowman by Martin McDonagh
+28. Medea (play) by Euripides
+29. Dexter in the Dark by Jeff Lindsay
+30. Incarceron by Catherine Fisher
+31. Made in America (book) by Bill Bryson
+32. Delta of Venus by Anaïs Nin
+33. And the Ass Saw the Angel by Nick Cave
+34. Cut (novel) by Patricia McCormick
+35. Vampire Kisses by Ellen Schreiber
+36. If There Be Thorns by V.C. Andrews
+37. Petals on the Wind by V.C. Andrews
+38. The Scarlet Letter by Nathaniel Hawthorne
+39. Strange Case of Dr Jekyll and Mr Hyde by Robert Louis Stevenson
+40. The Phantom of the Opera by Gaston Leroux
+41. Across the Universe (novel) by Beth Revis
+42. The Lost Books (novel series) by Ted Dekker
+43. Frankenstein by Mary Shelley
+44. W.I.T.C.H. by Elisabetta Gnone
+45. Jane Eyre by Charlotte Bronte
+46. Angels & Demons by Dan Brown
+47. Lolita by Vladimir Nabokov
+48. Vanity Fair (novel) by William Makepeace

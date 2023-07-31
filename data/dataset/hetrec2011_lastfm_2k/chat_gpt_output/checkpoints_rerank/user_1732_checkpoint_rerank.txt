@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Smiths
+2. Beck
+3. Morrissey
+4. Simon & Garfunkel
+5. Elbow
+6. Frightened Rabbit
+7. Laura Marling
+8. Camera Obscura
+9. Orbital
+10. LCD Soundsystem
+11. Aphex Twin
+12. Talking Heads
+13. Doves
+14. The Flaming Lips
+15. Billie Holiday
+16. Morcheeba
+17. The Beatles
+18. Radiohead
+19. Nirvana
+20. Pearl Jam
+21. Led Zeppelin
+22. Metallica
+23. Iron Maiden
+24. Pink Floyd
+25. Muse
+26. U2
+27. Coldplay
+28. Blur
+29. Arctic Monkeys
+30. Placebo
+31. The Killers
+32. Amy Winehouse
+33. Michael Jackson
+34. Björk
+35. Daft Punk
+36. Nine Inch Nails
+37. Linkin Park
+38. System of a Down
+39. Duran Duran
+40. Kylie Minogue
+41. Madonna
+42. Lady Gaga
+43. Christina Aguilera
+44. Rihanna
+45. Shakira
+46. Katy Perry
+47. Avril Lavigne
+48. Taylor Swift
+49. Ke$ha
+50. Green Day

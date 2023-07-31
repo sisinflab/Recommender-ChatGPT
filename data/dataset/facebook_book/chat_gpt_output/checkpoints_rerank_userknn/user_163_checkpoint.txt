@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Hunchback of Notre-Dame by Victor Hugo
+2. Frankenstein by Mary Shelley
+3. Interview with the Vampire by Anne Rice
+4. The Picture of Dorian Gray by Oscar Wilde
+5. Dracula by Bram Stoker
+6. The Phantom of the Opera by Gaston Leroux
+7. Romeo and Juliet by William Shakespeare
+8. Jane Eyre by Charlotte Bronte
+9. Love in the Time of Cholera by Gabriel Garcia Marquez
+10. Let the Right One In by John Ajvide Lindqvist
+11. The Metamorphosis by Franz Kafka
+12. Memoirs of a Geisha by Arthur Golden
+13. The Time Traveler's Wife by Audrey Niffenegger
+14. The Secret Garden by Frances Hodgson Burnett
+15. The Thief of Always by Clive Barker
+16. The Lion, the Witch and the Wardrobe by C.S. Lewis
+17. The Lord of the Rings by J.R.R. Tolkien
+18. Around the World in Eighty Days by Jules Verne
+19. Alice's Adventures in Wonderland by Lewis Carroll
+20. The Giver by Lois Lowry
+21. The Swiss Family Robinson by Johann David Wyss
+22. Flowers in the Attic by V.C. Andrews
+23. The Scarlet Letter by Nathaniel Hawthorne
+24. Les Miserables by Victor Hugo
+25. The Da Vinci Code by Dan Brown
+26. Angels & Demons by Dan Brown
+27. The Coldest Winter Ever by Sister Souljah
+28. The Watchmen by Alan Moore
+29. The Zombie Survival Guide by Max Brooks
+30. The Memory Keeper's Daughter by Kim Edwards
+31. We Were Soldiers Once... And Young by Harold G. Moore and Joseph L. Galloway
+32. The Wonderful Wizard of Oz by L. Frank Baum
+33. Dead Until Dark by Charlaine Harris
+34. Witch & Wizard by James Patterson
+35. The Catcher in the Rye by J.D. Salinger
+36. Things Fall Apart by Chinua Achebe
+37. The Giver by Lois Lowry
+38. The Swiss Family Robinson by Johann David Wyss
+39. The Coldest Winter Ever by Sister Souljah
+40. The Watchmen by Alan Moore
+41. The Zombie Survival Guide by Max Brooks
+42. The Memory Keeper's Daughter by Kim Edwards
+43. We Were Soldiers Once... And Young by Harold G. Moore and Joseph L. Galloway
+44. The Wonderful Wizard of Oz by L. Frank Baum
+45. Dead Until Dark by Charlaine Harris
+46. Witch & Wizard by James Patterson
+47. The Thief of Always by Clive Barker
+48. The Lion, the Witch and the Wardrobe by C.S. Lewis
+49. The Lord of the

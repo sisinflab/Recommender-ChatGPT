@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Mrs. Dalloway by Virginia Woolf
+2. The Adventures of Tom Sawyer by Mark Twain
+3. Anna Karenina by Leo Tolstoy
+4. As I Lay Dying by William Faulkner
+5. White Fang by Jack London
+6. The Dirt: Confessions of the World's Most Notorious Rock Band by Nikki Sixx
+7. Love, Rosie by Cecelia Ahern
+8. A Little Princess by Frances Hodgson Burnett
+9. Wild: From Lost to Found on the Pacific Crest Trail by Cheryl Strayed
+10. Snow Flower and the Secret Fan by Lisa See
+11. The Moral Landscape: How Science Can Determine Human Values by Sam Harris
+12. The Book Thief by Markus Zusak
+13. The Catcher in the Rye by J.D. Salinger
+14. The Great Gatsby by F. Scott Fitzgerald
+15. 1984 by George Orwell
+16. One Hundred Years of Solitude by Gabriel Garcia Marquez
+17. The Picture of Dorian Gray by Oscar Wilde
+18. The Bell Jar by Sylvia Plath
+19. The Color Purple by Alice Walker
+20. The Handmaid's Tale by Margaret Atwood
+21. The Kite Runner by Khaled Hosseini
+22. The Lord of the Rings by J.R.R. Tolkien
+23. The Hunger Games by Suzanne Collins
+24. Harry Potter and the Philosopher's Stone by J.K. Rowling
+25. The Da Vinci Code by Dan Brown
+26. The Girl with the Dragon Tattoo by Stieg Larsson
+27. The Help by Kathryn Stockett
+28. The Lovely Bones by Alice Sebold
+29. The Notebook by Nicholas Sparks
+30. The Time Traveler's Wife by Audrey Niffenegger
+31. The Fault in Our Stars by John Green
+32. The Alchemist by Paulo Coelho
+33. The Power of Now: A Guide to Spiritual Enlightenment by Eckhart Tolle
+34. The Road by Cormac McCarthy
+35. The Shining by Stephen King
+36. The Stand by Stephen King
+37. The Sun Also Rises by Ernest Hemingway
+38. The Old Man and the Sea by Ernest Hemingway
+39. The Picture of Dorian Gray by Oscar Wilde
+40. The Stranger by Albert Camus
+41. The Trial by Franz Kafka
+42. The Unbearable Lightness of Being by Milan Kundera
+43. The Wind-Up Bird Chronicle by Haruki Murakami
+44. The Name of the Wind by Patrick Rothfuss
+45. The Way of Kings by Brandon Sanderson
+46. The Lies of Locke Lamora by Scott Lynch
+47. The Blade Itself by Joe Abercrombie
+48. The Final Empire by Brandon Sanderson
+49. The Eye of the

@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. To Kill a Mockingbird by Harper Lee
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Animal Farm by George Orwell
+6. One Hundred Years of Solitude by Gabriel Garcia Marquez
+7. The Catcher in the Rye by J.D. Salinger
+8. The Lord of the Rings by J.R.R. Tolkien
+9. The Hobbit by J.R.R. Tolkien
+10. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+11. The Handmaid's Tale by Margaret Atwood
+12. The Picture of Dorian Gray by Oscar Wilde
+13. The Brothers Karamazov by Fyodor Dostoevsky
+14. Crime and Punishment by Fyodor Dostoevsky
+15. The Stranger by Albert Camus
+16. The Trial by Franz Kafka
+17. The Metamorphosis by Franz Kafka
+18. The Name of the Rose by Umberto Eco
+19. The Three Musketeers by Alexandre Dumas
+20. The Hunchback of Notre-Dame by Victor Hugo
+21. Les Misérables by Victor Hugo
+22. The War of the Worlds by H.G. Wells
+23. The Time Machine by H.G. Wells
+24. The Invisible Man by H.G. Wells
+25. The Island of Dr. Moreau by H.G. Wells
+26. The Martian Chronicles by Ray Bradbury
+27. Fahrenheit 451 by Ray Bradbury
+28. The Chronicles of Narnia by C.S. Lewis
+29. The Dark Tower series by Stephen King
+30. The Stand by Stephen King
+31. The Shining by Stephen King
+32. The Silence of the Lambs by Thomas Harris
+33. The Da Vinci Code by Dan Brown
+34. Angels and Demons by Dan Brown
+35. The Girl with the Dragon Tattoo by Stieg Larsson
+36. The Hunger Games by Suzanne Collins
+37. The Maze Runner by James Dashner
+38. The Giver by Lois Lowry
+39. Ender's Game by Orson Scott Card
+40. The Hitchhiker's Guide to the Galaxy series by Douglas Adams
+41. The Discworld series by Terry Pratchett
+42. The Wheel of Time series by Robert Jordan
+43. The Sword of Truth series by Terry Goodkind
+44. The Dresden Files series by Jim Butcher
+45. The Belgariad series by David Eddings
+46. The Malazan Book of the Fallen series by Steven Erikson
+47. The First Law trilogy by Joe Abercrombie
+48. The Kingkiller Chronicle series by Patrick Rothfuss
+49. The Stormlight Archive series by Brandon Sanderson

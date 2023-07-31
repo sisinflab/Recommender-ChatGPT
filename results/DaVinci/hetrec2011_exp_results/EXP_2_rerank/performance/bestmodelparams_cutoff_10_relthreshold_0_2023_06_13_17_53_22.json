@@ -1,0 +1,15 @@
+[
+    {
+        "default_validation_metric": "nDCG",
+        "default_validation_cutoff": 10,
+        "rel_threshold": 0
+    },
+    {
+        "meta": {},
+        "recommender": "no_rerank_performance",
+        "configuration": {
+            "path": "../data/dataset/hetrec2011_lastfm_2k/processed_data/no_rerank_performance.tsv",
+            "name": "no_rerank_performance"
+        }
+    }
+]

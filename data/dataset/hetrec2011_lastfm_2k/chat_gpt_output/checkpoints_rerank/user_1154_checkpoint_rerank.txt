@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Enigma
+2. Enya
+3. Era
+4. Secret Garden
+5. Deep Forest
+6. Enigma & D-Emotion Project
+7. Amethystium
+8. Delerium
+9. Vangelis
+10. Schiller
+11. Jean-Michel Jarre
+12. Yanni
+13. Ennio Morricone
+14. John Williams
+15. Mike Oldfield
+16. Loreena McKennitt
+17. Sarah Brightman
+18. Clannad
+19. Celtic Woman
+20. David Arkenstone
+21. Mannheim Steamroller
+22. Tangerine Dream
+23. Kitaro
+24. Andreas Vollenweider
+25. Dead Can Dance
+26. Kate Bush
+27. Tori Amos
+28. Sade
+29. Fleetwood Mac
+30. The Cranberries
+31. Alan Parsons Project
+32. Pink Floyd
+33. The Beatles
+34. U2
+35. Muse
+36. Radiohead
+37. Coldplay
+38. Duran Duran
+39. The Killers
+40. Nirvana
+41. Led Zeppelin
+42. Metallica
+43. Michael Jackson
+44. Pearl Jam
+45. a-ha
+46. Björk
+47. Daft Punk
+48. Nine Inch Nails
+49. Linkin Park
+50. The Cure

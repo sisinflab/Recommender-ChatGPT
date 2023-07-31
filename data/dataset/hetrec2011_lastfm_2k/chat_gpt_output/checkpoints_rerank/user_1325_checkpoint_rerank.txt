@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Tool
+2. Rage Against the Machine
+3. Queens of the Stone Age
+4. Nick Cave and the Bad Seeds
+5. Fugazi
+6. Ramones
+7. Killing Joke
+8. Bad Religion
+9. Mogwai
+10. God Is an Astronaut
+11. Mono
+12. Monster Magnet
+13. Serj Tankian
+14. Muse
+15. Radiohead
+16. Nirvana
+17. Pearl Jam
+18. Metallica
+19. Iron Maiden
+20. Led Zeppelin
+21. Pink Floyd
+22. The Beatles
+23. U2
+24. 30 Seconds to Mars
+25. Arctic Monkeys
+26. Placebo
+27. The Killers
+28. Duran Duran
+29. Coldplay
+30. Blur
+31. System of a Down
+32. Nine Inch Nails
+33. Daft Punk
+34. Linkin Park
+35. Avenged Sevenfold
+36. My Chemical Romance
+37. Green Day
+38. The Cure
+39. Michael Jackson
+40. Beyoncé
+41. Madonna
+42. Lady Gaga
+43. Rihanna
+44. Shakira
+45. Christina Aguilera
+46. Katy Perry
+47. Taylor Swift
+48. Ke$ha
+49. Amy Winehouse
+50. Björk

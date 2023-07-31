@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. Brave New World by Aldous Huxley
+4. Fahrenheit 451 by Ray Bradbury
+5. The Great Gatsby by F. Scott Fitzgerald
+6. To the Lighthouse by Virginia Woolf
+7. The Bell Jar by Sylvia Plath
+8. One Hundred Years of Solitude by Gabriel Garcia Marquez
+9. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+10. The Hobbit by J.R.R. Tolkien
+11. The Fellowship of the Ring by J.R.R. Tolkien
+12. The Two Towers by J.R.R. Tolkien
+13. The Return of the King by J.R.R. Tolkien
+14. The Chronicles of Narnia by C.S. Lewis
+15. The Picture of Dorian Gray by Oscar Wilde
+16. The Importance of Being Earnest by Oscar Wilde
+17. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+18. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+19. The Hound of the Baskervilles by Arthur Conan Doyle
+20. The Complete Works of William Shakespeare by William Shakespeare
+21. The Canterbury Tales by Geoffrey Chaucer
+22. The Divine Comedy by Dante Alighieri
+23. The Iliad by Homer
+24. The Odyssey by Homer
+25. The Aeneid by Virgil
+26. The Inferno by Dante Alighieri
+27. The Count of Monte Cristo by Alexandre Dumas
+28. Les Miserables by Victor Hugo
+29. Crime and Punishment by Fyodor Dostoevsky
+30. War and Peace by Leo Tolstoy
+31. Anna Karenina by Leo Tolstoy
+32. The Brothers Karamazov by Fyodor Dostoevsky
+33. Heart of Darkness by Joseph Conrad
+34. Lord Jim by Joseph Conrad
+35. The Secret Agent by Joseph Conrad
+36. The Trial by Franz Kafka
+37. The Metamorphosis by Franz Kafka
+38. The Stranger by Albert Camus
+39. The Plague by Albert Camus
+40. The Catch-22 by Joseph Heller
+41. Slaughterhouse-Five by Kurt Vonnegut
+42. Cat's Cradle by Kurt Vonnegut
+43. The Handmaid's Tale by Margaret Atwood
+44. The Road by Cormac McCarthy
+45. The Stand by Stephen King
+46. The Shining by Stephen King
+47. The Silence of the Lambs by Thomas Harris
+48. The Girl with the Dragon Tattoo by Stieg Larsson
+49. The Da Vinci Code by Dan Brown
+50. Angels and Demons by Dan Brown

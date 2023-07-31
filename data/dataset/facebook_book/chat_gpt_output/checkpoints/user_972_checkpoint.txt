@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Girl with the Dragon Tattoo by Stieg Larsson
+2. The Catcher in the Rye by J.D. Salinger
+3. To Kill a Mockingbird by Harper Lee
+4. 1984 by George Orwell
+5. The Great Gatsby by F. Scott Fitzgerald
+6. The Hunger Games by Suzanne Collins
+7. The Lord of the Rings by J.R.R. Tolkien
+8. The Hobbit by J.R.R. Tolkien
+9. The Chronicles of Narnia by C.S. Lewis
+10. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+11. The Shining by Stephen King
+12. The Stand by Stephen King
+13. The Silence of the Lambs by Thomas Harris
+14. The Bourne Identity by Robert Ludlum
+15. The Da Vinci Code by Dan Brown
+16. Angels and Demons by Dan Brown
+17. Inferno by Dan Brown
+18. The Lost Symbol by Dan Brown
+19. The Age of Innocence by Edith Wharton
+20. The House of Mirth by Edith Wharton
+21. Ethan Frome by Edith Wharton
+22. The Jungle Book by Rudyard Kipling
+23. Kim by Rudyard Kipling
+24. Just So Stories by Rudyard Kipling
+25. Let the Right One In by John Ajvide Lindqvist
+26. Twilight by Stephenie Meyer
+27. Pride and Prejudice by Jane Austen
+28. Sense and Sensibility by Jane Austen
+29. Persuasion by Jane Austen
+30. Northanger Abbey by Jane Austen
+31. Emma by Jane Austen
+32. Mansfield Park by Jane Austen
+33. Invisible Man by Ralph Ellison
+34. Native Son by Richard Wright
+35. A Separate Peace by John Knowles
+36. The Outsiders by S.E. Hinton
+37. A Thousand Splendid Suns by Khaled Hosseini
+38. The Kite Runner by Khaled Hosseini
+39. The Prophet by Kahlil Gibran
+40. Siddhartha by Hermann Hesse
+41. Howl by Allen Ginsberg
+42. On the Road by Jack Kerouac
+43. Ragtime by E.L. Doctorow
+44. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+45. The Brief Wondrous Life of Oscar Wao by Junot Diaz
+46. The Namesake by Jhumpa Lahiri
+47. The God of Small Things by Arundhati Roy
+48. The Joy Luck Club by Amy Tan
+49. The House on Mango Street by Sandra Cisneros
+50. Looking for Alaska by John Green

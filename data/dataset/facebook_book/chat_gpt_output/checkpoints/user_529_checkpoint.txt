@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. To Kill a Mockingbird by Harper Lee
+4. Animal Farm by George Orwell
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Lord of the Flies by William Golding
+7. The Hobbit by J.R.R. Tolkien
+8. The Fellowship of the Ring by J.R.R. Tolkien
+9. The Two Towers by J.R.R. Tolkien
+10. The Return of the King by J.R.R. Tolkien
+11. The Silmarillion by J.R.R. Tolkien
+12. The Art of War by Sun Tzu
+13. The Prince by Niccolo Machiavelli
+14. The Republic by Plato
+15. The Communist Manifesto by Karl Marx and Friedrich Engels
+16. The Wealth of Nations by Adam Smith
+17. The Divine Comedy by Dante Alighieri
+18. Crime and Punishment by Fyodor Dostoevsky
+19. The Brothers Karamazov by Fyodor Dostoevsky
+20. One Hundred Years of Solitude by Gabriel Garcia Marquez
+21. Love in the Time of Cholera by Gabriel Garcia Marquez
+22. The Catcher in the Rye by J.D. Salinger
+23. Slaughterhouse-Five by Kurt Vonnegut
+24. Cat's Cradle by Kurt Vonnegut
+25. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+26. The Lord of the Rings by J.R.R. Tolkien
+27. The Dark Tower series by Stephen King
+28. The Stand by Stephen King
+29. The Shining by Stephen King
+30. It by Stephen King
+31. The Gunslinger by Stephen King
+32. The Long Walk by Stephen King
+33. The Running Man by Stephen King
+34. The Talisman by Stephen King and Peter Straub
+35. The Anarchist Cookbook by William Powell
+36. The Satanic Bible by Anton LaVey
+37. The Necronomicon by H.P. Lovecraft
+38. The Complete Works of Edgar Allan Poe
+39. The Picture of Dorian Gray by Oscar Wilde
+40. Frankenstein by Mary Shelley
+41. Dracula by Bram Stoker
+42. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+43. The War of the Worlds by H.G. Wells
+44. The Time Machine by H.G. Wells
+45. The Invisible Man by H.G. Wells
+46. The Island of Dr. Moreau by H.G. Wells
+47. The Long Hard Road Out of Hell by Marilyn Manson and Neil Strauss
+48. Red Inferno: 1945 by Robert Conroy
+49. Harry Potter

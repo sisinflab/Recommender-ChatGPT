@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Coldplay
+2. The Killers
+3. Bruce Springsteen
+4. Simple Minds
+5. The Smiths
+6. Placebo
+7. Spandau Ballet
+8. Duran Duran
+9. The Police
+10. Bryan Adams
+11. Phil Collins
+12. The Strokes
+13. Black Eyed Peas
+14. Blur
+15. Robbie Williams
+16. Kaiser Chiefs
+17. Travis
+18. ABBA
+19. Muse
+20. Oasis
+21. Maroon 5
+22. John Mayer
+23. Michael Jackson
+24. Radiohead
+25. The Cure
+26. Bon Jovi
+27. David Bowie
+28. Snow Patrol
+29. Kings of Leon
+30. Razorlight
+31. Weezer
+32. The Beatles
+33. My Chemical Romance
+34. Depeche Mode
+35. Brandon Flowers
+36. Aqualung
+37. Manic Street Preachers
+38. Arctic Monkeys
+39. The Fratellis
+40. Bob Marley & The Wailers
+41. Bob Marley
+42. 30 Seconds to Mars
+43. Breaking Benjamin
+44. Alanis Morissette
+45. Natalie Imbruglia
+46. Cyndi Lauper
+47. Erasure
+48. Foreigner
+49. Elton John
+50. Toto

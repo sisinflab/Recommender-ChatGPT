@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. The Silmarillion by J.R.R. Tolkien
+3. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+4. The Giver by Lois Lowry
+5. Anne of Green Gables by L.M. Montgomery
+6. Where the Red Fern Grows by Wilson Rawls
+7. His Dark Materials by Philip Pullman
+8. A Walk in the Woods by Bill Bryson
+9. The Hatchet by Gary Paulsen
+10. Flowers in the Attic by V.C. Andrews
+11. To Kill a Mockingbird by Harper Lee
+12. The Hardy Boys by Franklin W. Dixon
+13. Jane Eyre by Charlotte Bronte
+14. Atlas Shrugged by Ayn Rand
+15. Brave New World by Aldous Huxley
+16. Frankenstein by Mary Shelley
+17. Bhagavad Gita by Anonymous
+18. The Monk Who Sold His Ferrari by Robin Sharma
+19. The Lovely Bones by Alice Sebold
+20. Through the Looking-Glass by Lewis Carroll
+21. The Autobiography of Malcolm X by Malcolm X
+22. 'Salem's Lot by Stephen King
+23. The Hunger Games by Suzanne Collins
+24. Nineteen Eighty-Four by George Orwell
+25. Les Misérables by Victor Hugo
+26. The Kite Runner by Khaled Hosseini
+27. A Great and Terrible Beauty by Libba Bray
+28. Mockingjay by Suzanne Collins
+29. Fablehaven by Brandon Mull
+30. Alas, Babylon by Pat Frank
+31. The Trumpet of the Swan by E.B. White
+32. Holes by Louis Sachar
+33. Sarah's Key by Tatiana de Rosnay
+34. The Other Side of Midnight by Sidney Sheldon
+35. The Godfather by Mario Puzo
+36. Twilight by Stephenie Meyer
+37. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+38. The Zombie Survival Guide by Max Brooks
+39. As I Lay Dying by William Faulkner
+40. An Inconvenient Book by Glenn Beck
+41. Big Sur by Jack Kerouac
+42. A Million Little Pieces by James Frey
+43. L.A. Candy by Lauren Conrad
+44. The Five People You Meet in Heaven by Mitch Albom
+45. Encyclopædia Britannica by Various
+46. Pet Sematary by Stephen King
+47. Insomnia by Stephen King
+48. Fallen by Kate novel
+49. I Am America (And So Can You!) by Stephen Colbert
+50. The Fabric of the Cosmos by Brian Greene

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Ashley Tisdale
+2. Sarah Connor
+3. Kris Allen
+4. 浜崎あゆみ
+5. Mariah Carey
+6. Delta Goodrem
+7. Good Charlotte
+8. Daughtry
+9. Backstreet Boys
+10. Jordin Sparks
+11. LeAnn Rimes
+12. 倖田來未
+13. Cinema Bizarre
+14. Danny
+15. Alexandra Burke
+16. Jason Derülo
+17. Paramore
+18. Cascada
+19. Ke$ha
+20. Britney Spears
+21. Avril Lavigne
+22. Miley Cyrus
+23. Rihanna
+24. Lady Gaga
+25. Beyoncé
+26. Pink Floyd
+27. Madonna
+28. The Beatles
+29. Christina Aguilera
+30. Katy Perry
+31. Taylor Swift
+32. Evanescence
+33. U2
+34. Muse
+35. Coldplay
+36. Radiohead
+37. Duran Duran
+38. Arctic Monkeys
+39. Placebo
+40. The Killers
+41. Nirvana
+42. Iron Maiden
+43. Led Zeppelin
+44. Metallica
+45. Michael Jackson
+46. Pearl Jam
+47. a-ha
+48. Björk
+49. System of a Down
+50. Daft Punk

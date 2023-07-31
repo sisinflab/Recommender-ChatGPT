@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Guilty Pleasures by Laurell K. Hamilton
+2. The Shining by Stephen King
+3. Interview with the Vampire by Anne Rice
+4. American Gods by Neil Gaiman
+5. The Hunger Games by Suzanne Collins
+6. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+7. The Da Vinci Code by Dan Brown
+8. The Girl with the Dragon Tattoo by Stieg Larsson
+9. The Stand by Stephen King
+10. The Road by Cormac McCarthy
+11. The Handmaid's Tale by Margaret Atwood
+12. The Lord of the Rings by J.R.R. Tolkien
+13. The Catcher in the Rye by J.D. Salinger
+14. The Great Gatsby by F. Scott Fitzgerald
+15. To Kill a Mockingbird by Harper Lee
+16. The Hobbit by J.R.R. Tolkien
+17. The Picture of Dorian Gray by Oscar Wilde
+18. The Name of the Wind by Patrick Rothfuss
+19. The Dark Tower series by Stephen King
+20. The Chronicles of Narnia by C.S. Lewis
+21. The Book Thief by Markus Zusak
+22. The Silence of the Lambs by Thomas Harris
+23. The Talisman by Stephen King and Peter Straub
+24. The Gunslinger by Stephen King
+25. The Green Mile by Stephen King
+26. The Outsider by Stephen King
+27. The Mist by Stephen King
+28. The Dead Zone by Stephen King
+29. The Long Walk by Stephen King
+30. The Running Man by Stephen King
+31. The Eyes of the Dragon by Stephen King
+32. The Tommyknockers by Stephen King
+33. The Dark Half by Stephen King
+34. The Stand: The Complete and Uncut Edition by Stephen King
+35. The Talisman: The Complete and Uncut Edition by Stephen King and Peter Straub
+36. The Drawing of the Three by Stephen King
+37. The Waste Lands by Stephen King
+38. Wizard and Glass by Stephen King
+39. Wolves of the Calla by Stephen King
+40. Song of Susannah by Stephen King
+41. The Dark Tower by Stephen King
+42. The Gunslinger Born by Stephen King
+43. The Long Road Home by Stephen King
+44. Treachery by Stephen King
+45. The Fall of Gilead by Stephen King
+46. The Battle of Jericho Hill by Stephen King
+47. The Wind Through the Keyhole by Stephen King
+48. The Dark Tower Companion by Bev Vincent
+49. The Dark Tower: The Gunslinger - The Journey Begins by Robin Furth
+50. The Dark Tower: The Gunslinger - The Little Sisters of Eluria by Robin Furth

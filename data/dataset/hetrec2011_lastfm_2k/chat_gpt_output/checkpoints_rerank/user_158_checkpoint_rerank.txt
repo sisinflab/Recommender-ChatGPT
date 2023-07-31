@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. 宇多田ヒカル
+2. Hilary Duff
+3. Corinne Bailey Rae
+4. Anastacia
+5. Emily Osment
+6. Cascada
+7. Ellie Goulding
+8. 倖田來未
+9. Michelle Branch
+10. Agnes
+11. Kelly Clarkson
+12. Maria Mena
+13. Katharine McPhee
+14. Jordin Sparks
+15. Ashley Tisdale
+16. Pixie Lott
+17. Aly & AJ
+18. Kristinia DeBarge
+19. Natasha Bedingfield
+20. Colbie Caillat
+21. Shontelle
+22. Demi Lovato
+23. Alexandra Burke
+24. Westlife
+25. Adam Lambert
+26. Jessica Simpson
+27. Leona Lewis
+28. Beyoncé
+29. Lady Gaga
+30. Katy Perry
+31. Pink Floyd
+32. Madonna
+33. Rihanna
+34. The Beatles
+35. U2
+36. Muse
+37. Coldplay
+38. Radiohead
+39. Ke$ha
+40. Evanescence
+41. Shakira
+42. Christina Aguilera
+43. Duran Duran
+44. Arctic Monkeys
+45. Placebo
+46. The Killers
+47. Nirvana
+48. Iron Maiden
+49. Led Zeppelin
+50. Metallica

@@ -1,0 +1,54 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Three Days Grace
+2. Thousand Foot Krutch
+3. Killswitch Engage
+4. 30 Seconds to Mars
+5. Lostprophets
+6. Bullet for My Valentine
+7. Dead by April
+8. Korn
+9. Oomph!
+10. Papa Roach
+11. Chevelle
+12. Unheilig
+13. Hoobastank
+14. Drowning Pool
+15. Sonic Syndicate
+16. Mudvayne
+17. System of a Down
+18. Red
+19. Flyleaf
+20. Billy Talent
+21. Marilyn Manson
+22. The Used
+23. Saliva
+24. Seether
+25. Godsmack
+26. Evanescence
+27. Linkin Park
+28. Avenged Sevenfold
+29. My Chemical Romance
+30. Green Day
+31. Nirvana
+32. Metallica
+33. Iron Maiden
+34. Pearl Jam
+35. Michael Jackson
+36. Nine Inch Nails
+37. Led Zeppelin
+38. Muse
+39. Pink Floyd
+40. U2
+41. The Beatles
+42. Coldplay
+43. Blur
+44. Arctic Monkeys
+45. Placebo
+46. The Killers
+47. Radiohead
+48. Duran Duran
+49. a-ha
+50. Björk
+
+Note: Evanescence is already included in the user's preferences, so it is not included in the recommendations.

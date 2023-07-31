@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. The Name of the Wind by Patrick Rothfuss
+3. A Song of Ice and Fire by George R.R. Martin
+4. Ender's Game by Orson Scott Card
+5. The Book Thief by Markus Zusak
+6. The Count of Monte Cristo by Alexandre Dumas
+7. The Alchemist by Paulo Coelho
+8. The Bourne Identity by Robert Ludlum
+9. Crime and Punishment by Fyodor Dostoevsky
+10. Inkheart by Cornelia Funke
+11. The Lightning Thief by Rick Riordan
+12. The Belgariad by David Eddings
+13. Fullmetal Alchemist by Hiromu Arakawa
+14. Sabriel by Garth Nix
+15. The Eye of the World by Robert Jordan
+16. The Cat in the Hat by Dr. Seuss
+17. The Two Towers by J.R.R. Tolkien
+18. Angels & Demons by Dan Brown
+19. The Host by Stephenie Meyer
+20. The Voyage of the Dawn Treader by C.S. Lewis
+21. Treasure Island by Robert Louis Stevenson
+22. The Hardy Boys by Franklin W. Dixon
+23. The Wonderful Wizard of Oz by L. Frank Baum
+24. Jane Eyre by Charlotte Bronte
+25. The Da Vinci Code by Dan Brown
+26. Percy Jackson & the Olympians by Rick Riordan
+27. The Book of Proverbs by King Solomon
+28. Metamorphoses by Ovid
+29. Red by Ted Dekker
+30. Great Expectations by Charles Dickens
+31. The Demonata by Darren Shan
+32. The Hobbit by J.R.R. Tolkien
+33. Abhorsen by Garth Nix
+34. Everworld by Katherine Applegate
+35. The Name of the Rose by Umberto Eco
+36. The Scarlet Pimpernel by Emma Orczy
+37. The Partner by John Grisham
+38. The Bear and the Dragon by Tom Clancy
+39. Rainbow Six by Tom Clancy
+40. Red Storm Rising by Tom Clancy
+41. Atlas Shrugged by Ayn Rand
+42. This Present Darkness by Frank E. Peretti
+43. Confessor by Terry Goodkind
+44. Brisingr by Christopher Paolini
+45. Eragon by Christopher Paolini
+46. The Red Rabbit by Tom Clancy
+47. Jesus Freaks by DC Talk
+48. Space by James A. Michener
+49. Ranger's Apprentice by John Flanagan
+50. Sun Bin's Art of War by Sun Bin

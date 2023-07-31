@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Michael Jackson
+2. Whitney Houston
+3. Earth, Wind & Fire
+4. Luther Vandross
+5. Diana Ross
+6. Al Green
+7. Aretha Franklin
+8. James Brown
+9. Chaka Khan
+10. Gladys Knight & The Pips
+11. The Temptations
+12. The Supremes
+13. Otis Redding
+14. Sam Cooke
+15. Bill Withers
+16. Curtis Mayfield
+17. Isaac Hayes
+18. Sly & The Family Stone
+19. The Isley Brothers
+20. The O'Jays
+21. The Four Tops
+22. The Spinners
+23. Kool & The Gang
+24. Parliament-Funkadelic
+25. Bootsy Collins
+26. Rick James
+27. Prince & The Revolution
+28. Michael McDonald
+29. Lionel Richie
+30. Steely Dan
+31. Fleetwood Mac
+32. The Eagles
+33. The Beatles
+34. The Rolling Stones
+35. Led Zeppelin
+36. Pink Floyd
+37. David Bowie
+38. Queen
+39. Elton John
+40. Billy Joel
+41. Bruce Springsteen
+42. Tom Petty and the Heartbreakers
+43. U2
+44. Coldplay
+45. Radiohead
+46. Muse
+47. Arcade Fire
+48. The National
+49. Vampire Weekend
+50. Tame Impala

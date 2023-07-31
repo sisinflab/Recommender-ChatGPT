@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Depeche Mode
+2. Nine Inch Nails
+3. IAMX
+4. Arctic Monkeys
+5. Muse
+6. The Knife
+7. White Lies
+8. 30 Seconds to Mars
+9. The Killers
+10. Sneaker Pimps
+11. She Wants Revenge
+12. MGMT
+13. Garbage
+14. Underworld
+15. Ayria
+16. Hammock
+17. The Prodigy
+18. Nitzer Ebb
+19. Skinny Puppy
+20. Goldfrapp
+21. Ladytron
+22. Incubus
+23. The Beatles
+24. Pendulum
+25. Deftones
+26. Monster Magnet
+27. The Last Shadow Puppets
+28. The Strokes
+29. The Cure
+30. Kanye West
+31. Placebo
+32. Michael Jackson
+33. Queen
+34. Panic! At the Disco
+35. Marilyn Manson
+36. Interpol
+37. Tool
+38. Lily Allen
+39. Kid Cudi
+40. Slipknot
+41. Lady Gaga
+42. Korn
+43. Justin Timberlake
+44. Dethklok
+45. Mr. Bungle
+46. Yeah Yeah Yeahs
+47. Dave Gahan
+48. Röyksopp
+49. Dragonette
+50. Coldplay

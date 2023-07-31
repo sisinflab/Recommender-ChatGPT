@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Speaker for the Dead by Orson Scott Card
+2. The Wheel of Time series by Robert Jordan
+3. The Lord of the Rings by J.R.R. Tolkien
+4. The Name of the Wind by Patrick Rothfuss
+5. The Mistborn Trilogy by Brandon Sanderson
+6. The Kingkiller Chronicle by Patrick Rothfuss
+7. The Foundation series by Isaac Asimov
+8. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+9. The Chronicles of Narnia by C.S. Lewis
+10. The Hunger Games by Suzanne Collins
+11. The Harry Potter series by J.K. Rowling
+12. The Dark Tower series by Stephen King
+13. The Dresden Files by Jim Butcher
+14. The Stormlight Archive by Brandon Sanderson
+15. The First Law Trilogy by Joe Abercrombie
+16. The Malazan Book of the Fallen by Steven Erikson
+17. The Hyperion Cantos by Dan Simmons
+18. The Mistborn: Wax and Wayne series by Brandon Sanderson
+19. The Riyria Revelations by Michael J. Sullivan
+20. The Lies of Locke Lamora by Scott Lynch
+21. The Black Company by Glen Cook
+22. The Gentlemen Bastards series by Scott Lynch
+23. The Broken Empire Trilogy by Mark Lawrence
+24. The Powder Mage Trilogy by Brian McClellan
+25. The Red Rising series by Pierce Brown
+26. The Chronicles of Amber by Roger Zelazny
+27. The Earthsea Cycle by Ursula K. Le Guin
+28. The Belgariad by David Eddings
+29. The Farseer Trilogy by Robin Hobb
+30. The Liveship Traders Trilogy by Robin Hobb
+31. The Tawny Man Trilogy by Robin Hobb
+32. The Lightbringer series by Brent Weeks
+33. The Night Angel Trilogy by Brent Weeks
+34. The Codex Alera series by Jim Butcher
+35. The Inheritance Trilogy by N.K. Jemisin
+36. The Broken Earth Trilogy by N.K. Jemisin
+37. The Culture series by Iain M. Banks
+38. The Vorkosigan Saga by Lois McMaster Bujold
+39. The Expanse series by James S.A. Corey
+40. The Three-Body Problem by Liu Cixin
+41. The City & the City by China Miéville
+42. The Southern Reach Trilogy by Jeff Vandermeer
+43. The Book of the New Sun by Gene Wolfe
+44. The Hyperion Legacy by Dan Simmons
+45. The Quantum Thief by Hannu Rajaniemi
+46. The Windup Girl by Paolo Bacigalupi
+47. The Diamond Age by Neal Stephenson
+48. The Mars Trilogy by Kim Stanley Robinson
+49

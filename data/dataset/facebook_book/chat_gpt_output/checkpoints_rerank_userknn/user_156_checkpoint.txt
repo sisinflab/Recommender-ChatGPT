@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Nineteen Eighty-Four by George Orwell
+2. The Great Gatsby by F. Scott Fitzgerald
+3. Crime and Punishment by Fyodor Dostoevsky
+4. The Brothers Karamazov by Fyodor Dostoevsky
+5. The Picture of Dorian Gray by Oscar Wilde
+6. Frankenstein by Mary Shelley
+7. The Lord of the Rings by J.R.R. Tolkien
+8. The Bell Jar by Sylvia Plath
+9. Wuthering Heights by Emily Bronte
+10. The Plague by Albert Camus
+11. The Catcher in the Rye by J.D. Salinger
+12. Brave New World by Aldous Huxley
+13. The Fountainhead by Ayn Rand
+14. Lamb: The Gospel According to Biff, Christ's Childhood Pal by Christopher Moore
+15. The Giver by Lois Lowry
+16. The Book Thief by Markus Zusak
+17. The Last Lecture by Randy Pausch
+18. The Messenger by Markus Zusak
+19. The Shadow of the Wind by Carlos Ruiz Zafon
+20. The Unbearable Lightness of Being by Milan Kundera
+21. The Power of One by Bryce Courtenay
+22. The Power of Five by Anthony Horowitz
+23. The Time Machine by H.G. Wells
+24. The Screwtape Letters by C.S. Lewis
+25. The Marriage of Heaven and Hell by William Blake
+26. A Study in Scarlet by Arthur Conan Doyle
+27. The Sicilian by Mario Puzo
+28. The God of Small Things by Arundhati Roy
+29. The Death and Life of Great American Cities by Jane Jacobs
+30. The Iliad by Homer
+31. The Odyssey by Homer
+32. The Prince by Niccolo Machiavelli
+33. The Good Earth by Pearl S. Buck
+34. The Count of Monte Cristo by Alexandre Dumas
+35. Musashi by Eiji Yoshikawa
+36. Red Inferno: 1945 by Robert Conroy
+37. God Is Not Great by Christopher Hitchens
+38. Fingersmith by Sarah Waters
+39. Diary by Chuck Palahniuk
+40. Infinite Jest by David Foster Wallace
+41. A Brief History of Time by Stephen Hawking
+42. Das Kapital by Karl Marx
+43. Napalm and Silly Putty by George Carlin
+44. At Swim, Two Boys by Jamie O'Neill
+45. Choke by Chuck Palahniuk
+46. Lolita by Vladimir Nabokov
+47. On the Road by Jack Kerouac
+48. Sex, Drugs, and Cocoa Puffs by Chuck Klosterman
+49. Affinity by Sarah Waters
+50. Tropic of

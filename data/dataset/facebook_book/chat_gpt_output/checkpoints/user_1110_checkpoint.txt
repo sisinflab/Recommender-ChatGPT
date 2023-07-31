@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Handmaid's Tale by Margaret Atwood
+4. The Kite Runner by Khaled Hosseini
+5. The Hunger Games by Suzanne Collins
+6. The Girl with the Dragon Tattoo by Stieg Larsson
+7. The Da Vinci Code by Dan Brown
+8. The Help by Kathryn Stockett
+9. The Fault in Our Stars by John Green
+10. The Picture of Dorian Gray by Oscar Wilde
+11. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+12. The Hobbit by J.R.R. Tolkien
+13. The Chronicles of Narnia by C.S. Lewis
+14. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+15. The Alchemist by Paulo Coelho
+16. The Book Thief by Markus Zusak
+17. The Giver by Lois Lowry
+18. The Secret Life of Bees by Sue Monk Kidd
+19. The Color Purple by Alice Walker
+20. The Joy Luck Club by Amy Tan
+21. The Sun Also Rises by Ernest Hemingway
+22. The Old Man and the Sea by Ernest Hemingway
+23. The Grapes of Wrath by John Steinbeck
+24. The Catch-22 by Joseph Heller
+25. One Hundred Years of Solitude by Gabriel Garcia Marquez
+26. Love in the Time of Cholera by Gabriel Garcia Marquez
+27. The Name of the Rose by Umberto Eco
+28. The Shadow of the Wind by Carlos Ruiz Zafon
+29. The Time Traveler's Wife by Audrey Niffenegger
+30. The Lovely Bones by Alice Sebold
+31. The Road by Cormac McCarthy
+32. The Stand by Stephen King
+33. The Shining by Stephen King
+34. The Silence of the Lambs by Thomas Harris
+35. The Talented Mr. Ripley by Patricia Highsmith
+36. The Picture of Dorian Gray by Oscar Wilde
+37. The Importance of Being Earnest by Oscar Wilde
+38. The Bell Jar by Sylvia Plath
+39. The Great Gatsby by F. Scott Fitzgerald
+40. The Count of Monte Cristo by Alexandre Dumas
+41. The Three Musketeers by Alexandre Dumas
+42. The Adventures of Tom Sawyer by Mark Twain
+43. The Adventures of Huckleberry Finn by Mark Twain
+44. The Scarlet Letter by Nathaniel Hawthorne
+45. The House of the Seven Gables by Nathaniel Hawthorne
+46. The Canterbury Tales by Geoffrey Chaucer
+47. The Divine Comedy by Dante Alighieri
+48. The Iliad by Homer
+49. The Odyssey by Homer
+50. The Aeneid by Virgil

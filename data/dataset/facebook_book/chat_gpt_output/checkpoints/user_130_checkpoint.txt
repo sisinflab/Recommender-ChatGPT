@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. Animal Farm by George Orwell
+5. The Lord of the Rings by J.R.R. Tolkien
+6. The Hobbit by J.R.R. Tolkien
+7. The Chronicles of Narnia by C.S. Lewis
+8. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+9. The Da Vinci Code by Dan Brown
+10. The Girl with the Dragon Tattoo by Stieg Larsson
+11. The Hunger Games by Suzanne Collins
+12. The Help by Kathryn Stockett
+13. The Kite Runner by Khaled Hosseini
+14. The Road by Cormac McCarthy
+15. The Stand by Stephen King
+16. The Shining by Stephen King
+17. The Silence of the Lambs by Thomas Harris
+18. The Godfather by Mario Puzo
+19. The Picture of Dorian Gray by Oscar Wilde
+20. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+21. The War of the Worlds by H.G. Wells
+22. The Time Machine by H.G. Wells
+23. The Invisible Man by H.G. Wells
+24. The Island of Dr. Moreau by H.G. Wells
+25. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+26. The Adventures of Tom Sawyer by Mark Twain
+27. The Adventures of Huckleberry Finn by Mark Twain
+28. The Count of Monte Cristo by Alexandre Dumas
+29. Les Misérables by Victor Hugo
+30. The Three Musketeers by Alexandre Dumas
+31. The Name of the Rose by Umberto Eco
+32. The Pillars of the Earth by Ken Follett
+33. The Bourne Identity by Robert Ludlum
+34. The Bourne Supremacy by Robert Ludlum
+35. The Bourne Ultimatum by Robert Ludlum
+36. The Firm by John Grisham
+37. The Pelican Brief by John Grisham
+38. The Rainmaker by John Grisham
+39. The Client by John Grisham
+40. The Chamber by John Grisham
+41. The Green Mile by Stephen King
+42. The Stand by Stephen King
+43. The Dark Tower series by Stephen King
+44. The Talisman by Stephen King and Peter Straub
+45. The Gunslinger by Stephen King
+46. The Drawing of the Three by Stephen King
+47. The Waste Lands by Stephen King
+48. Wizard and Glass by Stephen King
+49. Wolves of the Calla by Stephen King
+50. Song of Susannah by Stephen King

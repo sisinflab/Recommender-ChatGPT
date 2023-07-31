@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. Pride and Prejudice by Jane Austen
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Animal Farm by George Orwell
+6. The Hobbit by J.R.R. Tolkien
+7. The Lord of the Rings by J.R.R. Tolkien
+8. The Chronicles of Narnia by C.S. Lewis
+9. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+10. The Diary of a Young Girl by Anne Frank
+11. The Picture of Dorian Gray by Oscar Wilde
+12. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+13. The Hunger Games by Suzanne Collins
+14. The Girl with the Dragon Tattoo by Stieg Larsson
+15. The Da Vinci Code by Dan Brown
+16. The Alchemist by Paulo Coelho
+17. The Name of the Wind by Patrick Rothfuss
+18. The Road by Cormac McCarthy
+19. The Handmaid's Tale by Margaret Atwood
+20. The Catch-22 by Joseph Heller
+21. The Bell Jar by Sylvia Plath
+22. The Color Purple by Alice Walker
+23. The God of Small Things by Arundhati Roy
+24. The Secret History by Donna Tartt
+25. The Picture of Dorian Gray by Oscar Wilde
+26. The Brothers Karamazov by Fyodor Dostoevsky
+27. The Stranger by Albert Camus
+28. One Hundred Years of Solitude by Gabriel Garcia Marquez
+29. The Old Man and the Sea by Ernest Hemingway
+30. The Sun Also Rises by Ernest Hemingway
+31. The Grapes of Wrath by John Steinbeck
+32. The Sound and the Fury by William Faulkner
+33. The Crying of Lot 49 by Thomas Pynchon
+34. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+35. The Martian by Andy Weir
+36. The Girl on the Train by Paula Hawkins
+37. The Help by Kathryn Stockett
+38. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+39. The Poisonwood Bible by Barbara Kingsolver
+40. The Joy Luck Club by Amy Tan
+41. The Lovely Bones by Alice Sebold
+42. The Time Traveler's Wife by Audrey Niffenegger
+43. The Book Thief by Markus Zusak
+44. The Fault in Our Stars by John Green
+45. The Maze Runner by James Dashner
+46. The Giver by Lois Lowry
+47. The Outsiders by S.E. Hinton
+48. The Perks of Being a Wallflower by Stephen Chbosky
+49. The Fault in Our Stars by John Green
+50. American Gods by Neil Gaiman

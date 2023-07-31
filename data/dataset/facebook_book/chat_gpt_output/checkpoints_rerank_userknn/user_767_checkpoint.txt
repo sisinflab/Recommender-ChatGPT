@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hobbit by J.R.R. Tolkien
+2. The Lord of the Rings by J.R.R. Tolkien
+3. Nineteen Eighty-Four by George Orwell
+4. The Adventures of Tom Sawyer by Mark Twain
+5. The Time Machine by H.G. Wells
+6. The War of the Worlds by H.G. Wells
+7. The Silmarillion by J.R.R. Tolkien
+8. The Once and Future King by T.H. White
+9. The Giver by Lois Lowry
+10. Crime and Punishment by Fyodor Dostoevsky
+11. The Canterbury Tales by Geoffrey Chaucer
+12. The Count of Monte Cristo by Alexandre Dumas
+13. Frankenstein by Mary Shelley
+14. The Iliad by Homer
+15. The Odyssey by Homer
+16. The Old Man and the Sea by Ernest Hemingway
+17. Brave New World by Aldous Huxley
+18. Lolita by Vladimir Nabokov
+19. A Clockwork Orange by Anthony Burgess
+20. War and Peace by Leo Tolstoy
+21. Cry, the Beloved Country by Alan Paton
+22. Foundation by Isaac Asimov
+23. The Da Vinci Code by Dan Brown
+24. The Outsiders by S.E. Hinton
+25. Dracula by Bram Stoker
+26. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+27. The Little Prince by Antoine de Saint-Exupéry
+28. The Fountainhead by Ayn Rand
+29. Angels & Demons by Dan Brown
+30. The Walking Dead (comic book) by Robert Kirkman
+31. The Wish by Gail Carson Levine
+32. The Hatchet by Gary Paulsen
+33. The End of Eternity by Isaac Asimov
+34. Ender's Game by Orson Scott Card
+35. Higurashi When They Cry by Ryukishi07
+36. The Watchmen by Alan Moore
+37. Sabriel by Garth Nix
+38. Life of Pi by Yann Martel
+39. The Trumpet of the Swan by E.B. White
+40. The Adventures of Huckleberry Finn by Mark Twain
+41. Inferno by Dante Alighieri
+42. The Aeneid by Virgil
+43. Three Cups of Tea by Greg Mortenson and David Oliver Relin
+44. Where the Wild Things Are by Maurice Sendak
+45. Full Dark, No Stars by Stephen King
+46. Strange Case of Dr Jekyll and Mr Hyde by Robert Louis Stevenson
+47. I Hope They Serve Beer in Hell by Tucker Max
+48. Through the Looking-Glass by Lewis Carroll
+49. A Christmas Carol by Charles Dickens
+50. Eragon by Christopher

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. To Kill a Mockingbird by Harper Lee
+3. Pride and Prejudice by Jane Austen
+4. The Catcher in the Rye by J.D. Salinger
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Animal Farm by George Orwell
+7. The Hobbit by J.R.R. Tolkien
+8. The Chronicles of Narnia by C.S. Lewis
+9. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+10. The Da Vinci Code by Dan Brown
+11. The Hunger Games by Suzanne Collins
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Picture of Dorian Gray by Oscar Wilde
+14. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+15. The Time Traveler's Wife by Audrey Niffenegger
+16. The Road by Cormac McCarthy
+17. The Stand by Stephen King
+18. The Shining by Stephen King
+19. The Silence of the Lambs by Thomas Harris
+20. The Name of the Rose by Umberto Eco
+21. The Shadow of the Wind by Carlos Ruiz Zafón
+22. The Book Thief by Markus Zusak
+23. The Kite Runner by Khaled Hosseini
+24. The Alchemist by Paulo Coelho
+25. The Picture of Dorian Gray by Oscar Wilde
+26. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+27. The Time Traveler's Wife by Audrey Niffenegger
+28. The Road by Cormac McCarthy
+29. The Stand by Stephen King
+30. The Shining by Stephen King
+31. The Silence of the Lambs by Thomas Harris
+32. The Name of the Rose by Umberto Eco
+33. The Shadow of the Wind by Carlos Ruiz Zafón
+34. The Book Thief by Markus Zusak
+35. The Kite Runner by Khaled Hosseini
+36. The Alchemist by Paulo Coelho
+37. The Picture of Dorian Gray by Oscar Wilde
+38. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+39. The Time Traveler's Wife by Audrey Niffenegger
+40. The Road by Cormac McCarthy
+41. The Stand by Stephen King
+42. The Shining by Stephen King
+43. The Silence of the Lambs by Thomas Harris
+44. The Name of the Rose by Umberto Eco
+45. The Shadow of the Wind by Carlos Ruiz Zafón
+46. The Book Thief by Markus Zusak
+47. The Kite Runner by Khaled Hosseini
+48. The Alchemist by Paulo Coelho
+49. The Picture of Dorian Gray by Oscar Wilde
+50. The Adventures of Sherlock Holmes by Arthur Conan Doyle

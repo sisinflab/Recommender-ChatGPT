@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Good Earth by Pearl S. Buck
+3. The Art of Seduction by Robert Greene
+4. Maximum City by Suketu Mehta
+5. Far from the Madding Crowd by Thomas Hardy
+6. Ulysses by James Joyce
+7. Bhagavad Gita by Anonymous
+8. Slaughterhouse-Five by Kurt Vonnegut
+9. If You Could See Me Now by Cecelia Ahern
+10. The Mayor of Casterbridge by Thomas Hardy
+11. Misery by Stephen King
+12. Jinx by Meg Cabot
+13. The Notebook by Nicholas Sparks
+14. Charlie and the Chocolate Factory by Roald Dahl
+15. To Sir, With Love by E.R. Braithwaite
+16. Zen and the Art of Motorcycle Maintenance by Robert M. Pirsig
+17. Nineteen Eighty-Four by George Orwell
+18. The Alchemist by Paulo Coelho
+19. The Last Lecture by Randy Pausch
+20. My Sister's Keeper by Jodi Picoult
+21. The Time Traveler's Wife by Audrey Niffenegger
+22. Frankenstein by Mary Shelley
+23. The Boy in the Striped Pyjamas by John Boyne
+24. Stranger with My Face by Lois Duncan
+25. Angels & Demons by Dan Brown
+26. The True Believer by Eric Hoffer
+27. I Am Legend by Richard Matheson
+28. The Female Brain by Louann Brizendine
+29. Eat, Pray, Love by Elizabeth Gilbert
+30. Pride and Prejudice by Jane Austen
+31. Sin City by Frank Miller
+32. Quran by Anonymous
+33. Ethan Frome by Edith Wharton
+34. Twilight by Stephenie Meyer
+35. Wuthering Heights by Emily Bronte
+36. A Separate Peace by John Knowles
+37. The Catcher in the Rye by J.D. Salinger
+38. The Prince by Niccolo Machiavelli
+39. The Lost World by Michael Crichton
+40. The Lord of the Rings by J.R.R. Tolkien
+41. Change of Heart by Jodi Picoult
+42. The Five People You Meet in Heaven by Mitch Albom
+43. Love Story by Erich Segal
+44. Malazan Book of the Fallen by Steven Erikson
+45. Never Cry Wolf by Farley Mowat
+46. Marley & Me by John Grogan
+47. The Prophet by Kahlil Gibran
+48. Brisingr by Christopher Paolini
+49. The Kite Runner by Khaled Hosseini
+50. Great Expectations by Charles Dickens

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Snow Patrol
+2. Lifehouse
+3. The Fray
+4. James Blunt
+5. KT Tunstall
+6. Ingrid Michaelson
+7. Tegan and Sara
+8. Michelle Branch
+9. Damien Rice
+10. Fall Out Boy
+11. Simple Plan
+12. +44
+13. Good Charlotte
+14. Tori Amos
+15. Sarah McLachlan
+16. Keane
+17. Switchfoot
+18. Plain White T's
+19. Natalie Imbruglia
+20. Alanis Morissette
+21. Avril Lavigne
+22. Taylor Swift
+23. Jewel
+24. Bush
+25. Evanescence
+26. Depeche Mode
+27. Madonna
+28. The Beatles
+29. U2
+30. Muse
+31. Pink Floyd
+32. Radiohead
+33. Coldplay
+34. Blur
+35. Arctic Monkeys
+36. Placebo
+37. The Killers
+38. Nirvana
+39. Led Zeppelin
+40. Metallica
+41. Michael Jackson
+42. Pearl Jam
+43. a-ha
+44. Björk
+45. Nine Inch Nails
+46. Linkin Park
+47. All Time Low
+48. P!nk
+49. My Chemical Romance
+50. Green Day

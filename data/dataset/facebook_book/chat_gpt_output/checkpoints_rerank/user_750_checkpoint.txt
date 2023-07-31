@@ -1,0 +1,52 @@
+Based on the user's liking history, here are the top 50 book recommendations:
+
+1. Harry Potter
+2. The Hobbit
+3. The Lord of the Rings
+4. Frankenstein
+5. Dracula
+6. Crime and Punishment
+7. The Picture of Dorian Gray
+8. The Great Gatsby
+9. Brave New World
+10. The Giver
+11. The Maze Runner
+12. The Stand
+13. The Outsiders
+14. The Scarlet Letter
+15. Invisible Man
+16. The Phantom of the Opera
+17. Pygmalion (play)
+18. Medea (play)
+19. Shakespeares sonnets
+20. The House of Mirth
+21. The Unbearable Lightness of Being
+22. The Catcher in the Rye
+23. Across the Universe (novel)
+24. The City of Ember
+25. Gravitys Rainbow
+26. The Southern Vampire Mysteries
+27. Delta of Venus
+28. Dexter in the Dark
+29. The Silmarillion
+30. And the Ass Saw the Angel
+31. Incarceron
+32. Made in America (book)
+33. World War Z
+34. List of Scott Pilgrim characters
+35. W.I.T.C.H.
+36. If There Be Thorns
+37. Petals on the Wind
+38. Cut (novel)
+39. Vampire Kisses
+40. The Tenant of Wildfell Hall
+41. A Series of Unfortunate Events
+42. The Rapture (novel)
+43. The Pillowman
+44. Dragon Ball Z
+45. Gantz
+46. Twilight Eyes
+47. Lady Chatterleys Lover
+48. Strange Case of Dr Jekyll and Mr Hyde
+49. The Lost Books (novel series)
+50. Through the Looking-Glass

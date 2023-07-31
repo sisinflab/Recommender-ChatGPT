@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Avenged Sevenfold
+2. Parkway Drive
+3. Architects
+4. Killswitch Engage
+5. Trivium
+6. As I Lay Dying
+7. Lamb of God
+8. Slipknot
+9. Disturbed
+10. System of a Down
+11. Korn
+12. Linkin Park
+13. Deftones
+14. Papa Roach
+15. Breaking Benjamin
+16. Three Days Grace
+17. Shinedown
+18. Seether
+19. Chevelle
+20. Red Sun Rising
+21. Halestorm
+22. In This Moment
+23. Lacuna Coil
+24. Flyleaf
+25. Evanescence
+26. Within Temptation
+27. Nightwish
+28. Epica
+29. Delain
+30. Amaranthe
+31. Sonata Arctica
+32. Children of Bodom
+33. In Flames
+34. Soilwork
+35. Dark Tranquillity
+36. At The Gates
+37. Arch Enemy
+38. Amon Amarth
+39. Behemoth
+40. Dimmu Borgir
+41. Cradle of Filth
+42. Marilyn Manson
+43. Nine Inch Nails
+44. Rammstein
+45. Rob Zombie
+46. Ministry
+47. Static-X
+48. Fear Factory
+49. Meshuggah
+50. Tool

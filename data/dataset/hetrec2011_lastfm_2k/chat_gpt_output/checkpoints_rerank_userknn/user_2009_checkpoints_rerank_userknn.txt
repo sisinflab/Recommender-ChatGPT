@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. Arcade Fire
+3. The Beatles
+4. Pink Floyd
+5. Muse
+6. Sigur Rós
+7. The Strokes
+8. Fleet Foxes
+9. Vampire Weekend
+10. Regina Spektor
+11. Jeff Buckley
+12. Grizzly Bear
+13. MGMT
+14. Franz Ferdinand
+15. The Smiths
+16. Beirut
+17. Lykke Li
+18. Keane
+19. Sufjan Stevens
+20. The Kooks
+21. Kings of Leon
+22. Florence + the Machine
+23. She & Him
+24. Adele
+25. Rilo Kiley
+26. Razorlight
+27. Patrick Wolf
+28. Scissor Sisters
+29. Ladyhawke
+30. The Fratellis
+31. The Killers
+32. Interpol
+33. Crystal Castles
+34. Passion Pit
+35. The xx
+36. Yeasayer
+37. Coldplay
+38. Oasis
+39. Bob Dylan
+40. Damien Rice
+41. Lily Allen
+42. Morrissey
+43. The White Stripes
+44. Pulp
+45. Foals
+46. Björk
+47. Portishead
+48. Death Cab for Cutie
+49. Andrew Bird
+50. Blur

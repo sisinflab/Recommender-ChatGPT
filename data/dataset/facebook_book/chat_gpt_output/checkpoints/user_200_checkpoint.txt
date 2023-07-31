@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. The Chronicles of Narnia by C.S. Lewis
+3. The Lord of the Rings by J.R.R. Tolkien
+4. The Hobbit by J.R.R. Tolkien
+5. The Giver by Lois Lowry
+6. Divergent by Veronica Roth
+7. The Maze Runner by James Dashner
+8. The Fault in Our Stars by John Green
+9. The Book Thief by Markus Zusak
+10. To Kill a Mockingbird by Harper Lee
+11. The Catcher in the Rye by J.D. Salinger
+12. The Great Gatsby by F. Scott Fitzgerald
+13. The Outsiders by S.E. Hinton
+14. The Secret Garden by Frances Hodgson Burnett
+15. Little Women by Louisa May Alcott
+16. The Adventures of Tom Sawyer by Mark Twain
+17. The Adventures of Huckleberry Finn by Mark Twain
+18. The Wind in the Willows by Kenneth Grahame
+19. The Wonderful Wizard of Oz by L. Frank Baum
+20. Charlotte's Web by E.B. White
+21. The Giving Tree by Shel Silverstein
+22. Where the Wild Things Are by Maurice Sendak
+23. The Cat in the Hat by Dr. Seuss
+24. Green Eggs and Ham by Dr. Seuss
+25. One Fish Two Fish Red Fish Blue Fish by Dr. Seuss
+26. The Lorax by Dr. Seuss
+27. Oh, the Places You'll Go! by Dr. Seuss
+28. The Polar Express by Chris Van Allsburg
+29. The Very Hungry Caterpillar by Eric Carle
+30. Corduroy by Don Freeman
+31. Curious George by H.A. Rey
+32. Winnie-the-Pooh by A.A. Milne
+33. The House at Pooh Corner by A.A. Milne
+34. The Phantom Tollbooth by Norton Juster
+35. A Wrinkle in Time by Madeleine L'Engle
+36. The Lion, the Witch and the Wardrobe by C.S. Lewis
+37. Prince Caspian by C.S. Lewis
+38. The Voyage of the Dawn Treader by C.S. Lewis
+39. The Silver Chair by C.S. Lewis
+40. The Last Battle by C.S. Lewis
+41. The Magician's Nephew by C.S. Lewis
+42. The Horse and His Boy by C.S. Lewis
+43. The Dark is Rising by Susan Cooper
+44. The Black Cauldron by Lloyd Alexander
+45. The Castle of Llyr by Lloyd Alexander
+46. Taran Wanderer by Lloyd Alexander
+47. The High King by Lloyd Alexander
+48. The Book of Three by Lloyd Alexander

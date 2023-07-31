@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Sea of Monsters by Rick Riordan
+2. The Titan's Curse by Rick Riordan
+3. The Battle of the Labyrinth by Rick Riordan
+4. The Last Olympian by Rick Riordan
+5. Inkheart by Cornelia Funke
+6. Inkspell by Cornelia Funke
+7. Inkdeath by Cornelia Funke
+8. The Thief Lord by Cornelia Funke
+9. The Book of Three by Lloyd Alexander
+10. The Black Cauldron by Lloyd Alexander
+11. The Castle of Llyr by Lloyd Alexander
+12. Taran Wanderer by Lloyd Alexander
+13. The High King by Lloyd Alexander
+14. The Dark is Rising by Susan Cooper
+15. Greenwitch by Susan Cooper
+16. The Grey King by Susan Cooper
+17. Silver on the Tree by Susan Cooper
+18. The Secret of the Old Clock by Carolyn Keene
+19. The Hidden Staircase by Carolyn Keene
+20. The Bungalow Mystery by Carolyn Keene
+21. The Mystery at Lilac Inn by Carolyn Keene
+22. The Secret of Shadow Ranch by Carolyn Keene
+23. The Vampire Diaries by L.J. Smith
+24. The Awakening by L.J. Smith
+25. The Struggle by L.J. Smith
+26. The Fury by L.J. Smith
+27. The Reunion by L.J. Smith
+28. The Sound and the Fury by William Faulkner
+29. As I Lay Dying by William Faulkner
+30. Light in August by William Faulkner
+31. Absalom, Absalom! by William Faulkner
+32. Eragon by Christopher Paolini
+33. Brisingr by Christopher Paolini
+34. Inheritance by Christopher Paolini
+35. The Magicians by Lev Grossman
+36. The Magician King by Lev Grossman
+37. The Magician's Land by Lev Grossman
+38. The Name of the Wind by Patrick Rothfuss
+39. The Wise Man's Fear by Patrick Rothfuss
+40. The Slow Regard of Silent Things by Patrick Rothfuss
+41. The Hunger Games by Suzanne Collins
+42. Catching Fire by Suzanne Collins
+43. Mockingjay by Suzanne Collins
+44. Divergent by Veronica Roth
+45. Insurgent by Veronica Roth
+46. Allegiant by Veronica Roth
+47. The Maze Runner by James Dashner
+48. The Scorch Trials by James Dashner
+49. The Death Cure by James Dashner
+50. The Kill Order by James Dashner

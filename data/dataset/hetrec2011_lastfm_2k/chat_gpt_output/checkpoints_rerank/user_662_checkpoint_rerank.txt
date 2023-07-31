@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Coldplay
+2. Taylor Swift
+3. OneRepublic
+4. Snow Patrol
+5. The Fray
+6. Lifehouse
+7. Dashboard Confessional
+8. Augustana
+9. A Fine Frenzy
+10. Daughtry
+11. Switchfoot
+12. Stereophonics
+13. Goo Goo Dolls
+14. Angels & Airwaves
+15. The All-American Rejects
+16. Red
+17. Bloc Party
+18. Katy Perry
+19. Avril Lavigne
+20. Kelly Clarkson
+21. Florence + the Machine
+22. Nickelback
+23. Muse
+24. Pink Floyd
+25. Radiohead
+26. Ke$ha
+27. Lady Gaga
+28. Rihanna
+29. Beyoncé
+30. Madonna
+31. Shakira
+32. The Beatles
+33. Evanescence
+34. Glee Cast
+35. U2
+36. 30 Seconds to Mars
+37. Duran Duran
+38. Blur
+39. Arctic Monkeys
+40. Placebo
+41. The Killers
+42. Nirvana
+43. Iron Maiden
+44. Led Zeppelin
+45. Metallica
+46. Michael Jackson
+47. Pearl Jam
+48. a-ha
+49. Björk
+50. System of a Down

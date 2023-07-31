@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Harry Potter
+2. The Hunger Games
+3. The Hobbit
+4. The Chronicles of Narnia: Prince Caspian
+5. Twilight (series)
+6. Frankenstein
+7. Brave New World
+8. A Clockwork Orange
+9. The Giver
+10. 1984
+11. Animal Farm
+12. Lord of the Flies
+13. The Catcher in the Rye
+14. To Kill a Mockingbird
+15. The Great Gatsby
+16. Fahrenheit 451
+17. The Old Man and the Sea
+18. Of Mice and Men
+19. A Tale of Two Cities
+20. Les Misérables
+21. Pride and Prejudice
+22. Sense and Sensibility
+23. Emma
+24. Persuasion
+25. Northanger Abbey
+26. Mansfield Park
+27. Wuthering Heights
+28. Jane Eyre
+29. The Picture of Dorian Gray
+30. Dracula
+31. The Strange Case of Dr. Jekyll and Mr. Hyde
+32. The War of the Worlds
+33. The Time Machine
+34. The Invisible Man
+35. The Island of Dr. Moreau
+36. The Call of the Wild
+37. White Fang
+38. The Adventures of Tom Sawyer
+39. The Adventures of Huckleberry Finn
+40. The Scarlet Letter
+41. Moby-Dick
+42. The Canterbury Tales
+43. Beowulf
+44. The Odyssey
+45. The Iliad
+46. The Divine Comedy
+47. Inferno (Dante)
+48. Thus Spoke Zarathustra
+49. Essays (Montaigne)
+50. Bible

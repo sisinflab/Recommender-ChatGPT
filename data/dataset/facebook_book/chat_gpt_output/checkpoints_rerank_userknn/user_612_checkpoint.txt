@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hitchhiker's Guide to the Galaxy (novel)
+2. Harry Potter
+3. The Lord of the Rings
+4. Dune (novel)
+5. Ender's Game by ['Orson Scott Card']
+6. Fahrenheit 451
+7. Nineteen Eighty-Four
+8. The Hobbit
+9. To Kill a Mockingbird
+10. Les Misérables
+11. The Dark Tower: The Gunslinger
+12. Cat's Cradle
+13. American Gods
+14. Angels & Demons
+15. The Da Vinci Code
+16. Ulysses (novel)
+17. Steppenwolf (novel)
+18. Slaughterhouse-Five by ['Kurt Vonnegut']
+19. One Hundred Years of Solitude by ['Gabriel García Márquez']
+20. Anathem by ['Neal Stephenson']
+21. The Zombie Survival Guide by ['Max Brooks']
+22. Codex Alera
+23. Guns, Germs, and Steel by ['Jared Diamond']
+24. Collapse: How Societies Choose to Fail or Succeed by ['Jared Diamond']
+25. The Watchmen (novel) by ['John Altman (author)']
+26. No Country for Old Men
+27. Fear and Loathing in Las Vegas
+28. Airframe (novel)
+29. Black (novel)
+30. The Grapes of Wrath
+31. Mythologies (book)
+32. Maximum Ride: The Angel Experiment
+33. Pride and Prejudice and Zombies
+34. Alice's Adventures in Wonderland
+35. The Rum Diary (novel)
+36. Xenocide
+37. Go Ask Alice
+38. Interview with the Vampire
+39. Watchers (novel)
+40. Red Dragon (novel)
+41. Rant (novel)
+42. Twenty Thousand Leagues Under the Sea
+43. Eat, Pray, Love
+44. Inferno (Dante)
+45. Ranger's Apprentice
+46. Choke (novel)
+47. Eric (novel)
+48. Odd Thomas (novel)
+49. Cirque du Freak
+50. Halo: Ghosts of Onyx

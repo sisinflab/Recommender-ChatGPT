@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Selena Gomez & the Scene
+2. Selena Gomez
+3. Glee Cast
+4. Dulce María
+5. Britney Spears
+6. Rihanna
+7. David Archuleta
+8. Jessie J
+9. Emily Osment
+10. Avril Lavigne
+11. Lady Gaga
+12. Ke$ha
+13. Sandy e Junior
+14. Paramore
+15. Miranda Cosgrove
+16. Justin Bieber
+17. Natalia Kills
+18. Vanessa Hudgens
+19. Nicki Minaj
+20. Demi Lovato
+21. Beyoncé
+22. Kelly Clarkson
+23. Anahí
+24. Lindsay Lohan
+25. Gwen Stefani
+26. Taylor Swift
+27. Lily Allen
+28. Allison Iraheta
+29. Adam Lambert
+30. Kid Abelha
+31. Cheryl Cole
+32. Girlicious
+33. Jonas Brothers
+34. Adele
+35. Leighton Meester
+36. John Mayer
+37. Katy Perry
+38. Madonna
+39. Lady Gaga
+40. Beyoncé
+41. Pink Floyd
+42. Muse
+43. Radiohead
+44. Coldplay
+45. Nirvana
+46. Michael Jackson
+47. Led Zeppelin
+48. Metallica
+49. The Killers
+50. Green Day

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Opeth
+2. In Flames
+3. Dark Tranquillity
+4. Amon Amarth
+5. Arch Enemy
+6. Lamb of God
+7. As I Lay Dying
+8. Gojira
+9. Hypocrisy
+10. Nevermore
+11. Vader
+12. Behemoth
+13. Dimmu Borgir
+14. Trivium
+15. Slayer
+16. Five Finger Death Punch
+17. Norther
+18. Isis
+19. Muse
+20. Pink Floyd
+21. Metallica
+22. Iron Maiden
+23. Led Zeppelin
+24. Nirvana
+25. Pearl Jam
+26. System of a Down
+27. Nine Inch Nails
+28. Linkin Park
+29. Avenged Sevenfold
+30. Green Day
+31. My Chemical Romance
+32. The Killers
+33. Radiohead
+34. Coldplay
+35. Blur
+36. Arctic Monkeys
+37. Placebo
+38. Michael Jackson
+39. Madonna
+40. U2
+41. The Beatles
+42. Duran Duran
+43. Björk
+44. Amy Winehouse
+45. Daft Punk
+46. Kylie Minogue
+47. Rihanna
+48. Lady Gaga
+49. Christina Aguilera
+50. Katy Perry

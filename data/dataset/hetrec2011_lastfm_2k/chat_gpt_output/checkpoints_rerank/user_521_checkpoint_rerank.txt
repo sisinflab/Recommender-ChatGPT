@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Fall Out Boy
+2. Blink-182
+3. Jimmy Eat World
+4. New Found Glory
+5. Taking Back Sunday
+6. The Starting Line
+7. Mayday Parade
+8. The Maine
+9. All-American Rejects
+10. Yellowcard
+11. We The Kings
+12. Boys Like Girls
+13. The Academy Is...
+14. Something Corporate
+15. Motion City Soundtrack
+16. The Red Jumpsuit Apparatus
+17. Anberlin
+18. The Used
+19. Paramore
+20. My Chemical Romance
+21. Panic! At the Disco
+22. All Time Low
+23. The Killers
+24. Arctic Monkeys
+25. Muse
+26. Radiohead
+27. Coldplay
+28. Green Day
+29. Nirvana
+30. Pearl Jam
+31. Metallica
+32. Iron Maiden
+33. Led Zeppelin
+34. Michael Jackson
+35. Madonna
+36. Lady Gaga
+37. Britney Spears
+38. Christina Aguilera
+39. Rihanna
+40. Beyoncé
+41. Katy Perry
+42. Taylor Swift
+43. Evanescence
+44. Glee Cast
+45. U2
+46. Pink Floyd
+47. Ke$ha
+48. Duran Duran
+49. Blur
+50. Placebo

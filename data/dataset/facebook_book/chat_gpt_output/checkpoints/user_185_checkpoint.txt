@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Pelican Brief by John Grisham
+2. Clear and Present Danger by Tom Clancy
+3. The Da Vinci Code by Dan Brown
+4. The Girl with the Dragon Tattoo by Stieg Larsson
+5. The Bourne Identity by Robert Ludlum
+6. The Silence of the Lambs by Thomas Harris
+7. The Hunt for Red October by Tom Clancy
+8. The Godfather by Mario Puzo
+9. The Catcher in the Rye by J.D. Salinger
+10. The Shining by Stephen King
+11. The Andromeda Strain by Michael Crichton
+12. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+13. The Lord of the Rings by J.R.R. Tolkien
+14. The Hunger Games by Suzanne Collins
+15. The Martian by Andy Weir
+16. The Stand by Stephen King
+17. The Hobbit by J.R.R. Tolkien
+18. The Girl on the Train by Paula Hawkins
+19. The Firm by John Grisham
+20. The Bear and the Dragon by Tom Clancy
+21. Mystic River by Dennis Lehane
+22. If Democrats Had Any Brains, They'd Be Republicans by Ann Coulter
+23. Patriot Games by Tom Clancy
+24. Executive Orders by Tom Clancy
+25. Debt of Honor by Tom Clancy
+26. Red Storm Rising by Tom Clancy
+27. The Great Gatsby by F. Scott Fitzgerald
+28. The Notebook by Nicholas Sparks
+29. The Time Traveler's Wife by Audrey Niffenegger
+30. The Help by Kathryn Stockett
+31. The Kite Runner by Khaled Hosseini
+32. The Secret Life of Bees by Sue Monk Kidd
+33. The Lovely Bones by Alice Sebold
+34. The Fault in Our Stars by John Green
+35. The Maze Runner by James Dashner
+36. The Giver by Lois Lowry
+37. The Alchemist by Paulo Coelho
+38. The Chronicles of Narnia by C.S. Lewis
+39. The Outsiders by S.E. Hinton
+40. The Perks of Being a Wallflower by Stephen Chbosky
+41. The Road by Cormac McCarthy
+42. The Picture of Dorian Gray by Oscar Wilde
+43. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+44. The Count of Monte Cristo by Alexandre Dumas
+45. The Three Musketeers by Alexandre Dumas
+46. The War of the Worlds by H.G. Wells
+47. The Invisible Man by H.G. Wells
+48. The Island of Dr. Moreau by H.G. Wells
+49. The Time Machine by H.G. Wells
+50. The Call of the Wild by Jack London

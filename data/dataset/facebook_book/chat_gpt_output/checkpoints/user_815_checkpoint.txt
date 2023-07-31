@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Hobbit by J.R.R. Tolkien
+4. Animal Farm by George Orwell
+5. The Grapes of Wrath by John Steinbeck
+6. One Hundred Years of Solitude by Gabriel Garcia Marquez
+7. The Road by Cormac McCarthy
+8. The Brothers Karamazov by Fyodor Dostoevsky
+9. Crime and Punishment by Fyodor Dostoevsky
+10. The Picture of Dorian Gray by Oscar Wilde
+11. The Adventures of Huckleberry Finn by Mark Twain
+12. The Stranger by Albert Camus
+13. The Sun Also Rises by Ernest Hemingway
+14. The Old Man and the Sea by Ernest Hemingway
+15. The Bell Jar by Sylvia Plath
+16. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+17. The Catch-22 by Joseph Heller
+18. Slaughterhouse-Five by Kurt Vonnegut
+19. Brave New World by Aldous Huxley
+20. The Handmaid's Tale by Margaret Atwood
+21. The Shining by Stephen King
+22. The Silence of the Lambs by Thomas Harris
+23. The Girl with the Dragon Tattoo by Stieg Larsson
+24. The Da Vinci Code by Dan Brown
+25. The Hunger Games by Suzanne Collins
+26. The Girl on the Train by Paula Hawkins
+27. The Help by Kathryn Stockett
+28. The Fault in Our Stars by John Green
+29. The Alchemist by Paulo Coelho
+30. The Kite Runner by Khaled Hosseini
+31. The God of Small Things by Arundhati Roy
+32. The Color Purple by Alice Walker
+33. The Joy Luck Club by Amy Tan
+34. The Secret Life of Bees by Sue Monk Kidd
+35. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+36. The Glass Castle by Jeannette Walls
+37. The Poisonwood Bible by Barbara Kingsolver
+38. The Time Traveler's Wife by Audrey Niffenegger
+39. The Lovely Bones by Alice Sebold
+40. The Book Thief by Markus Zusak
+41. The Nightingale by Kristin Hannah
+42. The Help by Kathryn Stockett
+43. The Martian by Andy Weir
+44. The Girl Who Played with Fire by Stieg Larsson
+45. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+46. The Girl in the Spider's Web by David Lagercrantz
+47. The Hunger Games: Catching Fire by Suzanne Collins
+48. The Hunger Games: Mockingjay by Suzanne Collins
+49. The Maze Runner by James Dash

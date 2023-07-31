@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Fahrenheit 451 by Ray Bradbury
+2. Interview with the Vampire by Anne Rice
+3. 1984 by George Orwell
+4. Brave New World by Aldous Huxley
+5. The Catcher in the Rye by J.D. Salinger
+6. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+7. The Giver by Lois Lowry
+8. The Hunger Games by Suzanne Collins
+9. Ender's Game by Orson Scott Card
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Hobbit by J.R.R. Tolkien
+12. The Chronicles of Narnia by C.S. Lewis
+13. The Da Vinci Code by Dan Brown
+14. Angels and Demons by Dan Brown
+15. The Girl with the Dragon Tattoo by Stieg Larsson
+16. The Girl Who Played with Fire by Stieg Larsson
+17. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+18. The Silence of the Lambs by Thomas Harris
+19. Red Dragon by Thomas Harris
+20. Hannibal by Thomas Harris
+21. The Shining by Stephen King
+22. It by Stephen King
+23. Pet Sematary by Stephen King
+24. Misery by Stephen King
+25. The Stand by Stephen King
+26. The Dark Tower series by Stephen King
+27. The Road by Cormac McCarthy
+28. No Country for Old Men by Cormac McCarthy
+29. Blood Meridian by Cormac McCarthy
+30. The Name of the Wind by Patrick Rothfuss
+31. The Wise Man's Fear by Patrick Rothfuss
+32. The Lies of Locke Lamora by Scott Lynch
+33. The Blade Itself by Joe Abercrombie
+34. The Way of Kings by Brandon Sanderson
+35. Mistborn by Brandon Sanderson
+36. The Final Empire by Brandon Sanderson
+37. The Well of Ascension by Brandon Sanderson
+38. The Hero of Ages by Brandon Sanderson
+39. The Lies of Locke Lamora by Scott Lynch
+40. The First Law Trilogy by Joe Abercrombie
+41. The Kingkiller Chronicle by Patrick Rothfuss
+42. The Dresden Files by Jim Butcher
+43. American Gods by Neil Gaiman
+44. Neverwhere by Neil Gaiman
+45. Good Omens by Neil Gaiman and Terry Pratchett
+46. The Hitchhiker's Guide to the Galaxy series by Douglas Adams
+47. The Discworld series by Terry Pratchett
+48. The Dark Tower series by Stephen King
+49. The Wheel of Time series by Robert Jordan
+50. The Malazan Book of the Fallen series by Steven Erikson

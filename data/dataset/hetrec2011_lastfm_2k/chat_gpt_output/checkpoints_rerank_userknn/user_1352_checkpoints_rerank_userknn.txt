@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations are:
+
+1. Nine Inch Nails
+2. In Flames
+3. Disturbed
+4. Behemoth
+5. DevilDriver
+6. Protest The Hero
+7. Korn
+8. Sepultura
+9. Katatonia
+10. Cradle of Filth
+11. Cypress Hill
+12. Modest Mouse
+13. Kings of Leon
+14. Dave Matthews Band
+15. Moby
+16. Between the Buried and Me
+17. The Faint
+18. Heaven Shall Burn
+19. Marilyn Manson
+20. Deftones
+21. Muse
+22. Rammstein
+23. Pendulum
+24. The Killers
+25. Arcade Fire
+26. Elliott Smith
+27. Kid Cudi
+28. Incubus
+29. Evanescence
+30. Jethro Tull
+31. VNV Nation
+32. Megadeth
+33. Michael Jackson
+34. The Smiths
+35. Tool
+36. Arctic Monkeys
+37. Razorlight
+38. Dethklok
+39. The Beatles
+40. Interpol
+41. King Diamond
+42. Yeah Yeah Yeahs
+43. Death Cab for Cutie
+44. Bad Religion
+45. Cat Power
+46. Mindless Self Indulgence
+47. Mr. Bungle
+48. Slipknot
+49. System of a Down
+50. Dream Theater

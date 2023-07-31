@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. Crime and Punishment by Fyodor Dostoyevsky
+3. The Great Gatsby by F. Scott Fitzgerald
+4. Inferno by Dante Alighieri
+5. Animal Farm by George Orwell
+6. One Day in the Life of Ivan Denisovich by Aleksandr Solzhenitsyn
+7. Les Misérables by Victor Hugo
+8. The Alchemist by Paulo Coelho
+9. Romeo and Juliet by William Shakespeare
+10. The Diary of a Young Girl by Anne Frank
+11. Slaughterhouse-Five by Kurt Vonnegut
+12. Stranger than Fiction: True Stories by Chuck Palahniuk
+13. The Old Man and the Sea by Ernest Hemingway
+14. Adventures of Huckleberry Finn by Mark Twain
+15. Memoirs of a Geisha by Arthur Golden
+16. The Giver by Lois Lowry
+17. Naked by David Sedaris
+18. I, Robot by Isaac Asimov
+19. The Hunger Games by Suzanne Collins
+20. Speak by Laurie Halse Anderson
+21. Franny and Zooey by J.D. Salinger
+22. The Jungle Book by Rudyard Kipling
+23. The Dresden Files by Jim Butcher
+24. The Hardy Boys by Franklin W. Dixon
+25. Zen and the Art of Motorcycle Maintenance by Robert M. Pirsig
+26. Night by Elie Wiesel
+27. Go Ask Alice by Anonymous
+28. The Silence of the Lambs by Thomas Harris
+29. Henry V by William Shakespeare
+30. The Hobbit by J.R.R. Tolkien
+31. Green Eggs and Ham by Dr. Seuss
+32. Diary of a Wimpy Kid by Jeff Kinney
+33. Paper Towns by John Green
+34. Love, Stargirl by Jerry Spinelli
+35. Where the Wild Things Are by Maurice Sendak
+36. Code Orange by Caroline B. Cooney
+37. The Queen of the Damned by Anne Rice
+38. Fahrenheit 451 by Ray Bradbury
+39. Saving Fish from Drowning by Amy Tan
+40. A Midsummer Night's Dream by William Shakespeare
+41. Cat's Cradle by Kurt Vonnegut
+42. Ender's Game by Orson Scott Card
+43. PS, I Love You by Cecelia Ahern
+44. Breaking Point by Alex Flinn
+45. Strange Case of Dr Jekyll and Mr Hyde by Robert Louis Stevenson
+46. The Diary of a Wimpy Kid: Dog Days by Jeff Kinney
+47. Alice's Adventures in Wonderland by Lewis Carroll
+48. Of Mice and Men by John Steinbeck
+49. Cannery Row by John Steinbeck
+50. Johnny

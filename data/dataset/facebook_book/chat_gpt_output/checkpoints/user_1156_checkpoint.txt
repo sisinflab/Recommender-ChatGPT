@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. The Catcher in the Rye by J.D. Salinger
+4. One Hundred Years of Solitude by Gabriel Garcia Marquez
+5. The Great Gatsby by F. Scott Fitzgerald
+6. To Kill a Mockingbird by Harper Lee
+7. The Bell Jar by Sylvia Plath
+8. Catch-22 by Joseph Heller
+9. The Road by Cormac McCarthy
+10. The Stranger by Albert Camus
+11. The Picture of Dorian Gray by Oscar Wilde
+12. The Sun Also Rises by Ernest Hemingway
+13. Lolita by Vladimir Nabokov
+14. Crime and Punishment by Fyodor Dostoevsky
+15. The Brothers Karamazov by Fyodor Dostoevsky
+16. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+17. The Lord of the Rings by J.R.R. Tolkien
+18. The Hobbit by J.R.R. Tolkien
+19. The Shining by Stephen King
+20. The Stand by Stephen King
+21. The Dark Tower series by Stephen King
+22. The Girl with the Dragon Tattoo by Stieg Larsson
+23. The Girl Who Played with Fire by Stieg Larsson
+24. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+25. The Hunger Games by Suzanne Collins
+26. 1985 by Anthony Burgess
+27. The Road to Serfdom by Friedrich Hayek
+28. The Fountainhead by Ayn Rand
+29. Atlas Shrugged by Ayn Rand
+30. The Trial by Franz Kafka
+31. The Metamorphosis by Franz Kafka
+32. The Plague by Albert Camus
+33. The Stranger by Albert Camus
+34. The Outsider by Albert Camus
+35. The Myth of Sisyphus by Albert Camus
+36. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+37. The Restaurant at the End of the Universe by Douglas Adams
+38. Life, the Universe and Everything by Douglas Adams
+39. So Long, and Thanks for All the Fish by Douglas Adams
+40. Mostly Harmless by Douglas Adams
+41. The Hitchhiker's Guide to the Galaxy: A Trilogy in Four Parts by Douglas Adams
+42. The Hitchhiker's Guide to the Galaxy: The Complete Radio Series by Douglas Adams
+43. The Hitchhiker's Guide to the Galaxy: The Illustrated Edition by Douglas Adams
+44. The Hitchhiker's Guide to the Galaxy: The Ultimate Guide to the Ultimate Question by Douglas Adams
+45. The Hitchhiker's Guide to the Galaxy: The Ultimate Trilogy by Douglas Adams
+46. Wolves of the Calla by Stephen King
+47. Song of Susannah by Stephen King
+48. The Dark Tower by Stephen King
+49. The Name of the Wind by Patrick Rothfuss
+50. The Wise Man's Fear by Patrick Rothfuss

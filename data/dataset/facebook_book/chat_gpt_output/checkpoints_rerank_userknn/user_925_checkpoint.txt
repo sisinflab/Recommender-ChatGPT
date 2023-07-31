@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Mockingjay by Suzanne Collins
+3. Gathering Blue by Lois Lowry
+4. The Giver by Lois Lowry
+5. The Wolves of Mercy Falls by Maggie Stiefvater
+6. The Time Traveler's Wife by Audrey Niffenegger
+7. The Last Lecture by Randy Pausch
+8. Memoirs of a Geisha by Arthur Golden
+9. The Perks of Being a Wallflower by Stephen Chbosky
+10. The Bell Jar by Sylvia Plath
+11. Fahrenheit 451 by Ray Bradbury
+12. The Catcher in the Rye by J.D. Salinger
+13. The Tale of Despereaux by Kate DiCamillo
+14. The Outsiders by S.E. Hinton
+15. Speak by Laurie Halse Anderson
+16. Identical by Ellen Hopkins
+17. The Lovely Bones by Alice Sebold
+18. My Sister's Keeper by Jodi Picoult
+19. Change of Heart by Jodi Picoult
+20. Burned by Ellen Hopkins
+21. Tricks by Ellen Hopkins
+22. The Handmaid's Tale by Margaret Atwood
+23. The Invention of Hugo Cabret by Brian Selznick
+24. Twilight by Stephenie Meyer
+25. Tamar by Mal Peet
+26. Go Ask Alice by Anonymous
+27. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+28. Romeo and Juliet by William Shakespeare
+29. The Great Gatsby by F. Scott Fitzgerald
+30. The Rebel by Albert Camus
+31. The Mark by Tim LaHaye and Jerry B. Jenkins
+32. Wings by Aprilynne Pike
+33. Glass by Ellen Hopkins
+34. Johnny the Homicidal Maniac by Jhonen Vasquez
+35. Cut by Patricia McCormick
+36. Old Yeller by Fred Gipson
+37. Touching Spirit Bear by Ben Mikaelsen
+38. Rhapsody: Child of Blood by Elizabeth Haydon
+39. Bridge to Terabithia by Katherine Paterson
+40. Hiroshima by John Hersey
+41. The Truth About Forever by Sarah Dessen
+42. The Thief of Always by Clive Barker
+43. Lock and Key by Sarah Dessen
+44. Wake by Lisa McMann
+45. Extras by Scott Westerfeld
+46. The Named by Marianne Curley
+47. The Stranger by Albert Camus
+48. PS, I Love You by Cecelia Ahern
+49. Gospel of Matthew by Anonymous
+50. Manga by Various Authors

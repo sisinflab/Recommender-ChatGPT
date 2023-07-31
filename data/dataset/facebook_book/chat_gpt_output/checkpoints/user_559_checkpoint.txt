@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Great Gatsby by F. Scott Fitzgerald
+3. East of Eden by John Steinbeck
+4. The Catcher in the Rye by J.D. Salinger
+5. The Bell Jar by Sylvia Plath
+6. One Hundred Years of Solitude by Gabriel Garcia Marquez
+7. The Picture of Dorian Gray by Oscar Wilde
+8. The Road by Cormac McCarthy
+9. The Handmaid's Tale by Margaret Atwood
+10. The Stranger by Albert Camus
+11. The Sun Also Rises by Ernest Hemingway
+12. The Grapes of Wrath by John Steinbeck
+13. The Old Man and the Sea by Ernest Hemingway
+14. The Scarlet Letter by Nathaniel Hawthorne
+15. The Adventures of Huckleberry Finn by Mark Twain
+16. The Lord of the Rings by J.R.R. Tolkien
+17. The Hobbit by J.R.R. Tolkien
+18. The Chronicles of Narnia by C.S. Lewis
+19. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+20. The Da Vinci Code by Dan Brown
+21. Angels & Demons by Dan Brown
+22. Inferno by Dan Brown
+23. The Girl with the Dragon Tattoo by Stieg Larsson
+24. The Girl Who Played with Fire by Stieg Larsson
+25. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+26. 1984 by George Orwell
+27. Animal Farm by George Orwell
+28. Brave New World by Aldous Huxley
+29. Fahrenheit 451 by Ray Bradbury
+30. Slaughterhouse-Five by Kurt Vonnegut
+31. Cat's Cradle by Kurt Vonnegut
+32. The Sirens of Titan by Kurt Vonnegut
+33. The Lovely Bones by Alice Sebold
+34. The Heroin Diaries: A Year in the Life of a Shattered Rock Star by Nikki Sixx
+35. The Death and Life of Charlie St. Cloud by Ben Sherwood
+36. The Hunger Games by Suzanne Collins
+37. Catching Fire by Suzanne Collins
+38. Mockingjay by Suzanne Collins
+39. Divergent by Veronica Roth
+40. Insurgent by Veronica Roth
+41. Allegiant by Veronica Roth
+42. The Maze Runner by James Dashner
+43. The Scorch Trials by James Dashner
+44. The Death Cure by James Dashner
+45. The Sword of Truth series by Terry Goodkind
+46. The Name of the Wind by Patrick Rothfuss
+47. The Wise Man's Fear by Patrick Rothfuss
+48. The Lies of Locke Lamora by Scott Lynch
+49. The Way of Kings by Brandon Sanderson

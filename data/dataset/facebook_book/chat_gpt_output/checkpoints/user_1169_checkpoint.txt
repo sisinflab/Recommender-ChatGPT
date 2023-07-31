@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Chronicles of Narnia by C.S. Lewis
+2. The Hobbit by J.R.R. Tolkien
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. 1984 by George Orwell
+6. Animal Farm by George Orwell
+7. Brave New World by Aldous Huxley
+8. Fahrenheit 451 by Ray Bradbury
+9. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+10. The Giver by Lois Lowry
+11. The Hunger Games by Suzanne Collins
+12. Harry Potter series by J.K. Rowling
+13. The Book Thief by Markus Zusak
+14. The Fault in Our Stars by John Green
+15. The Perks of Being a Wallflower by Stephen Chbosky
+16. The Outsiders by S.E. Hinton
+17. Lord of the Flies by William Golding
+18. A Wrinkle in Time by Madeleine L'Engle
+19. The Secret Garden by Frances Hodgson Burnett
+20. Little Women by Louisa May Alcott
+21. The Adventures of Tom Sawyer by Mark Twain
+22. The Adventures of Huckleberry Finn by Mark Twain
+23. The Phantom Tollbooth by Norton Juster
+24. The Wind in the Willows by Kenneth Grahame
+25. Watership Down by Richard Adams
+26. The Call of the Wild by Jack London
+27. White Fang by Jack London
+28. The Jungle Book by Rudyard Kipling
+29. Treasure Island by Robert Louis Stevenson
+30. The Three Musketeers by Alexandre Dumas
+31. The Count of Monte Cristo by Alexandre Dumas
+32. Les Misérables by Victor Hugo
+33. The Picture of Dorian Gray by Oscar Wilde
+34. Dracula by Bram Stoker
+35. Frankenstein by Mary Shelley
+36. Wuthering Heights by Emily Bronte
+37. Jane Eyre by Charlotte Bronte
+38. Pride and Prejudice by Jane Austen
+39. Sense and Sensibility by Jane Austen
+40. Emma by Jane Austen
+41. Anne of Green Gables by Lucy Maud Montgomery
+42. Little House on the Prairie by Laura Ingalls Wilder
+43. The Boxcar Children by Gertrude Chandler Warner
+44. The Hardy Boys by Franklin W. Dixon
+45. Nancy Drew by Carolyn Keene
+46. The Babysitters Club by Ann M. Martin
+47. Goosebumps by R.L. Stine
+48. Animorphs by K.A. Applegate
+49. Redwall by Brian Jacques
+50. The Dark is Rising by Susan Cooper

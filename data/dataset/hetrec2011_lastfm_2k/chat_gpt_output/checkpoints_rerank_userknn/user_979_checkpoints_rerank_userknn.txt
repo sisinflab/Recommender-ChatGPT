@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Metallica
+2. Nine Inch Nails
+3. Guns N' Roses
+4. Led Zeppelin
+5. Queen
+6. Ozzy Osbourne
+7. Motörhead
+8. The Black Keys
+9. The White Stripes
+10. Green Day
+11. Aerosmith
+12. Stone Temple Pilots
+13. Disturbed
+14. Linkin Park
+15. Rammstein
+16. Papa Roach
+17. Cold
+18. Maroon 5
+19. Lenny Kravitz
+20. Godsmack
+21. Rob Zombie
+22. Danny Elfman
+23. Lady Gaga
+24. Fall Out Boy
+25. Spice Girls
+26. Pink Floyd
+27. Tool
+28. Marilyn Manson
+29. Korn
+30. Slipknot
+31. Muse
+32. Deftones
+33. Iron Maiden
+34. Avenged Sevenfold
+35. System of a Down
+36. Pendulum
+37. My Chemical Romance
+38. Tricky
+39. Radiohead
+40. The Beatles
+41. Queens of the Stone Age
+42. Mastodon
+43. Escape The Fate
+44. Ayreon
+45. Porcupine Tree
+46. Sonata Arctica
+47. VNV Nation
+48. Skinny Puppy
+49. Type O Negative
+50. Regina Spektor

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Fight Club by Chuck Palahniuk
+2. Survivor by Chuck Palahniuk
+3. Choke by Chuck Palahniuk
+4. Invisible Monsters by Chuck Palahniuk
+5. Haunted by Chuck Palahniuk
+6. Slaughterhouse-Five by Kurt Vonnegut
+7. Cat's Cradle by Kurt Vonnegut
+8. Breakfast of Champions by Kurt Vonnegut
+9. God Bless You, Mr. Rosewater by Kurt Vonnegut
+10. Welcome to the Monkey House by Kurt Vonnegut
+11. Naked by David Sedaris
+12. Let's Explore Diabetes with Owls by David Sedaris
+13. Holidays on Ice by David Sedaris
+14. The Glass Castle by Jeannette Walls
+15. Night by Elie Wiesel
+16. The Road by Cormac McCarthy
+17. The Handmaid's Tale by Margaret Atwood
+18. The Catcher in the Rye by J.D. Salinger
+19. To Kill a Mockingbird by Harper Lee
+20. The Great Gatsby by F. Scott Fitzgerald
+21. 1984 by George Orwell
+22. Animal Farm by George Orwell
+23. One Hundred Years of Solitude by Gabriel Garcia Marquez
+24. Love in the Time of Cholera by Gabriel Garcia Marquez
+25. The Alchemist by Paulo Coelho
+26. The Name of the Wind by Patrick Rothfuss
+27. The Wise Man's Fear by Patrick Rothfuss
+28. The Hunger Games by Suzanne Collins
+29. Catching Fire by Suzanne Collins
+30. Mockingjay by Suzanne Collins
+31. The Girl with the Dragon Tattoo by Stieg Larsson
+32. The Girl Who Played with Fire by Stieg Larsson
+33. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+34. The Da Vinci Code by Dan Brown
+35. Angels and Demons by Dan Brown
+36. Inferno by Dan Brown
+37. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+38. The Restaurant at the End of the Universe by Douglas Adams
+39. Life, the Universe and Everything by Douglas Adams
+40. So Long, and Thanks for All the Fish by Douglas Adams
+41. Mostly Harmless by Douglas Adams
+42. The Hobbit by J.R.R. Tolkien
+43. The Lord of the Rings by J.R.R. Tolkien
+44. The Silmarillion by J.R.R. Tolkien
+45. American Gods by Neil Gaiman
+46. Neverwhere by Neil Gaiman
+47. Stardust by Neil Gaiman
+48. Coraline by Neil Gaiman
+49. The Graveyard Book by Neil Gaiman
+50. The Ocean

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Dolly Parton
+2. Reba McEntire
+3. Shania Twain
+4. Patsy Cline
+5. Garth Brooks
+6. George Strait
+7. Tim McGraw
+8. Faith Hill
+9. Martina McBride
+10. Alan Jackson
+11. Kenny Chesney
+12. Blake Shelton
+13. Toby Keith
+14. Rascal Flatts
+15. Lady Antebellum
+16. Zac Brown Band
+17. Miranda Lambert & Blake Shelton
+18. Miranda Lambert & Carrie Underwood
+19. Miranda Lambert & Keith Urban
+20. Miranda Lambert & Little Big Town
+21. Miranda Lambert & Pistol Annies
+22. Elvis Presley & The Royal Philharmonic Orchestra
+23. Elvis Presley & Friends
+24. Elvis Presley & Jerry Lee Lewis
+25. Elvis Presley & Johnny Cash
+26. Carrie Underwood & Brad Paisley
+27. Carrie Underwood & Miranda Lambert
+28. Carrie Underwood & Keith Urban
+29. Taylor Swift & Ed Sheeran
+30. Taylor Swift & Shawn Mendes
+31. Taylor Swift & Zayn
+32. Johnny Cash & June Carter Cash
+33. Johnny Cash & Willie Nelson
+34. Johnny Cash & Waylon Jennings
+35. Lily Allen & Mark Ronson
+36. Lily Allen & T-Pain
+37. Chuck Berry & Bo Diddley
+38. Chuck Berry & Little Richard
+39. Buddy Holly & The Crickets
+40. Buddy Holly & The Picks
+41. Hilary Duff & Haylie Duff
+42. Hilary Duff & Lindsay Lohan
+43. Brad Paisley & Alison Krauss
+44. Brad Paisley & Dolly Parton
+45. Ke$ha & Pitbull
+46. Ke$ha & Flo Rida
+47. Keith Urban & Carrie Underwood
+48. Keith Urban & Eric Church
+49. Shakira & Rihanna
+50. Shakira & Beyoncé

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. Wuthering Heights by Emily Bronte
+3. The Great Gatsby by F. Scott Fitzgerald
+4. To Kill a Mockingbird by Harper Lee
+5. The Catcher in the Rye by J.D. Salinger
+6. Little Women by Louisa May Alcott
+7. The Picture of Dorian Gray by Oscar Wilde
+8. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+9. The Hobbit by J.R.R. Tolkien
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Chronicles of Narnia by C.S. Lewis
+12. The Hunger Games by Suzanne Collins
+13. The Da Vinci Code by Dan Brown
+14. Angels and Demons by Dan Brown
+15. The Girl with the Dragon Tattoo by Stieg Larsson
+16. The Help by Kathryn Stockett
+17. The Fault in Our Stars by John Green
+18. The Alchemist by Paulo Coelho
+19. The Kite Runner by Khaled Hosseini
+20. A Thousand Splendid Suns by Khaled Hosseini
+21. The Secret Life of Bees by Sue Monk Kidd
+22. The Lovely Bones by Alice Sebold
+23. The Time Traveler's Wife by Audrey Niffenegger
+24. The Book Thief by Markus Zusak
+25. The Road by Cormac McCarthy
+26. The Handmaid's Tale by Margaret Atwood
+27. 1984 by George Orwell
+28. Animal Farm by George Orwell
+29. Brave New World by Aldous Huxley
+30. One Hundred Years of Solitude by Gabriel Garcia Marquez
+31. Love in the Time of Cholera by Gabriel Garcia Marquez
+32. The God of Small Things by Arundhati Roy
+33. The Namesake by Jhumpa Lahiri
+34. Interpreter of Maladies by Jhumpa Lahiri
+35. The Joy Luck Club by Amy Tan
+36. Memoirs of a Geisha by Arthur Golden
+37. The Color Purple by Alice Walker
+38. The Bell Jar by Sylvia Plath
+39. The Picture of Dorian Gray by Oscar Wilde
+40. The Importance of Being Earnest by Oscar Wilde
+41. The Canterbury Tales by Geoffrey Chaucer
+42. The Divine Comedy by Dante Alighieri
+43. The Iliad by Homer
+44. The Odyssey by Homer
+45. The Aeneid by Virgil
+46. The Inferno by Dante Alighieri
+47. The Decameron by Giovanni Boccaccio
+48. The Canterbury Tales by Geoffrey Chaucer
+49. The Prince by Niccolo Machiavelli
+50. Don Quixote by Miguel de Cervantes

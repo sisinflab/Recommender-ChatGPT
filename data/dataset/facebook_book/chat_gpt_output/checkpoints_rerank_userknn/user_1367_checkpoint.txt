@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Wuthering Heights
+2. Jane Eyre
+3. The Lord of the Rings
+4. Fahrenheit 451
+5. The Catcher in the Rye
+6. Great Expectations
+7. Oliver Twist
+8. Bleak House
+9. The Silmarillion
+10. Inkheart
+11. Inkspell
+12. Inkdeath
+13. The Hitchhiker's Guide to the Galaxy (novel)
+14. A Wrinkle in Time
+15. Night (book)
+16. Seabiscuit: An American Legend
+17. Black Beauty
+18. Twenty Thousand Leagues Under the Sea
+19. The Giver
+20. Speak (novel)
+21. Twisted (book)
+22. Holes (novel)
+23. The Zombie Survival Guide
+24. Hannibal (novel)
+25. Hannibal Rising
+26. The Silence of the Lambs (novel)
+27. Arkham Asylum: A Serious House on Serious Earth
+28. Sin City
+29. Johnny the Homicidal Maniac
+30. Macbeth
+31. Gospel of Matthew
+32. Gospel of Mark
+33. Book of Revelation
+34. King James Version
+35. New Living Translation
+36. Angels & Demons
+37. The Legend of Sleepy Hollow
+38. The Wonderful Wizard of Oz
+39. Twenties Girl
+40. Go Ask Alice
+41. Wishful Drinking
+42. Naruto
+43. Eragon
+44. Bloodlines (Mead novel)
+45. Twilight (series)
+46. The Horse and His Boy
+47. The Zombie Survival Guide
+48. Choke (novel)
+49. Interview with the Vampire
+50. The Child Thief

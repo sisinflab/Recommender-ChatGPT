@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Crank by Ellen Hopkins
+2. Burned by Ellen Hopkins
+3. Tricks by Ellen Hopkins
+4. Fallout by Ellen Hopkins
+5. The Maze Runner by James Dashner
+6. The Hunger Games by Suzanne Collins
+7. Catching Fire by Suzanne Collins
+8. Mockingjay by Suzanne Collins
+9. Divergent by Veronica Roth
+10. Insurgent by Veronica Roth
+11. Allegiant by Veronica Roth
+12. The Giver by Lois Lowry
+13. Gathering Blue by Lois Lowry
+14. Messenger by Lois Lowry
+15. Son by Lois Lowry
+16. The Graveyard Book by Neil Gaiman
+17. Coraline by Neil Gaiman
+18. American Gods by Neil Gaiman
+19. Stardust by Neil Gaiman
+20. The Ocean at the End of the Lane by Neil Gaiman
+21. The Girl with the Dragon Tattoo by Stieg Larsson
+22. The Girl Who Played with Fire by Stieg Larsson
+23. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+24. The Da Vinci Code by Dan Brown
+25. Angels & Demons by Dan Brown
+26. Inferno by Dan Brown
+27. The Lost Symbol by Dan Brown
+28. The Alchemist by Paulo Coelho
+29. Veronika Decides to Die by Paulo Coelho
+30. Brida by Paulo Coelho
+31. The Valkyries by Paulo Coelho
+32. The Zahir by Paulo Coelho
+33. The Name of the Wind by Patrick Rothfuss
+34. The Wise Man's Fear by Patrick Rothfuss
+35. The Slow Regard of Silent Things by Patrick Rothfuss
+36. The Hobbit by J.R.R. Tolkien
+37. The Lord of the Rings by J.R.R. Tolkien
+38. The Silmarillion by J.R.R. Tolkien
+39. The Chronicles of Narnia by C.S. Lewis
+40. The Magician's Nephew by C.S. Lewis
+41. The Lion, the Witch and the Wardrobe by C.S. Lewis
+42. The Horse and His Boy by C.S. Lewis
+43. The Voyage of the Dawn Treader by C.S. Lewis
+44. The Silver Chair by C.S. Lewis
+45. The Last Battle by C.S. Lewis
+46. The Outsiders by S.E. Hinton
+47. That Was Then, This Is Now by S.E. Hinton
+48. Rumble Fish by S.E. Hinton
+49. Tex by S.E. Hinton
+50. Taming the Star Runner by S.E. Hinton

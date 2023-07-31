@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Testament
+2. Anthrax
+3. Overkill
+4. Helloween
+5. Sepultura
+6. Death
+7. Dream Theater
+8. Symphony X
+9. Queensrÿche
+10. Iced Earth
+11. Dio
+12. Savatage
+13. Gamma Ray
+14. Stratovarius
+15. Blind Guardian
+16. Nightwish
+17. Epica
+18. Kamelot
+19. Sonata Arctica
+20. Rhapsody of Fire
+21. Edguy
+22. DragonForce
+23. Sabaton
+24. Powerwolf
+25. HammerFall
+26. Manowar
+27. Running Wild
+28. Grave Digger
+29. Accept
+30. Saxon
+31. Judas Priest
+32. Iron Savior
+33. Primal Fear
+34. Rage
+35. Metal Church
+36. Annihilator
+37. Kreator
+38. Exodus
+39. Slayer
+40. Megadeth
+41. Metallica
+42. Pantera
+43. Black Sabbath
+44. Ozzy Osbourne
+45. Motley Crue
+46. Guns N' Roses
+47. AC/DC
+48. Led Zeppelin
+49. Deep Purple
+50. Pink Floyd

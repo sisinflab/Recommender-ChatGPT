@@ -1,0 +1,49 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Catcher in the Rye by J.D. Salinger
+3. The Great Gatsby by F. Scott Fitzgerald
+4. Animal Farm by George Orwell
+5. Brave New World by Aldous Huxley
+6. Lord of the Flies by William Golding
+7. The Diary of a Young Girl by Anne Frank
+8. The Color Purple by Alice Walker
+9. The Bell Jar by Sylvia Plath
+10. The Handmaid's Tale by Margaret Atwood
+11. The Road by Cormac McCarthy
+12. The Hunger Games by Suzanne Collins
+13. The Fault in Our Stars by John Green
+14. The Book Thief by Markus Zusak
+15. The Kite Runner by Khaled Hosseini
+16. A Thousand Splendid Suns by Khaled Hosseini
+17. The Alchemist by Paulo Coelho
+18. The Picture of Dorian Gray by Oscar Wilde
+19. The Sun Also Rises by Ernest Hemingway
+20. The Old Man and the Sea by Ernest Hemingway
+21. The Sound and the Fury by William Faulkner
+22. As I Lay Dying by William Faulkner
+23. One Hundred Years of Solitude by Gabriel Garcia Marquez
+24. Love in the Time of Cholera by Gabriel Garcia Marquez
+25. Crime and Punishment by Fyodor Dostoevsky
+26. The Brothers Karamazov by Fyodor Dostoevsky
+27. Anna Karenina by Leo Tolstoy
+28. War and Peace by Leo Tolstoy
+29. The Count of Monte Cristo by Alexandre Dumas
+30. Les Miserables by Victor Hugo
+31. The Adventures of Huckleberry Finn by Mark Twain
+32. The Adventures of Tom Sawyer by Mark Twain
+33. The Hobbit by J.R.R. Tolkien
+34. The Lord of the Rings by J.R.R. Tolkien
+35. The Chronicles of Narnia by C.S. Lewis
+36. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+37. The Girl with the Dragon Tattoo by Stieg Larsson
+38. The Girl Who Played with Fire by Stieg Larsson
+39. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+40. The Da Vinci Code by Dan Brown
+41. Angels and Demons by Dan Brown
+42. The Name of the Rose by Umberto Eco
+43. The Shadow of the Wind by Carlos Ruiz Zafon
+44. The Time Traveler's Wife by Audrey Niffenegger
+45. The Lovely Bones by Alice Sebold
+46. The Help by Kathryn Stockett
+47. The Secret Life of Bees by Sue Monk

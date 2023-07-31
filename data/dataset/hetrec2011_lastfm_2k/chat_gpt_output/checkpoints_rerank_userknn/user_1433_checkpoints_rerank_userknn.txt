@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for user 1433 are:
+
+1. Madonna
+2. Michael Jackson
+3. Britney Spears
+4. Mariah Carey
+5. Céline Dion
+6. Pulp
+7. The Chemical Brothers
+8. Arctic Monkeys
+9. Suzanne Vega
+10. Björk
+11. Zемфира
+12. Alphabeat
+13. The Kooks
+14. Take That
+15. Fiona Apple
+16. KT Tunstall
+17. Babyshambles
+18. Julieta Venegas
+19. David Archuleta
+20. Colbie Caillat
+21. Taylor Swift
+22. Dido
+23. Katharine McPhee
+24. Amy Macdonald
+25. Lily Allen
+26. t.A.T.u.
+27. Enigma
+28. P!nk
+29. Justice
+30. Radiohead
+31. Jeffree Star
+32. ATB
+33. September
+34. Leona Lewis
+35. Christina Aguilera
+36. Roxette
+37. Ace of Base
+38. Emma Bunton
+39. Girls Aloud
+40. Elvis Presley
+41. The Pussycat Dolls
+42. Within Temptation
+43. Adele
+44. Enya
+45. Enrique Iglesias
+46. Linkin Park
+47. Shakira
+48. Era
+49. Kylie Minogue
+50. Miley Cyrus

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Parkway Drive
+2. Killswitch Engage
+3. August Burns Red
+4. Heaven Shall Burn
+5. Comeback Kid
+6. Soilwork
+7. Billy Talent
+8. Machine Head
+9. Atreyu
+10. All That Remains
+11. Bullet for My Valentine
+12. The Devil Wears Prada
+13. In Flames
+14. Alexisonfire
+15. Circa Survive
+16. Anathema
+17. Florence + the Machine
+18. The Mars Volta
+19. Caliban
+20. Static-X
+21. Mindless Self Indulgence
+22. Hadouken!
+23. Underoath
+24. Enter Shikari
+25. Muse
+26. Pink Floyd
+27. Radiohead
+28. Nirvana
+29. Metallica
+30. Led Zeppelin
+31. Iron Maiden
+32. Pearl Jam
+33. System of a Down
+34. Nine Inch Nails
+35. Linkin Park
+36. Avenged Sevenfold
+37. My Chemical Romance
+38. Green Day
+39. The Cure
+40. Arctic Monkeys
+41. Placebo
+42. Blur
+43. Duran Duran
+44. Michael Jackson
+45. Madonna
+46. Beyoncé
+47. Lady Gaga
+48. Rihanna
+49. Katy Perry
+50. Taylor Swift

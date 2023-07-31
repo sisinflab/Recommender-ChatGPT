@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Elliott Smith
+2. Neutral Milk Hotel
+3. Arcade Fire
+4. The National
+5. Vampire Weekend
+6. The Shins
+7. Wilco
+8. Fleetwood Mac
+9. David Bowie
+10. The Velvet Underground
+11. The Smiths
+12. Joy Division
+13. Talking Heads
+14. Pixies
+15. Sonic Youth
+16. My Bloody Valentine
+17. Sigur Rós
+18. Explosions in the Sky
+19. Mogwai
+20. Godspeed You! Black Emperor
+21. The Flaming Lips
+22. Yo La Tengo
+23. Pavement
+24. Modest Mouse
+25. The Decemberists
+26. Iron & Wine and Calexico
+27. Grizzly Bear and Feist
+28. Animal Collective and Vashti Bunyan
+29. The Magnetic Fields and Stephin Merritt
+30. Belle and Sebastian and The New Pornographers
+31. The Beatles and The Rolling Stones
+32. Bob Dylan
+33. Leonard Cohen
+34. Nick Drake
+35. Joni Mitchell
+36. Neil Young
+37. Tom Waits
+38. Bruce Springsteen
+39. Elvis Costello
+40. Talking Heads and Brian Eno
+41. Radiohead and Thom Yorke
+42. Beck and The Dust Brothers
+43. The Chemical Brothers
+44. Daft Punk
+45. LCD Soundsystem
+46. Justice
+47. M83
+48. Grimes
+49. Tame Impala
+50. Frank Ocean

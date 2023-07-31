@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Harry Potter and the Philosopher's Stone by J.K. Rowling
+3. The Fault in Our Stars by John Green
+4. To Kill a Mockingbird by Harper Lee
+5. The Giver by Lois Lowry
+6. The Maze Runner by James Dashner
+7. The Lightning Thief by Rick Riordan
+8. Divergent by Veronica Roth
+9. The Chronicles of Narnia by C.S. Lewis
+10. The Hobbit by J.R.R. Tolkien
+11. The Outsiders by S.E. Hinton
+12. The Perks of Being a Wallflower by Stephen Chbosky
+13. The Secret Life of Bees by Sue Monk Kidd
+14. The Catcher in the Rye by J.D. Salinger
+15. The Lord of the Rings by J.R.R. Tolkien
+16. The Book Thief by Markus Zusak
+17. The Alchemist by Paulo Coelho
+18. The Girl on the Train by Paula Hawkins
+19. The Help by Kathryn Stockett
+20. The Da Vinci Code by Dan Brown
+21. The Kite Runner by Khaled Hosseini
+22. The Lovely Bones by Alice Sebold
+23. The Time Traveler's Wife by Audrey Niffenegger
+24. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+25. The Picture of Dorian Gray by Oscar Wilde
+26. The Great Gatsby by F. Scott Fitzgerald
+27. The Adventures of Tom Sawyer by Mark Twain
+28. The Adventures of Huckleberry Finn by Mark Twain
+29. The War of the Worlds by H.G. Wells
+30. The Invisible Man by H.G. Wells
+31. The Island of Dr. Moreau by H.G. Wells
+32. The Time Machine by H.G. Wells
+33. The Call of the Wild by Jack London
+34. White Fang by Jack London
+35. The Old Man and the Sea by Ernest Hemingway
+36. The Sun Also Rises by Ernest Hemingway
+37. The Catcher in the Rye by J.D. Salinger
+38. The Bell Jar by Sylvia Plath
+39. The Color Purple by Alice Walker
+40. The Joy Luck Club by Amy Tan
+41. The God of Small Things by Arundhati Roy
+42. The Poisonwood Bible by Barbara Kingsolver
+43. The Handmaid's Tale by Margaret Atwood
+44. 1984 by George Orwell
+45. Animal Farm by George Orwell
+46. Brave New World by Aldous Huxley
+47. Fahrenheit 451 by Ray Bradbury
+48. The Martian by Andy Weir
+49. Ready Player One by Ernest Cline
+50. The Hitchhiker's

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Lady Gaga
+2. Eminem
+3. Avenged Sevenfold
+4. Slipknot
+5. Drake
+6. Lil' Wayne
+7. Kanye West
+8. Paramore
+9. Linkin Park
+10. Chris Brown
+11. B.o.B
+12. Hollywood Undead
+13. Bullet for My Valentine
+14. Stone Sour
+15. All Time Low
+16. Skillet
+17. Jason Derülo
+18. Jay Sean
+19. Disturbed
+20. HIM
+21. 3OH!3
+22. The Fray
+23. Akon
+24. Senses Fail
+25. Timbaland
+26. OneRepublic
+27. Usher
+28. The Red Jumpsuit Apparatus
+29. Kid Cudi
+30. Korn
+31. LMFAO
+32. David Guetta
+33. Slash
+34. Muse
+35. Pink Floyd
+36. Nirvana
+37. Metallica
+38. Led Zeppelin
+39. Iron Maiden
+40. Radiohead
+41. Nine Inch Nails
+42. System of a Down
+43. Pearl Jam
+44. The Killers
+45. Green Day
+46. My Chemical Romance
+47. Coldplay
+48. Blur
+49. Arctic Monkeys
+50. Placebo

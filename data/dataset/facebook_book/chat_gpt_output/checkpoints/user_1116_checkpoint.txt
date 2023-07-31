@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. To Kill a Mockingbird by Harper Lee
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Brothers Karamazov by Fyodor Dostoevsky
+7. Crime and Punishment by Fyodor Dostoevsky
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Stranger by Albert Camus
+10. The Bell Jar by Sylvia Plath
+11. Lolita by Vladimir Nabokov
+12. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+13. Slaughterhouse-Five by Kurt Vonnegut
+14. Brave New World by Aldous Huxley
+15. The Road by Cormac McCarthy
+16. The Stand by Stephen King
+17. The Shining by Stephen King
+18. The Girl with the Dragon Tattoo by Stieg Larsson
+19. The Da Vinci Code by Dan Brown
+20. Angels and Demons by Dan Brown
+21. The Hunger Games by Suzanne Collins
+22. Catching Fire by Suzanne Collins
+23. Mockingjay by Suzanne Collins
+24. The Maze Runner by James Dashner
+25. The Bourne Identity by Robert Ludlum
+26. The Bourne Supremacy by Robert Ludlum
+27. The Bourne Ultimatum by Robert Ludlum
+28. The Girl on the Train by Paula Hawkins
+29. Gone Girl by Gillian Flynn
+30. The Silence of the Lambs by Thomas Harris
+31. Red Dragon by Thomas Harris
+32. Hannibal by Thomas Harris
+33. The Godfather by Mario Puzo
+34. The Godfather Returns by Mark Winegardner
+35. The Godfather's Revenge by Mark Winegardner
+36. The Godfather's Legacy by Ed Falco
+37. The Name of the Rose by Umberto Eco
+38. The Shadow of the Wind by Carlos Ruiz Zafon
+39. The Angel's Game by Carlos Ruiz Zafon
+40. The Prisoner of Heaven by Carlos Ruiz Zafon
+41. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+42. The Girl Who Played with Fire by Stieg Larsson
+43. The Girl in the Spider's Web by David Lagercrantz
+44. The Girl Who Takes an Eye for an Eye by David Lagercrantz
+45. The Girl Who Lived Twice by David Lagercrantz
+46. The Girl Who Smiled Beads by Clemantine Wamariya
+47. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+48. The Glass Castle by Jeannette Walls
+49. The Name of the Wind by Patrick Rothfuss
+50. The Wise Man's Fear by Patrick Rothfuss

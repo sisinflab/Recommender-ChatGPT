@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Fault in Our Stars by John Green
+2. Thirteen Reasons Why by Jay Asher
+3. The Perks of Being a Wallflower by Stephen Chbosky
+4. Eleanor & Park by Rainbow Rowell
+5. Speak by Laurie Halse Anderson
+6. It's Kind of a Funny Story by Ned Vizzini
+7. The Catcher in the Rye by J.D. Salinger
+8. The Hunger Games by Suzanne Collins
+9. Divergent by Veronica Roth
+10. The Maze Runner by James Dashner
+11. The Giver by Lois Lowry
+12. The Book Thief by Markus Zusak
+13. The Lovely Bones by Alice Sebold
+14. The Girl on the Train by Paula Hawkins
+15. Gone Girl by Gillian Flynn
+16. The Help by Kathryn Stockett
+17. The Kite Runner by Khaled Hosseini
+18. A Thousand Splendid Suns by Khaled Hosseini
+19. The Time Traveler's Wife by Audrey Niffenegger
+20. Water for Elephants by Sara Gruen
+21. The Nightingale by Kristin Hannah
+22. The Alchemist by Paulo Coelho
+23. The Picture of Dorian Gray by Oscar Wilde
+24. The Great Gatsby by F. Scott Fitzgerald
+25. To Kill a Mockingbird by Harper Lee
+26. The Color Purple by Alice Walker
+27. The Handmaid's Tale by Margaret Atwood
+28. 1984 by George Orwell
+29. Animal Farm by George Orwell
+30. Brave New World by Aldous Huxley
+31. Fahrenheit 451 by Ray Bradbury
+32. The Martian by Andy Weir
+33. Ready Player One by Ernest Cline
+34. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+35. The Lord of the Rings by J.R.R. Tolkien
+36. Harry Potter and the Philosopher's Stone by J.K. Rowling
+37. The Hobbit by J.R.R. Tolkien
+38. The Chronicles of Narnia by C.S. Lewis
+39. The Hunger Games Trilogy Boxset by Suzanne Collins
+40. The Maze Runner Series Complete Collection Boxed Set by James Dashner
+41. The Divergent Series Complete Collection Box Set by Veronica Roth
+42. The Selection Series Box Set by Kiera Cass
+43. The Lunar Chronicles Boxed Set by Marissa Meyer
+44. The Mortal Instruments Boxed Set by Cassandra Clare
+45. The Infernal Devices Boxed Set by Cassandra Clare
+46. The Dark Artifices Boxed Set by Cassandra Clare
+47. The Shadowhunter's Codex by Cassandra Clare
+48. The Bane Chronicles by Cassandra Clare
+49. The Red Scrolls of Magic by Cassandra Clare
+50. Chain of Gold by

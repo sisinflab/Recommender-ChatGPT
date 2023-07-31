@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Sara Bareilles
+2. Colbie Caillat
+3. Eagles
+4. Boston
+5. Enya
+6. Yanni
+7. Steely Dan
+8. Lady Antebellum
+9. Carrie Underwood
+10. Kansas
+11. Heart
+12. Corinne Bailey Rae
+13. Adele
+14. Norah Jones
+15. The Beatles
+16. The Script
+17. Gavin DeGraw
+18. David Archuleta
+19. Paolo Nutini
+20. Michael Jackson
+21. Journey
+22. Madonna
+23. Taylor Swift
+24. The Cardigans
+25. Rascal Flatts
+26. Natasha Bedingfield
+27. Hilary Duff
+28. Justin Bieber
+29. Brad Paisley
+30. Rush
+31. Cream
+32. The Corrs
+33. Owl City
+34. Katy Perry
+35. Pink Floyd
+36. Iron Maiden
+37. Whitesnake
+38. Keith Urban
+39. KISS
+40. Red Hot Chili Peppers
+41. Dream Theater
+42. Kelly Clarkson
+43. Jethro Tull
+44. Yes
+45. Black Sabbath
+46. Uriah Heep
+47. Britney Spears
+48. Lady Gaga
+49. Avril Lavigne
+50. Vanessa Carlton

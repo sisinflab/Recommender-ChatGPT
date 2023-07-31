@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Shining by Stephen King
+2. House of Leaves by Mark Z. Danielewski
+3. John Dies at the End by David Wong
+4. The Hunger Games by Suzanne Collins
+5. The Girl with the Dragon Tattoo by Stieg Larsson
+6. The Most Dangerous Game by Gavin Lyall
+7. The Road by Cormac McCarthy
+8. Glass by Ellen Hopkins
+9. The Catcher in the Rye by J.D. Salinger
+10. Harry Potter and the Philosopher's Stone by J.K. Rowling
+11. The Da Vinci Code by Dan Brown
+12. The Girl on the Train by Paula Hawkins
+13. Vampire Academy by Richelle Mead
+14. Crank by Ellen Hopkins
+15. The God Delusion by Richard Dawkins
+16. Lolita by Vladimir Nabokov
+17. The Long Hard Road Out of Hell by Marilyn Manson and Neil Strauss
+18. The Stand by Stephen King
+19. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+20. The Silence of the Lambs by Thomas Harris
+21. The Picture of Dorian Gray by Oscar Wilde
+22. The Great Gatsby by F. Scott Fitzgerald
+23. The Hobbit by J.R.R. Tolkien
+24. The Lord of the Rings by J.R.R. Tolkien
+25. The Catcher in the Rye by J.D. Salinger
+26. The Bell Jar by Sylvia Plath
+27. The Road by Cormac McCarthy
+28. The Hunger Games by Suzanne Collins
+29. The Girl with the Dragon Tattoo by Stieg Larsson
+30. The Da Vinci Code by Dan Brown
+31. The Girl on the Train by Paula Hawkins
+32. The Stand by Stephen King
+33. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+34. The Silence of the Lambs by Thomas Harris
+35. The Picture of Dorian Gray by Oscar Wilde
+36. The Great Gatsby by F. Scott Fitzgerald
+37. The Hobbit by J.R.R. Tolkien
+38. The Lord of the Rings by J.R.R. Tolkien
+39. The Catcher in the Rye by J.D. Salinger
+40. The Bell Jar by Sylvia Plath
+41. The Road by Cormac McCarthy
+42. The Hunger Games by Suzanne Collins
+43. The Girl with the Dragon Tattoo by Stieg Larsson
+44. The Da Vinci Code by Dan Brown
+45. The Girl on the Train by Paula Hawkins
+46. The Stand by Stephen King
+47. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+48. The Silence of the Lambs by Thomas Harris
+49. The Picture of Dorian Gray by Oscar Wilde
+50. The Great Gatsby by F. Scott Fitzgerald

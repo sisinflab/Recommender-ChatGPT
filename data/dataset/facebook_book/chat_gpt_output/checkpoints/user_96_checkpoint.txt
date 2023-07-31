@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Maze Runner by James Dashner
+2. Divergent by Veronica Roth
+3. The Giver by Lois Lowry
+4. Ender's Game by Orson Scott Card
+5. Percy Jackson and the Lightning Thief by Rick Riordan
+6. The Fault in Our Stars by John Green
+7. The Mortal Instruments series by Cassandra Clare
+8. The Infernal Devices series by Cassandra Clare
+9. The Hunger Games series by Suzanne Collins
+10. The Twilight series by Stephenie Meyer
+11. The Host by Stephenie Meyer
+12. The Black Tattoo by Sam Enthoven
+13. City of Bones by Cassandra Clare
+14. City of Ashes by Cassandra Clare
+15. City of Glass by Cassandra Clare
+16. Glass by Ellen Hopkins
+17. Impulse by Ellen Hopkins
+18. Burned by Ellen Hopkins
+19. Identical by Ellen Hopkins
+20. Tricks by Ellen Hopkins
+21. Perfect by Ellen Hopkins
+22. The Vampire Diaries series by L.J. Smith
+23. The Secret Circle series by L.J. Smith
+24. The Dark Tower series by Stephen King
+25. The Lord of the Rings series by J.R.R. Tolkien
+26. The Hobbit by J.R.R. Tolkien
+27. The Chronicles of Narnia series by C.S. Lewis
+28. The Harry Potter series by J.K. Rowling
+29. The Percy Jackson series by Rick Riordan
+30. The Heroes of Olympus series by Rick Riordan
+31. The Kane Chronicles series by Rick Riordan
+32. The Inheritance Cycle series by Christopher Paolini
+33. The Hunger Games by Suzanne Collins
+34. Catching Fire by Suzanne Collins
+35. Mockingjay by Suzanne Collins
+36. The Selection series by Kiera Cass
+37. The Lunar Chronicles series by Marissa Meyer
+38. The Maze Runner series by James Dashner
+39. The 5th Wave series by Rick Yancey
+40. The Darkest Minds series by Alexandra Bracken
+41. The Chemical Garden series by Lauren DeStefano
+42. The Uglies series by Scott Westerfeld
+43. The Leviathan series by Scott Westerfeld
+44. The Gone series by Michael Grant
+45. The Unwind series by Neal Shusterman
+46. The Chaos Walking series by Patrick Ness
+47. The Raven Cycle series by Maggie Stiefvater
+48. The Grisha Trilogy series by Leigh Bardugo
+49. The Red Queen series by Victoria Aveyard
+50. The Throne of Glass series by Sarah J. Maas

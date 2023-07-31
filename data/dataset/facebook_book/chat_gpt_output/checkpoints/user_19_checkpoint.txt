@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Maze Runner by James Dashner
+4. The Giver by Lois Lowry
+5. The Fault in Our Stars by John Green
+6. The Chronicles of Narnia by C.S. Lewis
+7. The Lord of the Rings by J.R.R. Tolkien
+8. The Hobbit by J.R.R. Tolkien
+9. Ender's Game by Orson Scott Card
+10. The Percy Jackson and the Olympians series by Rick Riordan
+11. The Heroes of Olympus series by Rick Riordan
+12. The Kane Chronicles series by Rick Riordan
+13. The Trials of Apollo series by Rick Riordan
+14. The Magnus Chase and the Gods of Asgard series by Rick Riordan
+15. The Dark Prophecy by Rick Riordan
+16. The Hidden Oracle by Rick Riordan
+17. The Red Pyramid by Rick Riordan
+18. The Throne of Fire by Rick Riordan
+19. The Serpent's Shadow by Rick Riordan
+20. The Lightning Thief: The Graphic Novel by Rick Riordan
+21. The Sea of Monsters: The Graphic Novel by Rick Riordan
+22. The Titan's Curse: The Graphic Novel by Rick Riordan
+23. The Battle of the Labyrinth: The Graphic Novel by Rick Riordan
+24. The Last Olympian: The Graphic Novel by Rick Riordan
+25. The Outsiders by S.E. Hinton
+26. The Harry Potter series by J.K. Rowling
+27. The Hitchhiker's Guide to the Galaxy series by Douglas Adams
+28. The Inheritance Cycle series by Christopher Paolini
+29. The Smurfs series by Peyo
+30. The Mysterious Benedict Society series by Trenton Lee Stewart
+31. The Secrets of the Immortal Nicholas Flamel series by Michael Scott
+32. The Lost Boy by David Pelzer
+33. The Perks of Being a Wallflower by Stephen Chbosky
+34. The Book Thief by Markus Zusak
+35. The Catcher in the Rye by J.D. Salinger
+36. To Kill a Mockingbird by Harper Lee
+37. The Great Gatsby by F. Scott Fitzgerald
+38. 1984 by George Orwell
+39. Animal Farm by George Orwell
+40. Brave New World by Aldous Huxley
+41. Lord of the Flies by William Golding
+42. The Picture of Dorian Gray by Oscar Wilde
+43. The Count of Monte Cristo by Alexandre Dumas
+44. Les Misérables by Victor Hugo
+45. The Three Musketeers by Alexandre Dumas
+46. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+47. The Hound of the Baskervilles by Arthur Conan Doyle
+48

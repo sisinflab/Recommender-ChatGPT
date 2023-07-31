@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Death Cab for Cutie
+2. Iron & Wine
+3. The Shins
+4. José González
+5. Beirut
+6. Mute Math
+7. Copeland
+8. Ray LaMontagne
+9. Feist
+10. Imogen Heap
+11. Snow Patrol
+12. The Fray
+13. Something Corporate
+14. Juanes
+15. Matisyahu
+16. Nelly Furtado
+17. Shakira
+18. Coldplay
+19. Radiohead
+20. Muse
+21. Pink Floyd
+22. Nirvana
+23. Led Zeppelin
+24. Metallica
+25. Michael Jackson
+26. Pearl Jam
+27. U2
+28. The Beatles
+29. Duran Duran
+30. Arctic Monkeys
+31. Placebo
+32. The Killers
+33. Madonna
+34. Björk
+35. Daft Punk
+36. Nine Inch Nails
+37. Linkin Park
+38. System of a Down
+39. Green Day
+40. My Chemical Romance
+41. Avenged Sevenfold
+42. Black Eyed Peas
+43. P!nk
+44. Kelly Clarkson
+45. Lady Gaga
+46. Christina Aguilera
+47. Katy Perry
+48. Taylor Swift
+49. Avril Lavigne
+50. Rihanna

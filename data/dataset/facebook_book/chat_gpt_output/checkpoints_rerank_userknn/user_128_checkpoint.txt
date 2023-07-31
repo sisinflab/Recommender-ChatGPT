@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter series by J.K. Rowling
+2. The Lord of the Rings by J.R.R. Tolkien
+3. The Chronicles of Narnia by C.S. Lewis
+4. To Kill a Mockingbird by Harper Lee
+5. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+6. 1984 by George Orwell
+7. The Giver by Lois Lowry
+8. The Catcher in the Rye by J.D. Salinger
+9. The Da Vinci Code by Dan Brown
+10. The Silence of the Lambs by Thomas Harris
+11. Alice's Adventures in Wonderland by Lewis Carroll
+12. The Lion, the Witch and the Wardrobe by C.S. Lewis
+13. Interview with the Vampire by Anne Rice
+14. Frankenstein by Mary Shelley
+15. The Aeneid by Virgil
+16. The Giving Tree by Shel Silverstein
+17. The Grapes of Wrath by John Steinbeck
+18. Jane Eyre by Charlotte Bronte
+19. Outlander by Diana Gabaldon
+20. Inferno by Dante Alighieri
+21. Angels & Demons by Dan Brown
+22. Wicked by Gregory Maguire
+23. Stardust by Neil Gaiman
+24. I Am Legend by Richard Matheson
+25. The Morganville Vampires by Rachel Caine
+26. The Watchmen by Alan Moore
+27. The Little Mermaid by Hans Christian Andersen
+28. The Hatchet by Gary Paulsen
+29. The Outsiders by S.E. Hinton
+30. The Giving Tree by Shel Silverstein
+31. The Interpretation of Dreams by Sigmund Freud
+32. The Luxe by Anna Godbersen
+33. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+34. The Catcher in the Rye by J.D. Salinger
+35. The Da Vinci Code by Dan Brown
+36. The Silence of the Lambs by Thomas Harris
+37. Alice's Adventures in Wonderland by Lewis Carroll
+38. The Lion, the Witch and the Wardrobe by C.S. Lewis
+39. Interview with the Vampire by Anne Rice
+40. Frankenstein by Mary Shelley
+41. The Aeneid by Virgil
+42. The Giving Tree by Shel Silverstein
+43. The Grapes of Wrath by John Steinbeck
+44. Jane Eyre by Charlotte Bronte
+45. Outlander by Diana Gabaldon
+46. Inferno by Dante Alighieri
+47. Angels & Demons by Dan Brown
+48. Wicked by Gregory Maguire
+49. Stardust by Neil Gaiman
+50. I Am Legend by Richard Matheson

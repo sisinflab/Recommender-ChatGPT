@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Tokio Hotel
+2. 30 Seconds to Mars
+3. Paramore
+4. Three Days Grace
+5. Katy Perry
+6. The Killers
+7. Beyoncé
+8. The Maine
+9. AC/DC
+10. Rihanna
+11. Iron Maiden
+12. Green Day
+13. Aloha From Hell
+14. The Pretty Reckless
+15. KISS
+16. Queen
+17. Stereophonics
+18. John Lennon
+19. P.O.D.
+20. We The Kings
+21. Drowning Pool
+22. Pixie Lott
+23. Nickelback
+24. Sum 41
+25. Kerli
+26. VersaEmerge
+27. Escape The Fate
+28. Kings of Leon
+29. System of a Down
+30. George Michael
+31. The Strokes
+32. t.A.T.u.
+33. Muse
+34. Pink Floyd
+35. Radiohead
+36. Coldplay
+37. The Beatles
+38. Nirvana
+39. Metallica
+40. Led Zeppelin
+41. Amy Winehouse
+42. Duran Duran
+43. Arctic Monkeys
+44. Placebo
+45. Michael Jackson
+46. a-ha
+47. Björk
+48. Nine Inch Nails
+49. Daft Punk
+50. Linkin Park

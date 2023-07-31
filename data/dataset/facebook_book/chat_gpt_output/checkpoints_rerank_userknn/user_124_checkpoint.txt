@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Harry Potter
+2. The Lord of the Rings
+3. Animal Farm
+4. Dracula
+5. Crime and Punishment
+6. The Great Gatsby
+7. To Kill a Mockingbird
+8. Les Misérables
+9. Romeo and Juliet
+10. The Chronicles of Narnia: Prince Caspian
+11. The Catcher in the Rye
+12. Don Quixote
+13. Sense and Sensibility
+14. The Portrait of a Lady
+15. Jane Eyre
+16. The Alchemist (novel)
+17. The Canterbury Tales
+18. Moby-Dick
+19. The Count of Monte Cristo
+20. Heart of Darkness
+21. Lolita
+22. David Copperfield
+23. The Glass Menagerie
+24. A Tale of Two Cities
+25. The Trial
+26. The Castle (novel)
+27. Vanity Fair (novel)
+28. And Then There Were None
+29. Thirteen Reasons Why
+30. The Last Lecture
+31. The Screwtape Letters
+32. Fallen (Kate novel)
+33. Persuasion (novel)
+34. Holes (novel)
+35. This Is Your Brain On Music
+36. Iliad
+37. Ramayana
+38. The Da Vinci Code
+39. Anthem (novella)
+40. Twisted (book)
+41. Their Eyes Were Watching God
+42. Captain Underpants
+43. The Martian Chronicles
+44. Out of the Silent Planet
+45. Angels & Demons
+46. Frankenstein
+47. Fahrenheit 451
+48. Twilight Eyes
+49. The Lovely Bones
+50. Redwall (novel)

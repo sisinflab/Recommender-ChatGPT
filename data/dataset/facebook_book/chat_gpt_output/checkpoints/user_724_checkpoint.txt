@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Clockwork Angel by Cassandra Clare
+2. Frostbite by Richelle Mead
+3. Frankenstein by Mary Shelley
+4. The Hunger Games by Suzanne Collins
+5. The Mortal Instruments series by Cassandra Clare
+6. Twilight by Stephenie Meyer
+7. The Vampire Lestat by Anne Rice
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Raven Boys by Maggie Stiefvater
+10. The Infernal Devices series by Cassandra Clare
+11. The Vampire Diaries series by L.J. Smith
+12. The Dark Tower series by Stephen King
+13. The Shining by Stephen King
+14. The Stand by Stephen King
+15. The Girl with the Dragon Tattoo by Stieg Larsson
+16. The Da Vinci Code by Dan Brown
+17. The Lord of the Rings series by J.R.R. Tolkien
+18. The Hobbit by J.R.R. Tolkien
+19. The Chronicles of Narnia series by C.S. Lewis
+20. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+21. The Catcher in the Rye by J.D. Salinger
+22. The Great Gatsby by F. Scott Fitzgerald
+23. To Kill a Mockingbird by Harper Lee
+24. 1984 by George Orwell
+25. Animal Farm by George Orwell
+26. Brave New World by Aldous Huxley
+27. Fahrenheit 451 by Ray Bradbury
+28. The Martian by Andy Weir
+29. Ready Player One by Ernest Cline
+30. Ender's Game by Orson Scott Card
+31. The Maze Runner by James Dashner
+32. Divergent by Veronica Roth
+33. The Fault in Our Stars by John Green
+34. The Book Thief by Markus Zusak
+35. The Help by Kathryn Stockett
+36. The Kite Runner by Khaled Hosseini
+37. A Thousand Splendid Suns by Khaled Hosseini
+38. The Alchemist by Paulo Coelho
+39. The Name of the Wind by Patrick Rothfuss
+40. The Wise Man's Fear by Patrick Rothfuss
+41. The Lies of Locke Lamora by Scott Lynch
+42. Mistborn by Brandon Sanderson
+43. The Way of Kings by Brandon Sanderson
+44. The Final Empire by Brandon Sanderson
+45. The Eye of the World by Robert Jordan
+46. The Gunslinger by Stephen King
+47. The Drawing of the Three by Stephen King
+48. The Waste Lands by Stephen King
+49. The Dark Tower IV: Wizard and Glass by Stephen King
+50. The Dark Tower V: Wolves of the Calla by Stephen King

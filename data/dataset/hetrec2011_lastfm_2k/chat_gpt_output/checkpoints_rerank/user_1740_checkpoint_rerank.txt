@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Muse
+3. Pink Floyd
+4. Daft Punk
+5. Nine Inch Nails
+6. Tool
+7. The Chemical Brothers
+8. Sigur Rós
+9. Crystal Castles
+10. Venetian Snares
+11. Prefuse 73
+12. The Flashbulb
+13. O.S.T.R.
+14. Bonobo
+15. Digitalism
+16. Pendulum
+17. Arctic Monkeys
+18. The Cure
+19. Yelle
+20. The Ting Tings
+21. Flunk
+22. of Montreal
+23. Lenny Kravitz
+24. MGMT
+25. Róisín Murphy
+26. Beyoncé
+27. Lady Gaga
+28. Madonna
+29. Rihanna
+30. Shakira
+31. Björk
+32. Depeche Mode
+33. Michael Jackson
+34. Led Zeppelin
+35. Nirvana
+36. Iron Maiden
+37. Metallica
+38. Pearl Jam
+39. a-ha
+40. System of a Down
+41. Linkin Park
+42. Avenged Sevenfold
+43. My Chemical Romance
+44. Green Day
+45. The Killers
+46. Duran Duran
+47. Coldplay
+48. Blur
+49. Katy Perry
+50. Taylor Swift

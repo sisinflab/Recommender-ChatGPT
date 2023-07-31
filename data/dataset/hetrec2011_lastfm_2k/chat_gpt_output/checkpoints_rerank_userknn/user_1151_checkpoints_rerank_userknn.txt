@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Coldplay
+2. U2
+3. Oasis
+4. Lifehouse
+5. Switchfoot
+6. MxPx
+7. Thousand Foot Krutch
+8. Demon Hunter
+9. Flyleaf
+10. As I Lay Dying
+11. 12 Stones
+12. Sixpence None the Richer
+13. Creed
+14. Snow Patrol
+15. Kings of Leon
+16. The Fratellis
+17. Portishead
+18. Tool
+19. Dream Theater
+20. Opeth
+21. Metallica
+22. Blur
+23. The Script
+24. Three Days Grace
+25. John Mayer
+26. Björk
+27. Tegan and Sara
+28. Evanescence
+29. Alice in Chains
+30. Pearl Jam
+31. Florence + the Machine
+32. Bruce Springsteen
+33. Porcupine Tree
+34. Pink Floyd
+35. The Beatles
+36. AFI
+37. Within Temptation
+38. Linkin Park
+39. Paramore
+40. HIM
+41. Hinder
+42. Michael Bublé
+43. Queen
+44. Mumford & Sons
+45. Radiohead
+46. A Perfect Circle
+47. Imogen Heap
+48. Skillet
+49. Epica
+50. Roxette

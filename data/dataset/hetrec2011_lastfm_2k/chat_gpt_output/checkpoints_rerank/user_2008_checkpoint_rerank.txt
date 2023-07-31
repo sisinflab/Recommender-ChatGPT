@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Arctic Monkeys
+2. The Last Shadow Puppets
+3. The Beatles
+4. AC/DC
+5. Megadeth
+6. Green Day
+7. Iron Maiden
+8. The Killers
+9. The White Stripes
+10. Franz Ferdinand
+11. MGMT
+12. The Black Keys
+13. The Fratellis
+14. Katy Perry
+15. Avenged Sevenfold
+16. Marilyn Manson
+17. The Pretty Reckless
+18. Joan Jett and the Blackhearts
+19. Ramones
+20. Interpol
+21. Los Hermanos
+22. Rooney
+23. Foo Fighters
+24. Arch Enemy
+25. KISS
+26. Evanescence
+27. Queens of the Stone Age
+28. Paul McCartney
+29. Amy Winehouse
+30. Phoenix
+31. Julian Casablancas
+32. White Lies
+33. Linkin Park
+34. The Rolling Stones
+35. Black Sabbath
+36. Daft Punk
+37. Muse
+38. Nirvana
+39. Iron Maiden
+40. Led Zeppelin
+41. Metallica
+42. Michael Jackson
+43. Pearl Jam
+44. Björk
+45. System of a Down
+46. Nine Inch Nails
+47. The Cure
+48. Placebo
+49. Coldplay
+50. Radiohead

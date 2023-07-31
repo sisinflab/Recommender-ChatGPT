@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. Brave New World by Aldous Huxley
+4. The Catcher in the Rye by J.D. Salinger
+5. To Kill a Mockingbird by Harper Lee
+6. The Great Gatsby by F. Scott Fitzgerald
+7. The Hunger Games by Suzanne Collins
+8. Catching Fire by Suzanne Collins
+9. Mockingjay by Suzanne Collins
+10. Divergent by Veronica Roth
+11. Insurgent by Veronica Roth
+12. Allegiant by Veronica Roth
+13. The Maze Runner by James Dashner
+14. The Scorch Trials by James Dashner
+15. The Death Cure by James Dashner
+16. The Giver by Lois Lowry
+17. Gathering Blue by Lois Lowry
+18. Messenger by Lois Lowry
+19. Son by Lois Lowry
+20. The Hobbit by J.R.R. Tolkien
+21. The Fellowship of the Ring by J.R.R. Tolkien
+22. The Two Towers by J.R.R. Tolkien
+23. The Return of the King by J.R.R. Tolkien
+24. The Silmarillion by J.R.R. Tolkien
+25. The Chronicles of Narnia by C.S. Lewis
+26. Ender's Game by Orson Scott Card
+27. Speaker for the Dead by Orson Scott Card
+28. Xenocide by Orson Scott Card
+29. Children of the Mind by Orson Scott Card
+30. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+31. The Restaurant at the End of the Universe by Douglas Adams
+32. Life, the Universe and Everything by Douglas Adams
+33. So Long, and Thanks for All the Fish by Douglas Adams
+34. Mostly Harmless by Douglas Adams
+35. The Dark Tower series by Stephen King
+36. The Shining by Stephen King
+37. Carrie by Stephen King
+38. The Stand by Stephen King
+39. It by Stephen King
+40. The Girl with the Dragon Tattoo by Stieg Larsson
+41. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+42. The Girl in the Spider's Web by David Lagercrantz
+43. Interview with the Vampire by Anne Rice
+44. The Vampire Armand by Anne Rice
+45. The Vampire Lestat by Anne Rice
+46. The Queen of the Damned by Anne Rice
+47. The Tale of the Body Thief by Anne Rice
+48. The Vampire Chronicles by Anne Rice
+49. The Hannibal Lecter series by Thomas Harris
+50. Red Dragon by Thomas Harris

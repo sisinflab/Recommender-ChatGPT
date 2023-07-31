@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations are:
+
+1. Radiohead
+2. Bloc Party
+3. M83
+4. Grizzly Bear
+5. Mogwai
+6. Death Cab for Cutie
+7. Sufjan Stevens
+8. Boards of Canada
+9. Max Richter
+10. Belle and Sebastian
+11. The Album Leaf
+12. Sigur Rós
+13. Hammock
+14. Explosions in the Sky
+15. Clint Mansell
+16. Jónsi & Alex
+17. Ólafur Arnalds
+18. Beirut
+19. Stars
+20. Animal Collective
+21. CocoRosie
+22. The American Dollar
+23. A Silver Mt. Zion
+24. Panda Bear
+25. Crystal Castles
+26. Digitalism
+27. Apparat
+28. Lily Allen
+29. Emilíana Torrini
+30. Vanessa da Mata
+31. Regina Spektor
+32. Maroon 5
+33. The Beatles
+34. Brian Eno
+35. Carla Bruni
+36. Keane
+37. The Sounds
+38. A Perfect Circle
+39. Yann Tiersen
+40. Balmorhea
+41. Imogen Heap
+42. A Fine Frenzy
+43. Kings of Convenience
+44. The Killers
+45. Bon Iver
+46. Ellie Goulding
+47. Underworld
+48. Tiësto
+49. Daft Punk
+50. Goo Goo Dolls

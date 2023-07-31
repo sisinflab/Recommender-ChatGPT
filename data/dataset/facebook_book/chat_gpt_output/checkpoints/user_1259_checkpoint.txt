@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Da Vinci Code by Dan Brown
+2. The Girl with the Dragon Tattoo by Stieg Larsson
+3. The Hunger Games by Suzanne Collins
+4. The Catcher in the Rye by J.D. Salinger
+5. To Kill a Mockingbird by Harper Lee
+6. 1984 by George Orwell
+7. The Lord of the Rings by J.R.R. Tolkien
+8. The Hobbit by J.R.R. Tolkien
+9. The Chronicles of Narnia by C.S. Lewis
+10. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+11. The Shining by Stephen King
+12. The Stand by Stephen King
+13. The Dark Tower series by Stephen King
+14. The Silence of the Lambs by Thomas Harris
+15. Hannibal by Thomas Harris
+16. Red Dragon by Thomas Harris
+17. Jurassic Park by Michael Crichton
+18. The Lost World by Michael Crichton
+19. Sphere by Michael Crichton
+20. Congo by Michael Crichton
+21. Ender's Game by Orson Scott Card
+22. Dune by Frank Herbert
+23. Brave New World by Aldous Huxley
+24. Fahrenheit 451 by Ray Bradbury
+25. The Great Gatsby by F. Scott Fitzgerald
+26. Animal Farm by George Orwell
+27. Lord of the Flies by William Golding
+28. The Road by Cormac McCarthy
+29. The Book Thief by Markus Zusak
+30. The Kite Runner by Khaled Hosseini
+31. A Thousand Splendid Suns by Khaled Hosseini
+32. The Alchemist by Paulo Coelho
+33. The Picture of Dorian Gray by Oscar Wilde
+34. The Count of Monte Cristo by Alexandre Dumas
+35. Les Misérables by Victor Hugo
+36. Crime and Punishment by Fyodor Dostoevsky
+37. The Brothers Karamazov by Fyodor Dostoevsky
+38. One Hundred Years of Solitude by Gabriel Garcia Marquez
+39. Love in the Time of Cholera by Gabriel Garcia Marquez
+40. The Name of the Rose by Umberto Eco
+41. The Shadow of the Wind by Carlos Ruiz Zafón
+42. The Pillars of the Earth by Ken Follett
+43. The Name of the Wind by Patrick Rothfuss
+44. The Wise Man's Fear by Patrick Rothfuss
+45. American Gods by Neil Gaiman
+46. Good Omens by Neil Gaiman and Terry Pratchett
+47. The Handmaid's Tale by Margaret Atwood
+48. The Testaments by Margaret Atwood
+49. The Help by Kathryn Stockett
+50. The Secret Life of Bees by Sue Monk Kidd

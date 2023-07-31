@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter by J.K. Rowling
+2. The Lord of the Rings by J.R.R. Tolkien
+3. The Hunger Games by Suzanne Collins
+4. To Kill a Mockingbird by Harper Lee
+5. The Book Thief by Markus Zusak
+6. Alice's Adventures in Wonderland by Lewis Carroll
+7. The Kite Runner by Khaled Hosseini
+8. Frankenstein by Mary Shelley
+9. Brave New World by Aldous Huxley
+10. Nineteen Eighty-Four by George Orwell
+11. The Time Machine by H.G. Wells
+12. The Outsiders by S.E. Hinton
+13. The Immortals by Tamora Pierce
+14. The Phantom Tollbooth by Norton Juster
+15. The Looking Glass Wars by Frank Beddor
+16. Where the Wild Things Are by Maurice Sendak
+17. A Summer to Die by Lois Lowry
+18. Rebel Angels by Libba Bray
+19. Envy by Yuri Olesha
+20. Enchantment by Orson Scott Card
+21. Princess Academy by Shannon Hale
+22. Beauty: A Retelling of the Story of Beauty and the Beast by Robin McKinley
+23. The Goose Girl by Shannon Hale
+24. The Eyes of the Dragon by Stephen King
+25. The Riddle by Alison Croggon
+26. Jane Eyre by Charlotte Brontë
+27. Daughter of the Lioness by Tamora Pierce
+28. Ella Enchanted by Gail Carson Levine
+29. Undead and Unwed by MaryJanice Davidson
+30. The Luxe by Anna Godbersen
+31. This Lullaby by Sarah Dessen
+32. Green Rider by Kristen Britain
+33. Gregor the Overlander by Suzanne Collins
+34. Chrestomanci by Diana Wynne Jones
+35. Garfield by Jim Davis
+36. The Call of the Wild by Jack London
+37. Will Grayson, Will Grayson by John Green and David Levithan
+38. A Series of Unfortunate Events by Lemony Snicket
+39. I Hope They Serve Beer in Hell by Tucker Max
+40. Mansfield Park by Jane Austen
+41. Hot Gimmick by Miki Aihara
+42. Adam by Ariel Schrag
+43. Three Cups of Tea by Greg Mortenson and David Oliver Relin
+44. Leven Thumps by Obert Skye
+45. The Circle by Dave Eggers
+46. Maximum Ride: The Angel Experiment by James Patterson
+47. The Hero and the Crown by Robin McKinley
+48. The House by Danielle Steel
+49. Pellinor by Alison Croggon
+50. The Walking Dead by Robert Kirkman and Tony Moore

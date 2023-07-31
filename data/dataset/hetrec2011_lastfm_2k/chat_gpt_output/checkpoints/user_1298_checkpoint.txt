@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Beyoncé
+2. Ariana Grande
+3. Adele
+4. Ed Sheeran
+5. Justin Timberlake
+6. Bruno Mars
+7. Demi Lovato
+8. Selena Gomez
+9. One Direction
+10. Nicki Minaj
+11. Drake
+12. The Weeknd
+13. Shawn Mendes
+14. Calvin Harris
+15. Zara Larsson
+16. Fifth Harmony
+17. Meghan Trainor
+18. Charlie Puth
+19. Sia
+20. Imagine Dragons
+21. Coldplay
+22. Sam Smith
+23. Taylor Swift (newer releases)
+24. Katy Perry (newer releases)
+25. Lady Gaga (newer releases)
+26. Miley Cyrus (newer releases)
+27. Rihanna (newer releases)
+28. Britney Spears (newer releases)
+29. Kelly Clarkson (newer releases)
+30. Christina Aguilera (newer releases)
+31. Ke$ha (newer releases)
+32. T.I. (newer releases)
+33. Backstreet Boys (newer releases)
+34. Carrie Underwood (newer releases)
+35. Hilary Duff (newer releases)
+36. Lady Antebellum (newer releases)
+37. Jason Derülo (newer releases)
+38. Justin Bieber (newer releases)
+39. Jennifer Lopez (newer releases)
+40. Mariah Carey (newer releases)
+41. Nelly Furtado (newer releases)
+42. Cascada (newer releases)
+43. JoJo (newer releases)
+44. Heidi Montag (newer releases)
+45. Shakira (newer releases)
+46. P!nk (newer releases)
+47. Hannah Montana (newer releases)
+48. Aly & AJ (newer releases)
+49. Jordin Sparks (newer releases)
+50. Ne-Yo (newer releases)

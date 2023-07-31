@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Sandman by Neil Gaiman
+2. Watchmen by Alan Moore and Dave Gibbons
+3. V for Vendetta by Alan Moore and David Lloyd
+4. The Dark Knight Returns by Frank Miller
+5. Batman: Year One by Frank Miller and David Mazzucchelli
+6. The League of Extraordinary Gentlemen by Alan Moore and Kevin O'Neill
+7. From Hell by Alan Moore and Eddie Campbell
+8. Preacher by Garth Ennis and Steve Dillon
+9. Y: The Last Man by Brian K. Vaughan and Pia Guerra
+10. Fables by Bill Willingham and Mark Buckingham
+11. The Walking Dead by Robert Kirkman and Tony Moore
+12. Sandman Mystery Theatre by Matt Wagner and Guy Davis
+13. Lucifer by Mike Carey and Peter Gross
+14. The Invisibles by Grant Morrison and various artists
+15. The Authority by Warren Ellis and Bryan Hitch
+16. Planetary by Warren Ellis and John Cassaday
+17. The Boys by Garth Ennis and Darick Robertson
+18. The Umbrella Academy by Gerard Way and Gabriel Bá
+19. The Dresden Files by Jim Butcher
+20. The Name of the Wind by Patrick Rothfuss
+21. The Lies of Locke Lamora by Scott Lynch
+22. The Blade Itself by Joe Abercrombie
+23. The First Law Trilogy by Joe Abercrombie
+24. Mistborn by Brandon Sanderson
+25. The Way of Kings by Brandon Sanderson
+26. The Stormlight Archive by Brandon Sanderson
+27. The Kingkiller Chronicle by Patrick Rothfuss
+28. The Malazan Book of the Fallen by Steven Erikson
+29. The Black Company by Glen Cook
+30. The Chronicles of Amber by Roger Zelazny
+31. The Belgariad by David Eddings
+32. The Wheel of Time by Robert Jordan
+33. The Sword of Truth by Terry Goodkind
+34. The Shannara Chronicles by Terry Brooks
+35. The Earthsea Cycle by Ursula K. Le Guin
+36. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+37. The Discworld series by Terry Pratchett
+38. The Chronicles of Narnia by C.S. Lewis
+39. The Lord of the Rings by J.R.R. Tolkien
+40. The Hobbit by J.R.R. Tolkien
+41. A Song of Ice and Fire by George R.R. Martin
+42. The Hunger Games by Suzanne Collins
+43. Divergent by Veronica Roth
+44. The Maze Runner by James Dashner
+45. Ender's Game by Orson Scott Card
+46. Ready Player One by Ernest Cline
+47. The Martian by Andy Weir
+48. Jurassic Park by Michael Crichton

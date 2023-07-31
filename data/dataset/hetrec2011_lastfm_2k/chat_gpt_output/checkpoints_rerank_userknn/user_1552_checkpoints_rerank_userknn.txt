@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for this user would be:
+
+1. Beyoncé
+2. Rihanna
+3. Jennifer Lopez
+4. Enrique Iglesias
+5. Usher
+6. Ricky Martin
+7. P!nk
+8. Mariah Carey
+9. Christina Aguilera
+10. Madonna
+11. Amy Winehouse
+12. Lady Gaga
+13. Alanis Morissette
+14. The Pussycat Dolls
+15. Backstreet Boys
+16. Westlife
+17. *NSYNC
+18. Jonas Brothers
+19. Coldplay
+20. Linkin Park
+21. Paramore
+22. Evanescence
+23. Panic! At the Disco
+24. The Beatles
+25. Justin Timberlake
+26. Britney Spears
+27. Chevelle
+28. Ashlee Simpson
+29. Jesse McCartney
+30. Chris Brown
+31. Tokio Hotel
+32. Fort Minor
+33. Nickelback
+34. Tarja
+35. Thousand Foot Krutch
+36. Leona Lewis
+37. Girls Aloud
+38. The Saturdays
+39. Ana Carolina
+40. Atreyu
+41. Shayne Ward
+42. Darren Hayes
+43. Jewel
+44. Rosa De Saron
+45. Super Junior
+46. NX Zero
+47. Aaron Carter
+48. Nick Carter
+49. P.O.D.
+50. Maroon 5

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Slaughterhouse-Five by Kurt Vonnegut
+2. The Catcher in the Rye by J.D. Salinger
+3. The Bell Jar by Sylvia Plath
+4. The Great Gatsby by F. Scott Fitzgerald
+5. 1984 by George Orwell
+6. Brave New World by Aldous Huxley
+7. To Kill a Mockingbird by Harper Lee
+8. One Hundred Years of Solitude by Gabriel Garcia Marquez
+9. The Road by Cormac McCarthy
+10. The Handmaid's Tale by Margaret Atwood
+11. The Stranger by Albert Camus
+12. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+13. The Sun Also Rises by Ernest Hemingway
+14. The Old Man and the Sea by Ernest Hemingway
+15. The Grapes of Wrath by John Steinbeck
+16. East of Eden by John Steinbeck
+17. The Picture of Dorian Gray by Oscar Wilde
+18. The Importance of Being Earnest by Oscar Wilde
+19. The Trial by Franz Kafka
+20. The Metamorphosis by Franz Kafka
+21. Crime and Punishment by Fyodor Dostoevsky
+22. The Brothers Karamazov by Fyodor Dostoevsky
+23. Lolita by Vladimir Nabokov
+24. Pale Fire by Vladimir Nabokov
+25. The Master and Margarita by Mikhail Bulgakov
+26. The Name of the Rose by Umberto Eco
+27. The Shadow of the Wind by Carlos Ruiz Zafon
+28. The Book Thief by Markus Zusak
+29. The Kite Runner by Khaled Hosseini
+30. A Thousand Splendid Suns by Khaled Hosseini
+31. The God of Small Things by Arundhati Roy
+32. The Poisonwood Bible by Barbara Kingsolver
+33. The Secret History by Donna Tartt
+34. The Goldfinch by Donna Tartt
+35. The Girl with the Dragon Tattoo by Stieg Larsson
+36. The Girl Who Played with Fire by Stieg Larsson
+37. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+38. The Hunger Games by Suzanne Collins
+39. Catching Fire by Suzanne Collins
+40. Mockingjay by Suzanne Collins
+41. The Martian by Andy Weir
+42. Ready Player One by Ernest Cline
+43. The Da Vinci Code by Dan Brown
+44. Angels and Demons by Dan Brown
+45. Inferno by Dan Brown
+46. The Alchemist by Paulo Coelho
+47. Life of Pi by Yann Martel
+48. The Time Traveler's Wife by Audrey Niffenegger
+49. The Lovely Bones by Alice Sebold
+50. The Help by Kathryn

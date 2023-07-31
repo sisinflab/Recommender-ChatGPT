@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Within Temptation
+2. Space Cowboy
+3. Kerli
+4. The Kooks
+5. Arcade Fire
+6. The Strokes
+7. Cansei de Ser Sexy
+8. Cobra Starship
+9. Epica
+10. Kings of Leon
+11. The Ting Tings
+12. Lily Allen
+13. Crystal Castles
+14. Garbage
+15. Nightwish
+16. Ladyhawke
+17. In Extremo
+18. Gloria
+19. Bat for Lashes
+20. MGMT
+21. Tarja
+22. Oasis
+23. Arctic Monkeys
+24. Radiohead
+25. Paramore
+26. Evanescence
+27. The Killers
+28. Placebo
+29. Muse
+30. Pink Floyd
+31. Nirvana
+32. Led Zeppelin
+33. Metallica
+34. Michael Jackson
+35. Pearl Jam
+36. a-ha
+37. Björk
+38. System of a Down
+39. Daft Punk
+40. Nine Inch Nails
+41. Linkin Park
+42. Avenged Sevenfold
+43. My Chemical Romance
+44. Green Day
+45. The Cure
+46. Depeche Mode
+47. Lady Gaga
+48. Christina Aguilera
+49. Madonna
+50. Rihanna

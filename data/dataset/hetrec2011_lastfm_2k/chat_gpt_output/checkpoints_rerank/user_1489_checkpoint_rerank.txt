@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Three Days Grace
+2. Breaking Benjamin
+3. Timbaland
+4. Within Temptation
+5. Delta Goodrem
+6. Daughtry
+7. JoJo
+8. Sugababes
+9. Céline Dion
+10. Hilary Duff
+11. Switchfoot
+12. Justin Timberlake
+13. Leona Lewis
+14. Mandy Moore
+15. Robert Pattinson
+16. The Script
+17. Katharine McPhee
+18. Juanes
+19. The Pussycat Dolls
+20. The Fray
+21. 3 Doors Down
+22. Fall Out Boy
+23. The Corrs
+24. Britney Spears
+25. Christina Aguilera
+26. Rihanna
+27. Madonna
+28. Lady Gaga
+29. Beyoncé
+30. Katy Perry
+31. Taylor Swift
+32. Evanescence
+33. Glee Cast
+34. U2
+35. Muse
+36. Pink Floyd
+37. Kylie Minogue
+38. Radiohead
+39. Ke$ha
+40. Coldplay
+41. Blur
+42. Arctic Monkeys
+43. Placebo
+44. The Killers
+45. Nirvana
+46. Iron Maiden
+47. Led Zeppelin
+48. Metallica
+49. Michael Jackson
+50. Pearl Jam

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. Arcade Fire
+3. The Beatles
+4. Pink Floyd
+5. The White Stripes
+6. Muse
+7. Sigur Rós
+8. Explosions in the Sky
+9. Crystal Castles
+10. Gorillaz
+11. Red Hot Chili Peppers
+12. The Cure
+13. Massive Attack
+14. Animal Collective
+15. Phoenix
+16. The Stone Roses
+17. Depeche Mode
+18. Joy Division
+19. M.I.A.
+20. Andrew Bird
+21. Bonobo
+22. Klaxons
+23. Oasis
+24. The Smiths
+25. Placebo
+26. Gogol Bordello
+27. She & Him
+28. Patrick Wolf
+29. The Drums
+30. Archive
+31. God Is an Astronaut
+32. Balmorhea
+33. Ryan Adams
+34. Manic Street Preachers
+35. Tom Waits
+36. blink-182
+37. The Pretty Reckless
+38. Type O Negative
+39. The Used
+40. Marillion
+41. Babyshambles
+42. Avril Lavigne
+43. Aerosmith
+44. 2Pac
+45. Eminem
+46. Lady Gaga
+47. The Cardigans
+48. KT Tunstall
+49. The Kooks
+50. Modest Mouse

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird
+2. The Catcher in the Rye
+3. Fahrenheit 451
+4. Brave New World
+5. Wuthering Heights
+6. The Lord of the Rings
+7. The Chronicles of Narnia
+8. The Count of Monte Cristo
+9. Frankenstein
+10. The Da Vinci Code
+11. Angels & Demons
+12. Catching Fire
+13. Mockingjay
+14. In Cold Blood
+15. Lies My Teacher Told Me
+16. The Maze Runner
+17. Speaker for the Dead
+18. Eragon
+19. Xenocide
+20. A Clockwork Orange
+21. Deception Point
+22. The Thief of Always
+23. The Little Prince
+24. A Walk in the Woods
+25. Tuesdays with Morrie
+26. Desiderata
+27. Snow Flower and the Secret Fan
+28. Congo (novel)
+29. Airframe (novel)
+30. Uglies
+31. Sleeping Freshmen Never Lie
+32. Franny and Zooey
+33. The House of the Scorpion
+34. Looking for Alaska
+35. The Temple of My Familiar
+36. Before I Die
+37. The Ear, the Eye and the Arm
+38. Lone Survivor (book)
+39. I Hope They Serve Beer in Hell
+40. The Zombie Survival Guide
+41. Where the Red Fern Grows
+42. Thirteen Reasons Why
+43. Shade's Children
+44. Everworld
+45. Disclosure (novel)
+46. I Am Legend (novel)
+47. The Lion, the Witch and the Wardrobe
+48. A Midsummer Night's Dream
+49. Twilight (series)
+50. A Tree Grows in Brooklyn (novel)

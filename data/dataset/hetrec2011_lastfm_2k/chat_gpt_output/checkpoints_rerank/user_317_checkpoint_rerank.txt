@@ -1,0 +1,54 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Rolling Stones
+2. The Doors
+3. Elvis Presley
+4. David Bowie
+5. Neil Young
+6. Bruce Springsteen
+7. Janis Joplin
+8. Queen
+9. Patti Smith
+10. Lou Reed
+11. The Who
+12. AC/DC
+13. KISS
+14. Black Sabbath
+15. The Clash
+16. T. Rex
+17. Red Hot Chili Peppers
+18. Nirvana
+19. Guns N' Roses
+20. Iron Maiden
+21. Led Zeppelin
+22. Metallica
+23. Michael Jackson
+24. Pink Floyd
+25. U2
+26. The Beatles
+27. Amy Winehouse
+28. Madonna
+29. Rihanna
+30. Lady Gaga
+31. Beyoncé
+32. Shakira
+33. Muse
+34. Coldplay
+35. Radiohead
+36. Duran Duran
+37. Blur
+38. Arctic Monkeys
+39. Placebo
+40. The Killers
+41. Ke$ha
+42. Nine Inch Nails
+43. Linkin Park
+44. My Chemical Romance
+45. Green Day
+46. Pearl Jam
+47. System of a Down
+48. Daft Punk
+49. Björk
+50. All Time Low
+
+Note: The remaining artists (Britney Spears, Christina Aguilera, Paramore, Katy Perry, Avril Lavigne, Taylor Swift, Evanescence, Glee Cast, 30 Seconds to Mars, Kylie Minogue, Miley Cyrus, a-ha, P!nk, Avenged Sevenfold, and Black Eyed Peas) were not included in the top 50 recommendations based on the user's preferences.

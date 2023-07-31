@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Great Gatsby by F. Scott Fitzgerald
+2. 1984 by George Orwell
+3. To Kill a Mockingbird by Harper Lee
+4. The Catcher in the Rye by J.D. Salinger
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Bell Jar by Sylvia Plath
+7. The Handmaid's Tale by Margaret Atwood
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Stranger by Albert Camus
+10. The Road by Cormac McCarthy
+11. The Brothers Karamazov by Fyodor Dostoevsky
+12. Crime and Punishment by Fyodor Dostoevsky
+13. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+14. The Lord of the Rings by J.R.R. Tolkien
+15. The Hobbit by J.R.R. Tolkien
+16. The Name of the Rose by Umberto Eco
+17. The Shadow of the Wind by Carlos Ruiz Zafón
+18. The God of Small Things by Arundhati Roy
+19. The Kite Runner by Khaled Hosseini
+20. The Alchemist by Paulo Coelho
+21. The Picture of Dorian Gray by Oscar Wilde
+22. The Sun Also Rises by Ernest Hemingway
+23. The Old Man and the Sea by Ernest Hemingway
+24. The Grapes of Wrath by John Steinbeck
+25. East of Eden by John Steinbeck
+26. The Color Purple by Alice Walker
+27. The Joy Luck Club by Amy Tan
+28. The Poisonwood Bible by Barbara Kingsolver
+29. The Girl with the Dragon Tattoo by Stieg Larsson
+30. The Hunger Games by Suzanne Collins
+31. The Da Vinci Code by Dan Brown
+32. The Help by Kathryn Stockett
+33. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+34. The Brief Wondrous Life of Oscar Wao by Junot Diaz
+35. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+36. The Time Traveler's Wife by Audrey Niffenegger
+37. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+38. The Fault in Our Stars by John Green
+39. The Book Thief by Markus Zusak
+40. The Secret History by Donna Tartt
+41. The Goldfinch by Donna Tartt
+42. The Nightingale by Kristin Hannah
+43. The Immortalists by Chloe Benjamin
+44. The Overstory by Richard Powers
+45. The Water Dancer by Ta-Nehisi Coates
+46. The Nickel Boys by Colson Whitehead
+47. The Testaments by Margaret Atwood
+48. The Dutch House by Ann
+49. The Name of the Wind by Patrick Rothfuss
+50. The Wise Man's Fear by Patrick Rothfuss

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. David Bowie
+3. Arcade Fire
+4. The Strokes
+5. The White Stripes
+6. Queens of the Stone Age
+7. The Smiths
+8. Joy Division
+9. Interpol
+10. The Libertines
+11. The Black Keys
+12. Vampire Weekend
+13. Tame Impala
+14. Foals
+15. The National
+16. Blur
+17. Gorillaz
+18. The Kooks
+19. The 1975
+20. The xx
+21. Arctic Monkeys (other albums)
+22. Florence + the Machine (other albums)
+23. The Beatles (other albums)
+24. Coldplay (other albums)
+25. Muse (other albums)
+26. My Chemical Romance (other albums)
+27. Franz Ferdinand (other albums)
+28. The Killers (other albums)
+29. The Verve (other albums)
+30. The Cranberries (other albums)
+31. Oasis (other albums)
+32. Lily Allen (other albums)
+33. Goldfrapp (other albums)
+34. MGMT (other albums)
+35. Placebo (other albums)
+36. Social Distortion (other albums)
+37. Sex Pistols (other albums)
+38. Feeder (other albums)
+39. The Last Shadow Puppets (other albums)
+40. Yeah Yeah Yeahs (other albums)
+41. Maxïmo Park (other albums)
+42. Ramones (other albums)
+43. 宇多田ヒカル (other albums)
+44. The Horrors
+45. The War on Drugs
+46. Arctic Monkeys (side projects)
+47. Florence + the Machine (side projects)
+48. The Beatles (side projects)
+49. Coldplay (side projects)
+50. Muse (side projects)

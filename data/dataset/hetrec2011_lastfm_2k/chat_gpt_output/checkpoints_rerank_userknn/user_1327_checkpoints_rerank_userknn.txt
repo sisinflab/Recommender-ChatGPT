@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Depeche Mode
+2. Madonna
+3. Michael Jackson
+4. Duran Duran
+5. Simple Minds
+6. Billy Idol
+7. The Cars
+8. Spandau Ballet
+9. Nik Kershaw
+10. Kim Wilde
+11. Ultravox
+12. Gary Numan
+13. Soft Cell
+14. Visage
+15. ABC
+16. Tears for Fears
+17. Howard Jones
+18. Thompson Twins
+19. Peter Gabriel
+20. The Human League
+21. Thomas Dolby
+22. Japan
+23. a-ha
+24. Bryan Adams
+25. Yazoo
+26. Pet Shop Boys
+27. The Police
+28. Oingo Boingo
+29. Erasure
+30. A Flock of Seagulls
+31. Eurythmics
+32. Frankie Goes to Hollywood
+33. New Order
+34. Icehouse
+35. Talk Talk
+36. INXS
+37. Adam and the Ants
+38. Heaven 17
+39. Alphaville
+40. Delerium
+41. Simply Red
+42. Enigma
+43. Poets of the Fall
+44. Travis
+45. Whitesnake
+46. Ladytron
+47. Pink Floyd
+48. De/Vision
+49. Toto
+50. Arcadia

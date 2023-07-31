@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Crime and Punishment by Fyodor Dostoyevsky
+2. The Stranger by Albert Camus
+3. The Trial by Franz Kafka
+4. The Catcher in the Rye by J.D. Salinger
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Great Gatsby by F. Scott Fitzgerald
+7. To Kill a Mockingbird by Harper Lee
+8. The Picture of Dorian Gray by Oscar Wilde
+9. Brave New World by Aldous Huxley
+10. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+11. The Alchemist by Paulo Coelho
+12. The God of Small Things by Arundhati Roy
+13. The Bell Jar by Sylvia Plath
+14. The Handmaid's Tale by Margaret Atwood
+15. The Road by Cormac McCarthy
+16. The Sun Also Rises by Ernest Hemingway
+17. The Old Man and the Sea by Ernest Hemingway
+18. Heart of Darkness by Joseph Conrad
+19. Lord of the Flies by William Golding
+20. The Lord of the Rings by J.R.R. Tolkien
+21. The Hobbit by J.R.R. Tolkien
+22. The Chronicles of Narnia by C.S. Lewis
+23. The Book Thief by Markus Zusak
+24. The Kite Runner by Khaled Hosseini
+25. A Thousand Splendid Suns by Khaled Hosseini
+26. The Secret History by Donna Tartt
+27. The Name of the Wind by Patrick Rothfuss
+28. The Wise Man's Fear by Patrick Rothfuss
+29. The Girl with the Dragon Tattoo by Stieg Larsson
+30. The Girl Who Played with Fire by Stieg Larsson
+31. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+32. The Hunger Games by Suzanne Collins
+33. Catching Fire by Suzanne Collins
+34. Mockingjay by Suzanne Collins
+35. The Da Vinci Code by Dan Brown
+36. Angels and Demons by Dan Brown
+37. Inferno by Dan Brown
+38. The Bourne Identity by Robert Ludlum
+39. The Bourne Supremacy by Robert Ludlum
+40. The Bourne Ultimatum by Robert Ludlum
+41. The Silence of the Lambs by Thomas Harris
+42. Hannibal by Thomas Harris
+43. Red Dragon by Thomas Harris
+44. The Shining by Stephen King
+45. It by Stephen King
+46. The Stand by Stephen King
+47. The Gunslinger by Stephen King
+48. The Drawing of the Three by Stephen King
+49. The Waste Lands by Stephen King
+50. Wizard and Glass by Stephen King

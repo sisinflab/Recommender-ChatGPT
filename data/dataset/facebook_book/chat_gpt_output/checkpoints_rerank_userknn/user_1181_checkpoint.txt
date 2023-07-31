@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter
+2. The Alchemist (novel)
+3. Romeo and Juliet
+4. Frankenstein
+5. Lord of the Flies
+6. Ender's Game
+7. The Shining (novel)
+8. Dune (novel)
+9. Adventures of Huckleberry Finn
+10. Memoirs of a Geisha
+11. Animal Farm
+12. Beauty: A Retelling of the Story of Beauty and the Beast
+13. The Outsiders (novel)
+14. Outliers (book)
+15. The Five People You Meet in Heaven
+16. The Secret Life of Bees
+17. The Hitchhiker's Guide to the Galaxy (novel)
+18. I Am Legend (novel)
+19. The Zombie Survival Guide
+20. Jaws (novel)
+21. The Lovely Bones
+22. Twilight (series)
+23. Speak (novel)
+24. The Devil Wears Prada (novel)
+25. Where the Wild Things Are
+26. A Midsummer Night's Dream
+27. Alice's Adventures in Wonderland
+28. The Hamlet
+29. Paradise Lost
+30. Crank (novel)
+31. Glass (novel)
+32. The Chocolate War
+33. Before I Die
+34. Veronika Decides to Die
+35. Deception Point
+36. I Hope They Serve Beer in Hell
+37. The Secret Garden
+38. Inkdeath
+39. Witch & Wizard
+40. Cirque du Freak
+41. Angels & Demons
+42. Catching Fire
+43. The Time Traveler's Wife
+44. The Da Vinci Code
+45. Surviving Your Serengeti
+46. City of Bones (Mortal Instruments)
+47. Blood and Chocolate (novel)
+48. Manga
+49. Teaching with Calvin and Hobbes
+50. Fathom (comics)

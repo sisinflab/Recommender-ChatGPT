@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Avenged Sevenfold
+2. Iron Maiden
+3. Bullet for My Valentine
+4. KISS
+5. The Offspring
+6. Elvis Presley
+7. My Chemical Romance
+8. New Found Glory
+9. Sonata Arctica
+10. Pennywise
+11. Limp Bizkit
+12. Millencolin
+13. Paramore
+14. Good Charlotte
+15. HIM
+16. Nightwish
+17. Green Day
+18. Red Hot Chili Peppers
+19. Rancid
+20. Metallica
+21. CPM 22
+22. Pearl Jam
+23. The Clash
+24. Nirvana
+25. Led Zeppelin
+26. Michael Jackson
+27. The Beatles
+28. Muse
+29. Pink Floyd
+30. Radiohead
+31. Coldplay
+32. Arctic Monkeys
+33. Placebo
+34. The Killers
+35. System of a Down
+36. Nine Inch Nails
+37. Linkin Park
+38. Black Eyed Peas
+39. The Cure
+40. Lady Gaga
+41. Beyoncé
+42. Rihanna
+43. Madonna
+44. Christina Aguilera
+45. Ke$ha
+46. Katy Perry
+47. Taylor Swift
+48. Evanescence
+49. P!nk
+50. Kelly Clarkson

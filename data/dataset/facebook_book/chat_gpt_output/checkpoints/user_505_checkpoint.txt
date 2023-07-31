@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Catcher in the Rye by J.D. Salinger
+3. The Great Gatsby by F. Scott Fitzgerald
+4. Animal Farm by George Orwell
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Color Purple by Alice Walker
+7. The Handmaid's Tale by Margaret Atwood
+8. The Bell Jar by Sylvia Plath
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Sun Also Rises by Ernest Hemingway
+11. The Grapes of Wrath by John Steinbeck
+12. The Sound and the Fury by William Faulkner
+13. A Clockwork Orange by Anthony Burgess
+14. Lolita by Vladimir Nabokov
+15. The Stranger by Albert Camus
+16. Slaughterhouse-Five by Kurt Vonnegut
+17. The Road by Cormac McCarthy
+18. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+19. The Brothers Karamazov by Fyodor Dostoevsky
+20. Crime and Punishment by Fyodor Dostoevsky
+21. The Trial by Franz Kafka
+22. Heart of Darkness by Joseph Conrad
+23. Lord of the Flies by William Golding
+24. The Shining by Stephen King
+25. The Stand by Stephen King
+26. The Hobbit by J.R.R. Tolkien
+27. The Lord of the Rings by J.R.R. Tolkien
+28. The Chronicles of Narnia by C.S. Lewis
+29. The Hunger Games by Suzanne Collins
+30. Catching Fire by Suzanne Collins
+31. Mockingjay by Suzanne Collins
+32. The Girl with the Dragon Tattoo by Stieg Larsson
+33. The Girl Who Played with Fire by Stieg Larsson
+34. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+35. The Silence of the Lambs by Thomas Harris
+36. Red Dragon by Thomas Harris
+37. Hannibal by Thomas Harris
+38. The Da Vinci Code by Dan Brown
+39. Angels and Demons by Dan Brown
+40. Inferno by Dan Brown
+41. The Name of the Rose by Umberto Eco
+42. The Shadow of the Wind by Carlos Ruiz Zafón
+43. The Time Traveler's Wife by Audrey Niffenegger
+44. The Help by Kathryn Stockett
+45. The Secret Life of Bees by Sue Monk Kidd
+46. The Poisonwood Bible by Barbara Kingsolver
+47. The Kite Runner by Khaled Hosseini
+48. A Thousand Splendid Suns by Khaled Hosseini
+49. The Joy Luck Club by Amy Tan
+50. The God of Small Things by Arundhati Roy

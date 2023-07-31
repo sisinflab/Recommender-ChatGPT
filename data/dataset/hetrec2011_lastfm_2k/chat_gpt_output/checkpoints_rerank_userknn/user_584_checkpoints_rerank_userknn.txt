@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for this user are:
+
+1. Taylor Swift
+2. Miranda Lambert
+3. Carrie Underwood
+4. Johnny Cash
+5. Brad Paisley
+6. Keith Urban
+7. LeAnn Rimes
+8. Bruce Springsteen
+9. The Rolling Stones
+10. Hilary Duff
+11. Lily Allen
+12. Janis Joplin
+13. Shakira
+14. Cheryl Cole
+15. Kylie Minogue
+16. Jennifer Lopez
+17. Demi Lovato
+18. Katy Perry
+19. Colbie Caillat
+20. Sara Bareilles
+21. Maroon 5
+22. Faith Hill
+23. Adele
+24. Christina Aguilera
+25. Kelly Clarkson
+26. Natasha Bedingfield
+27. Phil Collins
+28. Sheryl Crow
+29. The Beatles
+30. Bon Jovi
+31. Eagles
+32. Lady Antebellum
+33. Dolly Parton
+34. Lynyrd Skynyrd
+35. Glee Cast
+36. Pixie Lott
+37. Jessie James
+38. Jack's Mannequin
+39. Genesis
+40. AC/DC
+41. Taking Back Sunday
+42. Hanson
+43. Miley Cyrus
+44. U2
+45. Plain White T's
+46. George Strait
+47. Rascal Flatts
+48. Jewel
+49. The Who
+50. Scorpions

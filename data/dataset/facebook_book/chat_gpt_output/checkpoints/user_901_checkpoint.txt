@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. Wuthering Heights by Emily Bronte
+3. The Picture of Dorian Gray by Oscar Wilde
+4. To Kill a Mockingbird by Harper Lee
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Little Women by Louisa May Alcott
+7. The Catcher in the Rye by J.D. Salinger
+8. The Adventures of Huckleberry Finn by Mark Twain
+9. The Hobbit by J.R.R. Tolkien
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Chronicles of Narnia by C.S. Lewis
+12. The Hunger Games by Suzanne Collins
+13. Harry Potter series by J.K. Rowling
+14. The Fault in Our Stars by John Green
+15. The Book Thief by Markus Zusak
+16. The Secret Garden by Frances Hodgson Burnett
+17. Anne of Green Gables by L.M. Montgomery
+18. The Alchemist by Paulo Coelho
+19. The Da Vinci Code by Dan Brown
+20. The Girl with the Dragon Tattoo by Stieg Larsson
+21. The Help by Kathryn Stockett
+22. The Kite Runner by Khaled Hosseini
+23. The Lovely Bones by Alice Sebold
+24. The Maze Runner by James Dashner
+25. The Outsiders by S.E. Hinton
+26. The Perks of Being a Wallflower by Stephen Chbosky
+27. The Shining by Stephen King
+28. The Time Traveler's Wife by Audrey Niffenegger
+29. The Twilight Saga by Stephenie Meyer
+30. The War of the Worlds by H.G. Wells
+31. 1984 by George Orwell
+32. Animal Farm by George Orwell
+33. Brave New World by Aldous Huxley
+34. Catch-22 by Joseph Heller
+35. Dracula by Bram Stoker
+36. Ender's Game by Orson Scott Card
+37. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+38. The Martian by Andy Weir
+39. The Name of the Wind by Patrick Rothfuss
+40. The Picture of Dorian Gray by Oscar Wilde
+41. The Road by Cormac McCarthy
+42. The Stand by Stephen King
+43. The Sun Also Rises by Ernest Hemingway
+44. The Three Musketeers by Alexandre Dumas
+45. The Wind in the Willows by Kenneth Grahame
+46. Watership Down by Richard Adams
+47. Where the Red Fern Grows by Wilson Rawls
+48. White Fang by Jack London
+49. The Wonderful Wizard of Oz by L. Frank Baum
+50. The Yellow Wallpaper by Charlotte Perkins Gilman

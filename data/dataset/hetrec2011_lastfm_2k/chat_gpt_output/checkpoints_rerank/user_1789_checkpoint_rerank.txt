@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for user 1789 would be:
+
+1. The National
+2. Arcade Fire
+3. Tame Impala
+4. Vampire Weekend
+5. Phoenix
+6. The War on Drugs
+7. Bon Iver
+8. Grizzly Bear
+9. Spoon
+10. The xx
+11. Animal Collective
+12. LCD Soundsystem
+13. Yeah Yeah Yeahs
+14. Foals
+15. Interpol
+16. The Strokes
+17. Bloc Party
+18. Franz Ferdinand
+19. The Postal Service
+20. Belle and Sebastian
+21. The New Pornographers
+22. The Decemberists
+23. Sufjan Stevens
+24. Neutral Milk Hotel
+25. Death From Above 1979
+26. The Black Keys
+27. Arctic Monkeys
+28. Radiohead
+29. The Shins
+30. Fleet Foxes
+31. Death Cab for Cutie
+32. Kings of Convenience
+33. MGMT
+34. The Radio Dept.
+35. Beach House
+36. The Drums
+37. Camera Obscura
+38. The Pains of Being Pure at Heart
+39. Cut Copy
+40. Broken Social Scene
+41. Travis
+42. Mystery Jets
+43. The Beatles
+44. Muse
+45. Pink Floyd
+46. Led Zeppelin
+47. Nirvana
+48. Metallica
+49. Michael Jackson
+50. Pearl Jam

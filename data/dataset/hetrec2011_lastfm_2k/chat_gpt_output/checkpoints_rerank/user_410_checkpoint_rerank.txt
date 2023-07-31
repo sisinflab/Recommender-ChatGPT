@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. All Time Low
+2. The Maine
+3. We The Kings
+4. Boys Like Girls
+5. The Rocket Summer
+6. Relient K
+7. The Summer Set
+8. Breathe Carolina
+9. 3OH!3
+10. Cash Cash
+11. Hellogoodbye
+12. Forever the Sickest Kids
+13. Owl City
+14. Avril Lavigne
+15. Paramore
+16. Katy Perry
+17. Taylor Swift
+18. Lady Gaga
+19. Pink Floyd
+20. Muse
+21. Radiohead
+22. Nirvana
+23. Metallica
+24. Iron Maiden
+25. Led Zeppelin
+26. Michael Jackson
+27. Pearl Jam
+28. U2
+29. Coldplay
+30. The Killers
+31. Green Day
+32. My Chemical Romance
+33. Evanescence
+34. Linkin Park
+35. Nine Inch Nails
+36. System of a Down
+37. Avenged Sevenfold
+38. Black Eyed Peas
+39. Beyoncé
+40. Rihanna
+41. Madonna
+42. Christina Aguilera
+43. Shakira
+44. Ke$ha
+45. Daft Punk
+46. Blur
+47. Arctic Monkeys
+48. Placebo
+49. The Cure
+50. Depeche Mode

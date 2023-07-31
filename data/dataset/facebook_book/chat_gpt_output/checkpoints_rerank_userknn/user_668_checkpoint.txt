@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Hobbit by J.R.R. Tolkien
+2. The Lord of the Rings by J.R.R. Tolkien
+3. Ender's Game by Orson Scott Card
+4. The Hunger Games by Suzanne Collins
+5. The Da Vinci Code by Dan Brown
+6. The Stand by Stephen King
+7. The Lovely Bones by Alice Sebold
+8. The Bourne Identity by Robert Ludlum
+9. Crime and Punishment by Fyodor Dostoevsky
+10. Pride and Prejudice by Jane Austen
+11. The Purpose Driven Life by Rick Warren
+12. Tuesdays with Morrie by Mitch Albom
+13. The Shack by William P. Young
+14. The Boleyn Inheritance by Philippa Gregory
+15. The Truth About Forever by Sarah Dessen
+16. A Separate Peace by John Knowles
+17. Great Expectations by Charles Dickens
+18. The Hardy Boys by Franklin W. Dixon
+19. The Kane Chronicles by Rick Riordan
+20. Sabriel by Garth Nix
+21. Abhorsen by Garth Nix
+22. Eldest by Christopher Paolini
+23. The Belgariad by David Eddings
+24. Fablehaven by Brandon Mull
+25. Nodame Cantabile by Tomoko Ninomiya
+26. Textbook by Amy Krouse Rosenthal
+27. Along for the Ride by Sarah Dessen
+28. Swan Song by Robert R. McCammon
+29. The Wonderful Wizard of Oz by L. Frank Baum
+30. Chibi Vampire by Yuna Kagesaki
+31. The Bachman Books by Stephen King
+32. The Garin Death Ray by Alexei Tolstoy
+33. Gravitation by Maki Murakami
+34. Song of the Sparrow by Lisa Ann Sandell
+35. Twilight by Stephenie Meyer
+36. The Girl Who Leapt Through Time by Yasutaka Tsutsui
+37. Ptolemy's Gate by Jonathan Stroud
+38. Sense and Sensibility by Jane Austen
+39. The Master and Margarita by Mikhail Bulgakov
+40. Nightfall by Isaac Asimov
+41. Quo Vadis by Henryk Sienkiewicz
+42. Slaughterhouse-Five by Kurt Vonnegut
+43. Studies of the Book of Mormon by B.H. Roberts
+44. Sun Bin's Art of War by Sun Bin
+45. The Alchemist by Paulo Coelho
+46. The Call of the Wild by Jack London
+47. The Prince by Niccolò Machiavelli
+48. Touching Spirit Bear by Ben Mikaelsen
+49. World Without End by Ken Follett
+50. Eragon by Christopher Paolini

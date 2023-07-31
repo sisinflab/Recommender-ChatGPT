@@ -1,0 +1,54 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Lamb of God
+2. Killswitch Engage
+3. Born of Osiris
+4. Parkway Drive
+5. As I Lay Dying
+6. August Burns Red
+7. Suicide Silence
+8. Despised Icon
+9. All Shall Perish
+10. The Dillinger Escape Plan
+11. Protest The Hero
+12. Slipknot
+13. DevilDriver
+14. Converge
+15. Bring Me The Horizon
+16. Enter Shikari
+17. Iron Maiden
+18. Metallica
+19. Nirvana
+20. Pearl Jam
+21. Led Zeppelin
+22. Michael Jackson
+23. System of a Down
+24. Nine Inch Nails
+25. Muse
+26. Pink Floyd
+27. Radiohead
+28. U2
+29. Arctic Monkeys
+30. Placebo
+31. The Killers
+32. Coldplay
+33. Blur
+34. Duran Duran
+35. Daft Punk
+36. Björk
+37. Avenged Sevenfold
+38. My Chemical Romance
+39. Green Day
+40. The Cure
+41. Katy Perry
+42. Lady Gaga
+43. Rihanna
+44. Beyoncé
+45. Christina Aguilera
+46. Paramore
+47. Ke$ha
+48. P!nk
+49. Kelly Clarkson
+50. Madonna
+
+Note: Britney Spears, Shakira, Glee Cast, and Avril Lavigne were not included in the recommendations as they do not match the user's preferences.

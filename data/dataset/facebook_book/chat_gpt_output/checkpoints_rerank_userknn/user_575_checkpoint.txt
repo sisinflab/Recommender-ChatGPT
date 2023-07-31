@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Selfish Gene by Richard Dawkins
+2. The Lord of the Rings by J.R.R. Tolkien
+3. Cat's Cradle by Kurt Vonnegut
+4. The Dragons of Eden by Carl Sagan
+5. Siddhartha by Hermann Hesse
+6. A Wrinkle in Time by Madeleine L'Engle
+7. To Kill a Mockingbird by Harper Lee
+8. Les Misérables by Victor Hugo
+9. The Andromeda Strain by Michael Crichton
+10. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+11. The Da Vinci Code by Dan Brown
+12. Iliad by Homer
+13. The Outsiders by S.E. Hinton
+14. Fahrenheit 451 by Ray Bradbury
+15. V for Vendetta by Alan Moore
+16. The House of Mirth by Edith Wharton
+17. Glass by Ellen Hopkins
+18. Inferno by Dante Alighieri
+19. Haunted by Chuck Palahniuk
+20. Rant by Chuck Palahniuk
+21. The Vampire Lestat by Anne Rice
+22. A Tale of Two Cities by Charles Dickens
+23. Harry Potter series by J.K. Rowling
+24. Congo by Michael Crichton
+25. The Alchemist by Paulo Coelho
+26. The Perks of Being a Wallflower by Stephen Chbosky
+27. Dreamcatcher by Stephen King
+28. Everything Bad Is Good for You by Steven Johnson
+29. Fast Food Nation by Eric Schlosser
+30. Death Note Another Note: The Los Angeles BB Murder Cases by Nisio Isin
+31. Teaching with Calvin and Hobbes by Linda Holmen
+32. Mythologies by Roland Barthes
+33. John Dies at the End by David Wong
+34. Dead to the World by Charlaine Harris
+35. Fables by Bill Willingham
+36. King James Version of the Bible
+37. Crooked Little Vein by Warren Ellis
+38. The Terminal Man by Michael Crichton
+39. The Black Tattoo by Sam Enthoven
+40. The Clan of the Cave Bear by Jean M. Auel
+41. Captain Underpants by Dav Pilkey
+42. Definitely Dead by Charlaine Harris
+43. Goosebumps by R.L. Stine
+44. Prozac Nation by Elizabeth Wurtzel
+45. The Watchmen by Alan Moore
+46. Misery by Stephen King
+47. The Time Machine by H.G. Wells
+48. The Idiot by Fyodor Dostoyevsky
+49. The Beautiful and Damned by F. Scott Fitzgerald
+50. Slaughterhouse-Five by Kurt Vonnegut

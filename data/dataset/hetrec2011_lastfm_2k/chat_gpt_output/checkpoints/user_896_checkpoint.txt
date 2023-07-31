@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Muse
+3. Nine Inch Nails
+4. Tool
+5. Deftones
+6. Queens of the Stone Age
+7. The Mars Volta
+8. A Perfect Circle
+9. Rage Against the Machine
+10. Incubus
+11. At the Drive-In
+12. The Smashing Pumpkins
+13. Pearl Jam
+14. Soundgarden
+15. Alice in Chains
+16. Foo Fighters
+17. Red Hot Chili Peppers
+18. System of a Down (similar artist)
+19. Massive Attack (similar artist)
+20. DJ Shadow (similar artist)
+21. Portishead (similar artist)
+22. Bonobo (similar artist)
+23. Air (similar artist)
+24. Thievery Corporation (similar artist)
+25. Aphex Twin (similar artist)
+26. Beastie Boys (similar artist)
+27. Archive (similar artist)
+28. The Strokes (similar artist)
+29. Placebo (similar artist)
+30. Nirvana (similar artist)
+31. The White Stripes
+32. Arctic Monkeys
+33. The Black Keys
+34. Interpol
+35. Editors
+36. Bloc Party
+37. The Killers
+38. Franz Ferdinand
+39. The Libertines
+40. The Hives
+41. The Vines
+42. The Stills
+43. The Bravery
+44. The Rapture
+45. LCD Soundsystem
+46. Hot Chip
+47. Cut Copy
+48. MGMT
+49. Vampire Weekend
+50. Phoenix

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Fault in Our Stars by John Green
+4. The Maze Runner by James Dashner
+5. The Book Thief by Markus Zusak
+6. The Girl on the Train by Paula Hawkins
+7. Gone Girl by Gillian Flynn
+8. The Da Vinci Code by Dan Brown
+9. The Help by Kathryn Stockett
+10. The Lovely Bones by Alice Sebold
+11. The Catcher in the Rye by J.D. Salinger
+12. The Perks of Being a Wallflower by Stephen Chbosky
+13. The Alchemist by Paulo Coelho
+14. The Secret Life of Bees by Sue Monk Kidd
+15. The Time Traveler's Wife by Audrey Niffenegger
+16. The Picture of Dorian Gray by Oscar Wilde
+17. The Great Gatsby by F. Scott Fitzgerald
+18. The Bell Jar by Sylvia Plath
+19. The Handmaid's Tale by Margaret Atwood
+20. The Lord of the Rings by J.R.R. Tolkien
+21. The Hobbit by J.R.R. Tolkien
+22. The Chronicles of Narnia by C.S. Lewis
+23. The Harry Potter series by J.K. Rowling
+24. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+25. The Shining by Stephen King
+26. The Stand by Stephen King
+27. The Dark Tower series by Stephen King
+28. The Name of the Wind by Patrick Rothfuss
+29. The Wise Man's Fear by Patrick Rothfuss
+30. The Lies of Locke Lamora by Scott Lynch
+31. The Blade Itself by Joe Abercrombie
+32. The Way of Kings by Brandon Sanderson
+33. Mistborn by Brandon Sanderson
+34. The Final Empire by Brandon Sanderson
+35. The Well of Ascension by Brandon Sanderson
+36. The Hero of Ages by Brandon Sanderson
+37. The Lies of Locke Lamora by Scott Lynch
+38. The Republic of Thieves by Scott Lynch
+39. The Kingkiller Chronicle by Patrick Rothfuss
+40. The First Law Trilogy by Joe Abercrombie
+41. The Broken Empire Trilogy by Mark Lawrence
+42. The Red Queen's War Trilogy by Mark Lawrence
+43. The Lightbringer Series by Brent Weeks
+44. The Night Angel Trilogy by Brent Weeks
+45. The Black Prism by Brent Weeks
+46. The Blood Mirror by Brent Weeks
+47. The Wheel of Time series by Robert Jordan
+48. The Stormlight Archive by Brandon Sanderson
+49. The Malazan Book of the Fallen by Steven Erikson
+50. The Dresden Files by Jim Butcher

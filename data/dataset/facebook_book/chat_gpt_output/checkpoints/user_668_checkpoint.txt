@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. The Giver by Lois Lowry
+3. The Maze Runner by James Dashner
+4. Divergent by Veronica Roth
+5. The Fault in Our Stars by John Green
+6. The Book Thief by Markus Zusak
+7. The Girl on the Train by Paula Hawkins
+8. The Da Vinci Code by Dan Brown
+9. The Catcher in the Rye by J.D. Salinger
+10. To Kill a Mockingbird by Harper Lee
+11. The Lord of the Rings by J.R.R. Tolkien
+12. The Hobbit by J.R.R. Tolkien
+13. The Chronicles of Narnia by C.S. Lewis
+14. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+15. The Great Gatsby by F. Scott Fitzgerald
+16. Animal Farm by George Orwell
+17. Brave New World by Aldous Huxley
+18. The Picture of Dorian Gray by Oscar Wilde
+19. The Count of Monte Cristo by Alexandre Dumas
+20. Les Misérables by Victor Hugo
+21. The Three Musketeers by Alexandre Dumas
+22. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+23. The Hound of the Baskervilles by Arthur Conan Doyle
+24. The War of the Worlds by H.G. Wells
+25. The Time Machine by H.G. Wells
+26. Frankenstein by Mary Shelley
+27. Dracula by Bram Stoker
+28. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+29. The Adventures of Tom Sawyer by Mark Twain
+30. The Adventures of Huckleberry Finn by Mark Twain
+31. The Picture of Dorian Gray by Oscar Wilde
+32. The Portrait of a Lady by Henry James
+33. The Turn of the Screw by Henry James
+34. Heart of Darkness by Joseph Conrad
+35. Lord Jim by Joseph Conrad
+36. The Secret Agent by Joseph Conrad
+37. The Sun Also Rises by Ernest Hemingway
+38. A Farewell to Arms by Ernest Hemingway
+39. For Whom the Bell Tolls by Ernest Hemingway
+40. The Old Man and the Sea by Ernest Hemingway
+41. One Hundred Years of Solitude by Gabriel Garcia Marquez
+42. Love in the Time of Cholera by Gabriel Garcia Marquez
+43. The Name of the Rose by Umberto Eco
+44. The Pillars of the Earth by Ken Follett
+45. A Song of Ice and Fire by George R.R. Martin
+46. The Wheel of Time by Robert Jordan
+47. The Sword of Truth by Terry Goodkind
+48. The Belgariad by David Eddings
+49. The Malazan Book of the Fallen

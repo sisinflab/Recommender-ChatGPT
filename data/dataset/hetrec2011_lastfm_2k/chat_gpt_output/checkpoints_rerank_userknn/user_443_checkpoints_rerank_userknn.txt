@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Pink Floyd
+2. Jefferson Airplane
+3. Megadeth
+4. Dream Theater
+5. Janis Joplin
+6. The Beatles
+7. Infected Mushroom
+8. Eddie Vedder
+9. Eric Clapton
+10. Death
+11. Jimi Hendrix
+12. Kent
+13. Deep Purple
+14. The Doors
+15. Bob Dylan
+16. Nouvelle Vague
+17. Gary Moore
+18. Thievery Corporation
+19. Pain of Salvation
+20. Norah Jones
+21. Massive Attack
+22. Metallica
+23. Iron Maiden
+24. Black Sabbath
+25. Led Zeppelin
+26. David Bowie
+27. Frank Zappa
+28. Joe Satriani
+29. The Rolling Stones
+30. The Jimi Hendrix Experience
+31. Depeche Mode
+32. Miles Davis
+33. Grand Funk Railroad
+34. Dire Straits
+35. Tool
+36. Lou Reed
+37. Sigur Rós
+38. Queen
+39. Arctic Monkeys
+40. King Crimson
+41. Jethro Tull
+42. Talk Talk
+43. The Who
+44. Hanoi Rocks
+45. Trentemøller
+46. Camel
+47. Eagles
+48. Brian Eno
+49. Syd Barrett
+50. Porcupine Tree

@@ -1,0 +1,52 @@
+Based on the user's preferences, the re-ranked top 50 recommendations would be:
+
+1. Depeche Mode
+2. The Beatles
+3. The White Stripes
+4. The Black Keys
+5. Kings of Leon
+6. Franz Ferdinand
+7. The Raconteurs
+8. Black Rebel Motorcycle Club
+9. Kasabian
+10. The Last Shadow Puppets
+11. INXS
+12. George Michael
+13. Muse
+14. Pink Floyd
+15. Radiohead
+16. Nirvana
+17. Led Zeppelin
+18. Metallica
+19. Iron Maiden
+20. Pearl Jam
+21. Duran Duran
+22. Coldplay
+23. Blur
+24. Arctic Monkeys
+25. Placebo
+26. The Killers
+27. U2
+28. Nine Inch Nails
+29. System of a Down
+30. Daft Punk
+31. Björk
+32. Michael Jackson
+33. Amy Winehouse
+34. The Cure
+35. Green Day
+36. Avenged Sevenfold
+37. My Chemical Romance
+38. All Time Low
+39. P!nk
+40. Kelly Clarkson
+41. Lady Gaga
+42. Christina Aguilera
+43. Rihanna
+44. Shakira
+45. Katy Perry
+46. Avril Lavigne
+47. Taylor Swift
+48. Evanescence
+49. Glee Cast
+50. Britney Spears

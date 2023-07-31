@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Animal Farm by George Orwell
+2. Lord of the Flies by William Golding
+3. To Kill a Mockingbird by Harper Lee
+4. The Catcher in the Rye by J.D. Salinger
+5. The Great Gatsby by F. Scott Fitzgerald
+6. 1984 by George Orwell
+7. Brave New World by Aldous Huxley
+8. The Hunger Games by Suzanne Collins
+9. The Maze Runner by James Dashner
+10. The Fault in Our Stars by John Green
+11. The Book Thief by Markus Zusak
+12. The Hobbit by J.R.R. Tolkien
+13. The Lord of the Rings by J.R.R. Tolkien
+14. The Chronicles of Narnia by C.S. Lewis
+15. Harry Potter and the Philosopher's Stone by J.K. Rowling
+16. Harry Potter and the Chamber of Secrets by J.K. Rowling
+17. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+18. Harry Potter and the Goblet of Fire by J.K. Rowling
+19. Harry Potter and the Order of Phoenix by J.K. Rowling
+20. Harry Potter and the Half-Blood Prince by J.K. Rowling
+21. Harry Potter and the Deathly Hallows by J.K. Rowling
+22. The Da Vinci Code by Dan Brown
+23. Angels and Demons by Dan Brown
+24. The Girl with the Dragon Tattoo by Stieg Larsson
+25. The Girl Who Played with Fire by Stieg Larsson
+26. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+27. The Bourne Identity by Robert Ludlum
+28. The Bourne Supremacy by Robert Ludlum
+29. The Bourne Ultimatum by Robert Ludlum
+30. The Firm by John Grisham
+31. The Pelican Brief by John Grisham
+32. The Client by John Grisham
+33. The Rainmaker by John Grisham
+34. The Runaway Jury by John Grisham
+35. The Street Lawyer by John Grisham
+36. The Testament by John Grisham
+37. The Partner by John Grisham
+38. The Chamber by John Grisham
+39. The Brethren by John Grisham
+40. The Summons by John Grisham
+41. The King of Torts by John Grisham
+42. The Innocent Man by John Grisham
+43. The Last Juror by John Grisham
+44. The Racketeer by John Grisham
+45. The Whistler by John Grisham
+46. The Reckoning by John Grisham
+47. The Outsider by Stephen King
+48. The Shining

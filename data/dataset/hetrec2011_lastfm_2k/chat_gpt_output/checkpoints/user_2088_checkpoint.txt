@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Madonna
+2. Rihanna
+3. Britney Spears
+4. Mariah Carey
+5. Justin Timberlake
+6. Christina Aguilera
+7. Adele
+8. Pink
+9. Usher
+10. Bruno Mars
+11. Taylor Swift
+12. Katy Perry
+13. The Weeknd
+14. Ed Sheeran
+15. Ariana Grande
+16. Drake
+17. Coldplay
+18. Imagine Dragons
+19. OneRepublic
+20. The Chainsmokers
+21. Calvin Harris
+22. David Guetta
+23. Zedd
+24. Avicii
+25. Kygo
+26. Marshmello
+27. Daft Punk
+28. The Black Eyed Peas
+29. Outkast
+30. Jay-Z
+31. Kanye West
+32. Eminem
+33. Tupac
+34. Notorious B.I.G.
+35. Snoop Dogg
+36. Dr. Dre
+37. Nas
+38. Wu-Tang Clan
+39. Beastie Boys
+40. Red Hot Chili Peppers
+41. Foo Fighters
+42. Pearl Jam
+43. Green Day
+44. Blink-182
+45. The Killers
+46. Muse
+47. Radiohead
+48. Oasis
+49. The Strokes
+50. Arctic Monkeys (since the user already likes them)

@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. The Catcher in the Rye by J.D. Salinger
+4. To Kill a Mockingbird by Harper Lee
+5. The Great Gatsby by F. Scott Fitzgerald
+6. One Hundred Years of Solitude by Gabriel Garcia Marquez
+7. The Picture of Dorian Gray by Oscar Wilde
+8. The Bell Jar by Sylvia Plath
+9. The Road by Cormac McCarthy
+10. The Handmaid's Tale by Margaret Atwood
+11. The Lord of the Rings by J.R.R. Tolkien
+12. The Hobbit by J.R.R. Tolkien
+13. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+14. The Hunger Games by Suzanne Collins
+15. Catch-22 by Joseph Heller
+16. Slaughterhouse-Five by Kurt Vonnegut
+17. The Brothers Karamazov by Fyodor Dostoevsky
+18. Crime and Punishment by Fyodor Dostoevsky
+19. The Idiot by Fyodor Dostoevsky
+20. The Name of the Rose by Umberto Eco
+21. The Shadow of the Wind by Carlos Ruiz Zafón
+22. The Girl with the Dragon Tattoo by Stieg Larsson
+23. The Girl Who Played with Fire by Stieg Larsson
+24. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+25. The Silence of the Lambs by Thomas Harris
+26. The Shining by Stephen King
+27. The Stand by Stephen King
+28. The Dark Tower series by Stephen King
+29. The Chronicles of Narnia by C.S. Lewis
+30. The Book Thief by Markus Zusak
+31. The Kite Runner by Khaled Hosseini
+32. A Thousand Splendid Suns by Khaled Hosseini
+33. The Alchemist by Paulo Coelho
+34. The Picture of Dorian Gray by Oscar Wilde
+35. The Importance of Being Earnest by Oscar Wilde
+36. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+37. The Hound of the Baskervilles by Arthur Conan Doyle
+38. The Complete Works of William Shakespeare by William Shakespeare
+39. The Canterbury Tales by Geoffrey Chaucer
+40. The Divine Comedy by Dante Alighieri
+41. The Iliad by Homer
+42. The Odyssey by Homer
+43. The Republic by Plato
+44. The Prince by Niccolò Machiavelli
+45. Don Quixote by Miguel de Cervantes
+46. The Count of Monte Cristo by Alexandre Dumas
+47. The Three Musketeers by Alexandre Dumas
+48. The Picture of Dorian Gray by Oscar Wilde
+49

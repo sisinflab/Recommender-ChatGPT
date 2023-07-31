@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Brave New World by Aldous Huxley
+2. Fahrenheit 451 by Ray Bradbury
+3. The Handmaid's Tale by Margaret Atwood
+4. The Road by Cormac McCarthy
+5. The Stand by Stephen King
+6. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+7. The Lord of the Rings by J.R.R. Tolkien
+8. The Catcher in the Rye by J.D. Salinger
+9. To Kill a Mockingbird by Harper Lee
+10. 1984 by George Orwell
+11. Animal Farm by George Orwell
+12. The Shining by Stephen King
+13. The Silence of the Lambs by Thomas Harris
+14. The Girl with the Dragon Tattoo by Stieg Larsson
+15. The Da Vinci Code by Dan Brown
+16. The Hunger Games by Suzanne Collins
+17. The Maze Runner by James Dashner
+18. The Giver by Lois Lowry
+19. The Thief of Always by Clive Barker
+20. The Call of Cthulhu and Other Weird Stories by H.P. Lovecraft
+21. The Shadow over Innsmouth by H.P. Lovecraft
+22. The Dunwich Horror by H.P. Lovecraft
+23. The Interpretation of Dreams by Sigmund Freud
+24. The Psychopath Test by Jon Ronson
+25. The Power of Now by Eckhart Tolle
+26. The Alchemist by Paulo Coelho
+27. The Celestine Prophecy by James Redfield
+28. The Secret by Rhonda Byrne
+29. The Art of War by Sun Tzu
+30. The Prince by Niccolo Machiavelli
+31. The Republic by Plato
+32. The Wealth of Nations by Adam Smith
+33. The Origin of Species by Charles Darwin
+34. The Structure of Scientific Revolutions by Thomas S. Kuhn
+35. The Elegant Universe by Brian Greene
+36. A Brief History of Time by Stephen Hawking
+37. The Selfish Gene by Richard Dawkins
+38. The God Delusion by Richard Dawkins
+39. The Blind Watchmaker by Richard Dawkins
+40. The Demon-Haunted World by Carl Sagan
+41. The Varieties of Scientific Experience by Carl Sagan
+42. The Tao of Physics by Fritjof Capra
+43. The Dancing Wu Li Masters by Gary Zukav
+44. The Road Less Traveled by M. Scott Peck
+45. The 7 Habits of Highly Effective People by Stephen Covey
+46. How to Win Friends and Influence People by Dale Carnegie
+47. Think and Grow Rich by Napoleon Hill
+48. The Richest Man in Babylon by George S. Clason
+49. The Four Agreements by Don Miguel Ruiz
+50. The Power of Positive Thinking by Norman

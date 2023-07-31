@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Da Vinci Code by Dan Brown
+2. Angels and Demons by Dan Brown
+3. The Girl with the Dragon Tattoo by Stieg Larsson
+4. The Girl Who Played with Fire by Stieg Larsson
+5. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+6. The Hunger Games by Suzanne Collins
+7. Catching Fire by Suzanne Collins
+8. Mockingjay by Suzanne Collins
+9. The Help by Kathryn Stockett
+10. The Lovely Bones by Alice Sebold
+11. The Fault in Our Stars by John Green
+12. Gone Girl by Gillian Flynn
+13. The Maze Runner by James Dashner
+14. The Scorch Trials by James Dashner
+15. The Death Cure by James Dashner
+16. The Bourne Identity by Robert Ludlum
+17. The Bourne Supremacy by Robert Ludlum
+18. The Bourne Ultimatum by Robert Ludlum
+19. The Pelican Brief by John Grisham
+20. A Time to Kill by John Grisham
+21. The Rainmaker by John Grisham
+22. The Runaway Jury by John Grisham
+23. The Street Lawyer by John Grisham
+24. The Summons by John Grisham
+25. The Partner by John Grisham
+26. The Testament by John Grisham
+27. The Associate by John Grisham
+28. The Firm by John Grisham
+29. The Lincoln Lawyer by Michael Connelly
+30. The Black Echo by Michael Connelly
+31. The Cuckoo's Calling by Robert Galbraith
+32. The Silkworm by Robert Galbraith
+33. The Casual Vacancy by J.K. Rowling
+34. The Shining by Stephen King
+35. The Stand by Stephen King
+36. It by Stephen King
+37. The Dark Tower I: The Gunslinger by Stephen King
+38. The Dark Tower II: The Drawing of the Three by Stephen King
+39. The Dark Tower III: The Waste Lands by Stephen King
+40. The Dark Tower IV: Wizard and Glass by Stephen King
+41. The Dark Tower V: Wolves of the Calla by Stephen King
+42. The Dark Tower VI: Song of Susannah by Stephen King
+43. The Dark Tower VII: The Dark Tower by Stephen King
+44. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+45. The Restaurant at the End of the Universe by Douglas Adams
+46. Life, the Universe and Everything by Douglas Adams
+47. So Long, and Thanks for All the Fish by Douglas Adams
+48. Mostly Harmless by Douglas Adams
+49. The Martian by Andy Weir
+50. Ready Player One by Ernest Cline

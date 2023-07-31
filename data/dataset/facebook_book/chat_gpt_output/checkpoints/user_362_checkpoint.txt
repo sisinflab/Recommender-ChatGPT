@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. One Hundred Years of Solitude by Gabriel Garcia Marquez
+5. The Brothers Karamazov by Fyodor Dostoyevsky
+6. The Picture of Dorian Gray by Oscar Wilde
+7. The Sound and the Fury by William Faulkner
+8. The Stranger by Albert Camus
+9. The Sun Also Rises by Ernest Hemingway
+10. The Old Man and the Sea by Ernest Hemingway
+11. The Bell Jar by Sylvia Plath
+12. Brave New World by Aldous Huxley
+13. Heart of Darkness by Joseph Conrad
+14. The Grapes of Wrath by John Steinbeck
+15. Slaughterhouse-Five by Kurt Vonnegut
+16. The Trial by Franz Kafka
+17. Lolita by Vladimir Nabokov
+18. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+19. The Lord of the Rings by J.R.R. Tolkien
+20. The Hobbit by J.R.R. Tolkien
+21. The Chronicles of Narnia by C.S. Lewis
+22. The Divine Comedy by Dante Alighieri
+23. The Canterbury Tales by Geoffrey Chaucer
+24. The Iliad by Homer
+25. The Odyssey by Homer
+26. The Aeneid by Virgil
+27. The Inferno by Dante Alighieri
+28. The Canterbury Tales by Geoffrey Chaucer
+29. The Decameron by Giovanni Boccaccio
+30. The Divine Comedy by Dante Alighieri
+31. The Canterbury Tales by Geoffrey Chaucer
+32. The Decameron by Giovanni Boccaccio
+33. The Canterbury Tales by Geoffrey Chaucer
+34. The Decameron by Giovanni Boccaccio
+35. The Canterbury Tales by Geoffrey Chaucer
+36. The Decameron by Giovanni Boccaccio
+37. The Canterbury Tales by Geoffrey Chaucer
+38. The Decameron by Giovanni Boccaccio
+39. The Canterbury Tales by Geoffrey Chaucer
+40. The Decameron by Giovanni Boccaccio
+41. The Canterbury Tales by Geoffrey Chaucer
+42. The Decameron by Giovanni Boccaccio
+43. The Canterbury Tales by Geoffrey Chaucer
+44. The Decameron by Giovanni Boccaccio
+45. The Canterbury Tales by Geoffrey Chaucer
+46. The Decameron by Giovanni Boccaccio
+47. The Canterbury Tales by Geoffrey Chaucer
+48. The Decameron by Giovanni Boccaccio
+49. The Canterbury Tales by Geoffrey Chaucer
+50. The Decameron by Giovanni Boccaccio

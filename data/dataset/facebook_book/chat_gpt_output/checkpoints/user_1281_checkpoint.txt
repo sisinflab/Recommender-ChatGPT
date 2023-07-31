@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter series by J.K. Rowling
+2. The Hunger Games series by Suzanne Collins
+3. Divergent series by Veronica Roth
+4. The Fault in Our Stars by John Green
+5. The Maze Runner series by James Dashner
+6. Percy Jackson and the Olympians series by Rick Riordan
+7. The Mortal Instruments series by Cassandra Clare
+8. The Infernal Devices series by Cassandra Clare
+9. The Selection series by Kiera Cass
+10. The Twilight Saga by Stephenie Meyer
+11. The Chronicles of Narnia series by C.S. Lewis
+12. The Lord of the Rings series by J.R.R. Tolkien
+13. The Hobbit by J.R.R. Tolkien
+14. The Giver by Lois Lowry
+15. The Book Thief by Markus Zusak
+16. The Outsiders by S.E. Hinton
+17. The Perks of Being a Wallflower by Stephen Chbosky
+18. The Secret Life of Bees by Sue Monk Kidd
+19. The Help by Kathryn Stockett
+20. The Girl on the Train by Paula Hawkins
+21. Gone Girl by Gillian Flynn
+22. The Da Vinci Code by Dan Brown
+23. Angels and Demons by Dan Brown
+24. The Alchemist by Paulo Coelho
+25. The Catcher in the Rye by J.D. Salinger
+26. To Kill a Mockingbird by Harper Lee
+27. The Great Gatsby by F. Scott Fitzgerald
+28. 1984 by George Orwell
+29. Animal Farm by George Orwell
+30. Brave New World by Aldous Huxley
+31. The Handmaid's Tale by Margaret Atwood
+32. The Picture of Dorian Gray by Oscar Wilde
+33. The Time Traveler's Wife by Audrey Niffenegger
+34. The Lovely Bones by Alice Sebold
+35. The Help by Kathryn Stockett
+36. The Kite Runner by Khaled Hosseini
+37. A Thousand Splendid Suns by Khaled Hosseini
+38. The Nightingale by Kristin Hannah
+39. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+40. The Martian by Andy Weir
+41. The Girl with the Dragon Tattoo by Stieg Larsson
+42. The Girl Who Played with Fire by Stieg Larsson
+43. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+44. The Hunger Games: Catching Fire by Suzanne Collins
+45. The Hunger Games: Mockingjay by Suzanne Collins
+46. The Maze Runner: The Scorch Trials by James Dashner
+47. The Maze Runner: The Death Cure by James Dashner
+48. The Fault in Our Stars by John Green
+49. Looking for Alaska by John Green
+50. American Gods by Neil Gaiman

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Coldplay
+2. The Strokes
+3. Arcade Fire
+4. Queens of the Stone Age
+5. The Black Keys
+6. Muse (similar to user's favorite)
+7. Arctic Monkeys (similar to user's favorite)
+8. Radiohead (similar to user's favorite)
+9. The Killers (similar to user's favorite)
+10. Franz Ferdinand (similar to user's favorite)
+11. Foo Fighters (similar to user's favorite)
+12. Kings of Leon
+13. Vampire Weekend
+14. The White Stripes (similar to user's favorite)
+15. Interpol (similar to user's favorite)
+16. The National
+17. Death Cab for Cutie (similar to user's favorite)
+18. Bloc Party (similar to user's favorite)
+19. The Raconteurs
+20. The Shins
+21. Phoenix
+22. Modest Mouse
+23. The Bravery
+24. The Hives
+25. The Vines
+26. The Stills
+27. The Libertines
+28. The Fratellis
+29. The Kooks
+30. The Coral
+31. The Zutons
+32. The Futureheads
+33. The Rakes
+34. The Cribs
+35. The Pigeon Detectives
+36. The View
+37. The Wombats
+38. The Ting Tings
+39. The Maccabees
+40. The Vaccines
+41. Two Door Cinema Club
+42. Bombay Bicycle Club
+43. Foals
+44. Editors (similar to user's favorite)
+45. White Lies
+46. Kasabian (similar to user's favorite)
+47. The Arctic Monkeys
+48. The Black Rebel Motorcycle Club
+49. The Dead Weather
+50. The Kills

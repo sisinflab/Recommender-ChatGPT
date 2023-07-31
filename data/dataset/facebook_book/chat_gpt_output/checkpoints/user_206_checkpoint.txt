@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Great Gatsby by F. Scott Fitzgerald
+4. Pride and Prejudice by Jane Austen
+5. The Hobbit by J.R.R. Tolkien
+6. The Lord of the Rings by J.R.R. Tolkien
+7. The Chronicles of Narnia by C.S. Lewis
+8. The Book Thief by Markus Zusak
+9. The Fault in Our Stars by John Green
+10. Eleanor & Park by Rainbow Rowell
+11. The Perks of Being a Wallflower by Stephen Chbosky
+12. The Maze Runner by James Dashner
+13. Divergent by Veronica Roth
+14. The Selection by Kiera Cass
+15. The Giver by Lois Lowry
+16. The Outsiders by S.E. Hinton
+17. The Secret Life of Bees by Sue Monk Kidd
+18. The Help by Kathryn Stockett
+19. The Girl on the Train by Paula Hawkins
+20. Gone Girl by Gillian Flynn
+21. The Hunger Games Trilogy by Suzanne Collins
+22. The Twilight Saga by Stephenie Meyer
+23. The Mortal Instruments Series by Cassandra Clare
+24. The Infernal Devices Series by Cassandra Clare
+25. The Lunar Chronicles by Marissa Meyer
+26. The Harry Potter Series by J.K. Rowling
+27. The Dark Tower Series by Stephen King
+28. The Stand by Stephen King
+29. The Shining by Stephen King
+30. The Girl with the Dragon Tattoo by Stieg Larsson
+31. The Da Vinci Code by Dan Brown
+32. Angels and Demons by Dan Brown
+33. The Bourne Identity by Robert Ludlum
+34. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+35. The Catcher in the Rye by J.D. Salinger
+36. The Bell Jar by Sylvia Plath
+37. The Picture of Dorian Gray by Oscar Wilde
+38. The Importance of Being Earnest by Oscar Wilde
+39. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+40. The Hound of the Baskervilles by Arthur Conan Doyle
+41. The Time Machine by H.G. Wells
+42. The War of the Worlds by H.G. Wells
+43. The Invisible Man by H.G. Wells
+44. The Island of Dr. Moreau by H.G. Wells
+45. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+46. Treasure Island by Robert Louis Stevenson
+47. The Adventures of Tom Sawyer by Mark Twain
+48. The Adventures of Huckleberry Finn by Mark Twain
+49. Little Women by Louisa May Alcott
+50. Anne of Green Gables by L.M. Montgomery

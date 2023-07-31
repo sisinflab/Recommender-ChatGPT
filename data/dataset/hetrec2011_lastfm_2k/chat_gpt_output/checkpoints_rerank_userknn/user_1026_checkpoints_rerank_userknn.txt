@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for this user are:
+
+1. Metallica
+2. Rammstein
+3. Guns N' Roses
+4. Queen
+5. System of a Down
+6. Korn
+7. Alice in Chains
+8. Disturbed
+9. Hypocrisy
+10. Machine Head
+11. Hatebreed
+12. Fear Factory
+13. Cannibal Corpse
+14. Death
+15. Cradle of Filth
+16. Dethklok
+17. Misfits
+18. The Clash
+19. Madonna
+20. Lady Gaga
+21. Emilie Autumn
+22. t.A.T.u.
+23. Evanescence
+24. Pain
+25. Amy Winehouse
+26. Lily Allen
+27. Guano Apes
+28. Manu Chao
+29. Ramones
+30. Britney Spears
+31. Avril Lavigne
+32. Katy Perry
+33. Rihanna
+34. P!nk
+35. Beyoncé
+36. Shakira
+37. Nelly Furtado
+38. Gwen Stefani
+39. Jennifer Lopez
+40. Christina Aguilera
+41. Kylie Minogue
+42. La Roux
+43. Ellie Goulding
+44. Paramore
+45. Florence + the Machine
+46. Scissor Sisters
+47. Michael Jackson
+48. Bruce Springsteen
+49. The Beatles
+50. Elvis Presley

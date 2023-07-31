@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Catching Fire
+2. The Lord of the Rings
+3. The Hunger Games
+4. American Gods
+5. A Series of Unfortunate Events
+6. Harry Potter
+7. The Lovely Bones
+8. Romeo and Juliet
+9. The Immortals
+10. Cirque du Freak
+11. The Boy in the Striped Pyjamas
+12. Rebel Angels
+13. The Screwtape Letters
+14. Vampire Academy
+15. Night
+16. Thirteen Reasons Why
+17. The Stand
+18. Ender's Game
+19. Brave New World
+20. Nineteen Eighty-Four
+21. Macbeth
+22. The True Game
+23. The Sweet Far Thing
+24. Girl, Interrupted
+25. The Picture of Dorian Gray
+26. Luna
+27. City of Ashes
+28. My Sister's Keeper
+29. The Maze Runner
+30. The Time Traveler's Wife
+31. The Host
+32. Through the Looking-Glass
+33. Grimms' Fairy Tales
+34. Holes
+35. Oliver Twist
+36. Digital Fortress
+37. Haunted
+38. Cecilia
+39. Protector of the Small
+40. Rose Madder
+41. Disco Bloodbath
+42. Along for the Ride
+43. The Coldest Winter Ever
+44. Bible
+45. High Society
+46. Sarah's Key
+47. Nightworld
+48. Vampire Kisses
+49. Mere Christianity
+50. The Stranger

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. Pride and Prejudice by Jane Austen
+5. Animal Farm by George Orwell
+6. The Great Gatsby by F. Scott Fitzgerald
+7. Jane Eyre by Charlotte Bronte
+8. The Adventures of Huckleberry Finn by Mark Twain
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Hobbit by J.R.R. Tolkien
+11. The Lord of the Rings by J.R.R. Tolkien
+12. The Chronicles of Narnia by C.S. Lewis
+13. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+14. The Da Vinci Code by Dan Brown
+15. The Girl with the Dragon Tattoo by Stieg Larsson
+16. The Hunger Games by Suzanne Collins
+17. The Road by Cormac McCarthy
+18. The Kite Runner by Khaled Hosseini
+19. The Alchemist by Paulo Coelho
+20. The Secret Life of Bees by Sue Monk Kidd
+21. The Help by Kathryn Stockett
+22. The Color Purple by Alice Walker
+23. The Handmaid's Tale by Margaret Atwood
+24. The Bell Jar by Sylvia Plath
+25. One Hundred Years of Solitude by Gabriel Garcia Marquez
+26. Love in the Time of Cholera by Gabriel Garcia Marquez
+27. Crime and Punishment by Fyodor Dostoevsky
+28. The Brothers Karamazov by Fyodor Dostoevsky
+29. Anna Karenina by Leo Tolstoy
+30. War and Peace by Leo Tolstoy
+31. The Count of Monte Cristo by Alexandre Dumas
+32. Les Miserables by Victor Hugo
+33. The Three Musketeers by Alexandre Dumas
+34. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+35. The Picture of Dorian Gray by Oscar Wilde
+36. Dracula by Bram Stoker
+37. Frankenstein by Mary Shelley
+38. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+39. The Time Machine by H.G. Wells
+40. The War of the Worlds by H.G. Wells
+41. The Invisible Man by H.G. Wells
+42. The Island of Dr. Moreau by H.G. Wells
+43. The Adventures of Tom Sawyer by Mark Twain
+44. The Adventures of Robin Hood by Howard Pyle
+45. The Swiss Family Robinson by Johann David Wyss
+46. The Call of the Wild by Jack London
+47. White Fang by Jack London
+48. The Sea Wolf by Jack London
+49. Moby-Dick by Herman Melville
+50. The Wise Man's Fear by Patrick Rothfuss

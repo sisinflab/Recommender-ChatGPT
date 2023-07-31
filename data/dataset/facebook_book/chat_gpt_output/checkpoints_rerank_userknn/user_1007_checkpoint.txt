@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter
+2. The Lord of the Rings
+3. Twilight (series)
+4. The Stand
+5. Dracula
+6. Interview with the Vampire
+7. The Hobbit
+8. Dune (novel)
+9. The Picture of Dorian Gray
+10. Hannibal Rising
+11. The Wolves of Mercy Falls
+12. The Host (novel)
+13. Angels & Demons
+14. The Lovely Bones
+15. Heart of Darkness
+16. The Once and Future King
+17. City of Bones (Mortal Instruments)
+18. City of Glass (Mortal Instruments)
+19. Inheritance (novel)
+20. Betrayed (novel)
+21. Evermore (book)
+22. The Princess Bride
+23. Romeo and Juliet
+24. Macbeth
+25. The Hitchhiker's Guide to the Galaxy (novel)
+26. Walk Two Moons
+27. The House of Thunder
+28. Vampire Academy (novel)
+29. The Watchmen (novel)
+30. This Present Darkness
+31. Dark-Hunter (series)
+32. Hunger (Hamsun novel)
+33. Arkham Asylum: A Serious House on Serious Earth
+34. Nicholas Nickleby
+35. She Walks in Beauty
+36. A Great and Terrible Beauty
+37. The Luxe
+38. The Mummy!
+39. Dark Visions
+40. Red (novel)
+41. Belinda (Edgeworth novel)
+42. Ranger's Apprentice
+43. Johnny the Homicidal Maniac
+44. Fairest (novel)
+45. Blue Moon (Noel novel)
+46. Vittorio the Vampire
+47. Chosen (A House of Night novel)
+48. Vampire Kisses
+49. Untamed (novel)
+50. Bloodlines (Mead novel)

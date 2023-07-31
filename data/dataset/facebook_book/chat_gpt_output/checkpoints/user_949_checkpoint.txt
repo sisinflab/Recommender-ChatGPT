@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Identical by Ellen Hopkins
+2. Perfect by Ellen Hopkins
+3. Tricks by Ellen Hopkins
+4. Fallout by Ellen Hopkins
+5. Tilt by Ellen Hopkins
+6. The Fault in Our Stars by John Green
+7. Looking for Alaska by John Green
+8. Paper Towns by John Green
+9. An Abundance of Katherines by John Green
+10. Will Grayson, Will Grayson by John Green and David Levithan
+11. The Hunger Games by Suzanne Collins
+12. Catching Fire by Suzanne Collins
+13. Mockingjay by Suzanne Collins
+14. Divergent by Veronica Roth
+15. Insurgent by Veronica Roth
+16. Allegiant by Veronica Roth
+17. The Maze Runner by James Dashner
+18. The Scorch Trials by James Dashner
+19. The Death Cure by James Dashner
+20. The Giver by Lois Lowry
+21. Gathering Blue by Lois Lowry
+22. Messenger by Lois Lowry
+23. Son by Lois Lowry
+24. The Book Thief by Markus Zusak
+25. The Perks of Being a Wallflower by Stephen Chbosky
+26. Eleanor & Park by Rainbow Rowell
+27. Fangirl by Rainbow Rowell
+28. Carry On by Rainbow Rowell
+29. The Selection by Kiera Cass
+30. The Elite by Kiera Cass
+31. The One by Kiera Cass
+32. The 5th Wave by Rick Yancey
+33. The Infinite Sea by Rick Yancey
+34. The Last Star by Rick Yancey
+35. The Fault in Our Stars (Movie Tie-in Edition) by John Green
+36. The Maze Runner (Movie Tie-in Edition) by James Dashner
+37. Divergent (Movie Tie-in Edition) by Veronica Roth
+38. The Hunger Games (Movie Tie-in Edition) by Suzanne Collins
+39. The Book Thief (Movie Tie-in Edition) by Markus Zusak
+40. The Perks of Being a Wallflower (Movie Tie-in Edition) by Stephen Chbosky
+41. The Fault in Our Stars (Exclusive Edition) by John Green
+42. The Maze Runner (Exclusive Edition) by James Dashner
+43. Divergent (Exclusive Edition) by Veronica Roth
+44. The Hunger Games (Exclusive Edition) by Suzanne Collins
+45. The Book Thief (Exclusive Edition) by Markus Zusak
+46. The Perks of Being a Wallflower (Exclusive Edition) by Stephen Chbosky
+47. The Fault in Our Stars (Deluxe Edition) by John Green
+48. The Maze Runner (Deluxe Edition) by James Dashner
+49. Divergent (Deluxe Edition) by Veronica Roth
+50. The Hunger Games (Deluxe Edition) by Suzanne Collins

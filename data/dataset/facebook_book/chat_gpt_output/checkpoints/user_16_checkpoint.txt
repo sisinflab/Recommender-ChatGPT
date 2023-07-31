@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Da Vinci Code by Dan Brown
+2. Inferno by Dan Brown
+3. Digital Fortress by Dan Brown
+4. Origin by Dan Brown
+5. The Lost Symbol by Dan Brown
+6. Harry Potter and the Philosopher's Stone by J.K. Rowling
+7. Harry Potter and the Chamber of Secrets by J.K. Rowling
+8. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+9. Harry Potter and the Goblet of Fire by J.K. Rowling
+10. Harry Potter and the Order of Phoenix by J.K. Rowling
+11. Harry Potter and the Half-Blood Prince by J.K. Rowling
+12. Harry Potter and the Deathly Hallows by J.K. Rowling
+13. The Male Brain by Louann Brizendine
+14. The Power of Habit by Charles Duhigg
+15. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+16. The Help by Kathryn Stockett
+17. The Secret Life of Bees by Sue Monk Kidd
+18. The Color Purple by Alice Walker
+19. The Joy Luck Club by Amy Tan
+20. The Namesake by Jhumpa Lahiri
+21. The God of Small Things by Arundhati Roy
+22. The Kite Runner Graphic Novel by Khaled Hosseini
+23. And the Mountains Echoed by Khaled Hosseini
+24. The Thousand Autumns of Jacob de Zoet by David Mitchell
+25. The Nightingale by Kristin Hannah
+26. The Time Traveler's Wife by Audrey Niffenegger
+27. The Notebook by Nicholas Sparks
+28. A Walk to Remember by Nicholas Sparks
+29. The Last Song by Nicholas Sparks
+30. The Lucky One by Nicholas Sparks
+31. The Best of Me by Nicholas Sparks
+32. The Longest Ride by Nicholas Sparks
+33. The Fault in Our Stars by John Green
+34. Looking for Alaska by John Green
+35. Paper Towns by John Green
+36. The Alchemist Graphic Novel by Paulo Coelho
+37. Brida by Paulo Coelho
+38. Veronika Decides to Die by Paulo Coelho
+39. Eleven Minutes by Paulo Coelho
+40. The Valkyries by Paulo Coelho
+41. The Zahir by Paulo Coelho
+42. The Witch of Portobello by Paulo Coelho
+43. The Fifth Mountain by Paulo Coelho
+44. A Thousand Splendid Suns Graphic Novel by Khaled Hosseini
+45. The Swallows of Kabul by Yasmina Khadra
+46. The Reluctant Fundamentalist by Mohsin Hamid
+47. The White Tiger by Aravind Adiga
+48. The Lowland by Jhumpa Lahiri
+49. The Namesake

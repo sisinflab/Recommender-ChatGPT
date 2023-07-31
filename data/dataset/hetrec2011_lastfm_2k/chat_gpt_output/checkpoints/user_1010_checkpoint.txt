@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Pet Shop Boys
+2. Simple Minds
+3. INXS
+4. The Cure
+5. U2
+6. Bon Jovi
+7. Queen
+8. David Bowie
+9. Prince
+10. The Police
+11. Talking Heads
+12. Joy Division
+13. The Smiths
+14. R.E.M.
+15. Radiohead
+16. Oasis
+17. Coldplay
+18. Muse
+19. Arctic Monkeys
+20. The Killers
+21. Franz Ferdinand
+22. Interpol
+23. Bloc Party
+24. The Strokes
+25. Yeah Yeah Yeahs
+26. Vampire Weekend
+27. The Black Keys
+28. Foals
+29. Tame Impala
+30. LCD Soundsystem
+31. Phoenix
+32. MGMT
+33. Foster the People
+34. Two Door Cinema Club
+35. The 1975
+36. Hozier
+37. Florence + The Machine
+38. Lorde
+39. Lana Del Rey
+40. Billie Eilish
+41. The Weeknd
+42. Dua Lipa
+43. Harry Styles
+44. Taylor Swift
+45. Ariana Grande
+46. Ed Sheeran
+47. Shawn Mendes
+48. Justin Bieber
+49. Post Malone
+50. Drake

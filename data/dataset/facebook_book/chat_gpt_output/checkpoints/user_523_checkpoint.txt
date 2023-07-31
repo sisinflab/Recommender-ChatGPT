@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Harry Potter and the Philosopher's Stone by J.K. Rowling
+3. The Da Vinci Code by Dan Brown
+4. The Girl with the Dragon Tattoo by Stieg Larsson
+5. The Catcher in the Rye by J.D. Salinger
+6. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+7. The Great Gatsby by F. Scott Fitzgerald
+8. 1984 by George Orwell
+9. Animal Farm by George Orwell
+10. The Chronicles of Narnia by C.S. Lewis
+11. The Book Thief by Markus Zusak
+12. The Fault in Our Stars by John Green
+13. The Maze Runner by James Dashner
+14. The Giver by Lois Lowry
+15. The Outsiders by S.E. Hinton
+16. The Perks of Being a Wallflower by Stephen Chbosky
+17. The Hobbit by J.R.R. Tolkien
+18. The Lord of the Rings by J.R.R. Tolkien
+19. Alice's Adventures in Wonderland by Lewis Carroll
+20. Airframe by Michael Crichton
+21. Odd Thomas by Dean Koontz
+22. Watchers by Dean Koontz
+23. To Kill a Mockingbird by Harper Lee
+24. Maximum Ride: The Angel Experiment by James Patterson
+25. Dune by Frank Herbert
+26. Cirque du Freak by Darren Shan
+27. Ender's Game by Orson Scott Card
+28. A Tale of Two Cities by Charles Dickens
+29. Black by Ted Dekker
+30. The Alchemist by Paulo Coelho
+31. The Picture of Dorian Gray by Oscar Wilde
+32. The Count of Monte Cristo by Alexandre Dumas
+33. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+34. The War of the Worlds by H.G. Wells
+35. The Time Machine by H.G. Wells
+36. The Invisible Man by H.G. Wells
+37. The Island of Dr. Moreau by H.G. Wells
+38. The Call of the Wild by Jack London
+39. White Fang by Jack London
+40. The Old Man and the Sea by Ernest Hemingway
+41. The Sun Also Rises by Ernest Hemingway
+42. For Whom the Bell Tolls by Ernest Hemingway
+43. The Catcher in the Rye by J.D. Salinger
+44. Franny and Zooey by J.D. Salinger
+45. Nine Stories by J.D. Salinger
+46. The Bell Jar by Sylvia Plath
+47. One Hundred Years of Solitude by Gabriel Garcia Marquez
+48. Love in the Time of Cholera by Gabriel Garcia Marquez
+49. The Name of the Rose by Umberto Eco
+50

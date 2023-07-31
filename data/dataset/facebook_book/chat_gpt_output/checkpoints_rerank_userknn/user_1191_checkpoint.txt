@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. Nineteen Eighty-Four by George Orwell
+3. The Great Gatsby by F. Scott Fitzgerald
+4. Brave New World by Aldous Huxley
+5. To Kill a Mockingbird by Harper Lee
+6. Animal Farm by George Orwell
+7. Lord of the Flies by William Golding
+8. One Hundred Years of Solitude by Gabriel Garcia Marquez
+9. Catch-22 by Joseph Heller
+10. The Bell Jar by Sylvia Plath
+11. The Handmaid's Tale by Margaret Atwood
+12. Fahrenheit 451 by Ray Bradbury
+13. Slaughterhouse-Five by Kurt Vonnegut
+14. The Picture of Dorian Gray by Oscar Wilde
+15. Heart of Darkness by Joseph Conrad
+16. The Old Man and the Sea by Ernest Hemingway
+17. The Hobbit by J.R.R. Tolkien
+18. The Lord of the Rings by J.R.R. Tolkien
+19. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+20. The Secret Garden by Frances Hodgson Burnett
+21. The Time Traveler's Wife by Audrey Niffenegger
+22. The Book Thief by Markus Zusak
+23. The Shadow of the Wind by Carlos Ruiz Zafón
+24. The Lovely Bones by Alice Sebold
+25. The Outsiders by S.E. Hinton
+26. The Dubliners by James Joyce
+27. The Trial by Franz Kafka
+28. The Good Earth by Pearl S. Buck
+29. The Lost World by Michael Crichton
+30. Revolutionary Road by Richard Yates
+31. The Rum Diary by Hunter S. Thompson
+32. Murder on the Orient Express by Agatha Christie
+33. Less Than Zero by Bret Easton Ellis
+34. Eric by Terry Pratchett
+35. Junkie by William S. Burroughs
+36. In Cold Blood by Truman Capote
+37. Player Piano by Kurt Vonnegut
+38. Look Me in the Eye by John Elder Robison
+39. Death Note Another Note: The Los Angeles BB Murder Cases by Nisio Isin
+40. Cat's Cradle by Kurt Vonnegut
+41. The Hours by Michael Cunningham
+42. Ulysses by James Joyce
+43. The Dirt by Mötley Crüe
+44. Beauty: A Retelling of the Story of Beauty and the Beast by Robin McKinley
+45. City of Glass by Cassandra Clare
+46. Girl with a Pearl Earring by Tracy Chevalier
+47. The Watchmen by Alan Moore
+48. World War Z by Max Brooks
+49. Slash by Slash
+50. Johnny the Homicidal Maniac by Jhonen Vasquez

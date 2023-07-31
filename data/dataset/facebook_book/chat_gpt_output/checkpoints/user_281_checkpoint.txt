@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Ender's Game by Orson Scott Card
+2. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+3. The Lord of the Rings by J.R.R. Tolkien
+4. The Chronicles of Narnia by C.S. Lewis
+5. The Hunger Games by Suzanne Collins
+6. The Martian by Andy Weir
+7. The Name of the Wind by Patrick Rothfuss
+8. The Wheel of Time by Robert Jordan
+9. The Dark Tower by Stephen King
+10. The Dresden Files by Jim Butcher
+11. The Kingkiller Chronicle by Patrick Rothfuss
+12. The Stormlight Archive by Brandon Sanderson
+13. The Mistborn Trilogy by Brandon Sanderson
+14. The First Law Trilogy by Joe Abercrombie
+15. The Malazan Book of the Fallen by Steven Erikson
+16. The Lies of Locke Lamora by Scott Lynch
+17. The Blade Itself by Joe Abercrombie
+18. The Black Company by Glen Cook
+19. The Way of Kings by Brandon Sanderson
+20. The Final Empire by Brandon Sanderson
+21. The Wise Man's Fear by Patrick Rothfuss
+22. The Lightbringer Series by Brent Weeks
+23. The Broken Empire Trilogy by Mark Lawrence
+24. The Riyria Revelations by Michael J. Sullivan
+25. The Powder Mage Trilogy by Brian McClellan
+26. The Red Rising Trilogy by Pierce Brown
+27. The Expanse Series by James S.A. Corey
+28. The Hyperion Cantos by Dan Simmons
+29. The Culture Series by Iain M. Banks
+30. The Foundation Series by Isaac Asimov
+31. The Three-Body Problem by Liu Cixin
+32. The City & the City by China Miéville
+33. The Windup Girl by Paolo Bacigalupi
+34. The Diamond Age by Neal Stephenson
+35. The Alchemist by Paulo Coelho
+36. The Picture of Dorian Gray by Oscar Wilde
+37. The Count of Monte Cristo by Alexandre Dumas
+38. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+39. The Great Gatsby by F. Scott Fitzgerald
+40. To Kill a Mockingbird by Harper Lee
+41. One Hundred Years of Solitude by Gabriel García Márquez
+42. Crime and Punishment by Fyodor Dostoevsky
+43. The Brothers Karamazov by Fyodor Dostoevsky
+44. War and Peace by Leo Tolstoy
+45. Anna Karenina by Leo Tolstoy
+46. Don Quixote by Miguel de Cervantes
+47. The Canterbury Tales by Geoffrey Chaucer
+48. Paradise Lost by John Milton
+49. The Divine Comedy by Dante Alighieri
+50

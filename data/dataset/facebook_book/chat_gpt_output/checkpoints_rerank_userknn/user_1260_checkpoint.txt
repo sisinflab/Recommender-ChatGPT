@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter by J.K. Rowling
+2. To Kill a Mockingbird by Harper Lee
+3. The Adventures of Tom Sawyer by Mark Twain
+4. The Giver by Lois Lowry
+5. The Alchemist by Paulo Coelho
+6. The Picture of Dorian Gray by Oscar Wilde
+7. The Shelters of Stone by Jean M. Auel
+8. The Phantom of the Opera by Gaston Leroux
+9. The Last Olympian by Rick Riordan
+10. The Zombie Survival Guide by Max Brooks
+11. The Watchmen by Alan Moore
+12. The World According to Garp by John Irving
+13. The Clan of the Cave Bear by Jean M. Auel
+14. The Lovely Bones by Alice Sebold
+15. The Kite Runner by Khaled Hosseini
+16. The Godfather by Mario Puzo
+17. The Green Mile by Stephen King
+18. The Notebook by Nicholas Sparks
+19. The Five People You Meet in Heaven by Mitch Albom
+20. The Vampire Lestat by Anne Rice
+21. Slaughterhouse-Five by Kurt Vonnegut
+22. Haunted by Chuck Palahniuk
+23. Everything Is Illuminated by Jonathan Safran Foer
+24. One for the Money by Janet Evanovich
+25. Invisible Man by Ralph Ellison
+26. Needful Things by Stephen King
+27. A Bend in the Road by Nicholas Sparks
+28. I Am Number Four by Pittacus Lore
+29. The Last Song by Nicholas Sparks
+30. Brave New World by Aldous Huxley
+31. Fahrenheit 451 by Ray Bradbury
+32. The Valley of Horses by Jean M. Auel
+33. Memoirs of a Geisha by Arthur Golden
+34. The Plains of Passage by Jean M. Auel
+35. The Regulators by Stephen King
+36. Peter and Wendy by J.M. Barrie
+37. The Sea of Monsters by Rick Riordan
+38. Cujo by Stephen King
+39. Where the Sidewalk Ends by Shel Silverstein
+40. Catching Fire by Suzanne Collins
+41. Macbeth by William Shakespeare
+42. Common Sense by Thomas Paine
+43. Sepulchre by Kate Mosse
+44. Misery by Stephen King
+45. Siddhartha by Hermann Hesse
+46. Dreams from My Father by Barack Obama
+47. Paradise Lost by John Milton
+48. John Dies at the End by David Wong
+49. Roots: The Saga of an American Family by Alex Haley
+50. Interview with the Vampire by Anne Rice

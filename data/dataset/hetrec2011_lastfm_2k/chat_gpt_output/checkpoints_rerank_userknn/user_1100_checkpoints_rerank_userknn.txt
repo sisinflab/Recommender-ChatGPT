@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Nine Inch Nails
+2. Pixies
+3. Portishead
+4. Massive Attack
+5. Swans
+6. Melvins
+7. Mr. Bungle
+8. The Dillinger Escape Plan
+9. Ulver
+10. Type O Negative
+11. Faith No More
+12. Philip Glass
+13. Beck
+14. Eels
+15. The Residents
+16. Mark Lanegan
+17. Captain Beefheart & His Magic Band
+18. Fiona Apple
+19. Fantômas
+20. Black Sabbath
+21. Nirvana
+22. Sonic Youth
+23. Pearl Jam
+24. Rush
+25. David Bowie
+26. Tool
+27. Radiohead
+28. Soundgarden
+29. The Clash
+30. Pink Floyd
+31. Led Zeppelin
+32. Miles Davis
+33. Frank Zappa
+34. Mogwai
+35. Queens of the Stone Age
+36. Animal Collective
+37. Gorillaz
+38. The Mars Volta
+39. Jethro Tull
+40. Stevie Wonder
+41. A Silver Mt. Zion
+42. ...And You Will Know Us by the Trail of Dead
+43. Iron Maiden
+44. Slayer
+45. Eminem
+46. Van Halen
+47. Deftones
+48. Aphex Twin
+49. John Frusciante
+50. Bob Marley & The Wailers

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. World War Z by Max Brooks
+2. The Road by Cormac McCarthy
+3. The Stand by Stephen King
+4. The Hunger Games by Suzanne Collins
+5. The Maze Runner by James Dashner
+6. The Girl with All the Gifts by M.R. Carey
+7. The Walking Dead: Compendium One by Robert Kirkman
+8. The Strain by Guillermo del Toro and Chuck Hogan
+9. The Passage by Justin Cronin
+10. The Andromeda Strain by Michael Crichton
+11. The Hot Zone by Richard Preston
+12. The Twelve by Justin Cronin
+13. The Last Man by Mary Shelley
+14. The Omega Man by Richard Matheson
+15. The Day of the Triffids by John Wyndham
+16. The Postman by David Brin
+17. The Children of Men by P.D. James
+18. The Stand: Soul Survivors by Roberto Aguirre-Sacasa
+19. The Plague by Albert Camus
+20. Blindness by Jose Saramago
+21. The White Plague by Frank Herbert
+22. The Dog Stars by Peter Heller
+23. The Reapers are the Angels by Alden Bell
+24. The Book of M by Peng Shepherd
+25. The Last Policeman by Ben H. Winters
+26. The Traveler by John Twelve Hawks
+27. The First Fifteen Lives of Harry August by Claire North
+28. The Time Traveler's Wife by Audrey Niffenegger
+29. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+30. The Martian by Andy Weir
+31. Ready Player One by Ernest Cline
+32. Snow Crash by Neal Stephenson
+33. Neuromancer by William Gibson
+34. Altered Carbon by Richard K. Morgan
+35. Do Androids Dream of Electric Sheep? by Philip K. Dick
+36. Fahrenheit 451 by Ray Bradbury
+37. 1984 by George Orwell
+38. Brave New World by Aldous Huxley
+39. The Handmaid's Tale by Margaret Atwood
+40. The Road to Serfdom by Friedrich Hayek
+41. The Shock Doctrine by Naomi Klein
+42. The Communist Manifesto by Karl Marx and Friedrich Engels
+43. The Wealth of Nations by Adam Smith
+44. The General Theory of Employment, Interest, and Money by John Maynard Keynes
+45. The Art of War by Sun Tzu
+46. The Prince by Niccolo Machiavelli
+47. Meditations by Marcus Aurelius
+48. Zen Mind, Beginner's Mind by Shunryu Suzuki
+49. The Tao of Pooh by Benjamin Hoff
+50. Siddhartha by Hermann Hesse

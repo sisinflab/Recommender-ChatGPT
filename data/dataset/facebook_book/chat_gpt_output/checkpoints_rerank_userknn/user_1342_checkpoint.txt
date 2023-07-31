@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter
+2. To Kill a Mockingbird
+3. The Great Gatsby
+4. Nineteen Eighty-Four
+5. The Book Thief
+6. Romeo and Juliet
+7. A Tale of Two Cities
+8. The Hunger Games
+9. Mockingjay
+10. Inkheart
+11. The Other Boleyn Girl
+12. A Thousand Splendid Suns
+13. The Giver
+14. Stargirl
+15. The Secret Garden
+16. Alice's Adventures in Wonderland
+17. Northanger Abbey
+18. The Vagina Monologues
+19. Thirteen Reasons Why
+20. Dear John
+21. Marley & Me
+22. Uncle Tom's Cabin
+23. Maximum Ride
+24. The Host
+25. The Messenger
+26. Ink Exchange
+27. Speak
+28. The Sisterhood of the Traveling Pants
+29. The Shack
+30. Burned
+31. Because of Winn-Dixie
+32. The Silver Kiss
+33. Night
+34. Oh, the Places You'll Go!
+35. The Kane Chronicles
+36. Impulse economy
+37. The Forest of Hands and Teeth
+38. Brother Odd
+39. Running Out of Time
+40. Luna
+41. Flyte
+42. Along for the Ride
+43. Suck It Up
+44. Iliad
+45. A Midsummer Night's Dream
+46. Junjo Romantica: Pure Romance
+47. Vampire$
+48. Fade
+49. The Hitchhiker's Guide to the Galaxy
+50. Curious George

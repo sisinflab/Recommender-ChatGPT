@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Way of Kings by Brandon Sanderson
+2. 1984 by George Orwell
+3. The Hunger Games by Suzanne Collins
+4. The Lord of the Rings by J.R.R. Tolkien
+5. Brave New World by Aldous Huxley
+6. The Giver by Lois Lowry
+7. Ender's Game by Orson Scott Card
+8. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+9. Dune by Frank Herbert
+10. The Chronicles of Narnia by C.S. Lewis
+11. The Dark Tower series by Stephen King
+12. The Maze Runner by James Dashner
+13. The Girl with the Dragon Tattoo by Stieg Larsson
+14. The Catcher in the Rye by J.D. Salinger
+15. The Great Gatsby by F. Scott Fitzgerald
+16. To Kill a Mockingbird by Harper Lee
+17. The Book Thief by Markus Zusak
+18. The Fault in Our Stars by John Green
+19. The Perks of Being a Wallflower by Stephen Chbosky
+20. The Picture of Dorian Gray by Oscar Wilde
+21. The Road by Cormac McCarthy
+22. The Stand by Stephen King
+23. The Shining by Stephen King
+24. The Talisman by Stephen King and Peter Straub
+25. The Dark is Rising by Susan Cooper
+26. The Once and Future King by T.H. White
+27. The Magicians by Lev Grossman
+28. The Dresden Files by Jim Butcher
+29. The Kingkiller Chronicle by Patrick Rothfuss
+30. The Wheel of Time by Robert Jordan
+31. The Stormlight Archive by Brandon Sanderson
+32. Mistborn: The Final Empire by Brandon Sanderson
+33. The Lies of Locke Lamora by Scott Lynch
+34. The First Law Trilogy by Joe Abercrombie
+35. The Blade Itself by Joe Abercrombie
+36. The Name of the Wind by Patrick Rothfuss
+37. The Wise Man's Fear by Patrick Rothfuss
+38. The Belgariad by David Eddings
+39. The Malloreon by David Eddings
+40. The Elenium by David Eddings
+41. The Tamuli by David Eddings
+42. The Inheritance Cycle by Christopher Paolini
+43. The Bartimaeus Trilogy by Jonathan Stroud
+44. The Mortal Instruments by Cassandra Clare
+45. The Infernal Devices by Cassandra Clare
+46. The Dark Artifices by Cassandra Clare
+47. The Magisterium series by Holly Black and Cassandra Clare
+48. The Percy Jackson and the Olympians series by Rick Riordan
+49. The Heroes of Olympus series by Rick Riordan
+50. The Kane Chronicles by Rick Riordan

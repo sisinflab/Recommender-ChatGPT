@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter
+2. Twilight (series)
+3. The Hunger Games (series)
+4. The Chronicles of Narnia
+5. The Lord of the Rings
+6. Eragon
+7. Inkheart
+8. Uglies
+9. Rebel Angels
+10. The Time Traveler's Wife
+11. Romeo and Juliet
+12. The Princess Diaries
+13. The Hitchhiker's Guide to the Galaxy
+14. Angels & Demons
+15. The Watchmen
+16. The House of Thunder
+17. His Dark Materials
+18. Pretty Little Liars
+19. The Clique
+20. Dark-Hunter (series)
+21. Generation Dead
+22. Hush, Hush
+23. Fallen
+24. Chosen (A House of Night novel)
+25. Vampire Beach
+26. Haunted (The Mediator)
+27. Before I Fall
+28. Walk Two Moons
+29. The Last Song
+30. Catching Fire
+31. Blue Moon (Noel novel)
+32. Dark Visions
+33. Life as We Knew It
+34. This Present Darkness
+35. Speak
+36. Crank
+37. Cut
+38. Book of Revelation
+39. Guinness World Records
+40. Fantastic Mr Fox
+41. Wicked: The Life and Times of the Wicked Witch of the West
+42. The Outsiders
+43. The Crucible of Time
+44. War and Peace
+45. Doing It
+46. Shake Hands with the Devil
+47. Northern Lights
+48. Gone with the Wind
+49. Hourglass
+50. The Iliad

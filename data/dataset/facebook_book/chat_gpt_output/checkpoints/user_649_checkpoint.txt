@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Fault in Our Stars by John Green
+2. Paper Towns by John Green
+3. An Abundance of Katherines by John Green
+4. Turtles All the Way Down by John Green
+5. The Perks of Being a Wallflower by Stephen Chbosky
+6. V for Vendetta by Alan Moore
+7. The Sandman by Neil Gaiman
+8. American Gods by Neil Gaiman
+9. Neverwhere by Neil Gaiman
+10. Stardust by Neil Gaiman
+11. The Graveyard Book by Neil Gaiman
+12. Mort by Terry Pratchett
+13. Guards! Guards! by Terry Pratchett
+14. Small Gods by Terry Pratchett
+15. The Color of Magic by Terry Pratchett
+16. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+17. Ender's Game by Orson Scott Card
+18. Dune by Frank Herbert
+19. The Hunger Games by Suzanne Collins
+20. Catching Fire by Suzanne Collins
+21. Mockingjay by Suzanne Collins
+22. The Maze Runner by James Dashner
+23. The Giver by Lois Lowry
+24. The Road by Cormac McCarthy
+25. The Stand by Stephen King
+26. It by Stephen King
+27. The Shining by Stephen King
+28. The Dark Tower series by Stephen King
+29. The Girl with the Dragon Tattoo by Stieg Larsson
+30. The Da Vinci Code by Dan Brown
+31. Angels and Demons by Dan Brown
+32. The Name of the Wind by Patrick Rothfuss
+33. The Wise Man's Fear by Patrick Rothfuss
+34. The Hobbit by J.R.R. Tolkien
+35. The Lord of the Rings trilogy by J.R.R. Tolkien
+36. The Chronicles of Narnia by C.S. Lewis
+37. The Harry Potter series by J.K. Rowling
+38. The Girl on the Train by Paula Hawkins
+39. Gone Girl by Gillian Flynn
+40. The Silence of the Lambs by Thomas Harris
+41. Red Dragon by Thomas Harris
+42. The Bourne Identity by Robert Ludlum
+43. The Bourne Supremacy by Robert Ludlum
+44. The Bourne Ultimatum by Robert Ludlum
+45. The Girl Who Played with Fire by Stieg Larsson
+46. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+47. The Martian by Andy Weir
+48. Ready Player One by Ernest Cline
+49. The Handmaid's Tale by Margaret Atwood
+50. Brave New World by Aldous Huxley

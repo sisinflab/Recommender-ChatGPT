@@ -1,0 +1,54 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Wu-Tang Clan
+2. De La Soul
+3. Beastie Boys
+4. Gang Starr
+5. Lupe Fiasco
+6. Cypress Hill
+7. Kanye West
+8. Fatboy Slim
+9. Radiohead
+10. Nirvana
+11. Pearl Jam
+12. Metallica
+13. Iron Maiden
+14. Muse
+15. Pink Floyd
+16. Led Zeppelin
+17. The Beatles
+18. U2
+19. Coldplay
+20. Blur
+21. Arctic Monkeys
+22. Placebo
+23. The Killers
+24. Nine Inch Nails
+25. System of a Down
+26. Daft Punk
+27. Linkin Park
+28. Avenged Sevenfold
+29. My Chemical Romance
+30. Green Day
+31. The Cure
+32. Amy Winehouse
+33. Michael Jackson
+34. Beyoncé
+35. Lady Gaga
+36. Rihanna
+37. Shakira
+38. Madonna
+39. Christina Aguilera
+40. Katy Perry
+41. Taylor Swift
+42. Paramore
+43. Avril Lavigne
+44. Miley Cyrus
+45. Kelly Clarkson
+46. P!nk
+47. Black Eyed Peas
+48. All Time Low
+49. Glee Cast
+50. Kylie Minogue
+
+Note: The recommendations are based solely on the user's stated preferences and do not take into account any other factors such as genre, popularity, or similarity to the user's preferred artists.

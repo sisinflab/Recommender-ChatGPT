@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. The Smiths
+3. Elliott Smith
+4. Talking Heads
+5. Pavement
+6. Sufjan Stevens
+7. Grizzly Bear
+8. Arcade Fire
+9. Bright Eyes
+10. Morrissey
+11. Death Cab for Cutie
+12. Spoon
+13. Beirut
+14. Broken Social Scene
+15. Metric
+16. The Clash
+17. Weezer
+18. Kings of Leon
+19. The Smashing Pumpkins
+20. Death from Above 1979
+21. Band of Horses
+22. The Velvet Underground
+23. Air
+24. Bikini Kill
+25. Brand New
+26. Best Coast
+27. Dead Kennedys
+28. Coldplay
+29. Elvis Costello
+30. Tori Amos
+31. Ramones
+32. Patrick Wolf
+33. Nirvana
+34. Pearl Jam
+35. Led Zeppelin
+36. Metallica
+37. Iron Maiden
+38. Pink Floyd
+39. Muse
+40. U2
+41. Duran Duran
+42. Blur
+43. Arctic Monkeys
+44. Placebo
+45. The Killers
+46. Michael Jackson
+47. Björk
+48. Daft Punk
+49. Nine Inch Nails
+50. Linkin Park

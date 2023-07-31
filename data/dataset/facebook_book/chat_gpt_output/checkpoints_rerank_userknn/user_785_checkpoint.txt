@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Fear and Loathing in Las Vegas
+2. A Clockwork Orange
+3. Slaughterhouse-Five
+4. Cat's Cradle
+5. The Stranger (novel)
+6. Nineteen Eighty-Four
+7. Lord of the Flies
+8. The Bell Jar
+9. The Godfather (novel)
+10. Atonement (novel)
+11. The Catcher in the Rye
+12. Frankenstein
+13. Alice's Adventures in Wonderland
+14. Pride and Prejudice and Zombies
+15. The Vampire Lestat
+16. The Da Vinci Code
+17. The Lost Symbol
+18. The Alchemist (novel)
+19. The Celestine Prophecy
+20. The Walking Dead (comic book)
+21. Island (book)
+22. Divine Comedy
+23. Atlas Shrugged
+24. Another Roadside Attraction
+25. One Hundred Years of Solitude
+26. The Interpretation of Dreams
+27. Conversations with God
+28. The Cay
+29. Cabal (novella)
+30. Haunted (Palahniuk novel)
+31. Choke (novel)
+32. Rant (novel)
+33. Invisible Monsters by Chuck Palahniuk
+34. Geek Love by Katherine Dunn
+35. Siddhartha (novel) by Hermann Hesse
+36. A New Earth by Eckhart Tolle
+37. The Watchmen (novel)
+38. Why We Love Women
+39. Running with Scissors (memoir)
+40. The Perks of Being a Wallflower
+41. Peter and Wendy
+42. Book of Enoch
+43. Metaphysics of War
+44. She Walks in Beauty
+45. The Prince
+46. Guinness World Records
+47. I Hope They Serve Beer in Hell
+48. Paradise Lost
+49. The Marriage of Heaven and Hell
+50. Stranger than Fiction: True Stories

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hobbit by J.R.R. Tolkien
+2. The Silmarillion by J.R.R. Tolkien
+3. The Chronicles of Narnia by C.S. Lewis
+4. The Screwtape Letters by C.S. Lewis
+5. The Space Trilogy by C.S. Lewis
+6. The Dark Tower series by Stephen King
+7. The Stand by Stephen King
+8. The Shining by Stephen King
+9. The Talisman by Stephen King and Peter Straub
+10. The Eyes of the Dragon by Stephen King
+11. The Name of the Wind by Patrick Rothfuss
+12. The Wise Man's Fear by Patrick Rothfuss
+13. The Way of Kings by Brandon Sanderson
+14. Mistborn series by Brandon Sanderson
+15. Warbreaker by Brandon Sanderson
+16. The Stormlight Archive by Brandon Sanderson
+17. The Wheel of Time series by Robert Jordan
+18. The Malazan Book of the Fallen series by Steven Erikson
+19. The First Law trilogy by Joe Abercrombie
+20. The Kingkiller Chronicle by Patrick Rothfuss
+21. The Lies of Locke Lamora by Scott Lynch
+22. The Blade Itself by Joe Abercrombie
+23. The Black Company series by Glen Cook
+24. The Dresden Files series by Jim Butcher
+25. The Riyria Revelations series by Michael J. Sullivan
+26. The Farseer Trilogy by Robin Hobb
+27. The Liveship Traders Trilogy by Robin Hobb
+28. The Tawny Man Trilogy by Robin Hobb
+29. The Lightbringer series by Brent Weeks
+30. The Night Angel Trilogy by Brent Weeks
+31. The Powder Mage Trilogy by Brian McClellan
+32. The Broken Empire Trilogy by Mark Lawrence
+33. The Red Queen's War Trilogy by Mark Lawrence
+34. The Gentleman Bastard series by Scott Lynch
+35. The Codex Alera series by Jim Butcher
+36. The Inheritance Trilogy by N.K. Jemisin
+37. The Broken Earth Trilogy by N.K. Jemisin
+38. The Black Prism by Brent Weeks
+39. The Lightbringer series by Brent Weeks
+40. The Night Angel Trilogy by Brent Weeks
+41. The Powder Mage Trilogy by Brian McClellan
+42. The Broken Empire Trilogy by Mark Lawrence
+43. The Red Queen's War Trilogy by Mark Lawrence
+44. The Gentleman Bastard series by Scott Lynch
+45. The Codex Alera series by Jim Butcher
+46. The Inheritance Trilogy by N.K. Jemisin
+47. The Broken Earth Trilogy by N.K. Jemisin
+48. The Black Prism by Brent Weeks
+49. The Lightbringer series by Brent Weeks
+50. American Gods by Neil Gaiman

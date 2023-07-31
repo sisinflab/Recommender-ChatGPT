@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Immortal
+2. Burzum
+3. Marduk
+4. Behemoth
+5. Vader
+6. Eluveitie
+7. Cannibal Corpse
+8. Yann Tiersen
+9. Iron Maiden
+10. Metallica
+11. Nirvana
+12. Pearl Jam
+13. Led Zeppelin
+14. Michael Jackson
+15. The Beatles
+16. Muse
+17. Pink Floyd
+18. U2
+19. Radiohead
+20. System of a Down
+21. Nine Inch Nails
+22. Linkin Park
+23. Avenged Sevenfold
+24. My Chemical Romance
+25. Green Day
+26. The Killers
+27. Coldplay
+28. Arctic Monkeys
+29. Placebo
+30. Duran Duran
+31. Blur
+32. Madonna
+33. Lady Gaga
+34. Christina Aguilera
+35. Rihanna
+36. Beyoncé
+37. Shakira
+38. Katy Perry
+39. Taylor Swift
+40. Ke$ha
+41. Paramore
+42. Evanescence
+43. P!nk
+44. Kelly Clarkson
+45. Black Eyed Peas
+46. Daft Punk
+47. Kylie Minogue
+48. Miley Cyrus
+49. Amy Winehouse
+50. Björk

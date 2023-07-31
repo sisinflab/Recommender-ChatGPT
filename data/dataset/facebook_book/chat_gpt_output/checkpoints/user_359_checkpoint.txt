@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. 1984 by George Orwell
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Animal Farm by George Orwell
+7. The Lord of the Rings by J.R.R. Tolkien
+8. The Hobbit by J.R.R. Tolkien
+9. The Chronicles of Narnia by C.S. Lewis
+10. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+11. The Girl with the Dragon Tattoo by Stieg Larsson
+12. The Help by Kathryn Stockett
+13. The Kite Runner by Khaled Hosseini
+14. The Alchemist by Paulo Coelho
+15. The Secret Life of Bees by Sue Monk Kidd
+16. The Color Purple by Alice Walker
+17. The Book Thief by Markus Zusak
+18. The Fault in Our Stars by John Green
+19. The Maze Runner by James Dashner
+20. The Giver by Lois Lowry
+21. The Outsiders by S.E. Hinton
+22. The Perks of Being a Wallflower by Stephen Chbosky
+23. The Road by Cormac McCarthy
+24. The Stand by Stephen King
+25. The Shining by Stephen King
+26. The Silence of the Lambs by Thomas Harris
+27. The Bourne Identity by Robert Ludlum
+28. The Da Vinci Code by Dan Brown
+29. Angels and Demons by Dan Brown
+30. Inferno by Dan Brown
+31. Digital Fortress by Dan Brown
+32. The Lost Symbol by Dan Brown
+33. The Harry Potter series by J.K. Rowling
+34. The Twilight series by Stephenie Meyer
+35. The Maximum Ride series by James Patterson
+36. The Iliad by Homer
+37. The Odyssey by Homer
+38. The Divine Comedy by Dante Alighieri
+39. The Canterbury Tales by Geoffrey Chaucer
+40. The World Atlas of Wine by Hugh Johnson and Jancis Robinson
+41. The Bible (New Living Translation)
+42. The Quran
+43. The Bhagavad Gita
+44. The Tao Te Ching by Lao Tzu
+45. The Analects of Confucius
+46. The Art of War by Sun Tzu
+47. The Audacity of Hope by Barack Obama
+48. Dreams from My Father by Barack Obama
+49. The Autobiography of Malcolm X by Malcolm X and Alex Haley
+50. Roots: The Saga of an American Family by Alex Haley

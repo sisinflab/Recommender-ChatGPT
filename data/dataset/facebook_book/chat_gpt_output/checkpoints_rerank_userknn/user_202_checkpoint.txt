@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. Les Misérables by Victor Hugo
+3. To Kill a Mockingbird by Harper Lee
+4. The Count of Monte Cristo by Alexandre Dumas
+5. The Picture of Dorian Gray by Oscar Wilde
+6. Brave New World by Aldous Huxley
+7. Jane Eyre by Charlotte Bronte
+8. The Handmaid's Tale by Margaret Atwood
+9. Frankenstein by Mary Shelley
+10. Nineteen Eighty-Four by George Orwell
+11. Romeo and Juliet by William Shakespeare
+12. The Bell Jar by Sylvia Plath
+13. A Separate Peace by John Knowles
+14. The Catcher in the Rye by J.D. Salinger
+15. The Princess Bride by William Goldman
+16. The Red Tent by Anita Diamant
+17. Inherit the Wind by Jerome Lawrence and Robert E. Lee
+18. Macbeth by William Shakespeare
+19. The Chosen by Chaim Potok
+20. The Last Lecture by Randy Pausch
+21. Tuesdays with Morrie by Mitch Albom
+22. The Man Who Mistook His Wife for a Hat by Oliver Sacks
+23. Of Mice and Men by John Steinbeck
+24. Siddhartha by Hermann Hesse
+25. The Hatchet by Gary Paulsen
+26. Lord of the Flies by William Golding
+27. Great Expectations by Charles Dickens
+28. The Crucible of Time by John Brunner
+29. Through the Looking-Glass by Lewis Carroll
+30. Candide by Voltaire
+31. The Iliad by Homer
+32. The Zombie Survival Guide by Max Brooks
+33. A Brief History of Time by Stephen Hawking
+34. Cosmos by Carl Sagan
+35. Doctrine and Covenants by The Church of Jesus Christ of Latter-day Saints
+36. Hop on Pop by Dr. Seuss
+37. Ways to Live Forever by Sally Nicholls
+38. Boy Meets Boy by David Levithan
+39. Adventures of Huckleberry Finn by Mark Twain
+40. Quidditch Through the Ages by J.K. Rowling
+41. Fallen by Lauren Kate
+42. City of Ashes by Cassandra Clare
+43. Twilight by Stephenie Meyer
+44. Eldest by Christopher Paolini
+45. Brisingr by Christopher Paolini
+46. Eagle Strike by Anthony Horowitz
+47. How the García Girls Lost Their Accents by Julia Alvarez
+48. Speak by Laurie Halse Anderson
+49. In the Time of the Butterflies by Julia Alvarez
+50. The Chicago Manual of Style by The University of Chicago Press

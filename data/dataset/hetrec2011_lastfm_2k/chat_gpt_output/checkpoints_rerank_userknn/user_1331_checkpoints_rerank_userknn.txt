@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Led Zeppelin
+2. The Beatles
+3. Pink Floyd
+4. The Who
+5. Bob Dylan
+6. Caetano Veloso
+7. The Smashing Pumpkins
+8. Dream Theater
+9. Radiohead
+10. The Velvet Underground
+11. The Stooges
+12. Rush
+13. The Mars Volta
+14. Blackfield
+15. Anathema
+16. Opeth
+17. Katatonia
+18. Pain of Salvation
+19. Little Joy
+20. Kings of Convenience
+21. Feist
+22. Matt & Kim
+23. The Last Shadow Puppets
+24. Franz Ferdinand
+25. The Strokes
+26. Arctic Monkeys
+27. Queens of the Stone Age
+28. The White Stripes
+29. The Hives
+30. AC/DC
+31. Motörhead
+32. Marcelo Camelo
+33. Chico Buarque
+34. Caetano Veloso
+35. Os Mutantes
+36. Los Hermanos
+37. Rilo Kiley
+38. Regina Spektor
+39. Emilie Autumn
+40. Cyndi Lauper
+41. ABBA
+42. System of a Down
+43. Korn
+44. Fall Out Boy
+45. Paramore
+46. Maria Gadú
+47. Joss Stone
+48. Capital Inicial
+49. KT Tunstall
+50. Cat Power

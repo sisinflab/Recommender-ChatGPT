@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter by J.K. Rowling
+2. The Hunger Games by Suzanne Collins
+3. Catching Fire by Suzanne Collins
+4. The Lord of the Rings by J.R.R. Tolkien
+5. The Hobbit by J.R.R. Tolkien
+6. Eragon by Christopher Paolini
+7. Inkheart by Cornelia Funke
+8. A Thousand Splendid Suns by Khaled Hosseini
+9. The Kite Runner by Khaled Hosseini
+10. The Mists of Avalon by Marion Zimmer Bradley
+11. The Secrets of the Immortal Nicholas Flamel by Michael Scott
+12. The Name of this Book is Secret by Pseudonymous Bosch
+13. The Sweet Far Thing by Libba Bray
+14. A Great and Terrible Beauty by Libba Bray
+15. Looking for Alaska by John Green
+16. Paper Towns by John Green
+17. Will Grayson, Will Grayson by John Green and David Levithan
+18. The Female Brain by Louann Brizendine
+19. Nineteen Eighty-Four by George Orwell
+20. The Master and Margarita by Mikhail Bulgakov
+21. The Alchemist by Paulo Coelho
+22. The Prince by Niccolo Machiavelli
+23. Zen and the Art of Motorcycle Maintenance by Robert M. Pirsig
+24. The Call of the Wild by Jack London
+25. The Land of Elyon by Patrick Carman
+26. Fablehaven by Brandon Mull
+27. The Dark Elf Trilogy by R.A. Salvatore
+28. The Subtle Knife by Philip Pullman
+29. The Amber Spyglass by Philip Pullman
+30. Touching Spirit Bear by Ben Mikaelsen
+31. Fire by Kristin Cashore
+32. Magic Study by Maria V. Snyder
+33. Burned by Ellen Hopkins
+34. Impulse Economy by Gary Schwartz
+35. The Visitation by Frank Peretti
+36. Red by Ted Dekker
+37. Beast by Peter Benchley
+38. The Pirate by Harold Robbins
+39. Maximum City by Suketu Mehta
+40. Unwind by Neal Shusterman
+41. Hot Gimmick by Miki Aihara
+42. Eat, Pray, Love by Elizabeth Gilbert
+43. Crank by Ellen Hopkins
+44. Three by Ted Dekker
+45. The Notebook by Nicholas Sparks
+46. My Sister's Keeper by Jodi Picoult
+47. The Luxe by Anna Godbersen
+48. Pretties by Scott Westerfeld
+49. Angels & Demons by Dan Brown
+50. City of Ashes by Cassandra Clare

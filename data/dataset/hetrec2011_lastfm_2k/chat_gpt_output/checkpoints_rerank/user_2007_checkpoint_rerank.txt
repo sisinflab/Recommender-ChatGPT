@@ -1,0 +1,54 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Pearl Jam
+2. Metallica
+3. The Beatles
+4. Black Sabbath
+5. Alice in Chains
+6. Soundgarden
+7. Slayer
+8. Faith No More
+9. NOFX
+10. Bad Religion
+11. Melvins
+12. Black Label Society
+13. Johann Sebastian Bach
+14. Napalm Death
+15. Fantômas
+16. Pendulum
+17. Eels
+18. Weezer
+19. Beastie Boys
+20. Radiohead
+21. Nirvana
+22. Iron Maiden
+23. Led Zeppelin
+24. Michael Jackson
+25. System of a Down
+26. Daft Punk
+27. Nine Inch Nails
+28. Linkin Park
+29. Avenged Sevenfold
+30. My Chemical Romance
+31. Green Day
+32. The Cure
+33. Muse
+34. Pink Floyd
+35. U2
+36. 30 Seconds to Mars
+37. Coldplay
+38. Blur
+39. Arctic Monkeys
+40. Placebo
+41. The Killers
+42. Amy Winehouse
+43. Björk
+44. Kelly Clarkson
+45. P!nk
+46. Lady Gaga
+47. Rihanna
+48. Katy Perry
+49. Christina Aguilera
+50. Shakira
+
+Note: The artists that were already in the user's preferences were not included in the recommendations.

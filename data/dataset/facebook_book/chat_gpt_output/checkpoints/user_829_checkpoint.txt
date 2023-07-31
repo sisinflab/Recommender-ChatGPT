@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Catcher in the Rye by J.D. Salinger
+3. Pride and Prejudice by Jane Austen
+4. Animal Farm by George Orwell
+5. The Hobbit by J.R.R. Tolkien
+6. The Picture of Dorian Gray by Oscar Wilde
+7. The Bell Jar by Sylvia Plath
+8. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+9. The Handmaid's Tale by Margaret Atwood
+10. The Road by Cormac McCarthy
+11. The Hunger Games by Suzanne Collins
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Da Vinci Code by Dan Brown
+14. The Kite Runner by Khaled Hosseini
+15. The Help by Kathryn Stockett
+16. The Fault in Our Stars by John Green
+17. The Book Thief by Markus Zusak
+18. The Alchemist by Paulo Coelho
+19. The Secret Life of Bees by Sue Monk Kidd
+20. The Lovely Bones by Alice Sebold
+21. The Giver by Lois Lowry
+22. The Maze Runner by James Dashner
+23. The Chronicles of Narnia by C.S. Lewis
+24. The Outsiders by S.E. Hinton
+25. The Color Purple by Alice Walker
+26. The Shining by Stephen King
+27. The Stand by Stephen King
+28. The Silence of the Lambs by Thomas Harris
+29. The Bourne Identity by Robert Ludlum
+30. The Girl on the Train by Paula Hawkins
+31. The Martian by Andy Weir
+32. The Help by Kathryn Stockett
+33. The Road by Cormac McCarthy
+34. The Hunger Games by Suzanne Collins
+35. The Girl with the Dragon Tattoo by Stieg Larsson
+36. The Da Vinci Code by Dan Brown
+37. The Kite Runner by Khaled Hosseini
+38. The Help by Kathryn Stockett
+39. The Fault in Our Stars by John Green
+40. The Book Thief by Markus Zusak
+41. The Alchemist by Paulo Coelho
+42. The Secret Life of Bees by Sue Monk Kidd
+43. The Lovely Bones by Alice Sebold
+44. The Giver by Lois Lowry
+45. The Maze Runner by James Dashner
+46. The Chronicles of Narnia by C.S. Lewis
+47. The Outsiders by S.E. Hinton
+48. The Color Purple by Alice Walker
+49. The Shining by Stephen King
+50. The Stand by Stephen King

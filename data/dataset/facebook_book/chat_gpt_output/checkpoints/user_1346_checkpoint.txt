@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Angels and Demons by Dan Brown
+2. The Lost Symbol by Dan Brown
+3. Digital Fortress by Dan Brown
+4. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+5. The Girl in the Spider's Web by David Lagercrantz
+6. The Shadow of the Wind by Carlos Ruiz Zafón
+7. The Name of the Rose by Umberto Eco
+8. The Pillars of the Earth by Ken Follett
+9. The Nightingale by Kristin Hannah
+10. The Help by Kathryn Stockett
+11. The Book Thief by Markus Zusak
+12. The Fault in Our Stars by John Green
+13. The Maze Runner by James Dashner
+14. The Scorch Trials by James Dashner
+15. The Death Cure by James Dashner
+16. The Giver by Lois Lowry
+17. The Hunger Games Trilogy Boxset by Suzanne Collins
+18. The Lord of the Rings Trilogy by J.R.R. Tolkien
+19. The Hobbit by J.R.R. Tolkien
+20. The Chronicles of Narnia Box Set by C.S. Lewis
+21. The Catcher in the Rye by J.D. Salinger
+22. To Kill a Mockingbird by Harper Lee
+23. 1984 by George Orwell
+24. Animal Farm by George Orwell
+25. Brave New World by Aldous Huxley
+26. Fahrenheit 451 by Ray Bradbury
+27. The Martian by Andy Weir
+28. Ready Player One by Ernest Cline
+29. Ender's Game by Orson Scott Card
+30. Dune by Frank Herbert
+31. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+32. The Time Traveler's Wife by Audrey Niffenegger
+33. The Lovely Bones by Alice Sebold
+34. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+35. Life of Pi by Yann Martel
+36. The Road by Cormac McCarthy
+37. The Handmaid's Tale by Margaret Atwood
+38. The Stand by Stephen King
+39. It by Stephen King
+40. The Shining by Stephen King
+41. Misery by Stephen King
+42. The Silence of the Lambs by Thomas Harris
+43. Red Dragon by Thomas Harris
+44. Hannibal by Thomas Harris
+45. The Bourne Identity by Robert Ludlum
+46. The Bourne Supremacy by Robert Ludlum
+47. The Bourne Ultimatum by Robert Ludlum
+48. The Da Vinci Code Illustrated Screenplay by Dan Brown
+49. The Alchemist: A Graphic Novel by Paulo Coelho
+50. Intensity: A Novel by Dean Koontz

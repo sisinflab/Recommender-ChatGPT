@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Chronicles of Narnia by C.S. Lewis
+2. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+3. The Catcher in the Rye by J.D. Salinger
+4. The Giver by Lois Lowry
+5. The Alchemist by Paulo Coelho
+6. The Hunger Games by Suzanne Collins
+7. To Kill a Mockingbird by Harper Lee
+8. The Da Vinci Code by Dan Brown
+9. The Girl with the Dragon Tattoo by Stieg Larsson
+10. The Name of the Wind by Patrick Rothfuss
+11. The Picture of Dorian Gray by Oscar Wilde
+12. The Great Gatsby by F. Scott Fitzgerald
+13. The Secret History by Donna Tartt
+14. The Shadow of the Wind by Carlos Ruiz Zafón
+15. The Road by Cormac McCarthy
+16. The Book Thief by Markus Zusak
+17. The Time Traveler's Wife by Audrey Niffenegger
+18. The Handmaid's Tale by Margaret Atwood
+19. The Stand by Stephen King
+20. The Shining by Stephen King
+21. The Silence of the Lambs by Thomas Harris
+22. The Lovely Bones by Alice Sebold
+23. The Help by Kathryn Stockett
+24. The Fault in Our Stars by John Green
+25. The Maze Runner by James Dashner
+26. The Bourne Identity by Robert Ludlum
+27. The Bourne Supremacy by Robert Ludlum
+28. The Bourne Ultimatum by Robert Ludlum
+29. The Girl on the Train by Paula Hawkins
+30. The Martian by Andy Weir
+31. The Revenant by Michael Punke
+32. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+33. The Girl Who Played with Fire by Stieg Larsson
+34. The Girl in the Spider's Web by David Lagercrantz
+35. The Nightingale by Kristin Hannah
+36. The Help by Kathryn Stockett
+37. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+38. The Kite Runner by Khaled Hosseini
+39. The Pillars of the Earth by Ken Follett
+40. The Girl with All the Gifts by M.R. Carey
+41. The Handmaid's Tale by Margaret Atwood
+42. The Road by Cormac McCarthy
+43. The Book Thief by Markus Zusak
+44. The Time Traveler's Wife by Audrey Niffenegger
+45. The Help by Kathryn Stockett
+46. The Fault in Our Stars by John Green
+47. The Maze Runner by James Dashner
+48. The Bourne Identity by Robert Ludlum
+49. The Bourne Supremacy by Robert Ludl

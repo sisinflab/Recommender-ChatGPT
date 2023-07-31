@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. 1984 by George Orwell
+3. To Kill a Mockingbird by Harper Lee
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Animal Farm by George Orwell
+6. Brave New World by Aldous Huxley
+7. Lord of the Flies by William Golding
+8. The Hobbit by J.R.R. Tolkien
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Chronicles of Narnia by C.S. Lewis
+11. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+12. The Hunger Games by Suzanne Collins
+13. The Da Vinci Code by Dan Brown
+14. Angels and Demons by Dan Brown
+15. The Girl with the Dragon Tattoo by Stieg Larsson
+16. The Girl Who Played with Fire by Stieg Larsson
+17. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+18. The Shining by Stephen King
+19. The Stand by Stephen King
+20. It by Stephen King
+21. The Silence of the Lambs by Thomas Harris
+22. Red Dragon by Thomas Harris
+23. Hannibal by Thomas Harris
+24. The Bourne Identity by Robert Ludlum
+25. The Bourne Supremacy by Robert Ludlum
+26. The Bourne Ultimatum by Robert Ludlum
+27. The Firm by John Grisham
+28. The Pelican Brief by John Grisham
+29. A Time to Kill by John Grisham
+30. The Andromeda Strain by Michael Crichton
+31. Jurassic Park by Michael Crichton
+32. Congo by Michael Crichton
+33. The Lost World by Michael Crichton
+34. The Martian by Andy Weir
+35. Ready Player One by Ernest Cline
+36. The Maze Runner by James Dashner
+37. Divergent by Veronica Roth
+38. The Fault in Our Stars by John Green
+39. Paper Towns by John Green
+40. Looking for Alaska by John Green
+41. The Perks of Being a Wallflower by Stephen Chbosky
+42. The Book Thief by Markus Zusak
+43. The Kite Runner by Khaled Hosseini
+44. A Thousand Splendid Suns by Khaled Hosseini
+45. The Help by Kathryn Stockett
+46. The Secret Life of Bees by Sue Monk Kidd
+47. The Color Purple by Alice Walker
+48. The Joy Luck Club by Amy Tan
+49. The God of Small Things by Arundhati Roy
+50. Life of Pi by Yann Martel

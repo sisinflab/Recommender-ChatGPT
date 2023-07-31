@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. System of a Down
+2. Metallica
+3. Iron Maiden
+4. Black Sabbath
+5. Guns N' Roses
+6. Nirvana
+7. Linkin Park
+8. Killswitch Engage
+9. Mastodon
+10. Black Label Society
+11. Blind Guardian
+12. Scars on Broadway
+13. Rhapsody of Fire
+14. Stratovarius
+15. Ayreon
+16. Helloween
+17. Edguy
+18. Sonata Arctica
+19. Foo Fighters
+20. P.O.D.
+21. Kamelot
+22. Paramore
+23. Bush
+24. Dashboard Confessional
+25. Iced Earth
+26. Stevie Ray Vaughan
+27. Red Hot Chili Peppers
+28. Trapt
+29. Static-X
+30. Avenged Sevenfold
+31. My Chemical Romance
+32. Green Day
+33. The Cure
+34. Muse
+35. Pink Floyd
+36. Led Zeppelin
+37. Michael Jackson
+38. Pearl Jam
+39. Nine Inch Nails
+40. Daft Punk
+41. Arctic Monkeys
+42. Placebo
+43. The Killers
+44. U2
+45. Radiohead
+46. Coldplay
+47. Blur
+48. Duran Duran
+49. a-ha
+50. Björk

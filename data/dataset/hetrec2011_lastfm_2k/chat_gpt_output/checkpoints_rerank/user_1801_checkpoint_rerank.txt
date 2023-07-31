@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Boards of Canada
+2. Plaid
+3. Squarepusher
+4. Venetian Snares
+5. Autechre
+6. Clark
+7. Tycho
+8. Jon Hopkins
+9. Bonobo
+10. Ulrich Schnauss
+11. Caribou
+12. Apparat
+13. Röyksopp
+14. Gold Panda
+15. Nosaj Thing
+16. Com Truise
+17. Bibio
+18. The Album Leaf
+19. Helios
+20. Emancipator
+21. Little People
+22. The Field
+23. Baths
+24. Lusine
+25. Telefon Tel Aviv
+26. Four Tet
+27. The Cinematic Orchestra
+28. Lamb
+29. Air
+30. Kettel
+31. The American Dollar
+32. Ratatat
+33. Amon Tobin
+34. Aphex Twin
+35. The Flashbulb
+36. Radiohead
+37. Pink Floyd
+38. Muse
+39. Led Zeppelin
+40. Nirvana
+41. Metallica
+42. Iron Maiden
+43. Pearl Jam
+44. Nine Inch Nails
+45. Daft Punk
+46. Linkin Park
+47. The Killers
+48. Coldplay
+49. Arctic Monkeys
+50. Placebo

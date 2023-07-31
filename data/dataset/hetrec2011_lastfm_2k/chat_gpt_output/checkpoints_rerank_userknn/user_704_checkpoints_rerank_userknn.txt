@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Jay-Z
+2. Eminem
+3. Lil' Wayne
+4. Nicki Minaj
+5. The Game
+6. T.I.
+7. Snoop Dogg
+8. Chris Brown
+9. Katy Perry
+10. Lady Gaga
+11. Ke$ha
+12. P!nk
+13. Avril Lavigne
+14. B.o.B
+15. 2Pac
+16. Notorious B.I.G.
+17. Nas
+18. Lupe Fiasco
+19. Kanye West
+20. Ghostface Killah
+21. Busta Rhymes
+22. Mos Def
+23. Dr. Dre
+24. Rihanna
+25. David Guetta
+26. Kid Cudi
+27. Slipknot
+28. Avenged Sevenfold
+29. Megadeth
+30. Linkin Park
+31. The Beatles
+32. The Who
+33. Led Zeppelin
+34. AC/DC
+35. Muse
+36. Bullet for My Valentine
+37. Stone Sour
+38. Hollywood Undead
+39. Third Eye Blind
+40. Van Halen
+41. Ice Cube
+42. Gang Starr
+43. The Police
+44. BoA
+45. Sunrise Avenue
+46. All Time Low
+47. Girlicious
+48. Jesse McCartney
+49. The Pretty Reckless
+50. Leona Lewis

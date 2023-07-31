@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Nine Inch Nails
+2. Muse
+3. Linkin Park
+4. System of a Down
+5. Evanescence
+6. Paramore
+7. My Chemical Romance
+8. Green Day
+9. Fall Out Boy
+10. Bring Me The Horizon
+11. Bullet For My Valentine
+12. Slipknot
+13. Marilyn Manson
+14. Rammstein
+15. Korn
+16. Disturbed
+17. Papa Roach
+18. Three Days Grace
+19. Breaking Benjamin
+20. Avenged Sevenfold
+21. Stone Sour
+22. Halestorm
+23. In This Moment
+24. Lacuna Coil
+25. Within Temptation
+26. Nightwish
+27. Epica
+28. Delain
+29. Amaranthe
+30. Arch Enemy
+31. Children of Bodom
+32. Lamb of God
+33. Slayer
+34. Metallica
+35. Iron Maiden
+36. Judas Priest
+37. Black Sabbath
+38. Ozzy Osbourne
+39. AC/DC
+40. Guns N' Roses
+41. Aerosmith
+42. Queen
+43. Led Zeppelin
+44. Pink Floyd
+45. The Beatles
+46. Nirvana
+47. Pearl Jam
+48. Soundgarden
+49. Alice in Chains
+50. Stone Temple Pilots

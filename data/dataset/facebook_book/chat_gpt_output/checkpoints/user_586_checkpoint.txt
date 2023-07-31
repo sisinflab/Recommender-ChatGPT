@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. 1984 by George Orwell
+3. To Kill a Mockingbird by Harper Lee
+4. Pride and Prejudice by Jane Austen
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Animal Farm by George Orwell
+7. The Picture of Dorian Gray by Oscar Wilde
+8. Wuthering Heights by Emily Bronte
+9. Jane Eyre by Charlotte Bronte
+10. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+11. The Count of Monte Cristo by Alexandre Dumas
+12. Les Miserables by Victor Hugo
+13. The Brothers Karamazov by Fyodor Dostoevsky
+14. Crime and Punishment by Fyodor Dostoevsky
+15. The Odyssey by Homer
+16. The Iliad by Homer
+17. The Divine Comedy by Dante Alighieri
+18. One Hundred Years of Solitude by Gabriel Garcia Marquez
+19. The Stranger by Albert Camus
+20. The Trial by Franz Kafka
+21. The Metamorphosis by Franz Kafka
+22. The Sun Also Rises by Ernest Hemingway
+23. For Whom the Bell Tolls by Ernest Hemingway
+24. The Old Man and the Sea by Ernest Hemingway
+25. The Sound and the Fury by William Faulkner
+26. As I Lay Dying by William Faulkner
+27. The Grapes of Wrath by John Steinbeck
+28. East of Eden by John Steinbeck
+29. Of Mice and Men by John Steinbeck
+30. The Bell Jar by Sylvia Plath
+31. The Handmaid's Tale by Margaret Atwood
+32. Brave New World by Aldous Huxley
+33. Heart of Darkness by Joseph Conrad
+34. Lord Jim by Joseph Conrad
+35. The Secret Agent by Joseph Conrad
+36. The Adventures of Augie March by Saul Bellow
+37. Herzog by Saul Bellow
+38. Slaughterhouse-Five by Kurt Vonnegut
+39. Cat's Cradle by Kurt Vonnegut
+40. Breakfast of Champions by Kurt Vonnegut
+41. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+42. The Name of the Rose by Umberto Eco
+43. The Shadow of the Wind by Carlos Ruiz Zafon
+44. The Book Thief by Markus Zusak
+45. The Kite Runner by Khaled Hosseini
+46. A Thousand Splendid Suns by Khaled Hosseini
+47. The Alchemist by Paulo Coelho
+48. The Picture of Dorian Gray by Oscar Wilde
+49. The Importance of Being Earnest by Oscar Wilde
+50. The Strange Case of Dr. J

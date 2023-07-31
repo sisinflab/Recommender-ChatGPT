@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. To Kill a Mockingbird by Harper Lee
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Great Gatsby by F. Scott Fitzgerald
+7. The Grapes of Wrath by John Steinbeck
+8. Heart of Darkness by Joseph Conrad
+9. The Sun Also Rises by Ernest Hemingway
+10. The Old Man and the Sea by Ernest Hemingway
+11. The Sound and the Fury by William Faulkner
+12. As I Lay Dying by William Faulkner
+13. Beloved by Toni Morrison
+14. The Color Purple by Alice Walker
+15. Their Eyes Were Watching God by Zora Neale Hurston
+16. The Bell Jar by Sylvia Plath
+17. A Clockwork Orange by Anthony Burgess
+18. The Stranger by Albert Camus
+19. The Trial by Franz Kafka
+20. The Metamorphosis by Franz Kafka
+21. Lolita by Vladimir Nabokov
+22. The Brothers Karamazov by Fyodor Dostoyevsky
+23. Anna Karenina by Leo Tolstoy
+24. War and Peace by Leo Tolstoy
+25. Crime and Punishment by Fyodor Dostoyevsky
+26. The Idiot by Fyodor Dostoyevsky
+27. The Picture of Dorian Gray by Oscar Wilde
+28. Dracula by Bram Stoker
+29. Frankenstein by Mary Shelley
+30. Wuthering Heights by Emily Bronte
+31. Jane Eyre by Charlotte Bronte
+32. Pride and Prejudice by Jane Austen
+33. Sense and Sensibility by Jane Austen
+34. Emma by Jane Austen
+35. Persuasion by Jane Austen
+36. The Adventures of Huckleberry Finn by Mark Twain
+37. The Adventures of Tom Sawyer by Mark Twain
+38. Moby-Dick by Herman Melville
+39. The Scarlet Letter by Nathaniel Hawthorne
+40. The Count of Monte Cristo by Alexandre Dumas
+41. Les Miserables by Victor Hugo
+42. The Three Musketeers by Alexandre Dumas
+43. The Iliad by Homer
+44. The Odyssey by Homer
+45. Beowulf by Unknown
+46. Paradise Lost by John Milton
+47. Don Quixote by Miguel de Cervantes
+48. The Canterbury Tales by Geoffrey Chaucer
+49. The Divine Comedy by Dante Alighieri
+50. The Inferno by Dante Alighieri

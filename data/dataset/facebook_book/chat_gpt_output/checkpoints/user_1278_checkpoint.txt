@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Fight Club by Chuck Palahniuk
+2. Brave New World by Aldous Huxley
+3. 1984 by George Orwell
+4. Slaughterhouse-Five by Kurt Vonnegut
+5. The Road by Cormac McCarthy
+6. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+7. The Bell Jar by Sylvia Plath
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Great Gatsby by F. Scott Fitzgerald
+10. To Kill a Mockingbird by Harper Lee
+11. One Hundred Years of Solitude by Gabriel Garcia Marquez
+12. The Stranger by Albert Camus
+13. The Sun Also Rises by Ernest Hemingway
+14. The Handmaid's Tale by Margaret Atwood
+15. The Shining by Stephen King
+16. The Stand by Stephen King
+17. The Hobbit by J.R.R. Tolkien
+18. The Lord of the Rings by J.R.R. Tolkien
+19. The Catcher in the Rye by J.D. Salinger
+20. The Girl with the Dragon Tattoo by Stieg Larsson
+21. The Hunger Games by Suzanne Collins
+22. The Da Vinci Code by Dan Brown
+23. Angels and Demons by Dan Brown
+24. Inferno by Dan Brown
+25. The Lost Symbol by Dan Brown
+26. The Lovely Bones by Alice Sebold
+27. The Time Traveler's Wife by Audrey Niffenegger
+28. The Help by Kathryn Stockett
+29. The Kite Runner by Khaled Hosseini
+30. Life of Pi by Yann Martel
+31. The Road Less Traveled by M. Scott Peck
+32. The Alchemist by Paulo Coelho
+33. The Secret Life of Bees by Sue Monk Kidd
+34. The Poisonwood Bible by Barbara Kingsolver
+35. The Color Purple by Alice Walker
+36. The Joy Luck Club by Amy Tan
+37. The God of Small Things by Arundhati Roy
+38. The Namesake by Jhumpa Lahiri
+39. The Brief Wondrous Life of Oscar Wao by Junot Diaz
+40. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+41. The Corrections by Jonathan Franzen
+42. The Road to Character by David Brooks
+43. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+44. The Glass Castle by Jeannette Walls
+45. The Devil in the White City by Erik Larson
+46. The Omnivore's Dilemma by Michael Pollan
+47. The Power of Now by Eckhart Tolle
+48. The 7 Habits of Highly Effective People by Stephen Covey
+49. The Lean Startup by Eric Ries
+50. American Gods by Neil Gaiman

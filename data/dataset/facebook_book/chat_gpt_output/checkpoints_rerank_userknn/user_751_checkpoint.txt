@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Harry Potter
+2. To Kill a Mockingbird
+3. The Da Vinci Code
+4. The Lord of the Rings
+5. The Hobbit
+6. Frankenstein
+7. Jane Eyre
+8. Les Misérables
+9. The Chronicles of Narnia: Prince Caspian
+10. The Giver
+11. Memoirs of a Geisha
+12. The Awakening (Chopin novel)
+13. The Sound and the Fury
+14. Nineteen Eighty-Four
+15. Tuesdays with Morrie
+16. The Autobiography of Malcolm X
+17. The Five People You Meet in Heaven
+18. Inheritance (novel)
+19. Brisingr
+20. The Tipping Point
+21. Grimms' Fairy Tales
+22. A Midsummer Night's Dream
+23. The Winter's Tale
+24. Henry V (play)
+25. The Sandman (book)
+26. Watchmen
+27. The Wind-Up Bird Chronicle
+28. Dandelion Wine
+29. Lord of the Flies
+30. The Hamlet
+31. The Onion Girl
+32. Phantoms (novel)
+33. The Forest of Hands and Teeth
+34. Sarah's Key (novel)
+35. Stargirl (novel)
+36. Speak (novel)
+37. Nineteen Minutes
+38. Mockingjay
+39. The Immortal Life of Henrietta Lacks
+40. The Kite Runner
+41. A Thousand Splendid Suns
+42. Gone with the Wind
+43. All Quiet on the Western Front
+44. The Curious Incident of the Dog in the Night-Time
+45. Stones from the River
+46. The Pearl (novel)
+47. The Girl Who Played with Fire
+48. Duma Key
+49. Olive Kitteridge
+50. Black Dagger Brotherhood

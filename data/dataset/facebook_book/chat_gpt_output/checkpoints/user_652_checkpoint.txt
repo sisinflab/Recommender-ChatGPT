@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Brave New World by Aldous Huxley
+2. One Hundred Years of Solitude by Gabriel Garcia Marquez
+3. The Catcher in the Rye by J.D. Salinger
+4. Slaughterhouse-Five by Kurt Vonnegut
+5. The Bell Jar by Sylvia Plath
+6. To Kill a Mockingbird by Harper Lee
+7. The Great Gatsby by F. Scott Fitzgerald
+8. Animal Farm by George Orwell
+9. Catch-22 by Joseph Heller
+10. The Stranger by Albert Camus
+11. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+12. The Picture of Dorian Gray by Oscar Wilde
+13. The Road by Cormac McCarthy
+14. The Sun Also Rises by Ernest Hemingway
+15. A Clockwork Orange by Anthony Burgess
+16. The Brothers Karamazov by Fyodor Dostoevsky
+17. Crime and Punishment by Fyodor Dostoevsky
+18. Heart of Darkness by Joseph Conrad
+19. The Trial by Franz Kafka
+20. The Metamorphosis by Franz Kafka
+21. The Sound and the Fury by William Faulkner
+22. The Old Man and the Sea by Ernest Hemingway
+23. The Grapes of Wrath by John Steinbeck
+24. The Lord of the Rings by J.R.R. Tolkien
+25. The Hobbit by J.R.R. Tolkien
+26. The Chronicles of Narnia by C.S. Lewis
+27. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+28. The Shining by Stephen King
+29. The Stand by Stephen King
+30. The Dark Tower series by Stephen King
+31. The Girl with the Dragon Tattoo by Stieg Larsson
+32. The Da Vinci Code by Dan Brown
+33. The Hunger Games by Suzanne Collins
+34. The Road to Serfdom by Friedrich Hayek
+35. The Wealth of Nations by Adam Smith
+36. The Communist Manifesto by Karl Marx and Friedrich Engels
+37. The Prince by Niccolo Machiavelli
+38. The Art of War by Sun Tzu
+39. The Tao Te Ching by Lao Tzu
+40. The Bible
+41. The Quran
+42. The Bhagavad Gita
+43. The Book of Mormon
+44. The Analects of Confucius
+45. The Republic by Plato
+46. The Symposium by Plato
+47. The Divine Comedy by Dante Alighieri
+48. The Canterbury Tales by Geoffrey Chaucer
+49. The Iliad by Homer
+50. The Odyssey by Homer

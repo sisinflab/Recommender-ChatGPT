@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Electric Kool-Aid Acid Test by Tom Wolfe
+2. Naked Lunch by William S. Burroughs
+3. The Rum Diary by Hunter S. Thompson
+4. The Crying of Lot 49 by Thomas Pynchon
+5. The Dharma Bums by Jack Kerouac
+6. The Doors of Perception by Aldous Huxley
+7. The Naked and the Dead by Norman Mailer
+8. The Catcher in the Rye by J.D. Salinger
+9. On the Road by Jack Kerouac
+10. One Flew Over the Cuckoo's Nest by Ken Kesey
+11. The Stranger by Albert Camus
+12. The Bell Jar by Sylvia Plath
+13. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+14. The Great Gatsby by F. Scott Fitzgerald
+15. The Sun Also Rises by Ernest Hemingway
+16. The Picture of Dorian Gray by Oscar Wilde
+17. The Shining by Stephen King
+18. The Stand by Stephen King
+19. The Road by Cormac McCarthy
+20. The Hunger Games by Suzanne Collins
+21. The Girl with the Dragon Tattoo by Stieg Larsson
+22. The Da Vinci Code by Dan Brown
+23. The Bourne Identity by Robert Ludlum
+24. The Silence of the Lambs by Thomas Harris
+25. The Godfather by Mario Puzo
+26. The Catcher Was a Spy by Nicholas Dawidoff
+27. The Spy Who Came in from the Cold by John le Carré
+28. The Day of the Jackal by Frederick Forsyth
+29. The Andromeda Strain by Michael Crichton
+30. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+31. The Hobbit by J.R.R. Tolkien
+32. The Lord of the Rings by J.R.R. Tolkien
+33. The Chronicles of Narnia by C.S. Lewis
+34. The Harry Potter series by J.K. Rowling
+35. The Hunger Games series by Suzanne Collins
+36. The Maze Runner series by James Dashner
+37. The Divergent series by Veronica Roth
+38. The Fault in Our Stars by John Green
+39. The Perks of Being a Wallflower by Stephen Chbosky
+40. The Lovely Bones by Alice Sebold
+41. The Help by Kathryn Stockett
+42. The Kite Runner by Khaled Hosseini
+43. The Book Thief by Markus Zusak
+44. The Alchemist by Paulo Coelho
+45. The Secret Life of Bees by Sue Monk Kidd
+46. The Time Traveler's Wife by Audrey Niffenegger
+47. The Girl on the Train by Paula Hawkins
+48. Gone Girl by Gillian Flynn
+49

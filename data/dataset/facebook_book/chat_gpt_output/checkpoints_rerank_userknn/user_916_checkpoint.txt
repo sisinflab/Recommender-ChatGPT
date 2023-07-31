@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Silmarillion by J. R. R. Tolkien
+2. The Picture of Dorian Gray by Oscar Wilde
+3. Pride and Prejudice by Jane Austen
+4. To Kill a Mockingbird by Harper Lee
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Frankenstein by Mary Shelley
+7. The Stand by Stephen King
+8. Fahrenheit 451 by Ray Bradbury
+9. The Things They Carried by Tim O'Brien
+10. Heart of Darkness by Joseph Conrad
+11. The Autobiography of Malcolm X by Malcolm X and Alex Haley
+12. The Outsiders by S. E. Hinton
+13. The Feminine Mystique by Betty Friedan
+14. Atlas Shrugged by Ayn Rand
+15. The Fountainhead by Ayn Rand
+16. Misery by Stephen King
+17. Merrick by Anne Rice
+18. The Vampire Chronicles by Anne Rice
+19. The Tale of the Body Thief by Anne Rice
+20. Angels & Demons by Dan Brown
+21. The Da Vinci Code by Dan Brown
+22. Mystic River by Dennis Lehane
+23. The Thief Lord by Cornelia Funke
+24. Sabriel by Garth Nix
+25. His Dark Materials by Philip Pullman
+26. The Kite Runner by Khaled Hosseini
+27. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+28. Where the Wild Things Are by Maurice Sendak
+29. Goosebumps by R. L. Stine
+30. Twilight by Stephenie Meyer
+31. Vampire Kisses by Ellen Schreiber
+32. Hoot by Carl Hiaasen
+33. Tuck Everlasting by Natalie Babbitt
+34. The Watchmen by Alan Moore and Dave Gibbons
+35. Sin City by Frank Miller
+36. Ranger's Apprentice by John Flanagan
+37. The Black Tattoo by Sam Enthoven
+38. Crank by Ellen Hopkins
+39. The Walking Dead by Robert Kirkman
+40. Valiant: A Modern Tale of Faerie by Holly Black
+41. Glass by Ellen Hopkins
+42. Five Point Someone by Chetan Bhagat
+43. Eleven Minutes by Paulo Coelho
+44. The Lord of the Rings by J. R. R. Tolkien
+45. The Hobbit by J. R. R. Tolkien
+46. Shopgirl by Steve Martin
+47. Prozac Nation by Elizabeth Wurtzel
+48. Fear and Loathing in Las Vegas by Hunter S. Thompson
+49. Dune by Frank Herbert
+50. Encyclopædia Britannica

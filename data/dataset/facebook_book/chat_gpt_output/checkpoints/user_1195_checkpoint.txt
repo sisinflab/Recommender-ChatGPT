@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Brave New World by Aldous Huxley
+6. Animal Farm by George Orwell
+7. Lord of the Flies by William Golding
+8. The Lord of the Rings by J.R.R. Tolkien
+9. The Chronicles of Narnia by C.S. Lewis
+10. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+11. The Hunger Games by Suzanne Collins
+12. The Da Vinci Code by Dan Brown
+13. The Girl with the Dragon Tattoo by Stieg Larsson
+14. The Road by Cormac McCarthy
+15. The Shining by Stephen King
+16. The Stand by Stephen King
+17. The Dark Tower series by Stephen King
+18. The Name of the Wind by Patrick Rothfuss
+19. The Wise Man's Fear by Patrick Rothfuss
+20. The Alchemist by Paulo Coelho
+21. The Picture of Dorian Gray by Oscar Wilde
+22. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+23. The Hobbit by J.R.R. Tolkien
+24. The Lord of the Rings by J.R.R. Tolkien
+25. The Silmarillion by J.R.R. Tolkien
+26. The Complete Works of William Shakespeare
+27. The Divine Comedy by Dante Alighieri
+28. The Canterbury Tales by Geoffrey Chaucer
+29. The Iliad by Homer
+30. The Odyssey by Homer
+31. The Aeneid by Virgil
+32. The Inferno by Dante Alighieri
+33. The Republic by Plato
+34. The Prince by Niccolò Machiavelli
+35. The Art of War by Sun Tzu
+36. The Tao Te Ching by Lao Tzu
+37. The Analects by Confucius
+38. The Book of Five Rings by Miyamoto Musashi
+39. The Wealth of Nations by Adam Smith
+40. The Origin of Species by Charles Darwin
+41. The Structure of Scientific Revolutions by Thomas S. Kuhn
+42. The Selfish Gene by Richard Dawkins
+43. The Blind Watchmaker by Richard Dawkins
+44. The Elegant Universe by Brian Greene
+45. A Brief History of Time by Stephen Hawking
+46. The Demon-Haunted World by Carl Sagan
+47. The God Delusion by Richard Dawkins
+48. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+49. The Complete Calvin and Hobbes by Bill Watterson
+50. The Complete Far Side by Gary Larson

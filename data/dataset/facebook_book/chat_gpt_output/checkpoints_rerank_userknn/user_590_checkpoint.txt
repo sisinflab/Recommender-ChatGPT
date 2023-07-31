@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. Jane Eyre by Charlotte Bronte
+3. To Kill a Mockingbird by Harper Lee
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Wuthering Heights by Emily Bronte
+6. 1984 by George Orwell
+7. The Hobbit by J.R.R. Tolkien
+8. The Lord of the Rings by J.R.R. Tolkien
+9. The Chronicles of Narnia by C.S. Lewis
+10. The Catcher in the Rye by J.D. Salinger
+11. Animal Farm by George Orwell
+12. The Picture of Dorian Gray by Oscar Wilde
+13. The Name of the Rose by Umberto Eco
+14. Little Women by Louisa May Alcott
+15. A Tale of Two Cities by Charles Dickens
+16. The Fountainhead by Ayn Rand
+17. Les Miserables by Victor Hugo
+18. Atlas Shrugged by Ayn Rand
+19. Fahrenheit 451 by Ray Bradbury
+20. The Alchemist by Paulo Coelho
+21. The Importance of Being Earnest by Oscar Wilde
+22. The Merchant of Venice by William Shakespeare
+23. A Midsummer Night's Dream by William Shakespeare
+24. Pygmalion by George Bernard Shaw
+25. Sense and Sensibility by Jane Austen
+26. Persuasion by Jane Austen
+27. Emma by Jane Austen
+28. Mansfield Park by Jane Austen
+29. The Mill on the Floss by George Eliot
+30. Gone with the Wind by Margaret Mitchell
+31. The Diary of a Young Girl by Anne Frank
+32. Lolita by Vladimir Nabokov
+33. The Prestige by Christopher Priest
+34. Inkheart by Cornelia Funke
+35. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+36. The Lion in Winter by James Goldman
+37. Moby-Dick by Herman Melville
+38. Will Grayson, Will Grayson by John Green and David Levithan
+39. The Pact by Jodi Picoult
+40. Speak by Laurie Halse Anderson
+41. Chobits by CLAMP
+42. The Story of My Experiments with Truth by Mahatma Gandhi
+43. Quran
+44. Bible
+45. The Seven Habits of Highly Effective People by Stephen Covey
+46. Eats, Shoots & Leaves by Lynne Truss
+47. If Tomorrow Comes by Sidney Sheldon
+48. World Without End by Ken Follett
+49. Leaving a Doll's House: A Memoir by Claire Bloom
+50. Far from the Madding Crowd by Thomas Hardy

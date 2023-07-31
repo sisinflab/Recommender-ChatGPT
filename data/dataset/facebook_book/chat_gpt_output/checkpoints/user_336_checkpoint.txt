@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Anna Karenina by Leo Tolstoy
+2. Crime and Punishment by Fyodor Dostoevsky
+3. Wuthering Heights by Emily Bronte
+4. Pride and Prejudice by Jane Austen
+5. The Picture of Dorian Gray by Oscar Wilde
+6. The Brothers Karamazov by Fyodor Dostoevsky
+7. To Kill a Mockingbird by Harper Lee
+8. The Great Gatsby by F. Scott Fitzgerald
+9. One Hundred Years of Solitude by Gabriel Garcia Marquez
+10. The Catcher in the Rye by J.D. Salinger
+11. The Bell Jar by Sylvia Plath
+12. The Stranger by Albert Camus
+13. Heart of Darkness by Joseph Conrad
+14. The Sun Also Rises by Ernest Hemingway
+15. The Old Man and the Sea by Ernest Hemingway
+16. The Grapes of Wrath by John Steinbeck
+17. The Sound and the Fury by William Faulkner
+18. The Scarlet Letter by Nathaniel Hawthorne
+19. The Adventures of Huckleberry Finn by Mark Twain
+20. The Adventures of Tom Sawyer by Mark Twain
+21. The Canterbury Tales by Geoffrey Chaucer
+22. The Divine Comedy by Dante Alighieri
+23. Don Quixote by Miguel de Cervantes
+24. Les Miserables by Victor Hugo
+25. War and Peace by Leo Tolstoy
+26. The Iliad by Homer
+27. The Odyssey by Homer
+28. The Aeneid by Virgil
+29. Beowulf by Unknown
+30. Paradise Lost by John Milton
+31. The Canterbury Tales by Geoffrey Chaucer
+32. The Decameron by Giovanni Boccaccio
+33. The Faerie Queene by Edmund Spenser
+34. The Pilgrim's Progress by John Bunyan
+35. Gulliver's Travels by Jonathan Swift
+36. Robinson Crusoe by Daniel Defoe
+37. The Arabian Nights by Anonymous
+38. The Count of Monte Cristo by Alexandre Dumas
+39. The Three Musketeers by Alexandre Dumas
+40. The Hunchback of Notre Dame by Victor Hugo
+41. The War of the Worlds by H.G. Wells
+42. 1984 by George Orwell
+43. Animal Farm by George Orwell
+44. Brave New World by Aldous Huxley
+45. Fahrenheit 451 by Ray Bradbury
+46. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+47. The Lord of the Rings by J.R.R. Tolkien
+48. The Hobbit by J.R.R. Tolkien
+49. Harry Potter and the Philosopher's Stone by J.K. Rowling
+50. The Hunger Games by Suzanne Collins

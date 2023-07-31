@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Within Temptation
+2. Evanescence
+3. Nightwish
+4. Delerium
+5. Dead Can Dance
+6. Enigma
+7. Amethystium
+8. Gregorian
+9. God Is an Astronaut
+10. Armin van Buuren
+11. Tiësto
+12. The Chemical Brothers
+13. Switchfoot
+14. Hurts
+15. ATB
+16. Three Days Grace
+17. Papa Roach
+18. 30 Seconds to Mars
+19. Muse
+20. Linkin Park
+21. My Chemical Romance
+22. Green Day
+23. Paramore
+24. Stereophonics
+25. Lifehouse
+26. Jimmy Eat World
+27. Radiohead
+28. Nirvana
+29. Pearl Jam
+30. Iron Maiden
+31. Metallica
+32. Led Zeppelin
+33. Michael Jackson
+34. The Beatles
+35. U2
+36. Pink Floyd
+37. The Killers
+38. Coldplay
+39. Arctic Monkeys
+40. Placebo
+41. Duran Duran
+42. Blur
+43. Nine Inch Nails
+44. System of a Down
+45. Daft Punk
+46. Black Eyed Peas
+47. Beyoncé
+48. Lady Gaga
+49. Christina Aguilera
+50. Madonna

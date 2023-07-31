@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Shining by Stephen King
+2. Dracula by Bram Stoker
+3. The Lord of the Rings by J.R.R. Tolkien
+4. The Dark Tower series by Stephen King
+5. Frankenstein by Mary Shelley
+6. 1984 by George Orwell
+7. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+8. The Catcher in the Rye by J.D. Salinger
+9. The Great Gatsby by F. Scott Fitzgerald
+10. To Kill a Mockingbird by Harper Lee
+11. The Hunger Games by Suzanne Collins
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Da Vinci Code by Dan Brown
+14. The Chronicles of Narnia by C.S. Lewis
+15. The Handmaid's Tale by Margaret Atwood
+16. The Road by Cormac McCarthy
+17. The Picture of Dorian Gray by Oscar Wilde
+18. The Silence of the Lambs by Thomas Harris
+19. The Hobbit by J.R.R. Tolkien
+20. The Giver by Lois Lowry
+21. The Stand by Stephen King
+22. The Tommyknockers by Stephen King
+23. Bag of Bones by Stephen King
+24. Duma Key by Stephen King
+25. The Talisman by Stephen King and Peter Straub
+26. The Outsider by Stephen King
+27. The Dead Zone by Stephen King
+28. The Green Mile by Stephen King
+29. The Gunslinger by Stephen King
+30. The Drawing of the Three by Stephen King
+31. The Waste Lands by Stephen King
+32. Wizard and Glass by Stephen King
+33. Wolves of the Calla by Stephen King
+34. Song of Susannah by Stephen King
+35. The Dark Tower by Stephen King
+36. The Eyes of the Dragon by Stephen King
+37. The Mist by Stephen King
+38. The Running Man by Stephen King
+39. The Long Walk by Stephen King
+40. The Bachman Books by Stephen King
+41. The Regulators by Stephen King
+42. The Stand: The Complete and Uncut Edition by Stephen King
+43. The Dead Zone by Stephen King
+44. The Andromeda Strain by Michael Crichton
+45. Jurassic Park by Michael Crichton
+46. The Lost World by Michael Crichton
+47. The Hitchhiker's Guide to the Galaxy: The Complete Trilogy of Five by Douglas Adams
+48. The War of the Worlds by H.G. Wells
+49. The Time Machine by H.G. Wells
+50. The Invisible Man by H.G. Wells

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for this user would be:
+
+1. Iron Maiden
+2. Megadeth
+3. Dream Theater
+4. Bruce Dickinson
+5. Children of Bodom
+6. Angra
+7. Nightwish
+8. Moonspell
+9. Matanza
+10. Kamelot
+11. Stratovarius
+12. Nevermore
+13. Metallica
+14. Symphony X
+15. Journey
+16. Avantasia
+17. Johnny Cash
+18. Bon Jovi
+19. Skid Row
+20. Arch Enemy
+21. Cradle of Filth
+22. Kreator
+23. Yngwie Malmsteen
+24. Slayer
+25. Blind Guardian
+26. Judas Priest
+27. Rammstein
+28. Black Sabbath
+29. Guns N' Roses
+30. Deep Purple
+31. HammerFall
+32. Edguy
+33. Ozzy Osbourne
+34. KISS
+35. Dio
+36. Avenged Sevenfold
+37. System of a Down
+38. Helloween
+39. Uriah Heep
+40. Slipknot
+41. AC/DC
+42. Anthrax
+43. Pink Floyd
+44. Rainbow
+45. Toto
+46. Slash
+47. Korn
+48. Apocalyptica
+49. Motörhead
+50. Scorpions

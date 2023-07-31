@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. All Time Low
+2. Taylor Swift
+3. Paramore
+4. My Chemical Romance
+5. Demi Lovato
+6. Katy Perry
+7. Pierce the Veil
+8. Fall Out Boy
+9. Three Days Grace
+10. Hollywood Undead
+11. VersaEmerge
+12. Breathe Carolina
+13. Nick Jonas & The Administration
+14. Ke$ha
+15. Jonas Brothers
+16. Good Charlotte
+17. Hey Monday
+18. Jordin Sparks
+19. Adele
+20. You Me At Six
+21. 3OH!3
+22. Miranda Cosgrove
+23. Cobra Starship
+24. Boys Like Girls
+25. We The Kings
+26. Yellowcard
+27. Lady Gaga
+28. Rihanna
+29. Beyoncé
+30. Pink Floyd
+31. Muse
+32. Radiohead
+33. Coldplay
+34. The Killers
+35. Nirvana
+36. Metallica
+37. Michael Jackson
+38. Pearl Jam
+39. System of a Down
+40. Daft Punk
+41. Nine Inch Nails
+42. Linkin Park
+43. Avenged Sevenfold
+44. Green Day
+45. The Cure
+46. Depeche Mode
+47. Madonna
+48. Shakira
+49. Christina Aguilera
+50. The Beatles

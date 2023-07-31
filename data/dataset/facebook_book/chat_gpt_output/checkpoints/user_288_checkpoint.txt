@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Percy Jackson and the Olympians series by Rick Riordan
+2. The Heroes of Olympus series by Rick Riordan
+3. The Kane Chronicles series by Rick Riordan
+4. The Da Vinci Code by Dan Brown
+5. Angels and Demons by Dan Brown
+6. Inferno by Dan Brown
+7. Antigone by Sophocles
+8. Oedipus at Colonus by Sophocles
+9. The Theban Plays by Sophocles
+10. The Princess Diaries series by Meg Cabot
+11. All-American Girl by Meg Cabot
+12. The Mediator series by Meg Cabot
+13. The Canterbury Tales by Geoffrey Chaucer
+14. The Divine Comedy by Dante Alighieri
+15. The Picture of Dorian Gray by Oscar Wilde
+16. The Importance of Being Earnest by Oscar Wilde
+17. The Great Gatsby by F. Scott Fitzgerald
+18. To Kill a Mockingbird by Harper Lee
+19. The Catcher in the Rye by J.D. Salinger
+20. 1984 by George Orwell
+21. Animal Farm by George Orwell
+22. The Hobbit by J.R.R. Tolkien
+23. The Lord of the Rings trilogy by J.R.R. Tolkien
+24. The Chronicles of Narnia series by C.S. Lewis
+25. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+26. The Hunger Games trilogy by Suzanne Collins
+27. The Fault in Our Stars by John Green
+28. Looking for Alaska by John Green
+29. Paper Towns by John Green
+30. The Book Thief by Markus Zusak
+31. The Girl with the Dragon Tattoo by Stieg Larsson
+32. The Girl Who Played with Fire by Stieg Larsson
+33. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+34. The Millennium Trilogy by Stieg Larsson
+35. The Road by Cormac McCarthy
+36. The Shining by Stephen King
+37. Carrie by Stephen King
+38. The Stand by Stephen King
+39. The Dark Tower series by Stephen King
+40. The Hitchhiker's Guide to the Galaxy series by Douglas Adams
+41. The Discworld series by Terry Pratchett
+42. The Name of the Wind by Patrick Rothfuss
+43. The Wise Man's Fear by Patrick Rothfuss
+44. The Kingkiller Chronicle series by Patrick Rothfuss
+45. The Wheel of Time series by Robert Jordan
+46. The Stormlight Archive series by Brandon Sanderson
+47. Mistborn series by Brandon Sanderson
+48. The Way of Kings by Brandon Sanderson
+49. The Lies of Locke Lamora by Scott Lynch
+50. The Gentleman Bastard series by Scott Lynch

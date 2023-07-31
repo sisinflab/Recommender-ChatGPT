@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. A Time to Kill by John Grisham
+2. The Last Juror by John Grisham
+3. The Pelican Brief by John Grisham
+4. The Firm by John Grisham
+5. The Runaway Jury by John Grisham
+6. The Street Lawyer by John Grisham
+7. The Testament by John Grisham
+8. The Brethren by John Grisham
+9. The Summons by John Grisham
+10. The Chamber by John Grisham
+11. The Rainmaker by John Grisham
+12. The Partner by John Grisham
+13. The Client by John Grisham
+14. The King of Torts by John Grisham
+15. The Broker by John Grisham
+16. The Appeal by John Grisham
+17. The Litigators by John Grisham
+18. The Racketeer by John Grisham
+19. The Whistler by John Grisham
+20. The Rooster Bar by John Grisham
+21. The Wedding by Nicholas Sparks
+22. The Notebook by Nicholas Sparks
+23. A Walk to Remember by Nicholas Sparks
+24. Message in a Bottle by Nicholas Sparks
+25. The Lucky One by Nicholas Sparks
+26. Safe Haven by Nicholas Sparks
+27. The Best of Me by Nicholas Sparks
+28. Nights in Rodanthe by Nicholas Sparks
+29. Dear John by Nicholas Sparks
+30. Bleachers by John Grisham
+31. Skipping Christmas by John Grisham
+32. Dracula by Bram Stoker
+33. Frankenstein by Mary Shelley
+34. The Picture of Dorian Gray by Oscar Wilde
+35. Wuthering Heights by Emily Bronte
+36. Pride and Prejudice by Jane Austen
+37. Sense and Sensibility by Jane Austen
+38. Emma by Jane Austen
+39. Persuasion by Jane Austen
+40. Northanger Abbey by Jane Austen
+41. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+42. The Hound of the Baskervilles by Arthur Conan Doyle
+43. The Sign of Four by Arthur Conan Doyle
+44. The Valley of Fear by Arthur Conan Doyle
+45. Naked by David Sedaris
+46. Me Talk Pretty One Day by David Sedaris
+47. Dress Your Family in Corduroy and Denim by David Sedaris
+48. When You Are Engulfed in Flames by David Sedaris
+49. Let's Explore Diabetes with Owls by David Sedaris
+50. At First Sight by Nicholas Sparks

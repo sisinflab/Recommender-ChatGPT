@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Brothers Karamazov by Fyodor Dostoevsky
+2. Don Quixote by Miguel de Cervantes
+3. War and Peace by Leo Tolstoy
+4. Walden by Henry David Thoreau
+5. The Selfish Gene by Richard Dawkins
+6. The Tipping Point by Malcolm Gladwell
+7. The Lord of the Rings by J.R.R. Tolkien
+8. A Room of One's Own by Virginia Woolf
+9. The Merchant of Venice by William Shakespeare
+10. The Taming of the Shrew by William Shakespeare
+11. Paradise Lost by John Milton
+12. The Idiot by Fyodor Dostoevsky
+13. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+14. The Time Traveler's Wife by Audrey Niffenegger
+15. The Little Prince by Antoine de Saint-Exupéry
+16. The Scarlet Pimpernel by Baroness Orczy
+17. To the Lighthouse by Virginia Woolf
+18. The Jungle Book by Rudyard Kipling
+19. A Tale of Two Cities by Charles Dickens
+20. The Three Musketeers by Alexandre Dumas
+21. The Love Song of J. Alfred Prufrock by T.S. Eliot
+22. Tess of the d'Urbervilles by Thomas Hardy
+23. The Purpose Driven Life by Rick Warren
+24. Oedipus the King by Sophocles
+25. The Death and Life of Great American Cities by Jane Jacobs
+26. Howl by Allen Ginsberg
+27. My Ishmael by Daniel Quinn
+28. Less Than Zero by Bret Easton Ellis
+29. The Outsiders by S.E. Hinton
+30. Emma by Jane Austen
+31. The Time Machine by H.G. Wells
+32. King James Version of the Bible
+33. The Structure of Scientific Revolutions by Thomas S. Kuhn
+34. Epistle to the Ephesians in the Bible
+35. Prose Edda by Snorri Sturluson
+36. The Hamlet by William Faulkner
+37. Popcorn by Ben Elton
+38. High Society by Ben Elton
+39. Dead Famous by Ben Elton
+40. Dry by Augusten Burroughs
+41. We Need to Talk About Kevin by Lionel Shriver
+42. Graphic novel
+43. Persepolis by Marjane Satrapi
+44. Quran
+45. Ramayana
+46. Halo series
+47. Twilight series
+48. Vampire Academy by Richelle Mead
+49. Ariel by Sylvia Plath
+50. Book of Revelation in the Bible

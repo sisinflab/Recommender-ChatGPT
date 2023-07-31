@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. 1984 by George Orwell
+3. The Great Gatsby by F. Scott Fitzgerald
+4. Jane Eyre by Charlotte Bronte
+5. The Hunger Games by Suzanne Collins
+6. The Help by Kathryn Stockett
+7. The Fault in Our Stars by John Green
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Hobbit by J.R.R. Tolkien
+11. The Da Vinci Code by Dan Brown
+12. The Alchemist by Paulo Coelho
+13. The Secret Life of Bees by Sue Monk Kidd
+14. The Lovely Bones by Alice Sebold
+15. The Time Traveler's Wife by Audrey Niffenegger
+16. The Girl on the Train by Paula Hawkins
+17. The Handmaid's Tale by Margaret Atwood
+18. The Nightingale by Kristin Hannah
+19. The Help by Kathryn Stockett
+20. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+21. The Color Purple by Alice Walker
+22. The Bell Jar by Sylvia Plath
+23. The Sun Also Rises by Ernest Hemingway
+24. The Old Man and the Sea by Ernest Hemingway
+25. The Grapes of Wrath by John Steinbeck
+26. The Picture of Dorian Gray by Oscar Wilde
+27. The Adventures of Huckleberry Finn by Mark Twain
+28. The Adventures of Tom Sawyer by Mark Twain
+29. The Scarlet Letter by Nathaniel Hawthorne
+30. The Count of Monte Cristo by Alexandre Dumas
+31. The Three Musketeers by Alexandre Dumas
+32. The Brothers Karamazov by Fyodor Dostoevsky
+33. Crime and Punishment by Fyodor Dostoevsky
+34. Anna Karenina by Leo Tolstoy
+35. War and Peace by Leo Tolstoy
+36. One Hundred Years of Solitude by Gabriel Garcia Marquez
+37. Love in the Time of Cholera by Gabriel Garcia Marquez
+38. The Name of the Rose by Umberto Eco
+39. The Shadow of the Wind by Carlos Ruiz Zafon
+40. The Pillars of the Earth by Ken Follett
+41. The Name of the Wind by Patrick Rothfuss
+42. The Wise Man's Fear by Patrick Rothfuss
+43. The Lies of Locke Lamora by Scott Lynch
+44. The Way of Kings by Brandon Sanderson
+45. Mistborn: The Final Empire by Brandon Sanderson
+46. The Eye of the World by Robert Jordan
+47. The Fellowship of the Ring by J.R.R. Tolkien
+48. The Two Towers by J.R.R.

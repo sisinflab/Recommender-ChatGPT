@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Harry Potter and the Philosopher's Stone by J.K. Rowling
+3. To Kill a Mockingbird by Harper Lee
+4. 1984 by George Orwell
+5. The Lord of the Rings by J.R.R. Tolkien
+6. The Catcher in the Rye by J.D. Salinger
+7. Pride and Prejudice by Jane Austen
+8. The Hobbit by J.R.R. Tolkien
+9. The Great Gatsby by F. Scott Fitzgerald
+10. Animal Farm by George Orwell
+11. The Da Vinci Code by Dan Brown
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Help by Kathryn Stockett
+14. The Kite Runner by Khaled Hosseini
+15. The Fault in Our Stars by John Green
+16. The Maze Runner by James Dashner
+17. The Book Thief by Markus Zusak
+18. The Alchemist by Paulo Coelho
+19. The Giver by Lois Lowry
+20. The Chronicles of Narnia by C.S. Lewis
+21. The Picture of Dorian Gray by Oscar Wilde
+22. The Road by Cormac McCarthy
+23. The Shining by Stephen King
+24. The Silence of the Lambs by Thomas Harris
+25. The Stand by Stephen King
+26. The Count of Monte Cristo by Alexandre Dumas
+27. The Princess Bride by William Goldman
+28. The Name of the Wind by Patrick Rothfuss
+29. The Night Circus by Erin Morgenstern
+30. The Time Traveler's Wife by Audrey Niffenegger
+31. The Handmaid's Tale by Margaret Atwood
+32. The Bell Jar by Sylvia Plath
+33. The Secret History by Donna Tartt
+34. The Goldfinch by Donna Tartt
+35. The Shadow of the Wind by Carlos Ruiz Zafón
+36. The Pillars of the Earth by Ken Follett
+37. The Help by Kathryn Stockett
+38. The Lovely Bones by Alice Sebold
+39. The Hunger Games Trilogy by Suzanne Collins
+40. The Girl on the Train by Paula Hawkins
+41. The Martian by Andy Weir
+42. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+43. The Chronicles of Prydain by Lloyd Alexander
+44. The Dark Tower Series by Stephen King
+45. The Dresden Files by Jim Butcher
+46. The Wheel of Time Series by Robert Jordan
+47. The Stormlight Archive by Brandon Sanderson
+48. The Kingkiller Chronicle by Patrick Rothfuss
+49. The Mistborn Trilogy by Brandon Sanderson
+50. The First Law Trilogy by Joe Abercrombie

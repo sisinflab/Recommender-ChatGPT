@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Brave New World by Aldous Huxley
+2. Slaughterhouse-Five by Kurt Vonnegut
+3. The Handmaid's Tale by Margaret Atwood
+4. The Road by Cormac McCarthy
+5. Fahrenheit 451 by Ray Bradbury
+6. The Catcher in the Rye by J.D. Salinger
+7. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+8. The Giver by Lois Lowry
+9. The Hunger Games by Suzanne Collins
+10. Ender's Game by Orson Scott Card
+11. Dune by Frank Herbert
+12. The Lord of the Rings by J.R.R. Tolkien
+13. The Hobbit by J.R.R. Tolkien
+14. The Chronicles of Narnia by C.S. Lewis
+15. The Dark Tower series by Stephen King
+16. The Stand by Stephen King
+17. The Shining by Stephen King
+18. It by Stephen King
+19. The Girl with the Dragon Tattoo by Stieg Larsson
+20. The Da Vinci Code by Dan Brown
+21. Angels and Demons by Dan Brown
+22. The Name of the Rose by Umberto Eco
+23. The Picture of Dorian Gray by Oscar Wilde
+24. Dracula by Bram Stoker
+25. Frankenstein by Mary Shelley
+26. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+27. The Time Machine by H.G. Wells
+28. The War of the Worlds by H.G. Wells
+29. The Invisible Man by H.G. Wells
+30. The Island of Dr. Moreau by H.G. Wells
+31. The Andromeda Strain by Michael Crichton
+32. Jurassic Park by Michael Crichton
+33. The Lost World by Michael Crichton
+34. The Hitchhiker's Guide to the Galaxy series by Douglas Adams
+35. The Foundation series by Isaac Asimov
+36. The Robot series by Isaac Asimov
+37. The Martian Chronicles by Ray Bradbury
+38. Something Wicked This Way Comes by Ray Bradbury
+39. The Illustrated Man by Ray Bradbury
+40. The Time Traveler's Wife by Audrey Niffenegger
+41. The Hand of Oberon by Roger Zelazny
+42. The Gunslinger by Stephen King
+43. The Drawing of the Three by Stephen King
+44. The Waste Lands by Stephen King
+45. The Dark Tower IV: Wizard and Glass by Stephen King
+46. The Dark Tower V: Wolves of the Calla by Stephen King
+47. The Dark Tower VI: Song of Susannah by Stephen King
+48. The Dark Tower VII: The Dark Tower by Stephen King
+49. The Talisman by Stephen King and Peter Straub
+50. The Fault in Our Stars by

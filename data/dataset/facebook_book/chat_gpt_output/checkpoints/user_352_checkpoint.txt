@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Fruits Basket by Natsuki Takaya
+2. Ouran High School Host Club by Bisco Hatori
+3. Death Note by Tsugumi Ohba and Takeshi Obata
+4. Fullmetal Alchemist by Hiromu Arakawa
+5. The Hunger Games by Suzanne Collins
+6. Percy Jackson and the Olympians by Rick Riordan
+7. The Mortal Instruments by Cassandra Clare
+8. The Infernal Devices by Cassandra Clare
+9. The Selection by Kiera Cass
+10. The Maze Runner by James Dashner
+11. The Fault in Our Stars by John Green
+12. Divergent by Veronica Roth
+13. The Giver by Lois Lowry
+14. The Book Thief by Markus Zusak
+15. The Chronicles of Narnia by C.S. Lewis
+16. The Lord of the Rings by J.R.R. Tolkien
+17. The Hobbit by J.R.R. Tolkien
+18. The Girl with the Dragon Tattoo by Stieg Larsson
+19. The Da Vinci Code by Dan Brown
+20. The Help by Kathryn Stockett
+21. The Secret Life of Bees by Sue Monk Kidd
+22. The Lovely Bones by Alice Sebold
+23. The Time Traveler's Wife by Audrey Niffenegger
+24. The Notebook by Nicholas Sparks
+25. A Walk to Remember by Nicholas Sparks
+26. The Twilight Saga by Stephenie Meyer
+27. The Vampire Diaries by L.J. Smith
+28. The Sookie Stackhouse Novels by Charlaine Harris
+29. The Southern Vampire Mysteries by Charlaine Harris
+30. The Black Dagger Brotherhood by J.R. Ward
+31. The Anita Blake: Vampire Hunter series by Laurell K. Hamilton
+32. The House of Night series by P.C. Cast and Kristin Cast
+33. The Morganville Vampires series by Rachel Caine
+34. The Vampire Chronicles by Anne Rice
+35. The Dark-Hunter series by Sherrilyn Kenyon
+36. The Dresden Files by Jim Butcher
+37. The Iron Druid Chronicles by Kevin Hearne
+38. The Kingkiller Chronicle by Patrick Rothfuss
+39. The Stormlight Archive by Brandon Sanderson
+40. The Wheel of Time by Robert Jordan
+41. The Malazan Book of the Fallen by Steven Erikson
+42. The First Law Trilogy by Joe Abercrombie
+43. The Lies of Locke Lamora by Scott Lynch
+44. The Name of the Wind by Patrick Rothfuss
+45. The Way of Kings by Brandon Sanderson
+46. Mistborn by Brandon Sanderson
+47. The Final Empire by Brandon Sanderson
+48. Warbreaker by Brandon Sanderson
+49. Elantris by Brandon Sanderson
+50. The Emperor's Soul by Brandon Sanderson

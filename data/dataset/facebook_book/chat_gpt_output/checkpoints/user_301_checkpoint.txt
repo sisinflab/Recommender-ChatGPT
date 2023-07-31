@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Cat in the Hat by Dr. Seuss
+2. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+3. The Shining by Stephen King
+4. The Hunger Games by Suzanne Collins
+5. The Catcher in the Rye by J.D. Salinger
+6. The Da Vinci Code by Dan Brown
+7. The Girl with the Dragon Tattoo by Stieg Larsson
+8. The Lord of the Rings by J.R.R. Tolkien
+9. The Hobbit by J.R.R. Tolkien
+10. The Chronicles of Narnia by C.S. Lewis
+11. The Great Gatsby by F. Scott Fitzgerald
+12. To Kill a Mockingbird by Harper Lee
+13. 1984 by George Orwell
+14. Animal Farm by George Orwell
+15. The Diary of a Young Girl by Anne Frank
+16. The Adventures of Tom Sawyer by Mark Twain
+17. The Adventures of Huckleberry Finn by Mark Twain
+18. The Picture of Dorian Gray by Oscar Wilde
+19. The Importance of Being Earnest by Oscar Wilde
+20. The War of the Worlds by H.G. Wells
+21. The Time Machine by H.G. Wells
+22. The Invisible Man by H.G. Wells
+23. The Island of Dr. Moreau by H.G. Wells
+24. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+25. Treasure Island by Robert Louis Stevenson
+26. The Call of the Wild by Jack London
+27. White Fang by Jack London
+28. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+29. The Hound of the Baskervilles by Arthur Conan Doyle
+30. The Count of Monte Cristo by Alexandre Dumas
+31. The Three Musketeers by Alexandre Dumas
+32. Les Misérables by Victor Hugo
+33. The Phantom of the Opera by Gaston Leroux
+34. Frankenstein by Mary Shelley
+35. Dracula by Bram Stoker
+36. The Picture of Dorian Gray by Oscar Wilde
+37. The Importance of Being Earnest by Oscar Wilde
+38. The Canterbury Tales by Geoffrey Chaucer
+39. Beowulf by Unknown
+40. The Divine Comedy by Dante Alighieri
+41. The Iliad by Homer
+42. The Odyssey by Homer
+43. The Aeneid by Virgil
+44. The Inferno by Dante Alighieri
+45. The Canterbury Tales by Geoffrey Chaucer
+46. The Decameron by Giovanni Boccaccio
+47. The Prince by Niccolò Machiavelli
+48. Don Quixote by Miguel de Cervantes
+49. One Hundred Years of Solitude by Gabriel García Márquez
+50. Love in the Time of Cholera

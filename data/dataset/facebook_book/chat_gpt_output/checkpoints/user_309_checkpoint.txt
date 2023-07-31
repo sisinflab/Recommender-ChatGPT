@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Catcher in the Rye by J.D. Salinger
+3. Brave New World by Aldous Huxley
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Animal Farm by George Orwell
+6. Lord of the Flies by William Golding
+7. Catch-22 by Joseph Heller
+8. Slaughterhouse-Five by Kurt Vonnegut
+9. The Bell Jar by Sylvia Plath
+10. The Handmaid's Tale by Margaret Atwood
+11. Fahrenheit 451 by Ray Bradbury
+12. The Sun Also Rises by Ernest Hemingway
+13. Heart of Darkness by Joseph Conrad
+14. The Picture of Dorian Gray by Oscar Wilde
+15. The Stranger by Albert Camus
+16. The Road to Serfdom by Friedrich Hayek
+17. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+18. The Brothers Karamazov by Fyodor Dostoevsky
+19. Crime and Punishment by Fyodor Dostoevsky
+20. The Trial by Franz Kafka
+21. The Metamorphosis by Franz Kafka
+22. The Sound and the Fury by William Faulkner
+23. As I Lay Dying by William Faulkner
+24. The Old Man and the Sea by Ernest Hemingway
+25. A Clockwork Orange by Anthony Burgess
+26. The Shining by Stephen King
+27. The Stand by Stephen King
+28. The Dark Tower series by Stephen King
+29. The Lord of the Rings by J.R.R. Tolkien
+30. The Hobbit by J.R.R. Tolkien
+31. The Chronicles of Narnia by C.S. Lewis
+32. The Hitchhiker's Guide to the Galaxy series by Douglas Adams
+33. The Foundation series by Isaac Asimov
+34. Dune by Frank Herbert
+35. Ender's Game by Orson Scott Card
+36. The Hunger Games by Suzanne Collins
+37. Harry Potter series by J.K. Rowling
+38. The Girl with the Dragon Tattoo by Stieg Larsson
+39. The Da Vinci Code by Dan Brown
+40. The Name of the Rose by Umberto Eco
+41. The Shadow of the Wind by Carlos Ruiz Zafón
+42. The Kite Runner by Khaled Hosseini
+43. A Thousand Splendid Suns by Khaled Hosseini
+44. The Alchemist by Paulo Coelho
+45. The Picture of Dorian Gray by Oscar Wilde
+46. The Count of Monte Cristo by Alexandre Dumas
+47. Les Misérables by Victor Hugo
+48. The Three Musketeers by Alexandre Dumas
+49. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+50. The

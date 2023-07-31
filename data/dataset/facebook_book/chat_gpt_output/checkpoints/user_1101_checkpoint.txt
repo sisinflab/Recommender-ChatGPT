@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Naked Lunch by William S. Burroughs
+2. American Psycho by Bret Easton Ellis
+3. Fear and Loathing in Las Vegas by Hunter S. Thompson
+4. Slaughterhouse-Five by Kurt Vonnegut
+5. The Picture of Dorian Gray by Oscar Wilde
+6. The Great Gatsby by F. Scott Fitzgerald
+7. 1984 by George Orwell
+8. The Road by Cormac McCarthy
+9. The Bell Jar by Sylvia Plath
+10. The Stranger by Albert Camus
+11. The Sun Also Rises by Ernest Hemingway
+12. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+13. The Shining by Stephen King
+14. The Handmaid's Tale by Margaret Atwood
+15. The Stand by Stephen King
+16. The Brothers Karamazov by Fyodor Dostoevsky
+17. Crime and Punishment by Fyodor Dostoevsky
+18. The Trial by Franz Kafka
+19. One Hundred Years of Solitude by Gabriel Garcia Marquez
+20. The Name of the Rose by Umberto Eco
+21. The Idiot by Fyodor Dostoevsky
+22. Lolita by Vladimir Nabokov
+23. The Master and Margarita by Mikhail Bulgakov
+24. The Count of Monte Cristo by Alexandre Dumas
+25. The Picture of Dorian Gray by Oscar Wilde
+26. The Hobbit by J.R.R. Tolkien
+27. The Lord of the Rings by J.R.R. Tolkien
+28. The Chronicles of Narnia by C.S. Lewis
+29. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+30. The Catcher in the Rye by J.D. Salinger
+31. The Great Gatsby by F. Scott Fitzgerald
+32. To Kill a Mockingbird by Harper Lee
+33. The Color Purple by Alice Walker
+34. The Joy Luck Club by Amy Tan
+35. The God of Small Things by Arundhati Roy
+36. The Kite Runner by Khaled Hosseini
+37. The Alchemist by Paulo Coelho
+38. The Da Vinci Code by Dan Brown
+39. Angels and Demons by Dan Brown
+40. The Girl with the Dragon Tattoo by Stieg Larsson
+41. The Hunger Games by Suzanne Collins
+42. Catching Fire by Suzanne Collins
+43. Mockingjay by Suzanne Collins
+44. The Fault in Our Stars by John Green
+45. Looking for Alaska by John Green
+46. Paper Towns by John Green
+47. The Perks of Being a Wallflower by Stephen Chbosky
+48. The Book Thief by Markus Zusak
+49. The Help by Kathryn Stockett
+50. Gone Girl by Gillian

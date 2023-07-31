@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Regina Spektor
+2. Kate Bush
+3. PJ Harvey
+4. Bjork
+5. Cat Power
+6. Ani DiFranco
+7. Bat for Lashes
+8. St. Vincent
+9. Florence + The Machine
+10. Jenny Lewis
+11. Neko Case
+12. Joni Mitchell
+13. Laura Marling
+14. The Cranberries
+15. Liz Phair
+16. Indigo Girls
+17. Tracy Chapman
+18. The Cardigans
+19. Alanis Morissette (Unplugged)
+20. Fiona Apple (Unplugged)
+21. Tori Amos (Unplugged)
+22. Imogen Heap (Unplugged)
+23. A Fine Frenzy (Unplugged)
+24. Rilo Kiley (Unplugged)
+25. David Bowie (Unplugged)
+26. Sia (Unplugged)
+27. Sara Bareilles (Unplugged)
+28. Sheryl Crow (Unplugged)
+29. Sarah McLachlan (Unplugged)
+30. The Beatles
+31. Radiohead
+32. Coldplay
+33. Arcade Fire
+34. The National
+35. The Smiths
+36. The Cure
+37. Joy Division
+38. New Order
+39. Depeche Mode
+40. The Killers
+41. Muse
+42. The Strokes
+43. Interpol
+44. Yeah Yeah Yeahs
+45. The White Stripes
+46. The Black Keys
+47. Arctic Monkeys
+48. Vampire Weekend
+49. Phoenix
+50. Tame Impala

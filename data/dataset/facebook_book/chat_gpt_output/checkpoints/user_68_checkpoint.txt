@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. Animal Farm by George Orwell
+5. Lord of the Flies by William Golding
+6. The Hobbit by J.R.R. Tolkien
+7. The Fellowship of the Ring by J.R.R. Tolkien
+8. The Two Towers by J.R.R. Tolkien
+9. The Return of the King by J.R.R. Tolkien
+10. The Chronicles of Narnia by C.S. Lewis
+11. The Hunger Games by Suzanne Collins
+12. Catching Fire by Suzanne Collins
+13. Mockingjay by Suzanne Collins
+14. Divergent by Veronica Roth
+15. Insurgent by Veronica Roth
+16. Allegiant by Veronica Roth
+17. The Maze Runner by James Dashner
+18. The Scorch Trials by James Dashner
+19. The Death Cure by James Dashner
+20. The Fault in Our Stars by John Green
+21. Looking for Alaska by John Green
+22. Paper Towns by John Green
+23. The Book Thief by Markus Zusak
+24. The Alchemist by Paulo Coelho
+25. The Da Vinci Code by Dan Brown
+26. Angels and Demons by Dan Brown
+27. Inferno by Dan Brown
+28. The Girl with the Dragon Tattoo by Stieg Larsson
+29. The Girl Who Played with Fire by Stieg Larsson
+30. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+31. The Help by Kathryn Stockett
+32. The Kite Runner by Khaled Hosseini
+33. A Thousand Splendid Suns by Khaled Hosseini
+34. The Lovely Bones by Alice Sebold
+35. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+36. Life of Pi by Yann Martel
+37. The Time Traveler's Wife by Audrey Niffenegger
+38. The Secret Life of Bees by Sue Monk Kidd
+39. The Color Purple by Alice Walker
+40. The Joy Luck Club by Amy Tan
+41. The House on Mango Street by Sandra Cisneros
+42. The Bell Jar by Sylvia Plath
+43. The Picture of Dorian Gray by Oscar Wilde
+44. The Great Gatsby by F. Scott Fitzgerald
+45. Pride and Prejudice by Jane Austen
+46. Sense and Sensibility by Jane Austen
+47. Emma by Jane Austen
+48. Persuasion by Jane Austen
+49. Northanger Abbey by Jane Austen
+50. Mansfield Park by Jane Austen

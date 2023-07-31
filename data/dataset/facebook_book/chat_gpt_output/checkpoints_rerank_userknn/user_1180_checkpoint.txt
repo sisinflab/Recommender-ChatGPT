@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. The Da Vinci Code by Dan Brown
+3. The Help by Kathryn Stockett
+4. The Catcher in the Rye by J.D. Salinger
+5. To Kill a Mockingbird by Harper Lee
+6. The Great Gatsby by F. Scott Fitzgerald
+7. 1984 by George Orwell
+8. Animal Farm by George Orwell
+9. The Hobbit by J.R.R. Tolkien
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Chronicles of Narnia by C.S. Lewis
+12. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+13. The Girl on the Train by Paula Hawkins
+14. Gone Girl by Gillian Flynn
+15. The Maze Runner by James Dashner
+16. The Fault in Our Stars by John Green
+17. The Book Thief by Markus Zusak
+18. The Alchemist by Paulo Coelho
+19. The Secret Life of Bees by Sue Monk Kidd
+20. The Lovely Bones by Alice Sebold
+21. Water for Elephants by Sara Gruen
+22. The Time Traveler's Wife by Audrey Niffenegger
+23. The Kite Runner by Khaled Hosseini
+24. A Thousand Splendid Suns by Khaled Hosseini
+25. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+26. The Perks of Being a Wallflower by Stephen Chbosky
+27. The Girl with the Dragon Tattoo by Stieg Larsson
+28. The Girl Who Played with Fire by Stieg Larsson
+29. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+30. Catch-22 by Joseph Heller
+31. The Five People You Meet in Heaven by Mitch Albom
+32. Where the Wild Things Are by Maurice Sendak
+33. Freakonomics by Stephen J. Dubner and Steven Levitt
+34. SuperFreakonomics by Stephen J. Dubner and Steven Levitt
+35. Night Watch by Sergei Lukyanenko
+36. Bridge to Terabithia by Katherine Paterson
+37. Running with Scissors by Augusten Burroughs
+38. The Time Machine by H.G. Wells
+39. Watership Down by Richard Adams
+40. Odd Thomas by Dean Koontz
+41. The Talisman by Stephen King and Peter Straub
+42. Harry Potter series by J.K. Rowling
+43. A Wrinkle in Time by Madeleine L'Engle
+44. The Stand by Stephen King
+45. No Country for Old Men by Cormac McCarthy
+46. The Grapes of Wrath by John Steinbeck
+47. Girl, Interrupted by Susanna Kaysen
+48. The Witches by Ro

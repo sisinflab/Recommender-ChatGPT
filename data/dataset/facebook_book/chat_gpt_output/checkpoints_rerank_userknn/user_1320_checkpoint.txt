@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Chronicles of Narnia by C. S. Lewis
+2. His Dark Materials by Philip Pullman
+3. Inkspell by Cornelia Funke
+4. The Hobbit by J.R.R. Tolkien
+5. Harry Potter by J.K. Rowling
+6. The Lord of the Rings by J.R.R. Tolkien
+7. Twilight (series) by Stephenie Meyer
+8. The Book Thief by Markus Zusak
+9. The Giver by Lois Lowry
+10. Little Women by Louisa May Alcott
+11. The Lion, the Witch and the Wardrobe by C. S. Lewis
+12. Pride and Prejudice by Jane Austen
+13. Romeo and Juliet by William Shakespeare
+14. The Alchemist (novel) by Paulo Coelho
+15. The Count of Monte Cristo by Alexandre Dumas
+16. Great Expectations by Charles Dickens
+17. A Little Princess by Frances Hodgson Burnett
+18. The Adventures of Tom Sawyer by Mark Twain
+19. The Wonderful Wizard of Oz by L. Frank Baum
+20. The Last Battle by C. S. Lewis
+21. The Shining (novel) by Stephen King
+22. Angels & Demons by Dan Brown
+23. Dune (novel) by Frank Herbert
+24. Macbeth by William Shakespeare
+25. The Outsiders (novel) by S. E. Hinton
+26. The Bell Jar by Sylvia Plath
+27. A Painted House by John Grisham
+28. The Da Vinci Code by Dan Brown
+29. White Oleander by Janet Fitch
+30. The Light Fantastic by Terry Pratchett
+31. The Horse and His Boy by C. S. Lewis
+32. Sabriel by Garth Nix
+33. One Hundred Years of Solitude by Gabriel Garcia Marquez
+34. Demian by Hermann Hesse
+35. The Vampire Chronicles by Anne Rice
+36. Thus Spoke Zarathustra by Friedrich Nietzsche
+37. Inheritance (novel) by Christopher Paolini
+38. Ulysses (novel) by James Joyce
+39. Manga by Various Authors
+40. The Little Prince by Antoine de Saint-Exupéry
+41. Go Ask Alice by Anonymous
+42. Hopscotch (Julio Cortázar novel) by Julio Cortázar
+43. Valiant: A Modern Tale of Faerie by Holly Black
+44. Digital Fortress by Dan Brown
+45. Steppenwolf (novel) by Hermann Hesse
+46. Hoot (novel) by Carl Hiaasen
+47. The Antichrist (book) by Friedrich Nietzsche
+48. The Last Storytellers: Tales from the Heart of Morocco by Richard Hamilton
+49. Mafal

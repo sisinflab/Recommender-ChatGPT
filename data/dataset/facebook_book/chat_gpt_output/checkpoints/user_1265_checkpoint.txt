@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. Pride and Prejudice by Jane Austen
+5. The Great Gatsby by F. Scott Fitzgerald
+6. One Hundred Years of Solitude by Gabriel Garcia Marquez
+7. Crime and Punishment by Fyodor Dostoevsky
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Adventures of Huckleberry Finn by Mark Twain
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Hobbit by J.R.R. Tolkien
+12. The Chronicles of Narnia by C.S. Lewis
+13. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+14. The Da Vinci Code by Dan Brown
+15. The Girl with the Dragon Tattoo by Stieg Larsson
+16. The Hunger Games by Suzanne Collins
+17. The Road by Cormac McCarthy
+18. The Kite Runner by Khaled Hosseini
+19. The Alchemist by Paulo Coelho
+20. The Name of the Wind by Patrick Rothfuss
+21. The Stand by Stephen King
+22. The Shining by Stephen King
+23. The Silence of the Lambs by Thomas Harris
+24. The God of Small Things by Arundhati Roy
+25. The Color Purple by Alice Walker
+26. The Joy Luck Club by Amy Tan
+27. The Help by Kathryn Stockett
+28. The Fault in Our Stars by John Green
+29. The Book Thief by Markus Zusak
+30. The Giver by Lois Lowry
+31. The Maze Runner by James Dashner
+32. The Bourne Identity by Robert Ludlum
+33. The Firm by John Grisham
+34. The Pelican Brief by John Grisham
+35. The Girl on the Train by Paula Hawkins
+36. Gone Girl by Gillian Flynn
+37. The Lovely Bones by Alice Sebold
+38. The Time Traveler's Wife by Audrey Niffenegger
+39. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+40. The Secret Life of Bees by Sue Monk Kidd
+41. The Glass Castle by Jeannette Walls
+42. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+43. The Devil in the White City by Erik Larson
+44. The Power of One by Bryce Courtenay
+45. The Nightingale by Kristin Hannah
+46. The Help by Kathryn Stockett
+47. The Martian by Andy Weir
+48. The Handmaid's Tale by Margaret Atwood
+49. The Tipping Point by Malcolm Gladwell
+50. American Gods by Neil Gaiman

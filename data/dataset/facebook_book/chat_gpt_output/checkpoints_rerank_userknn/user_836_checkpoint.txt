@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Catching Fire by Suzanne Collins
+2. Mockingjay by Suzanne Collins
+3. The Hunger Games by Suzanne Collins
+4. Eragon by Christopher Paolini
+5. Harry Potter by J.K. Rowling
+6. The Hobbit by J.R.R. Tolkien
+7. Les Misérables by Victor Hugo
+8. Jane Eyre by Charlotte Brontë
+9. The Giver by Lois Lowry
+10. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+11. Inkheart by Cornelia Funke
+12. Ella Enchanted by Gail Carson Levine
+13. The Time Traveler's Wife by Audrey Niffenegger
+14. The Lovely Bones by Alice Sebold
+15. A Great and Terrible Beauty by Libba Bray
+16. The Maze Runner by James Dashner
+17. Maximum Ride by James Patterson
+18. The Forest of Hands and Teeth by Carrie Ryan
+19. The Boy in the Striped Pyjamas by John Boyne
+20. The Lost Boy (memoir) by Dave Pelzer
+21. All Quiet on the Western Front by Erich Maria Remarque
+22. Crime and Punishment by Fyodor Dostoevsky
+23. Nineteen Eighty-Four by George Orwell
+24. The Idiot by Fyodor Dostoevsky
+25. His Dark Materials by Philip Pullman
+26. Mistborn: The Hero of Ages by Brandon Sanderson
+27. The Hamlet by William Faulkner
+28. Brisingr by Christopher Paolini
+29. The Named by Marianne Curley
+30. The Five People You Meet in Heaven by Mitch Albom
+31. Sarah's Key (novel) by Tatiana de Rosnay
+32. Uglies by Scott Westerfeld
+33. Speak (novel) by Laurie Halse Anderson
+34. Gathering Blue by Lois Lowry
+35. The Catcher in the Rye by J.D. Salinger
+36. Digital Fortress by Dan Brown
+37. Witch & Wizard by James Patterson
+38. Gravitation (book) by Maki Murakami
+39. Manga by Various
+40. Tsubasa: Reservoir Chronicle by Clamp
+41. Atlas Shrugged by Ayn Rand
+42. Anthem (novella) by Ayn Rand
+43. The Giver Quartet by Lois Lowry
+44. City of Bones (Mortal Instruments) by Cassandra Clare
+45. City of Ashes by Cassandra Clare
+46. City of Glass (Mortal Instruments) by Cassandra Clare
+47. Warriors (anthology) by Erin Hunter
+48. Grimms' Fairy Tales by Jacob and Wilhelm Grimm
+49. Holes (novel) by Louis Sachar
+50.

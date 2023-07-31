@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Notebook by Nicholas Sparks
+2. The Last Song by Nicholas Sparks
+3. The Lucky One by Nicholas Sparks
+4. A Walk to Remember by Nicholas Sparks
+5. The Best of Me by Nicholas Sparks
+6. Safe Haven by Nicholas Sparks
+7. The Longest Ride by Nicholas Sparks
+8. The Fault in Our Stars by John Green
+9. Looking for Alaska by John Green
+10. Paper Towns by John Green
+11. Eleanor & Park by Rainbow Rowell
+12. Fangirl by Rainbow Rowell
+13. Carry On by Rainbow Rowell
+14. The Hunger Games by Suzanne Collins
+15. Catching Fire by Suzanne Collins
+16. Mockingjay by Suzanne Collins
+17. Divergent by Veronica Roth
+18. Insurgent by Veronica Roth
+19. Allegiant by Veronica Roth
+20. The Maze Runner by James Dashner
+21. The Scorch Trials by James Dashner
+22. The Death Cure by James Dashner
+23. The Giver by Lois Lowry
+24. Gathering Blue by Lois Lowry
+25. Messenger by Lois Lowry
+26. Son by Lois Lowry
+27. The Book Thief by Markus Zusak
+28. The Kite Runner by Khaled Hosseini
+29. A Thousand Splendid Suns by Khaled Hosseini
+30. And the Mountains Echoed by Khaled Hosseini
+31. The Girl on the Train by Paula Hawkins
+32. Gone Girl by Gillian Flynn
+33. The Da Vinci Code by Dan Brown
+34. Angels & Demons by Dan Brown
+35. Inferno by Dan Brown
+36. The Bourne Identity by Robert Ludlum
+37. The Bourne Supremacy by Robert Ludlum
+38. The Bourne Ultimatum by Robert Ludlum
+39. The Girl with the Dragon Tattoo by Stieg Larsson
+40. The Girl Who Played with Fire by Stieg Larsson
+41. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+42. The Silence of the Lambs by Thomas Harris
+43. Hannibal by Thomas Harris
+44. Red Dragon by Thomas Harris
+45. The Shining by Stephen King
+46. Carrie by Stephen King
+47. Misery by Stephen King
+48. The Stand by Stephen King
+49. It by Stephen King
+50. Pet Sematary by Stephen King

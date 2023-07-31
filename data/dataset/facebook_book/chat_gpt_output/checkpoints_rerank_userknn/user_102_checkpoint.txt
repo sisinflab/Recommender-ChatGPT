@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. A Time to Kill (Grisham novel)
+2. The Chamber (novel)
+3. The Runaways (novel)
+4. The Appeal
+5. The Last Juror
+6. The Partner
+7. The Broker
+8. The King of Torts
+9. The Rainmaker (novel)
+10. Bleachers (novel)
+11. Skipping Christmas
+12. The Wedding (Steel novel)
+13. Crime (novel)
+14. Medea (play)
+15. Romeo and Juliet
+16. Pride and Prejudice
+17. Sense and Sensibility
+18. The Great Gatsby
+19. Frankenstein
+20. Dracula
+21. Interview with the Vampire
+22. Twilight (series)
+23. Under the Dome
+24. Cujo
+25. Carrie (novel)
+26. The Melancholy Death of Oyster Boy & Other Stories
+27. Inkspell
+28. Alice's Adventures in Wonderland
+29. The Secret Garden
+30. The Tale of Despereaux
+31. Goosebumps
+32. The Giver
+33. The Last Song (novel)
+34. Percy Jackson & the Olympians
+35. Odyssey
+36. Gospel of Matthew
+37. Gospel of Mark
+38. Book of Revelation
+39. New Living Translation
+40. King James Version
+41. The Hitchhiker's Guide to the Galaxy (novel)
+42. Tunnels (novel)
+43. Vampire$
+44. Blood and Chocolate (novel)
+45. I Am Number Four
+46. Freakonomics
+47. The Testament
+48. The Five People You Meet in Heaven
+49. Eighth Grade Bites
+50. A Christmas Carol

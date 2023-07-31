@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Da Vinci Code by Dan Brown
+2. Angels & Demons by Dan Brown
+3. Inferno by Dan Brown
+4. Digital Fortress by Dan Brown
+5. The Chronicles of Narnia: The Lion, the Witch and the Wardrobe by C.S. Lewis
+6. Harry Potter and the Philosopher's Stone by J.K. Rowling
+7. Harry Potter and the Chamber of Secrets by J.K. Rowling
+8. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+9. Harry Potter and the Goblet of Fire by J.K. Rowling
+10. Harry Potter and the Order of Phoenix by J.K. Rowling
+11. Harry Potter and the Half-Blood Prince by J.K. Rowling
+12. Harry Potter and the Deathly Hallows by J.K. Rowling
+13. The Lord of the Rings by J.R.R. Tolkien
+14. The Hobbit by J.R.R. Tolkien
+15. A Brief History of Time by Stephen Hawking
+16. The Picture of Dorian Gray by Oscar Wilde
+17. To Kill a Mockingbird by Harper Lee
+18. The Secret by Rhonda Byrne
+19. Brave New World by Aldous Huxley
+20. Crime and Punishment by Fyodor Dostoevsky
+21. Frankenstein by Mary Shelley
+22. The Jungle Book by Rudyard Kipling
+23. Twenty Thousand Leagues Under the Sea by Jules Verne
+24. Ulysses by James Joyce
+25. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+26. The Perks of Being a Wallflower by Stephen Chbosky
+27. Zen and the Art of Motorcycle Maintenance by Robert M. Pirsig
+28. Passion and Purity by Elisabeth Elliot
+29. Inkheart by Cornelia Funke
+30. Inkspell by Cornelia Funke
+31. Lord of the Flies by William Golding
+32. The Hardy Boys by Franklin W. Dixon
+33. Twisted by Laurie Halse Anderson
+34. The Firm by John Grisham
+35. Midnight Sun by Stephenie Meyer
+36. Garfield by Jim Davis
+37. Dracula by Bram Stoker
+38. Black Beauty by Anna Sewell
+39. Cut by Patricia McCormick
+40. Bitten by Kelley Armstrong
+41. Holes by Louis Sachar
+42. One Night @ the Call Center by Chetan Bhagat
+43. In the Line of Fire: A Memoir by Pervez Musharraf
+44. Quran by Anonymous
+45. Manga by Various
+46. The Walking Dead by Robert Kirkman
+47. At the Mountains of Madness by H.P. Lovecraft
+48. Romeo and Juliet by William Shakespeare
+49. The

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Wonder by R.J. Palacio
+2. The Fault in Our Stars by John Green
+3. Harry Potter and the Sorcerer's Stone by J.K. Rowling
+4. To Kill a Mockingbird by Harper Lee
+5. The Giver by Lois Lowry
+6. The Chronicles of Narnia by C.S. Lewis
+7. The Hunger Games: Catching Fire by Suzanne Collins
+8. The Maze Runner by James Dashner
+9. The Lightning Thief by Rick Riordan
+10. The Hobbit by J.R.R. Tolkien
+11. The Perks of Being a Wallflower by Stephen Chbosky
+12. The Book Thief by Markus Zusak
+13. The Outsiders by S.E. Hinton
+14. The Secret Garden by Frances Hodgson Burnett
+15. The Giving Tree by Shel Silverstein
+16. The Very Hungry Caterpillar by Eric Carle
+17. The Cat in the Hat by Dr. Seuss
+18. Green Eggs and Ham by Dr. Seuss
+19. Charlotte's Web by E.B. White
+20. Little Women by Louisa May Alcott
+21. Anne of Green Gables by L.M. Montgomery
+22. The Catcher in the Rye by J.D. Salinger
+23. Lord of the Flies by William Golding
+24. Animal Farm by George Orwell
+25. 1984 by George Orwell
+26. Brave New World by Aldous Huxley
+27. Fahrenheit 451 by Ray Bradbury
+28. The Handmaid's Tale by Margaret Atwood
+29. The Girl with the Dragon Tattoo by Stieg Larsson
+30. The Da Vinci Code by Dan Brown
+31. Angels and Demons by Dan Brown
+32. The Girl on the Train by Paula Hawkins
+33. Gone Girl by Gillian Flynn
+34. The Help by Kathryn Stockett
+35. The Kite Runner by Khaled Hosseini
+36. A Thousand Splendid Suns by Khaled Hosseini
+37. The Alchemist by Paulo Coelho
+38. The Little Prince by Antoine de Saint-Exupéry
+39. The Picture of Dorian Gray by Oscar Wilde
+40. The Great Gatsby by F. Scott Fitzgerald
+41. Pride and Prejudice by Jane Austen
+42. Sense and Sensibility by Jane Austen
+43. Emma by Jane Austen
+44. Persuasion by Jane Austen
+45. Wuthering Heights by Emily Bronte
+46. Jane Eyre by Charlotte Bronte
+47. Rebecca by Daphne du Maurier
+48. The Time Traveler's Wife by Audrey Niffenegger
+49. The Lovely Bones by Alice Sebold
+50. The Curious Incident of the Dog in the Night-Time by Mark Haddon

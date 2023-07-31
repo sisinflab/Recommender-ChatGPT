@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Maze Runner by James Dashner
+4. The Fault in Our Stars by John Green
+5. The Giver by Lois Lowry
+6. The Book Thief by Markus Zusak
+7. The Perks of Being a Wallflower by Stephen Chbosky
+8. To Kill a Mockingbird by Harper Lee
+9. The Catcher in the Rye by J.D. Salinger
+10. The Lord of the Rings by J.R.R. Tolkien
+11. Harry Potter (series) by J.K. Rowling
+12. The Chronicles of Narnia by C.S. Lewis
+13. The Hobbit by J.R.R. Tolkien
+14. The Girl with the Dragon Tattoo by Stieg Larsson
+15. The Da Vinci Code by Dan Brown
+16. The Help by Kathryn Stockett
+17. The Kite Runner by Khaled Hosseini
+18. The Lovely Bones by Alice Sebold
+19. The Time Traveler's Wife by Audrey Niffenegger
+20. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+21. The Picture of Dorian Gray by Oscar Wilde
+22. The Great Gatsby by F. Scott Fitzgerald
+23. 1984 by George Orwell
+24. Animal Farm by George Orwell
+25. The Handmaid's Tale by Margaret Atwood
+26. The Road by Cormac McCarthy
+27. The Stand by Stephen King
+28. The Shining by Stephen King
+29. Carrie by Stephen King
+30. The Dark Tower (series) by Stephen King
+31. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+32. Ender's Game by Orson Scott Card
+33. The Alchemist by Paulo Coelho
+34. The Name of the Wind by Patrick Rothfuss
+35. The Wise Man's Fear by Patrick Rothfuss
+36. The Shadow of the Wind by Carlos Ruiz Zafón
+37. The Thirteenth Tale by Diane Setterfield
+38. The Night Circus by Erin Morgenstern
+39. The Hunger Angel by Herta Müller
+40. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+41. The Glass Castle by Jeannette Walls
+42. The Color Purple by Alice Walker
+43. The Joy Luck Club by Amy Tan
+44. The God of Small Things by Arundhati Roy
+45. The Poisonwood Bible by Barbara Kingsolver
+46. The Secret History by Donna Tartt
+47. The Bell Jar by Sylvia Plath
+48. The Picture of Dorian Gray by Oscar Wilde
+49. The Sun Also Rises by Ernest Hemingway
+50. The Old Man and the Sea by Ernest Heming

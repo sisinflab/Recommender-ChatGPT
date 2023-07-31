@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Great Gatsby
+2. Nineteen Eighty-Four
+3. Pride and Prejudice and Zombies
+4. Les Misérables
+5. The Hobbit
+6. Little Women
+7. The Secret Life of Bees
+8. Flowers for Algernon
+9. The Catcher in the Rye
+10. Sophie's World
+11. The Hours (novel)
+12. Leaves of Grass
+13. The Solitaire Mystery
+14. Passion and Purity
+15. His Dark Materials
+16. Eragon
+17. Battle Royale
+18. Carrie (novel)
+19. A Series of Unfortunate Events
+20. Rocket Boys
+21. Go Ask Alice
+22. The Good Earth
+23. Because of Winn-Dixie
+24. Le Morte d'Arthur
+25. Blood and Chocolate (novel)
+26. An Abundance of Katherines
+27. The Lost World (Crichton novel)
+28. Son of a Witch
+29. The Phantom of the Opera
+30. Keeping the Moon
+31. Twilight (series)
+32. The Walking Dead (comic book)
+33. Bitten (novel)
+34. Handle with Care (novel)
+35. Strange Case of Dr Jekyll and Mr Hyde
+36. Their Eyes Were Watching God
+37. Annie on My Mind
+38. Fear and Loathing in Las Vegas
+39. The Truth About Forever
+40. Percy Jackson & the Olympians
+41. The Messenger (Markus Zusak novel)
+42. Surviving the Applewhites
+43. Will Grayson, Will Grayson
+44. The Scarlet Pimpernel
+45. A Tree Grows in Brooklyn (novel)
+46. Balzac and the Little Chinese Seamstress
+47. The Joy Luck Club (novel)
+48. Jurassic Park (novel)
+49. The Perks of Being a Wallflower
+50. Murder on the Orient Express

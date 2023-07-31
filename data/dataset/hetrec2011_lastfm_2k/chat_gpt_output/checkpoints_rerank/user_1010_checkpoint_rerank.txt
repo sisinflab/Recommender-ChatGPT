@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Depeche Mode
+2. Duran Duran
+3. Michael Jackson
+4. A-ha
+5. Erasure
+6. Yazoo
+7. Soft Cell
+8. Frankie Goes to Hollywood
+9. Eurythmics
+10. Wham!
+11. George Michael
+12. Thompson Twins
+13. The Human League
+14. Ultravox
+15. Tears for Fears
+16. Arcadia
+17. Roxette
+18. Poets of the Fall
+19. Sunrise Avenue
+20. Guns N' Roses
+21. Billy Idol
+22. Whitesnake
+23. Nickelback
+24. Dokken
+25. Van Halen
+26. New Order
+27. Orchestral Manoeuvres in the Dark
+28. Three Days Grace
+29. Def Leppard
+30. Camouflage
+31. Daughtry
+32. Muse
+33. U2
+34. Pink Floyd
+35. Radiohead
+36. Nirvana
+37. Led Zeppelin
+38. Metallica
+39. Iron Maiden
+40. Arctic Monkeys
+41. Placebo
+42. The Killers
+43. Green Day
+44. My Chemical Romance
+45. Avenged Sevenfold
+46. System of a Down
+47. Nine Inch Nails
+48. Linkin Park
+49. Black Eyed Peas
+50. Beyoncé

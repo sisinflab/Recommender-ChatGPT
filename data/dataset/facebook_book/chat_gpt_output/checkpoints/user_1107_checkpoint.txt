@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Secret Life of Bees by Sue Monk Kidd
+2. The Help by Kathryn Stockett
+3. The Time Traveler's Wife by Audrey Niffenegger
+4. The Kite Runner by Khaled Hosseini
+5. The Book Thief by Markus Zusak
+6. The Lovely Bones by Alice Sebold
+7. The Girl with the Dragon Tattoo by Stieg Larsson
+8. The Hunger Games by Suzanne Collins
+9. The Fault in Our Stars by John Green
+10. The Catcher in the Rye by J.D. Salinger
+11. To Kill a Mockingbird by Harper Lee
+12. The Great Gatsby by F. Scott Fitzgerald
+13. 1984 by George Orwell
+14. Animal Farm by George Orwell
+15. Brave New World by Aldous Huxley
+16. Fahrenheit 451 by Ray Bradbury
+17. The Handmaid's Tale by Margaret Atwood
+18. The Road by Cormac McCarthy
+19. The Stand by Stephen King
+20. The Shining by Stephen King
+21. The Silence of the Lambs by Thomas Harris
+22. The Da Vinci Code by Dan Brown
+23. Angels and Demons by Dan Brown
+24. The Bourne Identity by Robert Ludlum
+25. The Hunt for Red October by Tom Clancy
+26. The Firm by John Grisham
+27. The Pelican Brief by John Grisham
+28. The Godfather by Mario Puzo
+29. The Silence of the Girls by Pat Barker
+30. The Song of Achilles by Madeline Miller
+31. Circe by Madeline Miller
+32. The Nightingale by Kristin Hannah
+33. The Alice Network by Kate Quinn
+34. The Tattooist of Auschwitz by Heather Morris
+35. The Immortalists by Chloe Benjamin
+36. The Seven Husbands of Evelyn Hugo by Taylor Jenkins Reid
+37. The Dutch House by Ann Patchett
+38. The Testaments by Margaret Atwood
+39. The Water Dancer by Ta-Nehisi Coates
+40. The Nickel Boys by Colson Whitehead
+41. The Overstory by Richard Powers
+42. The Underground Railroad by Colson Whitehead
+43. The Sympathizer by Viet Thanh Nguyen
+44. The Sellout by Paul Beatty
+45. The Brief Wondrous Life of Oscar Wao by Junot Diaz
+46. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+47. The Road to Character by David Brooks
+48. The Power of Now by Eckhart Tolle
+49. The Alchemist by Paulo Coelho
+50. The Four Agreements by Don Miguel Ruiz

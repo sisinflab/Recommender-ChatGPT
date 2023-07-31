@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. The Catcher in the Rye by J.D. Salinger
+4. To Kill a Mockingbird by Harper Lee
+5. Animal Farm by George Orwell
+6. The Great Gatsby by F. Scott Fitzgerald
+7. One Hundred Years of Solitude by Gabriel Garcia Marquez
+8. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Hobbit by J.R.R. Tolkien
+11. The Hunger Games by Suzanne Collins
+12. Catch-22 by Joseph Heller
+13. The Road by Cormac McCarthy
+14. The Handmaid's Tale by Margaret Atwood
+15. The Giver by Lois Lowry
+16. The Maze Runner by James Dashner
+17. Ender's Game by Orson Scott Card
+18. The Chronicles of Narnia by C.S. Lewis
+19. The Book Thief by Markus Zusak
+20. The Fault in Our Stars by John Green
+21. The Perks of Being a Wallflower by Stephen Chbosky
+22. The Girl with the Dragon Tattoo by Stieg Larsson
+23. The Da Vinci Code by Dan Brown
+24. The Shining by Stephen King
+25. The Stand by Stephen King
+26. It by Stephen King
+27. The Silence of the Lambs by Thomas Harris
+28. Gone Girl by Gillian Flynn
+29. The Girl on the Train by Paula Hawkins
+30. The Bourne Identity by Robert Ludlum
+31. The Hunt for Red October by Tom Clancy
+32. The Firm by John Grisham
+33. Jurassic Park by Michael Crichton
+34. The Andromeda Strain by Michael Crichton
+35. The Hitchhiker's Guide to the Galaxy: The Restaurant at the End of the Universe by Douglas Adams
+36. The Hitchhiker's Guide to the Galaxy: Life, the Universe and Everything by Douglas Adams
+37. The Hitchhiker's Guide to the Galaxy: So Long, and Thanks for All the Fish by Douglas Adams
+38. The Hitchhiker's Guide to the Galaxy: Mostly Harmless by Douglas Adams
+39. The Dark Tower: The Gunslinger by Stephen King
+40. The Dark Tower II: The Drawing of the Three by Stephen King
+41. The Dark Tower III: The Waste Lands by Stephen King
+42. The Dark Tower IV: Wizard and Glass by Stephen King
+43. The Dark Tower V: Wolves of the Calla by Stephen King
+44. The Dark Tower VI: Song of Susannah by Stephen King
+45. The Dark Tower VII: The Dark Tower by Stephen King
+46. The Name of the Wind by
+47. Franny and Zooey by J.D. Salinger
+48. Nine Stories by J.D. Salinger
+49. The Bell Jar by Sylvia Plath
+50. The Wise Man's Fear by Patrick Rothfuss

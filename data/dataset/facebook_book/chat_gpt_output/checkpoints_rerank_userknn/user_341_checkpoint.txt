@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Book Thief by Markus Zusak
+2. Nineteen Eighty-Four by George Orwell
+3. To Kill a Mockingbird by Harper Lee
+4. The Catcher in the Rye by J.D. Salinger
+5. The Lord of the Rings by J.R.R. Tolkien
+6. The Giver by Lois Lowry
+7. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+8. The Kite Runner by Khaled Hosseini
+9. Harry Potter by J.K. Rowling
+10. The Great Gatsby by F. Scott Fitzgerald
+11. The Outsiders by S.E. Hinton
+12. Inheritance Cycle by Christopher Paolini
+13. The Princess Bride by William Goldman
+14. Dracula by Bram Stoker
+15. Jane Eyre by Charlotte Bronte
+16. The Jungle Book by Rudyard Kipling
+17. The Merchant of Venice by William Shakespeare
+18. A Midsummer Night's Dream by William Shakespeare
+19. The Taming of the Shrew by William Shakespeare
+20. Ulysses by James Joyce
+21. The Things They Carried by Tim O'Brien
+22. All Quiet on the Western Front by Erich Maria Remarque
+23. The Crucible of Time by John Brunner
+24. Lord of the Flies by William Golding
+25. The Prophet by Kahlil Gibran
+26. The Scarlet Letter by Nathaniel Hawthorne
+27. The Monk by Matthew Gregory Lewis
+28. Lolita by Vladimir Nabokov
+29. The Canterville Ghost by Oscar Wilde
+30. Macbeth by William Shakespeare
+31. The Watchmen by Alan Moore
+32. Alice's Adventures in Wonderland by Lewis Carroll
+33. Manga by Various Authors
+34. The Wedding by Danielle Steel
+35. The Notebook by Nicholas Sparks
+36. The Shack by William P. Young
+37. A Wrinkle in Time by Madeleine L'Engle
+38. The Prodigal Daughter by Jeffrey Archer
+39. The Unbearable Lightness of Being by Milan Kundera
+40. The Prophet of Yonwood by Jeanne DuPrau
+41. The Zombie Survival Guide by Max Brooks
+42. Persepolis by Marjane Satrapi
+43. The Umbrella Academy by Gerard Way
+44. Will Grayson, Will Grayson by John Green and David Levithan
+45. Brisingr by Christopher Paolini
+46. Tarzan of the Apes by Edgar Rice Burroughs
+47. The Prosecution of George W. Bush for Murder by Vincent Bugliosi
+48. Fierce Invalids Home from Hot Climates by Tom Robbins
+49. 2001: A Space Odyssey by Arthur C. Clarke
+50.

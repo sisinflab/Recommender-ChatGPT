@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. 1984 by George Orwell
+5. The Great Gatsby by F. Scott Fitzgerald
+6. The Lord of the Rings by J.R.R. Tolkien
+7. The Hobbit by J.R.R. Tolkien
+8. The Chronicles of Narnia by C.S. Lewis
+9. The Fault in Our Stars by John Green
+10. The Book Thief by Markus Zusak
+11. The Girl with the Dragon Tattoo by Stieg Larsson
+12. The Da Vinci Code by Dan Brown
+13. The Help by Kathryn Stockett
+14. The Kite Runner by Khaled Hosseini
+15. The Road by Cormac McCarthy
+16. The Picture of Dorian Gray by Oscar Wilde
+17. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+18. The Adventures of Tom Sawyer by Mark Twain
+19. The Adventures of Huckleberry Finn by Mark Twain
+20. The Count of Monte Cristo by Alexandre Dumas
+21. The Three Musketeers by Alexandre Dumas
+22. Les Misérables by Victor Hugo
+23. The Brothers Karamazov by Fyodor Dostoevsky
+24. Crime and Punishment by Fyodor Dostoevsky
+25. Anna Karenina by Leo Tolstoy
+26. War and Peace by Leo Tolstoy
+27. One Hundred Years of Solitude by Gabriel García Márquez
+28. Love in the Time of Cholera by Gabriel García Márquez
+29. The Alchemist by Paulo Coelho
+30. The Name of the Wind by Patrick Rothfuss
+31. The Wise Man's Fear by Patrick Rothfuss
+32. The Shadow of the Wind by Carlos Ruiz Zafón
+33. The Girl on the Train by Paula Hawkins
+34. Gone Girl by Gillian Flynn
+35. The Maze Runner by James Dashner
+36. The Giver by Lois Lowry
+37. The Outsiders by S.E. Hinton
+38. The Perks of Being a Wallflower by Stephen Chbosky
+39. The Secret Life of Bees by Sue Monk Kidd
+40. The Lovely Bones by Alice Sebold
+41. The Time Traveler's Wife by Audrey Niffenegger
+42. The Handmaid's Tale by Margaret Atwood
+43. Brave New World by Aldous Huxley
+44. Fahrenheit 451 by Ray Bradbury
+45. The Martian by Andy Weir
+46. Ender's Game by Orson Scott Card
+47. Ready Player One by Ernest Cline
+48. The Hitchhiker's Guide to the Galaxy by Douglas Adams

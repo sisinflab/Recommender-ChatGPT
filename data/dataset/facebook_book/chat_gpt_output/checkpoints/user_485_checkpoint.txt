@@ -1,0 +1,46 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lion, the Witch and the Wardrobe by C. S. Lewis
+2. Little Women by Louisa May Alcott
+3. The Secret Garden by Frances Hodgson Burnett
+4. The Hobbit by J.R.R. Tolkien
+5. To Kill a Mockingbird by Harper Lee
+6. The Adventures of Tom Sawyer by Mark Twain
+7. The Wind in the Willows by Kenneth Grahame
+8. The Catcher in the Rye by J.D. Salinger
+9. The Great Gatsby by F. Scott Fitzgerald
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Adventures of Huckleberry Finn by Mark Twain
+12. The Picture of Dorian Gray by Oscar Wilde
+13. The Importance of Being Earnest by Oscar Wilde
+14. The Time Machine by H.G. Wells
+15. The War of the Worlds by H.G. Wells
+16. The Invisible Man by H.G. Wells
+17. The Island of Dr. Moreau by H.G. Wells
+18. The Call of the Wild by Jack London
+19. White Fang by Jack London
+20. The Old Man and the Sea by Ernest Hemingway
+21. Animal Farm by George Orwell
+22. 1984 by George Orwell
+23. Brave New World by Aldous Huxley
+24. Fahrenheit 451 by Ray Bradbury
+25. The Martian Chronicles by Ray Bradbury
+26. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+27. The Chronicles of Narnia: The Magician's Nephew by C.S. Lewis
+28. The Chronicles of Narnia: The Horse and His Boy by C.S. Lewis
+29. The Chronicles of Narnia: The Last Battle by C.S. Lewis
+30. The Chronicles of Narnia: The Silver Chair by C.S. Lewis
+31. The Chronicles of Narnia: The Voyage of the Dawn Treader by C.S. Lewis
+32. The Once and Future King by T.H. White
+33. Watership Down by Richard Adams
+34. The Giver by Lois Lowry
+35. The Hunger Games by Suzanne Collins
+36. Harry Potter and the Philosopher's Stone by J.K. Rowling
+37. Harry Potter and the Chamber of Secrets by J.K. Rowling
+38. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+39. Harry Potter and the Goblet of Fire by J.K. Rowling
+40. Harry Potter and the Order of Phoenix by J.K. Rowling
+41. Harry Potter and the Half-Blood Prince by J.K. Rowling
+42. Harry Potter and the Deathly Hallows by J.K. Rowling
+43. The Alchemist by Paulo Coelho
+44. The

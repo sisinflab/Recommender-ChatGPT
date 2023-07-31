@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. Great Expectations by Charles Dickens
+3. A Clockwork Orange by Anthony Burgess
+4. Nineteen Eighty-Four by George Orwell
+5. The Bell Jar by Sylvia Plath
+6. Candide by Voltaire
+7. Mrs Dalloway by Virginia Woolf
+8. Life of Pi by Yann Martel
+9. The Stranger by Albert Camus
+10. One Hundred Years of Solitude by Gabriel Garcia Marquez
+11. Blood Meridian by Cormac McCarthy
+12. Frankenstein by Mary Shelley
+13. Brave New World by Aldous Huxley
+14. Fahrenheit 451 by Ray Bradbury
+15. A Tale of Two Cities by Charles Dickens
+16. The Awakening by Kate Chopin
+17. The Fall of the House of Usher by Edgar Allan Poe
+18. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+19. Winnie-the-Pooh by A.A. Milne
+20. The Walking Dead by Robert Kirkman
+21. For Whom the Bell Tolls by Ernest Hemingway
+22. The Thirteenth Tale by Diane Setterfield
+23. Sophie's Choice by William Styron
+24. Still Life with Woodpecker by Tom Robbins
+25. Underworld by Don DeLillo
+26. The History of Love by Nicole Krauss
+27. The Year of Magical Thinking by Joan Didion
+28. Old Farmer's Almanac by Robert B. Thomas
+29. The Doors of Perception by Aldous Huxley
+30. The Giver by Lois Lowry
+31. Infinite Jest by David Foster Wallace
+32. Dreamcatcher by Stephen King
+33. Peanuts by Charles M. Schulz
+34. Leaves of Grass by Walt Whitman
+35. Things Fall Apart by Chinua Achebe
+36. Nancy Drew by Carolyn Keene
+37. Bible
+38. Dune by Frank Herbert
+39. The Anarchist Cookbook by William Powell
+40. The Executioner's Song by Norman Mailer
+41. Fear and Loathing in Las Vegas by Hunter S. Thompson
+42. Marvel Books
+43. Teaching with Calvin and Hobbes by Linda Holmen
+44. Speak by Laurie Halse Anderson
+45. The Moral Animal by Robert Wright
+46. On the Road by Jack Kerouac
+47. Tandia by Bryce Courtenay
+48. Madame Bovary by Gustave Flaubert
+49. A Good Man Is Hard to Find by Flannery O'Connor
+50. The Great Gatsby by F. Scott Fitzgerald

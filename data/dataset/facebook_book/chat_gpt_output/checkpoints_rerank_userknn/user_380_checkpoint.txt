@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Jane Eyre by Charlotte Bronte
+2. The Catcher in the Rye by J.D. Salinger
+3. Nineteen Eighty-Four by George Orwell
+4. The Picture of Dorian Gray by Oscar Wilde
+5. The Lord of the Rings by J.R.R. Tolkien
+6. The Hobbit by J.R.R. Tolkien
+7. The Silence of the Lambs by Thomas Harris
+8. Slaughterhouse-Five by Kurt Vonnegut
+9. The Grapes of Wrath by John Steinbeck
+10. The Kite Runner by Khaled Hosseini
+11. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+12. Emma by Jane Austen
+13. Great Expectations by Charles Dickens
+14. The Age of Innocence by Edith Wharton
+15. The Stand by Stephen King
+16. Dune by Frank Herbert
+17. The Good Earth by Pearl S. Buck
+18. The Anarchist Cookbook by William Powell
+19. The Master and Margarita by Mikhail Bulgakov
+20. Heart of Darkness by Joseph Conrad
+21. The Handmaid's Tale by Margaret Atwood
+22. Walden by Henry David Thoreau
+23. The Jungle Book by Rudyard Kipling
+24. The Time Machine by H.G. Wells
+25. The Blind Side by Michael Lewis
+26. The Tenth Circle by Jodi Picoult
+27. Ender's Game by Orson Scott Card
+28. Of Mice and Men by John Steinbeck
+29. The Tale of the Body Thief by Anne Rice
+30. The Will to Power by Friedrich Nietzsche
+31. Ramayana by Valmiki
+32. The Social Contract by Jean-Jacques Rousseau
+33. Around the World in Eighty Days by Jules Verne
+34. Because of Winn-Dixie by Kate DiCamillo
+35. Winnie-the-Pooh by A.A. Milne
+36. The Stand by Stephen King
+37. Lilith by George MacDonald
+38. My Ishmael by Daniel Quinn
+39. The Great Gatsby by F. Scott Fitzgerald
+40. Rebecca by Daphne du Maurier
+41. The Will to Power by Friedrich Nietzsche
+42. The Handmaid's Tale by Margaret Atwood
+43. The Silence of the Lambs by Thomas Harris
+44. The Grapes of Wrath by John Steinbeck
+45. The Kite Runner by Khaled Hosseini
+46. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+47. The Picture of Dorian Gray by Oscar Wilde
+48. The Lord of the Rings by J.R.R. Tolkien
+49. The Hobbit by J.R.R. Tolkien
+50. A Wrinkle in Time by

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Road to Serfdom by Friedrich Hayek
+2. The Fatal Conceit by Friedrich Hayek
+3. The Law by Frederic Bastiat
+4. Atlas Shrugged by Ayn Rand
+5. The Fountainhead by Ayn Rand
+6. Crime and Punishment by Fyodor Dostoevsky
+7. War and Peace by Leo Tolstoy
+8. Anna Karenina by Leo Tolstoy
+9. Les Misérables by Victor Hugo
+10. The Hunchback of Notre-Dame by Victor Hugo
+11. A Midsummer Night's Dream by William Shakespeare
+12. Romeo and Juliet by William Shakespeare
+13. Hamlet by William Shakespeare
+14. Macbeth by William Shakespeare
+15. Harry Potter and the Philosopher's Stone by J.K. Rowling
+16. Harry Potter and the Chamber of Secrets by J.K. Rowling
+17. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+18. Harry Potter and the Goblet of Fire by J.K. Rowling
+19. Harry Potter and the Order of Phoenix by J.K. Rowling
+20. Harry Potter and the Half-Blood Prince by J.K. Rowling
+21. Harry Potter and the Deathly Hallows by J.K. Rowling
+22. Jane Eyre by Charlotte Bronte
+23. Wuthering Heights by Emily Bronte
+24. Pride and Prejudice by Jane Austen
+25. Sense and Sensibility by Jane Austen
+26. Emma by Jane Austen
+27. Persuasion by Jane Austen
+28. Northanger Abbey by Jane Austen
+29. Their Eyes Were Watching God by Zora Neale Hurston
+30. Beloved by Toni Morrison
+31. The Bluest Eye by Toni Morrison
+32. The House of the Scorpion by Nancy Farmer
+33. The Giver by Lois Lowry
+34. The Hunger Games by Suzanne Collins
+35. Catching Fire by Suzanne Collins
+36. Mockingjay by Suzanne Collins
+37. The Maze Runner by James Dashner
+38. The Scorch Trials by James Dashner
+39. The Death Cure by James Dashner
+40. The Book of Mormon by Joseph Smith Jr.
+41. The Pearl by John Steinbeck
+42. Of Mice and Men by John Steinbeck
+43. The Great Gatsby by F. Scott Fitzgerald
+44. To Kill a Mockingbird by Harper Lee
+45. The Catcher in the Rye by J.D. Salinger
+46. 1984 by George Orwell
+47. Animal Farm by George Orwell
+48. Brave New World by Aldous Huxley
+49. Lord of the Flies by William Golding
+50. The Chronicles of Narnia by C.S. Lewis

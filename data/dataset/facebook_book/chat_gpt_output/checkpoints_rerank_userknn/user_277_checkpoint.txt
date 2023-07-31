@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Great Gatsby by F. Scott Fitzgerald
+2. To Kill a Mockingbird by Harper Lee
+3. Nineteen Eighty-Four by George Orwell
+4. Les Misérables by Victor Hugo
+5. The Lord of the Rings by J.R.R. Tolkien
+6. The Catcher in the Rye by J.D. Salinger
+7. East of Eden by John Steinbeck
+8. Of Mice and Men by John Steinbeck
+9. The Bell Jar by Sylvia Plath
+10. Catch-22 by Joseph Heller
+11. The Picture of Dorian Gray by Oscar Wilde
+12. The Hobbit by J.R.R. Tolkien
+13. Memoirs of a Geisha by Arthur Golden
+14. The Count of Monte Cristo by Alexandre Dumas
+15. Paradise Lost by John Milton
+16. Brave New World by Aldous Huxley
+17. The Giver by Lois Lowry
+18. The Secret Garden by Frances Hodgson Burnett
+19. The Awakening by Kate Chopin
+20. The Historian by Elizabeth Kostova
+21. The Colour of Magic by Terry Pratchett
+22. Left Behind by Tim LaHaye and Jerry B. Jenkins
+23. The Other Boleyn Girl by Philippa Gregory
+24. Bridget Jones's Diary by Helen Fielding
+25. Speak by Laurie Halse Anderson
+26. Harry Potter series by J.K. Rowling
+27. Titus Andronicus by William Shakespeare
+28. Night by Elie Wiesel
+29. Cat's Cradle by Kurt Vonnegut
+30. The Trial by Franz Kafka
+31. Gospel of Matthew
+32. Gospel of Mark
+33. Bible
+34. Oh, the Places You'll Go! by Dr. Seuss
+35. The Demon in the Freezer by Richard Preston
+36. The Grapes of Wrath by John Steinbeck
+37. Prey by Michael Crichton
+38. Intensity by Dean Koontz
+39. City of Glass by Cassandra Clare
+40. Inherit the Wind by Jerome Lawrence and Robert E. Lee
+41. The Lost Boy by Dave Pelzer
+42. Pyramids by Terry Pratchett
+43. American Gods by Neil Gaiman
+44. Into Thin Air by Jon Krakauer
+45. I Hope They Serve Beer in Hell by Tucker Max
+46. Choke by Chuck Palahniuk
+47. Ferdydurke by Witold Gombrowicz
+48. Demon Seed by Dean Koontz
+49. Goodnight Moon by Margaret Wise Brown
+50. The Chicago Manual of Style by University of Chicago Press

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Eragon by Christopher Paolini
+2. Eldest by Christopher Paolini
+3. Inheritance by Christopher Paolini
+4. Nineteen Minutes by Jodi Picoult
+5. The Pact by Jodi Picoult
+6. A Walk to Remember by Nicholas Sparks
+7. The Last Song by Nicholas Sparks
+8. The Amber Spyglass by Philip Pullman
+9. The Golden Compass by Philip Pullman
+10. The Subtle Knife by Philip Pullman
+11. The Valkyries by Paulo Coelho
+12. The Zahir by Paulo Coelho
+13. The Witch of Portobello by Paulo Coelho
+14. Specials by Scott Westerfeld
+15. Extras by Scott Westerfeld
+16. The Icewind Dale Trilogy by R.A. Salvatore
+17. The Dark Elf Trilogy by R.A. Salvatore
+18. The Cleric Quintet by R.A. Salvatore
+19. The Luxe by Anna Godbersen
+20. Rumors by Anna Godbersen
+21. Envy by Anna Godbersen
+22. Splendor by Anna Godbersen
+23. The Hunger Games by Suzanne Collins
+24. Catching Fire by Suzanne Collins
+25. Mockingjay by Suzanne Collins
+26. The Maze Runner by James Dashner
+27. The Scorch Trials by James Dashner
+28. The Death Cure by James Dashner
+29. The Giver by Lois Lowry
+30. Gathering Blue by Lois Lowry
+31. Messenger by Lois Lowry
+32. Son by Lois Lowry
+33. The Fault in Our Stars by John Green
+34. Looking for Alaska by John Green
+35. Paper Towns by John Green
+36. An Abundance of Katherines by John Green
+37. The Da Vinci Code by Dan Brown
+38. Angels & Demons by Dan Brown
+39. Inferno by Dan Brown
+40. Digital Fortress by Dan Brown
+41. The Girl with the Dragon Tattoo by Stieg Larsson
+42. The Girl Who Played with Fire by Stieg Larsson
+43. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+44. The Help by Kathryn Stockett
+45. Water for Elephants by Sara Gruen
+46. The Time Traveler's Wife by Audrey Niffenegger
+47. The Lovely Bones by Alice Sebold
+48. The Kite Runner by Khaled Hosseini
+49. A Thousand Splendid Suns by Khaled Hosseini
+50. And the Mountains Echoed by Khaled Hosseini

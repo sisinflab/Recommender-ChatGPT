@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Coldplay
+3. Muse
+4. Pink Floyd
+5. Arcade Fire
+6. Sigur Rós
+7. The National
+8. Bon Iver
+9. Fleet Foxes
+10. The Smiths
+11. Belle and Sebastian
+12. Elliott Smith
+13. Nick Drake
+14. Jeff Buckley
+15. Damien Rice
+16. Iron & Wine
+17. Sufjan Stevens
+18. The Shins
+19. Death Cab for Cutie
+20. The Postal Service
+21. R.E.M.
+22. U2
+23. David Bowie
+24. The Rolling Stones
+25. Led Zeppelin
+26. The Who
+27. The Doors
+28. Jimi Hendrix
+29. Bob Dylan
+30. Neil Young
+31. Tom Waits
+32. Leonard Cohen
+33. Joni Mitchell
+34. Van Morrison
+35. Simon & Garfunkel
+36. James Taylor
+37. Cat Stevens
+38. Carole King
+39. Joni Mitchell
+40. Fleetwood Mac
+41. The Eagles
+42. Bruce Springsteen
+43. Tom Petty
+44. John Mellencamp
+45. The Black Keys
+46. The White Stripes
+47. Arctic Monkeys
+48. The Strokes
+49. Franz Ferdinand
+50. Interpol

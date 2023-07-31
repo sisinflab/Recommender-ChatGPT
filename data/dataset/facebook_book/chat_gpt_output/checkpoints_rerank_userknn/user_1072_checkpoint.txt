@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter series by J.K. Rowling
+2. The Great Gatsby by F. Scott Fitzgerald
+3. The Catcher in the Rye by J.D. Salinger
+4. The Giver by Lois Lowry
+5. The Outsiders by S.E. Hinton
+6. To Kill a Mockingbird by Harper Lee
+7. The Hunger Games series by Suzanne Collins
+8. Twilight series by Stephenie Meyer
+9. The Notebook by Nicholas Sparks
+10. The Lovely Bones by Alice Sebold
+11. The Fault in Our Stars by John Green
+12. The Chronicles of Narnia by C.S. Lewis
+13. The Hobbit by J.R.R. Tolkien
+14. The Lord of the Rings by J.R.R. Tolkien
+15. The Da Vinci Code by Dan Brown
+16. Angels and Demons by Dan Brown
+17. The Girl with the Dragon Tattoo by Stieg Larsson
+18. The Girl Who Played with Fire by Stieg Larsson
+19. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+20. The Maze Runner by James Dashner
+21. Divergent by Veronica Roth
+22. Insurgent by Veronica Roth
+23. Allegiant by Veronica Roth
+24. The Mortal Instruments series by Cassandra Clare
+25. The Infernal Devices series by Cassandra Clare
+26. The Book Thief by Markus Zusak
+27. The Fault in Our Stars by John Green
+28. The Perks of Being a Wallflower by Stephen Chbosky
+29. The Secret Life of Bees by Sue Monk Kidd
+30. The Help by Kathryn Stockett
+31. The Alchemist by Paulo Coelho
+32. The Picture of Dorian Gray by Oscar Wilde
+33. The Count of Monte Cristo by Alexandre Dumas
+34. Les Miserables by Victor Hugo
+35. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+36. The Hound of the Baskervilles by Arthur Conan Doyle
+37. The Catcher in the Rye by J.D. Salinger
+38. The Bell Jar by Sylvia Plath
+39. The Color Purple by Alice Walker
+40. The Handmaid's Tale by Margaret Atwood
+41. 1984 by George Orwell
+42. Animal Farm by George Orwell
+43. Brave New World by Aldous Huxley
+44. Fahrenheit 451 by Ray Bradbury
+45. The Martian by Andy Weir
+46. Ready Player One by Ernest Cline
+47. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+48. Ender's Game by Orson Scott Card
+49. The Hunger Games by Suzanne Collins
+50. Catching Fire by Suzanne Collins

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Animal Farm by George Orwell
+6. The Hobbit by J.R.R. Tolkien
+7. The Lord of the Rings by J.R.R. Tolkien
+8. The Hunger Games by Suzanne Collins
+9. Catching Fire by Suzanne Collins
+10. Mockingjay by Suzanne Collins
+11. The Girl with the Dragon Tattoo by Stieg Larsson
+12. The Girl Who Played with Fire by Stieg Larsson
+13. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+14. The Da Vinci Code by Dan Brown
+15. Angels and Demons by Dan Brown
+16. Inferno by Dan Brown
+17. The Lost Symbol by Dan Brown
+18. The Shining by Stephen King
+19. It by Stephen King
+20. Carrie by Stephen King
+21. Misery by Stephen King
+22. The Stand by Stephen King
+23. The Dark Tower series by Stephen King
+24. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+25. Ender's Game by Orson Scott Card
+26. Dune by Frank Herbert
+27. The Martian by Andy Weir
+28. Ready Player One by Ernest Cline
+29. The Chronicles of Narnia by C.S. Lewis
+30. The Harry Potter series by J.K. Rowling
+31. The Percy Jackson series by Rick Riordan
+32. The Heroes of Olympus series by Rick Riordan
+33. The Kane Chronicles series by Rick Riordan
+34. The Maze Runner series by James Dashner
+35. The Giver by Lois Lowry
+36. The Outsiders by S.E. Hinton
+37. The Fault in Our Stars by John Green
+38. The Alchemist by Paulo Coelho
+39. The Picture of Dorian Gray by Oscar Wilde
+40. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+41. The Count of Monte Cristo by Alexandre Dumas
+42. Les Misérables by Victor Hugo
+43. Pride and Prejudice by Jane Austen
+44. Sense and Sensibility by Jane Austen
+45. Emma by Jane Austen
+46. Persuasion by Jane Austen
+47. Northanger Abbey by Jane Austen
+48. Great Expectations by Charles Dickens
+49. Oliver Twist by Charles Dickens
+50. A Tale of Two Cities by Charles Dickens

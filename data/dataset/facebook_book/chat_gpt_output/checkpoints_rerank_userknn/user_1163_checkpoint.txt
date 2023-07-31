@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter
+2. Pride and Prejudice
+3. Wuthering Heights
+4. To Kill a Mockingbird
+5. The Lord of the Rings
+6. Jane Eyre
+7. The Book Thief
+8. Emma (novel)
+9. Sense and Sensibility
+10. The Secret Garden
+11. The Scarlet Letter
+12. Mansfield Park
+13. Frankenstein
+14. Rebecca (novel)
+15. Fahrenheit 451
+16. Ender's Game
+17. A Clockwork Orange
+18. Memoirs of a Geisha
+19. The Giver
+20. The Catcher in the Rye
+21. Dracula
+22. Flowers in the Attic
+23. Nineteen Eighty-Four
+24. Island of the Blue Dolphins
+25. A Wrinkle in Time
+26. The Southern Vampire Mysteries
+27. The Da Vinci Code
+28. Persepolis (comics)
+29. The Moorchild
+30. My Sister's Keeper (novel)
+31. Unwind (novel)
+32. The Five People You Meet in Heaven
+33. Paradise Lost
+34. The Phantom of the Opera
+35. Cat's Cradle
+36. Northanger Abbey
+37. Jinx (novel)
+38. Holes (novel)
+39. Maximum Ride
+40. Princess Academy
+41. Romeo and Juliet
+42. Peter and Wendy
+43. The Swiss Family Robinson
+44. Jessica's Guide to Dating on the Dark Side
+45. Catching Fire
+46. Vampire Kisses
+47. Witch & Wizard
+48. Night (book)
+49. The Umbrella Academy
+50. Because of Winn-Dixie
+
+Note: City of Glass (Mortal Instruments) and A Midsummer Night's Dream were not included in the recommendations as they did not have a clear match in the list of books the user likes.

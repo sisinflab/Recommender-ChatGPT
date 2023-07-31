@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Tokio Hotel
+2. Elvis Presley
+3. Sopor Aeternus & The Ensemble of Shadows
+4. Papa Roach
+5. The Birthday Massacre
+6. Jeffree Star
+7. A Day to Remember
+8. Garbage
+9. Depeche Mode
+10. Simple Plan
+11. Cinema Bizarre
+12. Lacrimosa
+13. Amy Winehouse
+14. Placebo
+15. Deathstars
+16. AFI
+17. Nightwish
+18. Ozzy Osbourne
+19. Christina Aguilera
+20. The Beatles
+21. Adam Lambert
+22. Avenged Sevenfold
+23. t.A.T.u.
+24. Misfits
+25. Iron Maiden
+26. Within Temptation
+27. Kerli
+28. Hawthorne Heights
+29. Britney Spears
+30. Lady Gaga
+31. Paramore
+32. Madonna
+33. Rihanna
+34. Shakira
+35. Katy Perry
+36. Avril Lavigne
+37. Taylor Swift
+38. Evanescence
+39. Glee Cast
+40. Beyoncé
+41. U2
+42. 30 Seconds to Mars
+43. Muse
+44. Pink Floyd
+45. Kylie Minogue
+46. Miley Cyrus
+47. Radiohead
+48. Ke$ha
+49. Duran Duran
+50. Coldplay

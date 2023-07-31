@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. World War Z by Max Brooks
+2. The Hunger Games by Suzanne Collins
+3. The Maze Runner by James Dashner
+4. The Girl with All the Gifts by M.R. Carey
+5. The Road by Cormac McCarthy
+6. The Stand by Stephen King
+7. The Handmaid's Tale by Margaret Atwood
+8. The Shining by Stephen King
+9. The Dark Tower series by Stephen King
+10. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+11. The Martian by Andy Weir
+12. The Name of the Wind by Patrick Rothfuss
+13. The Dresden Files series by Jim Butcher
+14. The Wheel of Time series by Robert Jordan
+15. The Stormlight Archive series by Brandon Sanderson
+16. The Kingkiller Chronicle series by Patrick Rothfuss
+17. The Mistborn series by Brandon Sanderson
+18. The First Law trilogy by Joe Abercrombie
+19. The Lies of Locke Lamora by Scott Lynch
+20. The Blade Itself by Joe Abercrombie
+21. The Way of Kings by Brandon Sanderson
+22. The Malazan Book of the Fallen series by Steven Erikson
+23. The Black Company series by Glen Cook
+24. The Chronicles of Narnia by C.S. Lewis
+25. The Hobbit by J.R.R. Tolkien
+26. The Silmarillion by J.R.R. Tolkien
+27. The Dark Elf Trilogy by R.A. Salvatore
+28. The Legend of Drizzt series by R.A. Salvatore
+29. The Belgariad series by David Eddings
+30. The Elenium series by David Eddings
+31. The Tamuli series by David Eddings
+32. The Sword of Truth series by Terry Goodkind
+33. The Wheel of Time series by Robert Jordan and Brandon Sanderson
+34. The Lightbringer series by Brent Weeks
+35. The Night Angel Trilogy by Brent Weeks
+36. The Broken Empire Trilogy by Mark Lawrence
+37. The Red Queen's War Trilogy by Mark Lawrence
+38. The Powder Mage Trilogy by Brian McClellan
+39. The Shadow Campaigns series by Django Wexler
+40. The Gentleman Bastard series by Scott Lynch
+41. The Riyria Revelations series by Michael J. Sullivan
+42. The Farseer Trilogy by Robin Hobb
+43. The Liveship Traders Trilogy by Robin Hobb
+44. The Tawny Man Trilogy by Robin Hobb
+45. The Rain Wild Chronicles by Robin Hobb
+46. The Inheritance Trilogy by N.K. Jemisin
+47. The Broken Earth Trilogy by N.K. Jemisin
+48. The King's Dark Tidings series by Kel Kade
+49. The Bell Jar by Sylvia Plath
+50. The Wise Man's Fear by Patrick Rothfuss

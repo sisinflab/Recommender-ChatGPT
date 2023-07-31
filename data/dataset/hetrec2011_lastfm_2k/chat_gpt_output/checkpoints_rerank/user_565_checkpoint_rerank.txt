@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Depeche Mode
+2. The Cure
+3. New Order
+4. Kraftwerk
+5. Orchestral Manoeuvres in the Dark
+6. Soft Cell
+7. Yazoo
+8. Ultravox
+9. Visage
+10. The Human League
+11. David Bowie
+12. Goldfrapp
+13. Massive Attack
+14. Portishead
+15. Saint Etienne
+16. R.E.M.
+17. Editors
+18. The Prodigy
+19. Ramones
+20. Electronic
+21. Suede
+22. Garbage
+23. Nouvelle Vague
+24. The Ting Tings
+25. Dave Gahan
+26. Vive la Fête
+27. Keane
+28. Duran Duran
+29. Arctic Monkeys
+30. Placebo
+31. Radiohead
+32. Muse
+33. Pink Floyd
+34. Nirvana
+35. Led Zeppelin
+36. Iron Maiden
+37. Metallica
+38. Michael Jackson
+39. Pearl Jam
+40. Björk
+41. Nine Inch Nails
+42. Daft Punk
+43. Linkin Park
+44. Avenged Sevenfold
+45. All Time Low
+46. Green Day
+47. My Chemical Romance
+48. Black Eyed Peas
+49. P!nk
+50. Katy Perry

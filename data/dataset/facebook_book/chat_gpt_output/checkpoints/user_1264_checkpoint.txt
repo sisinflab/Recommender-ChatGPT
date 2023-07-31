@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. Slaughterhouse-Five by Kurt Vonnegut
+4. The Great Gatsby by F. Scott Fitzgerald
+5. To Kill a Mockingbird by Harper Lee
+6. Catch-22 by Joseph Heller
+7. One Hundred Years of Solitude by Gabriel Garcia Marquez
+8. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Stranger by Albert Camus
+11. The Sun Also Rises by Ernest Hemingway
+12. The Catcher in the Rye by J.D. Salinger
+13. The Bell Jar by Sylvia Plath
+14. A Clockwork Orange by Anthony Burgess
+15. Lord of the Flies by William Golding
+16. Animal Farm by George Orwell
+17. The Road by Cormac McCarthy
+18. Fahrenheit 451 by Ray Bradbury
+19. Invisible Monsters by Chuck Palahniuk
+20. It's Kind of a Funny Story by Ned Vizzini
+21. The Perks of Being a Wallflower by Stephen Chbosky
+22. The Handmaid's Tale by Margaret Atwood
+23. The Shining by Stephen King
+24. American Psycho by Bret Easton Ellis
+25. The Girl with the Dragon Tattoo by Stieg Larsson
+26. The Hunger Games by Suzanne Collins
+27. The Da Vinci Code by Dan Brown
+28. The Lord of the Rings by J.R.R. Tolkien
+29. Harry Potter and the Philosopher's Stone by J.K. Rowling
+30. The Hobbit by J.R.R. Tolkien
+31. The Chronicles of Narnia by C.S. Lewis
+32. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+33. The Name of the Wind by Patrick Rothfuss
+34. The Lies of Locke Lamora by Scott Lynch
+35. The Way of Kings by Brandon Sanderson
+36. The Blade Itself by Joe Abercrombie
+37. The Final Empire by Brandon Sanderson
+38. The Eye of the World by Robert Jordan
+39. The Fellowship of the Ring by J.R.R. Tolkien
+40. The Gunslinger by Stephen King
+41. The Dark Tower by Stephen King
+42. The Stand by Stephen King
+43. The Talisman by Stephen King and Peter Straub
+44. The Green Mile by Stephen King
+45. The Outsider by Stephen King
+46. The Dead Zone by Stephen King
+47. The Long Walk by Stephen King
+48. The Running Man by Stephen King
+49. The Regulators by Stephen King
+50. The Tommyknockers by Stephen King

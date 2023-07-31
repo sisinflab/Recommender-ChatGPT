@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Da Vinci Code by Dan Brown
+2. Inferno by Dan Brown
+3. Digital Fortress by Dan Brown
+4. Angels & Demons by Dan Brown
+5. Deception Point by Dan Brown
+6. The Lost Symbol by Dan Brown
+7. The Alchemist by Paulo Coelho
+8. A Thousand Splendid Suns by Khaled Hosseini
+9. The Kite Runner by Khaled Hosseini
+10. Brida by Paulo Coelho
+11. The Zahir by Paulo Coelho
+12. Love Story by Erich Segal
+13. The Godfather by Mario Puzo
+14. The Last Don by Mario Puzo
+15. Kane and Abel by Jeffrey Archer
+16. A Prisoner of Birth by Jeffrey Archer
+17. The Firm by John Grisham
+18. Nothing Lasts Forever by Sidney Sheldon
+19. If Tomorrow Comes by Sidney Sheldon
+20. Rage of Angels by Sidney Sheldon
+21. The Doomsday Conspiracy by Sidney Sheldon
+22. The Winner Stands Alone by Paulo Coelho
+23. The Fountainhead by Ayn Rand
+24. Anthem by Ayn Rand
+25. To Kill a Mockingbird by Harper Lee
+26. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+27. Eldest by Christopher Paolini
+28. Around the World in Eighty Days by Jules Verne
+29. The Lord of the Rings by J.R.R. Tolkien
+30. Harry Potter by J.K. Rowling
+31. Inkspell by Cornelia Funke
+32. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+33. Diary of a Wimpy Kid by Jeff Kinney
+34. The Famous Five by Enid Blyton
+35. The Hardy Boys by Franklin W. Dixon
+36. Garfield by Jim Davis
+37. Teaching with Calvin and Hobbes by Bill Watterson
+38. The Class by Erich Segal
+39. State of Fear by Michael Crichton
+40. The Last Song by Nicholas Sparks
+41. Lolita by Vladimir Nabokov
+42. Feelings by Aliki
+43. Quran by Anonymous
+44. Gray's Anatomy by Henry Gray
+45. Mills & Boon by Various Authors
+46. PS, I Love You by Cecelia Ahern
+47. Twilight by Stephenie Meyer
+48. The Lucky One by Nicholas Sparks
+49. Congo by Michael Crichton
+50. The Argumentative Indian by Amartya Sen

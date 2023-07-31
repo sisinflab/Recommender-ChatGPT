@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Sapiens: A Brief History of Humankind by Yuval Noah Harari
+2. 1984 by George Orwell
+3. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+4. The Catcher in the Rye by J.D. Salinger
+5. To Kill a Mockingbird by Harper Lee
+6. The Great Gatsby by F. Scott Fitzgerald
+7. The Alchemist by Paulo Coelho
+8. The Da Vinci Code by Dan Brown
+9. The Girl with the Dragon Tattoo by Stieg Larsson
+10. The Hunger Games by Suzanne Collins
+11. The Lord of the Rings by J.R.R. Tolkien
+12. The Hobbit by J.R.R. Tolkien
+13. The Chronicles of Narnia by C.S. Lewis
+14. The Giver by Lois Lowry
+15. The Maze Runner by James Dashner
+16. The Fault in Our Stars by John Green
+17. The Book Thief by Markus Zusak
+18. The Road to Serfdom by Friedrich Hayek
+19. The Wealth of Nations by Adam Smith
+20. The Communist Manifesto by Karl Marx and Friedrich Engels
+21. The Republic by Plato
+22. The Prince by Niccolo Machiavelli
+23. The Art of War by Sun Tzu
+24. The Divine Comedy by Dante Alighieri
+25. The Canterbury Tales by Geoffrey Chaucer
+26. The Iliad by Homer
+27. The Odyssey by Homer
+28. The Aeneid by Virgil
+29. The Inferno by Dante Alighieri
+30. The Decameron by Giovanni Boccaccio
+31. The Canterbury Tales by Geoffrey Chaucer
+32. The Divine Comedy by Dante Alighieri
+33. The Prince by Niccolo Machiavelli
+34. The Art of War by Sun Tzu
+35. The Wealth of Nations by Adam Smith
+36. The Communist Manifesto by Karl Marx and Friedrich Engels
+37. The Republic by Plato
+38. The Odyssey by Homer
+39. The Iliad by Homer
+40. The Aeneid by Virgil
+41. The Inferno by Dante Alighieri
+42. The Decameron by Giovanni Boccaccio
+43. The Canterbury Tales by Geoffrey Chaucer
+44. The Divine Comedy by Dante Alighieri
+45. The Prince by Niccolo Machiavelli
+46. The Art of War by Sun Tzu
+47. The Wealth of Nations by Adam Smith
+48. The Communist Manifesto by Karl Marx and Friedrich Engels
+49. The Republic by Plato
+50. The Odyssey by Homer

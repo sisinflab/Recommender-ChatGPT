@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter and the Philosopher's Stone by J.K. Rowling
+2. The Hunger Games by Suzanne Collins
+3. To Kill a Mockingbird by Harper Lee
+4. The Lord of the Rings by J.R.R. Tolkien
+5. The Hobbit by J.R.R. Tolkien
+6. The Chronicles of Narnia by C.S. Lewis
+7. The Fault in Our Stars by John Green
+8. The Girl with the Dragon Tattoo by Stieg Larsson
+9. The Girl on the Train by Paula Hawkins
+10. The Help by Kathryn Stockett
+11. The Kite Runner by Khaled Hosseini
+12. The Book Thief by Markus Zusak
+13. The Maze Runner by James Dashner
+14. The Giver by Lois Lowry
+15. The Alchemist by Paulo Coelho
+16. The Secret Life of Bees by Sue Monk Kidd
+17. The Lovely Bones by Alice Sebold
+18. The Time Traveler's Wife by Audrey Niffenegger
+19. The Catcher in the Rye by J.D. Salinger
+20. The Da Vinci Code by Dan Brown
+21. Angels & Demons by Dan Brown
+22. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+23. The Spiderwick Chronicles by Tony DiTerlizzi and Holly Black
+24. The Magic of Thinking Big by David J. Schwartz
+25. Jonathan Livingston Seagull by Richard Bach
+26. Kick Ass by Carl Hiaasen
+27. The World Is Flat by Thomas Friedman
+28. The Outsiders by S.E. Hinton
+29. The Perks of Being a Wallflower by Stephen Chbosky
+30. The Picture of Dorian Gray by Oscar Wilde
+31. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+32. The Count of Monte Cristo by Alexandre Dumas
+33. The Three Musketeers by Alexandre Dumas
+34. The War of the Worlds by H.G. Wells
+35. The Invisible Man by H.G. Wells
+36. The Island of Dr. Moreau by H.G. Wells
+37. The Time Machine by H.G. Wells
+38. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+39. The Stand by Stephen King
+40. The Shining by Stephen King
+41. The Silence of the Lambs by Thomas Harris
+42. The Bourne Identity by Robert Ludlum
+43. The Bourne Supremacy by Robert Ludlum
+44. The Bourne Ultimatum by Robert Ludlum
+45. The Firm by John Grisham
+46. The Pelican Brief by John Grisham
+47. The Rainmaker by John Grisham
+48. The Client by John Grisham

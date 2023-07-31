@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Strokes
+2. Death Cab for Cutie
+3. Arcade Fire
+4. The Shins
+5. Vampire Weekend
+6. The Postal Service
+7. Neutral Milk Hotel
+8. The Decemberists
+9. The National
+10. Interpol
+11. Yeah Yeah Yeahs
+12. Phoenix
+13. Bloc Party
+14. The White Stripes
+15. Arctic Monkeys
+16. Radiohead
+17. Muse
+18. The Black Keys
+19. Spoon
+20. Franz Ferdinand
+21. The Killers
+22. Modest Mouse
+23. LCD Soundsystem
+24. Wilco
+25. Belle and Sebastian
+26. The Flaming Lips
+27. Animal Collective
+28. Spoon
+29. The New Pornographers
+30. The Walkmen
+31. Band of Horses
+32. Broken Social Scene
+33. Grizzly Bear
+34. Fleet Foxes
+35. The Avett Brothers
+36. Iron & Wine
+37. Sufjan Stevens
+38. Bon Iver
+39. The Tallest Man on Earth
+40. Andrew Bird
+41. Beirut
+42. The Antlers
+43. Explosions in the Sky
+44. Sigur Rós
+45. Godspeed You! Black Emperor
+46. Mogwai
+47. My Morning Jacket
+48. The Mars Volta
+49. Queens of the Stone Age
+50. Tool

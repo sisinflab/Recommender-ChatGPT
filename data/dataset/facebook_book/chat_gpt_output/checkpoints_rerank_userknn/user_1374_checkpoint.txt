@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. The Hobbit by J.R.R. Tolkien
+3. Harry Potter by J.K. Rowling
+4. Frankenstein by Mary Shelley
+5. Dracula by Bram Stoker
+6. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+7. Fahrenheit 451 by Ray Bradbury
+8. Brave New World by Aldous Huxley
+9. The Catcher in the Rye by J.D. Salinger
+10. Les Misérables by Victor Hugo
+11. The Secret Garden by Frances Hodgson Burnett
+12. Alice's Adventures in Wonderland by Lewis Carroll
+13. Great Expectations by Charles Dickens
+14. Jane Eyre by Charlotte Bronte
+15. The Count of Monte Cristo by Alexandre Dumas
+16. The Amber Spyglass by Philip Pullman
+17. Percy Jackson & the Olympians by Rick Riordan
+18. The Dresden Files by Jim Butcher
+19. The Da Vinci Code by Dan Brown
+20. Angels & Demons by Dan Brown
+21. The Rum Diary by Hunter S. Thompson
+22. Fear and Loathing in Las Vegas by Hunter S. Thompson
+23. In Cold Blood by Truman Capote
+24. The Outsiders by S.E. Hinton
+25. Slaughterhouse-Five by Kurt Vonnegut
+26. Choke by Chuck Palahniuk
+27. Watchmen by Alan Moore
+28. The Pit and the Pendulum by Edgar Allan Poe
+29. Twenty Thousand Leagues Under the Sea by Jules Verne
+30. The Secret Life of Bees by Sue Monk Kidd
+31. Interview with the Vampire by Anne Rice
+32. The Dark Tower: The Gunslinger by Stephen King
+33. Nightmares & Dreamscapes by Stephen King
+34. The Zombie Survival Guide by Max Brooks
+35. A Clockwork Orange by Anthony Burgess
+36. The Sleeping Beauty by Mercedes Lackey
+37. Tuck Everlasting by Natalie Babbitt
+38. The City of Ember by Jeanne DuPrau
+39. Sepulchre by Kate Mosse
+40. Rebel Angels by Libba Bray
+41. Candide by Voltaire
+42. Iliad by Homer
+43. Oil! by Upton Sinclair
+44. The Chosen by Chaim Potok
+45. Eric by Terry Pratchett
+46. The Secret by Rhonda Byrne
+47. Go Ask Alice by Anonymous
+48. Eat, Pray, Love by Elizabeth Gilbert
+49. Sin City by Frank Miller
+50. Dune by Frank Herbert

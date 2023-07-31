@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for user 1425 are:
+
+1. Marina & the Diamonds
+2. Florence + the Machine
+3. Regina Spektor
+4. Kate Nash
+5. Antony and the Johnsons
+6. Ellie Goulding
+7. Bat for Lashes
+8. Kelis
+9. Little Boots
+10. The xx
+11. Crystal Castles
+12. La Roux
+13. Lykke Li
+14. Yann Tiersen
+15. Frankmusik
+16. Adele
+17. Laura Marling
+18. Patrick Wolf
+19. Architecture in Helsinki
+20. Corinne Bailey Rae
+21. Au Revoir Simone
+22. Diana Vickers
+23. Peaches
+24. Björk
+25. Radiohead
+26. Muse
+27. Pink Floyd
+28. The Beatles
+29. Nine Inch Nails
+30. Led Zeppelin
+31. Nirvana
+32. Metallica
+33. Michael Jackson
+34. Pearl Jam
+35. U2
+36. Coldplay
+37. Blur
+38. Arctic Monkeys
+39. Placebo
+40. The Killers
+41. Amy Winehouse
+42. Daft Punk
+43. System of a Down
+44. Iron Maiden
+45. Kelly Clarkson
+46. Avril Lavigne
+47. Linkin Park
+48. Green Day
+49. My Chemical Romance
+50. The Cure

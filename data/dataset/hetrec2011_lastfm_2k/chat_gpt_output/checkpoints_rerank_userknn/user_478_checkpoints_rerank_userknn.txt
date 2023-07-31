@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Green Day
+2. Ramones
+3. Misfits
+4. NOFX
+5. Rancid
+6. Dead Kennedys
+7. Sublime
+8. blink-182
+9. Matanza
+10. Pennywise
+11. AC/DC
+12. Foo Fighters
+13. Bob Marley
+14. Yellowcard
+15. Paramore
+16. Millencolin
+17. Scracho
+18. MxPx
+19. The Clash
+20. Nirvana
+21. The Offspring
+22. Sex Pistols
+23. Arctic Monkeys
+24. Fall Out Boy
+25. Bowling for Soup
+26. Sum 41
+27. The Distillers
+28. A Day to Remember
+29. At the Drive-In
+30. The Mars Volta
+31. Escape The Fate
+32. Bloodhound Gang
+33. Avenged Sevenfold
+34. The Fall of Troy
+35. Walls of Jericho
+36. Bullet for My Valentine
+37. Alexisonfire
+38. Oasis
+39. Brandon Flowers
+40. Queens of the Stone Age
+41. Papa Roach
+42. Legião Urbana
+43. Metallica
+44. Bad Religion
+45. Judas Priest
+46. Los Hermanos
+47. Maroon 5
+48. All Time Low
+49. Coldplay
+50. Pearl Jam

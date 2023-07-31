@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter by J.K. Rowling
+2. The Lord of the Rings by J.R.R. Tolkien
+3. To Kill a Mockingbird by Harper Lee
+4. Frankenstein by Mary Shelley
+5. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+6. The Count of Monte Cristo by Alexandre Dumas
+7. Romeo and Juliet by William Shakespeare
+8. Dracula by Bram Stoker
+9. The Vampire Chronicles by Anne Rice
+10. The Book Thief by Markus Zusak
+11. The Lost Symbol by Dan Brown
+12. The Southern Vampire Mysteries by Charlaine Harris
+13. The Lovely Bones by Alice Sebold
+14. Love Story by Erich Segal
+15. Brave New World by Aldous Huxley
+16. Paradise Lost by John Milton
+17. The Da Vinci Code by Dan Brown
+18. The Brothers Karamazov by Fyodor Dostoevsky
+19. The Fountainhead by Ayn Rand
+20. Inkheart by Cornelia Funke
+21. The Sword of Shannara by Terry Brooks
+22. Outliers by Malcolm Gladwell
+23. The Coldest Winter Ever by Sister Souljah
+24. The Hamlet by William Faulkner
+25. The Lion in Winter by James Goldman
+26. Macbeth by William Shakespeare
+27. Lolita by Vladimir Nabokov
+28. Twilight by Stephenie Meyer
+29. The Messenger by Markus Zusak
+30. The Mysterious Island by Jules Verne
+31. King Solomon's Mines by H. Rider Haggard
+32. The Sicilian by Mario Puzo
+33. The 3 Mistakes of My Life by Chetan Bhagat
+34. Blood and Chocolate by Annette Curtis Klause
+35. I Am Legend by Richard Matheson
+36. Inkspell by Cornelia Funke
+37. Deception Point by Dan Brown
+38. The Unbearable Lightness of Being by Milan Kundera
+39. The Grand Design by Stephen Hawking and Leonard Mlodinow
+40. Digital Fortress by Dan Brown
+41. Angels & Demons by Dan Brown
+42. Fences by August Wilson
+43. Fox in Socks by Dr. Seuss
+44. Midnight Sun by Stephenie Meyer
+45. Christine by Stephen King
+46. The Collected Works of William Shakespeare
+47. The Complete Works of Edgar Allan Poe
+48. The Complete Sherlock Holmes by Arthur Conan Doyle
+49. Goosebumps by R.L. Stine
+50. Holes by Louis Sachar

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Go Ask Alice by Anonymous
+2. The Perks of Being a Wallflower by Stephen Chbosky
+3. Speak by Laurie Halse Anderson
+4. Thirteen Reasons Why by Jay Asher
+5. The Fault in Our Stars by John Green
+6. Looking for Alaska by John Green
+7. It's Kind of a Funny Story by Ned Vizzini
+8. The Bell Jar by Sylvia Plath
+9. Girl, Interrupted by Susanna Kaysen
+10. The Virgin Suicides by Jeffrey Eugenides
+11. The Lovely Bones by Alice Sebold
+12. The Hunger Games by Suzanne Collins
+13. Catching Fire by Suzanne Collins
+14. Mockingjay by Suzanne Collins
+15. Divergent by Veronica Roth
+16. Insurgent by Veronica Roth
+17. Allegiant by Veronica Roth
+18. The Maze Runner by James Dashner
+19. The Scorch Trials by James Dashner
+20. The Death Cure by James Dashner
+21. The Giver by Lois Lowry
+22. Gathering Blue by Lois Lowry
+23. Messenger by Lois Lowry
+24. Son by Lois Lowry
+25. The Book Thief by Markus Zusak
+26. The Outsiders by S.E. Hinton
+27. A Separate Peace by John Knowles
+28. Lord of the Flies by William Golding
+29. To Kill a Mockingbird by Harper Lee
+30. The Great Gatsby by F. Scott Fitzgerald
+31. 1984 by George Orwell
+32. Animal Farm by George Orwell
+33. Brave New World by Aldous Huxley
+34. Fahrenheit 451 by Ray Bradbury
+35. The Handmaid's Tale by Margaret Atwood
+36. The Road by Cormac McCarthy
+37. The Stand by Stephen King
+38. The Shining by Stephen King
+39. Carrie by Stephen King
+40. Misery by Stephen King
+41. The Girl with the Dragon Tattoo by Stieg Larsson
+42. The Girl Who Played with Fire by Stieg Larsson
+43. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+44. The Da Vinci Code by Dan Brown
+45. Angels and Demons by Dan Brown
+46. Inferno by Dan Brown
+47. The Bourne Identity by Robert Ludlum
+48. The Bourne Supremacy by Robert Ludlum
+49. The Bourne Ultimatum by Robert Ludlum
+50. The Hunger Games Trilogy Boxed Set by Suzanne Collins

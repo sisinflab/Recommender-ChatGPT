@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Animal Farm by George Orwell
+6. Brave New World by Aldous Huxley
+7. Lord of the Flies by William Golding
+8. The Hobbit by J.R.R. Tolkien
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+11. The Hunger Games by Suzanne Collins
+12. Harry Potter and the Philosopher's Stone by J.K. Rowling
+13. The Da Vinci Code by Dan Brown
+14. The Girl on the Train by Paula Hawkins
+15. The Help by Kathryn Stockett
+16. The Kite Runner by Khaled Hosseini
+17. The Lovely Bones by Alice Sebold
+18. The Maze Runner by James Dashner
+19. The Secret Life of Bees by Sue Monk Kidd
+20. The Time Traveler's Wife by Audrey Niffenegger
+21. The Fault in Our Stars by John Green
+22. The Book Thief by Markus Zusak
+23. The Alchemist by Paulo Coelho
+24. The Picture of Dorian Gray by Oscar Wilde
+25. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+26. The War of the Worlds by H.G. Wells
+27. The Invisible Man by H.G. Wells
+28. The Island of Dr. Moreau by H.G. Wells
+29. The Time Machine by H.G. Wells
+30. The Martian by Andy Weir
+31. The Road by Cormac McCarthy
+32. The Stand by Stephen King
+33. The Shining by Stephen King
+34. The Silence of the Lambs by Thomas Harris
+35. The Bourne Identity by Robert Ludlum
+36. The Girl with the Dragon Tattoo by Stieg Larsson
+37. The Name of the Rose by Umberto Eco
+38. The Picture of Dorian Gray by Oscar Wilde
+39. The Adventures of Tom Sawyer by Mark Twain
+40. The Adventures of Huckleberry Finn by Mark Twain
+41. The Old Man and the Sea by Ernest Hemingway
+42. The Sun Also Rises by Ernest Hemingway
+43. The Catcher in the Rye by J.D. Salinger
+44. The Bell Jar by Sylvia Plath
+45. The Color Purple by Alice Walker
+46. The Handmaid's Tale by Margaret Atwood
+47. The Road Less Traveled by M. Scott Peck
+48. The Prophet by Kahlil Gibran
+49. The Power of Now by Eckhart Tolle
+50. The Celestine

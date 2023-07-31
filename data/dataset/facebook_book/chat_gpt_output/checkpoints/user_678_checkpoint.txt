@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. Brave New World by Aldous Huxley
+4. The Catcher in the Rye by J.D. Salinger
+5. The Great Gatsby by F. Scott Fitzgerald
+6. The Adventures of Huckleberry Finn by Mark Twain
+7. The Adventures of Tom Sawyer by Mark Twain
+8. The Grapes of Wrath by John Steinbeck
+9. The Old Man and the Sea by Ernest Hemingway
+10. The Sun Also Rises by Ernest Hemingway
+11. The Sound and the Fury by William Faulkner
+12. One Hundred Years of Solitude by Gabriel Garcia Marquez
+13. Love in the Time of Cholera by Gabriel Garcia Marquez
+14. Crime and Punishment by Fyodor Dostoevsky
+15. The Brothers Karamazov by Fyodor Dostoevsky
+16. War and Peace by Leo Tolstoy
+17. Anna Karenina by Leo Tolstoy
+18. The Picture of Dorian Gray by Oscar Wilde
+19. The Importance of Being Earnest by Oscar Wilde
+20. Heart of Darkness by Joseph Conrad
+21. Lord Jim by Joseph Conrad
+22. The Trial by Franz Kafka
+23. The Metamorphosis by Franz Kafka
+24. The Stranger by Albert Camus
+25. The Plague by Albert Camus
+26. The Bell Jar by Sylvia Plath
+27. The Color Purple by Alice Walker
+28. Beloved by Toni Morrison
+29. Slaughterhouse-Five by Kurt Vonnegut
+30. Cat's Cradle by Kurt Vonnegut
+31. Catch-22 by Joseph Heller
+32. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+33. The Martian Chronicles by Ray Bradbury
+34. Fahrenheit 451 by Ray Bradbury
+35. The Handmaid's Tale by Margaret Atwood
+36. The Road by Cormac McCarthy
+37. Blood Meridian by Cormac McCarthy
+38. The Name of the Rose by Umberto Eco
+39. The Shadow of the Wind by Carlos Ruiz Zafon
+40. The Book Thief by Markus Zusak
+41. The Girl with the Dragon Tattoo by Stieg Larsson
+42. The Hunger Games by Suzanne Collins
+43. The Girl on the Train by Paula Hawkins
+44. Gone Girl by Gillian Flynn
+45. The Da Vinci Code by Dan Brown
+46. Angels and Demons by Dan Brown
+47. The Bourne Identity by Robert Ludlum
+48. The Hunt for Red October by Tom Clancy
+49. Jurassic Park by Michael Crichton
+50. The Andromeda Strain by Michael Crichton

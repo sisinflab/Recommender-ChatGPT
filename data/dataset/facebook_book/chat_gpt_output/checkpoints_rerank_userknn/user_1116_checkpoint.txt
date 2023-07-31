@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Nineteen Eighty-Four by George Orwell
+2. Brave New World by Aldous Huxley
+3. Fahrenheit 451 by Ray Bradbury
+4. The Great Gatsby by F. Scott Fitzgerald
+5. The Lord of the Rings by J.R.R. Tolkien
+6. The Hobbit by J.R.R. Tolkien
+7. The Trial by Franz Kafka
+8. A Clockwork Orange by Anthony Burgess
+9. Slaughterhouse-Five by Kurt Vonnegut
+10. The Outsiders by S.E. Hinton
+11. Wuthering Heights by Emily Bronte
+12. The Scarlet Letter by Nathaniel Hawthorne
+13. The Dante Club by Matthew Pearl
+14. In Cold Blood by Truman Capote
+15. Love Story by Erich Segal
+16. The Diary of a Young Girl by Anne Frank
+17. The Boy in the Striped Pyjamas by John Boyne
+18. War and Peace by Leo Tolstoy
+19. The Iliad by Homer
+20. The Art of Seduction by Robert Greene
+21. Cat's Cradle by Kurt Vonnegut
+22. The Rum Diary by Hunter S. Thompson
+23. The Ask and the Answer by Patrick Ness
+24. The Tale of the Body Thief by Anne Rice
+25. Into Thin Air by Jon Krakauer
+26. Tuck Everlasting by Natalie Babbitt
+27. The End of Mr. Y by Scarlett Thomas
+28. The Eyes of the Dragon by Stephen King
+29. The Da Vinci Code by Dan Brown
+30. Inferno by Dante Alighieri
+31. Bhagavad Gita by Anonymous
+32. The Watchmen by Alan Moore
+33. Junkie by William S. Burroughs
+34. Fallen by Lauren Kate
+35. His Dark Materials by Philip Pullman
+36. Mythologies by Roland Barthes
+37. Cirque du Freak by Darren Shan
+38. American Psycho by Bret Easton Ellis
+39. Sin City by Frank Miller
+40. Slash by Slash
+41. Less Than Zero by Bret Easton Ellis
+42. Oliver Twist by Charles Dickens
+43. Merrick by Anne Rice
+44. Batman: Year One by Frank Miller
+45. Emma by Jane Austen
+46. The Thief of Always by Clive Barker
+47. The Dirt by Neil Strauss
+48. Rant by Chuck Palahniuk
+49. The Lost World by Michael Crichton
+50. Prometheus Rising by Robert Anton Wilson

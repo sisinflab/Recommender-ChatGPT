@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Good Omens by Terry Pratchett and Neil Gaiman
+2. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+3. 1984 by George Orwell
+4. Brave New World by Aldous Huxley
+5. The Hunger Games by Suzanne Collins
+6. Fahrenheit 451 by Ray Bradbury
+7. The Handmaid's Tale by Margaret Atwood
+8. Ender's Game by Orson Scott Card
+9. The Maze Runner by James Dashner
+10. The Chronicles of Narnia by C.S. Lewis
+11. The Hobbit by J.R.R. Tolkien
+12. The Silmarillion by J.R.R. Tolkien
+13. The Name of the Wind by Patrick Rothfuss
+14. The Wise Man's Fear by Patrick Rothfuss
+15. The Lies of Locke Lamora by Scott Lynch
+16. Mistborn: The Final Empire by Brandon Sanderson
+17. The Way of Kings by Brandon Sanderson
+18. The Final Empire by Michael A. Stackpole
+19. The Eye of the World by Robert Jordan
+20. The Dragon Reborn by Robert Jordan
+21. The Shadow Rising by Robert Jordan
+22. The Fires of Heaven by Robert Jordan
+23. Lord of Chaos by Robert Jordan
+24. A Crown of Swords by Robert Jordan
+25. The Path of Daggers by Robert Jordan
+26. Winter's Heart by Robert Jordan
+27. Crossroads of Twilight by Robert Jordan
+28. Knife of Dreams by Robert Jordan
+29. The Gathering Storm by Robert Jordan and Brandon Sanderson
+30. Towers of Midnight by Robert Jordan and Brandon Sanderson
+31. A Memory of Light by Robert Jordan and Brandon Sanderson
+32. The Dark Tower series by Stephen King
+33. The Stand by Stephen King
+34. It by Stephen King
+35. The Shining by Stephen King
+36. The Gunslinger by Stephen King
+37. The Drawing of the Three by Stephen King
+38. The Waste Lands by Stephen King
+39. Wizard and Glass by Stephen King
+40. Wolves of the Calla by Stephen King
+41. Song of Susannah by Stephen King
+42. The Dark Tower by Stephen King
+43. The Magicians by Lev Grossman
+44. The Name of the Rose by Umberto Eco
+45. The Pillars of the Earth by Ken Follett
+46. The Girl with the Dragon Tattoo by Stieg Larsson
+47. The Girl Who Played with Fire by Stieg Larsson
+48. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+49. The Da Vinci Code by Dan Brown
+50. Angels and Demons by Dan Brown

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Jimi Hendrix
+2. B.B. King
+3. The Rolling Stones
+4. Led Zeppelin
+5. The Beatles
+6. Pink Floyd
+7. Bruce Springsteen
+8. Fleetwood Mac
+9. Tom Petty and the Heartbreakers
+10. The Who
+11. Bob Dylan
+12. Neil Young
+13. The Allman Brothers Band
+14. Lynyrd Skynyrd
+15. ZZ Top
+16. The Doors
+17. The Kinks
+18. The Yardbirds
+19. Cream
+20. Derek and the Dominos
+21. Jeff Beck
+22. Peter Green
+23. Rory Gallagher
+24. Joe Bonamassa
+25. Gary Moore
+26. Walter Trout
+27. Kenny Wayne Shepherd
+28. Jonny Lang
+29. Susan Tedeschi
+30. Tedeschi Trucks Band
+31. Gov't Mule
+32. Warren Haynes
+33. Blackberry Smoke
+34. The Black Crowes
+35. The Marshall Tucker Band
+36. Little Feat
+37. The Band
+38. Creedence Clearwater Revival
+39. The Eagles
+40. Jackson Browne
+41. James Taylor
+42. Carole King
+43. Joni Mitchell
+44. Crosby, Stills, Nash & Young
+45. Simon & Garfunkel
+46. Cat Stevens
+47. Bob Marley & The Wailers
+48. Steely Dan
+49. Chicago
+50. Earth, Wind & Fire

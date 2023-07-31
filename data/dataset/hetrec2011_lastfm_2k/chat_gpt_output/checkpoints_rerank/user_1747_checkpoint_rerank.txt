@@ -1,0 +1,54 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. Björk
+3. Nine Inch Nails
+4. Elliott Smith
+5. Aphex Twin
+6. Autechre
+7. David Bowie
+8. Thom Yorke
+9. Coil
+10. Spiritualized
+11. Gorillaz
+12. Prince
+13. Einstürzende Neubauten
+14. Amiina
+15. Feist
+16. Air
+17. The Album Leaf
+18. Throbbing Gristle
+19. The Beatles
+20. Pink Floyd
+21. Muse
+22. Led Zeppelin
+23. Nirvana
+24. Metallica
+25. Iron Maiden
+26. Pearl Jam
+27. The Cure
+28. Blur
+29. Arctic Monkeys
+30. Placebo
+31. The Killers
+32. Daft Punk
+33. System of a Down
+34. Linkin Park
+35. My Chemical Romance
+36. Green Day
+37. Avenged Sevenfold
+38. Black Eyed Peas
+39. Michael Jackson
+40. Amy Winehouse
+41. U2
+42. Coldplay
+43. Madonna
+44. Lady Gaga
+45. Christina Aguilera
+46. Rihanna
+47. Shakira
+48. Katy Perry
+49. Taylor Swift
+50. Ke$ha
+
+Note: The order of the recommendations is based on the user's preferences and may vary depending on the specific algorithm used by the Recommender System.

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Brothers Karamazov by Fyodor Dostoevsky
+2. Crime and Punishment by Fyodor Dostoevsky
+3. The Stranger by Albert Camus
+4. The Trial by Franz Kafka
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. Love in the Time of Cholera by Gabriel Garcia Marquez
+7. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+8. Slaughterhouse-Five by Kurt Vonnegut
+9. Cat's Cradle by Kurt Vonnegut
+10. The Catcher in the Rye by J.D. Salinger
+11. To Kill a Mockingbird by Harper Lee
+12. 1984 by George Orwell
+13. Animal Farm by George Orwell
+14. Brave New World by Aldous Huxley
+15. The Great Gatsby by F. Scott Fitzgerald
+16. The Picture of Dorian Gray by Oscar Wilde
+17. The Importance of Being Earnest by Oscar Wilde
+18. The Bell Jar by Sylvia Plath
+19. The Road by Cormac McCarthy
+20. The Handmaid's Tale by Margaret Atwood
+21. The Lord of the Rings by J.R.R. Tolkien
+22. The Hobbit by J.R.R. Tolkien
+23. The Chronicles of Narnia by C.S. Lewis
+24. The Da Vinci Code by Dan Brown
+25. Angels and Demons by Dan Brown
+26. The Girl with the Dragon Tattoo by Stieg Larsson
+27. The Hunger Games by Suzanne Collins
+28. Catching Fire by Suzanne Collins
+29. Mockingjay by Suzanne Collins
+30. The Help by Kathryn Stockett
+31. The Kite Runner by Khaled Hosseini
+32. A Thousand Splendid Suns by Khaled Hosseini
+33. The Alchemist by Paulo Coelho
+34. The Name of the Wind by Patrick Rothfuss
+35. The Wise Man's Fear by Patrick Rothfuss
+36. The Shadow of the Wind by Carlos Ruiz Zafón
+37. The Book Thief by Markus Zusak
+38. The Fault in Our Stars by John Green
+39. Looking for Alaska by John Green
+40. Paper Towns by John Green
+41. The Perks of Being a Wallflower by Stephen Chbosky
+42. The Girl on the Train by Paula Hawkins
+43. Gone Girl by Gillian Flynn
+44. The Martian by Andy Weir
+45. Ready Player One by Ernest Cline
+46. The Shining by Stephen King
+47. It by Stephen King
+48. The Stand by Stephen King
+49. The Dark Tower series by Stephen King
+50. The Complete Sherlock Holmes by Arthur Conan Doyle

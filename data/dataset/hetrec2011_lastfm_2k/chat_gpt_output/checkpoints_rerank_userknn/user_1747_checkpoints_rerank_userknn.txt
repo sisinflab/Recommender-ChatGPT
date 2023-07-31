@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Nick Drake
+2. Elliott Smith
+3. Radiohead
+4. Björk
+5. David Bowie
+6. Thom Yorke
+7. Aphex Twin
+8. Autechre
+9. Coil
+10. múm
+11. Spiritualized
+12. Gorillaz
+13. Prince
+14. Amiina
+15. Air
+16. The Album Leaf
+17. Feist
+18. Arctic Monkeys
+19. The xx
+20. God Is an Astronaut
+21. R.E.M.
+22. Keane
+23. Nick Cave and the Bad Seeds
+24. CAKE
+25. Bob Marley
+26. Yann Tiersen
+27. Kings of Leon
+28. Beirut
+29. Stars
+30. 65daysofstatic
+31. Crystal Castles
+32. Pink Floyd
+33. Sigur Rós
+34. Mogwai
+35. Balmorhea
+36. Death from Above 1979
+37. The Cure
+38. Jónsi
+39. Two Door Cinema Club
+40. Metallica
+41. Nirvana
+42. Muse
+43. The Killers
+44. Placebo
+45. Tom Waits
+46. The Bird and The Bee
+47. Bat for Lashes
+48. System of a Down
+49. Metric
+50. A Tribe Called Quest

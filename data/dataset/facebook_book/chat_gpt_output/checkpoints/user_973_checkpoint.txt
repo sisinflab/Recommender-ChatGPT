@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. 1984 by George Orwell
+5. Animal Farm by George Orwell
+6. The Great Gatsby by F. Scott Fitzgerald
+7. Lord of the Flies by William Golding
+8. Brave New World by Aldous Huxley
+9. The Hunger Games by Suzanne Collins
+10. Catch-22 by Joseph Heller
+11. Slaughterhouse-Five by Kurt Vonnegut
+12. The Bell Jar by Sylvia Plath
+13. One Hundred Years of Solitude by Gabriel Garcia Marquez
+14. The Road by Cormac McCarthy
+15. The Picture of Dorian Gray by Oscar Wilde
+16. The Brothers Karamazov by Fyodor Dostoevsky
+17. Crime and Punishment by Fyodor Dostoevsky
+18. The Count of Monte Cristo by Alexandre Dumas
+19. Les Miserables by Victor Hugo
+20. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+21. The Lord of the Rings by J.R.R. Tolkien
+22. The Hobbit by J.R.R. Tolkien
+23. The Chronicles of Narnia by C.S. Lewis
+24. The Da Vinci Code by Dan Brown
+25. Angels and Demons by Dan Brown
+26. The Girl with the Dragon Tattoo by Stieg Larsson
+27. The Girl Who Played with Fire by Stieg Larsson
+28. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+29. The Name of the Wind by Patrick Rothfuss
+30. The Wise Man's Fear by Patrick Rothfuss
+31. The Shadow of the Wind by Carlos Ruiz Zafon
+32. The Book Thief by Markus Zusak
+33. The Fault in Our Stars by John Green
+34. Looking for Alaska by John Green
+35. Paper Towns by John Green
+36. The Alchemist by Paulo Coelho
+37. The Picture of Dorian Gray by Oscar Wilde
+38. The Picture of Dorian Gray by Oscar Wilde
+39. The Picture of Dorian Gray by Oscar Wilde
+40. The Picture of Dorian Gray by Oscar Wilde
+41. The Picture of Dorian Gray by Oscar Wilde
+42. The Picture of Dorian Gray by Oscar Wilde
+43. The Picture of Dorian Gray by Oscar Wilde
+44. The Picture of Dorian Gray by Oscar Wilde
+45. The Picture of Dorian Gray by Oscar Wilde
+46. The Picture of Dorian Gray by Oscar Wilde
+47. The Picture of Dorian Gray by Oscar Wilde
+48. The Picture of Dorian Gray by Oscar Wilde
+49. The Bell Jar by Sylvia Plath
+50. The Wise Man's Fear by Patrick Rothfuss

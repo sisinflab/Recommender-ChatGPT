@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Massive Attack
+2. Tricky
+3. Sneaker Pimps
+4. Bone Thugs-N-Harmony
+5. DMX
+6. Wu-Tang Clan
+7. Eminem
+8. Ludacris
+9. Snoop Dogg
+10. Ice Cube
+11. Busta Rhymes
+12. T.I.
+13. Lupe Fiasco
+14. Kid Cudi
+15. Sean Paul
+16. Bob Marley
+17. Skank
+18. Pitbull
+19. Los Hermanos
+20. Green Day
+21. Hooverphonic
+22. Nirvana
+23. Metallica
+24. Iron Maiden
+25. Pearl Jam
+26. Radiohead
+27. Pink Floyd
+28. Muse
+29. U2
+30. Led Zeppelin
+31. The Beatles
+32. Duran Duran
+33. Arctic Monkeys
+34. Placebo
+35. The Killers
+36. Depeche Mode
+37. Nine Inch Nails
+38. Daft Punk
+39. System of a Down
+40. Linkin Park
+41. Michael Jackson
+42. Madonna
+43. Beyoncé
+44. Lady Gaga
+45. Rihanna
+46. Shakira
+47. Christina Aguilera
+48. Katy Perry
+49. Avril Lavigne
+50. Taylor Swift

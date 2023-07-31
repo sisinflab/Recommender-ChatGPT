@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Cure
+2. Duran Duran
+3. Muse
+4. Pink Floyd
+5. David Bowie
+6. The Beatles
+7. Queen
+8. R.E.M.
+9. Genesis
+10. Guns N' Roses
+11. Radiohead
+12. Led Zeppelin
+13. Black Sabbath
+14. Iron Maiden
+15. Metallica
+16. Nirvana
+17. Pearl Jam
+18. The Rolling Stones
+19. U2
+20. Morrissey
+21. Kate Bush
+22. Tori Amos
+23. Bruce Springsteen
+24. Coldplay
+25. Placebo
+26. Arctic Monkeys
+27. The Killers
+28. Depeche Mode
+29. Björk
+30. System of a Down
+31. Nine Inch Nails
+32. My Chemical Romance
+33. Green Day
+34. Avenged Sevenfold
+35. Blur
+36. Michael Jackson
+37. Amy Winehouse
+38. Lady Gaga
+39. Christina Aguilera
+40. Rihanna
+41. Shakira
+42. Katy Perry
+43. Taylor Swift
+44. Ke$ha
+45. Paramore
+46. Evanescence
+47. P!nk
+48. Kelly Clarkson
+49. Black Eyed Peas
+50. Glee Cast

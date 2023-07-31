@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Green Day
+2. The Beatles
+3. Johnny Cash
+4. Bowling for Soup
+5. Dropkick Murphys
+6. Angels & Airwaves
+7. Owl City
+8. Zebrahead
+9. Danny Elfman
+10. Glee Cast
+11. Avenged Sevenfold
+12. Weird Al Yankovic
+13. Stone Sour
+14. Tenacious D
+15. Sum 41
+16. Paramore
+17. Foo Fighters
+18. Fall Out Boy
+19. Coldplay
+20. Pink Floyd
+21. Metallica
+22. Oasis
+23. Billy Talent
+24. blink-182
+25. The Offspring
+26. Boys Like Girls
+27. Ke$ha
+28. Arctic Monkeys
+29. Hollywood Undead
+30. The Fratellis
+31. Bon Jovi
+32. Lady Gaga
+33. The Rasmus
+34. Anti-Flag
+35. Relient K
+36. Simple Plan
+37. Atreyu
+38. Black Eyed Peas
+39. Cute Is What We Aim For
+40. Rooney
+41. Judas Priest
+42. Cascada
+43. The Subways
+44. Mando Diao
+45. The Hives
+46. All Time Low
+47. KISS
+48. Plain White T's
+49. Scorpions
+50. Papa Roach

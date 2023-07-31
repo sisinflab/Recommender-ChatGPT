@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for user 1181 are:
+
+1. The Smiths
+2. Joy Division
+3. The Cure
+4. Radiohead
+5. Interpol
+6. Arcade Fire
+7. The National
+8. New Order
+9. The Jesus and Mary Chain
+10. Sonic Youth
+11. My Bloody Valentine
+12. The Velvet Underground
+13. Talking Heads
+14. Pixies
+15. The Stone Roses
+16. The Strokes
+17. The Clash
+18. The Psychedelic Furs
+19. The Chameleons
+20. The Sound
+21. The Sisters of Mercy
+22. The Mission
+23. The Cult
+24. The Birthday Party
+25. Bauhaus
+26. Siouxsie and the Banshees
+27. Echo & the Bunnymen
+28. The Church
+29. The Teardrop Explodes
+30. The Stranglers
+31. Magazine
+32. Wire
+33. Gang of Four
+34. The Fall
+35. The Jam
+36. The Buzzcocks
+37. The Adverts
+38. The Damned
+39. The Undertones
+40. The Replacements
+41. Hüsker Dü
+42. Dinosaur Jr.
+43. Pavement
+44. Guided by Voices
+45. Sebadoh
+46. Yo La Tengo
+47. Neutral Milk Hotel
+48. Belle and Sebastian
+49. The Magnetic Fields
+50. The Go-Betweens

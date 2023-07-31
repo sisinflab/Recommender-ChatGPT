@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Florence + the Machine
+2. Imogen Heap
+3. Phoenix
+4. La Roux
+5. Keane
+6. James Morrison
+7. Travis
+8. Razorlight
+9. Thirteen Senses
+10. Richard Ashcroft
+11. Feeder
+12. Hard-Fi
+13. Jimmy Eat World
+14. Alphabeat
+15. Yann Tiersen
+16. The Radio Dept.
+17. Simply Red
+18. Agnes
+19. Manic Street Preachers
+20. Alanis Morissette
+21. Natalie Imbruglia
+22. Maroon 5
+23. Michael Jackson
+24. Kings of Convenience
+25. MGMT
+26. Mystery Jets
+27. Yeah Yeah Yeahs
+28. Papa Roach
+29. Glee Cast
+30. The Pains of Being Pure at Heart
+31. ATB
+32. Brown Eyed Girls
+33. Scorpions
+34. Jason Mraz
+35. Kelly Clarkson
+36. Stereophonics
+37. ABBA
+38. George Michael
+39. Blur
+40. 宇多田ヒカル
+41. Coldplay
+42. Angels & Airwaves
+43. Beach House
+44. Yanni
+45. Death Cab for Cutie
+46. Fleet Foxes
+47. Linkin Park
+48. Snow Patrol
+49. The Drums
+50. Erasure

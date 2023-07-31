@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Hobbit by J.R.R. Tolkien
+2. The Lord of the Rings by J.R.R. Tolkien
+3. The Hunger Games by Suzanne Collins
+4. The Chronicles of Narnia by C.S. Lewis
+5. The Girl with the Dragon Tattoo by Stieg Larsson
+6. The Help by Kathryn Stockett
+7. The Fault in Our Stars by John Green
+8. The Maze Runner by James Dashner
+9. The Book Thief by Markus Zusak
+10. The Giver by Lois Lowry
+11. The Catcher in the Rye by J.D. Salinger
+12. The Great Gatsby by F. Scott Fitzgerald
+13. The Picture of Dorian Gray by Oscar Wilde
+14. To Kill a Mockingbird by Harper Lee
+15. The Kite Runner by Khaled Hosseini
+16. Life of Pi by Yann Martel
+17. Memoirs of a Geisha by Arthur Golden
+18. A Thousand Splendid Suns by Khaled Hosseini
+19. The Lovely Bones by Alice Sebold
+20. Tuesdays with Morrie by Mitch Albom
+21. The Five People You Meet in Heaven by Mitch Albom
+22. Eat, Pray, Love by Elizabeth Gilbert
+23. Angels & Demons by Dan Brown
+24. The Da Vinci Code by Dan Brown
+25. Inkheart by Cornelia Funke
+26. Eragon by Christopher Paolini
+27. Twilight by Stephenie Meyer
+28. The Notebook by Nicholas Sparks
+29. The Shack by William P. Young
+30. The Alchemist by Paulo Coelho
+31. Frankenstein by Mary Shelley
+32. Interview with the Vampire by Anne Rice
+33. The Zombie Survival Guide by Max Brooks
+34. The Bourne Identity by Robert Ludlum
+35. The Bourne Supremacy by Robert Ludlum
+36. The Chamber by John Grisham
+37. Maximum City by Suketu Mehta
+38. The Female Brain by Louann Brizendine
+39. Sabriel by Garth Nix
+40. Fathom by Michael Turner
+41. The Coldest Winter Ever by Sister Souljah
+42. The Hardy Boys by Franklin W. Dixon
+43. Abhorsen by Garth Nix
+44. Brisingr by Christopher Paolini
+45. Nancy Drew by Carolyn Keene
+46. At the Mountains of Madness by H.P. Lovecraft
+47. The Memory Keeper's Daughter by Kim Edwards
+48. City of Bones by Cassandra Clare
+49. Have a Little Faith by Mitch Albom
+50. The Hamlet by William Faulkner

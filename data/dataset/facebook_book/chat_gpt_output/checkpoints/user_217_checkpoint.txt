@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. American Gods by Neil Gaiman
+2. Good Omens by Neil Gaiman and Terry Pratchett
+3. The Graveyard Book by Neil Gaiman
+4. Coraline by Neil Gaiman
+5. Anansi Boys by Neil Gaiman
+6. The Ocean at the End of the Lane by Neil Gaiman
+7. The Sandman (graphic novel series) by Neil Gaiman
+8. The Hobbit by J.R.R. Tolkien
+9. The Lord of the Rings trilogy by J.R.R. Tolkien
+10. The Children of Hurin by J.R.R. Tolkien
+11. The Silmarillion by J.R.R. Tolkien
+12. The Dark Tower series by Stephen King
+13. It by Stephen King
+14. The Shining by Stephen King
+15. 11/22/63 by Stephen King
+16. The Gunslinger by Stephen King
+17. The Talisman by Stephen King and Peter Straub
+18. The Outsider by Stephen King
+19. The Green Mile by Stephen King
+20. The Mist by Stephen King
+21. The Dead Zone by Stephen King
+22. The Long Walk by Stephen King
+23. The Running Man by Stephen King
+24. Fahrenheit 451 by Ray Bradbury
+25. 1984 by George Orwell
+26. Brave New World by Aldous Huxley
+27. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+28. Ender's Game by Orson Scott Card
+29. Dune by Frank Herbert
+30. The Martian by Andy Weir
+31. Ready Player One by Ernest Cline
+32. Snow Crash by Neal Stephenson
+33. Neuromancer by William Gibson
+34. The Hunger Games by Suzanne Collins
+35. The Maze Runner by James Dashner
+36. The Giver by Lois Lowry
+37. The Chronicles of Narnia by C.S. Lewis
+38. The Dark Knight Returns by Frank Miller
+39. Batman: Year One by Frank Miller
+40. Watchmen by Alan Moore and Dave Gibbons
+41. V for Vendetta by Alan Moore and David Lloyd
+42. The Walking Dead (comic book series) by Robert Kirkman
+43. Saga (comic book series) by Brian K. Vaughan and Fiona Staples
+44. Y: The Last Man (comic book series) by Brian K. Vaughan and Pia Guerra
+45. Sandman Slim by Richard Kadrey
+46. The Dresden Files by Jim Butcher
+47. The Name of the Wind by Patrick Rothfuss
+48. Mistborn by Brandon Sanderson
+49. The Lies of Locke Lamora by Scott Lynch
+50. The First Law Trilogy by Joe Abercrombie

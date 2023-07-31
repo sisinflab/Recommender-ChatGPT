@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. Brave New World by Aldous Huxley
+4. Catch-22 by Joseph Heller
+5. Crime and Punishment by Fyodor Dostoevsky
+6. Dracula by Bram Stoker
+7. Fahrenheit 451 by Ray Bradbury
+8. Frankenstein by Mary Shelley
+9. Heart of Darkness by Joseph Conrad
+10. Jane Eyre by Charlotte Bronte
+11. Les Miserables by Victor Hugo
+12. Lolita by Vladimir Nabokov
+13. Lord of the Flies by William Golding
+14. Moby-Dick by Herman Melville
+15. Nineteen Eighty-Four by George Orwell
+16. One Hundred Years of Solitude by Gabriel Garcia Marquez
+17. Pride and Prejudice by Jane Austen
+18. Slaughterhouse-Five by Kurt Vonnegut
+19. The Adventures of Huckleberry Finn by Mark Twain
+20. The Brothers Karamazov by Fyodor Dostoevsky
+21. The Catcher in the Rye by J.D. Salinger
+22. The Count of Monte Cristo by Alexandre Dumas
+23. The Divine Comedy by Dante Alighieri
+24. The Grapes of Wrath by John Steinbeck
+25. The Great Gatsby by F. Scott Fitzgerald
+26. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+27. The Iliad by Homer
+28. The Odyssey by Homer
+29. The Picture of Dorian Gray by Oscar Wilde
+30. The Republic by Plato
+31. The Scarlet Letter by Nathaniel Hawthorne
+32. The Sound and the Fury by William Faulkner
+33. The Stranger by Albert Camus
+34. The Sun Also Rises by Ernest Hemingway
+35. The Three Musketeers by Alexandre Dumas
+36. The Time Machine by H.G. Wells
+37. The Trial by Franz Kafka
+38. The War of the Worlds by H.G. Wells
+39. To Kill a Mockingbird by Harper Lee
+40. Ulysses by James Joyce
+41. War and Peace by Leo Tolstoy
+42. Watership Down by Richard Adams
+43. Wuthering Heights by Emily Bronte
+44. A Clockwork Orange by Anthony Burgess
+45. A Tale of Two Cities by Charles Dickens
+46. Don Quixote by Miguel de Cervantes
+47. Gulliver's Travels by Jonathan Swift
+48. The Canterbury Tales by Geoffrey Chaucer
+49. The Hobbit by J.R.R. Tolkien
+50. The Lord of the Rings by J.R.R. Tolkien

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Great Gatsby by F. Scott Fitzgerald
+4. Animal Farm by George Orwell
+5. The Catcher in the Rye by J.D. Salinger
+6. The Hobbit by J.R.R. Tolkien
+7. The Lord of the Rings by J.R.R. Tolkien
+8. The Hunger Games by Suzanne Collins
+9. The Fault in Our Stars by John Green
+10. The Diary of a Young Girl by Anne Frank
+11. The Book Thief by Markus Zusak
+12. The Adventures of Huckleberry Finn by Mark Twain
+13. Little Women by Louisa May Alcott
+14. The Secret Garden by Frances Hodgson Burnett
+15. The Chronicles of Narnia by C.S. Lewis
+16. The Picture of Dorian Gray by Oscar Wilde
+17. Wuthering Heights by Emily Bronte
+18. The Color Purple by Alice Walker
+19. The Bell Jar by Sylvia Plath
+20. The Handmaid's Tale by Margaret Atwood
+21. The Road by Cormac McCarthy
+22. The Kite Runner by Khaled Hosseini
+23. The Girl with the Dragon Tattoo by Stieg Larsson
+24. The Help by Kathryn Stockett
+25. The Lovely Bones by Alice Sebold
+26. The Time Traveler's Wife by Audrey Niffenegger
+27. The Alchemist by Paulo Coelho
+28. The Da Vinci Code by Dan Brown
+29. The Name of the Wind by Patrick Rothfuss
+30. The Shadow of the Wind by Carlos Ruiz Zafon
+31. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+32. The Shining by Stephen King
+33. The Stand by Stephen King
+34. The Silence of the Lambs by Thomas Harris
+35. The Bourne Identity by Robert Ludlum
+36. The Girl on the Train by Paula Hawkins
+37. The Martian by Andy Weir
+38. The Nightingale by Kristin Hannah
+39. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+40. The Glass Castle by Jeannette Walls
+41. The Joy Luck Club by Amy Tan
+42. The God of Small Things by Arundhati Roy
+43. The Poisonwood Bible by Barbara Kingsolver
+44. The Memory Keeper's Daughter by Kim Edwards
+45. The Help by Kathryn Stockett
+46. The Lovely Bones by Alice Sebold
+47. The Time Traveler's Wife by Audrey Niffenegger
+48. The Alchemist by Paulo Coelho
+49. The Da Vinci Code by Dan Brown
+50. The Name of the Wind by Patrick Rothfuss

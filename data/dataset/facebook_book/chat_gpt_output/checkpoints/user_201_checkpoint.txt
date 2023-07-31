@@ -1,0 +1,49 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Wonder by R.J. Palacio
+2. The Fault in Our Stars by John Green
+3. The Hunger Games by Suzanne Collins
+4. To Kill a Mockingbird by Harper Lee
+5. The Giver by Lois Lowry
+6. The Chronicles of Narnia by C.S. Lewis
+7. The Maze Runner by James Dashner
+8. The Lightning Thief by Rick Riordan
+9. The Outsiders by S.E. Hinton
+10. The Book Thief by Markus Zusak
+11. The Secret Garden by Frances Hodgson Burnett
+12. The Hobbit by J.R.R. Tolkien
+13. The Catcher in the Rye by J.D. Salinger
+14. The Giving Tree by Shel Silverstein
+15. Charlotte's Web by E.B. White
+16. The Little Prince by Antoine de Saint-Exupéry
+17. The Adventures of Tom Sawyer by Mark Twain
+18. The Diary of a Young Girl by Anne Frank
+19. The Phantom Tollbooth by Norton Juster
+20. The Tale of Despereaux by Kate DiCamillo
+21. The Westing Game by Ellen Raskin
+22. The Miraculous Journey of Edward Tulane by Kate DiCamillo
+23. The Invention of Hugo Cabret by Brian Selznick
+24. The One and Only Ivan by Katherine Applegate
+25. The War That Saved My Life by Kimberly Brubaker Bradley
+26. The Girl Who Drank the Moon by Kelly Barnhill
+27. The House with Chicken Legs by Sophie Anderson
+28. The Night Diary by Veera Hiranandani
+29. The Wild Robot by Peter Brown
+30. The Vanderbeekers of 141st Street by Karina Yan Glaser
+31. The Penderwicks by Jeanne Birdsall
+32. The Mysterious Benedict Society by Trenton Lee Stewart
+33. The Secret Keepers by Trenton Lee Stewart
+34. The Name of this Book is Secret by Pseudonymous Bosch
+35. The Incorrigible Children of Ashton Place by Maryrose Wood
+36. The Secret Series by Enid Blyton
+37. The Enchanted Castle by E. Nesbit
+38. The Secret of the Old Clock by Carolyn Keene
+39. The Hardy Boys by Franklin W. Dixon
+40. The Boxcar Children by Gertrude Chandler Warner
+41. The Magic Tree House by Mary Pope Osborne
+42. The Babysitters Club by Ann M. Martin
+43. The Nancy Drew Mystery Stories by Carolyn Keene
+44. The Chronicles of Prydain by Lloyd Alexander
+45. The Dark is Rising Sequence by Susan Cooper
+46. The Percy Jackson and the Olympians series by Rick Riordan
+47. The Heroes of Olympus series

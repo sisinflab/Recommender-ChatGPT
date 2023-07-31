@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Lolita by Vladimir Nabokov
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. Brave New World by Aldous Huxley
+5. The Great Gatsby by F. Scott Fitzgerald
+6. To Kill a Mockingbird by Harper Lee
+7. One Hundred Years of Solitude by Gabriel Garcia Marquez
+8. The Bell Jar by Sylvia Plath
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Handmaid's Tale by Margaret Atwood
+12. Animal Farm by George Orwell
+13. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+14. The Road by Cormac McCarthy
+15. The Stranger by Albert Camus
+16. Slaughterhouse-Five by Kurt Vonnegut
+17. The Sun Also Rises by Ernest Hemingway
+18. The Grapes of Wrath by John Steinbeck
+19. The Sound and the Fury by William Faulkner
+20. Heart of Darkness by Joseph Conrad
+21. The Brothers Karamazov by Fyodor Dostoevsky
+22. Crime and Punishment by Fyodor Dostoevsky
+23. The Trial by Franz Kafka
+24. The Metamorphosis by Franz Kafka
+25. The Idiot by Fyodor Dostoevsky
+26. The Plague by Albert Camus
+27. The Stranger Beside Me by Ann Rule
+28. The Girl with the Dragon Tattoo by Stieg Larsson
+29. The Da Vinci Code by Dan Brown
+30. The Name of the Rose by Umberto Eco
+31. The Shadow of the Wind by Carlos Ruiz Zafón
+32. The Kite Runner by Khaled Hosseini
+33. The Poisonwood Bible by Barbara Kingsolver
+34. The Secret History by Donna Tartt
+35. The Goldfinch by Donna Tartt
+36. The Catcher in the Rye by J.D. Salinger
+37. The Perks of Being a Wallflower by Stephen Chbosky
+38. The Outsiders by S.E. Hinton
+39. The Giver by Lois Lowry
+40. Flowers for Algernon by Daniel Keyes
+41. The Book Thief by Markus Zusak
+42. The Hunger Games by Suzanne Collins
+43. Harry Potter and the Philosopher's Stone by J.K. Rowling
+44. The Hobbit by J.R.R. Tolkien
+45. The Chronicles of Narnia by C.S. Lewis
+46. Alice's Adventures in Wonderland by Lewis Carroll
+47. Through the Looking-Glass by Lewis Carroll
+48. The Picture of Dorian Gray by Oscar Wilde
+49. The Strange

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Great Gatsby by F. Scott Fitzgerald
+2. Dracula by Bram Stoker
+3. Things Fall Apart by Chinua Achebe
+4. The Merchant of Venice by William Shakespeare
+5. Oedipus the King by Sophocles
+6. The Awakening by Kate Chopin
+7. My Antonia by Willa Cather
+8. The Thirteenth Tale by Diane Setterfield
+9. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+10. The History of Love by Nicole Krauss
+11. The Alchemist by Paulo Coelho
+12. War and Peace by Leo Tolstoy
+13. The Three Musketeers by Alexandre Dumas
+14. I Am Legend by Richard Matheson
+15. Adventures of Huckleberry Finn by Mark Twain
+16. Prozac Nation by Elizabeth Wurtzel
+17. Goodnight Moon by Margaret Wise Brown
+18. Madame Bovary by Gustave Flaubert
+19. The Picture of Dorian Gray by Oscar Wilde
+20. Tess of the d'Urbervilles by Thomas Hardy
+21. The Da Vinci Code by Dan Brown
+22. Never Let Me Go by Kazuo Ishiguro
+23. Les Miserables by Victor Hugo
+24. The Taming of the Shrew by William Shakespeare
+25. Romeo and Juliet by William Shakespeare
+26. The Perks of Being a Wallflower by Stephen Chbosky
+27. A Clockwork Orange by Anthony Burgess
+28. The Lord of the Rings by J.R.R. Tolkien
+29. Brave New World by Aldous Huxley
+30. The Unbearable Lightness of Being by Milan Kundera
+31. Jane Eyre by Charlotte Bronte
+32. Macbeth by William Shakespeare
+33. The Prestige by Christopher Priest
+34. Pride and Prejudice by Jane Austen
+35. The Scarlet Pimpernel by Baroness Orczy
+36. Black Like Me by John Howard Griffin
+37. Cathy's Book by Jordan Weisman
+38. The Winter's Tale by William Shakespeare
+39. Goosebumps by R.L. Stine
+40. The Seven Habits of Highly Effective People by Stephen Covey
+41. Helter Skelter by Vincent Bugliosi
+42. Quran by Anonymous
+43. Love, Stargirl by Jerry Spinelli
+44. Leaving a Doll's House: A Memoir by Claire Bloom
+45. The Coldest Winter Ever by Sister Souljah
+46. Leviathan by Paul Auster
+47. The Diving Bell and the Butterfly by Jean-Dominique Bauby
+48. Angels & Demons by Dan Brown
+49. One Hundred Years of Solitude by Gabriel Garcia Marquez
+50. Gone with the Wind by Margaret Mitchell

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Great Gatsby by F. Scott Fitzgerald
+2. 1984 by George Orwell
+3. Brave New World by Aldous Huxley
+4. Catch-22 by Joseph Heller
+5. The Lord of the Rings by J.R.R. Tolkien
+6. The Hobbit by J.R.R. Tolkien
+7. Siddhartha by Hermann Hesse
+8. The Catcher in the Rye by J.D. Salinger
+9. One Flew Over the Cuckoo's Nest by Ken Kesey
+10. To Kill a Mockingbird by Harper Lee
+11. The Stranger by Albert Camus
+12. The Brothers Karamazov by Fyodor Dostoevsky
+13. Crime and Punishment by Fyodor Dostoevsky
+14. The Alchemist by Paulo Coelho
+15. The Little Prince by Antoine de Saint-Exupéry
+16. The Picture of Dorian Gray by Oscar Wilde
+17. The Sun Also Rises by Ernest Hemingway
+18. The Old Man and the Sea by Ernest Hemingway
+19. The Grapes of Wrath by John Steinbeck
+20. East of Eden by John Steinbeck
+21. The Sound and the Fury by William Faulkner
+22. As I Lay Dying by William Faulkner
+23. The Divine Comedy by Dante Alighieri
+24. The Inferno by Dante Alighieri
+25. The Odyssey by Homer
+26. The Iliad by Homer
+27. The Aeneid by Virgil
+28. The Canterbury Tales by Geoffrey Chaucer
+29. Beowulf by Anonymous
+30. The Epic of Gilgamesh by Anonymous
+31. The Bhagavad Gita by Anonymous
+32. The Tao Te Ching by Lao Tzu
+33. The Analects by Confucius
+34. The Art of War by Sun Tzu
+35. The Book of Five Rings by Miyamoto Musashi
+36. The Prince by Niccolò Machiavelli
+37. The Republic by Plato
+38. The Symposium by Plato
+39. The Apology by Plato
+40. The Metamorphoses by Ovid
+41. The Canterbury Tales by Geoffrey Chaucer
+42. The Decameron by Giovanni Boccaccio
+43. The Divine Comedy by Dante Alighieri
+44. The Inferno by Dante Alighieri
+45. The Odyssey by Homer
+46. The Iliad by Homer
+47. The Aeneid by Virgil
+48. The Canterbury Tales by Geoffrey Chaucer
+49. Beowulf by Anonymous
+50. The Epic of Gilgamesh by Anonymous

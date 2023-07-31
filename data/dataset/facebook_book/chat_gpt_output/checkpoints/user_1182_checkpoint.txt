@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Glass (Hopkins novel) by Ellen Hopkins
+2. Identical (Hopkins novel) by Ellen Hopkins
+3. Tricks (Hopkins novel) by Ellen Hopkins
+4. Perfect (Hopkins novel) by Ellen Hopkins
+5. Tilt (Hopkins novel) by Ellen Hopkins
+6. Impulse (Hopkins novel) by Ellen Hopkins
+7. Burned (Hopkins novel) by Ellen Hopkins
+8. Smoke (Hopkins novel) by Ellen Hopkins
+9. Alice Through the Looking Glass by Lewis Carroll
+10. The Hunger Games by Suzanne Collins
+11. Divergent by Veronica Roth
+12. The Fault in Our Stars by John Green
+13. The Maze Runner by James Dashner
+14. The Giver by Lois Lowry
+15. The Book Thief by Markus Zusak
+16. The Perks of Being a Wallflower by Stephen Chbosky
+17. The Catcher in the Rye by J.D. Salinger
+18. To Kill a Mockingbird by Harper Lee
+19. The Great Gatsby by F. Scott Fitzgerald
+20. 1984 by George Orwell
+21. Animal Farm by George Orwell
+22. Lord of the Flies by William Golding
+23. Brave New World by Aldous Huxley
+24. Fahrenheit 451 by Ray Bradbury
+25. One Flew Over the Cuckoo's Nest by Ken Kesey
+26. A Clockwork Orange by Anthony Burgess
+27. The Bell Jar by Sylvia Plath
+28. The Picture of Dorian Gray by Oscar Wilde
+29. Wuthering Heights by Emily Bronte
+30. Jane Eyre by Charlotte Bronte
+31. Pride and Prejudice by Jane Austen
+32. Sense and Sensibility by Jane Austen
+33. Emma by Jane Austen
+34. Persuasion by Jane Austen
+35. Northanger Abbey by Jane Austen
+36. The Hobbit by J.R.R. Tolkien
+37. The Lord of the Rings by J.R.R. Tolkien
+38. The Chronicles of Narnia by C.S. Lewis
+39. Harry Potter series by J.K. Rowling
+40. The Girl with the Dragon Tattoo by Stieg Larsson
+41. The Da Vinci Code by Dan Brown
+42. Angels and Demons by Dan Brown
+43. The Bourne Identity by Robert Ludlum
+44. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+45. Ender's Game by Orson Scott Card
+46. The Shining by Stephen King
+47. Carrie by Stephen King
+48. The Stand by Stephen King
+49. It by Stephen King
+50. Misery by Stephen King

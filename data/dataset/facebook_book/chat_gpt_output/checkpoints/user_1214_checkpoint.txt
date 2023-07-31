@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Unbroken: A World War II Story of Survival, Resilience, and Redemption by Laura Hillenbrand
+2. The Catcher in the Rye by J.D. Salinger
+3. To Kill a Mockingbird by Harper Lee
+4. 1984 by George Orwell
+5. Animal Farm by George Orwell
+6. The Great Gatsby by F. Scott Fitzgerald
+7. The Adventures of Huckleberry Finn by Mark Twain
+8. The Grapes of Wrath by John Steinbeck
+9. The Old Man and the Sea by Ernest Hemingway
+10. The Sun Also Rises by Ernest Hemingway
+11. The Sound and the Fury by William Faulkner
+12. As I Lay Dying by William Faulkner
+13. The Picture of Dorian Gray by Oscar Wilde
+14. Lord of the Flies by William Golding
+15. Heart of Darkness by Joseph Conrad
+16. One Hundred Years of Solitude by Gabriel Garcia Marquez
+17. Crime and Punishment by Fyodor Dostoevsky
+18. The Brothers Karamazov by Fyodor Dostoevsky
+19. The Idiot by Fyodor Dostoevsky
+20. The Trial by Franz Kafka
+21. The Metamorphosis by Franz Kafka
+22. The Stranger by Albert Camus
+23. The Plague by Albert Camus
+24. The Bell Jar by Sylvia Plath
+25. Catch-22 by Joseph Heller
+26. Slaughterhouse-Five by Kurt Vonnegut
+27. Cat's Cradle by Kurt Vonnegut
+28. Brave New World Revisited by Aldous Huxley
+29. The Doors of Perception by Aldous Huxley
+30. The Electric Kool-Aid Acid Test by Tom Wolfe
+31. On the Road by Jack Kerouac
+32. The Dharma Bums by Jack Kerouac
+33. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+34. The Lord of the Rings by J.R.R. Tolkien
+35. The Hobbit by J.R.R. Tolkien
+36. The Chronicles of Narnia by C.S. Lewis
+37. The Da Vinci Code by Dan Brown
+38. Angels and Demons by Dan Brown
+39. The Girl with the Dragon Tattoo by Stieg Larsson
+40. The Hunger Games by Suzanne Collins
+41. The Help by Kathryn Stockett
+42. The Kite Runner by Khaled Hosseini
+43. A Thousand Splendid Suns by Khaled Hosseini
+44. The Alchemist by Paulo Coelho
+45. The Name of the Wind by Patrick Rothfuss
+46. The Wise Man's Fear by Patrick Rothfuss
+47. The Lovely Bones by Alice Sebold
+48. The Curious Incident of the Dog in the Night-Time by Mark
+49. The Art of War
+50. American Gods by Neil Gaiman

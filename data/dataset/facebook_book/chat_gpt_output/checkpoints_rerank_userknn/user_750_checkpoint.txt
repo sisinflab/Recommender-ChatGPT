@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Da Vinci Code by Dan Brown
+2. The Vampire Chronicles by Anne Rice
+3. Dracula by Bram Stoker
+4. Crime and Punishment by Fyodor Dostoyevsky
+5. The Historian by Elizabeth Kostova
+6. The Lord of the Rings by J.R.R. Tolkien
+7. A Tale of Two Cities by Charles Dickens
+8. Romeo and Juliet by William Shakespeare
+9. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+10. The Alchemist by Paulo Coelho
+11. Little Women by Louisa May Alcott
+12. Jane Eyre by Charlotte Bronte
+13. The Merchant of Venice by William Shakespeare
+14. The Awakening by Kate Chopin
+15. The Five People You Meet in Heaven by Mitch Albom
+16. A Farewell to Arms by Ernest Hemingway
+17. Vanity Fair by William Makepeace Thackeray
+18. Snow Flower and the Secret Fan by Lisa See
+19. The Taming of the Shrew by William Shakespeare
+20. The Perks of Being a Wallflower by Stephen Chbosky
+21. Uglies by Scott Westerfeld
+22. Gossip Girl by Cecily von Ziegesar
+23. The Southern Vampire Mysteries by Charlaine Harris
+24. Twilight by Stephenie Meyer
+25. Glass by Ellen Hopkins
+26. The Raven by Edgar Allan Poe
+27. The Memory Keeper's Daughter by Kim Edwards
+28. The Vampire Lestat by Anne Rice
+29. A Clash of Kings by George R.R. Martin
+30. Tunnels by Roderick Gordon and Brian Williams
+31. Blood and Chocolate by Annette Curtis Klause
+32. Tricks by Ellen Hopkins
+33. Ouran High School Host Club by Bisco Hatori
+34. Out of the Dust by Karen Hesse
+35. Impulse Economy by Gary Schwartz
+36. Night by Elie Wiesel
+37. Fall of Giants by Ken Follett
+38. Chronicles of Ancient Darkness by Michelle Paver
+39. Fences by August Wilson
+40. Rhapsody: Child of Blood by Elizabeth Haydon
+41. A Connecticut Yankee in King Arthur's Court by Mark Twain
+42. Harry Potter by J.K. Rowling
+43. Touching Spirit Bear by Ben Mikaelsen
+44. Brisingr by Christopher Paolini
+45. Digital Fortress by Dan Brown
+46. Anne of Green Gables by L.M. Montgomery
+47. Anne of Avonlea by L.M. Montgomery
+48. Eragon by Christopher Paolini
+49. The Lost Symbol by Dan Brown
+50. Inkdeath by Cornelia Funke

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Oliver Twist by Charles Dickens
+2. American Psycho by Bret Easton Ellis
+3. The Silence of the Lambs by Thomas Harris
+4. V for Vendetta by Alan Moore
+5. Frankenstein by Mary Shelley
+6. Interview with the Vampire by Anne Rice
+7. The Picture of Dorian Gray by Oscar Wilde
+8. The Shining by Stephen King
+9. The Exorcist by William Peter Blatty
+10. The Girl with the Dragon Tattoo by Stieg Larsson
+11. The Da Vinci Code by Dan Brown
+12. The Hunger Games by Suzanne Collins
+13. The Lord of the Rings by J.R.R. Tolkien
+14. The Hobbit by J.R.R. Tolkien
+15. The Chronicles of Narnia by C.S. Lewis
+16. The Dark Tower series by Stephen King
+17. The Stand by Stephen King
+18. The Road by Cormac McCarthy
+19. The Catcher in the Rye by J.D. Salinger
+20. To Kill a Mockingbird by Harper Lee
+21. 1984 by George Orwell
+22. Animal Farm by George Orwell
+23. Brave New World by Aldous Huxley
+24. Fahrenheit 451 by Ray Bradbury
+25. The Martian Chronicles by Ray Bradbury
+26. The Hitchhiker's Guide to the Galaxy series by Douglas Adams
+27. The War of the Worlds by H.G. Wells
+28. The Time Machine by H.G. Wells
+29. The Island of Dr. Moreau by H.G. Wells
+30. The Invisible Man by H.G. Wells
+31. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+32. The Call of Cthulhu and Other Weird Stories by H.P. Lovecraft
+33. The Complete Tales and Poems of Edgar Allan Poe by Edgar Allan Poe
+34. The Canterbury Tales by Geoffrey Chaucer
+35. The Divine Comedy by Dante Alighieri
+36. The Iliad by Homer
+37. The Odyssey by Homer
+38. The Aeneid by Virgil
+39. Beowulf by Unknown
+40. The Epic of Gilgamesh by Unknown
+41. The Book of Job by Unknown
+42. The Bible by Various Authors
+43. The Qur'an by Various Authors
+44. The Tao Te Ching by Lao Tzu
+45. The Analects of Confucius by Confucius
+46. The Republic by Plato
+47. The Symposium by Plato
+48. The Nicomachean Ethics by Aristotle
+49. The Art of War by Sun Tzu
+50. Meditations by Marcus Aurelius

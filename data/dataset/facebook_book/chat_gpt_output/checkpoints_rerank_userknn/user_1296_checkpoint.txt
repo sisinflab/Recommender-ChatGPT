@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Raven by Edgar Allan Poe
+2. The Master and Margarita by Mikhail Bulgakov
+3. Don Quixote by Miguel de Cervantes
+4. The Tale of the Body Thief by Anne Rice
+5. The Lord of the Rings by J.R.R. Tolkien
+6. Nineteen Eighty-Four by George Orwell
+7. Lolita by Vladimir Nabokov
+8. Speaker for the Dead by Orson Scott Card
+9. The Cask of Amontillado by Edgar Allan Poe
+10. Homage to Catalonia by George Orwell
+11. Adventures of Huckleberry Finn by Mark Twain
+12. The Idiot by Fyodor Dostoyevsky
+13. The Grapes of Wrath by John Steinbeck
+14. The Age of Innocence by Edith Wharton
+15. Brave New World by Aldous Huxley
+16. Oedipus the King by Sophocles
+17. The Hobbit by J.R.R. Tolkien
+18. To the Lighthouse by Virginia Woolf
+19. Paradise Lost by John Milton
+20. The Count of Monte Cristo by Alexandre Dumas
+21. American Psycho by Bret Easton Ellis
+22. The Watchmen by Alan Moore
+23. The Picture of Dorian Gray by Oscar Wilde
+24. War and Peace by Leo Tolstoy
+25. Walden by Henry David Thoreau
+26. A Room of One's Own by Virginia Woolf
+27. The Brothers Karamazov by Fyodor Dostoyevsky
+28. Les Misérables by Victor Hugo
+29. Running with Scissors by Augusten Burroughs
+30. Angela's Ashes by Frank McCourt
+31. The Fountainhead by Ayn Rand
+32. The Clan of the Cave Bear by Jean M. Auel
+33. The Screwtape Letters by C.S. Lewis
+34. The Lords of Discipline by Pat Conroy
+35. For Whom the Bell Tolls by Ernest Hemingway
+36. Memoirs of a Geisha by Arthur Golden
+37. Bleak House by Charles Dickens
+38. Atlas Shrugged by Ayn Rand
+39. The Dark Tower: The Gunslinger by Stephen King
+40. The Once and Future King by T.H. White
+41. The Social Contract by Jean-Jacques Rousseau
+42. The Queen of the Damned by Anne Rice
+43. Misery by Stephen King
+44. Blood and Chocolate by Annette Curtis Klause
+45. Full Dark, No Stars by Stephen King
+46. The Atheist's Guide to Christmas by Robin Harvie and Stephanie Meyers
+47. Kidnapped by Robert Louis Stevenson
+48. The Giver by Lois Lowry
+49. Death of a Salesman by

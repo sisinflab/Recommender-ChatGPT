@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Da Vinci Code by Dan Brown
+2. The Girl with the Dragon Tattoo by Stieg Larsson
+3. The Hunger Games by Suzanne Collins
+4. To Kill a Mockingbird by Harper Lee
+5. The Catcher in the Rye by J.D. Salinger
+6. 1984 by George Orwell
+7. Animal Farm by George Orwell
+8. The Great Gatsby by F. Scott Fitzgerald
+9. Pride and Prejudice by Jane Austen
+10. Jane Eyre by Charlotte Bronte
+11. Wuthering Heights by Emily Bronte
+12. The Picture of Dorian Gray by Oscar Wilde
+13. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+14. The Hobbit by J.R.R. Tolkien
+15. The Chronicles of Narnia by C.S. Lewis
+16. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+17. The Shining by Stephen King
+18. The Stand by Stephen King
+19. The Silence of the Lambs by Thomas Harris
+20. The Bourne Identity by Robert Ludlum
+21. The Godfather by Mario Puzo
+22. The Name of the Rose by Umberto Eco
+23. The Pillars of the Earth by Ken Follett
+24. The Girl on the Train by Paula Hawkins
+25. Gone Girl by Gillian Flynn
+26. The Help by Kathryn Stockett
+27. The Secret Life of Bees by Sue Monk Kidd
+28. The Color Purple by Alice Walker
+29. The Joy Luck Club by Amy Tan
+30. The Poisonwood Bible by Barbara Kingsolver
+31. The Time Traveler's Wife by Audrey Niffenegger
+32. The Lovely Bones by Alice Sebold
+33. The Fault in Our Stars by John Green
+34. The Maze Runner by James Dashner
+35. The Giver by Lois Lowry
+36. The Outsiders by S.E. Hinton
+37. The Perks of Being a Wallflower by Stephen Chbosky
+38. The Book Thief by Markus Zusak
+39. The Nightingale by Kristin Hannah
+40. The Help by Kathryn Stockett
+41. The Secret Life of Bees by Sue Monk Kidd
+42. The Color Purple by Alice Walker
+43. The Joy Luck Club by Amy Tan
+44. The Poisonwood Bible by Barbara Kingsolver
+45. The Time Traveler's Wife by Audrey Niffenegger
+46. The Lovely Bones by Alice Sebold
+47. The Fault in Our Stars by John Green
+48. The Maze Runner by James Dashner
+49. The Giver by Lois Lowry
+50. The Outsiders by S.E. Hinton

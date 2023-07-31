@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Tool
+2. Pink Floyd
+3. Led Zeppelin
+4. The Mars Volta
+5. Explosions in the Sky
+6. Isis
+7. Rush
+8. Ratatat
+9. Kyuss
+10. God Is an Astronaut
+11. The Fall of Troy
+12. Blackmore's Night
+13. The Smiths
+14. My Bloody Valentine
+15. Sigur Rós
+16. 植松伸夫
+17. Metric
+18. Incubus
+19. 311
+20. The Shins
+21. Broken Social Scene
+22. Flying Lotus
+23. MF DOOM
+24. Red Hot Chili Peppers
+25. Madonna
+26. Radiohead
+27. Muse
+28. Nirvana
+29. Pearl Jam
+30. Iron Maiden
+31. Metallica
+32. Michael Jackson
+33. Nine Inch Nails
+34. Linkin Park
+35. Avenged Sevenfold
+36. Green Day
+37. The Cure
+38. Arctic Monkeys
+39. Placebo
+40. Blur
+41. Duran Duran
+42. Depeche Mode
+43. Björk
+44. Daft Punk
+45. Kelly Clarkson
+46. P!nk
+47. All Time Low
+48. My Chemical Romance
+49. The Killers
+50. U2

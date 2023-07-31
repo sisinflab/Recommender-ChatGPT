@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Nineteen Eighty-Four by George Orwell
+2. The Catcher in the Rye by J.D. Salinger
+3. To Kill a Mockingbird by Harper Lee
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Brave New World by Aldous Huxley
+6. The Lord of the Rings by J.R.R. Tolkien
+7. The Master and Margarita by Mikhail Bulgakov
+8. Heart of Darkness by Joseph Conrad
+9. The Canterbury Tales by Geoffrey Chaucer
+10. Les Misérables by Victor Hugo
+11. The Count of Monte Cristo by Alexandre Dumas
+12. The Iliad by Homer
+13. The Odyssey by Homer
+14. The Alchemist by Paulo Coelho
+15. The Little Prince by Antoine de Saint-Exupéry
+16. Doctor Zhivago by Boris Pasternak
+17. The Hunger Games by Suzanne Collins
+18. The Dark Tower: The Gunslinger by Stephen King
+19. A Clockwork Orange by Anthony Burgess
+20. Alice's Adventures in Wonderland by Lewis Carroll
+21. Jane Eyre by Charlotte Bronte
+22. Moby-Dick by Herman Melville
+23. War and Peace by Leo Tolstoy
+24. The Silmarillion by J.R.R. Tolkien
+25. The Princess Bride by William Goldman
+26. Inferno by Dante Alighieri
+27. The Old Man and the Sea by Ernest Hemingway
+28. Great Expectations by Charles Dickens
+29. Oliver Twist by Charles Dickens
+30. The Stranger by Albert Camus
+31. Antigone by Sophocles
+32. Leaves of Grass by Walt Whitman
+33. Night by Elie Wiesel
+34. The Yiddish Policemen's Union by Michael Chabon
+35. Fahrenheit 451 by Ray Bradbury
+36. The Great Train Robbery by Michael Crichton
+37. Speak by Laurie Halse Anderson
+38. High Fidelity by Nick Hornby
+39. The Freedom Writers Diary by Erin Gruwell
+40. I, Robot by Isaac Asimov
+41. Go Ask Alice by Anonymous
+42. Girl, Interrupted by Susanna Kaysen
+43. The Mists of Avalon by Marion Zimmer Bradley
+44. The Art of Loving by Erich Fromm
+45. A Separate Peace by John Knowles
+46. Don Quixote by Miguel de Cervantes
+47. The Canterbury Tales by Geoffrey Chaucer
+48. Night Shift by Stephen King
+49. The Master and Margarita by Mikhail Bulgakov
+50. The Canterbury Tales by Geoffrey Chaucer

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. The Giver by Lois Lowry
+3. The Hunger Games by Suzanne Collins
+4. Divergent by Veronica Roth
+5. The Maze Runner by James Dashner
+6. Ender's Game by Orson Scott Card
+7. The Handmaid's Tale by Margaret Atwood
+8. The Road by Cormac McCarthy
+9. The Catcher in the Rye by J.D. Salinger
+10. Lord of the Flies by William Golding
+11. Animal Farm by George Orwell
+12. The Alchemist by Paulo Coelho
+13. The Fault in Our Stars by John Green
+14. The Book Thief by Markus Zusak
+15. To Kill a Mockingbird by Harper Lee
+16. The Great Gatsby by F. Scott Fitzgerald
+17. One Hundred Years of Solitude by Gabriel Garcia Marquez
+18. The Picture of Dorian Gray by Oscar Wilde
+19. The Count of Monte Cristo by Alexandre Dumas
+20. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+21. The Hobbit by J.R.R. Tolkien
+22. The Lord of the Rings by J.R.R. Tolkien
+23. The Chronicles of Narnia by C.S. Lewis
+24. Harry Potter and the Philosopher's Stone by J.K. Rowling
+25. The Da Vinci Code by Dan Brown
+26. Angels and Demons by Dan Brown
+27. The Girl with the Dragon Tattoo by Stieg Larsson
+28. The Girl Who Played with Fire by Stieg Larsson
+29. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+30. The Bourne Identity by Robert Ludlum
+31. The Bourne Supremacy by Robert Ludlum
+32. The Bourne Ultimatum by Robert Ludlum
+33. The Silence of the Lambs by Thomas Harris
+34. Red Dragon by Thomas Harris
+35. Hannibal by Thomas Harris
+36. The Shining by Stephen King
+37. Carrie by Stephen King
+38. Misery by Stephen King
+39. The Stand by Stephen King
+40. The Dark Tower by Stephen King
+41. The Name of the Wind by Patrick Rothfuss
+42. The Wise Man's Fear by Patrick Rothfuss
+43. The Lies of Locke Lamora by Scott Lynch
+44. The Blade Itself by Joe Abercrombie
+45. The Way of Kings by Brandon Sanderson
+46. Mistborn by Brandon Sanderson
+47. The Final Empire by Brandon Sanderson
+48. The Well of Ascension by Brandon Sanderson
+49. The Hero of Ages by Brandon Sanderson
+50. The Eye of the World by Robert Jordan

@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Alchemist by Paulo Coelho
+2. The Little Prince by Antoine de Saint-Exupéry
+3. The Celestine Prophecy by James Redfield
+4. The Power of Positive Thinking by Norman Vincent Peale
+5. The Secret Life of Bees by Sue Monk Kidd
+6. The Four Agreements by Don Miguel Ruiz
+7. The Art of Happiness by Dalai Lama XIV and Howard C. Cutler
+8. The Giving Tree by Shel Silverstein
+9. The Prophet by Kahlil Gibran
+10. The Road Less Traveled by M. Scott Peck
+11. The Catcher in the Rye by J.D. Salinger
+12. The Great Gatsby by F. Scott Fitzgerald
+13. To Kill a Mockingbird by Harper Lee
+14. The Hunger Games by Suzanne Collins
+15. The Da Vinci Code by Dan Brown
+16. The Girl with the Dragon Tattoo by Stieg Larsson
+17. The Help by Kathryn Stockett
+18. The Kite Runner by Khaled Hosseini
+19. The Lovely Bones by Alice Sebold
+20. The Notebook by Nicholas Sparks
+21. The Time Traveler's Wife by Audrey Niffenegger
+22. The Fault in Our Stars by John Green
+23. The Girl on the Train by Paula Hawkins
+24. The Martian by Andy Weir
+25. The Nightingale by Kristin Hannah
+26. The Pillars of the Earth by Ken Follett
+27. The Red Tent by Anita Diamant
+28. The Shack by William P. Young
+29. The Thorn Birds by Colleen McCullough
+30. The Help by Kathryn Stockett
+31. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+32. The Joy Luck Club by Amy Tan
+33. The Poisonwood Bible by Barbara Kingsolver
+34. The Secret History by Donna Tartt
+35. The Shadow of the Wind by Carlos Ruiz Zafón
+36. The Stand by Stephen King
+37. The Sun Also Rises by Ernest Hemingway
+38. The Time Machine by H.G. Wells
+39. The Wind in the Willows by Kenneth Grahame
+40. The Wonderful Wizard of Oz by L. Frank Baum
+41. The Adventures of Tom Sawyer by Mark Twain
+42. The Chronicles of Narnia by C.S. Lewis
+43. The Hobbit by J.R.R. Tolkien
+44. The Lord of the Rings by J.R.R. Tolkien
+45. The Catcher in the Rye by J.D. Salinger
+46. The Great Gatsby by F. Scott Fitzgerald
+47. To Kill a Mockingbird by Harper Lee
+48. The Hunger Games by Suzanne Collins
+49. The Da Vinci Code by

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. All Time Low
+2. The Killers
+3. Arctic Monkeys
+4. Rise Against
+5. Biffy Clyro
+6. Muse
+7. Linkin Park
+8. Deftones
+9. Pendulum
+10. Enter Shikari
+11. Foals
+12. Radiohead
+13. Nirvana
+14. Metallica
+15. Iron Maiden
+16. Pearl Jam
+17. System of a Down
+18. Nine Inch Nails
+19. Avenged Sevenfold
+20. My Chemical Romance
+21. Green Day
+22. The Cure
+23. Shiny Toy Guns
+24. You Me At Six
+25. A Day to Remember
+26. Alexisonfire
+27. Bring Me The Horizon
+28. Good Charlotte
+29. Paramore
+30. Evanescence
+31. The Drums
+32. The Strokes
+33. Klaxons
+34. Lostprophets
+35. The Wombats
+36. Mystery Jets
+37. City and Colour
+38. Doves
+39. Owl City
+40. Keane
+41. The Script
+42. Arcade Fire
+43. Duran Duran
+44. Coldplay
+45. Blur
+46. Placebo
+47. Lady Gaga
+48. Christina Aguilera
+49. Rihanna
+50. Beyoncé

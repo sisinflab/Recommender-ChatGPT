@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. Brave New World by Aldous Huxley
+4. The Catcher in the Rye by J.D. Salinger
+5. To Kill a Mockingbird by Harper Lee
+6. The Great Gatsby by F. Scott Fitzgerald
+7. One Hundred Years of Solitude by Gabriel Garcia Marquez
+8. Crime and Punishment by Fyodor Dostoevsky
+9. The Brothers Karamazov by Fyodor Dostoevsky
+10. The Picture of Dorian Gray by Oscar Wilde
+11. The Count of Monte Cristo by Alexandre Dumas
+12. Les Miserables by Victor Hugo
+13. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+14. The Hound of the Baskervilles by Arthur Conan Doyle
+15. The Da Vinci Code by Dan Brown
+16. Angels and Demons by Dan Brown
+17. The Girl with the Dragon Tattoo by Stieg Larsson
+18. The Hunger Games by Suzanne Collins
+19. Catching Fire by Suzanne Collins
+20. Mockingjay by Suzanne Collins
+21. The Hobbit by J.R.R. Tolkien
+22. The Lord of the Rings Trilogy by J.R.R. Tolkien
+23. The Silmarillion by J.R.R. Tolkien
+24. The Chronicles of Narnia by C.S. Lewis
+25. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+26. The Shining by Stephen King
+27. The Stand by Stephen King
+28. It by Stephen King
+29. The Dark Tower Series by Stephen King
+30. The Name of the Wind by Patrick Rothfuss
+31. The Wise Man's Fear by Patrick Rothfuss
+32. The Lies of Locke Lamora by Scott Lynch
+33. The Blade Itself by Joe Abercrombie
+34. The Way of Kings by Brandon Sanderson
+35. Mistborn Trilogy by Brandon Sanderson
+36. The Final Empire by Brandon Sanderson
+37. The Well of Ascension by Brandon Sanderson
+38. The Hero of Ages by Brandon Sanderson
+39. The Kingkiller Chronicle by Patrick Rothfuss
+40. The First Law Trilogy by Joe Abercrombie
+41. The Magicians by Lev Grossman
+42. American Gods by Neil Gaiman
+43. Neverwhere by Neil Gaiman
+44. Good Omens by Neil Gaiman and Terry Pratchett
+45. The Dresden Files by Jim Butcher
+46. The Belgariad by David Eddings
+47. The Malloreon by David Eddings
+48. The Wheel of Time Series by Robert Jordan
+49. The Sword of Truth Series by Terry Goodkind
+50. The Memory, Sorrow

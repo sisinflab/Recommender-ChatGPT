@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Guns N' Roses
+2. Sepultura
+3. Fresno
+4. A Rocket to the Moon
+5. Bloodbath
+6. Engenheiros do Hawaii
+7. Faith No More
+8. Hey Monday
+9. Opeth
+10. Anberlin
+11. Sublime
+12. Cobra Starship
+13. HIM
+14. Boys Like Girls
+15. 3OH!3
+16. Bad Religion
+17. Helloween
+18. Bullet for My Valentine
+19. Nickelback
+20. Alesana
+21. The Veronicas
+22. The Fratellis
+23. Yeah Yeah Yeahs
+24. Lady Gaga
+25. Nirvana
+26. Depeche Mode
+27. Green Day
+28. The Killers
+29. Iron Maiden
+30. Led Zeppelin
+31. Metallica
+32. Michael Jackson
+33. Pearl Jam
+34. a-ha
+35. Björk
+36. System of a Down
+37. Nine Inch Nails
+38. Linkin Park
+39. Avenged Sevenfold
+40. My Chemical Romance
+41. The Cure
+42. Paramore
+43. Evanescence
+44. Muse
+45. Pink Floyd
+46. Radiohead
+47. Coldplay
+48. Arctic Monkeys
+49. Placebo
+50. Duran Duran

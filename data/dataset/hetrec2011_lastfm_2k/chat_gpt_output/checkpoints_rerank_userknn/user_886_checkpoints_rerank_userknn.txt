@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations are:
+
+1. Linkin Park
+2. My Chemical Romance
+3. Paramore
+4. Green Day
+5. Epica
+6. Within Temptation
+7. Lacuna Coil
+8. The Pretty Reckless
+9. Apocalyptica
+10. 30 Seconds to Mars
+11. Depeche Mode
+12. Shakira
+13. Lady Gaga
+14. Ramones
+15. Oasis
+16. Pink Floyd
+17. Bryan Adams
+18. Kings of Leon
+19. Nickelback
+20. Creed
+21. Taylor Swift
+22. Céline Dion
+23. Juanes
+24. Pitty
+25. Sandy Leah
+26. Camila
+27. Recoil
+28. Radiohead
+29. Nightwish
+30. Rammstein
+31. Coldplay
+32. Florence + the Machine
+33. Muse
+34. Keane
+35. The Smashing Pumpkins
+36. Martin L. Gore
+37. INXS
+38. Franz Ferdinand
+39. David Bowie
+40. The Prodigy
+41. Zемфира
+42. Alanis Morissette
+43. Tori Amos
+44. Bullet for My Valentine
+45. Metallica
+46. Kaiser Chiefs
+47. Regina Spektor
+48. Pet Shop Boys
+49. White Lies
+50. Hot Chip

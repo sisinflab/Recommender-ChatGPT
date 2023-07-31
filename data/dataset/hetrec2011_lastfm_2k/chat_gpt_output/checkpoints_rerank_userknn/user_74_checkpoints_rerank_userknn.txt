@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for user 74 are:
+
+1. Andrea Bocelli
+2. Sarah Brightman
+3. Michael Jackson
+4. Josh Groban
+5. Enrique Iglesias
+6. Bon Jovi
+7. Miley Cyrus
+8. Jonas Brothers
+9. Secondhand Serenade
+10. Andrew Lloyd Webber
+11. In This Moment
+12. Sum 41
+13. Within Temptation
+14. Tarja
+15. Lara Fabian
+16. Mandy Moore
+17. Mariah Carey
+18. Whitney Houston
+19. Celine Dion
+20. Christina Aguilera
+21. Madonna
+22. Lady Gaga
+23. Katy Perry
+24. Rihanna
+25. Britney Spears
+26. Kelly Clarkson
+27. Leona Lewis
+28. Avril Lavigne
+29. Amy Winehouse
+30. Adele
+31. Norah Jones
+32. Sade
+33. Dido
+34. Jewel
+35. Roxette
+36. Fleetwood Mac
+37. Heart
+38. ABBA
+39. Tina Turner
+40. Cyndi Lauper
+41. Siouxsie and the Banshees
+42. Marilyn Manson
+43. Elvis Presley
+44. Elton John
+45. Cat Stevens
+46. Tears for Fears
+47. Gregorian
+48. Goldfrapp
+49. Daughtry
+50. Glee Cast

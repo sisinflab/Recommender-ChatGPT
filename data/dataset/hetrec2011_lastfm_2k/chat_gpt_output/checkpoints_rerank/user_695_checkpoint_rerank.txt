@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. Pink Floyd
+3. Mogwai
+4. Explosions in the Sky
+5. Ulrich Schnauss
+6. Boards of Canada
+7. God Is an Astronaut
+8. This Will Destroy You
+9. Arovane
+10. Eluvium
+11. Minus the Bear
+12. The Album Leaf
+13. Travis
+14. Stereophonics
+15. The Verve
+16. Manic Street Preachers
+17. Coldplay
+18. Richard Ashcroft
+19. W.A.S.P.
+20. Ratt
+21. Van Halen
+22. Muse
+23. Nirvana
+24. Pearl Jam
+25. Iron Maiden
+26. Metallica
+27. Led Zeppelin
+28. Michael Jackson
+29. U2
+30. Duran Duran
+31. Arctic Monkeys
+32. Placebo
+33. The Killers
+34. System of a Down
+35. Nine Inch Nails
+36. Daft Punk
+37. Linkin Park
+38. My Chemical Romance
+39. Green Day
+40. The Cure
+41. Beyoncé
+42. Lady Gaga
+43. Rihanna
+44. Katy Perry
+45. Christina Aguilera
+46. Shakira
+47. Madonna
+48. Britney Spears
+49. Avril Lavigne
+50. Taylor Swift

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Riverside
+2. Steven Wilson
+3. Haken
+4. Tool
+5. Katatonia
+6. Anathema
+7. Leprous
+8. Soen
+9. Tesseract
+10. Caligula's Horse
+11. Karnivool
+12. Porcupine Tree
+13. Opeth
+14. Dream Theater
+15. Devin Townsend
+16. Pain of Salvation
+17. Ayreon
+18. Symphony X
+19. Fates Warning
+20. Threshold
+21. Vanden Plas
+22. Circus Maximus
+23. Seventh Wonder
+24. Shadow Gallery
+25. Queensryche
+26. Evergrey
+27. Redemption
+28. Kamelot
+29. Blind Guardian
+30. Stratovarius
+31. Sonata Arctica
+32. Amorphis
+33. Therion
+34. Cynic
+35. Ulver
+36. Explosions in the Sky
+37. God Is an Astronaut
+38. Agalloch
+39. Isis
+40. Dark Tranquillity
+41. Sigur Rós
+42. Blackfield
+43. VNV Nation
+44. Beirut
+45. Muse
+46. Radiohead
+47. Pink Floyd
+48. U2
+49. 30 Seconds to Mars
+50. Coldplay

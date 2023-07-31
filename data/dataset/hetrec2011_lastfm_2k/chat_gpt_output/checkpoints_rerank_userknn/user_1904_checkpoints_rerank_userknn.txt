@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Nick Drake
+3. PJ Harvey
+4. Leonard Cohen
+5. Johann Sebastian Bach
+6. Andrew Bird
+7. Feist
+8. R.E.M.
+9. Bruce Springsteen
+10. Pulp
+11. Damien Rice
+12. Ani DiFranco
+13. Sarah McLachlan
+14. CAKE
+15. Jason Mraz
+16. Belle and Sebastian
+17. The Beatles
+18. Eddie Vedder
+19. Keane
+20. Sigur Rós
+21. Little Joy
+22. Alanis Morissette
+23. Joanna Newsom
+24. The National
+25. Death Cab for Cutie
+26. Bloc Party
+27. Mogwai
+28. Hammock
+29. The Album Leaf
+30. Ólafur Arnalds
+31. Newton Faulkner
+32. Coldplay
+33. Maroon 5
+34. Jack Johnson
+35. Kelly Clarkson
+36. Dixie Chicks
+37. Jordin Sparks
+38. Lady Gaga
+39. Kate Nash
+40. Pearl Jam
+41. Razorlight
+42. Muse
+43. Los Hermanos
+44. John Mayer
+45. The Strokes
+46. MGMT
+47. 65daysofstatic
+48. Cat Power
+49. Ke$ha
+50. Linkin Park

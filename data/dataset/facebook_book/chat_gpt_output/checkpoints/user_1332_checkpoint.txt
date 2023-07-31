@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Percy Jackson and the Olympians series by Rick Riordan
+2. The Heroes of Olympus series by Rick Riordan
+3. Magnus Chase and the Gods of Asgard series by Rick Riordan
+4. The Kane Chronicles series by Rick Riordan
+5. The Trials of Apollo series by Rick Riordan
+6. The Chronicles of Narnia series by C.S. Lewis
+7. The Hobbit by J.R.R. Tolkien
+8. The Lord of the Rings series by J.R.R. Tolkien
+9. The Silmarillion by J.R.R. Tolkien
+10. The Complete Grimm's Fairy Tales by Jacob and Wilhelm Grimm
+11. The Little Mermaid by Hans Christian Andersen
+12. The Princess and the Pea by Hans Christian Andersen
+13. The Emperor's New Clothes by Hans Christian Andersen
+14. The Secret Garden by Frances Hodgson Burnett
+15. A Little Princess by Frances Hodgson Burnett
+16. Matilda by Roald Dahl
+17. Charlie and the Chocolate Factory by Roald Dahl
+18. James and the Giant Peach by Roald Dahl
+19. The BFG by Roald Dahl
+20. The Witches by Roald Dahl
+21. The Giver by Lois Lowry
+22. Number the Stars by Lois Lowry
+23. The Hunger Games series by Suzanne Collins
+24. Divergent series by Veronica Roth
+25. The Maze Runner series by James Dashner
+26. The Fault in Our Stars by John Green
+27. Looking for Alaska by John Green
+28. Paper Towns by John Green
+29. The Book Thief by Markus Zusak
+30. The Kite Runner by Khaled Hosseini
+31. A Thousand Splendid Suns by Khaled Hosseini
+32. The Alchemist by Paulo Coelho
+33. The Da Vinci Code by Dan Brown
+34. Angels and Demons by Dan Brown
+35. The Girl with the Dragon Tattoo by Stieg Larsson
+36. The Girl Who Played with Fire by Stieg Larsson
+37. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+38. The Help by Kathryn Stockett
+39. The Secret Life of Bees by Sue Monk Kidd
+40. The Color Purple by Alice Walker
+41. To Kill a Mockingbird by Harper Lee
+42. The Catcher in the Rye by J.D. Salinger
+43. 1984 by George Orwell
+44. Animal Farm by George Orwell
+45. Brave New World by Aldous Huxley
+46. Fahrenheit 451 by Ray Bradbury
+47. The Handmaid's Tale by Margaret Atwood
+48. The Picture of Dorian Gray by Oscar Wilde
+49. The Great Gatsby by F. Scott Fitzgerald
+50. Pride and Prejudice by Jane Austen

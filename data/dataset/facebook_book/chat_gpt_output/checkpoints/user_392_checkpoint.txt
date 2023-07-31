@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. The Catcher in the Rye by J.D. Salinger
+4. To Kill a Mockingbird by Harper Lee
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Animal Farm by George Orwell
+7. Lord of the Flies by William Golding
+8. The Hobbit by J.R.R. Tolkien
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Chronicles of Narnia by C.S. Lewis
+11. The Hunger Games by Suzanne Collins
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Da Vinci Code by Dan Brown
+14. The Name of the Rose by Umberto Eco
+15. The Shadow of the Wind by Carlos Ruiz Zafón
+16. The Picture of Dorian Gray by Oscar Wilde
+17. Dracula by Bram Stoker
+18. Frankenstein by Mary Shelley
+19. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+20. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+21. The Hitchhiker's Guide to the Galaxy series by Douglas Adams
+22. The Discworld series by Terry Pratchett
+23. The Dark Tower series by Stephen King
+24. The Wheel of Time series by Robert Jordan
+25. The Dresden Files series by Jim Butcher
+26. The Mistborn series by Brandon Sanderson
+27. The Kingkiller Chronicle series by Patrick Rothfuss
+28. The Stormlight Archive series by Brandon Sanderson
+29. The First Law trilogy by Joe Abercrombie
+30. The Lies of Locke Lamora by Scott Lynch
+31. The Blade Itself by Joe Abercrombie
+32. The Way of Kings by Brandon Sanderson
+33. The Malazan Book of the Fallen series by Steven Erikson
+34. The Black Company series by Glen Cook
+35. The Belgariad series by David Eddings
+36. The Farseer Trilogy by Robin Hobb
+37. The Earthsea series by Ursula K. Le Guin
+38. The Dark is Rising sequence by Susan Cooper
+39. The Once and Future King by T.H. White
+40. Watership Down by Richard Adams
+41. The Wind in the Willows by Kenneth Grahame
+42. The Secret History by Donna Tartt
+43. The Goldfinch by Donna Tartt
+44. The Night Circus by Erin Morgenstern
+45. The Magicians by Lev Grossman
+46. American Gods by Neil Gaiman
+47. Neverwhere by Neil Gaiman
+48. Good Omens by Neil Gaiman and Terry Pratchett
+49. The Graveyard Book by

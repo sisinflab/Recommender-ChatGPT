@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Harry Potter
+2. The Lord of the Rings
+3. The Hobbit
+4. The Dark Tower: The Gunslinger
+5. The Adventures of Sherlock Holmes
+6. Dracula
+7. The Dresden Files
+8. The Tommyknockers
+9. The Princess Bride
+10. Adventures of Huckleberry Finn
+11. The Great Gatsby
+12. Frankenstein
+13. Crime and Punishment
+14. A Clockwork Orange
+15. To Kill a Mockingbird
+16. The Alchemist (novel)
+17. Angels & Demons
+18. The Lost Symbol
+19. The No. 1 Ladies' Detective Agency (novel)
+20. A Farewell to Arms
+21. A Separate Peace
+22. The Bourne Ultimatum
+23. The Watchman (novel)
+24. The Watchmen (novel)
+25. Ethan Frome
+26. Tender Is the Night
+27. Black Beauty
+28. The Canterbury Tales
+29. Gulliver's Travels
+30. A Christmas Carol
+31. Heidi
+32. Paradise Lost
+33. Ramayana
+34. The Aeneid
+35. Mere Christianity
+36. The Screwtape Letters
+37. Nightmares & Dreamscapes
+38. The Zombie Survival Guide
+39. Lullaby (Palahniuk novel)
+40. Twisted (book)
+41. Through the Looking-Glass
+42. Twenty Thousand Leagues Under the Sea
+43. Infinite Jest
+44. The Borrowers
+45. Midnight's Children
+46. The Girl Who Leapt Through Time
+47. Emma (novel)
+48. Hulk (comics)
+49. 300 (comics)
+50. Macbeth

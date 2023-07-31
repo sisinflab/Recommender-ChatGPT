@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Crime and Punishment by Fyodor Dostoevsky
+3. The Catcher in the Rye by J.D. Salinger
+4. To Kill a Mockingbird by Harper Lee
+5. The Brothers Karamazov by Fyodor Dostoevsky
+6. The Stranger by Albert Camus
+7. The Road by Cormac McCarthy
+8. The Bell Jar by Sylvia Plath
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Trial by Franz Kafka
+11. The Sun Also Rises by Ernest Hemingway
+12. The Old Man and the Sea by Ernest Hemingway
+13. The Grapes of Wrath by John Steinbeck
+14. The Sound and the Fury by William Faulkner
+15. One Flew Over the Cuckoo's Nest by Ken Kesey
+16. Heart of Darkness by Joseph Conrad
+17. Slaughterhouse-Five by Kurt Vonnegut
+18. Brave New World by Aldous Huxley
+19. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+20. The Martian by Andy Weir
+21. The Handmaid's Tale by Margaret Atwood
+22. The Shining by Stephen King
+23. The Stand by Stephen King
+24. The Lord of the Rings by J.R.R. Tolkien
+25. The Hobbit by J.R.R. Tolkien
+26. The Chronicles of Narnia by C.S. Lewis
+27. The Hunger Games by Suzanne Collins
+28. Catching Fire by Suzanne Collins
+29. Mockingjay by Suzanne Collins
+30. The Girl with the Dragon Tattoo by Stieg Larsson
+31. The Girl Who Played with Fire by Stieg Larsson
+32. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+33. The Da Vinci Code by Dan Brown
+34. Angels and Demons by Dan Brown
+35. Inferno by Dan Brown
+36. The Name of the Rose by Umberto Eco
+37. The Shadow of the Wind by Carlos Ruiz Zafón
+38. The Angel's Game by Carlos Ruiz Zafón
+39. The Prisoner of Heaven by Carlos Ruiz Zafón
+40. The Time Traveler's Wife by Audrey Niffenegger
+41. The Help by Kathryn Stockett
+42. The Kite Runner by Khaled Hosseini
+43. A Thousand Splendid Suns by Khaled Hosseini
+44. The Alchemist by Paulo Coelho
+45. Life of Pi by Yann Martel
+46. The Secret History by Donna Tartt
+47. The Goldfinch by Donna Tartt
+48. The Nightingale by Kristin Hannah
+49. The Immortal Life of Henrietta L

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Elliott Smith
+3. Pink Floyd
+4. The Beatles
+5. Joy Division
+6. The Smiths
+7. My Bloody Valentine
+8. Interpol
+9. Death Cab for Cutie
+10. Nick Drake
+11. Jeff Buckley
+12. Portishead
+13. The xx
+14. Mogwai
+15. Franz Ferdinand
+16. Arctic Monkeys
+17. The Libertines
+18. Little Joy
+19. The Kooks
+20. Vampire Weekend
+21. City and Colour
+22. Simon & Garfunkel
+23. Zebrahead
+24. Kate Nash
+25. Weezer
+26. Jet
+27. Daft Punk
+28. blink-182
+29. Bob Dylan
+30. Muse
+31. Nirvana
+32. Led Zeppelin
+33. Metallica
+34. Iron Maiden
+35. System of a Down
+36. Nine Inch Nails
+37. Linkin Park
+38. Pearl Jam
+39. The Killers
+40. Placebo
+41. Coldplay
+42. Blur
+43. Duran Duran
+44. Michael Jackson
+45. Björk
+46. Amy Winehouse
+47. U2
+48. Green Day
+49. My Chemical Romance
+50. The Cure

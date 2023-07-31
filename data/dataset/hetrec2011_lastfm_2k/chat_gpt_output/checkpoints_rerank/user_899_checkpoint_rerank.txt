@@ -1,0 +1,52 @@
+Based on the user's liking history, here are the top 50 recommendations:
+
+1. All Time Low
+2. The Maine
+3. Forever the Sickest Kids
+4. We The Kings
+5. The All-American Rejects
+6. The Red Jumpsuit Apparatus
+7. Cute Is What We Aim For
+8. Fall Out Boy
+9. Panic! At the Disco
+10. Metro Station
+11. Cobra Starship
+12. Hey Monday
+13. The Summer Set
+14. Yellowcard
+15. Simple Plan
+16. Taking Back Sunday
+17. Paramore
+18. Cash Cash
+19. Owl City
+20. Hellogoodbye
+21. 3OH!3
+22. You Me At Six
+23. Lady Gaga
+24. Katy Perry
+25. Pink Floyd
+26. Muse
+27. Radiohead
+28. Coldplay
+29. The Killers
+30. Nirvana
+31. Metallica
+32. Led Zeppelin
+33. Michael Jackson
+34. Pearl Jam
+35. U2
+36. Duran Duran
+37. Arctic Monkeys
+38. Placebo
+39. Iron Maiden
+40. Nine Inch Nails
+41. Linkin Park
+42. Avril Lavigne
+43. Taylor Swift
+44. Evanescence
+45. Glee Cast
+46. Beyoncé
+47. Ke$ha
+48. Black Eyed Peas
+49. My Chemical Romance
+50. Green Day

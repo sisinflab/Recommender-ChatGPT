@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Da Vinci Code by Dan Brown
+2. Inferno by Dan Brown
+3. Revolution 2020 by Chetan Bhagat
+4. The Alchemist by Paulo Coelho
+5. The Kite Runner by Khaled Hosseini
+6. The Girl with the Dragon Tattoo by Stieg Larsson
+7. The Godfather by Mario Puzo
+8. The Catcher in the Rye by J.D. Salinger
+9. The Hunger Games by Suzanne Collins
+10. The Fault in Our Stars by John Green
+11. The Hobbit by J.R.R. Tolkien
+12. The Lord of the Rings by J.R.R. Tolkien
+13. The Chronicles of Narnia by C.S. Lewis
+14. Harry Potter and the Philosopher's Stone by J.K. Rowling
+15. Harry Potter and the Chamber of Secrets by J.K. Rowling
+16. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+17. Harry Potter and the Goblet of Fire by J.K. Rowling
+18. Harry Potter and the Order of Phoenix by J.K. Rowling
+19. Harry Potter and the Half-Blood Prince by J.K. Rowling
+20. Harry Potter and the Deathly Hallows by J.K. Rowling
+21. The Girl on the Train by Paula Hawkins
+22. Gone Girl by Gillian Flynn
+23. The Help by Kathryn Stockett
+24. The Secret Life of Bees by Sue Monk Kidd
+25. The Lovely Bones by Alice Sebold
+26. The Time Traveler's Wife by Audrey Niffenegger
+27. The Notebook by Nicholas Sparks
+28. A Walk to Remember by Nicholas Sparks
+29. The Last Song by Nicholas Sparks
+30. The Lucky One by Nicholas Sparks
+31. Safe Haven by Nicholas Sparks
+32. The Best of Me by Nicholas Sparks
+33. The Longest Ride by Nicholas Sparks
+34. Me Before You by Jojo Moyes
+35. The Maze Runner by James Dashner
+36. Divergent by Veronica Roth
+37. The Selection by Kiera Cass
+38. The Giver by Lois Lowry
+39. The Outsiders by S.E. Hinton
+40. To Kill a Mockingbird by Harper Lee
+41. The Great Gatsby by F. Scott Fitzgerald
+42. 1984 by George Orwell
+43. Animal Farm by George Orwell
+44. Brave New World by Aldous Huxley
+45. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+46. The Catch-22 by Joseph Heller
+47. One Hundred Years of Solitude by Gabriel Garcia Marquez
+48. Love in the Time of Cholera by Gabriel Garcia Marquez
+49. The Picture of Dorian Gray by Oscar Wilde
+50. The Wise Man's Fear by Patrick Rothfuss

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter
+2. The Lord of the Rings
+3. Wuthering Heights
+4. Jane Eyre
+5. Frankenstein
+6. The Count of Monte Cristo
+7. Les Misérables
+8. A Farewell to Arms
+9. The Grapes of Wrath
+10. The Catcher in the Rye
+11. In Cold Blood
+12. Persuasion (novel)
+13. The Giver
+14. Mrs Dalloway
+15. The Awakening (Chopin novel)
+16. Speaker for the Dead
+17. The Thirteenth Tale
+18. I Am Legend (novel)
+19. A Streetcar Named Desire (play)
+20. The Hobbit
+21. Winnie-the-Pooh (book)
+22. Misery (novel)
+23. Hannibal (novel)
+24. American Psycho
+25. Angels & Demons
+26. The Memory Keeper's Daughter
+27. The Da Vinci Code
+28. Never Let Me Go (novel)
+29. Dear John (novel)
+30. Confessions of an Ugly Stepsister
+31. Eragon
+32. The Silence of the Lambs (novel)
+33. Romeo and Juliet
+34. The Raven
+35. The Cask of Amontillado
+36. The Merchant of Venice
+37. The Unbearable Lightness of Being
+38. The Far Side
+39. The Watchmen (novel)
+40. Brave New World
+41. Night (book)
+42. Dracula
+43. The Historian
+44. Franny and Zooey
+45. Ella Enchanted
+46. A Wrinkle in Time
+47. The Hamlet
+48. My Ántonia
+49. The Coldest Winter Ever
+50. Inferno (Dante)

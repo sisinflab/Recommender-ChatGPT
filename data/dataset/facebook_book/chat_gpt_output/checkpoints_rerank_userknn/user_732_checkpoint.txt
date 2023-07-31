@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Brave New World by Aldous Huxley
+2. The Hunger Games by Suzanne Collins
+3. Frankenstein by Mary Shelley
+4. Animal Farm by George Orwell
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Slaughterhouse-Five by Kurt Vonnegut
+7. Lord of the Flies by William Golding
+8. The Catcher in the Rye by J.D. Salinger
+9. Of Mice and Men by John Steinbeck
+10. The Outsiders by S.E. Hinton
+11. A Series of Unfortunate Events by Lemony Snicket
+12. The Giver by Lois Lowry
+13. Jane Eyre by Charlotte Bronte
+14. Divine Comedy by Dante Alighieri
+15. Complete Works of Shakespeare by William Shakespeare
+16. Fahrenheit 451 by Ray Bradbury
+17. Little Women by Louisa May Alcott
+18. Ethan Frome by Edith Wharton
+19. A Midsummer Night's Dream by William Shakespeare
+20. The Masque of the Red Death by Edgar Allan Poe
+21. The Cask of Amontillado by Edgar Allan Poe
+22. The Umbrella Academy by Gerard Way
+23. The Giving Tree by Shel Silverstein
+24. High Fidelity by Nick Hornby
+25. Gone with the Wind by Margaret Mitchell
+26. The Other Boleyn Girl by Philippa Gregory
+27. Night by Elie Wiesel
+28. Uglies by Scott Westerfeld
+29. The Hamlet by William Faulkner
+30. The Hatchet by Gary Paulsen
+31. Jabberwocky by Lewis Carroll
+32. The Pit and the Pendulum by Edgar Allan Poe
+33. The Mists of Avalon by Marion Zimmer Bradley
+34. The Last Storytellers: Tales from the Heart of Morocco by Richard Hamilton
+35. Wolf Brother by Michelle Paver
+36. Mythology by Edith Hamilton
+37. Cirque du Freak by Darren Shan
+38. Disco Bloodbath by James St. James
+39. The Class by Erich Segal
+40. King Leary by Paul Quarrington
+41. Inferno by Dante Alighieri
+42. The Stranger by Albert Camus
+43. Lolita by Vladimir Nabokov
+44. Romeo and Juliet by William Shakespeare
+45. The Gold Bug Variations by Richard Powers
+46. Girl, Interrupted by Susanna Kaysen
+47. Quidditch Through the Ages by J.K. Rowling
+48. The Stinky Cheese Man and Other Fairly Stupid Tales by Jon Scieszka
+49. Marked by Kristin Cast and P.C. Cast
+50. D.Gray-man by Katsura Hoshino

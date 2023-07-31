@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+4. Fahrenheit 451 by Ray Bradbury
+5. The Handmaid's Tale by Margaret Atwood
+6. Neuromancer by William Gibson
+7. Snow Crash by Neal Stephenson
+8. The Martian by Andy Weir
+9. The Hunger Games by Suzanne Collins
+10. The Road by Cormac McCarthy
+11. The Stand by Stephen King
+12. The Dark Tower series by Stephen King
+13. The Foundation series by Isaac Asimov
+14. The Hyperion Cantos by Dan Simmons
+15. The Three-Body Problem by Liu Cixin
+16. The Windup Girl by Paolo Bacigalupi
+17. The Diamond Age by Neal Stephenson
+18. The Left Hand of Darkness by Ursula K. Le Guin
+19. The Forever War by Joe Haldeman
+20. The War of the Worlds by H.G. Wells
+21. The Time Machine by H.G. Wells
+22. The Invisible Man by H.G. Wells
+23. The Island of Dr. Moreau by H.G. Wells
+24. The Andromeda Strain by Michael Crichton
+25. Jurassic Park by Michael Crichton
+26. The Lost World by Michael Crichton
+27. The Girl with the Dragon Tattoo by Stieg Larsson
+28. The Girl Who Played with Fire by Stieg Larsson
+29. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+30. The Bourne Identity by Robert Ludlum
+31. The Bourne Supremacy by Robert Ludlum
+32. The Bourne Ultimatum by Robert Ludlum
+33. The Da Vinci Code by Dan Brown
+34. Angels & Demons by Dan Brown
+35. Inferno by Dan Brown
+36. The Name of the Wind by Patrick Rothfuss
+37. The Wise Man's Fear by Patrick Rothfuss
+38. American Gods by Neil Gaiman
+39. Neverwhere by Neil Gaiman
+40. Good Omens by Neil Gaiman and Terry Pratchett
+41. The Dresden Files series by Jim Butcher
+42. The Belgariad series by David Eddings
+43. The Malazan Book of the Fallen series by Steven Erikson
+44. The Mistborn series by Brandon Sanderson
+45. The Stormlight Archive series by Brandon Sanderson
+46. The Kingkiller Chronicle series by Patrick Rothfuss
+47. The First Law trilogy by Joe Abercrombie
+48. The Blade Itself by Joe Abercrombie
+49. The Lies of Locke Lamora by Scott Lynch
+50. Red Rising

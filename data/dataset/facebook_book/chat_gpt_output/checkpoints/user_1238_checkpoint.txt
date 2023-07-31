@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. The Hunger Games by Suzanne Collins
+3. The Chronicles of Narnia by C.S. Lewis
+4. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+5. The Girl with the Dragon Tattoo by Stieg Larsson
+6. The Da Vinci Code by Dan Brown
+7. The Catcher in the Rye by J.D. Salinger
+8. To Kill a Mockingbird by Harper Lee
+9. 1984 by George Orwell
+10. Animal Farm by George Orwell
+11. Brave New World by Aldous Huxley
+12. The Great Gatsby by F. Scott Fitzgerald
+13. The Hobbit by J.R.R. Tolkien
+14. The Shining by Stephen King
+15. The Stand by Stephen King
+16. The Silence of the Lambs by Thomas Harris
+17. The Girl on the Train by Paula Hawkins
+18. The Help by Kathryn Stockett
+19. The Kite Runner by Khaled Hosseini
+20. The Alchemist by Paulo Coelho
+21. The Picture of Dorian Gray by Oscar Wilde
+22. The Road by Cormac McCarthy
+23. The Book Thief by Markus Zusak
+24. The Fault in Our Stars by John Green
+25. The Perks of Being a Wallflower by Stephen Chbosky
+26. The Giver by Lois Lowry
+27. The Maze Runner by James Dashner
+28. The Outsiders by S.E. Hinton
+29. The Secret Life of Bees by Sue Monk Kidd
+30. The Time Traveler's Wife by Audrey Niffenegger
+31. The Lovely Bones by Alice Sebold
+32. The Handmaid's Tale by Margaret Atwood
+33. The Bell Jar by Sylvia Plath
+34. The Road Less Traveled by M. Scott Peck
+35. The Power of Now by Eckhart Tolle
+36. The Celestine Prophecy by James Redfield
+37. The Prophet by Kahlil Gibran
+38. The Tao of Pooh by Benjamin Hoff
+39. The Art of War by Sun Tzu
+40. The Prince by Niccolo Machiavelli
+41. The Republic by Plato
+42. The Divine Comedy by Dante Alighieri
+43. The Canterbury Tales by Geoffrey Chaucer
+44. The Iliad by Homer
+45. The Odyssey by Homer
+46. The Aeneid by Virgil
+47. The Inferno by Dante Alighieri
+48. The Decameron by Giovanni Boccaccio
+49. The Canterbury Tales by Geoffrey Chaucer
+50. The Divine Comedy by Dante Alighieri

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. The Lord of the Rings by J.R.R. Tolkien
+3. To Kill a Mockingbird by Harper Lee
+4. The Catcher in the Rye by J.D. Salinger
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Animal Farm by George Orwell
+7. Brave New World by Aldous Huxley
+8. The Hobbit by J.R.R. Tolkien
+9. The Da Vinci Code by Dan Brown
+10. The Girl with the Dragon Tattoo by Stieg Larsson
+11. The Hunger Games by Suzanne Collins
+12. The Road by Cormac McCarthy
+13. The Shining by Stephen King
+14. The Silence of the Lambs by Thomas Harris
+15. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+16. The Picture of Dorian Gray by Oscar Wilde
+17. The War of the Worlds by H.G. Wells
+18. The Time Machine by H.G. Wells
+19. The Martian by Andy Weir
+20. The Hitchhiker's Guide to the Galaxy: The Complete Radio Series by Douglas Adams
+21. The Stand by Stephen King
+22. The Dark Tower series by Stephen King
+23. The Gunslinger by Stephen King
+24. The Drawing of the Three by Stephen King
+25. The Waste Lands by Stephen King
+26. The Wind Through the Keyhole by Stephen King
+27. The Talisman by Stephen King and Peter Straub
+28. The Eyes of the Dragon by Stephen King
+29. The Green Mile by Stephen King
+30. The Dead Zone by Stephen King
+31. The Tommyknockers by Stephen King
+32. The Langoliers by Stephen King
+33. The Regulators by Stephen King
+34. The Running Man by Stephen King
+35. The Long Walk by Stephen King
+36. The Bachman Books by Stephen King
+37. The Dark Half by Stephen King
+38. The Outsider by Stephen King
+39. The Institute by Stephen King
+40. The Mother Tongue by Bill Bryson
+41. A Walk in the Woods by Bill Bryson
+42. In a Sunburned Country by Bill Bryson
+43. Notes from a Small Island by Bill Bryson
+44. The Lost Continent by Bill Bryson
+45. The Watchmen (novel) by John Altman (author)
+46. V for Vendetta by Alan Moore and David Lloyd
+47. Watchmen by Alan Moore and Dave Gibbons
+48. The Sandman by Neil Gaiman
+49. American Gods by Neil Gaiman
+50. Neverwhere by Neil Gaiman

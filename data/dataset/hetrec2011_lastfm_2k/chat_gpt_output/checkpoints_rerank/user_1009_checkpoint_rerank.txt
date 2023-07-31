@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Muse
+2. 30 Seconds to Mars
+3. My Chemical Romance
+4. Evanescence
+5. Linkin Park
+6. Paramore
+7. Green Day
+8. The Killers
+9. Nirvana
+10. Metallica
+11. Iron Maiden
+12. Pearl Jam
+13. Blink-182
+14. Fall Out Boy
+15. Radiohead
+16. The Beatles
+17. Franz Ferdinand
+18. Arctic Monkeys
+19. The Strokes
+20. Good Charlotte
+21. Lostprophets
+22. Boys Like Girls
+23. The All-American Rejects
+24. Razorlight
+25. Snow Patrol
+26. Feeder
+27. Goo Goo Dolls
+28. Hard-Fi
+29. Papa Roach
+30. Billy Talent
+31. New Found Glory
+32. Sum 41
+33. Dashboard Confessional
+34. Augustana
+35. Relient K
+36. HIM
+37. Apoptygma Berzerk
+38. Dirty Pretty Things
+39. Paradise Lost
+40. Depeche Mode
+41. Lady Gaga
+42. Madonna
+43. Rihanna
+44. Shakira
+45. Katy Perry
+46. Avril Lavigne
+47. Taylor Swift
+48. Glee Cast
+49. Beyoncé
+50. U2

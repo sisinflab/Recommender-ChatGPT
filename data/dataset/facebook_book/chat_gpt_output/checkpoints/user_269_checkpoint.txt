@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Digital Fortress by Dan Brown
+2. Shadow of the Hegemon by Orson Scott Card
+3. Inferno by Dan Brown
+4. Speaker for the Dead by Orson Scott Card
+5. The Lost Symbol by Dan Brown
+6. Children of the Mind by Orson Scott Card
+7. The Hunger Games by Suzanne Collins
+8. The Maze Runner by James Dashner
+9. The Girl with the Dragon Tattoo by Stieg Larsson
+10. The Girl Who Played with Fire by Stieg Larsson
+11. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+12. The Bourne Identity by Robert Ludlum
+13. The Bourne Supremacy by Robert Ludlum
+14. The Bourne Ultimatum by Robert Ludlum
+15. The Andromeda Strain by Michael Crichton
+16. Jurassic Park by Michael Crichton
+17. The Lost World by Michael Crichton
+18. Timeline by Michael Crichton
+19. Prey by Michael Crichton
+20. Sphere by Michael Crichton
+21. The Stand by Stephen King
+22. The Shining by Stephen King
+23. It by Stephen King
+24. 1984 by George Orwell
+25. Animal Farm by George Orwell
+26. Brave New World by Aldous Huxley
+27. Fahrenheit 451 by Ray Bradbury
+28. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+29. The Catcher in the Rye by J.D. Salinger
+30. To Kill a Mockingbird by Harper Lee
+31. The Great Gatsby by F. Scott Fitzgerald
+32. Lord of the Flies by William Golding
+33. The Hobbit by J.R.R. Tolkien
+34. The Lord of the Rings by J.R.R. Tolkien
+35. The Silmarillion by J.R.R. Tolkien
+36. The Chronicles of Narnia by C.S. Lewis
+37. Harry Potter and the Philosopher's Stone by J.K. Rowling
+38. Harry Potter and the Chamber of Secrets by J.K. Rowling
+39. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+40. Harry Potter and the Goblet of Fire by J.K. Rowling
+41. Harry Potter and the Order of Phoenix by J.K. Rowling
+42. Harry Potter and the Half-Blood Prince by J.K. Rowling
+43. Harry Potter and the Deathly Hallows by J.K. Rowling
+44. The Hunger Games: Catching Fire by Suzanne Collins
+45. The Hunger Games: Mockingjay by Suzanne Collins
+46. Divergent by Veronica Roth
+47. Insurgent by Veronica Roth
+48. Allegiant by Veronica Roth
+49. The Fault in Our Stars

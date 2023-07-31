@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Graceling by Kristin Cashore
+2. The Mortal Instruments series by Cassandra Clare
+3. The Maze Runner series by James Dashner
+4. Divergent series by Veronica Roth
+5. The Selection series by Kiera Cass
+6. The Lunar Chronicles series by Marissa Meyer
+7. The Fault in Our Stars by John Green
+8. The Percy Jackson and the Olympians series by Rick Riordan
+9. The Heroes of Olympus series by Rick Riordan
+10. The Infernal Devices series by Cassandra Clare
+11. The Twilight series by Stephenie Meyer
+12. The Hunger Games series by Suzanne Collins
+13. The Giver series by Lois Lowry
+14. The Chronicles of Narnia series by C.S. Lewis
+15. The Lord of the Rings series by J.R.R. Tolkien
+16. The Hobbit by J.R.R. Tolkien
+17. The Harry Potter series by J.K. Rowling
+18. The Book Thief by Markus Zusak
+19. The Girl with the Dragon Tattoo by Stieg Larsson
+20. The Girl on the Train by Paula Hawkins
+21. The Da Vinci Code by Dan Brown
+22. The Help by Kathryn Stockett
+23. The Secret Life of Bees by Sue Monk Kidd
+24. The Kite Runner by Khaled Hosseini
+25. The Alchemist by Paulo Coelho
+26. The Catcher in the Rye by J.D. Salinger
+27. To Kill a Mockingbird by Harper Lee
+28. The Great Gatsby by F. Scott Fitzgerald
+29. 1984 by George Orwell
+30. Animal Farm by George Orwell
+31. Brave New World by Aldous Huxley
+32. Fahrenheit 451 by Ray Bradbury
+33. The Handmaid's Tale by Margaret Atwood
+34. The Road by Cormac McCarthy
+35. The Stand by Stephen King
+36. The Shining by Stephen King
+37. The Dark Tower series by Stephen King
+38. The Name of the Wind by Patrick Rothfuss
+39. The Wise Man's Fear by Patrick Rothfuss
+40. The Lies of Locke Lamora by Scott Lynch
+41. The Blade Itself by Joe Abercrombie
+42. The Way of Kings by Brandon Sanderson
+43. Mistborn series by Brandon Sanderson
+44. The Stormlight Archive series by Brandon Sanderson
+45. The Kingkiller Chronicle series by Patrick Rothfuss
+46. The First Law trilogy by Joe Abercrombie
+47. The Broken Empire trilogy by Mark Lawrence
+48. The Powder Mage trilogy by Brian McClellan
+49. The Lightbringer series by Brent Weeks
+50. The Black Prism by Brent Weeks

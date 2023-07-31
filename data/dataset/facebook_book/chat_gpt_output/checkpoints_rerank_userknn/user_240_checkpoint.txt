@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Nineteen Eighty-Four by George Orwell
+2. The Catcher in the Rye by J.D. Salinger
+3. Crime and Punishment by Fyodor Dostoyevsky
+4. The Great Gatsby by F. Scott Fitzgerald
+5. The Brothers Karamazov by Fyodor Dostoyevsky
+6. Brave New World by Aldous Huxley
+7. The Handmaid's Tale by Margaret Atwood
+8. Pride and Prejudice by Jane Austen
+9. The Old Man and the Sea by Ernest Hemingway
+10. The Scarlet Pimpernel by Baroness Orczy
+11. The Elements of Style by William Strunk Jr. and E.B. White
+12. The Help by Kathryn Stockett
+13. The Turn of the Screw by Henry James
+14. The Grapes of Wrath by John Steinbeck
+15. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+16. The Prince by Niccolo Machiavelli
+17. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+18. The Perks of Being a Wallflower by Stephen Chbosky
+19. The Vampire Chronicles by Anne Rice
+20. The Watchmen by Alan Moore and Dave Gibbons
+21. A Clockwork Orange by Anthony Burgess
+22. Frankenstein by Mary Shelley
+23. Love Story by Erich Segal
+24. As I Lay Dying by William Faulkner
+25. The Hamlet by William Faulkner
+26. Inferno by Dante Alighieri
+27. Notes from Underground by Fyodor Dostoyevsky
+28. A Separate Peace by John Knowles
+29. The Sandman by Neil Gaiman
+30. The Turn of the Screw by Henry James
+31. The Handmaid's Tale by Margaret Atwood
+32. Sun Bin's Art of War by Sun Bin
+33. The Client by John Grisham
+34. The General's Daughter by Nelson DeMille
+35. Beauty: A Retelling of the Story of Beauty and the Beast by Robin McKinley
+36. High Fidelity by Nick Hornby
+37. Marvel Books by Stan Lee
+38. Holes by Louis Sachar
+39. The Help by Kathryn Stockett
+40. Pir-e-Kamil by Umera Ahmed
+41. Fear and Loathing in Las Vegas by Hunter S. Thompson
+42. I, Robot by Isaac Asimov
+43. Invisible Man by Ralph Ellison
+44. Twilight by Stephenie Meyer
+45. Confessions by Saint Augustine
+46. Night by Elie Wiesel
+47. Sir Gawain and the Green Knight by Anonymous
+48. Brisingr by Christopher Paolini
+49. Lord of the

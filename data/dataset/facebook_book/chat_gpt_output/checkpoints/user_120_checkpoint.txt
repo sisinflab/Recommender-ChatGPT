@@ -1,0 +1,47 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Divergent by Veronica Roth
+2. The Maze Runner by James Dashner
+3. The Giver by Lois Lowry
+4. The Fault in Our Stars by John Green
+5. The Selection by Kiera Cass
+6. Legend by Marie Lu
+7. The Mortal Instruments by Cassandra Clare
+8. Percy Jackson and the Olympians by Rick Riordan
+9. The Chronicles of Narnia by C.S. Lewis
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Hobbit by J.R.R. Tolkien
+12. The Hunger Games: Catching Fire by Suzanne Collins
+13. The Hunger Games: Mockingjay by Suzanne Collins
+14. Insurgent by Veronica Roth
+15. Allegiant by Veronica Roth
+16. Matched by Ally Condie
+17. Delirium by Lauren Oliver
+18. Pandemonium by Lauren Oliver
+19. Requiem by Lauren Oliver
+20. The Uglies: Pretties by Scott Westerfeld
+21. The Uglies: Specials by Scott Westerfeld
+22. The Uglies: Extras by Scott Westerfeld
+23. Maximum Ride by James Patterson
+24. Fruits Basket by Natsuki Takaya
+25. Naruto by Masashi Kishimoto
+26. One Piece by Eiichiro Oda
+27. Fullmetal Alchemist by Hiromu Arakawa
+28. Death Note by Tsugumi Ohba
+29. Attack on Titan by Hajime Isayama
+30. Black Butler by Yana Toboso
+31. Alice Through the Looking Glass by Lewis Carroll
+32. Through the Looking Glass by Lewis Carroll
+33. The Wonderful Wizard of Oz by L. Frank Baum
+34. The Marvelous Land of Oz by L. Frank Baum
+35. Ozma of Oz by L. Frank Baum
+36. A Series of Unfortunate Events: The Bad Beginning by Lemony Snicket
+37. A Series of Unfortunate Events: The Reptile Room by Lemony Snicket
+38. A Series of Unfortunate Events: The Wide Window by Lemony Snicket
+39. A Series of Unfortunate Events: The Miserable Mill by Lemony Snicket
+40. A Series of Unfortunate Events: The Austere Academy by Lemony Snicket
+41. A Series of Unfortunate Events: The Ersatz Elevator by Lemony Snicket
+42. A Series of Unfortunate Events: The Vile Village by Lemony Snicket
+43. A Series of Unfortunate Events: The Hostile Hospital by Lemony Snicket
+44. A Series of Unfortunate Events: The Carnivorous Carnival by Lemony Snicket
+45. A Series of Unfortunate Events: The Slippery Slope by Lemony Snicket

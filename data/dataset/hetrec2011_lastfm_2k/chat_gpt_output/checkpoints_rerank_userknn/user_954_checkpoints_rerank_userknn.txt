@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations are:
+
+1. Depeche Mode
+2. Recoil
+3. New Order
+4. Kraftwerk
+5. Lady Gaga
+6. And One
+7. Hurts
+8. Madonna
+9. Mesh
+10. Martin L. Gore
+11. Nitzer Ebb
+12. Covenant
+13. Apoptygma Berzerk
+14. Soft Cell
+15. Electronic
+16. Front 242
+17. Joy Division
+18. The Beatles
+19. VNV Nation
+20. Dave Gahan
+21. Rammstein
+22. Muse
+23. The Human League
+24. Bauhaus
+25. HIM
+26. Dead Can Dance
+27. Placebo
+28. IAMX
+29. Portishead
+30. Aphex Twin
+31. Massive Attack
+32. Daft Punk
+33. David Guetta
+34. Air
+35. The Cure
+36. Boards of Canada
+37. Yann Tiersen
+38. Electric Light Orchestra
+39. Nelly Furtado
+40. Camouflage
+41. The Offspring
+42. Crystal Castles
+43. Serj Tankian
+44. Evanescence
+45. Ария
+46. Hans Zimmer
+47. Squarepusher
+48. Feeder
+49. Sopor Aeternus & The Ensemble of Shadows
+50. Queen

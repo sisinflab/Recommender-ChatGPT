@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Muse
+2. Radiohead
+3. Foals
+4. Animal Collective
+5. Crystal Castles
+6. The Knife
+7. Bloc Party
+8. Late of the Pier
+9. Apparat
+10. Mute Math
+11. Burial
+12. Whitechapel
+13. Architects
+14. Born of Osiris
+15. The Word Alive
+16. Asking Alexandria
+17. Breathe Carolina
+18. Attack Attack!
+19. We Butter The Bread With Butter
+20. Vampire Weekend
+21. Arctic Monkeys
+22. Nirvana
+23. Pearl Jam
+24. Led Zeppelin
+25. Iron Maiden
+26. Michael Jackson
+27. Madonna
+28. Lady Gaga
+29. Beyoncé
+30. Rihanna
+31. Shakira
+32. Christina Aguilera
+33. Britney Spears
+34. Katy Perry
+35. Avril Lavigne
+36. Taylor Swift
+37. Evanescence
+38. Ke$ha
+39. Duran Duran
+40. Coldplay
+41. Blur
+42. Placebo
+43. The Killers
+44. U2
+45. Pink Floyd
+46. Kylie Minogue
+47. Daft Punk
+48. Nine Inch Nails
+49. System of a Down
+50. Amy Winehouse

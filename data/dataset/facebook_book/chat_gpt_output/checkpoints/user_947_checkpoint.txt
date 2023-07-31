@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Fault in Our Stars by John Green
+2. The Hunger Games by Suzanne Collins
+3. To Kill a Mockingbird by Harper Lee
+4. The Catcher in the Rye by J.D. Salinger
+5. 1984 by George Orwell
+6. Animal Farm by George Orwell
+7. The Great Gatsby by F. Scott Fitzgerald
+8. Brave New World by Aldous Huxley
+9. Lord of the Flies by William Golding
+10. The Book Thief by Markus Zusak
+11. The Girl with the Dragon Tattoo by Stieg Larsson
+12. The Da Vinci Code by Dan Brown
+13. Angels and Demons by Dan Brown
+14. The Help by Kathryn Stockett
+15. The Kite Runner by Khaled Hosseini
+16. A Thousand Splendid Suns by Khaled Hosseini
+17. The Alchemist by Paulo Coelho
+18. The Picture of Dorian Gray by Oscar Wilde
+19. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+20. The Hobbit by J.R.R. Tolkien
+21. The Lord of the Rings by J.R.R. Tolkien
+22. The Chronicles of Narnia by C.S. Lewis
+23. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+24. The Shining by Stephen King
+25. Carrie by Stephen King
+26. The Stand by Stephen King
+27. The Silence of the Lambs by Thomas Harris
+28. Red Dragon by Thomas Harris
+29. The Bourne Identity by Robert Ludlum
+30. The Bourne Supremacy by Robert Ludlum
+31. The Bourne Ultimatum by Robert Ludlum
+32. The Girl on the Train by Paula Hawkins
+33. The Maze Runner by James Dashner
+34. The Scorch Trials by James Dashner
+35. The Death Cure by James Dashner
+36. The Giver by Lois Lowry
+37. Gathering Blue by Lois Lowry
+38. Messenger by Lois Lowry
+39. Son by Lois Lowry
+40. The Outsiders by S.E. Hinton
+41. The Perks of Being a Wallflower by Stephen Chbosky
+42. The Secret Life of Bees by Sue Monk Kidd
+43. The Time Traveler's Wife by Audrey Niffenegger
+44. The Lovely Bones by Alice Sebold
+45. The Tenth Circle by Jodi Picoult
+46. Nineteen Minutes by Jodi Picoult
+47. My Sister's Keeper by Jodi Picoult
+48. Anthem by Ayn Rand
+49. The God Delusion by Richard Dawkins
+50. City of Glass by Cassandra Clare

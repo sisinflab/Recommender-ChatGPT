@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations are:
+
+1. Radiohead
+2. Sigur Rós
+3. Björk
+4. David Bowie
+5. The Beatles
+6. New Order
+7. Joy Division
+8. Interpol
+9. Coldplay
+10. The Smashing Pumpkins
+11. M83
+12. Editors
+13. Kraftwerk
+14. Beck
+15. Peter Bjorn and John
+16. Manic Street Preachers
+17. Massive Attack
+18. Thom Yorke
+19. The Smiths
+20. Slowdive
+21. My Bloody Valentine
+22. Suede
+23. Beach House
+24. Belle and Sebastian
+25. Fleet Foxes
+26. Nick Drake
+27. Arctic Monkeys
+28. Beirut
+29. Mew
+30. Mogwai
+31. The xx
+32. Feist
+33. The Cure
+34. The Drums
+35. Ólafur Arnalds
+36. Hammock
+37. God Is an Astronaut
+38. Clint Mansell
+39. The Album Leaf
+40. Yann Tiersen
+41. Cocteau Twins
+42. Metric
+43. Nouvelle Vague
+44. Stars
+45. The Bird and The Bee
+46. Apparat
+47. Ellie Goulding
+48. Architecture in Helsinki
+49. Balmorhea
+50. Emilíana Torrini

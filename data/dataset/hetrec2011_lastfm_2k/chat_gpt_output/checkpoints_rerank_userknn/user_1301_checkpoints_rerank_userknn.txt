@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for them would be:
+
+1. Britney Spears
+2. Madonna
+3. Cher
+4. Girls Aloud
+5. Jeffree Star
+6. 倖田來未
+7. Blake Lewis
+8. David Archuleta
+9. Mariah Carey
+10. P!nk
+11. Emma Bunton
+12. 浜崎あゆみ
+13. Lindsay Lohan
+14. Amy Winehouse
+15. Rihanna
+16. The Veronicas
+17. Kelly Clarkson
+18. t.A.T.u.
+19. Christina Aguilera
+20. Corinne Bailey Rae
+21. Enya
+22. Michael Jackson
+23. Anastacia
+24. Melanie C
+25. Black Eyed Peas
+26. Regina Spektor
+27. The Pussycat Dolls
+28. 安室奈美恵
+29. Ashlee Simpson
+30. Sophie Ellis-Bextor
+31. Rouge
+32. Céline Dion
+33. Ashley Tisdale
+34. Paris Hilton
+35. Cansei de Ser Sexy
+36. The Bird and The Bee
+37. Lady Gaga
+38. Beyoncé
+39. Katy Perry
+40. Pink
+41. Gwen Stefani
+42. Avril Lavigne
+43. Taylor Swift
+44. Destiny's Child
+45. Paramore
+46. Shakira
+47. Jennifer Lopez
+48. Colbie Caillat
+49. Hilary Duff
+50. Ke$ha

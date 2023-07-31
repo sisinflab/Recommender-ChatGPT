@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Christina Aguilera
+2. Gwen Stefani
+3. Ariana Grande
+4. Demi Lovato
+5. Selena Gomez
+6. Miley Cyrus
+7. Katy Perry
+8. Taylor Swift
+9. Mariah Carey
+10. Janet Jackson
+11. Jennifer Lopez
+12. Celine Dion
+13. Adele
+14. Sia
+15. Ellie Goulding
+16. Halsey
+17. Billie Eilish
+18. Dua Lipa
+19. Lorde
+20. Florence + The Machine
+21. Lana Del Rey
+22. Amy Winehouse
+23. Duffy
+24. Norah Jones
+25. Corinne Bailey Rae
+26. Alicia Keys
+27. Mary J. Blige
+28. Whitney Houston
+29. Toni Braxton
+30. TLC
+31. Destiny's Child
+32. Spice Girls
+33. Janet Jackson
+34. Paula Abdul
+35. En Vogue
+36. TLC
+37. Destiny's Child
+38. Spice Girls
+39. Janet Jackson
+40. Paula Abdul
+41. En Vogue
+42. TLC
+43. Destiny's Child
+44. Spice Girls
+45. Janet Jackson
+46. Paula Abdul
+47. En Vogue
+48. TLC
+49. Destiny's Child
+50. Spice Girls

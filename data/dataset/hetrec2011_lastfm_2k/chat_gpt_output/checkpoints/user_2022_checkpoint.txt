@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Imagine Dragons
+2. The Script
+3. Coldplay
+4. Muse
+5. Maroon 5
+6. Foo Fighters
+7. Incubus
+8. Kings of Leon
+9. 30 Seconds to Mars
+10. The Fray
+11. OneRepublic
+12. Snow Patrol
+13. U2
+14. Radiohead
+15. Green Day
+16. Fall Out Boy
+17. Panic! At The Disco
+18. My Chemical Romance
+19. All Time Low
+20. Mayday Parade
+21. The All-American Rejects
+22. We The Kings
+23. Boys Like Girls
+24. Simple Plan
+25. Yellowcard
+26. The Red Jumpsuit Apparatus
+27. A Day To Remember
+28. Escape The Fate
+29. Pierce The Veil
+30. Sleeping With Sirens
+31. Bring Me The Horizon
+32. Asking Alexandria
+33. Of Mice & Men
+34. Crown The Empire
+35. Memphis May Fire
+36. Parkway Drive
+37. Architects
+38. August Burns Red
+39. Killswitch Engage
+40. Trivium
+41. Lamb of God
+42. Slipknot
+43. System of a Down
+44. Disturbed
+45. Korn
+46. Five Finger Death Punch
+47. Avenged Sevenfold
+48. Bullet For My Valentine
+49. Breaking Benjamin
+50. Three Days Grace

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Tool
+2. Deftones
+3. Nine Inch Nails
+4. Incubus
+5. Amon Tobin
+6. God Is an Astronaut
+7. Chevelle
+8. Korn
+9. Red Hot Chili Peppers
+10. Circa Survive
+11. ASIAN KUNG-FU GENERATION
+12. dredg
+13. Chiodos
+14. Bloc Party
+15. System of a Down
+16. Muse
+17. Radiohead
+18. Pink Floyd
+19. Nirvana
+20. Metallica
+21. Iron Maiden
+22. Led Zeppelin
+23. Pearl Jam
+24. Arctic Monkeys
+25. Placebo
+26. The Killers
+27. U2
+28. Duran Duran
+29. Coldplay
+30. Blur
+31. Ke$ha
+32. Lady Gaga
+33. Christina Aguilera
+34. Rihanna
+35. Madonna
+36. Beyoncé
+37. Shakira
+38. Katy Perry
+39. Taylor Swift
+40. Evanescence
+41. Glee Cast
+42. Miley Cyrus
+43. Michael Jackson
+44. a-ha
+45. Björk
+46. Daft Punk
+47. Linkin Park
+48. Kelly Clarkson
+49. All Time Low
+50. P!nk

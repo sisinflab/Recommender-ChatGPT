@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Beatles
+2. Queen
+3. Michael Jackson
+4. Paul McCartney
+5. Lady Gaga
+6. Demi Lovato
+7. Katy Perry
+8. Glee Cast
+9. Journey
+10. Panic! At the Disco
+11. Simon & Garfunkel
+12. Andrew Lloyd Webber
+13. The Rolling Stones
+14. Britney Spears
+15. Electric Light Orchestra
+16. Owl City
+17. Lily Allen
+18. Fall Out Boy
+19. Eminem
+20. My Chemical Romance
+21. Nirvana
+22. Backstreet Boys
+23. The Doors
+24. High School Musical
+25. Carrie Underwood
+26. Michael Bublé
+27. JoJo
+28. Matchbox Twenty
+29. The Beach Boys
+30. James Horner
+31. The Lonely Island
+32. Bob Dylan
+33. U2
+34. Muse
+35. Pink Floyd
+36. Radiohead
+37. Coldplay
+38. Arctic Monkeys
+39. Placebo
+40. The Killers
+41. Iron Maiden
+42. Led Zeppelin
+43. Metallica
+44. a-ha
+45. Björk
+46. Nine Inch Nails
+47. Linkin Park
+48. Avenged Sevenfold
+49. Green Day
+50. The Cure

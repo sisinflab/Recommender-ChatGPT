@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Jurassic Park by Michael Crichton
+2. The Lost World by Michael Crichton
+3. Into the Wild by Jon Krakauer
+4. The Catcher in the Rye by J.D. Salinger
+5. The Great Gatsby by F. Scott Fitzgerald
+6. To Kill a Mockingbird by Harper Lee
+7. 1984 by George Orwell
+8. Animal Farm by George Orwell
+9. Brave New World by Aldous Huxley
+10. Fahrenheit 451 by Ray Bradbury
+11. The Martian by Andy Weir
+12. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+13. The Hobbit by J.R.R. Tolkien
+14. The Lord of the Rings by J.R.R. Tolkien
+15. The Silmarillion by J.R.R. Tolkien
+16. The Chronicles of Narnia by C.S. Lewis
+17. The Hunger Games by Suzanne Collins
+18. Catching Fire by Suzanne Collins
+19. Mockingjay by Suzanne Collins
+20. Divergent by Veronica Roth
+21. Insurgent by Veronica Roth
+22. Allegiant by Veronica Roth
+23. The Maze Runner by James Dashner
+24. The Scorch Trials by James Dashner
+25. The Death Cure by James Dashner
+26. The Giver by Lois Lowry
+27. Gathering Blue by Lois Lowry
+28. Messenger by Lois Lowry
+29. Son by Lois Lowry
+30. The Book Thief by Markus Zusak
+31. The Fault in Our Stars by John Green
+32. Looking for Alaska by John Green
+33. Paper Towns by John Green
+34. An Abundance of Katherines by John Green
+35. The Da Vinci Code by Dan Brown
+36. Angels and Demons by Dan Brown
+37. Inferno by Dan Brown
+38. The Girl with the Dragon Tattoo by Stieg Larsson
+39. The Girl Who Played with Fire by Stieg Larsson
+40. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+41. The Help by Kathryn Stockett
+42. The Kite Runner by Khaled Hosseini
+43. A Thousand Splendid Suns by Khaled Hosseini
+44. The Alchemist by Paulo Coelho
+45. The Picture of Dorian Gray by Oscar Wilde
+46. The Importance of Being Earnest by Oscar Wilde
+47. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+48. The Hound of the Baskervilles by Arthur Conan Doyle
+49. The Complete Works of William Shakespeare by William Shakespeare
+50. The Origin of Species by Charles Darwin

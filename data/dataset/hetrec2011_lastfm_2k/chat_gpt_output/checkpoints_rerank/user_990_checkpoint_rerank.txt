@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Radio Dept.
+2. Sigur Rós
+3. Broken Social Scene
+4. Joy Division
+5. Interpol
+6. Françoise Hardy
+7. Doves
+8. Björk
+9. Brian Eno
+10. Air
+11. Kings of Convenience
+12. New Order
+13. múm
+14. Telefon Tel Aviv
+15. Jónsi & Alex
+16. David Bowie
+17. Pulp
+18. The Good, the Bad & the Queen
+19. M83
+20. Editors
+21. Kraftwerk
+22. Damien Rice
+23. Beck
+24. Peter Bjorn and John
+25. The Smashing Pumpkins
+26. Manic Street Preachers
+27. Radiohead
+28. Coldplay
+29. Blur
+30. Arctic Monkeys
+31. Placebo
+32. The Killers
+33. Nirvana
+34. Led Zeppelin
+35. Pearl Jam
+36. Björk
+37. Daft Punk
+38. Nine Inch Nails
+39. Linkin Park
+40. Avenged Sevenfold
+41. My Chemical Romance
+42. Green Day
+43. The Cure
+44. Muse
+45. Pink Floyd
+46. U2
+47. Iron Maiden
+48. Michael Jackson
+49. Metallica
+50. a-ha

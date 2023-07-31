@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. My Sister's Keeper by Jodi Picoult
+2. Nineteen Minutes by Jodi Picoult
+3. Burned by Ellen Hopkins
+4. Crank by Ellen Hopkins
+5. Black by Ted Dekker
+6. Three by Ted Dekker
+7. Red by Ted Dekker
+8. The Notebook by Nicholas Sparks
+9. City of Ashes by Cassandra Clare
+10. The Visitation by Frank Peretti
+11. Fahrenheit 451 by Ray Bradbury
+12. Wuthering Heights by Emily Bronte
+13. Romeo and Juliet by William Shakespeare
+14. The Giver by Lois Lowry
+15. Thirteen Reasons Why by Jay Asher
+16. The Hunger Games by Suzanne Collins
+17. Vampire Academy by Richelle Mead
+18. Wake by Lisa McMann
+19. Identical by Ellen Hopkins
+20. Hate List by Jennifer Brown
+21. If I Stay by Gayle Forman
+22. The Catcher in the Rye by J.D. Salinger
+23. Oliver Twist by Charles Dickens
+24. A Million Little Pieces by James Frey
+25. Running with Scissors by Augusten Burroughs
+26. The Invention of Hugo Cabret by Brian Selznick
+27. The Truth About Forever by Sarah Dessen
+28. Lock and Key by Sarah Dessen
+29. Glass by Ellen Hopkins
+30. Fallout: An American Nuclear Tragedy by Philip L. Fradkin
+31. Change of Heart by Jodi Picoult
+32. The Haunting of Alaizabel Cray by Chris Wooding
+33. The Named by Marianne Curley
+34. Gospel of Matthew by Anonymous
+35. Alice's Adventures in Wonderland by Lewis Carroll
+36. Candy: A Novel of Love and Addiction by Luke Davies
+37. Bowie: A Biography by Marc Spitz
+38. Manga by Various
+39. The Messenger by Markus Zusak
+40. A Lion Among Men by Gregory Maguire
+41. Wings by Aprilynne Pike
+42. Twilight by Stephenie Meyer
+43. Vampire Kisses by Ellen Schreiber
+44. Fear and Loathing in Las Vegas by Hunter S. Thompson
+45. Go Ask Alice by Anonymous
+46. Cathy's Book by Jordan Weisman
+47. Cirque du Freak by Darren Shan
+48. Tricks by Ellen Hopkins
+49. I'd Tell You I Love You, But Then I'd Have to Kill You by Ally Carter
+50. Fallen by Lauren Kate

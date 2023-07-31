@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Amon Amarth
+2. Children of Bodom
+3. Kreator
+4. Marduk
+5. Vader
+6. Hypocrisy
+7. Immortal
+8. Burzum
+9. AC/DC
+10. Sodom
+11. Metallica
+12. Iron Maiden
+13. Nirvana
+14. Pearl Jam
+15. Led Zeppelin
+16. Michael Jackson
+17. The Beatles
+18. Muse
+19. Pink Floyd
+20. U2
+21. Radiohead
+22. System of a Down
+23. Nine Inch Nails
+24. Linkin Park
+25. Avenged Sevenfold
+26. My Chemical Romance
+27. Green Day
+28. The Killers
+29. Duran Duran
+30. Coldplay
+31. Blur
+32. Arctic Monkeys
+33. Placebo
+34. Amy Winehouse
+35. Björk
+36. Daft Punk
+37. Kylie Minogue
+38. Madonna
+39. Lady Gaga
+40. Christina Aguilera
+41. Rihanna
+42. Shakira
+43. Katy Perry
+44. Taylor Swift
+45. Paramore
+46. Ke$ha
+47. P!nk
+48. Kelly Clarkson
+49. Evanescence
+50. Glee Cast

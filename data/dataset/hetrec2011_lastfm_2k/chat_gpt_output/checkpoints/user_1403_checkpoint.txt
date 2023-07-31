@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Adele
+2. Coldplay
+3. Ed Sheeran
+4. Florence + The Machine
+5. Hozier
+6. Imagine Dragons
+7. Lana Del Rey
+8. Lorde
+9. Mumford & Sons
+10. Nirvana
+11. Oasis
+12. Pearl Jam
+13. Radiohead
+14. Red Hot Chili Peppers
+15. The 1975
+16. The Black Keys
+17. The Lumineers
+18. The Strokes
+19. The White Stripes
+20. Vampire Weekend
+21. Weezer
+22. Arctic Monkeys (similar to liked artist)
+23. Foo Fighters (similar to liked artist)
+24. The Killers (similar to liked artist)
+25. Green Day (similar to liked artist)
+26. Paramore (similar to liked artist)
+27. Muse (similar to liked artist)
+28. My Chemical Romance (similar to liked artist)
+29. Fall Out Boy (similar to liked artist)
+30. Panic! At the Disco (similar to liked artist)
+31. All Time Low
+32. Blink-182
+33. Bowling for Soup
+34. Dashboard Confessional
+35. Good Charlotte
+36. Jimmy Eat World
+37. Mayday Parade
+38. New Found Glory (similar to liked artist)
+39. Simple Plan
+40. Sum 41 (similar to liked artist)
+41. The All-American Rejects
+42. The Maine
+43. The Used
+44. Yellowcard
+45. 3 Doors Down
+46. Bon Jovi
+47. Guns N' Roses
+48. Journey
+49. Queen
+50. Van Halen

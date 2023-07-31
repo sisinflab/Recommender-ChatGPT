@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Sisters of Mercy
+2. Joy Division
+3. Bauhaus
+4. The Smiths
+5. Sopor Aeternus & The Ensemble of Shadows
+6. Clan of Xymox
+7. Diary of Dreams
+8. The Birthday Massacre
+9. Nick Cave and the Bad Seeds
+10. David Bowie
+11. Sex Pistols
+12. Depeche Mode
+13. White Lies
+14. She Wants Revenge
+15. The Cult
+16. Radiohead
+17. The Cure
+18. Muse
+19. Pink Floyd
+20. Nirvana
+21. Iron Maiden
+22. Led Zeppelin
+23. Metallica
+24. Pearl Jam
+25. Nine Inch Nails
+26. Arctic Monkeys
+27. Placebo
+28. The Killers
+29. U2
+30. Duran Duran
+31. Coldplay
+32. Blur
+33. System of a Down
+34. Daft Punk
+35. Björk
+36. Michael Jackson
+37. Madonna
+38. Lady Gaga
+39. Rihanna
+40. Beyoncé
+41. Shakira
+42. Katy Perry
+43. Christina Aguilera
+44. Avril Lavigne
+45. Taylor Swift
+46. Evanescence
+47. Glee Cast
+48. Ke$ha
+49. Kelly Clarkson
+50. P!nk

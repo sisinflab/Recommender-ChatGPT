@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Catcher in the Rye by J.D. Salinger
+3. The Great Gatsby by F. Scott Fitzgerald
+4. 1984 by George Orwell
+5. Animal Farm by George Orwell
+6. Lord of the Flies by William Golding
+7. The Hobbit by J.R.R. Tolkien
+8. The Lord of the Rings by J.R.R. Tolkien
+9. The Hunger Games by Suzanne Collins
+10. Catching Fire by Suzanne Collins
+11. Mockingjay by Suzanne Collins
+12. Divergent by Veronica Roth
+13. Insurgent by Veronica Roth
+14. Allegiant by Veronica Roth
+15. The Fault in Our Stars by John Green
+16. Looking for Alaska by John Green
+17. Paper Towns by John Green
+18. The Maze Runner by James Dashner
+19. The Scorch Trials by James Dashner
+20. The Death Cure by James Dashner
+21. The Book Thief by Markus Zusak
+22. The Giver by Lois Lowry
+23. Gathering Blue by Lois Lowry
+24. Messenger by Lois Lowry
+25. Son by Lois Lowry
+26. The Chronicles of Narnia by C.S. Lewis
+27. The Secret Garden by Frances Hodgson Burnett
+28. Little Women by Louisa May Alcott
+29. Anne of Green Gables by L.M. Montgomery
+30. The Adventures of Tom Sawyer by Mark Twain
+31. The Adventures of Huckleberry Finn by Mark Twain
+32. The Picture of Dorian Gray by Oscar Wilde
+33. Frankenstein by Mary Shelley
+34. Dracula by Bram Stoker
+35. The Time Machine by H.G. Wells
+36. The War of the Worlds by H.G. Wells
+37. The Invisible Man by H.G. Wells
+38. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+39. Ender's Game by Orson Scott Card
+40. The Princess Bride by William Goldman
+41. The Count of Monte Cristo by Alexandre Dumas
+42. Les Misérables by Victor Hugo
+43. The Three Musketeers by Alexandre Dumas
+44. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+45. The Hound of the Baskervilles by Arthur Conan Doyle
+46. The Da Vinci Code by Dan Brown
+47. Angels and Demons by Dan Brown
+48. The Girl with the Dragon Tattoo by Stieg Larsson
+49. The Girl Who Played with Fire by Stieg Larsson
+50. The Girl Who Kicked the Hornets' Nest by Stieg Larsson

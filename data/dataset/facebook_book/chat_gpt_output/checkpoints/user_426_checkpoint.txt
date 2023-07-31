@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. Pride and Prejudice by Jane Austen
+3. The Great Gatsby by F. Scott Fitzgerald
+4. 1984 by George Orwell
+5. Animal Farm by George Orwell
+6. The Catcher in the Rye by J.D. Salinger
+7. Lord of the Flies by William Golding
+8. The Hobbit by J.R.R. Tolkien
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Hunger Games by Suzanne Collins
+11. Catching Fire by Suzanne Collins
+12. Mockingjay by Suzanne Collins
+13. The Maze Runner by James Dashner
+14. The Fault in Our Stars by John Green
+15. Looking for Alaska by John Green
+16. Paper Towns by John Green
+17. The Perks of Being a Wallflower by Stephen Chbosky
+18. The Girl with the Dragon Tattoo by Stieg Larsson
+19. The Girl Who Played with Fire by Stieg Larsson
+20. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+21. The Da Vinci Code by Dan Brown
+22. Angels and Demons by Dan Brown
+23. Inferno by Dan Brown
+24. The Alchemist by Paulo Coelho
+25. The Kite Runner by Khaled Hosseini
+26. A Thousand Splendid Suns by Khaled Hosseini
+27. The Help by Kathryn Stockett
+28. The Secret Life of Bees by Sue Monk Kidd
+29. The Color Purple by Alice Walker
+30. The Joy Luck Club by Amy Tan
+31. The Time Traveler's Wife by Audrey Niffenegger
+32. The Lovely Bones by Alice Sebold
+33. The Book of Lost Things by John Connolly
+34. The Night Circus by Erin Morgenstern
+35. The Name of the Wind by Patrick Rothfuss
+36. The Wise Man's Fear by Patrick Rothfuss
+37. The Shadow of the Wind by Carlos Ruiz Zafón
+38. The Angel's Game by Carlos Ruiz Zafón
+39. The Prisoner of Heaven by Carlos Ruiz Zafón
+40. The Thirteenth Tale by Diane Setterfield
+41. The Historian by Elizabeth Kostova
+42. The Secret History by Donna Tartt
+43. The Goldfinch by Donna Tartt
+44. The Martian by Andy Weir
+45. Ready Player One by Ernest Cline
+46. Ender's Game by Orson Scott Card
+47. Dune by Frank Herbert
+48. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+49. The Chronicles of Narnia by C.S. Lewis
+50. Harry Potter series by J.K. Rowling

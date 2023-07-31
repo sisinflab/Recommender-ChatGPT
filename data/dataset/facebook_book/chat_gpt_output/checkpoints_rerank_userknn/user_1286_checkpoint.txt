@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter
+2. The Great Gatsby
+3. Lolita
+4. Ulysses (novel)
+5. The Old Man and the Sea
+6. Les Misérables
+7. The Alchemist (novel)
+8. The Hunger Games
+9. Catch-22
+10. The Bell Jar
+11. Of Mice and Men
+12. The Joy Luck Club (novel)
+13. The Lord of the Rings
+14. The Sound and the Fury
+15. Alice's Adventures in Wonderland
+16. Don Quixote
+17. Wuthering Heights
+18. The Taming of the Shrew
+19. Antony and Cleopatra (novel)
+20. The Scarlet Pimpernel
+21. The Little Prince
+22. The Vampire Diaries
+23. The Unbearable Lightness of Being
+24. Charlie and the Chocolate Factory
+25. The Magic Faraway Tree (novel)
+26. The Bronze Horseman (novel)
+27. The Clan of the Cave Bear
+28. The Messenger (Markus Zusak novel)
+29. The Year of Living Biblically
+30. The Grapes of Wrath
+31. Percy Jackson & the Olympians
+32. In the Line of Fire: A Memoir
+33. Macbeth
+34. For Whom the Bell Tolls
+35. Rage of Angels
+36. A Widow for One Year
+37. Eleven Minutes
+38. Lorna Doone
+39. Conversations with God
+40. The Importance of Being Earnest
+41. Fierce Invalids Home from Hot Climates
+42. Mother Goose
+43. Twilight (series)
+44. Raja Gidh
+45. The Yellow Wallpaper
+46. Strange Case of Dr Jekyll and Mr Hyde
+47. High Fidelity (novel)
+48. Pir-e-Kamil
+49. Bless Me, Ultima
+50. Neverwhere (novel)

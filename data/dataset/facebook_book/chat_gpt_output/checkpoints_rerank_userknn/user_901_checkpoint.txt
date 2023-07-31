@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. Wuthering Heights by Emily Bronte
+3. The Secret Garden by Frances Hodgson Burnett
+4. Anne of Green Gables by L.M. Montgomery
+5. To Kill a Mockingbird by Harper Lee
+6. The Lord of the Rings by J.R.R. Tolkien
+7. Harry Potter by J.K. Rowling
+8. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+9. The Great Gatsby by F. Scott Fitzgerald
+10. Les Miserables by Victor Hugo
+11. A Tale of Two Cities by Charles Dickens
+12. Sense and Sensibility by Jane Austen
+13. Persuasion by Jane Austen
+14. Emma by Jane Austen
+15. Mansfield Park by Jane Austen
+16. Northanger Abbey by Jane Austen
+17. Frankenstein by Mary Shelley
+18. Jane Eyre by Charlotte Bronte
+19. The Scarlet Letter by Nathaniel Hawthorne
+20. Rebecca by Daphne du Maurier
+21. Bleak House by Charles Dickens
+22. Paradise Lost by John Milton
+23. A Clockwork Orange by Anthony Burgess
+24. Lord of the Flies by William Golding
+25. Nineteen Eighty-Four by George Orwell
+26. The Book Thief by Markus Zusak
+27. The Hamlet by William Faulkner
+28. A Midsummer Night's Dream by William Shakespeare
+29. Macbeth by William Shakespeare
+30. Petals on the Wind by V.C. Andrews
+31. Catching Fire by Suzanne Collins
+32. Twilight by Stephenie Meyer
+33. Dear John by Nicholas Sparks
+34. Alas, Babylon by Pat Frank
+35. Cheaper by the Dozen by Frank B. Gilbreth Jr. and Ernestine Gilbreth Carey
+36. The Tenant of Wildfell Hall by Anne Bronte
+37. Inheritance Cycle by Christopher Paolini
+38. The Silmarillion by J.R.R. Tolkien
+39. The Southern Vampire Mysteries by Charlaine Harris
+40. Island of the Blue Dolphins by Scott O'Dell
+41. The Swiss Family Robinson by Johann David Wyss
+42. A Wrinkle in Time by Madeleine L'Engle
+43. Matilda by Roald Dahl
+44. Persepolis by Marjane Satrapi
+45. Fahrenheit 451 by Ray Bradbury
+46. Eragon by Christopher Paolini
+47. Naruto by Masashi Kishimoto
+48. Will Grayson, Will Grayson by John Green and David Levithan
+49. Because of Winn-Dixie by Kate DiCamillo
+50. Seeds of Yesterday by V.C. Andrews

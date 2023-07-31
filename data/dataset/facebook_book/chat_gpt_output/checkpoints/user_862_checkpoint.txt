@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. One Hundred Years of Solitude by Gabriel Garcia Marquez
+2. Crime and Punishment by Fyodor Dostoevsky
+3. To Kill a Mockingbird by Harper Lee
+4. The Great Gatsby by F. Scott Fitzgerald
+5. The Brothers Karamazov by Fyodor Dostoevsky
+6. The Picture of Dorian Gray by Oscar Wilde
+7. The Stranger by Albert Camus
+8. The Bell Jar by Sylvia Plath
+9. Slaughterhouse-Five by Kurt Vonnegut
+10. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+11. The Road by Cormac McCarthy
+12. The Sun Also Rises by Ernest Hemingway
+13. The Sound and the Fury by William Faulkner
+14. Brave New World by Aldous Huxley
+15. The Handmaid's Tale by Margaret Atwood
+16. The Grapes of Wrath by John Steinbeck
+17. Heart of Darkness by Joseph Conrad
+18. The Old Man and the Sea by Ernest Hemingway
+19. The Lord of the Rings by J.R.R. Tolkien
+20. The Hobbit by J.R.R. Tolkien
+21. The Chronicles of Narnia by C.S. Lewis
+22. The Name of the Rose by Umberto Eco
+23. The Shadow of the Wind by Carlos Ruiz Zafon
+24. The God of Small Things by Arundhati Roy
+25. The Kite Runner by Khaled Hosseini
+26. The Alchemist by Paulo Coelho
+27. The Picture of Dorian Gray by Oscar Wilde
+28. The Master and Margarita by Mikhail Bulgakov
+29. The Idiot by Fyodor Dostoevsky
+30. The Trial by Franz Kafka
+31. The Metamorphosis by Franz Kafka
+32. Lolita by Vladimir Nabokov
+33. Catch-22 by Joseph Heller
+34. Ferdydurke by Witold Gombrowicz
+35. Paradise Lost by John Milton
+36. Nineteen Eighty-Four by George Orwell
+37. The Catcher in the Rye by J.D. Salinger
+38. Pyramids by Terry Pratchett
+39. The Colour of Magic by Terry Pratchett
+40. The Dark Tower series by Stephen King
+41. The Girl with the Dragon Tattoo by Stieg Larsson
+42. The Hunger Games by Suzanne Collins
+43. The Da Vinci Code by Dan Brown
+44. The Shining by Stephen King
+45. The Silence of the Lambs by Thomas Harris
+46. The Hitchhiker's Guide to the Galaxy series by Douglas Adams
+47. The Martian by Andy Weir
+48. The Road to Serfdom by Friedrich Hayek
+49. The Bell Jar by Sylvia Plath
+50. The Wise Man's Fear by Patrick Rothfuss

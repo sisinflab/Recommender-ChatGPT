@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for user 764 are:
+
+1. Radiohead
+2. Muse
+3. Pink Floyd
+4. Led Zeppelin
+5. The Beatles
+6. Nirvana
+7. Metallica
+8. Queen
+9. U2
+10. The National
+11. Fleetwood Mac
+12. The Smashing Pumpkins
+13. Morrissey
+14. Pixies
+15. Thin Lizzy
+16. Cat Stevens
+17. Phil Collins
+18. Massive Attack
+19. Oasis
+20. Kasabian
+21. Arctic Monkeys
+22. Amy Winehouse
+23. The Who
+24. Judas Priest
+25. Tool
+26. Marilyn Manson
+27. Iggy Pop
+28. Duran Duran
+29. Coldplay
+30. Blur
+31. Placebo
+32. The Killers
+33. Iron Maiden
+34. Michael Jackson
+35. Pearl Jam
+36. a-ha
+37. Björk
+38. System of a Down
+39. Daft Punk
+40. Nine Inch Nails
+41. Linkin Park
+42. Kelly Clarkson
+43. All Time Low
+44. P!nk
+45. Avenged Sevenfold
+46. My Chemical Romance
+47. Green Day
+48. The Cure
+49. Depeche Mode
+50. Madonna

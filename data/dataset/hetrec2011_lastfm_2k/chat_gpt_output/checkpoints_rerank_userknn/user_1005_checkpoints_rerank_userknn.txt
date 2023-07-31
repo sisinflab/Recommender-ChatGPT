@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Kanye West
+2. OutKast
+3. Nas
+4. MF DOOM
+5. A Tribe Called Quest
+6. Jay-Z
+7. Ghostface Killah
+8. Raekwon
+9. GZA/Genius
+10. Common
+11. Lupe Fiasco
+12. Mos Def
+13. De La Soul
+14. Madvillain
+15. Flying Lotus
+16. DJ Shadow
+17. Bonobo
+18. Ratatat
+19. The Roots
+20. J Dilla
+21. Aphex Twin
+22. Burial
+23. LCD Soundsystem
+24. Hot Chip
+25. Yeasayer
+26. Bloc Party
+27. Spoon
+28. The Flaming Lips
+29. Radiohead
+30. Joy Division
+31. Nirvana
+32. The White Stripes
+33. Franz Ferdinand
+34. Kings of Convenience
+35. Emilíana Torrini
+36. Björk
+37. The xx
+38. Beirut
+39. Grizzly Bear
+40. Neutral Milk Hotel
+41. Deerhunter
+42. The Kooks
+43. John Mayer
+44. Red Hot Chili Peppers
+45. Motörhead
+46. Hatebreed
+47. Rise Against
+48. The Hives
+49. The Offspring
+50. Municipal Waste

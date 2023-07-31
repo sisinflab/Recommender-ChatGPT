@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Opeth
+2. Dream Theater
+3. Pink Floyd
+4. Tool
+5. Radiohead
+6. Anathema
+7. Massive Attack
+8. Alice in Chains
+9. Soundgarden
+10. Queens of the Stone Age
+11. U2
+12. Faith No More
+13. Stone Temple Pilots
+14. Amorphis
+15. Symphony X
+16. Iron Maiden
+17. Rush
+18. Katatonia
+19. Foo Fighters
+20. Porcupine Tree
+21. Pearl Jam
+22. Cynic
+23. The Mars Volta
+24. David Bowie
+25. Devin Townsend
+26. System of a Down
+27. Riverside
+28. Blind Guardian
+29. Gnarls Barkley
+30. HIM
+31. In Flames
+32. The Gathering
+33. Testament
+34. Dark Tranquillity
+35. Captain Beefheart & His Magic Band
+36. Los Hermanos
+37. L'Arc~en~Ciel
+38. Ayreon
+39. Queen
+40. Jimi Hendrix
+41. Stevie Wonder
+42. Nick Drake
+43. José González
+44. Meshuggah
+45. Joe Satriani
+46. Matanza
+47. Beirut
+48. Megadeth
+49. Antimatter
+50. Dave Matthews Band

@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Chronicles of Narnia by C.S. Lewis
+2. The Lord of the Rings by J.R.R. Tolkien
+3. Harry Potter series by J.K. Rowling
+4. The Hunger Games by Suzanne Collins
+5. To Kill a Mockingbird by Harper Lee
+6. 1984 by George Orwell
+7. Animal Farm by George Orwell
+8. Brave New World by Aldous Huxley
+9. The Catcher in the Rye by J.D. Salinger
+10. The Great Gatsby by F. Scott Fitzgerald
+11. The Hobbit by J.R.R. Tolkien
+12. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+13. The Alchemist by Paulo Coelho
+14. The Picture of Dorian Gray by Oscar Wilde
+15. The Count of Monte Cristo by Alexandre Dumas
+16. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+17. The War of the Worlds by H.G. Wells
+18. The Time Machine by H.G. Wells
+19. The Invisible Man by H.G. Wells
+20. The Island of Dr. Moreau by H.G. Wells
+21. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+22. The Adventures of Tom Sawyer by Mark Twain
+23. The Adventures of Huckleberry Finn by Mark Twain
+24. The Call of the Wild by Jack London
+25. White Fang by Jack London
+26. The Old Man and the Sea by Ernest Hemingway
+27. The Sun Also Rises by Ernest Hemingway
+28. A Farewell to Arms by Ernest Hemingway
+29. The Sound and the Fury by William Faulkner
+30. The Grapes of Wrath by John Steinbeck
+31. Of Mice and Men by John Steinbeck
+32. East of Eden by John Steinbeck
+33. One Hundred Years of Solitude by Gabriel Garcia Marquez
+34. Love in the Time of Cholera by Gabriel Garcia Marquez
+35. Crime and Punishment by Fyodor Dostoevsky
+36. The Brothers Karamazov by Fyodor Dostoevsky
+37. War and Peace by Leo Tolstoy
+38. Anna Karenina by Leo Tolstoy
+39. The Idiot by Fyodor Dostoevsky
+40. The Picture of Dorian Gray by Oscar Wilde
+41. The Importance of Being Earnest by Oscar Wilde
+42. The Canterbury Tales by Geoffrey Chaucer
+43. Don Quixote by Miguel de Cervantes
+44. The Divine Comedy by Dante Alighieri
+45. Paradise Lost by John Milton
+46. The Odyssey by Homer
+47. The Iliad by Homer
+48. Beowulf by Unknown

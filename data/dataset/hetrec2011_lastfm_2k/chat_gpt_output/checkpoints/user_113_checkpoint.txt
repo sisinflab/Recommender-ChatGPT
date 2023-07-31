@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Slipknot
+2. Disturbed
+3. Korn
+4. Avenged Sevenfold
+5. Pantera
+6. Rage Against the Machine
+7. Tool
+8. System of a Down (similar artist)
+9. Eminem (similar artist)
+10. Metallica (similar artist)
+11. Iron Maiden (similar artist)
+12. Slayer
+13. Megadeth
+14. AC/DC
+15. Judas Priest
+16. Black Sabbath (similar artist)
+17. Ozzy Osbourne
+18. Motorhead
+19. Guns N' Roses (similar artist)
+20. Alice in Chains
+21. Soundgarden
+22. Stone Temple Pilots
+23. Pearl Jam
+24. Nirvana (similar artist)
+25. Foo Fighters (similar artist)
+26. Red Hot Chili Peppers (similar artist)
+27. Linkin Park (similar artist)
+28. Green Day
+29. Blink-182
+30. My Chemical Romance
+31. Paramore (similar artist)
+32. Fall Out Boy
+33. Panic! At the Disco
+34. The Killers
+35. Muse
+36. Radiohead
+37. Coldplay
+38. Arctic Monkeys
+39. Queens of the Stone Age
+40. The White Stripes
+41. The Black Keys
+42. Franz Ferdinand
+43. Vampire Weekend
+44. The Strokes
+45. Interpol
+46. Arcade Fire
+47. The National
+48. Death Cab for Cutie
+49. Modest Mouse
+50. Neutral Milk Hotel

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. The Knife
+3. Crystal Castles
+4. Morrissey
+5. Belle and Sebastian
+6. Röyksopp
+7. MGMT
+8. Robyn
+9. Bat for Lashes
+10. Pet Shop Boys
+11. IAMX
+12. Fever Ray
+13. Portishead
+14. CocoRosie
+15. Lady Gaga
+16. Keane
+17. The Bird and The Bee
+18. Kings of Leon
+19. Cat Power
+20. Empire of the Sun
+21. Calvin Harris
+22. Hot Chip
+23. Arctic Monkeys
+24. Regina Spektor
+25. Editors
+26. Madonna
+27. Pink Floyd
+28. Muse
+29. Nirvana
+30. Led Zeppelin
+31. Metallica
+32. Michael Jackson
+33. Pearl Jam
+34. a-ha
+35. Björk
+36. Daft Punk
+37. Nine Inch Nails
+38. Linkin Park
+39. Iron Maiden
+40. Duran Duran
+41. Coldplay
+42. Blur
+43. The Killers
+44. Avenged Sevenfold
+45. My Chemical Romance
+46. Green Day
+47. The Cure
+48. U2
+49. Katy Perry
+50. Taylor Swift

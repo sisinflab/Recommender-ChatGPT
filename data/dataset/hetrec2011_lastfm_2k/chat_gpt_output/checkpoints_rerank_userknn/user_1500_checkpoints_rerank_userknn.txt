@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Depeche Mode
+2. R.E.M.
+3. U2
+4. Garbage
+5. Enya
+6. Sting
+7. Eric Clapton
+8. Wolfgang Amadeus Mozart
+9. Simon & Garfunkel
+10. Sarah McLachlan
+11. Loreena McKennitt
+12. VNV Nation
+13. VAST
+14. Johann Sebastian Bach
+15. Covenant
+16. Kansas
+17. Combichrist
+18. Apoptygma Berzerk
+19. John Mayer
+20. Delerium
+21. Björk
+22. The Cure
+23. Nine Inch Nails
+24. Massive Attack
+25. Pet Shop Boys
+26. Electric Light Orchestra
+27. Ladytron
+28. Mesh
+29. She Wants Revenge
+30. Paramore
+31. Pearl Jam
+32. Coldplay
+33. Blutengel
+34. KMFDM
+35. Within Temptation
+36. Erasure
+37. Epica
+38. The Verve
+39. The Killers
+40. Placebo
+41. Clan of Xymox
+42. Foo Fighters
+43. The Birthday Massacre
+44. Crowded House
+45. Muse
+46. Deathstars
+47. The Crüxshadows
+48. 30 Seconds to Mars
+49. Dead Can Dance
+50. Tori Amos

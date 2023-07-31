@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. Nine Inch Nails
+3. Muse
+4. Elliott Smith
+5. Interpol
+6. Yeah Yeah Yeahs
+7. Death Cab for Cutie
+8. Arcade Fire
+9. The Smiths
+10. A Perfect Circle
+11. The xx
+12. Garbage
+13. Regina Spektor
+14. She Wants Revenge
+15. Tegan and Sara
+16. Belle and Sebastian
+17. The Radio Dept.
+18. Travis
+19. Suede
+20. New Order
+21. The Cranberries
+22. Cat Power
+23. Bad Religion
+24. Misfits
+25. Flyleaf
+26. Bikini Kill
+27. Pennywise
+28. Lacuna Coil
+29. Kate Nash
+30. Lady Gaga
+31. Christina Aguilera
+32. Shakira
+33. Madonna
+34. Rihanna
+35. Beyoncé
+36. Pink Floyd
+37. Led Zeppelin
+38. Nirvana
+39. Metallica
+40. Iron Maiden
+41. Michael Jackson
+42. Pearl Jam
+43. Björk
+44. Daft Punk
+45. Linkin Park
+46. My Chemical Romance
+47. Green Day
+48. The Cure
+49. Blur
+50. Arctic Monkeys

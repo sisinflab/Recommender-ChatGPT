@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Alchemist by Paulo Coelho
+2. The Power of Now by Eckhart Tolle
+3. The Celestine Prophecy by James Redfield
+4. The Four Agreements by Don Miguel Ruiz
+5. The Art of Happiness by Dalai Lama XIV and Howard C. Cutler
+6. The Prophet by Kahlil Gibran
+7. The Road Less Traveled by M. Scott Peck
+8. The Mastery of Love by Don Miguel Ruiz
+9. The Seat of the Soul by Gary Zukav
+10. The Seven Spiritual Laws of Success by Deepak Chopra
+11. The Secret Life of Bees by Sue Monk Kidd
+12. The Help by Kathryn Stockett
+13. The Kite Runner by Khaled Hosseini
+14. The Girl with the Dragon Tattoo by Stieg Larsson
+15. The Hunger Games by Suzanne Collins
+16. The Fault in Our Stars by John Green
+17. The Book Thief by Markus Zusak
+18. The Catcher in the Rye by J.D. Salinger
+19. The Great Gatsby by F. Scott Fitzgerald
+20. To Kill a Mockingbird by Harper Lee
+21. 1984 by George Orwell
+22. Animal Farm by George Orwell
+23. Brave New World by Aldous Huxley
+24. Fahrenheit 451 by Ray Bradbury
+25. The Handmaid's Tale by Margaret Atwood
+26. The Lord of the Rings by J.R.R. Tolkien
+27. Harry Potter and the Philosopher's Stone by J.K. Rowling
+28. The Hobbit by J.R.R. Tolkien
+29. The Chronicles of Narnia by C.S. Lewis
+30. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+31. The Martian by Andy Weir
+32. Ready Player One by Ernest Cline
+33. The Name of the Wind by Patrick Rothfuss
+34. The Way of Kings by Brandon Sanderson
+35. Mistborn by Brandon Sanderson
+36. The Lies of Locke Lamora by Scott Lynch
+37. The Blade Itself by Joe Abercrombie
+38. The First Law Trilogy by Joe Abercrombie
+39. The Kingkiller Chronicle by Patrick Rothfuss
+40. The Stormlight Archive by Brandon Sanderson
+41. The Dark Tower by Stephen King
+42. The Stand by Stephen King
+43. It by Stephen King
+44. The Shining by Stephen King
+45. The Silence of the Lambs by Thomas Harris
+46. The Girl on the Train by Paula Hawkins
+47. Gone Girl by Gillian Flynn
+48. The Da Vinci Code by Dan Brown
+49. Angels & Demons by Dan Brown
+50. Inferno by Dan Brown

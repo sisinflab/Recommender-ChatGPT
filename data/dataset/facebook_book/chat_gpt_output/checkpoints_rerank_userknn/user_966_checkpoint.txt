@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Harry Potter series by J.K. Rowling
+2. The Lord of the Rings by J.R.R. Tolkien
+3. The Hunger Games by Suzanne Collins
+4. Percy Jackson & the Olympians by Rick Riordan
+5. Twilight series by Stephenie Meyer
+6. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+7. Eragon by Christopher Paolini
+8. Les Misérables by Victor Hugo
+9. To Kill a Mockingbird by Harper Lee
+10. The Hobbit by J.R.R. Tolkien
+11. The Da Vinci Code by Dan Brown
+12. Angels & Demons by Dan Brown
+13. The Picture of Dorian Gray by Oscar Wilde
+14. Dracula by Bram Stoker
+15. The Time Traveler's Wife by Audrey Niffenegger
+16. The Lovely Bones by Alice Sebold
+17. Inferno by Dan Brown
+18. A Brief History of Time by Stephen Hawking
+19. Mere Christianity by C.S. Lewis
+20. The Screwtape Letters by C.S. Lewis
+21. Brave New World by Aldous Huxley
+22. Night by Elie Wiesel
+23. Of Mice and Men by John Steinbeck
+24. The Catcher in the Rye by J.D. Salinger
+25. The Maze Runner by James Dashner
+26. The Autobiography of Malcolm X by Malcolm X
+27. The Joy Luck Club by Amy Tan
+28. The Boy in the Striped Pyjamas by John Boyne
+29. Frankenstein by Mary Shelley
+30. Emma by Jane Austen
+31. Ella Enchanted by Gail Carson Levine
+32. Holes by Louis Sachar
+33. The Shack by William P. Young
+34. All Quiet on the Western Front by Erich Maria Remarque
+35. The Scarlet Pimpernel by Baroness Orczy
+36. Black Beauty by Anna Sewell
+37. The Man Who Mistook His Wife for a Hat by Oliver Sacks
+38. Digital Fortress by Dan Brown
+39. The Messenger by Markus Zusak
+40. Tsubasa: Reservoir Chronicle by CLAMP
+41. Grimms' Fairy Tales by Jacob and Wilhelm Grimm
+42. Hop on Pop by Dr. Seuss
+43. Cut by Patricia McCormick
+44. Burned by Ellen Hopkins
+45. Twisted by Laurie Halse Anderson
+46. Sarah's Key by Tatiana de Rosnay
+47. Boy Meets Boy by David Levithan
+48. Gravitation by Maki Murakami
+49. Encyclopædia Britannica
+50. Cosmos by Carl Sagan

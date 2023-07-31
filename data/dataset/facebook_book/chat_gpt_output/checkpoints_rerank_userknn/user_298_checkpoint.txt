@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. His Dark Materials by Philip Pullman
+2. The Selfish Gene by Richard Dawkins
+3. The Elegant Universe by Brian Greene
+4. The Brain That Changes Itself by Norman Doidge
+5. The Fabric of the Cosmos by Brian Greene
+6. The God Delusion by Richard Dawkins
+7. The World Without Us by Alan Weisman
+8. Outliers by Malcolm Gladwell
+9. The Portable Atheist by Christopher Hitchens
+10. The Catcher in the Rye by J.D. Salinger
+11. The Fountainhead by Ayn Rand
+12. Brave New World by Aldous Huxley
+13. The Lord of the Rings by J.R.R. Tolkien
+14. The Silmarillion by J.R.R. Tolkien
+15. The Age of Reason by Jean-Paul Sartre
+16. Crime and Punishment by Fyodor Dostoevsky
+17. Nineteen Eighty-Four by George Orwell
+18. The Hobbit by J.R.R. Tolkien
+19. The Death and Life of Great American Cities by Jane Jacobs
+20. The Spirit Catches You and You Fall Down by Anne Fadiman
+21. The Wealth of Nations by Adam Smith
+22. Das Kapital by Karl Marx
+23. Atlas Shrugged by Ayn Rand
+24. The Zombie Survival Guide by Max Brooks
+25. The Universe in a Nutshell by Stephen Hawking
+26. Code to Zero by Ken Follett
+27. The Maltese Falcon by Dashiell Hammett
+28. The Outsiders by S.E. Hinton
+29. Looking for Alaska by John Green
+30. Peanuts by Charles M. Schulz
+31. The Moral Landscape by Sam Harris
+32. Fast Food Nation by Eric Schlosser
+33. Tropic of Cancer by Henry Miller
+34. The Double Helix by James D. Watson
+35. Inferno by Dante Alighieri
+36. Sun Bin's Art of War by Sun Bin
+37. The Elegant Universe by Brian Greene
+38. Fablehaven by Brandon Mull
+39. The Antichrist by Friedrich Nietzsche
+40. Sound of the Beast by Ian Christe
+41. Harry Potter by J.K. Rowling
+42. Twilight by Stephenie Meyer
+43. Me Talk Pretty One Day by David Sedaris
+44. Angels & Demons by Dan Brown
+45. On Food and Cooking by Harold McGee
+46. Why People Believe Weird Things by Michael Shermer
+47. I Am America (And So Can You!) by Stephen Colbert
+48. God Is Not Great by Christopher Hitchens
+49. Hannibal by Thomas Harris
+50. An Inconvenient Book by Glenn Beck

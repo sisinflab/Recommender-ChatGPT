@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Metallica
+2. Björk
+3. Frédéric Chopin
+4. Norah Jones
+5. A Perfect Circle
+6. Slipknot
+7. Korn
+8. Eminem
+9. Ludwig van Beethoven
+10. Cradle of Filth
+11. DMX
+12. Pantera
+13. Ill Niño
+14. Dark Tranquillity
+15. Billie Holiday
+16. Diana Krall
+17. Jamie Cullum
+18. Johann Sebastian Bach
+19. Regina Spektor
+20. The Offspring
+21. The Doors
+22. Damien Rice
+23. Burzum
+24. Depeche Mode
+25. Radiohead
+26. Muse
+27. Pink Floyd
+28. Nirvana
+29. Led Zeppelin
+30. Iron Maiden
+31. Nine Inch Nails
+32. System of a Down
+33. The Beatles
+34. Pearl Jam
+35. Michael Jackson
+36. U2
+37. Coldplay
+38. Blur
+39. Arctic Monkeys
+40. Placebo
+41. The Killers
+42. Amy Winehouse
+43. Duran Duran
+44. Daft Punk
+45. Linkin Park
+46. Green Day
+47. My Chemical Romance
+48. Avenged Sevenfold
+49. All Time Low
+50. P!nk

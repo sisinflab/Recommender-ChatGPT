@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Shiver by Maggie Stiefvater
+2. Beautiful Creatures by Kami Garcia and Margaret Stohl
+3. The Hunger Games by Suzanne Collins
+4. Divergent by Veronica Roth
+5. The Mortal Instruments series by Cassandra Clare
+6. The Infernal Devices series by Cassandra Clare
+7. The Maze Runner by James Dashner
+8. The Fault in Our Stars by John Green
+9. Delirium by Lauren Oliver
+10. Matched by Ally Condie
+11. Legend by Marie Lu
+12. The Selection by Kiera Cass
+13. The Giver by Lois Lowry
+14. The Uglies series by Scott Westerfeld
+15. The Darkest Minds by Alexandra Bracken
+16. The Lunar Chronicles by Marissa Meyer
+17. The Chemical Garden trilogy by Lauren DeStefano
+18. The 5th Wave by Rick Yancey
+19. The Raven Boys by Maggie Stiefvater
+20. The Scorpio Races by Maggie Stiefvater
+21. The Night Circus by Erin Morgenstern
+22. The Name of the Wind by Patrick Rothfuss
+23. The Kingkiller Chronicle series by Patrick Rothfuss
+24. Mistborn by Brandon Sanderson
+25. The Way of Kings by Brandon Sanderson
+26. The Lies of Locke Lamora by Scott Lynch
+27. The First Law trilogy by Joe Abercrombie
+28. The Blade Itself by Joe Abercrombie
+29. The Black Prism by Brent Weeks
+30. The Lightbringer series by Brent Weeks
+31. The Powder Mage trilogy by Brian McClellan
+32. The Stormlight Archive series by Brandon Sanderson
+33. The Broken Empire trilogy by Mark Lawrence
+34. The Red Queen's War trilogy by Mark Lawrence
+35. The Gentleman Bastard series by Scott Lynch
+36. The Riyria Revelations series by Michael J. Sullivan
+37. The Riyria Chronicles series by Michael J. Sullivan
+38. The Farseer trilogy by Robin Hobb
+39. The Liveship Traders trilogy by Robin Hobb
+40. The Tawny Man trilogy by Robin Hobb
+41. The Realm of the Elderlings series by Robin Hobb
+42. The Wheel of Time series by Robert Jordan and Brandon Sanderson
+43. The Malazan Book of the Fallen series by Steven Erikson
+44. The Black Company series by Glen Cook
+45. The Chronicles of Amber series by Roger Zelazny
+46. The Dark Tower series by Stephen King
+47. The Dresden Files series by Jim Butcher
+48. The Codex Alera series by Jim Butcher
+49. The Kingkiller Chronicle series by Patrick Rothfuss
+50. The Stormlight Archive series by Brandon Sanderson

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Perks of Being a Wallflower by Stephen Chbosky
+2. Looking for Alaska by John Green
+3. It's Kind of a Funny Story by Ned Vizzini
+4. The Fault in Our Stars by John Green
+5. The Bell Jar by Sylvia Plath
+6. The Lovely Bones by Alice Sebold
+7. The Girl on the Train by Paula Hawkins
+8. The Hunger Games by Suzanne Collins
+9. The Maze Runner by James Dashner
+10. The Giver by Lois Lowry
+11. The Book Thief by Markus Zusak
+12. The Kite Runner by Khaled Hosseini
+13. The Help by Kathryn Stockett
+14. The Secret Life of Bees by Sue Monk Kidd
+15. The Color Purple by Alice Walker
+16. The Handmaid's Tale by Margaret Atwood
+17. The Road by Cormac McCarthy
+18. The Picture of Dorian Gray by Oscar Wilde
+19. The Great Gatsby by F. Scott Fitzgerald
+20. To Kill a Mockingbird by Harper Lee
+21. 1984 by George Orwell
+22. Animal Farm by George Orwell
+23. Brave New World by Aldous Huxley
+24. Fahrenheit 451 by Ray Bradbury
+25. Lord of the Flies by William Golding
+26. One Flew Over the Cuckoo's Nest by Ken Kesey
+27. Catch-22 by Joseph Heller
+28. Slaughterhouse-Five by Kurt Vonnegut
+29. The Catcher in the Rye by J.D. Salinger
+30. A Clockwork Orange by Anthony Burgess
+31. American Psycho by Bret Easton Ellis
+32. Fight Club by Chuck Palahniuk
+33. The Shining by Stephen King
+34. Carrie by Stephen King
+35. Misery by Stephen King
+36. The Stand by Stephen King
+37. The Dark Tower series by Stephen King
+38. The Lord of the Rings by J.R.R. Tolkien
+39. The Hobbit by J.R.R. Tolkien
+40. Harry Potter series by J.K. Rowling
+41. The Chronicles of Narnia by C.S. Lewis
+42. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+43. Ender's Game by Orson Scott Card
+44. Dune by Frank Herbert
+45. The Foundation series by Isaac Asimov
+46. Neuromancer by William Gibson
+47. Snow Crash by Neal Stephenson
+48. Ready Player One by Ernest Cline
+49. The Martian by Andy Weir
+50. The Hunger Games trilogy by Suzanne Collins

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. Nineteen Eighty-Four by George Orwell
+3. Slaughterhouse-Five by Kurt Vonnegut
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Look Me in the Eye by John Elder Robison
+6. Cat's Cradle by Kurt Vonnegut
+7. Death Note Another Note: The Los Angeles BB Murder Cases by Nisio Isin
+8. The Lovely Bones by Alice Sebold
+9. Player Piano by Kurt Vonnegut
+10. Harry Potter by J.K. Rowling
+11. A Clockwork Orange by Anthony Burgess
+12. Frankenstein by Mary Shelley
+13. The Picture of Dorian Gray by Oscar Wilde
+14. Dracula by Bram Stoker
+15. The Book Thief by Markus Zusak
+16. The Lord of the Rings by J.R.R. Tolkien
+17. Brave New World by Aldous Huxley
+18. Heart of Darkness by Joseph Conrad
+19. The Outsiders by S.E. Hinton
+20. The Giver by Lois Lowry
+21. Jane Eyre by Charlotte Bronte
+22. A Tale of Two Cities by Charles Dickens
+23. Romeo and Juliet by William Shakespeare
+24. Macbeth by William Shakespeare
+25. The Time Machine by H.G. Wells
+26. Alice's Adventures in Wonderland by Lewis Carroll
+27. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+28. Inkheart by Cornelia Funke
+29. Lord of the Flies by William Golding
+30. The Kite Runner by Khaled Hosseini
+31. A Midsummer Night's Dream by William Shakespeare
+32. The BFG by Roald Dahl
+33. Strange Case of Dr Jekyll and Mr Hyde by Robert Louis Stevenson
+34. Of Mice and Men by John Steinbeck
+35. Stargirl by Jerry Spinelli
+36. The Bean Trees by Barbara Kingsolver
+37. Diary by Chuck Palahniuk
+38. Franny and Zooey by J.D. Salinger
+39. D.Gray-man by Katsura Hoshino
+40. Henry V by William Shakespeare
+41. Flowers in the Attic by V.C. Andrews
+42. Fear and Loathing in Las Vegas by Hunter S. Thompson
+43. Cosmos by Carl Sagan
+44. The Kane Chronicles by Rick Riordan
+45. The Zombie Survival Guide by Max Brooks
+46. Pride and Prejudice by Jane Austen
+47. Infinite Jest by David Foster Wallace
+48. Wolf Brother by Michelle Paver
+49. A Tree Grows in Brooklyn by Betty Smith
+50. The Stranger by Albert Camus

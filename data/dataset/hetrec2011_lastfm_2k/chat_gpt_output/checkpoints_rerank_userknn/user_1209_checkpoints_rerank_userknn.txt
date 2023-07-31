@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Depeche Mode
+2. David Bowie
+3. The Smiths
+4. The Beatles
+5. Duran Duran
+6. Ultravox
+7. Simple Minds
+8. Howard Jones
+9. Erasure
+10. Japan
+11. Roxy Music
+12. Bryan Ferry
+13. George Harrison
+14. Nik Kershaw
+15. Madness
+16. Talk Talk
+17. Jamiroquai
+18. Kate Bush
+19. Paul McCartney
+20. ABC
+21. The Human League
+22. New Order
+23. Eurythmics
+24. Spandau Ballet
+25. Wham!
+26. Tears for Fears
+27. INXS
+28. The Cure
+29. Madonna
+30. Scissor Sisters
+31. No Doubt
+32. Stone Temple Pilots
+33. Morrissey
+34. George Michael
+35. U2
+36. Pet Shop Boys
+37. Culture Club
+38. Simply Red
+39. Orchestral Manoeuvres in the Dark
+40. Pixies
+41. Cyndi Lauper
+42. Girls Aloud
+43. Muse
+44. Backstreet Boys
+45. Britney Spears
+46. Hall & Oates
+47. Amy Winehouse
+48. PJ Harvey
+49. UNKLE
+50. Eric Clapton

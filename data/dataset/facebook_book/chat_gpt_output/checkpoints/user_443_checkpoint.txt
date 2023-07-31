@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. The Great Gatsby by F. Scott Fitzgerald
+3. To Kill a Mockingbird by Harper Lee
+4. 1984 by George Orwell
+5. Animal Farm by George Orwell
+6. The Bell Jar by Sylvia Plath
+7. One Hundred Years of Solitude by Gabriel Garcia Marquez
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Sun Also Rises by Ernest Hemingway
+10. The Old Man and the Sea by Ernest Hemingway
+11. The Grapes of Wrath by John Steinbeck
+12. East of Eden by John Steinbeck
+13. The Sound and the Fury by William Faulkner
+14. As I Lay Dying by William Faulkner
+15. The Stranger by Albert Camus
+16. Brave New World by Aldous Huxley
+17. Lord of the Flies by William Golding
+18. Heart of Darkness by Joseph Conrad
+19. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+20. The Hobbit by J.R.R. Tolkien
+21. The Lord of the Rings by J.R.R. Tolkien
+22. The Chronicles of Narnia by C.S. Lewis
+23. Harry Potter and the Philosopher's Stone by J.K. Rowling
+24. Harry Potter and the Chamber of Secrets by J.K. Rowling
+25. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+26. Harry Potter and the Goblet of Fire by J.K. Rowling
+27. Harry Potter and the Order of Phoenix by J.K. Rowling
+28. Harry Potter and the Half-Blood Prince by J.K. Rowling
+29. Harry Potter and the Deathly Hallows by J.K. Rowling
+30. The Hunger Games by Suzanne Collins
+31. Catching Fire by Suzanne Collins
+32. Mockingjay by Suzanne Collins
+33. Divergent by Veronica Roth
+34. Insurgent by Veronica Roth
+35. Allegiant by Veronica Roth
+36. The Fault in Our Stars by John Green
+37. Looking for Alaska by John Green
+38. An Abundance of Katherines by John Green
+39. Turtles All the Way Down by John Green
+40. The Maze Runner by James Dashner
+41. The Scorch Trials by James Dashner
+42. The Death Cure by James Dashner
+43. The Kill Order by James Dashner
+44. The Book Thief by Markus Zusak
+45. The Girl with the Dragon Tattoo by Stieg Larsson
+46. The Girl Who Played with Fire by Stieg Larsson
+47. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+48. The Da Vinci Code by Dan Brown
+49. Angels

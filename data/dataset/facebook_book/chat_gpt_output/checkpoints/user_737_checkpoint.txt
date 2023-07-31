@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Slaughterhouse-Five by Kurt Vonnegut
+3. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+4. The Stranger by Albert Camus
+5. The Bell Jar by Sylvia Plath
+6. The Picture of Dorian Gray by Oscar Wilde
+7. The Road by Cormac McCarthy
+8. The Sun Also Rises by Ernest Hemingway
+9. The Great Gatsby by F. Scott Fitzgerald
+10. To Kill a Mockingbird by Harper Lee
+11. One Hundred Years of Solitude by Gabriel Garcia Marquez
+12. The Brothers Karamazov by Fyodor Dostoevsky
+13. The Trial by Franz Kafka
+14. The Fountainhead by Ayn Rand
+15. The Grapes of Wrath by John Steinbeck
+16. The Sound and the Fury by William Faulkner
+17. The Old Man and the Sea by Ernest Hemingway
+18. The Catch-22 by Joseph Heller
+19. The Handmaid's Tale by Margaret Atwood
+20. The Lord of the Rings by J.R.R. Tolkien
+21. The Hobbit by J.R.R. Tolkien
+22. The Chronicles of Narnia by C.S. Lewis
+23. The Dark Tower series by Stephen King
+24. The Stand by Stephen King
+25. The Shining by Stephen King
+26. The Girl with the Dragon Tattoo by Stieg Larsson
+27. The Da Vinci Code by Dan Brown
+28. The Hunger Games by Suzanne Collins
+29. The Martian by Andy Weir
+30. The Hitchhiker's Guide to the Galaxy series by Douglas Adams
+31. The Discworld series by Terry Pratchett
+32. The Dresden Files series by Jim Butcher
+33. The Name of the Wind by Patrick Rothfuss
+34. The Lies of Locke Lamora by Scott Lynch
+35. The First Law trilogy by Joe Abercrombie
+36. The Kingkiller Chronicle series by Patrick Rothfuss
+37. The Stormlight Archive series by Brandon Sanderson
+38. The Mistborn series by Brandon Sanderson
+39. The Wheel of Time series by Robert Jordan
+40. The Malazan Book of the Fallen series by Steven Erikson
+41. The Black Company series by Glen Cook
+42. The Earthsea series by Ursula K. Le Guin
+43. The Belgariad series by David Eddings
+44. The Sword of Truth series by Terry Goodkind
+45. The Chronicles of Amber series by Roger Zelazny
+46. The Dark Materials series by Philip Pullman
+47. The Harry Potter series by J.K. Rowling
+48. The Percy Jackson and the Olympians series by Rick Riordan
+49. The Artemis Fowl

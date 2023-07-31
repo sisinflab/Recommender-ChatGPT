@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Metallica
+2. Disturbed
+3. Five Finger Death Punch
+4. Slipknot
+5. Breaking Benjamin
+6. In This Moment
+7. Evanescence
+8. Apocalyptica
+9. Bullet for My Valentine
+10. Anthrax
+11. Dead by April
+12. Motörhead
+13. Dope
+14. Cold
+15. Godsmack
+16. AC/DC
+17. Van Halen
+18. Black Label Society
+19. Sonic Syndicate
+20. Iron Maiden
+21. Nirvana
+22. Pearl Jam
+23. Led Zeppelin
+24. System of a Down
+25. Nine Inch Nails
+26. Linkin Park
+27. Avenged Sevenfold
+28. Green Day
+29. My Chemical Romance
+30. The Killers
+31. Muse
+32. Pink Floyd
+33. Radiohead
+34. Arctic Monkeys
+35. Placebo
+36. Ke$ha
+37. Duran Duran
+38. Coldplay
+39. Blur
+40. Michael Jackson
+41. Madonna
+42. Lady Gaga
+43. Beyoncé
+44. Rihanna
+45. Shakira
+46. Christina Aguilera
+47. Katy Perry
+48. Taylor Swift
+49. Paramore
+50. Depeche Mode

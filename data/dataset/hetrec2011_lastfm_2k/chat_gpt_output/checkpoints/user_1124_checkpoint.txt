@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Marina and the Diamonds
+2. Charli XCX
+3. Halsey
+4. Lorde
+5. Billie Eilish
+6. Tove Lo
+7. Dua Lipa
+8. CHVRCHES
+9. Grimes
+10. P!nk
+11. Robyn
+12. Sia
+13. Ellie Goulding
+14. Florence + The Machine
+15. Lady Gaga
+16. Paramore
+17. The Veronicas
+18. Metric
+19. Icona Pop
+20. Carly Rae Jepsen
+21. Katy Perry
+22. Taylor Swift
+23. Ariana Grande
+24. Demi Lovato
+25. Selena Gomez
+26. Miley Cyrus
+27. Beyoncé
+28. Rihanna
+29. Gwen Stefani
+30. No Doubt
+31. The Cardigans
+32. Garbage
+33. Hole
+34. The Cranberries
+35. Alanis Morissette
+36. Fiona Apple
+37. Tori Amos
+38. Sarah McLachlan
+39. Enya
+40. Loreena McKennitt
+41. Kate Bush
+42. Björk
+43. Florence Welch
+44. Adele
+45. Amy Winehouse
+46. Duffy
+47. Lily Allen
+48. Paloma Faith
+49. Bat for Lashes
+50. Imogen Heap

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Harry Potter and the Philosopher's Stone by J.K. Rowling
+3. The Fault in Our Stars by John Green
+4. The Book Thief by Markus Zusak
+5. To Kill a Mockingbird by Harper Lee
+6. The Catcher in the Rye by J.D. Salinger
+7. The Girl with the Dragon Tattoo by Stieg Larsson
+8. The Da Vinci Code by Dan Brown
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Hobbit by J.R.R. Tolkien
+11. The Chronicles of Narnia by C.S. Lewis
+12. The Great Gatsby by F. Scott Fitzgerald
+13. Pride and Prejudice by Jane Austen
+14. Jane Eyre by Charlotte Bronte
+15. Wuthering Heights by Emily Bronte
+16. The Picture of Dorian Gray by Oscar Wilde
+17. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+18. The Count of Monte Cristo by Alexandre Dumas
+19. Les Miserables by Victor Hugo
+20. The Three Musketeers by Alexandre Dumas
+21. The Time Traveler's Wife by Audrey Niffenegger
+22. The Lovely Bones by Alice Sebold
+23. The Help by Kathryn Stockett
+24. The Kite Runner by Khaled Hosseini
+25. A Thousand Splendid Suns by Khaled Hosseini
+26. The Alchemist by Paulo Coelho
+27. The Picture of Dorian Gray by Oscar Wilde
+28. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+29. The Count of Monte Cristo by Alexandre Dumas
+30. Les Miserables by Victor Hugo
+31. The Three Musketeers by Alexandre Dumas
+32. The Time Traveler's Wife by Audrey Niffenegger
+33. The Lovely Bones by Alice Sebold
+34. The Help by Kathryn Stockett
+35. The Kite Runner by Khaled Hosseini
+36. A Thousand Splendid Suns by Khaled Hosseini
+37. The Alchemist by Paulo Coelho
+38. The Picture of Dorian Gray by Oscar Wilde
+39. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+40. The Count of Monte Cristo by Alexandre Dumas
+41. Les Miserables by Victor Hugo
+42. The Three Musketeers by Alexandre Dumas
+43. The Time Traveler's Wife by Audrey Niffenegger
+44. The Lovely Bones by Alice Sebold
+45. The Help by Kathryn Stockett
+46. The Kite Runner by Khaled Hosseini
+47. A Thousand Splendid Suns by Khaled Hosseini
+48. The Alchemist by Paulo Coelho
+49. The Picture of Dorian Gray
+50. The Wise Man's Fear by Patrick Rothfuss

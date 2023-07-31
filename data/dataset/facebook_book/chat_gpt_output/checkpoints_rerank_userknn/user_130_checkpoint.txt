@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. Wuthering Heights by Emily Bronte
+3. Jane Eyre by Charlotte Bronte
+4. The Catcher in the Rye by J.D. Salinger
+5. To Kill a Mockingbird by Harper Lee
+6. The Great Gatsby by F. Scott Fitzgerald
+7. The Lord of the Rings by J.R.R. Tolkien
+8. Harry Potter by J.K. Rowling
+9. The Hunger Games by Suzanne Collins
+10. Robinson Crusoe by Daniel Defoe
+11. The Adventures of Tom Sawyer by Mark Twain
+12. Oliver Twist by Charles Dickens
+13. The Secret Garden by Frances Hodgson Burnett
+14. Little Women by Louisa May Alcott
+15. The Name of the Rose by Umberto Eco
+16. Animal Farm by George Orwell
+17. Dracula by Bram Stoker
+18. The Plague by Albert Camus
+19. Heart of Darkness by Joseph Conrad
+20. The Good Earth by Pearl S. Buck
+21. The Kite Runner by Khaled Hosseini
+22. Slaughterhouse-Five by Kurt Vonnegut
+23. Ender's Game by Orson Scott Card
+24. The Master and Margarita by Mikhail Bulgakov
+25. The Last Temptation of Christ by Nikos Kazantzakis
+26. The Anarchist Cookbook by William Powell
+27. Divine Comedy by Dante Alighieri
+28. Under the Dome by Stephen King
+29. The Crucible of Time by John Brunner
+30. The Go-Between by L.P. Hartley
+31. Geek Love by Katherine Dunn
+32. Congo by Michael Crichton
+33. Bleak House by Charles Dickens
+34. Daddy-Long-Legs by Jean Webster
+35. A Midsummer Night's Dream by William Shakespeare
+36. Around the World in Eighty Days by Jules Verne
+37. Money by Martin Amis
+38. The Little Mermaid by Hans Christian Andersen
+39. Ella Enchanted by Gail Carson Levine
+40. Lionboy by Zizou Corder
+41. Journey to the West by Wu Cheng'en
+42. Speaker for the Dead by Orson Scott Card
+43. Xenocide by Orson Scott Card
+44. Love That Dog by Sharon Creech
+45. Mockingjay by Suzanne Collins
+46. The Name of the Wind by Patrick Rothfuss
+47. The Hobbit by J.R.R. Tolkien
+48. The Silmarillion by J.R.R. Tolkien
+49. The Once and Future King by T.H. White
+50. Far from the Madding Crowd by Thomas Hardy

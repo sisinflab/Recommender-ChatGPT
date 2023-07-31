@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Wuthering Heights by Emily Bronte
+2. The Picture of Dorian Gray by Oscar Wilde
+3. The Count of Monte Cristo by Alexandre Dumas
+4. The Hunger Games by Suzanne Collins
+5. To Kill a Mockingbird by Harper Lee
+6. The Catcher in the Rye by J.D. Salinger
+7. The Great Gatsby by F. Scott Fitzgerald
+8. Pride and Prejudice by Jane Austen
+9. The Hobbit by J.R.R. Tolkien
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Chronicles of Narnia by C.S. Lewis
+12. The Da Vinci Code by Dan Brown
+13. The Girl with the Dragon Tattoo by Stieg Larsson
+14. The Help by Kathryn Stockett
+15. The Kite Runner by Khaled Hosseini
+16. The Fault in Our Stars by John Green
+17. The Book Thief by Markus Zusak
+18. The Maze Runner by James Dashner
+19. The Giver by Lois Lowry
+20. The Outsiders by S.E. Hinton
+21. The Secret Life of Bees by Sue Monk Kidd
+22. The Lovely Bones by Alice Sebold
+23. The Alchemist by Paulo Coelho
+24. The Handmaid's Tale by Margaret Atwood
+25. The Road by Cormac McCarthy
+26. The Stand by Stephen King
+27. The Shining by Stephen King
+28. The Silence of the Lambs by Thomas Harris
+29. The Bourne Identity by Robert Ludlum
+30. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+31. The Name of the Wind by Patrick Rothfuss
+32. The Night Circus by Erin Morgenstern
+33. The Help by Kathryn Stockett
+34. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+35. The Devil in the White City by Erik Larson
+36. The Glass Castle by Jeannette Walls
+37. The Joy Luck Club by Amy Tan
+38. The Color Purple by Alice Walker
+39. The Handmaid's Tale by Margaret Atwood
+40. The Road by Cormac McCarthy
+41. The Stand by Stephen King
+42. The Shining by Stephen King
+43. The Silence of the Lambs by Thomas Harris
+44. The Bourne Identity by Robert Ludlum
+45. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+46. The Name of the Wind by Patrick Rothfuss
+47. The Night Circus by Erin Morgenstern
+48. The Help by Kathryn Stockett
+49. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+50. The Devil in the White City by Erik Larson

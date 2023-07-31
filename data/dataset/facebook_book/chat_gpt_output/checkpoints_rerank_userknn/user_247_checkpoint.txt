@@ -1,0 +1,47 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Fight Club (novel) by Chuck Palahniuk
+2. American Psycho by Bret Easton Ellis
+3. The Picture of Dorian Gray by Oscar Wilde
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Slaughterhouse-Five by Kurt Vonnegut
+6. The Catcher in the Rye by J.D. Salinger
+7. Haunted (Palahniuk novel) by Chuck Palahniuk
+8. Crank (novel) by Ellen Hopkins
+9. The Stranger (novel) by Albert Camus
+10. The Vampire Lestat by Anne Rice
+11. Choke (novel) by Chuck Palahniuk
+12. The Watchmen (novel) by John Altman (author)
+13. Fear and Loathing in Las Vegas by Hunter S. Thompson
+14. Pride and Prejudice and Zombies by Seth Grahame-Smith
+15. The Rum Diary (novel) by Hunter S. Thompson
+16. Angels & Demons by Dan Brown
+17. The Da Vinci Code by Dan Brown
+18. Inferno (Dante) by Dante Alighieri
+19. Dracula by Bram Stoker
+20. Interview with the Vampire by Anne Rice
+21. The Dark Tower: The Gunslinger by Stephen King
+22. The Walking Dead (comic book) by Robert Kirkman
+23. Dune (novel) by Frank Herbert
+24. Nineteen Eighty-Four by George Orwell
+25. Paradise Lost by John Milton
+26. Siddhartha (novel) by Hermann Hesse
+27. The Outsiders (novel) by S.E. Hinton
+28. Cat's Cradle by Kurt Vonnegut
+29. Another Roadside Attraction by Tom Robbins
+30. The Prophet (book) by Kahlil Gibran
+31. Pygmy (novel) by Chuck Palahniuk
+32. Geek Love by Katherine Dunn
+33. White Noise (novel) by Don DeLillo
+34. American Gods by Neil Gaiman
+35. The Perks of Being a Wallflower by Stephen Chbosky
+36. Candy: A Novel of Love and Addiction by Luke Davies
+37. The Secret (book) by Rhonda Byrne
+38. A New Earth by Eckhart Tolle
+39. The Celestine Prophecy by James Redfield
+40. The Occult: A History by Colin Wilson
+41. Tao Te Ching by Lao Tzu
+42. Eat, Pray, Love by Elizabeth Gilbert
+43. Where the Sidewalk Ends (book) by Shel Silverstein
+44. The Psychedelic Experience by Timothy Leary
+45. Notes from Underground by Fyodor Dostoevsky

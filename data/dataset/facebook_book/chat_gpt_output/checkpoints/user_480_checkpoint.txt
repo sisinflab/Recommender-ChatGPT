@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Harry Potter and the Philosopher's Stone by J.K. Rowling
+3. To Kill a Mockingbird by Harper Lee
+4. The Catcher in the Rye by J.D. Salinger
+5. Animal Farm by George Orwell
+6. 1984 by George Orwell
+7. The Giver by Lois Lowry
+8. The Fault in Our Stars by John Green
+9. The Book Thief by Markus Zusak
+10. The Hobbit by J.R.R. Tolkien
+11. The Lord of the Rings by J.R.R. Tolkien
+12. The Chronicles of Narnia by C.S. Lewis
+13. The Secret Garden by Frances Hodgson Burnett
+14. Little Women by Louisa May Alcott
+15. Anne of Green Gables by L.M. Montgomery
+16. The Adventures of Tom Sawyer by Mark Twain
+17. The Adventures of Huckleberry Finn by Mark Twain
+18. The Diary of a Young Girl by Anne Frank
+19. The Outsiders by S.E. Hinton
+20. The Perks of Being a Wallflower by Stephen Chbosky
+21. The Maze Runner by James Dashner
+22. Divergent by Veronica Roth
+23. The Mortal Instruments by Cassandra Clare
+24. The Infernal Devices by Cassandra Clare
+25. The Selection by Kiera Cass
+26. The Lunar Chronicles by Marissa Meyer
+27. The Fault in Our Stars by John Green
+28. Paper Towns by John Green
+29. Looking for Alaska by John Green
+30. The Fault in Our Stars by John Green
+31. The Maze Runner by James Dashner
+32. The Scorch Trials by James Dashner
+33. The Death Cure by James Dashner
+34. The Kill Order by James Dashner
+35. The Hunger Games by Suzanne Collins
+36. Catching Fire by Suzanne Collins
+37. Mockingjay by Suzanne Collins
+38. The Twilight Saga by Stephenie Meyer
+39. The Host by Stephenie Meyer
+40. The Chemist by Stephenie Meyer
+41. The Story of Tracy Beaker by Jacqueline Wilson
+42. Bad Girls by Jacqueline Wilson
+43. The Illustrated Mum by Jacqueline Wilson
+44. Double Act by Jacqueline Wilson
+45. The Lottie Project by Jacqueline Wilson
+46. The Suitcase Kid by Jacqueline Wilson
+47. The Bed and Breakfast Star by Jacqueline Wilson
+48. The Diamond Girls by Jacqueline Wilson
+49. The Dare Game by Jacqueline Wilson
+50. The Girls by Jacqueline Wilson

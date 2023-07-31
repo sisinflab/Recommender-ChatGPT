@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Darren Hayes
+2. Savage Garden
+3. Kings of Convenience
+4. Tegan and Sara
+5. Ace of Base
+6. Cobra Starship
+7. The Fray
+8. Maroon 5
+9. Snow Patrol
+10. Justin Timberlake
+11. Jack Johnson
+12. Nelly Furtado
+13. KT Tunstall
+14. Godsmack
+15. Muse
+16. Daft Punk
+17. Mika
+18. Rihanna
+19. Lady Gaga
+20. Led Zeppelin
+21. Coldplay
+22. The Postal Service
+23. Britney Spears
+24. Madonna
+25. Beyoncé
+26. U2
+27. Pink Floyd
+28. Radiohead
+29. Ke$ha
+30. Michael Jackson
+31. Nirvana
+32. Metallica
+33. Pearl Jam
+34. System of a Down
+35. Nine Inch Nails
+36. Linkin Park
+37. Amy Winehouse
+38. The Beatles
+39. Green Day
+40. The Killers
+41. Arctic Monkeys
+42. Placebo
+43. Duran Duran
+44. a-ha
+45. Björk
+46. Shakira
+47. Christina Aguilera
+48. Paramore
+49. Taylor Swift
+50. Avril Lavigne

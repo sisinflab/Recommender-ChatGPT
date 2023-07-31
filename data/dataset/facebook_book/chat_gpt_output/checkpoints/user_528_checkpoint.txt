@@ -1,0 +1,45 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Dune by Frank Herbert
+2. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+3. The Hunger Games by Suzanne Collins
+4. The Lord of the Rings by J.R.R. Tolkien
+5. The Martian by Andy Weir
+6. Ready Player One by Ernest Cline
+7. The Maze Runner by James Dashner
+8. The Giver by Lois Lowry
+9. The War of the Worlds by H.G. Wells
+10. The Time Machine by H.G. Wells
+11. The Andromeda Strain by Michael Crichton
+12. The Stand by Stephen King
+13. The Road by Cormac McCarthy
+14. The Girl with All the Gifts by M.R. Carey
+15. The Day of the Triffids by John Wyndham
+16. The Walking Dead: Compendium One by Robert Kirkman
+17. The Walking Dead: Compendium Two by Robert Kirkman
+18. The Walking Dead: Compendium Three by Robert Kirkman
+19. The Walking Dead: Rise of the Governor by Robert Kirkman
+20. The Walking Dead: The Road to Woodbury by Robert Kirkman
+21. The Walking Dead: The Fall of the Governor by Robert Kirkman
+22. The Walking Dead: Descent by Jay Bonansinga
+23. The Walking Dead: Invasion by Jay Bonansinga
+24. The Walking Dead: Search and Destroy by Jay Bonansinga
+25. The Walking Dead: Return to Woodbury by Jay Bonansinga
+26. The Walking Dead: The Road to Alexandria by Jay Bonansinga
+27. The Walking Dead: The Fall of the Governor Part One by Robert Kirkman
+28. The Walking Dead: The Fall of the Governor Part Two by Robert Kirkman
+29. The Walking Dead: No Turning Back by Robert Kirkman
+30. The Walking Dead: What Comes After by Robert Kirkman
+31. The Walking Dead: Lines We Cross by Robert Kirkman
+32. The Walking Dead: Rest in Peace by Robert Kirkman
+33. The Walking Dead: Onslaught by Robert Kirkman
+34. The Walking Dead: The Whisperer War by Robert Kirkman
+35. The Walking Dead: A New Beginning by Robert Kirkman
+36. The Walking Dead: The Rotten Core by Robert Kirkman
+37. The Walking Dead: The Hearts Desire by Robert Kirkman
+38. The Walking Dead: The Best Defense by Robert Kirkman
+39. The Walking Dead: This Sorrowful Life by Robert Kirkman
+40. The Walking Dead: Made to Suffer by Robert Kirkman
+41. The Walking Dead: Too Far Gone by Robert Kirkman
+42. The Walking Dead: Life Among Them by Robert Kirkman
+43. The Walking Dead: Fear the

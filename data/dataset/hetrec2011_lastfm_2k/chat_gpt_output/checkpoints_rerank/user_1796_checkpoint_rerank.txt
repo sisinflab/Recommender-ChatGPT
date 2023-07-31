@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Panic! At the Disco
+2. The Academy Is...
+3. Lady Gaga
+4. The Sounds
+5. The Ting Tings
+6. Silversun Pickups
+7. White Lies
+8. Phoenix
+9. Kings of Leon
+10. Paramore
+11. My Chemical Romance
+12. The Killers
+13. Arctic Monkeys
+14. Hot Chip
+15. Franz Ferdinand
+16. Jay-Z
+17. Le Tigre
+18. La Roux
+19. Yelle
+20. Boys Like Girls
+21. Secondhand Serenade
+22. Simple Plan
+23. MGMT
+24. Goo Goo Dolls
+25. Yeah Yeah Yeahs
+26. Interpol
+27. Muse
+28. Radiohead
+29. Nirvana
+30. Pearl Jam
+31. Iron Maiden
+32. Led Zeppelin
+33. Metallica
+34. Michael Jackson
+35. a-ha
+36. Björk
+37. Duran Duran
+38. Coldplay
+39. Blur
+40. Placebo
+41. Green Day
+42. The Cure
+43. Depeche Mode
+44. Madonna
+45. Rihanna
+46. Shakira
+47. Katy Perry
+48. Avril Lavigne
+49. Taylor Swift
+50. Ke$ha

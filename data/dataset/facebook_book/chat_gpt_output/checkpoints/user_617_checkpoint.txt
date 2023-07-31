@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Harry Potter and the Philosopher's Stone by J.K. Rowling
+3. The Hobbit by J.R.R. Tolkien
+4. The Lord of the Rings by J.R.R. Tolkien
+5. The Chronicles of Narnia by C.S. Lewis
+6. The Maze Runner by James Dashner
+7. Divergent by Veronica Roth
+8. The Giver by Lois Lowry
+9. The Fault in Our Stars by John Green
+10. The Book Thief by Markus Zusak
+11. The Catcher in the Rye by J.D. Salinger
+12. To Kill a Mockingbird by Harper Lee
+13. The Great Gatsby by F. Scott Fitzgerald
+14. Animal Farm by George Orwell
+15. 1984 by George Orwell
+16. Brave New World by Aldous Huxley
+17. Fahrenheit 451 by Ray Bradbury
+18. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+19. The Da Vinci Code by Dan Brown
+20. Angels and Demons by Dan Brown
+21. The Girl with the Dragon Tattoo by Stieg Larsson
+22. The Girl Who Played with Fire by Stieg Larsson
+23. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+24. The Bourne Identity by Robert Ludlum
+25. The Bourne Supremacy by Robert Ludlum
+26. The Bourne Ultimatum by Robert Ludlum
+27. The Silence of the Lambs by Thomas Harris
+28. Red Dragon by Thomas Harris
+29. Hannibal by Thomas Harris
+30. The Shining by Stephen King
+31. Carrie by Stephen King
+32. The Stand by Stephen King
+33. It by Stephen King
+34. Misery by Stephen King
+35. The Dark Tower: The Gunslinger by Stephen King
+36. The Dark Tower II: The Drawing of the Three by Stephen King
+37. The Dark Tower III: The Waste Lands by Stephen King
+38. The Dark Tower IV: Wizard and Glass by Stephen King
+39. The Dark Tower V: Wolves of the Calla by Stephen King
+40. The Dark Tower VI: Song of Susannah by Stephen King
+41. The Dark Tower VII: The Dark Tower by Stephen King
+42. The Name of the Wind by Patrick Rothfuss
+43. The Wise Man's Fear by Patrick Rothfuss
+44. The Way of Kings by Brandon Sanderson
+45. Mistborn: The Final Empire by Brandon Sanderson
+46. Mistborn: The Well of Ascension by Brandon Sanderson
+47. Mistborn: The Hero of Ages by Brandon Sanderson
+48. Warbreaker by Brandon Sanderson
+49. Elantris by Brandon Sanderson
+50.

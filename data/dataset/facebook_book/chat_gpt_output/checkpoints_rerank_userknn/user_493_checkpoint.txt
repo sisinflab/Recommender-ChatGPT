@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Shining by Stephen King
+2. It by Stephen King
+3. The Stand by Stephen King
+4. Pet Sematary by Stephen King
+5. Misery by Stephen King
+6. The Dark Tower series by Stephen King
+7. The Green Mile by Stephen King
+8. The Dead Zone by Stephen King
+9. The Talisman by Stephen King and Peter Straub
+10. The Drawing of the Three by Stephen King
+11. The Waste Lands by Stephen King
+12. Wizard and Glass by Stephen King
+13. Wolves of the Calla by Stephen King
+14. Song of Susannah by Stephen King
+15. The Dark Tower by Stephen King
+16. The Tommyknockers by Stephen King
+17. The Eyes of the Dragon by Stephen King
+18. The Mist by Stephen King
+19. The Running Man by Stephen King
+20. The Long Walk by Stephen King
+21. The Hunger Games by Suzanne Collins
+22. Divergent by Veronica Roth
+23. The Maze Runner by James Dashner
+24. The Giver by Lois Lowry
+25. Ender's Game by Orson Scott Card
+26. The Lord of the Rings by J.R.R. Tolkien
+27. The Hobbit by J.R.R. Tolkien
+28. The Chronicles of Narnia by C.S. Lewis
+29. The Harry Potter series by J.K. Rowling
+30. The Vampire Chronicles by Anne Rice
+31. The Dresden Files by Jim Butcher
+32. The Wheel of Time series by Robert Jordan
+33. The Sword of Truth series by Terry Goodkind
+34. The Belgariad series by David Eddings
+35. The Malazan Book of the Fallen series by Steven Erikson
+36. The First Law trilogy by Joe Abercrombie
+37. The Mistborn series by Brandon Sanderson
+38. The Kingkiller Chronicle series by Patrick Rothfuss
+39. The Stormlight Archive series by Brandon Sanderson
+40. The Gentleman Bastard series by Scott Lynch
+41. The Riyria Revelations series by Michael J. Sullivan
+42. The Broken Empire trilogy by Mark Lawrence
+43. The Black Company series by Glen Cook
+44. The Farseer trilogy by Robin Hobb
+45. The Liveship Traders trilogy by Robin Hobb
+46. The Tawny Man trilogy by Robin Hobb
+47. The Lightbringer series by Brent Weeks
+48. The Night Angel trilogy by Brent Weeks
+49. The Powder Mage trilogy by Brian McClellan
+50. The Red Rising series by Pierce Brown

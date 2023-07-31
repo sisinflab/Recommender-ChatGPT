@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. To Kill a Mockingbird by Harper Lee
+3. 1984 by George Orwell
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Pride and Prejudice by Jane Austen
+6. Jane Eyre by Charlotte Bronte
+7. Wuthering Heights by Emily Bronte
+8. The Adventures of Tom Sawyer by Mark Twain
+9. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+10. The Picture of Dorian Gray by Oscar Wilde
+11. Frankenstein by Mary Shelley
+12. Dracula by Bram Stoker
+13. The Count of Monte Cristo by Alexandre Dumas
+14. Les Miserables by Victor Hugo
+15. The Three Musketeers by Alexandre Dumas
+16. The Hobbit by J.R.R. Tolkien
+17. The Chronicles of Narnia by C.S. Lewis
+18. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+19. The Da Vinci Code by Dan Brown
+20. The Girl with the Dragon Tattoo by Stieg Larsson
+21. The Hunger Games by Suzanne Collins
+22. The Lord of the Flies by William Golding
+23. Animal Farm by George Orwell
+24. Brave New World by Aldous Huxley
+25. One Hundred Years of Solitude by Gabriel Garcia Marquez
+26. Love in the Time of Cholera by Gabriel Garcia Marquez
+27. The Alchemist by Paulo Coelho
+28. The Kite Runner by Khaled Hosseini
+29. A Thousand Splendid Suns by Khaled Hosseini
+30. The Road by Cormac McCarthy
+31. The Grapes of Wrath by John Steinbeck
+32. East of Eden by John Steinbeck
+33. The Old Man and the Sea by Ernest Hemingway
+34. For Whom the Bell Tolls by Ernest Hemingway
+35. The Sun Also Rises by Ernest Hemingway
+36. The Bell Jar by Sylvia Plath
+37. The Handmaid's Tale by Margaret Atwood
+38. The Color Purple by Alice Walker
+39. Beloved by Toni Morrison
+40. The Joy Luck Club by Amy Tan
+41. The God of Small Things by Arundhati Roy
+42. Midnight's Children by Salman Rushdie
+43. The Name of the Rose by Umberto Eco
+44. The Shadow of the Wind by Carlos Ruiz Zafon
+45. The Time Traveler's Wife by Audrey Niffenegger
+46. The Help by Kathryn Stockett
+47. The Secret Life of Bees by Sue Monk Kidd
+48. The Poisonwood Bible by Barbara Kingsolver
+49. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+50.

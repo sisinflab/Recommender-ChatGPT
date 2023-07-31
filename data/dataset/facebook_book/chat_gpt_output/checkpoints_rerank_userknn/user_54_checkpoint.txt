@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Vampire Chronicles (series) by Anne Rice
+2. Fight Club by Chuck Palahniuk
+3. The Harry Potter series by J.K. Rowling
+4. Outlander (series) by Diana Gabaldon
+5. The Lord of the Rings series by J.R.R. Tolkien
+6. The Hobbit by J.R.R. Tolkien
+7. Life of Pi by Yann Martel
+8. Les Misérables by Victor Hugo
+9. The Fountainhead by Ayn Rand
+10. Catch-22 by Joseph Heller
+11. The Bell Jar by Sylvia Plath
+12. Memoirs of a Geisha by Arthur Golden
+13. The Lovely Bones by Alice Sebold
+14. Flowers in the Attic by V.C. Andrews
+15. The Picture of Dorian Gray by Oscar Wilde
+16. The Joy Luck Club by Amy Tan
+17. A Thousand Splendid Suns by Khaled Hosseini
+18. The Little Prince by Antoine de Saint-Exupéry
+19. The Da Vinci Code by Dan Brown
+20. Angels & Demons by Dan Brown
+21. The Amber Spyglass by Philip Pullman
+22. The Return of the King by J.R.R. Tolkien
+23. The Catcher in the Rye by J.D. Salinger
+24. The Shelters of Stone by Jean M. Auel
+25. The Plains of Passage by Jean M. Auel
+26. The Mammoth Hunters by Jean M. Auel
+27. The Valley of Horses by Jean M. Auel
+28. The Notebook by Nicholas Sparks
+29. Tuesdays with Morrie by Mitch Albom
+30. The Lost Books (series) by Ted Dekker
+31. Dead Until Dark by Charlaine Harris
+32. Dead and Gone by Charlaine Harris
+33. Club Dead by Charlaine Harris
+34. Living Dead in Dallas by Charlaine Harris
+35. Twilight (series) by Stephenie Meyer
+36. Black Dagger Brotherhood (series) by J.R. Ward
+37. The Memory Keeper's Daughter by Kim Edwards
+38. The Grapes of Wrath by John Steinbeck
+39. Naked Lunch by William S. Burroughs
+40. The Long Hard Road Out of Hell by Marilyn Manson
+41. The Sleeping Beauty (novel) by Anne Rice
+42. The Shack by William P. Young
+43. Tuck Everlasting by Natalie Babbitt
+44. Nicholas Nickleby by Charles Dickens
+45. Confessions of an Ugly Stepsister by Gregory Maguire
+46. Mythology by Edith Hamilton
+47. Mirror, Mirror by Gregory Maguire
+48. Sepulchre by Kate Mosse
+49. Garden of Shadows by V.C. Andrews
+50. Johnny Tremain by Esther Forbes

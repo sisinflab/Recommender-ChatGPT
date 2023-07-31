@@ -1,0 +1,49 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. Lord of the Flies by William Golding
+4. The Catcher in the Rye by J.D. Salinger
+5. Brave New World by Aldous Huxley
+6. The Handmaid's Tale by Margaret Atwood
+7. The Hunger Games by Suzanne Collins
+8. Fahrenheit 451 by Ray Bradbury
+9. The Giver by Lois Lowry
+10. The Maze Runner by James Dashner
+11. The Book Thief by Markus Zusak
+12. The Fault in Our Stars by John Green
+13. The Perks of Being a Wallflower by Stephen Chbosky
+14. The Outsiders by S.E. Hinton
+15. The Lord of the Rings by J.R.R. Tolkien
+16. Harry Potter series by J.K. Rowling
+17. The Hobbit by J.R.R. Tolkien
+18. The Chronicles of Narnia by C.S. Lewis
+19. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+20. Ender's Game by Orson Scott Card
+21. Dune by Frank Herbert
+22. The Shining by Stephen King
+23. The Stand by Stephen King
+24. It by Stephen King
+25. The Girl with the Dragon Tattoo by Stieg Larsson
+26. The Da Vinci Code by Dan Brown
+27. Angels and Demons by Dan Brown
+28. The Bourne Identity by Robert Ludlum
+29. The Silence of the Lambs by Thomas Harris
+30. The Girl on the Train by Paula Hawkins
+31. Gone Girl by Gillian Flynn
+32. The Girl Who Played with Fire by Stieg Larsson
+33. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+34. The Hunger Games Trilogy Boxset by Suzanne Collins
+35. The Maze Runner Series Complete Collection Boxed Set by James Dashner
+36. The Lord of the Rings Boxed Set by J.R.R. Tolkien
+37. Harry Potter Box Set: The Complete Collection by J.K. Rowling
+38. The Chronicles of Narnia Boxed Set by C.S. Lewis
+39. The Dark Tower Boxed Set by Stephen King
+40. The Millennium Trilogy Boxed Set by Stieg Larsson
+41. The Complete Sherlock Holmes Collection by Arthur Conan Doyle
+42. The Hitchhiker's Guide to the Galaxy Boxed Set by Douglas Adams
+43. The Ender Quartet Boxed Set by Orson Scott Card
+44. The Dune Chronicles Boxed Set by Frank Herbert
+45. The Bourne Trilogy Boxed Set by Robert Ludlum
+46. The Hannibal Lecter Collection by Thomas Harris
+47. The Millennium Trilogy Boxed Set (Hardcover) by Stieg Larsson

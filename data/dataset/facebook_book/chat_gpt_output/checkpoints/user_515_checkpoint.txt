@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hobbit by J.R.R. Tolkien
+2. The Hunger Games by Suzanne Collins
+3. To Kill a Mockingbird by Harper Lee
+4. The Fault in Our Stars by John Green
+5. Wuthering Heights by Emily Bronte
+6. The Catcher in the Rye by J.D. Salinger
+7. The Great Gatsby by F. Scott Fitzgerald
+8. The Chronicles of Narnia by C.S. Lewis
+9. The Book Thief by Markus Zusak
+10. The Picture of Dorian Gray by Oscar Wilde
+11. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Da Vinci Code by Dan Brown
+14. The Kite Runner by Khaled Hosseini
+15. The Help by Kathryn Stockett
+16. The Lovely Bones by Alice Sebold
+17. The Secret Life of Bees by Sue Monk Kidd
+18. The Time Traveler's Wife by Audrey Niffenegger
+19. The Maze Runner by James Dashner
+20. The Giver by Lois Lowry
+21. The Outsiders by S.E. Hinton
+22. The Perks of Being a Wallflower by Stephen Chbosky
+23. The Alchemist by Paulo Coelho
+24. The Name of the Wind by Patrick Rothfuss
+25. The Road by Cormac McCarthy
+26. The Handmaid's Tale by Margaret Atwood
+27. The Stand by Stephen King
+28. The Shining by Stephen King
+29. The Silence of the Lambs by Thomas Harris
+30. The Bourne Identity by Robert Ludlum
+31. The Girl on the Train by Paula Hawkins
+32. The Martian by Andy Weir
+33. The Help by Kathryn Stockett
+34. The Lovely Bones by Alice Sebold
+35. The Secret Life of Bees by Sue Monk Kidd
+36. The Time Traveler's Wife by Audrey Niffenegger
+37. The Maze Runner by James Dashner
+38. The Giver by Lois Lowry
+39. The Outsiders by S.E. Hinton
+40. The Perks of Being a Wallflower by Stephen Chbosky
+41. The Alchemist by Paulo Coelho
+42. The Name of the Wind by Patrick Rothfuss
+43. The Road by Cormac McCarthy
+44. The Handmaid's Tale by Margaret Atwood
+45. The Stand by Stephen King
+46. The Shining by Stephen King
+47. The Silence of the Lambs by Thomas Harris
+48. The Bourne Identity by Robert Ludlum
+49. The Girl on the Train by Paula Hawkins
+50. The Martian by Andy Weir

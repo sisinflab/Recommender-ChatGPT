@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Depeche Mode
+2. Duran Duran
+3. New Order
+4. Pet Shop Boys
+5. Erasure
+6. Yazoo
+7. Ultravox
+8. The Human League
+9. Spandau Ballet
+10. ABC
+11. Tears for Fears
+12. Thompson Twins
+13. Talk Talk
+14. Groove Coverage
+15. Jack Johnson
+16. Crowded House
+17. Madonna
+18. Lady Gaga
+19. Christina Aguilera
+20. Beyoncé
+21. Rihanna
+22. Shakira
+23. Katy Perry
+24. Taylor Swift
+25. Ke$ha
+26. Miley Cyrus
+27. Glee Cast
+28. Pink Floyd
+29. Muse
+30. Radiohead
+31. Nirvana
+32. Led Zeppelin
+33. Metallica
+34. Iron Maiden
+35. Pearl Jam
+36. The Beatles
+37. U2
+38. 30 Seconds to Mars
+39. Arctic Monkeys
+40. Placebo
+41. The Killers
+42. My Chemical Romance
+43. Green Day
+44. The Cure
+45. Nine Inch Nails
+46. Linkin Park
+47. Avenged Sevenfold
+48. Black Eyed Peas
+49. Daft Punk
+50. Michael Jackson

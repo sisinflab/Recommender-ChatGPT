@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Silmarillion by J.R.R. Tolkien
+2. The Name of the Wind by Patrick Rothfuss
+3. The Lies of Locke Lamora by Scott Lynch
+4. American Gods by Neil Gaiman
+5. The Dresden Files by Jim Butcher
+6. The Kingkiller Chronicle by Patrick Rothfuss
+7. The First Law Trilogy by Joe Abercrombie
+8. The Dark Tower series by Stephen King
+9. The Wheel of Time series by Robert Jordan
+10. The Stormlight Archive by Brandon Sanderson
+11. The Malazan Book of the Fallen by Steven Erikson
+12. The Mistborn Trilogy by Brandon Sanderson
+13. The Black Company by Glen Cook
+14. The Chronicles of Narnia by C.S. Lewis
+15. The Earthsea Cycle by Ursula K. Le Guin
+16. The Once and Future King by T.H. White
+17. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+18. The Discworld series by Terry Pratchett
+19. The Magicians by Lev Grossman
+20. The Bartimaeus Trilogy by Jonathan Stroud
+21. The Inheritance Trilogy by N.K. Jemisin
+22. The Broken Empire Trilogy by Mark Lawrence
+23. The Riyria Revelations by Michael J. Sullivan
+24. The Powder Mage Trilogy by Brian McClellan
+25. The Lightbringer series by Brent Weeks
+26. The Black Prism by Brent Weeks
+27. The Night Angel Trilogy by Brent Weeks
+28. The Gentlemen Bastards series by Scott Lynch
+29. The Way of Kings by Brandon Sanderson
+30. The Wise Man's Fear by Patrick Rothfuss
+31. The Final Empire by Brandon Sanderson
+32. The Hero of Ages by Brandon Sanderson
+33. The Alloy of Law by Brandon Sanderson
+34. The Emperor's Soul by Brandon Sanderson
+35. The Lies of Locke Lamora by Scott Lynch
+36. The Republic of Thieves by Scott Lynch
+37. The Lies of Locke Lamora by Scott Lynch
+38. The Blade Itself by Joe Abercrombie
+39. Before They Are Hanged by Joe Abercrombie
+40. Last Argument of Kings by Joe Abercrombie
+41. The Heroes by Joe Abercrombie
+42. Best Served Cold by Joe Abercrombie
+43. Red Country by Joe Abercrombie
+44. The Black Prism by Brent Weeks
+45. The Night Angel Trilogy by Brent Weeks
+46. The Lightbringer series by Brent Weeks
+47. The Broken Empire Trilogy by Mark Lawrence
+48. The Riyria Revelations by Michael J. Sullivan
+49. The Powder Mage Trilogy by Brian McClellan
+50. The Inheritance Trilogy by

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Smiths
+2. Belle and Sebastian
+3. Arcade Fire
+4. Fleetwood Mac
+5. Tom Waits
+6. Pixies
+7. Manic Street Preachers
+8. Andrew Bird
+9. Alanis Morissette
+10. Marillion
+11. Pavement
+12. Guns N' Roses
+13. Bruce Springsteen
+14. Elvis Costello
+15. Van Morrison
+16. Chris Cornell
+17. Gorillaz
+18. Matisyahu
+19. Alphabeat
+20. Band of Horses
+21. Feist
+22. Jack Johnson
+23. Gogol Bordello
+24. Slash
+25. Alizée
+26. Radiohead
+27. Nirvana
+28. Pearl Jam
+29. Led Zeppelin
+30. Metallica
+31. Iron Maiden
+32. Duran Duran
+33. Coldplay
+34. Blur
+35. Arctic Monkeys
+36. Placebo
+37. The Killers
+38. Muse
+39. Pink Floyd
+40. U2
+41. Björk
+42. Daft Punk
+43. Nine Inch Nails
+44. Linkin Park
+45. Kelly Clarkson
+46. P!nk
+47. My Chemical Romance
+48. Green Day
+49. The Cure
+50. Avenged Sevenfold

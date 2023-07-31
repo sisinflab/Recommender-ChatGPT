@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Stand by Stephen King
+2. The Time Traveler's Wife by Audrey Niffenegger
+3. The Help by Kathryn Stockett
+4. The Hunger Games by Suzanne Collins
+5. The Fault in Our Stars by John Green
+6. The Girl with the Dragon Tattoo by Stieg Larsson
+7. The Da Vinci Code by Dan Brown
+8. The Kite Runner by Khaled Hosseini
+9. The Lovely Bones by Alice Sebold
+10. The Catcher in the Rye by J.D. Salinger
+11. The Great Gatsby by F. Scott Fitzgerald
+12. To Kill a Mockingbird by Harper Lee
+13. The Hobbit by J.R.R. Tolkien
+14. The Lord of the Rings by J.R.R. Tolkien
+15. The Chronicles of Narnia by C.S. Lewis
+16. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+17. The Alchemist by Paulo Coelho
+18. The Secret Life of Bees by Sue Monk Kidd
+19. The Color Purple by Alice Walker
+20. The Joy Luck Club by Amy Tan
+21. The God of Small Things by Arundhati Roy
+22. The Poisonwood Bible by Barbara Kingsolver
+23. The Glass Castle by Jeannette Walls
+24. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+25. The Book Thief by Markus Zusak
+26. The Nightingale by Kristin Hannah
+27. The Help by Kathryn Stockett
+28. The Hunger Games by Suzanne Collins
+29. The Fault in Our Stars by John Green
+30. The Girl with the Dragon Tattoo by Stieg Larsson
+31. The Da Vinci Code by Dan Brown
+32. The Kite Runner by Khaled Hosseini
+33. The Lovely Bones by Alice Sebold
+34. The Catcher in the Rye by J.D. Salinger
+35. The Great Gatsby by F. Scott Fitzgerald
+36. To Kill a Mockingbird by Harper Lee
+37. The Hobbit by J.R.R. Tolkien
+38. The Lord of the Rings by J.R.R. Tolkien
+39. The Chronicles of Narnia by C.S. Lewis
+40. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+41. The Alchemist by Paulo Coelho
+42. The Secret Life of Bees by Sue Monk Kidd
+43. The Color Purple by Alice Walker
+44. The Joy Luck Club by Amy Tan
+45. The God of Small Things by Arundhati Roy
+46. The Poisonwood Bible by Barbara Kingsolver
+47. The Glass Castle by Jeannette Walls
+48. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+49. The Name of the Wind by Patrick Rothfuss
+50. The Wise Man's Fear by Patrick Rothfuss

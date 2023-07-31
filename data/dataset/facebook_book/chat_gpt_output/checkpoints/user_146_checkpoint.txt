@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lion, the Witch and the Wardrobe by C.S. Lewis
+2. The Secret Garden by Frances Hodgson Burnett
+3. The Hobbit by J.R.R. Tolkien
+4. Matilda by Roald Dahl
+5. Jane Eyre by Charlotte Bronte
+6. The Catcher in the Rye by J.D. Salinger
+7. To Kill a Mockingbird by Harper Lee
+8. The Great Gatsby by F. Scott Fitzgerald
+9. Pride and Prejudice by Jane Austen
+10. The Adventures of Tom Sawyer by Mark Twain
+11. Little Women by Louisa May Alcott
+12. The Chronicles of Narnia by C.S. Lewis
+13. The Lord of the Rings by J.R.R. Tolkien
+14. The Giver by Lois Lowry
+15. The Hunger Games by Suzanne Collins
+16. The Fault in Our Stars by John Green
+17. The Book Thief by Markus Zusak
+18. The Outsiders by S.E. Hinton
+19. The Diary of a Young Girl by Anne Frank
+20. The Alchemist by Paulo Coelho
+21. The Picture of Dorian Gray by Oscar Wilde
+22. The Adventures of Huckleberry Finn by Mark Twain
+23. The Count of Monte Cristo by Alexandre Dumas
+24. The Scarlet Letter by Nathaniel Hawthorne
+25. The Odyssey by Homer
+26. The Iliad by Homer
+27. The Divine Comedy by Dante Alighieri
+28. The Canterbury Tales by Geoffrey Chaucer
+29. The Tempest by William Shakespeare
+30. Macbeth by William Shakespeare
+31. Romeo and Juliet by William Shakespeare
+32. Hamlet by William Shakespeare
+33. Frankenstein by Mary Shelley
+34. Dracula by Bram Stoker
+35. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+36. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+37. The War of the Worlds by H.G. Wells
+38. 1984 by George Orwell
+39. Animal Farm by George Orwell
+40. Brave New World by Aldous Huxley
+41. Fahrenheit 451 by Ray Bradbury
+42. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+43. Watership Down by Richard Adams
+44. The Wind in the Willows by Kenneth Grahame
+45. The Call of the Wild by Jack London
+46. White Fang by Jack London
+47. The Jungle Book by Rudyard Kipling
+48. Treasure Island by Robert Louis Stevenson
+49. The Swiss Family Robinson by Johann David Wyss
+50. Robinson Crusoe by Daniel Defoe

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Glass (novel) by Ellen Hopkins
+2. The Hunger Games by Suzanne Collins
+3. Divergent by Veronica Roth
+4. The Fault in Our Stars by John Green
+5. Thirteen Reasons Why by Jay Asher
+6. The Maze Runner by James Dashner
+7. The Giver by Lois Lowry
+8. The Book Thief by Markus Zusak
+9. The Catcher in the Rye by J.D. Salinger
+10. The Outsiders by S.E. Hinton
+11. Looking for Alaska by John Green
+12. The Perks of Being a Wallflower by Stephen Chbosky
+13. Fahrenheit 451 by Ray Bradbury
+14. To Kill a Mockingbird by Harper Lee
+15. The Little Prince by Antoine de Saint-Exupéry
+16. The Wolves of Mercy Falls by Maggie Stiefvater
+17. The Girl on the Train by Paula Hawkins
+18. The Nightingale by Kristin Hannah
+19. The Help by Kathryn Stockett
+20. The Kite Runner by Khaled Hosseini
+21. The Alchemist by Paulo Coelho
+22. The Da Vinci Code by Dan Brown
+23. The Lord of the Rings by J.R.R. Tolkien
+24. The Hobbit by J.R.R. Tolkien
+25. The Chronicles of Narnia by C.S. Lewis
+26. The Harry Potter series by J.K. Rowling
+27. The Hunger Games trilogy by Suzanne Collins
+28. The Maze Runner series by James Dashner
+29. The Divergent trilogy by Veronica Roth
+30. The Fault in Our Stars by John Green
+31. The Twilight Saga by Stephenie Meyer
+32. The Mortal Instruments series by Cassandra Clare
+33. The Infernal Devices series by Cassandra Clare
+34. The Selection series by Kiera Cass
+35. The Lunar Chronicles by Marissa Meyer
+36. The Percy Jackson and the Olympians series by Rick Riordan
+37. The Heroes of Olympus series by Rick Riordan
+38. The Kane Chronicles series by Rick Riordan
+39. The Maze Runner series by James Dashner
+40. The Maze Runner: The Scorch Trials by James Dashner
+41. The Maze Runner: The Death Cure by James Dashner
+42. The Maze Runner: The Kill Order by James Dashner
+43. The Maze Runner: The Fever Code by James Dashner
+44. The Hunger Games: Catching Fire by Suzanne Collins
+45. The Hunger Games: Mockingjay by Suzanne Collins
+46. The Fault in Our Stars by John Green
+47. Looking for Alaska by John Green
+48. Paper Towns by John Green
+49. An Abundance of Katherines by John Green
+50. Will Grayson, Will Grayson by John Green and

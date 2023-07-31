@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Catcher in the Rye by J.D. Salinger
+3. 1984 by George Orwell
+4. Pride and Prejudice by Jane Austen
+5. The Hobbit by J.R.R. Tolkien
+6. The Lord of the Rings by J.R.R. Tolkien
+7. The Hunger Games by Suzanne Collins
+8. The Fault in Our Stars by John Green
+9. The Book Thief by Markus Zusak
+10. The Giver by Lois Lowry
+11. The Chronicles of Narnia by C.S. Lewis
+12. The Secret Life of Bees by Sue Monk Kidd
+13. The Help by Kathryn Stockett
+14. The Color Purple by Alice Walker
+15. The Alchemist by Paulo Coelho
+16. The Kite Runner by Khaled Hosseini
+17. The Girl with the Dragon Tattoo by Stieg Larsson
+18. The Da Vinci Code by Dan Brown
+19. The Picture of Dorian Gray by Oscar Wilde
+20. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+21. The Time Traveler's Wife by Audrey Niffenegger
+22. The Lovely Bones by Alice Sebold
+23. The Road by Cormac McCarthy
+24. The Handmaid's Tale by Margaret Atwood
+25. The Stand by Stephen King
+26. The Shining by Stephen King
+27. The Silence of the Lambs by Thomas Harris
+28. The Girl on the Train by Paula Hawkins
+29. The Help by Kathryn Stockett
+30. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+31. The Martian by Andy Weir
+32. The Name of the Wind by Patrick Rothfuss
+33. The Nightingale by Kristin Hannah
+34. The Pillars of the Earth by Ken Follett
+35. The Power of One by Bryce Courtenay
+36. The Red Tent by Anita Diamant
+37. The Secret History by Donna Tartt
+38. The Shadow of the Wind by Carlos Ruiz Zafón
+39. The Snowman by Jo Nesbø
+40. The Sun Also Rises by Ernest Hemingway
+41. The Talented Mr. Ripley by Patricia Highsmith
+42. The Thirteenth Tale by Diane Setterfield
+43. The Time Machine by H.G. Wells
+44. The Unbearable Lightness of Being by Milan Kundera
+45. The Wind-Up Bird Chronicle by Haruki Murakami
+46. The Woman in White by Wilkie Collins
+47. The World According to Garp by John Irving
+48. The Year of Magical Thinking by Joan Didion
+49. The Zookeeper's Wife by Diane Ackerman
+50. Their Eyes Were Watching God by

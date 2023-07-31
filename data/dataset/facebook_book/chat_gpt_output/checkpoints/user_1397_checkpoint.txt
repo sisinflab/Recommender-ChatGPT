@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Maze Runner by James Dashner
+4. The Giver by Lois Lowry
+5. The Fault in Our Stars by John Green
+6. The Perks of Being a Wallflower by Stephen Chbosky
+7. The Book Thief by Markus Zusak
+8. To Kill a Mockingbird by Harper Lee
+9. 1984 by George Orwell
+10. Animal Farm by George Orwell
+11. Brave New World by Aldous Huxley
+12. Fahrenheit 451 by Ray Bradbury
+13. The Handmaid's Tale by Margaret Atwood
+14. The Lord of the Rings by J.R.R. Tolkien
+15. Harry Potter series by J.K. Rowling
+16. The Chronicles of Narnia by C.S. Lewis
+17. The Hobbit by J.R.R. Tolkien
+18. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+19. The Da Vinci Code by Dan Brown
+20. Angels and Demons by Dan Brown
+21. The Girl with the Dragon Tattoo by Stieg Larsson
+22. The Girl Who Played with Fire by Stieg Larsson
+23. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+24. The Bourne Identity by Robert Ludlum
+25. The Bourne Supremacy by Robert Ludlum
+26. The Bourne Ultimatum by Robert Ludlum
+27. The Silence of the Lambs by Thomas Harris
+28. Red Dragon by Thomas Harris
+29. Hannibal by Thomas Harris
+30. The Shining by Stephen King
+31. Carrie by Stephen King
+32. Misery by Stephen King
+33. The Stand by Stephen King
+34. It by Stephen King
+35. The Dark Tower series by Stephen King
+36. The Name of the Wind by Patrick Rothfuss
+37. The Wise Man's Fear by Patrick Rothfuss
+38. The Lies of Locke Lamora by Scott Lynch
+39. The Blade Itself by Joe Abercrombie
+40. The Way of Kings by Brandon Sanderson
+41. Mistborn series by Brandon Sanderson
+42. The Final Empire by Brandon Sanderson
+43. The Well of Ascension by Brandon Sanderson
+44. The Hero of Ages by Brandon Sanderson
+45. The Lies of Locke Lamora by Scott Lynch
+46. The Blade Itself by Joe Abercrombie
+47. The Way of Kings by Brandon Sanderson
+48. Mistborn series by Brandon Sanderson
+49. The Final Empire by Brandon Sanderson
+50. The Well of Ascension by Brandon Sanderson

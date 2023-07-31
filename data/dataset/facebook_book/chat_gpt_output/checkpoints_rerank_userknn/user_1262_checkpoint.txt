@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Girl with the Dragon Tattoo by Stieg Larsson
+2. Catching Fire by Suzanne Collins
+3. Twilight (series) by Stephenie Meyer
+4. Inkheart by Cornelia Funke
+5. The Hobbit by J.R.R. Tolkien
+6. The Lord of the Rings by J.R.R. Tolkien
+7. Harry Potter (series) by J.K. Rowling
+8. The Chronicles of Narnia by C.S. Lewis
+9. The Picture of Dorian Gray by Oscar Wilde
+10. Fahrenheit 451 by Ray Bradbury
+11. Les Misérables by Victor Hugo
+12. Jane Eyre by Charlotte Bronte
+13. Wuthering Heights by Emily Bronte
+14. The Hunchback of Notre-Dame by Victor Hugo
+15. The Count of Monte Cristo by Alexandre Dumas
+16. Adventures of Huckleberry Finn by Mark Twain
+17. The Lovely Bones by Alice Sebold
+18. A Song of Ice and Fire by George R.R. Martin
+19. The Grapes of Wrath by John Steinbeck
+20. Through the Looking-Glass by Lewis Carroll
+21. Macbeth by William Shakespeare
+22. The Southern Vampire Mysteries by Charlaine Harris
+23. The Wolves of Mercy Falls by Maggie Stiefvater
+24. Eleven Minutes by Paulo Coelho
+25. The Luxe by Anna Godbersen
+26. Perfect Match by Jodi Picoult
+27. Misery by Stephen King
+28. The Last Temptation of Christ by Nikos Kazantzakis
+29. Body Language by Julius Fast
+30. The Forest of Hands and Teeth by Carrie Ryan
+31. A Great and Terrible Beauty by Libba Bray
+32. So B. It by Sarah Weeks
+33. The Hunted by Charlie Higson
+34. Speak by Laurie Halse Anderson
+35. The Host by Stephenie Meyer
+36. Don't Judge a Girl by Her Cover by Ally Carter
+37. Black Dagger Brotherhood by J.R. Ward
+38. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+39. The Girl Who Played with Fire by Stieg Larsson
+40. City of Ashes by Cassandra Clare
+41. Pride and Prejudice and Zombies by Seth Grahame-Smith
+42. Marley & Me by John Grogan
+43. Love You Forever by Robert Munsch
+44. Impulse Economy by Gary Schwartz
+45. Bible
+46. I Am Legend by Richard Matheson
+47. Tempted by P.C. Cast
+48. Untamed by P.C. Cast
+49. Dark-Hunter by Sherrilyn Kenyon
+50. Inheritance by Christopher Paolini

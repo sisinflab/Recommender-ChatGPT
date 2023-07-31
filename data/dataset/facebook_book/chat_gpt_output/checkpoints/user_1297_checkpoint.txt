@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Name of the Wind by Patrick Rothfuss
+2. The Hunger Games by Suzanne Collins
+3. The Girl with the Dragon Tattoo by Stieg Larsson
+4. The Road by Cormac McCarthy
+5. The Catcher in the Rye by J.D. Salinger
+6. The Fault in Our Stars by John Green
+7. The Da Vinci Code by Dan Brown
+8. The Help by Kathryn Stockett
+9. The Kite Runner by Khaled Hosseini
+10. The Alchemist by Paulo Coelho
+11. The Book Thief by Markus Zusak
+12. The Giver by Lois Lowry
+13. The Maze Runner by James Dashner
+14. The Perks of Being a Wallflower by Stephen Chbosky
+15. The Secret Life of Bees by Sue Monk Kidd
+16. The Time Traveler's Wife by Audrey Niffenegger
+17. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+18. The Picture of Dorian Gray by Oscar Wilde
+19. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+20. The Great Gatsby by F. Scott Fitzgerald
+21. The Hobbit by J.R.R. Tolkien
+22. The Lord of the Rings by J.R.R. Tolkien
+23. The Chronicles of Narnia by C.S. Lewis
+24. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+25. The Stand by Stephen King
+26. The Shining by Stephen King
+27. The Silence of the Lambs by Thomas Harris
+28. The Bourne Identity by Robert Ludlum
+29. The Andromeda Strain by Michael Crichton
+30. The Martian by Andy Weir
+31. The Girl on the Train by Paula Hawkins
+32. The Nightingale by Kristin Hannah
+33. The Help by Kathryn Stockett
+34. The Color Purple by Alice Walker
+35. The Joy Luck Club by Amy Tan
+36. The God of Small Things by Arundhati Roy
+37. The Poisonwood Bible by Barbara Kingsolver
+38. The Glass Castle by Jeannette Walls
+39. The Immortalists by Chloe Benjamin
+40. The Power of One by Bryce Courtenay
+41. The Pillars of the Earth by Ken Follett
+42. The Clan of the Cave Bear by Jean M. Auel
+43. The Girl with All the Gifts by M.R. Carey
+44. The Handmaid's Tale by Margaret Atwood
+45. The Road to Character by David Brooks
+46. The 7 Habits of Highly Effective People by Stephen R. Covey
+47. The Lean Startup by Eric Ries
+48. The Innovator's Dilemma by Clayton M. Christensen
+49. The Art of War
+50. American Gods by Neil Gaiman

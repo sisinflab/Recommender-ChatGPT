@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hobbit by J.R.R. Tolkien
+2. The Lord of the Rings by J.R.R. Tolkien
+3. Fahrenheit 451 by Ray Bradbury
+4. Crime and Punishment by Fyodor Dostoevsky
+5. The Great Gatsby by F. Scott Fitzgerald
+6. To Kill a Mockingbird by Harper Lee
+7. The Catcher in the Rye by J.D. Salinger
+8. Heart of Darkness by Joseph Conrad
+9. A Clockwork Orange by Anthony Burgess
+10. The Canterbury Tales by Geoffrey Chaucer
+11. Les Misérables by Victor Hugo
+12. Don Quixote by Miguel de Cervantes
+13. The Kite Runner by Khaled Hosseini
+14. Adventures of Huckleberry Finn by Mark Twain
+15. Romeo and Juliet by William Shakespeare
+16. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+17. Moby-Dick by Herman Melville
+18. The Prodigal Daughter by Jeffrey Archer
+19. The Return of the King by J.R.R. Tolkien
+20. The Queen of the Damned by Anne Rice
+21. A Tale of Two Cities by Charles Dickens
+22. The Fellowship of the Ring by J.R.R. Tolkien
+23. The Silver Wolf by Alice Borchardt
+24. Tess of the d'Urbervilles by Thomas Hardy
+25. Inferno by Dante Alighieri
+26. The Sicilian by Mario Puzo
+27. Cirque du Freak by Darren Shan
+28. Frankenstein by Mary Shelley
+29. A Midsummer Night's Dream by William Shakespeare
+30. Mountains Beyond Mountains by Tracy Kidder
+31. The Beautiful Boy by Germaine Greer
+32. Oil! by Upton Sinclair
+33. The Count of Monte Cristo by Alexandre Dumas
+34. A Tree Grows in Brooklyn by Betty Smith
+35. Encyclopædia Britannica by Encyclopædia Britannica
+36. Brisingr by Christopher Paolini
+37. The Shack by William P. Young
+38. Twisted by Laurie Halse Anderson
+39. On War by Carl von Clausewitz
+40. Beauty: A Retelling of the Story of Beauty and the Beast by Robin McKinley
+41. Persepolis by Marjane Satrapi
+42. Looking for Alaska by John Green
+43. Before I Die by Jenny Downham
+44. Black Beauty by Anna Sewell
+45. Strange Case of Dr Jekyll and Mr Hyde by Robert Louis Stevenson
+46. Dry by Augusten Burroughs
+47. The Prodigal Daughter by Jeffrey Archer
+48. Strange Angels by Lili St. Crow
+49. Ender's Game by Orson

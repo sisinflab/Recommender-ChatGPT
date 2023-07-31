@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. Harry Potter series by J.K. Rowling
+3. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+4. The Hunger Games by Suzanne Collins
+5. The Name of the Wind by Patrick Rothfuss
+6. The Wheel of Time series by Robert Jordan
+7. The Dark Tower series by Stephen King
+8. The Kingkiller Chronicle series by Patrick Rothfuss
+9. The Mistborn series by Brandon Sanderson
+10. The Stormlight Archive series by Brandon Sanderson
+11. The First Law trilogy by Joe Abercrombie
+12. The Lies of Locke Lamora by Scott Lynch
+13. The Dresden Files series by Jim Butcher
+14. The Malazan Book of the Fallen series by Steven Erikson
+15. The Earthsea series by Ursula K. Le Guin
+16. The Chronicles of Amber series by Roger Zelazny
+17. The Belgariad series by David Eddings
+18. The Farseer Trilogy by Robin Hobb
+19. The Black Company series by Glen Cook
+20. The Riyria Revelations series by Michael J. Sullivan
+21. The Mistborn trilogy by Brandon Sanderson
+22. The Lightbringer series by Brent Weeks
+23. The Powder Mage trilogy by Brian McClellan
+24. The Broken Empire trilogy by Mark Lawrence
+25. The Night Angel trilogy by Brent Weeks
+26. The Gentleman Bastard series by Scott Lynch
+27. The Codex Alera series by Jim Butcher
+28. The Inheritance Trilogy by N.K. Jemisin
+29. The Red Rising series by Pierce Brown
+30. The Hyperion Cantos series by Dan Simmons
+31. The Culture series by Iain M. Banks
+32. The Foundation series by Isaac Asimov
+33. The Dune series by Frank Herbert
+34. The Ender's Game series by Orson Scott Card
+35. The Vorkosigan Saga series by Lois McMaster Bujold
+36. The Expanse series by James S.A. Corey
+37. The Three-Body Problem trilogy by Liu Cixin
+38. The Southern Reach trilogy by Jeff Vandermeer
+39. The Broken Earth trilogy by N.K. Jemisin
+40. The Book of the New Sun series by Gene Wolfe
+41. The Hyperion Cantos series by Dan Simmons
+42. The Culture series by Iain M. Banks
+43. The Foundation series by Isaac Asimov
+44. The Dune series by Frank Herbert
+45. The Ender's Game series by Orson Scott Card
+46. The Vorkosigan Saga series by Lois McMaster Bujold
+47. The Expanse series by James S.A. Corey
+48. The

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. Brave New World by Aldous Huxley
+5. The Great Gatsby by F. Scott Fitzgerald
+6. One Hundred Years of Solitude by Gabriel Garcia Marquez
+7. The Picture of Dorian Gray by Oscar Wilde
+8. Wuthering Heights by Emily Bronte
+9. The Brothers Karamazov by Fyodor Dostoevsky
+10. The Bell Jar by Sylvia Plath
+11. The Stranger by Albert Camus
+12. Heart of Darkness by Joseph Conrad
+13. The Sun Also Rises by Ernest Hemingway
+14. The Road by Cormac McCarthy
+15. The Grapes of Wrath by John Steinbeck
+16. The Sound and the Fury by William Faulkner
+17. The Old Man and the Sea by Ernest Hemingway
+18. The Trial by Franz Kafka
+19. The Scarlet Letter by Nathaniel Hawthorne
+20. The Count of Monte Cristo by Alexandre Dumas
+21. The Adventures of Huckleberry Finn by Mark Twain
+22. The Divine Comedy by Dante Alighieri
+23. The Canterbury Tales by Geoffrey Chaucer
+24. The Iliad by Homer
+25. The Odyssey by Homer
+26. The Aeneid by Virgil
+27. Don Quixote by Miguel de Cervantes
+28. Les Miserables by Victor Hugo
+29. War and Peace by Leo Tolstoy
+30. Anna Karenina by Leo Tolstoy
+31. Crime and Punishment by Fyodor Dostoevsky
+32. Frankenstein by Mary Shelley
+33. Lord of the Flies by William Golding
+34. Vanity Fair by William Makepeace Thackeray
+35. Charlotte's Web by E.B. White
+36. Angels and Demons by Dan Brown
+37. Lolita by Vladimir Nabokov
+38. The Portrait of a Lady by Henry James
+39. Jane Eyre by Charlotte Bronte
+40. Forever... by Judy Blume
+41. The Hobbit by J.R.R. Tolkien
+42. The Lord of the Rings by J.R.R. Tolkien
+43. The Chronicles of Narnia by C.S. Lewis
+44. Harry Potter and the Philosopher's Stone by J.K. Rowling
+45. The Hunger Games by Suzanne Collins
+46. Divergent by Veronica Roth
+47. The Fault in Our Stars by John Green
+48. The Girl with the Dragon Tattoo by Stieg Larsson
+49. The Da Vinci Code by Dan Brown
+50. The Help by Kathryn Stockett

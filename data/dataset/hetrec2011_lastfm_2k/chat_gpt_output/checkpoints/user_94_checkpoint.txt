@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The National
+2. Vampire Weekend
+3. Tame Impala
+4. The Strokes
+5. Arctic Monkeys
+6. Interpol
+7. Foals
+8. The War on Drugs
+9. Arcade Fire (similar artist)
+10. The Smiths (similar artist)
+11. Gorillaz (similar artist)
+12. Sonic Youth (similar artist)
+13. Radiohead (similar artist)
+14. Talking Heads (similar artist)
+15. Beach House (similar artist)
+16. Björk (similar artist)
+17. Pulp (similar artist)
+18. Broken Social Scene (similar artist)
+19. Death Cab for Cutie (similar artist)
+20. PJ Harvey (similar artist)
+21. Pixies (similar artist)
+22. Modest Mouse (similar artist)
+23. Morrissey (similar artist)
+24. The Beatles (similar artist)
+25. Depeche Mode (similar artist)
+26. David Bowie (similar artist)
+27. Sigur Rós (similar artist)
+28. New Order (similar artist)
+29. Animal Collective (similar artist)
+30. LCD Soundsystem (similar artist)
+31. Joy Division (similar artist)
+32. Electronic (similar artist)
+33. The Pains of Being Pure at Heart (similar artist)
+34. The Good, the Bad & the Queen (similar artist)
+35. Yeasayer (similar artist)
+36. Bloc Party (similar artist)
+37. Suede (similar artist)
+38. The Cribs (similar artist)
+39. Kanye West (similar artist)
+40. Best Coast (similar artist)
+41. My Bloody Valentine (similar artist)
+42. The Flaming Lips
+43. Grizzly Bear
+44. Fleet Foxes
+45. The Shins
+46. Belle and Sebastian
+47. Neutral Milk Hotel
+48. The Decemberists
+49. Yo La Tengo
+50. Pavement

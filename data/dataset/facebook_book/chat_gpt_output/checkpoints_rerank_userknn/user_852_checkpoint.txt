@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. The Bell Jar by Sylvia Plath
+3. Inferno by Dante Alighieri
+4. The Hobbit by J.R.R. Tolkien
+5. Fear and Trembling by Søren Kierkegaard
+6. Invisible Man by Ralph Ellison
+7. The Great Gatsby by F. Scott Fitzgerald
+8. The Trial by Franz Kafka
+9. Harry Potter by J.K. Rowling
+10. The Sandman by Neil Gaiman
+11. Utopia by Thomas More
+12. The Scarlet Pimpernel by Baroness Orczy
+13. Hellblazer by Jamie Delano
+14. Confessions by St. Augustine
+15. Snow Crash by Neal Stephenson
+16. The Perks of Being a Wallflower by Stephen Chbosky
+17. Bible by Various Authors
+18. Bluebeard by Kurt Vonnegut
+19. The Little Prince by Antoine de Saint-Exupéry
+20. A Brief History of Time by Stephen Hawking
+21. The Catcher in the Rye by J.D. Salinger
+22. Leaves of Grass by Walt Whitman
+23. Desiderata by Max Ehrmann
+24. Atlas Shrugged by Ayn Rand
+25. One Hundred Years of Solitude by Gabriel García Márquez
+26. Transmetropolitan by Warren Ellis
+27. Tess of the d'Urbervilles by Thomas Hardy
+28. The Hamlet by William Faulkner
+29. Ender's Game by Orson Scott Card
+30. Infinite Jest by David Foster Wallace
+31. Pride and Prejudice by Jane Austen
+32. Stardust by Neil Gaiman
+33. Hunger by Knut Hamsun
+34. Beloved by Toni Morrison
+35. The Sound and the Fury by William Faulkner
+36. Brave New World by Aldous Huxley
+37. Notes from Underground by Fyodor Dostoyevsky
+38. Ulysses by James Joyce
+39. The Prophet by Kahlil Gibran
+40. Grimms' Fairy Tales by Jacob and Wilhelm Grimm
+41. Things Fall Apart by Chinua Achebe
+42. The Picture of Dorian Gray by Oscar Wilde
+43. Siddhartha by Hermann Hesse
+44. Slaughterhouse-Five by Kurt Vonnegut
+45. A Passage to India by E.M. Forster
+46. The Glass Menagerie by Tennessee Williams
+47. Sir Gawain and the Green Knight by Anonymous
+48. Lolita by Vladimir Nabokov
+49. The Art of Happiness by Dalai Lama XIV and Howard C. Cutler
+50. Franny and Zooey by J.D. Salinger

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. The Fault in Our Stars by John Green
+3. The Great Gatsby by F. Scott Fitzgerald
+4. 1984 by George Orwell
+5. The Catcher in the Rye by J.D. Salinger
+6. The Hobbit by J.R.R. Tolkien
+7. The Lord of the Rings by J.R.R. Tolkien
+8. The Chronicles of Narnia by C.S. Lewis
+9. Harry Potter series by J.K. Rowling
+10. The Da Vinci Code by Dan Brown
+11. Angels and Demons by Dan Brown
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Girl Who Played with Fire by Stieg Larsson
+14. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+15. The Help by Kathryn Stockett
+16. The Kite Runner by Khaled Hosseini
+17. A Thousand Splendid Suns by Khaled Hosseini
+18. The Alchemist by Paulo Coelho
+19. The Picture of Dorian Gray by Oscar Wilde
+20. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+21. The Count of Monte Cristo by Alexandre Dumas
+22. Les Misérables by Victor Hugo
+23. The Three Musketeers by Alexandre Dumas
+24. The Time Traveler's Wife by Audrey Niffenegger
+25. The Lovely Bones by Alice Sebold
+26. The Book Thief by Markus Zusak
+27. The Perks of Being a Wallflower by Stephen Chbosky
+28. The Giver by Lois Lowry
+29. The Maze Runner by James Dashner
+30. The Bourne Identity by Robert Ludlum
+31. The Bourne Supremacy by Robert Ludlum
+32. The Bourne Ultimatum by Robert Ludlum
+33. The Silence of the Lambs by Thomas Harris
+34. The Daughters of the Moon series by Lynne Ewing
+35. The House of Night series by P.C. Cast and Kristin Cast
+36. The Mortal Instruments series by Cassandra Clare
+37. The Infernal Devices series by Cassandra Clare
+38. The Twilight Saga by Stephenie Meyer
+39. The Vampire Diaries series by L.J. Smith
+40. The Sookie Stackhouse series by Charlaine Harris
+41. The Dresden Files series by Jim Butcher
+42. The Wheel of Time series by Robert Jordan
+43. The Dark Tower series by Stephen King
+44. The Stand by Stephen King
+45. The Shining by Stephen King
+46. The Outsiders by S.E. Hinton
+47. The Secret Life of Bees by Sue Monk Kidd
+48. The Color Purple by Alice Walker
+49. The Joy Luck Club by Amy Tan
+50. The Wise Man's Fear by Patrick Rothfuss

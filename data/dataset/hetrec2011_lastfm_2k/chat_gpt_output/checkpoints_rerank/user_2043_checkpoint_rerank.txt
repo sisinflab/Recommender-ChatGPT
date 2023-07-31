@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Paramore
+2. Taking Back Sunday
+3. The Fall of Troy
+4. Pierce the Veil
+5. Saosin
+6. Breathe Carolina
+7. Senses Fail
+8. Chiodos
+9. Scary Kids Scaring Kids
+10. Say Anything
+11. Brand New
+12. Underoath
+13. Dance Gavin Dance
+14. The Devil Wears Prada
+15. Silverstein
+16. Modest Mouse
+17. Owl City
+18. New Found Glory
+19. Cute Is What We Aim For
+20. +44
+21. Ratatat
+22. Metro Station
+23. Madonna
+24. Lady Gaga
+25. Britney Spears
+26. Christina Aguilera
+27. Rihanna
+28. Beyoncé
+29. Katy Perry
+30. Taylor Swift
+31. Ke$ha
+32. Pink Floyd
+33. Muse
+34. Radiohead
+35. Nirvana
+36. Green Day
+37. My Chemical Romance
+38. The Killers
+39. Coldplay
+40. Blur
+41. Arctic Monkeys
+42. Placebo
+43. Nine Inch Nails
+44. Linkin Park
+45. Avenged Sevenfold
+46. Iron Maiden
+47. Metallica
+48. Led Zeppelin
+49. Michael Jackson
+50. Pearl Jam

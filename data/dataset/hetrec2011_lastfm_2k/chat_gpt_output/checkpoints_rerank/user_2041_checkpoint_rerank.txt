@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Fall Out Boy
+2. Panic! At the Disco
+3. The All-American Rejects
+4. My Chemical Romance
+5. Paramore
+6. Taking Back Sunday
+7. Alesana
+8. Hawthorne Heights
+9. Escape The Fate
+10. Secondhand Serenade
+11. Rooney
+12. We The Kings
+13. Goo Goo Dolls
+14. Sum 41
+15. Yellowcard
+16. Dashboard Confessional
+17. Muse
+18. Radiohead
+19. Linkin Park
+20. Evanescence
+21. Foo Fighters
+22. Red Hot Chili Peppers
+23. Sick Puppies
+24. Green Day
+25. The Cure
+26. Lady Gaga
+27. Madonna
+28. U2
+29. Britney Spears
+30. Christina Aguilera
+31. Beyoncé
+32. Rihanna
+33. Shakira
+34. Katy Perry
+35. Taylor Swift
+36. Glee Cast
+37. 30 Seconds to Mars
+38. Pink Floyd
+39. Kylie Minogue
+40. Miley Cyrus
+41. Ke$ha
+42. Duran Duran
+43. Coldplay
+44. Blur
+45. Arctic Monkeys
+46. Placebo
+47. The Killers
+48. Nirvana
+49. Iron Maiden
+50. Amy Winehouse

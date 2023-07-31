@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for this user are:
+
+1. Lady Gaga
+2. Britney Spears
+3. Linkin Park
+4. Porcelain and the Tramps
+5. Lindsay Lohan
+6. Christina Aguilera
+7. Placebo
+8. Michael Jackson
+9. Eminem
+10. Kerli
+11. Marilyn Manson
+12. Good Charlotte
+13. Ke$ha
+14. Avril Lavigne
+15. Madonna
+16. Kelly Clarkson
+17. The Pretty Reckless
+18. Jeffree Star
+19. Nirvana
+20. The Kills
+21. The Dead Weather
+22. The Subways
+23. The Offspring
+24. Depeche Mode
+25. Blood Red Shoes
+26. Miley Cyrus
+27. 3OH!3
+28. Simple Plan
+29. Flyleaf
+30. Green Day
+31. Evanescence
+32. Katy Perry
+33. 30 Seconds to Mars
+34. Amy Winehouse
+35. Beyoncé
+36. Rihanna
+37. P!nk
+38. Shakira
+39. Jennifer Lopez
+40. Enrique Iglesias
+41. Spice Girls
+42. Céline Dion
+43. Coldplay
+44. Muse
+45. Adam Lambert
+46. Nicki Minaj
+47. Joss Stone
+48. Lily Allen
+49. Bon Jovi
+50. Kanye West

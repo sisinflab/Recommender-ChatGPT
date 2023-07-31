@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Jane Eyre
+2. The Picture of Dorian Gray
+3. The Hunger Games
+4. Angels & Demons
+5. The Da Vinci Code
+6. Wuthering Heights
+7. Percy Jackson & the Olympians
+8. The Chronicles of Narnia: Prince Caspian
+9. Inferno (Dante)
+10. Cirque du Freak
+11. Maximum Ride
+12. The Looking Glass Wars
+13. Fablehaven
+14. The Kane Chronicles
+15. Warriors (anthology)
+16. Blue Bloods (novel series)
+17. Pretty Little Liars (book)
+18. Skeleton Creek (novel)
+19. Speak (novel)
+20. Water for Elephants
+21. The Lorax
+22. Thirteen Reasons Why
+23. Suck It Up
+24. Shopaholic (novels)
+25. Eldest
+26. Ink Exchange
+27. Brisingr
+28. 2 States: The Story of My Marriage
+29. The Secret (book)
+30. Guinness World Records
+31. Along for the Ride
+32. Kane and Abel (novel)
+33. Tuesdays with Morrie
+34. The Coldest Winter Ever
+35. Impulse economy
+36. Studies of the Book of Mormon
+37. The Hamlet
+38. Norwegian Wood (novel)
+39. The Truth About Forever
+40. Vanity Fair (novel)
+41. Mythologies (book)
+42. Twenty Thousand Leagues Under the Sea
+43. Five Point Someone
+44. Holes (novel)
+45. Macbeth
+46. Fade (novel)
+47. The True Game
+48. Marley & Me
+49. Sense and Sensibility
+50. The Notebook (novel)

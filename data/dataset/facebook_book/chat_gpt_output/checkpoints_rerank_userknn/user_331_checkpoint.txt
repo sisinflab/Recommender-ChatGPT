@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Les Misérables by Victor Hugo
+2. Jane Eyre by Charlotte Bronte
+3. The Great Gatsby by F. Scott Fitzgerald
+4. To Kill a Mockingbird by Harper Lee
+5. Frankenstein by Mary Shelley
+6. The Picture of Dorian Gray by Oscar Wilde
+7. Animal Farm by George Orwell
+8. The Catcher in the Rye by J.D. Salinger
+9. Harry Potter series by J.K. Rowling
+10. Inferno by Dante Alighieri
+11. The Canterbury Tales by Geoffrey Chaucer
+12. The Bell Jar by Sylvia Plath
+13. The Alchemist by Paulo Coelho
+14. The Importance of Being Earnest by Oscar Wilde
+15. The Notebook by Nicholas Sparks
+16. The Da Vinci Code by Dan Brown
+17. The Holy Blood and the Holy Grail by Michael Baigent, Richard Leigh, and Henry Lincoln
+18. The World as Will and Representation by Arthur Schopenhauer
+19. The Shadow of the Wind by Carlos Ruiz Zafón
+20. The Jungle Book by Rudyard Kipling
+21. The Glass Menagerie by Tennessee Williams
+22. The Valkyries by Paulo Coelho
+23. The Other Boleyn Girl by Philippa Gregory
+24. The Secret Garden by Frances Hodgson Burnett
+25. Wuthering Heights by Emily Bronte
+26. War and Peace by Leo Tolstoy
+27. The Idiot by Fyodor Dostoyevsky
+28. The Diary of a Young Girl by Anne Frank
+29. The Old Man and the Sea by Ernest Hemingway
+30. Blindness by José Saramago
+31. The Godfather by Mario Puzo
+32. For Whom the Bell Tolls by Ernest Hemingway
+33. Sense and Sensibility by Jane Austen
+34. Lorna Doone by R.D. Blackmore
+35. Grimms' Fairy Tales by Jacob and Wilhelm Grimm
+36. Sons and Lovers by D.H. Lawrence
+37. Gulliver's Travels by Jonathan Swift
+38. Left Behind by Tim LaHaye and Jerry B. Jenkins
+39. American Gods by Neil Gaiman
+40. A Hero of Our Time by Mikhail Lermontov
+41. Bridget Jones's Diary by Helen Fielding
+42. A Thousand Splendid Suns by Khaled Hosseini
+43. The Wonderful Wizard of Oz by L. Frank Baum
+44. Veronika Decides to Die by Paulo Coelho
+45. Never Let Me Go by Kazuo Ishiguro
+46. We the Living by Ayn Rand
+47. To the Lighthouse by Virginia Woolf
+48. The Bell Jar by Sylvia Plath
+49. Freakonomics by Steven D. Lev

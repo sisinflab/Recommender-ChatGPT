@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Fault in Our Stars by John Green
+2. Eleanor & Park by Rainbow Rowell
+3. The Perks of Being a Wallflower by Stephen Chbosky
+4. The Book Thief by Markus Zusak
+5. Me and Earl and the Dying Girl by Jesse Andrews
+6. The Maze Runner by James Dashner
+7. The Outsiders by S.E. Hinton
+8. The Hunger Games Trilogy by Suzanne Collins
+9. Divergent Trilogy by Veronica Roth
+10. The Selection by Kiera Cass
+11. The Mortal Instruments by Cassandra Clare
+12. The Infernal Devices by Cassandra Clare
+13. The Lunar Chronicles by Marissa Meyer
+14. The 5th Wave by Rick Yancey
+15. The Raven Cycle by Maggie Stiefvater
+16. The Darkest Minds by Alexandra Bracken
+17. The Maze of Bones by Rick Riordan
+18. The Lightning Thief by Rick Riordan
+19. The Heroes of Olympus by Rick Riordan
+20. The Kane Chronicles by Rick Riordan
+21. The Secret Series by Enid Blyton
+22. The Famous Five by Enid Blyton
+23. The Chronicles of Narnia by C.S. Lewis
+24. The Hobbit by J.R.R. Tolkien
+25. The Lord of the Rings Trilogy by J.R.R. Tolkien
+26. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+27. The Girl with the Dragon Tattoo by Stieg Larsson
+28. The Girl on the Train by Paula Hawkins
+29. The Da Vinci Code by Dan Brown
+30. Angels and Demons by Dan Brown
+31. The Bourne Identity by Robert Ludlum
+32. The Bourne Supremacy by Robert Ludlum
+33. The Bourne Ultimatum by Robert Ludlum
+34. The Bourne Legacy by Eric Van Lustbader
+35. The Bourne Betrayal by Eric Van Lustbader
+36. The Bourne Sanction by Eric Van Lustbader
+37. The Bourne Deception by Eric Van Lustbader
+38. The Bourne Objective by Eric Van Lustbader
+39. The Bourne Dominion by Eric Van Lustbader
+40. The Bourne Imperative by Eric Van Lustbader
+41. The Bourne Retribution by Eric Van Lustbader
+42. The Bourne Ascendancy by Eric Van Lustbader
+43. The Bourne Enigma by Eric Van Lustbader
+44. The Bourne Initiative by Eric Van Lustbader
+45. The Bourne Nemesis by Eric Van Lustbader
+46. The Bourne Legacy by Tony Gilroy
+47. The Bourne Betrayal by Tony Gilroy
+48. The Bourne Sanction

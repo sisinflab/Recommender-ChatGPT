@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Book Thief by Markus Zusak
+2. The Fault in Our Stars by John Green
+3. The Maze Runner by James Dashner
+4. Divergent by Veronica Roth
+5. The Giver by Lois Lowry
+6. The Hunger Games Trilogy Boxset by Suzanne Collins
+7. The Chronicles of Narnia Box Set by C.S. Lewis
+8. The Harry Potter Series Box Set by J.K. Rowling
+9. The Twilight Saga Box Set by Stephenie Meyer
+10. The Lord of the Rings Box Set by J.R.R. Tolkien
+11. The Hobbit by J.R.R. Tolkien
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Da Vinci Code by Dan Brown
+14. The Help by Kathryn Stockett
+15. The Kite Runner by Khaled Hosseini
+16. The Secret Life of Bees by Sue Monk Kidd
+17. The Time Traveler's Wife by Audrey Niffenegger
+18. The Alchemist by Paulo Coelho
+19. The Catcher in the Rye by J.D. Salinger
+20. To Kill a Mockingbird by Harper Lee
+21. The Great Gatsby by F. Scott Fitzgerald
+22. 1984 by George Orwell
+23. Animal Farm by George Orwell
+24. Brave New World by Aldous Huxley
+25. Fahrenheit 451 by Ray Bradbury
+26. The Handmaid's Tale by Margaret Atwood
+27. The Road by Cormac McCarthy
+28. The Stand by Stephen King
+29. The Shining by Stephen King
+30. The Dark Tower Series Box Set by Stephen King
+31. The Name of the Wind by Patrick Rothfuss
+32. A Game of Thrones by George R.R. Martin
+33. The Wheel of Time Series Box Set by Robert Jordan
+34. The Sword of Shannara Trilogy by Terry Brooks
+35. The Belgariad Boxed Set by David Eddings
+36. The Malazan Book of the Fallen Series by Steven Erikson
+37. The Black Company Series by Glen Cook
+38. The First Law Trilogy by Joe Abercrombie
+39. The Kingkiller Chronicle Series by Patrick Rothfuss
+40. The Mistborn Trilogy Boxed Set by Brandon Sanderson
+41. The Stormlight Archive Series by Brandon Sanderson
+42. The Lightbringer Series by Brent Weeks
+43. The Powder Mage Trilogy by Brian McClellan
+44. The Broken Empire Trilogy by Mark Lawrence
+45. The Riyria Revelations Boxed Set by Michael J. Sullivan
+46. The Farseer Trilogy by Robin Hobb
+47. The Liveship Traders Trilogy by Robin Hobb
+48. The Tawny Man Trilogy by Robin Hobb
+49. The Gentleman
+50. The Wise Man's Fear by Patrick Rothfuss

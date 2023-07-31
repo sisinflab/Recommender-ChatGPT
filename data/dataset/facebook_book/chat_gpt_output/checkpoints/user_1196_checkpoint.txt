@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. The Catcher in the Rye by J.D. Salinger
+3. 1984 by George Orwell
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Animal Farm by George Orwell
+6. Lord of the Flies by William Golding
+7. The Adventures of Huckleberry Finn by Mark Twain
+8. The Adventures of Tom Sawyer by Mark Twain
+9. The Picture of Dorian Gray by Oscar Wilde
+10. Wuthering Heights by Emily Bronte
+11. Jane Eyre by Charlotte Bronte
+12. The Scarlet Letter by Nathaniel Hawthorne
+13. Frankenstein by Mary Shelley
+14. Dracula by Bram Stoker
+15. The Count of Monte Cristo by Alexandre Dumas
+16. Les Miserables by Victor Hugo
+17. The Three Musketeers by Alexandre Dumas
+18. The Brothers Karamazov by Fyodor Dostoevsky
+19. Crime and Punishment by Fyodor Dostoevsky
+20. Anna Karenina by Leo Tolstoy
+21. War and Peace by Leo Tolstoy
+22. The Iliad by Homer
+23. The Odyssey by Homer
+24. The Divine Comedy by Dante Alighieri
+25. Don Quixote by Miguel de Cervantes
+26. One Hundred Years of Solitude by Gabriel Garcia Marquez
+27. Love in the Time of Cholera by Gabriel Garcia Marquez
+28. The Name of the Rose by Umberto Eco
+29. The Canterbury Tales by Geoffrey Chaucer
+30. The Decameron by Giovanni Boccaccio
+31. The Arabian Nights by Anonymous
+32. The Lord of the Rings by J.R.R. Tolkien
+33. The Silmarillion by J.R.R. Tolkien
+34. The Chronicles of Narnia by C.S. Lewis
+35. The Hobbit by J.R.R. Tolkien
+36. The Hunger Games by Suzanne Collins
+37. Catching Fire by Suzanne Collins
+38. Mockingjay by Suzanne Collins
+39. The Girl with the Dragon Tattoo by Stieg Larsson
+40. The Girl Who Played with Fire by Stieg Larsson
+41. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+42. The Da Vinci Code by Dan Brown
+43. Angels and Demons by Dan Brown
+44. Inferno by Dan Brown
+45. The Bourne Identity by Robert Ludlum
+46. The Bourne Supremacy by Robert Ludlum
+47. The Bourne Ultimatum by Robert Ludlum
+48. The Hunger Games Trilogy Boxset by Suzanne Collins
+49. The Lord of the Rings Boxed Set by J.R.R. Tolkien
+50. The Wise Man's Fear by Patrick Rothfuss

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Muse
+2. Evanescence
+3. 30 Seconds to Mars
+4. Avenged Sevenfold
+5. Breaking Benjamin
+6. Three Days Grace
+7. Rise Against
+8. Nickelback
+9. Daughtry
+10. Good Charlotte
+11. Lostprophets
+12. Escape The Fate
+13. Papa Roach
+14. Atreyu
+15. HIM
+16. Anberlin
+17. Nightwish
+18. Soilwork
+19. Demi Lovato
+20. Flo Rida
+21. Jimmy Eat World
+22. Saosin
+23. Frank Sinatra
+24. The Who
+25. Johnny Cash
+26. Metallica
+27. Iron Maiden
+28. Nirvana
+29. Pearl Jam
+30. Led Zeppelin
+31. Radiohead
+32. Pink Floyd
+33. The Beatles
+34. U2
+35. Coldplay
+36. Blur
+37. Arctic Monkeys
+38. Placebo
+39. The Killers
+40. Michael Jackson
+41. Madonna
+42. Lady Gaga
+43. Christina Aguilera
+44. Beyoncé
+45. Rihanna
+46. Shakira
+47. Katy Perry
+48. Avril Lavigne
+49. Taylor Swift
+50. Paramore

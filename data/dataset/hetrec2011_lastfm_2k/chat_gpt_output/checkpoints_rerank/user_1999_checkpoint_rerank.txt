@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Horrors
+2. Los Hermanos
+3. Escape The Fate
+4. Slipknot
+5. Crystal Castles
+6. Placebo
+7. the GazettE
+8. Beirut
+9. The Strokes
+10. BrokeNCYDE
+11. Incubus
+12. Nautilus Pompilius
+13. Lacuna Coil
+14. Apocalyptica
+15. Scorpions
+16. The Smiths
+17. DIR EN GREY
+18. System of a Down
+19. Phoenix
+20. Trivium
+21. of Montreal
+22. Chris Cornell
+23. Marilyn Manson
+24. Epica
+25. A Perfect Circle
+26. Theatre of Tragedy
+27. 植松伸夫
+28. Radiohead
+29. Nirvana
+30. Metallica
+31. Led Zeppelin
+32. Iron Maiden
+33. Pearl Jam
+34. Nine Inch Nails
+35. Muse
+36. Pink Floyd
+37. U2
+38. Arctic Monkeys
+39. The Killers
+40. The Beatles
+41. Placebo
+42. Depeche Mode
+43. The Cure
+44. Duran Duran
+45. Coldplay
+46. Blur
+47. Green Day
+48. My Chemical Romance
+49. Avenged Sevenfold
+50. Linkin Park

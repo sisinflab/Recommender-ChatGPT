@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. My Chemical Romance
+2. Linkin Park
+3. Slipknot
+4. Avenged Sevenfold
+5. Green Day
+6. Metallica
+7. Bullet for My Valentine
+8. Escape The Fate
+9. The Used
+10. Guns N' Roses
+11. Paramore
+12. Nevershoutnever!
+13. Breathe Carolina
+14. Boys Like Girls
+15. The Pretty Reckless
+16. Demi Lovato
+17. McFly
+18. HEVO84
+19. Secondhand Serenade
+20. The Red Jumpsuit Apparatus
+21. Mindless Self Indulgence
+22. Fall Out Boy
+23. Panic! At the Disco
+24. Good Charlotte
+25. The All-American Rejects
+26. Eminem
+27. Ramones
+28. Ashlee Simpson
+29. Hey Monday
+30. Lily Allen
+31. Ke$ha
+32. Ashley Tisdale
+33. The Veronicas
+34. Miley Cyrus
+35. The Beatles
+36. Regina Spektor
+37. Coldplay
+38. Snow Patrol
+39. Maroon 5
+40. Muse
+41. 30 Seconds to Mars
+42. Kings of Leon
+43. Death Cab for Cutie
+44. Dashboard Confessional
+45. Jimmy Eat World
+46. Blue October
+47. The Kooks
+48. Plain White T's
+49. Jack Johnson
+50. Michael Jackson

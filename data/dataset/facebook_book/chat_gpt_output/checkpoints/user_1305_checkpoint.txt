@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Jane Eyre by Charlotte Bronte
+2. The Great Gatsby by F. Scott Fitzgerald
+3. To Kill a Mockingbird by Harper Lee
+4. Pride and Prejudice by Jane Austen
+5. The Catcher in the Rye by J.D. Salinger
+6. 1984 by George Orwell
+7. Animal Farm by George Orwell
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+10. The Hobbit by J.R.R. Tolkien
+11. The Lord of the Rings by J.R.R. Tolkien
+12. The Chronicles of Narnia by C.S. Lewis
+13. The Hunger Games by Suzanne Collins
+14. Catch-22 by Joseph Heller
+15. One Hundred Years of Solitude by Gabriel Garcia Marquez
+16. The Alchemist by Paulo Coelho
+17. The Da Vinci Code by Dan Brown
+18. The Girl with the Dragon Tattoo by Stieg Larsson
+19. The Kite Runner by Khaled Hosseini
+20. The Road by Cormac McCarthy
+21. The Book Thief by Markus Zusak
+22. The Secret History by Donna Tartt
+23. The Name of the Wind by Patrick Rothfuss
+24. The Shadow of the Wind by Carlos Ruiz Zafon
+25. The Time Traveler's Wife by Audrey Niffenegger
+26. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+27. The Fault in Our Stars by John Green
+28. The Help by Kathryn Stockett
+29. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+30. The Lovely Bones by Alice Sebold
+31. The Martian by Andy Weir
+32. The Nightingale by Kristin Hannah
+33. The Picture of Dorian Gray by Oscar Wilde
+34. The Poisonwood Bible by Barbara Kingsolver
+35. The Power of One by Bryce Courtenay
+36. The Red Tent by Anita Diamant
+37. The Secret Life of Bees by Sue Monk Kidd
+38. The Shack by William P. Young
+39. The Stand by Stephen King
+40. The Sun Also Rises by Ernest Hemingway
+41. The Time Machine by H.G. Wells
+42. The Wind-Up Bird Chronicle by Haruki Murakami
+43. The Wonderful Wizard of Oz by L. Frank Baum
+44. The World According to Garp by John Irving
+45. Things Fall Apart by Chinua Achebe
+46. Watership Down by Richard Adams
+47. Where the Crawdads Sing by Delia Owens
+48. White Teeth by Zadie Smith
+49. Wild by Cheryl Strayed
+50. Wuthering Heights by Emily Bronte (since it

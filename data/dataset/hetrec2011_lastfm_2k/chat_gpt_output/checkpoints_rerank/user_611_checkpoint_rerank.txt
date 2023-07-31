@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The xx
+2. LCD Soundsystem
+3. Hot Chip
+4. Little Boots
+5. La Roux
+6. Passion Pit
+7. Ladytron
+8. White Lies
+9. Editors
+10. Soulwax
+11. Fischerspooner
+12. Goldfrapp
+13. Late of the Pier
+14. Pet Shop Boys
+15. Antony and the Johnsons
+16. Digitalism
+17. The Bravery
+18. Covenant
+19. Annie
+20. Klaxons
+21. She Wants Revenge
+22. Cyndi Lauper
+23. Lykke Li
+24. Madonna
+25. Lady Gaga
+26. Britney Spears
+27. Rihanna
+28. Shakira
+29. Christina Aguilera
+30. Beyoncé
+31. Pink Floyd
+32. Radiohead
+33. Muse
+34. U2
+35. The Beatles
+36. Nirvana
+37. Led Zeppelin
+38. Michael Jackson
+39. Pearl Jam
+40. Iron Maiden
+41. Metallica
+42. a-ha
+43. Björk
+44. Nine Inch Nails
+45. Daft Punk
+46. Linkin Park
+47. Kelly Clarkson
+48. Avenged Sevenfold
+49. My Chemical Romance
+50. Green Day

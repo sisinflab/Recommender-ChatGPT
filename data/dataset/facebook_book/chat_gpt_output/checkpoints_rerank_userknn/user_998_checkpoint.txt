@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Kite Runner by Khaled Hosseini
+2. A Thousand Splendid Suns by Khaled Hosseini
+3. To Kill a Mockingbird by Harper Lee
+4. In Cold Blood by Truman Capote
+5. The Alchemist by Paulo Coelho
+6. Emma by Jane Austen
+7. I Am Legend by Richard Matheson
+8. PS, I Love You by Cecelia Ahern
+9. The God of Small Things by Arundhati Roy
+10. The Blind Assassin by Margaret Atwood
+11. The Great Gatsby by F. Scott Fitzgerald
+12. Wuthering Heights by Emily Bronte
+13. Persuasion by Jane Austen
+14. Life of Pi by Yann Martel
+15. The Picture of Dorian Gray by Oscar Wilde
+16. Memoirs of a Geisha by Arthur Golden
+17. Far from the Madding Crowd by Thomas Hardy
+18. The Lovely Bones by Alice Sebold
+19. Midnight's Children by Salman Rushdie
+20. The Da Vinci Code by Dan Brown
+21. Fahrenheit 451 by Ray Bradbury
+22. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+23. Romeo and Juliet by William Shakespeare
+24. Thirteen Reasons Why by Jay Asher
+25. Little Women by Louisa May Alcott
+26. Gone with the Wind by Margaret Mitchell
+27. Their Eyes Were Watching God by Zora Neale Hurston
+28. Tuesdays with Morrie by Mitch Albom
+29. Don Quixote by Miguel de Cervantes
+30. The Boy in the Striped Pyjamas by John Boyne
+31. The Jungle Book by Rudyard Kipling
+32. The Queen's Fool by Philippa Gregory
+33. Mansfield Park by Jane Austen
+34. The God Delusion by Richard Dawkins
+35. The Reader by Bernhard Schlink
+36. Shalimar the Clown by Salman Rushdie
+37. Malgudi Days by R.K. Narayan
+38. Inkheart by Cornelia Funke
+39. Where the Wild Things Are by Maurice Sendak
+40. King Solomon's Mines by H. Rider Haggard
+41. The Sisterhood of the Traveling Pants by Ann Brashares
+42. One Day in the Life of Ivan Denisovich by Aleksandr Solzhenitsyn
+43. Digital Fortress by Dan Brown
+44. Nancy Drew by Carolyn Keene
+45. Lajja by Taslima Nasrin
+46. The Hamlet by William Faulkner
+47. Isaac Asimov's Robot City by William F. Wu
+48. Fallen by Lauren Kate
+49. Captain Underpants by Dav Pilkey
+50. Manga by Various Authors

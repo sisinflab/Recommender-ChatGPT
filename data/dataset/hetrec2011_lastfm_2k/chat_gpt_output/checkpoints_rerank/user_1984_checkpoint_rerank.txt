@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Avenged Sevenfold
+2. Linkin Park
+3. Bullet for My Valentine
+4. Disturbed
+5. Megadeth
+6. Pantera
+7. Edguy
+8. Helloween
+9. Blind Guardian
+10. Sonata Arctica
+11. DIR EN GREY
+12. Arch Enemy
+13. Municipal Waste
+14. In This Moment
+15. Lacuna Coil
+16. Nightwish
+17. Dream Theater
+18. Opeth
+19. Escape The Fate
+20. As I Lay Dying
+21. 36 Crazyfists
+22. The Used
+23. Paramore
+24. Katy Perry
+25. Lady Gaga
+26. Rihanna
+27. Beyoncé
+28. Madonna
+29. Christina Aguilera
+30. Shakira
+31. Evanescence
+32. Muse
+33. 30 Seconds to Mars
+34. Coldplay
+35. The Killers
+36. Radiohead
+37. Nirvana
+38. Pearl Jam
+39. Iron Maiden
+40. Metallica
+41. Led Zeppelin
+42. Michael Jackson
+43. Nine Inch Nails
+44. Daft Punk
+45. Green Day
+46. My Chemical Romance
+47. P!nk
+48. All Time Low
+49. Black Eyed Peas
+50. The Cure

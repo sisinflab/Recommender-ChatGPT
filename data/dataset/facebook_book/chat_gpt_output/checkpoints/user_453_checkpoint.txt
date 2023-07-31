@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Twilight by Stephenie Meyer
+2. The Hunger Games by Suzanne Collins
+3. Divergent by Veronica Roth
+4. The Fault in Our Stars by John Green
+5. The Maze Runner by James Dashner
+6. The Mortal Instruments by Cassandra Clare
+7. The Selection by Kiera Cass
+8. Shiver by Maggie Stiefvater
+9. Delirium by Lauren Oliver
+10. Matched by Ally Condie
+11. The Giver by Lois Lowry
+12. The Book Thief by Markus Zusak
+13. The Perks of Being a Wallflower by Stephen Chbosky
+14. The Vampire Diaries by L.J. Smith
+15. The Infernal Devices by Cassandra Clare
+16. The Raven Boys by Maggie Stiefvater
+17. The 5th Wave by Rick Yancey
+18. The Darkest Minds by Alexandra Bracken
+19. The Iron Fey by Julie Kagawa
+20. The Chemical Garden by Lauren DeStefano
+21. The Lunar Chronicles by Marissa Meyer
+22. The Unbecoming of Mara Dyer by Michelle Hodkin
+23. The Selection by Kiera Cass
+24. The Lux Series by Jennifer L. Armentrout
+25. The Dark Artifices by Cassandra Clare
+26. The Hating Game by Sally Thorne
+27. The Kiss Quotient by Helen Hoang
+28. The Bride Test by Helen Hoang
+29. The Flatshare by Beth O'Leary
+30. The Nightingale by Kristin Hannah
+31. The Alice Network by Kate Quinn
+32. The Seven Husbands of Evelyn Hugo by Taylor Jenkins Reid
+33. The Silent Patient by Alex Michaelides
+34. The Testaments by Margaret Atwood
+35. The Dutch House by Ann Patchett
+36. The Starless Sea by Erin Morgenstern
+37. The Water Dancer by Ta-Nehisi Coates
+38. The Overstory by Richard Powers
+39. The Nickel Boys by Colson Whitehead
+40. The Topeka School by Ben Lerner
+41. The Yellow House by Sarah M. Broom
+42. The City We Became by N.K. Jemisin
+43. The Glass Hotel by Emily St. John Mandel
+44. The Mirror & the Light by Hilary Mantel
+45. The Vanishing Half by Brit Bennett
+46. The Death of Vivek Oji by Akwaeke Emezi
+47. The Pull of the Stars by Emma Donoghue
+48. The Invisible Life of Addie LaRue by V.E. Schwab
+49. The Once and Future Witches by Alix E. Harrow
+50. The Burning God by R.F. Kuang

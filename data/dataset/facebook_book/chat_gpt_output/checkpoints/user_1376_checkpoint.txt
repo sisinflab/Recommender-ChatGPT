@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Girl with the Dragon Tattoo by Stieg Larsson
+2. Gone Girl by Gillian Flynn
+3. The Hunger Games by Suzanne Collins
+4. The Da Vinci Code by Dan Brown
+5. The Girl on the Train by Paula Hawkins
+6. The Catcher in the Rye by J.D. Salinger
+7. 1984 by George Orwell
+8. To Kill a Mockingbird by Harper Lee
+9. The Great Gatsby by F. Scott Fitzgerald
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Hobbit by J.R.R. Tolkien
+12. The Chronicles of Narnia by C.S. Lewis
+13. Harry Potter and the Philosopher's Stone by J.K. Rowling
+14. Harry Potter and the Chamber of Secrets by J.K. Rowling
+15. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+16. Harry Potter and the Goblet of Fire by J.K. Rowling
+17. Harry Potter and the Order of Phoenix by J.K. Rowling
+18. Harry Potter and the Half-Blood Prince by J.K. Rowling
+19. Harry Potter and the Deathly Hallows by J.K. Rowling
+20. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+21. The Shining by Stephen King
+22. It by Stephen King
+23. The Stand by Stephen King
+24. The Dark Tower series by Stephen King
+25. The Silence of the Lambs by Thomas Harris
+26. Red Dragon by Thomas Harris
+27. Hannibal by Thomas Harris
+28. American Psycho by Bret Easton Ellis
+29. Less Than Zero by Bret Easton Ellis
+30. The Secret History by Donna Tartt
+31. The Goldfinch by Donna Tartt
+32. The Catcher in the Rye by J.D. Salinger
+33. The Bell Jar by Sylvia Plath
+34. The Picture of Dorian Gray by Oscar Wilde
+35. The Importance of Being Earnest by Oscar Wilde
+36. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+37. Frankenstein by Mary Shelley
+38. Dracula by Bram Stoker
+39. The War of the Worlds by H.G. Wells
+40. The Time Machine by H.G. Wells
+41. The Island of Dr. Moreau by H.G. Wells
+42. The Invisible Man by H.G. Wells
+43. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+44. The Hound of the Baskervilles by Arthur Conan Doyle
+45. The Return of Sherlock Holmes by Arthur Conan Doyle
+46. The Memoirs of Sherlock Holmes by Arthur Conan Doyle
+47. The Case-Book of Sherlock Holmes by Arthur Conan Doyle
+48. The Complete Sherlock Holmes by
+49. The Picture of Dorian Gray by Oscar Wilde
+50. Looking for Alaska by John

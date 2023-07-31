@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. Lord of the Flies by William Golding
+5. Brave New World by Aldous Huxley
+6. Animal Farm by George Orwell
+7. The Great Gatsby by F. Scott Fitzgerald
+8. The Grapes of Wrath by John Steinbeck
+9. One Flew Over the Cuckoo's Nest by Ken Kesey
+10. The Bell Jar by Sylvia Plath
+11. The Road by Cormac McCarthy
+12. The Handmaid's Tale by Margaret Atwood
+13. Fahrenheit 451 by Ray Bradbury
+14. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+15. Ender's Game by Orson Scott Card
+16. The Hunger Games by Suzanne Collins
+17. Dune by Frank Herbert
+18. The Martian by Andy Weir
+19. The Stand by Stephen King
+20. The Shining by Stephen King
+21. The Lord of the Rings by J.R.R. Tolkien
+22. The Hobbit by J.R.R. Tolkien
+23. A Song of Ice and Fire by George R.R. Martin
+24. The Name of the Wind by Patrick Rothfuss
+25. The Lies of Locke Lamora by Scott Lynch
+26. The Blade Itself by Joe Abercrombie
+27. The Way of Kings by Brandon Sanderson
+28. Mistborn by Brandon Sanderson
+29. The Final Empire by Brandon Sanderson
+30. The Alloy of Law by Brandon Sanderson
+31. The Emperor's Soul by Brandon Sanderson
+32. The Black Prism by Brent Weeks
+33. The Night Angel Trilogy by Brent Weeks
+34. The First Law Trilogy by Joe Abercrombie
+35. The Kingkiller Chronicle by Patrick Rothfuss
+36. The Dresden Files by Jim Butcher
+37. The Stormlight Archive by Brandon Sanderson
+38. The Lightbringer Series by Brent Weeks
+39. The Powder Mage Trilogy by Brian McClellan
+40. The Broken Empire Trilogy by Mark Lawrence
+41. The Red Queen's War Trilogy by Mark Lawrence
+42. The Chronicles of Narnia by C.S. Lewis
+43. The Dark Tower Series by Stephen King
+44. The Malazan Book of the Fallen by Steven Erikson
+45. The Wheel of Time by Robert Jordan
+46. The Mistborn Trilogy by Brandon Sanderson
+47. The Reckoners Trilogy by Brandon Sanderson
+48. The Demon Cycle by Peter V. Brett
+49. The Inheritance Trilogy by N.K. Jemisin
+50. The Broken Earth Trilogy by N.K. Jemisin

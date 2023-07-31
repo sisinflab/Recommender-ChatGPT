@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for them would be:
+
+1. Lady Gaga
+2. Katy Perry
+3. Rihanna
+4. Britney Spears
+5. Ke$ha
+6. Ellie Goulding
+7. Bruno Mars
+8. Taylor Swift
+9. Kings of Leon
+10. Muse
+11. The Script
+12. Snow Patrol
+13. Lifehouse
+14. The Fray
+15. OneRepublic
+16. Breaking Benjamin
+17. The Pretty Reckless
+18. Shinedown
+19. Red
+20. Crossfade
+21. 30 Seconds to Mars
+22. Adam Lambert
+23. Jimmy Eat World
+24. 3OH!3
+25. The All-American Rejects
+26. In Flames
+27. Hurts
+28. Placebo
+29. Kate Voegele
+30. Leighton Meester
+31. Mumford & Sons
+32. Stereophonics
+33. P!nk
+34. La Roux
+35. Florence + the Machine
+36. B.o.B
+37. Nicki Minaj
+38. Jessie J
+39. Cheryl Cole
+40. Kelly Clarkson
+41. Beyoncé
+42. Alicia Keys
+43. Duffy
+44. Vanessa Hudgens
+45. Lily Allen
+46. Black Eyed Peas
+47. David Guetta
+48. Eminem
+49. Coldplay
+50. Dashboard Confessional

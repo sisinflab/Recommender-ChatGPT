@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Kooks
+2. Yeah Yeah Yeahs
+3. Lily Allen
+4. The Subways
+5. Maxïmo Park
+6. Cansei de Ser Sexy
+7. The Fratellis
+8. The Ting Tings
+9. Friendly Fires
+10. Metric
+11. The Strokes
+12. Blood Red Shoes
+13. Tegan and Sara
+14. Yelle
+15. Vampire Weekend
+16. The Bird and The Bee
+17. Joss Stone
+18. Jet
+19. Rooney
+20. Anberlin
+21. Weezer
+22. The White Stripes
+23. Kings of Leon
+24. Arctic Monkeys
+25. Paramore
+26. Katy Perry
+27. Lady Gaga
+28. The Beatles
+29. Rihanna
+30. Pink Floyd
+31. Muse
+32. Radiohead
+33. Ke$ha
+34. Coldplay
+35. Nirvana
+36. Led Zeppelin
+37. Michael Jackson
+38. Pearl Jam
+39. Björk
+40. Daft Punk
+41. Nine Inch Nails
+42. Linkin Park
+43. My Chemical Romance
+44. Green Day
+45. The Killers
+46. Iron Maiden
+47. Avenged Sevenfold
+48. Black Eyed Peas
+49. P!nk
+50. Kelly Clarkson

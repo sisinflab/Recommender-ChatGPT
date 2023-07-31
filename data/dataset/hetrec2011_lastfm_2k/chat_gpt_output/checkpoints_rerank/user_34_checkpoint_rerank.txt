@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The National
+2. Joy Division
+3. Arcade Fire
+4. New Order
+5. Pink Floyd
+6. Editors
+7. Manic Street Preachers
+8. Queen
+9. Queens of the Stone Age
+10. Hot Chip
+11. Moby
+12. Orbital
+13. Architecture in Helsinki
+14. Air
+15. Yann Tiersen
+16. Los Campesinos!
+17. The Magnetic Fields
+18. Kate Nash
+19. Antony and the Johnsons
+20. Radiohead
+21. Muse
+22. Nirvana
+23. Led Zeppelin
+24. Metallica
+25. Michael Jackson
+26. Pearl Jam
+27. Björk
+28. Daft Punk
+29. Nine Inch Nails
+30. Linkin Park
+31. The Beatles
+32. U2
+33. Coldplay
+34. Blur
+35. Arctic Monkeys
+36. Placebo
+37. The Killers
+38. Amy Winehouse
+39. Iron Maiden
+40. Duran Duran
+41. Kylie Minogue
+42. Madonna
+43. Rihanna
+44. Lady Gaga
+45. Christina Aguilera
+46. Shakira
+47. Katy Perry
+48. Avril Lavigne
+49. Taylor Swift
+50. Ke$ha

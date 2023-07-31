@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Maze Runner by James Dashner
+4. The Giver by Lois Lowry
+5. The Fault in Our Stars by John Green
+6. The Book Thief by Markus Zusak
+7. To Kill a Mockingbird by Harper Lee
+8. The Chronicles of Narnia by C.S. Lewis
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Hobbit by J.R.R. Tolkien
+11. The Da Vinci Code by Dan Brown
+12. Angels and Demons by Dan Brown
+13. The Girl with the Dragon Tattoo by Stieg Larsson
+14. The Girl Who Played with Fire by Stieg Larsson
+15. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+16. The Catcher in the Rye by J.D. Salinger
+17. 1984 by George Orwell
+18. Animal Farm by George Orwell
+19. Brave New World by Aldous Huxley
+20. Fahrenheit 451 by Ray Bradbury
+21. The Handmaid's Tale by Margaret Atwood
+22. The Picture of Dorian Gray by Oscar Wilde
+23. The Great Gatsby by F. Scott Fitzgerald
+24. Pride and Prejudice by Jane Austen
+25. Sense and Sensibility by Jane Austen
+26. Emma by Jane Austen
+27. Persuasion by Jane Austen
+28. Northanger Abbey by Jane Austen
+29. Wuthering Heights by Emily Bronte
+30. Jane Eyre by Charlotte Bronte
+31. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+32. The Hound of the Baskervilles by Arthur Conan Doyle
+33. The Time Machine by H.G. Wells
+34. War of the Worlds by H.G. Wells
+35. The Invisible Man by H.G. Wells
+36. The Island of Dr. Moreau by H.G. Wells
+37. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+38. Treasure Island by Robert Louis Stevenson
+39. The Three Musketeers by Alexandre Dumas
+40. The Man in the Iron Mask by Alexandre Dumas
+41. Les Miserables by Victor Hugo
+42. The Phantom of the Opera by Gaston Leroux
+43. The Adventures of Tom Sawyer by Mark Twain
+44. The Adventures of Huckleberry Finn by Mark Twain
+45. The Call of the Wild by Jack London
+46. White Fang by Jack London
+47. The War of the Worlds by H.G. Wells
+48. The Time Machine by H.G. Wells
+49. The Invisible Man by H.G. Wells
+50. The Island of Dr. Moreau by H.G

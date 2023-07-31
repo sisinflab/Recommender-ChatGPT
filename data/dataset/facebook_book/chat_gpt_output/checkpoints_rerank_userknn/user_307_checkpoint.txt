@@ -1,0 +1,47 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Maze Runner by James Dashner
+4. The Fault in Our Stars by John Green
+5. The Giver by Lois Lowry
+6. The Chronicles of Narnia by C.S. Lewis
+7. The Mortal Instruments by Cassandra Clare
+8. The Infernal Devices by Cassandra Clare
+9. Percy Jackson and the Olympians by Rick Riordan
+10. Heroes of Olympus by Rick Riordan
+11. The Selection by Kiera Cass
+12. The Lunar Chronicles by Marissa Meyer
+13. Throne of Glass by Sarah J. Maas
+14. A Court of Thorns and Roses by Sarah J. Maas
+15. The 5th Wave by Rick Yancey
+16. Legend by Marie Lu
+17. The Darkest Minds by Alexandra Bracken
+18. The Testing by Joelle Charbonneau
+19. The Uglies by Scott Westerfeld
+20. The Leviathan Trilogy by Scott Westerfeld
+21. The Maze of Bones by Rick Riordan
+22. The 39 Clues by Rick Riordan
+23. The Secret Series by Enid Blyton
+24. The Famous Five by Enid Blyton
+25. The Secret Seven by Enid Blyton
+26. The Hardy Boys by Franklin W. Dixon
+27. Nancy Drew by Carolyn Keene
+28. The Boxcar Children by Gertrude Chandler Warner
+29. The Magic Tree House by Mary Pope Osborne
+30. The Babysitters Club by Ann M. Martin
+31. The Sisterhood of the Traveling Pants by Ann Brashares
+32. The Princess Diaries by Meg Cabot
+33. The Sisterhood of the Rose by Jim Marrs
+34. The Sisterhood of the Night by Steven Millhauser
+35. The Sisterhood of the Traveling Pants by Ann Brashares
+36. The Sisterhood of the Traveling Pants 2 by Ann Brashares
+37. The Sisterhood of the Traveling Pants 3 by Ann Brashares
+38. The Sisterhood of the Traveling Pants 4 by Ann Brashares
+39. The Sisterhood of the Traveling Pants 5 by Ann Brashares
+40. The Sisterhood of the Traveling Pants 6 by Ann Brashares
+41. The Sisterhood of the Traveling Pants 7 by Ann Brashares
+42. The Sisterhood of the Traveling Pants 8 by Ann Brashares
+43. The Sisterhood of the Traveling Pants 9 by Ann Brashares
+44. The Sisterhood of the Traveling Pants 10 by Ann Brashares
+45. The Sisterhood of the Traveling Pants 11 by Ann Brash

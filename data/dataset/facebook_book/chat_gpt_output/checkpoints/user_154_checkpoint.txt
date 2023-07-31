@@ -1,0 +1,46 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. To Kill a Mockingbird by Harper Lee
+3. The Great Gatsby by F. Scott Fitzgerald
+4. Animal Farm by George Orwell
+5. The Catcher in the Rye by J.D. Salinger
+6. Brave New World by Aldous Huxley
+7. The Bell Jar by Sylvia Plath
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Stranger by Albert Camus
+10. Crime and Punishment by Fyodor Dostoevsky
+11. The Brothers Karamazov by Fyodor Dostoevsky
+12. Lolita by Vladimir Nabokov
+13. One Flew Over the Cuckoo's Nest by Ken Kesey
+14. The Road by Cormac McCarthy
+15. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+16. The Hobbit by J.R.R. Tolkien
+17. The Lord of the Rings by J.R.R. Tolkien
+18. The Chronicles of Narnia by C.S. Lewis
+19. The Hunger Games by Suzanne Collins
+20. Harry Potter and the Philosopher's Stone by J.K. Rowling
+21. Harry Potter and the Chamber of Secrets by J.K. Rowling
+22. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+23. Harry Potter and the Goblet of Fire by J.K. Rowling
+24. Harry Potter and the Order of Phoenix by J.K. Rowling
+25. Harry Potter and the Half-Blood Prince by J.K. Rowling
+26. Harry Potter and the Deathly Hallows by J.K. Rowling
+27. The Girl with the Dragon Tattoo by Stieg Larsson
+28. The Girl Who Played with Fire by Stieg Larsson
+29. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+30. The Da Vinci Code by Dan Brown
+31. Angels and Demons by Dan Brown
+32. Inferno by Dan Brown
+33. The Alchemist by Paulo Coelho
+34. The Shadow of the Wind by Carlos Ruiz Zafón
+35. The Name of the Rose by Umberto Eco
+36. The God of Small Things by Arundhati Roy
+37. The White Tiger by Aravind Adiga
+38. The Immortals of Meluha by Amish Tripathi
+39. The Secret of the Nagas by Amish Tripathi
+40. The Oath of the Vayuputras by Amish Tripathi
+41. The Palace of Illusions by Chitra Banerjee Divakaruni
+42. The Lowland by Jhumpa Lahiri
+43. Interpreter of Maladies by Jhumpa Lahiri
+44. The Brief Wondrous

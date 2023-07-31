@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Pet Shop Boys
+2. Nine Inch Nails
+3. Radiohead
+4. The Chemical Brothers
+5. Daft Punk
+6. Massive Attack
+7. Garbage
+8. The Killers
+9. Muse
+10. The Smashing Pumpkins
+11. The Cure
+12. Placebo
+13. Joy Division
+14. The Prodigy (similar to the user's favorite)
+15. Depeche Mode (similar to the user's favorite)
+16. Beastie Boys (similar to the user's favorite)
+17. Madonna (similar to the user's favorite)
+18. Blur (similar to the user's favorite)
+19. Kylie Minogue (similar to the user's favorite)
+20. Oasis (similar to the user's favorite)
+21. Recoil (similar to the user's favorite)
+22. Rammstein (similar to the user's favorite)
+23. Lady Gaga (similar to the user's favorite)
+24. Hilary Duff (similar to the user's favorite)
+25. New Order (similar to the user's favorite)
+26. Paul van Dyk (similar to the user's favorite)
+27. Fever Ray (similar to the user's favorite)
+28. Savage Garden (similar to the user's favorite)
+29. Hurts (similar to the user's favorite)
+30. Beyoncé (similar to the user's favorite)
+31. L7 (similar to the user's favorite)
+32. Little Boots (similar to the user's favorite)
+33. M.I.A. (similar to the user's favorite)
+34. Faithless (similar to the user's favorite)
+35. Shakira (similar to the user's favorite)
+36. Frank Sinatra (similar to the user's favorite)
+37. Sting (similar to the user's favorite)
+38. Good Charlotte (similar to the user's favorite)
+39. U2 (similar to the user's favorite)
+40. The Cranberries (similar to the user's favorite)
+41. David Guetta (similar to the user's favorite)
+42. Aaliyah (similar to the user's favorite)
+43. Scooter (similar to the user's favorite)
+44. The Hives (similar to the user's favorite)
+45. De/Vision (similar to the user's favorite)
+46. Linkin Park (similar to the user's favorite)
+47. Leighton Meester (similar to the user's favorite)
+48. The Postal Service
+49. The Naked and Famous
+50. CHVRCHES

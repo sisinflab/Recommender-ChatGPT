@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Depeche Mode
+2. The Cure
+3. Ladytron
+4. Recoil
+5. Nitzer Ebb
+6. Crystal Castles
+7. And One
+8. New Order
+9. Martin L. Gore
+10. IAMX
+11. Siouxsie and the Banshees
+12. Massive Attack
+13. Kraftwerk
+14. Aphex Twin
+15. Madonna
+16. Bauhaus
+17. Queen
+18. The Beatles
+19. Wham!
+20. Kylie Minogue
+21. Daft Punk
+22. No Doubt
+23. Ace of Base
+24. Madonna
+25. Lady Gaga
+26. Rihanna
+27. Shakira
+28. Britney Spears
+29. Christina Aguilera
+30. Beyoncé
+31. Katy Perry
+32. Taylor Swift
+33. Ke$ha
+34. Paramore
+35. Evanescence
+36. Muse
+37. Pink Floyd
+38. U2
+39. 30 Seconds to Mars
+40. Duran Duran
+41. Coldplay
+42. Blur
+43. Arctic Monkeys
+44. Placebo
+45. The Killers
+46. Nirvana
+47. Iron Maiden
+48. Led Zeppelin
+49. Metallica
+50. Michael Jackson

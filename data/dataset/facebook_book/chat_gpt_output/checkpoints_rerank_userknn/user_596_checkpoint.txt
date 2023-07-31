@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter (series)
+2. The Lord of the Rings
+3. The Da Vinci Code
+4. Angels & Demons
+5. Memoirs of a Geisha
+6. Les Misérables
+7. Twilight (series)
+8. Interview with the Vampire
+9. Flowers in the Attic
+10. Johnny Tremain
+11. The Lost Hero
+12. His Dark Materials
+13. Inkheart
+14. The Princess Bride
+15. To Kill a Mockingbird
+16. The Outsiders
+17. The Lovely Bones
+18. Adventures of Huckleberry Finn
+19. The Secret Garden
+20. The Host
+21. Inferno (Dante)
+22. Jaws
+23. Nicholas Nickleby
+24. Never Let Me Go
+25. Brave New World
+26. The Perks of Being a Wallflower
+27. Night
+28. The Scarlet Letter
+29. Pet Sematary
+30. The Phantom Tollbooth
+31. Where the Red Fern Grows
+32. Horrible Histories (book series)
+33. Haunted (Palahniuk novel)
+34. 'Salem's Lot
+35. Night World
+36. Tithe: A Modern Faerie Tale
+37. Holes (novel)
+38. Witch & Wizard
+39. Necronomicon: The Best Weird Tales of H. P. Lovecraft: Commemorative Edition
+40. At the Mountains of Madness
+41. Insomnia (novel)
+42. Glass (novel)
+43. Malory Towers
+44. The Phantom of the Opera
+45. Mythology (book)
+46. Dark Prince
+47. The Diary of a Young Girl
+48. Johnny the Homicidal Maniac
+49. Jane Eyre
+50. Where the Sidewalk Ends (book)

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games (series) by Suzanne Collins
+2. Harry Potter (series) by J.K. Rowling
+3. The Fault in Our Stars by John Green
+4. Divergent (series) by Veronica Roth
+5. The Girl with the Dragon Tattoo by Stieg Larsson
+6. The Da Vinci Code by Dan Brown
+7. The Lord of the Rings (series) by J.R.R. Tolkien
+8. The Hobbit by J.R.R. Tolkien
+9. The Chronicles of Narnia (series) by C.S. Lewis
+10. The Catcher in the Rye by J.D. Salinger
+11. To Kill a Mockingbird by Harper Lee
+12. The Great Gatsby by F. Scott Fitzgerald
+13. 1984 by George Orwell
+14. Animal Farm by George Orwell
+15. Brave New World by Aldous Huxley
+16. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+17. The Shining by Stephen King
+18. The Stand by Stephen King
+19. The Dark Tower (series) by Stephen King
+20. The Silence of the Lambs by Thomas Harris
+21. The Girl on the Train by Paula Hawkins
+22. Gone Girl by Gillian Flynn
+23. The Help by Kathryn Stockett
+24. The Kite Runner by Khaled Hosseini
+25. A Thousand Splendid Suns by Khaled Hosseini
+26. The Alchemist by Paulo Coelho
+27. The Picture of Dorian Gray by Oscar Wilde
+28. The Count of Monte Cristo by Alexandre Dumas
+29. Les Misérables by Victor Hugo
+30. The Three Musketeers by Alexandre Dumas
+31. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+32. The Hound of the Baskervilles by Arthur Conan Doyle
+33. The Time Machine by H.G. Wells
+34. War of the Worlds by H.G. Wells
+35. The Invisible Man by H.G. Wells
+36. The Island of Dr. Moreau by H.G. Wells
+37. The War of the Worlds by H.G. Wells
+38. The Martian Chronicles by Ray Bradbury
+39. Fahrenheit 451 by Ray Bradbury
+40. The Catch-22 by Joseph Heller
+41. Slaughterhouse-Five by Kurt Vonnegut
+42. Cat's Cradle by Kurt Vonnegut
+43. The Bell Jar by Sylvia Plath
+44. One Hundred Years of Solitude by Gabriel García Márquez
+45. Love in the Time of Cholera by Gabriel García Márquez
+46. The Name of the Rose by Umberto Eco
+47. The Pillars of the Earth by Ken Follett
+48. The Clan of the Cave Bear by Jean M. A
+49. The Bell Jar by Sylvia Plath
+50. The Wise Man's Fear by Patrick Rothfuss

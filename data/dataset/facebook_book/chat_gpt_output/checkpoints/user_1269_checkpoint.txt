@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Fight Club by Chuck Palahniuk
+2. The Road by Cormac McCarthy
+3. The Catcher in the Rye by J.D. Salinger
+4. 1984 by George Orwell
+5. The Bell Jar by Sylvia Plath
+6. The Stranger by Albert Camus
+7. Slaughterhouse-Five by Kurt Vonnegut
+8. The Handmaid's Tale by Margaret Atwood
+9. Brave New World by Aldous Huxley
+10. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+11. The Great Gatsby by F. Scott Fitzgerald
+12. To Kill a Mockingbird by Harper Lee
+13. The Picture of Dorian Gray by Oscar Wilde
+14. The Sun Also Rises by Ernest Hemingway
+15. The Old Man and the Sea by Ernest Hemingway
+16. The Brothers Karamazov by Fyodor Dostoevsky
+17. Crime and Punishment by Fyodor Dostoevsky
+18. Lolita by Vladimir Nabokov
+19. One Flew Over the Cuckoo's Nest by Ken Kesey
+20. The Shining by Stephen King
+21. The Stand by Stephen King
+22. The Dark Tower series by Stephen King
+23. The Name of the Wind by Patrick Rothfuss
+24. The Wise Man's Fear by Patrick Rothfuss
+25. The Hunger Games by Suzanne Collins
+26. Catching Fire by Suzanne Collins
+27. Mockingjay by Suzanne Collins
+28. The Girl with the Dragon Tattoo by Stieg Larsson
+29. The Girl Who Played with Fire by Stieg Larsson
+30. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+31. The Da Vinci Code by Dan Brown
+32. Angels and Demons by Dan Brown
+33. Inferno by Dan Brown
+34. The Alchemist by Paulo Coelho
+35. The Picture of Dorian Gray by Oscar Wilde
+36. The Count of Monte Cristo by Alexandre Dumas
+37. Les Misérables by Victor Hugo
+38. The Three Musketeers by Alexandre Dumas
+39. The Hobbit by J.R.R. Tolkien
+40. The Lord of the Rings trilogy by J.R.R. Tolkien
+41. The Chronicles of Narnia series by C.S. Lewis
+42. The Harry Potter series by J.K. Rowling
+43. The Hunger Games trilogy by Suzanne Collins
+44. The Maze Runner series by James Dashner
+45. The Fault in Our Stars by John Green
+46. Looking for Alaska by John Green
+47. Paper Towns by John Green
+48. An Abundance of Katherines by John Green
+49. The Perks of Being a Wallflower by Stephen Chbosky
+50. American Gods by Neil Gaiman

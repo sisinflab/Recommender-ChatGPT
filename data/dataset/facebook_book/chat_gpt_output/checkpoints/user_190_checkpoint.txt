@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Fault in Our Stars by John Green
+4. The Maze Runner by James Dashner
+5. The Giver by Lois Lowry
+6. The Book Thief by Markus Zusak
+7. The Perks of Being a Wallflower by Stephen Chbosky
+8. The Outsiders by S.E. Hinton
+9. The Chronicles of Narnia by C.S. Lewis
+10. Harry Potter and the Philosopher's Stone by J.K. Rowling
+11. The Hobbit by J.R.R. Tolkien
+12. The Lord of the Rings by J.R.R. Tolkien
+13. The Girl with the Dragon Tattoo by Stieg Larsson
+14. The Da Vinci Code by Dan Brown
+15. The Help by Kathryn Stockett
+16. The Secret Life of Bees by Sue Monk Kidd
+17. The Color Purple by Alice Walker
+18. The Joy Luck Club by Amy Tan
+19. The Kite Runner by Khaled Hosseini
+20. The Catcher in the Rye by J.D. Salinger
+21. To Kill a Mockingbird by Harper Lee
+22. The Great Gatsby by F. Scott Fitzgerald
+23. 1984 by George Orwell
+24. Animal Farm by George Orwell
+25. Brave New World by Aldous Huxley
+26. Fahrenheit 451 by Ray Bradbury
+27. One Hundred Years of Solitude by Gabriel Garcia Marquez
+28. Love in the Time of Cholera by Gabriel Garcia Marquez
+29. The Picture of Dorian Gray by Oscar Wilde
+30. The Importance of Being Earnest by Oscar Wilde
+31. Pride and Prejudice by Jane Austen
+32. Sense and Sensibility by Jane Austen
+33. Emma by Jane Austen
+34. Persuasion by Jane Austen
+35. Wuthering Heights by Emily Bronte
+36. Jane Eyre by Charlotte Bronte
+37. Rebecca by Daphne du Maurier
+38. Gone with the Wind by Margaret Mitchell
+39. The Bridges of Madison County by Robert James Waller
+40. The Notebook by Nicholas Sparks
+41. A Walk to Remember by Nicholas Sparks
+42. The Time Traveler's Wife by Audrey Niffenegger
+43. Water for Elephants by Sara Gruen
+44. The Lovely Bones by Alice Sebold
+45. The Alchemist by Paulo Coelho
+46. Life of Pi by Yann Martel
+47. The Road by Cormac McCarthy
+48. The Old Man and the Sea by Ernest Hemingway
+49. The Sun Also Rises by Ernest Hemingway
+50. For Whom the Bell Tolls by Ernest Hemingway

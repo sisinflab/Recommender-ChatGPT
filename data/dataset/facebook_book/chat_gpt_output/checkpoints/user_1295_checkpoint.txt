@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Slaughterhouse-Five by Kurt Vonnegut
+3. To Kill a Mockingbird by Harper Lee
+4. The Bell Jar by Sylvia Plath
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Stranger by Albert Camus
+7. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+8. The Road by Cormac McCarthy
+9. The Sun Also Rises by Ernest Hemingway
+10. The Picture of Dorian Gray by Oscar Wilde
+11. The Brothers Karamazov by Fyodor Dostoevsky
+12. Crime and Punishment by Fyodor Dostoevsky
+13. The Trial by Franz Kafka
+14. The Metamorphosis by Franz Kafka
+15. The Plague by Albert Camus
+16. The Sound and the Fury by William Faulkner
+17. The Grapes of Wrath by John Steinbeck
+18. The Old Man and the Sea by Ernest Hemingway
+19. Heart of Darkness by Joseph Conrad
+20. Lord of the Flies by William Golding
+21. Brave New World by Aldous Huxley
+22. The Handmaid's Tale by Margaret Atwood
+23. The Martian Chronicles by Ray Bradbury
+24. The Chronicles of Narnia by C.S. Lewis
+25. The Lord of the Rings by J.R.R. Tolkien
+26. The Hobbit by J.R.R. Tolkien
+27. The Catcher in the Rye by J.D. Salinger
+28. The Great Gatsby by F. Scott Fitzgerald
+29. Fahrenheit 451 by Ray Bradbury
+30. Animal Farm by George Orwell
+31. The Fountainhead by Ayn Rand
+32. Atlas Shrugged by Ayn Rand
+33. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+34. The War of the Worlds by H.G. Wells
+35. The Time Machine by H.G. Wells
+36. The Invisible Man by H.G. Wells
+37. The Island of Dr. Moreau by H.G. Wells
+38. The Call of the Wild by Jack London
+39. White Fang by Jack London
+40. The Adventures of Tom Sawyer by Mark Twain
+41. The Adventures of Huckleberry Finn by Mark Twain
+42. The Canterbury Tales by Geoffrey Chaucer
+43. The Divine Comedy by Dante Alighieri
+44. The Iliad by Homer
+45. The Odyssey by Homer
+46. The Aeneid by Virgil
+47. The Inferno by Dante Alighieri
+48. The Divine Comedy by Dante Alighieri
+49. The Republic by Plato
+50. The Symposium by Plato

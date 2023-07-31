@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. One Hundred Years of Solitude by Gabriel Garcia Marquez
+5. The Bell Jar by Sylvia Plath
+6. The Picture of Dorian Gray by Oscar Wilde
+7. The Sun Also Rises by Ernest Hemingway
+8. The Grapes of Wrath by John Steinbeck
+9. The Color Purple by Alice Walker
+10. The Handmaid's Tale by Margaret Atwood
+11. The Lord of the Rings by J.R.R. Tolkien
+12. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+13. The Alchemist by Paulo Coelho
+14. The Secret History by Donna Tartt
+15. The Road by Cormac McCarthy
+16. The Stranger by Albert Camus
+17. The Brothers Karamazov by Fyodor Dostoevsky
+18. Crime and Punishment by Fyodor Dostoevsky
+19. The Trial by Franz Kafka
+20. The Metamorphosis by Franz Kafka
+21. The Picture of Dorian Gray by Oscar Wilde
+22. The Great Gatsby by F. Scott Fitzgerald
+23. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+24. The Adventures of Tom Sawyer by Mark Twain
+25. The War of the Worlds by H.G. Wells
+26. The Time Machine by H.G. Wells
+27. The Martian Chronicles by Ray Bradbury
+28. Fahrenheit 451 by Ray Bradbury
+29. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+30. The Hobbit by J.R.R. Tolkien
+31. The Lord of the Rings by J.R.R. Tolkien
+32. The Chronicles of Narnia by C.S. Lewis
+33. The Hunger Games by Suzanne Collins
+34. The Girl with the Dragon Tattoo by Stieg Larsson
+35. The Da Vinci Code by Dan Brown
+36. The Name of the Rose by Umberto Eco
+37. The Shadow of the Wind by Carlos Ruiz Zafón
+38. The Kite Runner by Khaled Hosseini
+39. The God of Small Things by Arundhati Roy
+40. The Joy Luck Club by Amy Tan
+41. The Help by Kathryn Stockett
+42. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+43. The Glass Castle by Jeannette Walls
+44. The Poisonwood Bible by Barbara Kingsolver
+45. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+46. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+47. The Road by Cormac McCarthy
+48. The Handmaid's Tale by Margaret
+49. The Bell Jar by Sylvia Plath
+50. The Wise Man's Fear by Patrick Rothfuss

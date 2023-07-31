@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Graveyard Book by Neil Gaiman
+2. Coraline by Neil Gaiman
+3. The Hunger Games by Suzanne Collins
+4. The Chronicles of Narnia by C.S. Lewis
+5. Harry Potter and the Philosopher's Stone by J.K. Rowling
+6. The Hobbit by J.R.R. Tolkien
+7. The Lord of the Rings by J.R.R. Tolkien
+8. The Golden Compass by Philip Pullman
+9. Eragon by Christopher Paolini
+10. Inkheart by Cornelia Funke
+11. The Name of the Wind by Patrick Rothfuss
+12. The Lies of Locke Lamora by Scott Lynch
+13. Mistborn by Brandon Sanderson
+14. The Way of Kings by Brandon Sanderson
+15. The Final Empire by Brandon Sanderson
+16. The Eye of the World by Robert Jordan
+17. The Gunslinger by Stephen King
+18. The Dark Tower by Stephen King
+19. The Stand by Stephen King
+20. The Shining by Stephen King
+21. The Girl with the Dragon Tattoo by Stieg Larsson
+22. The Da Vinci Code by Dan Brown
+23. Angels and Demons by Dan Brown
+24. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+25. The Catcher in the Rye by J.D. Salinger
+26. To Kill a Mockingbird by Harper Lee
+27. 1984 by George Orwell
+28. Animal Farm by George Orwell
+29. Brave New World by Aldous Huxley
+30. Fahrenheit 451 by Ray Bradbury
+31. The Martian by Andy Weir
+32. Ready Player One by Ernest Cline
+33. The Maze Runner by James Dashner
+34. Divergent by Veronica Roth
+35. The Fault in Our Stars by John Green
+36. The Book Thief by Markus Zusak
+37. The Alchemist by Paulo Coelho
+38. The Picture of Dorian Gray by Oscar Wilde
+39. Dracula by Bram Stoker
+40. Frankenstein by Mary Shelley
+41. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+42. The War of the Worlds by H.G. Wells
+43. The Time Machine by H.G. Wells
+44. The Invisible Man by H.G. Wells
+45. The Island of Dr. Moreau by H.G. Wells
+46. The Call of Cthulhu by H.P. Lovecraft
+47. The Shadow Over Innsmouth by H.P. Lovecraft
+48. At the Mountains of Madness by H.P. Lovecraft
+49. The Dunwich Horror by H.P. Lovecraft
+50. The Colour Out of Space by H.P. Lovecraft

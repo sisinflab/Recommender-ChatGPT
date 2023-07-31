@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Dream Theater
+2. Opeth
+3. Sonata Arctica
+4. In Flames
+5. Dark Tranquillity
+6. Pain of Salvation
+7. Stratovarius
+8. Nevermore
+9. Arch Enemy
+10. Apocalyptica
+11. Blind Guardian
+12. Slipknot
+13. System of a Down
+14. Therion
+15. Linkin Park
+16. Breaking Benjamin
+17. Dimmu Borgir
+18. Evanescence
+19. Wolfgang Amadeus Mozart
+20. The Beatles
+21. Metallica
+22. Iron Maiden
+23. Nirvana
+24. Pearl Jam
+25. Led Zeppelin
+26. Michael Jackson
+27. Muse
+28. U2
+29. Pink Floyd
+30. Radiohead
+31. Nine Inch Nails
+32. Arctic Monkeys
+33. Placebo
+34. The Killers
+35. My Chemical Romance
+36. Green Day
+37. Avenged Sevenfold
+38. Black Eyed Peas
+39. P!nk
+40. Ke$ha
+41. Katy Perry
+42. Lady Gaga
+43. Rihanna
+44. Beyoncé
+45. Shakira
+46. Madonna
+47. Christina Aguilera
+48. Paramore
+49. Taylor Swift
+50. Kelly Clarkson

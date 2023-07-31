@@ -1,0 +1,54 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. Bob Dylan
+3. Neil Young
+4. The Beatles
+5. Elliott Smith
+6. Johnny Cash
+7. The Magnetic Fields
+8. Belle and Sebastian
+9. Brian Eno
+10. Broken Social Scene
+11. Antônio Carlos Jobim
+12. Chico Buarque
+13. God Is an Astronaut
+14. Vanguart
+15. Simon & Garfunkel
+16. Os Mutantes
+17. They Might Be Giants
+18. The Decemberists
+19. Built to Spill
+20. Jimi Hendrix
+21. The Cure
+22. Muse
+23. Pink Floyd
+24. Nirvana
+25. Led Zeppelin
+26. Metallica
+27. Michael Jackson
+28. Pearl Jam
+29. Björk
+30. System of a Down
+31. Nine Inch Nails
+32. Linkin Park
+33. Iron Maiden
+34. Placebo
+35. Arctic Monkeys
+36. Duran Duran
+37. Coldplay
+38. Blur
+39. The Killers
+40. Amy Winehouse
+41. Daft Punk
+42. U2
+43. Ke$ha
+44. Lady Gaga
+45. Madonna
+46. Rihanna
+47. Shakira
+48. Christina Aguilera
+49. Katy Perry
+50. Taylor Swift
+
+Note: The artists that were not mentioned in the user's preferences were not included in the recommendations.

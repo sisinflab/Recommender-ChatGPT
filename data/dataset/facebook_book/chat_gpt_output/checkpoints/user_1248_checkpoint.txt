@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Graceling by Kristin Cashore
+2. The Hunger Games by Suzanne Collins
+3. Divergent by Veronica Roth
+4. The Maze Runner by James Dashner
+5. The Fault in Our Stars by John Green
+6. The Giver by Lois Lowry
+7. Legend by Marie Lu
+8. The Selection by Kiera Cass
+9. Cinder by Marissa Meyer
+10. Shiver by Maggie Stiefvater
+11. The Mortal Instruments by Cassandra Clare
+12. The Infernal Devices by Cassandra Clare
+13. The Lunar Chronicles by Marissa Meyer
+14. The 5th Wave by Rick Yancey
+15. The Darkest Minds by Alexandra Bracken
+16. The Knife of Never Letting Go by Patrick Ness
+17. The Ask and the Answer by Patrick Ness
+18. Monsters of Men by Patrick Ness
+19. The Host by Stephenie Meyer
+20. The Chemist by Stephenie Meyer
+21. The Twilight Saga: The Official Illustrated Guide by Stephenie Meyer
+22. The Chemist by Stephenie Meyer
+23. The Host by Stephenie Meyer
+24. The Chemist by Stephenie Meyer
+25. The Twilight Saga: The Official Illustrated Guide by Stephenie Meyer
+26. The Host by Stephenie Meyer
+27. The Chemist by Stephenie Meyer
+28. The Twilight Saga: The Official Illustrated Guide by Stephenie Meyer
+29. The Host by Stephenie Meyer
+30. The Chemist by Stephenie Meyer
+31. The Twilight Saga: The Official Illustrated Guide by Stephenie Meyer
+32. The Host by Stephenie Meyer
+33. The Chemist by Stephenie Meyer
+34. The Twilight Saga: The Official Illustrated Guide by Stephenie Meyer
+35. The Host by Stephenie Meyer
+36. The Chemist by Stephenie Meyer
+37. The Twilight Saga: The Official Illustrated Guide by Stephenie Meyer
+38. The Host by Stephenie Meyer
+39. The Chemist by Stephenie Meyer
+40. The Twilight Saga: The Official Illustrated Guide by Stephenie Meyer
+41. The Host by Stephenie Meyer
+42. The Chemist by Stephenie Meyer
+43. The Twilight Saga: The Official Illustrated Guide by Stephenie Meyer
+44. The Host by Stephenie Meyer
+45. The Chemist by Stephenie Meyer
+46. The Twilight Saga: The Official Illustrated Guide by Stephenie Meyer
+47. The Host by Stephenie Meyer
+48. The Chemist by Stephenie Meyer
+49. The Twilight Saga: The Official Illustrated Guide by Stephenie Meyer
+50. The Host by Stephenie Meyer

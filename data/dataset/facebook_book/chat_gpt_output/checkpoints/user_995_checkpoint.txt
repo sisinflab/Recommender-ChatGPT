@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. Pride and Prejudice by Jane Austen
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Animal Farm by George Orwell
+7. The Picture of Dorian Gray by Oscar Wilde
+8. The Hobbit by J.R.R. Tolkien
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Hunger Games by Suzanne Collins
+11. The Fault in Our Stars by John Green
+12. The Book Thief by Markus Zusak
+13. The Kite Runner by Khaled Hosseini
+14. The Alchemist by Paulo Coelho
+15. The Da Vinci Code by Dan Brown
+16. The Girl on the Train by Paula Hawkins
+17. The Help by Kathryn Stockett
+18. The Secret Life of Bees by Sue Monk Kidd
+19. The Time Traveler's Wife by Audrey Niffenegger
+20. The Lovely Bones by Alice Sebold
+21. The Bell Jar by Sylvia Plath
+22. The Road by Cormac McCarthy
+23. The Handmaid's Tale by Margaret Atwood
+24. The Stand by Stephen King
+25. The Shining by Stephen King
+26. The Silence of the Lambs by Thomas Harris
+27. The Girl with the Dragon Tattoo by Stieg Larsson
+28. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+29. The Martian by Andy Weir
+30. The Name of the Wind by Patrick Rothfuss
+31. The Shadow of the Wind by Carlos Ruiz Zafón
+32. The Book of Lost Things by John Connolly
+33. The Thirteenth Tale by Diane Setterfield
+34. The Nightingale by Kristin Hannah
+35. The Help by Kathryn Stockett
+36. The Secret Life of Bees by Sue Monk Kidd
+37. The Time Traveler's Wife by Audrey Niffenegger
+38. The Lovely Bones by Alice Sebold
+39. The Bell Jar by Sylvia Plath
+40. The Road by Cormac McCarthy
+41. The Handmaid's Tale by Margaret Atwood
+42. The Stand by Stephen King
+43. The Shining by Stephen King
+44. The Silence of the Lambs by Thomas Harris
+45. The Girl with the Dragon Tattoo by Stieg Larsson
+46. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+47. The Martian by Andy Weir
+48. The Name of the Wind by Patrick Rothfuss
+49. The Shadow of the Wind by Carlos Ruiz Zafón
+50. The Book of Lost Things by John Connolly

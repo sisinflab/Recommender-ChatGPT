@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Fault in Our Stars by John Green
+2. The Hunger Games by Suzanne Collins
+3. Divergent by Veronica Roth
+4. The Notebook by Nicholas Sparks
+5. The Girl on the Train by Paula Hawkins
+6. Me Before You by Jojo Moyes
+7. The Help by Kathryn Stockett
+8. Gone Girl by Gillian Flynn
+9. The Maze Runner by James Dashner
+10. The Da Vinci Code by Dan Brown
+11. The Alchemist by Paulo Coelho
+12. The Catcher in the Rye by J.D. Salinger
+13. The Great Gatsby by F. Scott Fitzgerald
+14. To Kill a Mockingbird by Harper Lee
+15. The Kite Runner by Khaled Hosseini
+16. The Book Thief by Markus Zusak
+17. The Lovely Bones by Alice Sebold
+18. The Time Keeper by Mitch Albom
+19. The Five People You Meet in Heaven by Mitch Albom
+20. The Shack by William P. Young
+21. The Help by Kathryn Stockett
+22. The Secret Life of Bees by Sue Monk Kidd
+23. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+24. The Glass Castle by Jeannette Walls
+25. The Color Purple by Alice Walker
+26. The Joy Luck Club by Amy Tan
+27. The Bridges of Madison County by Robert James Waller
+28. The Notebook by Nicholas Sparks
+29. A Walk to Remember by Nicholas Sparks
+30. The Last Song by Nicholas Sparks
+31. Safe Haven by Nicholas Sparks
+32. The Lucky One by Nicholas Sparks
+33. The Best of Me by Nicholas Sparks
+34. The Longest Ride by Nicholas Sparks
+35. The Choice by Nicholas Sparks
+36. The Twilight Saga by Stephenie Meyer
+37. The Lord of the Rings by J.R.R. Tolkien
+38. The Hobbit by J.R.R. Tolkien
+39. The Chronicles of Narnia by C.S. Lewis
+40. The Hunger Games Trilogy by Suzanne Collins
+41. The Maze Runner Trilogy by James Dashner
+42. The Divergent Trilogy by Veronica Roth
+43. The Giver by Lois Lowry
+44. The Outsiders by S.E. Hinton
+45. The Fault in Our Stars by John Green
+46. Looking for Alaska by John Green
+47. Paper Towns by John Green
+48. An Abundance of Katherines by John Green
+49. Will Grayson, Will Grayson by John Green and David Levithan
+50. Eleanor & Park by Rainbow Rowell

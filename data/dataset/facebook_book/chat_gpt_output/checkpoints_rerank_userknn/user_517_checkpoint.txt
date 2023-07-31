@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Jane Eyre by Charlotte Brontë
+2. A Tale of Two Cities by Charles Dickens
+3. Little Women by Louisa May Alcott
+4. Sense and Sensibility by Jane Austen
+5. The Catcher in the Rye by J. D. Salinger
+6. The Lord of the Rings by J.R.R. Tolkien
+7. The Hunger Games by Suzanne Collins
+8. To Kill a Mockingbird by Harper Lee
+9. Les Misérables by Victor Hugo
+10. The Giver by Lois Lowry
+11. Wuthering Heights by Emily Brontë
+12. The Scarlet Letter by Nathaniel Hawthorne
+13. Harry Potter by J.K. Rowling
+14. Mansfield Park by Jane Austen
+15. The Princess Bride by William Goldman
+16. Dracula by Bram Stoker
+17. A Christmas Carol by Charles Dickens
+18. The Witch of Portobello by Paulo Coelho
+19. The Notebook by Nicholas Sparks
+20. The Joy Luck Club by Amy Tan
+21. Inferno by Dante Alighieri
+22. The Taming of the Shrew by William Shakespeare
+23. The Merchant of Venice by William Shakespeare
+24. A Midsummer Night's Dream by William Shakespeare
+25. Leaving a Doll's House: A Memoir by Claire Bloom
+26. Just Kids by Patti Smith
+27. Nine Princes in Amber by Roger Zelazny
+28. Crime and Punishment by Fyodor Dostoevsky
+29. The Book Thief by Markus Zusak
+30. Persepolis by Marjane Satrapi
+31. Uncle Tom's Cabin by Harriet Beecher Stowe
+32. Gone with the Wind by Margaret Mitchell
+33. Angela's Ashes by Frank McCourt
+34. Vanity Fair by William Makepeace Thackeray
+35. The Color of Water by James McBride
+36. The Zahir by Paulo Coelho
+37. Twilight by Stephenie Meyer
+38. Eldest by Christopher Paolini
+39. The Messenger by Markus Zusak
+40. Shopaholic by Sophie Kinsella
+41. Percy Jackson & the Olympians by Rick Riordan
+42. Kane and Abel by Jeffrey Archer
+43. Macbeth by William Shakespeare
+44. The Sisterhood of the Traveling Pants by Ann Brashares
+45. Eat, Pray, Love by Elizabeth Gilbert
+46. Project 17 by Laurie Faria Stolarz
+47. Where the Sidewalk Ends by Shel Silverstein
+48. By the River Piedra I Sat Down and Wept by Paulo Coelho
+49. The Umbrella Academy by Gerard Way
+50. Doppelganger by David Stahler Jr.

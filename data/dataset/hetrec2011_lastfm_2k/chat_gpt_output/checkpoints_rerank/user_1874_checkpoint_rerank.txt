@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Boards of Canada
+2. Amon Tobin
+3. Flying Lotus
+4. MF DOOM
+5. Prefuse 73
+6. Eluvium
+7. Tim Hecker
+8. Stars of the Lid
+9. The American Dollar
+10. Hammock
+11. Ghostface Killah
+12. Nas
+13. The Horrors
+14. Beck
+15. Autechre
+16. Radiohead
+17. Pink Floyd
+18. Muse
+19. Nirvana
+20. Led Zeppelin
+21. Metallica
+22. Iron Maiden
+23. Pearl Jam
+24. Nine Inch Nails
+25. Daft Punk
+26. Linkin Park
+27. The Beatles
+28. U2
+29. Coldplay
+30. Blur
+31. Arctic Monkeys
+32. Placebo
+33. The Killers
+34. Michael Jackson
+35. Madonna
+36. Beyoncé
+37. Lady Gaga
+38. Christina Aguilera
+39. Rihanna
+40. Shakira
+41. Katy Perry
+42. Taylor Swift
+43. Avril Lavigne
+44. Evanescence
+45. Glee Cast
+46. Ke$ha
+47. Duran Duran
+48. Kylie Minogue
+49. Miley Cyrus
+50. Amy Winehouse

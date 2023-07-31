@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Depeche Mode
+2. Pink Floyd
+3. Nine Inch Nails
+4. Enigma
+5. Pet Shop Boys
+6. Recoil
+7. IAMX
+8. Vangelis
+9. Gary Numan
+10. Electronic
+11. Mesh
+12. The Human League
+13. Eurythmics
+14. Soft Cell
+15. Madonna
+16. Alphaville
+17. Hooverphonic
+18. Camouflage
+19. Tears for Fears
+20. Erasure
+21. Primal Scream
+22. Delerium
+23. George Michael
+24. Underworld
+25. Lamb
+26. Annie Lennox
+27. Garbage
+28. Front 242
+29. Aphex Twin
+30. Radiohead
+31. Björk
+32. Muse
+33. The Beatles
+34. Led Zeppelin
+35. Michael Jackson
+36. Pearl Jam
+37. Iron Maiden
+38. Metallica
+39. Nirvana
+40. System of a Down
+41. Daft Punk
+42. Linkin Park
+43. Avenged Sevenfold
+44. Black Eyed Peas
+45. My Chemical Romance
+46. Green Day
+47. The Cure
+48. Arctic Monkeys
+49. Placebo
+50. The Killers

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Opeth
+2. Katatonia
+3. Porcupine Tree
+4. God Is an Astronaut
+5. Massive Attack
+6. Boards of Canada
+7. Dark Tranquillity
+8. In Flames
+9. Sigur Rós
+10. Anathema
+11. Infected Mushroom
+12. Radiohead
+13. Deftones
+14. Metallica
+15. Megadeth
+16. Muse
+17. Pink Floyd
+18. Iron Maiden
+19. Nirvana
+20. Led Zeppelin
+21. Pearl Jam
+22. Nine Inch Nails
+23. System of a Down
+24. Linkin Park
+25. Avenged Sevenfold
+26. Green Day
+27. My Chemical Romance
+28. The Killers
+29. Coldplay
+30. Arctic Monkeys
+31. Placebo
+32. Duran Duran
+33. Blur
+34. Michael Jackson
+35. Madonna
+36. Beyoncé
+37. Lady Gaga
+38. Rihanna
+39. Shakira
+40. Christina Aguilera
+41. Katy Perry
+42. Taylor Swift
+43. Ke$ha
+44. Britney Spears
+45. Kelly Clarkson
+46. P!nk
+47. Black Eyed Peas
+48. Daft Punk
+49. Kylie Minogue
+50. Glee Cast

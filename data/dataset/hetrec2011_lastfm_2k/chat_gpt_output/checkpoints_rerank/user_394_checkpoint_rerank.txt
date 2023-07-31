@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Bob Marley
+2. Led Zeppelin
+3. Cássia Eller
+4. Raimundos
+5. Jorge & Mateus
+6. Raul Seixas
+7. Charlie Brown Jr.
+8. Aerosmith
+9. Maria Rita
+10. Rush
+11. Janis Joplin
+12. Bob Marley & The Wailers
+13. Nirvana
+14. Metallica
+15. Iron Maiden
+16. Pearl Jam
+17. The Beatles
+18. Muse
+19. Pink Floyd
+20. Radiohead
+21. U2
+22. Coldplay
+23. The Killers
+24. System of a Down
+25. Linkin Park
+26. Nine Inch Nails
+27. Green Day
+28. My Chemical Romance
+29. Placebo
+30. Arctic Monkeys
+31. Blur
+32. Evanescence
+33. Avenged Sevenfold
+34. Michael Jackson
+35. Beyoncé
+36. Madonna
+37. Lady Gaga
+38. Christina Aguilera
+39. Rihanna
+40. Shakira
+41. Katy Perry
+42. Taylor Swift
+43. Ke$ha
+44. Black Eyed Peas
+45. P!nk
+46. Paramore
+47. Avril Lavigne
+48. Miley Cyrus
+49. Kelly Clarkson
+50. Glee Cast

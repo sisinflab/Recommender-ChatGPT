@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. To Kill a Mockingbird by Harper Lee
+3. 1984 by George Orwell
+4. The Great Gatsby by F. Scott Fitzgerald
+5. The Picture of Dorian Gray by Oscar Wilde
+6. The Lord of the Rings by J.R.R. Tolkien
+7. The Hunger Games by Suzanne Collins
+8. The Girl with the Dragon Tattoo by Stieg Larsson
+9. The Da Vinci Code by Dan Brown
+10. The Time Traveler's Wife by Audrey Niffenegger
+11. The Road by Cormac McCarthy
+12. The Kite Runner by Khaled Hosseini
+13. The Help by Kathryn Stockett
+14. The Fault in Our Stars by John Green
+15. The Book Thief by Markus Zusak
+16. The Secret History by Donna Tartt
+17. The Shadow of the Wind by Carlos Ruiz Zafón
+18. The Name of the Wind by Patrick Rothfuss
+19. The Nightingale by Kristin Hannah
+20. The Alchemist by Paulo Coelho
+21. The Handmaid's Tale by Margaret Atwood
+22. The Bell Jar by Sylvia Plath
+23. The Catcher in the Rye by J.D. Salinger
+24. Jane Eyre by Charlotte Brontë
+25. Wuthering Heights by Emily Brontë
+26. The Hobbit by J.R.R. Tolkien
+27. Alice's Adventures in Wonderland by Lewis Carroll
+28. The Host by Stephenie Meyer
+29. Angels & Demons by Dan Brown
+30. The Girl on the Train by Paula Hawkins
+31. Gone Girl by Gillian Flynn
+32. The Martian by Andy Weir
+33. The Shining by Stephen King
+34. The Stand by Stephen King
+35. The Silence of the Lambs by Thomas Harris
+36. The Bourne Identity by Robert Ludlum
+37. The Godfather by Mario Puzo
+38. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+39. The Chronicles of Narnia by C.S. Lewis
+40. The Dark Tower series by Stephen King
+41. The Wheel of Time series by Robert Jordan
+42. The Dresden Files series by Jim Butcher
+43. The Mistborn series by Brandon Sanderson
+44. The Kingkiller Chronicle series by Patrick Rothfuss
+45. The Stormlight Archive series by Brandon Sanderson
+46. The Malazan Book of the Fallen series by Steven Erikson
+47. The First Law trilogy by Joe Abercrombie
+48. The Lies of Locke Lamora by Scott Lynch
+49. The Blade Itself by Joe Abercrombie
+50. The Way of Kings by Brandon Sanderson

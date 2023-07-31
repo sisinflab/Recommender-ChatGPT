@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. Emma by Jane Austen
+3. Persuasion by Jane Austen
+4. Northanger Abbey by Jane Austen
+5. Robinson Crusoe by Daniel Defoe
+6. Moll Flanders by Daniel Defoe
+7. A Modest Proposal by Jonathan Swift
+8. Candide by Voltaire
+9. Wuthering Heights by Emily Bronte
+10. The Picture of Dorian Gray by Oscar Wilde
+11. The Importance of Being Earnest by Oscar Wilde
+12. The Great Gatsby by F. Scott Fitzgerald
+13. To Kill a Mockingbird by Harper Lee
+14. The Adventures of Huckleberry Finn by Mark Twain
+15. The Adventures of Tom Sawyer by Mark Twain
+16. The Scarlet Letter by Nathaniel Hawthorne
+17. The Grapes of Wrath by John Steinbeck
+18. Of Mice and Men by John Steinbeck
+19. The Old Man and the Sea by Ernest Hemingway
+20. For Whom the Bell Tolls by Ernest Hemingway
+21. The Sun Also Rises by Ernest Hemingway
+22. The Sound and the Fury by William Faulkner
+23. As I Lay Dying by William Faulkner
+24. The Catch-22 by Joseph Heller
+25. Slaughterhouse-Five by Kurt Vonnegut
+26. The Bell Jar by Sylvia Plath
+27. The Handmaid's Tale by Margaret Atwood
+28. 1984 by George Orwell
+29. Animal Farm by George Orwell
+30. Brave New World by Aldous Huxley
+31. One Hundred Years of Solitude by Gabriel Garcia Marquez
+32. Love in the Time of Cholera by Gabriel Garcia Marquez
+33. Crime and Punishment by Fyodor Dostoevsky
+34. The Brothers Karamazov by Fyodor Dostoevsky
+35. Anna Karenina by Leo Tolstoy
+36. War and Peace by Leo Tolstoy
+37. The Count of Monte Cristo by Alexandre Dumas
+38. Les Miserables by Victor Hugo
+39. The Three Musketeers by Alexandre Dumas
+40. The Lord of the Rings by J.R.R. Tolkien
+41. The Hobbit by J.R.R. Tolkien
+42. The Chronicles of Narnia by C.S. Lewis
+43. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+44. The Da Vinci Code by Dan Brown
+45. Angels and Demons by Dan Brown
+46. The Girl with the Dragon Tattoo by Stieg Larsson
+47. The Hunger Games by Suzanne Collins
+48. Harry Potter and the Philosopher's Stone by J.K. Rowling
+49. The Name of the Wind

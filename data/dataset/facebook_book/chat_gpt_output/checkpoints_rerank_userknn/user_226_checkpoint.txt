@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter by J.K. Rowling
+2. The Hunger Games by Suzanne Collins
+3. Vampire Academy by Richelle Mead
+4. City of Glass by Cassandra Clare
+5. Catching Fire by Suzanne Collins
+6. The Book Thief by Markus Zusak
+7. Thirteen Reasons Why by Jay Asher
+8. Paper Towns by John Green
+9. The Perks of Being a Wallflower by Stephen Chbosky
+10. Looking for Alaska by John Green
+11. The Secret Life of Bees by Sue Monk Kidd
+12. Middlesex by Jeffrey Eugenides
+13. The Host by Stephenie Meyer
+14. Under the Dome by Stephen King
+15. Extremely Loud and Incredibly Close by Jonathan Safran Foer
+16. The Bell Jar by Sylvia Plath
+17. Romeo and Juliet by William Shakespeare
+18. Wuthering Heights by Emily Bronte
+19. The Catcher in the Rye by J.D. Salinger
+20. Before I Die by Jenny Downham
+21. The Messenger by Markus Zusak
+22. Wake by Lisa McMann
+23. Wintergirls by Laurie Halse Anderson
+24. It's Kind of a Funny Story by Ned Vizzini
+25. The Legend of Sleepy Hollow by Washington Irving
+26. The Chocolate War by Robert Cormier
+27. The Summoning by Kelley Armstrong
+28. The Black Tattoo by Sam Enthoven
+29. The City of Ember by Jeanne DuPrau
+30. The Pigman by Paul Zindel
+31. My Horizontal Life by Chelsea Handler
+32. Fear and Loathing in Las Vegas by Hunter S. Thompson
+33. Garfield by Jim Davis
+34. I Hope They Serve Beer in Hell by Tucker Max
+35. Be More Chill by Ned Vizzini
+36. The Host (novel) by Stephenie Meyer
+37. Wings by Aprilynne Pike
+38. Gingerbread by Rachel Cohn
+39. The Catcher in the Rye by J.D. Salinger
+40. The Messenger by Markus Zusak
+41. Lock and Key by Sarah Dessen
+42. The Chocolate War by Robert Cormier
+43. The Perks of Being a Wallflower by Stephen Chbosky
+44. The Bell Jar by Sylvia Plath
+45. The Legend of Sleepy Hollow by Washington Irving
+46. The Secret Life of Bees by Sue Monk Kidd
+47. Breaking Point by Alex Flinn
+48. Tricks by Ellen Hopkins
+49. Vampire Kisses by Ellen Schreiber
+50. Cut by Patricia McCormick

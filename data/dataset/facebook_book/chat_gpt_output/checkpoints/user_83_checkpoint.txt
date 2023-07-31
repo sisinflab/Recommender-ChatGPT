@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. Sapiens: A Brief History of Humankind by Yuval Noah Harari
+4. The Catcher in the Rye by J.D. Salinger
+5. To Kill a Mockingbird by Harper Lee
+6. The Great Gatsby by F. Scott Fitzgerald
+7. The Lord of the Rings by J.R.R. Tolkien
+8. The Hobbit by J.R.R. Tolkien
+9. The Chronicles of Narnia by C.S. Lewis
+10. The Da Vinci Code by Dan Brown
+11. Angels and Demons by Dan Brown
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Hunger Games by Suzanne Collins
+14. The Road by Cormac McCarthy
+15. The Stand by Stephen King
+16. The Shining by Stephen King
+17. The Dark Tower series by Stephen King
+18. The Hitchhiker's Guide to the Galaxy series by Douglas Adams
+19. The Foundation series by Isaac Asimov
+20. Ender's Game by Orson Scott Card
+21. Dune by Frank Herbert
+22. The Martian by Andy Weir
+23. Ready Player One by Ernest Cline
+24. The Name of the Wind by Patrick Rothfuss
+25. The Wise Man's Fear by Patrick Rothfuss
+26. The Alchemist by Paulo Coelho
+27. The Picture of Dorian Gray by Oscar Wilde
+28. The Count of Monte Cristo by Alexandre Dumas
+29. Les Misérables by Victor Hugo
+30. Crime and Punishment by Fyodor Dostoevsky
+31. The Brothers Karamazov by Fyodor Dostoevsky
+32. One Hundred Years of Solitude by Gabriel Garcia Marquez
+33. Love in the Time of Cholera by Gabriel Garcia Marquez
+34. The Stranger by Albert Camus
+35. The Plague by Albert Camus
+36. The Trial by Franz Kafka
+37. The Metamorphosis by Franz Kafka
+38. The Picture of Dorian Gray by Oscar Wilde
+39. The Importance of Being Earnest by Oscar Wilde
+40. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+41. The Hound of the Baskervilles by Arthur Conan Doyle
+42. The Complete Works of William Shakespeare
+43. The Divine Comedy by Dante Alighieri
+44. The Canterbury Tales by Geoffrey Chaucer
+45. The Iliad by Homer
+46. The Odyssey by Homer
+47. Beowulf by Unknown
+48. The Epic of Gilgamesh by Unknown
+49. The Bible by Various Authors
+50. The Quran by Various Authors

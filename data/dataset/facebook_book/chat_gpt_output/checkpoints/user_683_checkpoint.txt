@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. Brave New World by Aldous Huxley
+3. The Great Gatsby by F. Scott Fitzgerald
+4. Animal Farm by George Orwell
+5. The Hobbit by J.R.R. Tolkien
+6. The Lord of the Rings by J.R.R. Tolkien
+7. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Bell Jar by Sylvia Plath
+10. One Hundred Years of Solitude by Gabriel Garcia Marquez
+11. The Brothers Karamazov by Fyodor Dostoevsky
+12. Crime and Punishment by Fyodor Dostoevsky
+13. The Stranger by Albert Camus
+14. The Sun Also Rises by Ernest Hemingway
+15. The Old Man and the Sea by Ernest Hemingway
+16. The Sound and the Fury by William Faulkner
+17. As I Lay Dying by William Faulkner
+18. Heart of Darkness by Joseph Conrad
+19. Lord of the Flies by William Golding
+20. The Road by Cormac McCarthy
+21. Slaughterhouse-Five by Kurt Vonnegut
+22. Cat's Cradle by Kurt Vonnegut
+23. The Sirens of Titan by Kurt Vonnegut
+24. The Trial by Franz Kafka
+25. The Metamorphosis by Franz Kafka
+26. The Stranger Beside Me by Ann Rule
+27. The Girl with the Dragon Tattoo by Stieg Larsson
+28. The Da Vinci Code by Dan Brown
+29. The Hunger Games by Suzanne Collins
+30. Catching Fire by Suzanne Collins
+31. Mockingjay by Suzanne Collins
+32. The Fault in Our Stars by John Green
+33. Paper Towns by John Green
+34. The Perks of Being a Wallflower by Stephen Chbosky
+35. The Shining by Stephen King
+36. The Stand by Stephen King
+37. It by Stephen King
+38. The Green Mile by Stephen King
+39. The Silence of the Lambs by Thomas Harris
+40. Red Dragon by Thomas Harris
+41. The Girl on the Train by Paula Hawkins
+42. Gone Girl by Gillian Flynn
+43. The Lovely Bones by Alice Sebold
+44. The Help by Kathryn Stockett
+45. The Color Purple by Alice Walker
+46. The Joy Luck Club by Amy Tan
+47. The God of Small Things by Arundhati Roy
+48. The Kite Runner by Khaled Hosseini
+49. A Thousand Splendid Suns by Khaled Hosseini
+50. The Alchemist by Paulo Coelho

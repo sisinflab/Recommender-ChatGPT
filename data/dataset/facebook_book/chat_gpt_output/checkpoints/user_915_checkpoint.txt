@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Fault in Our Stars by John Green
+4. To Kill a Mockingbird by Harper Lee
+5. The Maze Runner by James Dashner
+6. The Book Thief by Markus Zusak
+7. The Giver by Lois Lowry
+8. The Chronicles of Narnia: The Lion, the Witch and the Wardrobe by C.S. Lewis
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Hobbit by J.R.R. Tolkien
+11. The Catcher in the Rye by J.D. Salinger
+12. The Great Gatsby by F. Scott Fitzgerald
+13. The Perks of Being a Wallflower by Stephen Chbosky
+14. The Outsiders by S.E. Hinton
+15. The Secret Life of Bees by Sue Monk Kidd
+16. The Help by Kathryn Stockett
+17. The Girl on the Train by Paula Hawkins
+18. Gone Girl by Gillian Flynn
+19. The Da Vinci Code by Dan Brown
+20. Angels and Demons by Dan Brown
+21. The Girl with the Dragon Tattoo by Stieg Larsson
+22. The Girl Who Played with Fire by Stieg Larsson
+23. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+24. The Alchemist by Paulo Coelho
+25. The Picture of Dorian Gray by Oscar Wilde
+26. The Time Traveler's Wife by Audrey Niffenegger
+27. The Lovely Bones by Alice Sebold
+28. The Kite Runner by Khaled Hosseini
+29. A Thousand Splendid Suns by Khaled Hosseini
+30. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+31. The Help by Kathryn Stockett
+32. The Color Purple by Alice Walker
+33. The Handmaid's Tale by Margaret Atwood
+34. 1984 by George Orwell
+35. Animal Farm by George Orwell
+36. Brave New World by Aldous Huxley
+37. Fahrenheit 451 by Ray Bradbury
+38. The Martian by Andy Weir
+39. Ready Player One by Ernest Cline
+40. Ender's Game by Orson Scott Card
+41. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+42. The Name of the Wind by Patrick Rothfuss
+43. The Wise Man's Fear by Patrick Rothfuss
+44. The Nightingale by Kristin Hannah
+45. The Help by Kathryn Stockett
+46. The Color Purple by Alice Walker
+47. The Handmaid's Tale by Margaret Atwood
+48. 1984 by George Orwell
+49. Animal Farm by George Orwell
+50. Brave New World by Ald

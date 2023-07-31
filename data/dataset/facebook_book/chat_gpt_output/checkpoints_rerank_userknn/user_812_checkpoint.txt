@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Kafka on the Shore by Haruki Murakami
+2. The Wind-Up Bird Chronicle by Haruki Murakami
+3. Sputnik Sweetheart by Haruki Murakami
+4. After Dark by Haruki Murakami
+5. Hard-Boiled Wonderland and the End of the World by Haruki Murakami
+6. Colorless Tsukuru Tazaki and His Years of Pilgrimage by Haruki Murakami
+7. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+8. The Catcher in the Rye by J.D. Salinger
+9. 1984 by George Orwell
+10. Animal Farm by George Orwell
+11. The Hunger Games by Suzanne Collins
+12. Catching Fire by Suzanne Collins
+13. Mockingjay by Suzanne Collins
+14. The Maze Runner by James Dashner
+15. The Scorch Trials by James Dashner
+16. The Death Cure by James Dashner
+17. The Giver by Lois Lowry
+18. Gathering Blue by Lois Lowry
+19. Messenger by Lois Lowry
+20. Son by Lois Lowry
+21. The Lightning Thief by Rick Riordan
+22. The Sea of Monsters by Rick Riordan
+23. The Titan's Curse by Rick Riordan
+24. The Battle of the Labyrinth by Rick Riordan
+25. The Last Olympian by Rick Riordan
+26. Inkheart by Cornelia Funke
+27. Inkspell by Cornelia Funke
+28. Inkdeath by Cornelia Funke
+29. Eragon by Christopher Paolini
+30. Eldest by Christopher Paolini
+31. Brisingr by Christopher Paolini
+32. Inheritance by Christopher Paolini
+33. Twilight by Stephenie Meyer
+34. New Moon by Stephenie Meyer
+35. Eclipse by Stephenie Meyer
+36. Breaking Dawn by Stephenie Meyer
+37. The Host by Stephenie Meyer
+38. The Mortal Instruments series by Cassandra Clare
+39. The Infernal Devices series by Cassandra Clare
+40. The Dark Artifices series by Cassandra Clare
+41. The Hunger Games trilogy by Suzanne Collins
+42. The Divergent trilogy by Veronica Roth
+43. The Maze Runner trilogy by James Dashner
+44. The Percy Jackson and the Olympians series by Rick Riordan
+45. The Heroes of Olympus series by Rick Riordan
+46. The Kane Chronicles series by Rick Riordan
+47. The Secrets of the Immortal Nicholas Flamel series by Michael Scott
+48. The Inheritance Cycle series by Christopher Paolini
+49. The Twilight Saga series by Stephenie Meyer
+50. The Harry Potter series by J.K. Rowling

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Depeche Mode
+2. Ladytron
+3. Client
+4. Perfume
+5. Uffie
+6. Throbbing Gristle
+7. Röyksopp
+8. Christina Aguilera
+9. La Roux
+10. Lily Allen
+11. Recoil
+12. Róisín Murphy
+13. Saint Etienne
+14. Yelle
+15. My Bloody Valentine
+16. Placebo
+17. Jean-Michel Jarre
+18. The Prodigy
+19. Sugababes
+20. Radiohead
+21. Muse
+22. Pink Floyd
+23. Nirvana
+24. Led Zeppelin
+25. Metallica
+26. Michael Jackson
+27. Pearl Jam
+28. Björk
+29. Nine Inch Nails
+30. The Cure
+31. Madonna
+32. Rihanna
+33. Lady Gaga
+34. Beyoncé
+35. Shakira
+36. Katy Perry
+37. Taylor Swift
+38. Evanescence
+39. Glee Cast
+40. U2
+41. 30 Seconds to Mars
+42. Ke$ha
+43. Duran Duran
+44. Coldplay
+45. Blur
+46. Arctic Monkeys
+47. Iron Maiden
+48. Amy Winehouse
+49. Daft Punk
+50. Linkin Park

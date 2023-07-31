@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Green Day
+2. Nirvana
+3. Linkin Park
+4. My Chemical Romance
+5. Rage Against the Machine
+6. AC/DC
+7. Red Hot Chili Peppers
+8. Franz Ferdinand
+9. Oasis
+10. The Strokes
+11. Arctic Monkeys
+12. Kings of Leon
+13. Bloc Party
+14. Keane
+15. Snow Patrol
+16. R.E.M.
+17. Michael Jackson
+18. Madonna
+19. Lady Gaga
+20. Katy Perry
+21. Rihanna
+22. Mariah Carey
+23. Christina Aguilera
+24. Beyoncé
+25. Shakira
+26. Enrique Iglesias
+27. Black Eyed Peas
+28. Calvin Harris
+29. Lily Allen
+30. Florence + the Machine
+31. Bat for Lashes
+32. Amy Winehouse
+33. The Pretty Reckless
+34. Hadouken!
+35. Klaxons
+36. The Kooks
+37. 30 Seconds to Mars
+38. Bring Me The Horizon
+39. Killswitch Engage
+40. Cobra Starship
+41. Demi Lovato
+42. Selena Gomez & the Scene
+43. Taylor Swift
+44. Miley Cyrus
+45. Jonas Brothers
+46. Ashley Tisdale
+47. David Archuleta
+48. Glee Cast
+49. The Pussycat Dolls
+50. Anahí

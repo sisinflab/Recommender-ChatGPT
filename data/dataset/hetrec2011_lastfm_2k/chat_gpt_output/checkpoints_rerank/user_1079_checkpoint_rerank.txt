@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. My Chemical Romance
+2. Paramore
+3. The Beatles
+4. Garbage
+5. Metric
+6. The Raveonettes
+7. The Sounds
+8. Ladytron
+9. Tegan and Sara
+10. The Birthday Massacre
+11. HorrorPops
+12. Eisley
+13. Alkaline Trio
+14. Taking Back Sunday
+15. In This Moment
+16. Manic Street Preachers
+17. The Used
+18. Guns N' Roses
+19. Nightwish
+20. All That Remains
+21. Elliott Smith
+22. Hollywood Undead
+23. Nirvana
+24. Metallica
+25. Iron Maiden
+26. Pearl Jam
+27. System of a Down
+28. Nine Inch Nails
+29. Linkin Park
+30. Avenged Sevenfold
+31. The Cure
+32. Bad Religion
+33. Ani DiFranco
+34. The Brian Jonestown Massacre
+35. Muse
+36. Pink Floyd
+37. Radiohead
+38. Coldplay
+39. Blur
+40. Arctic Monkeys
+41. Placebo
+42. The Killers
+43. U2
+44. Michael Jackson
+45. Madonna
+46. Beyoncé
+47. Christina Aguilera
+48. Lady Gaga
+49. Ke$ha
+50. Katy Perry

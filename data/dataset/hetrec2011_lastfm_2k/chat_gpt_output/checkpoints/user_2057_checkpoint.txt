@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Killers
+2. Muse
+3. Radiohead
+4. Coldplay
+5. Foo Fighters
+6. Green Day
+7. The Strokes
+8. Arctic Monkeys
+9. Weezer
+10. The Black Keys
+11. Death Cab for Cutie
+12. The Postal Service
+13. Vampire Weekend
+14. The Shins
+15. Modest Mouse
+16. Phoenix
+17. The National
+18. Arcade Fire
+19. The White Stripes
+20. Franz Ferdinand
+21. The Raconteurs
+22. The Hives
+23. The Vines
+24. The Bravery
+25. The Libertines
+26. The Kooks
+27. The Fratellis
+28. The Wombats
+29. The Vaccines
+30. The 1975
+31. Two Door Cinema Club
+32. Passion Pit
+33. Foster the People
+34. Imagine Dragons
+35. Of Monsters and Men
+36. Florence + The Machine
+37. Hozier
+38. Lorde
+39. Lana Del Rey
+40. Adele
+41. Ed Sheeran
+42. Sam Smith
+43. Shawn Mendes
+44. Justin Bieber
+45. Ariana Grande
+46. Demi Lovato
+47. Selena Gomez
+48. Camila Cabello
+49. Dua Lipa
+50. Billie Eilish

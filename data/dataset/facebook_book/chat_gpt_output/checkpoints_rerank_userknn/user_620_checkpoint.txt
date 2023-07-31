@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Picture of Dorian Gray by Oscar Wilde
+2. Memoirs of a Geisha by Arthur Golden
+3. At the Mountains of Madness by H. P. Lovecraft
+4. The Zombie Survival Guide by Max Brooks
+5. Go Ask Alice
+6. The Coldest Winter Ever by Sister Souljah
+7. Twilight (series)
+8. Harry Potter (series)
+9. The Perks of Being a Wallflower
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Hobbit by J.R.R. Tolkien
+12. Les Misérables by Victor Hugo
+13. The Hunger Games by Suzanne Collins
+14. The Da Vinci Code by Dan Brown
+15. Inferno by Dante
+16. Frankenstein by Mary Shelley
+17. Brave New World by Aldous Huxley
+18. Fahrenheit 451 by Ray Bradbury
+19. Slaughterhouse-Five by Kurt Vonnegut
+20. Candide by Voltaire
+21. The World According to Garp by John Irving
+22. Lolita by Vladimir Nabokov
+23. The Watchmen by Alan Moore
+24. Dead Until Dark by Charlaine Harris
+25. A Series of Unfortunate Events by Lemony Snicket
+26. Macbeth by William Shakespeare
+27. Jane Eyre by Charlotte Bronte
+28. Flowers in the Attic by V.C. Andrews
+29. The Notebook by Nicholas Sparks
+30. The Fountainhead by Ayn Rand
+31. Angels & Demons by Dan Brown
+32. The Queen of the Damned by Anne Rice
+33. The Pact by Jodi Picoult
+34. The Memory Keeper's Daughter by Kim Edwards
+35. The Chosen by Chaim Potok
+36. Maximum Ride by James Patterson
+37. The Seventh Tower by Garth Nix
+38. The Lost Books by Ted Dekker
+39. The True Game by Sheri S. Tepper
+40. The Hamlet by William Faulkner
+41. Haunted by Chuck Palahniuk
+42. Mirror, Mirror by Gregory Maguire
+43. Garden of Shadows by V.C. Andrews
+44. Darkest Powers by Kelley Armstrong
+45. City of Bones by Cassandra Clare
+46. Evermore by Alyson Noel
+47. Cecilia by Linda Ferri
+48. The Vampire Lestat by Anne Rice
+49. A Lion Among Men by Gregory Maguire
+50. Johnny Tremain by Esther Forbes

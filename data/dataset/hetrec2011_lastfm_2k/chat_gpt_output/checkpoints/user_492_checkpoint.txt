@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Elliott Smith
+2. Belle and Sebastian
+3. Sufjan Stevens
+4. Radiohead
+5. David Bowie
+6. Arcade Fire
+7. The Kinks
+8. The Velvet Underground
+9. Jeff Buckley
+10. The Smiths
+11. Fleet Foxes
+12. Cat Power
+13. The Decemberists
+14. Joanna Newsom
+15. Nick Cave and the Bad Seeds
+16. Leonard Cohen
+17. The Magnetic Fields
+18. Simon & Garfunkel
+19. Bob Dylan
+20. The National
+21. The Shins
+22. Neutral Milk Hotel
+23. The Beatles
+24. Rufus Wainwright
+25. Paul McCartney
+26. Frédéric Chopin
+27. Devendra Banhart
+28. Norah Jones
+29. T. Rex
+30. Ben Folds
+31. They Might Be Giants
+32. The Cure
+33. Miles Davis
+34. Nick Drake
+35. Serge Gainsbourg
+36. Amy Winehouse
+37. Patrick Wolf
+38. Elton John
+39. The Mountain Goats
+40. Scissor Sisters
+41. Czesław Śpiewa
+42. Peter Doherty
+43. Peter Bjorn and John
+44. The Beach Boys
+45. The Rolling Stones
+46. The Who
+47. Led Zeppelin
+48. Pink Floyd
+49. The Doors
+50. Jimi Hendrix

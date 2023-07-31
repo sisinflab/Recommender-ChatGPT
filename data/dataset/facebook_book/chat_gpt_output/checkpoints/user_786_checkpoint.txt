@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Fight Club by Chuck Palahniuk
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. Brave New World by Aldous Huxley
+5. Slaughterhouse-Five by Kurt Vonnegut
+6. The Picture of Dorian Gray by Oscar Wilde
+7. The Road by Cormac McCarthy
+8. The Handmaid's Tale by Margaret Atwood
+9. The Great Gatsby by F. Scott Fitzgerald
+10. To Kill a Mockingbird by Harper Lee
+11. One Hundred Years of Solitude by Gabriel Garcia Marquez
+12. The Bell Jar by Sylvia Plath
+13. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+14. The Stranger by Albert Camus
+15. The Sun Also Rises by Ernest Hemingway
+16. The Shining by Stephen King
+17. The Girl with the Dragon Tattoo by Stieg Larsson
+18. The Hunger Games by Suzanne Collins
+19. The Da Vinci Code by Dan Brown
+20. The Lord of the Rings by J.R.R. Tolkien
+21. The Hobbit by J.R.R. Tolkien
+22. The Chronicles of Narnia by C.S. Lewis
+23. The Giver by Lois Lowry
+24. The Fault in Our Stars by John Green
+25. The Perks of Being a Wallflower by Stephen Chbosky
+26. The Road Less Traveled by M. Scott Peck
+27. The Alchemist by Paulo Coelho
+28. The Secret Life of Bees by Sue Monk Kidd
+29. The Help by Kathryn Stockett
+30. The Kite Runner by Khaled Hosseini
+31. The Book Thief by Markus Zusak
+32. The Lovely Bones by Alice Sebold
+33. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+34. The Time Traveler's Wife by Audrey Niffenegger
+35. The Name of the Wind by Patrick Rothfuss
+36. The Wise Man's Fear by Patrick Rothfuss
+37. The Night Circus by Erin Morgenstern
+38. The Shadow of the Wind by Carlos Ruiz Zafón
+39. The Thirteenth Tale by Diane Setterfield
+40. The Historian by Elizabeth Kostova
+41. The Girl on the Train by Paula Hawkins
+42. The Silence of the Lambs by Thomas Harris
+43. The Stand by Stephen King
+44. The Green Mile by Stephen King
+45. The Talisman by Stephen King and Peter Straub
+46. The Dark Tower series by Stephen King
+47. The Dresden Files series by Jim Butcher
+48. The Wheel of Time series by Robert Jordan
+49. The Stormlight Archive series by Brandon Sanderson

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for this user would be:
+
+1. Depeche Mode
+2. New Order
+3. The Cure
+4. Duran Duran
+5. Eurythmics
+6. Pet Shop Boys
+7. Madonna
+8. Scissor Sisters
+9. Erasure
+10. Cyndi Lauper
+11. Orchestral Manoeuvres in the Dark
+12. Culture Club
+13. A-ha
+14. ABC
+15. Blondie
+16. Ladytron
+17. Michael Jackson
+18. Saint Etienne
+19. Spandau Ballet
+20. Annie Lennox
+21. Morrissey
+22. Wham!
+23. Howard Jones
+24. Kim Wilde
+25. The B-52's
+26. Simple Minds
+27. Pixies
+28. The Human League
+29. George Michael
+30. David Bowie
+31. Sigur Rós
+32. PJ Harvey
+33. No Doubt
+34. Nik Kershaw
+35. Stone Temple Pilots
+36. Iron Maiden
+37. Muse
+38. Moby
+39. Archive
+40. Tears for Fears
+41. Ultravox
+42. U2
+43. INXS
+44. Madness
+45. Nine Inch Nails
+46. Front 242
+47. Glee Cast
+48. Paul McCartney
+49. The Beatles
+50. Elton John

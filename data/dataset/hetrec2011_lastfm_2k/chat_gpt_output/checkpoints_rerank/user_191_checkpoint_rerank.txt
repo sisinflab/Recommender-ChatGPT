@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Depeche Mode
+2. Led Zeppelin
+3. Black Sabbath
+4. Rammstein
+5. Marilyn Manson
+6. Massive Attack
+7. Morcheeba
+8. Dave Gahan
+9. Peter Gabriel
+10. Kamelot
+11. Mesh
+12. Apoptygma Berzerk
+13. Faithless
+14. The Doors
+15. Mylène Farmer
+16. UNKLE
+17. Tom Waits
+18. Hurts
+19. Red Hot Chili Peppers
+20. Stereophonics
+21. Martin L. Gore
+22. Everything but the Girl
+23. Pendulum
+24. Camouflage
+25. Duran Duran
+26. Madonna
+27. Pink Floyd
+28. Muse
+29. Radiohead
+30. Nirvana
+31. Iron Maiden
+32. Metallica
+33. Pearl Jam
+34. Björk
+35. Nine Inch Nails
+36. System of a Down
+37. The Killers
+38. Placebo
+39. Arctic Monkeys
+40. Blur
+41. U2
+42. The Beatles
+43. Michael Jackson
+44. Shakira
+45. Christina Aguilera
+46. Lady Gaga
+47. Britney Spears
+48. Rihanna
+49. Katy Perry
+50. Taylor Swift

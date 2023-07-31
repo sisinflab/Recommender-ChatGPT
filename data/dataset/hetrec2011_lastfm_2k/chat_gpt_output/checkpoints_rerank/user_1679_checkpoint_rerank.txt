@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Muse
+2. Enter Shikari
+3. Celldweller
+4. 30 Seconds to Mars
+5. IAMX
+6. Cinema Bizarre
+7. Apoptygma Berzerk
+8. Дельфин
+9. Assemblage 23
+10. Shiny Toy Guns
+11. HIM
+12. Queen
+13. Emilie Autumn
+14. The Killers
+15. Hadouken!
+16. AFI
+17. Radiohead
+18. Nirvana
+19. Metallica
+20. Iron Maiden
+21. Led Zeppelin
+22. Pearl Jam
+23. Pink Floyd
+24. The Beatles
+25. U2
+26. Duran Duran
+27. Coldplay
+28. Blur
+29. Arctic Monkeys
+30. Placebo
+31. Amy Winehouse
+32. Michael Jackson
+33. a-ha
+34. Björk
+35. System of a Down
+36. Daft Punk
+37. Nine Inch Nails
+38. Linkin Park
+39. Avenged Sevenfold
+40. My Chemical Romance
+41. Green Day
+42. The Cure
+43. Lady Gaga
+44. Christina Aguilera
+45. Beyoncé
+46. Katy Perry
+47. P!nk
+48. Paramore
+49. Glee Cast
+50. Rihanna

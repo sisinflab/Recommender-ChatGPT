@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Muse
+2. Radiohead
+3. Queen
+4. Daft Punk
+5. Lady Gaga
+6. Katy Perry
+7. Metric
+8. The Smiths
+9. She & Him
+10. Vampire Weekend
+11. Marina & the Diamonds
+12. Florence + the Machine
+13. Lykke Li
+14. Panic! At the Disco
+15. Black Eyed Peas
+16. OneRepublic
+17. Matt & Kim
+18. Mika
+19. Weezer
+20. Timbaland
+21. A Rocket to the Moon
+22. t.A.T.u.
+23. Mike Posner
+24. Black Kids
+25. Linkin Park
+26. Good Charlotte
+27. Rihanna
+28. P!nk
+29. Bruno Mars
+30. Owl City
+31. Adele
+32. Paramore
+33. Sara Bareilles
+34. Cheryl Cole
+35. Jessie J
+36. Justin Timberlake
+37. Sophie Ellis-Bextor
+38. Taylor Swift
+39. Cobra Starship
+40. Miley Cyrus
+41. Selena Gomez & the Scene
+42. Christina Aguilera
+43. Kelly Clarkson
+44. Britney Spears
+45. The Saturdays
+46. Demi Lovato
+47. Enrique Iglesias
+48. Beyoncé
+49. Nicole Scherzinger
+50. Avril Lavigne

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Alchemist by Paulo Coelho
+2. Veronika Decides to Die by Paulo Coelho
+3. Inferno by Dan Brown
+4. Origin by Dan Brown
+5. Angels and Demons by Dan Brown
+6. The Lost Symbol by Dan Brown
+7. The Bible (New International Version)
+8. The Little Princess by Frances Hodgson Burnett
+9. The Giving Tree by Shel Silverstein
+10. The Chronicles of Narnia by C.S. Lewis
+11. The Hobbit by J.R.R. Tolkien
+12. The Lord of the Rings by J.R.R. Tolkien
+13. The Hunger Games by Suzanne Collins
+14. Divergent by Veronica Roth
+15. The Fault in Our Stars by John Green
+16. The Secret Garden by Frances Hodgson Burnett
+17. The Wind in the Willows by Kenneth Grahame
+18. The Catcher in the Rye by J.D. Salinger
+19. To Kill a Mockingbird by Harper Lee
+20. The Great Gatsby by F. Scott Fitzgerald
+21. Pride and Prejudice by Jane Austen
+22. Sense and Sensibility by Jane Austen
+23. Emma by Jane Austen
+24. Wuthering Heights by Emily Bronte
+25. The Picture of Dorian Gray by Oscar Wilde
+26. The Importance of Being Earnest by Oscar Wilde
+27. Les Miserables by Victor Hugo
+28. The Count of Monte Cristo by Alexandre Dumas
+29. Crime and Punishment by Fyodor Dostoevsky
+30. War and Peace by Leo Tolstoy
+31. Anna Karenina by Leo Tolstoy
+32. One Hundred Years of Solitude by Gabriel Garcia Marquez
+33. Love in the Time of Cholera by Gabriel Garcia Marquez
+34. The Name of the Rose by Umberto Eco
+35. The Girl with the Dragon Tattoo by Stieg Larsson
+36. The Girl Who Played with Fire by Stieg Larsson
+37. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+38. The Shining by Stephen King
+39. Carrie by Stephen King
+40. The Stand by Stephen King
+41. The Silence of the Lambs by Thomas Harris
+42. Red Dragon by Thomas Harris
+43. Hannibal by Thomas Harris
+44. The Da Vinci Code (graphic novel) by Dan Brown
+45. The Little Prince (graphic novel) by Antoine de Saint-Exupéry
+46. Germinal (graphic novel) by Émile Zola
+47. The Old Man and the Sea (graphic novel) by Ernest Hemingway
+48. Nineteen Eighty-Four (graphic novel) by George Orwell
+49. The Secret (graphic novel) by Rhonda Byrne
+50

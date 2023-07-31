@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Shining by Stephen King
+2. The Stand by Stephen King
+3. Salem's Lot by Stephen King
+4. Pet Sematary by Stephen King
+5. It by Stephen King
+6. The Dark Tower series by Stephen King
+7. The Silence of the Lambs by Thomas Harris
+8. American Psycho by Bret Easton Ellis
+9. The Exorcist by William Peter Blatty
+10. The Girl with the Dragon Tattoo by Stieg Larsson
+11. The Hunger Games by Suzanne Collins
+12. The Lord of the Rings by J.R.R. Tolkien
+13. The Chronicles of Narnia by C.S. Lewis
+14. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+15. Harry Potter series by J.K. Rowling
+16. The Hobbit by J.R.R. Tolkien
+17. The Catcher in the Rye by J.D. Salinger
+18. To Kill a Mockingbird by Harper Lee
+19. 1984 by George Orwell
+20. Animal Farm by George Orwell
+21. Brave New World by Aldous Huxley
+22. Fahrenheit 451 by Ray Bradbury
+23. The Great Gatsby by F. Scott Fitzgerald
+24. Lord of the Flies by William Golding
+25. One Hundred Years of Solitude by Gabriel Garcia Marquez
+26. Crime and Punishment by Fyodor Dostoevsky
+27. The Picture of Dorian Gray by Oscar Wilde
+28. Frankenstein by Mary Shelley
+29. Dracula by Bram Stoker
+30. Wuthering Heights by Emily Bronte
+31. Jane Eyre by Charlotte Bronte
+32. Pride and Prejudice by Jane Austen
+33. Sense and Sensibility by Jane Austen
+34. Emma by Jane Austen
+35. Persuasion by Jane Austen
+36. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+37. The Hound of the Baskervilles by Arthur Conan Doyle
+38. The Time Machine by H.G. Wells
+39. The War of the Worlds by H.G. Wells
+40. The Invisible Man by H.G. Wells
+41. The Island of Dr. Moreau by H.G. Wells
+42. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+43. Treasure Island by Robert Louis Stevenson
+44. The Count of Monte Cristo by Alexandre Dumas
+45. Les Miserables by Victor Hugo
+46. The Three Musketeers by Alexandre Dumas
+47. The Adventures of Tom Sawyer by Mark Twain
+48. The Adventures of Huckleberry Finn by Mark Twain
+49. The Call of the Wild by Jack London
+50. White Fang by Jack London

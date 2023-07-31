@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Devo
+2. The Chemical Brothers
+3. Fatboy Slim
+4. Weird Al Yankovic
+5. Blondie
+6. Our Lady Peace
+7. ZZ Top
+8. AC/DC
+9. Neil Young
+10. P!nk
+11. Bon Jovi
+12. Prince
+13. Moby
+14. Leonard Cohen
+15. Judas Priest
+16. The Who
+17. The Prodigy
+18. Jimi Hendrix
+19. Aerosmith
+20. Cher
+21. Blue October
+22. Genesis
+23. Jack Johnson
+24. Def Leppard
+25. Creed
+26. Enya
+27. Billy Joel
+28. Madonna
+29. Pink Floyd
+30. Depeche Mode
+31. The Killers
+32. Avril Lavigne
+33. Britney Spears
+34. Lady Gaga
+35. Christina Aguilera
+36. Beyoncé
+37. U2
+38. Muse
+39. Radiohead
+40. Coldplay
+41. Nirvana
+42. Iron Maiden
+43. Led Zeppelin
+44. Metallica
+45. Michael Jackson
+46. Pearl Jam
+47. a-ha
+48. Björk
+49. Nine Inch Nails
+50. Linkin Park

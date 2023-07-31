@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Muse
+2. Radiohead
+3. The Killers
+4. Arctic Monkeys
+5. Franz Ferdinand
+6. Phoenix
+7. U2
+8. The Beatles
+9. Joy Division
+10. Garbage
+11. Editors
+12. Placebo
+13. Metric
+14. Bat for Lashes
+15. Mew
+16. IAMX
+17. Ellie Goulding
+18. Beck
+19. La Roux
+20. The xx
+21. Vampire Weekend
+22. Blur
+23. Lily Allen
+24. P!nk
+25. Shakira
+26. Sophie Ellis-Bextor
+27. David Cook
+28. Thom Yorke
+29. Carla Bruni
+30. Madonna
+31. Maroon 5
+32. Mika
+33. John Mayer
+34. Adam Lambert
+35. Kris Allen
+36. OneRepublic
+37. Taylor Swift
+38. Queen
+39. Metallica
+40. Bon Jovi
+41. Eagles of Death Metal
+42. Coldplay
+43. Kings of Leon
+44. Weezer
+45. Robbie Williams
+46. Keane
+47. Michael Jackson
+48. Alanis Morissette
+49. Snow Patrol
+50. Depeche Mode

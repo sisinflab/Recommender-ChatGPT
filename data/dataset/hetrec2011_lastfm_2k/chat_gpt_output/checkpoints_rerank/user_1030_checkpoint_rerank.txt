@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for them would be:
+
+1. All Shall Perish
+2. The Black Dahlia Murder
+3. Despised Icon
+4. Municipal Waste
+5. Parkway Drive
+6. Rise Against
+7. Hatebreed
+8. Caliban
+9. Exodus
+10. Motörhead
+11. Bad Religion
+12. Volbeat
+13. The Offspring
+14. O.S.T.R.
+15. Metallica
+16. Iron Maiden
+17. Nirvana
+18. Pearl Jam
+19. Exodus
+20. System of a Down
+21. Nine Inch Nails
+22. Muse
+23. Pink Floyd
+24. Led Zeppelin
+25. Radiohead
+26. Arctic Monkeys
+27. Placebo
+28. The Killers
+29. Green Day
+30. My Chemical Romance
+31. Avenged Sevenfold
+32. Black Eyed Peas
+33. Daft Punk
+34. Linkin Park
+35. Kelly Clarkson
+36. P!nk
+37. Coldplay
+38. Blur
+39. U2
+40. Madonna
+41. Lady Gaga
+42. Christina Aguilera
+43. Rihanna
+44. Katy Perry
+45. Taylor Swift
+46. Paramore
+47. Ke$ha
+48. Miley Cyrus
+49. Beyoncé
+50. Michael Jackson

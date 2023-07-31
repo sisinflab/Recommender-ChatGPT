@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. City of Bones by Cassandra Clare
+2. Hush, Hush by Becca Fitzpatrick
+3. Shiver by Maggie Stiefvater
+4. Beautiful Creatures by Kami Garcia and Margaret Stohl
+5. The Mortal Instruments series by Cassandra Clare
+6. The Hunger Games by Suzanne Collins
+7. Divergent by Veronica Roth
+8. Matched by Ally Condie
+9. Delirium by Lauren Oliver
+10. The Maze Runner by James Dashner
+11. The Selection by Kiera Cass
+12. The Fault in Our Stars by John Green
+13. The Twilight Saga by Stephenie Meyer
+14. The Infernal Devices series by Cassandra Clare
+15. The Vampire Diaries series by L.J. Smith
+16. The Dark Divine by Bree Despain
+17. The Iron Fey series by Julie Kagawa
+18. The Chemical Garden trilogy by Lauren DeStefano
+19. The Darkest Minds by Alexandra Bracken
+20. The 5th Wave by Rick Yancey
+21. The Lunar Chronicles by Marissa Meyer
+22. The Raven Boys by Maggie Stiefvater
+23. The Unbecoming of Mara Dyer by Michelle Hodkin
+24. The Selection series by Kiera Cass
+25. The Lux series by Jennifer L. Armentrout
+26. The Grisha Trilogy by Leigh Bardugo
+27. The Giver by Lois Lowry
+28. The Maze Runner series by James Dashner
+29. The Hunger Games series by Suzanne Collins
+30. The Fault in Our Stars by John Green
+31. The Infernal Devices series by Cassandra Clare
+32. The Vampire Diaries series by L.J. Smith
+33. The Dark Divine by Bree Despain
+34. The Iron Fey series by Julie Kagawa
+35. The Chemical Garden trilogy by Lauren DeStefano
+36. The Darkest Minds by Alexandra Bracken
+37. The 5th Wave by Rick Yancey
+38. The Lunar Chronicles by Marissa Meyer
+39. The Raven Boys by Maggie Stiefvater
+40. The Unbecoming of Mara Dyer by Michelle Hodkin
+41. The Selection series by Kiera Cass
+42. The Lux series by Jennifer L. Armentrout
+43. The Grisha Trilogy by Leigh Bardugo
+44. The Giver by Lois Lowry
+45. The Maze Runner series by James Dashner
+46. The Hunger Games series by Suzanne Collins
+47. The Fault in Our Stars by John Green
+48. The Infernal Devices series by Cassandra Clare
+49. The Vampire Diaries series by L.J. Smith
+50. The Dark Divine by Bree Despain

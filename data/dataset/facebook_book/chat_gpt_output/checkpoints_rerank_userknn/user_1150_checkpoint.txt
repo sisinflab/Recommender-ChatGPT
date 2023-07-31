@@ -1,0 +1,49 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. City of Ashes by Cassandra Clare
+2. Beautiful Darkness by Kami Garcia and Margaret Stohl
+3. City of Glass (Mortal Instruments) by Cassandra Clare
+4. Thirteen Reasons Why by Jay Asher
+5. The Vampire Lestat by Anne Rice
+6. Vampire Knight by Matsuri Hino
+7. Burned (Hopkins novel) by Ellen Hopkins
+8. Blue Is for Nightmares (series) by Laurie Faria Stolarz
+9. Fallen (Kate novel) by Lauren Kate
+10. Wake (Lisa McMann novel) by Lisa McMann
+11. Rebel Angels by Libba Bray
+12. Ink Exchange by Melissa Marr
+13. The Immortals (novel) by Alyson Noël
+14. Evermore (book) by Alyson Noël
+15. Vampire Kisses by Ellen Schreiber
+16. The Asylum for Wayward Victorian Girls by Emilie Autumn
+17. Pet Shop of Horrors by Matsuri Akino
+18. Eragon by Christopher Paolini
+19. Inkheart by Cornelia Funke
+20. The Hunger Games by Suzanne Collins
+21. Catching Fire by Suzanne Collins
+22. Mockingjay by Suzanne Collins
+23. Harry Potter and the Philosopher's Stone by J.K. Rowling
+24. Harry Potter and the Chamber of Secrets by J.K. Rowling
+25. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+26. Harry Potter and the Goblet of Fire by J.K. Rowling
+27. Harry Potter and the Order of Phoenix by J.K. Rowling
+28. Harry Potter and the Half-Blood Prince by J.K. Rowling
+29. Harry Potter and the Deathly Hallows by J.K. Rowling
+30. The Lord of the Rings by J.R.R. Tolkien
+31. The Hobbit by J.R.R. Tolkien
+32. The Silmarillion by J.R.R. Tolkien
+33. The War of the Worlds by H.G. Wells
+34. The Time Machine by H.G. Wells
+35. The Invisible Man by H.G. Wells
+36. The Sweet Far Thing by Libba Bray
+37. Protector of the Small by Tamora Pierce
+38. Ironside: A Modern Faery's Tale by Holly Black
+39. Goodnight Moon by Margaret Wise Brown
+40. The Host (novel) by Stephenie Meyer
+41. Lord of the Flies by William Golding
+42. Dark Visions by L.J. Smith
+43. Memoirs of a Geisha by Arthur Golden
+44. My Sister's Keeper (novel) by Jodi Picoult
+45. The Historian by Elizabeth Kostova
+46. Eldest by Christopher Paolini
+47. Along for the Ride by Sarah Dessen

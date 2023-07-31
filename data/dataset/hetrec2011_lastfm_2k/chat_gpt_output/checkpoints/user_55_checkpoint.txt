@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Kendrick Lamar
+2. Radiohead
+3. Childish Gambino
+4. Anderson .Paak
+5. Frank Ocean
+6. J. Cole
+7. Tyler, The Creator
+8. Chance The Rapper
+9. Run The Jewels
+10. Arctic Monkeys
+11. Tame Impala
+12. The Strokes
+13. Vampire Weekend
+14. Arcade Fire
+15. The Black Keys
+16. Queens of the Stone Age
+17. Gorillaz
+18. The Weeknd
+19. Travis Scott
+20. Mac Miller
+21. Earl Sweatshirt
+22. A Tribe Called Quest
+23. Wu-Tang Clan
+24. MF DOOM
+25. Tyler Childers
+26. Sturgill Simpson
+27. Jason Isbell
+28. The National
+29. Bon Iver
+30. Sufjan Stevens
+31. Fleetwood Mac
+32. Led Zeppelin
+33. Pink Floyd
+34. The Rolling Stones
+35. Bob Dylan
+36. Neil Young
+37. Tom Petty
+38. Bruce Springsteen
+39. David Bowie
+40. Prince
+41. Michael Jackson
+42. Stevie Wonder
+43. Marvin Gaye
+44. Aretha Franklin
+45. Otis Redding
+46. James Brown
+47. Ray Charles
+48. Nina Simone
+49. Billie Holiday
+50. Ella Fitzgerald

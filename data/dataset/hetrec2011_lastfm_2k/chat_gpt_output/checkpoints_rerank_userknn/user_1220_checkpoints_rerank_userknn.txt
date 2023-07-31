@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for them would be:
+
+1. Florence + the Machine
+2. Adele
+3. Coldplay
+4. The Killers
+5. Arcade Fire
+6. Kings of Leon
+7. Franz Ferdinand
+8. M.I.A.
+9. Goldfrapp
+10. Röyksopp
+11. Crystal Castles
+12. The Smashing Pumpkins
+13. Oasis
+14. Madonna
+15. Amy Winehouse
+16. Duffy
+17. Joss Stone
+18. Alicia Keys
+19. Jamiroquai
+20. Evanescence
+21. She & Him
+22. Feist
+23. Pet Shop Boys
+24. Moby
+25. Róisín Murphy
+26. Janelle Monáe
+27. Yeasayer
+28. Garbage
+29. Scissor Sisters
+30. The National
+31. Cut Copy
+32. The xx
+33. Lifehouse
+34. M83
+35. Within Temptation
+36. Placebo
+37. Daughtry
+38. No Doubt
+39. Beyoncé
+40. Justin Timberlake
+41. Enrique Iglesias
+42. Rihanna
+43. Ellie Goulding
+44. Anastacia
+45. Delta Goodrem
+46. Kelly Clarkson
+47. Katy Perry
+48. Lady Gaga
+49. Avril Lavigne
+50. Shakira

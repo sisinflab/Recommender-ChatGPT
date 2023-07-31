@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Lord of the Rings by J.R.R. Tolkien
+3. Harry Potter series by J.K. Rowling
+4. The Hobbit by J.R.R. Tolkien
+5. Frankenstein by Mary Shelley
+6. Wuthering Heights by Emily Bronte
+7. The Adventures of Tom Sawyer by Mark Twain
+8. Robinson Crusoe by Daniel Defoe
+9. The Giver by Lois Lowry
+10. The Little Prince by Antoine de Saint-Exupéry
+11. Romeo and Juliet by William Shakespeare
+12. The Iliad by Homer
+13. Les Misérables by Victor Hugo
+14. The City of Ember by Jeanne DuPrau
+15. The Chosen by Chaim Potok
+16. The Watchmen by Alan Moore
+17. Fahrenheit 451 by Ray Bradbury
+18. Alice's Adventures in Wonderland by Lewis Carroll
+19. The Pit and the Pendulum by Edgar Allan Poe
+20. The Zombie Survival Guide by Max Brooks
+21. The Forever War by Joe Haldeman
+22. The Antichrist by Friedrich Nietzsche
+23. Sabriel by Garth Nix
+24. Flashforward by Robert J. Sawyer
+25. The Mayor of Casterbridge by Thomas Hardy
+26. The Jungle Book by Rudyard Kipling
+27. Warriors anthology by Erin Hunter
+28. Tess of the d'Urbervilles by Thomas Hardy
+29. Rendezvous with Rama by Arthur C. Clarke
+30. Slaughterhouse-Five by Kurt Vonnegut
+31. Jane Eyre by Charlotte Bronte
+32. The Hamlet by William Faulkner
+33. The Da Vinci Code by Dan Brown
+34. Angels & Demons by Dan Brown
+35. The Outsiders by S.E. Hinton
+36. Number the Stars by Lois Lowry
+37. Great Expectations by Charles Dickens
+38. The Hatchet by Mihail Sadoveanu
+39. The Forest of Hands and Teeth by Carrie Ryan
+40. Of Mice and Men by John Steinbeck
+41. Lord of the Flies by William Golding
+42. The Old Man and the Sea by Ernest Hemingway
+43. A Cry in the Night by Mary Higgins Clark
+44. The Pigman by Paul Zindel
+45. Rosemary's Baby by Ira Levin
+46. Gone with the Wind by Margaret Mitchell
+47. Twilight series by Stephenie Meyer
+48. Chacha Chaudhary by Pran Kumar Sharma
+49. Thus Spoke Zarathustra by Friedrich Nietzsche
+50. Go Ask Alice by Anonymous

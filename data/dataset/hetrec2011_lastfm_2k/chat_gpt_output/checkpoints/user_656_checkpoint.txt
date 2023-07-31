@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Michael Jackson
+2. Madonna
+3. Queen
+4. U2
+5. Bon Jovi
+6. Guns N' Roses
+7. The Police
+8. INXS
+9. Phil Collins
+10. Bruce Springsteen
+11. Aerosmith
+12. Journey
+13. Van Halen
+14. The Rolling Stones
+15. Pink Floyd
+16. The Who
+17. Led Zeppelin
+18. AC/DC
+19. Def Leppard
+20. Metallica
+21. Nirvana
+22. Pearl Jam
+23. Soundgarden
+24. Alice in Chains
+25. Stone Temple Pilots
+26. Red Hot Chili Peppers
+27. Foo Fighters
+28. Green Day
+29. Oasis
+30. Radiohead
+31. Coldplay
+32. The Killers
+33. Muse
+34. Arctic Monkeys
+35. The Strokes
+36. Franz Ferdinand
+37. The White Stripes
+38. The Black Keys
+39. Vampire Weekend
+40. Arcade Fire
+41. The National
+42. Fleet Foxes
+43. Tame Impala
+44. Beach House
+45. Grizzly Bear
+46. Animal Collective
+47. The War on Drugs
+48. Father John Misty
+49. Courtney Barnett
+50. Mitski

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Coldplay
+2. The Killers
+3. U2
+4. Ryan Adams
+5. Foo Fighters
+6. Death Cab for Cutie
+7. Wilco
+8. Fleetwood Mac
+9. The Cure
+10. Joy Division
+11. Third Eye Blind
+12. The Police
+13. Guns N' Roses
+14. Sixpence None the Richer
+15. Mae
+16. Paramore
+17. The All-American Rejects
+18. Sigur Rós
+19. The National
+20. New Order
+21. The Beatles
+22. Arctic Monkeys
+23. Kings of Leon
+24. Arcade Fire
+25. David Gray
+26. Stereophonics
+27. Bruce Springsteen
+28. Manic Street Preachers
+29. Pulp
+30. Snow Patrol
+31. Nelly Furtado
+32. Jack Johnson
+33. My Chemical Romance
+34. Tears for Fears
+35. Katie Melua
+36. Ben Folds
+37. Gorillaz
+38. Beck
+39. R.E.M.
+40. Editors
+41. White Lies
+42. Depeche Mode
+43. Elvis Presley
+44. INXS
+45. John Lee Hooker
+46. The Cranberries
+47. Feist
+48. Madonna
+49. The White Stripes
+50. Moby

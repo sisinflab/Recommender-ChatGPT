@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Twilight (The Twilight Saga, Book 1) by Stephenie Meyer
+2. Marked (A House of Night Novel) by P.C. Cast and Kristin Cast
+3. Fallen (Fallen, Book 1) by Lauren Kate
+4. Hush, Hush (Hush, Hush Saga, Book 1) by Becca Fitzpatrick
+5. Beautiful Creatures (Beautiful Creatures, Book 1) by Kami Garcia and Margaret Stohl
+6. The Mortal Instruments Series by Cassandra Clare
+7. The Hunger Games (The Hunger Games, Book 1) by Suzanne Collins
+8. Divergent (Divergent Trilogy, Book 1) by Veronica Roth
+9. The Maze Runner (The Maze Runner, Book 1) by James Dashner
+10. The Fault in Our Stars by John Green
+11. The Giver (The Giver Quartet, Book 1) by Lois Lowry
+12. The Selection (The Selection Series, Book 1) by Kiera Cass
+13. The Vampire Diaries (The Vampire Diaries, Book 1) by L.J. Smith
+14. The Secret Circle (The Secret Circle, Book 1) by L.J. Smith
+15. The Raven Boys (The Raven Cycle, Book 1) by Maggie Stiefvater
+16. The Scorpio Races by Maggie Stiefvater
+17. The Darkest Minds (The Darkest Minds Trilogy, Book 1) by Alexandra Bracken
+18. The 5th Wave (The 5th Wave, Book 1) by Rick Yancey
+19. The Host by Stephenie Meyer
+20. The Twilight Saga Collection by Stephenie Meyer
+21. The House of Night Series by P.C. Cast and Kristin Cast
+22. The Immortals Series by Alyson Noel
+23. The Sisterhood of the Traveling Pants Series by Ann Brashares
+24. The Fear Street Series by R.L. Stine
+25. The Tuck Everlasting by Natalie Babbitt
+26. The Need Series by Carrie Jones
+27. The Lucy by Jamaica Kincaid
+28. The Wolves of Mercy Falls Series by Maggie Stiefvater
+29. The Dark Divine (The Dark Divine, Book 1) by Bree Despain
+30. The Iron King (The Iron Fey, Book 1) by Julie Kagawa
+31. The Luxe (The Luxe Series, Book 1) by Anna Godbersen
+32. The Gemma Doyle Trilogy by Libba Bray
+33. The Uglies Series by Scott Westerfeld
+34. The Leviathan Trilogy by Scott Westerfeld
+35. The Matched Trilogy by Ally Condie
+36. The Delirium Trilogy by Lauren Oliver
+37. For Whom the Bell Tolls by Ernest Hemingway
+38. The Old Man and the Sea by Ernest Hemingway
+39. The Catcher in the Rye by J.D. Salinger
+40. Franny and Zooey by J.D. Salinger
+41. Nine Stories by J.D. Salinger
+42. The Bell Jar by Sylvia Plath
+43. The Wise Man's Fear by Patrick Rothfuss
+44. For Whom the Bell Tolls by Ernest Hemingway
+45. The Old Man and the Sea by Ernest Hemingway
+46. The Catcher in the Rye by J.D. Salinger
+47. Franny and Zooey by J.D. Salinger
+48. Nine Stories by J.D. Salinger
+49. The Bell Jar by Sylvia Plath
+50. The Wise Man's Fear by Patrick Rothfuss

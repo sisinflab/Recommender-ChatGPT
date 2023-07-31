@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. New Order
+2. Pet Shop Boys
+3. Joy Division
+4. The Cure
+5. Radiohead
+6. Nine Inch Nails
+7. The Chemical Brothers
+8. LCD Soundsystem
+9. Massive Attack
+10. Aphex Twin
+11. The Prodigy
+12. Portishead
+13. Björk
+14. Gorillaz
+15. The xx
+16. Arcade Fire
+17. Talking Heads
+18. The Smiths
+19. Siouxsie and the Banshees
+20. The Human League
+21. Gary Numan
+22. OMD
+23. Yazoo
+24. Soft Cell
+25. Duran Duran
+26. Tears for Fears
+27. A-ha
+28. Roxy Music
+29. Kate Bush
+30. Madonna
+31. Prince
+32. Michael Jackson
+33. Whitney Houston
+34. Janet Jackson
+35. Mariah Carey
+36. Christina Aguilera
+37. Britney Spears
+38. Justin Timberlake
+39. Beyoncé
+40. Rihanna
+41. Lady Gaga
+42. Katy Perry
+43. Taylor Swift
+44. Ariana Grande
+45. Billie Eilish
+46. Lorde
+47. Hozier
+48. Florence + The Machine
+49. Lana Del Rey
+50. Tame Impala

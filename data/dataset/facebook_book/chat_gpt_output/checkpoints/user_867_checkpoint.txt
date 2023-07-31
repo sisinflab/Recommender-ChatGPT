@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. Pride and Prejudice by Jane Austen
+5. The Lord of the Rings by J.R.R. Tolkien
+6. The Hobbit by J.R.R. Tolkien
+7. The Chronicles of Narnia by C.S. Lewis
+8. The Hunger Games by Suzanne Collins
+9. Harry Potter series by J.K. Rowling
+10. The Da Vinci Code by Dan Brown
+11. The Girl with the Dragon Tattoo by Stieg Larsson
+12. The Help by Kathryn Stockett
+13. The Kite Runner by Khaled Hosseini
+14. The Lovely Bones by Alice Sebold
+15. The Secret Life of Bees by Sue Monk Kidd
+16. The Time Traveler's Wife by Audrey Niffenegger
+17. The Picture of Dorian Gray by Oscar Wilde
+18. The Road by Cormac McCarthy
+19. The Book Thief by Markus Zusak
+20. The Fault in Our Stars by John Green
+21. The Giver by Lois Lowry
+22. The Maze Runner by James Dashner
+23. The Outsiders by S.E. Hinton
+24. The Perks of Being a Wallflower by Stephen Chbosky
+25. The Shining by Stephen King
+26. The Stand by Stephen King
+27. The Sun Also Rises by Ernest Hemingway
+28. The Old Man and the Sea by Ernest Hemingway
+29. The Bell Jar by Sylvia Plath
+30. The Color Purple by Alice Walker
+31. The Handmaid's Tale by Margaret Atwood
+32. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+33. The Martian by Andy Weir
+34. The Name of the Wind by Patrick Rothfuss
+35. The Nightingale by Kristin Hannah
+36. The Picture of Dorian Gray by Oscar Wilde
+37. The Silence of the Lambs by Thomas Harris
+38. The Talented Mr. Ripley by Patricia Highsmith
+39. The Three Musketeers by Alexandre Dumas
+40. The War of the Worlds by H.G. Wells
+41. The Wind in the Willows by Kenneth Grahame
+42. The Wonderful Wizard of Oz by L. Frank Baum
+43. The Adventures of Tom Sawyer by Mark Twain
+44. The Adventures of Huckleberry Finn by Mark Twain
+45. The Count of Monte Cristo by Alexandre Dumas
+46. The Hound of the Baskervilles by Arthur Conan Doyle
+47. The Picture of Dorian Gray by Oscar Wilde
+48. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+49. The Bell Jar by Sylvia Plath
+50. The Wise Man's Fear by Patrick Rothfuss

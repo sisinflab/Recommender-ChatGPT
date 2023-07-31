@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Picture of Dorian Gray by Oscar Wilde
+2. Crime and Punishment by Fyodor Dostoyevsky
+3. Don Quixote by Miguel de Cervantes
+4. The Hobbit by J.R.R. Tolkien
+5. The Lord of the Rings by J.R.R. Tolkien
+6. Nineteen Eighty-Four by George Orwell
+7. Brave New World by Aldous Huxley
+8. The Great Gatsby by F. Scott Fitzgerald
+9. To Kill a Mockingbird by Harper Lee
+10. Dracula by Bram Stoker
+11. The Adventures of Tom Sawyer by Mark Twain
+12. The Outsiders by S.E. Hinton
+13. Lord of the Flies by William Golding
+14. The Fountainhead by Ayn Rand
+15. Lolita by Vladimir Nabokov
+16. War and Peace by Leo Tolstoy
+17. The Brothers Karamazov by Fyodor Dostoyevsky
+18. The Iron Heel by Jack London
+19. The Time Machine by H.G. Wells
+20. The Giver by Lois Lowry
+21. The Book Thief by Markus Zusak
+22. Tess of the d'Urbervilles by Thomas Hardy
+23. The Watchmen by Alan Moore
+24. A Clockwork Orange by Anthony Burgess
+25. Paradise Lost by John Milton
+26. The Tipping Point by Malcolm Gladwell
+27. The Count of Monte Cristo by Alexandre Dumas
+28. Waiting for Godot by Samuel Beckett
+29. Water for Elephants by Sara Gruen
+30. The Sicilian by Mario Puzo
+31. The Messenger by Markus Zusak
+32. The State and Revolution by Vladimir Lenin
+33. Three Men in a Boat by Jerome K. Jerome
+34. Pygmalion by George Bernard Shaw
+35. The Book of Lost Things by John Connolly
+36. Graphic novel by Will Eisner
+37. Zen and the Art of Motorcycle Maintenance by Robert M. Pirsig
+38. Persepolis by Marjane Satrapi
+39. Encyclopædia Britannica
+40. Fade by Lisa McMann
+41. Isaac Asimov's Robot City by William F. Wu
+42. Gone with the Wind by Margaret Mitchell
+43. Iliad by Homer
+44. Rhinoceros by Eugène Ionesco
+45. Player Piano by Kurt Vonnegut
+46. Fallen Angels by Walter Dean Myers
+47. Lies My Teacher Told Me by James W. Loewen
+48. The Last Storytellers by Richard Hamilton
+49. Dry by Augusten Burroughs
+50. Tunnels by Roderick Gordon and Brian Williams

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. U2
+2. Snow Patrol
+3. Bruce Springsteen
+4. Phil Collins
+5. Maroon 5
+6. Moby
+7. Simple Minds
+8. Katie Melua
+9. Madonna
+10. Feist
+11. R.E.M.
+12. Lara Fabian
+13. ABBA
+14. The Corrs
+15. Norah Jones
+16. Sting
+17. Destiny's Child
+18. Amon Tobin
+19. Frank Sinatra
+20. The Cardigans
+21. September
+22. Morcheeba
+23. The Beatles
+24. Radiohead
+25. Muse
+26. Pink Floyd
+27. Led Zeppelin
+28. Nirvana
+29. Iron Maiden
+30. Metallica
+31. Michael Jackson
+32. Pearl Jam
+33. a-ha
+34. Björk
+35. Depeche Mode
+36. Lady Gaga
+37. Christina Aguilera
+38. Paramore
+39. Katy Perry
+40. Avril Lavigne
+41. Taylor Swift
+42. Evanescence
+43. Glee Cast
+44. Beyoncé
+45. 30 Seconds to Mars
+46. Ke$ha
+47. Duran Duran
+48. Coldplay
+49. Blur
+50. Arctic Monkeys

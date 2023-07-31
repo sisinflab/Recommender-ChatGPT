@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations are:
+
+1. Radiohead
+2. Muse
+3. Nirvana
+4. The Strokes
+5. The White Stripes
+6. Coldplay
+7. Queen
+8. The Beatles
+9. Sigur Rós
+10. Portishead
+11. Massive Attack
+12. The Verve
+13. The xx
+14. Two Door Cinema Club
+15. MGMT
+16. Lady Gaga
+17. Bonobo
+18. Damien Rice
+19. Oasis
+20. Rammstein
+21. Metallica
+22. Green Day
+23. The Cure
+24. The Killers
+25. System of a Down
+26. Daft Punk
+27. The Chemical Brothers
+28. Guns N' Roses
+29. Franz Ferdinand
+30. 30 Seconds to Mars
+31. The Rasmus
+32. Soft Cell
+33. Hooverphonic
+34. Keane
+35. New Order
+36. U2
+37. Enigma
+38. Recoil
+39. Kamelot
+40. The Prodigy
+41. Underworld
+42. Zемфира
+43. Air
+44. Yann Tiersen
+45. Era
+46. Tori Amos
+47. OneRepublic
+48. Pet Shop Boys
+49. Morcheeba
+50. Nelly Furtado

@@ -1,0 +1,54 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. Nirvana
+3. Muse
+4. Queens of the Stone Age
+5. PJ Harvey
+6. Foals
+7. Interpol
+8. Death Cab for Cutie
+9. Biffy Clyro
+10. Blood Red Shoes
+11. Fugazi
+12. Rage Against the Machine
+13. Kings of Leon
+14. The Cribs
+15. Final Fantasy
+16. Ben Folds
+17. Antony and the Johnsons
+18. Black Flag
+19. Mansun
+20. Frightened Rabbit
+21. Arctic Monkeys
+22. Placebo
+23. The Killers
+24. Blur
+25. Coldplay
+26. U2
+27. Pink Floyd
+28. Led Zeppelin
+29. Metallica
+30. Iron Maiden
+31. Pearl Jam
+32. System of a Down
+33. Nine Inch Nails
+34. Daft Punk
+35. Linkin Park
+36. Avenged Sevenfold
+37. My Chemical Romance
+38. Green Day
+39. The Cure
+40. Michael Jackson
+41. Beyoncé
+42. Madonna
+43. Lady Gaga
+44. Rihanna
+45. Christina Aguilera
+46. Katy Perry
+47. Taylor Swift
+48. Kelly Clarkson
+49. Black Eyed Peas
+50. Ke$ha
+
+Note: The artists that were not included in the user's preferences were not ranked in the top 50 recommendations.

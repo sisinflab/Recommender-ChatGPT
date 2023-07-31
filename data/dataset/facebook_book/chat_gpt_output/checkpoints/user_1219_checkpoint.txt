@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter and the Philosopher's Stone by J.K. Rowling
+2. The Hunger Games by Suzanne Collins
+3. To Kill a Mockingbird by Harper Lee
+4. The Catcher in the Rye by J.D. Salinger
+5. The Great Gatsby by F. Scott Fitzgerald
+6. 1984 by George Orwell
+7. Animal Farm by George Orwell
+8. The Chronicles of Narnia by C.S. Lewis
+9. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+10. The Girl with the Dragon Tattoo by Stieg Larsson
+11. The Girl on the Train by Paula Hawkins
+12. The Help by Kathryn Stockett
+13. The Kite Runner by Khaled Hosseini
+14. The Book Thief by Markus Zusak
+15. The Fault in Our Stars by John Green
+16. The Maze Runner by James Dashner
+17. The Giver by Lois Lowry
+18. The Secret Life of Bees by Sue Monk Kidd
+19. The Lovely Bones by Alice Sebold
+20. The Alchemist by Paulo Coelho
+21. The Picture of Dorian Gray by Oscar Wilde
+22. The Time Traveler's Wife by Audrey Niffenegger
+23. The Road by Cormac McCarthy
+24. The Stand by Stephen King
+25. The Shining by Stephen King
+26. The Silence of the Lambs by Thomas Harris
+27. The Bourne Identity by Robert Ludlum
+28. The Da Vinci Code by Dan Brown
+29. Angels and Demons by Dan Brown
+30. Inferno by Dan Brown
+31. The Hobbit by J.R.R. Tolkien
+32. The Lord of the Rings by J.R.R. Tolkien
+33. The Silmarillion by J.R.R. Tolkien
+34. The Adventures of Tom Sawyer by Mark Twain
+35. The Adventures of Huckleberry Finn by Mark Twain
+36. The Outsiders by S.E. Hinton
+37. That Was Then, This Is Now by S.E. Hinton
+38. Hoot by Carl Hiaasen
+39. Flush by Carl Hiaasen
+40. Scat by Carl Hiaasen
+41. Sabriel by Garth Nix
+42. Lirael by Garth Nix
+43. Abhorsen by Garth Nix
+44. Eragon by Christopher Paolini
+45. Eldest by Christopher Paolini
+46. Brisingr by Christopher Paolini
+47. Romeo and Juliet by William Shakespeare
+48. Hamlet by William Shakespeare
+49. Macbeth by William Shakespeare
+50. Othello by William Shakespeare

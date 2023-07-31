@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Joy Division
+2. The Cure
+3. Siouxsie and the Banshees
+4. Bauhaus
+5. Killing Joke
+6. Devo
+7. Dead Kennedys
+8. The Cramps
+9. Misfits
+10. Alien Sex Fiend
+11. The Adicts
+12. Oingo Boingo
+13. Motörhead
+14. Alice Cooper
+15. Beck
+16. Elvis Presley
+17. The Cult
+18. Madonna
+19. Nirvana
+20. Iron Maiden
+21. Metallica
+22. Led Zeppelin
+23. Michael Jackson
+24. Pearl Jam
+25. U2
+26. Muse
+27. Pink Floyd
+28. Radiohead
+29. Nine Inch Nails
+30. System of a Down
+31. Linkin Park
+32. Avenged Sevenfold
+33. Black Eyed Peas
+34. My Chemical Romance
+35. Green Day
+36. Arctic Monkeys
+37. Placebo
+38. The Killers
+39. Duran Duran
+40. Coldplay
+41. Blur
+42. a-ha
+43. Björk
+44. Daft Punk
+45. Kelly Clarkson
+46. P!nk
+47. All Time Low
+48. Ke$ha
+49. Taylor Swift
+50. Evanescence

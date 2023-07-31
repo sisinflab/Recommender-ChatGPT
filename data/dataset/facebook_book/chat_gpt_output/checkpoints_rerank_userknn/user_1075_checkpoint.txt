@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird
+2. The Hunger Games
+3. The Book Thief
+4. A Clockwork Orange
+5. Brave New World
+6. Fahrenheit 451
+7. Frankenstein
+8. The Hobbit
+9. Harry Potter
+10. Matilda (novel)
+11. Nineteen Eighty-Four
+12. Paradise Lost
+13. Petals on the Wind
+14. Rainbow Boys
+15. Rebel Angels
+16. Sense and Sensibility
+17. The Secret Garden
+18. The Picture of Dorian Gray
+19. Ulysses (novel)
+20. Wuthering Heights
+21. Alas, Babylon
+22. Around the World in Eighty Days
+23. Cat's Cradle
+24. Catching Fire
+25. Emma (novel)
+26. God Is Not Great
+27. Great Expectations
+28. He's Just Not That Into You
+29. Hood (novel)
+30. Island of the Blue Dolphins
+31. Jane Eyre
+32. Labyrinth (novel)
+33. Mansfield Park
+34. Northanger Abbey
+35. October Sky
+36. Obsessed (novel)
+37. Oliver Twist
+38. Persepolis (comics)
+39. Peter and Wendy
+40. Rainbow Road (novel)
+41. The Scarlet Letter
+42. The Southern Vampire Mysteries
+43. The Swiss Family Robinson
+44. The Tenant of Wildfell Hall
+45. The Witch of Portobello
+46. Tithe: A Modern Faerie Tale
+47. Twilight (series)
+48. Will Grayson, Will Grayson
+49. Snow Flower and the Secret Fan
+50. The Jungle Book

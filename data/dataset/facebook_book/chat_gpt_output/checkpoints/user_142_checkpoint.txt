@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. To Kill a Mockingbird by Harper Lee
+3. The Great Gatsby by F. Scott Fitzgerald
+4. Animal Farm by George Orwell
+5. Brave New World by Aldous Huxley
+6. Slaughterhouse-Five by Kurt Vonnegut
+7. Catch-22 by Joseph Heller
+8. The Bell Jar by Sylvia Plath
+9. The Stranger by Albert Camus
+10. The Road by Cormac McCarthy
+11. The Handmaid's Tale by Margaret Atwood
+12. The Picture of Dorian Gray by Oscar Wilde
+13. The Sun Also Rises by Ernest Hemingway
+14. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+15. The Brothers Karamazov by Fyodor Dostoevsky
+16. Crime and Punishment by Fyodor Dostoevsky
+17. The Trial by Franz Kafka
+18. The Metamorphosis by Franz Kafka
+19. The Old Man and the Sea by Ernest Hemingway
+20. The Grapes of Wrath by John Steinbeck
+21. Lord of the Flies by William Golding
+22. Heart of Darkness by Joseph Conrad
+23. The Sound and the Fury by William Faulkner
+24. Beloved by Toni Morrison
+25. One Flew Over the Cuckoo's Nest by Ken Kesey
+26. A Clockwork Orange by Anthony Burgess
+27. The Shining by Stephen King
+28. The Stand by Stephen King
+29. The Martian by Andy Weir
+30. The Hunger Games by Suzanne Collins
+31. The Girl with the Dragon Tattoo by Stieg Larsson
+32. The Da Vinci Code by Dan Brown
+33. The Name of the Rose by Umberto Eco
+34. The Shadow of the Wind by Carlos Ruiz Zafón
+35. The Alchemist by Paulo Coelho
+36. The God of Small Things by Arundhati Roy
+37. The Kite Runner by Khaled Hosseini
+38. The Joy Luck Club by Amy Tan
+39. The Color Purple by Alice Walker
+40. The Help by Kathryn Stockett
+41. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+42. The Glass Castle by Jeannette Walls
+43. The Poisonwood Bible by Barbara Kingsolver
+44. The Secret History by Donna Tartt
+45. The Goldfinch by Donna Tartt
+46. The Nightingale by Kristin Hannah
+47. The Book Thief by Markus Zusak
+48. The Fault in Our Stars by John Green
+49. The Girl on the Train by Paula Hawkins
+50. Gone Girl by Gillian Flynn

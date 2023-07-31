@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Rammstein
+2. Blutengel
+3. Eisbrecher
+4. Diary of Dreams
+5. Assemblage 23
+6. Hocico
+7. Theatre of Tragedy
+8. mind.in.a.box
+9. The Birthday Massacre
+10. Three Days Grace
+11. Stone Sour
+12. Bullet for My Valentine
+13. Amorphis
+14. Cradle of Filth
+15. The Sisters of Mercy
+16. Oomph!
+17. Poets of the Fall
+18. Armin van Buuren
+19. Muse
+20. Pink Floyd
+21. Metallica
+22. Nirvana
+23. Iron Maiden
+24. Led Zeppelin
+25. Radiohead
+26. The Beatles
+27. U2
+28. Duran Duran
+29. Coldplay
+30. Blur
+31. Arctic Monkeys
+32. Placebo
+33. The Killers
+34. Michael Jackson
+35. Madonna
+36. Lady Gaga
+37. Britney Spears
+38. Christina Aguilera
+39. Beyoncé
+40. Rihanna
+41. Shakira
+42. Katy Perry
+43. Taylor Swift
+44. Evanescence
+45. Ke$ha
+46. Daft Punk
+47. Nine Inch Nails
+48. Linkin Park
+49. Green Day
+50. My Chemical Romance

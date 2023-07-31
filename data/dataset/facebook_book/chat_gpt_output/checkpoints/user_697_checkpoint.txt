@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Twilight by Stephenie Meyer
+2. The Hunger Games by Suzanne Collins
+3. Divergent by Veronica Roth
+4. The Maze Runner by James Dashner
+5. Percy Jackson and the Olympians by Rick Riordan
+6. The Mortal Instruments by Cassandra Clare
+7. The Fault in Our Stars by John Green
+8. The Giver by Lois Lowry
+9. The Chronicles of Narnia by C.S. Lewis
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Hobbit by J.R.R. Tolkien
+12. The Da Vinci Code by Dan Brown
+13. Inferno by Dan Brown
+14. Origin by Dan Brown
+15. Angels and Demons by Dan Brown
+16. Maximum Ride by James Patterson
+17. The Black Stallion by Walter Farley
+18. Ender's Game by Orson Scott Card
+19. Inkheart by Cornelia Funke
+20. Inkspell by Cornelia Funke
+21. Inkdeath by Cornelia Funke
+22. The Host by Stephenie Meyer
+23. The Chemist by Stephenie Meyer
+24. The Twilight Saga by Stephenie Meyer
+25. The Lunar Chronicles by Marissa Meyer
+26. The Selection by Kiera Cass
+27. The 5th Wave by Rick Yancey
+28. Legend by Marie Lu
+29. The Maze of Bones by Rick Riordan
+30. The Sword of Summer by Rick Riordan
+31. The Red Pyramid by Rick Riordan
+32. The Throne of Fire by Rick Riordan
+33. The Serpent's Shadow by Rick Riordan
+34. The Heroes of Olympus by Rick Riordan
+35. The Kane Chronicles by Rick Riordan
+36. The Dark Prophecy by Rick Riordan
+37. The Trials of Apollo by Rick Riordan
+38. The Alchemyst by Michael Scott
+39. The Magician by Michael Scott
+40. The Sorceress by Michael Scott
+41. The Necromancer by Michael Scott
+42. The Warlock by Michael Scott
+43. The Enchantress by Michael Scott
+44. The City of Ember by Jeanne DuPrau
+45. The People of Sparks by Jeanne DuPrau
+46. The Prophet of Yonwood by Jeanne DuPrau
+47. The Diamond of Darkhold by Jeanne DuPrau
+48. The Hunger Games Trilogy by Suzanne Collins
+49. The Divergent Trilogy by Veronica Roth
+50. The Mortal Instruments Series by Cassandra Clare

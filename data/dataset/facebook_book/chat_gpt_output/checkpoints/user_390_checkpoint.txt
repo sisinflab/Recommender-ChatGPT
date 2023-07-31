@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Eragon by Christopher Paolini
+2. Inkheart by Cornelia Funke
+3. The Hunger Games by Suzanne Collins
+4. The Maze Runner by James Dashner
+5. The Lord of the Rings by J.R.R. Tolkien
+6. Harry Potter and the Philosopher's Stone by J.K. Rowling
+7. The Chronicles of Narnia by C.S. Lewis
+8. The Golden Compass by Philip Pullman
+9. The Name of the Wind by Patrick Rothfuss
+10. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+11. The Dark Tower by Stephen King
+12. The Giver by Lois Lowry
+13. The Alchemist by Paulo Coelho
+14. The Girl with the Dragon Tattoo by Stieg Larsson
+15. The Book Thief by Markus Zusak
+16. The Catcher in the Rye by J.D. Salinger
+17. The Picture of Dorian Gray by Oscar Wilde
+18. The Great Gatsby by F. Scott Fitzgerald
+19. To Kill a Mockingbird by Harper Lee
+20. 1984 by George Orwell
+21. Animal Farm by George Orwell
+22. Brave New World by Aldous Huxley
+23. Fahrenheit 451 by Ray Bradbury
+24. The Handmaid's Tale by Margaret Atwood
+25. The Road by Cormac McCarthy
+26. The Stand by Stephen King
+27. The Shining by Stephen King
+28. The Silence of the Lambs by Thomas Harris
+29. The Bourne Identity by Robert Ludlum
+30. The Da Vinci Code by Dan Brown
+31. Angels and Demons by Dan Brown
+32. Digital Fortress by Dan Brown
+33. The Lost Symbol by Dan Brown
+34. The Hunger Games: Catching Fire by Suzanne Collins
+35. The Hunger Games: Mockingjay by Suzanne Collins
+36. The Hobbit by J.R.R. Tolkien
+37. The Silmarillion by J.R.R. Tolkien
+38. The Children of Hurin by J.R.R. Tolkien
+39. The Two Towers by J.R.R. Tolkien
+40. The Return of the King by J.R.R. Tolkien
+41. The Fellowship of the Ring by J.R.R. Tolkien
+42. The Magician's Nephew by C.S. Lewis
+43. The Lion, the Witch and the Wardrobe by C.S. Lewis
+44. Prince Caspian by C.S. Lewis
+45. The Horse and His Boy by C.S. Lewis
+46. The Voyage of the Dawn Treader by C.S. Lewis
+47. The Silver Chair by C.S. Lewis
+48. The Last Battle by C.S. Lewis
+49. The Amber Spyglass by Philip Pullman
+50. The Subtle Knife by Philip Pullman

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Daft Punk
+2. deadmau5
+3. Burial
+4. Scooter
+5. Cascada
+6. Infected Mushroom
+7. David Guetta
+8. Röyksopp
+9. Basshunter
+10. Girl Talk
+11. Ratatat
+12. Groove Coverage
+13. Sigur Rós
+14. Paul van Dyk
+15. Pendulum
+16. Enya
+17. Bonobo
+18. Frankmusik
+19. Crystal Castles
+20. Radiohead
+21. Muse
+22. Pink Floyd
+23. Nine Inch Nails
+24. Linkin Park
+25. Nirvana
+26. Iron Maiden
+27. Metallica
+28. Led Zeppelin
+29. Michael Jackson
+30. Pearl Jam
+31. a-ha
+32. Björk
+33. System of a Down
+34. The Beatles
+35. U2
+36. 30 Seconds to Mars
+37. Coldplay
+38. Blur
+39. Arctic Monkeys
+40. Placebo
+41. The Killers
+42. Amy Winehouse
+43. Lady Gaga
+44. Depeche Mode
+45. Madonna
+46. Rihanna
+47. Shakira
+48. Beyoncé
+49. Katy Perry
+50. Taylor Swift

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Misery (novel)
+2. Cujo
+3. The Bachman Books
+4. The Stand
+5. The House of Thunder
+6. The Servants of Twilight
+7. Black House (novel)
+8. Insomnia (novel)
+9. Gerald's Game
+10. The Watchmen (novel)
+11. Swan Song (novel)
+12. The Forest of Hands and Teeth
+13. The Hunger Games
+14. Mockingjay
+15. Catching Fire
+16. The Perks of Being a Wallflower
+17. Go Ask Alice
+18. Fahrenheit 451
+19. The Alchemist (novel)
+20. The Tao of Pooh
+21. The Count of Monte Cristo
+22. The Man in the High Castle
+23. Journey to the Center of the Earth
+24. The Hobbit
+25. The Voyage of the Dawn Treader
+26. The Dresden Files
+27. A Great and Terrible Beauty
+28. The Belgariad
+29. The Black Prism
+30. Brisingr
+31. Eragon
+32. Inheritance Cycle
+33. Eldest
+34. The Hitchhiker's Guide to the Galaxy (fictional)
+35. Dune (novel)
+36. The Longest Night (Angel novel)
+37. Warriors (anthology)
+38. The Stars My Destination
+39. Holes (novel)
+40. I Am Legend (novel)
+41. Evermore (book)
+42. Twilight (series)
+43. Inheritance (novel)
+44. I Am Number Four
+45. Be More Chill
+46. Nodame Cantabile
+47. Chibi Vampire
+48. The Zombie Survival Guide
+49. Sun Bin's Art of War
+50. Maximum Ride

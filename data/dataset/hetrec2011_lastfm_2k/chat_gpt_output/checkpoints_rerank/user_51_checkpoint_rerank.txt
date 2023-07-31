@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Megadeth
+2. Slayer
+3. In Flames
+4. Iron Maiden
+5. Judas Priest
+6. Children of Bodom
+7. Soilwork
+8. Led Zeppelin
+9. Motörhead
+10. Overkill
+11. Rammstein
+12. System of a Down
+13. Interpol
+14. Destruction
+15. Guns N' Roses
+16. Death
+17. Sepultura
+18. Sodom
+19. Kreator
+20. Exodus
+21. Municipal Waste
+22. Black Sabbath
+23. Helloween
+24. Venom
+25. Napalm Death
+26. The Sisters of Mercy
+27. Apocalyptica
+28. Metallica
+29. Nirvana
+30. Pearl Jam
+31. Iron Maiden
+32. Led Zeppelin
+33. Michael Jackson
+34. Pink Floyd
+35. Muse
+36. U2
+37. Radiohead
+38. The Beatles
+39. Arctic Monkeys
+40. Duran Duran
+41. Coldplay
+42. Blur
+43. Ke$ha
+44. Amy Winehouse
+45. Björk
+46. Daft Punk
+47. Nine Inch Nails
+48. Linkin Park
+49. Avenged Sevenfold
+50. My Chemical Romance

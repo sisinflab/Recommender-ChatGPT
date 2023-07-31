@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+3. The Hobbit by J.R.R. Tolkien
+4. The Lord of the Rings by J.R.R. Tolkien
+5. Frankenstein by Mary Shelley
+6. Alice's Adventures in Wonderland by Lewis Carroll
+7. The Little Prince by Antoine de Saint-Exupéry
+8. A Song of Ice and Fire by George R.R. Martin
+9. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+10. Nineteen Eighty-Four by George Orwell
+11. The Giver by Lois Lowry
+12. The Picture of Dorian Gray by Oscar Wilde
+13. The Kite Runner by Khaled Hosseini
+14. Angels & Demons by Dan Brown
+15. The Da Vinci Code by Dan Brown
+16. The Notebook by Nicholas Sparks
+17. The Lovely Bones by Alice Sebold
+18. The Host by Stephenie Meyer
+19. The Sword of Truth by Terry Goodkind
+20. Dune by Frank Herbert
+21. The Wheel of Time by Robert Jordan
+22. Eragon by Christopher Paolini
+23. The Solitaire Mystery by Jostein Gaarder
+24. Sophie's World by Jostein Gaarder
+25. The Watchmen by Alan Moore
+26. Night by Elie Wiesel
+27. Fear and Loathing in Las Vegas by Hunter S. Thompson
+28. The Autobiography of Malcolm X by Malcolm X
+29. Franny and Zooey by J.D. Salinger
+30. The Hatchet by Gary Paulsen
+31. Eldest by Christopher Paolini
+32. The Tale of the Body Thief by Anne Rice
+33. The Book of Five Rings by Miyamoto Musashi
+34. The Trumpet of the Swan by E.B. White
+35. Cut by Patricia McCormick
+36. Holes by Louis Sachar
+37. Tuck Everlasting by Natalie Babbitt
+38. Le Morte d'Arthur by Thomas Malory
+39. Ranger's Apprentice by John Flanagan
+40. Merrick by Anne Rice
+41. Peter and Wendy by J.M. Barrie
+42. Maximum Ride by James Patterson
+43. Shopgirl by Steve Martin
+44. City of Bones by Cassandra Clare
+45. Where the Wild Things Are by Maurice Sendak
+46. The Last Storytellers by Richard Hamilton
+47. Black Beauty by Anna Sewell
+48. Anne of Green Gables by Lucy Maud Montgomery
+49. Fushigi Yugi by Yuu Watase
+50. Ceres, Celestial Legend by Yuu Watase

@@ -1,0 +1,129 @@
+[
+    {
+        "default_validation_metric": "nDCG",
+        "default_validation_cutoff": 10,
+        "rel_threshold": 0
+    },
+    {
+        "meta": {},
+        "recommender": "output_EXP_1_elliot",
+        "configuration": {
+            "path": "../data/dataset/ml_small_2018/text_davinci_output/output_EXP_1_elliot.tsv",
+            "name": "output_EXP_1_elliot"
+        }
+    },
+    {
+        "meta": {
+            "hyper_max_evals": 10,
+            "hyper_opt_alg": "tpe",
+            "save_recs": true,
+            "verbose": true
+        },
+        "recommender": "VSM_sim=cosine_up=tfidf_ip=binary_load=ItemAttributes",
+        "configuration": {
+            "similarity": "cosine",
+            "user_profile": "tfidf",
+            "item_profile": "binary",
+            "neighbors": 20,
+            "loader": "ItemAttributes",
+            "name": "VSM_sim=cosine_up=tfidf_ip=binary_load=ItemAttributes"
+        }
+    },
+    {
+        "meta": {
+            "save_recs": true,
+            "verbose": true
+        },
+        "recommender": "AttributeItemKNN_nn=20_sim=correlation_bin=False_load=ItemAttributes",
+        "configuration": {
+            "neighbors": 20,
+            "similarity": "correlation",
+            "name": "AttributeItemKNN_nn=20_sim=correlation_bin=False_load=ItemAttributes"
+        }
+    },
+    {
+        "meta": {
+            "save_recs": true,
+            "verbose": true
+        },
+        "recommender": "AttributeUserKNN_nn=40_sim=correlation_profile=binary_bin=False_load=ItemAttributes",
+        "configuration": {
+            "neighbors": 40,
+            "similarity": "correlation",
+            "name": "AttributeUserKNN_nn=40_sim=correlation_profile=binary_bin=False_load=ItemAttributes"
+        }
+    },
+    {
+        "meta": {
+            "save_recs": true,
+            "verbose": true
+        },
+        "recommender": "ItemKNN_nn=40_sim=cosine_imp=standard_bin=False_shrink=0_norm=True_asymalpha=_tvalpha=_tvbeta=_rweights=",
+        "configuration": {
+            "neighbors": 40,
+            "similarity": "cosine",
+            "name": "ItemKNN_nn=40_sim=cosine_imp=standard_bin=False_shrink=0_norm=True_asymalpha=_tvalpha=_tvbeta=_rweights="
+        }
+    },
+    {
+        "meta": {
+            "save_recs": true,
+            "verbose": true
+        },
+        "recommender": "UserKNN_nn=80_sim=correlation_imp=standard_bin=False_shrink=0_norm=True_asymalpha=_tvalpha=_tvbeta=_rweights=",
+        "configuration": {
+            "neighbors": 80,
+            "similarity": "correlation",
+            "name": "UserKNN_nn=80_sim=correlation_imp=standard_bin=False_shrink=0_norm=True_asymalpha=_tvalpha=_tvbeta=_rweights="
+        }
+    },
+    {
+        "meta": {
+            "verbose": true,
+            "save_recs": true,
+            "hyper_max_evals": 10,
+            "hyper_opt_alg": "tpe"
+        },
+        "recommender": "EASER_neighborhood=1861_l2_norm=18374136$168271586",
+        "configuration": {
+            "l2_norm": 18374136.168271586,
+            "name": "EASER_neighborhood=1861_l2_norm=18374136$168271586"
+        }
+    },
+    {
+        "meta": {
+            "hyper_max_evals": 10,
+            "hyper_opt_alg": "tpe",
+            "verbose": true,
+            "save_recs": true
+        },
+        "recommender": "RP3beta_neighborhood=507_alpha=1$0180281935718316_beta=0$41875971052261285_normalize_similarity=True",
+        "configuration": {
+            "neighborhood": 507.81347001065393,
+            "alpha": 1.0180281935718316,
+            "beta": 0.41875971052261285,
+            "normalize_similarity": true,
+            "name": "RP3beta_neighborhood=507_alpha=1$0180281935718316_beta=0$41875971052261285_normalize_similarity=True"
+        }
+    },
+    {
+        "meta": {
+            "verbose": true,
+            "save_recs": true
+        },
+        "recommender": "MostPop",
+        "configuration": {
+            "name": "MostPop"
+        }
+    },
+    {
+        "meta": {
+            "save_recs": true
+        },
+        "recommender": "Random_seed=42",
+        "configuration": {
+            "random_seed": 42,
+            "name": "Random_seed=42"
+        }
+    }
+]

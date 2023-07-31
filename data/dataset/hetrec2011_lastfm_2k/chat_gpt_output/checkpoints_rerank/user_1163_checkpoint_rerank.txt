@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Depeche Mode
+2. Muse
+3. Radiohead
+4. U2
+5. Pink Floyd
+6. The Cure
+7. Björk
+8. Duran Duran
+9. Queen
+10. Kraftwerk
+11. New Order
+12. Alphaville
+13. Nitzer Ebb
+14. Recoil
+15. Orchestral Manoeuvres in the Dark
+16. Yazoo
+17. Portishead
+18. Soft Cell
+19. Martin L. Gore
+20. Camouflage
+21. James Morrison
+22. And One
+23. Cut Copy
+24. Foreigner
+25. Empire of the Sun
+26. Myslovitz
+27. Placebo
+28. ZZ Top
+29. Eurythmics
+30. Roxette
+31. The Police
+32. Britney Spears
+33. Lady Gaga
+34. Madonna
+35. Rihanna
+36. Shakira
+37. Katy Perry
+38. Taylor Swift
+39. Ke$ha
+40. Coldplay
+41. Blur
+42. Arctic Monkeys
+43. The Killers
+44. Nirvana
+45. Iron Maiden
+46. Led Zeppelin
+47. Metallica
+48. Michael Jackson
+49. Pearl Jam
+50. System of a Down

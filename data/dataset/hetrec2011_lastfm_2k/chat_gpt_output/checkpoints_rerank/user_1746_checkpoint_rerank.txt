@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for user 1746 are:
+
+1. The National
+2. Elbow
+3. Beck
+4. Morrissey
+5. Arcade Fire
+6. Goldfrapp
+7. Doves
+8. Crowded House
+9. R.E.M.
+10. Interpol
+11. New Order
+12. Kasabian
+13. Sigur Rós
+14. Bloc Party
+15. INXS
+16. Oasis
+17. Massive Attack
+18. Primal Scream
+19. Talk Talk
+20. Róisín Murphy
+21. Peter Gabriel
+22. Red Hot Chili Peppers
+23. The White Stripes
+24. Faithless
+25. Kaiser Chiefs
+26. Spiritualized
+27. The Smiths
+28. Keane
+29. Arctic Monkeys
+30. The Verve
+31. Radiohead
+32. Muse
+33. Pink Floyd
+34. Led Zeppelin
+35. Nirvana
+36. Iron Maiden
+37. Metallica
+38. Michael Jackson
+39. Pearl Jam
+40. a-ha
+41. Björk
+42. Daft Punk
+43. Nine Inch Nails
+44. Linkin Park
+45. Avril Lavigne
+46. Coldplay
+47. Blur
+48. Placebo
+49. The Killers
+50. U2

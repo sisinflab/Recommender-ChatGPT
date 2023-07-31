@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. To Kill a Mockingbird by Harper Lee
+3. Inkheart by Cornelia Funke
+4. The Giver by Lois Lowry
+5. Holes by Louis Sachar
+6. The Tale of Despereaux by Kate DiCamillo
+7. Romeo and Juliet by William Shakespeare
+8. Adventures of Huckleberry Finn by Mark Twain
+9. The Outsiders by S.E. Hinton
+10. Harry Potter by J.K. Rowling
+11. The Secret Life of Bees by Sue Monk Kidd
+12. Mansfield Park by Jane Austen
+13. Unwind by Neal Shusterman
+14. The Name of this Book is Secret by Pseudonymous Bosch
+15. Brave New World by Aldous Huxley
+16. The Wanderers by Meg Howrey
+17. The Wedding by Danielle Steel
+18. Nickel and Dimed by Barbara Ehrenreich
+19. Inferno by Dante Alighieri
+20. The Long Hard Road Out of Hell by Marilyn Manson
+21. Suck It Up by Brian Meehl
+22. Things Fall Apart by Chinua Achebe
+23. Anthem by Ayn Rand
+24. Perfect Chemistry by Simone Elkeles
+25. Water for Elephants by Sara Gruen
+26. Paradise Lost by John Milton
+27. Where the Heart Is by Billie Letts
+28. The Stranger by Albert Camus
+29. Fruits Basket by Natsuki Takaya
+30. Atonement by Ian McEwan
+31. The Rules of Survival by Nancy Werlin
+32. Persuasion by Jane Austen
+33. Fahrenheit 451 by Ray Bradbury
+34. A Separate Peace by John Knowles
+35. The Black Dahlia by James Ellroy
+36. Bible
+37. Eragon by Christopher Paolini
+38. Go Ask Alice by Anonymous
+39. The Stand by Stephen King
+40. Animorphs by K.A. Applegate
+41. Tuesdays with Morrie by Mitch Albom
+42. The Five People You Meet in Heaven by Mitch Albom
+43. Goosebumps by R.L. Stine
+44. The Call of the Wild by Jack London
+45. Battle Royale by Koushun Takami
+46. Dragon Rider by Cornelia Funke
+47. Twilight by Stephenie Meyer
+48. Emma by Jane Austen
+49. The Memory Keeper's Daughter by Kim Edwards
+50. Little Women by Louisa May Alcott

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Shining by Stephen King
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. 1984 by George Orwell
+5. The Hunger Games by Suzanne Collins
+6. The Girl with the Dragon Tattoo by Stieg Larsson
+7. The Da Vinci Code by Dan Brown
+8. The Hobbit by J.R.R. Tolkien
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+11. The Stand by Stephen King
+12. The Silence of the Lambs by Thomas Harris
+13. The Great Gatsby by F. Scott Fitzgerald
+14. The Road by Cormac McCarthy
+15. The Book Thief by Markus Zusak
+16. The Giver by Lois Lowry
+17. The Maze Runner by James Dashner
+18. The Fault in Our Stars by John Green
+19. The Chronicles of Narnia by C.S. Lewis
+20. The Outsiders by S.E. Hinton
+21. The Picture of Dorian Gray by Oscar Wilde
+22. The Adventures of Tom Sawyer by Mark Twain
+23. The Adventures of Huckleberry Finn by Mark Twain
+24. The Secret Garden by Frances Hodgson Burnett
+25. The Time Traveler's Wife by Audrey Niffenegger
+26. The Lovely Bones by Alice Sebold
+27. The Help by Kathryn Stockett
+28. The Color Purple by Alice Walker
+29. The Handmaid's Tale by Margaret Atwood
+30. The Road Less Traveled by M. Scott Peck
+31. The Alchemist by Paulo Coelho
+32. The Sun Also Rises by Ernest Hemingway
+33. The Old Man and the Sea by Ernest Hemingway
+34. The Picture of Dorian Gray by Oscar Wilde
+35. The Adventures of Tom Sawyer by Mark Twain
+36. The Adventures of Huckleberry Finn by Mark Twain
+37. The Secret Garden by Frances Hodgson Burnett
+38. The Time Traveler's Wife by Audrey Niffenegger
+39. The Lovely Bones by Alice Sebold
+40. The Help by Kathryn Stockett
+41. The Color Purple by Alice Walker
+42. The Handmaid's Tale by Margaret Atwood
+43. The Road Less Traveled by M. Scott Peck
+44. The Alchemist by Paulo Coelho
+45. The Sun Also Rises by Ernest Hemingway
+46. The Old Man and the Sea by Ernest Hemingway
+47. The Picture of Dorian Gray by Oscar Wilde
+48. The Adventures of Tom Sawyer by Mark Twain
+49. The Adventures of Huckleberry Finn by Mark Twain
+50. The Secret Garden by

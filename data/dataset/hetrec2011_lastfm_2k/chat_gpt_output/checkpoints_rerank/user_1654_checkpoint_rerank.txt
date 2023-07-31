@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for user 1654 would be:
+
+1. The Smiths
+2. Belle and Sebastian
+3. Neutral Milk Hotel
+4. Camera Obscura
+5. Aimee Mann
+6. Le Tigre
+7. They Might Be Giants
+8. The New Pornographers
+9. Pixies
+10. Blur
+11. Radiohead
+12. Nirvana
+13. Pearl Jam
+14. Muse
+15. Pink Floyd
+16. Led Zeppelin
+17. Metallica
+18. Iron Maiden
+19. Duran Duran
+20. De La Soul
+21. Madonna
+22. Beyoncé
+23. Lady Gaga
+24. Christina Aguilera
+25. Rihanna
+26. Shakira
+27. The Beatles
+28. Katy Perry
+29. Avril Lavigne
+30. Taylor Swift
+31. Evanescence
+32. Glee Cast
+33. U2
+34. 30 Seconds to Mars
+35. Arctic Monkeys
+36. Placebo
+37. The Killers
+38. Amy Winehouse
+39. a-ha
+40. Björk
+41. Daft Punk
+42. Nine Inch Nails
+43. Linkin Park
+44. Kelly Clarkson
+45. All Time Low
+46. P!nk
+47. Avenged Sevenfold
+48. Black Eyed Peas
+49. My Chemical Romance
+50. Green Day

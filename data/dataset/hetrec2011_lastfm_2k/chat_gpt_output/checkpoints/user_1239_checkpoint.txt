@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Muse
+3. Arctic Monkeys
+4. Tame Impala
+5. Arcade Fire
+6. Pink Floyd (Similar Artist)
+7. The Beatles
+8. David Bowie
+9. Sigur Rós
+10. The National
+11. Bon Iver
+12. Fleet Foxes
+13. The Smiths
+14. Joy Division
+15. Interpol
+16. The Strokes (Similar Artist)
+17. Vampire Weekend
+18. The Black Keys
+19. The White Stripes
+20. Queens of the Stone Age (Similar Artist)
+21. Foo Fighters (Similar Artist)
+22. Nirvana
+23. Pearl Jam
+24. Soundgarden
+25. Alice in Chains
+26. Stone Temple Pilots
+27. Kings of Leon (Similar Artist)
+28. Coldplay
+29. U2
+30. Oasis (Similar Artist)
+31. Blur (Similar Artist)
+32. Gorillaz
+33. Beck
+34. The Flaming Lips
+35. Wilco
+36. My Morning Jacket
+37. Band of Horses
+38. The War on Drugs
+39. Father John Misty
+40. Grizzly Bear
+41. The Shins
+42. Broken Social Scene
+43. Explosions in the Sky
+44. Mogwai
+45. Godspeed You! Black Emperor
+46. Boards of Canada
+47. Aphex Twin
+48. Massive Attack
+49. Portishead (Similar Artist)
+50. Tricky

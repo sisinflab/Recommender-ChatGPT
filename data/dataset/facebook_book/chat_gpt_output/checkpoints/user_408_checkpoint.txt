@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Crime and Punishment by Fyodor Dostoevsky
+2. The Catcher in the Rye by J.D. Salinger
+3. To Kill a Mockingbird by Harper Lee
+4. One Hundred Years of Solitude by Gabriel Garcia Marquez
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Brave New World by Aldous Huxley
+7. The Stranger by Albert Camus
+8. The Picture of Dorian Gray by Oscar Wilde
+9. Heart of Darkness by Joseph Conrad
+10. The Bell Jar by Sylvia Plath
+11. Lolita by Vladimir Nabokov
+12. The Brothers Karamazov by Fyodor Dostoevsky
+13. The Trial by Franz Kafka
+14. The Sun Also Rises by Ernest Hemingway
+15. Slaughterhouse-Five by Kurt Vonnegut
+16. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+17. The Road by Cormac McCarthy
+18. The Old Man and the Sea by Ernest Hemingway
+19. The Sound and the Fury by William Faulkner
+20. The Grapes of Wrath by John Steinbeck
+21. The Stranger Beside Me by Ann Rule
+22. The Shining by Stephen King
+23. The Girl with the Dragon Tattoo by Stieg Larsson
+24. The Da Vinci Code by Dan Brown
+25. The Hunger Games by Suzanne Collins
+26. The Lord of the Rings by J.R.R. Tolkien
+27. The Hobbit by J.R.R. Tolkien
+28. The Chronicles of Narnia by C.S. Lewis
+29. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+30. The Martian by Andy Weir
+31. The Handmaid's Tale by Margaret Atwood
+32. The Road by Cormac McCarthy
+33. The Stand by Stephen King
+34. The Silence of the Lambs by Thomas Harris
+35. The God of Small Things by Arundhati Roy
+36. The Kite Runner by Khaled Hosseini
+37. The Secret History by Donna Tartt
+38. The Name of the Wind by Patrick Rothfuss
+39. The Book Thief by Markus Zusak
+40. The Help by Kathryn Stockett
+41. The Fault in Our Stars by John Green
+42. The Girl on the Train by Paula Hawkins
+43. The Nightingale by Kristin Hannah
+44. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+45. The Alchemist by Paulo Coelho
+46. The Power of One by Bryce Courtenay
+47. The Poisonwood Bible by Barbara Kingsolver
+48. The Joy Luck Club by Amy Tan
+49. The Color Purple by Alice Walker
+50. The Handmaid's

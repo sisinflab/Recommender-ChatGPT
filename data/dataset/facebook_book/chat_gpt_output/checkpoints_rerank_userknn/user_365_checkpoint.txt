@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Bell Jar by Sylvia Plath
+2. The Catcher in the Rye by J.D. Salinger
+3. To Kill a Mockingbird by Harper Lee
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Of Human Bondage by W. Somerset Maugham
+6. Crime and Punishment by Fyodor Dostoevsky
+7. The Picture of Dorian Gray by Oscar Wilde
+8. Frankenstein by Mary Shelley
+9. Moby-Dick by Herman Melville
+10. The Adventures of Tom Sawyer by Mark Twain
+11. Robinson Crusoe by Daniel Defoe
+12. The Lord of the Rings by J.R.R. Tolkien
+13. Memoirs of a Geisha by Arthur Golden
+14. The Island of Doctor Moreau by H.G. Wells
+15. A Clockwork Orange by Anthony Burgess
+16. Macbeth by William Shakespeare
+17. The Lovely Bones by Alice Sebold
+18. A Wrinkle in Time by Madeleine L'Engle
+19. Slaughterhouse-Five by Kurt Vonnegut
+20. Zen and the Art of Motorcycle Maintenance by Robert M. Pirsig
+21. Adventures of Huckleberry Finn by Mark Twain
+22. The Diary of a Young Girl by Anne Frank
+23. I Never Promised You a Rose Garden by Joanne Greenberg
+24. The Hamlet by William Faulkner
+25. Their Eyes Were Watching God by Zora Neale Hurston
+26. Uncle Tom's Cabin by Harriet Beecher Stowe
+27. Black Boy by Richard Wright
+28. Push by Sapphire
+29. As I Lay Dying by William Faulkner
+30. The Alchemist by Paulo Coelho
+31. Veronika Decides to Die by Paulo Coelho
+32. Inferno by Dante Alighieri
+33. Memoirs: 1939-1993 by George F. Kennan
+34. The Queen of the Damned by Anne Rice
+35. Interview with the Vampire by Anne Rice
+36. Angels & Demons by Dan Brown
+37. The Da Vinci Code by Dan Brown
+38. Gone with the Wind by Margaret Mitchell
+39. The Devil Wears Prada by Lauren Weisberger
+40. Girl, Interrupted by Susanna Kaysen
+41. Johnny Got His Gun by Dalton Trumbo
+42. Killing Mr. Griffin by Lois Duncan
+43. Nineteen Eighty-Four by George Orwell
+44. Love, Stargirl by Jerry Spinelli
+45. War and Peace by Leo Tolstoy
+46. Guns, Germs, and Steel by Jared Diamond
+47. Cannery Row by John Steinbeck
+48. Treasure Island by Robert Louis Stevenson
+49. My Antonia by Willa Cather

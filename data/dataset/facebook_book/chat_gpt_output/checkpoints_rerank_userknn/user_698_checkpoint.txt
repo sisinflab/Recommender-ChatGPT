@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Witch of Portobello by Paulo Coelho
+2. Veronika Decides to Die by Paulo Coelho
+3. By the River Piedra I Sat Down and Wept by Paulo Coelho
+4. Brida by Paulo Coelho
+5. The Zahir by Paulo Coelho
+6. Eleven Minutes by Paulo Coelho
+7. The Picture of Dorian Gray by Oscar Wilde
+8. The Importance of Being Earnest by Oscar Wilde
+9. The Perks of Being a Wallflower by Stephen Chbosky
+10. Dracula by Bram Stoker
+11. To Kill a Mockingbird by Harper Lee
+12. The Book Thief by Markus Zusak
+13. Crime and Punishment by Fyodor Dostoevsky
+14. The Outsiders by S.E. Hinton
+15. Little Women by Louisa May Alcott
+16. Sense and Sensibility by Jane Austen
+17. Atonement by Ian McEwan
+18. Inkheart by Cornelia Funke
+19. The Princess Diaries by Meg Cabot
+20. The Secret Dreamworld of a Shopaholic by Sophie Kinsella
+21. The Lovely Bones by Alice Sebold
+22. Never Let Me Go by Kazuo Ishiguro
+23. The Da Vinci Code by Dan Brown
+24. The Runaway Jury by John Grisham
+25. Uncle Tom's Cabin by Harriet Beecher Stowe
+26. Gone with the Wind by Margaret Mitchell
+27. The Other Boleyn Girl by Philippa Gregory
+28. The Queen's Fool by Philippa Gregory
+29. The Sight by David Clement-Davies
+30. Inheritance by Christopher Paolini
+31. Harry Potter by J.K. Rowling
+32. Chronicles of Ancient Darkness by Michelle Paver
+33. Warriors by Erin Hunter
+34. The Crucible of Time by John Brunner
+35. Time's Arrow by Martin Amis
+36. Haunted by Chuck Palahniuk
+37. The Birth of Tragedy by Friedrich Nietzsche
+38. Bible
+39. Diary by Chuck Palahniuk
+40. The Best Laid Plans by Sidney Sheldon
+41. PS, I Love You by Cecelia Ahern
+42. Black Beauty by Anna Sewell
+43. The Wedding by Danielle Steel
+44. This Lullaby by Sarah Dessen
+45. Will Grayson, Will Grayson by John Green and David Levithan
+46. Choke by Chuck Palahniuk
+47. Catching Fire by Suzanne Collins
+48. Haunted by Meg Cabot
+49. Fell by David Clement-Davies
+50. Paper Towns by John Green

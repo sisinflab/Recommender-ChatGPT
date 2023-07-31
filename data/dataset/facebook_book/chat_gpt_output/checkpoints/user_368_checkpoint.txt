@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Harry Potter series by J.K. Rowling
+3. Percy Jackson and the Olympians series by Rick Riordan
+4. The Chronicles of Narnia by C.S. Lewis
+5. The Lord of the Rings by J.R.R. Tolkien
+6. The Hobbit by J.R.R. Tolkien
+7. The Fault in Our Stars by John Green
+8. Divergent by Veronica Roth
+9. The Maze Runner by James Dashner
+10. The Giver by Lois Lowry
+11. The Book Thief by Markus Zusak
+12. To Kill a Mockingbird by Harper Lee
+13. The Catcher in the Rye by J.D. Salinger
+14. The Great Gatsby by F. Scott Fitzgerald
+15. 1984 by George Orwell
+16. Animal Farm by George Orwell
+17. Brave New World by Aldous Huxley
+18. Fahrenheit 451 by Ray Bradbury
+19. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+20. Ender's Game by Orson Scott Card
+21. The Alchemist by Paulo Coelho
+22. The Da Vinci Code by Dan Brown
+23. Angels and Demons by Dan Brown
+24. The Girl with the Dragon Tattoo by Stieg Larsson
+25. The Girl Who Played with Fire by Stieg Larsson
+26. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+27. The Help by Kathryn Stockett
+28. The Kite Runner by Khaled Hosseini
+29. A Thousand Splendid Suns by Khaled Hosseini
+30. The Time Traveler's Wife by Audrey Niffenegger
+31. The Lovely Bones by Alice Sebold
+32. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+33. Life of Pi by Yann Martel
+34. The Secret Life of Bees by Sue Monk Kidd
+35. The Color Purple by Alice Walker
+36. The Joy Luck Club by Amy Tan
+37. The Poisonwood Bible by Barbara Kingsolver
+38. The Glass Castle by Jeannette Walls
+39. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+40. The Nightingale by Kristin Hannah
+41. The Help by Kathryn Stockett
+42. The Picture of Dorian Gray by Oscar Wilde
+43. The Count of Monte Cristo by Alexandre Dumas
+44. Les Misérables by Victor Hugo
+45. The Three Musketeers by Alexandre Dumas
+46. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+47. The Hound of the Baskervilles by Arthur Conan Doyle
+48. The Name of the Wind by Patrick Rothfuss
+49. The Wise Man's Fear

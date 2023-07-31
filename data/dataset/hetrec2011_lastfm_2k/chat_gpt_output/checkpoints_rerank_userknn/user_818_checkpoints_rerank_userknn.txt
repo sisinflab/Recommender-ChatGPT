@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Foo Fighters
+2. Coldplay
+3. Muse
+4. Radiohead
+5. Arctic Monkeys
+6. The Killers
+7. Green Day
+8. Metallica
+9. Queen
+10. Red Hot Chili Peppers
+11. Linkin Park
+12. Franz Ferdinand
+13. My Chemical Romance
+14. Iron Maiden
+15. Rise Against
+16. Editors
+17. Bloc Party
+18. The Bravery
+19. The Gaslight Anthem
+20. The Kooks
+21. Vampire Weekend
+22. We The Kings
+23. MGMT
+24. Paramore
+25. The Offspring
+26. Marilyn Manson
+27. Limp Bizkit
+28. Eddie Vedder
+29. Flogging Molly
+30. Sum 41
+31. Feeder
+32. NOFX
+33. The Beatles
+34. Millencolin
+35. The Used
+36. Placebo
+37. Pendulum
+38. Garbage
+39. Maxïmo Park
+40. Yellowcard
+41. Audioslave
+42. AFI
+43. Dashboard Confessional
+44. Underoath
+45. Papa Roach
+46. In Flames
+47. Protest The Hero
+48. Korn
+49. System of a Down
+50. The Bloody Beetroots

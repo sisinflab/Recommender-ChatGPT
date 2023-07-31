@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Eragon by Christopher Paolini
+2. Inkheart by Cornelia Funke
+3. The Amulet of Samarkand by Jonathan Stroud
+4. The Hunger Games by Suzanne Collins
+5. The Lightning Thief by Rick Riordan
+6. The Golden Compass by Philip Pullman
+7. Harry Potter and the Philosopher's Stone by J.K. Rowling
+8. The Name of the Wind by Patrick Rothfuss
+9. The Maze Runner by James Dashner
+10. The Dark is Rising by Susan Cooper
+11. The Magicians by Lev Grossman
+12. The Mortal Instruments by Cassandra Clare
+13. The Lord of the Rings by J.R.R. Tolkien
+14. The Chronicles of Narnia by C.S. Lewis
+15. The Wheel of Time by Robert Jordan
+16. Mistborn by Brandon Sanderson
+17. The Belgariad by David Eddings
+18. The Sword of Shannara by Terry Brooks
+19. The Dresden Files by Jim Butcher
+20. The Kingkiller Chronicle by Patrick Rothfuss
+21. The Black Magician Trilogy by Trudi Canavan
+22. The First Law Trilogy by Joe Abercrombie
+23. The Lies of Locke Lamora by Scott Lynch
+24. The Farseer Trilogy by Robin Hobb
+25. The Riyria Revelations by Michael J. Sullivan
+26. The Night Angel Trilogy by Brent Weeks
+27. The Stormlight Archive by Brandon Sanderson
+28. The Lightbringer Series by Brent Weeks
+29. The Broken Empire Trilogy by Mark Lawrence
+30. The Powder Mage Trilogy by Brian McClellan
+31. The Demon Cycle by Peter V. Brett
+32. The Malazan Book of the Fallen by Steven Erikson
+33. The Black Company by Glen Cook
+34. The Codex Alera by Jim Butcher
+35. The Gentleman Bastard Sequence by Scott Lynch
+36. The Earthsea Cycle by Ursula K. Le Guin
+37. The Dark Tower by Stephen King
+38. The Hyperion Cantos by Dan Simmons
+39. The Culture Series by Iain M. Banks
+40. The Foundation Series by Isaac Asimov
+41. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+42. Dune by Frank Herbert
+43. Neuromancer by William Gibson
+44. Snow Crash by Neal Stephenson
+45. The Diamond Age by Neal Stephenson
+46. The Martian by Andy Weir
+47. Ready Player One by Ernest Cline
+48. Old Man's War by John Scalzi
+49. Red Rising by Pierce Brown
+50. The Expanse by James S.A. Corey

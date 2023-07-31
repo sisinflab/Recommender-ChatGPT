@@ -1,0 +1,47 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Neuromancer by William Gibson
+2. Snow Crash by Neal Stephenson
+3. Do Androids Dream of Electric Sheep? by Philip K. Dick
+4. The Stand by Stephen King
+5. American Gods by Neil Gaiman
+6. The Dark Tower series by Stephen King
+7. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+8. The Girl with the Dragon Tattoo by Stieg Larsson
+9. The Hunger Games by Suzanne Collins
+10. Ender's Game by Orson Scott Card
+11. The Road by Cormac McCarthy
+12. The Shining by Stephen King
+13. The Martian by Andy Weir
+14. The Name of the Wind by Patrick Rothfuss
+15. The Lord of the Rings by J.R.R. Tolkien
+16. Dune by Frank Herbert
+17. The Chronicles of Narnia by C.S. Lewis
+18. The Hobbit by J.R.R. Tolkien
+19. The Catcher in the Rye by J.D. Salinger
+20. To Kill a Mockingbird by Harper Lee
+21. 1984 by George Orwell
+22. Animal Farm by George Orwell
+23. Brave New World by Aldous Huxley
+24. Fahrenheit 451 by Ray Bradbury
+25. The Giver by Lois Lowry
+26. The Maze Runner by James Dashner
+27. The Hunger Games Trilogy Boxset by Suzanne Collins
+28. The Dark Tower Boxed Set by Stephen King
+29. The Lord of the Rings Boxed Set by J.R.R. Tolkien
+30. The Hitchhiker's Guide to the Galaxy Boxed Set by Douglas Adams
+31. The Harry Potter Boxed Set by J.K. Rowling
+32. The Wheel of Time Boxed Set by Robert Jordan
+33. The Dark Tower Companion by Bev Vincent
+34. The Art of Neal Stephenson's Snow Crash by Scott Bukatman
+35. The Art of William Gibson's Neuromancer by Timothy Leary
+36. The Art of Philip K. Dick's Electric Dreams by David S. Goyer
+37. The Art of Dean Koontz's Lightning by Dean Koontz
+38. The Art of Neal Stephenson's The Diamond Age by Neal Stephenson
+39. The Art of Clive Barker's The Great and Secret Show by Clive Barker
+40. The Art of William Gibson's Idoru by William Gibson
+41. The Art of Robin Hobb's Royal Assassin by Robin Hobb
+42. The Art of Dean Koontz's Dark Rivers of the Heart by Dean Koontz
+43. The Art of Lincoln Child and Douglas Preston's The Cabinet of Curiosities by Lincoln Child and Douglas Preston
+44. The Art of William Gibson's Count Zero by William Gibson
+45. The Art of William

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye
+2. Nineteen Eighty-Four
+3. The Picture of Dorian Gray
+4. Brave New World
+5. The Handmaid's Tale
+6. The Giver
+7. The Lord of the Rings
+8. Animal Farm
+9. The Raven
+10. Angels & Demons
+11. The Lost Symbol
+12. Digital Fortress
+13. The Vampire Lestat
+14. The Chronicles of Narnia: Prince Caspian
+15. Percy Jackson & the Olympians
+16. Eragon
+17. The Summoning (novel)
+18. The Lovely Bones
+19. Extremely Loud and Incredibly Close
+20. Burned (Hopkins novel)
+21. Pretties
+22. Skeleton Creek (novel)
+23. Gathering Blue
+24. My Friend Leonard
+25. I Hope They Serve Beer in Hell
+26. The Chosen (Potok novel)
+27. You Don't Know Me (novel)
+28. Martyn Pig
+29. Macbeth
+30. Cut (novel)
+31. The Messenger (Markus Zusak novel)
+32. Thirteen Reasons Why
+33. Fallen (Kate novel)
+34. Before I Die
+35. Extras (novel)
+36. The Perks of Being a Wallflower
+37. Impulse economy by ['Gary Schwartz (designer)']
+38. Tamar (novel) by ['Mal Peet']
+39. Glass (novel) by ['Ellen Hopkins']
+40. Tricks (novel) by ['Ellen Hopkins']
+41. Go Ask Alice
+42. It Happened to Nancy: By an Anonymous Teenager
+43. Identical (novel)
+44. Anne of Green Gables
+45. Black Butler
+46. Jay's Journal
+47. Ouran High School Host Club
+48. Gossip Girl (novel series)
+49. Blue Bloods (novel series)
+50. A Million Little Pieces

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Beatles
+2. Death Cab for Cutie
+3. City and Colour
+4. Dashboard Confessional
+5. A Day to Remember
+6. We Came As Romans
+7. The Smiths
+8. Alexisonfire
+9. Passion Pit
+10. M83
+11. Band of Horses
+12. Kings of Leon
+13. Lady Antebellum
+14. Rascal Flatts
+15. Minus the Bear
+16. Damien Rice
+17. Silverstein
+18. The Devil Wears Prada
+19. Colbie Caillat
+20. Four Year Strong
+21. Kate Nash
+22. Madonna
+23. Radiohead
+24. Muse
+25. Pink Floyd
+26. Nirvana
+27. Led Zeppelin
+28. Metallica
+29. Iron Maiden
+30. Pearl Jam
+31. U2
+32. Duran Duran
+33. Coldplay
+34. Arctic Monkeys
+35. Placebo
+36. The Killers
+37. Michael Jackson
+38. Björk
+39. Nine Inch Nails
+40. Daft Punk
+41. Linkin Park
+42. Kelly Clarkson
+43. All Time Low
+44. Avenged Sevenfold
+45. My Chemical Romance
+46. Green Day
+47. The Cure
+48. Ke$ha
+49. Rihanna
+50. Lady Gaga

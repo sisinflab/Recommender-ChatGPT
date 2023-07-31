@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Tori Amos
+2. Björk
+3. Florence + the Machine
+4. Fiona Apple
+5. Marilyn Manson
+6. Nine Inch Nails
+7. Radiohead
+8. Beck
+9. Robyn
+10. Yeah Yeah Yeahs
+11. La Roux
+12. Crystal Castles
+13. Queens of the Stone Age
+14. Korn
+15. Flyleaf
+16. Amy Winehouse
+17. Stone Sour
+18. Pitty
+19. Feist
+20. Vanessa da Mata
+21. Pantera
+22. Cold
+23. Alicia Keys
+24. Howard Shore
+25. Klaxons
+26. Depeche Mode
+27. The Killers
+28. Nirvana
+29. Iron Maiden
+30. Led Zeppelin
+31. Metallica
+32. Michael Jackson
+33. Pearl Jam
+34. a-ha
+35. System of a Down
+36. Daft Punk
+37. Linkin Park
+38. All Time Low
+39. Avenged Sevenfold
+40. Green Day
+41. The Cure
+42. Shakira
+43. Christina Aguilera
+44. Britney Spears
+45. Madonna
+46. Rihanna
+47. Lady Gaga
+48. Paramore
+49. Katy Perry
+50. Taylor Swift

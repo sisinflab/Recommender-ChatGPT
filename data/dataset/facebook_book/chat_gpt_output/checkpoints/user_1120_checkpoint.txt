@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. The Chronicles of Narnia by C.S. Lewis
+3. The Dark Tower series by Stephen King
+4. The Name of the Wind by Patrick Rothfuss
+5. The Wheel of Time series by Robert Jordan
+6. The Magicians by Lev Grossman
+7. The Kingkiller Chronicle by Patrick Rothfuss
+8. The Mistborn Trilogy by Brandon Sanderson
+9. The Dresden Files by Jim Butcher
+10. The Earthsea Cycle by Ursula K. Le Guin
+11. The Belgariad by David Eddings
+12. The Malazan Book of the Fallen by Steven Erikson
+13. The First Law Trilogy by Joe Abercrombie
+14. The Riyria Revelations by Michael J. Sullivan
+15. The Black Company by Glen Cook
+16. The Farseer Trilogy by Robin Hobb
+17. The Stormlight Archive by Brandon Sanderson
+18. The Lightbringer series by Brent Weeks
+19. The Broken Empire Trilogy by Mark Lawrence
+20. The Powder Mage Trilogy by Brian McClellan
+21. The Night Angel Trilogy by Brent Weeks
+22. The Gentleman Bastard Sequence by Scott Lynch
+23. The Demon Cycle by Peter V. Brett
+24. The Codex Alera by Jim Butcher
+25. The Inheritance Trilogy by N.K. Jemisin
+26. The Bartimaeus Trilogy by Jonathan Stroud
+27. The Abhorsen Trilogy by Garth Nix
+28. The Dark Materials Trilogy by Philip Pullman
+29. The Hunger Games Trilogy by Suzanne Collins
+30. The Maze Runner Trilogy by James Dashner
+31. The Divergent Trilogy by Veronica Roth
+32. The Mortal Instruments Series by Cassandra Clare
+33. The Percy Jackson and the Olympians Series by Rick Riordan
+34. The Heroes of Olympus Series by Rick Riordan
+35. The Kane Chronicles Series by Rick Riordan
+36. The Secrets of the Immortal Nicholas Flamel Series by Michael Scott
+37. The Artemis Fowl Series by Eoin Colfer
+38. The Ranger's Apprentice Series by John Flanagan
+39. The Brotherband Chronicles Series by John Flanagan
+40. The Seven Realms Series by Cinda Williams Chima
+41. The Graceling Realm Series by Kristin Cashore
+42. The Throne of Glass Series by Sarah J. Maas
+43. The Lunar Chronicles by Marissa Meyer
+44. The Selection Series by Kiera Cass
+45. The Red Queen Series by Victoria Aveyard
+46. The Shatter Me Series by Tahereh Mafi
+47. The Darkest Minds Series by Alexandra Bracken
+48. The Legend Series by Marie Lu
+49. The Name of the Wind by Patrick Rothfuss
+50. The Wise Man's Fear by Patrick Rothfuss

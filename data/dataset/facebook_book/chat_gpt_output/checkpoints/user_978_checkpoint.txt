@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. The Catcher in the Rye by J.D. Salinger
+4. To Kill a Mockingbird by Harper Lee
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Animal Farm by George Orwell
+7. Lord of the Flies by William Golding
+8. One Hundred Years of Solitude by Gabriel Garcia Marquez
+9. Crime and Punishment by Fyodor Dostoevsky
+10. The Picture of Dorian Gray by Oscar Wilde
+11. The Road by Cormac McCarthy
+12. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+13. The Hobbit by J.R.R. Tolkien
+14. The Lord of the Rings by J.R.R. Tolkien
+15. The Hunger Games by Suzanne Collins
+16. Catch-22 by Joseph Heller
+17. Slaughterhouse-Five by Kurt Vonnegut
+18. The Shining by Stephen King
+19. The Stand by Stephen King
+20. The Dark Tower series by Stephen King
+21. The Girl with the Dragon Tattoo by Stieg Larsson
+22. The Da Vinci Code by Dan Brown
+23. Angels and Demons by Dan Brown
+24. The Name of the Rose by Umberto Eco
+25. The Shadow of the Wind by Carlos Ruiz Zafón
+26. The Alchemist by Paulo Coelho
+27. The Kite Runner by Khaled Hosseini
+28. A Thousand Splendid Suns by Khaled Hosseini
+29. The Handmaid's Tale by Margaret Atwood
+30. The Road to Serfdom by Friedrich Hayek
+31. The Fountainhead by Ayn Rand
+32. For Whom the Bell Tolls by Ernest Hemingway
+33. The Old Man and the Sea by Ernest Hemingway
+34. The Sun Also Rises by Ernest Hemingway
+35. The Brothers Karamazov by Fyodor Dostoevsky
+36. War and Peace by Leo Tolstoy
+37. Anna Karenina by Leo Tolstoy
+38. The Idiot by Fyodor Dostoevsky
+39. The Trial by Franz Kafka
+40. The Metamorphosis by Franz Kafka
+41. The Stranger by Albert Camus
+42. The Plague by Albert Camus
+43. The Outsider by Albert Camus
+44. The Bell Jar by Sylvia Plath
+45. The Picture of Dorian Gray by Oscar Wilde
+46. The Importance of Being Earnest by Oscar Wilde
+47. The Picture of Dorian Gray by Oscar Wilde
+48. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+49. The Hound of the Baskervilles by Arthur Conan Doyle
+50. The Wise Man's Fear by Patrick Rothfuss

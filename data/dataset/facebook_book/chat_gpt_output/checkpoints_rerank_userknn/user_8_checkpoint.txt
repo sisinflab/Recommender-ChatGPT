@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter by J.K. Rowling
+2. The Chronicles of Narnia by C.S. Lewis
+3. The Lord of the Rings by J.R.R. Tolkien
+4. The Hobbit by J.R.R. Tolkien
+5. The Hunger Games by Suzanne Collins
+6. Divergent by Veronica Roth
+7. The Maze Runner by James Dashner
+8. The Giver by Lois Lowry
+9. The Fault in Our Stars by John Green
+10. The Book Thief by Markus Zusak
+11. The Catcher in the Rye by J.D. Salinger
+12. Animal Farm by George Orwell
+13. Brave New World by Aldous Huxley
+14. Fahrenheit 451 by Ray Bradbury
+15. 1984 by George Orwell
+16. To Kill a Mockingbird by Harper Lee
+17. The Great Gatsby by F. Scott Fitzgerald
+18. Pride and Prejudice and Zombies by Seth Grahame-Smith
+19. Wuthering Heights by Emily Bronte
+20. Jane Eyre by Charlotte Bronte
+21. Sense and Sensibility by Jane Austen
+22. Emma by Jane Austen
+23. Persuasion by Jane Austen
+24. Northanger Abbey by Jane Austen
+25. Little Women by Louisa May Alcott
+26. Alice's Adventures in Wonderland by Lewis Carroll
+27. Through the Looking-Glass by Lewis Carroll
+28. The Little Prince by Antoine de Saint-Exupéry
+29. The Princess Bride by William Goldman
+30. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+31. Memoirs of a Geisha by Arthur Golden
+32. The Lion in Winter by James Goldman
+33. Love in the Time of Cholera by Gabriel Garcia Marquez
+34. One Hundred Years of Solitude by Gabriel Garcia Marquez
+35. The God of Small Things by Arundhati Roy
+36. The Fountainhead by Ayn Rand
+37. Atlas Shrugged by Ayn Rand
+38. The Southern Vampire Mysteries by Charlaine Harris
+39. Twilight by Stephenie Meyer
+40. Inkheart by Cornelia Funke
+41. Inkspell by Cornelia Funke
+42. Inkdeath by Cornelia Funke
+43. Eragon by Christopher Paolini
+44. Eldest by Christopher Paolini
+45. Brisingr by Christopher Paolini
+46. Inheritance by Christopher Paolini
+47. The Phantom Tollbooth by Norton Juster
+48. The Last Song by Nicholas Sparks
+49. Because of Winn-Dixie by Kate DiCamillo
+50. The Diary of a Young Girl by Anne Frank

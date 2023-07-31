@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Joy Division
+2. The Smiths
+3. Bauhaus
+4. Einstürzende Neubauten
+5. Swans
+6. Coil
+7. Captain Beefheart & His Magic Band
+8. Mudhoney
+9. The Residents
+10. Melvins
+11. Alien Sex Fiend
+12. Crystal Castles
+13. Gorillaz
+14. Misfits
+15. Sublime
+16. The Adicts
+17. Nirvana
+18. Alice in Chains
+19. Placebo
+20. Frank Zappa
+21. Iron Maiden
+22. Led Zeppelin
+23. Metallica
+24. Pearl Jam
+25. Nine Inch Nails
+26. System of a Down
+27. Daft Punk
+28. Linkin Park
+29. Avenged Sevenfold
+30. Green Day
+31. My Chemical Romance
+32. The Cure
+33. Radiohead
+34. Muse
+35. Pink Floyd
+36. U2
+37. 30 Seconds to Mars
+38. Arctic Monkeys
+39. Blur
+40. Coldplay
+41. Duran Duran
+42. Michael Jackson
+43. Beyoncé
+44. Rihanna
+45. Lady Gaga
+46. Madonna
+47. Shakira
+48. Björk
+49. Kylie Minogue
+50. Katy Perry

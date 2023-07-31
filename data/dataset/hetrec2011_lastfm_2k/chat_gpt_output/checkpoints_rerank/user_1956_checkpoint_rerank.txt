@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. 浜崎あゆみ
+2. 宇多田ヒカル
+3. Vanessa Carlton
+4. Enya
+5. Alphaville
+6. Hans Zimmer
+7. Björk
+8. Alizée
+9. Duran Duran
+10. Madonna
+11. Lady Gaga
+12. Britney Spears
+13. Beyoncé
+14. U2
+15. The Cars
+16. Take That
+17. t.A.T.u.
+18. Rihanna
+19. Shakira
+20. Christina Aguilera
+21. Katy Perry
+22. Taylor Swift
+23. Evanescence
+24. Glee Cast
+25. 30 Seconds to Mars
+26. Muse
+27. Pink Floyd
+28. Kylie Minogue
+29. Miley Cyrus
+30. Radiohead
+31. Ke$ha
+32. Coldplay
+33. Blur
+34. Arctic Monkeys
+35. Placebo
+36. The Killers
+37. Nirvana
+38. Iron Maiden
+39. Amy Winehouse
+40. Led Zeppelin
+41. Metallica
+42. Michael Jackson
+43. Pearl Jam
+44. System of a Down
+45. Daft Punk
+46. Nine Inch Nails
+47. Linkin Park
+48. Kelly Clarkson
+49. All Time Low
+50. P!nk

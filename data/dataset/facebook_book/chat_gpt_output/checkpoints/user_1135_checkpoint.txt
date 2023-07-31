@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Da Vinci Code by Dan Brown
+2. Angels and Demons by Dan Brown
+3. The Alchemist by Paulo Coelho
+4. The Girl with the Dragon Tattoo by Stieg Larsson
+5. The Girl Who Played with Fire by Stieg Larsson
+6. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+7. Inferno by Dan Brown
+8. Digital Fortress by Dan Brown
+9. The Lost Symbol by Dan Brown
+10. The Bourne Identity by Robert Ludlum
+11. The Bourne Supremacy by Robert Ludlum
+12. The Bourne Ultimatum by Robert Ludlum
+13. The Firm by John Grisham
+14. The Pelican Brief by John Grisham
+15. A Time to Kill by John Grisham
+16. The Rainmaker by John Grisham
+17. The Runaway Jury by John Grisham
+18. The Client by John Grisham
+19. The Chamber by John Grisham
+20. The Street Lawyer by John Grisham
+21. The Testament by John Grisham
+22. The Partner by John Grisham
+23. The Summons by John Grisham
+24. The Brethren by John Grisham
+25. The King of Torts by John Grisham
+26. The Last Juror by John Grisham
+27. The Innocent Man by John Grisham
+28. The Racketeer by John Grisham
+29. The Whistler by John Grisham
+30. The Rooster Bar by John Grisham
+31. The Hunger Games by Suzanne Collins
+32. Catching Fire by Suzanne Collins
+33. Mockingjay by Suzanne Collins
+34. The Maze Runner by James Dashner
+35. The Scorch Trials by James Dashner
+36. The Death Cure by James Dashner
+37. The Kill Order by James Dashner
+38. The Fever Code by James Dashner
+39. The Fault in Our Stars by John Green
+40. Looking for Alaska by John Green
+41. Paper Towns by John Green
+42. An Abundance of Katherines by John Green
+43. Turtles All the Way Down by John Green
+44. The Book Thief by Markus Zusak
+45. All the Light We Cannot See by Anthony Doerr
+46. The Nightingale by Kristin Hannah
+47. The Help by Kathryn Stockett
+48. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+49. The Martian by Andy Weir
+50. Ready Player One by Ernest Cline

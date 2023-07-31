@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter
+2. The Chronicles of Narnia: Prince Caspian
+3. The Giver
+4. The City of Ember
+5. Eragon
+6. Matilda (novel)
+7. Charlie and the Chocolate Factory
+8. Roots: The Saga of an American Family
+9. The Watchmen (novel)
+10. The Lovely Bones
+11. Memoirs of a Geisha
+12. Animal Farm
+13. Fahrenheit 451
+14. Frankenstein
+15. The Picture of Dorian Gray
+16. Crime and Punishment
+17. Jane Eyre
+18. The Great Gatsby
+19. Vanity Fair (novel)
+20. The Portrait of a Lady
+21. Angels & Demons
+22. Hannibal (novel)
+23. The Silence of the Lambs (novel)
+24. Murder on the Orient Express
+25. Dracula
+26. Lolita
+27. The Scarlet Letter
+28. The Hamlet
+29. Choke (novel)
+30. Stranger than Fiction: True Stories
+31. The Outsiders (novel)
+32. All Quiet on the Western Front
+33. Forever... (Blume novel)
+34. The Time Traveler's Wife
+35. Water for Elephants
+36. Hopscotch (Julio Cortázar novel)
+37. The Pit and the Pendulum
+38. Watchmen
+39. City of Ashes
+40. City of Glass (Mortal Instruments)
+41. Eldest
+42. The Acid House
+43. Weetzie Bat
+44. The Big Over Easy
+45. Dreams from My Father
+46. Silverwing (novel)
+47. Invisible Monsters
+48. Bad Girls (Wilson novel)
+49. Journey to the River Sea
+50. Charlotte's Web

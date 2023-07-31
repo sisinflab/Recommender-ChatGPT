@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for this user would be:
+
+1. Coldplay
+2. The Killers
+3. Kings of Leon
+4. R.E.M.
+5. Garbage
+6. Metric
+7. Two Door Cinema Club
+8. Tegan and Sara
+9. Passion Pit
+10. Ingrid Michaelson
+11. Goldfrapp
+12. The National
+13. Interpol
+14. Primal Scream
+15. The Cranberries
+16. Suzanne Vega
+17. Kings of Convenience
+18. Zeca Baleiro
+19. Glee Cast
+20. No Doubt
+21. Katy Perry
+22. Ellie Goulding
+23. Lights
+24. Adele
+25. The Beatles
+26. Rihanna
+27. Lady Gaga
+28. Beyoncé
+29. Michael Jackson
+30. Elvis Costello
+31. Bruce Springsteen
+32. Elton John
+33. Shakira
+34. The Kinks
+35. Band of Horses
+36. The Beach Boys
+37. The Veronicas
+38. Leona Lewis
+39. Christina Aguilera
+40. Britney Spears
+41. P!nk
+42. Ryan Cabrera
+43. Colbie Caillat
+44. Bob Dylan
+45. Johnny Cash
+46. Manic Street Preachers
+47. Owl City
+48. Emily Osment
+49. Demi Lovato
+50. Selena Gomez & the Scene

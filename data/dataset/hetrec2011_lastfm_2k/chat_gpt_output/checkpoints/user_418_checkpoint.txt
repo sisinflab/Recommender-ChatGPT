@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Arcade Fire
+2. Sufjan Stevens
+3. Belle and Sebastian
+4. The National
+5. Vampire Weekend
+6. The New Pornographers
+7. The Magnetic Fields
+8. The Decemberists
+9. Death Cab for Cutie
+10. Elliott Smith
+11. The Shins
+12. Neutral Milk Hotel
+13. Radiohead
+14. Fleet Foxes
+15. The Mountain Goats
+16. Regina Spektor
+17. Rilo Kiley
+18. The Postal Service
+19. The Flaming Lips
+20. of Montreal
+21. Animal Collective
+22. Grizzly Bear
+23. Beirut
+24. Iron & Wine
+25. Andrew Bird
+26. Wilco
+27. The Avett Brothers
+28. The Head and the Heart
+29. The Lumineers
+30. Mumford & Sons
+31. Fleetwood Mac
+32. Tom Petty and the Heartbreakers
+33. Bruce Springsteen
+34. Bob Dylan
+35. Neil Young
+36. The Beatles
+37. The Rolling Stones
+38. Led Zeppelin
+39. Pink Floyd
+40. David Bowie
+41. Queen
+42. Prince
+43. Michael Jackson
+44. Madonna
+45. Beyoncé
+46. Taylor Swift
+47. Lorde
+48. Billie Eilish
+49. Hozier
+50. Florence + The Machine

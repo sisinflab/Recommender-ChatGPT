@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Divergent by Veronica Roth
+2. The Maze Runner by James Dashner
+3. The Mortal Instruments series by Cassandra Clare
+4. The Infernal Devices series by Cassandra Clare
+5. The Selection by Kiera Cass
+6. Legend by Marie Lu
+7. The Giver by Lois Lowry
+8. The Fault in Our Stars by John Green
+9. The Hunger Games trilogy by Suzanne Collins
+10. Matched by Ally Condie
+11. Delirium by Lauren Oliver
+12. The 5th Wave by Rick Yancey
+13. The Lunar Chronicles by Marissa Meyer
+14. The Darkest Minds by Alexandra Bracken
+15. The Chemical Garden trilogy by Lauren DeStefano
+16. The Program by Suzanne Young
+17. The Testing by Joelle Charbonneau
+18. The Uglies series by Scott Westerfeld
+19. The Leviathan trilogy by Scott Westerfeld
+20. The Maze of Bones by Rick Riordan
+21. The Lightning Thief by Rick Riordan
+22. The Percy Jackson series by Rick Riordan
+23. The Heroes of Olympus series by Rick Riordan
+24. The Kane Chronicles by Rick Riordan
+25. The Secrets of the Immortal Nicholas Flamel series by Michael Scott
+26. The Vampire Academy series by Richelle Mead
+27. The Bloodlines series by Richelle Mead
+28. The House of Night series by P.C. Cast and Kristin Cast
+29. The Twilight series by Stephenie Meyer
+30. The Host by Stephenie Meyer
+31. The Maximum Ride series by James Patterson
+32. The Gone series by Michael Grant
+33. The Maze Runner series by James Dashner
+34. The Scorch Trials by James Dashner
+35. The Death Cure by James Dashner
+36. The Kill Order by James Dashner
+37. The Giver quartet by Lois Lowry
+38. The City of Ember by Jeanne DuPrau
+39. The City of Bones by Cassandra Clare
+40. The City of Glass by Cassandra Clare
+41. The City of Fallen Angels by Cassandra Clare
+42. The City of Lost Souls by Cassandra Clare
+43. The City of Heavenly Fire by Cassandra Clare
+44. The Gemma Doyle trilogy by Libba Bray
+45. The Diviners by Libba Bray
+46. The Raven Boys by Maggie Stiefvater
+47. The Scorpio Races by Maggie Stiefvater
+48. The Selection series by Kiera Cass
+49. The Lunar Chronicles series by Marissa Meyer
+50. The Red Queen series by Victoria Aveyard

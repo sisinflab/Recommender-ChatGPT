@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. Harry Potter series by J.K. Rowling
+3. Dune by Frank Herbert
+4. The Time Machine by H.G. Wells
+5. Dracula by Bram Stoker
+6. Nineteen Eighty-Four by George Orwell
+7. The Silmarillion by J.R.R. Tolkien
+8. Les Misérables by Victor Hugo
+9. Memoirs of a Geisha by Arthur Golden
+10. The Dark Tower: The Gunslinger by Stephen King
+11. The Iliad by Homer
+12. The Watchmen by Alan Moore
+13. The Children of Húrin by J.R.R. Tolkien
+14. Good Omens by Neil Gaiman and Terry Pratchett
+15. The Picture of Dorian Gray by Oscar Wilde
+16. The White Tiger by Aravind Adiga
+17. The Art of War by Sun Tzu
+18. The Zombie Survival Guide by Max Brooks
+19. American Gods by Neil Gaiman
+20. The Lucifer Principle by Howard Bloom
+21. Twenty Thousand Leagues Under the Sea by Jules Verne
+22. Gormenghast by Mervyn Peake
+23. Titus Groan by Mervyn Peake
+24. The Colour of Magic by Terry Pratchett
+25. The Shadow of the Wind by Carlos Ruiz Zafón
+26. Stardust by Neil Gaiman
+27. Journey to the West by Wu Cheng'en
+28. The Time Traveler's Wife by Audrey Niffenegger
+29. Jane Eyre by Charlotte Bronte
+30. The Lovely Bones by Alice Sebold
+31. Go Ask Alice by Anonymous
+32. The Hatchet by Gary Paulsen
+33. Peter and Wendy by J.M. Barrie
+34. Around the World in Eighty Days by Jules Verne
+35. Treasure Island by Robert Louis Stevenson
+36. Choke by Chuck Palahniuk
+37. Angels & Demons by Dan Brown
+38. Sin City by Frank Miller
+39. Wuthering Heights by Emily Bronte
+40. To Kill a Mockingbird by Harper Lee
+41. Thirteen Reasons Why by Jay Asher
+42. Warriors by Erin Hunter
+43. The Coldest Winter Ever by Sister Souljah
+44. Interview with the Vampire by Anne Rice
+45. Of Mice and Men by John Steinbeck
+46. Necronomicon: The Best Weird Tales of H. P. Lovecraft: Commemorative Edition by H.P. Lovecraft
+47. Snow Crash by Neal Stephenson
+48. Carrie by Stephen King
+49. Atlas Shrugged by Ayn Rand
+50. Transmetropolitan by Warren Ellis

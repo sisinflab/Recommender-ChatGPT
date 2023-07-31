@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Eragon by Christopher Paolini
+2. The Hunger Games by Suzanne Collins
+3. Percy Jackson and the Olympians by Rick Riordan
+4. The Maze Runner by James Dashner
+5. Divergent by Veronica Roth
+6. The Mortal Instruments by Cassandra Clare
+7. The Lord of the Rings by J.R.R. Tolkien
+8. Harry Potter series by J.K. Rowling
+9. The Chronicles of Narnia by C.S. Lewis
+10. The Hobbit by J.R.R. Tolkien
+11. The Giver by Lois Lowry
+12. The Fault in Our Stars by John Green
+13. The Book Thief by Markus Zusak
+14. The Selection by Kiera Cass
+15. The Lunar Chronicles by Marissa Meyer
+16. The Infernal Devices by Cassandra Clare
+17. The 5th Wave by Rick Yancey
+18. The Darkest Minds by Alexandra Bracken
+19. The Knife of Never Letting Go by Patrick Ness
+20. The Girl with the Dragon Tattoo by Stieg Larsson
+21. The Girl on the Train by Paula Hawkins
+22. The Da Vinci Code by Dan Brown
+23. The Help by Kathryn Stockett
+24. The Secret Life of Bees by Sue Monk Kidd
+25. The Lovely Bones by Alice Sebold
+26. The Time Traveler's Wife by Audrey Niffenegger
+27. The Nightingale by Kristin Hannah
+28. The Kite Runner by Khaled Hosseini
+29. The Alchemist by Paulo Coelho
+30. The Catcher in the Rye by J.D. Salinger
+31. The Picture of Dorian Gray by Oscar Wilde
+32. The Great Gatsby by F. Scott Fitzgerald
+33. To Kill a Mockingbird by Harper Lee
+34. 1984 by George Orwell
+35. Animal Farm by George Orwell
+36. Brave New World by Aldous Huxley
+37. Fahrenheit 451 by Ray Bradbury
+38. The Handmaid's Tale by Margaret Atwood
+39. The Road by Cormac McCarthy
+40. The Stand by Stephen King
+41. The Shining by Stephen King
+42. It by Stephen King
+43. The Silence of the Lambs by Thomas Harris
+44. Gone Girl by Gillian Flynn
+45. The Girl with All the Gifts by M.R. Carey
+46. The Martian by Andy Weir
+47. Ready Player One by Ernest Cline
+48. The Name of the Wind by Patrick Rothfuss
+49. The Lies of Locke Lamora by Scott Lynch
+50. Mistborn by Brandon Sanderson

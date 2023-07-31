@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Duran Duran
+2. Tears for Fears
+3. David Bowie
+4. The Human League
+5. Roxy Music
+6. Talking Heads
+7. New Order
+8. The Smiths
+9. Kate Bush
+10. Blondie
+11. The Cars
+12. Fleetwood Mac
+13. The Pretenders
+14. Echo & the Bunnymen
+15. The Psychedelic Furs
+16. Joy Division
+17. Siouxsie and the Banshees
+18. The Cult
+19. The Jesus and Mary Chain
+20. The Stone Roses
+21. The Charlatans
+22. The Verve
+23. Oasis
+24. Radiohead
+25. Travis
+26. Keane
+27. Snow Patrol
+28. The Killers
+29. Muse
+30. Arcade Fire
+31. The National
+32. Interpol
+33. Editors
+34. White Lies
+35. Foals
+36. The xx
+37. Alt-J
+38. London Grammar
+39. Chvrches
+40. Hozier
+41. Florence + The Machine
+42. Lana Del Rey
+43. Lorde
+44. Billie Eilish
+45. Tame Impala
+46. Vampire Weekend
+47. Phoenix
+48. MGMT
+49. LCD Soundsystem
+50. Daft Punk

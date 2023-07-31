@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. To Kill a Mockingbird by Harper Lee
+3. 1984 by George Orwell
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Animal Farm by George Orwell
+6. The Catcher in the Rye by J.D. Salinger
+7. The Lord of the Rings by J.R.R. Tolkien
+8. The Hobbit by J.R.R. Tolkien
+9. The Chronicles of Narnia by C.S. Lewis
+10. The Da Vinci Code by Dan Brown
+11. The Girl with the Dragon Tattoo by Stieg Larsson
+12. The Hunger Games by Suzanne Collins
+13. The Help by Kathryn Stockett
+14. The Kite Runner by Khaled Hosseini
+15. The Alchemist by Paulo Coelho
+16. The Secret Life of Bees by Sue Monk Kidd
+17. The Color Purple by Alice Walker
+18. The Road by Cormac McCarthy
+19. The Handmaid's Tale by Margaret Atwood
+20. The Picture of Dorian Gray by Oscar Wilde
+21. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+22. The Adventures of Huckleberry Finn by Mark Twain
+23. The Sun Also Rises by Ernest Hemingway
+24. The Old Man and the Sea by Ernest Hemingway
+25. The Grapes of Wrath by John Steinbeck
+26. The Sound and the Fury by William Faulkner
+27. The Bell Jar by Sylvia Plath
+28. The Scarlet Letter by Nathaniel Hawthorne
+29. The Count of Monte Cristo by Alexandre Dumas
+30. The Three Musketeers by Alexandre Dumas
+31. The Brothers Karamazov by Fyodor Dostoevsky
+32. Crime and Punishment by Fyodor Dostoevsky
+33. Anna Karenina by Leo Tolstoy
+34. War and Peace by Leo Tolstoy
+35. One Hundred Years of Solitude by Gabriel Garcia Marquez
+36. Love in the Time of Cholera by Gabriel Garcia Marquez
+37. The Name of the Rose by Umberto Eco
+38. The Shadow of the Wind by Carlos Ruiz Zafón
+39. The Pillars of the Earth by Ken Follett
+40. The Girl on the Train by Paula Hawkins
+41. The Martian by Andy Weir
+42. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+43. The Shining by Stephen King
+44. The Stand by Stephen King
+45. The Silence of the Lambs by Thomas Harris
+46. The Bourne Identity by Robert Ludlum
+47. The Hunt for Red October by Tom Clancy
+48. The Firm by John Grisham
+49. The Daughters of Mars

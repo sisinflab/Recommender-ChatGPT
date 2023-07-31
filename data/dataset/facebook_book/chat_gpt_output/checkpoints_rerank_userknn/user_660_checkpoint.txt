@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Harry Potter by J.K. Rowling
+2. Macbeth by William Shakespeare
+3. Little Women by Louisa May Alcott
+4. Wuthering Heights by Emily Brontë
+5. Twilight (series) by Stephenie Meyer
+6. The Satanic Verses by Salman Rushdie
+7. Rage of Angels by Sidney Sheldon
+8. Alice's Adventures in Wonderland by Lewis Carroll
+9. The Da Vinci Code by Dan Brown
+10. Great Expectations by Charles Dickens
+11. Les Misérables by Victor Hugo
+12. Nineteen Eighty-Four by George Orwell
+13. Slaughterhouse-Five by Kurt Vonnegut
+14. Charlie and the Chocolate Factory by Roald Dahl
+15. Ethan Frome by Edith Wharton
+16. Fahrenheit 451 by Ray Bradbury
+17. The Hunger Games by Suzanne Collins
+18. Uglies by Scott Westerfeld
+19. A Series of Unfortunate Events by Lemony Snicket
+20. Cirque du Freak by Darren Shan
+21. The Umbrella Academy by Gerard Way
+22. Complete Works of Shakespeare by William Shakespeare
+23. A Midsummer Night's Dream by William Shakespeare
+24. Romeo and Juliet by William Shakespeare
+25. The Canterbury Tales by Geoffrey Chaucer
+26. Lord of the Flies by William Golding
+27. The Other Boleyn Girl by Philippa Gregory
+28. The Cask of Amontillado by Edgar Allan Poe
+29. The House of the Scorpion by Nancy Farmer
+30. A Thousand Splendid Suns by Khaled Hosseini
+31. Angels & Demons by Dan Brown
+32. The Masque of the Red Death by Edgar Allan Poe
+33. The Outsiders by S.E. Hinton
+34. Their Eyes Were Watching God by Zora Neale Hurston
+35. The Host by Stephenie Meyer
+36. Gone with the Wind by Margaret Mitchell
+37. Love Story by Erich Segal
+38. Brisingr by Christopher Paolini
+39. Girl, Interrupted by Susanna Kaysen
+40. The Girl Next Door by Jack Ketchum
+41. King Leary by Paul Quarrington
+42. And I Don't Want to Live This Life by Deborah Spungen
+43. Wishful Drinking by Carrie Fisher
+44. Jinx by Meg Cabot
+45. The Constitution of Liberty by Friedrich Hayek
+46. The Last Storytellers by Richard Hamilton
+47. The Gold Bug Variations by Richard Powers
+48. Kay Scarpetta by Patricia Cornwell
+49. Mind Siege by Tim LaHaye
+50. Studies of the Book of Mormon by B.H. Roberts

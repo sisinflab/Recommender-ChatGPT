@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Outsiders by S. E. Hinton
+2. Lord of the Flies by William Golding
+3. The Giver by Lois Lowry
+4. The Hunger Games by Suzanne Collins
+5. 1984 by George Orwell
+6. Animal Farm by George Orwell
+7. To Kill a Mockingbird by Harper Lee
+8. The Diary of a Young Girl by Anne Frank
+9. The Perks of Being a Wallflower by Stephen Chbosky
+10. The Fault in Our Stars by John Green
+11. The Maze Runner by James Dashner
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Girl on the Train by Paula Hawkins
+14. The Da Vinci Code by Dan Brown
+15. Angels and Demons by Dan Brown
+16. The Shining by Stephen King
+17. Carrie by Stephen King
+18. The Stand by Stephen King
+19. The Dark Tower series by Stephen King
+20. The Lord of the Rings by J. R. R. Tolkien
+21. The Hobbit by J. R. R. Tolkien
+22. The Chronicles of Narnia by C. S. Lewis
+23. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+24. The Harry Potter series by J. K. Rowling
+25. The Twilight series by Stephenie Meyer
+26. The Vampire Chronicles by Anne Rice
+27. The Dresden Files by Jim Butcher
+28. The Wheel of Time series by Robert Jordan
+29. The Sword of Truth series by Terry Goodkind
+30. The Belgariad series by David Eddings
+31. The Malazan Book of the Fallen series by Steven Erikson
+32. The First Law trilogy by Joe Abercrombie
+33. The Kingkiller Chronicle series by Patrick Rothfuss
+34. The Mistborn series by Brandon Sanderson
+35. The Stormlight Archive series by Brandon Sanderson
+36. The Name of the Wind by Patrick Rothfuss
+37. The Lies of Locke Lamora by Scott Lynch
+38. The Way of Kings by Brandon Sanderson
+39. The Final Empire by Brandon Sanderson
+40. The Well of Ascension by Brandon Sanderson
+41. The Hero of Ages by Brandon Sanderson
+42. The Lightbringer series by Brent Weeks
+43. The Black Prism by Brent Weeks
+44. The Night Angel trilogy by Brent Weeks
+45. The Broken Empire trilogy by Mark Lawrence
+46. The Red Queen's War trilogy by Mark Lawrence
+47. The Powder Mage trilogy by Brian McClellan
+48. The Shadow Campaigns series by Django Wexler
+49. The Gentleman Bastard series by Scott Lynch
+50. The Riyria Revelations series by Michael J. Sullivan

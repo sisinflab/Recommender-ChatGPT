@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Red Dragon by Thomas Harris
+2. The Girl with the Dragon Tattoo by Stieg Larsson
+3. The Da Vinci Code by Dan Brown
+4. The Hunger Games by Suzanne Collins
+5. The Maze Runner by James Dashner
+6. The Bourne Identity by Robert Ludlum
+7. The Shining by Stephen King
+8. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+9. The Hobbit by J.R.R. Tolkien
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Catcher in the Rye by J.D. Salinger
+12. To Kill a Mockingbird by Harper Lee
+13. 1984 by George Orwell
+14. Animal Farm by George Orwell
+15. Brave New World by Aldous Huxley
+16. Fahrenheit 451 by Ray Bradbury
+17. The Great Gatsby by F. Scott Fitzgerald
+18. One Hundred Years of Solitude by Gabriel Garcia Marquez
+19. The Alchemist by Paulo Coelho
+20. The Chronicles of Narnia by C.S. Lewis
+21. The Giver by Lois Lowry
+22. The Outsiders by S.E. Hinton
+23. The Secret Life of Bees by Sue Monk Kidd
+24. The Color Purple by Alice Walker
+25. The Help by Kathryn Stockett
+26. The Kite Runner by Khaled Hosseini
+27. The Book Thief by Markus Zusak
+28. The Fault in Our Stars by John Green
+29. The Perks of Being a Wallflower by Stephen Chbosky
+30. The Bell Jar by Sylvia Plath
+31. The Picture of Dorian Gray by Oscar Wilde
+32. The Count of Monte Cristo by Alexandre Dumas
+33. Les Miserables by Victor Hugo
+34. Jane Eyre by Charlotte Bronte
+35. Wuthering Heights by Emily Bronte
+36. Pride and Prejudice by Jane Austen
+37. Sense and Sensibility by Jane Austen
+38. Emma by Jane Austen
+39. Persuasion by Jane Austen
+40. Northanger Abbey by Jane Austen
+41. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+42. The Hound of the Baskervilles by Arthur Conan Doyle
+43. The Complete Works of William Shakespeare by William Shakespeare
+44. The Picture of Dorian Gray by Oscar Wilde
+45. Dracula by Bram Stoker
+46. Frankenstein by Mary Shelley
+47. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+48. The War of the Worlds by H.G. Wells
+49. The Time Machine by H.G. Wells
+50. The Invisible Man by H.G. Wells

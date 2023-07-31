@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Stand by Stephen King
+2. The Road by Cormac McCarthy
+3. The Hunger Games by Suzanne Collins
+4. The Maze Runner by James Dashner
+5. The Dark Tower series by Stephen King
+6. The Shining by Stephen King
+7. The Girl with the Dragon Tattoo by Stieg Larsson
+8. The Da Vinci Code by Dan Brown
+9. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Hobbit by J.R.R. Tolkien
+12. The Chronicles of Narnia by C.S. Lewis
+13. The Harry Potter series by J.K. Rowling
+14. The Name of the Wind by Patrick Rothfuss
+15. The Wise Man's Fear by Patrick Rothfuss
+16. The Kingkiller Chronicle series by Patrick Rothfuss
+17. The Dresden Files series by Jim Butcher
+18. The Wheel of Time series by Robert Jordan
+19. The Mistborn series by Brandon Sanderson
+20. The Stormlight Archive series by Brandon Sanderson
+21. The First Law trilogy by Joe Abercrombie
+22. The Lies of Locke Lamora by Scott Lynch
+23. The Blade Itself by Joe Abercrombie
+24. The Way of Kings by Brandon Sanderson
+25. The Final Empire by Brandon Sanderson
+26. The Alloy of Law by Brandon Sanderson
+27. The Reckoners series by Brandon Sanderson
+28. The Dark Tower series by Stephen King
+29. The Gunslinger by Stephen King
+30. The Drawing of the Three by Stephen King
+31. The Waste Lands by Stephen King
+32. The Dark Tower IV: Wizard and Glass by Stephen King
+33. The Dark Tower V: Wolves of the Calla by Stephen King
+34. The Dark Tower VI: Song of Susannah by Stephen King
+35. The Dark Tower VII: The Dark Tower by Stephen King
+36. The Talisman by Stephen King and Peter Straub
+37. The Eyes of the Dragon by Stephen King
+38. The Green Mile by Stephen King
+39. The Stand: The Complete and Uncut Edition by Stephen King
+40. The Dead Zone by Stephen King
+41. The Tommyknockers by Stephen King
+42. The Outsider by Stephen King
+43. The Institute by Stephen King
+44. The Girl Who Loved Tom Gordon by Stephen King
+45. The Passage by Justin Cronin
+46. The Twelve by Justin Cronin
+47. The City of Mirrors by Justin Cronin
+48. The Strain by Guillermo del Toro and Chuck Hogan
+49. The Fall by Guillermo del Toro and Chuck Hogan
+50. The Night Eternal by Guillermo del Toro and Chuck Hogan

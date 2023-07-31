@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Ender's Shadow by Orson Scott Card
+2. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+3. The Vampire Chronicles by Anne Rice
+4. The Lord of the Rings by J.R.R. Tolkien
+5. Harry Potter by J.K. Rowling
+6. A Wrinkle in Time by Madeleine L'Engle
+7. The Hunger Games by Suzanne Collins
+8. Maximum Ride by James Patterson
+9. The Looking Glass Wars by Frank Beddor
+10. Witch & Wizard by James Patterson
+11. Inferno by Dante Alighieri
+12. The Secret Garden by Frances Hodgson Burnett
+13. Alice's Adventures in Wonderland by Lewis Carroll
+14. The Wind in the Willows by Kenneth Grahame
+15. The Picture of Dorian Gray by Oscar Wilde
+16. Frankenstein by Mary Shelley
+17. Dracula by Bram Stoker
+18. The Hatchet by Gary Paulsen
+19. Adventures of Huckleberry Finn by Mark Twain
+20. To Kill a Mockingbird by Harper Lee
+21. Macbeth by William Shakespeare
+22. The Catcher in the Rye by J.D. Salinger
+23. Sense and Sensibility by Jane Austen
+24. Jane Eyre by Charlotte Bronte
+25. Madame Bovary by Gustave Flaubert
+26. The Notebook by Nicholas Sparks
+27. Flowers in the Attic by V.C. Andrews
+28. The Gold Bug Variations by Richard Powers
+29. The Black Jewels by Anne Bishop
+30. The Confession by John Grisham
+31. The Body of Christopher Creed by Carol Plum-Ucci
+32. The Screwtape Letters by C.S. Lewis
+33. The Zombie Survival Guide by Max Brooks
+34. Marvel Zombies by Robert Kirkman
+35. The Last Storytellers by Richard Hamilton
+36. The Queen of the Damned by Anne Rice
+37. Their Eyes Were Watching God by Zora Neale Hurston
+38. Girl, Interrupted by Susanna Kaysen
+39. Choke by Chuck Palahniuk
+40. The Da Vinci Code by Dan Brown
+41. Digital Fortress by Dan Brown
+42. Lisey's Story by Stephen King
+43. The Phantom of the Opera by Gaston Leroux
+44. The Heart Is a Lonely Hunter by Carson McCullers
+45. Ella Enchanted by Gail Carson Levine
+46. Memoirs of a Geisha by Arthur Golden
+47. Good Omens by Neil Gaiman and Terry Pratchett
+48. The Sandman by Ralph Fletcher
+49. Grendel by John Gardner
+50. Black Boy by Richard Wright

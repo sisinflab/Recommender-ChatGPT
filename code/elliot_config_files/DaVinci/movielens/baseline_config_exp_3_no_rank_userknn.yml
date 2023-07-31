@@ -1,0 +1,33 @@
+experiment:
+  gpu: 1 # Run on GPU
+  #
+  # Dataset pre-processing and configuration
+  #
+  dataset: movielens_small_2018
+  data_config:
+    strategy: fixed
+    train_path: ../../../../data/dataset/ml_small_2018/splitting/0/subset_train_200.tsv
+    test_path: ../../../../data/dataset/ml_small_2018/splitting/0/test.tsv
+    side_information:
+      - dataloader: ItemAttributes
+        attribute_file: ../../../../data/dataset/ml_small_2018/processed_data/map.tsv
+  top_k: 50
+  #
+  # Evaluation Setup
+  #
+  evaluation:
+    cutoffs: [10, 20, 50]
+    simple_metrics: [nDCG, Recall, Precision, nDCGRendle2020, HR, F1, MAP, MAR, MRR, ACLT, APLT, ARP, PopREO, PopRSP, ItemCoverage, NumRetrived, UserCoverage, Gini, SEntropy, EFD, EPC]
+    paired_ttest: True
+    wilcoxon_test: True
+  print_results_as_triplets: True
+  external_models_path: ../external/models/__init__.py
+  #
+  # Models Setup
+  #
+  models:
+    #
+    # Proxy Recommender to compute metrics on ChatGPT rerank
+    #
+    ProxyRecommender:
+      path: ../data/dataset/ml_small_2018/text_davinci_output/results_EXP_3_no_rerank.tsv

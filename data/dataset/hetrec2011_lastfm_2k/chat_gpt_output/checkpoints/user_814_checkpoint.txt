@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Taylor Swift
+2. Ed Sheeran
+3. Ariana Grande
+4. Shawn Mendes
+5. Billie Eilish
+6. Halsey
+7. Imagine Dragons
+8. Maroon 5
+9. One Direction
+10. Justin Bieber
+11. Selena Gomez
+12. Twenty One Pilots
+13. The Chainsmokers
+14. Lorde
+15. Khalid
+16. Camila Cabello
+17. Dua Lipa
+18. Jonas Brothers
+19. Demi Lovato (similar artist)
+20. Paramore (similar artist)
+21. Avril Lavigne (similar artist)
+22. Miley Cyrus (similar artist)
+23. Panic! At the Disco (similar artist)
+24. Keane (similar artist)
+25. Fall Out Boy (similar artist)
+26. blink-182 (similar artist)
+27. Green Day (similar artist)
+28. McFly (similar artist)
+29. The Summer Set (similar artist)
+30. Rihanna (similar artist)
+31. John Mayer (similar artist)
+32. All Time Low (similar artist)
+33. Natalia Kills (similar artist)
+34. Hilary Duff (similar artist)
+35. Pixie Lott (similar artist)
+36. Fresno (similar artist)
+37. Alexz Johnson (similar artist)
+38. Weezer (similar artist)
+39. The Killers (similar artist)
+40. Backstreet Boys (similar artist)
+41. Breathe Carolina (similar artist)
+42. Ashley Tisdale (similar artist)
+43. The Script (similar artist)
+44. Boys Like Girls (similar artist)
+45. Chris Brown (similar artist)
+46. RBD (similar artist)
+47. Daughtry (similar artist)
+48. NX Zero (similar artist)
+49. Lady Antebellum (similar artist)
+50. The Kooks (similar artist)

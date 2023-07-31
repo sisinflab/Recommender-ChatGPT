@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Pearl Jam
+2. Tool
+3. Marilyn Manson
+4. Eminem
+5. A Perfect Circle
+6. Disturbed
+7. Rammstein
+8. Children of Bodom
+9. 3 Doors Down
+10. Billy Talent
+11. Pendulum
+12. Alice in Chains
+13. Seether
+14. Rise Against
+15. Arch Enemy
+16. Nickelback
+17. Korn
+18. Silverchair
+19. LMFAO
+20. Creed
+21. The Bloody Beetroots
+22. System of a Down
+23. Crystal Castles
+24. The National
+25. Linkin Park
+26. The John Butler Trio
+27. 3OH!3
+28. Bloc Party
+29. Kid Cudi
+30. Pitbull
+31. Muse
+32. Nirvana
+33. Iron Maiden
+34. Metallica
+35. Led Zeppelin
+36. Michael Jackson
+37. System of a Down
+38. Nine Inch Nails
+39. Daft Punk
+40. Black Eyed Peas
+41. My Chemical Romance
+42. Green Day
+43. The Cure
+44. Avenged Sevenfold
+45. P!nk
+46. Kelly Clarkson
+47. Arctic Monkeys
+48. Placebo
+49. The Killers
+50. Radiohead

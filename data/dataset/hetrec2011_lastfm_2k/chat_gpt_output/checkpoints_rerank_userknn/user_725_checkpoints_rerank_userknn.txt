@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Pink Floyd
+2. Enigma
+3. Rammstein
+4. Kraftwerk
+5. Wolfgang Amadeus Mozart
+6. Ennio Morricone
+7. Danny Elfman
+8. The Alan Parsons Project
+9. Peter Gabriel
+10. Depeche Mode
+11. Jethro Tull
+12. Björk
+13. Ludwig van Beethoven
+14. Max Richter
+15. Sigur Rós
+16. Trentemøller
+17. Tool
+18. The Smashing Pumpkins
+19. Tom Waits
+20. Johann Sebastian Bach
+21. Miles Davis
+22. Brian Eno
+23. Beck
+24. Captain Beefheart & His Magic Band
+25. Thom Yorke
+26. Franz Ferdinand
+27. Antonio Vivaldi
+28. Regina Spektor
+29. 宇多田ヒカル
+30. ASIAN KUNG-FU GENERATION
+31. Hammock
+32. Eagles
+33. Jack Johnson
+34. Goldfrapp
+35. Massive Attack
+36. David Gilmour
+37. Garbage
+38. Aerosmith
+39. Vampire Weekend
+40. The Beatles
+41. Muse
+42. The Cure
+43. Autechre
+44. Syd Barrett
+45. Yann Tiersen
+46. Yes
+47. Marilyn Manson
+48. Led Zeppelin
+49. Gary Numan
+50. The Temper Trap

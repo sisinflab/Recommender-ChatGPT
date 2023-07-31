@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. Björk
+3. Thom Yorke
+4. Portishead
+5. The Knife
+6. Fever Ray
+7. Crystal Castles
+8. Imogen Heap
+9. Lykke Li
+10. Santigold
+11. Ellie Goulding
+12. Emilie Simon
+13. Bon Iver
+14. La Roux
+15. Bat for Lashes
+16. Fiona Apple
+17. Sia
+18. The xx
+19. Feist
+20. Tori Amos
+21. Adriana Calcanhotto
+22. A Fine Frenzy
+23. Morcheeba
+24. Damien Rice
+25. Sufjan Stevens
+26. Adele
+27. Marina & the Diamonds
+28. Coldplay
+29. Blur
+30. Arctic Monkeys
+31. Placebo
+32. The Killers
+33. Nirvana
+34. Led Zeppelin
+35. Pink Floyd
+36. Muse
+37. U2
+38. Metallica
+39. Iron Maiden
+40. Michael Jackson
+41. Pearl Jam
+42. Daft Punk
+43. Nine Inch Nails
+44. Linkin Park
+45. The Beatles
+46. Kylie Minogue
+47. Madonna
+48. Shakira
+49. Christina Aguilera
+50. Rihanna

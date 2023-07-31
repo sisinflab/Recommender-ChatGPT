@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+2. Ender's Game by Orson Scott Card
+3. The Name of the Wind by Patrick Rothfuss
+4. The Hunger Games by Suzanne Collins
+5. The Road by Cormac McCarthy
+6. The Stand by Stephen King
+7. The Dark Tower series by Stephen King
+8. The Girl with the Dragon Tattoo by Stieg Larsson
+9. The Da Vinci Code by Dan Brown
+10. The Shining by Stephen King
+11. The Silence of the Lambs by Thomas Harris
+12. The Bourne Identity by Robert Ludlum
+13. The Andromeda Strain by Michael Crichton
+14. The Time Traveler's Wife by Audrey Niffenegger
+15. The Lovely Bones by Alice Sebold
+16. The Help by Kathryn Stockett
+17. The Kite Runner by Khaled Hosseini
+18. The Secret Life of Bees by Sue Monk Kidd
+19. The Color Purple by Alice Walker
+20. The Joy Luck Club by Amy Tan
+21. The Poisonwood Bible by Barbara Kingsolver
+22. The Alchemist by Paulo Coelho
+23. The Catcher in the Rye by J.D. Salinger
+24. The Great Gatsby by F. Scott Fitzgerald
+25. To Kill a Mockingbird by Harper Lee
+26. 1984 by George Orwell
+27. Animal Farm by George Orwell
+28. Brave New World by Aldous Huxley
+29. Fahrenheit 451 by Ray Bradbury
+30. The Picture of Dorian Gray by Oscar Wilde
+31. Dracula by Bram Stoker
+32. Interview with the Vampire by Anne Rice
+33. The Vampire Lestat by Anne Rice
+34. The Lord of the Rings by J.R.R. Tolkien
+35. The Hobbit by J.R.R. Tolkien
+36. The Chronicles of Narnia by C.S. Lewis
+37. The Dark is Rising by Susan Cooper
+38. The Earthsea series by Ursula K. Le Guin
+39. The Belgariad series by David Eddings
+40. The Malazan Book of the Fallen series by Steven Erikson
+41. The Wheel of Time series by Robert Jordan
+42. The Sword of Truth series by Terry Goodkind
+43. The Dresden Files series by Jim Butcher
+44. The Mistborn series by Brandon Sanderson
+45. The Kingkiller Chronicle series by Patrick Rothfuss
+46. The Stormlight Archive series by Brandon Sanderson
+47. The First Law trilogy by Joe Abercrombie
+48. The Lies of Locke Lamora by Scott Lynch
+49. The Name of the Wind by Patrick Rothfuss
+50. The Wise Man's Fear by Patrick Rothfuss

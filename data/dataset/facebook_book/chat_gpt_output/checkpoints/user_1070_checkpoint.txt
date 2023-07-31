@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. On the Road by Jack Kerouac
+2. The Catcher in the Rye by J.D. Salinger
+3. One Flew Over the Cuckoo's Nest by Ken Kesey
+4. The Bell Jar by Sylvia Plath
+5. A Clockwork Orange by Anthony Burgess
+6. The Electric Kool-Aid Acid Test by Tom Wolfe
+7. The Sun Also Rises by Ernest Hemingway
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+10. The Shining by Stephen King
+11. The Stand by Stephen King
+12. The Road by Cormac McCarthy
+13. 1984 by George Orwell
+14. Animal Farm by George Orwell
+15. Brave New World by Aldous Huxley
+16. Slaughterhouse-Five by Kurt Vonnegut
+17. Cat's Cradle by Kurt Vonnegut
+18. The Stranger by Albert Camus
+19. The Plague by Albert Camus
+20. Crime and Punishment by Fyodor Dostoevsky
+21. The Brothers Karamazov by Fyodor Dostoevsky
+22. Lolita by Vladimir Nabokov
+23. Pale Fire by Vladimir Nabokov
+24. The Trial by Franz Kafka
+25. The Metamorphosis by Franz Kafka
+26. Heart of Darkness by Joseph Conrad
+27. Lord of the Flies by William Golding
+28. The Lord of the Rings by J.R.R. Tolkien
+29. The Hobbit by J.R.R. Tolkien
+30. The Chronicles of Narnia by C.S. Lewis
+31. The Hitchhiker's Guide to the Galaxy: The Complete Radio Series by Douglas Adams
+32. The Complete Sherlock Holmes by Arthur Conan Doyle
+33. The Adventures of Huckleberry Finn by Mark Twain
+34. The Adventures of Tom Sawyer by Mark Twain
+35. The Great Gatsby: The Authorized Edition by F. Scott Fitzgerald
+36. The Sound and the Fury by William Faulkner
+37. As I Lay Dying by William Faulkner
+38. The Old Man and the Sea by Ernest Hemingway
+39. For Whom the Bell Tolls by Ernest Hemingway
+40. The Grapes of Wrath by John Steinbeck
+41. East of Eden by John Steinbeck
+42. To Kill a Mockingbird by Harper Lee
+43. Go Set a Watchman by Harper Lee
+44. The Color Purple by Alice Walker
+45. Beloved by Toni Morrison
+46. Song of Solomon by Toni Morrison
+47. The Handmaid's Tale by Margaret Atwood
+48. The Blind Assassin by Margaret Atwood
+49. The God of Small Things by Arund
+50. The Wise Man's Fear by Patrick Rothfuss

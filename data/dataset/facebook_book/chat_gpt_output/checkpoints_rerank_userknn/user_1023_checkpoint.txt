@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. Wuthering Heights by Emily Bronte
+3. Frankenstein by Mary Shelley
+4. The Picture of Dorian Gray by Oscar Wilde
+5. Les Miserables by Victor Hugo
+6. The Great Gatsby by F. Scott Fitzgerald
+7. Nineteen Eighty-Four by George Orwell
+8. The Hobbit by J.R.R. Tolkien
+9. The Lord of the Rings by J.R.R. Tolkien
+10. Harry Potter series by J.K. Rowling
+11. Dracula by Bram Stoker
+12. The Handmaid's Tale by Margaret Atwood
+13. Fahrenheit 451 by Ray Bradbury
+14. The Catcher in the Rye by J.D. Salinger
+15. The Book Thief by Markus Zusak
+16. The Bell Jar by Sylvia Plath
+17. She: A History of Adventure by H. Rider Haggard
+18. Ivanhoe by Sir Walter Scott
+19. The Once and Future King by T.H. White
+20. The Ugly Duckling by Hans Christian Andersen
+21. The Little Prince by Antoine de Saint-Exupéry
+22. Alice's Adventures in Wonderland by Lewis Carroll
+23. Through the Looking-Glass by Lewis Carroll
+24. The Last Unicorn by Peter S. Beagle
+25. The Five People You Meet in Heaven by Mitch Albom
+26. The Last Lecture by Randy Pausch
+27. All Quiet on the Western Front by Erich Maria Remarque
+28. Women in Love by D.H. Lawrence
+29. Eugene Onegin by Alexander Pushkin
+30. The End of the Affair by Graham Greene
+31. Murder on the Orient Express by Agatha Christie
+32. The Tenant of Wildfell Hall by Anne Bronte
+33. His Dark Materials by Philip Pullman
+34. Revolutionary Road by Richard Yates
+35. Romeo and Juliet by William Shakespeare
+36. On Beauty by Zadie Smith
+37. The 48 Laws of Power by Robert Greene
+38. A Portrait of the Artist as a Young Man by James Joyce
+39. A Great and Terrible Beauty by Libba Bray
+40. Marley & Me by John Grogan
+41. Of Mice and Men by John Steinbeck
+42. Twilight series by Stephenie Meyer
+43. The Count of Monte Cristo by Alexandre Dumas
+44. Franny and Zooey by J.D. Salinger
+45. Choke by Chuck Palahniuk
+46. Stranger than Fiction: True Stories by Chuck Palahniuk
+47. Adventures of Huckleberry Finn by Mark Twain
+48. The Big Over Easy by Jasper Fforde
+49. Lolita by Vladimir Nabokov
+50. Wolf Brother by Michelle

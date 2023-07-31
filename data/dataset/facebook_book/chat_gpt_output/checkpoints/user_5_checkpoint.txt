@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. Animal Farm by George Orwell
+5. Lord of the Flies by William Golding
+6. Brave New World by Aldous Huxley
+7. The Great Gatsby by F. Scott Fitzgerald
+8. One Hundred Years of Solitude by Gabriel Garcia Marquez
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Bell Jar by Sylvia Plath
+11. Heart of Darkness by Joseph Conrad
+12. The Handmaid's Tale by Margaret Atwood
+13. The Sun Also Rises by Ernest Hemingway
+14. A Clockwork Orange by Anthony Burgess
+15. The Stranger by Albert Camus
+16. The Road by Cormac McCarthy
+17. The Old Man and the Sea by Ernest Hemingway
+18. Slaughterhouse-Five by Kurt Vonnegut
+19. The Brothers Karamazov by Fyodor Dostoyevsky
+20. The Trial by Franz Kafka
+21. The Metamorphosis by Franz Kafka
+22. The Plague by Albert Camus
+23. The Sound and the Fury by William Faulkner
+24. The Grapes of Wrath by John Steinbeck
+25. East of Eden by John Steinbeck
+26. The Outsiders by S.E. Hinton
+27. The Lord of the Rings by J.R.R. Tolkien
+28. The Hobbit by J.R.R. Tolkien
+29. The Chronicles of Narnia by C.S. Lewis
+30. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+31. The Martian by Andy Weir
+32. The Hunger Games by Suzanne Collins
+33. Harry Potter and the Philosopher's Stone by J.K. Rowling
+34. The Da Vinci Code by Dan Brown
+35. Angels and Demons by Dan Brown
+36. The Girl with the Dragon Tattoo by Stieg Larsson
+37. The Help by Kathryn Stockett
+38. The Kite Runner by Khaled Hosseini
+39. A Thousand Splendid Suns by Khaled Hosseini
+40. The Alchemist by Paulo Coelho
+41. The Name of the Wind by Patrick Rothfuss
+42. The Wise Man's Fear by Patrick Rothfuss
+43. The Shadow of the Wind by Carlos Ruiz Zafón
+44. The Nightingale by Kristin Hannah
+45. The Book Thief by Markus Zusak
+46. The Fault in Our Stars by John Green
+47. Gone Girl by Gillian Flynn
+48. The Girl on the Train by Paula Hawkins
+49. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+50. The Devil

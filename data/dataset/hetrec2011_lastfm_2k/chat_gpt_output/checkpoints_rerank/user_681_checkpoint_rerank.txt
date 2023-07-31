@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. My Chemical Romance
+2. Placebo
+3. 30 Seconds to Mars
+4. Marilyn Manson
+5. Avril Lavigne
+6. Rammstein
+7. 宇多田ヒカル
+8. DIR EN GREY
+9. The Cure
+10. Silverstein
+11. The Birthday Massacre
+12. Maxïmo Park
+13. Beck
+14. Drop Dead, Gorgeous
+15. The Maccabees
+16. Mew
+17. Radiohead
+18. The Killers
+19. Alexisonfire
+20. Evanescence
+21. Enter Shikari
+22. From First to Last
+23. Escape The Fate
+24. Muse
+25. Nirvana
+26. Iron Maiden
+27. Led Zeppelin
+28. Metallica
+29. Pearl Jam
+30. System of a Down
+31. Nine Inch Nails
+32. Linkin Park
+33. Avenged Sevenfold
+34. Green Day
+35. Pink Floyd
+36. Coldplay
+37. Blur
+38. Arctic Monkeys
+39. The Beatles
+40. U2
+41. Michael Jackson
+42. Madonna
+43. Lady Gaga
+44. Christina Aguilera
+45. Rihanna
+46. Shakira
+47. Katy Perry
+48. Taylor Swift
+49. Ke$ha
+50. Amy Winehouse

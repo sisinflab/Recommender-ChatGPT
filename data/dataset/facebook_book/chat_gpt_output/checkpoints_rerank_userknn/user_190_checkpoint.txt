@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter
+2. The Hunger Games
+3. Twilight (series)
+4. Inkheart
+5. Inkspell
+6. Inkdeath
+7. The Giver
+8. To Kill a Mockingbird
+9. The Catcher in the Rye
+10. Looking for Alaska
+11. Paper Towns
+12. An Abundance of Katherines
+13. The Lovely Bones
+14. The Notebook (novel)
+15. The Alchemist (novel)
+16. A Wrinkle in Time
+17. The Little Prince
+18. Alice's Adventures in Wonderland
+19. Ella Enchanted
+20. Fahrenheit 451
+21. Brave New World
+22. Lord of the Flies
+23. The Outsiders (novel)
+24. Franny and Zooey
+25. A Separate Peace
+26. The Curious Incident of the Dog in the Night-Time
+27. Ender's Game
+28. Speaker for the Dead
+29. The Wolves of Mercy Falls
+30. Touching Spirit Bear
+31. Kira-Kira
+32. Jane Eyre
+33. The Old Man and the Sea
+34. The Last Days (Masterson novel)
+35. Thirteen Reasons Why
+36. 13 Little Blue Envelopes
+37. The Tenth Circle
+38. The Land of Elyon
+39. Perfect Chemistry
+40. Tricks (novel)
+41. Glass (novel)
+42. Fallen (Kate novel)
+43. Unwind (novel)
+44. Go Ask Alice
+45. Girl, Interrupted
+46. Hairstyles of the Damned
+47. Candy: A Novel of Love and Addiction
+48. The Heroin Diaries: A Year in the Life of a Shattered Rock Star
+49. Bunnicula: A Rabbit-Tale of Mystery
+50. If You Give a Mouse a Cookie

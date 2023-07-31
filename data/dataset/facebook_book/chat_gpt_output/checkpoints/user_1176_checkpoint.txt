@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Maze Runner by James Dashner
+4. Percy Jackson and the Lightning Thief by Rick Riordan
+5. The Mortal Instruments series by Cassandra Clare
+6. The Fault in Our Stars by John Green
+7. Harry Potter and the Philosopher's Stone by J.K. Rowling
+8. The Giver by Lois Lowry
+9. Ender's Game by Orson Scott Card
+10. The Selection by Kiera Cass
+11. Legend by Marie Lu
+12. The 5th Wave by Rick Yancey
+13. The Lunar Chronicles by Marissa Meyer
+14. The Chronicles of Narnia by C.S. Lewis
+15. The Lord of the Rings by J.R.R. Tolkien
+16. The Hobbit by J.R.R. Tolkien
+17. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+18. The Girl with the Dragon Tattoo by Stieg Larsson
+19. The Da Vinci Code by Dan Brown
+20. The Catcher in the Rye by J.D. Salinger
+21. To Kill a Mockingbird by Harper Lee
+22. The Great Gatsby by F. Scott Fitzgerald
+23. 1984 by George Orwell
+24. Animal Farm by George Orwell
+25. Brave New World by Aldous Huxley
+26. Fahrenheit 451 by Ray Bradbury
+27. The Handmaid's Tale by Margaret Atwood
+28. The Road by Cormac McCarthy
+29. The Stand by Stephen King
+30. The Shining by Stephen King
+31. Carrie by Stephen King
+32. The Dark Tower series by Stephen King
+33. The Name of the Wind by Patrick Rothfuss
+34. A Song of Ice and Fire series by George R.R. Martin
+35. The Wheel of Time series by Robert Jordan
+36. The Kingkiller Chronicle series by Patrick Rothfuss
+37. Mistborn series by Brandon Sanderson
+38. The Stormlight Archive series by Brandon Sanderson
+39. The First Law trilogy by Joe Abercrombie
+40. The Lies of Locke Lamora by Scott Lynch
+41. The Blade Itself by Joe Abercrombie
+42. The Way of Kings by Brandon Sanderson
+43. The Final Empire by Brandon Sanderson
+44. The Well of Ascension by Brandon Sanderson
+45. The Hero of Ages by Brandon Sanderson
+46. The Lies of Locke Lamora by Scott Lynch
+47. The Republic of Thieves by Scott Lynch
+48. The Wise Man's Fear by Patrick Rothfuss
+49. The Slow Regard of Silent Things by Patrick Rothfuss
+50. The Doors of Stone by Patrick Rothfuss (upcoming)

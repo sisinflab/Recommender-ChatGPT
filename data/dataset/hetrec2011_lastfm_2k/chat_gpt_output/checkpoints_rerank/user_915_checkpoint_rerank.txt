@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Red Hot Chili Peppers
+2. Nirvana
+3. Arctic Monkeys
+4. Franz Ferdinand
+5. Silverchair
+6. Travis
+7. Jack Johnson
+8. Snoop Dogg
+9. Cypress Hill
+10. Bad Religion
+11. Underoath
+12. Saosin
+13. Matanza
+14. Los Hermanos
+15. Skank
+16. Marisa Monte
+17. Alexisonfire
+18. Charlie Brown Jr.
+19. deadmau5
+20. Depeche Mode
+21. Radiohead
+22. Muse
+23. Pink Floyd
+24. Led Zeppelin
+25. Metallica
+26. Iron Maiden
+27. System of a Down
+28. Nine Inch Nails
+29. Linkin Park
+30. Avenged Sevenfold
+31. My Chemical Romance
+32. Green Day
+33. The Cure
+34. The Beatles
+35. U2
+36. 30 Seconds to Mars
+37. Placebo
+38. The Killers
+39. Ke$ha
+40. Lady Gaga
+41. Rihanna
+42. Beyoncé
+43. Madonna
+44. Christina Aguilera
+45. Katy Perry
+46. Taylor Swift
+47. Paramore
+48. Evanescence
+49. P!nk
+50. Kelly Clarkson

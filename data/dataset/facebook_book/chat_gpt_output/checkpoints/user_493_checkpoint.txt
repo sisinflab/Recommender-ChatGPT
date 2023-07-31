@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Stand by Stephen King
+2. The Shining by Stephen King
+3. Pet Sematary by Stephen King
+4. Misery by Stephen King
+5. Salem's Lot by Stephen King
+6. The Dark Tower series by Stephen King
+7. Carrie by Stephen King
+8. The Dead Zone by Stephen King
+9. The Talisman by Stephen King and Peter Straub
+10. The Green Mile by Stephen King
+11. The Tommyknockers by Stephen King
+12. The Mist by Stephen King
+13. The Gunslinger by Stephen King
+14. The Drawing of the Three by Stephen King
+15. The Waste Lands by Stephen King
+16. Wizard and Glass by Stephen King
+17. Wolves of the Calla by Stephen King
+18. Song of Susannah by Stephen King
+19. The Dark Tower by Stephen King
+20. The Eyes of the Dragon by Stephen King
+21. The Vampire Lestat by Anne Rice
+22. Queen of the Damned by Anne Rice
+23. The Witching Hour by Anne Rice
+24. The Mummy by Anne Rice
+25. The Wolf Gift by Anne Rice
+26. The Vampire Chronicles by Anne Rice
+27. The Mayfair Witches by Anne Rice
+28. The Walking Dead by Robert Kirkman
+29. World War Z by Max Brooks
+30. The Road by Cormac McCarthy
+31. The Hunger Games by Suzanne Collins
+32. Divergent by Veronica Roth
+33. The Maze Runner by James Dashner
+34. The Giver by Lois Lowry
+35. Ender's Game by Orson Scott Card
+36. Ready Player One by Ernest Cline
+37. Snow Crash by Neal Stephenson
+38. Neuromancer by William Gibson
+39. Do Androids Dream of Electric Sheep? by Philip K. Dick
+40. Fahrenheit 451 by Ray Bradbury
+41. 1984 by George Orwell
+42. Brave New World by Aldous Huxley
+43. The Handmaid's Tale by Margaret Atwood
+44. The Hunger Angel by Herta Müller
+45. The Book Thief by Markus Zusak
+46. The Fault in Our Stars by John Green
+47. The Perks of Being a Wallflower by Stephen Chbosky
+48. The Catcher in the Rye by J.D. Salinger
+49. To Kill a Mockingbird by Harper Lee
+50. The Great Gatsby by F. Scott Fitzgerald

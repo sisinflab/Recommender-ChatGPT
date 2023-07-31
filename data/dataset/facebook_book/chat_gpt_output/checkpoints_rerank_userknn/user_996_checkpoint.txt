@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Hobbit by J.R.R. Tolkien
+2. The Catcher in the Rye by J.D. Salinger
+3. Frankenstein by Mary Shelley
+4. Wuthering Heights by Emily Bronte
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Iliad by Homer
+7. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+8. Lolita by Vladimir Nabokov
+9. Fear and Loathing in Las Vegas by Hunter S. Thompson
+10. The Little Prince by Antoine de Saint-Exupery
+11. Nineteen Eighty-Four by George Orwell
+12. Life of Pi by Yann Martel
+13. Black Beauty by Anna Sewell
+14. Girl with a Pearl Earring by Tracy Chevalier
+15. Go Ask Alice by Anonymous
+16. The Unbearable Lightness of Being by Milan Kundera
+17. A Clockwork Orange by Anthony Burgess
+18. Things Fall Apart by Chinua Achebe
+19. The Secret Garden by Frances Hodgson Burnett
+20. Fantastic Beasts and Where to Find Them by J.K. Rowling
+21. The Joy Luck Club by Amy Tan
+22. Tuesdays with Morrie by Mitch Albom
+23. The Lovely Bones by Alice Sebold
+24. His Dark Materials by Philip Pullman
+25. Paradise Lost by John Milton
+26. The Valley of Horses by Jean M. Auel
+27. Life of Pi by Yann Martel
+28. Black Beauty by Anna Sewell
+29. Girl with a Pearl Earring by Tracy Chevalier
+30. Go Ask Alice by Anonymous
+31. The Unbearable Lightness of Being by Milan Kundera
+32. A Clockwork Orange by Anthony Burgess
+33. Things Fall Apart by Chinua Achebe
+34. The Secret Garden by Frances Hodgson Burnett
+35. Fantastic Beasts and Where to Find Them by J.K. Rowling
+36. The Joy Luck Club by Amy Tan
+37. Tuesdays with Morrie by Mitch Albom
+38. The Lovely Bones by Alice Sebold
+39. His Dark Materials by Philip Pullman
+40. Paradise Lost by John Milton
+41. The Valley of Horses by Jean M. Auel
+42. Rebel Angels by Libba Bray
+43. The Shelters of Stone by Jean M. Auel
+44. Memoirs of a Geisha by Arthur Golden
+45. Garden of Shadows by V.C. Andrews
+46. The Notebook by Nicholas Sparks
+47. The Queen of the Damned by Anne Rice
+48. The Vampire Lestat by Anne Rice
+49. Mirror, Mirror by Gregory Maguire
+50. Les Miserables by Victor Hugo

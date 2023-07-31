@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Gorillaz
+2. Paramore
+3. The Veronicas
+4. Radiohead
+5. The Killers
+6. Blur
+7. Travis
+8. Metric
+9. Tiziano Ferro
+10. Hey Monday
+11. Avril Lavigne
+12. Maroon 5
+13. Ashlee Simpson
+14. Mallu Magalhães
+15. Miley Cyrus
+16. Uffie
+17. Belinda
+18. Muse
+19. Norah Jones
+20. A Fine Frenzy
+21. Shakira
+22. The Hives
+23. The Kills
+24. Kudai
+25. The Cardigans
+26. Franz Ferdinand
+27. Weezer
+28. Pato Fu
+29. Daft Punk
+30. Crystal Castles
+31. OneRepublic
+32. Natasha Bedingfield
+33. Flyleaf
+34. James Blunt
+35. Daddy Yankee
+36. t.A.T.u.
+37. Lady Gaga
+38. Madonna
+39. Rihanna
+40. Katy Perry
+41. Taylor Swift
+42. Evanescence
+43. Beyoncé
+44. U2
+45. 30 Seconds to Mars
+46. Pink Floyd
+47. Kylie Minogue
+48. Ke$ha
+49. Duran Duran
+50. Coldplay

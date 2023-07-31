@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Choke (novel)
+2. Haunted (Palahniuk novel)
+3. Cat's Cradle
+4. Slaughterhouse-Five
+5. The Catcher in the Rye
+6. Atonement (novel)
+7. One Hundred Years of Solitude
+8. Lord of the Flies
+9. Animal Farm
+10. Romeo and Juliet
+11. To Kill a Mockingbird
+12. The Picture of Dorian Gray
+13. Inferno (Dante)
+14. The Gargoyle (novel)
+15. Blindness (novel)
+16. The Hunger Games
+17. Inkheart
+18. The Things They Carried
+19. Middlesex (novel)
+20. The Knife of Never Letting Go
+21. House of Leaves
+22. The Perks of Being a Wallflower
+23. Harry Potter
+24. Love Hina
+25. Running with Scissors (memoir)
+26. I Never Promised You a Rose Garden (novel)
+27. A Million Little Pieces
+28. Sex, Drugs, and Cocoa Puffs
+29. Infinite Jest
+30. Interview with the Vampire
+31. Cabal (novella)
+32. Steppenwolf (novel)
+33. Brain Droppings
+34. Stranger than Fiction: True Stories
+35. The Smurfs
+36. Go Ask Alice
+37. Player Piano (novel)
+38. A Modest Proposal
+39. Lullaby (Palahniuk novel)
+40. Rant (novel)
+41. Diary (novel)
+42. A Swiftly Tilting Planet
+43. Water for Elephants
+44. Under the Dome
+45. Inheritance Cycle
+46. Dramacon
+47. Insomnia (novel)
+48. The Interpretation of Dreams
+49. The Graveyard Book
+50. Macbeth

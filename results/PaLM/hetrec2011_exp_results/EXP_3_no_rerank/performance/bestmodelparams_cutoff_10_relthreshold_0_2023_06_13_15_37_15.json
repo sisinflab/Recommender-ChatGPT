@@ -1,0 +1,15 @@
+[
+    {
+        "default_validation_metric": "nDCG",
+        "default_validation_cutoff": 10,
+        "rel_threshold": 0
+    },
+    {
+        "meta": {},
+        "recommender": "results_EXP_3_no_rerank",
+        "configuration": {
+            "path": "../data/dataset/hetrec2011_lastfm_2k/google_palm/results_EXP_3_no_rerank.tsv",
+            "name": "results_EXP_3_no_rerank"
+        }
+    }
+]

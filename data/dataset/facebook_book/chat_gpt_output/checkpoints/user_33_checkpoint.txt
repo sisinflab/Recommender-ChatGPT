@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. Animal Farm by George Orwell
+4. The Catcher in the Rye by J.D. Salinger
+5. To Kill a Mockingbird by Harper Lee
+6. Lord of the Flies by William Golding
+7. The Great Gatsby by F. Scott Fitzgerald
+8. One Hundred Years of Solitude by Gabriel Garcia Marquez
+9. Crime and Punishment by Fyodor Dostoevsky
+10. The Brothers Karamazov by Fyodor Dostoevsky
+11. The Picture of Dorian Gray by Oscar Wilde
+12. The Stranger by Albert Camus
+13. Heart of Darkness by Joseph Conrad
+14. The Road by Cormac McCarthy
+15. The Old Man and the Sea by Ernest Hemingway
+16. The Sun Also Rises by Ernest Hemingway
+17. For Whom the Bell Tolls by Ernest Hemingway
+18. The Bell Jar by Sylvia Plath
+19. The Handmaid's Tale by Margaret Atwood
+20. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+21. Slaughterhouse-Five by Kurt Vonnegut
+22. Cat's Cradle by Kurt Vonnegut
+23. The Sirens of Titan by Kurt Vonnegut
+24. The Martian Chronicles by Ray Bradbury
+25. Fahrenheit 451 by Ray Bradbury
+26. The Stand by Stephen King
+27. It by Stephen King
+28. The Shining by Stephen King
+29. Misery by Stephen King
+30. The Dark Tower series by Stephen King
+31. The Name of the Wind by Patrick Rothfuss
+32. The Lies of Locke Lamora by Scott Lynch
+33. The Blade Itself by Joe Abercrombie
+34. The Way of Kings by Brandon Sanderson
+35. Mistborn by Brandon Sanderson
+36. The Kingkiller Chronicle by Patrick Rothfuss
+37. The First Law Trilogy by Joe Abercrombie
+38. The Malazan Book of the Fallen by Steven Erikson
+39. The Wheel of Time series by Robert Jordan
+40. The Stormlight Archive by Brandon Sanderson
+41. The Dresden Files by Jim Butcher
+42. The Hunger Games by Suzanne Collins
+43. Divergent by Veronica Roth
+44. The Maze Runner by James Dashner
+45. Ready Player One by Ernest Cline
+46. Snow Crash by Neal Stephenson
+47. Neuromancer by William Gibson
+48. Do Androids Dream of Electric Sheep? by Philip K. Dick
+49. The Hitchhiker's Guide to the Galaxy series by Douglas Adams
+50. The Discworld series by Terry Pratchett

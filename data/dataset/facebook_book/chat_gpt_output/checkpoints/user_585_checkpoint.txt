@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Kite Runner by Khaled Hosseini
+2. And the Mountains Echoed by Khaled Hosseini
+3. The Hunger Games by Suzanne Collins
+4. Catching Fire by Suzanne Collins
+5. Mockingjay by Suzanne Collins
+6. Eldest by Christopher Paolini
+7. Brisingr by Christopher Paolini
+8. Inheritance by Christopher Paolini
+9. Sense and Sensibility by Jane Austen
+10. Emma by Jane Austen
+11. Persuasion by Jane Austen
+12. Northanger Abbey by Jane Austen
+13. The Lucky One by Nicholas Sparks
+14. The Last Song by Nicholas Sparks
+15. Safe Haven by Nicholas Sparks
+16. The Best of Me by Nicholas Sparks
+17. The Sorcerer's Stone by J.K. Rowling
+18. The Chamber of Secrets by J.K. Rowling
+19. The Prisoner of Azkaban by J.K. Rowling
+20. The Goblet of Fire by J.K. Rowling
+21. The Order of Phoenix by J.K. Rowling
+22. The Half-Blood Prince by J.K. Rowling
+23. The Deathly Hallows by J.K. Rowling
+24. The Da Vinci Code by Dan Brown
+25. Inferno by Dan Brown
+26. Digital Fortress by Dan Brown
+27. Deception Point by Dan Brown
+28. Gardens of the Moon by Steven Erikson
+29. Deadhouse Gates by Steven Erikson
+30. Memories of Ice by Steven Erikson
+31. House of Chains by Steven Erikson
+32. Midnight Tides by Steven Erikson
+33. The Bonehunters by Steven Erikson
+34. Reaper's Gale by Steven Erikson
+35. Toll the Hounds by Steven Erikson
+36. Dust of Dreams by Steven Erikson
+37. The Crippled God by Steven Erikson
+38. The Alchemist by Paulo Coelho
+39. The Zahir by Paulo Coelho
+40. Veronika Decides to Die by Paulo Coelho
+41. Brida by Paulo Coelho
+42. The Valkyries by Paulo Coelho
+43. The Witch of Portobello by Paulo Coelho
+44. The Fifth Mountain by Paulo Coelho
+45. The Devil and Miss Prym by Paulo Coelho
+46. The Pilgrimage by Paulo Coelho
+47. The Spy by Paulo Coelho
+48. The Winner Stands Alone by Paulo Coelho
+49. The Adulteress by Paulo Coelho
+50. The Supreme Gift by Paulo Coelho

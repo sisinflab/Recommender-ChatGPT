@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Depeche Mode
+2. Paradise Lost
+3. Nitzer Ebb
+4. Recoil
+5. Ария
+6. System of a Down
+7. Martin L. Gore
+8. Client
+9. Feeder
+10. L7
+11. The Cure
+12. Hans Zimmer
+13. Serj Tankian
+14. Cinema Bizarre
+15. The Offspring
+16. Lady Gaga
+17. Seether
+18. Kylie Minogue
+19. Metallica
+20. Gary Numan
+21. Massive Attack
+22. Travis
+23. Radiohead
+24. Nirvana
+25. Iron Maiden
+26. Led Zeppelin
+27. Pearl Jam
+28. Björk
+29. Nine Inch Nails
+30. Linkin Park
+31. My Chemical Romance
+32. Green Day
+33. The Killers
+34. Coldplay
+35. Muse
+36. Pink Floyd
+37. U2
+38. 30 Seconds to Mars
+39. Avenged Sevenfold
+40. Blur
+41. Arctic Monkeys
+42. Placebo
+43. Michael Jackson
+44. Amy Winehouse
+45. Duran Duran
+46. Daft Punk
+47. Black Eyed Peas
+48. P!nk
+49. Kelly Clarkson
+50. All Time Low

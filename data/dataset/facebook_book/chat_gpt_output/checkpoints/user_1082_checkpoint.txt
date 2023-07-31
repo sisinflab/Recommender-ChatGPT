@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Alchemist by Paulo Coelho
+2. 1984 by George Orwell
+3. To Kill a Mockingbird by Harper Lee
+4. The Catcher in the Rye by J.D. Salinger
+5. The Hunger Games by Suzanne Collins
+6. The Fault in Our Stars by John Green
+7. The Book Thief by Markus Zusak
+8. Animal Farm by George Orwell
+9. Brave New World by Aldous Huxley
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Hobbit by J.R.R. Tolkien
+12. The Chronicles of Narnia by C.S. Lewis
+13. The Da Vinci Code by Dan Brown
+14. Angels and Demons by Dan Brown
+15. The Girl with the Dragon Tattoo by Stieg Larsson
+16. The Girl Who Played with Fire by Stieg Larsson
+17. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+18. The Help by Kathryn Stockett
+19. The Kite Runner by Khaled Hosseini
+20. A Thousand Splendid Suns by Khaled Hosseini
+21. The Road by Cormac McCarthy
+22. The Great Gatsby by F. Scott Fitzgerald
+23. The Picture of Dorian Gray by Oscar Wilde
+24. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+25. The Hound of the Baskervilles by Arthur Conan Doyle
+26. The Complete Works of William Shakespeare by William Shakespeare
+27. The Odyssey by Homer
+28. The Iliad by Homer
+29. The Divine Comedy by Dante Alighieri
+30. The Canterbury Tales by Geoffrey Chaucer
+31. The Brothers Karamazov by Fyodor Dostoevsky
+32. Crime and Punishment by Fyodor Dostoevsky
+33. War and Peace by Leo Tolstoy
+34. Anna Karenina by Leo Tolstoy
+35. One Hundred Years of Solitude by Gabriel Garcia Marquez
+36. Love in the Time of Cholera by Gabriel Garcia Marquez
+37. The Name of the Rose by Umberto Eco
+38. The Picture of Dorian Gray by Oscar Wilde
+39. The Adventures of Tom Sawyer by Mark Twain
+40. The Adventures of Huckleberry Finn by Mark Twain
+41. The Old Man and the Sea by Ernest Hemingway
+42. For Whom the Bell Tolls by Ernest Hemingway
+43. The Sun Also Rises by Ernest Hemingway
+44. The Sound and the Fury by William Faulkner
+45. As I Lay Dying by William Faulkner
+46. The Grapes of Wrath by John Steinbeck
+47. Of Mice and Men by John Steinbeck
+48. East of Eden by
+49. The Name of the Wind by Patrick Rothfuss
+50. The Wise Man's Fear by Patrick Rothfuss

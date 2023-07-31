@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Fault in Our Stars by John Green
+2. Looking for Alaska by John Green
+3. Paper Towns by John Green
+4. Eleanor & Park by Rainbow Rowell
+5. Fangirl by Rainbow Rowell
+6. The Hunger Games by Suzanne Collins
+7. Catching Fire by Suzanne Collins
+8. Mockingjay by Suzanne Collins
+9. Divergent by Veronica Roth
+10. Insurgent by Veronica Roth
+11. Allegiant by Veronica Roth
+12. The Maze Runner by James Dashner
+13. The Scorch Trials by James Dashner
+14. The Death Cure by James Dashner
+15. The Giver by Lois Lowry
+16. Gathering Blue by Lois Lowry
+17. Messenger by Lois Lowry
+18. Son by Lois Lowry
+19. The Book Thief by Markus Zusak
+20. Thirteen Reasons Why by Jay Asher
+21. If I Stay by Gayle Forman
+22. Where She Went by Gayle Forman
+23. The Perks of Being a Wallflower by Stephen Chbosky
+24. The Outsiders by S. E. Hinton
+25. Speak by Laurie Halse Anderson
+26. Wintergirls by Laurie Halse Anderson
+27. The Lovely Bones by Alice Sebold
+28. The Secret Life of Bees by Sue Monk Kidd
+29. The Help by Kathryn Stockett
+30. The Girl on the Train by Paula Hawkins
+31. Gone Girl by Gillian Flynn
+32. The Da Vinci Code by Dan Brown
+33. Angels and Demons by Dan Brown
+34. Inferno by Dan Brown
+35. The Girl with the Dragon Tattoo by Stieg Larsson
+36. The Girl Who Played with Fire by Stieg Larsson
+37. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+38. The Hunger Games Trilogy Boxed Set by Suzanne Collins
+39. Divergent Series Box Set by Veronica Roth
+40. The Maze Runner Series Complete Collection Boxed Set by James Dashner
+41. The Giver Quartet boxed set by Lois Lowry
+42. The Book Thief by Markus Zusak
+43. The Fault in Our Stars by John Green (Movie Tie-in Edition)
+44. Looking for Alaska by John Green (Special 10th Anniversary Edition)
+45. Paper Towns by John Green (Movie Tie-in Edition)
+46. The Perks of Being a Wallflower by Stephen Chbosky (Movie Tie-in Edition)
+47. The Outsiders by S. E. Hinton (50th Anniversary Edition)
+48. The Girl on the Train by Paula Hawkins (Movie Tie-in Edition)
+49. Gone Girl by Gillian Flynn (Movie Tie-in Edition)
+50. The Da Vinci Code by Dan Brown (Movie Tie-in Edition)

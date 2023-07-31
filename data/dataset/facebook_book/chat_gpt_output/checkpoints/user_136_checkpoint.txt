@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Da Vinci Code by Dan Brown
+2. Angels and Demons by Dan Brown
+3. The Girl with the Dragon Tattoo by Stieg Larsson
+4. The Hunger Games by Suzanne Collins
+5. To Kill a Mockingbird by Harper Lee
+6. The Catcher in the Rye by J.D. Salinger
+7. The Great Gatsby by F. Scott Fitzgerald
+8. 1984 by George Orwell
+9. Animal Farm by George Orwell
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Hobbit by J.R.R. Tolkien
+12. The Chronicles of Narnia by C.S. Lewis
+13. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+14. The Alchemist by Paulo Coelho
+15. The Book Thief by Markus Zusak
+16. The Fault in Our Stars by John Green
+17. Pride and Prejudice by Jane Austen
+18. Sense and Sensibility by Jane Austen
+19. Emma by Jane Austen
+20. Persuasion by Jane Austen
+21. Northanger Abbey by Jane Austen
+22. Jane Eyre by Charlotte Bronte
+23. Villette by Charlotte Bronte
+24. The Tenant of Wildfell Hall by Anne Bronte
+25. The Picture of Dorian Gray by Oscar Wilde
+26. The Importance of Being Earnest by Oscar Wilde
+27. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+28. The Hound of the Baskervilles by Arthur Conan Doyle
+29. The Memoirs of Sherlock Holmes by Arthur Conan Doyle
+30. The Return of Sherlock Holmes by Arthur Conan Doyle
+31. The Valley of Fear by Arthur Conan Doyle
+32. The Complete Works of William Shakespeare by William Shakespeare
+33. The Canterbury Tales by Geoffrey Chaucer
+34. The Divine Comedy by Dante Alighieri
+35. The Iliad by Homer
+36. The Odyssey by Homer
+37. The Aeneid by Virgil
+38. The Inferno by Dante Alighieri
+39. The Decameron by Giovanni Boccaccio
+40. The Canterbury Tales by Geoffrey Chaucer
+41. The Prince by Niccolo Machiavelli
+42. Don Quixote by Miguel de Cervantes
+43. One Hundred Years of Solitude by Gabriel Garcia Marquez
+44. Love in the Time of Cholera by Gabriel Garcia Marquez
+45. Crime and Punishment by Fyodor Dostoevsky
+46. War and Peace by Leo Tolstoy
+47. Anna Karenina by Leo Tolstoy
+48. The Brothers Karamazov by Fyodor Dostoevsky
+49. Les Miserables by Victor Hugo
+50. The Count of Monte Cristo by Alexandre Dumas

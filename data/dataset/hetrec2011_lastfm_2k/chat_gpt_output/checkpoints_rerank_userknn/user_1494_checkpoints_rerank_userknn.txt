@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Coldplay
+2. The Killers
+3. The Strokes
+4. The Cure
+5. Arctic Monkeys
+6. My Chemical Romance
+7. Aerosmith
+8. Luis Miguel
+9. Michael Jackson
+10. Robbie Williams
+11. Avril Lavigne
+12. Timbaland
+13. The Hives
+14. Kaiser Chiefs
+15. Santana
+16. Juanes
+17. The Pussycat Dolls
+18. Laura Pausini
+19. Lily Allen
+20. The Police
+21. Bright Eyes
+22. Alejandro Sanz
+23. Madonna
+24. Prince
+25. Stevie Wonder
+26. Janet Jackson
+27. Queen
+28. Whitney Houston
+29. Britney Spears
+30. Katy Perry
+31. Black Eyed Peas
+32. Christina Aguilera
+33. Rihanna
+34. Shakira
+35. Lady Gaga
+36. P!nk
+37. Adele
+38. Bruno Mars
+39. The Beatles
+40. Foo Fighters
+41. Usher
+42. Ne-Yo
+43. Chris Brown
+44. Paramore
+45. Kelly Rowland
+46. Red Hot Chili Peppers
+47. Pink Floyd
+48. Guns N' Roses
+49. Scorpions
+50. Bryan Adams

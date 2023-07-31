@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Ender's Game by Orson Scott Card
+2. Ender's Shadow by Orson Scott Card
+3. Speaker for the Dead by Orson Scott Card
+4. Shadow Puppets by Orson Scott Card
+5. Jurassic Park by Michael Crichton
+6. Sphere by Michael Crichton
+7. Congo by Michael Crichton
+8. Rising Sun by Michael Crichton
+9. The Andromeda Strain by Michael Crichton
+10. The Last Juror by John Grisham
+11. The Broker by John Grisham
+12. A Time to Kill by John Grisham
+13. The Chamber by John Grisham
+14. The Runaway Jury by John Grisham
+15. The King of Torts by John Grisham
+16. The Testament by John Grisham
+17. The Hunger Games by Suzanne Collins
+18. Catching Fire by Suzanne Collins
+19. Mockingjay by Suzanne Collins
+20. The Vampire Chronicles by Anne Rice
+21. The Queen of the Damned by Anne Rice
+22. The Lion, the Witch and the Wardrobe by C.S. Lewis
+23. Brida by Paulo Coelho
+24. The Great Gatsby by F. Scott Fitzgerald
+25. Dune by Frank Herbert
+26. The Hatchet by Gary Paulsen
+27. Where the Red Fern Grows by Wilson Rawls
+28. Twenty Thousand Leagues Under the Sea by Jules Verne
+29. Pride and Prejudice by Jane Austen
+30. Sense and Sensibility by Jane Austen
+31. Veronika Decides to Die by Paulo Coelho
+32. The Zahir by Paulo Coelho
+33. The Wedding by Danielle Steel
+34. Executive Orders by Tom Clancy
+35. Watchers by Dean Koontz
+36. Blood of the Fold by Terry Goodkind
+37. Wizard's First Rule by Terry Goodkind
+38. Xenocide by Orson Scott Card
+39. The House of the Scorpion by Nancy Farmer
+40. The Appeal by John Grisham
+41. The Best Laid Plans by Sidney Sheldon
+42. Airframe by Michael Crichton
+43. The Ear, the Eye and the Arm by Nancy Farmer
+44. The Last Olympian by Rick Riordan
+45. Shade's Children by Garth Nix
+46. Fear and Loathing in Las Vegas by Hunter S. Thompson
+47. Disclosure by Michael Crichton
+48. Red Dragon by Thomas Harris
+49. The Vampire Diaries by L.J. Smith
+50. Lies My Teacher Told Me by James W. Loewen

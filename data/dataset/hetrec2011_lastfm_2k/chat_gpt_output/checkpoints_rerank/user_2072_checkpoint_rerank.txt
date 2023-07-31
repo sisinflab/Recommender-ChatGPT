@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Taylor Swift
+2. Britney Spears
+3. Aly & AJ
+4. The Veronicas
+5. Michelle Branch
+6. Hilary Duff
+7. Ashley Tisdale
+8. Ashlee Simpson
+9. Jonathan Larson
+10. The All-American Rejects
+11. Paramore
+12. Alexz Johnson
+13. Cascada
+14. Stacie Orrico
+15. BoA
+16. Vanessa Carlton
+17. Mandy Moore
+18. Glee Cast
+19. Groove Coverage
+20. Lindsay Lohan
+21. Blake Lewis
+22. Backstreet Boys
+23. Lady Gaga
+24. Mariah Carey
+25. Kate Voegele
+26. The Hush Sound
+27. We The Kings
+28. Katy Perry
+29. Madonna
+30. Rihanna
+31. Beyoncé
+32. Pink Floyd
+33. Muse
+34. Radiohead
+35. Coldplay
+36. Ke$ha
+37. Duran Duran
+38. Arctic Monkeys
+39. Placebo
+40. The Killers
+41. Nirvana
+42. Iron Maiden
+43. Led Zeppelin
+44. Metallica
+45. Michael Jackson
+46. Pearl Jam
+47. a-ha
+48. Björk
+49. Daft Punk
+50. Nine Inch Nails

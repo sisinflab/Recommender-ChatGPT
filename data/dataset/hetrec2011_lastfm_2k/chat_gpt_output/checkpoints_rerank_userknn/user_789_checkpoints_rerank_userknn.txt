@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Eminem
+2. Kanye West
+3. Nas
+4. 50 Cent
+5. Jay-Z
+6. Dr. Dre
+7. Snoop Dogg
+8. Notorious B.I.G.
+9. Ghostface Killah
+10. MF DOOM
+11. Bone Thugs-N-Harmony
+12. Common
+13. Lupe Fiasco
+14. Mos Def
+15. Gang Starr
+16. Cypress Hill
+17. Ice Cube
+18. OutKast
+19. The Game
+20. Red Hot Chili Peppers
+21. Nirvana
+22. The White Stripes
+23. Franz Ferdinand
+24. The Police
+25. Bob Marley & The Wailers
+26. Gnarls Barkley
+27. The Killers
+28. Radiohead
+29. Joy Division
+30. De La Soul
+31. Madlib
+32. Benny Benassi
+33. David Guetta
+34. Timbaland
+35. J Dilla
+36. Trey Songz
+37. Alicia Keys
+38. Erykah Badu
+39. Bonobo
+40. Sia
+41. The Roots
+42. The Offspring
+43. Kid Cudi
+44. Aaliyah
+45. U2
+46. Jason Derülo
+47. Rihanna
+48. Beyoncé
+49. Cassie
+50. Justin Timberlake

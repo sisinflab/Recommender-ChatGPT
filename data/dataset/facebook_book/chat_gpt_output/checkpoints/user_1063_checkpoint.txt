@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Fault in Our Stars by John Green
+2. The Hunger Games by Suzanne Collins
+3. Divergent by Veronica Roth
+4. The Maze Runner by James Dashner
+5. The Book Thief by Markus Zusak
+6. The Perks of Being a Wallflower by Stephen Chbosky
+7. Looking for Alaska by John Green
+8. Paper Towns by John Green
+9. Eleanor & Park by Rainbow Rowell
+10. If I Stay by Gayle Forman
+11. Me Before You by Jojo Moyes
+12. The Girl on the Train by Paula Hawkins
+13. Gone Girl by Gillian Flynn
+14. The Lovely Bones by Alice Sebold
+15. The Help by Kathryn Stockett
+16. The Secret Life of Bees by Sue Monk Kidd
+17. The Kite Runner by Khaled Hosseini
+18. A Thousand Splendid Suns by Khaled Hosseini
+19. The Time Traveler's Wife by Audrey Niffenegger
+20. Water for Elephants by Sara Gruen
+21. The Nightingale by Kristin Hannah
+22. The Alchemist by Paulo Coelho
+23. The Giver by Lois Lowry
+24. The Chronicles of Narnia by C.S. Lewis
+25. Harry Potter series by J.K. Rowling
+26. The Lord of the Rings by J.R.R. Tolkien
+27. The Hobbit by J.R.R. Tolkien
+28. The Da Vinci Code by Dan Brown
+29. Angels and Demons by Dan Brown
+30. The Bourne Identity by Robert Ludlum
+31. The Girl with the Dragon Tattoo by Stieg Larsson
+32. The Girl Who Played with Fire by Stieg Larsson
+33. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+34. The Catcher in the Rye by J.D. Salinger
+35. To Kill a Mockingbird by Harper Lee
+36. The Great Gatsby by F. Scott Fitzgerald
+37. 1984 by George Orwell
+38. Animal Farm by George Orwell
+39. Brave New World by Aldous Huxley
+40. Fahrenheit 451 by Ray Bradbury
+41. The Handmaid's Tale by Margaret Atwood
+42. The Road by Cormac McCarthy
+43. The Stand by Stephen King
+44. It by Stephen King
+45. The Shining by Stephen King
+46. Carrie by Stephen King
+47. The Silence of the Lambs by Thomas Harris
+48. Red Dragon by Thomas Harris
+49. Hannibal by Thomas Harris
+50. The Godfather by Mario Puzo

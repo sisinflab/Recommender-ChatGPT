@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Ender's Game by Orson Scott Card
+2. The Hunger Games by Suzanne Collins
+3. The Lord of the Rings by J.R.R. Tolkien
+4. Harry Potter and the Philosopher's Stone by J.K. Rowling
+5. The Name of the Wind by Patrick Rothfuss
+6. The Girl with the Dragon Tattoo by Stieg Larsson
+7. The Martian by Andy Weir
+8. Ready Player One by Ernest Cline
+9. The Hitchhiker's Guide to the Galaxy: The Complete Radio Series by Douglas Adams
+10. The Hobbit by J.R.R. Tolkien
+11. The Catcher in the Rye by J.D. Salinger
+12. The Great Gatsby by F. Scott Fitzgerald
+13. To Kill a Mockingbird by Harper Lee
+14. 1984 by George Orwell
+15. Animal Farm by George Orwell
+16. Brave New World by Aldous Huxley
+17. Fahrenheit 451 by Ray Bradbury
+18. The Handmaid's Tale by Margaret Atwood
+19. The Road by Cormac McCarthy
+20. The Stand by Stephen King
+21. The Shining by Stephen King
+22. It by Stephen King
+23. The Dark Tower series by Stephen King
+24. The Gunslinger by Stephen King
+25. The Drawing of the Three by Stephen King
+26. The Waste Lands by Stephen King
+27. Wizard and Glass by Stephen King
+28. Wolves of the Calla by Stephen King
+29. Song of Susannah by Stephen King
+30. The Dark Tower by Stephen King
+31. The Chronicles of Narnia by C.S. Lewis
+32. The Golden Compass by Philip Pullman
+33. The Subtle Knife by Philip Pullman
+34. The Amber Spyglass by Philip Pullman
+35. The Maze Runner by James Dashner
+36. The Scorch Trials by James Dashner
+37. The Death Cure by James Dashner
+38. The Kill Order by James Dashner
+39. The Giver by Lois Lowry
+40. Gathering Blue by Lois Lowry
+41. Messenger by Lois Lowry
+42. Son by Lois Lowry
+43. The Alchemist by Paulo Coelho
+44. The Picture of Dorian Gray by Oscar Wilde
+45. The Count of Monte Cristo by Alexandre Dumas
+46. Les Misérables by Victor Hugo
+47. The Three Musketeers by Alexandre Dumas
+48. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+49. The Hound of the Baskervilles by Arthur Conan Doyle
+50. The Complete Works of William Shakespeare.

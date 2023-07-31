@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for this user would be:
+
+1. Jimi Hendrix
+2. The Rolling Stones
+3. Stevie Ray Vaughan
+4. Eric Clapton
+5. B.B. King
+6. Ray Charles
+7. Muddy Waters
+8. John Lee Hooker
+9. Stevie Wonder
+10. Robert Johnson
+11. Buddy Guy
+12. ZZ Top
+13. Janis Joplin
+14. Chuck Berry
+15. David Bowie
+16. Queen
+17. Fleetwood Mac
+18. Buddy Holly
+19. Bob Dylan
+20. The Beatles
+21. John Lennon
+22. Nirvana
+23. Cream
+24. The Doors
+25. Lynyrd Skynyrd
+26. Marvin Gaye
+27. Green Day
+28. U2
+29. Red Hot Chili Peppers
+30. Billie Holiday
+31. Bruce Springsteen
+32. David Gilmour
+33. Ben Harper
+34. James Blunt
+35. The Animals
+36. Ennio Morricone
+37. Electric Light Orchestra
+38. Elvis Presley
+39. Paul McCartney & Wings
+40. Elvis Costello
+41. Sublime
+42. The Yardbirds
+43. The Gaslight Anthem
+44. Aerosmith
+45. The Offspring
+46. Radiohead
+47. Van Morrison
+48. Neil Young
+49. Creedence Clearwater Revival
+50. Jethro Tull

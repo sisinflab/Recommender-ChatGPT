@@ -1,0 +1,49 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter by J.K. Rowling
+2. Twilight (series) by Stephenie Meyer
+3. Percy Jackson & the Olympians by Rick Riordan
+4. Skeleton Creek (novel) by Patrick Carman
+5. Nightworld (novel) by F. Paul Wilson
+6. Chosen (A House of Night novel) by P.C. Cast and Kristin Cast
+7. Blue Bloods (novel series) by Melissa de la Cruz
+8. Eragon by Christopher Paolini
+9. The Forest of Hands and Teeth by Carrie Ryan
+10. The Girl Who Played with Fire by Stieg Larsson
+11. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+12. The Lovely Bones by Alice Sebold
+13. Angels & Demons by Dan Brown
+14. The Da Vinci Code by Dan Brown
+15. Good Omens by Neil Gaiman and Terry Pratchett
+16. The Bourne Identity (novel) by Robert Ludlum
+17. Pride and Prejudice by Jane Austen
+18. Sabriel by Garth Nix
+19. Maximum Ride by James Patterson
+20. Vampire Academy (novel) by Richelle Mead
+21. The Vampire Diaries by L.J. Smith
+22. The Queen of the Damned by Anne Rice
+23. Interview with the Vampire by Anne Rice
+24. Abhorsen by Garth Nix
+25. Dark-Hunter (series) by Sherrilyn Kenyon
+26. The Notebook (novel) by Nicholas Sparks
+27. A Thousand Splendid Suns by Khaled Hosseini
+28. The Lorax by Dr. Seuss
+29. The Watchmen (novel) by Alan Moore and Dave Gibbons
+30. Black Dagger Brotherhood by J.R. Ward
+31. Gone with the Wind by Margaret Mitchell
+32. City of Ashes by Cassandra Clare
+33. The Hardy Boys by Franklin W. Dixon
+34. Macbeth by William Shakespeare
+35. I Am Legend (novel) by Richard Matheson
+36. V (comics) by Alan Moore
+37. You Don't Know Me (novel) by David Klass
+38. A Summer to Die by Lois Lowry
+39. Untamed (novel) by P.C. Cast and Kristin Cast
+40. Malazan Book of the Fallen by Steven Erikson
+41. Textbook by Amy Krouse Rosenthal
+42. Perfect Match (novel) by Jodi Picoult
+43. Speak (novel) by Laurie Halse Anderson
+44. Holes (novel) by Louis Sachar
+45. Brisingr by Christopher Paolini
+46. Magic Tree House series by Mary Pope Osborne
+47. Quran

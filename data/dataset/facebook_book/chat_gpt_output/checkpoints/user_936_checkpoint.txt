@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Maze Runner by James Dashner
+2. The Hunger Games by Suzanne Collins
+3. Divergent by Veronica Roth
+4. The Giver by Lois Lowry
+5. The Fault in Our Stars by John Green
+6. The Selection by Kiera Cass
+7. Legend by Marie Lu
+8. Matched by Ally Condie
+9. Delirium by Lauren Oliver
+10. Uglies by Scott Westerfeld
+11. The 5th Wave by Rick Yancey
+12. The Knife of Never Letting Go by Patrick Ness
+13. The Darkest Minds by Alexandra Bracken
+14. The Testing by Joelle Charbonneau
+15. The Mortal Instruments series by Cassandra Clare
+16. The Infernal Devices series by Cassandra Clare
+17. The Lunar Chronicles series by Marissa Meyer
+18. The Chemical Garden series by Lauren DeStefano
+19. The Program by Suzanne Young
+20. The Unbecoming of Mara Dyer by Michelle Hodkin
+21. The Raven Boys by Maggie Stiefvater
+22. The Scorpio Races by Maggie Stiefvater
+23. The Diviners by Libba Bray
+24. The Gemma Doyle trilogy by Libba Bray
+25. The Luxe series by Anna Godbersen
+26. The Selection series by Kiera Cass
+27. The Vampire Academy series by Richelle Mead
+28. The House of Night series by P.C. Cast and Kristin Cast
+29. The Fallen series by Lauren Kate
+30. The Hush, Hush series by Becca Fitzpatrick
+31. The Beautiful Creatures series by Kami Garcia and Margaret Stohl
+32. The Dark Divine series by Bree Despain
+33. The Wolves of Mercy Falls series by Maggie Stiefvater
+34. The Immortals series by Alyson Noel
+35. The Blue Bloods series by Melissa de la Cruz
+36. The Secret Circle series by L.J. Smith
+37. The Vampire Diaries series by L.J. Smith
+38. The Sookie Stackhouse series by Charlaine Harris
+39. The Anita Blake series by Laurell K. Hamilton
+40. The Mercy Thompson series by Patricia Briggs
+41. The Kate Daniels series by Ilona Andrews
+42. The Fever series by Karen Marie Moning
+43. The Black Dagger Brotherhood series by J.R. Ward
+44. The Night Huntress series by Jeaniene Frost
+45. The Hollows series by Kim Harrison
+46. The Dresden Files series by Jim Butcher
+47. The Iron Druid Chronicles series by Kevin Hearne
+48. The October Daye series by Seanan McGuire
+49. The Sandman Slim series by Richard Kadrey
+50. The Rivers of London series by Ben Aaronovitch

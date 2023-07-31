@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Great Gatsby by F. Scott Fitzgerald
+2. To Kill a Mockingbird by Harper Lee
+3. Things Fall Apart by Chinua Achebe
+4. Les Misérables by Victor Hugo
+5. The Lord of the Rings by J.R.R. Tolkien
+6. The Picture of Dorian Gray by Oscar Wilde
+7. Heart of Darkness by Joseph Conrad
+8. The Canterbury Tales by Geoffrey Chaucer
+9. Slaughterhouse-Five by Kurt Vonnegut
+10. Wide Sargasso Sea by Jean Rhys
+11. The Tempest by William Shakespeare
+12. Macbeth by William Shakespeare
+13. The Merchant of Venice by William Shakespeare
+14. Inferno by Dante Alighieri
+15. The Cask of Amontillado by Edgar Allan Poe
+16. The Masque of the Red Death by Edgar Allan Poe
+17. Oliver Twist by Charles Dickens
+18. The Doors of Perception by Aldous Huxley
+19. The Prestige by Christopher Priest
+20. All Quiet on the Western Front by Erich Maria Remarque
+21. The Gold Bug Variations by Richard Powers
+22. The Secret by Rhonda Byrne
+23. The Seventh Tower by Garth Nix
+24. The Catcher in the Rye by J.D. Salinger
+25. Emma by Jane Austen
+26. Bridge to Terabithia by Katherine Paterson
+27. The Monk by Matthew Lewis
+28. The Pit and the Pendulum by Edgar Allan Poe
+29. Be Here Now by Ram Dass
+30. Leaving a Doll's House: A Memoir by Claire Bloom
+31. Factotum by Charles Bukowski
+32. The Rum Diary by Hunter S. Thompson
+33. The Last Storytellers: Tales from the Heart of Morocco by Richard Hamilton
+34. Seven Pillars of Wisdom by T.E. Lawrence
+35. The Good Earth by Pearl S. Buck
+36. Mythology by Edith Hamilton
+37. Jabberwocky by Lewis Carroll
+38. Kingdom of Fear by Hunter S. Thompson
+39. Evermore by Alyson Noël
+40. Go Ask Alice by Anonymous
+41. Miss Christina by Mircea Eliade
+42. Vampire Knight by Matsuri Hino
+43. Charmed by Paul Ruditis
+44. The Kite Runner by Khaled Hosseini
+45. King Leary by Paul Quarrington
+46. Antigone by Sophocles
+47. Oedipus the King by Sophocles
+48. Pride and Prejudice by Jane Austen
+49. Othello by William Shakespeare
+50. Medea by Euripides

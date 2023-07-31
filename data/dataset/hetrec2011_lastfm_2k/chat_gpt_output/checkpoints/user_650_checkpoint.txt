@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Arctic Monkeys
+3. Coldplay
+4. The Strokes
+5. Muse
+6. The Killers
+7. Arcade Fire
+8. Interpol
+9. Foals
+10. The National
+11. Vampire Weekend
+12. Phoenix
+13. Two Door Cinema Club
+14. The xx
+15. Alt-J
+16. Tame Impala
+17. LCD Soundsystem
+18. Yeah Yeah Yeahs
+19. The Black Keys
+20. Franz Ferdinand
+21. Bloc Party
+22. The White Stripes
+23. The Libertines
+24. The Kooks
+25. The Vaccines
+26. The Wombats
+27. Bombay Bicycle Club
+28. The 1975
+29. Catfish and the Bottlemen
+30. Kings of Leon
+31. Florence + the Machine
+32. Hozier
+33. Lana Del Rey
+34. Lorde
+35. Billie Eilish
+36. Taylor Swift
+37. Beyoncé
+38. Lady Gaga
+39. Ariana Grande
+40. Justin Timberlake
+41. Bruno Mars
+42. Ed Sheeran
+43. Shawn Mendes
+44. Post Malone
+45. Drake
+46. Kendrick Lamar
+47. Childish Gambino
+48. J. Cole
+49. Frank Ocean
+50. Kanye West

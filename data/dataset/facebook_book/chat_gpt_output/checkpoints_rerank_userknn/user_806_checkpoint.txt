@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Shadow of the Wind by Carlos Ruiz Zafón
+2. Divine Comedy by Dante Alighieri
+3. Dracula by Bram Stoker
+4. Nineteen Eighty-Four by George Orwell
+5. Brave New World by Aldous Huxley
+6. The Great Gatsby by F. Scott Fitzgerald
+7. Cat's Cradle by Kurt Vonnegut
+8. Slaughterhouse-Five by Kurt Vonnegut
+9. The Lord of the Rings by J.R.R. Tolkien
+10. Paradise Lost by John Milton
+11. White Noise by Don DeLillo
+12. The Watchmen by Alan Moore and Dave Gibbons
+13. Iliad by Homer
+14. Necroscope by Brian Lumley
+15. Rant by Chuck Palahniuk
+16. Interview with the Vampire by Anne Rice
+17. The Rules of Attraction by Bret Easton Ellis
+18. The Hunger Games by Suzanne Collins
+19. To Kill a Mockingbird by Harper Lee
+20. The Catcher in the Rye by J.D. Salinger
+21. Inheritance Cycle by Christopher Paolini
+22. Harry Potter by J.K. Rowling
+23. Another Roadside Attraction by Tom Robbins
+24. The Zombie Survival Guide by Max Brooks
+25. The Occult: A History by Colin Wilson
+26. Musashi by Eiji Yoshikawa
+27. Alice's Adventures in Wonderland by Lewis Carroll
+28. The Secret by Rhonda Byrne
+29. The Unbearable Lightness of Being by Milan Kundera
+30. The Anarchist Cookbook by William Powell
+31. The Celestine Prophecy by James Redfield
+32. Geek Love by Katherine Dunn
+33. The Heroin Diaries: A Year in the Life of a Shattered Rock Star by Nikki Sixx
+34. Breakfast at Tiffany's by Truman Capote
+35. Brain Droppings by George Carlin
+36. Running with Scissors by Augusten Burroughs
+37. The Perks of Being a Wallflower by Stephen Chbosky
+38. The Sirens of Titan by Kurt Vonnegut
+39. Crank by Ellen Hopkins
+40. House of Leaves by Mark Z. Danielewski
+41. I Hope They Serve Beer in Hell by Tucker Max
+42. Pride and Prejudice and Zombies by Seth Grahame-Smith
+43. Persepolis by Marjane Satrapi
+44. Other Voices, Other Rooms by Truman Capote
+45. Lullaby by Chuck Palahniuk
+46. The Long Hard Road Out of Hell by Marilyn Manson and Neil Strauss
+47. The Walking Dead by Robert Kirkman and Tony Moore
+48. Under the Dome by Stephen King
+49. A New Earth

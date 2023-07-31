@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. Brave New World by Aldous Huxley
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Animal Farm by George Orwell
+7. Lord of the Flies by William Golding
+8. The Hobbit by J.R.R. Tolkien
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+11. The Chronicles of Narnia by C.S. Lewis
+12. The Hunger Games by Suzanne Collins
+13. The Da Vinci Code by Dan Brown
+14. The Girl with the Dragon Tattoo by Stieg Larsson
+15. The Girl on the Train by Paula Hawkins
+16. The Shining by Stephen King
+17. The Stand by Stephen King
+18. The Silence of the Lambs by Thomas Harris
+19. The Road by Cormac McCarthy
+20. The Picture of Dorian Gray by Oscar Wilde
+21. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+22. The War of the Worlds by H.G. Wells
+23. The Time Machine by H.G. Wells
+24. The Invisible Man by H.G. Wells
+25. The Island of Dr. Moreau by H.G. Wells
+26. The Call of Cthulhu and Other Weird Stories by H.P. Lovecraft
+27. The Complete Tales and Poems of Edgar Allan Poe by Edgar Allan Poe
+28. The Canterbury Tales by Geoffrey Chaucer
+29. The Divine Comedy by Dante Alighieri
+30. The Iliad by Homer
+31. The Odyssey by Homer
+32. The Aeneid by Virgil
+33. The Inferno by Dante Alighieri
+34. The Republic by Plato
+35. The Prince by Niccolò Machiavelli
+36. The Art of War by Sun Tzu
+37. The Wealth of Nations by Adam Smith
+38. The Origin of Species by Charles Darwin
+39. The Interpretation of Dreams by Sigmund Freud
+40. The Complete Works of William Shakespeare by William Shakespeare
+41. The Canterbury Tales by Geoffrey Chaucer
+42. The Divine Comedy by Dante Alighieri
+43. The Iliad by Homer
+44. The Odyssey by Homer
+45. The Aeneid by Virgil
+46. The Inferno by Dante Alighieri
+47. The Republic by Plato
+48. The Prince by Niccolò Machiavelli
+49. The Art of War by Sun Tzu
+50. The Wealth of Nations by Adam Smith

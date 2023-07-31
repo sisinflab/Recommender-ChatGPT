@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Nightwish
+2. Within Temptation
+3. Lacuna Coil
+4. Sonata Arctica
+5. In This Moment
+6. The Gathering
+7. Flyleaf
+8. Demi Lovato
+9. Florence + the Machine
+10. Ellie Goulding
+11. Marina & the Diamonds
+12. Skillet
+13. You Me At Six
+14. Papa Roach
+15. Linkin Park
+16. Eminem
+17. Katy Perry
+18. Paramore
+19. Lady Gaga
+20. Christina Aguilera
+21. Beyoncé
+22. Rihanna
+23. Shakira
+24. Madonna
+25. Taylor Swift
+26. Avril Lavigne
+27. Evanescence
+28. Glee Cast
+29. U2
+30. Muse
+31. Pink Floyd
+32. Kylie Minogue
+33. Miley Cyrus
+34. Radiohead
+35. Ke$ha
+36. Duran Duran
+37. Coldplay
+38. Blur
+39. Arctic Monkeys
+40. Placebo
+41. The Killers
+42. Nirvana
+43. Iron Maiden
+44. Led Zeppelin
+45. Metallica
+46. Michael Jackson
+47. Pearl Jam
+48. a-ha
+49. Björk
+50. System of a Down

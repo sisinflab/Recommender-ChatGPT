@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Interpol
+2. Radiohead
+3. The Smiths
+4. The Cure
+5. Talking Heads
+6. Pixies
+7. The Strokes
+8. Arctic Monkeys
+9. LCD Soundsystem
+10. Vampire Weekend
+11. The War on Drugs
+12. Tame Impala
+13. Foals
+14. The National (if not already in user's library)
+15. Joy Division (if not already in user's library)
+16. Depeche Mode (if not already in user's library)
+17. Electric Light Orchestra (if not already in user's library)
+18. Arcade Fire (if not already in user's library)
+19. New Order (if not already in user's library)
+20. Pink Floyd (if not already in user's library)
+21. Placebo (if not already in user's library)
+22. Editors (if not already in user's library)
+23. Beirut (if not already in user's library)
+24. Manic Street Preachers (if not already in user's library)
+25. Queen (if not already in user's library)
+26. Queens of the Stone Age (if not already in user's library)
+27. Hot Chip (if not already in user's library)
+28. Moby (if not already in user's library)
+29. Orbital (if not already in user's library)
+30. Architecture in Helsinki (if not already in user's library)
+31. U2 (if not already in user's library)
+32. The Killers (if not already in user's library)
+33. Air (if not already in user's library)
+34. Yann Tiersen (if not already in user's library)
+35. Los Campesinos! (if not already in user's library)
+36. The Magnetic Fields (if not already in user's library)
+37. Kate Nash (if not already in user's library)
+38. Antony and the Johnsons (if not already in user's library)
+39. Belle and Sebastian
+40. The Decemberists
+41. Neutral Milk Hotel
+42. The Flaming Lips
+43. Grizzly Bear
+44. Fleet Foxes
+45. Animal Collective
+46. Sigur Rós
+47. Explosions in the Sky
+48. Godspeed You! Black Emperor
+49. Mogwai
+50. My Bloody Valentine

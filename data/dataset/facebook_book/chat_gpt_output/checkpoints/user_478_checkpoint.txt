@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. Slaughterhouse-Five by Kurt Vonnegut
+4. The Catcher in the Rye by J.D. Salinger
+5. To Kill a Mockingbird by Harper Lee
+6. The Great Gatsby by F. Scott Fitzgerald
+7. Animal Farm by George Orwell
+8. One Hundred Years of Solitude by Gabriel Garcia Marquez
+9. The Bell Jar by Sylvia Plath
+10. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+11. The Brothers Karamazov by Fyodor Dostoevsky
+12. Crime and Punishment by Fyodor Dostoevsky
+13. The Trial by Franz Kafka
+14. The Metamorphosis by Franz Kafka
+15. The Stranger by Albert Camus
+16. The Plague by Albert Camus
+17. The Sun Also Rises by Ernest Hemingway
+18. For Whom the Bell Tolls by Ernest Hemingway
+19. The Old Man and the Sea by Ernest Hemingway
+20. The Sound and the Fury by William Faulkner
+21. As I Lay Dying by William Faulkner
+22. The Grapes of Wrath by John Steinbeck
+23. East of Eden by John Steinbeck
+24. The Picture of Dorian Gray by Oscar Wilde
+25. Lolita by Vladimir Nabokov
+26. A Clockwork Orange by Anthony Burgess
+27. The Handmaid's Tale by Margaret Atwood
+28. The Road by Cormac McCarthy
+29. Blood Meridian by Cormac McCarthy
+30. The Name of the Rose by Umberto Eco
+31. The Shadow of the Wind by Carlos Ruiz Zafon
+32. The Wind-Up Bird Chronicle by Haruki Murakami
+33. Kafka on the Shore by Haruki Murakami
+34. The Master and Margarita by Mikhail Bulgakov
+35. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+36. The Lord of the Rings by J.R.R. Tolkien
+37. The Hobbit by J.R.R. Tolkien
+38. The Chronicles of Narnia by C.S. Lewis
+39. The Dark Tower series by Stephen King
+40. The Stand by Stephen King
+41. The Shining by Stephen King
+42. The Silence of the Lambs by Thomas Harris
+43. The Girl with the Dragon Tattoo by Stieg Larsson
+44. The Hunger Games by Suzanne Collins
+45. The Da Vinci Code by Dan Brown
+46. The Bourne Identity by Robert Ludlum
+47. The Hunt for Red October by Tom Clancy
+48. The Firm by John Grisham
+49. Jurassic Park by Michael Crichton

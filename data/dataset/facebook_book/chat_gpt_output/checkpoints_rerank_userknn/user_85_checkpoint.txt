@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hobbit by J.R.R. Tolkien
+2. The Catcher in the Rye by J.D. Salinger
+3. Crime and Punishment by Fyodor Dostoevsky
+4. Nineteen Eighty-Four by George Orwell
+5. The Bell Jar by Sylvia Plath
+6. Ulysses by James Joyce
+7. The Scarlet Letter by Nathaniel Hawthorne
+8. East of Eden by John Steinbeck
+9. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+10. To Kill a Mockingbird by Harper Lee
+11. The Great Gatsby by F. Scott Fitzgerald
+12. Memoirs of a Geisha by Arthur Golden
+13. The Alchemist by Paulo Coelho
+14. The Lord of the Rings by J.R.R. Tolkien
+15. The Girl with the Dragon Tattoo by Stieg Larsson
+16. The Outsiders by S.E. Hinton
+17. The Kite Runner by Khaled Hosseini
+18. The Lost Symbol by Dan Brown
+19. The Sword of Truth by Terry Goodkind
+20. The Notebook by Nicholas Sparks
+21. The Lovely Bones by Alice Sebold
+22. The Jungle Book by Rudyard Kipling
+23. All Quiet on the Western Front by Erich Maria Remarque
+24. The Awakening by Kate Chopin
+25. The Crucible of Time by John Brunner
+26. The Girl Who Leapt Through Time by Yasutaka Tsutsui
+27. The Satanic Verses by Salman Rushdie
+28. The Anarchist Cookbook by William Powell
+29. The Prodigal Daughter by Jeffrey Archer
+30. The Wedding by Danielle Steel
+31. Bury My Heart at Wounded Knee by Dee Brown
+32. The Death and Life of Charlie St. Cloud by Ben Sherwood
+33. Wringer by Jerry Spinelli
+34. Angels & Demons by Dan Brown
+35. Bible
+36. Quran
+37. Zen and the Art of Motorcycle Maintenance by Robert M. Pirsig
+38. The Shack by William P. Young
+39. This Lullaby by Sarah Dessen
+40. Choke by Chuck Palahniuk
+41. Persepolis by Marjane Satrapi
+42. The Heroin Diaries by Nikki Sixx
+43. Diary by Chuck Palahniuk
+44. The Count of Monte Cristo by Alexandre Dumas
+45. Black Beauty by Anna Sewell
+46. Farewell, My Lovely by Raymond Chandler
+47. Heidi by Johanna Spyri
+48. The Zombie Survival Guide by Max Brooks
+49. Ramayana by Valmiki
+50. Dracula by Bram Stoker

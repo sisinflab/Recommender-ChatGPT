@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Cure
+2. Nine Inch Nails
+3. Radiohead
+4. The Smiths
+5. Joy Division
+6. New Order
+7. The Sisters of Mercy
+8. Siouxsie and the Banshees
+9. Bauhaus
+10. The Jesus and Mary Chain
+11. The Mission
+12. Echo & the Bunnymen
+13. The Psychedelic Furs
+14. The Chameleons
+15. The Cult
+16. The Damned
+17. Killing Joke
+18. Fields of the Nephilim
+19. Clan of Xymox
+20. Cocteau Twins
+21. Dead Can Dance
+22. This Mortal Coil
+23. The Birthday Massacre
+24. London After Midnight
+25. The Crüxshadows
+26. Project Pitchfork
+27. And One
+28. VNV Nation (similar to user's favorite)
+29. Covenant (similar to user's favorite)
+30. Apoptygma Berzerk (similar to user's favorite)
+31. Combichrist (similar to user's favorite)
+32. Front Line Assembly
+33. Skinny Puppy
+34. Ministry
+35. KMFDM
+36. Front 242
+37. Nitzer Ebb
+38. Laibach
+39. Einstürzende Neubauten
+40. Swans
+41. Nick Cave and the Bad Seeds
+42. Tom Waits
+43. Leonard Cohen
+44. Bob Dylan
+45. Neil Young
+46. Bruce Springsteen
+47. David Bowie
+48. Iggy Pop
+49. Lou Reed
+50. Patti Smith

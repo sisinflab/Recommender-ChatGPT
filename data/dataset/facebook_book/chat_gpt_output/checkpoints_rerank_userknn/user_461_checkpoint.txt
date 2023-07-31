@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Hobbit by J.R.R. Tolkien
+2. The Lord of the Rings by J.R.R. Tolkien
+3. Pride and Prejudice by Jane Austen
+4. A Tale of Two Cities by Charles Dickens
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Nineteen Eighty-Four by George Orwell
+7. The Handmaid's Tale by Margaret Atwood
+8. Lolita by Vladimir Nabokov
+9. The Fountainhead by Ayn Rand
+10. Dracula by Bram Stoker
+11. Frankenstein by Mary Shelley
+12. The Da Vinci Code by Dan Brown
+13. The Divine Comedy by Dante Alighieri
+14. The Chronicles of Narnia by C.S. Lewis
+15. The Canterbury Tales by Geoffrey Chaucer
+16. Macbeth by William Shakespeare
+17. A Midsummer Night's Dream by William Shakespeare
+18. Inferno by Dante Alighieri
+19. The Lion in Winter by James Goldman
+20. Tess of the d'Urbervilles by Thomas Hardy
+21. Black Beauty by Anna Sewell
+22. The Good Earth by Pearl S. Buck
+23. The Mists of Avalon by Marion Zimmer Bradley
+24. The Golem's Eye by Jonathan Stroud
+25. City of Bones by Cassandra Clare
+26. City of Glass by Cassandra Clare
+27. City of Ashes by Cassandra Clare
+28. The Last Storytellers: Tales from the Heart of Morocco by Richard Hamilton
+29. The Lottery by Shirley Jackson
+30. Holes by Louis Sachar
+31. Fahrenheit 451 by Ray Bradbury
+32. Angels & Demons by Dan Brown
+33. The Legend of Sleepy Hollow by Washington Irving
+34. The Prisoner of Zenda by Anthony Hope
+35. Treasure Island by Robert Louis Stevenson
+36. David Copperfield by Charles Dickens
+37. The Grapes of Wrath by John Steinbeck
+38. Gulliver's Travels by Jonathan Swift
+39. Ramayana by Valmiki
+40. Manga by Various Authors
+41. Elfquest by Wendy and Richard Pini
+42. The Runaways by Ruth Thomas
+43. Far from the Madding Crowd by Thomas Hardy
+44. Eats, Shoots & Leaves by Lynne Truss
+45. King Solomon's Mines by H. Rider Haggard
+46. Marvel Books by Various Authors
+47. Civil Disobedience by Henry David Thoreau
+48. Twisted by Laurie Halse Anderson
+49. The Bible
+50. I Am Legend by Richard Matheson

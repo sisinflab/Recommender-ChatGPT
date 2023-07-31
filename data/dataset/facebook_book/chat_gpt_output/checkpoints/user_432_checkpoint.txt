@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Da Vinci Code by Dan Brown
+2. The Hunger Games by Suzanne Collins
+3. The Girl with the Dragon Tattoo by Stieg Larsson
+4. The Catcher in the Rye by J.D. Salinger
+5. The Great Gatsby by F. Scott Fitzgerald
+6. 1984 by George Orwell
+7. Animal Farm by George Orwell
+8. The Hobbit by J.R.R. Tolkien
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Chronicles of Narnia by C.S. Lewis
+11. Harry Potter and the Philosopher's Stone by J.K. Rowling
+12. Harry Potter and the Chamber of Secrets by J.K. Rowling
+13. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+14. Harry Potter and the Goblet of Fire by J.K. Rowling
+15. Harry Potter and the Order of Phoenix by J.K. Rowling
+16. Harry Potter and the Half-Blood Prince by J.K. Rowling
+17. Harry Potter and the Deathly Hallows by J.K. Rowling
+18. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+19. The Alchemist by Paulo Coelho
+20. The Kite Runner by Khaled Hosseini
+21. A Thousand Splendid Suns by Khaled Hosseini
+22. The Book Thief by Markus Zusak
+23. The Fault in Our Stars by John Green
+24. Paper Towns by John Green
+25. Looking for Alaska by John Green
+26. The Maze Runner by James Dashner
+27. The Scorch Trials by James Dashner
+28. The Death Cure by James Dashner
+29. The Kill Order by James Dashner
+30. The Giver by Lois Lowry
+31. Gathering Blue by Lois Lowry
+32. Messenger by Lois Lowry
+33. Son by Lois Lowry
+34. The Outsiders by S.E. Hinton
+35. The Secret Life of Bees by Sue Monk Kidd
+36. The Help by Kathryn Stockett
+37. The Time Traveler's Wife by Audrey Niffenegger
+38. The Picture of Dorian Gray by Oscar Wilde
+39. The Count of Monte Cristo by Alexandre Dumas
+40. Les Misérables by Victor Hugo
+41. The Adventures of Tom Sawyer by Mark Twain
+42. The Adventures of Huckleberry Finn by Mark Twain
+43. The War of the Worlds by H.G. Wells
+44. The Invisible Man by H.G. Wells
+45. The Island of Dr. Moreau by H.G. Wells
+46. The Time Machine by H.G. Wells
+47. The Call of the Wild by Jack London
+48. White Fang by Jack London
+49. The Old Man and

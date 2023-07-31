@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations for them:
+
+1. Atlas Shrugged by Ayn Rand
+2. The Fountainhead by Ayn Rand
+3. Capitalism and Freedom by Milton Friedman
+4. The Wealth of Nations by Adam Smith
+5. The Selfish Gene by Richard Dawkins
+6. The God Delusion by Richard Dawkins
+7. God Is Not Great by Christopher Hitchens
+8. The Antichrist by Friedrich Nietzsche
+9. The Age of Reason by Jean-Paul Sartre
+10. Sound of the Beast by Ian Christe
+11. Brave New World by Aldous Huxley
+12. Nineteen Eighty-Four by George Orwell
+13. The Great Gatsby by F. Scott Fitzgerald
+14. Frankenstein by Mary Shelley
+15. Dracula by Bram Stoker
+16. The Picture of Dorian Gray by Oscar Wilde
+17. The Communist Manifesto by Karl Marx and Friedrich Engels
+18. Thus Spoke Zarathustra by Friedrich Nietzsche
+19. Les Misérables by Victor Hugo
+20. The Name of the Rose by Umberto Eco
+21. Inferno by Dante Alighieri
+22. Godel, Escher, Bach by Douglas Hofstadter
+23. A Brief History of Time by Stephen Hawking
+24. The Elegant Universe by Brian Greene
+25. The Fabric of the Cosmos by Brian Greene
+26. The Double Helix by James Watson
+27. The Hatchet by Gary Paulsen
+28. Ender's Game by Orson Scott Card
+29. Ender's Shadow by Orson Scott Card
+30. Earthsea by Ursula K. Le Guin
+31. The Spirit Catches You and You Fall Down by Anne Fadiman
+32. The Gathering by Anne Enright
+33. Candy Girl by Diablo Cody
+34. The Silence of the Lambs by Thomas Harris
+35. Hannibal by Thomas Harris
+36. Jaws by Peter Benchley
+37. The Maltese Falcon by Dashiell Hammett
+38. Gates of Fire by Steven Pressfield
+39. King Leary by Paul Quarrington
+40. Code to Zero by Ken Follett
+41. The Story of My Experiments with Truth by Mahatma Gandhi
+42. The Structure of Scientific Revolutions by Thomas S. Kuhn
+43. Outliers by Malcolm Gladwell
+44. If Tomorrow Comes by Sidney Sheldon
+45. A Great and Terrible Beauty by Libba Bray
+46. The Mill on the Floss by George Eliot
+47. Alice's Adventures in Wonderland by Lewis Carroll
+48. Jane Eyre by Charlotte Bronte
+49. One Hundred Years of Solitude by Gabriel Garcia Marquez
+50. The Diary of a Young Girl by Anne Frank

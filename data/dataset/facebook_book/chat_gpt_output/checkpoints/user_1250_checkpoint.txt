@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. The Mortal Instruments by Cassandra Clare
+3. The Chronicles of Narnia by C.S. Lewis
+4. The Percy Jackson and the Olympians series by Rick Riordan
+5. The Inheritance Cycle by Christopher Paolini
+6. The Dresden Files by Jim Butcher
+7. The Dark Tower series by Stephen King
+8. The Wheel of Time series by Robert Jordan
+9. The Mistborn series by Brandon Sanderson
+10. The Kingkiller Chronicle by Patrick Rothfuss
+11. The Stormlight Archive by Brandon Sanderson
+12. The First Law Trilogy by Joe Abercrombie
+13. The Malazan Book of the Fallen by Steven Erikson
+14. The Black Company by Glen Cook
+15. The Riyria Revelations by Michael J. Sullivan
+16. The Farseer Trilogy by Robin Hobb
+17. The Lightbringer series by Brent Weeks
+18. The Broken Empire Trilogy by Mark Lawrence
+19. The Powder Mage Trilogy by Brian McClellan
+20. The Codex Alera series by Jim Butcher
+21. The Gentlemen Bastards series by Scott Lynch
+22. The Night Angel Trilogy by Brent Weeks
+23. The Demon Cycle by Peter V. Brett
+24. The Red Rising series by Pierce Brown
+25. The Chronicles of Amber by Roger Zelazny
+26. The Belgariad series by David Eddings
+27. The Elenium series by David Eddings
+28. The Tamuli series by David Eddings
+29. The Sword of Truth series by Terry Goodkind
+30. The Shannara series by Terry Brooks
+31. The Earthsea Cycle by Ursula K. Le Guin
+32. The Drenai series by David Gemmell
+33. The Rigante series by David Gemmell
+34. The Troy series by David Gemmell
+35. The Hyperion Cantos by Dan Simmons
+36. The Foundation series by Isaac Asimov
+37. The Culture series by Iain M. Banks
+38. The Vorkosigan Saga by Lois McMaster Bujold
+39. The Honor Harrington series by David Weber
+40. The Dresden Files graphic novels by Jim Butcher
+41. The Sandman graphic novels by Neil Gaiman
+42. The Watchmen graphic novel by Alan Moore
+43. The Preacher graphic novels by Garth Ennis
+44. The Walking Dead graphic novels by Robert Kirkman
+45. The Saga graphic novels by Brian K. Vaughan
+46. The Y: The Last Man graphic novels by Brian K. Vaughan
+47. The Locke & Key graphic novels by Joe Hill
+48. The Sandman Slim series by Richard Kadrey
+49. The Felix Castor series by Mike
+50. American Gods by Neil Gaiman

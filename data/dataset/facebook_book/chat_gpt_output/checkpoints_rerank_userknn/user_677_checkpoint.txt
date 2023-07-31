@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. The Brothers Karamazov by Fyodor Dostoevsky
+4. Crime and Punishment by Fyodor Dostoevsky
+5. The Divine Comedy by Dante Alighieri
+6. Don Quixote by Miguel de Cervantes
+7. Dracula by Bram Stoker
+8. The Great Gatsby by F. Scott Fitzgerald
+9. Heart of Darkness by Joseph Conrad
+10. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+11. The Iliad by Homer
+12. The Inferno by Dante Alighieri
+13. Jane Eyre by Charlotte Bronte
+14. Les Miserables by Victor Hugo
+15. The Metamorphosis by Franz Kafka
+16. Moby-Dick by Herman Melville
+17. The Odyssey by Homer
+18. One Hundred Years of Solitude by Gabriel Garcia Marquez
+19. The Picture of Dorian Gray by Oscar Wilde
+20. Pride and Prejudice by Jane Austen
+21. The Republic by Plato
+22. The Scarlet Letter by Nathaniel Hawthorne
+23. The Sound and the Fury by William Faulkner
+24. The Stranger by Albert Camus
+25. The Sun Also Rises by Ernest Hemingway
+26. The Trial by Franz Kafka
+27. War and Peace by Leo Tolstoy
+28. Wuthering Heights by Emily Bronte
+29. A Clockwork Orange by Anthony Burgess
+30. A Tale of Two Cities by Charles Dickens
+31. Brave New World by Aldous Huxley
+32. Catch-22 by Joseph Heller
+33. Fahrenheit 451 by Ray Bradbury
+34. Frankenstein by Mary Shelley
+35. The Grapes of Wrath by John Steinbeck
+36. The Hobbit by J.R.R. Tolkien
+37. The Lord of the Rings by J.R.R. Tolkien
+38. Lolita by Vladimir Nabokov
+39. The Martian Chronicles by Ray Bradbury
+40. The Master and Margarita by Mikhail Bulgakov
+41. The Picture of Dorian Gray by Oscar Wilde
+42. The Plague by Albert Camus
+43. The Stranger by Albert Camus
+44. Slaughterhouse-Five by Kurt Vonnegut
+45. To Kill a Mockingbird by Harper Lee
+46. Ulysses by James Joyce
+47. The Unbearable Lightness of Being by Milan Kundera
+48. The Wind-Up Bird Chronicle by Haruki Murakami
+49. Zen and the Art of Motorcycle Maintenance by Robert M. Pirsig
+50. The Hitchhiker's Guide to the Galaxy by Douglas Adams

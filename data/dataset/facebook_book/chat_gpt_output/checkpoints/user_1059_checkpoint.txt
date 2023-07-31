@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Sabriel by Garth Nix
+2. The Graveyard Book by Neil Gaiman
+3. The Hunger Games by Suzanne Collins
+4. The Maze Runner by James Dashner
+5. The Giver by Lois Lowry
+6. Ender's Game by Orson Scott Card
+7. Divergent by Veronica Roth
+8. The Name of the Wind by Patrick Rothfuss
+9. The Girl with the Dragon Tattoo by Stieg Larsson
+10. The Da Vinci Code by Dan Brown
+11. The Lord of the Rings by J.R.R. Tolkien
+12. The Hobbit by J.R.R. Tolkien
+13. The Chronicles of Narnia by C.S. Lewis
+14. Harry Potter and the Philosopher's Stone by J.K. Rowling
+15. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+16. The Catcher in the Rye by J.D. Salinger
+17. To Kill a Mockingbird by Harper Lee
+18. 1984 by George Orwell
+19. Animal Farm by George Orwell
+20. Brave New World by Aldous Huxley
+21. Fahrenheit 451 by Ray Bradbury
+22. The Martian by Andy Weir
+23. Ready Player One by Ernest Cline
+24. The Handmaid's Tale by Margaret Atwood
+25. The Road by Cormac McCarthy
+26. The Stand by Stephen King
+27. The Shining by Stephen King
+28. Misery by Stephen King
+29. The Silence of the Lambs by Thomas Harris
+30. Red Dragon by Thomas Harris
+31. The Bourne Identity by Robert Ludlum
+32. The Hunt for Red October by Tom Clancy
+33. The Firm by John Grisham
+34. Jurassic Park by Michael Crichton
+35. The Andromeda Strain by Michael Crichton
+36. The Hitchhiker's Guide to the Galaxy: The Complete Radio Series by Douglas Adams
+37. The Dark Tower I: The Gunslinger by Stephen King
+38. The Dark Tower II: The Drawing of the Three by Stephen King
+39. The Dark Tower III: The Waste Lands by Stephen King
+40. The Dark Tower IV: Wizard and Glass by Stephen King
+41. The Dark Tower V: Wolves of the Calla by Stephen King
+42. The Dark Tower VI: Song of Susannah by Stephen King
+43. The Dark Tower VII: The Dark Tower by Stephen King
+44. The Talisman by Stephen King and Peter Straub
+45. Black House by Stephen King and Peter Straub
+46. The Eyes of the Dragon by Stephen King
+47. The Stand: The Complete and Uncut Edition by Stephen King
+48. It by Stephen King
+49. The Tommyknockers by Stephen King
+50. The Wise Man's Fear by Patrick Rothfuss

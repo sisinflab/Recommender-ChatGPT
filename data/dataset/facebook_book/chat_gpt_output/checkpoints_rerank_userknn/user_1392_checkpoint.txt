@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Bell Jar by Sylvia Plath
+2. The Great Gatsby by F. Scott Fitzgerald
+3. The Catcher in the Rye by J.D. Salinger
+4. To Kill a Mockingbird by Harper Lee
+5. 1984 by George Orwell
+6. Brave New World by Aldous Huxley
+7. One Hundred Years of Solitude by Gabriel Garcia Marquez
+8. Crime and Punishment by Fyodor Dostoevsky
+9. The Brothers Karamazov by Fyodor Dostoevsky
+10. The Stranger by Albert Camus
+11. The Death and Life of Great American Cities by Jane Jacobs
+12. The Remains of the Day by Kazuo Ishiguro
+13. The Canterbury Tales by Geoffrey Chaucer
+14. The Divine Comedy by Dante Alighieri
+15. The Iliad by Homer
+16. The Odyssey by Homer
+17. The Aeneid by Virgil
+18. Paradise Lost by John Milton
+19. Leaves of Grass by Walt Whitman
+20. The Dharma Bums by Jack Kerouac
+21. On the Road by Jack Kerouac
+22. The Electric Kool-Aid Acid Test by Tom Wolfe
+23. Fear and Loathing in Las Vegas by Hunter S. Thompson
+24. Zen and the Art of Motorcycle Maintenance by Robert M. Pirsig
+25. Infinite Jest by David Foster Wallace
+26. Blood Meridian by Cormac McCarthy
+27. The Grapes of Wrath by John Steinbeck
+28. Of Mice and Men by John Steinbeck
+29. A Farewell to Arms by Ernest Hemingway
+30. For Whom the Bell Tolls by Ernest Hemingway
+31. The Old Man and the Sea by Ernest Hemingway
+32. Lolita by Vladimir Nabokov
+33. Wuthering Heights by Emily Bronte
+34. Jane Eyre by Charlotte Bronte
+35. The Picture of Dorian Gray by Oscar Wilde
+36. Frankenstein by Mary Shelley
+37. The Martian Chronicles by Ray Bradbury
+38. Fahrenheit 451 by Ray Bradbury
+39. The Lord of the Rings by J.R.R. Tolkien
+40. The Hobbit by J.R.R. Tolkien
+41. Harry Potter series by J.K. Rowling
+42. His Dark Materials series by Philip Pullman
+43. The Sword of Truth series by Terry Goodkind
+44. Angels & Demons by Dan Brown
+45. The Da Vinci Code by Dan Brown
+46. Inferno by Dan Brown
+47. The Lovely Bones by Alice Sebold
+48. Their Eyes Were Watching God by Zora Neale Hurston
+49. A Brief History of Time by Stephen Hawking
+50. Cosmos by Carl Sagan

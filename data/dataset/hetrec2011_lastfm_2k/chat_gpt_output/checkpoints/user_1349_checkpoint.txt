@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Smashing Pumpkins
+2. Nine Inch Nails
+3. Depeche Mode
+4. The Cure
+5. Joy Division
+6. Interpol
+7. The Killers
+8. Arctic Monkeys
+9. Queens of the Stone Age
+10. Foo Fighters
+11. System of a Down
+12. Tool
+13. Rammstein
+14. Metallica
+15. Green Day
+16. Pearl Jam
+17. Soundgarden
+18. Alice in Chains
+19. Stone Temple Pilots
+20. Bush
+21. Radio Moscow
+22. Black Rebel Motorcycle Club
+23. The Black Keys
+24. The White Stripes
+25. The Raconteurs
+26. The Strokes
+27. Arctic Monkeys
+28. Vampire Weekend
+29. The National
+30. Arcade Fire
+31. LCD Soundsystem
+32. Tame Impala
+33. Alt-J
+34. The xx
+35. Grizzly Bear
+36. Fleet Foxes
+37. Bon Iver
+38. Sufjan Stevens
+39. Iron & Wine
+40. José González
+41. Nick Drake
+42. Elliott Smith
+43. Jeff Buckley
+44. Radiohead (other albums)
+45. Placebo (other albums)
+46. Muse (other albums)
+47. Linkin Park (other albums)
+48. Marilyn Manson (other albums)
+49. AFI (other albums)
+50. Massive Attack (other albums)

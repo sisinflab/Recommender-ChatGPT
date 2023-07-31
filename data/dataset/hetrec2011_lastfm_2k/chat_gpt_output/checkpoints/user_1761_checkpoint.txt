@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Michael Jackson
+2. Prince
+3. Whitney Houston
+4. Luther Vandross
+5. Aretha Franklin
+6. Earth, Wind & Fire
+7. Al Green
+8. Diana Ross
+9. Lionel Richie
+10. The Temptations
+11. Gladys Knight & The Pips
+12. Chaka Khan
+13. Anita Baker
+14. George Benson
+15. Bill Withers
+16. The Isley Brothers
+17. James Brown
+18. Otis Redding
+19. Nina Simone
+20. Etta James
+21. Ray Charles
+22. Sam Cooke
+23. The Supremes
+24. The Four Tops
+25. The Jackson 5
+26. Boyz II Men
+27. TLC
+28. Destiny's Child
+29. Mary J. Blige
+30. Alicia Keys
+31. John Legend
+32. Bruno Mars
+33. Justin Timberlake
+34. Beyoncé
+35. Rihanna
+36. Drake
+37. Kendrick Lamar
+38. J. Cole
+39. Jay-Z
+40. Kanye West
+41. Outkast
+42. A Tribe Called Quest
+43. Wu-Tang Clan
+44. Nas
+45. Biggie Smalls
+46. Tupac
+47. Lauryn Hill
+48. Erykah Badu
+49. Jill Scott
+50. Maxwell

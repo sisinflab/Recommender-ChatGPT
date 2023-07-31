@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Da Vinci Code by Dan Brown
+2. Angels & Demons by Dan Brown
+3. Percy Jackson & the Olympians by Rick Riordan
+4. A Walk to Remember by Nicholas Sparks
+5. Inheritance Cycle by Christopher Paolini
+6. Jane Eyre by Charlotte Brontë
+7. Brisingr by Christopher Paolini
+8. The Kite Runner by Khaled Hosseini
+9. A Thousand Splendid Suns by Khaled Hosseini
+10. The Lord of the Rings by J.R.R. Tolkien
+11. Harry Potter by J.K. Rowling
+12. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+13. The Little Prince by Antoine de Saint-Exupéry
+14. A Farewell to Arms by Ernest Hemingway
+15. The Old Man and the Sea by Ernest Hemingway
+16. Great Expectations by Charles Dickens
+17. A Tale of Two Cities by Charles Dickens
+18. Romeo and Juliet by William Shakespeare
+19. Macbeth by William Shakespeare
+20. The Merchant of Venice by William Shakespeare
+21. Frankenstein by Mary Shelley
+22. Dracula by Bram Stoker
+23. The Historian by Elizabeth Kostova
+24. The Memory Keeper's Daughter by Kim Edwards
+25. Love Story by Erich Segal
+26. David Copperfield by Charles Dickens
+27. The Lost Symbol by Dan Brown
+28. The Awakening by Kate Chopin
+29. Crime and Punishment by Fyodor Dostoevsky
+30. The Scarlet Pimpernel by Baroness Orczy
+31. The Shipping News by Annie Proulx
+32. The Taming of the Shrew by William Shakespeare
+33. The Choice by Nicholas Sparks
+34. My Sister's Keeper by Jodi Picoult
+35. Eleven Minutes by Paulo Coelho
+36. Tithe: A Modern Faerie Tale by Holly Black
+37. Jinx by Meg Cabot
+38. The Southern Vampire Mysteries by Charlaine Harris
+39. Daughter of the Forest by Juliet Marillier
+40. King Solomon's Mines by H. Rider Haggard
+41. Hawksong by Amelia Atwater-Rhodes
+42. The Secret by Rhonda Byrne
+43. Anthem by Ayn Rand
+44. Ramayana by Valmiki
+45. Quran by Muhammad
+46. Mills & Boon by Various Authors
+47. Alice's Adventures in Wonderland by Lewis Carroll
+48. The Five People You Meet in Heaven by Mitch Albom
+49. Night by Elie Wiesel
+50. Digital Fortress by Dan Brown

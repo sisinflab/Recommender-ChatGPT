@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Kite Runner by Khaled Hosseini
+2. The Alchemist by Paulo Coelho
+3. The Hunger Games by Suzanne Collins
+4. To Kill a Mockingbird by Harper Lee
+5. The Fault in Our Stars by John Green
+6. The Catcher in the Rye by J.D. Salinger
+7. The Girl with the Dragon Tattoo by Stieg Larsson
+8. The Da Vinci Code by Dan Brown
+9. The Help by Kathryn Stockett
+10. The Time Traveler's Wife by Audrey Niffenegger
+11. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+12. The Book Thief by Markus Zusak
+13. The Secret Life of Bees by Sue Monk Kidd
+14. The Giver by Lois Lowry
+15. The Maze Runner by James Dashner
+16. The Perks of Being a Wallflower by Stephen Chbosky
+17. The Lord of the Rings by J.R.R. Tolkien
+18. The Chronicles of Narnia by C.S. Lewis
+19. The Great Gatsby by F. Scott Fitzgerald
+20. The Picture of Dorian Gray by Oscar Wilde
+21. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+22. The Count of Monte Cristo by Alexandre Dumas
+23. The Three Musketeers by Alexandre Dumas
+24. The War of the Worlds by H.G. Wells
+25. The Invisible Man by H.G. Wells
+26. The Island of Dr. Moreau by H.G. Wells
+27. The Time Machine by H.G. Wells
+28. The Adventures of Tom Sawyer by Mark Twain
+29. The Adventures of Huckleberry Finn by Mark Twain
+30. The Old Man and the Sea by Ernest Hemingway
+31. The Sun Also Rises by Ernest Hemingway
+32. The Catch-22 by Joseph Heller
+33. One Hundred Years of Solitude by Gabriel Garcia Marquez
+34. Love in the Time of Cholera by Gabriel Garcia Marquez
+35. The Name of the Rose by Umberto Eco
+36. The Pillars of the Earth by Ken Follett
+37. The Shining by Stephen King
+38. The Stand by Stephen King
+39. The Green Mile by Stephen King
+40. The Silence of the Lambs by Thomas Harris
+41. The Bourne Identity by Robert Ludlum
+42. The Bourne Supremacy by Robert Ludlum
+43. The Bourne Ultimatum by Robert Ludlum
+44. The Firm by John Grisham
+45. The Pelican Brief by John Grisham
+46. The Rainmaker by John Grisham
+47. The Client by John Grisham
+48. The Chamber by John Grisham

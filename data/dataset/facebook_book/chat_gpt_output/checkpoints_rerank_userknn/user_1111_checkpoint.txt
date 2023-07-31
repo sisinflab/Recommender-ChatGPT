@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter
+2. Wuthering Heights
+3. The Picture of Dorian Gray
+4. The Hunger Games
+5. Catch-22
+6. Alice's Adventures in Wonderland
+7. The Princess Bride
+8. Slaughterhouse-Five
+9. The Silence of the Lambs
+10. The Da Vinci Code
+11. Angels & Demons
+12. City of Glass
+13. The Secret Life of Bees
+14. Jane Eyre
+15. The Grapes of Wrath
+16. The Importance of Being Earnest
+17. The Fall of the House of Usher
+18. Sense and Sensibility
+19. Bonjour Tristesse
+20. Moll Flanders
+21. The Acid House
+22. Jitterbug Perfume
+23. The Zahir
+24. Their Eyes Were Watching God
+25. Black Cat
+26. Hannibal
+27. The Areas of My Expertise
+28. Rocket Boys
+29. Angels in America
+30. Strange Case of Dr Jekyll and Mr Hyde
+31. Welcome to the Monkey House
+32. Things Fall Apart
+33. Surviving the Applewhites
+34. Because of Winn-Dixie
+35. The Sisterhood of the Traveling Pants
+36. Balzac and the Little Chinese Seamstress
+37. Eleven Minutes
+38. The Facebook Effect
+39. Death Note
+40. Eat, Pray, Love
+41. Lady Chatterley's Lover
+42. Chronicles of Ancient Darkness
+43. Day Watch
+44. Never Let Me Go
+45. Atonement
+46. Paper Towns
+47. Will Grayson, Will Grayson
+48. The Perks of Being a Wallflower
+49. A Series of Unfortunate Events
+50. Dracula

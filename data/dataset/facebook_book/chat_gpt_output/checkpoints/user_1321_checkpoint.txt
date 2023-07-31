@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Fight Club by Chuck Palahniuk
+2. Survivor by Chuck Palahniuk
+3. Choke by Chuck Palahniuk
+4. The Catcher in the Rye by J.D. Salinger
+5. Song of Myself by Walt Whitman
+6. Leaves of Grass and Other Writings by Walt Whitman
+7. My Sister's Keeper by Jodi Picoult
+8. Nineteen Minutes by Jodi Picoult
+9. Wicked: The Life and Times of the Wicked Witch of the West by Gregory Maguire
+10. Out of Oz by Gregory Maguire
+11. The Wizard of Oz by L. Frank Baum
+12. The Bell Jar by Sylvia Plath
+13. The Perks of Being a Wallflower by Stephen Chbosky
+14. The Shining by Stephen King
+15. Misery by Stephen King
+16. The Stand by Stephen King
+17. 1984 by George Orwell
+18. The Hunger Games Trilogy by Suzanne Collins
+19. Divergent by Veronica Roth
+20. The Fault in Our Stars by John Green
+21. An Abundance of Katherines by John Green
+22. Turtles All the Way Down by John Green
+23. The Book Thief by Markus Zusak
+24. The Lovely Bones by Alice Sebold
+25. The Girl with the Dragon Tattoo by Stieg Larsson
+26. The Da Vinci Code by Dan Brown
+27. The Help by Kathryn Stockett
+28. The Kite Runner by Khaled Hosseini
+29. A Thousand Splendid Suns by Khaled Hosseini
+30. The Alchemist by Paulo Coelho
+31. The Picture of Dorian Gray by Oscar Wilde
+32. The Great Gatsby by F. Scott Fitzgerald
+33. To Kill a Mockingbird by Harper Lee
+34. The Adventures of Huckleberry Finn by Mark Twain
+35. The Hobbit by J.R.R. Tolkien
+36. The Lord of the Rings Trilogy by J.R.R. Tolkien
+37. The Chronicles of Narnia by C.S. Lewis
+38. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+39. The Catch-22 by Joseph Heller
+40. One Hundred Years of Solitude by Gabriel Garcia Marquez
+41. Love in the Time of Cholera by Gabriel Garcia Marquez
+42. The Name of the Wind by Patrick Rothfuss
+43. The Lies of Locke Lamora by Scott Lynch
+44. The Way of Kings by Brandon Sanderson
+45. The Eye of the World by Robert Jordan
+46. The Gunslinger by Stephen King
+47. The Dark Tower Series by Stephen King
+48. The Wheel of Time Series by Robert Jordan
+49. The Malazan Book of the Fallen Series

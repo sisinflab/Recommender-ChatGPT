@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Trivium
+2. Megadeth
+3. Black Label Society
+4. Bullet for My Valentine
+5. Kreator
+6. Children of Bodom
+7. Arch Enemy
+8. Dio
+9. Soulfly
+10. Iron Maiden
+11. Rage Against the Machine
+12. Eluveitie
+13. Dimmu Borgir
+14. Bring Me The Horizon
+15. Amorphis
+16. Yanni
+17. Eddie Vedder
+18. Pearl Jam
+19. The Beatles
+20. Los Hermanos
+21. Raul Seixas
+22. Nirvana
+23. Metallica
+24. Iron Maiden
+25. Led Zeppelin
+26. Michael Jackson
+27. Pink Floyd
+28. Muse
+29. U2
+30. 30 Seconds to Mars
+31. Radiohead
+32. Coldplay
+33. Arctic Monkeys
+34. Placebo
+35. The Killers
+36. System of a Down
+37. Nine Inch Nails
+38. Linkin Park
+39. My Chemical Romance
+40. Green Day
+41. The Cure
+42. Avenged Sevenfold
+43. Evanescence
+44. Beyoncé
+45. Lady Gaga
+46. Christina Aguilera
+47. Rihanna
+48. Shakira
+49. Katy Perry
+50. Paramore

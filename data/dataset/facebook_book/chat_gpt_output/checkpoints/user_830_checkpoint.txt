@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. On the Road by Jack Kerouac
+2. The Catcher in the Rye by J.D. Salinger
+3. The Great Gatsby by F. Scott Fitzgerald
+4. To Kill a Mockingbird by Harper Lee
+5. 1984 by George Orwell
+6. Animal Farm by George Orwell
+7. Brave New World by Aldous Huxley
+8. Fahrenheit 451 by Ray Bradbury
+9. Slaughterhouse-Five by Kurt Vonnegut
+10. The Hobbit by J.R.R. Tolkien
+11. The Fellowship of the Ring by J.R.R. Tolkien
+12. The Two Towers by J.R.R. Tolkien
+13. The Return of the King by J.R.R. Tolkien
+14. The Silmarillion by J.R.R. Tolkien
+15. The Chronicles of Narnia by C.S. Lewis
+16. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+17. The Dark Tower series by Stephen King
+18. The Stand by Stephen King
+19. The Shining by Stephen King
+20. The Gunslinger by Stephen King
+21. The Talisman by Stephen King and Peter Straub
+22. The Outsiders by S.E. Hinton
+23. Lord of the Flies by William Golding
+24. The Giver by Lois Lowry
+25. Ender's Game by Orson Scott Card
+26. Dune by Frank Herbert
+27. The Hunger Games by Suzanne Collins
+28. Catching Fire by Suzanne Collins
+29. Mockingjay by Suzanne Collins
+30. The Maze Runner by James Dashner
+31. The Scorch Trials by James Dashner
+32. The Death Cure by James Dashner
+33. The Girl with the Dragon Tattoo by Stieg Larsson
+34. The Girl Who Played with Fire by Stieg Larsson
+35. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+36. The Da Vinci Code by Dan Brown
+37. Angels and Demons by Dan Brown
+38. Inferno by Dan Brown
+39. The Bourne Identity by Robert Ludlum
+40. The Bourne Supremacy by Robert Ludlum
+41. The Bourne Ultimatum by Robert Ludlum
+42. The Bourne Legacy by Eric Van Lustbader
+43. The Bourne Betrayal by Eric Van Lustbader
+44. The Bourne Sanction by Eric Van Lustbader
+45. The Bourne Deception by Eric Van Lustbader
+46. The Bourne Objective by Eric Van Lustbader
+47. The Bourne Dominion by Eric Van Lustbader
+48. The Bourne Imperative by Eric Van Lustbader
+49. The Bourne Retribution by Eric Van Lustbader
+50. The Wise Man's Fear by Patrick Rothfuss

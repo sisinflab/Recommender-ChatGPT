@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. 1984 by George Orwell
+3. The Great Gatsby by F. Scott Fitzgerald
+4. Lord of the Flies by William Golding
+5. Brave New World by Aldous Huxley
+6. The Bell Jar by Sylvia Plath
+7. One Flew Over the Cuckoo's Nest by Ken Kesey
+8. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+9. The Hunger Games by Suzanne Collins
+10. The Fault in Our Stars by John Green
+11. The Book Thief by Markus Zusak
+12. The Road by Cormac McCarthy
+13. The Girl with the Dragon Tattoo by Stieg Larsson
+14. Gone Girl by Gillian Flynn
+15. The Da Vinci Code by Dan Brown
+16. The Shining by Stephen King
+17. The Stand by Stephen King
+18. The Hobbit by J.R.R. Tolkien
+19. The Lord of the Rings by J.R.R. Tolkien
+20. The Chronicles of Narnia by C.S. Lewis
+21. The Harry Potter series by J.K. Rowling
+22. The Girl on the Train by Paula Hawkins
+23. The Help by Kathryn Stockett
+24. The Kite Runner by Khaled Hosseini
+25. The Secret Life of Bees by Sue Monk Kidd
+26. The Color Purple by Alice Walker
+27. The Joy Luck Club by Amy Tan
+28. The Poisonwood Bible by Barbara Kingsolver
+29. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+30. The Glass Castle by Jeannette Walls
+31. The Alchemist by Paulo Coelho
+32. The Picture of Dorian Gray by Oscar Wilde
+33. The Time Traveler's Wife by Audrey Niffenegger
+34. The Lovely Bones by Alice Sebold
+35. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+36. The Giver by Lois Lowry
+37. The Maze Runner by James Dashner
+38. The Hunger Games trilogy by Suzanne Collins
+39. The Divergent trilogy by Veronica Roth
+40. The Percy Jackson and the Olympians series by Rick Riordan
+41. The Mortal Instruments series by Cassandra Clare
+42. The Infernal Devices series by Cassandra Clare
+43. The Fault in Our Stars by John Green
+44. Looking for Alaska by John Green
+45. An Abundance of Katherines by John Green
+46. Turtles All the Way Down by John Green
+47. The Perks of Being a Wallflower by Stephen Chbosky
+48. It by Stephen King
+49. Pet Sematary by Stephen King
+50. Misery by Stephen King

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Blink: The Power of Thinking Without Thinking by Malcolm Gladwell
+2. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+3. The Road by Cormac McCarthy
+4. The Hunger Games by Suzanne Collins
+5. The Girl with the Dragon Tattoo by Stieg Larsson
+6. The Da Vinci Code by Dan Brown
+7. The Catcher in the Rye by J.D. Salinger
+8. The Great Gatsby by F. Scott Fitzgerald
+9. To Kill a Mockingbird by Harper Lee
+10. 1984 by George Orwell
+11. Animal Farm by George Orwell
+12. Brave New World by Aldous Huxley
+13. Fahrenheit 451 by Ray Bradbury
+14. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+15. The Lord of the Rings by J.R.R. Tolkien
+16. The Hobbit by J.R.R. Tolkien
+17. Harry Potter and the Philosopher's Stone by J.K. Rowling
+18. Harry Potter and the Chamber of Secrets by J.K. Rowling
+19. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+20. Harry Potter and the Goblet of Fire by J.K. Rowling
+21. Harry Potter and the Order of Phoenix by J.K. Rowling
+22. Harry Potter and the Half-Blood Prince by J.K. Rowling
+23. Harry Potter and the Deathly Hallows by J.K. Rowling
+24. The Chronicles of Narnia by C.S. Lewis
+25. The Lion, the Witch and the Wardrobe by C.S. Lewis
+26. The Magician's Nephew by C.S. Lewis
+27. The Horse and His Boy by C.S. Lewis
+28. Prince Caspian by C.S. Lewis
+29. The Voyage of the Dawn Treader by C.S. Lewis
+30. The Silver Chair by C.S. Lewis
+31. The Last Battle by C.S. Lewis
+32. The Alchemist by Paulo Coelho
+33. The Kite Runner by Khaled Hosseini
+34. A Thousand Splendid Suns by Khaled Hosseini
+35. The Help by Kathryn Stockett
+36. The Secret Life of Bees by Sue Monk Kidd
+37. The Color Purple by Alice Walker
+38. The Joy Luck Club by Amy Tan
+39. The God of Small Things by Arundhati Roy
+40. The Poisonwood Bible by Barbara Kingsolver
+41. The Handmaid's Tale by Margaret Atwood
+42. The Road Less Traveled by M. Scott Peck
+43. The Power of Now by Eckhart Tolle
+44. The 7 Habits of Highly Effective People by Stephen Covey
+45. The Art of War by Sun Tzu
+46. The Two Towers by J.R.R. Tolkien
+47. The Bell Jar by Sylvia Plath
+48. The Innovator's Dilemma by Clayton M. Christensen
+49. The Art of War
+50. American Gods by Neil Gaiman

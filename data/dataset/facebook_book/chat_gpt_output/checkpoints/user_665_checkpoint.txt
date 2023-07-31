@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Fault in Our Stars by John Green
+2. To Kill a Mockingbird by Harper Lee
+3. The Hunger Games by Suzanne Collins
+4. The Catcher in the Rye by J.D. Salinger
+5. 1984 by George Orwell
+6. The Great Gatsby by F. Scott Fitzgerald
+7. Pride and Prejudice by Jane Austen
+8. The Book Thief by Markus Zusak
+9. The Hobbit by J.R.R. Tolkien
+10. The Chronicles of Narnia by C.S. Lewis
+11. The Girl with the Dragon Tattoo by Stieg Larsson
+12. The Da Vinci Code by Dan Brown
+13. The Help by Kathryn Stockett
+14. The Kite Runner by Khaled Hosseini
+15. The Picture of Dorian Gray by Oscar Wilde
+16. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+17. The Lord of the Flies by William Golding
+18. The Secret Garden by Frances Hodgson Burnett
+19. The Time Traveler's Wife by Audrey Niffenegger
+20. The Alchemist by Paulo Coelho
+21. The Giver by Lois Lowry
+22. The Outsiders by S.E. Hinton
+23. The Perks of Being a Wallflower by Stephen Chbosky
+24. The Bell Jar by Sylvia Plath
+25. The Color Purple by Alice Walker
+26. The Handmaid's Tale by Margaret Atwood
+27. The Road by Cormac McCarthy
+28. The Stand by Stephen King
+29. The Shining by Stephen King
+30. The Silence of the Lambs by Thomas Harris
+31. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+32. The Martian by Andy Weir
+33. The Name of the Wind by Patrick Rothfuss
+34. The Shadow of the Wind by Carlos Ruiz Zafón
+35. The Wind-Up Bird Chronicle by Haruki Murakami
+36. The God of Small Things by Arundhati Roy
+37. The Poisonwood Bible by Barbara Kingsolver
+38. The Joy Luck Club by Amy Tan
+39. The House on Mango Street by Sandra Cisneros
+40. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+41. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+42. The Glass Castle by Jeannette Walls
+43. The Devil in the White City by Erik Larson
+44. The Right Stuff by Tom Wolfe
+45. The Bonfire of the Vanities by Tom Wolfe
+46. The Electric Kool-Aid Acid Test by Tom Wolfe
+47. The New Jim Crow by Michelle Alexander
+48. The Warmth of Other Suns by Isabel Wilkerson
+49. The Omnivore's D

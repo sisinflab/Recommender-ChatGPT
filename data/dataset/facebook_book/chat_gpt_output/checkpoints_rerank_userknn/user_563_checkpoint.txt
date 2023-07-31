@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hobbit by J.R.R. Tolkien
+2. The Lord of the Rings by J.R.R. Tolkien
+3. Harry Potter by J.K. Rowling
+4. The Secret Garden by Frances Hodgson Burnett
+5. The Little Prince by Antoine de Saint-Exupéry
+6. Matilda by Roald Dahl
+7. Alice's Adventures in Wonderland by Lewis Carroll
+8. The Chronicles of Narnia by C.S. Lewis
+9. The Giver by Lois Lowry
+10. The Screwtape Letters by C.S. Lewis
+11. The Hunchback of Notre-Dame by Victor Hugo
+12. Les Misérables by Victor Hugo
+13. Frankenstein by Mary Shelley
+14. Dracula by Bram Stoker
+15. The Picture of Dorian Gray by Oscar Wilde
+16. Chronicle of a Death Foretold by Gabriel García Márquez
+17. The Shadow of the Wind by Carlos Ruiz Zafón
+18. Dune by Frank Herbert
+19. 2001: A Space Odyssey by Arthur C. Clarke
+20. Fahrenheit 451 by Ray Bradbury
+21. Anthem by Ayn Rand
+22. Demian by Hermann Hesse
+23. Goethe's Faust by Johann Wolfgang von Goethe
+24. The Prestige by Christopher Priest
+25. The Runaways by Ruth Thomas
+26. The Wish List by Eoin Colfer
+27. The Ear, the Eye and the Arm by Nancy Farmer
+28. Sophie's World by Jostein Gaarder
+29. Outliers by Malcolm Gladwell
+30. A Short History of Nearly Everything by Bill Bryson
+31. Angels & Demons by Dan Brown
+32. Digital Fortress by Dan Brown
+33. The Mark by Tim LaHaye and Jerry B. Jenkins
+34. Servant of the Bones by Anne Rice
+35. My Sister's Keeper by Jodi Picoult
+36. For One More Day by Mitch Albom
+37. The Big Over Easy by Jasper Fforde
+38. Sounder by William H. Armstrong
+39. Textbook by Amy Krouse Rosenthal
+40. Crank by Ellen Hopkins
+41. Twisted by Laurie Halse Anderson
+42. Stainless Longganisa by Bob Ong
+43. So You Want to Be a Wizard by Diane Duane
+44. Manga by Various Authors
+45. Gospel of Matthew by Anonymous
+46. I Am America (And So Can You!) by Stephen Colbert
+47. Eighth Grade Bites by Heather Brewer
+48. Les Fleurs du mal by Charles Baudelaire
+49. Pedro Páramo by Juan Rulfo
+50. Sun Bin's Art of War by Sun Bin

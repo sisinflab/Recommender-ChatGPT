@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Girl with the Dragon Tattoo by Stieg Larsson
+2. The Hunger Games by Suzanne Collins
+3. The Catcher in the Rye by J.D. Salinger
+4. The Lord of the Rings by J.R.R. Tolkien
+5. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+6. The Shining by Stephen King
+7. The Stand by Stephen King
+8. The Silence of the Lambs by Thomas Harris
+9. The Road by Cormac McCarthy
+10. The Great Gatsby by F. Scott Fitzgerald
+11. 1984 by George Orwell
+12. Animal Farm by George Orwell
+13. Brave New World by Aldous Huxley
+14. Fahrenheit 451 by Ray Bradbury
+15. To Kill a Mockingbird by Harper Lee
+16. The Adventures of Huckleberry Finn by Mark Twain
+17. The Adventures of Tom Sawyer by Mark Twain
+18. The Picture of Dorian Gray by Oscar Wilde
+19. Dracula by Bram Stoker
+20. Frankenstein by Mary Shelley
+21. The Time Machine by H.G. Wells
+22. The War of the Worlds by H.G. Wells
+23. The Invisible Man by H.G. Wells
+24. The Island of Dr. Moreau by H.G. Wells
+25. The Call of Cthulhu and Other Weird Stories by H.P. Lovecraft
+26. The Complete Sherlock Holmes by Arthur Conan Doyle
+27. The Count of Monte Cristo by Alexandre Dumas
+28. Les Misérables by Victor Hugo
+29. The Three Musketeers by Alexandre Dumas
+30. The Name of the Rose by Umberto Eco
+31. The Pillars of the Earth by Ken Follett
+32. The Da Vinci Code by Dan Brown
+33. Angels & Demons by Dan Brown
+34. Inferno by Dan Brown
+35. The Hobbit by J.R.R. Tolkien
+36. The Lord of the Rings by J.R.R. Tolkien
+37. The Silmarillion by J.R.R. Tolkien
+38. The Chronicles of Narnia by C.S. Lewis
+39. The Dark Tower series by Stephen King
+40. The Dresden Files series by Jim Butcher
+41. The Wheel of Time series by Robert Jordan
+42. The Stormlight Archive series by Brandon Sanderson
+43. The Kingkiller Chronicle series by Patrick Rothfuss
+44. The First Law trilogy by Joe Abercrombie
+45. The Malazan Book of the Fallen series by Steven Erikson
+46. The Mistborn series by Brandon Sanderson
+47. The Gentleman Bastard series by Scott Lynch
+48. The Lies of Locke Lamora by Scott Lynch
+49. The Name of the Wind by Patrick Rothfuss
+50. The Wise

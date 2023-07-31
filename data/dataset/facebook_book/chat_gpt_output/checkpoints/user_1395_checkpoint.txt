@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Crime and Punishment by Fyodor Dostoevsky
+2. The Catcher in the Rye by J.D. Salinger
+3. Brave New World by Aldous Huxley
+4. To Kill a Mockingbird by Harper Lee
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Brothers Karamazov by Fyodor Dostoevsky
+7. The Picture of Dorian Gray by Oscar Wilde
+8. The Stranger by Albert Camus
+9. The Bell Jar by Sylvia Plath
+10. The Sun Also Rises by Ernest Hemingway
+11. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+12. The Road by Cormac McCarthy
+13. The Old Man and the Sea by Ernest Hemingway
+14. The Great Gatsby by F. Scott Fitzgerald
+15. The Grapes of Wrath by John Steinbeck
+16. The Sound and the Fury by William Faulkner
+17. The Trial by Franz Kafka
+18. The Metamorphosis by Franz Kafka
+19. 1984 by George Orwell
+20. Animal Farm by George Orwell
+21. Lord of the Flies by William Golding
+22. Heart of Darkness by Joseph Conrad
+23. The Heart Is a Lonely Hunter by Carson McCullers
+24. The Color Purple by Alice Walker
+25. The Handmaid's Tale by Margaret Atwood
+26. The Fountainhead by Ayn Rand
+27. Atlas Shrugged by Ayn Rand
+28. The Alchemist by Paulo Coelho
+29. Siddhartha by Hermann Hesse
+30. Steppenwolf by Hermann Hesse
+31. The Prophet by Kahlil Gibran
+32. The Tao of Pooh by Benjamin Hoff
+33. The Art of War by Sun Tzu
+34. The Prince by Niccolo Machiavelli
+35. The Republic by Plato
+36. The Odyssey by Homer
+37. The Iliad by Homer
+38. The Divine Comedy by Dante Alighieri
+39. The Canterbury Tales by Geoffrey Chaucer
+40. The Picture of Dorian Gray by Oscar Wilde
+41. The Importance of Being Earnest by Oscar Wilde
+42. The Adventures of Huckleberry Finn by Mark Twain
+43. The Adventures of Tom Sawyer by Mark Twain
+44. The Hobbit by J.R.R. Tolkien
+45. The Lord of the Rings by J.R.R. Tolkien
+46. The Chronicles of Narnia by C.S. Lewis
+47. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+48. The Da Vinci Code by Dan Brown
+49. Angels and Demons by Dan Brown
+50. The Girl with the Dragon Tattoo by Stieg Larsson

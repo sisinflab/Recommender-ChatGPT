@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Grapes of Wrath by John Steinbeck
+2. 1984 by George Orwell
+3. To Kill a Mockingbird by Harper Lee
+4. Animal Farm by George Orwell
+5. The Catcher in the Rye by J.D. Salinger
+6. Lord of the Flies by William Golding
+7. Brave New World by Aldous Huxley
+8. The Great Gatsby by F. Scott Fitzgerald
+9. One Hundred Years of Solitude by Gabriel Garcia Marquez
+10. The Hobbit by J.R.R. Tolkien
+11. The Fellowship of the Ring by J.R.R. Tolkien
+12. The Two Towers by J.R.R. Tolkien
+13. The Return of the King by J.R.R. Tolkien
+14. The Chronicles of Narnia by C.S. Lewis
+15. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+16. The Da Vinci Code by Dan Brown
+17. Angels and Demons by Dan Brown
+18. Jurassic Park by Michael Crichton
+19. Sphere by Michael Crichton
+20. The Andromeda Strain by Michael Crichton
+21. The Stand by Stephen King
+22. The Shining by Stephen King
+23. It by Stephen King
+24. The Gunslinger by Stephen King
+25. The Dark Tower by Stephen King
+26. The Silence of the Lambs by Thomas Harris
+27. Red Dragon by Thomas Harris
+28. Hannibal by Thomas Harris
+29. The Girl with the Dragon Tattoo by Stieg Larsson
+30. The Girl Who Played with Fire by Stieg Larsson
+31. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+32. The Hunger Games by Suzanne Collins
+33. Catching Fire by Suzanne Collins
+34. Mockingjay by Suzanne Collins
+35. The Maze Runner by James Dashner
+36. The Scorch Trials by James Dashner
+37. The Death Cure by James Dashner
+38. The Bourne Identity by Robert Ludlum
+39. The Bourne Supremacy by Robert Ludlum
+40. The Bourne Ultimatum by Robert Ludlum
+41. The Bourne Legacy by Eric Van Lustbader
+42. The Sigma Protocol by Robert Ludlum
+43. The Prometheus Deception by Robert Ludlum
+44. The Testament by John Grisham
+45. The Firm by John Grisham
+46. The Pelican Brief by John Grisham
+47. The Rainmaker by John Grisham
+48. The Client by John Grisham
+49. The Chamber by John Grisham
+50. The Runaway Jury by John Grisham

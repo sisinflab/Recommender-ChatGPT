@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. U2
+3. Foo Fighters
+4. Oasis
+5. The Strokes
+6. Pearl Jam
+7. Kings of Leon
+8. The White Stripes
+9. Arcade Fire
+10. The Black Keys
+11. Vampire Weekend
+12. The National
+13. Phoenix
+14. Florence + The Machine
+15. Mumford & Sons
+16. The Lumineers
+17. Imagine Dragons
+18. Bastille
+19. Hozier
+20. Twenty One Pilots
+21. Cold War Kids
+22. The 1975
+23. Arctic Monkeys
+24. Muse
+25. Linkin Park
+26. Red Hot Chili Peppers
+27. Nirvana
+28. Maroon 5
+29. Black Eyed Peas
+30. Incubus
+31. Beyoncé
+32. The Fray
+33. Lorde
+34. Lana Del Rey
+35. Ed Sheeran
+36. Shawn Mendes
+37. Justin Timberlake
+38. Lady Gaga
+39. Panic! At the Disco
+40. Skank
+41. Pitty
+42. Katy Perry
+43. David Guetta
+44. Britney Spears
+45. Tokio Hotel
+46. Serj Tankian
+47. Evanescence
+48. Nickelback
+49. Daughtry
+50. Simple Plan

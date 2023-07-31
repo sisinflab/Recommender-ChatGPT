@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Slaughterhouse-Five by Kurt Vonnegut
+2. The Great Gatsby by F. Scott Fitzgerald
+3. To Kill a Mockingbird by Harper Lee
+4. 1984 by George Orwell
+5. Brave New World by Aldous Huxley
+6. The Catcher in the Rye by J.D. Salinger
+7. One Hundred Years of Solitude by Gabriel Garcia Marquez
+8. The Sun Also Rises by Ernest Hemingway
+9. The Grapes of Wrath by John Steinbeck
+10. The Sound and the Fury by William Faulkner
+11. The Old Man and the Sea by Ernest Hemingway
+12. The Bell Jar by Sylvia Plath
+13. The Picture of Dorian Gray by Oscar Wilde
+14. The Stranger by Albert Camus
+15. The Trial by Franz Kafka
+16. The Brothers Karamazov by Fyodor Dostoevsky
+17. Crime and Punishment by Fyodor Dostoevsky
+18. The Idiot by Fyodor Dostoevsky
+19. The Plague by Albert Camus
+20. Heart of Darkness by Joseph Conrad
+21. Lord of the Flies by William Golding
+22. The Hobbit by J.R.R. Tolkien
+23. The Lord of the Rings by J.R.R. Tolkien
+24. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+25. The Chronicles of Narnia by C.S. Lewis
+26. The Shining by Stephen King
+27. The Stand by Stephen King
+28. The Dark Tower series by Stephen King
+29. The Girl with the Dragon Tattoo by Stieg Larsson
+30. The Da Vinci Code by Dan Brown
+31. Angels and Demons by Dan Brown
+32. The Hunger Games by Suzanne Collins
+33. Harry Potter series by J.K. Rowling
+34. The Name of the Wind by Patrick Rothfuss
+35. The Wise Man's Fear by Patrick Rothfuss
+36. American Gods by Neil Gaiman
+37. The Sandman series by Neil Gaiman
+38. Watchmen by Alan Moore
+39. V for Vendetta by Alan Moore
+40. The Road by Cormac McCarthy
+41. A Clockwork Orange by Anthony Burgess
+42. The Handmaid's Tale by Margaret Atwood
+43. Fahrenheit 451 by Ray Bradbury
+44. The Martian by Andy Weir
+45. Ender's Game by Orson Scott Card
+46. Snow Crash by Neal Stephenson
+47. Neuromancer by William Gibson
+48. Do Androids Dream of Electric Sheep? by Philip K. Dick
+49. The Hitchhiker's Guide to the Galaxy series by Douglas Adams
+50. The Discworld series by Terry Pratch

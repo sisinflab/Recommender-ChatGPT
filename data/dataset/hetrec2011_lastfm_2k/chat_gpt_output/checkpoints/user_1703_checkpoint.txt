@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Three Days Grace
+2. Disturbed
+3. Seether
+4. Slipknot
+5. System of a Down
+6. Bullet for My Valentine
+7. Korn
+8. Breaking Benjamin (similar artist)
+9. Papa Roach (similar artist)
+10. Metallica (similar artist)
+11. Avenged Sevenfold (similar artist)
+12. 30 Seconds to Mars (similar artist)
+13. Helloween (similar artist)
+14. Bon Jovi (similar artist)
+15. Shinedown (similar artist)
+16. Nightwish (similar artist)
+17. Linkin Park (similar artist)
+18. Skillet (similar artist)
+19. Green Day (similar artist)
+20. Poets of the Fall (similar artist)
+21. Hinder (similar artist)
+22. Red Hot Chili Peppers (similar artist)
+23. Foo Fighters (similar artist)
+24. Megadeth (similar artist)
+25. My Chemical Romance (similar artist)
+26. OneRepublic (similar artist)
+27. CRASHDÏET (similar artist)
+28. Scorpions (similar artist)
+29. Santana (similar artist)
+30. Thousand Foot Krutch (similar artist)
+31. Evanescence (similar artist)
+32. Mötley Crüe (similar artist)
+33. Within Temptation (similar artist)
+34. Red (similar artist)
+35. Sonata Arctica (similar artist)
+36. Aerosmith (similar artist)
+37. Jason Mraz (similar artist)
+38. Europe (similar artist)
+39. The Offspring (similar artist)
+40. Eminem (similar artist)
+41. Lady Gaga (similar artist)
+42. Rammstein (similar artist)
+43. 12 Stones (similar artist)
+44. Breaking Benjamin - Dear Agony
+45. Papa Roach - Getting Away With Murder
+46. Metallica - Master of Puppets
+47. Avenged Sevenfold - Nightmare
+48. 30 Seconds to Mars - This Is War
+49. Helloween - I Want Out
+50. Bon Jovi - Livin' on a Prayer

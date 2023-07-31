@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter series by J.K. Rowling
+2. The Hunger Games series by Suzanne Collins
+3. Divergent series by Veronica Roth
+4. The Fault in Our Stars by John Green
+5. The Maze Runner series by James Dashner
+6. The Perks of Being a Wallflower by Stephen Chbosky
+7. To Kill a Mockingbird by Harper Lee
+8. Animal Farm by George Orwell
+9. The Book Thief by Markus Zusak
+10. Brave New World by Aldous Huxley
+11. Fahrenheit 451 by Ray Bradbury
+12. The Giver by Lois Lowry
+13. The Handmaid's Tale by Margaret Atwood
+14. The Little Prince by Antoine de Saint-Exupéry
+15. Romeo and Juliet by William Shakespeare
+16. Wuthering Heights by Emily Bronte
+17. The Legend of Sleepy Hollow by Washington Irving
+18. Extremely Loud and Incredibly Close by Jonathan Safran Foer
+19. Hiroshima by John Hersey
+20. My Friend Leonard by James Frey
+21. A Million Little Pieces by James Frey
+22. I Hope They Serve Beer in Hell by Tucker Max
+23. Fear and Loathing in Las Vegas by Hunter S. Thompson
+24. Go Ask Alice by Anonymous
+25. The Pigman by Paul Zindel
+26. Tamar by Mal Peet
+27. The City of Ember by Jeanne DuPrau
+28. The Messenger by Markus Zusak
+29. Gathering Blue by Lois Lowry
+30. The Wolves of Mercy Falls series by Maggie Stiefvater
+31. The Immortals series by Alyson Noel
+32. The Summoning by Kelley Armstrong
+33. Need series by Carrie Jones
+34. The Hunted by L.A. Banks
+35. Chosen by P.C. Cast and Kristin Cast
+36. Dr. Franklin's Island by Ann Halam
+37. Jay's Journal by Anonymous
+38. Tricks by Ellen Hopkins
+39. Burned by Ellen Hopkins
+40. Identical by Ellen Hopkins
+41. Cut by Patricia McCormick
+42. Thirteen Reasons Why by Jay Asher
+43. Before I Die by Jenny Downham
+44. Evermore by Alyson Noel
+45. Tempted by P.C. Cast and Kristin Cast
+46. Vampire Academy by Richelle Mead
+47. Blue Moon by Alyson Noel
+48. The Last Song by Nicholas Sparks
+49. Extras by Scott Westerfeld
+50. The Sisterhood of the Traveling Pants by Ann Brashares

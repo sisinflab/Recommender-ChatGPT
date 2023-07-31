@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Foo Fighters
+2. The Smashing Pumpkins
+3. Arctic Monkeys
+4. Ramones
+5. Social Distortion
+6. Dave Matthews Band
+7. John Mayer
+8. Incubus
+9. Kings of Leon
+10. Stereophonics
+11. Anti-Flag
+12. Kings of Convenience
+13. Three Days Grace
+14. Matanza
+15. O Teatro Mágico
+16. Raimundos
+17. The Cure
+18. Black Rebel Motorcycle Club
+19. Nirvana
+20. Pearl Jam
+21. Sonic Youth
+22. White Lies
+23. The Temper Trap
+24. Ray LaMontagne
+25. Rise Against
+26. Red Hot Chili Peppers
+27. Interpol
+28. AC/DC
+29. Rage Against the Machine
+30. Eddie Vedder
+31. Joy Division
+32. Alice in Chains
+33. The Rolling Stones
+34. The Beatles
+35. The Clash
+36. Placebo
+37. Coldplay
+38. The Fray
+39. Depeche Mode
+40. The Who
+41. Nickelback
+42. Eric Clapton
+43. Jónsi
+44. Timbaland
+45. Editors
+46. Guns N' Roses
+47. Daft Punk
+48. Creedence Clearwater Revival
+49. U2
+50. Bruce Springsteen

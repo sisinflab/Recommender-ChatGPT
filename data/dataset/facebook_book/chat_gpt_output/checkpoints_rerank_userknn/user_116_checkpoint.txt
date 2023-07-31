@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter by J.K. Rowling
+2. The Lord of the Rings by J.R.R. Tolkien
+3. The Hobbit by J.R.R. Tolkien
+4. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+5. Nineteen Eighty-Four by George Orwell
+6. Brave New World by Aldous Huxley
+7. War and Peace by Leo Tolstoy
+8. Crime and Punishment by Fyodor Dostoyevsky
+9. The Brothers Karamazov by Fyodor Dostoyevsky
+10. Ulysses by James Joyce
+11. Wuthering Heights by Emily Bronte
+12. The Great Gatsby by F. Scott Fitzgerald
+13. The Sound and the Fury by William Faulkner
+14. Mrs Dalloway by Virginia Woolf
+15. The Trial by Franz Kafka
+16. The Taming of the Shrew by William Shakespeare
+17. The Merchant of Venice by William Shakespeare
+18. Tess of the d'Urbervilles by Thomas Hardy
+19. Leaves of Grass by Walt Whitman
+20. Inferno by Dante Alighieri
+21. The Scarlet Letter by Nathaniel Hawthorne
+22. The Picture of Dorian Gray by Oscar Wilde
+23. The Three Musketeers by Alexandre Dumas
+24. The War of the Worlds by H.G. Wells
+25. The Time Machine by H.G. Wells
+26. The Little Prince by Antoine de Saint-Exupéry
+27. The Secret Life of Bees by Sue Monk Kidd
+28. Beloved by Toni Morrison
+29. Things Fall Apart by Chinua Achebe
+30. Outlander by Diana Gabaldon
+31. The Walking Dead by Robert Kirkman
+32. Good Omens by Neil Gaiman and Terry Pratchett
+33. The Girl Who Leapt Through Time by Yasutaka Tsutsui
+34. For Whom the Bell Tolls by Ernest Hemingway
+35. The Old Man and the Sea by Ernest Hemingway
+36. The Unbearable Lightness of Being by Milan Kundera
+37. Thus Spoke Zarathustra by Friedrich Nietzsche
+38. The Sandman by Neil Gaiman
+39. Pride and Prejudice by Jane Austen
+40. Emma by Jane Austen
+41. The Scarlet Pimpernel by Emma Orczy
+42. Sir Gawain and the Green Knight by Anonymous
+43. Confessions by St. Augustine
+44. Sun Bin's Art of War by Sun Bin
+45. Justine by Marquis de Sade
+46. Les Fleurs du mal by Charles Baudelaire
+47. Naked Lunch by William S. Burroughs
+48. Pet Sem

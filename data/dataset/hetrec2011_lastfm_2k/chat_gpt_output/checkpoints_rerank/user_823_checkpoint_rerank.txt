@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. My Chemical Romance
+2. Fall Out Boy
+3. AFI
+4. Anti-Flag
+5. HorrorPops
+6. 36 Crazyfists
+7. Killswitch Engage
+8. Papa Roach
+9. Motion City Soundtrack
+10. Lostprophets
+11. HIM
+12. Incubus
+13. The Mars Volta
+14. Enter Shikari
+15. Say Anything
+16. Billy Talent
+17. Ne-Yo
+18. Morphine
+19. David Bowie
+20. Tom Waits
+21. Misfits
+22. Paramore
+23. Muse
+24. Radiohead
+25. Nirvana
+26. Pearl Jam
+27. Iron Maiden
+28. Metallica
+29. Led Zeppelin
+30. Michael Jackson
+31. The Beatles
+32. U2
+33. Pink Floyd
+34. Duran Duran
+35. Coldplay
+36. Blur
+37. Arctic Monkeys
+38. Placebo
+39. The Killers
+40. System of a Down
+41. Nine Inch Nails
+42. Linkin Park
+43. Avenged Sevenfold
+44. Black Eyed Peas
+45. Lady Gaga
+46. Christina Aguilera
+47. Britney Spears
+48. Madonna
+49. Rihanna
+50. Shakira

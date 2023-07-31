@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. The Maze Runner by James Dashner
+3. Eragon by Christopher Paolini
+4. Percy Jackson and the Lightning Thief by Rick Riordan
+5. The Golden Compass by Philip Pullman
+6. The Chronicles of Narnia by C.S. Lewis
+7. The Lord of the Rings by J.R.R. Tolkien
+8. Divergent by Veronica Roth
+9. The Giver by Lois Lowry
+10. The Mortal Instruments by Cassandra Clare
+11. Inkheart by Cornelia Funke
+12. The Dark is Rising by Susan Cooper
+13. The Hobbit by J.R.R. Tolkien
+14. The Secret Series by Enid Blyton
+15. The Inheritance Cycle by Christopher Paolini
+16. The Bartimaeus Trilogy by Jonathan Stroud
+17. The Secrets of the Immortal Nicholas Flamel by Michael Scott
+18. The Ranger's Apprentice by John Flanagan
+19. The Heroes of Olympus by Rick Riordan
+20. The Kane Chronicles by Rick Riordan
+21. The Iron Fey by Julie Kagawa
+22. The Lunar Chronicles by Marissa Meyer
+23. The Selection by Kiera Cass
+24. The Fault in Our Stars by John Green
+25. The Book Thief by Markus Zusak
+26. The Perks of Being a Wallflower by Stephen Chbosky
+27. The Outsiders by S.E. Hinton
+28. To Kill a Mockingbird by Harper Lee
+29. The Catcher in the Rye by J.D. Salinger
+30. The Great Gatsby by F. Scott Fitzgerald
+31. 1984 by George Orwell
+32. Animal Farm by George Orwell
+33. Brave New World by Aldous Huxley
+34. Lord of the Flies by William Golding
+35. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+36. The Da Vinci Code by Dan Brown
+37. Angels and Demons by Dan Brown
+38. The Girl with the Dragon Tattoo by Stieg Larsson
+39. The Girl on the Train by Paula Hawkins
+40. Gone Girl by Gillian Flynn
+41. The Help by Kathryn Stockett
+42. The Kite Runner by Khaled Hosseini
+43. A Thousand Splendid Suns by Khaled Hosseini
+44. The Alchemist by Paulo Coelho
+45. The Picture of Dorian Gray by Oscar Wilde
+46. Frankenstein by Mary Shelley
+47. Dracula by Bram Stoker
+48. Wuthering Heights by Emily Bronte
+49. Jane Eyre by Charlotte Bronte
+50. Pride and Prejudice by Jane Austen

@@ -1,0 +1,15 @@
+[
+    {
+        "default_validation_metric": "nDCG",
+        "default_validation_cutoff": 10,
+        "rel_threshold": 0
+    },
+    {
+        "meta": {},
+        "recommender": "output_EXP_3_elliot",
+        "configuration": {
+            "path": "../data/dataset/ml_small_2018/google_palm/output_EXP_3_elliot.tsv",
+            "name": "output_EXP_3_elliot"
+        }
+    }
+]

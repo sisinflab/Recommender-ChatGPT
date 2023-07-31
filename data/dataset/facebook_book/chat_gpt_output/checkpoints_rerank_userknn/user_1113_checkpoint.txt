@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter (series) by J.K. Rowling
+2. To Kill a Mockingbird by Harper Lee
+3. Pride and Prejudice by Jane Austen
+4. The Lord of the Rings by J.R.R. Tolkien
+5. Memoirs of a Geisha by Arthur Golden
+6. The Catcher in the Rye by J.D. Salinger
+7. Nineteen Eighty-Four by George Orwell
+8. Wuthering Heights by Emily Bronte
+9. The Secret (book) by Rhonda Byrne
+10. The Lovely Bones by Alice Sebold
+11. Rebecca (novel) by Daphne du Maurier
+12. The Other Boleyn Girl by Philippa Gregory
+13. The Scarlet Letter by Nathaniel Hawthorne
+14. Frankenstein by Mary Shelley
+15. Inferno (Dante) by Dante Alighieri
+16. The Count of Monte Cristo by Alexandre Dumas
+17. Paradise Lost by John Milton
+18. The Diving Bell and the Butterfly by Jean-Dominique Bauby
+19. The Bell Jar by Sylvia Plath
+20. The Diary of a Young Girl by Anne Frank
+21. Jane Eyre by Charlotte Bronte
+22. The Rapture (novel) by Tim LaHaye and Jerry B. Jenkins
+23. The Shadow of the Wind by Carlos Ruiz Zafon
+24. Angels & Demons by Dan Brown
+25. A Clockwork Orange by Anthony Burgess
+26. Catching Fire by Suzanne Collins
+27. My Sister's Keeper (novel) by Jodi Picoult
+28. The Girl with a Pearl Earring by Tracy Chevalier
+29. Northanger Abbey by Jane Austen
+30. Mansfield Park by Jane Austen
+31. Sense and Sensibility by Jane Austen
+32. Anne of Green Gables by L.M. Montgomery
+33. The Boy in the Striped Pyjamas by John Boyne
+34. Inkheart by Cornelia Funke
+35. The Well of Loneliness by Radclyffe Hall
+36. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+37. Let the Great World Spin by Colum McCann
+38. A Great and Terrible Beauty by Libba Bray
+39. Nineteen Minutes by Jodi Picoult
+40. Alas, Babylon by Pat Frank
+41. Cat's Cradle by Kurt Vonnegut
+42. The Hamlet by William Faulkner
+43. This Lullaby by Sarah Dessen
+44. The Pact (novel) by Jodi Picoult
+45. Uglies by Scott Westerfeld
+46. Book of Revelation by Rupert Thomson
+47. Peter and Wendy by J.M. Barrie
+48. Gone

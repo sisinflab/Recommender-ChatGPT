@@ -1,0 +1,52 @@
+Based on the user's liking history, here are the top 50 recommendations:
+
+1. Blink-182
+2. Fall Out Boy
+3. Panic! at the Disco
+4. The All-American Rejects
+5. Good Charlotte
+6. Simple Plan
+7. New Found Glory
+8. The Offspring
+9. Bowling for Soup
+10. Yellowcard
+11. Sum 41
+12. Weezer
+13. Jimmy Eat World
+14. The Used
+15. Angels & Airwaves
+16. +44
+17. Box Car Racer
+18. Motion City Soundtrack
+19. All Time Low
+20. Forever the Sickest Kids
+21. Zebrahead
+22. Relient K
+23. Paramore
+24. Muse
+25. 30 Seconds to Mars
+26. Green Day
+27. The Killers
+28. Nirvana
+29. Pearl Jam
+30. Metallica
+31. Iron Maiden
+32. Led Zeppelin
+33. Radiohead
+34. Pink Floyd
+35. The Beatles
+36. U2
+37. Coldplay
+38. Arctic Monkeys
+39. Placebo
+40. Duran Duran
+41. Depeche Mode
+42. a-ha
+43. Madonna
+44. Lady Gaga
+45. Christina Aguilera
+46. Beyoncé
+47. Rihanna
+48. Shakira
+49. Katy Perry
+50. Taylor Swift

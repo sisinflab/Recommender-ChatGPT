@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. The Lord of the Rings by J.R.R. Tolkien
+3. The Chronicles of Narnia by C.S. Lewis
+4. Divergent by Veronica Roth
+5. Percy Jackson and the Olympians by Rick Riordan
+6. The Maze Runner by James Dashner
+7. The Giver by Lois Lowry
+8. The Fault in Our Stars by John Green
+9. The Hobbit by J.R.R. Tolkien
+10. The Mortal Instruments by Cassandra Clare
+11. The Infernal Devices by Cassandra Clare
+12. The Selection by Kiera Cass
+13. The Lunar Chronicles by Marissa Meyer
+14. The 5th Wave by Rick Yancey
+15. The Darkest Minds by Alexandra Bracken
+16. The Maze of Bones by Rick Riordan
+17. The Lightning Thief by Rick Riordan
+18. The Red Pyramid by Rick Riordan
+19. The Throne of Fire by Rick Riordan
+20. The Serpent's Shadow by Rick Riordan
+21. The Heroes of Olympus by Rick Riordan
+22. The Kane Chronicles by Rick Riordan
+23. The Secrets of the Immortal Nicholas Flamel by Michael Scott
+24. The Magicians by Lev Grossman
+25. The Name of the Wind by Patrick Rothfuss
+26. The Wise Man's Fear by Patrick Rothfuss
+27. The Lies of Locke Lamora by Scott Lynch
+28. Mistborn by Brandon Sanderson
+29. The Way of Kings by Brandon Sanderson
+30. The Final Empire by Brandon Sanderson
+31. The Well of Ascension by Brandon Sanderson
+32. The Hero of Ages by Brandon Sanderson
+33. The Alloy of Law by Brandon Sanderson
+34. The Emperor's Soul by Brandon Sanderson
+35. The Stormlight Archive by Brandon Sanderson
+36. The Kingkiller Chronicle by Patrick Rothfuss
+37. The Black Prism by Brent Weeks
+38. The Night Angel Trilogy by Brent Weeks
+39. The Lightbringer Series by Brent Weeks
+40. The First Law Trilogy by Joe Abercrombie
+41. The Blade Itself by Joe Abercrombie
+42. The Lies of Locke Lamora by Scott Lynch
+43. The Republic of Thieves by Scott Lynch
+44. The Gentleman Bastard Sequence by Scott Lynch
+45. The Broken Empire Trilogy by Mark Lawrence
+46. Prince of Thorns by Mark Lawrence
+47. King of Thorns by Mark Lawrence
+48. Emperor of Thorns by Mark Lawrence
+49. The Powder Mage Trilogy by Brian McClellan
+50. The Shadow Campaigns by Django Wexler

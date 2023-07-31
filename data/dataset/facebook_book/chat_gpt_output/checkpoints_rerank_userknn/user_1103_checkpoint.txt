@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. The Hobbit by J.R.R. Tolkien
+3. Ender's Game by Orson Scott Card
+4. Harry Potter series by J.K. Rowling
+5. Percy Jackson & the Olympians series by Rick Riordan
+6. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+7. Inkdeath by Cornelia Funke
+8. Brida by Paulo Coelho
+9. The Vampire Chronicles by Anne Rice
+10. Frankenstein by Mary Shelley
+11. The Time Traveler's Wife by Audrey Niffenegger
+12. Pet Sematary by Stephen King
+13. Bag of Bones by Stephen King
+14. Dead Until Dark by Charlaine Harris
+15. The Southern Vampire Mysteries by Charlaine Harris
+16. Fear and Loathing in Las Vegas by Hunter S. Thompson
+17. John Dies at the End by David Wong
+18. His Dark Materials by Philip Pullman
+19. The Phantom Tollbooth by Norton Juster
+20. To Kill a Mockingbird by Harper Lee
+21. Of Mice and Men by John Steinbeck
+22. Catching Fire by Suzanne Collins
+23. Valiant: A Modern Tale of Faerie by Holly Black
+24. Ramayana by Ramesh Menon
+25. The Secret Garden by Frances Hodgson Burnett
+26. King Solomon's Mines by H. Rider Haggard
+27. Macbeth by William Shakespeare
+28. The Fountainhead by Ayn Rand
+29. We the Living by Ayn Rand
+30. David Copperfield by Charles Dickens
+31. Dracula by Bram Stoker
+32. Vampire Kisses by Ellen Schreiber
+33. Twilight series by Stephenie Meyer
+34. Vampire: The Masquerade by Mark Rein-Hagen
+35. Vampire: The Requiem by White Wolf Publishing
+36. Cirque du Freak by Darren Shan
+37. Fushigi Yûgi by Yuu Watase
+38. Manga by Various Authors
+39. Wings of Fire by Tui T. Sutherland
+40. The Last Juror by John Grisham
+41. Deception Point by Dan Brown
+42. Digital Fortress by Dan Brown
+43. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+44. Skeleton Creek by Patrick Carman
+45. Xenocide by Orson Scott Card
+46. Queers in History by Keith Stern
+47. I Hope They Serve Beer in Hell by Tucker Max
+48. I Am Legend by Richard Matheson
+49. Halo: The Flood by William C. Dietz
+50. Kitchen by Banana Yoshimoto

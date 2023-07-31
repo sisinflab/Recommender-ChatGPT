@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Da Vinci Code by Dan Brown
+2. Angels and Demons by Dan Brown
+3. The Girl with the Dragon Tattoo by Stieg Larsson
+4. The Hunger Games by Suzanne Collins
+5. Catching Fire by Suzanne Collins
+6. Mockingjay by Suzanne Collins
+7. The Fault in Our Stars by John Green
+8. Paper Towns by John Green
+9. Looking for Alaska by John Green
+10. The Maze Runner by James Dashner
+11. The Scorch Trials by James Dashner
+12. The Death Cure by James Dashner
+13. The Giver by Lois Lowry
+14. Gathering Blue by Lois Lowry
+15. Messenger by Lois Lowry
+16. Son by Lois Lowry
+17. The Book Thief by Markus Zusak
+18. The Help by Kathryn Stockett
+19. The Kite Runner by Khaled Hosseini
+20. A Thousand Splendid Suns by Khaled Hosseini
+21. The Time Traveler's Wife by Audrey Niffenegger
+22. The Lovely Bones by Alice Sebold
+23. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+24. The Secret Life of Bees by Sue Monk Kidd
+25. The Alchemist by Paulo Coelho
+26. The Chronicles of Narnia by C.S. Lewis
+27. The Lord of the Rings by J.R.R. Tolkien
+28. The Hobbit by J.R.R. Tolkien
+29. The Catcher in the Rye by J.D. Salinger
+30. To Kill a Mockingbird by Harper Lee
+31. The Great Gatsby by F. Scott Fitzgerald
+32. 1984 by George Orwell
+33. Animal Farm by George Orwell
+34. Brave New World by Aldous Huxley
+35. Fahrenheit 451 by Ray Bradbury
+36. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+37. The Shining by Stephen King
+38. Carrie by Stephen King
+39. The Stand by Stephen King
+40. The Dark Tower series by Stephen King
+41. The Name of the Wind by Patrick Rothfuss
+42. The Wise Man's Fear by Patrick Rothfuss
+43. The Lies of Locke Lamora by Scott Lynch
+44. The Blade Itself by Joe Abercrombie
+45. The Way of Kings by Brandon Sanderson
+46. Mistborn by Brandon Sanderson
+47. The Final Empire by Brandon Sanderson
+48. The Lies of Locke Lamora by Scott Lynch
+49. The Blade Itself by Joe Abercrombie
+50. The Way of Kings by Brandon Sanderson

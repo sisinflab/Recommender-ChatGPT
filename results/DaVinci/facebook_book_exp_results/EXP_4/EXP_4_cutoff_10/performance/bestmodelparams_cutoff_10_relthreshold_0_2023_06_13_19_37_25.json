@@ -1,0 +1,97 @@
+[
+    {
+        "default_validation_metric": "nDCG",
+        "default_validation_cutoff": 10,
+        "rel_threshold": 0
+    },
+    {
+        "meta": {},
+        "recommender": "output_EXP_1_elliot",
+        "configuration": {
+            "folder": "../results/DaVinci/facebook_book_exp_results/EXP_4/best_models/best_models_top_10",
+            "path": "../results/DaVinci/facebook_book_exp_results/EXP_4/best_models/best_models_top_10/output_EXP_1_elliot.tsv",
+            "name": "output_EXP_1_elliot"
+        }
+    },
+    {
+        "meta": {},
+        "recommender": "VSM_sim=cosine_up=tfidf_ip=binary_load=ChainedKG",
+        "configuration": {
+            "folder": "../results/DaVinci/facebook_book_exp_results/EXP_4/best_models/best_models_top_10",
+            "path": "../results/DaVinci/facebook_book_exp_results/EXP_4/best_models/best_models_top_10/VSM_sim=cosine_up=tfidf_ip=binary_load=ChainedKG.tsv",
+            "name": "VSM_sim=cosine_up=tfidf_ip=binary_load=ChainedKG"
+        }
+    },
+    {
+        "meta": {},
+        "recommender": "AttributeUserKNN_nn=60_sim=cosine_profile=binary_bin=False_load=ChainedKG",
+        "configuration": {
+            "folder": "../results/DaVinci/facebook_book_exp_results/EXP_4/best_models/best_models_top_10",
+            "path": "../results/DaVinci/facebook_book_exp_results/EXP_4/best_models/best_models_top_10/AttributeUserKNN_nn=60_sim=cosine_profile=binary_bin=False_load=ChainedKG.tsv",
+            "name": "AttributeUserKNN_nn=60_sim=cosine_profile=binary_bin=False_load=ChainedKG"
+        }
+    },
+    {
+        "meta": {},
+        "recommender": "EASER_neighborhood=2234_l2_norm=18374136$168271586",
+        "configuration": {
+            "folder": "../results/DaVinci/facebook_book_exp_results/EXP_4/best_models/best_models_top_10",
+            "path": "../results/DaVinci/facebook_book_exp_results/EXP_4/best_models/best_models_top_10/EASER_neighborhood=2234_l2_norm=18374136$168271586.tsv",
+            "name": "EASER_neighborhood=2234_l2_norm=18374136$168271586"
+        }
+    },
+    {
+        "meta": {},
+        "recommender": "AttributeItemKNN_nn=20_sim=cosine_bin=False_load=ChainedKG",
+        "configuration": {
+            "folder": "../results/DaVinci/facebook_book_exp_results/EXP_4/best_models/best_models_top_10",
+            "path": "../results/DaVinci/facebook_book_exp_results/EXP_4/best_models/best_models_top_10/AttributeItemKNN_nn=20_sim=cosine_bin=False_load=ChainedKG.tsv",
+            "name": "AttributeItemKNN_nn=20_sim=cosine_bin=False_load=ChainedKG"
+        }
+    },
+    {
+        "meta": {},
+        "recommender": "RP3beta_neighborhood=29_alpha=1$596217202535946_beta=0$2874229165090889_normalize_similarity=True",
+        "configuration": {
+            "folder": "../results/DaVinci/facebook_book_exp_results/EXP_4/best_models/best_models_top_10",
+            "path": "../results/DaVinci/facebook_book_exp_results/EXP_4/best_models/best_models_top_10/RP3beta_neighborhood=29_alpha=1$596217202535946_beta=0$2874229165090889_normalize_similarity=True.tsv",
+            "name": "RP3beta_neighborhood=29_alpha=1$596217202535946_beta=0$2874229165090889_normalize_similarity=True"
+        }
+    },
+    {
+        "meta": {},
+        "recommender": "Random_seed=42",
+        "configuration": {
+            "folder": "../results/DaVinci/facebook_book_exp_results/EXP_4/best_models/best_models_top_10",
+            "path": "../results/DaVinci/facebook_book_exp_results/EXP_4/best_models/best_models_top_10/Random_seed=42.tsv",
+            "name": "Random_seed=42"
+        }
+    },
+    {
+        "meta": {},
+        "recommender": "ItemKNN_nn=100_sim=cosine_imp=standard_bin=False_shrink=0_norm=True_asymalpha=_tvalpha=_tvbeta=_rweights=",
+        "configuration": {
+            "folder": "../results/DaVinci/facebook_book_exp_results/EXP_4/best_models/best_models_top_10",
+            "path": "../results/DaVinci/facebook_book_exp_results/EXP_4/best_models/best_models_top_10/ItemKNN_nn=100_sim=cosine_imp=standard_bin=False_shrink=0_norm=True_asymalpha=_tvalpha=_tvbeta=_rweights=.tsv",
+            "name": "ItemKNN_nn=100_sim=cosine_imp=standard_bin=False_shrink=0_norm=True_asymalpha=_tvalpha=_tvbeta=_rweights="
+        }
+    },
+    {
+        "meta": {},
+        "recommender": "MostPop",
+        "configuration": {
+            "folder": "../results/DaVinci/facebook_book_exp_results/EXP_4/best_models/best_models_top_10",
+            "path": "../results/DaVinci/facebook_book_exp_results/EXP_4/best_models/best_models_top_10/MostPop.tsv",
+            "name": "MostPop"
+        }
+    },
+    {
+        "meta": {},
+        "recommender": "UserKNN_nn=60_sim=cosine_imp=standard_bin=False_shrink=0_norm=True_asymalpha=_tvalpha=_tvbeta=_rweights=",
+        "configuration": {
+            "folder": "../results/DaVinci/facebook_book_exp_results/EXP_4/best_models/best_models_top_10",
+            "path": "../results/DaVinci/facebook_book_exp_results/EXP_4/best_models/best_models_top_10/UserKNN_nn=60_sim=cosine_imp=standard_bin=False_shrink=0_norm=True_asymalpha=_tvalpha=_tvbeta=_rweights=.tsv",
+            "name": "UserKNN_nn=60_sim=cosine_imp=standard_bin=False_shrink=0_norm=True_asymalpha=_tvalpha=_tvbeta=_rweights="
+        }
+    }
+]

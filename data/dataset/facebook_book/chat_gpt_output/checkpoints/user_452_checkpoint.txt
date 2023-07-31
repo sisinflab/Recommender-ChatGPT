@@ -1,0 +1,46 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Club Dead by Charlaine Harris
+2. A Game of Thrones by George R.R. Martin
+3. Dead to Worse by Charlaine Harris
+4. The Hunger Games by Suzanne Collins
+5. From Dead to Worse by Charlaine Harris
+6. Catching Fire by Suzanne Collins
+7. Dead in the Family by Charlaine Harris
+8. Mockingjay by Suzanne Collins
+9. Dead Reckoning by Charlaine Harris
+10. The Girl with the Dragon Tattoo by Stieg Larsson
+11. Deadlocked by Charlaine Harris
+12. The Girl Who Played with Fire by Stieg Larsson
+13. Dead Ever After by Charlaine Harris
+14. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+15. The Fellowship of the Ring by J.R.R. Tolkien
+16. The Two Towers by J.R.R. Tolkien
+17. The Return of the King by J.R.R. Tolkien
+18. The Silmarillion by J.R.R. Tolkien
+19. The Children of Hurin by J.R.R. Tolkien
+20. The Hobbit and The Lord of the Rings Boxed Set by J.R.R. Tolkien
+21. The Complete Chronicles of Narnia by C.S. Lewis
+22. The Complete Sherlock Holmes by Arthur Conan Doyle
+23. The Complete Tales and Poems of Edgar Allan Poe by Edgar Allan Poe
+24. The Complete Works of William Shakespeare by William Shakespeare
+25. The Complete Novels of Jane Austen by Jane Austen
+26. The Complete Works of Charles Dickens by Charles Dickens
+27. The Complete Works of Mark Twain by Mark Twain
+28. The Complete Works of Oscar Wilde by Oscar Wilde
+29. The Complete Works of Emily Bronte by Emily Bronte
+30. The Complete Works of Charlotte Bronte by Charlotte Bronte
+31. The Complete Works of Jane Austen by Jane Austen
+32. The Complete Works of Edgar Allan Poe by Edgar Allan Poe
+33. The Complete Works of Fyodor Dostoevsky by Fyodor Dostoevsky
+34. The Complete Works of Leo Tolstoy by Leo Tolstoy
+35. The Complete Works of Virginia Woolf by Virginia Woolf
+36. The Complete Works of Ernest Hemingway by Ernest Hemingway
+37. The Complete Works of James Joyce by James Joyce
+38. The Complete Works of Franz Kafka by Franz Kafka
+39. The Complete Works of Marcel Proust by Marcel Proust
+40. The Complete Works of Samuel Beckett by Samuel Beckett
+41. The Complete Works of William Faulkner by William Faulkner
+42. The Complete Works of Tennessee Williams by Tennessee Williams
+43. The Complete Works of Arthur Miller by Arthur Miller
+44. The Complete Works of Eugene O'Neill by Eugene O

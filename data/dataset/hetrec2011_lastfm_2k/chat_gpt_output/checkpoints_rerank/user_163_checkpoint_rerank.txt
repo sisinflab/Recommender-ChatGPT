@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for user 163 would be:
+
+1. Taylor Swift
+2. Carrie Underwood
+3. Lady Antebellum
+4. Keith Urban
+5. Brad Paisley
+6. Dixie Chicks
+7. Shania Twain
+8. Faith Hill
+9. Avril Lavigne
+10. Katy Perry
+11. Paramore
+12. Pink Floyd
+13. Muse
+14. Madonna
+15. Rihanna
+16. Lady Gaga
+17. Christina Aguilera
+18. Beyoncé
+19. Michael Jackson
+20. The Beatles
+21. U2
+22. Coldplay
+23. Radiohead
+24. Nirvana
+25. Iron Maiden
+26. Metallica
+27. Led Zeppelin
+28. Pearl Jam
+29. Duran Duran
+30. Arctic Monkeys
+31. Placebo
+32. The Killers
+33. Green Day
+34. My Chemical Romance
+35. Nine Inch Nails
+36. Linkin Park
+37. Ke$ha
+38. Evanescence
+39. Blur
+40. System of a Down
+41. Daft Punk
+42. Kelly Clarkson
+43. All Time Low
+44. P!nk
+45. Avenged Sevenfold
+46. Black Eyed Peas
+47. Glee Cast
+48. Amy Winehouse
+49. Kylie Minogue
+50. Björk

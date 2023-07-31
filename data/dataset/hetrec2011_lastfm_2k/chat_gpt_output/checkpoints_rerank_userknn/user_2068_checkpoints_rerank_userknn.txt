@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for user 2068 are:
+
+1. Lady Gaga
+2. Kylie Minogue
+3. Sophie Ellis-Bextor
+4. P!nk
+5. Shakira
+6. The Veronicas
+7. Cascada
+8. t.A.T.u.
+9. Laura Pausini
+10. Céline Dion
+11. Sarah McLachlan
+12. Enya
+13. Roxette
+14. Sixpence None the Richer
+15. The Corrs
+16. Skye Sweetnam
+17. Evanescence
+18. Michelle Branch
+19. Kings of Leon
+20. Florence + the Machine
+21. Adele
+22. Amy Macdonald
+23. Marina & the Diamonds
+24. Lily Allen
+25. A Fine Frenzy
+26. Goldfrapp
+27. Kerli
+28. Björk
+29. Little Boots
+30. Ellie Goulding
+31. Maroon 5
+32. Glee Cast
+33. Pixie Lott
+34. Madonna
+35. Christina Aguilera
+36. Beyoncé
+37. Rihanna
+38. Nicki Minaj
+39. La Roux
+40. Coldplay
+41. Taylor Swift
+42. Alanis Morissette
+43. Nelly Furtado
+44. Jessie J
+45. Katy Perry
+46. Avril Lavigne
+47. Paramore
+48. Ashley Tisdale
+49. Britney Spears
+50. Leona Lewis

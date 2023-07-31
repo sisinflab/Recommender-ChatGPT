@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Depeche Mode
+2. Radiohead
+3. Coldplay
+4. Keane
+5. Snow Patrol
+6. Massive Attack
+7. The Verve
+8. Placebo
+9. Duran Duran
+10. Red Hot Chili Peppers
+11. Oasis
+12. The Beatles
+13. Moby
+14. Röyksopp
+15. Nautilus Pompilius
+16. Guano Apes
+17. Evanescence
+18. OneRepublic
+19. UNKLE
+20. Archive
+21. Patrick Wolf
+22. Schiller
+23. Britney Spears
+24. Lady Gaga
+25. Christina Aguilera
+26. Madonna
+27. Rihanna
+28. Shakira
+29. Katy Perry
+30. Avril Lavigne
+31. Taylor Swift
+32. Glee Cast
+33. Beyoncé
+34. U2
+35. 30 Seconds to Mars
+36. Muse
+37. Pink Floyd
+38. Kylie Minogue
+39. Miley Cyrus
+40. Ke$ha
+41. Blur
+42. Arctic Monkeys
+43. The Killers
+44. Nirvana
+45. Iron Maiden
+46. Amy Winehouse
+47. Led Zeppelin
+48. Metallica
+49. Michael Jackson
+50. Pearl Jam

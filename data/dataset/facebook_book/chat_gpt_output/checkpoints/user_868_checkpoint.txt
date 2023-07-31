@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Atlas Shrugged by Ayn Rand
+2. Brave New World by Aldous Huxley
+3. The Catcher in the Rye by J.D. Salinger
+4. The Communist Manifesto by Karl Marx and Friedrich Engels
+5. The Count of Monte Cristo by Alexandre Dumas
+6. The Da Vinci Code by Dan Brown
+7. The Divine Comedy by Dante Alighieri
+8. Don Quixote by Miguel de Cervantes
+9. Dracula by Bram Stoker
+10. The Great Gatsby by F. Scott Fitzgerald
+11. Heart of Darkness by Joseph Conrad
+12. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+13. The Hobbit by J.R.R. Tolkien
+14. The Hunger Games by Suzanne Collins
+15. The Iliad by Homer
+16. The Inferno by Dante Alighieri
+17. The Jungle by Upton Sinclair
+18. Les Misérables by Victor Hugo
+19. The Lord of the Rings by J.R.R. Tolkien
+20. The Metamorphosis by Franz Kafka
+21. Moby-Dick by Herman Melville
+22. The Odyssey by Homer
+23. One Hundred Years of Solitude by Gabriel García Márquez
+24. The Picture of Dorian Gray by Oscar Wilde
+25. The Prince by Niccolò Machiavelli
+26. The Republic by Plato
+27. The Scarlet Letter by Nathaniel Hawthorne
+28. The Shining by Stephen King
+29. Siddhartha by Hermann Hesse
+30. Slaughterhouse-Five by Kurt Vonnegut
+31. The Stranger by Albert Camus
+32. The Sun Also Rises by Ernest Hemingway
+33. The Three Musketeers by Alexandre Dumas
+34. To Kill a Mockingbird by Harper Lee
+35. Ulysses by James Joyce
+36. War and Peace by Leo Tolstoy
+37. Watership Down by Richard Adams
+38. Wuthering Heights by Emily Bronte
+39. 1984 by George Orwell
+40. Animal Farm by George Orwell
+41. The Handmaid's Tale by Margaret Atwood
+42. The Fountainhead by Ayn Rand
+43. The Brothers Karamazov by Fyodor Dostoyevsky
+44. Crime and Punishment by Fyodor Dostoyevsky
+45. Anna Karenina by Leo Tolstoy
+46. Zen and the Art of Motorcycle Maintenance by Robert M. Pirsig
+47. No Logo by Naomi Klein
+48. Blink by Malcolm Gladwell
+49. Anthem by Ayn Rand
+50. Player Piano by Kurt Vonnegut

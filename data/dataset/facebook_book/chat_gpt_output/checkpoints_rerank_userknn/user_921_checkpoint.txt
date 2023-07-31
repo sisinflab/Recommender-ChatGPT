@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hitchhiker's Guide to the Galaxy (novel) by Douglas Adams
+2. The Lord of the Rings by J.R.R. Tolkien
+3. The Picture of Dorian Gray by Oscar Wilde
+4. Dracula by Bram Stoker
+5. The Stand by Stephen King
+6. The Giver by Lois Lowry
+7. The Road by Cormac McCarthy
+8. Brave New World by Aldous Huxley
+9. The Name of the Wind by Patrick Rothfuss
+10. Fahrenheit 451 by Ray Bradbury
+11. The Bell Jar by Sylvia Plath
+12. Slaughterhouse-Five by Kurt Vonnegut
+13. The Merchant of Venice by William Shakespeare
+14. Jane Eyre by Charlotte Bronte
+15. The Secret Garden by Frances Hodgson Burnett
+16. Wuthering Heights by Emily Bronte
+17. The Tao of Pooh by Benjamin Hoff
+18. A Wrinkle in Time by Madeleine L'Engle
+19. The Perks of Being a Wallflower by Stephen Chbosky
+20. The Stars My Destination by Alfred Bester
+21. Blink (book) by Malcolm Gladwell
+22. The Watchmen (novel) by John Altman (author)
+23. Nicholas Nickleby by Charles Dickens
+24. Harry Potter by J.K. Rowling
+25. American Gods by Neil Gaiman
+26. The Tipping Point by Malcolm Gladwell
+27. The Catcher in the Rye by J.D. Salinger
+28. Freakonomics by Stephen J. Dubner and Steven Levitt
+29. The Undercover Economist by Tim Harford
+30. Soon I Will Be Invincible by Austin Grossman
+31. The Silence of the Lambs (novel) by Thomas Harris
+32. Frankenstein by Mary Shelley
+33. It's Kind of a Funny Story by Ned Vizzini
+34. Night (book) by Elie Wiesel
+35. Holes (novel) by Louis Sachar
+36. Haunted (Palahniuk novel) by Chuck Palahniuk
+37. The Zombie Survival Guide by Max Brooks
+38. The World According to Garp by John Irving
+39. Wide Sargasso Sea by Jean Rhys
+40. The Man in the High Castle by Philip K. Dick
+41. Left Behind (novel) by Tim LaHaye and Jerry B. Jenkins
+42. The Elegant Universe by Brian Greene
+43. Arkham Asylum: A Serious House on Serious Earth by Grant Morrison
+44. The Fall of Hyperion by Dan Simmons
+45. The Hobbit by J.R.R. Tolkien
+46. Bible by Various Authors
+47. A Brief History of Time by Stephen Hawking
+48. Common Sense (pamph

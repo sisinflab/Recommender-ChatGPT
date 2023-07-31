@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Matilda by Roald Dahl
+2. The Secret Garden by Frances Hodgson Burnett
+3. The Hobbit by J.R.R. Tolkien
+4. The Lord of the Rings by J.R.R. Tolkien
+5. The Chronicles of Narnia by C.S. Lewis
+6. Harry Potter series by J.K. Rowling
+7. The Great Gatsby by F. Scott Fitzgerald
+8. To Kill a Mockingbird by Harper Lee
+9. 1984 by George Orwell
+10. Animal Farm by George Orwell
+11. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+12. The Da Vinci Code by Dan Brown
+13. Angels and Demons by Dan Brown
+14. The Girl with the Dragon Tattoo by Stieg Larsson
+15. The Hunger Games by Suzanne Collins
+16. Catching Fire by Suzanne Collins
+17. Mockingjay by Suzanne Collins
+18. The Fault in Our Stars by John Green
+19. Paper Towns by John Green
+20. Looking for Alaska by John Green
+21. The Book Thief by Markus Zusak
+22. The Kite Runner by Khaled Hosseini
+23. A Thousand Splendid Suns by Khaled Hosseini
+24. The Lovely Bones by Alice Sebold
+25. The Time Traveler's Wife by Audrey Niffenegger
+26. The Help by Kathryn Stockett
+27. The Maze Runner by James Dashner
+28. The Scorch Trials by James Dashner
+29. The Death Cure by James Dashner
+30. The Girl on the Train by Paula Hawkins
+31. Gone Girl by Gillian Flynn
+32. The Nightingale by Kristin Hannah
+33. The Handmaid's Tale by Margaret Atwood
+34. The Road by Cormac McCarthy
+35. The Stand by Stephen King
+36. The Shining by Stephen King
+37. The Green Mile by Stephen King
+38. The Catcher in the Rye by J.D. Salinger
+39. The Bronze Horseman by Paullina Simons
+40. Waiting for Godot by Samuel Beckett
+41. Eleven Minutes by Paulo Coelho
+42. The Clan of the Cave Bear by Jean M. Auel
+43. Little Women by Louisa May Alcott
+44. Lorna Doone by R.D. Blackmore
+45. The Alchemist by Paulo Coelho
+46. The Magic Faraway Tree by Enid Blyton
+47. Charlie and the Chocolate Factory by Roald Dahl
+48. The BFG by Roald Dahl
+49. James and the Giant Peach by Roald Dahl
+50. The Witches by Roald Dahl

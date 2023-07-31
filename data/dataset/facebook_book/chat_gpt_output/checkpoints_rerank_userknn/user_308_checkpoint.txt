@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Chronicles of Narnia by C. S. Lewis
+2. The Hobbit by J. R. R. Tolkien
+3. The Lord of the Rings by J. R. R. Tolkien
+4. Harry Potter by J. K. Rowling
+5. The Vampire Lestat by Anne Rice
+6. The Count of Monte Cristo by Alexandre Dumas
+7. Good Omens by Neil Gaiman and Terry Pratchett
+8. The Hunger Games by Suzanne Collins
+9. Ender's Game by Orson Scott Card
+10. The Picture of Dorian Gray by Oscar Wilde
+11. Flowers for Algernon by Daniel Keyes
+12. Wuthering Heights by Emily Bronte
+13. Les Miserables by Victor Hugo
+14. To Kill a Mockingbird by Harper Lee
+15. The Great Gatsby by F. Scott Fitzgerald
+16. The Time Machine by H. G. Wells
+17. The Lost World by Michael Crichton
+18. The Catcher in the Rye by J. D. Salinger
+19. The Notebook by Nicholas Sparks
+20. The Secret by Rhonda Byrne
+21. The Shack by William P. Young
+22. The Bell Jar by Sylvia Plath
+23. The Phantom of the Opera by Gaston Leroux
+24. The Anarchist Cookbook by William Powell
+25. Johnny the Homicidal Maniac by Jhonen Vasquez
+26. Diary by Chuck Palahniuk
+27. Jurassic Park by Michael Crichton
+28. Alice's Adventures in Wonderland by Lewis Carroll
+29. The Perks of Being a Wallflower by Stephen Chbosky
+30. It's Kind of a Funny Story by Ned Vizzini
+31. Jitterbug Perfume by Tom Robbins
+32. The Heroin Diaries: A Year in the Life of a Shattered Rock Star by Nikki Sixx
+33. The Lost Books by Ted Dekker
+34. Burned by Ellen Hopkins
+35. The Awakening by Kate Chopin
+36. The Name of the Rose by Umberto Eco
+37. Pretties by Scott Westerfeld
+38. Persepolis by Marjane Satrapi
+39. Things Fall Apart by Chinua Achebe
+40. Mirror, Mirror by Gregory Maguire
+41. Garden of Shadows by V. C. Andrews
+42. Peeps by Scott Westerfeld
+43. The Phantom Tollbooth by Norton Juster
+44. The Giver by Lois Lowry
+45. The Maze Runner by James Dashner
+46. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+47. The Dark Tower by Stephen King
+48. The Girl with the Dragon Tattoo by Stieg Larsson
+49. The Road by Cormac

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Twilight (series)
+2. The Hunger Games
+3. Thirteen Reasons Why
+4. My Sister's Keeper (novel)
+5. The Immortals (novel)
+6. Vampire Academy (novel)
+7. Burned (Hopkins novel)
+8. Before I Fall
+9. A Great and Terrible Beauty
+10. The Wolves of Mercy Falls
+11. Evernight (novel)
+12. Red (novel)
+13. Wicked Lovely
+14. Hourglass (novel)
+15. The Watchmen (novel)
+16. The Bell Jar
+17. The Notebook (novel)
+18. Inkheart
+19. The Secret Garden
+20. The BFG
+21. The Hobbit
+22. Angels & Demons
+23. The Historian
+24. False Memory (novel)
+25. Fallout: An American Nuclear Tragedy
+26. Oliver Twist
+27. The Westing Game
+28. Three (novel)
+29. Invisible Man
+30. Flowers for Algernon
+31. Uglies
+32. The Time Traveler's Wife
+33. A Series of Unfortunate Events
+34. Harry Potter
+35. Girl with a Pearl Earring (novel)
+36. Angelology (novel)
+37. Hush, Hush
+38. Cut (novel)
+39. The Lost Boy (memoir)
+40. Sarah's Key (novel)
+41. Romeo and Juliet
+42. The Visitation (novel)
+43. Through the Looking-Glass
+44. Blood and Chocolate (novel)
+45. Go Ask Alice
+46. The Sweet Far Thing
+47. Impulse economy
+48. The Awakening (Chopin novel)
+49. Chaos Walking
+50. The Graveyard Book

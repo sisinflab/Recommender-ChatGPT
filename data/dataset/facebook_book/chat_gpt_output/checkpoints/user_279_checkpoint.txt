@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. Ender's Game by Orson Scott Card
+4. The Hunger Games by Suzanne Collins
+5. The Lord of the Rings by J.R.R. Tolkien
+6. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+7. The Handmaid's Tale by Margaret Atwood
+8. Fahrenheit 451 by Ray Bradbury
+9. The Giver by Lois Lowry
+10. The Maze Runner by James Dashner
+11. The Road by Cormac McCarthy
+12. The Stand by Stephen King
+13. The Dark Tower series by Stephen King
+14. The Chronicles of Narnia by C.S. Lewis
+15. The Harry Potter series by J.K. Rowling
+16. The Name of the Wind by Patrick Rothfuss
+17. The Lies of Locke Lamora by Scott Lynch
+18. The Blade Itself by Joe Abercrombie
+19. The First Law Trilogy by Joe Abercrombie
+20. The Kingkiller Chronicle by Patrick Rothfuss
+21. The Stormlight Archive by Brandon Sanderson
+22. Mistborn by Brandon Sanderson
+23. The Wheel of Time series by Robert Jordan
+24. The Malazan Book of the Fallen series by Steven Erikson
+25. The Dresden Files by Jim Butcher
+26. American Gods by Neil Gaiman
+27. Neverwhere by Neil Gaiman
+28. Good Omens by Neil Gaiman and Terry Pratchett
+29. The Graveyard Book by Neil Gaiman
+30. The Ocean at the End of the Lane by Neil Gaiman
+31. The Girl with the Dragon Tattoo by Stieg Larsson
+32. The Girl Who Played with Fire by Stieg Larsson
+33. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+34. The Bourne Identity by Robert Ludlum
+35. The Da Vinci Code by Dan Brown
+36. Angels and Demons by Dan Brown
+37. Digital Fortress by Dan Brown
+38. Deception Point by Dan Brown
+39. The Andromeda Strain by Michael Crichton
+40. Jurassic Park by Michael Crichton
+41. The Lost World by Michael Crichton
+42. Sphere by Michael Crichton
+43. Congo by Michael Crichton
+44. The Shining by Stephen King
+45. Doctor Sleep by Stephen King
+46. Pet Sematary by Stephen King
+47. It by Stephen King
+48. The Outsider by Stephen King
+49. The Talisman by Stephen King and Peter Straub
+50. Black House by Stephen King and Peter Straub

@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter by J.K. Rowling
+2. The Hunger Games by Suzanne Collins
+3. Twilight by Stephenie Meyer
+4. The Lord of the Rings by J.R.R. Tolkien
+5. To Kill a Mockingbird by Harper Lee
+6. The Hobbit by J.R.R. Tolkien
+7. The Catcher in the Rye by J.D. Salinger
+8. 1984 by George Orwell
+9. Animal Farm by George Orwell
+10. The Great Gatsby by F. Scott Fitzgerald
+11. Brave New World by Aldous Huxley
+12. The Da Vinci Code by Dan Brown
+13. Angels and Demons by Dan Brown
+14. The Girl with the Dragon Tattoo by Stieg Larsson
+15. The Girl Who Played with Fire by Stieg Larsson
+16. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+17. The Shining by Stephen King
+18. The Stand by Stephen King
+19. It by Stephen King
+20. The Dark Tower series by Stephen King
+21. The Silence of the Lambs by Thomas Harris
+22. Red Dragon by Thomas Harris
+23. Hannibal by Thomas Harris
+24. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+25. The Chronicles of Narnia by C.S. Lewis
+26. The Giver by Lois Lowry
+27. Ender's Game by Orson Scott Card
+28. The Maze Runner by James Dashner
+29. The Bourne Identity by Robert Ludlum
+30. The Bourne Supremacy by Robert Ludlum
+31. The Bourne Ultimatum by Robert Ludlum
+32. The Bourne Legacy by Eric Van Lustbader
+33. The Bourne Betrayal by Eric Van Lustbader
+34. The Bourne Sanction by Eric Van Lustbader
+35. The Bourne Deception by Eric Van Lustbader
+36. The Bourne Objective by Eric Van Lustbader
+37. The Bourne Dominion by Eric Van Lustbader
+38. The Bourne Imperative by Eric Van Lustbader
+39. The Bourne Retribution by Eric Van Lustbader
+40. The Bourne Ascendancy by Eric Van Lustbader
+41. The Bourne Enigma by Eric Van Lustbader
+42. The Bourne Initiative by Eric Van Lustbader
+43. The Bourne Nemesis by Eric Van Lustbader
+44. The Bourne Evolution by Brian Freeman
+45. The Bourne Treachery by Brian Freeman
+46. The Bourne Ascendancy by Brian Freeman
+47. The Bourne Retaliation by Brian Freeman
+48. The Bourne Reprisal by Brian Freeman
+49. The Bourne Resurrection

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Black Keys
+2. The Beatles
+3. Modest Mouse
+4. Weezer
+5. The Who
+6. Franz Ferdinand
+7. Arctic Monkeys
+8. Arcade Fire
+9. Feist
+10. David Bowie
+11. Ramones
+12. Joy Division
+13. Bloc Party
+14. Adele
+15. Wolfmother
+16. Blondie
+17. The Kinks
+18. Kings of Leon
+19. OK Go
+20. Elbow
+21. Kaiser Chiefs
+22. The White Stripes
+23. The Smiths
+24. The Flaming Lips
+25. Red Hot Chili Peppers
+26. CAKE
+27. Phoenix
+28. The Strokes
+29. The Jesus and Mary Chain
+30. Air
+31. Pixies
+32. The Doors
+33. Portishead
+34. Radiohead
+35. Nirvana
+36. Led Zeppelin
+37. Pink Floyd
+38. Metallica
+39. Iron Maiden
+40. Pearl Jam
+41. Muse
+42. U2
+43. Duran Duran
+44. Placebo
+45. Daft Punk
+46. Nine Inch Nails
+47. Björk
+48. System of a Down
+49. The Cure
+50. Green Day

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Girl with the Dragon Tattoo by Stieg Larsson
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. To Kill a Mockingbird by Harper Lee
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Animal Farm by George Orwell
+7. Brave New World by Aldous Huxley
+8. The Hobbit by J.R.R. Tolkien
+9. The Fellowship of the Ring by J.R.R. Tolkien
+10. The Two Towers by J.R.R. Tolkien
+11. The Return of the King by J.R.R. Tolkien
+12. The Chronicles of Narnia by C.S. Lewis
+13. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+14. The Shining by Stephen King
+15. The Stand by Stephen King
+16. It by Stephen King
+17. The Silence of the Lambs by Thomas Harris
+18. Red Dragon by Thomas Harris
+19. Hannibal by Thomas Harris
+20. The Bourne Identity by Robert Ludlum
+21. The Bourne Supremacy by Robert Ludlum
+22. The Bourne Ultimatum by Robert Ludlum
+23. The Da Vinci Code by Dan Brown
+24. Angels & Demons by Dan Brown
+25. Digital Fortress by Dan Brown
+26. Deception Point by Dan Brown
+27. The Hunger Games by Suzanne Collins
+28. Catching Fire by Suzanne Collins
+29. Mockingjay by Suzanne Collins
+30. Divergent by Veronica Roth
+31. Insurgent by Veronica Roth
+32. Allegiant by Veronica Roth
+33. The Maze Runner by James Dashner
+34. The Scorch Trials by James Dashner
+35. The Death Cure by James Dashner
+36. The Giver by Lois Lowry
+37. Gathering Blue by Lois Lowry
+38. Messenger by Lois Lowry
+39. Son by Lois Lowry
+40. Lord of the Flies by William Golding
+41. The Outsiders by S.E. Hinton
+42. The Fault in Our Stars by John Green
+43. Looking for Alaska by John Green
+44. Paper Towns by John Green
+45. The Harry Potter series by J.K. Rowling
+46. Johnny the Homicidal Maniac by Jhonen Vasquez
+47. Squee! by Jhonen Vasquez
+48. Lenore, the Cute Little Dead Girl by Roman Dirge
+49. Inferno by Dante Alighieri
+50. At the Mountains of Madness by H.P. Lovecraft

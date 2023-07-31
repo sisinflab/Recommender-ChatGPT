@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. One Piece by Eiichiro Oda
+2. Attack on Titan by Hajime Isayama
+3. Fullmetal Alchemist by Hiromu Arakawa
+4. Death Note by Tsugumi Ohba and Takeshi Obata
+5. Bleach by Tite Kubo
+6. Fairy Tail by Hiro Mashima
+7. Sword Art Online by Reki Kawahara
+8. Tokyo Ghoul by Sui Ishida
+9. The Hunger Games by Suzanne Collins
+10. Divergent by Veronica Roth
+11. The Maze Runner by James Dashner
+12. Percy Jackson and the Olympians by Rick Riordan
+13. The Heroes of Olympus by Rick Riordan
+14. The Kane Chronicles by Rick Riordan
+15. The Lord of the Rings by J.R.R. Tolkien
+16. The Hobbit by J.R.R. Tolkien
+17. The Chronicles of Narnia by C.S. Lewis
+18. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+19. Ender's Game by Orson Scott Card
+20. The Giver by Lois Lowry
+21. The Fault in Our Stars by John Green
+22. Looking for Alaska by John Green
+23. Paper Towns by John Green
+24. An Abundance of Katherines by John Green
+25. The Perks of Being a Wallflower by Stephen Chbosky
+26. The Catcher in the Rye by J.D. Salinger
+27. To Kill a Mockingbird by Harper Lee
+28. 1984 by George Orwell
+29. Animal Farm by George Orwell
+30. Brave New World by Aldous Huxley
+31. Fahrenheit 451 by Ray Bradbury
+32. The Martian by Andy Weir
+33. Ready Player One by Ernest Cline
+34. The Hunger Games: Catching Fire by Suzanne Collins
+35. The Hunger Games: Mockingjay by Suzanne Collins
+36. The Girl with the Dragon Tattoo by Stieg Larsson
+37. The Da Vinci Code by Dan Brown
+38. Angels and Demons by Dan Brown
+39. The Bourne Identity by Robert Ludlum
+40. The Bourne Supremacy by Robert Ludlum
+41. The Bourne Ultimatum by Robert Ludlum
+42. The Girl on the Train by Paula Hawkins
+43. Gone Girl by Gillian Flynn
+44. The Silence of the Lambs by Thomas Harris
+45. Red Dragon by Thomas Harris
+46. Hannibal by Thomas Harris
+47. The Shining by Stephen King
+48. It by Stephen King
+49. The Stand by Stephen King
+50. Carrie by Stephen King

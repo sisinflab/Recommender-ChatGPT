@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. His Dark Materials
+2. Harry Potter
+3. The Lord of the Rings
+4. The Hunger Games
+5. Eragon
+6. The Count of Monte Cristo
+7. The Giver
+8. The Sandman (book)
+9. The Amazing Adventures of Kavalier & Clay
+10. Nineteen Eighty-Four
+11. Crime and Punishment
+12. War and Peace
+13. The Catcher in the Rye
+14. Trainspotting (novel)
+15. Inferno (Dante)
+16. The Waste Land
+17. The Plague
+18. A Clockwork Orange
+19. Steppenwolf (novel)
+20. Mere Christianity
+21. The Last Unicorn
+22. A Series of Unfortunate Events
+23. Night (book)
+24. Dragon Rider (novel)
+25. The Zombie Survival Guide
+26. The Twelve (novel)
+27. Kingdom of Fear (book)
+28. Cry, the Beloved Country
+29. The Little White Horse
+30. On the Road
+31. Kidnapped (novel)
+32. The Brethren (novel)
+33. Gray's Anatomy
+34. The Civil War: A Narrative
+35. One Day in the Life of Ivan Denisovich
+36. The Watchmen (novel)
+37. Sin City
+38. The Wish (novel)
+39. Berserk (novel)
+40. Fablehaven
+41. Tarzan of the Apes
+42. An Inconvenient Book
+43. Days of Magic, Nights of War
+44. Notes from Hell
+45. The Fire Eternal
+46. Angels & Demons
+47. Inkdeath by ['Cornelia Funke']
+48. The Crow (novel) by ['Alison Croggon']
+49. The Riddle (novel) by ['Alison Croggon']
+50. Firesong by ['William Nicholson (writer)']

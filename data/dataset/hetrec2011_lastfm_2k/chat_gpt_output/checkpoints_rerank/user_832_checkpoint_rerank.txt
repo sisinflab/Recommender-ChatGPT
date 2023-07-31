@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Dream Theater
+2. Opeth
+3. Kamelot
+4. Iced Earth
+5. Queensrÿche
+6. Nevermore
+7. Helloween
+8. Epica
+9. Within Temptation
+10. Riverside
+11. Black Sabbath
+12. Iron Maiden
+13. Deep Purple
+14. Whitesnake
+15. Def Leppard
+16. Blue Öyster Cult
+17. Nightwish
+18. Paradise Lost
+19. ABBA
+20. Pet Shop Boys
+21. Depeche Mode
+22. Duran Duran
+23. Kate Bush
+24. Manic Street Preachers
+25. Portishead
+26. Ayreon
+27. Madonna
+28. Pink Floyd
+29. The Beatles
+30. Led Zeppelin
+31. Michael Jackson
+32. Nirvana
+33. Metallica
+34. Pearl Jam
+35. a-ha
+36. Björk
+37. System of a Down
+38. Nine Inch Nails
+39. Linkin Park
+40. Green Day
+41. The Cure
+42. Coldplay
+43. Muse
+44. Radiohead
+45. Arctic Monkeys
+46. Placebo
+47. The Killers
+48. U2
+49. Ke$ha
+50. Lady Gaga

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Nirvana
+2. My Chemical Romance
+3. The Mars Volta
+4. AFI
+5. Killswitch Engage
+6. Trivium
+7. Korn
+8. Metallica
+9. Judas Priest
+10. AC/DC
+11. Foo Fighters
+12. Red Hot Chili Peppers
+13. Pearl Jam
+14. The Clash
+15. Blink-182
+16. Radiohead
+17. Brand New
+18. Regina Spektor
+19. The Beatles
+20. Frank Zappa
+21. Björk
+22. Boards of Canada
+23. MGMT
+24. The New Pornographers
+25. Arcade Fire
+26. Kings of Leon
+27. Dirty Pretty Things
+28. Captain Beefheart & His Magic Band
+29. Elvis Costello
+30. Bob Dylan
+31. Nick Drake
+32. Rufus Wainwright
+33. Ben Folds
+34. Pulp
+35. The Magnetic Fields
+36. of Montreal
+37. Spoon
+38. Bonobo
+39. Mallu Magalhães
+40. Pitty
+41. Los Hermanos
+42. Eminem
+43. Robbie Williams
+44. Billy Joel
+45. Maroon 5
+46. Amy Winehouse
+47. Haste the Day
+48. Oingo Boingo
+49. Blue October
+50. The Dresden Dolls

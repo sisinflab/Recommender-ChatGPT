@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for this user are:
+
+1. Madonna
+2. ABBA
+3. Icehouse
+4. Culture Club
+5. Kelly Rowland
+6. Alanis Morissette
+7. Hall & Oates
+8. The Pussycat Dolls
+9. Thompson Twins
+10. Beyoncé
+11. Maroon 5
+12. Jeff Buckley
+13. Elton John
+14. Tears for Fears
+15. Skid Row
+16. Toto
+17. Spandau Ballet
+18. Britney Spears
+19. Wham!
+20. Arcadia
+21. Donna Summer
+22. ABC
+23. INXS
+24. Nelly Furtado
+25. Red Hot Chili Peppers
+26. U2
+27. Lady Gaga
+28. P!nk
+29. Christina Aguilera
+30. Rihanna
+31. Katy Perry
+32. Bruno Mars
+33. Gwen Stefani
+34. Alicia Keys
+35. Jennifer Lopez
+36. Mika
+37. Cher
+38. Taylor Swift
+39. Ke$ha
+40. Marisa Monte
+41. Coldplay
+42. She & Him
+43. Kylie Minogue
+44. Shakira
+45. Robbie Williams
+46. Cyndi Lauper
+47. Lily Allen
+48. Green Day
+49. Backstreet Boys
+50. Amy Winehouse

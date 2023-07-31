@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. Aphex Twin
+3. Sigur Rós
+4. Mogwai
+5. Hammock
+6. Telefon Tel Aviv
+7. Plaid
+8. Bola
+9. Kettel
+10. Autechre
+11. Squarepusher
+12. Coil
+13. Nine Inch Nails
+14. The Cure
+15. Porcupine Tree
+16. Beck
+17. The Beatles
+18. Apparat
+19. Four Tet
+20. Tycho
+21. Boards of Canada
+22. The Future Sound of London
+23. AFX
+24. Venetian Snares
+25. Stars of the Lid
+26. Philip Glass
+27. The Magnetic Fields
+28. Björk
+29. Portishead
+30. Elliott Smith
+31. Jeff Buckley
+32. David Bowie
+33. Pixies
+34. Trentemøller
+35. Kraftwerk
+36. Depeche Mode
+37. Amon Tobin
+38. The Flashbulb
+39. Flying Lotus
+40. Spiritualized
+41. múm
+42. Thom Yorke
+43. Interpol
+44. Fiona Apple
+45. Bonobo
+46. The Cinematic Orchestra
+47. Manu Chao
+48. Alanis Morissette
+49. Dixie Chicks
+50. Stone Sour

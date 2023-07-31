@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Arctic Monkeys
+2. The Libertines
+3. Franz Ferdinand
+4. The Smiths
+5. Joy Division
+6. New Order
+7. Madvillain
+8. Gang Starr
+9. MF DOOM
+10. Belle and Sebastian
+11. The Horrors
+12. The Rakes
+13. Cut Copy
+14. The Fratellis
+15. Beastie Boys
+16. The Bloody Beetroots
+17. The Jam
+18. Dirty Pretty Things
+19. Kaiser Chiefs
+20. Empire of the Sun
+21. Radiohead
+22. Nirvana
+23. Pearl Jam
+24. Led Zeppelin
+25. Iron Maiden
+26. Metallica
+27. Pink Floyd
+28. Muse
+29. U2
+30. Duran Duran
+31. Coldplay
+32. Blur
+33. Placebo
+34. The Killers
+35. Michael Jackson
+36. Madonna
+37. Beyoncé
+38. Lady Gaga
+39. Christina Aguilera
+40. Rihanna
+41. Shakira
+42. Katy Perry
+43. Taylor Swift
+44. Avril Lavigne
+45. Evanescence
+46. Glee Cast
+47. Ke$ha
+48. Daft Punk
+49. Nine Inch Nails
+50. Björk

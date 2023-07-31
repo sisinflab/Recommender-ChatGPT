@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Placebo
+2. Lady Gaga
+3. Michael Bublé
+4. Madonna
+5. Phoenix
+6. The Killers
+7. 30 Seconds to Mars
+8. George Harrison
+9. Interpol
+10. La Roux
+11. The Beatles
+12. Paramore
+13. Kings of Leon
+14. blink-182
+15. The Fray
+16. Evanescence
+17. Rita Lee
+18. Daft Punk
+19. The Offspring
+20. Los Hermanos
+21. The Script
+22. Florence + the Machine
+23. Panic! At the Disco
+24. Muse
+25. Vampire Weekend
+26. Glee Cast
+27. Beyoncé
+28. Kaiser Chiefs
+29. Jonathan Larson
+30. Mika
+31. MGMT
+32. Keane
+33. Pink Floyd
+34. Radiohead
+35. Coldplay
+36. Nirvana
+37. Led Zeppelin
+38. Metallica
+39. Michael Jackson
+40. Pearl Jam
+41. a-ha
+42. Björk
+43. Daft Punk
+44. Nine Inch Nails
+45. Linkin Park
+46. Kelly Clarkson
+47. All Time Low
+48. P!nk
+49. My Chemical Romance
+50. Green Day

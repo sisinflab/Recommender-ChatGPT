@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for user 1655 would be:
+
+1. Opeth
+2. AC/DC
+3. Anathema
+4. Jamiroquai
+5. Sigur Rós
+6. Led Zeppelin
+7. Pink Floyd
+8. Whitesnake
+9. Mr. Big
+10. The Mars Volta
+11. Alice in Chains
+12. Antimatter
+13. Portishead
+14. Damien Rice
+15. Lynyrd Skynyrd
+16. Agalloch
+17. Blackfield
+18. Poets of the Fall
+19. Blind Guardian
+20. Symphony X
+21. Muse
+22. Radiohead
+23. Nirvana
+24. Pearl Jam
+25. Iron Maiden
+26. Metallica
+27. System of a Down
+28. Nine Inch Nails
+29. Linkin Park
+30. Avenged Sevenfold
+31. My Chemical Romance
+32. Green Day
+33. The Cure
+34. The Beatles
+35. U2
+36. 30 Seconds to Mars
+37. Kylie Minogue
+38. Michael Jackson
+39. Björk
+40. Daft Punk
+41. Coldplay
+42. Blur
+43. Arctic Monkeys
+44. Placebo
+45. The Killers
+46. Amy Winehouse
+47. a-ha
+48. Kelly Clarkson
+49. P!nk
+50. Black Eyed Peas

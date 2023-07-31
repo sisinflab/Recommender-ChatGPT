@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Nineteen Eighty-Four by George Orwell
+2. The Great Gatsby by F. Scott Fitzgerald
+3. A Clockwork Orange by Anthony Burgess
+4. Brave New World by Aldous Huxley
+5. The Book Thief by Markus Zusak
+6. Fahrenheit 451 by Ray Bradbury
+7. The Trial by Franz Kafka
+8. Don Quixote by Miguel de Cervantes
+9. The Fountainhead by Ayn Rand
+10. The Bell Jar by Sylvia Plath
+11. Madame Bovary by Gustave Flaubert
+12. Wuthering Heights by Emily Bronte
+13. The Once and Future King by T.H. White
+14. Romeo and Juliet by William Shakespeare
+15. A Tale of Two Cities by Charles Dickens
+16. The Thirteenth Tale by Diane Setterfield
+17. The History of Love by Nicole Krauss
+18. 1Q84 by Haruki Murakami
+19. Harry Potter by J.K. Rowling
+20. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+21. The Ear, the Eye and the Arm by Nancy Farmer
+22. Macbeth by William Shakespeare
+23. Frankenstein by Mary Shelley
+24. For Whom the Bell Tolls by Ernest Hemingway
+25. Freakonomics by Steven D. Levitt and Stephen J. Dubner
+26. The Prophet by Kahlil Gibran
+27. The Rats by James Herbert
+28. Old Farmer's Almanac by Robert B. Thomas
+29. Pippi Longstocking by Astrid Lindgren
+30. The Kane Chronicles by Rick Riordan
+31. The Awakening by Kate Chopin
+32. Hunger by Knut Hamsun
+33. The Unbearable Lightness of Being by Milan Kundera
+34. A Scanner Darkly by Philip K. Dick
+35. The Teachings of Don Juan by Carlos Castaneda
+36. Tropic of Cancer by Henry Miller
+37. Venus in Furs by Leopold von Sacher-Masoch
+38. Rosemary's Baby by Ira Levin
+39. Post Office by Charles Bukowski
+40. One Hundred Years of Solitude by Gabriel Garcia Marquez
+41. The Giver by Lois Lowry
+42. Rose Daughter by Robin McKinley
+43. Rhinoceros by Eugene Ionesco
+44. Marvel Books by Stan Lee
+45. Unlimited Power by Tony Robbins
+46. The Book of Lost Things by John Connolly
+47. Howl by Allen Ginsberg
+48. Stargirl by Jerry Spinelli
+49. Water for Elephants by Sara Gruen
+50. Through the Eye of the Needle by Ken Follett

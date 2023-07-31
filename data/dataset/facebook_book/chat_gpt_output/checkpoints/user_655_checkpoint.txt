@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. To Kill a Mockingbird by Harper Lee
+3. 1984 by George Orwell
+4. The Catcher in the Rye by J.D. Salinger
+5. Animal Farm by George Orwell
+6. The Giver by Lois Lowry
+7. The Fault in Our Stars by John Green
+8. The Book Thief by Markus Zusak
+9. The Hobbit by J.R.R. Tolkien
+10. The Chronicles of Narnia by C.S. Lewis
+11. The Da Vinci Code by Dan Brown
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Maze Runner by James Dashner
+14. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+15. The Alchemist by Paulo Coelho
+16. The Picture of Dorian Gray by Oscar Wilde
+17. The Great Gatsby by F. Scott Fitzgerald
+18. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+19. The War of the Worlds by H.G. Wells
+20. The Time Machine by H.G. Wells
+21. The Invisible Man by H.G. Wells
+22. The Island of Dr. Moreau by H.G. Wells
+23. The Call of the Wild by Jack London
+24. White Fang by Jack London
+25. The Old Man and the Sea by Ernest Hemingway
+26. The Sun Also Rises by Ernest Hemingway
+27. A Farewell to Arms by Ernest Hemingway
+28. The Sound and the Fury by William Faulkner
+29. As I Lay Dying by William Faulkner
+30. The Grapes of Wrath by John Steinbeck
+31. Of Mice and Men by John Steinbeck
+32. East of Eden by John Steinbeck
+33. One Hundred Years of Solitude by Gabriel Garcia Marquez
+34. Love in the Time of Cholera by Gabriel Garcia Marquez
+35. The Name of the Rose by Umberto Eco
+36. The Picture of Dorian Gray by Oscar Wilde
+37. The Importance of Being Earnest by Oscar Wilde
+38. The Count of Monte Cristo by Alexandre Dumas
+39. Les Miserables by Victor Hugo
+40. The Three Musketeers by Alexandre Dumas
+41. The Adventures of Tom Sawyer by Mark Twain
+42. The Adventures of Huckleberry Finn by Mark Twain
+43. The Prince by Niccolo Machiavelli
+44. The Republic by Plato
+45. The Divine Comedy by Dante Alighieri
+46. The Canterbury Tales by Geoffrey Chaucer
+47. Beowulf by Unknown
+48. The Iliad by Homer
+49. The Odyssey by Homer
+50. The Aeneid by Virgil

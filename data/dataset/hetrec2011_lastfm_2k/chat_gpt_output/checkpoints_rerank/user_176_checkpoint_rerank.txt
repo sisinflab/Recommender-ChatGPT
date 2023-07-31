@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Interpol
+2. Depeche Mode
+3. Nine Inch Nails
+4. The Shins
+5. The Horrors
+6. Kings of Leon
+7. 311
+8. Soft Cell
+9. M83
+10. The Smiths
+11. Fiona Apple
+12. Franz Ferdinand
+13. Shiny Toy Guns
+14. IAMX
+15. The Faint
+16. White Lies
+17. She Wants Revenge
+18. Boards of Canada
+19. New Kids on the Block
+20. Radiohead
+21. Bombay Bicycle Club
+22. Bush
+23. Gary Numan
+24. Third Eye Blind
+25. Kasabian
+26. Animal Collective
+27. Talking Heads
+28. Joy Division
+29. Echo & The Bunnymen
+30. The Strokes
+31. Sublime
+32. The B-52's
+33. The Beach Boys
+34. Best Coast
+35. Devo
+36. Nirvana
+37. Iron Maiden
+38. Led Zeppelin
+39. Metallica
+40. Pearl Jam
+41. a-ha
+42. Björk
+43. System of a Down
+44. Daft Punk
+45. Linkin Park
+46. The Killers
+47. Placebo
+48. Arctic Monkeys
+49. Duran Duran
+50. Coldplay

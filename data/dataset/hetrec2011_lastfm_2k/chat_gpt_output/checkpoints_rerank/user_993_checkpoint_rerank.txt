@@ -1,0 +1,54 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Interpol
+2. Foals
+3. Death Cab for Cutie
+4. Joy Division
+5. Isis
+6. Kid Cudi
+7. Taking Back Sunday
+8. Alexisonfire
+9. Slayer
+10. Toro y Moi
+11. Muse
+12. Radiohead
+13. Nirvana
+14. The Killers
+15. Metallica
+16. Pink Floyd
+17. Led Zeppelin
+18. Iron Maiden
+19. Pearl Jam
+20. U2
+21. Nine Inch Nails
+22. System of a Down
+23. Daft Punk
+24. Arctic Monkeys
+25. Placebo
+26. Green Day
+27. My Chemical Romance
+28. Avenged Sevenfold
+29. Blur
+30. Coldplay
+31. The Cure
+32. Evanescence
+33. Beyoncé
+34. Lady Gaga
+35. Rihanna
+36. Madonna
+37. Christina Aguilera
+38. Katy Perry
+39. Taylor Swift
+40. Ke$ha
+41. Black Eyed Peas
+42. P!nk
+43. Kelly Clarkson
+44. Paramore
+45. Avril Lavigne
+46. Miley Cyrus
+47. Glee Cast
+48. Shakira
+49. Kylie Minogue
+50. Duran Duran
+
+Note: The artists have been ranked based on their similarity to the user's preferences, with the top recommendations being the most similar. The artists that are not similar to the user's preferences have been ranked lower in the list.

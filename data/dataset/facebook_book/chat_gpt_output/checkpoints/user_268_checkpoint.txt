@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+2. The Lord of the Rings by J.R.R. Tolkien
+3. Harry Potter and the Philosopher's Stone by J.K. Rowling
+4. Ender's Game by Orson Scott Card
+5. Dune by Frank Herbert
+6. The Hunger Games by Suzanne Collins
+7. 1984 by George Orwell
+8. Brave New World by Aldous Huxley
+9. The Chronicles of Narnia by C.S. Lewis
+10. The Name of the Wind by Patrick Rothfuss
+11. The Martian by Andy Weir
+12. The Da Vinci Code by Dan Brown
+13. The Girl with the Dragon Tattoo by Stieg Larsson
+14. The Catcher in the Rye by J.D. Salinger
+15. The Great Gatsby by F. Scott Fitzgerald
+16. To Kill a Mockingbird by Harper Lee
+17. The Hobbit by J.R.R. Tolkien
+18. The Fellowship of the Ring by J.R.R. Tolkien
+19. The Two Towers by J.R.R. Tolkien
+20. The Return of the King by J.R.R. Tolkien
+21. The Shining by Stephen King
+22. The Stand by Stephen King
+23. The Gunslinger by Stephen King
+24. The Drawing of the Three by Stephen King
+25. The Waste Lands by Stephen King
+26. Wizard and Glass by Stephen King
+27. Wolves of the Calla by Stephen King
+28. Song of Susannah by Stephen King
+29. The Dark Tower by Stephen King
+30. The Girl on the Train by Paula Hawkins
+31. The Help by Kathryn Stockett
+32. The Fault in Our Stars by John Green
+33. The Maze Runner by James Dashner
+34. The Bourne Identity by Robert Ludlum
+35. The Bourne Supremacy by Robert Ludlum
+36. The Bourne Ultimatum by Robert Ludlum
+37. The Silence of the Lambs by Thomas Harris
+38. Red Dragon by Thomas Harris
+39. Hannibal by Thomas Harris
+40. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+41. The Girl Who Played with Fire by Stieg Larsson
+42. The Girl in the Spider's Web by David Lagercrantz
+43. The Dark Tower: The Gunslinger Born by Stephen King
+44. The Dark Tower: The Long Road Home by Stephen King
+45. The Dark Tower: Treachery by Stephen King
+46. The Dark Tower: The Fall of Gilead by Stephen King
+47. The Dark Tower: Battle of Jericho Hill by Stephen King
+48. The Dark Tower: The Wind Through the Keyhole by Stephen King
+49. The Dark Tower: The

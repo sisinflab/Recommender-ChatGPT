@@ -1,0 +1,54 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Black Sabbath
+2. Iron Maiden
+3. AC/DC
+4. KISS
+5. Ramones
+6. Frank Zappa
+7. The Residents
+8. Captain Beefheart & His Magic Band
+9. The Cramps
+10. Sonic Youth
+11. Modest Mouse
+12. Primus
+13. Joe Satriani
+14. The B-52's
+15. Nirvana
+16. Metallica
+17. Led Zeppelin
+18. Pearl Jam
+19. The Beatles
+20. Muse
+21. Pink Floyd
+22. Radiohead
+23. Nine Inch Nails
+24. System of a Down
+25. Daft Punk
+26. Linkin Park
+27. Arctic Monkeys
+28. Placebo
+29. The Killers
+30. Green Day
+31. My Chemical Romance
+32. Blur
+33. Coldplay
+34. U2
+35. 30 Seconds to Mars
+36. Avenged Sevenfold
+37. Michael Jackson
+38. Beyoncé
+39. Lady Gaga
+40. Madonna
+41. Rihanna
+42. Christina Aguilera
+43. Katy Perry
+44. Taylor Swift
+45. Ke$ha
+46. Paramore
+47. Evanescence
+48. P!nk
+49. Kelly Clarkson
+50. Shakira
+
+Note: The order of the recommendations is based on the user's preferences and may vary depending on the specific algorithm used by the Recommender System.

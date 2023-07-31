@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Opeth
+2. Iron Maiden
+3. Agalloch
+4. Mastodon
+5. Rush
+6. Devin Townsend
+7. Dark Tranquillity
+8. Death
+9. Ensiferum
+10. Korpiklaani
+11. Municipal Waste
+12. Jethro Tull
+13. Frank Zappa
+14. King Diamond
+15. Stevie Ray Vaughan
+16. Bad Religion
+17. Cynic
+18. The Adicts
+19. Napalm Death
+20. Black Flag
+21. Marillion
+22. David Gilmour
+23. The Doors
+24. Pink Floyd
+25. Muse
+26. Radiohead
+27. Nirvana
+28. Led Zeppelin
+29. Metallica
+30. Pearl Jam
+31. System of a Down
+32. Nine Inch Nails
+33. Linkin Park
+34. Avenged Sevenfold
+35. Arctic Monkeys
+36. Placebo
+37. The Killers
+38. Green Day
+39. My Chemical Romance
+40. Blur
+41. Coldplay
+42. U2
+43. Michael Jackson
+44. Björk
+45. Daft Punk
+46. Kelly Clarkson
+47. P!nk
+48. All Time Low
+49. Black Eyed Peas
+50. Glee Cast

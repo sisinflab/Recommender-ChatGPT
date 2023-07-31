@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Alchemist by Paulo Coelho
+7. The Kite Runner by Khaled Hosseini
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Bell Jar by Sylvia Plath
+10. The Road by Cormac McCarthy
+11. The Handmaid's Tale by Margaret Atwood
+12. The Color Purple by Alice Walker
+13. The God of Small Things by Arundhati Roy
+14. The Joy Luck Club by Amy Tan
+15. The Poisonwood Bible by Barbara Kingsolver
+16. The Help by Kathryn Stockett
+17. The Girl with the Dragon Tattoo by Stieg Larsson
+18. The Hunger Games by Suzanne Collins
+19. The Da Vinci Code by Dan Brown
+20. The Hobbit by J.R.R. Tolkien
+21. The Lord of the Rings by J.R.R. Tolkien
+22. The Chronicles of Narnia by C.S. Lewis
+23. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+24. The Name of the Wind by Patrick Rothfuss
+25. The Shadow of the Wind by Carlos Ruiz Zafón
+26. The Time Traveler's Wife by Audrey Niffenegger
+27. The Book Thief by Markus Zusak
+28. The Fault in Our Stars by John Green
+29. The Perks of Being a Wallflower by Stephen Chbosky
+30. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+31. The Giver by Lois Lowry
+32. The Outsiders by S.E. Hinton
+33. The Sun Also Rises by Ernest Hemingway
+34. The Old Man and the Sea by Ernest Hemingway
+35. The Picture of Dorian Gray by Oscar Wilde
+36. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+37. The Count of Monte Cristo by Alexandre Dumas
+38. The Three Musketeers by Alexandre Dumas
+39. The War of the Worlds by H.G. Wells
+40. The Invisible Man by H.G. Wells
+41. The Island of Dr. Moreau by H.G. Wells
+42. The Time Machine by H.G. Wells
+43. The Martian Chronicles by Ray Bradbury
+44. Fahrenheit 451 by Ray Bradbury
+45. The Stand by Stephen King
+46. The Shining by Stephen King
+47. It by Stephen King
+48. The Silence of the Lambs by Thomas Harris
+49. The Bourne Identity by Robert Ludlum
+50. The Prisoner of Heaven by Carlos Ruiz Zafón

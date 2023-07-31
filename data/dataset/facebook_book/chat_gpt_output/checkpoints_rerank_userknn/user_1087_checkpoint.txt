@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. Wuthering Heights by Emily Bronte
+3. Emma by Jane Austen
+4. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+5. The Alchemist by Paulo Coelho
+6. The Da Vinci Code by Dan Brown
+7. Romeo and Juliet by William Shakespeare
+8. To Kill a Mockingbird by Harper Lee
+9. The Scarlet Letter by Nathaniel Hawthorne
+10. Frankenstein by Mary Shelley
+11. Lord of the Flies by William Golding
+12. Catch-22 by Joseph Heller
+13. Bleak House by Charles Dickens
+14. Macbeth by William Shakespeare
+15. Fahrenheit 451 by Ray Bradbury
+16. Robinson Crusoe by Daniel Defoe
+17. The Tempest by William Shakespeare
+18. The White Tiger by Aravind Adiga
+19. The Lost Symbol by Dan Brown
+20. Cat's Cradle by Kurt Vonnegut
+21. Alas, Babylon by Pat Frank
+22. Paradise Lost by John Milton
+23. The Class by Erich Segal
+24. The Silmarillion by J.R.R. Tolkien
+25. The Last Battle by C.S. Lewis
+26. Nights in Rodanthe by Nicholas Sparks
+27. Journey to the Center of the Earth by Jules Verne
+28. Digital Fortress by Dan Brown
+29. Wishful Drinking by Carrie Fisher
+30. The Prisoner of Zenda by Anthony Hope
+31. Labyrinth by Kate Mosse
+32. The Argumentative Indian by Amartya Sen
+33. One Night @ the Call Center by Chetan Bhagat
+34. The 3 Mistakes of My Life by Chetan Bhagat
+35. Rich Dad Poor Dad by Robert Kiyosaki
+36. The Notebook by Nicholas Sparks
+37. Shopaholic by Sophie Kinsella
+38. Kane and Abel by Jeffrey Archer
+39. Jane Eyre by Charlotte Bronte
+40. Sense and Sensibility by Jane Austen
+41. Vanity Fair by William Makepeace Thackeray
+42. Inferno by Dante
+43. 2 States: The Story of My Marriage by Chetan Bhagat
+44. Five Point Someone by Chetan Bhagat
+45. The Chronicles of Narnia by C.S. Lewis
+46. Marley & Me by John Grogan
+47. Goosebumps by R.L. Stine
+48. Naruto by Masashi Kishimoto
+49. Carmilla by J. Sheridan Le Fanu
+50. Hood by Stephen R. Lawhead

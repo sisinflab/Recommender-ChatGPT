@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Cat Who Played Brahms by Lilian Jackson Braun
+2. The Thief Lord by Cornelia Funke
+3. The Lord of the Rings by J.R.R. Tolkien
+4. The Lightning Thief by Rick Riordan
+5. Inferno by Dante Alighieri
+6. The Chronicles of Narnia by C.S. Lewis
+7. The Hound of the Baskervilles by Arthur Conan Doyle
+8. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+9. The Hobbit by J.R.R. Tolkien
+10. The Da Vinci Code by Dan Brown
+11. The Catcher in the Rye by J.D. Salinger
+12. The Great Gatsby by F. Scott Fitzgerald
+13. To Kill a Mockingbird by Harper Lee
+14. The Diary of a Young Girl by Anne Frank
+15. The Hunger Games by Suzanne Collins
+16. The Maze Runner by James Dashner
+17. The Giver by Lois Lowry
+18. The Fault in Our Stars by John Green
+19. The Book Thief by Markus Zusak
+20. The Girl with the Dragon Tattoo by Stieg Larsson
+21. The Girl on the Train by Paula Hawkins
+22. The Help by Kathryn Stockett
+23. The Kite Runner by Khaled Hosseini
+24. The Alchemist by Paulo Coelho
+25. The Picture of Dorian Gray by Oscar Wilde
+26. The Adventures of Tom Sawyer by Mark Twain
+27. The Adventures of Huckleberry Finn by Mark Twain
+28. The War of the Worlds by H.G. Wells
+29. The Time Machine by H.G. Wells
+30. The Invisible Man by H.G. Wells
+31. The Island of Dr. Moreau by H.G. Wells
+32. The Call of the Wild by Jack London
+33. White Fang by Jack London
+34. The Old Man and the Sea by Ernest Hemingway
+35. For Whom the Bell Tolls by Ernest Hemingway
+36. The Sun Also Rises by Ernest Hemingway
+37. The Catcher in the Rye by J.D. Salinger
+38. The Grapes of Wrath by John Steinbeck
+39. Of Mice and Men by John Steinbeck
+40. East of Eden by John Steinbeck
+41. The Sound and the Fury by William Faulkner
+42. As I Lay Dying by William Faulkner
+43. Light in August by William Faulkner
+44. The Maltese Falcon by Dashiell Hammett
+45. The Big Sleep by Raymond Chandler
+46. The Long Goodbye by Raymond Chandler
+47. The Postman Always Rings Twice by James M. Cain
+48. Double Indemnity by James M. Cain
+49. The Thin

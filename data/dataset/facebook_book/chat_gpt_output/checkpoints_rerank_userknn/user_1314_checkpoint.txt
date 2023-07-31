@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Alice's Adventures in Wonderland by Lewis Carroll
+2. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+3. The Lord of the Rings by J.R.R. Tolkien
+4. Memoirs of a Geisha by Arthur Golden
+5. Wuthering Heights by Emily Bronte
+6. Crime and Punishment by Fyodor Dostoevsky
+7. Great Expectations by Charles Dickens
+8. Oliver Twist by Charles Dickens
+9. David Copperfield by Charles Dickens
+10. The Da Vinci Code by Dan Brown
+11. Angels & Demons by Dan Brown
+12. Sense and Sensibility by Jane Austen
+13. Northanger Abbey by Jane Austen
+14. Sense and Sensibility and Sea Monsters by Jane Austen and Ben H. Winters
+15. The Last Song by Nicholas Sparks
+16. One Hundred Years of Solitude by Gabriel Garcia Marquez
+17. Lolita by Vladimir Nabokov
+18. Of Mice and Men by John Steinbeck
+19. Freakonomics by Steven D. Levitt and Stephen J. Dubner
+20. The Watchmen by Alan Moore and Dave Gibbons
+21. The Mist by Stephen King
+22. Pet Sematary by Stephen King
+23. Cujo by Stephen King
+24. Firestarter by Stephen King
+25. Carrie by Stephen King
+26. The Child Thief by Brom
+27. Holes by Louis Sachar
+28. The Legend of Sleepy Hollow by Washington Irving
+29. Twisted by Laurie Halse Anderson
+30. The Perks of Being a Wallflower by Stephen Chbosky
+31. Walk Two Moons by Sharon Creech
+32. Slaughterhouse-Five by Kurt Vonnegut
+33. The Pirate by Walter Scott
+34. King Solomon's Mines by H. Rider Haggard
+35. Silverwing by Kenneth Oppel
+36. Treasure Island by Robert Louis Stevenson
+37. Robinson Crusoe by Daniel Defoe
+38. Black Beauty by Anna Sewell
+39. Weetzie Bat by Francesca Lia Block
+40. Macbeth by William Shakespeare
+41. Ramayana by Valmiki
+42. Cosmos by Carl Sagan
+43. The House by Danielle Steel
+44. The Child in Time by Ian McEwan
+45. The Road by Cormac McCarthy
+46. The Catcher in the Rye by J.D. Salinger
+47. The Great Gatsby by F. Scott Fitzgerald
+48. To Kill a Mockingbird by Harper Lee
+49. The Adventures of Tom Sawyer by Mark Twain
+50. The Adventures of Huckleberry Finn by Mark Twain

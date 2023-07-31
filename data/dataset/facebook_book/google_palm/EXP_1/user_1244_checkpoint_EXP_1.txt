@@ -1,0 +1,50 @@
+1. The Lord of the Rings (novel) by ['J. R. R. Tolkien']
+2. The Hitchhiker's Guide to the Galaxy by ['Douglas Adams']
+3. The Catcher in the Rye by ['J. D. Salinger']
+4. To Kill a Mockingbird by ['Harper Lee']
+5. The Great Gatsby by ['F. Scott Fitzgerald']
+6. One Hundred Years of Solitude by ['Gabriel García Márquez']
+7. The Color Purple by ['Alice Walker']
+8. The Joy Luck Club by ['Amy Tan']
+9. Beloved by ['Toni Morrison']
+10. The Kite Runner by ['Khaled Hosseini']
+11. The Book Thief by ['Markus Zusak']
+12. The Fault in Our Stars by ['John Green']
+13. The Hunger Games by ['Suzanne Collins']
+14. Divergent by ['Veronica Roth']
+15. The Maze Runner by ['James Dashner']
+16. Harry Potter and the Sorcerer's Stone by ['J. K. Rowling']
+17. Harry Potter and the Chamber of Secrets by ['J. K. Rowling']
+18. Harry Potter and the Prisoner of Azkaban by ['J. K. Rowling']
+19. Harry Potter and the Goblet of Fire by ['J. K. Rowling']
+20. Harry Potter and the Order of the Phoenix by ['J. K. Rowling']
+21. Harry Potter and the Half-Blood Prince by ['J. K. Rowling']
+22. Harry Potter and the Deathly Hallows by ['J. K. Rowling']
+23. The Chronicles of Narnia by ['C. S. Lewis']
+24. The Lion, the Witch and the Wardrobe by ['C. S. Lewis']
+25. Prince Caspian by ['C. S. Lewis']
+26. The Voyage of the Dawn Treader by ['C. S. Lewis']
+27. The Silver Chair by ['C. S. Lewis']
+28. The Horse and His Boy by ['C. S. Lewis']
+29. The Magician's Nephew by ['C. S. Lewis']
+30. The Last Battle by ['C. S. Lewis']
+31. The Chronicles of Prydain by ['Lloyd Alexander']
+32. The Book of Three by ['Lloyd Alexander']
+33. The Black Cauldron by ['Lloyd Alexander']
+34. The Castle of Llyr by ['Lloyd Alexander']
+35. Taran Wanderer by ['Lloyd Alexander']
+36. The High King by ['Lloyd Alexander']
+37. The Giver by ['Lois Lowry']
+38. The Hunger Games by ['Suzanne Collins']
+39. Divergent by ['Veronica Roth']
+40. The Maze Runner by ['James Dashner']
+41. The Lord of the Rings (film series)
+42. The Hobbit (film series)
+43. Harry Potter (film series)
+44. The Chronicles of Narnia (film series)
+45. The Hunger Games (film series)
+46. Divergent (film series)
+47. The Maze Runner (film series)
+48. The Giver (film)
+49. The Fault in Our Stars (film)
+50. The Perks of Being a Wallflower (film)

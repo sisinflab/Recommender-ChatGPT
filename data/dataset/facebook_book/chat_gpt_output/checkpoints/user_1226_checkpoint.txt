@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Twilight by Stephenie Meyer
+2. New Moon by Stephenie Meyer
+3. Eclipse by Stephenie Meyer
+4. Breaking Dawn by Stephenie Meyer
+5. The Hunger Games by Suzanne Collins
+6. Catching Fire by Suzanne Collins
+7. Mockingjay by Suzanne Collins
+8. Divergent by Veronica Roth
+9. Insurgent by Veronica Roth
+10. Allegiant by Veronica Roth
+11. The Maze Runner by James Dashner
+12. The Scorch Trials by James Dashner
+13. The Death Cure by James Dashner
+14. The Giver by Lois Lowry
+15. Gathering Blue by Lois Lowry
+16. Messenger by Lois Lowry
+17. Son by Lois Lowry
+18. The Fault in Our Stars by John Green
+19. Looking for Alaska by John Green
+20. Paper Towns by John Green
+21. An Abundance of Katherines by John Green
+22. The Mortal Instruments series by Cassandra Clare
+23. The Infernal Devices series by Cassandra Clare
+24. The Dark Artifices series by Cassandra Clare
+25. The Bane Chronicles by Cassandra Clare
+26. The Shadowhunter's Codex by Cassandra Clare
+27. The Selection by Kiera Cass
+28. The Elite by Kiera Cass
+29. The One by Kiera Cass
+30. The Heir by Kiera Cass
+31. The Crown by Kiera Cass
+32. The Lunar Chronicles by Marissa Meyer
+33. Cinder by Marissa Meyer
+34. Scarlet by Marissa Meyer
+35. Cress by Marissa Meyer
+36. Winter by Marissa Meyer
+37. Heartless by Marissa Meyer
+38. The Vampire Diaries series by L.J. Smith
+39. The Secret Circle series by L.J. Smith
+40. The Forbidden Game series by L.J. Smith
+41. The Dark Visions series by L.J. Smith
+42. The House of Night series by P.C. Cast and Kristin Cast
+43. The Sookie Stackhouse series by Charlaine Harris
+44. The Southern Vampire Mysteries series by Charlaine Harris
+45. The Anita Blake: Vampire Hunter series by Laurell K. Hamilton
+46. The Black Dagger Brotherhood series by J.R. Ward
+47. The Fever series by Karen Marie Moning
+48. The Hollows series by Kim Harrison
+49. The Mercy Thompson series by Patricia Briggs
+50. The Alpha and Omega series by Patricia Briggs

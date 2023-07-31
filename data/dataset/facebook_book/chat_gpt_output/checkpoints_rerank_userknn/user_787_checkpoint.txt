@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. To Kill a Mockingbird by Harper Lee
+3. 1984 by George Orwell
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Lord of the Flies by William Golding
+6. Brave New World by Aldous Huxley
+7. Animal Farm by George Orwell
+8. The Bell Jar by Sylvia Plath
+9. One Hundred Years of Solitude by Gabriel Garcia Marquez
+10. The Picture of Dorian Gray by Oscar Wilde
+11. Crime and Punishment by Fyodor Dostoevsky
+12. Heart of Darkness by Joseph Conrad
+13. The Stranger by Albert Camus
+14. The Old Man and the Sea by Ernest Hemingway
+15. The Count of Monte Cristo by Alexandre Dumas
+16. The Kite Runner by Khaled Hosseini
+17. The Lord of the Rings by J.R.R. Tolkien
+18. The Hobbit by J.R.R. Tolkien
+19. The Chronicles of Narnia by C.S. Lewis
+20. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+21. The Hunger Games by Suzanne Collins
+22. Harry Potter and the Philosopher's Stone by J.K. Rowling
+23. The Help by Kathryn Stockett
+24. Memoirs of a Geisha by Arthur Golden
+25. The Lovely Bones by Alice Sebold
+26. The Giver by Lois Lowry
+27. The Mists of Avalon by Marion Zimmer Bradley
+28. The Graveyard Book by Neil Gaiman
+29. The Princess Bride by William Goldman
+30. The Call of the Wild by Jack London
+31. The Adventures of Tom Sawyer by Mark Twain
+32. The Adventures of Huckleberry Finn by Mark Twain
+33. The Secret Garden by Frances Hodgson Burnett
+34. Anne of Green Gables by L.M. Montgomery
+35. Little Women by Louisa May Alcott
+36. The Elements of Style by William Strunk Jr. and E.B. White
+37. The Last Lecture by Randy Pausch
+38. The Hours by Michael Cunningham
+39. Speak by Laurie Halse Anderson
+40. The Awakening by Kate Chopin
+41. The Client by John Grisham
+42. The Dresden Files by Jim Butcher
+43. The Forgotten Garden by Kate Morton
+44. Choke by Chuck Palahniuk
+45. Fear and Loathing in Las Vegas by Hunter S. Thompson
+46. Inferno by Dante Alighieri
+47. Strange Case of Dr Jekyll and Mr Hyde by Robert Louis Stevenson
+48. A Midsummer Night's Dream by William Shakespeare
+49. Henry V by William Shakespeare
+50. Sun Bin's Art of War by Sun

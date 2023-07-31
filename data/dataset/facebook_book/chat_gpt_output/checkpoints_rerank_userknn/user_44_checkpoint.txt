@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Catching Fire by Suzanne Collins
+3. Mockingjay by Suzanne Collins
+4. Divergent by Veronica Roth
+5. Insurgent by Veronica Roth
+6. Allegiant by Veronica Roth
+7. The Fault in Our Stars by John Green
+8. Looking for Alaska by John Green
+9. Paper Towns by John Green
+10. The Maze Runner by James Dashner
+11. The Scorch Trials by James Dashner
+12. The Death Cure by James Dashner
+13. The Giver by Lois Lowry
+14. Gathering Blue by Lois Lowry
+15. Messenger by Lois Lowry
+16. Son by Lois Lowry
+17. The Book of Lost Things by John Connolly
+18. The Night Circus by Erin Morgenstern
+19. The Name of the Wind by Patrick Rothfuss
+20. The Wise Man's Fear by Patrick Rothfuss
+21. The Kingkiller Chronicle: Day Three by Patrick Rothfuss
+22. The Girl on the Train by Paula Hawkins
+23. The Help by Kathryn Stockett
+24. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+25. The Secret Life of Bees by Sue Monk Kidd
+26. The Lovely Bones by Alice Sebold
+27. The Time Traveler's Wife by Audrey Niffenegger
+28. The Picture of Dorian Gray by Oscar Wilde
+29. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+30. The Hobbit by J.R.R. Tolkien
+31. The Lord of the Rings by J.R.R. Tolkien
+32. The Silmarillion by J.R.R. Tolkien
+33. The Chronicles of Narnia by C.S. Lewis
+34. The Lion, the Witch and the Wardrobe by C.S. Lewis
+35. The Magician's Nephew by C.S. Lewis
+36. The Horse and His Boy by C.S. Lewis
+37. The Last Battle by C.S. Lewis
+38. The Dark Tower by Stephen King
+39. The Stand by Stephen King
+40. It by Stephen King
+41. The Shining by Stephen King
+42. Carrie by Stephen King
+43. The Girl with the Dragon Tattoo by Stieg Larsson
+44. The Girl Who Played with Fire by Stieg Larsson
+45. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+46. The Da Vinci Code by Dan Brown
+47. Angels & Demons by Dan Brown
+48. Inferno by Dan Brown
+49. Digital Fortress by Dan Brown
+50. Deception Point by Dan Brown

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+2. The Martian by Andy Weir
+3. Ready Player One by Ernest Cline
+4. The Hunger Games by Suzanne Collins
+5. Dune by Frank Herbert
+6. The Lord of the Rings by J.R.R. Tolkien
+7. The Da Vinci Code by Dan Brown
+8. The Girl with the Dragon Tattoo by Stieg Larsson
+9. The Catcher in the Rye by J.D. Salinger
+10. To Kill a Mockingbird by Harper Lee
+11. The Great Gatsby by F. Scott Fitzgerald
+12. Animal Farm by George Orwell
+13. Brave New World by Aldous Huxley
+14. The Road by Cormac McCarthy
+15. The Stand by Stephen King
+16. The Shining by Stephen King
+17. The Dark Tower series by Stephen King
+18. The Name of the Wind by Patrick Rothfuss
+19. The Wise Man's Fear by Patrick Rothfuss
+20. The Fellowship of the Ring by J.R.R. Tolkien
+21. The Two Towers by J.R.R. Tolkien
+22. The Return of the King by J.R.R. Tolkien
+23. The Hobbit by J.R.R. Tolkien
+24. The Chronicles of Narnia by C.S. Lewis
+25. The Harry Potter series by J.K. Rowling
+26. The Ender's Game series by Orson Scott Card
+27. The Foundation series by Isaac Asimov
+28. 1984 by George Orwell
+29. Fahrenheit 451 by Ray Bradbury
+30. The Handmaid's Tale by Margaret Atwood
+31. The Road to Serfdom by Friedrich Hayek
+32. The Wealth of Nations by Adam Smith
+33. The Communist Manifesto by Karl Marx and Friedrich Engels
+34. The Art of War by Sun Tzu
+35. The Prince by Niccolo Machiavelli
+36. The Republic by Plato
+37. The Divine Comedy by Dante Alighieri
+38. The Canterbury Tales by Geoffrey Chaucer
+39. The Iliad by Homer
+40. The Odyssey by Homer
+41. The Aeneid by Virgil
+42. Beowulf by Unknown
+43. The Inferno by Dante Alighieri
+44. The Decameron by Giovanni Boccaccio
+45. The Canterbury Tales by Geoffrey Chaucer
+46. The Divine Comedy by Dante Alighieri
+47. The Odyssey by Homer
+48. The Iliad by Homer
+49. The Aeneid by Virgil
+50. Beowulf by Unknown

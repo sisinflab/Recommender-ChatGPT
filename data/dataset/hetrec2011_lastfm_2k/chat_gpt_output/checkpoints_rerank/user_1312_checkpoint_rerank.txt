@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Slipknot
+2. System of a Down
+3. 36 Crazyfists
+4. Atreyu
+5. Stone Sour
+6. Skillet
+7. Crossfade
+8. Rise Against
+9. Serj Tankian
+10. Drop Dead, Gorgeous
+11. Disturbed
+12. blessthefall
+13. Bullet for My Valentine
+14. Alesana
+15. Scars on Broadway
+16. Saliva
+17. Fort Minor
+18. Bring Me The Horizon
+19. Papa Roach
+20. The Rasmus
+21. My Chemical Romance
+22. Paramore
+23. Jack's Mannequin
+24. Flyleaf
+25. Jimmy Eat World
+26. Rage Against the Machine
+27. Haste the Day
+28. Muse
+29. Nirvana
+30. Iron Maiden
+31. Metallica
+32. Led Zeppelin
+33. Pearl Jam
+34. Daft Punk
+35. Nine Inch Nails
+36. Linkin Park
+37. Avenged Sevenfold
+38. Green Day
+39. The Cure
+40. Evanescence
+41. P!nk
+42. Katy Perry
+43. Taylor Swift
+44. Coldplay
+45. Arctic Monkeys
+46. Placebo
+47. The Killers
+48. Radiohead
+49. Ke$ha
+50. Black Eyed Peas

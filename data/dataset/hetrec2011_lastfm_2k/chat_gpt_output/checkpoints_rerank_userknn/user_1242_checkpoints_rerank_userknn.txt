@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Metallica
+2. Slipknot
+3. AC/DC
+4. Foo Fighters
+5. Megadeth
+6. Iron Maiden
+7. Black Label Society
+8. Disturbed
+9. Rammstein
+10. Guns N' Roses
+11. Led Zeppelin
+12. Pink Floyd
+13. Judas Priest
+14. Lamb of God
+15. System of a Down
+16. Apocalyptica
+17. Dio
+18. Radiohead
+19. Stone Sour
+20. Scars on Broadway
+21. Gorillaz
+22. Blind Guardian
+23. Combichrist
+24. The 69 Eyes
+25. Dimmu Borgir
+26. Mötley Crüe
+27. Twisted Sister
+28. Eminem
+29. Comeback Kid
+30. Ramones
+31. Aerosmith
+32. The Offspring
+33. Fall Out Boy
+34. Cobra Starship
+35. Linkin Park
+36. The Prodigy
+37. Lacuna Coil
+38. DevilDriver
+39. Sonata Arctica
+40. Red Hot Chili Peppers
+41. Deathstars
+42. Whitesnake
+43. Marilyn Manson
+44. Lacrimosa
+45. Limp Bizkit
+46. Good Charlotte
+47. Muse
+48. Cradle of Filth
+49. Static-X
+50. Rage Against the Machine

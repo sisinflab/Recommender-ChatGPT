@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Prodigy
+2. Mindless Self Indulgence
+3. Fall Out Boy
+4. Wu-Tang Clan
+5. Enter Shikari
+6. Against Me!
+7. Tim Hecker
+8. Hadouken!
+9. The Ting Tings
+10. Muse
+11. Radiohead
+12. Nine Inch Nails
+13. Pink Floyd
+14. The Beatles
+15. Metallica
+16. Nirvana
+17. Iron Maiden
+18. Led Zeppelin
+19. Pearl Jam
+20. System of a Down
+21. Daft Punk
+22. The Killers
+23. Placebo
+24. Arctic Monkeys
+25. U2
+26. Duran Duran
+27. Coldplay
+28. Blur
+29. Michael Jackson
+30. Madonna
+31. Lady Gaga
+32. Christina Aguilera
+33. Britney Spears
+34. Rihanna
+35. Shakira
+36. Beyoncé
+37. Katy Perry
+38. Taylor Swift
+39. Ke$ha
+40. Avril Lavigne
+41. Evanescence
+42. Glee Cast
+43. Kylie Minogue
+44. Miley Cyrus
+45. a-ha
+46. Björk
+47. Kelly Clarkson
+48. P!nk
+49. Avenged Sevenfold
+50. My Chemical Romance

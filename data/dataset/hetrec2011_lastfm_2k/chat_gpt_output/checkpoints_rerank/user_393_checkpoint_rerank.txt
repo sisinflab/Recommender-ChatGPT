@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Beatles
+2. Muse
+3. My Chemical Romance
+4. Queen
+5. Paul McCartney & Wings
+6. George Harrison
+7. The Rolling Stones
+8. KISS
+9. Paul McCartney
+10. The Who
+11. Van Halen
+12. Alesana
+13. Beastie Boys
+14. Blur
+15. Brand New
+16. Funeral for a Friend
+17. Weezer
+18. Alanis Morissette
+19. Arctic Monkeys
+20. 30 Seconds to Mars
+21. The Used
+22. The Kinks
+23. ABBA
+24. Blondie
+25. Twisted Sister
+26. Coldplay
+27. Ace of Base
+28. Beck
+29. The Ting Tings
+30. Nirvana
+31. Iron Maiden
+32. Led Zeppelin
+33. Metallica
+34. Michael Jackson
+35. Pearl Jam
+36. System of a Down
+37. Daft Punk
+38. Nine Inch Nails
+39. Linkin Park
+40. Avenged Sevenfold
+41. Green Day
+42. The Cure
+43. Paramore
+44. Lady Gaga
+45. Katy Perry
+46. Taylor Swift
+47. Evanescence
+48. Pink Floyd
+49. Radiohead
+50. Black Eyed Peas

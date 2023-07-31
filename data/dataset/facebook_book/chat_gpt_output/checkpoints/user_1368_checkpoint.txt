@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Stand by Stephen King
+2. Hyperion by Dan Simmons
+3. A Game of Thrones by George R. R. Martin
+4. The Talisman by Stephen King and Peter Straub
+5. The Dark Tower series by Stephen King
+6. The Dresden Files series by Jim Butcher
+7. The Wheel of Time series by Robert Jordan
+8. The Chronicles of Narnia series by C.S. Lewis
+9. The Lord of the Rings series by J.R.R. Tolkien
+10. The Hobbit by J.R.R. Tolkien
+11. The Shining by Stephen King
+12. The Outsider by Stephen King
+13. The Tommyknockers by Stephen King
+14. The Dead Zone by Stephen King
+15. The Dark Half by Stephen King
+16. The Green Mile by Stephen King
+17. The Mist by Stephen King
+18. The Gunslinger by Stephen King
+19. The Drawing of the Three by Stephen King
+20. The Waste Lands by Stephen King
+21. Wizard and Glass by Stephen King
+22. Wolves of the Calla by Stephen King
+23. Song of Susannah by Stephen King
+24. The Dark Tower by Stephen King
+25. The Eyes of the Dragon by Stephen King
+26. The Name of the Wind by Patrick Rothfuss
+27. The Wise Man's Fear by Patrick Rothfuss
+28. The Lies of Locke Lamora by Scott Lynch
+29. The Blade Itself by Joe Abercrombie
+30. The First Law Trilogy by Joe Abercrombie
+31. The Way of Kings by Brandon Sanderson
+32. Mistborn series by Brandon Sanderson
+33. Warbreaker by Brandon Sanderson
+34. Elantris by Brandon Sanderson
+35. The Stormlight Archive series by Brandon Sanderson
+36. The Kingkiller Chronicle series by Patrick Rothfuss
+37. The Black Company series by Glen Cook
+38. The Malazan Book of the Fallen series by Steven Erikson
+39. The Farseer Trilogy by Robin Hobb
+40. The Liveship Traders Trilogy by Robin Hobb
+41. The Tawny Man Trilogy by Robin Hobb
+42. The Gentleman Bastard series by Scott Lynch
+43. The Broken Empire Trilogy by Mark Lawrence
+44. The Red Queen's War Trilogy by Mark Lawrence
+45. The Powder Mage Trilogy by Brian McClellan
+46. The Lightbringer series by Brent Weeks
+47. The Night Angel Trilogy by Brent Weeks
+48. The Riyria Revelations series by Michael J. Sullivan
+49. The Riyria Chronicles series by Michael J. Sullivan
+50. The Black Prism by Brent Weeks

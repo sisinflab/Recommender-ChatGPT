@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Two Towers by J. R. R. Tolkien
+2. The Lion, the Witch and the Wardrobe by C. S. Lewis
+3. The Subtle Knife by Philip Pullman
+4. The Amber Spyglass by Philip Pullman
+5. The Silmarillion by J. R. R. Tolkien
+6. The Magician's Nephew by C. S. Lewis
+7. The Last Battle by C. S. Lewis
+8. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+9. The Stand by Stephen King
+10. The Shining by Stephen King
+11. The Gunslinger by Stephen King
+12. The Drawing of the Three by Stephen King
+13. The Waste Lands by Stephen King
+14. The Wizard and Glass by Stephen King
+15. The Wind Through the Keyhole by Stephen King
+16. The Eye of the World by Robert Jordan
+17. The Great Hunt by Robert Jordan
+18. The Dragon Reborn by Robert Jordan
+19. The Shadow Rising by Robert Jordan
+20. The Fires of Heaven by Robert Jordan
+21. Lord of Chaos by Robert Jordan
+22. A Game of Thrones by George R. R. Martin
+23. A Clash of Kings by George R. R. Martin
+24. A Storm of Swords by George R. R. Martin
+25. A Feast for Crows by George R. R. Martin
+26. A Dance with Dragons by George R. R. Martin
+27. The Name of the Wind by Patrick Rothfuss
+28. The Wise Man's Fear by Patrick Rothfuss
+29. The Lies of Locke Lamora by Scott Lynch
+30. Red Rising by Pierce Brown
+31. Golden Son by Pierce Brown
+32. Morning Star by Pierce Brown
+33. Dune by Frank Herbert
+34. Ender's Game by Orson Scott Card
+35. Speaker for the Dead by Orson Scott Card
+36. Xenocide by Orson Scott Card
+37. Children of the Mind by Orson Scott Card
+38. The Hunger Games by Suzanne Collins
+39. Catching Fire by Suzanne Collins
+40. Mockingjay by Suzanne Collins
+41. The Maze Runner by James Dashner
+42. The Scorch Trials by James Dashner
+43. The Death Cure by James Dashner
+44. The Kill Order by James Dashner
+45. The Giver by Lois Lowry
+46. Gathering Blue by Lois Lowry
+47. Messenger by Lois Lowry
+48. Son by Lois Lowry
+49. The Alchemist by Paulo Coelho
+50. The Da Vinci Code by Dan Brown

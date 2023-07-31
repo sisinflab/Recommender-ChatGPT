@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. Fahrenheit 451 by Ray Bradbury
+4. The Handmaid's Tale by Margaret Atwood
+5. The Road by Cormac McCarthy
+6. The Catcher in the Rye by J.D. Salinger
+7. To Kill a Mockingbird by Harper Lee
+8. One Hundred Years of Solitude by Gabriel Garcia Marquez
+9. The Bell Jar by Sylvia Plath
+10. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+11. The Great Gatsby by F. Scott Fitzgerald
+12. Animal Farm by George Orwell
+13. Lord of the Flies by William Golding
+14. The Picture of Dorian Gray by Oscar Wilde
+15. The Stranger by Albert Camus
+16. Crime and Punishment by Fyodor Dostoevsky
+17. The Brothers Karamazov by Fyodor Dostoevsky
+18. The Trial by Franz Kafka
+19. Heart of Darkness by Joseph Conrad
+20. The Sun Also Rises by Ernest Hemingway
+21. A Clockwork Orange by Anthony Burgess
+22. The Shining by Stephen King
+23. The Stand by Stephen King
+24. The Dark Tower series by Stephen King
+25. The Name of the Wind by Patrick Rothfuss
+26. The Lord of the Rings by J.R.R. Tolkien
+27. The Hobbit by J.R.R. Tolkien
+28. The Chronicles of Narnia by C.S. Lewis
+29. The Hunger Games by Suzanne Collins
+30. Harry Potter series by J.K. Rowling
+31. The Girl with the Dragon Tattoo by Stieg Larsson
+32. The Da Vinci Code by Dan Brown
+33. Angels and Demons by Dan Brown
+34. The Bourne Identity by Robert Ludlum
+35. The Girl on the Train by Paula Hawkins
+36. Gone Girl by Gillian Flynn
+37. The Silence of the Lambs by Thomas Harris
+38. Red Dragon by Thomas Harris
+39. American Gods by Neil Gaiman
+40. The Sandman series by Neil Gaiman
+41. Watchmen by Alan Moore
+42. V for Vendetta by Alan Moore
+43. The Walking Dead series by Robert Kirkman
+44. The Hitchhiker's Guide to the Galaxy series by Douglas Adams
+45. The Dark Tower series by Stephen King
+46. The Dresden Files series by Jim Butcher
+47. The Wheel of Time series by Robert Jordan
+48. The Stormlight Archive series by Brandon Sanderson
+49. Mistborn series by Brandon Sanderson
+50. The Kingkiller Chronicle series by Patrick Rothfuss

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Metallica
+2. Pink Floyd
+3. Iron Maiden
+4. Muse
+5. Soundgarden
+6. Alter Bridge
+7. Trivium
+8. Lamb of God
+9. Opeth
+10. Machine Head
+11. Killswitch Engage
+12. Children of Bodom
+13. Breaking Benjamin
+14. Slash
+15. Hans Zimmer
+16. David Gilmour
+17. Fleetwood Mac
+18. Creed
+19. Atreyu
+20. Soilwork
+21. Riverside
+22. Maroon 5
+23. Biffy Clyro
+24. Death
+25. Dream Theater
+26. Slayer
+27. Megadeth
+28. Sepultura
+29. Nightwish
+30. Angra
+31. Queens of the Stone Age
+32. Seether
+33. Dark Tranquillity
+34. Edguy
+35. Incubus
+36. Ensiferum
+37. Fear Factory
+38. Sonic Syndicate
+39. Raimundos
+40. King Crimson
+41. Nickelback
+42. Sonata Arctica
+43. blessthefall
+44. Caliban
+45. DIR EN GREY
+46. Coldplay
+47. Avenged Sevenfold
+48. Escape The Fate
+49. System of a Down
+50. blink-182

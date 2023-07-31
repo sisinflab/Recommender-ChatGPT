@@ -1,0 +1,49 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Catching Fire by Suzanne Collins
+3. Mockingjay by Suzanne Collins
+4. Harry Potter and the Philosopher's Stone by J.K. Rowling
+5. Harry Potter and the Chamber of Secrets by J.K. Rowling
+6. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+7. Harry Potter and the Goblet of Fire by J.K. Rowling
+8. Harry Potter and the Order of Phoenix by J.K. Rowling
+9. Harry Potter and the Half-Blood Prince by J.K. Rowling
+10. Harry Potter and the Deathly Hallows by J.K. Rowling
+11. The Host by Stephenie Meyer
+12. The Catcher in the Rye by J.D. Salinger
+13. Uglies by Scott Westerfeld
+14. Pretties by Scott Westerfeld
+15. Specials by Scott Westerfeld
+16. Extras by Scott Westerfeld
+17. The Princess Diaries by Meg Cabot
+18. The Princess Diaries: Take Two by Meg Cabot
+19. The Princess Diaries: Third Time Lucky by Meg Cabot
+20. The Princess Diaries: Mia Goes Fourth by Meg Cabot
+21. The Princess Diaries: Give Me Five by Meg Cabot
+22. The Princess Diaries: Sixsational by Meg Cabot
+23. The Princess Diaries: Seventh Heaven by Meg Cabot
+24. The Princess Diaries: After Eight by Meg Cabot
+25. The Princess Diaries: To the Nines by Meg Cabot
+26. The Princess Diaries: Ten Out of Ten by Meg Cabot
+27. The Cask of Amontillado by Edgar Allan Poe
+28. The Other Boleyn Girl by Philippa Gregory
+29. A Great and Terrible Beauty by Libba Bray
+30. Rebel Angels by Libba Bray
+31. The Sweet Far Thing by Libba Bray
+32. Vampire Academy by Richelle Mead
+33. Frostbite by Richelle Mead
+34. Shadow Kiss by Richelle Mead
+35. Blood Promise by Richelle Mead
+36. Spirit Bound by Richelle Mead
+37. Last Sacrifice by Richelle Mead
+38. Lord of the Flies by William Golding
+39. Romeo and Juliet by William Shakespeare
+40. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+41. The Color of Water by James McBride
+42. The Watchmen by Alan Moore
+43. The Ruins by Scott Smith
+44. Speak by Laurie Halse Anderson
+45. World Without End by Ken Follett
+46. Peter and the Shadow Thieves by Dave Barry and Ridley Pearson
+47. Doppelganger by David Stahler Jr

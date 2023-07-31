@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Nine Inch Nails
+2. Rob Zombie
+3. Rammstein
+4. Pendulum
+5. Dethklok
+6. Ayreon
+7. Monster Magnet
+8. System of a Down
+9. Megadeth
+10. VNV Nation
+11. Dream Theater
+12. Apocalyptica
+13. Marilyn Manson
+14. Ministry
+15. Celldweller
+16. Static-X
+17. KMFDM
+18. Hardcore Superstar
+19. Pain
+20. Boards of Canada
+21. Metallica
+22. Deathstars
+23. Skinny Puppy
+24. Linkin Park
+25. Iron Maiden
+26. Avenged Sevenfold
+27. My Chemical Romance
+28. Green Day
+29. Nirvana
+30. Pearl Jam
+31. Michael Jackson
+32. Led Zeppelin
+33. Daft Punk
+34. Muse
+35. Pink Floyd
+36. Radiohead
+37. Arctic Monkeys
+38. Placebo
+39. The Killers
+40. U2
+41. Duran Duran
+42. Coldplay
+43. Blur
+44. Amy Winehouse
+45. Björk
+46. The Beatles
+47. P!nk
+48. Katy Perry
+49. Lady Gaga
+50. Rihanna

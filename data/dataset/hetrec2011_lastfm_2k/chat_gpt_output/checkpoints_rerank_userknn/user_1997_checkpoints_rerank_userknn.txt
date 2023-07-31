@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations are:
+
+1. The Beatles
+2. Bob Dylan
+3. Third Eye Blind
+4. Simon & Garfunkel
+5. John Lennon
+6. Led Zeppelin
+7. Pink Floyd
+8. The Who
+9. The Beach Boys
+10. Fleetwood Mac
+11. The National
+12. The Doors
+13. Cat Stevens
+14. blink-182
+15. George Harrison
+16. Johnny Cash
+17. Modest Mouse
+18. The Byrds
+19. The White Stripes
+20. The Kinks
+21. Tom Petty and the Heartbreakers
+22. The Mamas & The Papas
+23. Billy Joel
+24. Band of Horses
+25. Vampire Weekend
+26. Red Hot Chili Peppers
+27. Pixies
+28. La Roux
+29. MGMT
+30. Paul McCartney
+31. Coldplay
+32. Queen
+33. Muse
+34. Gorillaz
+35. Guns N' Roses
+36. Leonard Cohen
+37. Lady Gaga
+38. Bruce Springsteen
+39. My Chemical Romance
+40. Eagles
+41. Brand New
+42. The Rolling Stones
+43. Regina Spektor
+44. Eric Clapton
+45. Beastie Boys
+46. Frank Sinatra
+47. Buddy Holly
+48. Creedence Clearwater Revival
+49. Paul McCartney & Wings
+50. Radiohead

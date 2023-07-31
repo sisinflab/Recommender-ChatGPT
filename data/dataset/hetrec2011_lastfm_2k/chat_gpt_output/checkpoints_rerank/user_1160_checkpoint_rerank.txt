@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Paramore
+2. Underoath
+3. CPM 22
+4. Dead Fish
+5. Escape The Fate
+6. blink-182
+7. Bullet for My Valentine
+8. blessthefall
+9. From First to Last
+10. Protest The Hero
+11. Avenged Sevenfold
+12. Pato Fu
+13. Skillet
+14. Cute Is What We Aim For
+15. Atreyu
+16. New Found Glory
+17. 36 Crazyfists
+18. Dashboard Confessional
+19. Flyleaf
+20. Yellowcard
+21. Scracho
+22. Detonautas Roque Clube
+23. Gloria
+24. My Chemical Romance
+25. Cansei de Ser Sexy
+26. Muse
+27. Radiohead
+28. Nirvana
+29. Iron Maiden
+30. Metallica
+31. Led Zeppelin
+32. Pink Floyd
+33. The Beatles
+34. Pearl Jam
+35. System of a Down
+36. Nine Inch Nails
+37. Linkin Park
+38. Arctic Monkeys
+39. Placebo
+40. The Killers
+41. Duran Duran
+42. Depeche Mode
+43. Madonna
+44. Lady Gaga
+45. Christina Aguilera
+46. Beyoncé
+47. Kelly Clarkson
+48. All Time Low
+49. Green Day
+50. The Cure

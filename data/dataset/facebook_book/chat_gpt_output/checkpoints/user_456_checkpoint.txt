@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Da Vinci Code by Dan Brown
+2. The Girl with the Dragon Tattoo by Stieg Larsson
+3. The Kite Runner by Khaled Hosseini
+4. To Kill a Mockingbird by Harper Lee
+5. The Catcher in the Rye by J.D. Salinger
+6. The Hunger Games by Suzanne Collins
+7. The Fault in Our Stars by John Green
+8. The Hobbit by J.R.R. Tolkien
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Chronicles of Narnia by C.S. Lewis
+11. The Great Gatsby by F. Scott Fitzgerald
+12. 1984 by George Orwell
+13. Animal Farm by George Orwell
+14. Brave New World by Aldous Huxley
+15. Fahrenheit 451 by Ray Bradbury
+16. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+17. The Shining by Stephen King
+18. The Stand by Stephen King
+19. The Dark Tower series by Stephen King
+20. The Silence of the Lambs by Thomas Harris
+21. The Bourne Identity by Robert Ludlum
+22. The Bourne Supremacy by Robert Ludlum
+23. The Bourne Ultimatum by Robert Ludlum
+24. The Girl on the Train by Paula Hawkins
+25. The Help by Kathryn Stockett
+26. The Secret Life of Bees by Sue Monk Kidd
+27. The Color Purple by Alice Walker
+28. The Joy Luck Club by Amy Tan
+29. The God of Small Things by Arundhati Roy
+30. The Namesake by Jhumpa Lahiri
+31. The White Tiger by Aravind Adiga
+32. Life of Pi by Yann Martel
+33. The Time Traveler's Wife by Audrey Niffenegger
+34. The Notebook by Nicholas Sparks
+35. A Walk to Remember by Nicholas Sparks
+36. Message in a Bottle by Nicholas Sparks
+37. The Bridges of Madison County by Robert James Waller
+38. The Notebook by Nicholas Sparks
+39. A Walk to Remember by Nicholas Sparks
+40. Message in a Bottle by Nicholas Sparks
+41. The Bridges of Madison County by Robert James Waller
+42. The Notebook by Nicholas Sparks
+43. A Walk to Remember by Nicholas Sparks
+44. Message in a Bottle by Nicholas Sparks
+45. The Bridges of Madison County by Robert James Waller
+46. The Notebook by Nicholas Sparks
+47. A Walk to Remember by Nicholas Sparks
+48. Message in a Bottle by Nicholas Sparks
+49. The Bridges of Madison County by Robert James Waller
+50. The Notebook by Nicholas Sparks

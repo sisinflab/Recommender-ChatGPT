@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. Harry Potter by J.K. Rowling
+3. His Dark Materials by Philip Pullman
+4. The Hobbit by J.R.R. Tolkien
+5. The Time Machine by H.G. Wells
+6. Frankenstein by Mary Shelley
+7. The Princess Bride by William Goldman
+8. Adventures of Huckleberry Finn by Mark Twain
+9. To Kill a Mockingbird by Harper Lee
+10. The Kite Runner by Khaled Hosseini
+11. A Tree Grows in Brooklyn by Betty Smith
+12. The Good Earth by Pearl S. Buck
+13. Of Mice and Men by John Steinbeck
+14. Walden by Henry David Thoreau
+15. The Autobiography of Malcolm X by Malcolm X
+16. The Iliad by Homer
+17. A Midsummer Night's Dream by William Shakespeare
+18. The Taming of the Shrew by William Shakespeare
+19. Othello by William Shakespeare
+20. Three Cups of Tea by Greg Mortenson and David Oliver Relin
+21. Inkspell by Cornelia Funke
+22. Paper Towns by John Green
+23. Looking for Alaska by John Green
+24. Thirteen Reasons Why by Jay Asher
+25. My Sister's Keeper by Jodi Picoult
+26. Carrie by Stephen King
+27. Rosemary's Baby by Ira Levin
+28. Night by Elie Wiesel
+29. The Zombie Survival Guide by Max Brooks
+30. The Hatchet by Gary Paulsen
+31. Warriors by Erin Hunter
+32. The Watchmen by Alan Moore and Dave Gibbons
+33. Cable & Deadpool by Fabian Nicieza and Reilly Brown
+34. Soul Eater by Atsushi Ohkubo
+35. Resident Evil by S.D. Perry
+36. The Walking Dead by Robert Kirkman and Tony Moore
+37. Shanghai Girls by Lisa See
+38. Small Steps by Louis Sachar
+39. Goodnight Moon by Margaret Wise Brown
+40. Where the Sidewalk Ends by Shel Silverstein
+41. Antigone by Sophocles
+42. The Hunt for Red October by Tom Clancy
+43. Born to Rock by Gordon Korman
+44. Fear Nothing by Dean Koontz
+45. The Godfather by Mario Puzo
+46. Epic of Gilgamesh by Anonymous
+47. I Hope They Serve Beer in Hell by Tucker Max
+48. Garfield by Jim Davis
+49. Where the Wild Things Are by Maurice Sendak
+50. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson

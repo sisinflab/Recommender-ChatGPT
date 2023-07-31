@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Strokes
+2. Interpol
+3. The Black Keys
+4. Franz Ferdinand
+5. The Hives
+6. The Vines
+7. The Kooks
+8. The Bravery
+9. The Subways
+10. The Fratellis
+11. The Wombats
+12. The Vaccines
+13. The Arctic Monkeys (already liked by the user)
+14. The Libertines (already liked by the user)
+15. Joy Division (already liked by the user)
+16. The White Stripes (already liked by the user)
+17. The Dead Weather (already liked by the user)
+18. Kaiser Chiefs (already liked by the user)
+19. Hadouken! (already liked by the user)
+20. The Ting Tings (already liked by the user)
+21. Crystal Castles (already liked by the user)
+22. The Raconteurs (already liked by the user)
+23. The Bloody Beetroots (already liked by the user)
+24. Eminem (already liked by the user)
+25. Empire of the Sun (already liked by the user)
+26. Yeah Yeah Yeahs (already liked by the user)
+27. R.E.M. (already liked by the user)
+28. Muse
+29. Radiohead
+30. Nirvana
+31. Pearl Jam
+32. Metallica
+33. Led Zeppelin
+34. Iron Maiden
+35. Pink Floyd
+36. U2
+37. Duran Duran
+38. Depeche Mode
+39. The Beatles
+40. Coldplay
+41. Blur
+42. Placebo
+43. The Killers
+44. My Chemical Romance
+45. Green Day
+46. Nine Inch Nails
+47. System of a Down
+48. Daft Punk
+49. Linkin Park
+50. Black Eyed Peas

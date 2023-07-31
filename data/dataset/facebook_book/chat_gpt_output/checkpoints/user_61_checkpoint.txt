@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Fruits Basket by Natsuki Takaya
+2. Black Butler by Yana Toboso
+3. The Hunger Games by Suzanne Collins
+4. The Mortal Instruments by Cassandra Clare
+5. The Infernal Devices by Cassandra Clare
+6. The Twilight Saga by Stephenie Meyer
+7. The Chronicles of Narnia by C.S. Lewis
+8. The Lord of the Rings by J.R.R. Tolkien
+9. The Hobbit by J.R.R. Tolkien
+10. The Fault in Our Stars by John Green
+11. Divergent by Veronica Roth
+12. The Maze Runner by James Dashner
+13. The Giver by Lois Lowry
+14. The Book Thief by Markus Zusak
+15. The Girl with the Dragon Tattoo by Stieg Larsson
+16. The Da Vinci Code by Dan Brown
+17. The Catcher in the Rye by J.D. Salinger
+18. To Kill a Mockingbird by Harper Lee
+19. The Great Gatsby by F. Scott Fitzgerald
+20. 1984 by George Orwell
+21. Brave New World by Aldous Huxley
+22. The Handmaid's Tale by Margaret Atwood
+23. The Picture of Dorian Gray by Oscar Wilde
+24. Wuthering Heights by Emily Bronte
+25. Jane Eyre by Charlotte Bronte
+26. Sense and Sensibility by Jane Austen
+27. Emma by Jane Austen
+28. Persuasion by Jane Austen
+29. Northanger Abbey by Jane Austen
+30. Mansfield Park by Jane Austen
+31. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+32. The Hound of the Baskervilles by Arthur Conan Doyle
+33. The Complete Works of William Shakespeare by William Shakespeare
+34. The Canterbury Tales by Geoffrey Chaucer
+35. The Divine Comedy by Dante Alighieri
+36. The Iliad by Homer
+37. The Odyssey by Homer
+38. The Aeneid by Virgil
+39. The Metamorphoses by Ovid
+40. The Inferno by Dante Alighieri
+41. The Divine Comedy by Dante Alighieri
+42. The Canterbury Tales by Geoffrey Chaucer
+43. The Decameron by Giovanni Boccaccio
+44. The Prince by Niccolo Machiavelli
+45. Don Quixote by Miguel de Cervantes
+46. Les Miserables by Victor Hugo
+47. The Three Musketeers by Alexandre Dumas
+48. The War of the Worlds by H.G. Wells
+49. Frankenstein by Mary Shelley
+50. Dracula by Bram Stoker

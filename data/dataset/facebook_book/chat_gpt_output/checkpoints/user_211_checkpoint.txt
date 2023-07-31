@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Fault in Our Stars by John Green
+2. Eleanor & Park by Rainbow Rowell
+3. The Maze Runner by James Dashner
+4. Divergent by Veronica Roth
+5. The Perks of Being a Wallflower by Stephen Chbosky
+6. If I Stay by Gayle Forman
+7. The Book Thief by Markus Zusak
+8. The Giver by Lois Lowry
+9. The Selection by Kiera Cass
+10. The 5th Wave by Rick Yancey
+11. The Mortal Instruments series by Cassandra Clare
+12. The Infernal Devices series by Cassandra Clare
+13. The Lunar Chronicles series by Marissa Meyer
+14. The Raven Boys by Maggie Stiefvater
+15. The Scorpio Races by Maggie Stiefvater
+16. The Knife of Never Letting Go by Patrick Ness
+17. The Ask and the Answer by Patrick Ness
+18. Monsters of Men by Patrick Ness
+19. The Hunger Games trilogy by Suzanne Collins
+20. The Harry Potter series by J.K. Rowling
+21. The Twilight series by Stephenie Meyer
+22. The Host by Stephenie Meyer
+23. The Chemist by Stephenie Meyer
+24. The Darkest Minds by Alexandra Bracken
+25. The Maze of Bones by Rick Riordan
+26. The Lightning Thief by Rick Riordan
+27. The Sea of Monsters by Rick Riordan
+28. The Titan's Curse by Rick Riordan
+29. The Battle of the Labyrinth by Rick Riordan
+30. The Last Olympian by Rick Riordan
+31. The Heroes of Olympus series by Rick Riordan
+32. The Kane Chronicles series by Rick Riordan
+33. The Magnus Chase and the Gods of Asgard series by Rick Riordan
+34. The Trials of Apollo series by Rick Riordan
+35. The Hunger Games by Suzanne Collins
+36. Catching Fire by Suzanne Collins
+37. Mockingjay by Suzanne Collins
+38. The Maze Runner by James Dashner
+39. The Scorch Trials by James Dashner
+40. The Death Cure by James Dashner
+41. The Kill Order by James Dashner
+42. The Selection by Kiera Cass
+43. The Elite by Kiera Cass
+44. The One by Kiera Cass
+45. The Heir by Kiera Cass
+46. The Crown by Kiera Cass
+47. The Lunar Chronicles series by Marissa Meyer
+48. Cinder by Marissa Meyer
+49. Scarlet by Marissa Meyer
+50. Cress by Marissa Meyer

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Joy Division
+2. Interpol
+3. She Wants Revenge
+4. The Cure
+5. Combichrist
+6. Lacrimosa
+7. KMFDM
+8. In Extremo
+9. L'Âme Immortelle
+10. Therion
+11. Oomph!
+12. Portishead
+13. Depeche Mode
+14. Radiohead
+15. Nine Inch Nails
+16. Muse
+17. The Killers
+18. Akira Yamaoka
+19. Yann Tiersen
+20. The Beatles
+21. Katy Perry
+22. Lady Gaga
+23. Björk
+24. David Bowie
+25. t.A.T.u.
+26. Nightwish
+27. Vive la Fête
+28. Daft Punk
+29. Franz Ferdinand
+30. Coldplay
+31. Blur
+32. Arctic Monkeys
+33. Placebo
+34. Nirvana
+35. Iron Maiden
+36. Led Zeppelin
+37. Metallica
+38. Michael Jackson
+39. Pearl Jam
+40. a-ha
+41. System of a Down
+42. Linkin Park
+43. Avenged Sevenfold
+44. My Chemical Romance
+45. Green Day
+46. The Cure
+47. Pink Floyd
+48. U2
+49. Madonna
+50. Rihanna

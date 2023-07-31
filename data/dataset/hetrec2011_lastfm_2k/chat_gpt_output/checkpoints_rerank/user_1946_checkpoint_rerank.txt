@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Sarah Brightman
+2. iamamiwhoami
+3. Goldfrapp
+4. Leaves' Eyes
+5. Mariah Carey
+6. Leona Lewis
+7. Within Temptation
+8. Loreena McKennitt
+9. Epica
+10. JoJo
+11. Brandy
+12. Theatre of Tragedy
+13. Alicia Keys
+14. Joss Stone
+15. Tarja
+16. OneRepublic
+17. Sarah McLachlan
+18. Era
+19. Sugababes
+20. Céline Dion
+21. Norah Jones
+22. Moby
+23. Aretha Franklin
+24. Madonna
+25. Beyoncé
+26. Christina Aguilera
+27. Rihanna
+28. Lady Gaga
+29. Pink Floyd
+30. The Beatles
+31. Muse
+32. U2
+33. Radiohead
+34. Coldplay
+35. Nirvana
+36. Led Zeppelin
+37. Michael Jackson
+38. Pearl Jam
+39. Björk
+40. Daft Punk
+41. Nine Inch Nails
+42. Linkin Park
+43. Avril Lavigne
+44. Katy Perry
+45. Taylor Swift
+46. Evanescence
+47. Ke$ha
+48. My Chemical Romance
+49. Green Day
+50. The Killers

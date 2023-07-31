@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Strokes
+2. Arctic Monkeys
+3. Franz Ferdinand
+4. The Libertines
+5. Kings of Leon
+6. Razorlight
+7. Beck
+8. Death Cab for Cutie
+9. Modest Mouse
+10. Spoon
+11. The Raconteurs
+12. The Vines
+13. Hot Chip
+14. Justice
+15. Crystal Castles
+16. Late of the Pier
+17. The Bravery
+18. Klaxons
+19. Rooney
+20. The Kooks
+21. Pulp
+22. New Order
+23. Placebo
+24. Belle and Sebastian
+25. Sigur Rós
+26. Weezer
+27. Oasis
+28. Travis
+29. Coldplay
+30. Muse
+31. The Beatles
+32. Bonobo
+33. Boards of Canada
+34. Hammock
+35. Stereophonics
+36. José González
+37. Hans Zimmer
+38. Sia
+39. Daft Punk
+40. AC/DC
+41. Bob Marley
+42. Erykah Badu
+43. Kings of Convenience
+44. Babyshambles
+45. The Subways
+46. Avril Lavigne
+47. Taylor Swift
+48. Demi Lovato
+49. +44
+50. Mindless Self Indulgence

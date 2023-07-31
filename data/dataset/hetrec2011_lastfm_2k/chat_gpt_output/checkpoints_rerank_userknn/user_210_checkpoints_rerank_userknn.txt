@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations are:
+
+1. Depeche Mode
+2. Dave Gahan
+3. Zемфира
+4. Сплин
+5. Pet Shop Boys
+6. Savage Garden
+7. t.A.T.u.
+8. Britney Spears
+9. Muse
+10. Celldweller
+11. IAMX
+12. ATB
+13. a-ha
+14. Cher
+15. Michael Jackson
+16. The Cure
+17. The Rasmus
+18. Tokio Hotel
+19. Adam Lambert
+20. Madonna
+21. Paramore
+22. AFI
+23. Ke$ha
+24. Rihanna
+25. Red Hot Chili Peppers
+26. Client
+27. Linkin Park
+28. Nelly Furtado
+29. Moby
+30. Marilyn Manson
+31. De/Vision
+32. Kylie Minogue
+33. 安室奈美恵
+34. No Doubt
+35. Dead Can Dance
+36. The Cranberries
+37. Кино
+38. Ladytron
+39. Nitzer Ebb
+40. Peter Gabriel
+41. Tiësto
+42. Recoil
+43. Massive Attack
+44. And One
+45. The Prodigy
+46. L'Arc~en~Ciel
+47. Black Sabbath
+48. Soft Cell
+49. YUI
+50. The Rolling Stones

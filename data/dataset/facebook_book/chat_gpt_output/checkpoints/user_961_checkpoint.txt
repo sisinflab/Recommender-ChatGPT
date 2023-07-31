@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Atonement by Ian McEwan
+2. The Catcher in the Rye by J.D. Salinger
+3. The Bell Jar by Sylvia Plath
+4. The Great Gatsby by F. Scott Fitzgerald
+5. To Kill a Mockingbird by Harper Lee
+6. One Hundred Years of Solitude by Gabriel Garcia Marquez
+7. The Road by Cormac McCarthy
+8. The Handmaid's Tale by Margaret Atwood
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Stranger by Albert Camus
+11. The Sun Also Rises by Ernest Hemingway
+12. The Grapes of Wrath by John Steinbeck
+13. Slaughterhouse-Five by Kurt Vonnegut
+14. Brave New World by Aldous Huxley
+15. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+16. The Brothers Karamazov by Fyodor Dostoevsky
+17. Crime and Punishment by Fyodor Dostoevsky
+18. Lolita by Vladimir Nabokov
+19. The Trial by Franz Kafka
+20. Heart of Darkness by Joseph Conrad
+21. The Sound and the Fury by William Faulkner
+22. The Old Man and the Sea by Ernest Hemingway
+23. The Stranger Beside Me by Ann Rule
+24. The Girl with the Dragon Tattoo by Stieg Larsson
+25. The Da Vinci Code by Dan Brown
+26. The Hunger Games by Suzanne Collins
+27. The Lord of the Rings by J.R.R. Tolkien
+28. The Hobbit by J.R.R. Tolkien
+29. The Chronicles of Narnia by C.S. Lewis
+30. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+31. The Martian by Andy Weir
+32. The Help by Kathryn Stockett
+33. The Color Purple by Alice Walker
+34. The Joy Luck Club by Amy Tan
+35. The Kite Runner by Khaled Hosseini
+36. The Secret Life of Bees by Sue Monk Kidd
+37. The Poisonwood Bible by Barbara Kingsolver
+38. The Alchemist by Paulo Coelho
+39. The Picture of Dorian Gray by Oscar Wilde
+40. The Importance of Being Earnest by Oscar Wilde
+41. The Canterbury Tales by Geoffrey Chaucer
+42. The Divine Comedy by Dante Alighieri
+43. The Iliad by Homer
+44. The Odyssey by Homer
+45. The Aeneid by Virgil
+46. The Inferno by Dante Alighieri
+47. The Canterbury Tales by Geoffrey Chaucer
+48. The Decameron by Giovanni Boccaccio
+49. The Prince by Niccolo Machiavelli
+50. The Art of War by Sun Tzu

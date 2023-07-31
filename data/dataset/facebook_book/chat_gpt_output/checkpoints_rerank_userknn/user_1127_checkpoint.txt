@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Book Thief by Markus Zusak
+2. The Kite Runner by Khaled Hosseini
+3. To Kill a Mockingbird by Harper Lee
+4. The Catcher in the Rye by J.D. Salinger
+5. 1984 by George Orwell
+6. Animal Farm by George Orwell
+7. The Great Gatsby by F. Scott Fitzgerald
+8. Brave New World by Aldous Huxley
+9. Lord of the Flies by William Golding
+10. The Hunger Games by Suzanne Collins
+11. Catch-22 by Joseph Heller
+12. One Hundred Years of Solitude by Gabriel Garcia Marquez
+13. The Alchemist by Paulo Coelho
+14. The Picture of Dorian Gray by Oscar Wilde
+15. The Bell Jar by Sylvia Plath
+16. The Road by Cormac McCarthy
+17. The Color Purple by Alice Walker
+18. The Handmaid's Tale by Margaret Atwood
+19. The Sun Also Rises by Ernest Hemingway
+20. The Old Man and the Sea by Ernest Hemingway
+21. The Grapes of Wrath by John Steinbeck
+22. The Sound and the Fury by William Faulkner
+23. A Farewell to Arms by Ernest Hemingway
+24. The Lord of the Rings by J.R.R. Tolkien
+25. The Hobbit by J.R.R. Tolkien
+26. The Chronicles of Narnia by C.S. Lewis
+27. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+28. The Da Vinci Code by Dan Brown
+29. Angels and Demons by Dan Brown
+30. The Girl with the Dragon Tattoo by Stieg Larsson
+31. The Girl Who Played with Fire by Stieg Larsson
+32. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+33. The Help by Kathryn Stockett
+34. The Secret Life of Bees by Sue Monk Kidd
+35. The Lovely Bones by Alice Sebold
+36. The Time Traveler's Wife by Audrey Niffenegger
+37. The Other Boleyn Girl by Philippa Gregory
+38. The Almost Moon by Alice Sebold
+39. My Sister's Keeper by Jodi Picoult
+40. Water for Elephants by Sara Gruen
+41. Memoirs of a Geisha by Arthur Golden
+42. The Notebook by Nicholas Sparks
+43. Pride and Prejudice by Jane Austen
+44. The Scarlet Letter by Nathaniel Hawthorne
+45. Fahrenheit 451 by Ray Bradbury
+46. The Giver by Lois Lowry
+47. Angela's Ashes by Frank McCourt
+48. Middlesex by Jeffrey Eugenides
+49. The Devil in the White City by Erik Larson
+50. The Truth About Forever by Sarah D

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Sufjan Stevens
+2. Kings of Convenience
+3. Feist
+4. Iron & Wine
+5. MGMT
+6. Kanye West
+7. Ella Fitzgerald
+8. Erykah Badu
+9. Joni Mitchell
+10. Maria Bethânia
+11. Duffy
+12. PJ Harvey
+13. She & Him
+14. Corinne Bailey Rae
+15. The Strokes
+16. Ladyhawke
+17. Franz Ferdinand
+18. Norah Jones
+19. Damien Rice
+20. Florence + the Machine
+21. Yeah Yeah Yeahs
+22. Tegan and Sara
+23. Black Kids
+24. Bon Iver
+25. Ne-Yo
+26. Blondie
+27. Radiohead
+28. Muse
+29. Nirvana
+30. Led Zeppelin
+31. Pink Floyd
+32. The Beatles
+33. Coldplay
+34. Arctic Monkeys
+35. Placebo
+36. The Killers
+37. U2
+38. Duran Duran
+39. Michael Jackson
+40. Amy Winehouse
+41. Björk
+42. Daft Punk
+43. Nine Inch Nails
+44. Linkin Park
+45. Kelly Clarkson
+46. P!nk
+47. My Chemical Romance
+48. Green Day
+49. The Cure
+50. Metallica

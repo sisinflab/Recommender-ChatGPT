@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Maze Runner by James Dashner
+4. The Fault in Our Stars by John Green
+5. The Mortal Instruments by Cassandra Clare
+6. The Infernal Devices by Cassandra Clare
+7. The Selection by Kiera Cass
+8. The Lunar Chronicles by Marissa Meyer
+9. The 5th Wave by Rick Yancey
+10. Legend by Marie Lu
+11. Red Queen by Victoria Aveyard
+12. Throne of Glass by Sarah J. Maas
+13. Miss Peregrine's Home for Peculiar Children by Ransom Riggs
+14. The Giver by Lois Lowry
+15. The City of Ember by Jeanne DuPrau
+16. The Chronicles of Narnia by C.S. Lewis
+17. The Lord of the Rings by J.R.R. Tolkien
+18. The Hobbit by J.R.R. Tolkien
+19. The Girl with the Dragon Tattoo by Stieg Larsson
+20. The Da Vinci Code by Dan Brown
+21. Angels and Demons by Dan Brown
+22. The Bourne Identity by Robert Ludlum
+23. The Girl on the Train by Paula Hawkins
+24. Gone Girl by Gillian Flynn
+25. The Lovely Bones by Alice Sebold
+26. The Help by Kathryn Stockett
+27. The Secret Life of Bees by Sue Monk Kidd
+28. The Kite Runner by Khaled Hosseini
+29. A Thousand Splendid Suns by Khaled Hosseini
+30. The Book Thief by Markus Zusak
+31. The Alchemist by Paulo Coelho
+32. The Catcher in the Rye by J.D. Salinger
+33. To Kill a Mockingbird by Harper Lee
+34. The Great Gatsby by F. Scott Fitzgerald
+35. 1984 by George Orwell
+36. Animal Farm by George Orwell
+37. Brave New World by Aldous Huxley
+38. Fahrenheit 451 by Ray Bradbury
+39. The Handmaid's Tale by Margaret Atwood
+40. The Road by Cormac McCarthy
+41. The Stand by Stephen King
+42. It by Stephen King
+43. The Shining by Stephen King
+44. Carrie by Stephen King
+45. The Dark Tower by Stephen King
+46. The Name of the Wind by Patrick Rothfuss
+47. The Wise Man's Fear by Patrick Rothfuss
+48. The Lies of Locke Lamora by Scott Lynch
+49. The Blade Itself by Joe Abercrombie
+50. The Way of Kings by Brandon Sanderson

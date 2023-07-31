@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations are:
+
+1. Coldplay
+2. Britney Spears
+3. Keane
+4. Ludwig van Beethoven
+5. Yanni
+6. 宇多田ヒカル
+7. SHINee
+8. 소녀시대
+9. Brown Eyed Girls
+10. 2NE1
+11. L'Arc~en~Ciel
+12. Beyoncé
+13. Taylor Swift
+14. Lady Gaga
+15. Rihanna
+16. Katy Perry
+17. Florence + the Machine
+18. Yeah Yeah Yeahs
+19. BoA
+20. Erasure
+21. ABBA
+22. Michael Jackson
+23. Queen
+24. George Michael
+25. Oasis
+26. Scorpions
+27. The Rasmus
+28. Within Temptation
+29. Journey
+30. Yellowcard
+31. Stereophonics
+32. Jet
+33. Amy Winehouse
+34. Misfits
+35. Epica
+36. Lacuna Coil
+37. Angels & Airwaves
+38. DIR EN GREY
+39. Blackfield
+40. Front Line Assembly
+41. M.I.A.
+42. Capsule
+43. ATB
+44. Aretha Franklin
+45. 동방신기
+46. B2ST
+47. Selena Gomez & the Scene
+48. Emily Osment
+49. Miranda Cosgrove
+50. Ke$ha

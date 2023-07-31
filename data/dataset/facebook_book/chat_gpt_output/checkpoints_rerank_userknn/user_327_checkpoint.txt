@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Name of the Rose by Umberto Eco
+2. Fear and Loathing in Las Vegas by Hunter S. Thompson
+3. Harry Potter series by J.K. Rowling
+4. Batman: Year One by Frank Miller
+5. The Catcher in the Rye by J.D. Salinger
+6. The Vampire Chronicles by Anne Rice
+7. The Antichrist by Friedrich Nietzsche
+8. The Great Gatsby by F. Scott Fitzgerald
+9. Tao of Jeet Kune Do by Bruce Lee
+10. Running with Scissors by Augusten Burroughs
+11. Old Man's War by John Scalzi
+12. The Hobbit by J.R.R. Tolkien
+13. The Lord of the Rings by J.R.R. Tolkien
+14. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+15. Life of Pi by Yann Martel
+16. Go Ask Alice by Anonymous
+17. The Secret Life of Bees by Sue Monk Kidd
+18. Sybil by Flora Rheta Schreiber
+19. The Time Traveler's Wife by Audrey Niffenegger
+20. The Watchmen by Alan Moore
+21. Inferno by Dante Alighieri
+22. Empire Falls by Richard Russo
+23. Peeps by Scott Westerfeld
+24. Last Words by George Carlin
+25. Choke by Chuck Palahniuk
+26. The Namesake by Jhumpa Lahiri
+27. John Dies at the End by David Wong
+28. A Confederacy of Dunces by John Kennedy Toole
+29. The Dirt by Mötley Crüe
+30. Good Omens by Neil Gaiman and Terry Pratchett
+31. Memoirs of a Geisha by Arthur Golden
+32. Pygmy by Chuck Palahniuk
+33. Uglies by Scott Westerfeld
+34. Naked Lunch by William S. Burroughs
+35. Brave New World by Aldous Huxley
+36. Invisible Man by Ralph Ellison
+37. Less Than Zero by Bret Easton Ellis
+38. Rhapsody: Child of Blood by Elizabeth Haydon
+39. Night by Elie Wiesel
+40. Crank by Ellen Hopkins
+41. Pretties by Scott Westerfeld
+42. Holidays on Ice by David Sedaris
+43. Redwall by Brian Jacques
+44. Touching Spirit Bear by Ben Mikaelsen
+45. Thus Spoke Zarathustra by Friedrich Nietzsche
+46. Sin City by Frank Miller
+47. Cabal by Clive Barker
+48. Manga by Various Authors
+49. Geek Love by Katherine Dunn
+50. The God of Small Things by Arundhati Roy

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Dream Theater
+2. Porcupine Tree
+3. Los Hermanos
+4. The Smashing Pumpkins
+5. Led Zeppelin
+6. The Beatles
+7. Bob Dylan
+8. Os Mutantes
+9. Rilo Kiley
+10. Emilie Autumn
+11. Regina Spektor
+12. Caetano Veloso
+13. Cyndi Lauper
+14. ABBA
+15. The Who
+16. Helloween
+17. Pink Floyd
+18. Muse
+19. Radiohead
+20. Nirvana
+21. Iron Maiden
+22. Metallica
+23. Pearl Jam
+24. System of a Down
+25. Nine Inch Nails
+26. Linkin Park
+27. The Killers
+28. Green Day
+29. My Chemical Romance
+30. Arctic Monkeys
+31. Placebo
+32. Duran Duran
+33. Blur
+34. Michael Jackson
+35. Madonna
+36. Beyoncé
+37. Lady Gaga
+38. Christina Aguilera
+39. Rihanna
+40. Shakira
+41. Katy Perry
+42. Taylor Swift
+43. Ke$ha
+44. Avril Lavigne
+45. Evanescence
+46. Glee Cast
+47. Black Eyed Peas
+48. P!nk
+49. Avenged Sevenfold
+50. Kelly Clarkson

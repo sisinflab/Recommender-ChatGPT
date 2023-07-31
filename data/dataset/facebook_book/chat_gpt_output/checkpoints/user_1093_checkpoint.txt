@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. 1984 by George Orwell
+2. A Clockwork Orange by Anthony Burgess
+3. American Gods by Neil Gaiman
+4. Animal Farm by George Orwell
+5. Brave New World by Aldous Huxley
+6. Catch-22 by Joseph Heller
+7. Cloud Atlas by David Mitchell
+8. Do Androids Dream of Electric Sheep? by Philip K. Dick
+9. Dune by Frank Herbert
+10. Fahrenheit 451 by Ray Bradbury
+11. Fight Club by Chuck Palahniuk
+12. Gone Girl by Gillian Flynn
+13. House of Leaves by Mark Z. Danielewski
+14. I Am Legend by Richard Matheson
+15. In Cold Blood by Truman Capote
+16. Jurassic Park by Michael Crichton
+17. Kafka on the Shore by Haruki Murakami
+18. Life of Pi by Yann Martel
+19. Lolita by Vladimir Nabokov
+20. Neuromancer by William Gibson
+21. Nineteen Minutes by Jodi Picoult
+22. One Hundred Years of Solitude by Gabriel Garcia Marquez
+23. Outlander by Diana Gabaldon
+24. Pet Sematary by Stephen King
+25. Red Dragon by Thomas Harris
+26. Slaughterhouse-Five by Kurt Vonnegut
+27. Snow Crash by Neal Stephenson
+28. Station Eleven by Emily St. John Mandel
+29. The Bell Jar by Sylvia Plath
+30. The Catcher in the Rye by J.D. Salinger
+31. The Da Vinci Code by Dan Brown
+32. The Dark Tower series by Stephen King
+33. The Exorcist by William Peter Blatty
+34. The Fault in Our Stars by John Green
+35. The God of Small Things by Arundhati Roy
+36. The Handmaid's Tale by Margaret Atwood
+37. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+38. The Hunger Games by Suzanne Collins
+39. The Martian by Andy Weir
+40. The Road by Cormac McCarthy
+41. The Shining by Stephen King
+42. The Silence of the Lambs by Thomas Harris
+43. The Stand by Stephen King
+44. The Stranger by Albert Camus
+45. The Time Traveler's Wife by Audrey Niffenegger
+46. The Wind-Up Bird Chronicle by Haruki Murakami
+47. To Kill a Mockingbird by Harper Lee
+48. Watchmen by Alan Moore and Dave Gibbons
+49. We Need to Talk About Kevin by Lionel Shriver
+50. World War Z by Max Brooks

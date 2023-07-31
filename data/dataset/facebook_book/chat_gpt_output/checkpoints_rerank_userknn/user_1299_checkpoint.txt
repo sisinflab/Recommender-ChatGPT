@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Twilight (series)
+2. The Hunger Games
+3. Mockingjay
+4. Inkheart
+5. A Series of Unfortunate Events
+6. Harry Potter
+7. The Forbidden Game
+8. Fragile Eternity
+9. The Wolves of Mercy Falls
+10. Evermore (book)
+11. Fablehaven
+12. Stargazer (novel)
+13. The Summoning (novel)
+14. Rebel Angels
+15. The Sky Is Everywhere
+16. Before I Fall
+17. Cross My Heart and Hope to Spy
+18. I'd Tell You I Love You, But Then I'd Have to Kill You
+19. All American Girl (novel)
+20. Haunted (The Mediator)
+21. Cecilia (McClure novel)
+22. Eighth Grade Bites
+23. The True Game
+24. The Liar (novel)
+25. The Good Earth
+26. Chinese Cinderella
+27. Terrier (novel)
+28. Deadline (Grant novel)
+29. Cut (novel)
+30. Speak (novel)
+31. It Happened to Nancy: By an Anonymous Teenager
+32. Annie's Baby
+33. Suck It Up
+34. The Notebook (novel)
+35. Go Ask Alice
+36. Hourglass (novel)
+37. L.A. Candy
+38. Fallen (Kate novel)
+39. Elixir (novel)
+40. And Then There Were None
+41. The Reckoning (Armstrong novel)
+42. The Hollow by ['Agatha Christie']
+43. Perfect Chemistry by ['Simone Elkeles']
+44. Hush, Hush by ['Becca Fitzpatrick']
+45. City of Ashes by ['Cassandra Clare']
+46. Deadly Little Secrets by ['Kathryn Casey']
+47. This Lullaby by []
+48. The Shadowlands by []
+49. The Coldest Winter Ever by ['Sister Souljah']
+50. Bible

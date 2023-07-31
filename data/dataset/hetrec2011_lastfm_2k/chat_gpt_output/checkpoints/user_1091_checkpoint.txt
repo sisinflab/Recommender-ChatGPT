@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Breaking Benjamin
+2. Three Days Grace
+3. Red
+4. Seether
+5. Skillet
+6. Shinedown
+7. Papa Roach
+8. Chevelle
+9. Evans Blue
+10. Halestorm
+11. My Chemical Romance
+12. Paramore
+13. Linkin Park
+14. Flyleaf
+15. Anberlin
+16. P.O.D.
+17. Evanescence
+18. AFI
+19. Within Temptation
+20. Tegan and Sara
+21. Goo Goo Dolls
+22. Roxette
+23. Lacuna Coil
+24. Nelly Furtado
+25. Kate Voegele
+26. Alkaline Trio
+27. Lifehouse
+28. Mute Math
+29. P!nk
+30. Stone Sour
+31. Kelly Clarkson
+32. Bloc Party
+33. The Used
+34. The All-American Rejects
+35. Fall Out Boy
+36. Panic! At The Disco
+37. Dashboard Confessional
+38. Jimmy Eat World
+39. The Killers
+40. Muse
+41. Radiohead
+42. Coldplay
+43. Snow Patrol
+44. Death Cab for Cutie
+45. The Fray
+46. Keane
+47. The Postal Service
+48. The Shins
+49. Arcade Fire
+50. Vampire Weekend

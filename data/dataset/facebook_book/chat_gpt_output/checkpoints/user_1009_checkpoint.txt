@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. Slaughterhouse-Five by Kurt Vonnegut
+4. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+5. Dune by Frank Herbert
+6. The Handmaid's Tale by Margaret Atwood
+7. The Catcher in the Rye by J.D. Salinger
+8. To Kill a Mockingbird by Harper Lee
+9. The Great Gatsby by F. Scott Fitzgerald
+10. One Hundred Years of Solitude by Gabriel Garcia Marquez
+11. The Picture of Dorian Gray by Oscar Wilde
+12. The Road by Cormac McCarthy
+13. The Stranger by Albert Camus
+14. The Bell Jar by Sylvia Plath
+15. The Brothers Karamazov by Fyodor Dostoevsky
+16. Crime and Punishment by Fyodor Dostoevsky
+17. The Name of the Rose by Umberto Eco
+18. The Shadow of the Wind by Carlos Ruiz Zafón
+19. The Girl with the Dragon Tattoo by Stieg Larsson
+20. The Hunger Games by Suzanne Collins
+21. The Martian by Andy Weir
+22. The Stand by Stephen King
+23. The Shining by Stephen King
+24. The Silence of the Lambs by Thomas Harris
+25. The Da Vinci Code by Dan Brown
+26. Angels and Demons by Dan Brown
+27. The Bourne Identity by Robert Ludlum
+28. The Hunt for Red October by Tom Clancy
+29. The Andromeda Strain by Michael Crichton
+30. Jurassic Park by Michael Crichton
+31. The War of the Worlds by H.G. Wells
+32. The Time Machine by H.G. Wells
+33. The Island of Dr. Moreau by H.G. Wells
+34. The Invisible Man by H.G. Wells
+35. The Hitchhiker's Guide to the Galaxy: The Restaurant at the End of the Universe by Douglas Adams
+36. The Hitchhiker's Guide to the Galaxy: Life, the Universe and Everything by Douglas Adams
+37. The Hitchhiker's Guide to the Galaxy: So Long, and Thanks for All the Fish by Douglas Adams
+38. The Hitchhiker's Guide to the Galaxy: Mostly Harmless by Douglas Adams
+39. The Lord of the Rings: The Fellowship of the Ring by J.R.R. Tolkien
+40. The Lord of the Rings: The Two Towers by J.R.R. Tolkien
+41. The Lord of the Rings: The Return of the King by J.R.R. Tolkien
+42. The Hobbit: or There and Back Again by J.R.R. Tolkien
+43. The Silmarillion by J.R.R. Tolkien
+44. The Devil in the White City by Erik Larson
+45. The Power of One by Bryce Courtenay
+46. The Pillars of the Earth by Ken Follett
+47. The Help by Kathryn Stockett
+48. Nine Stories by J.D. Salinger
+49. The Bell Jar by Sylvia Plath
+50. The Wise Man's Fear by Patrick Rothfuss

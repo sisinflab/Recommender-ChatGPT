@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Green Day
+2. Nirvana
+3. Foo Fighters
+4. Pearl Jam
+5. The Killers
+6. Coldplay
+7. Linkin Park
+8. System of a Down
+9. Queens of the Stone Age
+10. The White Stripes
+11. Muse
+12. Radiohead
+13. Arctic Monkeys
+14. The Strokes
+15. My Chemical Romance
+16. Fall Out Boy
+17. Panic! At the Disco
+18. Paramore
+19. Thirty Seconds to Mars
+20. Imagine Dragons
+21. The Black Keys
+22. Vampire Weekend
+23. Cage the Elephant
+24. Kings of Leon
+25. The 1975
+26. The Neighbourhood
+27. Tame Impala
+28. Foster the People
+29. Two Door Cinema Club
+30. Phoenix
+31. Franz Ferdinand
+32. The Hives
+33. The Vines
+34. The Libertines
+35. The Kooks
+36. The Fratellis
+37. The Wombats
+38. Arctic Monkeys
+39. The Vaccines
+40. The Arctic Monkeys
+41. The Strokes
+42. The Black Keys
+43. The Raconteurs
+44. The Hives
+45. The Vines
+46. The Libertines
+47. The Kooks
+48. The Fratellis
+49. The Wombats
+50. The Vaccines

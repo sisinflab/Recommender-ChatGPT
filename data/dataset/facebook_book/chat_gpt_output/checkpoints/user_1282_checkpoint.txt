@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lost Symbol by Dan Brown
+2. The Hunger Games by Suzanne Collins
+3. The Girl with the Dragon Tattoo by Stieg Larsson
+4. The Help by Kathryn Stockett
+5. The Maze Runner by James Dashner
+6. The Fault in Our Stars by John Green
+7. The Chronicles of Narnia by C.S. Lewis
+8. The Lord of the Rings by J.R.R. Tolkien
+9. The Hobbit by J.R.R. Tolkien
+10. The Catcher in the Rye by J.D. Salinger
+11. To Kill a Mockingbird by Harper Lee
+12. The Great Gatsby by F. Scott Fitzgerald
+13. The Book Thief by Markus Zusak
+14. The Alchemist by Paulo Coelho
+15. The Kite Runner by Khaled Hosseini
+16. The Secret Life of Bees by Sue Monk Kidd
+17. The Lovely Bones by Alice Sebold
+18. The Time Traveler's Wife by Audrey Niffenegger
+19. The Giver by Lois Lowry
+20. The Outsiders by S.E. Hinton
+21. The Perks of Being a Wallflower by Stephen Chbosky
+22. The Hunger Games Trilogy Boxset by Suzanne Collins
+23. The Twilight Saga Collection by Stephenie Meyer
+24. The Harry Potter Series by J.K. Rowling
+25. The Girl on the Train by Paula Hawkins
+26. The Da Vinci Code (Robert Langdon) by Dan Brown
+27. The Inferno by Dan Brown
+28. The Lost Hero by Rick Riordan
+29. The Son of Neptune by Rick Riordan
+30. The Mark of Athena by Rick Riordan
+31. The House of Hades by Rick Riordan
+32. The Blood of Olympus by Rick Riordan
+33. The Lightning Thief by Rick Riordan
+34. The Sea of Monsters by Rick Riordan
+35. The Titan's Curse by Rick Riordan
+36. The Battle of the Labyrinth by Rick Riordan
+37. The Last Olympian by Rick Riordan
+38. The Notebook by Nicholas Sparks
+39. A Walk to Remember by Nicholas Sparks
+40. The Lucky One by Nicholas Sparks
+41. Safe Haven by Nicholas Sparks
+42. The Best of Me by Nicholas Sparks
+43. The Longest Ride by Nicholas Sparks
+44. The Inheritance Cycle Boxed Set by Christopher Paolini
+45. Eragon by Christopher Paolini
+46. Eldest by Christopher Paolini
+47. Brisingr by Christopher Paolini
+48. Inheritance by Christopher Paolini
+49. The Hardy Boys Starter Set by Franklin W. Dixon
+50. Green Eggs and Ham by Dr. Seuss

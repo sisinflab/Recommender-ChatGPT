@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Harry Potter and the Sorcerer's Stone by J.K. Rowling
+2. Harry Potter and the Chamber of Secrets by J.K. Rowling
+3. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+4. Harry Potter and the Goblet of Fire by J.K. Rowling
+5. Harry Potter and the Order of Phoenix by J.K. Rowling
+6. Harry Potter and the Half-Blood Prince by J.K. Rowling
+7. Harry Potter and the Deathly Hallows by J.K. Rowling
+8. The Hunger Games by Suzanne Collins
+9. Catching Fire by Suzanne Collins
+10. Mockingjay by Suzanne Collins
+11. Divergent by Veronica Roth
+12. Insurgent by Veronica Roth
+13. Allegiant by Veronica Roth
+14. The Maze Runner by James Dashner
+15. The Scorch Trials by James Dashner
+16. The Death Cure by James Dashner
+17. The Kill Order by James Dashner
+18. The Fault in Our Stars by John Green
+19. Looking for Alaska by John Green
+20. Paper Towns by John Green
+21. An Abundance of Katherines by John Green
+22. The Book Thief by Markus Zusak
+23. The Giver by Lois Lowry
+24. Gathering Blue by Lois Lowry
+25. Messenger by Lois Lowry
+26. Son by Lois Lowry
+27. Pride and Prejudice by Jane Austen
+28. Sense and Sensibility by Jane Austen
+29. Emma by Jane Austen
+30. Persuasion by Jane Austen
+31. Northanger Abbey by Jane Austen
+32. Uzumaki by Junji Ito
+33. Gyo by Junji Ito
+34. Tomie by Junji Ito
+35. Quidditch Through the Ages by J.K. Rowling
+36. The Tales of Beedle the Bard by J.K. Rowling
+37. Tuck Everlasting by Natalie Babbitt
+38. Matilda by Roald Dahl
+39. Charlie and the Chocolate Factory by Roald Dahl
+40. Fantastic Beasts and Where to Find Them by J.K. Rowling
+41. Les Misérables by Victor Hugo
+42. The Little Prince by Antoine de Saint-Exupéry
+43. The Outsiders by S.E. Hinton
+44. Fahrenheit 451 by Ray Bradbury
+45. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+46. A Tale of Two Cities by Charles Dickens
+47. The Notebook by Nicholas Sparks
+48. The Giving Tree by Shel Silverstein
+49. Thirteen Reasons Why by Jay Asher
+50. The Catcher in the Rye by J.D. Salinger

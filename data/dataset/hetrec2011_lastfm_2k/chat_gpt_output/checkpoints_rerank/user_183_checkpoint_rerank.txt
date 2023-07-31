@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Jeff Buckley
+2. Led Zeppelin
+3. Slowdive
+4. Cocteau Twins
+5. The Smiths
+6. Morrissey
+7. The Who
+8. Red Hot Chili Peppers
+9. Kate Bush
+10. New Order
+11. Oasis
+12. Siouxsie and the Banshees
+13. Tears for Fears
+14. Dave Gahan
+15. Travis
+16. Garbage
+17. Fugazi
+18. Talk Talk
+19. A Perfect Circle
+20. Soda Stereo
+21. The Police
+22. The Cardigans
+23. Sade
+24. George Michael
+25. The Verve
+26. Aretha Franklin
+27. Radiohead
+28. Nirvana
+29. Pearl Jam
+30. Pink Floyd
+31. Muse
+32. U2
+33. Michael Jackson
+34. Beyoncé
+35. Björk
+36. System of a Down
+37. Nine Inch Nails
+38. Iron Maiden
+39. Metallica
+40. Daft Punk
+41. Linkin Park
+42. Coldplay
+43. Blur
+44. Arctic Monkeys
+45. Placebo
+46. The Killers
+47. Amy Winehouse
+48. Duran Duran
+49. Kylie Minogue
+50. Madonna

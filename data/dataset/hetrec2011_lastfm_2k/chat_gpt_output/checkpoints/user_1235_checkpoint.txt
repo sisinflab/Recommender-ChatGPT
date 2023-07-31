@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Tool
+3. Muse
+4. Arcade Fire
+5. The Smashing Pumpkins
+6. Pearl Jam
+7. The Cure
+8. Foo Fighters
+9. System of a Down
+10. Queens of the Stone Age
+11. Soundgarden
+12. Nine Inch Nails (similar artist)
+13. Flogging Molly (similar artist)
+14. Peter Gabriel (similar artist)
+15. Enya (similar artist)
+16. Green Day (similar artist)
+17. Ani DiFranco (similar artist)
+18. R.E.M. (similar artist)
+19. Linkin Park (similar artist)
+20. Vangelis (similar artist)
+21. Duran Duran (similar artist)
+22. Ennio Morricone (similar artist)
+23. Sting (similar artist)
+24. Lily Allen (similar artist)
+25. Rush (similar artist)
+26. Metallica (similar artist)
+27. Vampire Weekend (similar artist)
+28. The Police (similar artist)
+29. Suzanne Vega (similar artist)
+30. Norah Jones (similar artist)
+31. Fall Out Boy (similar artist)
+32. Dead Can Dance (similar artist)
+33. Panic! At the Disco (similar artist)
+34. Coldplay (similar artist)
+35. Depeche Mode (similar artist)
+36. The Killers
+37. Kings of Leon
+38. Arctic Monkeys
+39. Florence + The Machine
+40. The Black Keys
+41. The Strokes
+42. Interpol
+43. Yeah Yeah Yeahs
+44. Bloc Party
+45. Franz Ferdinand
+46. The White Stripes
+47. The Raconteurs
+48. The Hives
+49. The Vines
+50. The Libertines

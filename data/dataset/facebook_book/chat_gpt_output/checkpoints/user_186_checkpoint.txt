@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. The Handmaid's Tale by Margaret Atwood
+4. The Catcher in the Rye by J.D. Salinger
+5. To Kill a Mockingbird by Harper Lee
+6. The Great Gatsby by F. Scott Fitzgerald
+7. Lord of the Flies by William Golding
+8. The Bell Jar by Sylvia Plath
+9. One Hundred Years of Solitude by Gabriel Garcia Marquez
+10. The Picture of Dorian Gray by Oscar Wilde
+11. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+12. The Hobbit by J.R.R. Tolkien
+13. The Fellowship of the Ring by J.R.R. Tolkien
+14. The Two Towers by J.R.R. Tolkien
+15. The Return of the King by J.R.R. Tolkien
+16. The Hunger Games by Suzanne Collins
+17. Catching Fire by Suzanne Collins
+18. Mockingjay by Suzanne Collins
+19. The Maze Runner by James Dashner
+20. The Giver by Lois Lowry
+21. The Book Thief by Markus Zusak
+22. The Fault in Our Stars by John Green
+23. Looking for Alaska by John Green
+24. Paper Towns by John Green
+25. The Perks of Being a Wallflower by Stephen Chbosky
+26. The Road by Cormac McCarthy
+27. The Girl with the Dragon Tattoo by Stieg Larsson
+28. The Girl Who Played with Fire by Stieg Larsson
+29. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+30. The Da Vinci Code by Dan Brown
+31. Angels and Demons by Dan Brown
+32. Inferno by Dan Brown
+33. The Alchemist by Paulo Coelho
+34. The Kite Runner by Khaled Hosseini
+35. A Thousand Splendid Suns by Khaled Hosseini
+36. The Lovely Bones by Alice Sebold
+37. The Help by Kathryn Stockett
+38. The Secret Life of Bees by Sue Monk Kidd
+39. The Color Purple by Alice Walker
+40. The Joy Luck Club by Amy Tan
+41. The God of Small Things by Arundhati Roy
+42. Life of Pi by Yann Martel
+43. The Time Traveler's Wife by Audrey Niffenegger
+44. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+45. The Name of the Wind by Patrick Rothfuss
+46. The Wise Man's Fear by Patrick Rothfuss
+47. The Nightingale by Kristin Hannah
+48. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+49. The Glass Castle by Jeannette Walls
+50. Educ

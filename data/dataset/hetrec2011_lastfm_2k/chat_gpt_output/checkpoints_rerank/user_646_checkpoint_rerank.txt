@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Justin Bieber
+2. Jonas Brothers
+3. Chris Brown
+4. Bruno Mars
+5. Demi Lovato
+6. Taylor Swift
+7. Katy Perry
+8. Rihanna
+9. Avril Lavigne
+10. Enrique Iglesias
+11. Britney Spears
+12. Shakira
+13. Beyoncé
+14. David Guetta
+15. Lady Gaga
+16. Jennifer Lopez
+17. Jessie J
+18. JLS
+19. The Script
+20. McFly
+21. Jason Derülo
+22. David Archuleta
+23. Mitchel Musso
+24. Miranda Cosgrove
+25. Owl City
+26. Ashley Tisdale
+27. Pixie Lott
+28. Willow Smith
+29. Jesse McCartney
+30. B.o.B
+31. Glee Cast
+32. Michael Jackson
+33. Eminem
+34. OneRepublic
+35. Madonna
+36. Paramore
+37. Evanescence
+38. U2
+39. Muse
+40. Pink Floyd
+41. Kylie Minogue
+42. Radiohead
+43. Ke$ha
+44. Coldplay
+45. The Killers
+46. Nirvana
+47. Iron Maiden
+48. Led Zeppelin
+49. Metallica
+50. Amy Winehouse

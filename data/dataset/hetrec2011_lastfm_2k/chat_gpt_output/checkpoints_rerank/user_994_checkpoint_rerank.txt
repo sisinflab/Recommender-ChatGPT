@@ -1,0 +1,54 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Sigur Rós
+2. Björk
+3. Moby
+4. Kraftwerk
+5. 浜崎あゆみ
+6. Rammstein
+7. Gregorian
+8. Goldfrapp
+9. Emilíana Torrini
+10. Ulrich Schnauss
+11. Jónsi & Alex
+12. Massive Attack
+13. Pink Floyd
+14. Lady Gaga
+15. Muse
+16. The Beatles
+17. Eric Clapton
+18. Michael Jackson
+19. Depeche Mode
+20. Radiohead
+21. Madonna
+22. U2
+23. Nirvana
+24. Led Zeppelin
+25. The Killers
+26. Coldplay
+27. Duran Duran
+28. Arctic Monkeys
+29. Placebo
+30. Iron Maiden
+31. Metallica
+32. Pearl Jam
+33. a-ha
+34. System of a Down
+35. Daft Punk
+36. Nine Inch Nails
+37. Linkin Park
+38. Avenged Sevenfold
+39. My Chemical Romance
+40. Green Day
+41. The Cure
+42. Christina Aguilera
+43. Beyoncé
+44. Shakira
+45. Katy Perry
+46. Taylor Swift
+47. Ke$ha
+48. P!nk
+49. Black Eyed Peas
+50. Kelly Clarkson
+
+Note: The Pussycat Dolls and Evanescence were not included in the list of recommendations as they were not present in the list of artists to be ranked.

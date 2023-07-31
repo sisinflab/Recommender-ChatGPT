@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter
+2. Nineteen Eighty-Four
+3. Catch-22
+4. Cat's Cradle
+5. The Catcher in the Rye
+6. To Kill a Mockingbird
+7. The Vampire Lestat
+8. The Alchemist (novel)
+9. A Tale of Two Cities
+10. The Hunchback of Notre-Dame
+11. The Glass Bead Game
+12. Island (book)
+13. The Giver
+14. The Things They Carried
+15. One Hundred Years of Solitude
+16. Lolita
+17. Slaughterhouse-Five
+18. The Watchmen (novel)
+19. Haunted (Palahniuk novel)
+20. The Perks of Being a Wallflower
+21. Inferno (Dante)
+22. The Screwtape Letters
+23. Middlesex (novel)
+24. The Celestine Prophecy
+25. Everything Bad Is Good for You
+26. The Clan of the Cave Bear
+27. Siddhartha (novel)
+28. Steppenwolf (novel)
+29. The Interpretation of Dreams
+30. Cabal (novella)
+31. V (comics)
+32. Where the Sidewalk Ends (book)
+33. John Dies at the End
+34. Left Behind (novel)
+35. The Walking Dead (comic book)
+36. Green Eggs and Ham
+37. The Game: Penetrating the Secret Society of Pickup Artists
+38. I Never Promised You a Rose Garden (novel)
+39. The Hunchback of Notre-Dame
+40. Songs of Innocence and of Experience
+41. Choke (novel)
+42. A New Earth
+43. The Gargoyle (novel)
+44. Invisible Monsters
+45. Lullaby (Palahniuk novel)
+46. Running with Scissors (memoir)
+47. A Million Little Pieces
+48. Wicked: The Life and Times of the Wicked Witch of the West
+49. Peter and Wendy
+50. Alas, Babylon

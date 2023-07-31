@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Nirvana
+2. Metallica
+3. Led Zeppelin
+4. Guns N' Roses
+5. AC/DC
+6. Black Sabbath
+7. Iron Maiden
+8. Pearl Jam
+9. Foo Fighters
+10. Red Hot Chili Peppers
+11. Slipknot
+12. Korn
+13. System of a Down
+14. Marilyn Manson
+15. Alice Cooper
+16. Ozzy Osbourne
+17. Dream Theater
+18. Velvet Revolver
+19. Pantera
+20. Three Days Grace
+21. Avenged Sevenfold
+22. Blink-182
+23. Sum 41
+24. Good Charlotte
+25. My Chemical Romance
+26. Green Day
+27. The Killers
+28. Muse
+29. 30 Seconds to Mars
+30. Radiohead
+31. Pink Floyd
+32. The Beatles
+33. Jimi Hendrix
+34. Creed
+35. Three Days Grace
+36. Four Year Strong
+37. Suicide Silence
+38. Serj Tankian
+39. Bad Religion
+40. The Strokes
+41. Arctic Monkeys
+42. Placebo
+43. Duran Duran
+44. Coldplay
+45. Blur
+46. Michael Jackson
+47. Madonna
+48. Lady Gaga
+49. Rihanna
+50. Beyoncé

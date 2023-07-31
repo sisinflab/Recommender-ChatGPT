@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Muse
+2. Radiohead
+3. Placebo
+4. Björk
+5. Snow Patrol
+6. Lykke Li
+7. Trentemøller
+8. Robyn
+9. The Smashing Pumpkins
+10. Blutengel
+11. HIM
+12. The Birthday Massacre
+13. Apoptygma Berzerk
+14. Porcelain and the Tramps
+15. Sneaker Pimps
+16. AFI
+17. Faithless
+18. Ayria
+19. L'Âme Immortelle
+20. Apparat
+21. Stereophonics
+22. Hadouken!
+23. Billy Talent
+24. Depeche Mode
+25. Nine Inch Nails
+26. Linkin Park
+27. Nirvana
+28. Iron Maiden
+29. Metallica
+30. Pearl Jam
+31. Led Zeppelin
+32. Michael Jackson
+33. a-ha
+34. System of a Down
+35. Daft Punk
+36. The Killers
+37. Coldplay
+38. Blur
+39. Arctic Monkeys
+40. Duran Duran
+41. U2
+42. Pink Floyd
+43. The Beatles
+44. Madonna
+45. Lady Gaga
+46. Christina Aguilera
+47. Rihanna
+48. Shakira
+49. Katy Perry
+50. Avril Lavigne

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Depeche Mode
+2. Madonna
+3. The Cure
+4. Duran Duran
+5. New Order
+6. Yazoo
+7. Goldfrapp
+8. Siouxsie and the Banshees
+9. Gary Numan
+10. KMFDM
+11. Bauhaus
+12. The B-52's
+13. Blondie
+14. Culture Club
+15. Garbage
+16. The Chemical Brothers
+17. Thomas Dolby
+18. LCD Soundsystem
+19. A Flock of Seagulls
+20. Daft Punk
+21. Ministry
+22. Frankie Goes to Hollywood
+23. Moby
+24. Kylie Minogue
+25. Lady Gaga
+26. Britney Spears
+27. Christina Aguilera
+28. Rihanna
+29. Shakira
+30. Beyoncé
+31. Pink Floyd
+32. Muse
+33. Radiohead
+34. Ke$ha
+35. Arctic Monkeys
+36. Coldplay
+37. Blur
+38. Placebo
+39. The Killers
+40. Nirvana
+41. Iron Maiden
+42. Led Zeppelin
+43. Metallica
+44. Michael Jackson
+45. Pearl Jam
+46. a-ha
+47. Björk
+48. Nine Inch Nails
+49. Linkin Park
+50. Green Day

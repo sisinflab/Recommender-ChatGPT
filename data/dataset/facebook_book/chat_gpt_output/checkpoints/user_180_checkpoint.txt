@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. American Psycho by Bret Easton Ellis
+2. The Girl with the Dragon Tattoo by Stieg Larsson
+3. The Silence of the Lambs by Thomas Harris
+4. The Shining by Stephen King
+5. The Catcher in the Rye by J.D. Salinger
+6. The Da Vinci Code by Dan Brown
+7. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Great Gatsby by F. Scott Fitzgerald
+10. The Hobbit by J.R.R. Tolkien
+11. The Lord of the Rings by J.R.R. Tolkien
+12. The Hunger Games by Suzanne Collins
+13. 1984 by George Orwell
+14. Animal Farm by George Orwell
+15. Brave New World by Aldous Huxley
+16. Fahrenheit 451 by Ray Bradbury
+17. The Road by Cormac McCarthy
+18. The Martian by Andy Weir
+19. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+20. The Catcher in the Rye by J.D. Salinger
+21. The Da Vinci Code by Dan Brown
+22. The Picture of Dorian Gray by Oscar Wilde
+23. The Great Gatsby by F. Scott Fitzgerald
+24. The Hobbit by J.R.R. Tolkien
+25. The Lord of the Rings by J.R.R. Tolkien
+26. The Hunger Games by Suzanne Collins
+27. 1984 by George Orwell
+28. Animal Farm by George Orwell
+29. Brave New World by Aldous Huxley
+30. Fahrenheit 451 by Ray Bradbury
+31. The Road by Cormac McCarthy
+32. The Martian by Andy Weir
+33. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+34. The Catcher in the Rye by J.D. Salinger
+35. The Da Vinci Code by Dan Brown
+36. The Picture of Dorian Gray by Oscar Wilde
+37. The Great Gatsby by F. Scott Fitzgerald
+38. The Hobbit by J.R.R. Tolkien
+39. The Lord of the Rings by J.R.R. Tolkien
+40. The Hunger Games by Suzanne Collins
+41. 1984 by George Orwell
+42. Animal Farm by George Orwell
+43. Brave New World by Aldous Huxley
+44. Fahrenheit 451 by Ray Bradbury
+45. The Road by Cormac McCarthy
+46. The Martian by Andy Weir
+47. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+48. The Catcher in the Rye by J.D. Salinger
+49. The Da Vinci Code by Dan Brown
+50. The Picture of Dorian Gray by Oscar Wilde

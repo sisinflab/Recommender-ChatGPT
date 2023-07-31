@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations are:
+
+1. Muse
+2. Green Day
+3. The Killers
+4. My Chemical Romance
+5. Foo Fighters
+6. Paramore
+7. Arctic Monkeys
+8. Fall Out Boy
+9. Panic! At the Disco
+10. The Strokes
+11. Ramones
+12. Aerosmith
+13. Blondie
+14. Hard-Fi
+15. The Kooks
+16. New Found Glory
+17. Sum 41
+18. The Fratellis
+19. Angels & Airwaves
+20. Kaiser Chiefs
+21. Bloc Party
+22. New Order
+23. Pink Floyd
+24. Coldplay
+25. Queen
+26. The Beatles
+27. The Who
+28. James Morrison
+29. John Mayer
+30. Gavin DeGraw
+31. Justin Timberlake
+32. Maroon 5
+33. Adele
+34. Alicia Keys
+35. Colbie Caillat
+36. KT Tunstall
+37. Laura Marling
+38. Regina Spektor
+39. Sarah Brightman
+40. Tori Amos
+41. Cat Power
+42. Sia
+43. Lady Gaga
+44. Keane
+45. James Blunt
+46. Cobra Starship
+47. Lykke Li
+48. Leona Lewis
+49. Rihanna
+50. Pitty

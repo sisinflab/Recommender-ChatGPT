@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Da Vinci Code by Dan Brown
+2. Angels & Demons by Dan Brown
+3. Deception Point by Dan Brown
+4. The Lost Symbol by Dan Brown
+5. Love Story by Erich Segal
+6. To Kill a Mockingbird by Harper Lee
+7. Digital Fortress by Dan Brown
+8. The Class by Erich Segal
+9. The Godfather by Mario Puzo
+10. The Kite Runner by Khaled Hosseini
+11. The Lovely Bones by Alice Sebold
+12. Hannibal by Thomas Harris
+13. The Silence of the Lambs by Thomas Harris
+14. Dracula by Bram Stoker
+15. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+16. The Lord of the Rings by J.R.R. Tolkien
+17. Nineteen Eighty-Four by George Orwell
+18. The Fountainhead by Ayn Rand
+19. Outliers by Malcolm Gladwell
+20. Losing My Virginity by Richard Branson
+21. Illusions by Richard Bach
+22. The Winner Stands Alone by Paulo Coelho
+23. The Zahir by Paulo Coelho
+24. A Thousand Splendid Suns by Khaled Hosseini
+25. Brida by Paulo Coelho
+26. The Firm by John Grisham
+27. False Memory by Dean Koontz
+28. Christine by Stephen King
+29. Touching the Void by Joe Simpson
+30. Timeline by Michael Crichton
+31. State of Fear by Michael Crichton
+32. Congo by Michael Crichton
+33. The Hellbound Heart by Clive Barker
+34. Gaunt's Ghosts by Dan Abnett
+35. If You Could See Me Now by Cecelia Ahern
+36. The Doomsday Conspiracy by Sidney Sheldon
+37. Holes by Louis Sachar
+38. The Last Don by Mario Puzo
+39. Anthem by Ayn Rand
+40. Sense and Sensibility and Sea Monsters by Jane Austen and Ben H. Winters
+41. The Argumentative Indian by Amartya Sen
+42. Quran by Anonymous
+43. Adolf Hitler: My Part in His Downfall by Spike Milligan
+44. Pride and Prejudice and Zombies by Jane Austen and Seth Grahame-Smith
+45. Fox in Socks by Dr. Seuss
+46. Mills & Boon by Various Authors
+47. The Silence of the Lambs by Thomas Harris
+48. Stupid White Men...and Other Sorry Excuses for the State of the Nation! by Michael Moore
+49. Made in America by Bill Bryson
+50. Teaching with Calvin and Hobbes by Linda Holmen

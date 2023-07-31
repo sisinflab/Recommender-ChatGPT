@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Name of the Wind by Patrick Rothfuss
+2. Harry Potter series by J.K. Rowling
+3. Ender's Game by Orson Scott Card
+4. Neuromancer by William Gibson
+5. A Clockwork Orange by Anthony Burgess
+6. The Hunger Games by Suzanne Collins
+7. The Dark Tower series by Stephen King
+8. I, Robot by Isaac Asimov
+9. The Prince by Niccolo Machiavelli
+10. Ulysses by James Joyce
+11. Les Fleurs du mal by Charles Baudelaire
+12. Waiting for Godot by Samuel Beckett
+13. Winnie-the-Pooh by A.A. Milne
+14. Through the Looking-Glass by Lewis Carroll
+15. Never Let Me Go by Kazuo Ishiguro
+16. The Zombie Survival Guide by Max Brooks
+17. Divine Comedy by Dante Alighieri
+18. On Writing by Stephen King
+19. Good Omens by Neil Gaiman and Terry Pratchett
+20. The Sirens of Titan by Kurt Vonnegut
+21. Catching Fire by Suzanne Collins
+22. Sin City by Frank Miller
+23. Armor by John Steakley
+24. The Stainless Steel Rat by Harry Harrison
+25. Looking for Alaska by John Green
+26. Paradise Lost by John Milton
+27. Ender's Shadow by Orson Scott Card
+28. Batman: The Killing Joke by Alan Moore
+29. Foundation by Isaac Asimov
+30. Old Man's War by John Scalzi
+31. Brave New World by Aldous Huxley
+32. Children of the Mind by Orson Scott Card
+33. Garfield by Jim Davis
+34. Journey to the West by Wu Cheng'en
+35. Xenocide by Orson Scott Card
+36. Macbeth by William Shakespeare
+37. Dracula by Bram Stoker
+38. Nightmares & Dreamscapes by Stephen King
+39. Halo: First Strike by Eric Nylund
+40. Halo: The Flood by William C. Dietz
+41. The Art of Deception by Kevin Mitnick
+42. The Ruins by Scott Smith
+43. Halo: Ghosts of Onyx by Eric Nylund
+44. John Dies at the End by David Wong
+45. Batman: Year One by Frank Miller
+46. The Watchmen by Alan Moore
+47. Pride and Prejudice and Zombies by Seth Grahame-Smith
+48. Johnny the Homicidal Maniac by Jhonen Vasquez
+49. The Castle of Otranto by Horace Walpole
+50. Understanding Comics by Scott McCloud

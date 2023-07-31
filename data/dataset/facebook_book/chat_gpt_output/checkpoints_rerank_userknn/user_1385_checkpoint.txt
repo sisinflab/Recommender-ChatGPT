@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Harry Potter series by J.K. Rowling
+2. The Hunger Games by Suzanne Collins
+3. The Catcher in the Rye by J.D. Salinger
+4. To Kill a Mockingbird by Harper Lee
+5. 1984 by George Orwell
+6. Animal Farm by George Orwell
+7. Lord of the Rings series by J.R.R. Tolkien
+8. The Hobbit by J.R.R. Tolkien
+9. The Great Gatsby by F. Scott Fitzgerald
+10. Pride and Prejudice by Jane Austen
+11. The Chronicles of Narnia series by C.S. Lewis
+12. The Da Vinci Code by Dan Brown
+13. Angels and Demons by Dan Brown
+14. The Girl with the Dragon Tattoo by Stieg Larsson
+15. The Girl Who Played with Fire by Stieg Larsson
+16. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+17. The Lord of the Flies by William Golding
+18. The Outsiders by S.E. Hinton
+19. The Kite Runner by Khaled Hosseini
+20. The Lovely Bones by Alice Sebold
+21. Atonement by Ian McEwan
+22. Memoirs of a Geisha by Arthur Golden
+23. Fahrenheit 451 by Ray Bradbury
+24. Crime and Punishment by Fyodor Dostoevsky
+25. Les Misérables by Victor Hugo
+26. Alice's Adventures in Wonderland by Lewis Carroll
+27. The Old Man and the Sea by Ernest Hemingway
+28. Persuasion by Jane Austen
+29. Jane Eyre by Charlotte Bronte
+30. Wuthering Heights by Emily Bronte
+31. Ink Exchange by Melissa Marr
+32. The Red Tent by Anita Diamant
+33. The Pit and the Pendulum by Edgar Allan Poe
+34. Thirteen Reasons Why by Jay Asher
+35. The Screwtape Letters by C.S. Lewis
+36. Dear John by Nicholas Sparks
+37. The Thief of Always by Clive Barker
+38. A Clockwork Orange by Anthony Burgess
+39. Nightmares & Dreamscapes by Stephen King
+40. Watchmen by Alan Moore
+41. Paradise Lost by John Milton
+42. My Antonia by Willa Cather
+43. The Jungle Book by Rudyard Kipling
+44. Flowers in the Attic by V.C. Andrews
+45. Gulliver's Travels by Jonathan Swift
+46. Where the Red Fern Grows by Wilson Rawls
+47. The Zombie Survival Guide by Max Brooks
+48. The Temple of My Familiar by Alice Walker
+49. Running with Scissors by Augusten Burroughs
+50. Vanity Fair by William Makepeace Thackeray

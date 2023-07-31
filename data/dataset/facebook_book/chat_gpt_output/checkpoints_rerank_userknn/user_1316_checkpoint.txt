@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations for them:
+
+1. Harry Potter
+2. The Lord of the Rings
+3. Pride and Prejudice
+4. Wuthering Heights
+5. Jane Eyre
+6. The Chronicles of Narnia: Prince Caspian
+7. Dracula
+8. Les Misérables
+9. The Picture of Dorian Gray
+10. Nineteen Eighty-Four
+11. Robinson Crusoe
+12. Great Expectations
+13. The Kite Runner
+14. The Catcher in the Rye
+15. The Lovely Bones
+16. The Girl Who Loved Tom Gordon
+17. David Copperfield
+18. Ballet Shoes (novel)
+19. Emma (novel)
+20. Rebecca (novel)
+21. The Red Tent
+22. The Portrait of a Lady
+23. Divine Comedy
+24. Candide
+25. Inferno (Dante)
+26. The Mists of Avalon
+27. Ramayana
+28. King Solomon's Mines
+29. The Screwtape Letters
+30. Out of the Silent Planet
+31. The Martian Chronicles
+32. Fahrenheit 451
+33. Misery (novel)
+34. Where the Sidewalk Ends (book)
+35. This Is Your Brain On Music
+36. The Zombie Survival Guide
+37. Iliad
+38. Bible
+39. Twisted (book)
+40. Kick Ass (book)
+41. Redwall (novel)
+42. Twilight (series)
+43. Twilight Eyes
+44. Holes (novel)
+45. The Chosen (Potok novel)
+46. Because of Winn-Dixie
+47. Old Farmer's Almanac
+48. Lord of the Flies
+49. Crime and Punishment
+50. Frankenstein

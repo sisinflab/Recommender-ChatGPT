@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Angels and Demons by Dan Brown
+2. The Count of Monte Cristo by Alexandre Dumas
+3. Crime and Punishment by Fyodor Dostoevsky
+4. The Picture of Dorian Gray by Oscar Wilde
+5. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+6. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+7. The Catcher in the Rye by J.D. Salinger
+8. The Great Gatsby by F. Scott Fitzgerald
+9. To Kill a Mockingbird by Harper Lee
+10. 1984 by George Orwell
+11. Animal Farm by George Orwell
+12. The Hobbit by J.R.R. Tolkien
+13. The Lord of the Rings by J.R.R. Tolkien
+14. The Hunger Games by Suzanne Collins
+15. Catching Fire by Suzanne Collins
+16. Mockingjay by Suzanne Collins
+17. The Girl with the Dragon Tattoo by Stieg Larsson
+18. The Girl Who Played with Fire by Stieg Larsson
+19. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+20. The Name of the Rose by Umberto Eco
+21. The Shadow of the Wind by Carlos Ruiz Zafón
+22. One Hundred Years of Solitude by Gabriel García Márquez
+23. Love in the Time of Cholera by Gabriel García Márquez
+24. The Alchemist by Paulo Coelho
+25. Life of Pi by Yann Martel
+26. The Road by Cormac McCarthy
+27. The Kite Runner by Khaled Hosseini
+28. A Thousand Splendid Suns by Khaled Hosseini
+29. The Book Thief by Markus Zusak
+30. The Fault in Our Stars by John Green
+31. Looking for Alaska by John Green
+32. Paper Towns by John Green
+33. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+34. The Secret History by Donna Tartt
+35. The Goldfinch by Donna Tartt
+36. The Bell Jar by Sylvia Plath
+37. The Handmaid's Tale by Margaret Atwood
+38. Brave New World by Aldous Huxley
+39. Fahrenheit 451 by Ray Bradbury
+40. Slaughterhouse-Five by Kurt Vonnegut
+41. Cat's Cradle by Kurt Vonnegut
+42. The Stranger by Albert Camus
+43. The Plague by Albert Camus
+44. Thus Spoke Zarathustra by Friedrich Nietzsche
+45. Beyond Good and Evil by Friedrich Nietzsche
+46. The Birth of Tragedy by Friedrich Nietzsche
+47. Steppenwolf by Hermann Hesse
+48. Narcissus and Goldmund by Hermann Hesse
+49. The Bell Jar by Sylvia Plath
+50. The Wise Man's Fear by Patrick Rothfuss

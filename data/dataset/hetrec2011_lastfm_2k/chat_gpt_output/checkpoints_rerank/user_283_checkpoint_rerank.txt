@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Portishead
+2. Tricky
+3. Thievery Corporation
+4. Hooverphonic
+5. Sneaker Pimps
+6. UNKLE
+7. Zero 7
+8. Faithless
+9. Groove Armada
+10. Bonobo
+11. Everything but the Girl
+12. Flunk
+13. Tiësto
+14. Radiohead
+15. Muse
+16. Pink Floyd
+17. The Beatles
+18. Coldplay
+19. Blur
+20. Arctic Monkeys
+21. Placebo
+22. The Killers
+23. Nirvana
+24. Led Zeppelin
+25. Metallica
+26. Iron Maiden
+27. Pearl Jam
+28. Michael Jackson
+29. U2
+30. Duran Duran
+31. Björk
+32. System of a Down
+33. Daft Punk
+34. Nine Inch Nails
+35. Linkin Park
+36. Amy Winehouse
+37. Green Day
+38. The Cure
+39. Lady Gaga
+40. Beyoncé
+41. Rihanna
+42. Shakira
+43. Madonna
+44. Christina Aguilera
+45. Katy Perry
+46. Taylor Swift
+47. Ke$ha
+48. Avril Lavigne
+49. Paramore
+50. All Time Low

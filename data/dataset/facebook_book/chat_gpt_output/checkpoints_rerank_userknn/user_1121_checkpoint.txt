@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Love in the Time of Cholera by Gabriel García Márquez
+2. The Namesake by Jhumpa Lahiri
+3. The Wind-Up Bird Chronicle by Haruki Murakami
+4. The Age of Innocence by Edith Wharton
+5. The Brothers Karamazov by Fyodor Dostoyevsky
+6. Memoirs of a Geisha by Arthur Golden
+7. The Giver by Lois Lowry
+8. The Lord of the Rings by J.R.R. Tolkien
+9. The Unbearable Lightness of Being by Milan Kundera
+10. Chronicle of a Death Foretold by Gabriel García Márquez
+11. Demian by Hermann Hesse
+12. The Alchemist by Paulo Coelho
+13. The Magic of Thinking Big by David J. Schwartz
+14. The Tipping Point by Malcolm Gladwell
+15. Freakonomics by Steven D. Levitt and Stephen J. Dubner
+16. In Cold Blood by Truman Capote
+17. A Clockwork Orange by Anthony Burgess
+18. Catch-22 by Joseph Heller
+19. Alice's Adventures in Wonderland by Lewis Carroll
+20. All Quiet on the Western Front by Erich Maria Remarque
+21. The Undercover Economist by Tim Harford
+22. The Murder of Roger Ackroyd by Agatha Christie
+23. The Age of Turbulence by Alan Greenspan
+24. As a Man Thinketh by James Allen
+25. The Notebook by Nicholas Sparks
+26. Interview with the Vampire by Anne Rice
+27. The Collector by John Fowles
+28. Nineteen Eighty-Four by George Orwell
+29. The Kite Runner by Khaled Hosseini
+30. The Grapes of Wrath by John Steinbeck
+31. Midnight's Children by Salman Rushdie
+32. The Picture of Dorian Gray by Oscar Wilde
+33. I Am Legend by Richard Matheson
+34. The Last Lecture by Randy Pausch
+35. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+36. Brave New World by Aldous Huxley
+37. Carrie by Stephen King
+38. Bhagavad Gita by Anonymous
+39. The Fountainhead by Ayn Rand
+40. The Argumentative Indian by Amartya Sen
+41. Three Cups of Tea by Greg Mortenson and David Oliver Relin
+42. Hard Times by Charles Dickens
+43. Moth Smoke by Mohsin Hamid
+44. A Case of Exploding Mangoes by Mohammed Hanif
+45. Shalimar the Clown by Salman Rushdie
+46. An Apology for the Life of Mrs. Shamela Andrews by Henry Fielding
+47. Great Expectations by Charles Dickens
+48. Train to Pakistan by

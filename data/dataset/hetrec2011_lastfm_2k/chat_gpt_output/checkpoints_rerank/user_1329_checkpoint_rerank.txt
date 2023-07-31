@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Mountain Goats
+2. Maxïmo Park
+3. Death Cab for Cutie
+4. The Shins
+5. Belle and Sebastian
+6. Mando Diao
+7. Los Campesinos!
+8. The Fratellis
+9. Matchbox Twenty
+10. Oasis
+11. Keane
+12. Norah Jones
+13. Ludwig van Beethoven
+14. Wolfgang Amadeus Mozart
+15. Frédéric Chopin
+16. Johann Sebastian Bach
+17. U2
+18. Pink Floyd
+19. Muse
+20. Radiohead
+21. Led Zeppelin
+22. Nirvana
+23. Metallica
+24. Iron Maiden
+25. The Beatles
+26. The Killers
+27. Green Day
+28. My Chemical Romance
+29. Coldplay
+30. Arctic Monkeys
+31. Placebo
+32. Blur
+33. Duran Duran
+34. Michael Jackson
+35. Madonna
+36. Beyoncé
+37. Rihanna
+38. Lady Gaga
+39. Christina Aguilera
+40. Katy Perry
+41. Avril Lavigne
+42. Taylor Swift
+43. Kelly Clarkson
+44. P!nk
+45. Black Eyed Peas
+46. Shakira
+47. Daft Punk
+48. Nine Inch Nails
+49. Linkin Park
+50. Amy Winehouse

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. Harry Potter by J.K. Rowling
+3. Frankenstein by Mary Shelley
+4. Nineteen Eighty-Four by George Orwell
+5. Brave New World by Aldous Huxley
+6. Crime and Punishment by Fyodor Dostoevsky
+7. The Picture of Dorian Gray by Oscar Wilde
+8. Wuthering Heights by Emily Bronte
+9. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+10. The Giver by Lois Lowry
+11. I Am Legend by Richard Matheson
+12. The Da Vinci Code by Dan Brown
+13. Angels & Demons by Dan Brown
+14. The Scarlet Letter by Nathaniel Hawthorne
+15. The Old Man and the Sea by Ernest Hemingway
+16. The Jungle Book by Rudyard Kipling
+17. The Three Musketeers by Alexandre Dumas
+18. The Island of Doctor Moreau by H.G. Wells
+19. The Call of the Wild by Jack London
+20. Treasure Island by Robert Louis Stevenson
+21. The Hamlet by William Faulkner
+22. The Secret Garden by Frances Hodgson Burnett
+23. Alice's Adventures in Wonderland by Lewis Carroll
+24. The Thief of Always by Clive Barker
+25. A Clockwork Orange by Anthony Burgess
+26. The Notebook by Nicholas Sparks
+27. The Coral Island by R.M. Ballantyne
+28. The Temple of My Familiar by Alice Walker
+29. The Good Earth by Pearl S. Buck
+30. Black Beauty by Anna Sewell
+31. The Catcher in the Rye by J.D. Salinger
+32. Inferno by Dante Alighieri
+33. The Iliad by Homer
+34. Gulliver's Travels by Jonathan Swift
+35. Slaughterhouse-Five by Kurt Vonnegut
+36. All Quiet on the Western Front by Erich Maria Remarque
+37. Lies My Teacher Told Me by James W. Loewen
+38. Teaching with Calvin and Hobbes by Linda Holmen
+39. Where the Red Fern Grows by Wilson Rawls
+40. Tess of the d'Urbervilles by Thomas Hardy
+41. Cut by Patricia McCormick
+42. Manga by Various Authors
+43. Resident Evil by S.D. Perry
+44. Their Eyes Were Watching God by Zora Neale Hurston
+45. The Thief Lord by Cornelia Funke
+46. The Wind in the Willows by Kenneth Grahame
+47. The Hobbit by J.R.R. Tolkien
+48. The Hunger Games by Suzanne Collins
+49. The Maze Runner by James Dashner
+50. The Fault in Our Stars by John Green

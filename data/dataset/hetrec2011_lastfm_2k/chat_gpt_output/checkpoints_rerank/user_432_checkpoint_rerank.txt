@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Rise Against
+2. A Day to Remember
+3. Bullet for My Valentine
+4. Avenged Sevenfold
+5. Sum 41
+6. Good Charlotte
+7. The Used
+8. Story of the Year
+9. Taking Back Sunday
+10. Finch
+11. Dead by April
+12. Box Car Racer
+13. Interpol
+14. NOFX
+15. Rancid
+16. Strike
+17. HEVO84
+18. Yellowcard
+19. Hoobastank
+20. Incubus
+21. Anberlin
+22. Angels & Airwaves
+23. Maroon 5
+24. Matchbox Twenty
+25. Red Hot Chili Peppers
+26. +44
+27. Fall Out Boy
+28. Justin Timberlake
+29. Serj Tankian
+30. Britney Spears
+31. Lady Gaga
+32. Christina Aguilera
+33. Madonna
+34. Rihanna
+35. Shakira
+36. Katy Perry
+37. Avril Lavigne
+38. Taylor Swift
+39. Evanescence
+40. Glee Cast
+41. Beyoncé
+42. U2
+43. 30 Seconds to Mars
+44. Muse
+45. Pink Floyd
+46. Kylie Minogue
+47. Miley Cyrus
+48. Radiohead
+49. Ke$ha
+50. Duran Duran

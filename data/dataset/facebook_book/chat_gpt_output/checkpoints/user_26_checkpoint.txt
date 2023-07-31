@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. Animal Farm by George Orwell
+5. Brave New World by Aldous Huxley
+6. The Picture of Dorian Gray by Oscar Wilde
+7. The Adventures of Huckleberry Finn by Mark Twain
+8. The Lord of the Rings by J.R.R. Tolkien
+9. The Hobbit by J.R.R. Tolkien
+10. The Chronicles of Narnia by C.S. Lewis
+11. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+12. The Da Vinci Code by Dan Brown
+13. The Girl with the Dragon Tattoo by Stieg Larsson
+14. The Hunger Games by Suzanne Collins
+15. The Road by Cormac McCarthy
+16. The Stand by Stephen King
+17. The Shining by Stephen King
+18. The Silence of the Lambs by Thomas Harris
+19. The Lovely Bones by Alice Sebold
+20. The Help by Kathryn Stockett
+21. The Color Purple by Alice Walker
+22. The Handmaid's Tale by Margaret Atwood
+23. The Bell Jar by Sylvia Plath
+24. One Hundred Years of Solitude by Gabriel Garcia Marquez
+25. Love in the Time of Cholera by Gabriel Garcia Marquez
+26. Crime and Punishment by Fyodor Dostoevsky
+27. The Brothers Karamazov by Fyodor Dostoevsky
+28. War and Peace by Leo Tolstoy
+29. Anna Karenina by Leo Tolstoy
+30. The Picture of Dorian Gray by Oscar Wilde
+31. The Importance of Being Earnest by Oscar Wilde
+32. The Sun Also Rises by Ernest Hemingway
+33. For Whom the Bell Tolls by Ernest Hemingway
+34. The Old Man and the Sea by Ernest Hemingway
+35. The Great Gatsby by F. Scott Fitzgerald
+36. Tender Is the Night by F. Scott Fitzgerald
+37. The Sound and the Fury by William Faulkner
+38. As I Lay Dying by William Faulkner
+39. The Grapes of Wrath by John Steinbeck
+40. East of Eden by John Steinbeck
+41. Of Mice and Men by John Steinbeck
+42. The Picture of Dorian Gray by Oscar Wilde
+43. The Importance of Being Earnest by Oscar Wilde
+44. The Count of Monte Cristo by Alexandre Dumas
+45. Les Miserables by Victor Hugo
+46. The Hunchback of Notre-Dame by Victor Hugo
+47. The Three Musketeers by Alexandre Dumas
+48. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+49. The

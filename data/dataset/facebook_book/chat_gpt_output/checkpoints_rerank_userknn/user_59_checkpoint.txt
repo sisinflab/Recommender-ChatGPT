@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. His Dark Materials by Philip Pullman
+2. Harry Potter by J.K. Rowling
+3. The Lord of the Rings by J.R.R. Tolkien
+4. The Hobbit by J.R.R. Tolkien
+5. Memoirs of a Geisha by Arthur Golden
+6. The Kite Runner by Khaled Hosseini
+7. A Thousand Splendid Suns by Khaled Hosseini
+8. Wuthering Heights by Emily Bronte
+9. Crime and Punishment by Fyodor Dostoevsky
+10. The Picture of Dorian Gray by Oscar Wilde
+11. The Catcher in the Rye by J.D. Salinger
+12. Fahrenheit 451 by Ray Bradbury
+13. The Time Traveler's Wife by Audrey Niffenegger
+14. Alice's Adventures in Wonderland by Lewis Carroll
+15. Peter and Wendy by J.M. Barrie
+16. The Little Prince by Antoine de Saint-Exupéry
+17. Mountains Beyond Mountains by Tracy Kidder
+18. Great Expectations by Charles Dickens
+19. Le Morte d'Arthur by Thomas Malory
+20. The Merchant of Venice by William Shakespeare
+21. Romeo and Juliet by William Shakespeare
+22. Othello by William Shakespeare
+23. Inferno by Dante Alighieri
+24. The Iliad by Homer
+25. The Five People You Meet in Heaven by Mitch Albom
+26. The Solitaire Mystery by Jostein Gaarder
+27. Being and Nothingness by Jean-Paul Sartre
+28. The Master and Margarita by Mikhail Bulgakov
+29. Dracula by Bram Stoker
+30. Sabriel by Garth Nix
+31. Abhorsen by Garth Nix
+32. The Wind Singer by William Nicholson
+33. Black Beauty by Anna Sewell
+34. The Queen of the Damned by Anne Rice
+35. Twisted by Laurie Halse Anderson
+36. Evermore by Alyson Noel
+37. Strange Angels by Lili St. Crow
+38. Burned by Ellen Hopkins
+39. Their Eyes Were Watching God by Zora Neale Hurston
+40. House of Night by P.C. Cast and Kristin Cast
+41. Motherless Brooklyn by Jonathan Lethem
+42. The Silver Wolf by Alice Borchardt
+43. Danse Macabre by Stephen King
+44. The Beautiful Boy by Germaine Greer
+45. Stolen by Lucy Christopher
+46. Sophie's World by Jostein Gaarder
+47. Mister God, This Is Anna by Fynn
+48. The Book Thief by Markus Zusak
+49. Swallows and Amazons by Arthur Ransome
+50. I, Robot by Isaac Asimov

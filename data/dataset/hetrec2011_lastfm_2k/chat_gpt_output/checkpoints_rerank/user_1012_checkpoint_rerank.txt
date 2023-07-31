@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Muse
+2. Nine Inch Nails
+3. My Chemical Romance
+4. The Used
+5. The Academy Is...
+6. Green Day
+7. Marilyn Manson
+8. The White Stripes
+9. 30 Seconds to Mars
+10. Placebo
+11. Björk
+12. Daft Punk
+13. Kasabian
+14. Yeah Yeah Yeahs
+15. Rage Against the Machine
+16. Nirvana
+17. Kings of Leon
+18. Foo Fighters
+19. Paramore
+20. Evanescence
+21. Avenged Sevenfold
+22. Santana
+23. Jimmy Eat World
+24. The All-American Rejects
+25. The Kooks
+26. Hawthorne Heights
+27. Dashboard Confessional
+28. David Gray
+29. Destiny's Child
+30. Depeche Mode
+31. Lady Gaga
+32. Madonna
+33. Rihanna
+34. Shakira
+35. The Beatles
+36. Katy Perry
+37. Avril Lavigne
+38. Taylor Swift
+39. Glee Cast
+40. Beyoncé
+41. U2
+42. Pink Floyd
+43. Kylie Minogue
+44. Miley Cyrus
+45. Radiohead
+46. Ke$ha
+47. Duran Duran
+48. Coldplay
+49. Blur
+50. Arctic Monkeys

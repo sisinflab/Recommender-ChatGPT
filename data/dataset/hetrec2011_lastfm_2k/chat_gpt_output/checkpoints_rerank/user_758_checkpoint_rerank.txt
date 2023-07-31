@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Smiths
+2. Oasis
+3. The xx
+4. The Used
+5. The Fray
+6. A Day to Remember
+7. Attack Attack!
+8. Ellie Goulding
+9. The National
+10. Story of the Year
+11. Alicia Keys
+12. Lindsay Lohan
+13. Nouvelle Vague
+14. Mumford & Sons
+15. Jack's Mannequin
+16. Bat for Lashes
+17. Tiësto
+18. Lily Allen
+19. Johnny Cash
+20. blessthefall
+21. Hurts
+22. The Beatles
+23. Muse
+24. Coldplay
+25. Yeah Yeah Yeahs
+26. Jimmy Eat World
+27. Three Days Grace
+28. Demi Lovato
+29. Lady Gaga
+30. Britney Spears
+31. Christina Aguilera
+32. Rihanna
+33. Shakira
+34. Katy Perry
+35. Avril Lavigne
+36. Taylor Swift
+37. Evanescence
+38. Beyoncé
+39. U2
+40. Pink Floyd
+41. Radiohead
+42. Ke$ha
+43. Duran Duran
+44. Blur
+45. Arctic Monkeys
+46. Placebo
+47. The Killers
+48. Nirvana
+49. Iron Maiden
+50. Led Zeppelin

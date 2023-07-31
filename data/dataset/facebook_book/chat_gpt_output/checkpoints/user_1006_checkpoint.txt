@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. Slaughterhouse-Five by Kurt Vonnegut
+4. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+5. The Catcher in the Rye by J.D. Salinger
+6. To Kill a Mockingbird by Harper Lee
+7. The Great Gatsby by F. Scott Fitzgerald
+8. The Lord of the Rings by J.R.R. Tolkien
+9. The Hobbit by J.R.R. Tolkien
+10. The Hunger Games by Suzanne Collins
+11. Divergent by Veronica Roth
+12. The Maze Runner by James Dashner
+13. The Girl with the Dragon Tattoo by Stieg Larsson
+14. The Da Vinci Code by Dan Brown
+15. Angels and Demons by Dan Brown
+16. The Bourne Identity by Robert Ludlum
+17. The Bourne Supremacy by Robert Ludlum
+18. The Bourne Ultimatum by Robert Ludlum
+19. The Girl on the Train by Paula Hawkins
+20. Gone Girl by Gillian Flynn
+21. The Silence of the Lambs by Thomas Harris
+22. Red Dragon by Thomas Harris
+23. Hannibal by Thomas Harris
+24. The Shining by Stephen King
+25. Carrie by Stephen King
+26. The Stand by Stephen King
+27. The Dark Tower series by Stephen King
+28. The Chronicles of Narnia by C.S. Lewis
+29. The Harry Potter series by J.K. Rowling
+30. The Percy Jackson series by Rick Riordan
+31. The Heroes of Olympus series by Rick Riordan
+32. The Kane Chronicles series by Rick Riordan
+33. The Inheritance Cycle series by Christopher Paolini
+34. The Twilight series by Stephenie Meyer
+35. The Mortal Instruments series by Cassandra Clare
+36. The Infernal Devices series by Cassandra Clare
+37. The Hunger Games trilogy by Suzanne Collins
+38. The Maze Runner trilogy by James Dashner
+39. The Divergent trilogy by Veronica Roth
+40. The Lord of the Flies by William Golding
+41. Catch-22 by Joseph Heller
+42. Animal Farm by George Orwell
+43. The Giver by Lois Lowry
+44. The Outsiders by S.E. Hinton
+45. The Fault in Our Stars by John Green
+46. Looking for Alaska by John Green
+47. Paper Towns by John Green
+48. The Book Thief by Markus Zusak
+49. The Help by Kathryn Stockett
+50. The Secret Life of Bees by Sue Monk Kidd

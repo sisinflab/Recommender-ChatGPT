@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Beatles
+2. Nirvana
+3. Led Zeppelin
+4. Bob Dylan
+5. Nick Drake
+6. John Lennon
+7. Janis Joplin
+8. Foo Fighters
+9. Iron & Wine
+10. Bon Iver
+11. Kings of Leon
+12. Razorlight
+13. Damien Rice
+14. Jason Mraz
+15. Norah Jones
+16. Newton Faulkner
+17. Jack Johnson
+18. MGMT
+19. Cat Power
+20. Rilo Kiley
+21. Vampire Weekend
+22. Spiritualized
+23. The Killers
+24. Guns N' Roses
+25. Coldplay
+26. Radiohead
+27. Death Cab for Cutie
+28. Pearl Jam
+29. Red Hot Chili Peppers
+30. Franz Ferdinand
+31. Belle and Sebastian
+32. The Kooks
+33. Pulp
+34. The Ting Tings
+35. Animal Collective
+36. Crystal Castles
+37. Klaxons
+38. Justice
+39. Yeasayer
+40. La Roux
+41. Ladyhawke
+42. Regina Spektor
+43. Andrew Bird
+44. Patrick Wolf
+45. Feist
+46. Alanis Morissette
+47. Eddie Vedder
+48. Sarah McLachlan
+49. Dixie Chicks
+50. R.E.M.

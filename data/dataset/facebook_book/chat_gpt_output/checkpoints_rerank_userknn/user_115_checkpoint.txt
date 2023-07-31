@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Secret Life of Bees by Sue Monk Kidd
+2. The Time Traveler's Wife by Audrey Niffenegger
+3. The Bell Jar by Sylvia Plath
+4. Wuthering Heights by Emily Bronte
+5. Nineteen Eighty-Four by George Orwell
+6. Slaughterhouse-Five by Kurt Vonnegut
+7. The God Delusion by Richard Dawkins
+8. The Lovely Bones by Alice Sebold
+9. Harry Potter series by J.K. Rowling
+10. Jurassic Park by Michael Crichton
+11. The Lord of the Rings by J.R.R. Tolkien
+12. Persepolis by Marjane Satrapi
+13. Lolita by Vladimir Nabokov
+14. Chelsea Chelsea Bang Bang by Chelsea Handler
+15. Next by Michael Crichton
+16. We by Yevgeny Zamyatin
+17. The Looking Glass Wars by Frank Beddor
+18. John Dies at the End by David Wong
+19. The Vampire Lestat by Anne Rice
+20. Sellevision by Augusten Burroughs
+21. Identical by Ellen Hopkins
+22. Encyclop�dia Britannica
+23. Alice's Adventures in Wonderland by Lewis Carroll
+24. The Girl Who Played with Fire by Stieg Larsson
+25. The Girl with the Dragon Tattoo by Stieg Larsson
+26. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+27. My Friend Leonard by James Frey
+28. A Wolf at the Table by Augusten Burroughs
+29. When You Are Engulfed in Flames by David Sedaris
+30. Naked by David Sedaris
+31. Me Talk Pretty One Day by David Sedaris
+32. Holidays on Ice by David Sedaris
+33. Disco Bloodbath by James St. James
+34. Dry by Augusten Burroughs
+35. Running with Scissors by Augusten Burroughs
+36. The Devil Wears Prada by Lauren Weisberger
+37. Eat, Pray, Love by Elizabeth Gilbert
+38. The Power of Now by Eckhart Tolle
+39. The Lottery by Shirley Jackson
+40. The Watchmen by Alan Moore
+41. Hourglass by Claudia Gray
+42. Fast Food Nation by Eric Schlosser
+43. Their Eyes Were Watching God by Zora Neale Hurston
+44. Peeps by Scott Westerfeld
+45. Inkspell by Cornelia Funke
+46. The Girls' Guide to Hunting and Fishing by Melissa Bank
+47. Inkheart by Cornelia Funke
+48. Tess of the d'Urbervilles by Thomas Hardy
+49. The Door to December by Dean Koontz
+50. Watchers by Dean Koontz

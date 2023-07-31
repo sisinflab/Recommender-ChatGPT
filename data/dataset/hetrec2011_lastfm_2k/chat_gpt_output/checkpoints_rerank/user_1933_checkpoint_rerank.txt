@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for user 1933 would be:
+
+1. Pink Floyd
+2. Pearl Jam
+3. David Bowie
+4. Jimi Hendrix
+5. Johnny Cash
+6. Beastie Boys
+7. Bauhaus
+8. Einstürzende Neubauten
+9. Feist
+10. Alien Sex Fiend
+11. Jack Johnson
+12. Radiohead
+13. Nirvana
+14. Led Zeppelin
+15. Metallica
+16. Iron Maiden
+17. Muse
+18. U2
+19. The Beatles
+20. The Killers
+21. Placebo
+22. Coldplay
+23. Blur
+24. Arctic Monkeys
+25. Nine Inch Nails
+26. System of a Down
+27. Daft Punk
+28. Linkin Park
+29. Avenged Sevenfold
+30. My Chemical Romance
+31. Green Day
+32. The Cure
+33. Amy Winehouse
+34. Michael Jackson
+35. Madonna
+36. Beyoncé
+37. Lady Gaga
+38. Rihanna
+39. Shakira
+40. Katy Perry
+41. Taylor Swift
+42. Christina Aguilera
+43. Britney Spears
+44. Ke$ha
+45. P!nk
+46. Kelly Clarkson
+47. All Time Low
+48. Evanescence
+49. Glee Cast
+50. a-ha

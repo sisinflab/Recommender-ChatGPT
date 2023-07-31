@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. Björk
+3. Sigur Rós
+4. MGMT
+5. Bon Iver
+6. Boards of Canada
+7. Ulrich Schnauss
+8. Goldfrapp
+9. Röyksopp
+10. Emilíana Torrini
+11. Feist
+12. Air
+13. The Strokes
+14. Coldplay
+15. Kings of Leon
+16. Lamb
+17. Massive Attack
+18. Tricky
+19. Lykke Li
+20. The Album Leaf
+21. Primus
+22. Moby
+23. Klaxons
+24. Devendra Banhart
+25. Tom Waits
+26. Deftones
+27. Amiina
+28. Bright Eyes
+29. Lupe Fiasco
+30. Lil' Wayne
+31. Madonna
+32. Lady Gaga
+33. Pink Floyd
+34. Muse
+35. The Beatles
+36. U2
+37. Nirvana
+38. Led Zeppelin
+39. Metallica
+40. Michael Jackson
+41. Pearl Jam
+42. System of a Down
+43. Nine Inch Nails
+44. Linkin Park
+45. The Killers
+46. Green Day
+47. My Chemical Romance
+48. Iron Maiden
+49. Placebo
+50. Arctic Monkeys

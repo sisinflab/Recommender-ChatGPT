@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. Animal Farm by George Orwell
+5. Lord of the Flies by William Golding
+6. Brave New World by Aldous Huxley
+7. The Giver by Lois Lowry
+8. The Book Thief by Markus Zusak
+9. The Fault in Our Stars by John Green
+10. The Maze Runner by James Dashner
+11. The Hobbit by J.R.R. Tolkien
+12. The Lord of the Rings by J.R.R. Tolkien
+13. The Chronicles of Narnia by C.S. Lewis
+14. The Da Vinci Code by Dan Brown
+15. Angels and Demons by Dan Brown
+16. The Girl with the Dragon Tattoo by Stieg Larsson
+17. The Girl Who Played with Fire by Stieg Larsson
+18. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+19. The Help by Kathryn Stockett
+20. The Kite Runner by Khaled Hosseini
+21. A Thousand Splendid Suns by Khaled Hosseini
+22. The Alchemist by Paulo Coelho
+23. The Picture of Dorian Gray by Oscar Wilde
+24. The Great Gatsby by F. Scott Fitzgerald
+25. To Kill a Mockingbird by Harper Lee
+26. The Hamlet by William Faulkner
+27. The Sound and the Fury by William Faulkner
+28. The Sun Also Rises by Ernest Hemingway
+29. A Farewell to Arms by Ernest Hemingway
+30. For Whom the Bell Tolls by Ernest Hemingway
+31. The Old Man and the Sea by Ernest Hemingway
+32. One Hundred Years of Solitude by Gabriel Garcia Marquez
+33. Love in the Time of Cholera by Gabriel Garcia Marquez
+34. Crime and Punishment by Fyodor Dostoevsky
+35. The Brothers Karamazov by Fyodor Dostoevsky
+36. War and Peace by Leo Tolstoy
+37. Anna Karenina by Leo Tolstoy
+38. The Count of Monte Cristo by Alexandre Dumas
+39. Les Miserables by Victor Hugo
+40. The Three Musketeers by Alexandre Dumas
+41. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+42. The Hound of the Baskervilles by Arthur Conan Doyle
+43. The Name of the Rose by Umberto Eco
+44. The Shadow of the Wind by Carlos Ruiz Zafon
+45. The Pillars of the Earth by Ken Follett
+46. The Girl on the Train by Paula Hawkins
+47. Gone Girl by Gillian Flynn
+48.

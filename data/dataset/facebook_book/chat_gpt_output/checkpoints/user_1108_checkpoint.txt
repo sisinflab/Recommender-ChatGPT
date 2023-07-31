@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Fault in Our Stars by John Green
+2. The Book Thief by Markus Zusak
+3. The Girl on the Train by Paula Hawkins
+4. Gone Girl by Gillian Flynn
+5. The Help by Kathryn Stockett
+6. The Kite Runner by Khaled Hosseini
+7. The Da Vinci Code by Dan Brown
+8. The Catcher in the Rye by J.D. Salinger
+9. The Great Gatsby by F. Scott Fitzgerald
+10. To Kill a Mockingbird by Harper Lee
+11. The Hunger Games Trilogy by Suzanne Collins
+12. Divergent Trilogy by Veronica Roth
+13. The Maze Runner Trilogy by James Dashner
+14. The Harry Potter Series by J.K. Rowling
+15. The Lord of the Rings Trilogy by J.R.R. Tolkien
+16. The Hobbit by J.R.R. Tolkien
+17. The Chronicles of Narnia by C.S. Lewis
+18. The Time Machine by H.G. Wells
+19. The War of the Worlds by H.G. Wells
+20. The Invisible Man by H.G. Wells
+21. The Island of Dr. Moreau by H.G. Wells
+22. The Picture of Dorian Gray by Oscar Wilde
+23. The Importance of Being Earnest by Oscar Wilde
+24. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+25. The Hound of the Baskervilles by Arthur Conan Doyle
+26. The Complete Works of William Shakespeare
+27. 1984 by George Orwell
+28. Animal Farm by George Orwell
+29. Brave New World by Aldous Huxley
+30. Fahrenheit 451 by Ray Bradbury
+31. The Martian by Andy Weir
+32. Ready Player One by Ernest Cline
+33. Ender's Game by Orson Scott Card
+34. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+35. The Alchemist by Paulo Coelho
+36. The Giver by Lois Lowry
+37. The Outsiders by S.E. Hinton
+38. The Perks of Being a Wallflower by Stephen Chbosky
+39. The Bell Jar by Sylvia Plath
+40. The Handmaid's Tale by Margaret Atwood
+41. The Road by Cormac McCarthy
+42. The Stand by Stephen King
+43. The Shining by Stephen King
+44. It by Stephen King
+45. The Silence of the Lambs by Thomas Harris
+46. The Bourne Identity by Robert Ludlum
+47. The Hunt for Red October by Tom Clancy
+48. The Firm by John Grisham
+49. The Pelican Brief by John Grisham
+50. The Da Vinci Code by Dan Brown (if not already read)

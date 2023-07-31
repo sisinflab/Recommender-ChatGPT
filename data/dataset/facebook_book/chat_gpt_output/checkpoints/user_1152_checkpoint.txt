@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. Brave New World by Aldous Huxley
+4. Fahrenheit 451 by Ray Bradbury
+5. The Catcher in the Rye by J.D. Salinger
+6. To Kill a Mockingbird by Harper Lee
+7. The Hunger Games by Suzanne Collins
+8. Catching Fire by Suzanne Collins
+9. Mockingjay by Suzanne Collins
+10. The Girl with the Dragon Tattoo by Stieg Larsson
+11. The Girl Who Played with Fire by Stieg Larsson
+12. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+13. The Da Vinci Code by Dan Brown
+14. Angels and Demons by Dan Brown
+15. Inferno by Dan Brown
+16. The Shining by Stephen King
+17. It by Stephen King
+18. The Stand by Stephen King
+19. The Road by Cormac McCarthy
+20. No Country for Old Men by Cormac McCarthy
+21. Blood Meridian by Cormac McCarthy
+22. The Name of the Wind by Patrick Rothfuss
+23. The Wise Man's Fear by Patrick Rothfuss
+24. The Fellowship of the Ring by J.R.R. Tolkien
+25. The Two Towers by J.R.R. Tolkien
+26. The Return of the King by J.R.R. Tolkien
+27. The Silmarillion by J.R.R. Tolkien
+28. The Chronicles of Narnia by C.S. Lewis
+29. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+30. Ender's Game by Orson Scott Card
+31. Speaker for the Dead by Orson Scott Card
+32. Xenocide by Orson Scott Card
+33. The Martian by Andy Weir
+34. Ready Player One by Ernest Cline
+35. Snow Crash by Neal Stephenson
+36. Neuromancer by William Gibson
+37. Do Androids Dream of Electric Sheep? by Philip K. Dick
+38. The Man in the High Castle by Philip K. Dick
+39. The Handmaid's Tale by Margaret Atwood
+40. Oryx and Crake by Margaret Atwood
+41. The Year of the Flood by Margaret Atwood
+42. The Road to Serfdom by Friedrich Hayek
+43. The Wealth of Nations by Adam Smith
+44. The Communist Manifesto by Karl Marx and Friedrich Engels
+45. The Republic by Plato
+46. The Prince by Niccolo Machiavelli
+47. Meditations by Marcus Aurelius
+48. The Art of War by Sun Tzu
+49. The Book of Five Rings by Miyamoto Musashi
+50. The Tao Te Ching by Lao Tzu

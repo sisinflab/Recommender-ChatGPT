@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for this user would be:
+
+1. Massive Attack
+2. Thievery Corporation
+3. PJ Harvey
+4. Gorillaz
+5. The xx
+6. Metronomy
+7. Empire of the Sun
+8. Bat for Lashes
+9. Beirut
+10. Róisín Murphy
+11. Tricky
+12. Tori Amos
+13. Depeche Mode
+14. Faithless
+15. Lily Allen
+16. Nirvana
+17. Dead Can Dance
+18. Minus the Bear
+19. CocoRosie
+20. The Prodigy
+21. Radiohead
+22. Muse
+23. Pink Floyd
+24. The Beatles
+25. U2
+26. Duran Duran
+27. Coldplay
+28. Blur
+29. Arctic Monkeys
+30. Placebo
+31. The Killers
+32. Iron Maiden
+33. Led Zeppelin
+34. Metallica
+35. Pearl Jam
+36. a-ha
+37. Björk
+38. Nine Inch Nails
+39. Daft Punk
+40. Linkin Park
+41. Michael Jackson
+42. Amy Winehouse
+43. Kelly Clarkson
+44. All Time Low
+45. Avenged Sevenfold
+46. Black Eyed Peas
+47. My Chemical Romance
+48. Green Day
+49. The Cure
+50. P!nk

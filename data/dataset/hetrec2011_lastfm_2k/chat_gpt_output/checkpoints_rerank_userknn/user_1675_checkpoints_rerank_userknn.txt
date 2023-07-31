@@ -1,0 +1,54 @@
+Based on the user's preferences, the top 50 recommendations for this user would be:
+
+1. Paramore
+2. Boys Like Girls
+3. All Time Low
+4. Yellowcard
+5. Mayday Parade
+6. New Found Glory
+7. Say Anything
+8. Miley Cyrus
+9. Hannah Montana
+10. Demi Lovato
+11. Avril Lavigne
+12. The Veronicas
+13. Kelly Clarkson
+14. Katy Perry
+15. Taylor Swift
+16. Lady Gaga
+17. P!nk
+18. Beyoncé
+19. Rihanna
+20. Shakira
+21. Selena Gomez
+22. Hilary Duff
+23. Aly & AJ
+24. Delta Goodrem
+25. Carrie Underwood
+26. Black Eyed Peas
+27. Justin Bieber
+28. Ashlee Simpson
+29. Britney Spears
+30. Christina Aguilera
+31. Madonna
+32. Paris Hilton
+33. Ke$ha
+34. Nicki Minaj
+35. Glee Cast
+36. The Pussycat Dolls
+37. David Guetta
+38. Jeffree Star
+39. Sum 41
+40. 30 Seconds to Mars
+41. Linkin Park
+42. Coldplay
+43. The Killers
+44. Green Day
+45. Dixie Chicks
+46. Adam Lambert
+47. Shania Twain
+48. Jonas Brothers
+49. High School Musical
+50. Kerli
+
+Note: The order of the recommendations may vary depending on the specific algorithm used by the Recommender System.

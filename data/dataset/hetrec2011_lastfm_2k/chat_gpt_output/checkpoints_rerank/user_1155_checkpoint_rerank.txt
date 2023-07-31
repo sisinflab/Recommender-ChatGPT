@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. Animal Collective
+3. Deerhunter
+4. Modest Mouse
+5. Belle and Sebastian
+6. Pavement
+7. Atlas Sound
+8. Ghostface Killah
+9. MF DOOM
+10. Madvillain
+11. Yeasayer
+12. Camera Obscura
+13. Los Campesinos!
+14. Girl Talk
+15. Flying Lotus
+16. Justice
+17. Cocteau Twins
+18. Toro y Moi
+19. The Beatles
+20. Nirvana
+21. Pink Floyd
+22. Led Zeppelin
+23. Michael Jackson
+24. Madonna
+25. Beyoncé
+26. Lady Gaga
+27. Shakira
+28. Christina Aguilera
+29. Britney Spears
+30. Rihanna
+31. Katy Perry
+32. Taylor Swift
+33. Ke$ha
+34. Duran Duran
+35. Coldplay
+36. Blur
+37. Arctic Monkeys
+38. Placebo
+39. The Killers
+40. Muse
+41. U2
+42. Metallica
+43. Pearl Jam
+44. Nine Inch Nails
+45. System of a Down
+46. Daft Punk
+47. Björk
+48. Amy Winehouse
+49. Green Day
+50. The Cure

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Adele
+2. Sade
+3. Whitney Houston
+4. Mariah Carey
+5. Norah Jones
+6. Christina Aguilera
+7. Barbra Streisand
+8. Etta James
+9. Ella Fitzgerald
+10. Billie Holiday
+11. Nina Simone
+12. Diana Ross
+13. Gladys Knight & The Pips
+14. The Supremes
+15. The Temptations
+16. Marvin Gaye
+17. Al Green
+18. Otis Redding
+19. Sam Cooke
+20. Ray Charles
+21. Aretha Franklin
+22. Patti LaBelle
+23. Chaka Khan
+24. Anita Baker
+25. Luther Vandross
+26. Toni Braxton
+27. Mary J. Blige
+28. Alicia Keys
+29. John Legend
+30. Michael Bublé
+31. Harry Connick Jr.
+32. Frank Sinatra
+33. Dean Martin
+34. Tony Bennett
+35. Nat King Cole
+36. Bing Crosby
+37. Perry Como
+38. Johnny Mathis
+39. Neil Diamond
+40. Elvis Presley
+41. The Beatles
+42. The Rolling Stones
+43. Fleetwood Mac
+44. ABBA
+45. Bee Gees
+46. Michael Jackson
+47. Prince
+48. Madonna
+49. Janet Jackson
+50. Britney Spears

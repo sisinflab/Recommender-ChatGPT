@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Depeche Mode
+2. The Cure
+3. Hurts
+4. Florence + the Machine
+5. De/Vision
+6. Crystal Castles
+7. Tori Amos
+8. She Wants Revenge
+9. The Shins
+10. Placebo
+11. Emilie Autumn
+12. The Birthday Massacre
+13. Siouxsie and the Banshees
+14. Dave Gahan
+15. VAST
+16. Garbage
+17. Babyshambles
+18. Mylène Farmer
+19. Stereophonics
+20. The Sisters of Mercy
+21. IAMX
+22. Nine Inch Nails
+23. The Verve
+24. Pink Floyd
+25. Radiohead
+26. Coldplay
+27. Nirvana
+28. Muse
+29. Iron Maiden
+30. Led Zeppelin
+31. Metallica
+32. Michael Jackson
+33. Pearl Jam
+34. a-ha
+35. Björk
+36. System of a Down
+37. Daft Punk
+38. Linkin Park
+39. Avenged Sevenfold
+40. Black Eyed Peas
+41. My Chemical Romance
+42. Green Day
+43. The Killers
+44. Arctic Monkeys
+45. Duran Duran
+46. Ke$ha
+47. Katy Perry
+48. Lady Gaga
+49. Rihanna
+50. Madonna

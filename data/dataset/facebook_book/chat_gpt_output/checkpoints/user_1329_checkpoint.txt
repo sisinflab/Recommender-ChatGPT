@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Three Musketeers by Alexandre Dumas
+2. Little Women by Louisa May Alcott
+3. The Hunchback of Notre-Dame by Victor Hugo
+4. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+5. The Secret Garden by Frances Hodgson Burnett
+6. The Picture of Dorian Gray by Oscar Wilde
+7. The Scarlet Letter by Nathaniel Hawthorne
+8. The Great Gatsby by F. Scott Fitzgerald
+9. To Kill a Mockingbird by Harper Lee
+10. Pride and Prejudice by Jane Austen
+11. Sense and Sensibility by Jane Austen
+12. Emma by Jane Austen
+13. Mansfield Park by Jane Austen
+14. Persuasion by Jane Austen
+15. Jane Eyre by Charlotte Bronte
+16. Wuthering Heights by Emily Bronte
+17. Great Expectations by Charles Dickens
+18. Oliver Twist by Charles Dickens
+19. David Copperfield by Charles Dickens
+20. A Tale of Two Cities by Charles Dickens
+21. Les Miserables by Victor Hugo
+22. The Phantom of the Opera by Gaston Leroux
+23. The Time Machine by H.G. Wells
+24. The War of the Worlds by H.G. Wells
+25. 1984 by George Orwell
+26. Animal Farm by George Orwell
+27. Brave New World by Aldous Huxley
+28. Fahrenheit 451 by Ray Bradbury
+29. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+30. The Lord of the Rings by J.R.R. Tolkien
+31. The Hobbit by J.R.R. Tolkien
+32. The Chronicles of Narnia by C.S. Lewis
+33. Watership Down by Richard Adams
+34. The Once and Future King by T.H. White
+35. The Princess Bride by William Goldman
+36. The Name of the Wind by Patrick Rothfuss
+37. The Lies of Locke Lamora by Scott Lynch
+38. The Hunger Games by Suzanne Collins
+39. Divergent by Veronica Roth
+40. The Maze Runner by James Dashner
+41. Ender's Game by Orson Scott Card
+42. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+43. The Da Vinci Code by Dan Brown
+44. Angels and Demons by Dan Brown
+45. The Girl with the Dragon Tattoo by Stieg Larsson
+46. The Girl Who Played with Fire by Stieg Larsson
+47. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+48. The Bourne Identity by Robert Ludlum
+49. The Bourne Supremacy by Robert Ludlum
+50. The Bourne Ultimatum by Robert Ludlum

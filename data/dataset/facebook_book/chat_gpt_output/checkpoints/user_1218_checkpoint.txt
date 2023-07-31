@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Shiver by Maggie Stiefvater
+2. The Forbidden Game by L.J. Smith
+3. Flowers in the Attic by V.C. Andrews
+4. The Immortals series by Alyson Noel
+5. The Hunger Games by Suzanne Collins
+6. The Maze Runner by James Dashner
+7. The Giver by Lois Lowry
+8. The Fault in Our Stars by John Green
+9. The Perks of Being a Wallflower by Stephen Chbosky
+10. The Book Thief by Markus Zusak
+11. The Mortal Instruments series by Cassandra Clare
+12. The Infernal Devices series by Cassandra Clare
+13. The Selection series by Kiera Cass
+14. The Lunar Chronicles series by Marissa Meyer
+15. The Divergent series by Veronica Roth
+16. The Twilight series by Stephenie Meyer
+17. The Vampire Diaries series by L.J. Smith
+18. The Secret Circle series by L.J. Smith
+19. The Dark Divine series by Bree Despain
+20. The Fallen series by Lauren Kate
+21. The Hush, Hush series by Becca Fitzpatrick
+22. The Beautiful Creatures series by Kami Garcia and Margaret Stohl
+23. The House of Night series by P.C. Cast and Kristin Cast
+24. The Darkest Minds series by Alexandra Bracken
+25. The 5th Wave series by Rick Yancey
+26. The Raven Boys series by Maggie Stiefvater
+27. The Scorpio Races by Maggie Stiefvater
+28. The Night Circus by Erin Morgenstern
+29. The Name of the Wind by Patrick Rothfuss
+30. The Wise Man's Fear by Patrick Rothfuss
+31. The Kingkiller Chronicle series by Patrick Rothfuss
+32. The Lies of Locke Lamora by Scott Lynch
+33. The Gentleman Bastard series by Scott Lynch
+34. The First Law trilogy by Joe Abercrombie
+35. The King's Dark Tidings series by Kel Kade
+36. The Stormlight Archive series by Brandon Sanderson
+37. The Mistborn series by Brandon Sanderson
+38. The Wheel of Time series by Robert Jordan and Brandon Sanderson
+39. The Malazan Book of the Fallen series by Steven Erikson
+40. The Black Company series by Glen Cook
+41. The Chronicles of Amber series by Roger Zelazny
+42. The Earthsea series by Ursula K. Le Guin
+43. The Dark Tower series by Stephen King
+44. The Dresden Files series by Jim Butcher
+45. The Codex Alera series by Jim Butcher
+46. The Iron Druid Chronicles series by Kevin Hearne
+47. The Mercy Thompson series by Patricia Briggs
+48. The Kate Daniels series by Ilona
+49. The Art of War
+50. American Gods by Neil Gaiman

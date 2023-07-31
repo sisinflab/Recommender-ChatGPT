@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Great Gatsby by F. Scott Fitzgerald
+3. Lolita by Vladimir Nabokov
+4. The Catcher in the Rye by J. D. Salinger
+5. Ulysses by James Joyce
+6. The Picture of Dorian Gray by Oscar Wilde
+7. Frankenstein by Mary Shelley
+8. Nineteen Eighty-Four by George Orwell
+9. Brave New World by Aldous Huxley
+10. The Hobbit by J. R. R. Tolkien
+11. The Lord of the Rings by J. R. R. Tolkien
+12. Alice's Adventures in Wonderland by Lewis Carroll
+13. The Lion, the Witch and the Wardrobe by C. S. Lewis
+14. His Dark Materials by Philip Pullman
+15. A Wrinkle in Time by Madeleine L'Engle
+16. The Giver by Lois Lowry
+17. Night by Elie Wiesel
+18. Dracula by Bram Stoker
+19. The Bell Jar by Sylvia Plath
+20. Les Misérables by Victor Hugo
+21. The Scarlet Letter by Nathaniel Hawthorne
+22. Jane Eyre by Charlotte Bronte
+23. Lord of the Flies by William Golding
+24. The Things They Carried by Tim O'Brien
+25. The Outsiders by S. E. Hinton
+26. The Old Man and the Sea by Ernest Hemingway
+27. Fahrenheit 451 by Ray Bradbury
+28. Inferno by Dante Alighieri
+29. A Midsummer Night's Dream by William Shakespeare
+30. Titus Andronicus by William Shakespeare
+31. The Taming of the Shrew by William Shakespeare
+32. The Prophet by Kahlil Gibran
+33. Mother Goose by Various Authors
+34. The Monk by Matthew Lewis
+35. I, Robot by Isaac Asimov
+36. The Unbearable Lightness of Being by Milan Kundera
+37. Rose Madder by Stephen King
+38. The Watchmen by Alan Moore
+39. Outlander by Diana Gabaldon
+40. Goodnight Moon by Margaret Wise Brown
+41. Harold and the Purple Crayon by Crockett Johnson
+42. Wolf Brother by Michelle Paver
+43. The Chicago Manual of Style by University of Chicago Press
+44. Fear and Loathing in Las Vegas by Hunter S. Thompson
+45. George's Marvellous Medicine by Roald Dahl
+46. Twilight by Stephenie Meyer
+47. Into Thin Air by Jon Krakauer
+48. Inherit the Wind by Jerome Lawrence and Robert E. Lee
+49. Essays by Michel de Montaigne
+50. Trivia by Logan Pearsall Smith

@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Great Gatsby by F. Scott Fitzgerald
+2. Pride and Prejudice by Jane Austen
+3. The Secret Garden by Frances Hodgson Burnett
+4. Memoirs of a Geisha by Arthur Golden
+5. The Kite Runner by Khaled Hosseini
+6. The Lord of the Rings by J.R.R. Tolkien
+7. Fahrenheit 451 by Ray Bradbury
+8. Romeo and Juliet by William Shakespeare
+9. The Giver by Lois Lowry
+10. The Importance of Being Earnest by Oscar Wilde
+11. The Bell Jar by Sylvia Plath
+12. The Catcher in the Rye by J.D. Salinger
+13. Alice's Adventures in Wonderland by Lewis Carroll
+14. Moby-Dick by Herman Melville
+15. Slaughterhouse-Five by Kurt Vonnegut
+16. Number the Stars by Lois Lowry
+17. The Grapes of Wrath by John Steinbeck
+18. Heart of Darkness by Joseph Conrad
+19. Waiting for Godot by Samuel Beckett
+20. The Sound and the Fury by William Faulkner
+21. The Watchmen by Alan Moore
+22. American Gods by Neil Gaiman
+23. Go Ask Alice by Anonymous
+24. Misery by Stephen King
+25. The Call of Cthulhu and Other Weird Stories by H.P. Lovecraft
+26. Zeitoun by Dave Eggers
+27. Cut by Patricia McCormick
+28. The Mark by Tim LaHaye and Jerry B. Jenkins
+29. A Room of One's Own by Virginia Woolf
+30. The Year of Living Biblically by A.J. Jacobs
+31. The Thief of Always by Clive Barker
+32. The Girl Who Played with Fire by Stieg Larsson
+33. The Good Earth by Pearl S. Buck
+34. My Sister's Keeper by Jodi Picoult
+35. Fallout: An American Nuclear Tragedy by Philip L. Fradkin
+36. The Time Traveler's Wife by Audrey Niffenegger
+37. Necronomicon: The Best Weird Tales of H.P. Lovecraft: Commemorative Edition by H.P. Lovecraft
+38. Glass by Ellen Hopkins
+39. High Fidelity by Nick Hornby
+40. The Secret Life of Bees by Sue Monk Kidd
+41. The Gargoyle by Andrew Davidson
+42. The Hunger Games by Suzanne Collins
+43. The Lovely Bones by Alice Sebold
+44. The Help by Kathryn Stockett
+45. The Book Thief by Markus Zusak
+46. The Fault in Our Stars by John Green
+47. The Maze Runner by James Dashner
+48. The Perks of Being a Wallflower by Stephen Chbosky
+49. The Alchemist by Paulo Coelho

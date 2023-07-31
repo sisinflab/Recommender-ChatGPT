@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Pride and Prejudice by Jane Austen
+6. Animal Farm by George Orwell
+7. The Hobbit by J.R.R. Tolkien
+8. The Lord of the Rings by J.R.R. Tolkien
+9. The Hunger Games by Suzanne Collins
+10. Catching Fire by Suzanne Collins
+11. Mockingjay by Suzanne Collins
+12. The Da Vinci Code by Dan Brown
+13. Angels and Demons by Dan Brown
+14. The Girl with the Dragon Tattoo by Stieg Larsson
+15. The Girl Who Played with Fire by Stieg Larsson
+16. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+17. The Help by Kathryn Stockett
+18. The Fault in Our Stars by John Green
+19. The Book Thief by Markus Zusak
+20. The Maze Runner by James Dashner
+21. The Scorch Trials by James Dashner
+22. The Death Cure by James Dashner
+23. The Giver by Lois Lowry
+24. Gathering Blue by Lois Lowry
+25. Messenger by Lois Lowry
+26. Son by Lois Lowry
+27. The Alchemist by Paulo Coelho
+28. The Kite Runner by Khaled Hosseini
+29. A Thousand Splendid Suns by Khaled Hosseini
+30. The Time Traveler's Wife by Audrey Niffenegger
+31. The Lovely Bones by Alice Sebold
+32. The Secret Life of Bees by Sue Monk Kidd
+33. The Help by Kathryn Stockett
+34. The Color Purple by Alice Walker
+35. The Joy Luck Club by Amy Tan
+36. The Poisonwood Bible by Barbara Kingsolver
+37. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+38. The Glass Castle by Jeannette Walls
+39. The Nightingale by Kristin Hannah
+40. The Martian by Andy Weir
+41. The Handmaid's Tale by Margaret Atwood
+42. The Road by Cormac McCarthy
+43. The Stand by Stephen King
+44. The Shining by Stephen King
+45. The Green Mile by Stephen King
+46. The Talisman by Stephen King and Peter Straub
+47. The Dark Tower series by Stephen King
+48. The Name of the Wind by Patrick Rothfuss
+49. The Wise Man's Fear by Patrick Rothfuss
+50. The Way of Kings by Brandon Sanderson

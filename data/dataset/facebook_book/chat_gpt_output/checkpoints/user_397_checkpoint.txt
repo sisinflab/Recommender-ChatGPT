@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The House on Mango Street by Sandra Cisneros
+2. The Joy Luck Club by Amy Tan
+3. The Color Purple by Alice Walker
+4. The Bell Jar by Sylvia Plath
+5. The Handmaid's Tale by Margaret Atwood
+6. The God of Small Things by Arundhati Roy
+7. The Namesake by Jhumpa Lahiri
+8. The Kite Runner by Khaled Hosseini
+9. The Alchemist by Paulo Coelho
+10. The Catcher in the Rye by J.D. Salinger
+11. To Kill a Mockingbird by Harper Lee
+12. The Great Gatsby by F. Scott Fitzgerald
+13. 1984 by George Orwell
+14. Animal Farm by George Orwell
+15. Brave New World by Aldous Huxley
+16. Fahrenheit 451 by Ray Bradbury
+17. One Hundred Years of Solitude by Gabriel Garcia Marquez
+18. Love in the Time of Cholera by Gabriel Garcia Marquez
+19. The Picture of Dorian Gray by Oscar Wilde
+20. Wuthering Heights by Emily Bronte
+21. Jane Eyre by Charlotte Bronte
+22. Pride and Prejudice by Jane Austen
+23. Sense and Sensibility by Jane Austen
+24. Emma by Jane Austen
+25. Persuasion by Jane Austen
+26. Northanger Abbey by Jane Austen
+27. The Hobbit by J.R.R. Tolkien
+28. The Lord of the Rings by J.R.R. Tolkien
+29. The Chronicles of Narnia by C.S. Lewis
+30. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+31. The Hunger Games by Suzanne Collins
+32. Catching Fire by Suzanne Collins
+33. Mockingjay by Suzanne Collins
+34. Divergent by Veronica Roth
+35. Insurgent by Veronica Roth
+36. Allegiant by Veronica Roth
+37. The Maze Runner by James Dashner
+38. The Scorch Trials by James Dashner
+39. The Death Cure by James Dashner
+40. The Fault in Our Stars by John Green
+41. Looking for Alaska by John Green
+42. Paper Towns by John Green
+43. An Abundance of Katherines by John Green
+44. The Book Thief by Markus Zusak
+45. The Girl with the Dragon Tattoo by Stieg Larsson
+46. The Girl Who Played with Fire by Stieg Larsson
+47. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+48. The Da Vinci Code by Dan Brown
+49. Angels and Demons by Dan Brown
+50. Inferno by Dan Brown

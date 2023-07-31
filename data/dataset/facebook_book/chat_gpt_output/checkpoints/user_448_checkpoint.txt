@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. The Catcher in the Rye by J.D. Salinger
+3. To Kill a Mockingbird by Harper Lee
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Brave New World by Aldous Huxley
+6. The Bell Jar by Sylvia Plath
+7. One Hundred Years of Solitude by Gabriel Garcia Marquez
+8. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Hobbit by J.R.R. Tolkien
+11. The Hunger Games by Suzanne Collins
+12. Catch-22 by Joseph Heller
+13. Slaughterhouse-Five by Kurt Vonnegut
+14. The Road by Cormac McCarthy
+15. The Handmaid's Tale by Margaret Atwood
+16. The Stand by Stephen King
+17. The Shining by Stephen King
+18. The Girl with the Dragon Tattoo by Stieg Larsson
+19. The Girl Who Played with Fire by Stieg Larsson
+20. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+21. The Silence of the Lambs by Thomas Harris
+22. The Da Vinci Code by Dan Brown
+23. Angels and Demons by Dan Brown
+24. Inferno by Dan Brown
+25. The Picture of Dorian Gray by Oscar Wilde
+26. Frankenstein by Mary Shelley
+27. Dracula by Bram Stoker
+28. The Perks of Being a Wallflower by Stephen Chbosky
+29. A Clockwork Orange by Anthony Burgess
+30. The Road to Serfdom by Friedrich Hayek
+31. The Communist Manifesto by Karl Marx and Friedrich Engels
+32. The Wealth of Nations by Adam Smith
+33. The Facebook Effect by David Kirkpatrick
+34. The Lean Startup by Eric Ries
+35. The 7 Habits of Highly Effective People by Stephen Covey
+36. The Power of Now by Eckhart Tolle
+37. The Alchemist by Paulo Coelho
+38. The Secret by Rhonda Byrne
+39. The Art of War by Sun Tzu
+40. The Prince by Niccolo Machiavelli
+41. The Republic by Plato
+42. The Divine Comedy by Dante Alighieri
+43. The Canterbury Tales by Geoffrey Chaucer
+44. Jane Eyre by Charlotte Bronte
+45. Wuthering Heights by Emily Bronte
+46. Pride and Prejudice by Jane Austen
+47. Sense and Sensibility by Jane Austen
+48. Crank by Ellen Hopkins
+49. Glass by Ellen Hopkins
+50. Harry Potter and the Philosopher's Stone by J.K. Rowling

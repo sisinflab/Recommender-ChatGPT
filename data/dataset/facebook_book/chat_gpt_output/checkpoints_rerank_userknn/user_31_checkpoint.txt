@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter
+2. To Kill a Mockingbird
+3. The Hunger Games
+4. The Time Traveler's Wife
+5. The Lovely Bones
+6. The Da Vinci Code
+7. Wuthering Heights
+8. The Catcher in the Rye
+9. Fahrenheit 451
+10. Nineteen Eighty-Four
+11. Dracula
+12. Jane Eyre
+13. The Giver
+14. The Bell Jar
+15. The Picture of Dorian Gray
+16. The Other Boleyn Girl
+17. The Secret Dreamworld of a Shopaholic
+18. The Princess Diaries (novel)
+19. The Sisterhood of the Traveling Pants (novel)
+20. Gone with the Wind
+21. This Lullaby
+22. Catching Fire
+23. Revolutionary Road
+24. The Walking Dead (comic book)
+25. The Amityville Horror
+26. Welcome to the Monkey House
+27. Nicholas Nickleby
+28. The Outsiders (novel)
+29. Something Wicked This Way Comes (novel)
+30. A Series of Unfortunate Events
+31. The Queen's Fool
+32. A Portrait of the Artist as a Young Man
+33. Helter Skelter (book)
+34. Weetzie Bat
+35. Tomorrow, When the War Began
+36. The Book Thief
+37. PS, I Love You (novel)
+38. Girl with a Pearl Earring (novel)
+39. A Painted House
+40. The Last Storytellers: Tales from the Heart of Morocco
+41. Mockingjay
+42. The Gospel of the Flying Spaghetti Monster
+43. Pigs in Heaven
+44. Angus, Thongs and Full-Frontal Snogging
+45. The Crucible of Time
+46. Sunshine (novel)
+47. I Am Not a Serial Killer
+48. The Mysterious Stranger
+49. Of Mice and Men
+50. Ariel (book)

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. To Kill a Mockingbird by Harper Lee
+3. Animal Farm by George Orwell
+4. The Catcher in the Rye by J.D. Salinger
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Bell Jar by Sylvia Plath
+7. The Picture of Dorian Gray by Oscar Wilde
+8. The Road by Cormac McCarthy
+9. The Handmaid's Tale by Margaret Atwood
+10. The Stranger by Albert Camus
+11. Slaughterhouse-Five by Kurt Vonnegut
+12. The Sun Also Rises by Ernest Hemingway
+13. The Grapes of Wrath by John Steinbeck
+14. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+15. The Lord of the Rings by J.R.R. Tolkien
+16. The Hobbit by J.R.R. Tolkien
+17. The Da Vinci Code by Dan Brown
+18. The Girl with the Dragon Tattoo by Stieg Larsson
+19. The Hunger Games by Suzanne Collins
+20. The Martian by Andy Weir
+21. The Name of the Wind by Patrick Rothfuss
+22. The Nightingale by Kristin Hannah
+23. The Outsiders by S.E. Hinton
+24. The Perks of Being a Wallflower by Stephen Chbosky
+25. The Secret History by Donna Tartt
+26. The Shadow of the Wind by Carlos Ruiz Zafón
+27. The Shining by Stephen King
+28. The Stand by Stephen King
+29. The Time Traveler's Wife by Audrey Niffenegger
+30. The Wind-Up Bird Chronicle by Haruki Murakami
+31. A Clockwork Orange by Anthony Burgess
+32. A Game of Thrones by George R.R. Martin
+33. American Gods by Neil Gaiman
+34. Catch-22 by Joseph Heller
+35. Dune by Frank Herbert
+36. Ender's Game by Orson Scott Card
+37. Fahrenheit 451 by Ray Bradbury
+38. Gone Girl by Gillian Flynn
+39. Harry Potter and the Philosopher's Stone by J.K. Rowling
+40. Heart of Darkness by Joseph Conrad
+41. House of Leaves by Mark Z. Danielewski
+42. I, Robot by Isaac Asimov
+43. Jurassic Park by Michael Crichton
+44. Lolita by Vladimir Nabokov
+45. Neuromancer by William Gibson
+46. Ready Player One by Ernest Cline
+47. Snow Crash by Neal Stephenson
+48. The Brothers Karamazov by Fyodor Dostoevsky
+49. The Count of Monte Cristo by Alexandre Dumas
+50. The Divine Comedy by Dante Alighieri

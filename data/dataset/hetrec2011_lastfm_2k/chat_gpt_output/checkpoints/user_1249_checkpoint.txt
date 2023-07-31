@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Tool
+3. Queens of the Stone Age
+4. Pearl Jam
+5. Soundgarden
+6. Alice in Chains
+7. System of a Down
+8. Rage Against the Machine
+9. Metallica
+10. Iron Maiden
+11. Slayer
+12. Megadeth
+13. Pantera
+14. Mastodon
+15. Opeth
+16. Dream Theater
+17. Porcupine Tree
+18. King Crimson
+19. Yes
+20. Rush
+21. Genesis
+22. Pink Floyd (live albums)
+23. Led Zeppelin (live albums)
+24. The Doors
+25. Jimi Hendrix
+26. Cream (live albums)
+27. The Who
+28. The Rolling Stones
+29. AC/DC
+30. Guns N' Roses
+31. Van Halen
+32. Black Sabbath (live albums)
+33. Ozzy Osbourne
+34. Dio
+35. Judas Priest (live albums)
+36. Iron Maiden (live albums)
+37. Metallica (live albums)
+38. Slayer (live albums)
+39. Megadeth (live albums)
+40. Pantera (live albums)
+41. Lamb of God
+42. Gojira
+43. Meshuggah
+44. Between the Buried and Me
+45. The Mars Volta
+46. Coheed and Cambria
+47. Muse
+48. Arcade Fire
+49. The National
+50. Fleet Foxes

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Lock and Key by Sarah Dessen
+2. The Hunger Games by Suzanne Collins
+3. Twilight by Stephenie Meyer
+4. The Fault in Our Stars by John Green
+5. Divergent by Veronica Roth
+6. The Mortal Instruments by Cassandra Clare
+7. The Maze Runner by James Dashner
+8. The Selection by Kiera Cass
+9. The Giver by Lois Lowry
+10. The Perks of Being a Wallflower by Stephen Chbosky
+11. The Sisterhood of the Traveling Pants by Ann Brashares
+12. The Vampire Diaries by L.J. Smith
+13. The Infernal Devices by Cassandra Clare
+14. The Outsiders by S.E. Hinton
+15. The Chronicles of Prydain by Lloyd Alexander
+16. The Lord of the Rings by J.R.R. Tolkien
+17. The Hobbit by J.R.R. Tolkien
+18. The Chronicles of Narnia by C.S. Lewis
+19. The Secret Circle by L.J. Smith
+20. The Dark Tower by Stephen King
+21. The Dresden Files by Jim Butcher
+22. The Wheel of Time by Robert Jordan
+23. The Name of the Wind by Patrick Rothfuss
+24. The Kingkiller Chronicle by Patrick Rothfuss
+25. The Stormlight Archive by Brandon Sanderson
+26. The Mistborn Trilogy by Brandon Sanderson
+27. The Way of Kings by Brandon Sanderson
+28. The Lies of Locke Lamora by Scott Lynch
+29. The First Law Trilogy by Joe Abercrombie
+30. The Blade Itself by Joe Abercrombie
+31. The Night Angel Trilogy by Brent Weeks
+32. The Lightbringer Series by Brent Weeks
+33. The Black Prism by Brent Weeks
+34. The Broken Empire Trilogy by Mark Lawrence
+35. The Prince of Thorns by Mark Lawrence
+36. The King of Thorns by Mark Lawrence
+37. The Emperor's Blades by Brian Staveley
+38. The Chronicles of Amber by Roger Zelazny
+39. The Belgariad by David Eddings
+40. The Malloreon by David Eddings
+41. The Elenium by David Eddings
+42. The Tamuli by David Eddings
+43. The Sword of Shannara by Terry Brooks
+44. The Elfstones of Shannara by Terry Brooks
+45. The Wishsong of Shannara by Terry Brooks
+46. The Dark Elf Trilogy by R.A. Salvatore
+47. The Icewind Dale Trilogy by R.A. Salvatore
+48. The Demon Cycle by Peter V. Brett
+49. The Painted Man by Peter V. Brett
+50. The Warded Man by Peter V. Brett

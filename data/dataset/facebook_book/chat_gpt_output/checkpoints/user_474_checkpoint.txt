@@ -1,0 +1,49 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Divergent by Veronica Roth
+2. The Giver by Lois Lowry
+3. Ender's Game by Orson Scott Card
+4. The Fault in Our Stars by John Green
+5. The Book Thief by Markus Zusak
+6. The Perks of Being a Wallflower by Stephen Chbosky
+7. The Outsiders by S.E. Hinton
+8. The Hunger Games Trilogy by Suzanne Collins
+9. The Maze Runner Trilogy by James Dashner
+10. The Mortal Instruments Series by Cassandra Clare
+11. The Infernal Devices Series by Cassandra Clare
+12. The Lunar Chronicles Series by Marissa Meyer
+13. The Selection Series by Kiera Cass
+14. The 5th Wave Series by Rick Yancey
+15. The Darkest Minds Series by Alexandra Bracken
+16. The Raven Cycle Series by Maggie Stiefvater
+17. The Heroes of Olympus Series by Rick Riordan
+18. The Kane Chronicles Series by Rick Riordan
+19. The Percy Jackson and the Olympians Series by Rick Riordan
+20. The Chronicles of Narnia Series by C.S. Lewis
+21. The Lord of the Rings Trilogy by J.R.R. Tolkien
+22. The Hobbit by J.R.R. Tolkien
+23. The Hitchhiker's Guide to the Galaxy Series by Douglas Adams
+24. The Girl with the Dragon Tattoo by Stieg Larsson
+25. The Girl on the Train by Paula Hawkins
+26. The Da Vinci Code by Dan Brown
+27. The Bourne Identity by Robert Ludlum
+28. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+29. The Girl Who Played with Fire by Stieg Larsson
+30. The Girl in the Spider's Web by David Lagercrantz
+31. The Hunger Games: The Official Illustrated Movie Companion by Kate Egan
+32. The Maze Runner: The Official Illustrated Movie Companion by Mark Cotta Vaz
+33. The Fault in Our Stars: The Official Illustrated Movie Companion by John Green
+34. The Catcher in the Rye by J.D. Salinger
+35. Abhorsen Trilogy by Garth Nix
+36. Sabriel Trilogy by Garth Nix
+37. His Dark Materials Trilogy by Philip Pullman
+38. The People of Sparks by Jeanne DuPrau
+39. Speak by Laurie Halse Anderson
+40. Graceling Realm Series by Kristin Cashore
+41. The Goose Girl by Shannon Hale
+42. Gathering Blue by Lois Lowry
+43. Holes by Louis Sachar
+44. Harry Potter Series by J.K. Rowling
+45. The Last Sin Eater by Francine Rivers
+46. Island of the Blue Dolphins by Scott O'Dell
+47. Uglies Series by Scott West

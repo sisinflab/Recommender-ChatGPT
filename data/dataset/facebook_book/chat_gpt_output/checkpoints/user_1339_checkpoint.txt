@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. The Girl with the Dragon Tattoo by Stieg Larsson
+3. The Hunger Games by Suzanne Collins
+4. The Da Vinci Code by Dan Brown
+5. The Kite Runner by Khaled Hosseini
+6. The Fault in Our Stars by John Green
+7. The Lord of the Rings by J.R.R. Tolkien
+8. The Hobbit by J.R.R. Tolkien
+9. The Chronicles of Narnia by C.S. Lewis
+10. To Kill a Mockingbird by Harper Lee
+11. 1984 by George Orwell
+12. Animal Farm by George Orwell
+13. Brave New World by Aldous Huxley
+14. Fahrenheit 451 by Ray Bradbury
+15. The Great Gatsby by F. Scott Fitzgerald
+16. The Adventures of Huckleberry Finn by Mark Twain
+17. The Adventures of Tom Sawyer by Mark Twain
+18. The Picture of Dorian Gray by Oscar Wilde
+19. The Count of Monte Cristo by Alexandre Dumas
+20. Les Misérables by Victor Hugo
+21. Crime and Punishment by Fyodor Dostoevsky
+22. The Brothers Karamazov by Fyodor Dostoevsky
+23. War and Peace by Leo Tolstoy
+24. Anna Karenina by Leo Tolstoy
+25. One Hundred Years of Solitude by Gabriel Garcia Marquez
+26. Love in the Time of Cholera by Gabriel Garcia Marquez
+27. The Alchemist by Paulo Coelho
+28. The Name of the Wind by Patrick Rothfuss
+29. The Wise Man's Fear by Patrick Rothfuss
+30. The Way of Kings by Brandon Sanderson
+31. Mistborn by Brandon Sanderson
+32. The Final Empire by Brandon Sanderson
+33. The Eye of the World by Robert Jordan
+34. The Fellowship of the Ring by J.R.R. Tolkien
+35. The Two Towers by J.R.R. Tolkien
+36. The Return of the King by J.R.R. Tolkien
+37. The Name of the Rose by Umberto Eco
+38. The Pillars of the Earth by Ken Follett
+39. The Shadow of the Wind by Carlos Ruiz Zafón
+40. The Book Thief by Markus Zusak
+41. The Nightingale by Kristin Hannah
+42. The Help by Kathryn Stockett
+43. The Secret Life of Bees by Sue Monk Kidd
+44. The Color Purple by Alice Walker
+45. The Handmaid's Tale by Margaret Atwood
+46. The Testaments by Margaret Atwood
+47. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+48. The Devil in the White City by Erik Larson
+49. Lord Jim by Joseph Conrad
+50. Moby-Dick by Herman Melville

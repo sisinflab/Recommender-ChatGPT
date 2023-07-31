@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Fall Out Boy
+2. The Black Eyed Peas
+3. Demi Lovato
+4. OneRepublic
+5. Ariana Grande
+6. Imagine Dragons
+7. Katy Perry
+8. Ed Sheeran
+9. The Chainsmokers
+10. Halsey
+11. Twenty One Pilots
+12. Shawn Mendes
+13. Camila Cabello
+14. Selena Gomez
+15. Coldplay
+16. Justin Bieber
+17. Adele
+18. Zara Larsson
+19. Sia
+20. Calvin Harris
+21. Dua Lipa
+22. Lorde
+23. Bastille
+24. Clean Bandit
+25. Charlie Puth
+26. The Weeknd
+27. Lana Del Rey
+28. Florence + The Machine
+29. Sam Smith
+30. Panic! At The Disco
+31. Billie Eilish
+32. The 1975
+33. Paramore
+34. Glee Cast
+35. Shakira
+36. Lady Gaga
+37. Avril Lavigne
+38. Linkin Park
+39. Rihanna
+40. All Time Low
+41. Beyoncé
+42. Nicki Minaj
+43. Adam Lambert
+44. Green Day
+45. Ke$ha
+46. Kylie Minogue
+47. P!nk
+48. RBD
+49. Far East Movement
+50. Madonna

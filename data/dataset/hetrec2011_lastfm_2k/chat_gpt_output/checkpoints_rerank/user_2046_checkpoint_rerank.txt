@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Rammstein
+2. Lacrimosa
+3. Oomph!
+4. Combichrist
+5. Marilyn Manson
+6. Deathstars
+7. Slipknot
+8. Muse
+9. And One
+10. KMFDM
+11. HIM
+12. Lacuna Coil
+13. Apocalyptica
+14. Arch Enemy
+15. Blutengel
+16. Ayreon
+17. System of a Down
+18. Unheilig
+19. Epica
+20. Avenged Sevenfold
+21. Tool
+22. Yann Tiersen
+23. She Wants Revenge
+24. Linkin Park
+25. Otep
+26. Emilie Autumn
+27. L'Âme Immortelle
+28. Stone Sour
+29. In Extremo
+30. Britney Spears
+31. Lady Gaga
+32. Christina Aguilera
+33. Paramore
+34. Madonna
+35. Rihanna
+36. Shakira
+37. The Beatles
+38. Katy Perry
+39. Avril Lavigne
+40. Taylor Swift
+41. Evanescence
+42. Beyoncé
+43. U2
+44. 30 Seconds to Mars
+45. Pink Floyd
+46. Kylie Minogue
+47. Miley Cyrus
+48. Radiohead
+49. Ke$ha
+50. Duran Duran

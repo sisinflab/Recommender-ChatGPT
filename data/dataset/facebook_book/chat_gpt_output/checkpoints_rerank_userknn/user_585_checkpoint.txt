@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Kite Runner by Khaled Hosseini
+2. Memoirs of a Geisha by Arthur Golden
+3. The Hobbit by J.R.R. Tolkien
+4. The Lord of the Rings by J.R.R. Tolkien
+5. Pride and Prejudice by Jane Austen
+6. Jane Eyre by Charlotte Bronte
+7. Sense and Sensibility by Jane Austen
+8. The Other Boleyn Girl by Philippa Gregory
+9. Great Expectations by Charles Dickens
+10. Life of Pi by Yann Martel
+11. The Alchemist by Paulo Coelho
+12. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+13. The Last Battle by C.S. Lewis
+14. The Last Song by Nicholas Sparks
+15. The Lovely Bones by Alice Sebold
+16. Freesouls by KAH Walla
+17. Passion and Purity by Elisabeth Elliot
+18. The White Tiger by Aravind Adiga
+19. Percy Jackson & the Olympians by Rick Riordan
+20. The Perks of Being a Wallflower by Stephen Chbosky
+21. Thirteen Reasons Why by Jay Asher
+22. Skeleton Creek by Patrick Carman
+23. Ninth Grade Slays by Heather Brewer
+24. The Walking Dead by Robert Kirkman
+25. Blue Bloods by Melissa de la Cruz
+26. Gossip Girl by Cecily von Ziegesar
+27. PS, I Love You by Cecelia Ahern
+28. Eat, Pray, Love by Elizabeth Gilbert
+29. Battle Royale by Koushun Takami
+30. Catch-22 by Joseph Heller
+31. Zen and the Art of Motorcycle Maintenance by Robert M. Pirsig
+32. Nightfall by Isaac Asimov
+33. Chosen by P.C. Cast and Kristin Cast
+34. The Zombie Survival Guide by Max Brooks
+35. Alice's Adventures in Wonderland by Lewis Carroll
+36. War and Peace by Leo Tolstoy
+37. The Female Brain by Louann Brizendine
+38. Mere Christianity by C.S. Lewis
+39. Maximum City by Suketu Mehta
+40. Bitten by Kelley Armstrong
+41. Brisingr by Christopher Paolini
+42. Holes by Louis Sachar
+43. At First Sight by Nicholas Sparks
+44. The Shack by William P. Young
+45. Pride and Prejudice and Zombies by Seth Grahame-Smith
+46. Impulse Economy by Gary Schwartz
+47. Malazan Book of the Fallen by Steven Erikson
+48. Angels & Demons by Dan Brown
+49. Eragon by Christopher Paolini
+50. Tuesdays with Morrie by Mitch Albom

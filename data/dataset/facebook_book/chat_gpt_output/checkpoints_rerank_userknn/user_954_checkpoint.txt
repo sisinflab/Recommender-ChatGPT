@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games
+2. Twilight (series)
+3. Harry Potter
+4. To Kill a Mockingbird
+5. The Great Gatsby
+6. Angels & Demons
+7. The Da Vinci Code
+8. A Thousand Splendid Suns
+9. The Kite Runner
+10. Water for Elephants
+11. Inkheart
+12. Inkspell
+13. Eragon
+14. Catching Fire
+15. The Alchemist (novel)
+16. The Outsiders (novel)
+17. Things Fall Apart
+18. Wide Sargasso Sea
+19. Romeo and Juliet
+20. The Crucible of Time
+21. The Monk
+22. The Secret (book)
+23. The Reader
+24. The Host (novel)
+25. Veronika Decides to Die
+26. Tuesdays with Morrie
+27. The Famous Five (series)
+28. Horrible Histories (book series)
+29. Malory Towers
+30. Manga
+31. The Naughtiest Girl Again
+32. Speak (novel)
+33. The Rules of Survival
+34. Fruits Basket
+35. Guardians of Ga'Hoole: The Capture
+36. Haunted (The Mediator)
+37. Uglies
+38. So Long, and Thanks for All the Fish
+39. Ways to Live Forever
+40. King Leary
+41. Geek Love
+42. Suck It Up
+43. Cecilia (McClure novel)
+44. Journey to the West
+45. Perfect Chemistry
+46. Vampire Academy (novel)
+47. Where the Heart Is (novel)
+48. The Supernaturalist
+49. Guinness World Records
+50. Still Life with Woodpecker

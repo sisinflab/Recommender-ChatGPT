@@ -1,0 +1,47 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Kafka on the Shore by Haruki Murakami
+2. The Wind-Up Bird Chronicle by Haruki Murakami
+3. 1Q84 by Haruki Murakami
+4. After Dark by Haruki Murakami
+5. Sputnik Sweetheart by Haruki Murakami
+6. Colorless Tsukuru Tazaki and His Years of Pilgrimage by Haruki Murakami
+7. A Wild Sheep Chase by Haruki Murakami
+8. Hard-Boiled Wonderland and the End of the World by Haruki Murakami
+9. Dance Dance Dance by Haruki Murakami
+10. South of the Border, West of the Sun by Haruki Murakami
+11. Blind Willow, Sleeping Woman by Haruki Murakami
+12. Men Without Women by Haruki Murakami
+13. Killing Commendatore by Haruki Murakami
+14. The Elephant Vanishes by Haruki Murakami
+15. The Strange Library by Haruki Murakami
+16. The Myth of Sisyphus by Albert Camus
+17. The Rebel by Albert Camus
+18. The Plague by Albert Camus
+19. The Fall by Albert Camus
+20. The Outsider by Albert Camus
+21. The Trial by Franz Kafka
+22. The Castle by Franz Kafka
+23. Metamorphosis by Franz Kafka
+24. The Complete Stories by Franz Kafka
+25. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+26. The Restaurant at the End of the Universe by Douglas Adams
+27. Life, the Universe and Everything by Douglas Adams
+28. So Long, and Thanks for All the Fish by Douglas Adams
+29. Mostly Harmless by Douglas Adams
+30. The Hitchhiker's Guide to the Galaxy: A Trilogy in Four Parts by Douglas Adams
+31. The Catcher in the Rye by J.D. Salinger
+32. Franny and Zooey by J.D. Salinger
+33. Nine Stories by J.D. Salinger
+34. Raise High the Roof Beam, Carpenters and Seymour: An Introduction by J.D. Salinger
+35. The Bell Jar by Sylvia Plath
+36. The Unbearable Lightness of Being by Milan Kundera
+37. The Book of Laughter and Forgetting by Milan Kundera
+38. Immortality by Milan Kundera
+39. The Joke by Milan Kundera
+40. The Name of the Rose by Umberto Eco
+41. Foucault's Pendulum by Umberto Eco
+42. The Island of the Day Before by Umberto Eco
+43. The Prague Cemetery by Umberto Eco
+44. The Shadow of the Wind by Carlos Ruiz Zafón
+45. The Angel's Game

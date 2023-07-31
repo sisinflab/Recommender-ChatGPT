@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter by J.K. Rowling
+2. To Kill a Mockingbird by Harper Lee
+3. The Lord of the Rings by J.R.R. Tolkien
+4. Frankenstein by Mary Shelley
+5. Nineteen Eighty-Four by George Orwell
+6. Alice's Adventures in Wonderland by Lewis Carroll
+7. Dracula by Bram Stoker
+8. Slaughterhouse-Five by Kurt Vonnegut
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Alchemist by Paulo Coelho
+11. One Hundred Years of Solitude by Gabriel Garcia Marquez
+12. Revolutionary Road by Richard Yates
+13. The Bell Jar by Sylvia Plath
+14. Love in the Time of Cholera by Gabriel Garcia Marquez
+15. Lolita by Vladimir Nabokov
+16. The Catcher in the Rye by J.D. Salinger
+17. The Great Gatsby by F. Scott Fitzgerald
+18. The Hobbit by J.R.R. Tolkien
+19. The Da Vinci Code by Dan Brown
+20. Interview with the Vampire by Anne Rice
+21. The Unbearable Lightness of Being by Milan Kundera
+22. The Perks of Being a Wallflower by Stephen Chbosky
+23. The Coldest Winter Ever by Sister Souljah
+24. The Island of Doctor Moreau by H.G. Wells
+25. The Diving Bell and the Butterfly by Jean-Dominique Bauby
+26. A Clockwork Orange by Anthony Burgess
+27. The Famous Five series by Enid Blyton
+28. The Naughtiest Girl Again by Enid Blyton
+29. Horrible Histories book series by Terry Deary
+30. The Boy in the Striped Pyjamas by John Boyne
+31. Romeo and Juliet by William Shakespeare
+32. Gone with the Wind by Margaret Mitchell
+33. Black Like Me by John Howard Griffin
+34. Girl with a Pearl Earring by Tracy Chevalier
+35. The Devil Wears Prada by Lauren Weisberger
+36. Jarhead by Anthony Swofford
+37. Leviathan by Paul Auster
+38. Emma by Jane Austen
+39. Beloved by Toni Morrison
+40. Tess of the d'Urbervilles by Thomas Hardy
+41. Adventures of Huckleberry Finn by Mark Twain
+42. The Hamlet by William Faulkner
+43. My Antonia by Willa Cather
+44. Angels & Demons by Dan Brown
+45. Prozac Nation by Elizabeth Wurtzel
+46. The Lovely Bones by Alice Sebold
+47. Love, Stargirl by Jerry Spinelli
+48. Girl, Interrupted by Susanna Kaysen
+49. Veronika Decides to Die by Paulo Coelho

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter by J.K. Rowling
+2. The Lord of the Rings by J.R.R. Tolkien
+3. To Kill a Mockingbird by Harper Lee
+4. The Hobbit by J.R.R. Tolkien
+5. Les Misérables by Victor Hugo
+6. The Picture of Dorian Gray by Oscar Wilde
+7. The Hunger Games by Suzanne Collins
+8. Slaughterhouse-Five by Kurt Vonnegut
+9. The Adventures of Tom Sawyer by Mark Twain
+10. A Series of Unfortunate Events by Lemony Snicket
+11. The Canterbury Tales by Geoffrey Chaucer
+12. The Name of the Rose by Umberto Eco
+13. The Raven by Edgar Allan Poe
+14. Macbeth by William Shakespeare
+15. Romeo and Juliet by William Shakespeare
+16. The Taming of the Shrew by William Shakespeare
+17. Othello by William Shakespeare
+18. Divine Comedy by Dante Alighieri
+19. Waiting for Godot by Samuel Beckett
+20. Nausea by Jean-Paul Sartre
+21. Ulysses by James Joyce
+22. The Stranger by Albert Camus
+23. The Cask of Amontillado by Edgar Allan Poe
+24. The Silence of the Lambs by Thomas Harris
+25. Red Dragon by Thomas Harris
+26. Hannibal by Thomas Harris
+27. The Umbrella Academy by Gerard Way
+28. A People's History of the United States by Howard Zinn
+29. Gulliver's Travels by Jonathan Swift
+30. The Good Earth by Pearl S. Buck
+31. A Tree Grows in Brooklyn by Betty Smith
+32. Fahrenheit 451 by Ray Bradbury
+33. Nineteen Eighty-Four by George Orwell
+34. Dracula by Bram Stoker
+35. Carmilla by J. Sheridan Le Fanu
+36. The Vampire Lestat by Anne Rice
+37. The Queen of the Damned by Anne Rice
+38. Running with Scissors by Augusten Burroughs
+39. Tuck Everlasting by Natalie Babbitt
+40. Cloudy with a Chance of Meatballs by Judi Barrett
+41. How the Grinch Stole Christmas! by Dr. Seuss
+42. Alice's Adventures in Wonderland by Lewis Carroll
+43. The Little Prince by Antoine de Saint-Exupéry
+44. Percy Jackson & the Olympians by Rick Riordan
+45. City of Glass by Cassandra Clare
+46. Vampire: The Masquerade by Mark Rein-Hagen
+47. The Castle of Otranto by Horace Walpole
+48. The Acid House by Irvine Welsh
+49. Les Fleurs du mal by Charles Baudelaire
+50. My Sister's Keeper by Jodi Picoult

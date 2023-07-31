@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Cat's Cradle by Kurt Vonnegut
+2. The Sirens of Titan by Kurt Vonnegut
+3. A Clockwork Orange by Anthony Burgess
+4. Nineteen Eighty-Four by George Orwell
+5. The Lord of the Rings by J.R.R. Tolkien
+6. Ender's Game by Orson Scott Card
+7. The Kite Runner by Khaled Hosseini
+8. The Great Gatsby by F. Scott Fitzgerald
+9. The Bell Jar by Sylvia Plath
+10. Franny and Zooey by J.D. Salinger
+11. The Communist Manifesto by Karl Marx and Friedrich Engels
+12. Guns, Germs, and Steel by Jared Diamond
+13. Inkheart by Cornelia Funke
+14. The Phantom Tollbooth by Norton Juster
+15. The Sandman by Neil Gaiman
+16. The Walking Dead by Robert Kirkman
+17. The Watchmen by Alan Moore and Dave Gibbons
+18. Silent Spring by Rachel Carson
+19. Collapse: How Societies Choose to Fail or Succeed by Jared Diamond
+20. Freakonomics by Steven Levitt and Stephen Dubner
+21. The Glass Menagerie by Tennessee Williams
+22. The Waste Land by T.S. Eliot
+23. The Crow by James O'Barr
+24. On the Road by Jack Kerouac
+25. Revolutionary Road by Richard Yates
+26. Red Inferno: 1945 by Robert Conroy
+27. The Zombie Survival Guide by Max Brooks
+28. The Hellbound Heart by Clive Barker
+29. Kingdom of Fear by Hunter S. Thompson
+30. Trainspotting by Irvine Welsh
+31. Bhagavad Gita by Anonymous
+32. One Hundred Years of Solitude by Gabriel Garcia Marquez
+33. The Phantom of the Opera by Gaston Leroux
+34. I, Claudius by Robert Graves
+35. The Civil War: A Narrative by Shelby Foote
+36. Bluebeard by Kurt Vonnegut
+37. My Ishmael by Daniel Quinn
+38. Waiting for the Barbarians by J.M. Coetzee
+39. Slaughterhouse-Five by Kurt Vonnegut
+40. Little Brother by Cory Doctorow
+41. Naked Lunch by William S. Burroughs
+42. Practical Demonkeeping by Christopher Moore
+43. Fluke, or, I Know Why the Winged Whale Sings by Christopher Moore
+44. Pride and Prejudice and Zombies by Seth Grahame-Smith
+45. Dune by Frank Herbert
+46. The Phantom Tollbooth by Norton Juster
+47. Codex Alera by Jim Butcher
+48. Anathem by Neal Stephenson
+49. Mabinogion by Anonymous

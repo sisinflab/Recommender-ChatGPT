@@ -1,0 +1,49 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. The Hunger Games by Suzanne Collins
+3. To Kill a Mockingbird by Harper Lee
+4. The Fault in Our Stars by John Green
+5. The Great Gatsby by F. Scott Fitzgerald
+6. The Catcher in the Rye by J.D. Salinger
+7. The Hobbit by J.R.R. Tolkien
+8. The Lord of the Rings by J.R.R. Tolkien
+9. Harry Potter and the Philosopher's Stone by J.K. Rowling
+10. Harry Potter and the Chamber of Secrets by J.K. Rowling
+11. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+12. Harry Potter and the Goblet of Fire by J.K. Rowling
+13. Harry Potter and the Order of Phoenix by J.K. Rowling
+14. Harry Potter and the Half-Blood Prince by J.K. Rowling
+15. Harry Potter and the Deathly Hallows by J.K. Rowling
+16. Romeo and Juliet by William Shakespeare
+17. Macbeth by William Shakespeare
+18. Hamlet by William Shakespeare
+19. Othello by William Shakespeare
+20. A Midsummer Night's Dream by William Shakespeare
+21. The Tempest by William Shakespeare
+22. Crime and Punishment by Fyodor Dostoevsky
+23. The Brothers Karamazov by Fyodor Dostoevsky
+24. The Alchemist by Paulo Coelho
+25. The Da Vinci Code by Dan Brown
+26. Angels and Demons by Dan Brown
+27. The Bourne Identity by Robert Ludlum
+28. The Bourne Supremacy by Robert Ludlum
+29. The Bourne Ultimatum by Robert Ludlum
+30. Ender's Game by Orson Scott Card
+31. Speaker for the Dead by Orson Scott Card
+32. Xenocide by Orson Scott Card
+33. Children of the Mind by Orson Scott Card
+34. Les Misérables by Victor Hugo
+35. The Count of Monte Cristo by Alexandre Dumas
+36. The Three Musketeers by Alexandre Dumas
+37. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+38. The Hound of the Baskervilles by Arthur Conan Doyle
+39. The Return of Sherlock Holmes by Arthur Conan Doyle
+40. The Art of Racing in the Rain by Garth Stein
+41. Marley & Me by John Grogan
+42. The Kite Runner by Khaled Hosseini
+43. A Thousand Splendid Suns by Khaled Hosseini
+44. The Time Traveler's Wife by Audrey Niffenegger
+45. The Lovely Bones by Alice Sebold
+46. The Help by Kathryn Stockett
+47. The Girl with the

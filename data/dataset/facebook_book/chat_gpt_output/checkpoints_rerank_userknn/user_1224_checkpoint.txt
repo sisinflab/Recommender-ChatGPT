@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. Crime and Punishment by Fyodor Dostoevsky
+3. Lord of the Flies by William Golding
+4. A Clockwork Orange by Anthony Burgess
+5. Nineteen Eighty-Four by George Orwell
+6. Brave New World by Aldous Huxley
+7. Animal Farm by George Orwell
+8. The Giver by Lois Lowry
+9. To Kill a Mockingbird by Harper Lee
+10. One Flew Over the Cuckoo's Nest by Ken Kesey
+11. The Stranger by Albert Camus
+12. The Fountainhead by Ayn Rand
+13. Cat's Cradle by Kurt Vonnegut
+14. Romeo and Juliet by William Shakespeare
+15. Walden by Henry David Thoreau
+16. The Lord of the Rings by J.R.R. Tolkien
+17. Cosmos by Carl Sagan
+18. All Quiet on the Western Front by Erich Maria Remarque
+19. The Sirens of Titan by Kurt Vonnegut
+20. The Unbearable Lightness of Being by Milan Kundera
+21. Inkheart by Cornelia Funke
+22. The Rules of Attraction by Bret Easton Ellis
+23. Lullaby by Chuck Palahniuk
+24. The Beautiful Boy by Germaine Greer
+25. Middlesex by Jeffrey Eugenides
+26. Life of Pi by Yann Martel
+27. Water for Elephants by Sara Gruen
+28. The Grapes of Wrath by John Steinbeck
+29. Frankenstein by Mary Shelley
+30. Oedipus the King by Sophocles
+31. The Man Who Mistook His Wife for a Hat by Oliver Sacks
+32. Love Hina by Ken Akamatsu
+33. Player Piano by Kurt Vonnegut
+34. The Big Over Easy by Jasper Fforde
+35. A Modest Proposal by Jonathan Swift
+36. On the Road by Jack Kerouac
+37. The Wall by Jean-Paul Sartre
+38. Sun Bin's Art of War by Sun Bin
+39. Aztec by Gary Jennings
+40. Prozac Nation by Elizabeth Wurtzel
+41. The Giver Quartet by Lois Lowry
+42. Hop on Pop by Dr. Seuss
+43. A Swiftly Tilting Planet by Madeleine L'Engle
+44. The 48 Laws of Power by Robert Greene
+45. Go Ask Alice by Anonymous
+46. Alchemy by Margaret Mahy
+47. Tropic of Cancer by Henry Miller
+48. Junkie by William S. Burroughs
+49. Murder on the Orient Express by Agatha Christie
+50. Stranger than Fiction: True

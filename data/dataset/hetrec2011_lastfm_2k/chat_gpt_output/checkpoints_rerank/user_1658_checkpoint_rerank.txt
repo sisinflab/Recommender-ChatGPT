@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Kooks
+2. Zoé
+3. RBD
+4. Belanova
+5. Alesana
+6. Crystal Castles
+7. Incubus
+8. Alphabeat
+9. The Veronicas
+10. Kudai
+11. Black Veil Brides
+12. Avril Lavigne
+13. Taylor Swift
+14. Shakira
+15. Kings of Leon
+16. MGMT
+17. Demi Lovato
+18. Reik
+19. Daft Punk
+20. The Killers
+21. Muse
+22. Pink Floyd
+23. Radiohead
+24. Coldplay
+25. Arctic Monkeys
+26. Placebo
+27. Nirvana
+28. Iron Maiden
+29. Led Zeppelin
+30. Metallica
+31. Michael Jackson
+32. Pearl Jam
+33. a-ha
+34. Björk
+35. System of a Down
+36. Nine Inch Nails
+37. Linkin Park
+38. All Time Low
+39. P!nk
+40. My Chemical Romance
+41. Green Day
+42. The Cure
+43. Paramore
+44. Lady Gaga
+45. Christina Aguilera
+46. Madonna
+47. Rihanna
+48. Katy Perry
+49. Evanescence
+50. Glee Cast

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for user 925 would be:
+
+1. Radiohead
+2. David Bowie
+3. The Beatles
+4. Jeff Buckley
+5. Morrissey
+6. Miles Davis
+7. Frank Sinatra
+8. Elvis Presley
+9. Fiona Apple
+10. The Doors
+11. Depeche Mode
+12. Tori Amos
+13. Luis Miguel
+14. Alejandro Sanz
+15. Oasis
+16. John Mayer
+17. Air
+18. Madonna
+19. A Perfect Circle
+20. Dave Matthews Band
+21. Damien Rice
+22. Sia
+23. Shakira
+24. Tool
+25. VNV Nation
+26. Florence + the Machine
+27. The Smiths
+28. The xx
+29. Nick Cave and the Bad Seeds
+30. Crowded House
+31. The Rolling Stones
+32. Faith No More
+33. Portishead
+34. Dave Gahan
+35. Alice in Chains
+36. Ultravox
+37. Patrick Wolf
+38. CAKE
+39. George Michael
+40. Queen
+41. Moby
+42. Michael Jackson
+43. Kylie Minogue
+44. The Cranberries
+45. Devendra Banhart
+46. Metallica
+47. AC/DC
+48. Nine Inch Nails
+49. Tears for Fears
+50. Jimi Hendrix

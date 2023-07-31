@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games (series) by Suzanne Collins
+2. Divergent (series) by Veronica Roth
+3. The Fault in Our Stars by John Green
+4. The Maze Runner (series) by James Dashner
+5. The Book Thief by Markus Zusak
+6. The Perks of Being a Wallflower by Stephen Chbosky
+7. The Giver (series) by Lois Lowry
+8. The Girl on the Train by Paula Hawkins
+9. The Help by Kathryn Stockett
+10. The Lovely Bones by Alice Sebold
+11. The Catcher in the Rye by J.D. Salinger
+12. The Outsiders by S.E. Hinton
+13. The Bell Jar by Sylvia Plath
+14. The Picture of Dorian Gray by Oscar Wilde
+15. The Handmaid's Tale by Margaret Atwood
+16. The Shining by Stephen King
+17. The Stand by Stephen King
+18. The Dark Tower (series) by Stephen King
+19. The Lord of the Rings (series) by J.R.R. Tolkien
+20. The Hobbit by J.R.R. Tolkien
+21. Harry Potter (series) by J.K. Rowling
+22. The Chronicles of Narnia (series) by C.S. Lewis
+23. The Hitchhiker's Guide to the Galaxy (series) by Douglas Adams
+24. The Da Vinci Code by Dan Brown
+25. Angels and Demons by Dan Brown
+26. Inferno by Dan Brown
+27. The Alchemist by Paulo Coelho
+28. The Name of the Wind by Patrick Rothfuss
+29. The Wise Man's Fear by Patrick Rothfuss
+30. The Kingkiller Chronicle (series) by Patrick Rothfuss
+31. The Night Circus by Erin Morgenstern
+32. The Time Traveler's Wife by Audrey Niffenegger
+33. The Girl with the Dragon Tattoo by Stieg Larsson
+34. The Girl Who Played with Fire by Stieg Larsson
+35. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+36. The Road by Cormac McCarthy
+37. 1984 by George Orwell
+38. Animal Farm by George Orwell
+39. Brave New World by Aldous Huxley
+40. Fahrenheit 451 by Ray Bradbury
+41. To Kill a Mockingbird by Harper Lee
+42. One Hundred Years of Solitude by Gabriel Garcia Marquez
+43. Love in the Time of Cholera by Gabriel Garcia Marquez
+44. The Picture of Dorian Gray by Oscar Wilde
+45. The Importance of Being Earnest by Oscar Wilde
+46. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+47. The Hound of the Baskervilles by Arthur Conan Doyle
+48. The Dark Tower by Stephen King
+49. The Name of the Wind by Patrick Rothfuss
+50. The Wise Man's Fear by Patrick Rothfuss

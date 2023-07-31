@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. System of a Down
+2. Muse
+3. Rammstein
+4. Marilyn Manson
+5. Nautilus Pompilius
+6. Dolphin
+7. Дельфин
+8. Red Hot Chili Peppers
+9. Regina Spektor
+10. Phoenix
+11. Arcade Fire
+12. Placebo
+13. The Bloody Beetroots
+14. Scorpions
+15. Aphex Twin
+16. Alice Cooper
+17. Elton John
+18. The Future Sound of London
+19. Queen
+20. Nirvana
+21. Metallica
+22. Iron Maiden
+23. Pearl Jam
+24. Led Zeppelin
+25. Michael Jackson
+26. U2
+27. Pink Floyd
+28. Radiohead
+29. The Beatles
+30. Duran Duran
+31. Coldplay
+32. Blur
+33. Arctic Monkeys
+34. Ke$ha
+35. Madonna
+36. Lady Gaga
+37. Christina Aguilera
+38. Rihanna
+39. Shakira
+40. Katy Perry
+41. Avril Lavigne
+42. Taylor Swift
+43. Evanescence
+44. Beyoncé
+45. 30 Seconds to Mars
+46. Daft Punk
+47. Nine Inch Nails
+48. Linkin Park
+49. My Chemical Romance
+50. Green Day

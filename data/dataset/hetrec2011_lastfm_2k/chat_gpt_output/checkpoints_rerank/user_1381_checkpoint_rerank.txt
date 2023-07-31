@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Sigur Rós
+2. Coldplay
+3. Explosions in the Sky
+4. Crystal Castles
+5. The Dead Weather
+6. A Fine Frenzy
+7. iamamiwhoami
+8. múm
+9. Lily Allen
+10. Boards of Canada
+11. M83
+12. Panda Bear
+13. Balmorhea
+14. Édith Piaf
+15. Snow Patrol
+16. Best Coast
+17. Bat for Lashes
+18. Keane
+19. Hurts
+20. The xx
+21. Alice in Videoland
+22. Iron & Wine
+23. Beeshop
+24. The Killers
+25. Max Richter
+26. Bang Gang
+27. Britney Spears
+28. Madonna
+29. Lady Gaga
+30. Christina Aguilera
+31. Rihanna
+32. Beyoncé
+33. Muse
+34. Pink Floyd
+35. Radiohead
+36. Duran Duran
+37. Blur
+38. Arctic Monkeys
+39. Placebo
+40. Nirvana
+41. Led Zeppelin
+42. Michael Jackson
+43. Pearl Jam
+44. Björk
+45. Daft Punk
+46. Nine Inch Nails
+47. Linkin Park
+48. Kelly Clarkson
+49. P!nk
+50. My Chemical Romance

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Time Keeper by Mitch Albom
+2. The Notebook by Nicholas Sparks
+3. The Da Vinci Code by Dan Brown
+4. The Girl on the Train by Paula Hawkins
+5. The Help by Kathryn Stockett
+6. The Hunger Games by Suzanne Collins
+7. The Fault in Our Stars by John Green
+8. The Kite Runner by Khaled Hosseini
+9. The Catcher in the Rye by J.D. Salinger
+10. The Great Gatsby by F. Scott Fitzgerald
+11. To Kill a Mockingbird by Harper Lee
+12. The Hobbit by J.R.R. Tolkien
+13. The Lord of the Rings by J.R.R. Tolkien
+14. The Chronicles of Narnia by C.S. Lewis
+15. The Maze Runner by James Dashner
+16. The Giver by Lois Lowry
+17. The Book Thief by Markus Zusak
+18. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+19. The Perks of Being a Wallflower by Stephen Chbosky
+20. The Picture of Dorian Gray by Oscar Wilde
+21. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+22. The Adventures of Tom Sawyer by Mark Twain
+23. The Adventures of Huckleberry Finn by Mark Twain
+24. The Secret Life of Bees by Sue Monk Kidd
+25. The Lovely War by Julie Berry
+26. The Nightingale by Kristin Hannah
+27. The Immortalists by Chloe Benjamin
+28. The Silent Patient by Alex Michaelides
+29. The Tattooist of Auschwitz by Heather Morris
+30. The Alice Network by Kate Quinn
+31. The Dutch House by Ann Patchett
+32. The Testaments by Margaret Atwood
+33. The Water Dancer by Ta-Nehisi Coates
+34. The Nickel Boys by Colson Whitehead
+35. The Overstory by Richard Powers
+36. The Goldfinch by Donna Tartt
+37. The Sun Also Rises by Ernest Hemingway
+38. The Old Man and the Sea by Ernest Hemingway
+39. The Catch-22 by Joseph Heller
+40. The Bell Jar by Sylvia Plath
+41. The Handmaid's Tale by Margaret Atwood
+42. The Road by Cormac McCarthy
+43. The Stand by Stephen King
+44. The Shining by Stephen King
+45. The Outsider by Stephen King
+46. The Institute by Stephen King
+47. The Dark Tower by Stephen King
+48. The Talisman by Stephen King and Peter Straub
+49. The Eyes of the Dragon by Stephen King
+50. The Green Mile by Stephen King

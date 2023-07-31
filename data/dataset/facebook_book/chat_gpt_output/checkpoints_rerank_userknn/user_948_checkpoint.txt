@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird
+2. The Hobbit
+3. The Chronicles of Narnia
+4. Great Expectations
+5. Jane Eyre
+6. The Catcher in the Rye
+7. The Da Vinci Code
+8. The Kite Runner
+9. Les Misérables
+10. The Red Tent
+11. The Bell Jar
+12. The Lovely Bones
+13. Wuthering Heights
+14. Lolita
+15. The Stranger (novel)
+16. The Other Boleyn Girl
+17. Flipped
+18. My Sister's Keeper (novel)
+19. Nineteen Minutes
+20. Crime and Punishment
+21. Heart-Shaped Box (novel)
+22. The Tenth Circle
+23. Anthem (novella)
+24. The Secret Garden
+25. The God Delusion
+26. How the Mind Works
+27. The Elegant Universe
+28. Fingerprints of the Gods
+29. The Theory of Everything
+30. A Midsummer Night's Dream
+31. The Graveyard Book
+32. The Chosen (Potok novel)
+33. The Smurfs
+34. The Chronicles of Narnia
+35. Gone with the Wind
+36. Quran
+37. The Notebook (novel)
+38. Gone (novel series)
+39. Where the Sidewalk Ends (book)
+40. Vampire Kisses
+41. Inkspell
+42. The Forgotten Garden
+43. The Zombie Survival Guide
+44. A Hero of Our Time
+45. This Is Your Brain On Music
+46. City of Glass (Mortal Instruments)
+47. Encyclopædia Britannica
+48. The China Study
+49. Hellsing
+50. Cosmos (book)

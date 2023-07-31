@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. A Day to Remember
+2. Bring Me The Horizon
+3. The Devil Wears Prada
+4. Killswitch Engage
+5. Atreyu
+6. blessthefall
+7. Alesana
+8. Eyes Set to Kill
+9. From First to Last
+10. Skillet
+11. A Skylit Drive
+12. The Word Alive
+13. Flyleaf
+14. Paramore
+15. Limp Bizkit
+16. Kanye West
+17. Lil' Wayne
+18. Mindless Self Indulgence
+19. Celldweller
+20. Adema
+21. Skye Sweetnam
+22. The Veronicas
+23. Britney Spears
+24. Evanescence
+25. Muse
+26. Radiohead
+27. Nirvana
+28. Pearl Jam
+29. Metallica
+30. Iron Maiden
+31. Led Zeppelin
+32. Michael Jackson
+33. Nine Inch Nails
+34. System of a Down
+35. Linkin Park
+36. Avenged Sevenfold
+37. Green Day
+38. My Chemical Romance
+39. The Cure
+40. Pink Floyd
+41. U2
+42. Coldplay
+43. Blur
+44. Arctic Monkeys
+45. Placebo
+46. Depeche Mode
+47. Madonna
+48. Lady Gaga
+49. Christina Aguilera
+50. Beyoncé

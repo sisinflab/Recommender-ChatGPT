@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Fight Club by Chuck Palahniuk
+2. Persuasion by Jane Austen
+3. The Night Circus by Erin Morgenstern
+4. Just Listen by Sarah Dessen
+5. Lost in a Good Book by Jasper Fforde
+6. Wicked Lovely by Melissa Marr
+7. The Pilgrimage by Paulo Coelho
+8. The Hunger Games by Suzanne Collins
+9. Crank by Ellen Hopkins
+10. The Maze Runner by James Dashner
+11. The Book Thief by Markus Zusak
+12. The Catcher in the Rye by J.D. Salinger
+13. The Giver by Lois Lowry
+14. The Fault in Our Stars by John Green
+15. The Perks of Being a Wallflower by Stephen Chbosky
+16. The Lovely Bones by Alice Sebold
+17. The Girl with the Dragon Tattoo by Stieg Larsson
+18. The Help by Kathryn Stockett
+19. The Secret Life of Bees by Sue Monk Kidd
+20. The Time Traveler's Wife by Audrey Niffenegger
+21. The Da Vinci Code by Dan Brown
+22. The Kite Runner by Khaled Hosseini
+23. The Girl on the Train by Paula Hawkins
+24. The Handmaid's Tale by Margaret Atwood
+25. The Picture of Dorian Gray by Oscar Wilde
+26. The Bell Jar by Sylvia Plath
+27. The Road by Cormac McCarthy
+28. The Stand by Stephen King
+29. The Shining by Stephen King
+30. The Outsiders by S.E. Hinton
+31. The Lord of the Rings by J.R.R. Tolkien
+32. The Hobbit by J.R.R. Tolkien
+33. The Chronicles of Narnia by C.S. Lewis
+34. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+35. The Harry Potter series by J.K. Rowling
+36. The Hunger Games series by Suzanne Collins
+37. The Divergent series by Veronica Roth
+38. The Maze Runner series by James Dashner
+39. The Mortal Instruments series by Cassandra Clare
+40. The Infernal Devices series by Cassandra Clare
+41. The Twilight series by Stephenie Meyer
+42. The Vampire Diaries series by L.J. Smith
+43. The Sookie Stackhouse series by Charlaine Harris
+44. The Dresden Files series by Jim Butcher
+45. The Dark Tower series by Stephen King
+46. The Wheel of Time series by Robert Jordan
+47. The Song of Ice and Fire series by George R.R. Martin
+48. The Kingkiller Chronicle series by Patrick Rothfuss
+49. The Stormlight Archive series by Brandon Sanderson
+50. The Mistborn series by Brandon Sanderson

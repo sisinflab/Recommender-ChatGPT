@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Fall Out Boy
+2. Green Day
+3. All Time Low
+4. Paramore (similar to user's favorite)
+5. Panic! At the Disco (similar to user's favorite)
+6. My Chemical Romance (similar to user's favorite)
+7. The All-American Rejects
+8. Blink-182
+9. The Killers
+10. Muse (similar to user's favorite)
+11. Arctic Monkeys (similar to user's favorite)
+12. The Strokes
+13. Radiohead
+14. The White Stripes
+15. Franz Ferdinand
+16. The Black Keys
+17. Vampire Weekend
+18. The Kooks
+19. The 1975
+20. Two Door Cinema Club
+21. Foster the People
+22. Phoenix
+23. The Neighbourhood
+24. Cage the Elephant
+25. Arctic Monkeys
+26. The Wombats
+27. The Vaccines
+28. The Fratellis
+29. The Libertines
+30. The Hives
+31. The Raconteurs
+32. The Arctic Monkeys
+33. The Black Rebel Motorcycle Club
+34. The Vines
+35. The Bravery
+36. The Rapture
+37. The Ting Tings
+38. The Yeah Yeah Yeahs
+39. The Kills
+40. The Duke Spirit
+41. The Gossip
+42. The Sounds
+43. The Subways
+44. The Futureheads
+45. The Maccabees
+46. The Pigeon Detectives
+47. The View
+48. The Zutons
+49. The Cribs
+50. The Horrors

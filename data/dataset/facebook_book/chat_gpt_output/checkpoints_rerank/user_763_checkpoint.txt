@@ -1,0 +1,54 @@
+Based on the user's liking for the books mentioned, here are the top 50 recommendations for user 763:
+
+1. Harry Potter
+2. The Hobbit
+3. The Lord of the Rings
+4. Frankenstein
+5. Dracula
+6. The Picture of Dorian Gray
+7. The Great Gatsby
+8. Crime and Punishment
+9. The Scarlet Letter
+10. The Stand
+11. Brave New World
+12. Invisible Man
+13. Pygmalion (play)
+14. The Giver
+15. The Outsiders (novel)
+16. A Series of Unfortunate Events
+17. The House of Mirth
+18. Shakespeares sonnets
+19. The Phantom of the Opera
+20. The Rapture (novel)
+21. Medea (play)
+22. The Southern Vampire Mysteries
+23. List of Scott Pilgrim characters
+24. The Maze Runner
+25. Across the Universe (novel)
+26. The City of Ember
+27. Gravitys Rainbow
+28. Delta of Venus
+29. And the Ass Saw the Angel
+30. Incarceron
+31. Made in America (book)
+32. World War Z
+33. The Silmarillion
+34. If There Be Thorns
+35. Petals on the Wind
+36. Cut (novel)
+37. Vampire Kisses
+38. The Tenant of Wildfell Hall
+39. Strange Case of Dr Jekyll and Mr Hyde
+40. The Catcher in the Rye
+41. The Unbearable Lightness of Being
+42. Memoirs of a Geisha
+43. Slaughterhouse-Five
+44. Stardust (novel)
+45. American Gods
+46. The Devil's Dictionary
+47. Battle Royale
+48. Wuthering Heights
+49. Gunnerkrigg Court
+50. The Pillowman
+
+Note: The books are ranked based on their similarity to the books that the user has already liked.

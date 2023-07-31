@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Shining by Stephen King
+2. The Witching Hour by Anne Rice
+3. The Hobbit by J.R.R. Tolkien
+4. The Catcher in the Rye by J.D. Salinger
+5. The Great Gatsby by F. Scott Fitzgerald
+6. To Kill a Mockingbird by Harper Lee
+7. 1984 by George Orwell
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+10. The Chronicles of Narnia by C.S. Lewis
+11. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+12. The Da Vinci Code by Dan Brown
+13. The Hunger Games by Suzanne Collins
+14. The Girl with the Dragon Tattoo by Stieg Larsson
+15. The Road by Cormac McCarthy
+16. The Stand by Stephen King
+17. The Silence of the Lambs by Thomas Harris
+18. The Handmaid's Tale by Margaret Atwood
+19. The Lord of the Flies by William Golding
+20. The Giver by Lois Lowry
+21. The Fault in Our Stars by John Green
+22. The Book Thief by Markus Zusak
+23. The Maze Runner by James Dashner
+24. The Perks of Being a Wallflower by Stephen Chbosky
+25. The Lovely Bones by Alice Sebold
+26. The Secret Life of Bees by Sue Monk Kidd
+27. The Help by Kathryn Stockett
+28. The Kite Runner by Khaled Hosseini
+29. The Alchemist by Paulo Coelho
+30. The Time Traveler's Wife by Audrey Niffenegger
+31. The Bell Jar by Sylvia Plath
+32. The Picture of Dorian Gray by Oscar Wilde
+33. The Little Prince by Antoine de Saint-Exupéry
+34. The Outsiders by S.E. Hinton
+35. The Neverending Story by Michael Ende
+36. The Last Unicorn by Peter S. Beagle
+37. The Historian by Elizabeth Kostova
+38. Memoirs of a Geisha by Arthur Golden
+39. The Sisterhood of the Traveling Pants by Ann Brashares
+40. Evermore by Alyson Noël
+41. Mockingjay by Suzanne Collins
+42. Les Misérables by Victor Hugo
+43. Wicked by Gregory Maguire
+44. Harry Potter and the Philosopher's Stone by J.K. Rowling
+45. The Joy Luck Club by Amy Tan
+46. Brave New World by Aldous Huxley
+47. A Portrait of the Artist as a Young Man by James Joyce
+48. Pride and Prejudice by Jane Austen
+49. Animal Farm by George Orwell
+50. Dracula by Bram Stoker

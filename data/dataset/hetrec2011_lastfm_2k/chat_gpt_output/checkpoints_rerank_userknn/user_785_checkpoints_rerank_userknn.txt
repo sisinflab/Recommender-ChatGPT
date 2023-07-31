@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. The Beatles
+3. David Bowie
+4. Björk
+5. The Rolling Stones
+6. The Cure
+7. Iron Maiden
+8. The White Stripes
+9. Red Hot Chili Peppers
+10. The Smashing Pumpkins
+11. Cyndi Lauper
+12. Michael Jackson
+13. Alanis Morissette
+14. Supergrass
+15. The Strokes
+16. Blondie
+17. Janis Joplin
+18. Christina Aguilera
+19. Shakira
+20. Pato Fu
+21. Os Mutantes
+22. Maria Bethânia
+23. Cher
+24. Rita Lee
+25. L'Arc~en~Ciel
+26. Amy Winehouse
+27. OK Go
+28. Cachorro Grande
+29. The Police
+30. Pink Floyd
+31. Oasis
+32. Iggy Pop
+33. The Velvet Underground
+34. Moby
+35. The Stooges
+36. Yeah Yeah Yeahs
+37. T. Rex
+38. Arctic Monkeys
+39. Billy Idol
+40. Paul McCartney
+41. Tori Amos
+42. The Smiths
+43. Lily Allen
+44. Weezer
+45. Nick Drake
+46. Simon & Garfunkel
+47. Tom Waits
+48. Crystal Castles
+49. Kings of Convenience
+50. Fleetwood Mac

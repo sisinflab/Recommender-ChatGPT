@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Deftones
+2. Combichrist
+3. Siouxsie and the Banshees
+4. The Cure
+5. Rammstein
+6. Recoil
+7. PJ Harvey
+8. Klaxons
+9. Marilyn Manson
+10. Katatonia
+11. Cocteau Twins
+12. Diary of Dreams
+13. The Smiths
+14. Hard-Fi
+15. Morrissey
+16. The Prodigy
+17. Oasis
+18. Damien Rice
+19. Dead Can Dance
+20. Hot Chip
+21. Paul McCartney
+22. Mudvayne
+23. The Human League
+24. The Horrors
+25. Orchestral Manoeuvres in the Dark
+26. Sex Pistols
+27. The Chemical Brothers
+28. Johnny Cash
+29. a-ha
+30. Radiohead
+31. Nirvana
+32. Led Zeppelin
+33. Metallica
+34. Iron Maiden
+35. Pink Floyd
+36. Muse
+37. U2
+38. Nine Inch Nails
+39. System of a Down
+40. Daft Punk
+41. Björk
+42. The Beatles
+43. Placebo
+44. The Killers
+45. Duran Duran
+46. Arctic Monkeys
+47. Blur
+48. Green Day
+49. My Chemical Romance
+50. Pearl Jam

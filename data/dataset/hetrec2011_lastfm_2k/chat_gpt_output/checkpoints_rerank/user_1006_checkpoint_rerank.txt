@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Chico Buarque
+2. Maria Bethânia
+3. Nina Simone
+4. Caetano Veloso
+5. Coldplay
+6. Los Hermanos
+7. Sade
+8. Alanis Morissette
+9. Radiohead
+10. Erykah Badu
+11. Norah Jones
+12. The Chemical Brothers
+13. The Smashing Pumpkins
+14. Marisa Monte
+15. The Rolling Stones
+16. Alicia Keys
+17. Antônio Carlos Jobim
+18. Devendra Banhart
+19. Diana Krall
+20. Air
+21. Justin Timberlake
+22. The White Stripes
+23. Cat Power
+24. Stereophonics
+25. Rufus Wainwright
+26. Beyoncé
+27. Madonna
+28. Rihanna
+29. Shakira
+30. The Beatles
+31. Pink Floyd
+32. U2
+33. Muse
+34. Radiohead
+35. Coldplay
+36. Blur
+37. Arctic Monkeys
+38. Placebo
+39. The Killers
+40. Nirvana
+41. Led Zeppelin
+42. Metallica
+43. Michael Jackson
+44. Pearl Jam
+45. Björk
+46. Daft Punk
+47. Nine Inch Nails
+48. Linkin Park
+49. Green Day
+50. The Cure

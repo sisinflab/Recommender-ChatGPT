@@ -1,0 +1,49 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Glamorama by Bret Easton Ellis
+2. The Rum Diary by Hunter S. Thompson
+3. Less Than Zero by Bret Easton Ellis
+4. The Sun Also Rises by Ernest Hemingway
+5. The Catcher in the Rye by J.D. Salinger
+6. The Bell Jar by Sylvia Plath
+7. The Picture of Dorian Gray by Oscar Wilde
+8. The Electric Kool-Aid Acid Test by Tom Wolfe
+9. The Doors of Perception by Aldous Huxley
+10. On the Road by Jack Kerouac
+11. The Great Gatsby by F. Scott Fitzgerald
+12. The Dirt: Confessions of the World's Most Notorious Rock Band by Neil Strauss
+13. The Heroin Diaries: A Year in the Life of a Shattered Rock Star by Nikki Sixx
+14. Scar Tissue by Anthony Kiedis
+15. Slash by Slash
+16. The Long Hard Road Out of Hell by Marilyn Manson
+17. The Basketball Diaries by Jim Carroll
+18. The Perks of Being a Wallflower by Stephen Chbosky
+19. The Outsiders by S.E. Hinton
+20. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+21. The Hunger Games by Suzanne Collins
+22. The Girl with the Dragon Tattoo by Stieg Larsson
+23. The Shining by Stephen King
+24. The Silence of the Lambs by Thomas Harris
+25. The Da Vinci Code by Dan Brown
+26. The Bourne Identity by Robert Ludlum
+27. The Godfather by Mario Puzo
+28. The Lord of the Rings by J.R.R. Tolkien
+29. The Hobbit by J.R.R. Tolkien
+30. The Chronicles of Narnia by C.S. Lewis
+31. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+32. The War of the Worlds by H.G. Wells
+33. The Time Machine by H.G. Wells
+34. The Invisible Man by H.G. Wells
+35. The Island of Dr. Moreau by H.G. Wells
+36. The Picture of Dorian Gray by Oscar Wilde
+37. The Importance of Being Earnest by Oscar Wilde
+38. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+39. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+40. The Hound of the Baskervilles by Arthur Conan Doyle
+41. The Complete Works of Edgar Allan Poe by Edgar Allan Poe
+42. The Canterbury Tales by Geoffrey Chaucer
+43. The Divine Comedy by Dante Alighieri
+44. The Iliad by Homer
+45. The Odyssey by Homer
+46. The Republic by Plato
+47. The Prince by Niccolò Machiavelli

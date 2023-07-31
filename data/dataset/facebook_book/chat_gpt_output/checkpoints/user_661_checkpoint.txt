@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Pride and Prejudice by Jane Austen
+6. Animal Farm by George Orwell
+7. The Hobbit by J.R.R. Tolkien
+8. The Lord of the Rings by J.R.R. Tolkien
+9. The Hunger Games by Suzanne Collins
+10. The Fault in Our Stars by John Green
+11. The Diary of a Young Girl by Anne Frank
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Da Vinci Code by Dan Brown
+14. The Help by Kathryn Stockett
+15. The Kite Runner by Khaled Hosseini
+16. The Alchemist by Paulo Coelho
+17. The Picture of Dorian Gray by Oscar Wilde
+18. The Adventures of Huckleberry Finn by Mark Twain
+19. The Adventures of Tom Sawyer by Mark Twain
+20. The Road by Cormac McCarthy
+21. The Shining by Stephen King
+22. The Stand by Stephen King
+23. The Silence of the Lambs by Thomas Harris
+24. The Lovely Bones by Alice Sebold
+25. The Time Traveler's Wife by Audrey Niffenegger
+26. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+27. The Chronicles of Narnia by C.S. Lewis
+28. The Giver by Lois Lowry
+29. The Maze Runner by James Dashner
+30. The Book Thief by Markus Zusak
+31. The Perks of Being a Wallflower by Stephen Chbosky
+32. The Secret Life of Bees by Sue Monk Kidd
+33. The Color Purple by Alice Walker
+34. The Joy Luck Club by Amy Tan
+35. The God of Small Things by Arundhati Roy
+36. The Poisonwood Bible by Barbara Kingsolver
+37. The Handmaid's Tale by Margaret Atwood
+38. The Road Less Traveled by M. Scott Peck
+39. The Power of Now by Eckhart Tolle
+40. The Celestine Prophecy by James Redfield
+41. The Prophet by Kahlil Gibran
+42. The Tao of Pooh by Benjamin Hoff
+43. The Art of War by Sun Tzu
+44. The Prince by Niccolo Machiavelli
+45. The Republic by Plato
+46. The Wealth of Nations by Adam Smith
+47. The Origin of Species by Charles Darwin
+48. The Interpretation of Dreams by Sigmund Freud
+49. The Communist Manifesto by Karl Marx and Friedrich Engels
+50. The Bible by Various Authors

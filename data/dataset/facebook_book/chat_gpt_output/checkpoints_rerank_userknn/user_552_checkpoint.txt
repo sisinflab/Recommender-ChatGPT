@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Great Gatsby by F. Scott Fitzgerald
+2. To Kill a Mockingbird by Harper Lee
+3. Animal Farm by George Orwell
+4. Nineteen Eighty-Four by George Orwell
+5. The Catcher in the Rye by J.D. Salinger
+6. Les Misérables by Victor Hugo
+7. Memoirs of a Geisha by Arthur Golden
+8. The Lord of the Rings by J.R.R. Tolkien
+9. Wuthering Heights by Emily Bronte
+10. Jane Eyre by Charlotte Bronte
+11. Brave New World by Aldous Huxley
+12. Ulysses by James Joyce
+13. War and Peace by Leo Tolstoy
+14. The Book Thief by Markus Zusak
+15. Never Let Me Go by Kazuo Ishiguro
+16. The Hunger Games by Suzanne Collins
+17. The Da Vinci Code by Dan Brown
+18. Lolita by Vladimir Nabokov
+19. The Giver by Lois Lowry
+20. Ink Exchange by Melissa Marr
+21. Persepolis by Marjane Satrapi
+22. Romeo and Juliet by William Shakespeare
+23. The Taming of the Shrew by William Shakespeare
+24. The Scarlet Letter by Nathaniel Hawthorne
+25. Glass by Ellen Hopkins
+26. Titus Andronicus by William Shakespeare
+27. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+28. Twilight by Stephenie Meyer
+29. The Monk by Matthew Lewis
+30. The Canterville Ghost by Oscar Wilde
+31. Rose Madder by Stephen King
+32. The Umbrella Academy by Gerard Way
+33. Will Grayson, Will Grayson by John Green and David Levithan
+34. The Holy Blood and the Holy Grail by Michael Baigent, Richard Leigh, and Henry Lincoln
+35. Oh, the Places You'll Go! by Dr. Seuss
+36. Of Mice and Men by John Steinbeck
+37. Fierce Invalids Home from Hot Climates by Tom Robbins
+38. Lock and Key by Sarah Dessen
+39. Girl, Interrupted by Susanna Kaysen
+40. Trivia by Logan Pearsall Smith
+41. Eat This, Not That by David Zinczenko
+42. Inherit the Wind by Jerome Lawrence and Robert E. Lee
+43. Sense and Sensibility by Jane Austen
+44. Impulse Economy by Gary Schwartz
+45. Macbeth by William Shakespeare
+46. The Wolves of Mercy Falls by Maggie Stiefvater
+47. I Hope They Serve Beer in Hell by Tucker Max
+48. The Hatchet by Gary Paulsen
+49. The Zombie Survival Guide by Max Brooks
+50. The Chicago Manual of Style by University of Chicago Press

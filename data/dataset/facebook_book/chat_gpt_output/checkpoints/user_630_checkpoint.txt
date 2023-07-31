@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Wuthering Heights by Emily Bronte
+2. Pride and Prejudice by Jane Austen
+3. To Kill a Mockingbird by Harper Lee
+4. The Great Gatsby by F. Scott Fitzgerald
+5. 1984 by George Orwell
+6. Animal Farm by George Orwell
+7. The Catcher in the Rye by J.D. Salinger
+8. The Bell Jar by Sylvia Plath
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Importance of Being Earnest by Oscar Wilde
+11. The Adventures of Huckleberry Finn by Mark Twain
+12. The Adventures of Tom Sawyer by Mark Twain
+13. The Scarlet Letter by Nathaniel Hawthorne
+14. The Grapes of Wrath by John Steinbeck
+15. Of Mice and Men by John Steinbeck
+16. The Sun Also Rises by Ernest Hemingway
+17. A Farewell to Arms by Ernest Hemingway
+18. For Whom the Bell Tolls by Ernest Hemingway
+19. The Old Man and the Sea by Ernest Hemingway
+20. The Sound and the Fury by William Faulkner
+21. As I Lay Dying by William Faulkner
+22. Light in August by William Faulkner
+23. Absalom, Absalom! by William Faulkner
+24. Heart of Darkness by Joseph Conrad
+25. Lord of the Flies by William Golding
+26. Brave New World by Aldous Huxley
+27. The Lord of the Rings by J.R.R. Tolkien
+28. The Hobbit by J.R.R. Tolkien
+29. The Chronicles of Narnia by C.S. Lewis
+30. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+31. The Da Vinci Code by Dan Brown
+32. Angels and Demons by Dan Brown
+33. The Girl with the Dragon Tattoo by Stieg Larsson
+34. The Hunger Games by Suzanne Collins
+35. Catching Fire by Suzanne Collins
+36. Mockingjay by Suzanne Collins
+37. The Maze Runner by James Dashner
+38. The Fault in Our Stars by John Green
+39. Looking for Alaska by John Green
+40. Paper Towns by John Green
+41. The Book Thief by Markus Zusak
+42. The Kite Runner by Khaled Hosseini
+43. A Thousand Splendid Suns by Khaled Hosseini
+44. The Alchemist by Paulo Coelho
+45. The Name of the Wind by Patrick Rothfuss
+46. The Wise Man's Fear by Patrick Rothfuss
+47. The Shadow of the Wind by Carlos Ruiz Zafón
+48. The Time Traveler's Wife by Audrey Niffenegger
+49. The Lovely Bones by Alice Sebold
+50. The

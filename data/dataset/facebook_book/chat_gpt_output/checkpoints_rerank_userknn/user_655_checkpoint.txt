@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hobbit
+2. The Lord of the Rings
+3. Harry Potter
+4. Eragon
+5. The Silmarillion
+6. Brisingr
+7. Frankenstein
+8. Dracula
+9. The Phantom of the Opera
+10. The Master and Margarita
+11. The Autobiography of Malcolm X
+12. To Kill a Mockingbird
+13. The Kite Runner
+14. A Separate Peace
+15. Flowers for Algernon
+16. Slaughterhouse-Five
+17. The Catcher in the Rye
+18. The Giver
+19. Night (book)
+20. The Silence of the Lambs (novel)
+21. Hannibal (novel)
+22. Angels & Demons
+23. The Watchmen (novel)
+24. The Walking Dead (comic book)
+25. Battle Royale
+26. 2001: A Space Odyssey (novel)
+27. The Lost World (Crichton novel)
+28. Jurassic Park (novel)
+29. Great Expectations
+30. A Wrinkle in Time
+31. Passion and Purity
+32. Twilight (series)
+33. Speak (novel)
+34. The Alchemist (novel)
+35. The Shack
+36. Go Ask Alice
+37. Pride and Prejudice and Zombies
+38. 3001: The Final Odyssey
+39. All Quiet on the Western Front
+40. Tarzan of the Apes
+41. The Mayor of Casterbridge
+42. A Midsummer Night's Dream
+43. Don Quixote
+44. The Merchant of Venice
+45. The Lovely Bones
+46. Holes (novel)
+47. The Fire Within (novel)
+48. Blood and Chocolate (novel)
+49. The Purpose Driven Life
+50. The Wardstone Chronicles

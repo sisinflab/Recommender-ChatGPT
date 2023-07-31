@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for this user are:
+
+1. Björk
+2. Radiohead
+3. Massive Attack
+4. Enigma
+5. Goldfrapp
+6. The Knife
+7. Röyksopp
+8. Delerium
+9. Tori Amos
+10. Imogen Heap
+11. Ayria
+12. 浜崎あゆみ
+13. Enya
+14. Underworld
+15. Sia
+16. Feist
+17. Kate Bush
+18. Sarah Brightman
+19. Regina Spektor
+20. Frank Sinatra
+21. Norah Jones
+22. Josh Groban
+23. David Bowie
+24. Florence + the Machine
+25. Fiona Apple
+26. Zero 7
+27. Alanis Morissette
+28. Janet Jackson
+29. Garbage
+30. Marilyn Manson
+31. Boards of Canada
+32. Bee Gees
+33. Stars
+34. A Fine Frenzy
+35. David Gray
+36. Céline Dion
+37. Coldplay
+38. Amy Winehouse
+39. Kelly Clarkson
+40. Manu Chao
+41. Depeche Mode
+42. Tiziano Ferro
+43. The Beatles
+44. Nine Inch Nails
+45. Shakira
+46. Placebo
+47. Nickelback
+48. Sara Bareilles
+49. Britney Spears
+50. Cyndi Lauper

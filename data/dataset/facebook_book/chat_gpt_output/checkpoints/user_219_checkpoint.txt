@@ -1,0 +1,46 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+4. The Catcher in the Rye by J.D. Salinger
+5. To Kill a Mockingbird by Harper Lee
+6. The Great Gatsby by F. Scott Fitzgerald
+7. One Hundred Years of Solitude by Gabriel Garcia Marquez
+8. Crime and Punishment by Fyodor Dostoevsky
+9. The Brothers Karamazov by Fyodor Dostoevsky
+10. The Picture of Dorian Gray by Oscar Wilde
+11. The Count of Monte Cristo by Alexandre Dumas
+12. Les Miserables by Victor Hugo
+13. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+14. The Lord of the Rings by J.R.R. Tolkien
+15. The Hobbit by J.R.R. Tolkien
+16. The Chronicles of Narnia by C.S. Lewis
+17. The Hunger Games by Suzanne Collins
+18. Harry Potter and the Philosopher's Stone by J.K. Rowling
+19. Harry Potter and the Chamber of Secrets by J.K. Rowling
+20. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+21. Harry Potter and the Goblet of Fire by J.K. Rowling
+22. Harry Potter and the Order of Phoenix by J.K. Rowling
+23. Harry Potter and the Half-Blood Prince by J.K. Rowling
+24. Harry Potter and the Deathly Hallows by J.K. Rowling
+25. The Girl with the Dragon Tattoo by Stieg Larsson
+26. The Girl Who Played with Fire by Stieg Larsson
+27. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+28. The Name of the Wind by Patrick Rothfuss
+29. The Wise Man's Fear by Patrick Rothfuss
+30. The Way of Kings by Brandon Sanderson
+31. Mistborn: The Final Empire by Brandon Sanderson
+32. Mistborn: The Well of Ascension by Brandon Sanderson
+33. Mistborn: The Hero of Ages by Brandon Sanderson
+34. The Final Empire by Michael J. Sullivan
+35. The Blade Itself by Joe Abercrombie
+36. The Lies of Locke Lamora by Scott Lynch
+37. The Eye of the World by Robert Jordan
+38. The Name of the Rose by Umberto Eco
+39. The Pillars of the Earth by Ken Follett
+40. The Shadow of the Wind by Carlos Ruiz Zafon
+41. The Wind-Up Bird Chronicle by Haruki Murakami
+42. Kafka on the Shore by Haruki Murakami
+43. The Alchemist by Paulo Coelho
+44. The Picture of Dorian Gray

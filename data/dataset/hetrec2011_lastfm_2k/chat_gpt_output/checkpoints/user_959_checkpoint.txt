@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Pet Shop Boys
+2. David Bowie
+3. Duran Duran
+4. The Cure
+5. Kraftwerk
+6. Joy Division
+7. Siouxsie and the Banshees
+8. Talking Heads
+9. Roxy Music
+10. The Human League
+11. Echo & the Bunnymen
+12. Tears for Fears
+13. The Psychedelic Furs
+14. The Jesus and Mary Chain
+15. The Chameleons
+16. The Sisters of Mercy
+17. The Mission
+18. The Cult
+19. The Damned
+20. The Birthday Massacre
+21. Clan of Xymox
+22. She Wants Revenge
+23. Interpol
+24. Editors
+25. White Lies
+26. The National
+27. Arcade Fire
+28. The Killers
+29. Muse
+30. Placebo
+31. Nine Inch Nails
+32. Marilyn Manson
+33. Rammstein
+34. Deftones
+35. Tool
+36. System of a Down
+37. Slipknot
+38. Metallica
+39. Iron Maiden
+40. Judas Priest
+41. Black Sabbath
+42. Led Zeppelin
+43. Pink Floyd
+44. The Doors
+45. Jimi Hendrix
+46. The Rolling Stones
+47. The Beatles
+48. Bob Dylan
+49. Neil Young
+50. Tom Waits

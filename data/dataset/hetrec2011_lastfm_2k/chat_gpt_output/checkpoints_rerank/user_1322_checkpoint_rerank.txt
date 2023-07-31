@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Opeth
+2. Meshuggah
+3. Cynic
+4. Death
+5. Mastodon
+6. Gojira
+7. Ulver
+8. Isis
+9. Katatonia
+10. The Dillinger Escape Plan
+11. Massive Attack
+12. Boards of Canada
+13. Nine Inch Nails
+14. Beastie Boys
+15. Peter Gabriel
+16. Jamiroquai
+17. Chase & Status
+18. Hadouken!
+19. Simply Red
+20. Madonna
+21. Radiohead
+22. Pink Floyd
+23. Muse
+24. U2
+25. Coldplay
+26. Blur
+27. Arctic Monkeys
+28. Placebo
+29. The Killers
+30. Nirvana
+31. Iron Maiden
+32. Led Zeppelin
+33. Metallica
+34. Michael Jackson
+35. Pearl Jam
+36. a-ha
+37. Björk
+38. System of a Down
+39. Daft Punk
+40. Linkin Park
+41. Kelly Clarkson
+42. All Time Low
+43. P!nk
+44. Avenged Sevenfold
+45. Black Eyed Peas
+46. My Chemical Romance
+47. Green Day
+48. The Cure
+49. Katy Perry
+50. Lady Gaga

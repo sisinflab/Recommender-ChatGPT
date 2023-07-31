@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Animal Farm by George Orwell
+2. Brave New World by Aldous Huxley
+3. To Kill a Mockingbird by Harper Lee
+4. The Catcher in the Rye by J.D. Salinger
+5. Crime and Punishment by Fyodor Dostoyevsky
+6. The Great Gatsby by F. Scott Fitzgerald
+7. One Hundred Years of Solitude by Gabriel Garcia Marquez
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Stranger by Albert Camus
+10. The Trial by Franz Kafka
+11. Heart of Darkness by Joseph Conrad
+12. The Bell Jar by Sylvia Plath
+13. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+14. The Lord of the Rings by J.R.R. Tolkien
+15. The Hobbit by J.R.R. Tolkien
+16. The Chronicles of Narnia by C.S. Lewis
+17. The Hunger Games by Suzanne Collins
+18. Harry Potter and the Philosopher's Stone by J.K. Rowling
+19. The Da Vinci Code by Dan Brown
+20. The Girl with the Dragon Tattoo by Stieg Larsson
+21. The Girl on the Train by Paula Hawkins
+22. The Silence of the Lambs by Thomas Harris
+23. The Shining by Stephen King
+24. The Stand by Stephen King
+25. The Road by Cormac McCarthy
+26. The Handmaid's Tale by Margaret Atwood
+27. 1984 by George Orwell
+28. Fahrenheit 451 by Ray Bradbury
+29. Slaughterhouse-Five by Kurt Vonnegut
+30. Catch-22 by Joseph Heller
+31. The Sun Also Rises by Ernest Hemingway
+32. For Whom the Bell Tolls by Ernest Hemingway
+33. The Old Man and the Sea by Ernest Hemingway
+34. The Sound and the Fury by William Faulkner
+35. As I Lay Dying by William Faulkner
+36. The Grapes of Wrath by John Steinbeck
+37. East of Eden by John Steinbeck
+38. Of Mice and Men by John Steinbeck
+39. The Picture of Dorian Gray by Oscar Wilde
+40. The Importance of Being Earnest by Oscar Wilde
+41. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+42. The Hound of the Baskervilles by Arthur Conan Doyle
+43. The Memoirs of Sherlock Holmes by Arthur Conan Doyle
+44. The Return of Sherlock Holmes by Arthur Conan Doyle
+45. The Valley of Fear by Arthur Conan Doyle
+46. The Complete Sherlock Holmes by Arthur Conan Doyle
+47. The Three Musketeers by Alexandre Dumas
+48. The Man in the Iron Mask by Alexandre Dumas
+49. Les Misérables by Victor Hugo
+50. War

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for this user would be:
+
+1. The Beatles
+2. Bruce Springsteen
+3. Bob Dylan
+4. Stevie Wonder
+5. Radiohead
+6. The Jimi Hendrix Experience
+7. Johnny Cash
+8. Electric Light Orchestra
+9. The Rolling Stones
+10. Nina Simone
+11. Bob Marley & The Wailers
+12. Chuck Berry
+13. Band of Horses
+14. U2
+15. The Roots
+16. Elvis Presley
+17. Pink Floyd
+18. John Lennon
+19. The Who
+20. The Kinks
+21. Arctic Monkeys
+22. Simon & Garfunkel
+23. Queen
+24. The Beach Boys
+25. Nirvana
+26. Fleetwood Mac
+27. Leonard Cohen
+28. Led Zeppelin
+29. My Chemical Romance
+30. Kasabian
+31. Iron Maiden
+32. Foo Fighters
+33. Eric Clapton
+34. The Doors
+35. Oasis
+36. Eagles
+37. Belle and Sebastian
+38. The National
+39. Spiritualized
+40. The Libertines
+41. MGMT
+42. Johann Sebastian Bach
+43. Black Rebel Motorcycle Club
+44. Van Morrison
+45. Beastie Boys
+46. Rammstein
+47. George Harrison
+48. Paul McCartney
+49. Megadeth
+50. AC/DC

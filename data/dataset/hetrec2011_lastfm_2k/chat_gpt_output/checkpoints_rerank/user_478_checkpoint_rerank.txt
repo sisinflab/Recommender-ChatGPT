@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Green Day
+2. Paramore
+3. Blink-182
+4. Ramones
+5. Misfits
+6. Rancid
+7. NOFX
+8. Pennywise
+9. Dead Kennedys
+10. AC/DC
+11. Foo Fighters
+12. Matanza
+13. Millencolin
+14. Dead Fish
+15. Bob Marley
+16. Cachorro Grande
+17. Yellowcard
+18. MxPx
+19. Scracho
+20. Nirvana
+21. Metallica
+22. Pearl Jam
+23. Iron Maiden
+24. The Beatles
+25. Muse
+26. Radiohead
+27. Pink Floyd
+28. Arctic Monkeys
+29. Placebo
+30. The Killers
+31. Led Zeppelin
+32. Michael Jackson
+33. Nine Inch Nails
+34. System of a Down
+35. Daft Punk
+36. Linkin Park
+37. Avenged Sevenfold
+38. Black Eyed Peas
+39. My Chemical Romance
+40. The Cure
+41. Duran Duran
+42. Coldplay
+43. Blur
+44. U2
+45. Ke$ha
+46. Lady Gaga
+47. Christina Aguilera
+48. Rihanna
+49. Shakira
+50. Madonna

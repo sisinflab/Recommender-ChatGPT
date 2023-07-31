@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Wuthering Heights by Emily Bronte
+2. Jane Eyre by Charlotte Bronte
+3. Pride and Prejudice by Jane Austen
+4. Sense and Sensibility by Jane Austen
+5. Emma by Jane Austen
+6. Northanger Abbey by Jane Austen
+7. The Great Gatsby by F. Scott Fitzgerald
+8. The Catcher in the Rye by J.D. Salinger
+9. 1984 by George Orwell
+10. Animal Farm by George Orwell
+11. Brave New World by Aldous Huxley
+12. Lord of the Flies by William Golding
+13. The Bell Jar by Sylvia Plath
+14. One Hundred Years of Solitude by Gabriel Garcia Marquez
+15. Love in the Time of Cholera by Gabriel Garcia Marquez
+16. The Brothers Karamazov by Fyodor Dostoyevsky
+17. Anna Karenina by Leo Tolstoy
+18. The Idiot by Fyodor Dostoyevsky
+19. Crime and Punishment by Fyodor Dostoyevsky
+20. The Picture of Dorian Gray by Oscar Wilde
+21. The Importance of Being Earnest by Oscar Wilde
+22. Dubliners by James Joyce
+23. Ulysses by James Joyce
+24. Mrs. Dalloway by Virginia Woolf
+25. To the Lighthouse by Virginia Woolf
+26. The Waves by Virginia Woolf
+27. The Sound and the Fury by William Faulkner
+28. As I Lay Dying by William Faulkner
+29. The Sun Also Rises by Ernest Hemingway
+30. A Farewell to Arms by Ernest Hemingway
+31. For Whom the Bell Tolls by Ernest Hemingway
+32. The Old Man and the Sea by Ernest Hemingway
+33. The Grapes of Wrath by John Steinbeck
+34. East of Eden by John Steinbeck
+35. Of Mice and Men by John Steinbeck
+36. The Scarlet Letter by Nathaniel Hawthorne
+37. Moby-Dick by Herman Melville
+38. Heart of Darkness by Joseph Conrad
+39. The Secret Agent by Joseph Conrad
+40. The Trial by Franz Kafka
+41. The Metamorphosis by Franz Kafka
+42. The Stranger by Albert Camus
+43. The Plague by Albert Camus
+44. The Name of the Rose by Umberto Eco
+45. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+46. The Lord of the Rings by J.R.R. Tolkien
+47. The Hobbit by J.R.R. Tolkien
+48. The Chronicles of Narnia by C.S. Lewis
+49. The Harry Potter series by J.K. Rowling
+50. The Hunger Games series by

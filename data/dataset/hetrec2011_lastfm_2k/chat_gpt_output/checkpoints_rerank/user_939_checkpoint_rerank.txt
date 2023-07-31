@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Avenged Sevenfold
+2. My Chemical Romance
+3. Bullet for My Valentine
+4. A Day to Remember
+5. Escape The Fate
+6. Asking Alexandria
+7. Funeral for a Friend
+8. Lostprophets
+9. AFI
+10. Coheed and Cambria
+11. Story of the Year
+12. Yellowcard
+13. Slipknot
+14. Stone Sour
+15. Volbeat
+16. August Burns Red
+17. Sonic Syndicate
+18. Dead by April
+19. In This Moment
+20. Theory of a Deadman
+21. VersaEmerge
+22. Saosin
+23. The Dillinger Escape Plan
+24. Mariah Carey
+25. Incubus
+26. Pixie Lott
+27. Creed
+28. Michael Jackson
+29. Lady Gaga
+30. Paramore
+31. Rihanna
+32. Katy Perry
+33. Beyoncé
+34. Muse
+35. Pink Floyd
+36. Radiohead
+37. Nirvana
+38. Led Zeppelin
+39. Metallica
+40. Iron Maiden
+41. Depeche Mode
+42. Madonna
+43. The Beatles
+44. U2
+45. Duran Duran
+46. Coldplay
+47. Arctic Monkeys
+48. Placebo
+49. The Killers
+50. Amy Winehouse

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for the user are:
+
+1. Lady Gaga
+2. Katy Perry
+3. Justin Bieber
+4. Maroon 5
+5. Backstreet Boys
+6. Jennifer Lopez
+7. Chris Brown
+8. Nick Carter
+9. Rascal Flatts
+10. Adam Lambert
+11. Wanessa
+12. NX Zero
+13. Super Junior
+14. Luan Santana
+15. Basshunter
+16. Kris Allen
+17. Nelly
+18. McFly
+19. David Archuleta
+20. Black Eyed Peas
+21. Madonna
+22. P!nk
+23. Michael Jackson
+24. Enrique Iglesias
+25. Jesse McCartney
+26. Owl City
+27. Green Day
+28. Selena Gomez & the Scene
+29. My Chemical Romance
+30. Bruno Mars
+31. Beyoncé
+32. Gwen Stefani
+33. Christina Aguilera
+34. 3OH!3
+35. Camp Rock
+36. B2ST
+37. Cyndi Lauper
+38. Nirvana
+39. Demi Lovato
+40. Amy Winehouse
+41. Darren Hayes
+42. Rihanna
+43. Cheryl Cole
+44. Céline Dion
+45. Mariah Carey
+46. All Time Low
+47. nevershoutnever!
+48. Taylor Swift
+49. Bob Marley
+50. Glee Cast

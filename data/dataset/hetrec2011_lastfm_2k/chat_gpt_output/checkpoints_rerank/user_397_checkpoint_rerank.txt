@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Depeche Mode
+2. Muse
+3. Radiohead
+4. Garbage
+5. Queen
+6. Marilyn Manson
+7. Combichrist
+8. Blutengel
+9. Lacrimosa
+10. Duran Duran
+11. Ladytron
+12. Diary of Dreams
+13. L'Âme Immortelle
+14. Guns N' Roses
+15. INXS
+16. Alice in Videoland
+17. Paramore
+18. Front Line Assembly
+19. Front 242
+20. Pet Shop Boys
+21. The Ting Tings
+22. Fiona Apple
+23. Type O Negative
+24. U2
+25. Yeah Yeah Yeahs
+26. Erasure
+27. Shakira
+28. Madonna
+29. Rihanna
+30. Christina Aguilera
+31. Britney Spears
+32. Lady Gaga
+33. Katy Perry
+34. Taylor Swift
+35. Evanescence
+36. Beyoncé
+37. 30 Seconds to Mars
+38. Pink Floyd
+39. Kylie Minogue
+40. Miley Cyrus
+41. Ke$ha
+42. Coldplay
+43. Blur
+44. Arctic Monkeys
+45. Placebo
+46. The Killers
+47. Nirvana
+48. Iron Maiden
+49. Led Zeppelin
+50. Metallica

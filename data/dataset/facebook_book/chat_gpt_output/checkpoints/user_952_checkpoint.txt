@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Great Gatsby by F. Scott Fitzgerald
+4. Pride and Prejudice by Jane Austen
+5. The Hobbit by J.R.R. Tolkien
+6. The Chronicles of Narnia by C.S. Lewis
+7. The Book Thief by Markus Zusak
+8. The Fault in Our Stars by John Green
+9. The Girl with the Dragon Tattoo by Stieg Larsson
+10. The Da Vinci Code by Dan Brown
+11. The Help by Kathryn Stockett
+12. The Kite Runner by Khaled Hosseini
+13. The Alchemist by Paulo Coelho
+14. The Picture of Dorian Gray by Oscar Wilde
+15. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+16. The Secret Garden by Frances Hodgson Burnett
+17. The Time Traveler's Wife by Audrey Niffenegger
+18. The Catcher in the Rye by J.D. Salinger
+19. The Joy Luck Club by Amy Tan
+20. Little Women by Louisa May Alcott
+21. The Scarlet Pimpernel by Emma Orczy
+22. The Messenger by Markus Zusak
+23. Les Misérables by Victor Hugo
+24. The Hunger Games by Suzanne Collins
+25. Harry Potter and the Philosopher's Stone by J.K. Rowling
+26. The Lord of the Rings by J.R.R. Tolkien
+27. The Chronicles of Prydain by Lloyd Alexander
+28. The Dark is Rising by Susan Cooper
+29. The Once and Future King by T.H. White
+30. The Belgariad by David Eddings
+31. The Wheel of Time by Robert Jordan
+32. The Sword of Shannara by Terry Brooks
+33. The Dragonriders of Pern by Anne McCaffrey
+34. The Earthsea Cycle by Ursula K. Le Guin
+35. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+36. The Name of the Wind by Patrick Rothfuss
+37. The Lies of Locke Lamora by Scott Lynch
+38. The Way of Kings by Brandon Sanderson
+39. The First Law Trilogy by Joe Abercrombie
+40. The Kingkiller Chronicle by Patrick Rothfuss
+41. The Stormlight Archive by Brandon Sanderson
+42. The Malazan Book of the Fallen by Steven Erikson
+43. The Black Company by Glen Cook
+44. The Dresden Files by Jim Butcher
+45. The Mistborn Trilogy by Brandon Sanderson
+46. The Gentleman Bastard Sequence by Scott Lynch
+47. The Powder Mage Trilogy by Brian McClellan
+48. The Broken Empire Trilogy by Mark Lawrence
+49. The Riyria Revelations by Michael J. Sullivan
+50. The Wise Man's Fear by Patrick Rothfuss

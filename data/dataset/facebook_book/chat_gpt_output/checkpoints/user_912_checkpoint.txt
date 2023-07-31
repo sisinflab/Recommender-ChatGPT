@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. To Kill a Mockingbird by Harper Lee
+3. 1984 by George Orwell
+4. Brave New World by Aldous Huxley
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Animal Farm by George Orwell
+7. The Bell Jar by Sylvia Plath
+8. Catch-22 by Joseph Heller
+9. Slaughterhouse-Five by Kurt Vonnegut
+10. The Handmaid's Tale by Margaret Atwood
+11. The Picture of Dorian Gray by Oscar Wilde
+12. The Stranger by Albert Camus
+13. The Road by Cormac McCarthy
+14. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+15. The Brothers Karamazov by Fyodor Dostoevsky
+16. Crime and Punishment by Fyodor Dostoevsky
+17. The Sun Also Rises by Ernest Hemingway
+18. The Old Man and the Sea by Ernest Hemingway
+19. The Grapes of Wrath by John Steinbeck
+20. East of Eden by John Steinbeck
+21. The Lord of the Rings by J.R.R. Tolkien
+22. The Chronicles of Narnia by C.S. Lewis
+23. The Hobbit by J.R.R. Tolkien
+24. The Name of the Wind by Patrick Rothfuss
+25. The Wise Man's Fear by Patrick Rothfuss
+26. The Hunger Games by Suzanne Collins
+27. Harry Potter and the Philosopher's Stone by J.K. Rowling
+28. Harry Potter and the Chamber of Secrets by J.K. Rowling
+29. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+30. Harry Potter and the Goblet of Fire by J.K. Rowling
+31. Harry Potter and the Order of Phoenix by J.K. Rowling
+32. Harry Potter and the Half-Blood Prince by J.K. Rowling
+33. Harry Potter and the Deathly Hallows by J.K. Rowling
+34. The Girl with the Dragon Tattoo by Stieg Larsson
+35. The Girl Who Played with Fire by Stieg Larsson
+36. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+37. The Da Vinci Code by Dan Brown
+38. Angels and Demons by Dan Brown
+39. Inferno by Dan Brown
+40. The Help by Kathryn Stockett
+41. The Kite Runner by Khaled Hosseini
+42. A Thousand Splendid Suns by Khaled Hosseini
+43. The Fault in Our Stars by John Green
+44. Looking for Alaska by John Green
+45. Paper Towns by John Green
+46. The Perks of Being a Wallflower by Stephen Chbosky
+47. The Wind in the Willows by Kenneth Grahame
+48. Nine Stories by J.D. Salinger
+49. The Bell Jar by Sylvia Plath
+50. The Wise Man's Fear by Patrick Rothfuss

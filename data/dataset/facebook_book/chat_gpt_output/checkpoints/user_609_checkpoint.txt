@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Fault in Our Stars by John Green
+2. The Hunger Games by Suzanne Collins
+3. The Book Thief by Markus Zusak
+4. 1984 by George Orwell
+5. The Catcher in the Rye by J.D. Salinger
+6. The Great Gatsby by F. Scott Fitzgerald
+7. Animal Farm by George Orwell
+8. Brave New World by Aldous Huxley
+9. The Perks of Being a Wallflower by Stephen Chbosky
+10. The Giver by Lois Lowry
+11. The Maze Runner by James Dashner
+12. Divergent by Veronica Roth
+13. The Lord of the Rings by J.R.R. Tolkien
+14. The Hobbit by J.R.R. Tolkien
+15. The Chronicles of Narnia by C.S. Lewis
+16. Harry Potter (series) by J.K. Rowling
+17. The Girl with the Dragon Tattoo by Stieg Larsson
+18. The Da Vinci Code by Dan Brown
+19. The Help by Kathryn Stockett
+20. The Kite Runner by Khaled Hosseini
+21. A Thousand Splendid Suns by Khaled Hosseini
+22. The Alchemist by Paulo Coelho
+23. The Picture of Dorian Gray by Oscar Wilde
+24. The Time Traveler's Wife by Audrey Niffenegger
+25. The Road by Cormac McCarthy
+26. The Lovely Bones by Alice Sebold
+27. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+28. The Secret Life of Bees by Sue Monk Kidd
+29. The Color Purple by Alice Walker
+30. The Handmaid's Tale by Margaret Atwood
+31. The Bell Jar by Sylvia Plath
+32. The Sun Also Rises by Ernest Hemingway
+33. The Old Man and the Sea by Ernest Hemingway
+34. The Outsiders by S.E. Hinton
+35. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+36. The Shining by Stephen King
+37. The Stand by Stephen King
+38. The Green Mile by Stephen King
+39. The Silence of the Lambs by Thomas Harris
+40. The Bourne Identity by Robert Ludlum
+41. The Bourne Supremacy by Robert Ludlum
+42. The Bourne Ultimatum by Robert Ludlum
+43. The Firm by John Grisham
+44. The Pelican Brief by John Grisham
+45. The Rainmaker by John Grisham
+46. The Client by John Grisham
+47. The Chamber by John Grisham
+48. The Runaway Jury by John Grisham
+49. The Street Lawyer by John Grisham
+50. The Partner by John Grisham

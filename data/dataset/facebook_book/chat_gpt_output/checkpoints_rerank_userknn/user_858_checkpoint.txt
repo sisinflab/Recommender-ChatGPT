@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Picture of Dorian Gray by Oscar Wilde
+2. The Great Gatsby by F. Scott Fitzgerald
+3. Crime and Punishment by Fyodor Dostoevsky
+4. Nineteen Eighty-Four by George Orwell
+5. Brave New World by Aldous Huxley
+6. The Catcher in the Rye by J.D. Salinger
+7. To Kill a Mockingbird by Harper Lee
+8. The Lord of the Rings by J.R.R. Tolkien
+9. Frankenstein by Mary Shelley
+10. The Count of Monte Cristo by Alexandre Dumas
+11. Ivanhoe by Sir Walter Scott
+12. The Hobbit by J.R.R. Tolkien
+13. Moby-Dick by Herman Melville
+14. Journey to the Center of the Earth by Jules Verne
+15. King Solomon's Mines by H. Rider Haggard
+16. The Swiss Family Robinson by Johann David Wyss
+17. The Glass Bead Game by Hermann Hesse
+18. Steppenwolf by Hermann Hesse
+19. The Fountainhead by Ayn Rand
+20. Atlas Shrugged by Ayn Rand
+21. Tender Is the Night by F. Scott Fitzgerald
+22. The Illuminatus! Trilogy by Robert Shea and Robert Anton Wilson
+23. Catch-22 by Joseph Heller
+24. The Vampire Lestat by Anne Rice
+25. Adventures of Huckleberry Finn by Mark Twain
+26. Macbeth by William Shakespeare
+27. Dubliners by James Joyce
+28. Cry, the Beloved Country by Alan Paton
+29. Othello by William Shakespeare
+30. Misery by Stephen King
+31. Night by Elie Wiesel
+32. Twenty Thousand Leagues Under the Sea by Jules Verne
+33. Paradise Lost by John Milton
+34. Encyclopædia Britannica
+35. The Time Machine by H.G. Wells
+36. The Eyes of the Dragon by Stephen King
+37. Das Nibelungenlied: Ein Heldenepos in 39 Abenteuern
+38. Where the Wild Things Are by Maurice Sendak
+39. This Side of Paradise by F. Scott Fitzgerald
+40. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+41. The Kite Runner by Khaled Hosseini
+42. Fahrenheit 451 by Ray Bradbury
+43. Epic of Gilgamesh
+44. Life of Pi by Yann Martel
+45. Three Cups of Tea by Greg Mortenson and David Oliver Relin
+46. The Autobiography of Malcolm X by Malcolm X and Alex Haley
+47. The Walking Dead (comic book) by Robert Kirkman and Tony Moore
+48. A Farewell to Arms by Ernest Hemingway

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. Pride and Prejudice by Jane Austen
+4. The Lord of the Rings by J.R.R. Tolkien
+5. The Hobbit by J.R.R. Tolkien
+6. The Chronicles of Narnia by C.S. Lewis
+7. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+8. The Diary of a Young Girl by Anne Frank
+9. The Hunger Games by Suzanne Collins
+10. The Book Thief by Markus Zusak
+11. The Fault in Our Stars by John Green
+12. The Perks of Being a Wallflower by Stephen Chbosky
+13. The Girl with the Dragon Tattoo by Stieg Larsson
+14. The Da Vinci Code by Dan Brown
+15. The Help by Kathryn Stockett
+16. The Kite Runner by Khaled Hosseini
+17. The Alchemist by Paulo Coelho
+18. The Secret Life of Bees by Sue Monk Kidd
+19. The Lovely Bones by Alice Sebold
+20. The Time Traveler's Wife by Audrey Niffenegger
+21. The Giver by Lois Lowry
+22. The Maze Runner by James Dashner
+23. The Girl on the Train by Paula Hawkins
+24. The Nightingale by Kristin Hannah
+25. The Handmaid's Tale by Margaret Atwood
+26. The Catcher in the Rye by J.D. Salinger
+27. The Great Gatsby by F. Scott Fitzgerald
+28. The Bean Trees by Barbara Kingsolver
+29. The Picture of Dorian Gray by Oscar Wilde
+30. Dracula by Bram Stoker
+31. The Outsiders by S.E. Hinton
+32. A Tree Grows in Brooklyn by Betty Smith
+33. The Bell Jar by Sylvia Plath
+34. The Color Purple by Alice Walker
+35. The Sun Also Rises by Ernest Hemingway
+36. The Old Man and the Sea by Ernest Hemingway
+37. The Sound and the Fury by William Faulkner
+38. One Hundred Years of Solitude by Gabriel Garcia Marquez
+39. Love in the Time of Cholera by Gabriel Garcia Marquez
+40. Crime and Punishment by Fyodor Dostoevsky
+41. Anna Karenina by Leo Tolstoy
+42. War and Peace by Leo Tolstoy
+43. The Brothers Karamazov by Fyodor Dostoevsky
+44. Les Miserables by Victor Hugo
+45. Jane Eyre by Charlotte Bronte
+46. Wuthering Heights by Emily Bronte
+47. Frankenstein by Mary Shelley
+48. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+49. Moby-Dick by Herman Melville
+50. The Wise Man's Fear by Patrick Rothfuss

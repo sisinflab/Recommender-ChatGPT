@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. Björk
+3. The Beatles
+4. Feist
+5. Bat for Lashes
+6. Coldplay
+7. Beach House
+8. Thom Yorke
+9. Kings of Convenience
+10. The Bird and The Bee
+11. Metric
+12. Stars
+13. Sigur Rós
+14. The xx
+15. The Doors
+16. Arctic Monkeys
+17. Fleet Foxes
+18. Cat Power
+19. Ladytron
+20. Portishead
+21. Kings of Leon
+22. Death Cab for Cutie
+23. M.I.A.
+24. Blonde Redhead
+25. The Last Shadow Puppets
+26. John Lennon
+27. Lamb
+28. The Cardigans
+29. Suede
+30. Weezer
+31. Muse
+32. Pink Floyd
+33. Nirvana
+34. Led Zeppelin
+35. Metallica
+36. Michael Jackson
+37. Pearl Jam
+38. a-ha
+39. System of a Down
+40. Daft Punk
+41. Nine Inch Nails
+42. Linkin Park
+43. Avenged Sevenfold
+44. My Chemical Romance
+45. Green Day
+46. The Cure
+47. Duran Duran
+48. Blur
+49. Iron Maiden
+50. Katy Perry

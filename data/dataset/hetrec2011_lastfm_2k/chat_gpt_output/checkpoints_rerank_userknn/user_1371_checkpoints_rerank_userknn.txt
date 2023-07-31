@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Prodigy
+2. Wu-Tang Clan
+3. Mindless Self Indulgence
+4. Fall Out Boy
+5. Enter Shikari
+6. Crystal Castles
+7. Against Me!
+8. The Ting Tings
+9. Tim Hecker
+10. Nas
+11. Raekwon
+12. Cypress Hill
+13. The Dillinger Escape Plan
+14. Porcupine Tree
+15. The Used
+16. Placebo
+17. Skank
+18. Fleetwood Mac
+19. Deftones
+20. The Beatles
+21. Digitalism
+22. Motion City Soundtrack
+23. Green Day
+24. IAMX
+25. Gang Starr
+26. Underoath
+27. Thrice
+28. My Chemical Romance
+29. Mobb Deep
+30. Lostprophets
+31. Mos Def
+32. The Cure
+33. Paramore
+34. Coldplay
+35. Sublime
+36. Nine Inch Nails
+37. Monster Magnet
+38. The Roots
+39. Кино
+40. Jack's Mannequin
+41. Cobra Starship
+42. Pink Floyd
+43. Three Days Grace
+44. Taylor Swift
+45. The Libertines
+46. DJ Shadow
+47. Babyshambles
+48. Killswitch Engage
+49. The Birthday Massacre
+50. Garth Brooks

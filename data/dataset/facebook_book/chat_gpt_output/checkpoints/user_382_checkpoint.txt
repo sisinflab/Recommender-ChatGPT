@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Da Vinci Code by Dan Brown
+2. Inferno by Dan Brown
+3. The Lost Symbol by Dan Brown
+4. The Girl with the Dragon Tattoo by Stieg Larsson
+5. The Girl Who Played with Fire by Stieg Larsson
+6. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+7. The Catcher in the Rye by J.D. Salinger
+8. To Kill a Mockingbird by Harper Lee
+9. 1984 by George Orwell
+10. Animal Farm by George Orwell
+11. The Great Gatsby by F. Scott Fitzgerald
+12. Pride and Prejudice by Jane Austen
+13. Sense and Sensibility by Jane Austen
+14. Emma by Jane Austen
+15. Persuasion by Jane Austen
+16. Northanger Abbey by Jane Austen
+17. Wuthering Heights by Emily Bronte
+18. Jane Eyre by Charlotte Bronte
+19. The Picture of Dorian Gray by Oscar Wilde
+20. The Importance of Being Earnest by Oscar Wilde
+21. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+22. The Hound of the Baskervilles by Arthur Conan Doyle
+23. The Memoirs of Sherlock Holmes by Arthur Conan Doyle
+24. The Return of Sherlock Holmes by Arthur Conan Doyle
+25. The Valley of Fear by Arthur Conan Doyle
+26. The Adventures of Tom Sawyer by Mark Twain
+27. The Adventures of Huckleberry Finn by Mark Twain
+28. The Prince by Niccolo Machiavelli
+29. The Art of War by Sun Tzu
+30. The Republic by Plato
+31. The Iliad by Homer
+32. The Odyssey by Homer
+33. The Divine Comedy by Dante Alighieri
+34. Don Quixote by Miguel de Cervantes
+35. Les Miserables by Victor Hugo
+36. The Count of Monte Cristo by Alexandre Dumas
+37. Crime and Punishment by Fyodor Dostoevsky
+38. War and Peace by Leo Tolstoy
+39. Anna Karenina by Leo Tolstoy
+40. The Brothers Karamazov by Fyodor Dostoevsky
+41. One Hundred Years of Solitude by Gabriel Garcia Marquez
+42. Love in the Time of Cholera by Gabriel Garcia Marquez
+43. The Name of the Rose by Umberto Eco
+44. The Shadow of the Wind by Carlos Ruiz Zafon
+45. The Pillars of the Earth by Ken Follett
+46. A Game of Thrones by George R.R. Martin
+47. The Hunger Games by Suzanne Collins
+48. Harry Potter and the Philosopher's Stone by J.K. Rowling
+49. The Lord of the Rings by J.R.R. Tolkien

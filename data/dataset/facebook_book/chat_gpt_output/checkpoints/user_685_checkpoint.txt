@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. To Kill a Mockingbird by Harper Lee
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Lord of the Flies by William Golding
+7. Brave New World by Aldous Huxley
+8. One Hundred Years of Solitude by Gabriel Garcia Marquez
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Bell Jar by Sylvia Plath
+11. The Stranger by Albert Camus
+12. Heart of Darkness by Joseph Conrad
+13. The Road by Cormac McCarthy
+14. Slaughterhouse-Five by Kurt Vonnegut
+15. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+16. The Hobbit by J.R.R. Tolkien
+17. The Lord of the Rings by J.R.R. Tolkien
+18. The Chronicles of Narnia by C.S. Lewis
+19. The Hunger Games by Suzanne Collins
+20. Catch-22 by Joseph Heller
+21. The Brothers Karamazov by Fyodor Dostoevsky
+22. Crime and Punishment by Fyodor Dostoevsky
+23. The Idiot by Fyodor Dostoevsky
+24. The Trial by Franz Kafka
+25. The Metamorphosis by Franz Kafka
+26. The Name of the Rose by Umberto Eco
+27. The Shadow of the Wind by Carlos Ruiz Zafón
+28. The Book Thief by Markus Zusak
+29. The Kite Runner by Khaled Hosseini
+30. A Thousand Splendid Suns by Khaled Hosseini
+31. The Girl with the Dragon Tattoo by Stieg Larsson
+32. The Girl Who Played with Fire by Stieg Larsson
+33. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+34. The Da Vinci Code by Dan Brown
+35. Angels and Demons by Dan Brown
+36. The Silence of the Lambs by Thomas Harris
+37. Red Dragon by Thomas Harris
+38. Hannibal by Thomas Harris
+39. The Shining by Stephen King
+40. It by Stephen King
+41. The Stand by Stephen King
+42. The Dark Tower series by Stephen King
+43. The Hitchhiker's Guide to the Galaxy series by Douglas Adams
+44. The Discworld series by Terry Pratchett
+45. The Wheel of Time series by Robert Jordan
+46. The Stormlight Archive series by Brandon Sanderson
+47. The Mistborn series by Brandon Sanderson
+48. The Kingkiller Chronicle series by Patrick Rothfuss
+49. The First Law trilogy by Joe Abercrombie
+50. The Malazan Book

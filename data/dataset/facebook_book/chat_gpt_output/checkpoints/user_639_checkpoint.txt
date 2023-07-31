@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Wuthering Heights by Emily Bronte
+2. To Kill a Mockingbird by Harper Lee
+3. Pride and Prejudice by Jane Austen
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Jane Eyre by Charlotte Bronte
+6. The Catcher in the Rye by J.D. Salinger
+7. 1984 by George Orwell
+8. Animal Farm by George Orwell
+9. The Hobbit by J.R.R. Tolkien
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Hunger Games by Suzanne Collins
+12. Catching Fire by Suzanne Collins
+13. Mockingjay by Suzanne Collins
+14. The Fault in Our Stars by John Green
+15. Looking for Alaska by John Green
+16. Paper Towns by John Green
+17. The Book Thief by Markus Zusak
+18. The Maze Runner by James Dashner
+19. The Scorch Trials by James Dashner
+20. The Death Cure by James Dashner
+21. The Kill Order by James Dashner
+22. The Girl with the Dragon Tattoo by Stieg Larsson
+23. The Girl Who Played with Fire by Stieg Larsson
+24. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+25. The Da Vinci Code by Dan Brown
+26. Angels and Demons by Dan Brown
+27. Inferno by Dan Brown
+28. The Help by Kathryn Stockett
+29. The Time Traveler's Wife by Audrey Niffenegger
+30. The Alchemist by Paulo Coelho
+31. The Kite Runner by Khaled Hosseini
+32. A Thousand Splendid Suns by Khaled Hosseini
+33. The Lovely Bones by Alice Sebold
+34. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+35. The Secret Life of Bees by Sue Monk Kidd
+36. The Giver by Lois Lowry
+37. Gathering Blue by Lois Lowry
+38. Messenger by Lois Lowry
+39. Son by Lois Lowry
+40. The Chronicles of Narnia by C.S. Lewis
+41. The Outsiders by S.E. Hinton
+42. The Perks of Being a Wallflower by Stephen Chbosky
+43. The Shining by Stephen King
+44. Carrie by Stephen King
+45. The Stand by Stephen King
+46. The Dark Tower series by Stephen King
+47. The Road by Cormac McCarthy
+48. The Picture of Dorian Gray by Oscar Wilde
+49. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+50. The Princess Bride by William Goldman

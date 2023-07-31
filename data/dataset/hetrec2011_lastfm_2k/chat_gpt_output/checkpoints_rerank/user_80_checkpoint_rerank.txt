@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. A Day to Remember
+2. August Burns Red
+3. Parkway Drive
+4. 36 Crazyfists
+5. Asking Alexandria
+6. Emmure
+7. The Devil Wears Prada
+8. Whitechapel
+9. Hatebreed
+10. We Butter The Bread With Butter
+11. Enter Shikari
+12. Killswitch Engage
+13. Atreyu
+14. Suicide Silence
+15. Attack Attack!
+16. The Word Alive
+17. Avenged Sevenfold
+18. My Chemical Romance
+19. Nirvana
+20. Iron Maiden
+21. Metallica
+22. Pearl Jam
+23. System of a Down
+24. Linkin Park
+25. All Time Low
+26. Green Day
+27. The Cure
+28. Evanescence
+29. Paramore
+30. Taylor Swift
+31. Katy Perry
+32. Lady Gaga
+33. Pink Floyd
+34. Muse
+35. Michael Jackson
+36. U2
+37. 30 Seconds to Mars
+38. Coldplay
+39. Blur
+40. Arctic Monkeys
+41. Placebo
+42. The Killers
+43. Radiohead
+44. Ke$ha
+45. Duran Duran
+46. Madonna
+47. Beyoncé
+48. Rihanna
+49. Shakira
+50. Britney Spears

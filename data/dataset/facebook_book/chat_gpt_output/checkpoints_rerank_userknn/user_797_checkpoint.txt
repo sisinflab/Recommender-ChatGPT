@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter series by J.K. Rowling
+2. 1984 by George Orwell
+3. To Kill a Mockingbird by Harper Lee
+4. The Lord of the Rings by J.R.R. Tolkien
+5. The Hobbit by J.R.R. Tolkien
+6. The Catcher in the Rye by J.D. Salinger
+7. The Great Gatsby by F. Scott Fitzgerald
+8. Animal Farm by George Orwell
+9. Brave New World by Aldous Huxley
+10. The Chronicles of Narnia by C.S. Lewis
+11. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+12. The Da Vinci Code by Dan Brown
+13. The Girl with the Dragon Tattoo by Stieg Larsson
+14. The Hunger Games by Suzanne Collins
+15. The Help by Kathryn Stockett
+16. The Kite Runner by Khaled Hosseini
+17. The Road by Cormac McCarthy
+18. The Book Thief by Markus Zusak
+19. The Picture of Dorian Gray by Oscar Wilde
+20. The Mahabharata by R.K. Narayan
+21. Fahrenheit 451 by Ray Bradbury
+22. The Time Traveler's Wife by Audrey Niffenegger
+23. Extremely Loud and Incredibly Close by Jonathan Safran Foer
+24. The Prestige by Christopher Priest
+25. The Scarlet Pimpernel by Emma Orczy
+26. Tess of the d'Urbervilles by Thomas Hardy
+27. Vanity Fair by William Makepeace Thackeray
+28. The Illustrated Man by Ray Bradbury
+29. Something Wicked This Way Comes by Ray Bradbury
+30. The Silmarillion by J.R.R. Tolkien
+31. Les Misérables by Victor Hugo
+32. Slaughterhouse-Five by Kurt Vonnegut
+33. Guards! Guards! by Terry Pratchett
+34. The God of Small Things by Arundhati Roy
+35. Batman: The Killing Joke by Alan Moore
+36. Earthsea by Ursula K. Le Guin
+37. The Fountainhead by Ayn Rand
+38. A People's History of the United States by Howard Zinn
+39. The Merchant of Venice by William Shakespeare
+40. The Vampire Chronicles by Anne Rice
+41. Monstrous Regiment by Terry Pratchett
+42. My Sister's Keeper by Jodi Picoult
+43. Inferno by Dante Alighieri
+44. Oedipus the King by Sophocles
+45. Quran by Anonymous
+46. Weetzie Bat by Francesca Lia Block
+47. Her Fearful Symmetry by Audrey Niffenegger
+48. The Chronicles of Amber by Roger Zelazny
+49. The Adventures of Tom Sawyer by Mark

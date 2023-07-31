@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for this user would be:
+
+1. Mariah Carey
+2. Whitney Houston
+3. Mary J. Blige
+4. Nas
+5. Erykah Badu
+6. Mos Def
+7. Gang Starr
+8. 2Pac
+9. Janet Jackson
+10. Alicia Keys
+11. Beyoncé
+12. Michael Jackson
+13. Common
+14. Bob Marley & The Wailers
+15. Bob Marley
+16. Tina Turner
+17. George Michael
+18. Brandy
+19. Keyshia Cole
+20. Toni Braxton
+21. Bryan Adams
+22. Kid Abelha
+23. Madonna
+24. Rihanna
+25. Lupe Fiasco
+26. Aaliyah
+27. Usher
+28. Jay-Z
+29. Kanye West
+30. Lady Gaga
+31. OutKast
+32. Alanis Morissette
+33. Aretha Franklin
+34. Metallica
+35. The Roots
+36. Jennifer Hudson
+37. Lara Fabian
+38. Timbaland
+39. Christina Aguilera
+40. MF DOOM
+41. Goldfrapp
+42. Sublime
+43. Joss Stone
+44. Kid Cudi
+45. Rage Against the Machine
+46. Placebo
+47. Ana Carolina
+48. Adele
+49. Ashanti
+50. Notorious B.I.G.

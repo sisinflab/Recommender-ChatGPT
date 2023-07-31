@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Paramore
+2. Katy Perry
+3. All Time Low
+4. P!nk
+5. Green Day
+6. My Chemical Romance
+7. The Veronicas
+8. Jonas Brothers
+9. Panic! At the Disco
+10. Reik
+11. Aly & AJ
+12. Basshunter
+13. Camila
+14. Belanova
+15. Metro Station
+16. Tokio Hotel
+17. RBD
+18. Darin
+19. 3OH!3
+20. OneRepublic
+21. t.A.T.u.
+22. Akon
+23. A Rocket to the Moon
+24. Fresno
+25. Britney Spears
+26. Lady Gaga
+27. Christina Aguilera
+28. Madonna
+29. Rihanna
+30. Shakira
+31. Beyoncé
+32. Ke$ha
+33. Evanescence
+34. Glee Cast
+35. U2
+36. 30 Seconds to Mars
+37. Muse
+38. Pink Floyd
+39. Kylie Minogue
+40. Miley Cyrus
+41. Radiohead
+42. Duran Duran
+43. Coldplay
+44. Blur
+45. Arctic Monkeys
+46. Placebo
+47. The Killers
+48. Nirvana
+49. Iron Maiden
+50. Michael Jackson

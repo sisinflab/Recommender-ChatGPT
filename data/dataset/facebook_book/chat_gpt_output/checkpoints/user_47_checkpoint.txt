@@ -1,0 +1,48 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. World War Z by Max Brooks
+2. The Zombie Survival Guide: Complete Protection from the Living Dead by Max Brooks
+3. The Complete Art of War by Sun Tzu
+4. Norse Mythology by Neil Gaiman
+5. The Sandman by Neil Gaiman
+6. The Selfish Gene by Richard Dawkins
+7. The God Delusion by Richard Dawkins
+8. The Lucifer Effect: Understanding How Good People Turn Evil by Philip Zimbardo
+9. The Third Chimpanzee: The Evolution and Future of the Human Animal by Jared Diamond
+10. Sapiens: A Brief History of Humankind by Yuval Noah Harari
+11. The Guns of August by Barbara W. Tuchman
+12. The War of the Worlds by H.G. Wells
+13. The Time Machine by H.G. Wells
+14. The Island of Dr. Moreau by H.G. Wells
+15. The Invisible Man by H.G. Wells
+16. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+17. The Restaurant at the End of the Universe by Douglas Adams
+18. Life, the Universe and Everything by Douglas Adams
+19. So Long, and Thanks for All the Fish by Douglas Adams
+20. Mostly Harmless by Douglas Adams
+21. The Long Earth by Terry Pratchett and Stephen Baxter
+22. The Long War by Terry Pratchett and Stephen Baxter
+23. The Long Mars by Terry Pratchett and Stephen Baxter
+24. The Long Utopia by Terry Pratchett and Stephen Baxter
+25. The Long Cosmos by Terry Pratchett and Stephen Baxter
+26. The Name of the Rose by Umberto Eco
+27. Foucault's Pendulum by Umberto Eco
+28. The Club Dumas by Arturo Pérez-Reverte
+29. The Flanders Panel by Arturo Pérez-Reverte
+30. The Eight by Katherine Neville
+31. The Da Vinci Code by Dan Brown
+32. Angels and Demons by Dan Brown
+33. Inferno by Dan Brown
+34. The Lost Symbol by Dan Brown
+35. The Historian by Elizabeth Kostova
+36. Dracula by Bram Stoker
+37. Frankenstein by Mary Shelley
+38. The Strange Case of Dr. Jekyll and Mr. Hyde and Other Tales of Terror by Robert Louis Stevenson
+39. The Hound of the Baskervilles by Arthur Conan Doyle
+40. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+41. The Memoirs of Sherlock Holmes by Arthur Conan Doyle
+42. The Return of Sherlock Holmes by Arthur Conan Doyle
+43. The Valley of Fear by Arthur Conan Doyle
+44. The Sign of Four by Arthur Conan Doyle
+45. The Complete Sherlock Holmes by Arthur Conan Doyle
+46. The Name of the Wind by

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter
+2. The Lord of the Rings
+3. Dune
+4. Brave New World
+5. Nineteen Eighty-Four
+6. The Book Thief
+7. Romeo and Juliet
+8. Pride and Prejudice and Zombies
+9. Bram Stoker's Dracula
+10. Frankenstein
+11. A Clockwork Orange
+12. Fahrenheit 451
+13. The Giver
+14. The Chronicles of Narnia
+15. The Canterbury Tales
+16. Macbeth
+17. A Midsummer Night's Dream
+18. The Iliad
+19. Treasure Island
+20. Angels & Demons
+21. And Then There Were None
+22. The Glass Menagerie
+23. The Great Gatsby
+24. The Lost Years of Merlin
+25. The Most Dangerous Game
+26. Of Mice and Men
+27. Sleeping Freshmen Never Lie
+28. Wuthering Heights
+29. The Ear, the Eye and the Arm
+30. The Last Lecture
+31. Tuesdays with Morrie
+32. This Is Your Brain On Music
+33. The Crucible of Time
+34. The Kane Chronicles
+35. Rose Daughter
+36. Stargirl
+37. City of Bones
+38. City of Ashes
+39. City of Glass
+40. The Golem's Eye
+41. Highschool of the Dead
+42. Invisible Man
+43. American Psycho
+44. Lone Survivor
+45. Point Blanc
+46. Like Water for Chocolate
+47. Battle Royale
+48. Trivia
+49. Twilight
+50. I Am America (And So Can You!)

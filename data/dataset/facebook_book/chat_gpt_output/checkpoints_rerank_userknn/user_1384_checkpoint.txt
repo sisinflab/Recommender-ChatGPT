@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter series by J.K. Rowling
+2. The Catcher in the Rye by J.D. Salinger
+3. Nineteen Eighty-Four by George Orwell
+4. To Kill a Mockingbird by Harper Lee
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Pride and Prejudice by Jane Austen
+7. The Hobbit by J.R.R. Tolkien
+8. The Lord of the Rings by J.R.R. Tolkien
+9. Animal Farm by George Orwell
+10. The Chronicles of Narnia by C.S. Lewis
+11. The Hunger Games by Suzanne Collins
+12. The Fault in Our Stars by John Green
+13. The Book Thief by Markus Zusak
+14. The Girl with the Dragon Tattoo by Stieg Larsson
+15. The Da Vinci Code by Dan Brown
+16. Angels and Demons by Dan Brown
+17. The Alchemist by Paulo Coelho
+18. The Kite Runner by Khaled Hosseini
+19. Life of Pi by Yann Martel
+20. The Road by Cormac McCarthy
+21. The Picture of Dorian Gray by Oscar Wilde
+22. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+23. The Adventures of Tom Sawyer by Mark Twain
+24. The Adventures of Huckleberry Finn by Mark Twain
+25. The Secret Garden by Frances Hodgson Burnett
+26. Little Women by Louisa May Alcott
+27. The Time Traveler's Wife by Audrey Niffenegger
+28. The Lovely Bones by Alice Sebold
+29. The Man Who Mistook His Wife for a Hat by Oliver Sacks
+30. The Heart Is a Lonely Hunter by Carson McCullers
+31. Beloved by Toni Morrison
+32. The Blind Assassin by Margaret Atwood
+33. Their Eyes Were Watching God by Zora Neale Hurston
+34. Memoirs of a Geisha by Arthur Golden
+35. Blindness by José Saramago
+36. The Secret Life of Bees by Sue Monk Kidd
+37. Fahrenheit 451 by Ray Bradbury
+38. Slaughterhouse-Five by Kurt Vonnegut
+39. Atonement by Ian McEwan
+40. Wuthering Heights by Emily Bronte
+41. Don Quixote by Miguel de Cervantes
+42. Emma by Jane Austen
+43. Vanity Fair by William Makepeace Thackeray
+44. Cat's Cradle by Kurt Vonnegut
+45. The Electric Kool-Aid Acid Test by Tom Wolfe
+46. The Hamlet by William Faulkner
+47. Sense and Sensibility by Jane Austen
+48. Go Ask Alice by Anonymous
+49. Marley & Me by John Grogan
+50. Inkheart by Cornelia Funke

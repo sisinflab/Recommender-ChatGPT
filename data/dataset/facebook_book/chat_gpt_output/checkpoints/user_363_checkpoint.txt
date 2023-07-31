@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Da Vinci Code by Dan Brown
+2. The Girl with the Dragon Tattoo by Stieg Larsson
+3. The Hunger Games by Suzanne Collins
+4. The Catcher in the Rye by J.D. Salinger
+5. The Lord of the Rings by J.R.R. Tolkien
+6. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+7. The Great Gatsby by F. Scott Fitzgerald
+8. To Kill a Mockingbird by Harper Lee
+9. 1984 by George Orwell
+10. The Hobbit by J.R.R. Tolkien
+11. The Chronicles of Narnia by C.S. Lewis
+12. The Shining by Stephen King
+13. The Stand by Stephen King
+14. The Silence of the Lambs by Thomas Harris
+15. The Girl on the Train by Paula Hawkins
+16. The Help by Kathryn Stockett
+17. The Secret History by Donna Tartt
+18. The Picture of Dorian Gray by Oscar Wilde
+19. The Road by Cormac McCarthy
+20. The Book Thief by Markus Zusak
+21. The Kite Runner by Khaled Hosseini
+22. The Lovely Bones by Alice Sebold
+23. The Time Traveler's Wife by Audrey Niffenegger
+24. The Handmaid's Tale by Margaret Atwood
+25. The Fault in Our Stars by John Green
+26. The Maze Runner by James Dashner
+27. The Giver by Lois Lowry
+28. The Alchemist by Paulo Coelho
+29. The Name of the Wind by Patrick Rothfuss
+30. The Nightingale by Kristin Hannah
+31. The Help by Kathryn Stockett
+32. The Secret History by Donna Tartt
+33. The Picture of Dorian Gray by Oscar Wilde
+34. The Road by Cormac McCarthy
+35. The Book Thief by Markus Zusak
+36. The Kite Runner by Khaled Hosseini
+37. The Lovely Bones by Alice Sebold
+38. The Time Traveler's Wife by Audrey Niffenegger
+39. The Handmaid's Tale by Margaret Atwood
+40. The Fault in Our Stars by John Green
+41. The Maze Runner by James Dashner
+42. The Giver by Lois Lowry
+43. The Alchemist by Paulo Coelho
+44. The Name of the Wind by Patrick Rothfuss
+45. The Nightingale by Kristin Hannah
+46. The Help by Kathryn Stockett
+47. The Secret History by Donna Tartt
+48. The Picture of Dorian Gray by Oscar Wilde
+49. The Road by Cormac McCarthy
+50. The Book Thief by Markus Zusak

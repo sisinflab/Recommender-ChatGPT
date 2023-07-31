@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. 1984 by George Orwell
+3. To Kill a Mockingbird by Harper Lee
+4. The Great Gatsby by F. Scott Fitzgerald
+5. The Catcher in the Rye by J.D. Salinger
+6. Animal Farm by George Orwell
+7. Wuthering Heights by Emily Bronte
+8. The Hobbit by J.R.R. Tolkien
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Hunger Games by Suzanne Collins
+11. The Fault in Our Stars by John Green
+12. The Da Vinci Code by Dan Brown
+13. The Girl with the Dragon Tattoo by Stieg Larsson
+14. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+15. The Picture of Dorian Gray by Oscar Wilde
+16. The Chronicles of Narnia by C.S. Lewis
+17. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+18. The Shining by Stephen King
+19. The Stand by Stephen King
+20. The Dark Tower series by Stephen King
+21. The Name of the Wind by Patrick Rothfuss
+22. The Wise Man's Fear by Patrick Rothfuss
+23. The Dresden Files series by Jim Butcher
+24. The Wheel of Time series by Robert Jordan
+25. The Stormlight Archive series by Brandon Sanderson
+26. The Mistborn series by Brandon Sanderson
+27. The Kingkiller Chronicle series by Patrick Rothfuss
+28. The Malazan Book of the Fallen series by Steven Erikson
+29. The First Law trilogy by Joe Abercrombie
+30. The Lies of Locke Lamora by Scott Lynch
+31. The Blade Itself by Joe Abercrombie
+32. The Way of Kings by Brandon Sanderson
+33. The Final Empire by Brandon Sanderson
+34. The Well of Ascension by Brandon Sanderson
+35. The Hero of Ages by Brandon Sanderson
+36. The Black Prism by Brent Weeks
+37. The Night Angel trilogy by Brent Weeks
+38. The Lightbringer series by Brent Weeks
+39. The Broken Empire trilogy by Mark Lawrence
+40. The Red Queen's War trilogy by Mark Lawrence
+41. The Powder Mage trilogy by Brian McClellan
+42. The Shadow Campaigns series by Django Wexler
+43. The Riyria Revelations series by Michael J. Sullivan
+44. The Riyria Chronicles series by Michael J. Sullivan
+45. The Gentleman Bastard series by Scott Lynch
+46. The Farseer trilogy by Robin Hobb
+47. The Liveship Traders trilogy by Robin Hobb
+48. The Tawny Man trilogy by Robin Hobb
+49. The Rain Wild Chronicles series by Robin Hobb
+50. The Fitz and

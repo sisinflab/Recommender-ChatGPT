@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Harry Potter and the Philosopher's Stone by J.K. Rowling
+3. The Maze Runner by James Dashner
+4. Divergent by Veronica Roth
+5. The Lord of the Rings by J.R.R. Tolkien
+6. The Chronicles of Narnia by C.S. Lewis
+7. The Hobbit by J.R.R. Tolkien
+8. The Mortal Instruments by Cassandra Clare
+9. The Infernal Devices by Cassandra Clare
+10. The Fault in Our Stars by John Green
+11. The Giver by Lois Lowry
+12. The Selection by Kiera Cass
+13. The Lunar Chronicles by Marissa Meyer
+14. The Percy Jackson and the Olympians series by Rick Riordan
+15. The Heroes of Olympus series by Rick Riordan
+16. The Kane Chronicles by Rick Riordan
+17. The Secrets of the Immortal Nicholas Flamel by Michael Scott
+18. The Inheritance Cycle by Christopher Paolini
+19. The Ranger's Apprentice series by John Flanagan
+20. The Brotherband Chronicles by John Flanagan
+21. The Demonata series by Darren Shan
+22. The Skulduggery Pleasant series by Derek Landy
+23. The Artemis Fowl series by Eoin Colfer
+24. The Bartimaeus Trilogy by Jonathan Stroud
+25. The Inkheart trilogy by Cornelia Funke
+26. The Book Thief by Markus Zusak
+27. The Gone series by Michael Grant
+28. The Uglies series by Scott Westerfeld
+29. The Leviathan trilogy by Scott Westerfeld
+30. The Chaos Walking trilogy by Patrick Ness
+31. The Mistborn trilogy by Brandon Sanderson
+32. The Kingkiller Chronicle by Patrick Rothfuss
+33. The Wheel of Time series by Robert Jordan
+34. The Stormlight Archive by Brandon Sanderson
+35. The Lightbringer series by Brent Weeks
+36. The First Law trilogy by Joe Abercrombie
+37. The Powder Mage trilogy by Brian McClellan
+38. The Red Rising trilogy by Pierce Brown
+39. The Broken Empire trilogy by Mark Lawrence
+40. The Riyria Revelations by Michael J. Sullivan
+41. The Farseer Trilogy by Robin Hobb
+42. The Liveship Traders trilogy by Robin Hobb
+43. The Tawny Man trilogy by Robin Hobb
+44. The Gentleman Bastard series by Scott Lynch
+45. The Black Company series by Glen Cook
+46. The Malazan Book of the Fallen series by Steven Erikson
+47. The Dark Tower series by Stephen King
+48. The Dresden Files by Jim Butcher
+49. The Codex Alera series by Jim Butcher
+50. The Riyria Chronicles by Michael J. Sullivan

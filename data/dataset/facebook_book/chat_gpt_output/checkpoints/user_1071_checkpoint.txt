@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Shining by Stephen King
+2. We Have Always Lived in the Castle by Shirley Jackson
+3. The Graveyard Book by Neil Gaiman
+4. Coraline by Neil Gaiman
+5. The Hunger Games by Suzanne Collins
+6. The Giver by Lois Lowry
+7. The Handmaid's Tale by Margaret Atwood
+8. The Catcher in the Rye by J.D. Salinger
+9. The Bell Jar by Sylvia Plath
+10. The Picture of Dorian Gray by Oscar Wilde
+11. The Road by Cormac McCarthy
+12. The Stand by Stephen King
+13. The Dark Tower series by Stephen King
+14. The Lord of the Rings by J.R.R. Tolkien
+15. The Hobbit by J.R.R. Tolkien
+16. The Chronicles of Narnia by C.S. Lewis
+17. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+18. The Girl with the Dragon Tattoo by Stieg Larsson
+19. The Da Vinci Code by Dan Brown
+20. The Name of the Rose by Umberto Eco
+21. The Shadow of the Wind by Carlos Ruiz Zafón
+22. The Kite Runner by Khaled Hosseini
+23. A Thousand Splendid Suns by Khaled Hosseini
+24. The Alchemist by Paulo Coelho
+25. One Hundred Years of Solitude by Gabriel García Márquez
+26. Love in the Time of Cholera by Gabriel García Márquez
+27. Crime and Punishment by Fyodor Dostoevsky
+28. The Brothers Karamazov by Fyodor Dostoevsky
+29. Anna Karenina by Leo Tolstoy
+30. War and Peace by Leo Tolstoy
+31. Pride and Prejudice by Jane Austen
+32. Sense and Sensibility by Jane Austen
+33. Emma by Jane Austen
+34. Persuasion by Jane Austen
+35. Wuthering Heights by Emily Bronte
+36. Jane Eyre by Charlotte Bronte
+37. Rebecca by Daphne du Maurier
+38. Gone with the Wind by Margaret Mitchell
+39. To Kill a Mockingbird by Harper Lee
+40. The Great Gatsby by F. Scott Fitzgerald
+41. The Picture of Dorian Gray by Oscar Wilde
+42. Frankenstein by Mary Shelley
+43. Dracula by Bram Stoker
+44. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+45. Heart of Darkness by Joseph Conrad
+46. Lord of the Flies by William Golding
+47. Animal Farm by George Orwell
+48. Brave New World by Aldous Huxley
+49. Fahrenheit 451 by Ray Bradbury
+50. Slaughterhouse-Five

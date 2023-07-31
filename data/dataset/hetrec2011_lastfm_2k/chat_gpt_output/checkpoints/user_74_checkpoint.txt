@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Celine Dion
+2. Whitney Houston
+3. Mariah Carey
+4. Adele
+5. Ed Sheeran
+6. Bruno Mars
+7. Taylor Swift
+8. Justin Timberlake
+9. Beyonce
+10. Ariana Grande
+11. Shawn Mendes
+12. Lady Gaga
+13. Christina Aguilera
+14. Kelly Clarkson
+15. Pink
+16. Sam Smith
+17. John Legend
+18. Coldplay
+19. Imagine Dragons
+20. OneRepublic
+21. The Script
+22. Train
+23. Nickelback
+24. Daughtry
+25. Lifehouse
+26. 3 Doors Down
+27. The Fray
+28. Goo Goo Dolls
+29. Matchbox Twenty
+30. Rob Thomas
+31. Hozier
+32. James Arthur
+33. Lewis Capaldi
+34. Billie Eilish
+35. Lorde
+36. Lana Del Rey
+37. Florence + The Machine
+38. Evanescence
+39. Nightwish
+40. Delain
+41. Epica
+42. Kamelot
+43. Sonata Arctica
+44. Stratovarius
+45. Sabaton
+46. Iron Maiden
+47. Metallica
+48. Guns N' Roses
+49. AC/DC
+50. Led Zeppelin

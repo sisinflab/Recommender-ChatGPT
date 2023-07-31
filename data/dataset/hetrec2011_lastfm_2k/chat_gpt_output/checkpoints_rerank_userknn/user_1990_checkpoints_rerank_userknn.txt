@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Wu-Tang Clan
+2. MF DOOM
+3. J Dilla
+4. Gang Starr
+5. Notorious B.I.G.
+6. Cypress Hill
+7. Raekwon
+8. Mobb Deep
+9. Lupe Fiasco
+10. Kanye West
+11. DJ Shadow
+12. The Roots
+13. Snoop Dogg
+14. Ghostface Killah
+15. Jay-Z
+16. Nas
+17. A Tribe Called Quest
+18. OutKast
+19. Common
+20. Dr. Dre
+21. Beastie Boys
+22. 2Pac
+23. Madvillain
+24. Madlib
+25. GZA/Genius
+26. Eminem
+27. Busta Rhymes
+28. Kid Cudi
+29. Flying Lotus
+30. De La Soul
+31. Daft Punk
+32. Björk
+33. Rage Against the Machine
+34. Ice Cube
+35. My Bloody Valentine
+36. Nelly Furtado
+37. Aphex Twin
+38. Linkin Park
+39. Erykah Badu
+40. Mos Def
+41. Bone Thugs-N-Harmony
+42. Sublime
+43. Bob Marley & The Wailers
+44. Hammock
+45. Aaliyah
+46. Capsule
+47. Digitalism
+48. The Flashbulb
+49. Tim Hecker
+50. Isis

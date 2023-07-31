@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. The Beatles
+3. Muse
+4. The Killers
+5. The Strokes
+6. Arctic Monkeys
+7. Franz Ferdinand
+8. Vampire Weekend
+9. The Smiths
+10. The Cure
+11. Crystal Castles
+12. Lady Gaga
+13. Björk
+14. Metric
+15. La Roux
+16. Lily Allen
+17. Marina & the Diamonds
+18. Florence + the Machine
+19. Portishead
+20. Death Cab for Cutie
+21. Foals
+22. Yeasayer
+23. Interpol
+24. Yeah Yeah Yeahs
+25. Kings of Leon
+26. Grizzly Bear
+27. Coldplay
+28. Pink Floyd
+29. Queens of the Stone Age
+30. Bob Dylan
+31. Rufus Wainwright
+32. Green Day
+33. The Ting Tings
+34. Red Hot Chili Peppers
+35. Justice
+36. Digitalism
+37. Razorlight
+38. Scissor Sisters
+39. Beirut
+40. Mystery Jets
+41. of Montreal
+42. Soulwax
+43. The Black Keys
+44. Caribou
+45. Hilary Duff
+46. Kate Nash
+47. Beyoncé
+48. Britney Spears
+49. JoJo
+50. Jesse McCartney

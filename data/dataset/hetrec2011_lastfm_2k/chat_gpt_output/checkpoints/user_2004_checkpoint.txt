@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Coldplay
+2. Green Day
+3. Foo Fighters
+4. Red Hot Chili Peppers
+5. Nirvana
+6. Pearl Jam
+7. The Smashing Pumpkins
+8. Nine Inch Nails
+9. Depeche Mode
+10. The Cure
+11. Muse
+12. Radiohead
+13. Linkin Park
+14. System of a Down
+15. Marilyn Manson
+16. Korn
+17. Garbage
+18. Christina Aguilera
+19. Beyoncé
+20. Shakira
+21. Kelly Clarkson
+22. Papa Roach
+23. The Academy Is...
+24. All Time Low
+25. Kill Hannah
+26. Rammstein
+27. Katy Perry
+28. Emilie Autumn
+29. Alanis Morissette
+30. The Birthday Massacre
+31. Natalie Imbruglia
+32. Chevelle
+33. Billy Talent
+34. Cobra Starship
+35. They Might Be Giants
+36. My Chemical Romance
+37. Fall Out Boy
+38. Panic! At The Disco
+39. Paramore
+40. The Killers
+41. Arctic Monkeys
+42. Vampire Weekend
+43. The Strokes
+44. Kings of Leon
+45. The Black Keys
+46. Cage the Elephant
+47. Imagine Dragons
+48. Florence + The Machine
+49. Hozier
+50. Lorde

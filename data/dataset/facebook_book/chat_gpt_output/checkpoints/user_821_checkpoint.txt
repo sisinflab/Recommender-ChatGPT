@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Chronicles of Narnia by C.S. Lewis
+2. Harry Potter series by J.K. Rowling
+3. The Hunger Games by Suzanne Collins
+4. The Girl with the Dragon Tattoo by Stieg Larsson
+5. The Girl on the Train by Paula Hawkins
+6. The Catcher in the Rye by J.D. Salinger
+7. To Kill a Mockingbird by Harper Lee
+8. 1984 by George Orwell
+9. Animal Farm by George Orwell
+10. Brave New World by Aldous Huxley
+11. The Great Gatsby by F. Scott Fitzgerald
+12. The Picture of Dorian Gray by Oscar Wilde
+13. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+14. The Count of Monte Cristo by Alexandre Dumas
+15. Les Misérables by Victor Hugo
+16. The Three Musketeers by Alexandre Dumas
+17. The Name of the Rose by Umberto Eco
+18. The Shadow of the Wind by Carlos Ruiz Zafón
+19. The Alchemist by Paulo Coelho
+20. The Kite Runner by Khaled Hosseini
+21. A Thousand Splendid Suns by Khaled Hosseini
+22. The Book Thief by Markus Zusak
+23. The Fault in Our Stars by John Green
+24. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+25. The Time Traveler's Wife by Audrey Niffenegger
+26. The Handmaid's Tale by Margaret Atwood
+27. The Road by Cormac McCarthy
+28. The Stand by Stephen King
+29. The Shining by Stephen King
+30. The Silence of the Lambs by Thomas Harris
+31. The Da Vinci Code by Dan Brown
+32. Angels and Demons by Dan Brown
+33. Inferno by Dan Brown
+34. The Hobbit by J.R.R. Tolkien
+35. The Lord of the Rings by J.R.R. Tolkien
+36. The Silmarillion by J.R.R. Tolkien
+37. The Children of Hurin by J.R.R. Tolkien
+38. The Dark Tower series by Stephen King
+39. The Vampire Chronicles by Anne Rice
+40. Interview with the Vampire by Anne Rice
+41. Frankenstein by Mary Shelley
+42. Dracula by Bram Stoker
+43. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+44. The Picture of Dorian Gray by Oscar Wilde
+45. The Importance of Being Earnest by Oscar Wilde
+46. The Tao of Pooh by Benjamin Hoff
+47. Earl Cain by Kaori Yuki
+48. The Southern Vampire Mysteries by Charlaine Harris
+49. The Hunchback of Notre-Dame by Victor Hugo
+50. Through the Looking-Glass by Lewis Carroll

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Nine Inch Nails
+3. The Chemical Brothers
+4. Daft Punk
+5. Björk
+6. The Prodigy
+7. LCD Soundsystem
+8. Massive Attack & Burial
+9. Boards of Canada & Autechre
+10. Aphex Twin & Squarepusher
+11. Portishead & Tricky
+12. Depeche Mode & Recoil
+13. New Order & Joy Division
+14. Kraftwerk & Gary Numan
+15. The Human League & Soft Cell
+16. Goldfrapp & Ladytron
+17. The Smiths & Morrissey
+18. Wire & Magazine
+19. Cabaret Voltaire & Throbbing Gristle
+20. Front 242 & Nitzer Ebb
+21. Air & Phoenix
+22. Moby & The Crystal Method
+23. The Orb & Future Sound of London
+24. Orbital & Underworld
+25. The Knife & Fever Ray
+26. Grimes & Purity Ring
+27. Tame Impala & Pond
+28. Foals & Alt-J
+29. Arctic Monkeys & The Last Shadow Puppets
+30. Interpol & Editors
+31. The Strokes & Julian Casablancas
+32. The National & Bon Iver
+33. Arcade Fire & Broken Social Scene
+34. Sigur Rós & Jónsi
+35. Explosions in the Sky & Mogwai
+36. Godspeed You! Black Emperor & A Silver Mt. Zion
+37. Tool & A Perfect Circle
+38. Queens of the Stone Age & Them Crooked Vultures
+39. Black Sabbath & Ozzy Osbourne
+40. Metallica & Megadeth
+41. Iron Maiden & Judas Priest
+42. Slayer & Anthrax
+43. AC/DC & Guns N' Roses
+44. Led Zeppelin & Pink Floyd
+45. The Doors & Jimi Hendrix
+46. The Beatles & The Rolling Stones
+47. Bob Dylan & Neil Young
+48. David Bowie & Iggy Pop
+49. Lou Reed & The Velvet Underground
+50. Tom Waits & Nick Cave

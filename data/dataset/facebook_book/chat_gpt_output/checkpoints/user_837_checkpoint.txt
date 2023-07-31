@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. Animal Farm by George Orwell
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Brave New World by Aldous Huxley
+7. The Hobbit by J.R.R. Tolkien
+8. The Lord of the Rings by J.R.R. Tolkien
+9. The Chronicles of Narnia by C.S. Lewis
+10. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+11. The Hunger Games by Suzanne Collins
+12. Harry Potter series by J.K. Rowling
+13. The Da Vinci Code by Dan Brown
+14. The Girl with the Dragon Tattoo by Stieg Larsson
+15. The Girl on the Train by Paula Hawkins
+16. The Road by Cormac McCarthy
+17. The Book Thief by Markus Zusak
+18. The Kite Runner by Khaled Hosseini
+19. The Alchemist by Paulo Coelho
+20. The Picture of Dorian Gray by Oscar Wilde
+21. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+22. The Adventures of Tom Sawyer by Mark Twain
+23. The Adventures of Huckleberry Finn by Mark Twain
+24. The Secret Garden by Frances Hodgson Burnett
+25. Little Women by Louisa May Alcott
+26. The Outsiders by S.E. Hinton
+27. The Fault in Our Stars by John Green
+28. The Perks of Being a Wallflower by Stephen Chbosky
+29. The Bell Jar by Sylvia Plath
+30. One Hundred Years of Solitude by Gabriel Garcia Marquez
+31. The Stranger by Albert Camus
+32. The Sun Also Rises by Ernest Hemingway
+33. The Old Man and the Sea by Ernest Hemingway
+34. The Sound and the Fury by William Faulkner
+35. The Grapes of Wrath by John Steinbeck
+36. Of Mice and Men by John Steinbeck
+37. The Color Purple by Alice Walker
+38. Beloved by Toni Morrison
+39. The Handmaid's Tale by Margaret Atwood
+40. The Shining by Stephen King
+41. Carrie by Stephen King
+42. The Stand by Stephen King
+43. The Green Mile by Stephen King
+44. The Talisman by Stephen King and Peter Straub
+45. The Dark Tower series by Stephen King
+46. The Name of the Wind by Patrick Rothfuss
+47. The Lies of Locke Lamora by Scott Lynch
+48. The Blade Itself by Joe Abercrombie
+49. The Way of Kings by Brandon Sanderson
+50. Mistborn series by Brandon Sanderson

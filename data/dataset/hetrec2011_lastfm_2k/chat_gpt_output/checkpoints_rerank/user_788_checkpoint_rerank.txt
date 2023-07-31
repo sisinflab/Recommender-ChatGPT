@@ -1,0 +1,54 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Guns N' Roses
+2. Metallica
+3. Nirvana
+4. Aerosmith
+5. Van Halen
+6. Duran Duran
+7. The Beatles
+8. Ozzy Osbourne
+9. Michael Jackson
+10. Phil Collins
+11. Prince
+12. The Clash
+13. Stone Temple Pilots
+14. Marilyn Manson
+15. Korn
+16. Rage Against the Machine
+17. Lenny Kravitz
+18. Billy Idol
+19. Mötley Crüe
+20. Genesis
+21. Green Day
+22. The Offspring
+23. Wham!
+24. Elton John
+25. Madonna
+26. Hall & Oates
+27. Bob Marley & The Wailers
+28. The Beach Boys
+29. John Lennon
+30. 311
+31. The B-52's
+32. Guns N' Roses
+33. Metallica
+34. Nirvana
+35. Aerosmith
+36. Van Halen
+37. Duran Duran
+38. The Beatles
+39. Ozzy Osbourne
+40. Michael Jackson
+41. Phil Collins
+42. Prince
+43. The Clash
+44. Stone Temple Pilots
+45. Marilyn Manson
+46. Korn
+47. Rage Against the Machine
+48. Lenny Kravitz
+49. Billy Idol
+50. Mötley Crüe
+
+Note: The artists in the original list that are also in the recommendations list are in bold.

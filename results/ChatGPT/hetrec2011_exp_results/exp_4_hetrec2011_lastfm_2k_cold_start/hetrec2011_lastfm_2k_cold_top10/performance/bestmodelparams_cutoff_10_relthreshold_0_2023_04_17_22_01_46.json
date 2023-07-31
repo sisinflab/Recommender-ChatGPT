@@ -1,0 +1,133 @@
+[
+    {
+        "default_validation_metric": "nDCG",
+        "default_validation_cutoff": 10,
+        "rel_threshold": 0
+    },
+    {
+        "meta": {},
+        "recommender": "AttributeUserKNN_nn=100_sim=correlation_profile=binary_bin=False_load=ItemAttributes",
+        "configuration": {
+            "folder": "../results/hetrec2011_exp_results/exp_4_hetrec2011_lastfm_2k_cold_start/best_models/best_models_top_10",
+            "path": "../results/hetrec2011_exp_results/exp_4_hetrec2011_lastfm_2k_cold_start/best_models/best_models_top_10/AttributeUserKNN_nn=100_sim=correlation_profile=binary_bin=False_load=ItemAttributes.tsv",
+            "name": "AttributeUserKNN_nn=100_sim=correlation_profile=binary_bin=False_load=ItemAttributes"
+        }
+    },
+    {
+        "meta": {},
+        "recommender": "output_exp_2_rec_artist_no_rerank_userknn_performance",
+        "configuration": {
+            "folder": "../results/hetrec2011_exp_results/exp_4_hetrec2011_lastfm_2k_cold_start/best_models/best_models_top_10",
+            "path": "../results/hetrec2011_exp_results/exp_4_hetrec2011_lastfm_2k_cold_start/best_models/best_models_top_10/output_exp_2_rec_artist_no_rerank_userknn_performance.tsv",
+            "name": "output_exp_2_rec_artist_no_rerank_userknn_performance"
+        }
+    },
+    {
+        "meta": {},
+        "recommender": "UserKNN_nn=100_sim=cosine_imp=standard_bin=False_shrink=0_norm=True_asymalpha=_tvalpha=_tvbeta=_rweights=",
+        "configuration": {
+            "folder": "../results/hetrec2011_exp_results/exp_4_hetrec2011_lastfm_2k_cold_start/best_models/best_models_top_10",
+            "path": "../results/hetrec2011_exp_results/exp_4_hetrec2011_lastfm_2k_cold_start/best_models/best_models_top_10/UserKNN_nn=100_sim=cosine_imp=standard_bin=False_shrink=0_norm=True_asymalpha=_tvalpha=_tvbeta=_rweights=.tsv",
+            "name": "UserKNN_nn=100_sim=cosine_imp=standard_bin=False_shrink=0_norm=True_asymalpha=_tvalpha=_tvbeta=_rweights="
+        }
+    },
+    {
+        "meta": {},
+        "recommender": "EASER_neighborhood=1507_l2_norm=28754079$46612463",
+        "configuration": {
+            "folder": "../results/hetrec2011_exp_results/exp_4_hetrec2011_lastfm_2k_cold_start/best_models/best_models_top_10",
+            "path": "../results/hetrec2011_exp_results/exp_4_hetrec2011_lastfm_2k_cold_start/best_models/best_models_top_10/EASER_neighborhood=1507_l2_norm=28754079$46612463.tsv",
+            "name": "EASER_neighborhood=1507_l2_norm=28754079$46612463"
+        }
+    },
+    {
+        "meta": {},
+        "recommender": "VSM_sim=cosine_up=tfidf_ip=binary_load=ItemAttributes",
+        "configuration": {
+            "folder": "../results/hetrec2011_exp_results/exp_4_hetrec2011_lastfm_2k_cold_start/best_models/best_models_top_10",
+            "path": "../results/hetrec2011_exp_results/exp_4_hetrec2011_lastfm_2k_cold_start/best_models/best_models_top_10/VSM_sim=cosine_up=tfidf_ip=binary_load=ItemAttributes.tsv",
+            "name": "VSM_sim=cosine_up=tfidf_ip=binary_load=ItemAttributes"
+        }
+    },
+    {
+        "meta": {},
+        "recommender": "output_exp_1_rec_artist",
+        "configuration": {
+            "folder": "../results/hetrec2011_exp_results/exp_4_hetrec2011_lastfm_2k_cold_start/best_models/best_models_top_10",
+            "path": "../results/hetrec2011_exp_results/exp_4_hetrec2011_lastfm_2k_cold_start/best_models/best_models_top_10/output_exp_1_rec_artist.tsv",
+            "name": "output_exp_1_rec_artist"
+        }
+    },
+    {
+        "meta": {},
+        "recommender": "output_exp_3_rec_artist_rerank_userknn_copy",
+        "configuration": {
+            "folder": "../results/hetrec2011_exp_results/exp_4_hetrec2011_lastfm_2k_cold_start/best_models/best_models_top_10",
+            "path": "../results/hetrec2011_exp_results/exp_4_hetrec2011_lastfm_2k_cold_start/best_models/best_models_top_10/output_exp_3_rec_artist_rerank_userknn_copy.tsv",
+            "name": "output_exp_3_rec_artist_rerank_userknn_copy"
+        }
+    },
+    {
+        "meta": {},
+        "recommender": "Random_seed=42",
+        "configuration": {
+            "folder": "../results/hetrec2011_exp_results/exp_4_hetrec2011_lastfm_2k_cold_start/best_models/best_models_top_10",
+            "path": "../results/hetrec2011_exp_results/exp_4_hetrec2011_lastfm_2k_cold_start/best_models/best_models_top_10/Random_seed=42.tsv",
+            "name": "Random_seed=42"
+        }
+    },
+    {
+        "meta": {},
+        "recommender": "output_exp_2_rec_artist_rerank_mostpop_copy",
+        "configuration": {
+            "folder": "../results/hetrec2011_exp_results/exp_4_hetrec2011_lastfm_2k_cold_start/best_models/best_models_top_10",
+            "path": "../results/hetrec2011_exp_results/exp_4_hetrec2011_lastfm_2k_cold_start/best_models/best_models_top_10/output_exp_2_rec_artist_rerank_mostpop_copy.tsv",
+            "name": "output_exp_2_rec_artist_rerank_mostpop_copy"
+        }
+    },
+    {
+        "meta": {},
+        "recommender": "AttributeItemKNN_nn=40_sim=correlation_bin=False_load=ItemAttributes",
+        "configuration": {
+            "folder": "../results/hetrec2011_exp_results/exp_4_hetrec2011_lastfm_2k_cold_start/best_models/best_models_top_10",
+            "path": "../results/hetrec2011_exp_results/exp_4_hetrec2011_lastfm_2k_cold_start/best_models/best_models_top_10/AttributeItemKNN_nn=40_sim=correlation_bin=False_load=ItemAttributes.tsv",
+            "name": "AttributeItemKNN_nn=40_sim=correlation_bin=False_load=ItemAttributes"
+        }
+    },
+    {
+        "meta": {},
+        "recommender": "output_exp_3_rec_artist_no_rerank_userknn_performance",
+        "configuration": {
+            "folder": "../results/hetrec2011_exp_results/exp_4_hetrec2011_lastfm_2k_cold_start/best_models/best_models_top_10",
+            "path": "../results/hetrec2011_exp_results/exp_4_hetrec2011_lastfm_2k_cold_start/best_models/best_models_top_10/output_exp_3_rec_artist_no_rerank_userknn_performance.tsv",
+            "name": "output_exp_3_rec_artist_no_rerank_userknn_performance"
+        }
+    },
+    {
+        "meta": {},
+        "recommender": "ItemKNN_nn=100_sim=cosine_imp=standard_bin=False_shrink=0_norm=True_asymalpha=_tvalpha=_tvbeta=_rweights=",
+        "configuration": {
+            "folder": "../results/hetrec2011_exp_results/exp_4_hetrec2011_lastfm_2k_cold_start/best_models/best_models_top_10",
+            "path": "../results/hetrec2011_exp_results/exp_4_hetrec2011_lastfm_2k_cold_start/best_models/best_models_top_10/ItemKNN_nn=100_sim=cosine_imp=standard_bin=False_shrink=0_norm=True_asymalpha=_tvalpha=_tvbeta=_rweights=.tsv",
+            "name": "ItemKNN_nn=100_sim=cosine_imp=standard_bin=False_shrink=0_norm=True_asymalpha=_tvalpha=_tvbeta=_rweights="
+        }
+    },
+    {
+        "meta": {},
+        "recommender": "RP3beta_neighborhood=507_alpha=1$0180281935718316_beta=0$41875971052261285_normalize_similarity=True",
+        "configuration": {
+            "folder": "../results/hetrec2011_exp_results/exp_4_hetrec2011_lastfm_2k_cold_start/best_models/best_models_top_10",
+            "path": "../results/hetrec2011_exp_results/exp_4_hetrec2011_lastfm_2k_cold_start/best_models/best_models_top_10/RP3beta_neighborhood=507_alpha=1$0180281935718316_beta=0$41875971052261285_normalize_similarity=True.tsv",
+            "name": "RP3beta_neighborhood=507_alpha=1$0180281935718316_beta=0$41875971052261285_normalize_similarity=True"
+        }
+    },
+    {
+        "meta": {},
+        "recommender": "MostPop",
+        "configuration": {
+            "folder": "../results/hetrec2011_exp_results/exp_4_hetrec2011_lastfm_2k_cold_start/best_models/best_models_top_10",
+            "path": "../results/hetrec2011_exp_results/exp_4_hetrec2011_lastfm_2k_cold_start/best_models/best_models_top_10/MostPop.tsv",
+            "name": "MostPop"
+        }
+    }
+]

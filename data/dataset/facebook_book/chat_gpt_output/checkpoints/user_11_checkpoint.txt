@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. To Kill a Mockingbird by Harper Lee
+3. The Da Vinci Code by Dan Brown
+4. The Girl with the Dragon Tattoo by Stieg Larsson
+5. The Catcher in the Rye by J.D. Salinger
+6. The Lord of the Rings by J.R.R. Tolkien
+7. The Hobbit by J.R.R. Tolkien
+8. The Great Gatsby by F. Scott Fitzgerald
+9. 1984 by George Orwell
+10. Animal Farm by George Orwell
+11. The Diary of a Young Girl by Anne Frank
+12. The Fault in Our Stars by John Green
+13. The Help by Kathryn Stockett
+14. The Kite Runner by Khaled Hosseini
+15. The Book Thief by Markus Zusak
+16. The Maze Runner by James Dashner
+17. The Giver by Lois Lowry
+18. The Outsiders by S.E. Hinton
+19. The Secret Life of Bees by Sue Monk Kidd
+20. The Lovely Bones by Alice Sebold
+21. The Alchemist by Paulo Coelho
+22. The Chronicles of Narnia by C.S. Lewis
+23. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+24. The Picture of Dorian Gray by Oscar Wilde
+25. The Time Traveler's Wife by Audrey Niffenegger
+26. The Road by Cormac McCarthy
+27. The Stand by Stephen King
+28. The Shining by Stephen King
+29. The Silence of the Lambs by Thomas Harris
+30. The Bourne Identity by Robert Ludlum
+31. The Firm by John Grisham
+32. The Rainmaker by John Grisham
+33. The Runaway Jury by John Grisham
+34. The Client by John Grisham
+35. The Pelican Brief by John Grisham
+36. The Chamber by John Grisham
+37. The Partner by John Grisham
+38. The Testament by John Grisham
+39. The Summons by John Grisham
+40. The Street Lawyer by John Grisham
+41. The Brethren by John Grisham
+42. The King of Torts by John Grisham
+43. The Last Juror by John Grisham
+44. The Innocent Man by John Grisham
+45. The Racketeer by John Grisham
+46. The Litigators by John Grisham
+47. The Confession by John Grisham
+48. The Whistler by John Grisham
+49. The Rooster Bar by John Grisham
+50. The Reckoning by John Grisham

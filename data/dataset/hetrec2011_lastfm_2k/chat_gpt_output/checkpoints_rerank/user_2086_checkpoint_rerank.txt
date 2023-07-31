@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. IAMX
+3. The White Stripes
+4. The Dead Weather
+5. Crystal Castles
+6. Kasabian
+7. The Raconteurs
+8. Yeah Yeah Yeahs
+9. Mew
+10. Gossip
+11. These New Puritans
+12. Hurts
+13. Late of the Pier
+14. The Kills
+15. Klaxons
+16. The Mars Volta
+17. MGMT
+18. We Are Scientists
+19. Bloc Party
+20. Patrick Wolf
+21. Aqualung
+22. Wolfmother
+23. The Horrors
+24. Sneaker Pimps
+25. Muse
+26. Pink Floyd
+27. Nirvana
+28. Led Zeppelin
+29. Metallica
+30. Iron Maiden
+31. Pearl Jam
+32. System of a Down
+33. Nine Inch Nails
+34. Daft Punk
+35. Linkin Park
+36. Arctic Monkeys
+37. Placebo
+38. The Killers
+39. Blur
+40. Coldplay
+41. U2
+42. Duran Duran
+43. Michael Jackson
+44. Madonna
+45. Björk
+46. Amy Winehouse
+47. Lady Gaga
+48. Rihanna
+49. Shakira
+50. Depeche Mode

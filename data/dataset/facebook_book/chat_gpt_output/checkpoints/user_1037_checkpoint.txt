@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. Pride and Prejudice by Jane Austen
+3. The Catcher in the Rye by J.D. Salinger
+4. Animal Farm by George Orwell
+5. The Hobbit by J.R.R. Tolkien
+6. The Picture of Dorian Gray by Oscar Wilde
+7. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+8. The Da Vinci Code by Dan Brown
+9. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+10. The Girl with the Dragon Tattoo by Stieg Larsson
+11. The Hunger Games by Suzanne Collins
+12. The Kite Runner by Khaled Hosseini
+13. The Alchemist by Paulo Coelho
+14. The Road by Cormac McCarthy
+15. The Shining by Stephen King
+16. The God of Small Things by Arundhati Roy
+17. The Secret History by Donna Tartt
+18. The Name of the Wind by Patrick Rothfuss
+19. The Time Traveler's Wife by Audrey Niffenegger
+20. The Handmaid's Tale by Margaret Atwood
+21. The Bell Jar by Sylvia Plath
+22. The Brothers Karamazov by Fyodor Dostoevsky
+23. The Count of Monte Cristo by Alexandre Dumas
+24. The Picture of Dorian Gray by Oscar Wilde
+25. The Adventures of Huckleberry Finn by Mark Twain
+26. The Road Less Traveled by M. Scott Peck
+27. The Stand by Stephen King
+28. The Sun Also Rises by Ernest Hemingway
+29. The Wind-Up Bird Chronicle by Haruki Murakami
+30. The Stranger by Albert Camus
+31. The Grapes of Wrath by John Steinbeck
+32. The Old Man and the Sea by Ernest Hemingway
+33. The Divine Comedy by Dante Alighieri
+34. The Canterbury Tales by Geoffrey Chaucer
+35. The Iliad by Homer
+36. The Odyssey by Homer
+37. The Aeneid by Virgil
+38. The Inferno by Dante Alighieri
+39. The Republic by Plato
+40. The Prince by Niccolo Machiavelli
+41. The Wealth of Nations by Adam Smith
+42. The Communist Manifesto by Karl Marx and Friedrich Engels
+43. The Origin of Species by Charles Darwin
+44. The Interpretation of Dreams by Sigmund Freud
+45. The Tao Te Ching by Lao Tzu
+46. The Analects by Confucius
+47. The Book of Five Rings by Miyamoto Musashi
+48. The Art of War by Sun Tzu
+49. The Prince and the Pauper by Mark Twain
+50. The Adventures of Tom Sawyer by Mark Tw

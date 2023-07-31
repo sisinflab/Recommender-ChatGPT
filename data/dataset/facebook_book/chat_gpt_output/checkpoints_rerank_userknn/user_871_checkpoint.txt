@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Catcher in the Rye by J.D. Salinger
+3. 1984 by George Orwell
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Animal Farm by George Orwell
+6. Lord of the Flies by William Golding
+7. Brave New World by Aldous Huxley
+8. One Hundred Years of Solitude by Gabriel Garcia Marquez
+9. Crime and Punishment by Fyodor Dostoevsky
+10. The Stranger by Albert Camus
+11. The Picture of Dorian Gray by Oscar Wilde
+12. Frankenstein by Mary Shelley
+13. Dracula by Bram Stoker
+14. The Satanic Verses by Salman Rushdie
+15. The Glass Bead Game by Hermann Hesse
+16. Atonement by Ian McEwan
+17. The Age of Innocence by Edith Wharton
+18. East of Eden by John Steinbeck
+19. The Secret Life of Bees by Sue Monk Kidd
+20. The Joy Luck Club by Amy Tan
+21. The Bluest Eye by Toni Morrison
+22. The Vampire Chronicles by Anne Rice
+23. Twilight by Stephenie Meyer
+24. The Southern Vampire Mysteries by Charlaine Harris
+25. The Host by Stephenie Meyer
+26. Blood and Chocolate by Annette Curtis Klause
+27. The Five People You Meet in Heaven by Mitch Albom
+28. The Time Traveler's Wife by Audrey Niffenegger
+29. The Illustrated Man by Ray Bradbury
+30. Alice's Adventures in Wonderland by Lewis Carroll
+31. The Chronicles of Narnia by C.S. Lewis
+32. The Lord of the Rings by J.R.R. Tolkien
+33. Halo by Alexandra Adornetto
+34. The Wedding by Danielle Steel
+35. The Memory Keeper's Daughter by Kim Edwards
+36. Ways to Live Forever by Sally Nicholls
+37. The Demon in the Freezer by Richard Preston
+38. Fences by August Wilson
+39. Orlando by Virginia Woolf
+40. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+41. Speak by Laurie Halse Anderson
+42. Romeo and Juliet by William Shakespeare
+43. Gospel of Matthew
+44. Gospel of Mark
+45. The Mill on the Floss by George Eliot
+46. Prey by Michael Crichton
+47. It by Stephen King
+48. The Horse Whisperer by Nicholas Evans
+49. Into Thin Air by Jon Krakauer
+50. Where the Heart Is by Billie Letts

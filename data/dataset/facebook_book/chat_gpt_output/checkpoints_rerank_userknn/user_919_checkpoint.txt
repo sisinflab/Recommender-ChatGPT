@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Ender's Game by Orson Scott Card
+2. Frankenstein by Mary Shelley
+3. The Lord of the Rings by J.R.R. Tolkien
+4. To Kill a Mockingbird by Harper Lee
+5. The Catcher in the Rye by J.D. Salinger
+6. Macbeth by William Shakespeare
+7. Romeo and Juliet by William Shakespeare
+8. Nineteen Eighty-Four by George Orwell
+9. The Book Thief by Markus Zusak
+10. Wuthering Heights by Emily Bronte
+11. The Andromeda Strain by Michael Crichton
+12. Angels & Demons by Dan Brown
+13. Sphere by Michael Crichton
+14. A Tree Grows in Brooklyn by Betty Smith
+15. Harry Potter series by J.K. Rowling
+16. Looking for Alaska by John Green
+17. Thirteen Reasons Why by Jay Asher
+18. Fahrenheit 451 by Ray Bradbury
+19. The Temple of My Familiar by Alice Walker
+20. The Lion, the Witch and the Wardrobe by C.S. Lewis
+21. The House of the Scorpion by Nancy Farmer
+22. The Runaway Jury by John Grisham
+23. Lone Survivor by Marcus Luttrell
+24. Rising Sun by Michael Crichton
+25. Sleeping Freshmen Never Lie by David Lubar
+26. Cirque du Freak by Darren Shan
+27. A Midsummer Night's Dream by William Shakespeare
+28. Oil! by Upton Sinclair
+29. The Thief of Always by Clive Barker
+30. The Broker by John Grisham
+31. Before I Die by Jenny Downham
+32. Tuesdays with Morrie by Mitch Albom
+33. So You Want to Be a Wizard by Diane Duane
+34. Shade's Children by Garth Nix
+35. Airframe by Michael Crichton
+36. The Ear, the Eye and the Arm by Nancy Farmer
+37. Disclosure by Michael Crichton
+38. Uglies by Scott Westerfeld
+39. Inheritance by Christopher Paolini
+40. Lies My Teacher Told Me by James W. Loewen
+41. Mr. Fish by Eleanor Clark
+42. Adventures of Huckleberry Finn by Mark Twain
+43. Anthem by Ayn Rand
+44. The Sicilian by Mario Puzo
+45. Beauty: A Retelling of the Story of Beauty and the Beast by Robin McKinley
+46. Desiderata by Max Ehrmann
+47. Shadow Puppets by Orson Scott Card
+48. Mockingjay by Suzanne Collins
+49. Where the Red Fern Grows by Wilson Rawls
+50. A Walk in the Woods by Bill Bryson

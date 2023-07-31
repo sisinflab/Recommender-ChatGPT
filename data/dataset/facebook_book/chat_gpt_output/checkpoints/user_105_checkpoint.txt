@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. Brave New World by Aldous Huxley
+4. The Catcher in the Rye by J.D. Salinger
+5. To Kill a Mockingbird by Harper Lee
+6. The Great Gatsby by F. Scott Fitzgerald
+7. Lord of the Flies by William Golding
+8. The Grapes of Wrath by John Steinbeck
+9. One Hundred Years of Solitude by Gabriel Garcia Marquez
+10. Crime and Punishment by Fyodor Dostoevsky
+11. The Brothers Karamazov by Fyodor Dostoevsky
+12. War and Peace by Leo Tolstoy
+13. Anna Karenina by Leo Tolstoy
+14. The Picture of Dorian Gray by Oscar Wilde
+15. Frankenstein by Mary Shelley
+16. Dracula by Bram Stoker
+17. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+18. Heart of Darkness by Joseph Conrad
+19. The Adventures of Huckleberry Finn by Mark Twain
+20. The Adventures of Tom Sawyer by Mark Twain
+21. The Lord of the Rings by J.R.R. Tolkien
+22. The Silmarillion by J.R.R. Tolkien
+23. The Chronicles of Narnia by C.S. Lewis
+24. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+25. The Foundation Trilogy by Isaac Asimov
+26. Dune by Frank Herbert
+27. Ender's Game by Orson Scott Card
+28. The Hunger Games by Suzanne Collins
+29. Catch-22 by Joseph Heller
+30. Slaughterhouse-Five by Kurt Vonnegut
+31. The Bell Jar by Sylvia Plath
+32. The Handmaid's Tale by Margaret Atwood
+33. 1984 by George Orwell
+34. Animal Farm by George Orwell
+35. Brave New World by Aldous Huxley
+36. The Catcher in the Rye by J.D. Salinger
+37. To Kill a Mockingbird by Harper Lee
+38. The Great Gatsby by F. Scott Fitzgerald
+39. Lord of the Flies by William Golding
+40. The Grapes of Wrath by John Steinbeck
+41. One Hundred Years of Solitude by Gabriel Garcia Marquez
+42. Crime and Punishment by Fyodor Dostoevsky
+43. The Brothers Karamazov by Fyodor Dostoevsky
+44. War and Peace by Leo Tolstoy
+45. Anna Karenina by Leo Tolstoy
+46. The Picture of Dorian Gray by Oscar Wilde
+47. Frankenstein by Mary Shelley
+48. Dracula by Bram Stoker
+49. The Strange Case

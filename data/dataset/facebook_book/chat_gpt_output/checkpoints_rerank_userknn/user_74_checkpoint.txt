@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter
+2. To Kill a Mockingbird
+3. The Catcher in the Rye
+4. Brave New World
+5. Romeo and Juliet
+6. Jane Eyre
+7. The Great Gatsby
+8. Les Misérables
+9. The Secret Garden
+10. A Little Princess
+11. Alice's Adventures in Wonderland
+12. The Chronicles of Narnia: Prince Caspian
+13. Inkheart
+14. Inkspell
+15. The Giver
+16. A Wrinkle in Time
+17. The Bean Trees
+18. Nineteen Eighty-Four
+19. The Namesake
+20. Franny and Zooey
+21. Leaves of Grass
+22. The Picture of Dorian Gray
+23. Medea (play)
+24. The Stand
+25. The Hamlet
+26. The Outsiders (novel)
+27. The Watchmen (novel)
+28. The Runaways (novel)
+29. Macbeth
+30. Rosemary's Baby
+31. Naked (book)
+32. I Am America (And So Can You!)
+33. Dress Your Family in Corduroy and Denim
+34. Gone with the Wind
+35. Night (book)
+36. Eighth Grade Bites
+37. Blood and Chocolate (novel)
+38. Speak (novel)
+39. Carrie (novel)
+40. The Five People You Meet in Heaven
+41. Around the World in Eighty Days
+42. Hard Times
+43. One Fish Two Fish Red Fish Blue Fish
+44. Nancy Drew
+45. The Historian
+46. In Cold Blood
+47. Dune (novel)
+48. Under the Dome
+49. Interview with the Vampire
+50. The Jungle Book

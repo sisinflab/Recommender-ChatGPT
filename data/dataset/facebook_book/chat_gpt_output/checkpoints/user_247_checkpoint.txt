@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Go Ask Alice by Anonymous
+2. A Clockwork Orange by Anthony Burgess
+3. Fight Club by Chuck Palahniuk
+4. American Psycho by Bret Easton Ellis
+5. The Bell Jar by Sylvia Plath
+6. One Flew Over the Cuckoo's Nest by Ken Kesey
+7. The Road by Cormac McCarthy
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+10. The Handmaid's Tale by Margaret Atwood
+11. 1984 by George Orwell
+12. Brave New World by Aldous Huxley
+13. Slaughterhouse-Five by Kurt Vonnegut
+14. The Great Gatsby by F. Scott Fitzgerald
+15. To Kill a Mockingbird by Harper Lee
+16. The Lord of the Rings by J.R.R. Tolkien
+17. The Hobbit by J.R.R. Tolkien
+18. The Hunger Games by Suzanne Collins
+19. Catching Fire by Suzanne Collins
+20. Mockingjay by Suzanne Collins
+21. The Girl with the Dragon Tattoo by Stieg Larsson
+22. The Da Vinci Code by Dan Brown
+23. Angels and Demons by Dan Brown
+24. The Shining by Stephen King
+25. Carrie by Stephen King
+26. The Stand by Stephen King
+27. It by Stephen King
+28. The Silence of the Lambs by Thomas Harris
+29. Red Dragon by Thomas Harris
+30. Hannibal by Thomas Harris
+31. The Bourne Identity by Robert Ludlum
+32. The Bourne Supremacy by Robert Ludlum
+33. The Bourne Ultimatum by Robert Ludlum
+34. The Girl on the Train by Paula Hawkins
+35. Gone Girl by Gillian Flynn
+36. The Maze Runner by James Dashner
+37. The Scorch Trials by James Dashner
+38. The Death Cure by James Dashner
+39. The Giver by Lois Lowry
+40. Gathering Blue by Lois Lowry
+41. Messenger by Lois Lowry
+42. Son by Lois Lowry
+43. The Fault in Our Stars by John Green
+44. Looking for Alaska by John Green
+45. Paper Towns by John Green
+46. The Perks of Being a Wallflower by Stephen Chbosky
+47. The Book Thief by Markus Zusak
+48. The Help by Kathryn Stockett
+49. Water for Elephants by Sara Gruen
+50. Life of Pi by Yann Martel

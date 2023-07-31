@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Harry Potter and the Sorcerer's Stone by J.K. Rowling
+3. The Da Vinci Code by Dan Brown
+4. The Lord of the Rings by J.R.R. Tolkien
+5. Divergent by Veronica Roth
+6. The Hobbit by J.R.R. Tolkien
+7. The Catcher in the Rye by J.D. Salinger
+8. The Girl with the Dragon Tattoo by Stieg Larsson
+9. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+10. The Giver by Lois Lowry
+11. The Maze Runner by James Dashner
+12. The Book Thief by Markus Zusak
+13. The Fault in Our Stars by John Green
+14. The Chronicles of Narnia by C.S. Lewis
+15. The Great Gatsby by F. Scott Fitzgerald
+16. To Kill a Mockingbird by Harper Lee
+17. The Outsiders by S.E. Hinton
+18. The Perks of Being a Wallflower by Stephen Chbosky
+19. The Alchemist by Paulo Coelho
+20. The Secret Life of Bees by Sue Monk Kidd
+21. The Help by Kathryn Stockett
+22. The Lovely Bones by Alice Sebold
+23. The Picture of Dorian Gray by Oscar Wilde
+24. The Time Traveler's Wife by Audrey Niffenegger
+25. The Road by Cormac McCarthy
+26. The Stand by Stephen King
+27. The Shining by Stephen King
+28. The Silence of the Lambs by Thomas Harris
+29. The Girl on the Train by Paula Hawkins
+30. The Nightingale by Kristin Hannah
+31. The Handmaid's Tale by Margaret Atwood
+32. The Name of the Wind by Patrick Rothfuss
+33. The Wise Man's Fear by Patrick Rothfuss
+34. The Way of Kings by Brandon Sanderson
+35. Mistborn by Brandon Sanderson
+36. The Final Empire by Brandon Sanderson
+37. The Well of Ascension by Brandon Sanderson
+38. The Hero of Ages by Brandon Sanderson
+39. The Lies of Locke Lamora by Scott Lynch
+40. Red Rising by Pierce Brown
+41. Golden Son by Pierce Brown
+42. Morning Star by Pierce Brown
+43. The Martian by Andy Weir
+44. Ready Player One by Ernest Cline
+45. The Dresden Files by Jim Butcher
+46. American Gods by Neil Gaiman
+47. Neverwhere by Neil Gaiman
+48. Good Omens by Neil Gaiman and Terry Pratchett
+49. The Dark Tower by Stephen King
+50. The Stand by Stephen King

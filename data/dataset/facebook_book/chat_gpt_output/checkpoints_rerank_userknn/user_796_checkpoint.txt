@@ -1,0 +1,48 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Chronicles of Narnia: Prince Caspian by C. S. Lewis
+2. The Magician's Nephew by C. S. Lewis
+3. The Horse and His Boy by C. S. Lewis
+4. The Last Battle by C. S. Lewis
+5. The Lion, the Witch and the Wardrobe by C. S. Lewis
+6. Inkheart by Cornelia Funke
+7. Inkspell by Cornelia Funke
+8. Inkdeath by Cornelia Funke
+9. The Hobbit by J.R.R. Tolkien
+10. The Lord of the Rings by J.R.R. Tolkien
+11. Northern Lights (novel) by Philip Pullman
+12. The Amber Spyglass by Philip Pullman
+13. The Belgariad by David Eddings
+14. Eldest by Christopher Paolini
+15. Brisingr by Christopher Paolini
+16. Eragon by Christopher Paolini
+17. The Kite Runner by Khaled Hosseini
+18. Wuthering Heights by Emily Bronte
+19. To Kill a Mockingbird by Harper Lee
+20. Crime and Punishment by Fyodor Dostoevsky
+21. The Count of Monte Cristo by Alexandre Dumas
+22. Rebecca (novel) by Daphne du Maurier
+23. Great Expectations by Charles Dickens
+24. Oliver Twist by Charles Dickens
+25. The Twits by Roald Dahl
+26. Ways to Live Forever by Sally Nicholls
+27. Tuesdays with Morrie by Mitch Albom
+28. The Purpose Driven Life by Rick Warren
+29. The Shack by William P. Young
+30. My Name Is Red by Orhan Pamuk
+31. The Lovely Bones by Alice Sebold
+32. Seabiscuit: An American Legend by Laura Hillenbrand
+33. Lord of the Flies by William Golding
+34. Twenties Girl by Sophie Kinsella
+35. Speak (novel) by Laurie Halse Anderson
+36. The Silver Chair by C. S. Lewis
+37. Ptolemy's Gate by Jonathan Stroud
+38. Where the Heart Is (novel) by Billie Letts
+39. Sense and Sensibility and Sea Monsters by Jane Austen and Ben H. Winters
+40. Quo Vadis (novel) by Henryk Sienkiewicz
+41. The Watchmen (novel) by Alan Moore and Dave Gibbons
+42. Betrayed (novel) by P.C. Cast and Kristin Cast
+43. W.I.T.C.H. by Elisabetta Gnone
+44. Angels & Demons by Dan Brown
+45. Sun Bin's Art of War by Sun Bin
+46. The Alchemist (nov

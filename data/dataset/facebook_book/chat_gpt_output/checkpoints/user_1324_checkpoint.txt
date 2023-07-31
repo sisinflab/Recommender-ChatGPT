@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Alchemist by Paulo Coelho
+2. The Girl with the Dragon Tattoo by Stieg Larsson
+3. The Catcher in the Rye by J.D. Salinger
+4. The Hunger Games by Suzanne Collins
+5. To Kill a Mockingbird by Harper Lee
+6. 1984 by George Orwell
+7. The Great Gatsby by F. Scott Fitzgerald
+8. The Hobbit by J.R.R. Tolkien
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Chronicles of Narnia by C.S. Lewis
+11. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+12. The Shining by Stephen King
+13. The Stand by Stephen King
+14. The Dark Tower series by Stephen King
+15. The Silence of the Lambs by Thomas Harris
+16. The Bourne Identity by Robert Ludlum
+17. The Da Vinci Code by Dan Brown
+18. Angels & Demons by Dan Brown
+19. Digital Fortress by Dan Brown
+20. Inferno by Dan Brown
+21. Origin by Dan Brown
+22. The Fountainhead by Ayn Rand
+23. Atlas Shrugged by Ayn Rand
+24. We the Living by Ayn Rand
+25. The Last Juror by John Grisham
+26. A Time to Kill by John Grisham
+27. The Firm by John Grisham
+28. The Pelican Brief by John Grisham
+29. Bag of Bones by Stephen King
+30. Misery by Stephen King
+31. Carrie by Stephen King
+32. The Green Mile by Stephen King
+33. The Gunslinger by Stephen King
+34. The Drawing of the Three by Stephen King
+35. The Waste Lands by Stephen King
+36. Wizard and Glass by Stephen King
+37. Wolves of the Calla by Stephen King
+38. Song of Susannah by Stephen King
+39. The Dark Tower by Stephen King
+40. The Name of the Wind by Patrick Rothfuss
+41. The Wise Man's Fear by Patrick Rothfuss
+42. The Lies of Locke Lamora by Scott Lynch
+43. The Blade Itself by Joe Abercrombie
+44. The Way of Kings by Brandon Sanderson
+45. Mistborn by Brandon Sanderson
+46. The Final Empire by Brandon Sanderson
+47. The Well of Ascension by Brandon Sanderson
+48. The Hero of Ages by Brandon Sanderson
+49. The Emperor's Soul by Brandon Sanderson
+50. Warbreaker by Brandon Sanderson

@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Watchers by Dean Koontz
+2. The Lord of the Rings by J.R.R. Tolkien
+3. The Shining by Stephen King
+4. The Talisman by Stephen King and Peter Straub
+5. The Dark Tower series by Stephen King
+6. The Chronicles of Narnia by C.S. Lewis
+7. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+8. The Hunger Games by Suzanne Collins
+9. Ender's Game by Orson Scott Card
+10. The Maze Runner by James Dashner
+11. The Giver by Lois Lowry
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Da Vinci Code by Dan Brown
+14. The Bourne Identity by Robert Ludlum
+15. The Silence of the Lambs by Thomas Harris
+16. The Girl on the Train by Paula Hawkins
+17. The Catcher in the Rye by J.D. Salinger
+18. To Kill a Mockingbird by Harper Lee
+19. 1984 by George Orwell
+20. Animal Farm by George Orwell
+21. Brave New World by Aldous Huxley
+22. Fahrenheit 451 by Ray Bradbury
+23. The Handmaid's Tale by Margaret Atwood
+24. The Road by Cormac McCarthy
+25. The Martian by Andy Weir
+26. The Harry Potter series by J.K. Rowling
+27. The Percy Jackson series by Rick Riordan
+28. The Heroes of Olympus series by Rick Riordan
+29. The Kane Chronicles series by Rick Riordan
+30. The Inheritance Cycle series by Christopher Paolini
+31. The Dark Materials series by Philip Pullman
+32. The Wheel of Time series by Robert Jordan
+33. The Sword of Truth series by Terry Goodkind
+34. The Mistborn series by Brandon Sanderson
+35. The Stormlight Archive series by Brandon Sanderson
+36. The Kingkiller Chronicle series by Patrick Rothfuss
+37. The First Law trilogy by Joe Abercrombie
+38. The Malazan Book of the Fallen series by Steven Erikson
+39. The Black Company series by Glen Cook
+40. The Dresden Files series by Jim Butcher
+41. The Codex Alera series by Jim Butcher
+42. The Belgariad series by David Eddings
+43. The Elenium series by David Eddings
+44. The Tamuli series by David Eddings
+45. The Riftwar Saga series by Raymond E. Feist
+46. The Empire Trilogy series by Raymond E. Feist and Janny Wurts
+47. The Farseer Trilogy series by Robin Hobb
+48. The Liveship Traders Trilogy series by Robin Hobb
+49. The Tawny Man Trilogy series by Robin H

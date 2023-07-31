@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. 1984 by George Orwell
+3. Brave New World by Aldous Huxley
+4. Animal Farm by George Orwell
+5. The Catcher in the Rye by J.D. Salinger
+6. To Kill a Mockingbird by Harper Lee
+7. The Great Gatsby by F. Scott Fitzgerald
+8. Lord of the Flies by William Golding
+9. The Da Vinci Code by Dan Brown
+10. The Girl with the Dragon Tattoo by Stieg Larsson
+11. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+12. Ender's Game by Orson Scott Card
+13. The Maze Runner by James Dashner
+14. The Giver by Lois Lowry
+15. The Fault in Our Stars by John Green
+16. The Road by Cormac McCarthy
+17. The Stand by Stephen King
+18. The Shining by Stephen King
+19. The Dark Tower series by Stephen King
+20. The Chronicles of Narnia by C.S. Lewis
+21. The Harry Potter series by J.K. Rowling
+22. The Hobbit by J.R.R. Tolkien
+23. The Lord of the Rings series by J.R.R. Tolkien
+24. The Silmarillion by J.R.R. Tolkien
+25. The Wheel of Time series by Robert Jordan
+26. A Song of Ice and Fire series by George R.R. Martin
+27. The Name of the Wind by Patrick Rothfuss
+28. Mistborn series by Brandon Sanderson
+29. The Way of Kings by Brandon Sanderson
+30. The Kingkiller Chronicle series by Patrick Rothfuss
+31. The Dresden Files series by Jim Butcher
+32. American Gods by Neil Gaiman
+33. Good Omens by Neil Gaiman and Terry Pratchett
+34. The Dark Tower series by Stephen King
+35. The Stand by Stephen King
+36. The Shining by Stephen King
+37. The Dark Tower series by Stephen King
+38. The Chronicles of Narnia by C.S. Lewis
+39. The Harry Potter series by J.K. Rowling
+40. The Hobbit by J.R.R. Tolkien
+41. The Lord of the Rings series by J.R.R. Tolkien
+42. The Silmarillion by J.R.R. Tolkien
+43. The Wheel of Time series by Robert Jordan
+44. A Song of Ice and Fire series by George R.R. Martin
+45. The Name of the Wind by Patrick Rothfuss
+46. Mistborn series by Brandon Sanderson
+47. The Way of Kings by Brandon Sanderson
+48. The Kingkiller Chronicle series by Patrick Rothfuss
+49. The Dresden Files series by Jim Butcher
+50. American Gods by Neil Gaiman

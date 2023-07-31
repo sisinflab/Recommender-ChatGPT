@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for this user are:
+
+1. Depeche Mode
+2. Madonna
+3. The Police
+4. Michael Jackson
+5. Duran Duran
+6. Robbie Williams
+7. U2
+8. Pink Floyd
+9. Elton John
+10. The Beatles
+11. Pet Shop Boys
+12. Erasure
+13. Groove Coverage
+14. Mylène Farmer
+15. Lady Gaga
+16. The Rasmus
+17. Gregorian
+18. Mika
+19. Billy Joel
+20. Bee Gees
+21. Avril Lavigne
+22. Toto
+23. Tori Amos
+24. Snow Patrol
+25. Hooverphonic
+26. Massive Attack
+27. Talk Talk
+28. Simple Minds
+29. Amy Winehouse
+30. Guano Apes
+31. Travis
+32. Tears for Fears
+33. Recoil
+34. Boards of Canada
+35. Underworld
+36. Ultravox
+37. Cyndi Lauper
+38. IAMX
+39. Linkin Park
+40. Anathema
+41. Hans Zimmer
+42. Nitzer Ebb
+43. Cocteau Twins
+44. Katie Melua
+45. Manu Chao
+46. Joe Satriani
+47. Faithless
+48. Schiller
+49. The Killers
+50. Brandon Flowers

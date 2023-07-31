@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Green Day
+2. My Chemical Romance
+3. Fall Out Boy
+4. Panic! At The Disco
+5. All Time Low
+6. The Offspring
+7. Blink-182
+8. Nirvana
+9. The Smashing Pumpkins
+10. Radiohead
+11. Arctic Monkeys
+12. The Strokes
+13. Queens of the Stone Age
+14. Pearl Jam
+15. Soundgarden
+16. Alice in Chains
+17. Stone Temple Pilots
+18. Foo Fighters
+19. Weezer
+20. The White Stripes
+21. The Black Keys
+22. Cage the Elephant
+23. Vampire Weekend
+24. The 1975
+25. Imagine Dragons
+26. Twenty One Pilots
+27. Hozier
+28. Florence + The Machine
+29. Lorde
+30. Lana Del Rey
+31. Billie Eilish
+32. The Weeknd
+33. Post Malone
+34. Khalid
+35. Drake
+36. Kendrick Lamar
+37. J. Cole
+38. Childish Gambino
+39. Frank Ocean
+40. Tyler, The Creator
+41. Mac Miller
+42. Travis Scott
+43. Kanye West
+44. Jay-Z
+45. Eminem
+46. Outkast
+47. The Roots
+48. Anderson .Paak
+49. Thundercat
+50. Kamasi Washington

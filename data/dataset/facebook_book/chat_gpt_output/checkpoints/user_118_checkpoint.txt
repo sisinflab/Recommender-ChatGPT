@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. The Catcher in the Rye by J.D. Salinger
+4. One Hundred Years of Solitude by Gabriel Garcia Marquez
+5. The Great Gatsby by F. Scott Fitzgerald
+6. The Brothers Karamazov by Fyodor Dostoyevsky
+7. The Picture of Dorian Gray by Oscar Wilde
+8. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+9. The Hobbit by J.R.R. Tolkien
+10. The Chronicles of Narnia by C.S. Lewis
+11. The Alchemist by Paulo Coelho
+12. The Name of the Wind by Patrick Rothfuss
+13. The Hunger Games by Suzanne Collins
+14. The Girl with the Dragon Tattoo by Stieg Larsson
+15. The Da Vinci Code by Dan Brown
+16. The Road by Cormac McCarthy
+17. The Stand by Stephen King
+18. The Shining by Stephen King
+19. The Silence of the Lambs by Thomas Harris
+20. The God of Small Things by Arundhati Roy
+21. The Kite Runner by Khaled Hosseini
+22. The Lovely Bones by Alice Sebold
+23. The Help by Kathryn Stockett
+24. The Fault in Our Stars by John Green
+25. The Book Thief by Markus Zusak
+26. The Giver by Lois Lowry
+27. The Outsiders by S.E. Hinton
+28. The Bell Jar by Sylvia Plath
+29. The Handmaid's Tale by Margaret Atwood
+30. The Road Less Traveled by M. Scott Peck
+31. The Power of Now by Eckhart Tolle
+32. The 7 Habits of Highly Effective People by Stephen Covey
+33. The Art of War by Sun Tzu
+34. The Prince by Niccolo Machiavelli
+35. The Republic by Plato
+36. The Wealth of Nations by Adam Smith
+37. The Origin of Species by Charles Darwin
+38. The Interpretation of Dreams by Sigmund Freud
+39. The Communist Manifesto by Karl Marx and Friedrich Engels
+40. The Tao Te Ching by Lao Tzu
+41. The Bhagavad Gita
+42. The Bible
+43. The Quran
+44. The Teachings of Buddha
+45. The Yoga Sutras of Patanjali
+46. The Complete Works of William Shakespeare
+47. The Canterbury Tales by Geoffrey Chaucer
+48. The Divine Comedy by Dante Alighieri
+49. The Iliad and The Odyssey by Homer
+50. The Art of Love by Ovid

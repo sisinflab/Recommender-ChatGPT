@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Iron Maiden
+2. Metallica
+3. Ozzy Osbourne
+4. Dream Theater
+5. AC/DC
+6. Pink Floyd
+7. Black Sabbath
+8. Slayer
+9. Megadeth
+10. Van Halen
+11. Motörhead
+12. System of a Down
+13. Helloween
+14. ZZ Top
+15. Pantera
+16. Lynyrd Skynyrd
+17. Muse
+18. Pearl Jam
+19. Stratovarius
+20. Gamma Ray
+21. Manowar
+22. Yngwie Malmsteen
+23. Bruce Dickinson
+24. Edguy
+25. Raimundos
+26. Angra
+27. Sonata Arctica
+28. KISS
+29. Blind Guardian
+30. Tool
+31. Green Day
+32. The Beatles
+33. Red Hot Chili Peppers
+34. Foo Fighters
+35. Queens of the Stone Age
+36. Interpol
+37. The Subways
+38. The Offspring
+39. blink-182
+40. A Perfect Circle
+41. Matanza
+42. Sepultura
+43. Kreator
+44. Twisted Sister
+45. Ramones
+46. My Chemical Romance
+47. Metric
+48. Coldplay
+49. Soda Stereo
+50. Ennio Morricone

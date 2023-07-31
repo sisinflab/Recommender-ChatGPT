@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. Sigur Rós
+3. Grizzly Bear
+4. Sufjan Stevens
+5. Blonde Redhead
+6. Joanna Newsom
+7. Beirut
+8. múm
+9. Broken Social Scene
+10. Architecture in Helsinki
+11. CocoRosie
+12. Yeah Yeah Yeahs
+13. Gang Starr
+14. Wu-Tang Clan
+15. The Brian Jonestown Massacre
+16. 植松伸夫
+17. Chiodos
+18. Animal Collective
+19. The xx
+20. Bright Eyes
+21. Burial
+22. The Smiths
+23. Kings of Convenience
+24. Ghostface Killah
+25. CAKE
+26. Beck
+27. Gorillaz
+28. The Album Leaf
+29. System of a Down
+30. Caribou
+31. Yann Tiersen
+32. The Beatles
+33. Arcade Fire
+34. Coldplay
+35. Jónsi
+36. Ulver
+37. Telefon Tel Aviv
+38. Nouvelle Vague
+39. Prefuse 73
+40. Suzanne Vega
+41. The Cranberries
+42. Jefferson Airplane
+43. Arctic Monkeys
+44. of Montreal
+45. God Is an Astronaut
+46. Flying Lotus
+47. GZA/Genius
+48. Weezer
+49. Nick Drake
+50. Max Richter

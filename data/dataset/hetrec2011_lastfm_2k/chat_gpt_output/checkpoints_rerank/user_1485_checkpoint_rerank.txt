@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Regina Spektor
+2. Belle and Sebastian
+3. Feist
+4. Glee Cast
+5. The Cranberries
+6. Arctic Monkeys
+7. Lenine
+8. Florence + the Machine
+9. Aimee Mann
+10. Nouvelle Vague
+11. MGMT
+12. Johnny Cash
+13. Roberta Sá
+14. Two Door Cinema Club
+15. Duffy
+16. Lily Allen
+17. Os Mutantes
+18. Édith Piaf
+19. Rihanna
+20. Britney Spears
+21. Amy Winehouse
+22. Depeche Mode
+23. Daft Punk
+24. Björk
+25. Placebo
+26. Madonna
+27. The Beatles
+28. Shakira
+29. Kylie Minogue
+30. Pink Floyd
+31. Muse
+32. Radiohead
+33. Coldplay
+34. Nirvana
+35. Led Zeppelin
+36. Michael Jackson
+37. Pearl Jam
+38. Metallica
+39. Iron Maiden
+40. System of a Down
+41. Nine Inch Nails
+42. Linkin Park
+43. Avril Lavigne
+44. Taylor Swift
+45. Evanescence
+46. U2
+47. 30 Seconds to Mars
+48. Ke$ha
+49. Duran Duran
+50. Blur

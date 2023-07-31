@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Eminem
+2. Kid Cudi
+3. Avenged Sevenfold
+4. 50 Cent
+5. T.I.
+6. Third Eye Blind
+7. Led Zeppelin
+8. Megadeth
+9. Lil' Wayne
+10. 2Pac
+11. Van Halen
+12. Black Sabbath
+13. Foreigner
+14. The Who
+15. Foo Fighters
+16. Soundgarden
+17. Pantera
+18. Ludacris
+19. Rage Against the Machine
+20. Muse
+21. Kanye West
+22. AC/DC
+23. B.o.B
+24. Drake
+25. Judas Priest
+26. Timbaland
+27. Pitbull
+28. Ozzy Osbourne
+29. Deftones
+30. Ke$ha
+31. Metallica
+32. Iron Maiden
+33. Nirvana
+34. Pearl Jam
+35. System of a Down
+36. Linkin Park
+37. My Chemical Romance
+38. Green Day
+39. The Cure
+40. Radiohead
+41. Pink Floyd
+42. Michael Jackson
+43. Beyoncé
+44. U2
+45. Nine Inch Nails
+46. Madonna
+47. Rihanna
+48. Lady Gaga
+49. Shakira
+50. Christina Aguilera

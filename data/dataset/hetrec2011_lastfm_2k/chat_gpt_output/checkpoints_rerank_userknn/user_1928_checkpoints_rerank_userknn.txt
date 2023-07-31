@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Madonna
+2. Blondie
+3. Rufus Wainwright
+4. The Presets
+5. Röyksopp
+6. Kylie Minogue
+7. Antony and the Johnsons
+8. MGMT
+9. Dolly Parton
+10. ABBA
+11. Arcade Fire
+12. The National
+13. Mika
+14. The Dandy Warhols
+15. Whitney Houston
+16. Infected Mushroom
+17. Nouvelle Vague
+18. Donna Summer
+19. Massive Attack
+20. Depeche Mode
+21. Michael Jackson
+22. Lady Gaga
+23. Beyoncé
+24. Rihanna
+25. Katy Perry
+26. Bruno Mars
+27. Daft Punk
+28. P!nk
+29. Britney Spears
+30. Cher
+31. Justin Bieber
+32. Backstreet Boys
+33. Little Boots
+34. Shakira
+35. U2
+36. Elvis Presley
+37. Erasure
+38. a-ha
+39. Red Hot Chili Peppers
+40. Thalía
+41. She & Him
+42. Ke$ha
+43. Willow Smith
+44. Robbie Williams
+45. Tokio Hotel
+46. Girls Aloud
+47. Dannii Minogue
+48. Christina Aguilera
+49. Amy Winehouse
+50. Lindsay Lohan

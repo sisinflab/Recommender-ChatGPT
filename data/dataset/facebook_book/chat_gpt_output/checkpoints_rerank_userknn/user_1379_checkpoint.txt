@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Nineteen Eighty-Four by George Orwell
+2. Animal Farm by George Orwell
+3. The Great Gatsby by F. Scott Fitzgerald
+4. The Picture of Dorian Gray by Oscar Wilde
+5. Heart of Darkness by Joseph Conrad
+6. Slaughterhouse-Five by Kurt Vonnegut
+7. The Scarlet Letter by Nathaniel Hawthorne
+8. Frankenstein by Mary Shelley
+9. To Kill a Mockingbird by Harper Lee
+10. Les Misérables by Victor Hugo
+11. The Kite Runner by Khaled Hosseini
+12. Memoirs of a Geisha by Arthur Golden
+13. The Hobbit by J.R.R. Tolkien
+14. The Lord of the Rings by J.R.R. Tolkien
+15. The Silmarillion by J.R.R. Tolkien
+16. The Hunger Games by Suzanne Collins
+17. The Perks of Being a Wallflower by Stephen Chbosky
+18. The Joy Luck Club by Amy Tan
+19. Little Women by Louisa May Alcott
+20. Romeo and Juliet by William Shakespeare
+21. Macbeth by William Shakespeare
+22. The Hours by Michael Cunningham
+23. Burned by Ellen Hopkins
+24. Rose Madder by Stephen King
+25. The Monk by Matthew Lewis
+26. The Unbearable Lightness of Being by Milan Kundera
+27. The Catcher in the Rye by J.D. Salinger
+28. Lolita by Vladimir Nabokov
+29. Wuthering Heights by Emily Brontë
+30. At Swim, Two Boys by Jamie O'Neill
+31. Affinity by Sarah Waters
+32. Fingersmith by Sarah Waters
+33. The Stranger by Albert Camus
+34. The Plague by Albert Camus
+35. The God Delusion by Richard Dawkins
+36. The Watchmen by Alan Moore
+37. The Queen of the Damned by Anne Rice
+38. Midnight Predator by Amelia Atwater-Rhodes
+39. The Anarchist Cookbook by William Powell
+40. The Long Hard Road Out of Hell by Marilyn Manson
+41. Fear and Loathing in Las Vegas by Hunter S. Thompson
+42. The Dirt by Mötley Crüe
+43. I Am America (And So Can You!) by Stephen Colbert
+44. Teaching with Calvin and Hobbes by Linda Holmen
+45. Things Fall Apart by Chinua Achebe
+46. The Canterville Ghost by Oscar Wilde
+47. The Scarlet Pimpernel by Baroness Orczy
+48. Green Eggs and Ham by Dr. Seuss
+49. A Clockwork Orange by Anthony Burgess
+50. Sun Bin's Art of War by Sun Bin

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Nirvana
+2. Eminem
+3. Death
+4. Arch Enemy
+5. Thrice
+6. Soilwork
+7. Katatonia
+8. Amon Amarth
+9. Hypocrisy
+10. Immortal
+11. Sepultura
+12. Paul van Dyk
+13. DJ Shadow
+14. Gnarls Barkley
+15. The Gathering
+16. Sonata Arctica
+17. Róisín Murphy
+18. Avril Lavigne
+19. The Veronicas
+20. P!nk
+21. Sophie Ellis-Bextor
+22. Europe
+23. Pavement
+24. Bruce Springsteen
+25. Shakira
+26. Katy Perry
+27. Lady Gaga
+28. Britney Spears
+29. Rihanna
+30. Paramore
+31. Lily Allen
+32. Kelly Clarkson
+33. Taylor Swift
+34. Selena Gomez & the Scene
+35. McFly
+36. Ozzy Osbourne
+37. Skye Sweetnam
+38. Cascada
+39. Godsmack
+40. Selena Gomez
+41. Soundtrack
+42. Christina Aguilera
+43. Zoé
+44. Kings of Leon
+45. Lady Antebellum
+46. Black Eyed Peas
+47. Slipknot
+48. Nightwish
+49. Ke$ha
+50. Green Day

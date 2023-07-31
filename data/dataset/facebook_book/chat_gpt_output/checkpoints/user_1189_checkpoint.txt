@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. I'll Give You the Sun by Jandy Nelson
+2. The Truth About the Harry Quebert Affair by Joel Dicker
+3. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+4. The Fry Chronicles by Stephen Fry
+5. The Secret History by Donna Tartt
+6. The Hunger Games by Suzanne Collins
+7. The Maze Runner by James Dashner
+8. The Giver by Lois Lowry
+9. The Selection by Kiera Cass
+10. The Mortal Instruments series by Cassandra Clare
+11. The Infernal Devices series by Cassandra Clare
+12. The Iron Fey series by Julie Kagawa
+13. The Wicked Lovely series by Melissa Marr
+14. The Darkest Minds by Alexandra Bracken
+15. The Raven Boys by Maggie Stiefvater
+16. The Scorpio Races by Maggie Stiefvater
+17. The Luxe series by Anna Godbersen
+18. The Gemma Doyle trilogy by Libba Bray
+19. The Diviners series by Libba Bray
+20. The Name of the Wind by Patrick Rothfuss
+21. The Wise Man's Fear by Patrick Rothfuss
+22. The Kingkiller Chronicle series by Patrick Rothfuss
+23. The Night Circus by Erin Morgenstern
+24. The Girl with the Dragon Tattoo by Stieg Larsson
+25. The Millennium series by Stieg Larsson
+26. The Bourne Identity by Robert Ludlum
+27. The Bourne series by Robert Ludlum
+28. The Da Vinci Code by Dan Brown
+29. The Robert Langdon series by Dan Brown
+30. The Hunger Games trilogy by Suzanne Collins
+31. The Divergent trilogy by Veronica Roth
+32. The Maze Runner trilogy by James Dashner
+33. The Percy Jackson and the Olympians series by Rick Riordan
+34. The Heroes of Olympus series by Rick Riordan
+35. The Kane Chronicles series by Rick Riordan
+36. The Secrets of the Immortal Nicholas Flamel series by Michael Scott
+37. The Bartimaeus trilogy by Jonathan Stroud
+38. The Artemis Fowl series by Eoin Colfer
+39. The Hitchhiker's Guide to the Galaxy series by Douglas Adams
+40. The Discworld series by Terry Pratchett
+41. The Lord of the Rings by J.R.R. Tolkien
+42. The Hobbit by J.R.R. Tolkien
+43. The Chronicles of Narnia by C.S. Lewis
+44. The Dark Tower series by Stephen King
+45. The Stand by Stephen King
+46. The Shining by Stephen King
+47. The Girl on the Train by Paula Hawkins
+48. The Millennium series by David Lagercrantz
+49. The Girl Who Takes an Eye for an Eye by David Lagercrantz
+50. The Wise Man's Fear by Patrick Rothfuss

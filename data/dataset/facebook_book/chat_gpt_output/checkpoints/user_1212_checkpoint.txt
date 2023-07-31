@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. Brave New World by Aldous Huxley
+4. The Catcher in the Rye by J.D. Salinger
+5. Crime and Punishment by Fyodor Dostoevsky
+6. The Great Gatsby by F. Scott Fitzgerald
+7. The Grapes of Wrath by John Steinbeck
+8. The Hobbit by J.R.R. Tolkien
+9. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+10. The Lord of the Rings by J.R.R. Tolkien
+11. One Hundred Years of Solitude by Gabriel Garcia Marquez
+12. Pride and Prejudice by Jane Austen
+13. The Picture of Dorian Gray by Oscar Wilde
+14. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+15. The Adventures of Tom Sawyer by Mark Twain
+16. The Brothers Karamazov by Fyodor Dostoevsky
+17. The Call of the Wild by Jack London
+18. The Canterbury Tales by Geoffrey Chaucer
+19. The Divine Comedy by Dante Alighieri
+20. The Grapes of Wrath by John Steinbeck
+21. The Iliad by Homer
+22. The Odyssey by Homer
+23. The Old Man and the Sea by Ernest Hemingway
+24. The Picture of Dorian Gray by Oscar Wilde
+25. The Scarlet Letter by Nathaniel Hawthorne
+26. The Sound and the Fury by William Faulkner
+27. The Sun Also Rises by Ernest Hemingway
+28. The Three Musketeers by Alexandre Dumas
+29. The Time Machine by H.G. Wells
+30. The War of the Worlds by H.G. Wells
+31. The Wind in the Willows by Kenneth Grahame
+32. The Wonderful Wizard of Oz by L. Frank Baum
+33. Treasure Island by Robert Louis Stevenson
+34. Ulysses by James Joyce
+35. Wuthering Heights by Emily Bronte
+36. A Tale of Two Cities by Charles Dickens
+37. Anna Karenina by Leo Tolstoy
+38. Catch-22 by Joseph Heller
+39. Dracula by Bram Stoker
+40. Frankenstein by Mary Shelley
+41. Gulliver's Travels by Jonathan Swift
+42. Jane Eyre by Charlotte Bronte
+43. Little Women by Louisa May Alcott
+44. Madame Bovary by Gustave Flaubert
+45. Middlemarch by George Eliot
+46. Sense and Sensibility by Jane Austen
+47. The Adventures of Huckleberry Finn by Mark Twain
+48. The Count of Monte Cristo by Alexandre Dumas
+49. The Hound of the Baskervilles by Arthur Conan Doyle
+50. The Wise Man's Fear by Patrick Rothfuss

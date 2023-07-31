@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Linkin Park
+2. Backstreet Boys
+3. 12 Stones
+4. Atreyu
+5. Thousand Foot Krutch
+6. Chevelle
+7. P.O.D.
+8. Fort Minor
+9. Switchfoot
+10. Papa Roach
+11. Eminem
+12. The Calling
+13. Super Junior
+14. Westlife
+15. New Kids on the Block
+16. Placebo
+17. The Beatles
+18. Flyleaf
+19. Usher
+20. Matchbox Twenty
+21. Britney Spears
+22. Rihanna
+23. Lady Gaga
+24. Christina Aguilera
+25. Beyoncé
+26. Katy Perry
+27. Taylor Swift
+28. Paramore
+29. Evanescence
+30. Muse
+31. Pink Floyd
+32. Radiohead
+33. Ke$ha
+34. Coldplay
+35. The Killers
+36. Nirvana
+37. Iron Maiden
+38. Led Zeppelin
+39. Metallica
+40. Michael Jackson
+41. Pearl Jam
+42. a-ha
+43. Björk
+44. System of a Down
+45. Daft Punk
+46. Nine Inch Nails
+47. Kelly Clarkson
+48. Avenged Sevenfold
+49. My Chemical Romance
+50. Green Day

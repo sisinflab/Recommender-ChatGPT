@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Porcupine Tree
+2. Radiohead
+3. King Crimson
+4. Os Mutantes
+5. Deep Purple
+6. Muse
+7. Tool
+8. Opeth
+9. Jeff Buckley
+10. Anathema
+11. Silverchair
+12. Genesis
+13. Elliott Smith
+14. Yes
+15. Deftones
+16. Nirvana
+17. Antônio Carlos Jobim
+18. Sonic Youth
+19. Pixies
+20. Emerson, Lake & Palmer
+21. The Smashing Pumpkins
+22. Rush
+23. Frank Zappa
+24. Riverside
+25. Alice in Chains
+26. Blackfield
+27. Grand Funk Railroad
+28. Portishead
+29. Gentle Giant
+30. Mastodon
+31. Pink Floyd
+32. Led Zeppelin
+33. Metallica
+34. Iron Maiden
+35. Pearl Jam
+36. The Beatles
+37. U2
+38. 30 Seconds to Mars
+39. Coldplay
+40. Arctic Monkeys
+41. The Killers
+42. Duran Duran
+43. Blur
+44. Placebo
+45. Nirvana
+46. My Chemical Romance
+47. Green Day
+48. The Cure
+49. Linkin Park
+50. Nine Inch Nails

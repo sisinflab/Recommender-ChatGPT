@@ -1,0 +1,49 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Dead Zone (novel) by Stephen King
+2. Misery (novel) by Stephen King
+3. 'Salem's Lot by Stephen King
+4. Different Seasons by Stephen King
+5. Night Shift (book) by Stephen King
+6. Cujo by Stephen King
+7. The Stand by Stephen King
+8. The Talisman (Scott novel) by Walter Scott
+9. The Girl with the Dragon Tattoo by Stieg Larsson
+10. The Girl Who Played with Fire by Stieg Larsson
+11. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+12. Hannibal (novel) by Thomas Harris
+13. The Silence of the Lambs (novel) by Thomas Harris
+14. Watership Down by Richard Adams
+15. The Hobbit by J.R.R. Tolkien
+16. The Dark Tower: The Gunslinger by Stephen King
+17. It (novel) by Stephen King
+18. The Grapes of Wrath by John Steinbeck
+19. A Civil Action by Jonathan Harr
+20. The Hitchhiker's Guide to the Galaxy (fictional) by Douglas Adams
+21. Catch-22 by Joseph Heller
+22. The Black Prism by Brent Weeks
+23. The Forest of Hands and Teeth by Carrie Ryan
+24. Something Wicked This Way Comes (novel) by Ray Bradbury
+25. Night Watch (Lukyanenko novel) by Sergei Lukyanenko
+26. The Running Man (novel) by Stephen King
+27. Rage: A Love Story by Julie Anne Peters
+28. The Terminal Man by Michael Crichton
+29. Medea (play) by Euripides
+30. The Five People You Meet in Heaven by Mitch Albom
+31. No Country for Old Men by Cormac McCarthy
+32. Running with Scissors (memoir) by Augusten Burroughs
+33. Dry (memoir) by Augusten Burroughs
+34. Gerald's Game by Stephen King
+35. A Wolf at the Table by Augusten Burroughs
+36. Prey (novel) by Michael Crichton
+37. The Funhouse (novel) by Dean Koontz
+38. The Face (novel) by Dean Koontz
+39. Chelsea Chelsea Bang Bang by Chelsea Handler
+40. SuperFreakonomics by Steven Levitt and Stephen Dubner
+41. Freakonomics by Steven Levitt and Stephen Dubner
+42. If Tomorrow Comes by Sidney Sheldon
+43. Twilight (series) by Stephenie Meyer
+44. Next (novel) by Michael Crichton
+45. The Longest Night (Angel novel) by Josepha Sherman
+46. Dark Rivers of the Heart by Dean Koontz
+47. Peeps (nov

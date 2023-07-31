@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Wuthering Heights by Emily Bronte
+2. Pride and Prejudice by Jane Austen
+3. Jane Eyre by Charlotte Bronte
+4. The Catcher in the Rye by J.D. Salinger
+5. 1984 by George Orwell
+6. Animal Farm by George Orwell
+7. The Great Gatsby by F. Scott Fitzgerald
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+10. The Hobbit by J.R.R. Tolkien
+11. The Fellowship of the Ring by J.R.R. Tolkien
+12. The Two Towers by J.R.R. Tolkien
+13. The Return of the King by J.R.R. Tolkien
+14. The Chronicles of Narnia by C.S. Lewis
+15. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+16. The Da Vinci Code by Dan Brown
+17. Angels and Demons by Dan Brown
+18. The Girl with the Dragon Tattoo by Stieg Larsson
+19. The Girl Who Played with Fire by Stieg Larsson
+20. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+21. The Hunger Games by Suzanne Collins
+22. Catching Fire by Suzanne Collins
+23. Mockingjay by Suzanne Collins
+24. The Fault in Our Stars by John Green
+25. Looking for Alaska by John Green
+26. Paper Towns by John Green
+27. The Alchemist by Paulo Coelho
+28. One Hundred Years of Solitude by Gabriel Garcia Marquez
+29. Love in the Time of Cholera by Gabriel Garcia Marquez
+30. The Name of the Rose by Umberto Eco
+31. The Shadow of the Wind by Carlos Ruiz Zafon
+32. The Time Traveler's Wife by Audrey Niffenegger
+33. The Lovely Bones by Alice Sebold
+34. The Road by Cormac McCarthy
+35. The Kite Runner by Khaled Hosseini
+36. A Thousand Splendid Suns by Khaled Hosseini
+37. The Book Thief by Markus Zusak
+38. Life of Pi by Yann Martel
+39. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+40. The Help by Kathryn Stockett
+41. The Secret Life of Bees by Sue Monk Kidd
+42. The Color Purple by Alice Walker
+43. The Handmaid's Tale by Margaret Atwood
+44. The Bell Jar by Sylvia Plath
+45. The Picture of Dorian Gray by Oscar Wilde
+46. The Sun Also Rises by Ernest Hemingway
+47. The Old Man and the Sea by Ernest Hemingway
+48. The Catcher in the Rye by J.D. Salinger
+49. The Gr

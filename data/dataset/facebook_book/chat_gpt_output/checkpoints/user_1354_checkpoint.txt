@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Fault in Our Stars by John Green
+4. The Maze Runner by James Dashner
+5. Percy Jackson and the Olympians by Rick Riordan
+6. The Mortal Instruments by Cassandra Clare
+7. The Selection by Kiera Cass
+8. The Giver by Lois Lowry
+9. The Chronicles of Narnia by C.S. Lewis
+10. The Hobbit by J.R.R. Tolkien
+11. The Book Thief by Markus Zusak
+12. The Perks of Being a Wallflower by Stephen Chbosky
+13. The Sisterhood of the Traveling Pants by Ann Brashares
+14. The Princess Diaries by Meg Cabot
+15. The Lunar Chronicles by Marissa Meyer
+16. The Infernal Devices by Cassandra Clare
+17. The 5th Wave by Rick Yancey
+18. The Darkest Minds by Alexandra Bracken
+19. The Selection by Kiera Cass
+20. The Maze Runner by James Dashner
+21. The Fault in Our Stars by John Green
+22. The Hunger Games by Suzanne Collins
+23. The Mortal Instruments by Cassandra Clare
+24. The Giver by Lois Lowry
+25. The Chronicles of Narnia by C.S. Lewis
+26. The Hobbit by J.R.R. Tolkien
+27. The Book Thief by Markus Zusak
+28. The Perks of Being a Wallflower by Stephen Chbosky
+29. The Sisterhood of the Traveling Pants by Ann Brashares
+30. The Princess Diaries by Meg Cabot
+31. The Lunar Chronicles by Marissa Meyer
+32. The Infernal Devices by Cassandra Clare
+33. The 5th Wave by Rick Yancey
+34. The Darkest Minds by Alexandra Bracken
+35. The Selection by Kiera Cass
+36. The Maze Runner by James Dashner
+37. The Fault in Our Stars by John Green
+38. The Hunger Games by Suzanne Collins
+39. The Mortal Instruments by Cassandra Clare
+40. The Giver by Lois Lowry
+41. The Chronicles of Narnia by C.S. Lewis
+42. The Hobbit by J.R.R. Tolkien
+43. The Book Thief by Markus Zusak
+44. The Perks of Being a Wallflower by Stephen Chbosky
+45. The Sisterhood of the Traveling Pants by Ann Brashares
+46. The Princess Diaries by Meg Cabot
+47. The Lunar Chronicles by Marissa Meyer
+48. The Infernal Devices by Cassandra Clare
+49. The 5th Wave by Rick Yancey
+50. The Darkest Minds by Alexandra Bracken

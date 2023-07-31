@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Book Thief
+2. Les Misérables
+3. The Catcher in the Rye
+4. A Clockwork Orange
+5. The Giver
+6. 1984
+7. The Stranger
+8. Brave New World
+9. Jane Eyre
+10. The Picture of Dorian Gray
+11. The Kite Runner
+12. Nightmares & Dreamscapes
+13. The Outsiders
+14. Lord of the Flies
+15. The Mists of Avalon
+16. Frankenstein
+17. Inferno (Dante)
+18. Divine Comedy
+19. Lolita
+20. The Waste Land
+21. Ulysses (novel)
+22. Brighton Rock (novel)
+23. Dune (novel)
+24. The Queen of the Damned
+25. The Eyes of the Dragon
+26. Isaac Asimov's Robot City
+27. Watchmen
+28. The Hitchhiker's Guide to the Galaxy (novel)
+29. Aeneid
+30. The Watchmen (novel)
+31. Atlas Shrugged
+32. American Gods
+33. Earthsea
+34. PiHKAL
+35. Sun Bin's Art of War
+36. Bone (comics)
+37. Cosmos (book)
+38. Oh, the Places You'll Go!
+39. And the Hippos Were Boiled in Their Tanks
+40. The Fountainhead
+41. Fade (novel)
+42. Ender's Game
+43. A Midsummer Night's Dream
+44. Misery (novel)
+45. Midnight Predator
+46. Interview with the Vampire
+47. Starship Troopers
+48. I Am America (And So Can You!)
+49. Through the Looking-Glass
+50. Diary (novel)

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Maze Runner by James Dashner
+4. The Fault in Our Stars by John Green
+5. Harry Potter and the Philosopher's Stone by J.K. Rowling
+6. The Girl with the Dragon Tattoo by Stieg Larsson
+7. The Girl on the Train by Paula Hawkins
+8. The Help by Kathryn Stockett
+9. The Book Thief by Markus Zusak
+10. The Kite Runner by Khaled Hosseini
+11. The Catcher in the Rye by J.D. Salinger
+12. To Kill a Mockingbird by Harper Lee
+13. The Great Gatsby by F. Scott Fitzgerald
+14. 1984 by George Orwell
+15. Animal Farm by George Orwell
+16. Brave New World by Aldous Huxley
+17. The Handmaid's Tale by Margaret Atwood
+18. The Hobbit by J.R.R. Tolkien
+19. The Fellowship of the Ring by J.R.R. Tolkien
+20. The Two Towers by J.R.R. Tolkien
+21. The Return of the King by J.R.R. Tolkien
+22. The Chronicles of Narnia by C.S. Lewis
+23. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+24. Ender's Game by Orson Scott Card
+25. The Giver by Lois Lowry
+26. The Alchemist by Paulo Coelho
+27. The Picture of Dorian Gray by Oscar Wilde
+28. The Count of Monte Cristo by Alexandre Dumas
+29. Les Misérables by Victor Hugo
+30. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+31. The Complete Works of William Shakespeare by William Shakespeare
+32. The Divine Comedy by Dante Alighieri
+33. The Canterbury Tales by Geoffrey Chaucer
+34. The Iliad by Homer
+35. The Odyssey by Homer
+36. The Aeneid by Virgil
+37. The Inferno by Dante Alighieri
+38. The Republic by Plato
+39. The Prince by Niccolò Machiavelli
+40. The Wealth of Nations by Adam Smith
+41. The Origin of Species by Charles Darwin
+42. The Interpretation of Dreams by Sigmund Freud
+43. The Communist Manifesto by Karl Marx and Friedrich Engels
+44. The Art of War by Sun Tzu
+45. The Tao Te Ching by Lao Tzu
+46. The Bhagavad Gita by Vyasa
+47. The Bible by Various Authors
+48. The Quran by Various Authors
+49. The Book of Mormon by Joseph Smith Jr.
+50. The Teachings of Buddha by Various Authors

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. Sense and Sensibility by Jane Austen
+3. Rebecca by Daphne du Maurier
+4. Jane Eyre by Charlotte Bronte
+5. The Lord of the Rings by J.R.R. Tolkien
+6. The Alchemist by Paulo Coelho
+7. To Kill a Mockingbird by Harper Lee
+8. The Da Vinci Code by Dan Brown
+9. Frankenstein by Mary Shelley
+10. The Scarlet Letter by Nathaniel Hawthorne
+11. Alice's Adventures in Wonderland by Lewis Carroll
+12. A Midsummer Night's Dream by William Shakespeare
+13. The Graveyard Book by Neil Gaiman
+14. Inkspell by Cornelia Funke
+15. Little Women by Louisa May Alcott
+16. His Dark Materials by Philip Pullman
+17. The Forgotten Garden by Kate Morton
+18. Paradise Lost by John Milton
+19. Eagle Strike by Anthony Horowitz
+20. Eldest by Christopher Paolini
+21. Mansfield Park by Jane Austen
+22. Northanger Abbey by Jane Austen
+23. Burned by Ellen Hopkins
+24. The Hatchet by Gary Paulsen
+25. The Boy in the Striped Pyjamas by John Boyne
+26. A Series of Unfortunate Events by Lemony Snicket
+27. The Umbrella Academy by Gerard Way
+28. Never Let Me Go by Kazuo Ishiguro
+29. Cirque du Freak by Darren Shan
+30. Uglies by Scott Westerfeld
+31. Jitterbug Perfume by Tom Robbins
+32. The Last Lecture by Randy Pausch
+33. At the Mountains of Madness by H.P. Lovecraft
+34. Because of Winn-Dixie by Kate DiCamillo
+35. My Name Is Red by Orhan Pamuk
+36. In the Time of the Butterflies by Julia Alvarez
+37. The Bell Jar by Sylvia Plath
+38. Angels & Demons by Dan Brown
+39. The Hunger Games by Suzanne Collins
+40. Brave New World by Aldous Huxley
+41. Lord of the Flies by William Golding
+42. Three by Ted Dekker
+43. The Princess Bride by William Goldman
+44. A Memory of Light by Robert Jordan and Brandon Sanderson
+45. Around the World in Eighty Days by Jules Verne
+46. Inferno by Dante Alighieri
+47. Manga by Various Authors
+48. Diary of a Wimpy Kid by Jeff Kinney
+49. Cat's Cradle by Kurt Vonnegut
+50. Without You by Anthony Rapp

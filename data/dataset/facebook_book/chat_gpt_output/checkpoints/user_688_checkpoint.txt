@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. Slaughterhouse-Five by Kurt Vonnegut
+4. One Hundred Years of Solitude by Gabriel Garcia Marquez
+5. To Kill a Mockingbird by Harper Lee
+6. The Great Gatsby by F. Scott Fitzgerald
+7. Catch-22 by Joseph Heller
+8. The Stranger by Albert Camus
+9. The Road by Cormac McCarthy
+10. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+11. The Picture of Dorian Gray by Oscar Wilde
+12. The Sun Also Rises by Ernest Hemingway
+13. The Brothers Karamazov by Fyodor Dostoevsky
+14. Crime and Punishment by Fyodor Dostoevsky
+15. The Trial by Franz Kafka
+16. The Metamorphosis by Franz Kafka
+17. Lolita by Vladimir Nabokov
+18. The Bell Jar by Sylvia Plath
+19. The Catcher in the Rye by J.D. Salinger
+20. The Sound and the Fury by William Faulkner
+21. Heart of Darkness by Joseph Conrad
+22. Lord of the Flies by William Golding
+23. The Grapes of Wrath by John Steinbeck
+24. The Old Man and the Sea by Ernest Hemingway
+25. The Fountainhead by Ayn Rand
+26. Atlas Shrugged by Ayn Rand
+27. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+28. The Hobbit by J.R.R. Tolkien
+29. The Lord of the Rings by J.R.R. Tolkien
+30. The Chronicles of Narnia by C.S. Lewis
+31. The Da Vinci Code by Dan Brown
+32. The Girl with the Dragon Tattoo by Stieg Larsson
+33. The Hunger Games by Suzanne Collins
+34. The Road by Cormac McCarthy
+35. The Shining by Stephen King
+36. The Stand by Stephen King
+37. The Silence of the Lambs by Thomas Harris
+38. The God of Small Things by Arundhati Roy
+39. The Kite Runner by Khaled Hosseini
+40. The Alchemist by Paulo Coelho
+41. The Name of the Rose by Umberto Eco
+42. The Picture of Dorian Gray by Oscar Wilde
+43. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+44. The Hound of the Baskervilles by Arthur Conan Doyle
+45. The War of the Worlds by H.G. Wells
+46. The Time Machine by H.G. Wells
+47. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+48. The Martian by Andy Weir
+49. The Hunger Games by Suzanne Collins
+50. The

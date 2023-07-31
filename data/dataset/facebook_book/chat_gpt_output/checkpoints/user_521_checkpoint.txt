@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Go Ask Alice by Anonymous
+2. The Catcher in the Rye by J.D. Salinger
+3. The Hunger Games by Suzanne Collins
+4. The Fault in Our Stars by John Green
+5. Looking for Alaska by John Green
+6. Divergent by Veronica Roth
+7. The Maze Runner by James Dashner
+8. The Giver by Lois Lowry
+9. The Perks of Being a Wallflower by Stephen Chbosky
+10. The Book Thief by Markus Zusak
+11. The Girl on the Train by Paula Hawkins
+12. The Lovely Bones by Alice Sebold
+13. The Help by Kathryn Stockett
+14. The Kite Runner by Khaled Hosseini
+15. The Secret Life of Bees by Sue Monk Kidd
+16. The Time Traveler's Wife by Audrey Niffenegger
+17. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+18. The Picture of Dorian Gray by Oscar Wilde
+19. The Great Gatsby by F. Scott Fitzgerald
+20. The Bell Jar by Sylvia Plath
+21. The Handmaid's Tale by Margaret Atwood
+22. 1984 by George Orwell
+23. Animal Farm by George Orwell
+24. Lord of the Flies by William Golding
+25. Brave New World by Aldous Huxley
+26. Fahrenheit 451 by Ray Bradbury
+27. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+28. The Hobbit by J.R.R. Tolkien
+29. The Lord of the Rings by J.R.R. Tolkien
+30. The Chronicles of Narnia by C.S. Lewis
+31. The Dark Tower series by Stephen King
+32. The Stand by Stephen King
+33. It by Stephen King
+34. The Shining by Stephen King
+35. Carrie by Stephen King
+36. Misery by Stephen King
+37. The Silence of the Lambs by Thomas Harris
+38. Red Dragon by Thomas Harris
+39. Hannibal by Thomas Harris
+40. The Bourne Identity by Robert Ludlum
+41. The Da Vinci Code by Dan Brown
+42. Angels & Demons by Dan Brown
+43. Inferno by Dan Brown
+44. Digital Fortress by Dan Brown
+45. The Lost Symbol by Dan Brown
+46. The Girl with the Dragon Tattoo by Stieg Larsson
+47. The Girl Who Played with Fire by Stieg Larsson
+48. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+49. The Bourne Supremacy by Robert Ludlum
+50. The Bourne Ultimatum by Robert Ludlum

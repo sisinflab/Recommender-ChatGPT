@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. Manic Street Preachers
+3. Mansun
+4. Kylie Minogue
+5. Tori Amos
+6. IAMX
+7. Scissor Sisters
+8. Garbage
+9. Sophie Ellis-Bextor
+10. Depeche Mode
+11. Florence + the Machine
+12. The Killers
+13. Kaiser Chiefs
+14. Goldfrapp
+15. Placebo
+16. Shakira
+17. Travis
+18. Modest Mouse
+19. New Order
+20. Oasis
+21. Lady Gaga
+22. The Cure
+23. Electronic
+24. Lily Allen
+25. Third Eye Blind
+26. Girls Aloud
+27. Dannii Minogue
+28. Darren Hayes
+29. Franz Ferdinand
+30. The Dresden Dolls
+31. The Faint
+32. Kate Nash
+33. Madonna
+34. Beyoncé
+35. Pink Floyd
+36. Muse
+37. U2
+38. Nirvana
+39. Led Zeppelin
+40. Metallica
+41. Michael Jackson
+42. Pearl Jam
+43. a-ha
+44. Björk
+45. Nine Inch Nails
+46. Daft Punk
+47. Linkin Park
+48. Kelly Clarkson
+49. Green Day
+50. My Chemical Romance

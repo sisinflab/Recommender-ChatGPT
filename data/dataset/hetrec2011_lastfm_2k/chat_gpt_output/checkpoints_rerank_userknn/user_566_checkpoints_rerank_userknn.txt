@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for them would be:
+
+1. Radiohead
+2. Nirvana
+3. Tool
+4. Metallica
+5. The Beatles
+6. David Bowie
+7. Soundgarden
+8. Foo Fighters
+9. The Doors
+10. Death
+11. Alice in Chains
+12. Pantera
+13. Tom Petty and the Heartbreakers
+14. Eddie Vedder
+15. The National
+16. Crowded House
+17. The Verve
+18. Paradise Lost
+19. Incubus
+20. Depeche Mode
+21. The Cure
+22. Clan of Xymox
+23. Covenant
+24. VNV Nation
+25. The Crüxshadows
+26. Celldweller
+27. Boards of Canada
+28. New Order
+29. Joy Division
+30. Recoil
+31. Martin L. Gore
+32. Bauhaus
+33. Air
+34. Dead Can Dance
+35. Ladytron
+36. Portishead
+37. Massive Attack
+38. Crystal Castles
+39. IAMX
+40. Röyksopp
+41. Yann Tiersen
+42. Keane
+43. Snow Patrol
+44. P!nk
+45. No Doubt
+46. Lady Gaga
+47. Pet Shop Boys
+48. Daft Punk
+49. Alphaville
+50. Kylie Minogue

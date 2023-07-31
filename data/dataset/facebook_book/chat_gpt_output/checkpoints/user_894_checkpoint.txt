@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Jurassic Park by Michael Crichton
+2. The Andromeda Strain by Michael Crichton
+3. The Lost World by Michael Crichton
+4. The Stand by Stephen King
+5. The Shining by Stephen King
+6. The Girl with the Dragon Tattoo by Stieg Larsson
+7. The Da Vinci Code by Dan Brown
+8. Angels & Demons by Dan Brown
+9. The Hunger Games by Suzanne Collins
+10. Catching Fire by Suzanne Collins
+11. Mockingjay by Suzanne Collins
+12. The Maze Runner by James Dashner
+13. The Scorch Trials by James Dashner
+14. The Death Cure by James Dashner
+15. The Bourne Identity by Robert Ludlum
+16. The Bourne Supremacy by Robert Ludlum
+17. The Bourne Ultimatum by Robert Ludlum
+18. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+19. The War of the Worlds by H.G. Wells
+20. The Time Machine by H.G. Wells
+21. The Invisible Man by H.G. Wells
+22. The Island of Dr. Moreau by H.G. Wells
+23. The Call of Cthulhu and Other Weird Stories by H.P. Lovecraft
+24. The Complete Fiction of H.P. Lovecraft by H.P. Lovecraft
+25. The Lord of the Rings by J.R.R. Tolkien
+26. The Hobbit by J.R.R. Tolkien
+27. The Silmarillion by J.R.R. Tolkien
+28. The Chronicles of Narnia by C.S. Lewis
+29. The Dark Tower series by Stephen King
+30. The Stand: The Complete and Uncut Edition by Stephen King
+31. The Tommyknockers by Stephen King
+32. The Talisman by Stephen King and Peter Straub
+33. The Eyes of the Dragon by Stephen King
+34. The Mist by Stephen King
+35. The Running Man by Stephen King
+36. The Long Walk by Stephen King
+37. The Dead Zone by Stephen King
+38. The Green Mile by Stephen King
+39. The Gunslinger by Stephen King
+40. The Drawing of the Three by Stephen King
+41. The Waste Lands by Stephen King
+42. Wizard and Glass by Stephen King
+43. Wolves of the Calla by Stephen King
+44. Song of Susannah by Stephen King
+45. The Dark Tower by Stephen King
+46. The Martian by Andy Weir
+47. Ready Player One by Ernest Cline
+48. Snow Crash by Neal Stephenson
+49. Neuromancer by William Gibson
+50. Do Androids Dream of Electric Sheep? by Philip K. Dick

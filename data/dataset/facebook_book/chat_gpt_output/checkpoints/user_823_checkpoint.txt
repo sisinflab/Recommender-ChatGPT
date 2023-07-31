@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Brave New World by Aldous Huxley
+2. Slaughterhouse-Five by Kurt Vonnegut
+3. The Catcher in the Rye by J.D. Salinger
+4. Fahrenheit 451 by Ray Bradbury
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Bell Jar by Sylvia Plath
+7. A Clockwork Orange by Anthony Burgess
+8. The Road by Cormac McCarthy
+9. The Handmaid's Tale by Margaret Atwood
+10. The Stranger by Albert Camus
+11. The Great Gatsby by F. Scott Fitzgerald
+12. To Kill a Mockingbird by Harper Lee
+13. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+14. The Sun Also Rises by Ernest Hemingway
+15. The Grapes of Wrath by John Steinbeck
+16. The Brothers Karamazov by Fyodor Dostoevsky
+17. The Trial by Franz Kafka
+18. The Sound and the Fury by William Faulkner
+19. The Old Man and the Sea by Ernest Hemingway
+20. The Picture of Dorian Gray by Oscar Wilde
+21. Crime and Punishment by Fyodor Dostoevsky
+22. Lolita by Vladimir Nabokov
+23. Heart of Darkness by Joseph Conrad
+24. The Stranger Beside Me by Ann Rule
+25. The Shining by Stephen King
+26. The Stand by Stephen King
+27. The Girl with the Dragon Tattoo by Stieg Larsson
+28. The Da Vinci Code by Dan Brown
+29. The Hunger Games by Suzanne Collins
+30. The Road Less Traveled by M. Scott Peck
+31. The Alchemist by Paulo Coelho
+32. The Power of Now by Eckhart Tolle
+33. The Secret by Rhonda Byrne
+34. The Celestine Prophecy by James Redfield
+35. The Prophet by Kahlil Gibran
+36. The Tao of Pooh by Benjamin Hoff
+37. The Art of War by Sun Tzu
+38. The Prince by Niccolo Machiavelli
+39. The 48 Laws of Power by Robert Greene
+40. The Lean Startup by Eric Ries
+41. The Innovator's Dilemma by Clayton Christensen
+42. The 7 Habits of Highly Effective People by Stephen Covey
+43. The Four Agreements by Don Miguel Ruiz
+44. The Power of Positive Thinking by Norman Vincent Peale
+45. The Magic of Thinking Big by David J. Schwartz
+46. The 5 Love Languages by Gary Chapman
+47. The Total Money Makeover by Dave Ramsey
+48. The Millionaire Next Door by Thomas J. Stanley and William D. Danko
+49. The Intelligent Investor by Benjamin Graham
+50. The Wise Man's Fear by Patrick Rothfuss

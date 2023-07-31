@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. Brave New World by Aldous Huxley
+3. Ulysses by James Joyce
+4. Nineteen Eighty-Four by George Orwell
+5. Crime and Punishment by Fyodor Dostoyevsky
+6. The Brothers Karamazov by Fyodor Dostoyevsky
+7. Anna Karenina by Leo Tolstoy
+8. War and Peace by Leo Tolstoy
+9. The Handmaid's Tale by Margaret Atwood
+10. To Kill a Mockingbird by Harper Lee
+11. Lolita by Vladimir Nabokov
+12. The Picture of Dorian Gray by Oscar Wilde
+13. Frankenstein by Mary Shelley
+14. Flowers for Algernon by Daniel Keyes
+15. The Old Man and the Sea by Ernest Hemingway
+16. A Clockwork Orange by Anthony Burgess
+17. Lord of the Flies by William Golding
+18. Alice's Adventures in Wonderland by Lewis Carroll
+19. The Stranger by Albert Camus
+20. The Age of Innocence by Edith Wharton
+21. A Room of One's Own by Virginia Woolf
+22. Their Eyes Were Watching God by Zora Neale Hurston
+23. The Princess Bride by William Goldman
+24. The Satanic Verses by Salman Rushdie
+25. Jurassic Park by Michael Crichton
+26. Choke by Chuck Palahniuk
+27. The Kite Runner by Khaled Hosseini
+28. Freakonomics by Steven D. Levitt and Stephen J. Dubner
+29. Thank You for Smoking by Christopher Buckley
+30. Angels & Demons by Dan Brown
+31. Rebecca by Daphne du Maurier
+32. Good Omens by Terry Pratchett and Neil Gaiman
+33. Les Fleurs du mal by Charles Baudelaire
+34. The Zombie Survival Guide by Max Brooks
+35. The Unbearable Lightness of Being by Milan Kundera
+36. The Electric Kool-Aid Acid Test by Tom Wolfe
+37. The Once and Future King by T.H. White
+38. Of Mice and Men by John Steinbeck
+39. A Great and Terrible Beauty by Libba Bray
+40. The Secret by Rhonda Byrne
+41. A Room with a View by E.M. Forster
+42. Sun Bin's Art of War by Sun Bin
+43. Full Dark, No Stars by Stephen King
+44. Darkly Dreaming Dexter by Jeff Lindsay
+45. Titus Groan by Mervyn Peake
+46. Chelsea Chelsea Bang Bang by Chelsea Handler
+47. The Mill on the Floss by George Eliot
+48. Starship Troopers by Robert A. Hein

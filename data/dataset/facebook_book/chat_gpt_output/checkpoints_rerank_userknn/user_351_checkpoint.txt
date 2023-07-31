@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. Wuthering Heights by Emily Bronte
+3. Jane Eyre by Charlotte Bronte
+4. The Secret Garden by Frances Hodgson Burnett
+5. Anne of Green Gables by L.M. Montgomery
+6. Rebecca by Daphne du Maurier
+7. The Tenant of Wildfell Hall by Anne Bronte
+8. Sense and Sensibility by Jane Austen
+9. Emma by Jane Austen
+10. The Scarlet Letter by Nathaniel Hawthorne
+11. Frankenstein by Mary Shelley
+12. The Lord of the Rings by J.R.R. Tolkien
+13. Les Miserables by Victor Hugo
+14. The Giver by Lois Lowry
+15. The Catcher in the Rye by J.D. Salinger
+16. To Kill a Mockingbird by Harper Lee
+17. The Notebook by Nicholas Sparks
+18. The Old Man and the Sea by Ernest Hemingway
+19. The Book Thief by Markus Zusak
+20. The Chosen by Chaim Potok
+21. Catching Fire by Suzanne Collins
+22. The Princess Bride by William Goldman
+23. The Swiss Family Robinson by Johann David Wyss
+24. Mansfield Park by Jane Austen
+25. Great Expectations by Charles Dickens
+26. A Clockwork Orange by Anthony Burgess
+27. Nineteen Eighty-Four by George Orwell
+28. Vanity Fair by William Makepeace Thackeray
+29. The Zombie Survival Guide by Max Brooks
+30. Inferno by Dante Alighieri
+31. Petals on the Wind by V.C. Andrews
+32. Persepolis by Marjane Satrapi
+33. Kane and Abel by Jeffrey Archer
+34. The Umbrella Academy by Gerard Way
+35. Dawn by V.C. Andrews
+36. Because of Winn-Dixie by Kate DiCamillo
+37. Iliad by Homer
+38. A Separate Peace by John Knowles
+39. Shopaholic by Sophie Kinsella
+40. Will Grayson, Will Grayson by John Green and David Levithan
+41. Seeds of Yesterday by V.C. Andrews
+42. Dear John by Nicholas Sparks
+43. Inheritance Cycle by Christopher Paolini
+44. Obsessed by Ted Dekker
+45. Lioness Rampant by Tamora Pierce
+46. Five Point Someone by Chetan Bhagat
+47. Candide by Voltaire
+48. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+49. Alas, Babylon by Pat Frank
+50. Lord of the Flies by William Golding

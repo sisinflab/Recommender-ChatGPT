@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Metallica
+2. Iron Maiden
+3. Avenged Sevenfold
+4. Linkin Park
+5. Bullet for My Valentine
+6. Slipknot
+7. Trivium
+8. Megadeth
+9. Judas Priest
+10. Rage Against the Machine
+11. Three Days Grace
+12. Breaking Benjamin
+13. Papa Roach
+14. Alter Bridge
+15. The Devil Wears Prada
+16. Demon Hunter
+17. As I Lay Dying
+18. Protest The Hero
+19. Stone Sour
+20. The Word Alive
+21. Nightwish
+22. Heaven Shall Burn
+23. Tarja
+24. Simple Plan
+25. Green Day
+26. Nirvana
+27. Story of the Year
+28. The Killers
+29. Muse
+30. Radiohead
+31. Coldplay
+32. Arctic Monkeys
+33. Placebo
+34. My Chemical Romance
+35. All Time Low
+36. P!nk
+37. Kelly Clarkson
+38. Evanescence
+39. Lifehouse
+40. Hoobastank
+41. Paramore
+42. A Day to Remember
+43. Cobra Starship
+44. Suicide Silence
+45. Black Eyed Peas
+46. Michael Jackson
+47. Pearl Jam
+48. Led Zeppelin
+49. Aerosmith
+50. The Beatles

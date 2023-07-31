@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Breaking Benjamin
+2. 30 Seconds to Mars
+3. Red
+4. Seether
+5. Three Days Grace
+6. Skillet
+7. Papa Roach
+8. Evanescence
+9. Linkin Park
+10. My Chemical Romance
+11. Paramore
+12. Flyleaf
+13. The Used
+14. Halestorm
+15. In This Moment
+16. Lacuna Coil
+17. Within Temptation
+18. Nightwish
+19. Epica
+20. Delain
+21. Korn
+22. Slipknot
+23. Disturbed
+24. Godsmack
+25. Shinedown
+26. Theory of a Deadman
+27. Nickelback
+28. Daughtry
+29. Lifehouse
+30. Goo Goo Dolls
+31. Matchbox Twenty
+32. The Fray
+33. OneRepublic
+34. Imagine Dragons
+35. Coldplay
+36. Keane
+37. Maroon 5
+38. The Script
+39. Train
+40. Snow Patrol
+41. The Killers
+42. Muse
+43. Radiohead
+44. Arctic Monkeys
+45. Kings of Leon
+46. The Strokes
+47. Franz Ferdinand
+48. The Black Keys
+49. Vampire Weekend
+50. Foster the People

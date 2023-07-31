@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for them would be:
+
+1. Muse
+2. Nickelback
+3. Lifehouse
+4. Daughtry
+5. Seether
+6. System of a Down
+7. Within Temptation
+8. The Fray
+9. Breaking Benjamin
+10. Linkin Park
+11. Three Days Grace
+12. AFI
+13. The Killers
+14. Snow Patrol
+15. Placebo
+16. Simple Plan
+17. The Used
+18. 30 Seconds to Mars
+19. Alter Bridge
+20. Flyleaf
+21. Dashboard Confessional
+22. Yellowcard
+23. Anahí
+24. Katy Perry
+25. Lady Gaga
+26. Bruno Mars
+27. Christina Aguilera
+28. Britney Spears
+29. Pixie Lott
+30. Ke$ha
+31. Taylor Swift
+32. Florence + the Machine
+33. Metallica
+34. Laura Pausini
+35. The All-American Rejects
+36. Glee Cast
+37. Timbaland
+38. Hinder
+39. Emilíana Torrini
+40. Justin Timberlake
+41. OneRepublic
+42. Jennifer Lopez
+43. David Archuleta
+44. Detonautas Roque Clube
+45. Black Eyed Peas
+46. Stereophonics
+47. Beyoncé
+48. Kat DeLuna
+49. Paramore
+50. Jimmy Eat World

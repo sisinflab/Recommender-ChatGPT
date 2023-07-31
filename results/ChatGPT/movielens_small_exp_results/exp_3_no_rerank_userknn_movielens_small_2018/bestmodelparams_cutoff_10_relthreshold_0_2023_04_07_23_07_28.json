@@ -1,0 +1,15 @@
+[
+    {
+        "default_validation_metric": "nDCG",
+        "default_validation_cutoff": 10,
+        "rel_threshold": 0
+    },
+    {
+        "meta": {},
+        "recommender": "no_rerank_userknn_performance",
+        "configuration": {
+            "path": "../../data/dataset/ml_small_2018/chat_gpt_output/no_rerank_userknn_performance.tsv",
+            "name": "no_rerank_userknn_performance"
+        }
+    }
+]

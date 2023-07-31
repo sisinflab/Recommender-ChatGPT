@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Factotum by Charles Bukowski
+2. Love in the Time of Cholera by Gabriel García Márquez
+3. The Old Man and the Sea by Ernest Hemingway
+4. Crime and Punishment by Fyodor Dostoevsky
+5. The Picture of Dorian Gray by Oscar Wilde
+6. Lolita by Vladimir Nabokov
+7. The Catcher in the Rye by J.D. Salinger
+8. The Stranger by Albert Camus
+9. Brave New World by Aldous Huxley
+10. Slaughterhouse-Five by Kurt Vonnegut
+11. The Road by Cormac McCarthy
+12. The Bell Jar by Sylvia Plath
+13. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+14. The Brothers Karamazov by Fyodor Dostoevsky
+15. The Trial by Franz Kafka
+16. The Sun Also Rises by Ernest Hemingway
+17. The Great Gatsby by F. Scott Fitzgerald
+18. To Kill a Mockingbird by Harper Lee
+19. Animal Farm by George Orwell
+20. 1984 by George Orwell
+21. The Hobbit by J.R.R. Tolkien
+22. The Lord of the Rings by J.R.R. Tolkien
+23. The Chronicles of Narnia by C.S. Lewis
+24. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+25. The Martian Chronicles by Ray Bradbury
+26. Fahrenheit 451 by Ray Bradbury
+27. The Shining by Stephen King
+28. The Stand by Stephen King
+29. The Dark Tower series by Stephen King
+30. The Girl with the Dragon Tattoo by Stieg Larsson
+31. The Hunger Games by Suzanne Collins
+32. Catching Fire by Suzanne Collins
+33. Mockingjay by Suzanne Collins
+34. The Da Vinci Code by Dan Brown
+35. Angels and Demons by Dan Brown
+36. Inferno by Dan Brown
+37. The Name of the Rose by Umberto Eco
+38. The Picture of Dorian Gray by Oscar Wilde
+39. The Importance of Being Earnest by Oscar Wilde
+40. The Canterbury Tales by Geoffrey Chaucer
+41. The Divine Comedy by Dante Alighieri
+42. The Iliad by Homer
+43. The Odyssey by Homer
+44. The Aeneid by Virgil
+45. The Metamorphoses by Ovid
+46. The Art of War by Sun Tzu
+47. The Prince by Niccolò Machiavelli
+48. Meditations by Marcus Aurelius
+49. The Republic by Plato
+50. The Symposium by Plato

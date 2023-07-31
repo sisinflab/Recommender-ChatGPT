@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Harry Potter
+2. The Lord of the Rings
+3. The Da Vinci Code
+4. The Bourne Supremacy
+5. The Count of Monte Cristo
+6. The Picture of Dorian Gray
+7. The Brothers Karamazov
+8. Fahrenheit 451
+9. The Prestige
+10. A Clockwork Orange
+11. Les Misérables
+12. To Kill a Mockingbird
+13. Heart of Darkness
+14. Paradise Lost
+15. War and Peace
+16. The Kite Runner
+17. Wuthering Heights
+18. The Canterbury Tales
+19. The Iliad
+20. Thus Spoke Zarathustra
+21. The Little Prince
+22. A Wrinkle in Time
+23. The Curious Incident of the Dog in the Night-Time
+24. To the Lighthouse
+25. Leaving a Doll's House: A Memoir
+26. Emma (novel)
+27. The Hardy Boys
+28. Nancy Drew
+29. Garfield
+30. Asterix the Gaul
+31. Walden
+32. Gray's Anatomy
+33. The Merchant of Venice
+34. The Hamlet
+35. The Seven Habits of Highly Effective People
+36. Memories of My Melancholy Whores
+37. The Fountainhead
+38. Five Point Someone
+39. A Room of One's Own
+40. The Lost Hero
+41. Digital Fortress
+42. Oedipus the King
+43. Avalon High
+44. Don Quixote
+45. Lost and Found (book)
+46. When You Are Engulfed in Flames
+47. Ready or Not (novel)
+48. Macbeth
+49. Deception Point
+50. Mist (novel)

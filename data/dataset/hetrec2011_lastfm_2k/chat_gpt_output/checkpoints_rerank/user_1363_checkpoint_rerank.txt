@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. All Time Low
+2. Paramore
+3. A Day to Remember
+4. The Used
+5. Forever the Sickest Kids
+6. Cobra Starship
+7. Fall Out Boy
+8. Panic! At the Disco
+9. Good Charlotte
+10. The Academy Is...
+11. The Red Jumpsuit Apparatus
+12. Breathe Carolina
+13. Attack Attack!
+14. Asking Alexandria
+15. Emarosa
+16. My Chemical Romance
+17. Funeral for a Friend
+18. Sum 41
+19. Alesana
+20. Theatre of Tragedy
+21. Leaves' Eyes
+22. Armin van Buuren
+23. The xx
+24. Ellie Goulding
+25. Britney Spears
+26. Lady Gaga
+27. Christina Aguilera
+28. Madonna
+29. Rihanna
+30. Shakira
+31. Avril Lavigne
+32. Katy Perry
+33. Taylor Swift
+34. Evanescence
+35. Beyoncé
+36. U2
+37. 30 Seconds to Mars
+38. Muse
+39. Pink Floyd
+40. Kylie Minogue
+41. Miley Cyrus
+42. Radiohead
+43. Ke$ha
+44. Duran Duran
+45. Coldplay
+46. Blur
+47. Arctic Monkeys
+48. Placebo
+49. The Killers
+50. Nirvana

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Eldest by Christopher Paolini
+2. The Hunger Games by Suzanne Collins
+3. City of Bones by Cassandra Clare
+4. The Maze Runner by James Dashner
+5. Divergent by Veronica Roth
+6. The Lightning Thief by Rick Riordan
+7. The Giver by Lois Lowry
+8. The Mortal Instruments series by Cassandra Clare
+9. The Fault in Our Stars by John Green
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Hobbit by J.R.R. Tolkien
+12. The Chronicles of Narnia by C.S. Lewis
+13. The Da Vinci Code by Dan Brown
+14. The Girl with the Dragon Tattoo by Stieg Larsson
+15. The Girl on the Train by Paula Hawkins
+16. The Help by Kathryn Stockett
+17. The Kite Runner by Khaled Hosseini
+18. The Book Thief by Markus Zusak
+19. The Catcher in the Rye by J.D. Salinger
+20. To Kill a Mockingbird by Harper Lee
+21. The Great Gatsby by F. Scott Fitzgerald
+22. 1984 by George Orwell
+23. Animal Farm by George Orwell
+24. Brave New World by Aldous Huxley
+25. Fahrenheit 451 by Ray Bradbury
+26. The Handmaid's Tale by Margaret Atwood
+27. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+28. The Martian by Andy Weir
+29. The Name of the Wind by Patrick Rothfuss
+30. The Nightingale by Kristin Hannah
+31. The Picture of Dorian Gray by Oscar Wilde
+32. The Secret History by Donna Tartt
+33. The Shadow of the Wind by Carlos Ruiz Zafón
+34. The Stand by Stephen King
+35. The Time Traveler's Wife by Audrey Niffenegger
+36. The War of the Worlds by H.G. Wells
+37. The Wind-Up Bird Chronicle by Haruki Murakami
+38. The Wonderful Wizard of Oz by L. Frank Baum
+39. A Wrinkle in Time by Madeleine L'Engle
+40. And Then There Were None by Agatha Christie
+41. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+42. The Complete Stories and Poems by Edgar Allan Poe
+43. The Complete Works of William Shakespeare by William Shakespeare
+44. The Divine Comedy by Dante Alighieri
+45. The Odyssey by Homer
+46. The Iliad by Homer
+47. The Republic by Plato
+48. The Art of War by Sun Tzu
+49. The Prince by Niccolò Machiavelli
+50. The Wealth of Nations by Adam Smith

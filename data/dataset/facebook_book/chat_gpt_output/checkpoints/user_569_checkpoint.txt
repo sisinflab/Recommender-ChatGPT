@@ -1,0 +1,49 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Sapiens: A Brief History of Humankind by Yuval Noah Harari
+3. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+4. The Catcher in the Rye by J.D. Salinger
+5. The Great Gatsby by F. Scott Fitzgerald
+6. The Picture of Dorian Gray by Oscar Wilde
+7. The Hobbit by J.R.R. Tolkien
+8. The Chronicles of Narnia by C.S. Lewis
+9. The Hunger Games by Suzanne Collins
+10. The Da Vinci Code by Dan Brown
+11. The Girl with the Dragon Tattoo by Stieg Larsson
+12. The Alchemist by Paulo Coelho
+13. The Road by Cormac McCarthy
+14. The Kite Runner by Khaled Hosseini
+15. The Book Thief by Markus Zusak
+16. The Fault in Our Stars by John Green
+17. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+18. The Giver by Lois Lowry
+19. The Outsiders by S.E. Hinton
+20. The Perks of Being a Wallflower by Stephen Chbosky
+21. The Secret History by Donna Tartt
+22. The Bell Jar by Sylvia Plath
+23. The Sun Also Rises by Ernest Hemingway
+24. The Old Man and the Sea by Ernest Hemingway
+25. Animal Farm by George Orwell
+26. Lord of the Flies by William Golding
+27. One Hundred Years of Solitude by Gabriel Garcia Marquez
+28. Crime and Punishment by Fyodor Dostoevsky
+29. The Brothers Karamazov by Fyodor Dostoevsky
+30. The Picture of Dorian Gray by Oscar Wilde
+31. The Importance of Being Earnest by Oscar Wilde
+32. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+33. The Hound of the Baskervilles by Arthur Conan Doyle
+34. The War of the Worlds by H.G. Wells
+35. The Time Machine by H.G. Wells
+36. The Invisible Man by H.G. Wells
+37. The Island of Dr. Moreau by H.G. Wells
+38. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+39. Treasure Island by Robert Louis Stevenson
+40. The Adventures of Tom Sawyer by Mark Twain
+41. The Adventures of Huckleberry Finn by Mark Twain
+42. The Count of Monte Cristo by Alexandre Dumas
+43. Les Miserables by Victor Hugo
+44. The Three Musketeers by Alexandre Dumas
+45. The Phantom of the Opera by Gaston Leroux
+46. Dracula by Bram Stoker
+47. The Picture of

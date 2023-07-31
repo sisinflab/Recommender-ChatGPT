@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Fault in Our Stars by John Green
+3. The Hunger Games by Suzanne Collins
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Pride and Prejudice by Jane Austen
+6. The Catcher in the Rye by J.D. Salinger
+7. 1984 by George Orwell
+8. Animal Farm by George Orwell
+9. Lord of the Flies by William Golding
+10. The Hobbit by J.R.R. Tolkien
+11. The Lord of the Rings by J.R.R. Tolkien
+12. The Chronicles of Narnia by C.S. Lewis
+13. Harry Potter series by J.K. Rowling
+14. The Book Thief by Markus Zusak
+15. The Perks of Being a Wallflower by Stephen Chbosky
+16. The Outsiders by S.E. Hinton
+17. The Secret Life of Bees by Sue Monk Kidd
+18. The Help by Kathryn Stockett
+19. The Color Purple by Alice Walker
+20. The Kite Runner by Khaled Hosseini
+21. A Thousand Splendid Suns by Khaled Hosseini
+22. The Alchemist by Paulo Coelho
+23. The Girl with the Dragon Tattoo by Stieg Larsson
+24. The Girl on the Train by Paula Hawkins
+25. Gone Girl by Gillian Flynn
+26. The Da Vinci Code by Dan Brown
+27. Angels and Demons by Dan Brown
+28. The Bourne Identity by Robert Ludlum
+29. The Hunger Games trilogy by Suzanne Collins
+30. Divergent by Veronica Roth
+31. The Maze Runner by James Dashner
+32. The Selection by Kiera Cass
+33. The Fault in Our Stars by John Green
+34. Looking for Alaska by John Green
+35. Paper Towns by John Green
+36. Eleanor and Park by Rainbow Rowell
+37. Fangirl by Rainbow Rowell
+38. The Nightingale by Kristin Hannah
+39. All the Light We Cannot See by Anthony Doerr
+40. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+41. The Glass Castle by Jeannette Walls
+42. Educated by Tara Westover
+43. The Handmaid's Tale by Margaret Atwood
+44. The Testaments by Margaret Atwood
+45. The Water Dancer by Ta-Nehisi Coates
+46. The Nickel Boys by Colson Whitehead
+47. The Dutch House by Ann Patchett
+48. The Overstory by Richard Powers
+49. The Silent Patient by Alex Michaelides
+50. Where the Crawdads Sing by Delia Owens

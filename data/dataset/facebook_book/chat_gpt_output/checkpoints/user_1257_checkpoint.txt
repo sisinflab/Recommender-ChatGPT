@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Great Gatsby by F. Scott Fitzgerald
+3. Animal Farm by George Orwell
+4. Lord of the Flies by William Golding
+5. The Bell Jar by Sylvia Plath
+6. One Hundred Years of Solitude by Gabriel Garcia Marquez
+7. The Picture of Dorian Gray by Oscar Wilde
+8. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+9. Slaughterhouse-Five by Kurt Vonnegut
+10. The Road by Cormac McCarthy
+11. The Handmaid's Tale by Margaret Atwood
+12. The Sun Also Rises by Ernest Hemingway
+13. The Brothers Karamazov by Fyodor Dostoevsky
+14. Crime and Punishment by Fyodor Dostoevsky
+15. The Trial by Franz Kafka
+16. The Metamorphosis by Franz Kafka
+17. Heart of Darkness by Joseph Conrad
+18. The Old Man and the Sea by Ernest Hemingway
+19. The Stranger by Albert Camus
+20. The Plague by Albert Camus
+21. The Catch-22 by Joseph Heller
+22. Catcher in the Rye by J.D. Salinger
+23. Harry Potter and the Philosopher's Stone by J.K. Rowling
+24. Harry Potter and the Chamber of Secrets by J.K. Rowling
+25. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+26. Harry Potter and the Goblet of Fire by J.K. Rowling
+27. Harry Potter and the Order of Phoenix by J.K. Rowling
+28. Harry Potter and the Half-Blood Prince by J.K. Rowling
+29. Harry Potter and the Deathly Hallows by J.K. Rowling
+30. The Giver by Lois Lowry
+31. Gathering Blue by Lois Lowry
+32. Messenger by Lois Lowry
+33. Son by Lois Lowry
+34. The Maze Runner by James Dashner
+35. The Hunger Games by Suzanne Collins
+36. Divergent by Veronica Roth
+37. The Fault in Our Stars by John Green
+38. Looking for Alaska by John Green
+39. Paper Towns by John Green
+40. The Da Vinci Code by Dan Brown
+41. Angels and Demons by Dan Brown
+42. Inferno by Dan Brown
+43. The Fountainhead by Ayn Rand
+44. Atlas Shrugged by Ayn Rand
+45. Frankenstein by Mary Shelley
+46. Dracula by Bram Stoker
+47. The War of the Worlds by H.G. Wells
+48. Brave New World by Aldous Huxley
+49. 1984 by George Orwell
+50. Cosmos by Carl Sagan

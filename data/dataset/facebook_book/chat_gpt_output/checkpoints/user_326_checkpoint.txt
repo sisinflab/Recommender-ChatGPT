@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Maze Runner by James Dashner
+4. The Giver by Lois Lowry
+5. The Fault in Our Stars by John Green
+6. The Book Thief by Markus Zusak
+7. The Girl with the Dragon Tattoo by Stieg Larsson
+8. The Da Vinci Code by Dan Brown
+9. The Catcher in the Rye by J.D. Salinger
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Hobbit by J.R.R. Tolkien
+12. The Chronicles of Narnia by C.S. Lewis
+13. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+14. The Shining by Stephen King
+15. The Stand by Stephen King
+16. The Dark Tower series by Stephen King
+17. The Silence of the Lambs by Thomas Harris
+18. The Bourne Identity by Robert Ludlum
+19. The Girl on the Train by Paula Hawkins
+20. Gone Girl by Gillian Flynn
+21. The Lovely Bones by Alice Sebold
+22. The Help by Kathryn Stockett
+23. The Secret Life of Bees by Sue Monk Kidd
+24. The Color Purple by Alice Walker
+25. The Joy Luck Club by Amy Tan
+26. The Kite Runner by Khaled Hosseini
+27. A Thousand Splendid Suns by Khaled Hosseini
+28. The Alchemist by Paulo Coelho
+29. The Picture of Dorian Gray by Oscar Wilde
+30. The Great Gatsby by F. Scott Fitzgerald
+31. 1984 by George Orwell
+32. Animal Farm by George Orwell
+33. Brave New World by Aldous Huxley
+34. Fahrenheit 451 by Ray Bradbury
+35. The Handmaid's Tale by Margaret Atwood
+36. The Road by Cormac McCarthy
+37. The Martian by Andy Weir
+38. Ender's Game by Orson Scott Card
+39. Ready Player One by Ernest Cline
+40. The Name of the Wind by Patrick Rothfuss
+41. The Lies of Locke Lamora by Scott Lynch
+42. Mistborn by Brandon Sanderson
+43. The Way of Kings by Brandon Sanderson
+44. The Kingkiller Chronicle by Patrick Rothfuss
+45. The Stormlight Archive by Brandon Sanderson
+46. The First Law Trilogy by Joe Abercrombie
+47. The Blade Itself by Joe Abercrombie
+48. The Lies of Locke Lamora by Scott Lynch
+49. The Dresden Files by Jim Butcher
+50. The Wheel of Time by Robert Jordan

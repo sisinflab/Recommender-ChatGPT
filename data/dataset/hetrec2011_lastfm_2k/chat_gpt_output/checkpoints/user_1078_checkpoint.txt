@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. AC/DC
+2. Van Halen
+3. Judas Priest
+4. Metallica
+5. Megadeth
+6. Slayer
+7. Anthrax
+8. Testament
+9. Exodus
+10. Overkill
+11. Kreator
+12. Sodom
+13. Destruction
+14. Death Angel
+15. Sepultura
+16. Pantera
+17. Black Label Society
+18. Down
+19. Corrosion of Conformity
+20. Machine Head
+21. Lamb of God
+22. Trivium
+23. Bullet for My Valentine
+24. Avenged Sevenfold
+25. Five Finger Death Punch
+26. Disturbed
+27. Slipknot
+28. Korn
+29. System of a Down
+30. Tool
+31. Alice in Chains
+32. Soundgarden
+33. Pearl Jam
+34. Nirvana
+35. Stone Temple Pilots
+36. Guns N' Roses (Appetite for Destruction album)
+37. Skid Row (Slave to the Grind album)
+38. Mötley Crüe (Shout at the Devil album)
+39. Iron Maiden (The Number of the Beast album)
+40. Ozzy Osbourne (Blizzard of Ozz album)
+41. Black Sabbath (Paranoid album)
+42. Led Zeppelin
+43. Deep Purple
+44. Rainbow
+45. Dio
+46. Scorpions
+47. Whitesnake (1987 album)
+48. Bon Jovi
+49. Def Leppard
+50. Kiss

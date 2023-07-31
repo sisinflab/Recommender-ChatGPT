@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Harry Potter by J.K. Rowling
+2. The Hunger Games by Suzanne Collins
+3. The Lord of the Rings by J.R.R. Tolkien
+4. Twilight (series) by Stephenie Meyer
+5. Angels & Demons by Dan Brown
+6. The Da Vinci Code by Dan Brown
+7. His Dark Materials by Philip Pullman
+8. Memoirs of a Geisha by Arthur Golden
+9. The Princess Bride by William Goldman
+10. Flowers in the Attic by V.C. Andrews
+11. Nancy Drew by Carolyn Keene
+12. The Hardy Boys by Franklin W. Dixon
+13. Adventures of Huckleberry Finn by Mark Twain
+14. To Kill a Mockingbird by Harper Lee
+15. Romeo and Juliet by William Shakespeare
+16. Les Misérables by Victor Hugo
+17. Alice's Adventures in Wonderland by Lewis Carroll
+18. The Bourne Supremacy by Robert Ludlum
+19. The Devil Wears Prada by Lauren Weisberger
+20. Great Expectations by Charles Dickens
+21. The Alchemist by Paulo Coelho
+22. A Thousand Splendid Suns by Khaled Hosseini
+23. Tuesdays with Morrie by Mitch Albom
+24. My Sister's Keeper by Jodi Picoult
+25. Veronika Decides to Die by Paulo Coelho
+26. Have a Little Faith by Mitch Albom
+27. Inferno by Dante Alighieri
+28. The Outsiders by S.E. Hinton
+29. Inkheart by Cornelia Funke
+30. Never Let Me Go by Kazuo Ishiguro
+31. Jitterbug Perfume by Tom Robbins
+32. The Phantom Tollbooth by Norton Juster
+33. Where the Wild Things Are by Maurice Sendak
+34. Burned by Ellen Hopkins
+35. Digital Fortress by Dan Brown
+36. The Lovely Bones by Alice Sebold
+37. Brisingr by Christopher Paolini
+38. Glass by Ellen Hopkins
+39. One Night @ the Call Center by Chetan Bhagat
+40. Horrible Histories (book series) by Terry Deary and Peter Hepplewhite
+41. Malory Towers by Enid Blyton
+42. The Famous Five (series) by Enid Blyton
+43. Dark Prince by Christine Feehan
+44. Johnny Tremain by Esther Forbes
+45. At the Mountains of Madness by H.P. Lovecraft
+46. For One More Day by Mitch Albom
+47. Jinx by Meg Cabot
+48. Johnny the Homicidal Maniac by Jhonen Vasquez
+49. Love Story by Erich Segal
+50. Quran by Anonymous

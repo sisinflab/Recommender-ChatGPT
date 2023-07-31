@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter and the Philosopher's Stone by J.K. Rowling
+2. Harry Potter and the Chamber of Secrets by J.K. Rowling
+3. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+4. Harry Potter and the Goblet of Fire by J.K. Rowling
+5. Harry Potter and the Order of Phoenix by J.K. Rowling
+6. Harry Potter and the Half-Blood Prince by J.K. Rowling
+7. Harry Potter and the Deathly Hallows by J.K. Rowling
+8. The Hobbit by J.R.R. Tolkien
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Hunger Games by Suzanne Collins
+11. Catching Fire by Suzanne Collins
+12. Mockingjay by Suzanne Collins
+13. Ender's Game by Orson Scott Card
+14. The Da Vinci Code by Dan Brown
+15. Angels & Demons by Dan Brown
+16. The Alchemist by Paulo Coelho
+17. The Lovely Bones by Alice Sebold
+18. Dracula by Bram Stoker
+19. Frankenstein by Mary Shelley
+20. Nineteen Eighty-Four by George Orwell
+21. Alice's Adventures in Wonderland by Lewis Carroll
+22. The Looking Glass Wars by Frank Beddor
+23. The Jungle Book by Rudyard Kipling
+24. The Cat Who Saw Red by Lilian Jackson Braun
+25. Ella Enchanted by Gail Carson Levine
+26. The Time Traveler's Wife by Audrey Niffenegger
+27. Divine Comedy by Dante Alighieri
+28. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+29. Dune by Frank Herbert
+30. The Tenth Circle by Jodi Picoult
+31. Northanger Abbey by Jane Austen
+32. Sense and Sensibility by Jane Austen
+33. The Child Thief by Brom
+34. The Last Battle by C.S. Lewis
+35. The Lion, the Witch and the Wardrobe by C.S. Lewis
+36. The Voyage of the Dawn Treader by C.S. Lewis
+37. Skeleton Creek by Patrick Carman
+38. Inkheart by Cornelia Funke
+39. Inkspell by Cornelia Funke
+40. Inkdeath by Cornelia Funke
+41. Percy Jackson & the Olympians by Rick Riordan
+42. Eragon by Christopher Paolini
+43. Guardians of Ga'Hoole: The Capture by Kathryn Lasky
+44. Cirque du Freak by Darren Shan
+45. Manga by Various Authors
+46. Peeps by Scott Westerfeld
+47. The Pirate by Harold Robbins
+48. So Long, and Thanks for All the Fish by Douglas Adams
+49. Naked by David Sedaris
+50. Thirteen Reasons Why

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Menzingers
+2. Frank Turner
+3. The Lawrence Arms
+4. Hot Water Music
+5. The Bouncing Souls
+6. Alkaline Trio
+7. The Loved Ones
+8. The Weakerthans
+9. The Flatliners
+10. The Hold Steady
+11. Lucero
+12. Chuck Ragan
+13. Gaslight Anthem
+14. Against Me!
+15. The Replacements
+16. Millencolin
+17. The Postal Service
+18. Bruce Springsteen
+19. Stars
+20. Pennywise
+21. The Spill Canvas
+22. Foo Fighters
+23. Queens of the Stone Age
+24. Soundgarden
+25. Alice in Chains
+26. Stone Temple Pilots
+27. Pearl Jam
+28. Nirvana
+29. Red Hot Chili Peppers
+30. Radiohead
+31. Muse
+32. U2
+33. 30 Seconds to Mars
+34. Green Day
+35. Blink-182
+36. My Chemical Romance
+37. The Killers
+38. Arctic Monkeys
+39. Oasis
+40. Blur
+41. Coldplay
+42. The Strokes
+43. Vampire Weekend
+44. The White Stripes
+45. The Black Keys
+46. Franz Ferdinand
+47. Interpol
+48. Yeah Yeah Yeahs
+49. The Libertines
+50. Bloc Party

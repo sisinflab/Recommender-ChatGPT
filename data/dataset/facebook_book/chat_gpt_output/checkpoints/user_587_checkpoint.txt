@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. Brave New World by Aldous Huxley
+4. Lord of the Flies by William Golding
+5. The Handmaid's Tale by Margaret Atwood
+6. Fahrenheit 451 by Ray Bradbury
+7. The Road by Cormac McCarthy
+8. Slaughterhouse-Five by Kurt Vonnegut
+9. The Stranger by Albert Camus
+10. One Hundred Years of Solitude by Gabriel Garcia Marquez
+11. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+12. The Sun Also Rises by Ernest Hemingway
+13. The Old Man and the Sea by Ernest Hemingway
+14. The Sound and the Fury by William Faulkner
+15. As I Lay Dying by William Faulkner
+16. The Catch-22 by Joseph Heller
+17. Catcher in the Rye by J.D. Salinger
+18. The Great Gatsby by F. Scott Fitzgerald
+19. The Bell Jar by Sylvia Plath
+20. To Kill a Mockingbird by Harper Lee
+21. The Hobbit by J.R.R. Tolkien
+22. The Lord of the Rings by J.R.R. Tolkien
+23. The Silmarillion by J.R.R. Tolkien
+24. The Chronicles of Narnia by C.S. Lewis
+25. The Dark Tower series by Stephen King
+26. The Shining by Stephen King
+27. The Stand by Stephen King
+28. The Gunslinger by Stephen King
+29. The Talisman by Stephen King and Peter Straub
+30. The Name of the Wind by Patrick Rothfuss
+31. The Wise Man's Fear by Patrick Rothfuss
+32. The Lies of Locke Lamora by Scott Lynch
+33. The Blade Itself by Joe Abercrombie
+34. The Way of Kings by Brandon Sanderson
+35. Mistborn by Brandon Sanderson
+36. The Final Empire by Brandon Sanderson
+37. The Well of Ascension by Brandon Sanderson
+38. The Hero of Ages by Brandon Sanderson
+39. The Stormlight Archive by Brandon Sanderson
+40. The Kingkiller Chronicle by Patrick Rothfuss
+41. The Dresden Files by Jim Butcher
+42. American Gods by Neil Gaiman
+43. Neverwhere by Neil Gaiman
+44. The Graveyard Book by Neil Gaiman
+45. The Ocean at the End of the Lane by Neil Gaiman
+46. The Martian by Andy Weir
+47. Ready Player One by Ernest Cline
+48. Snow Crash by Neal Stephenson
+49. Neuromancer by William Gibson
+50. Do Androids Dream of Electric Sheep? by Philip K. Dick

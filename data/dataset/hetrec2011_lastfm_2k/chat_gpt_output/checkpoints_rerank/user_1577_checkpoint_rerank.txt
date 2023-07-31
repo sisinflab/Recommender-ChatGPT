@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Mariah Carey
+2. Westlife
+3. *NSYNC
+4. Cascada
+5. L'Arc~en~Ciel
+6. t.A.T.u.
+7. Leona Lewis
+8. Jordin Sparks
+9. Backstreet Boys
+10. Ke$ha
+11. Beyoncé
+12. Jennifer Lopez
+13. The Pussycat Dolls
+14. Britney Spears
+15. Rihanna
+16. Madonna
+17. Taylor Swift
+18. Enrique Iglesias
+19. David Archuleta
+20. T.I.
+21. Cheryl Cole
+22. Katy Perry
+23. Tokio Hotel
+24. Eminem
+25. Mike Posner
+26. Lady Gaga
+27. Christina Aguilera
+28. Beyoncé
+29. Pink Floyd
+30. Muse
+31. U2
+32. 30 Seconds to Mars
+33. Radiohead
+34. Coldplay
+35. Nirvana
+36. Led Zeppelin
+37. Metallica
+38. Michael Jackson
+39. Pearl Jam
+40. Björk
+41. Depeche Mode
+42. Shakira
+43. The Beatles
+44. Avril Lavigne
+45. Evanescence
+46. Glee Cast
+47. Duran Duran
+48. Blur
+49. Arctic Monkeys
+50. Placebo

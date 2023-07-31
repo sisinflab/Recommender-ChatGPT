@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Glass (novel) by Ellen Hopkins
+2. Identical (novel) by Ellen Hopkins
+3. Tricks (novel) by Ellen Hopkins
+4. Fallout (novel) by Ellen Hopkins
+5. Perfect (novel) by Ellen Hopkins
+6. Burned (novel) by Ellen Hopkins
+7. Impulse (novel) by Ellen Hopkins
+8. Tilt (novel) by Ellen Hopkins
+9. Smoke (novel) by Ellen Hopkins
+10. Cut (novel) by Patricia McCormick
+11. Sold by Patricia McCormick
+12. Speak by Laurie Halse Anderson
+13. Wintergirls by Laurie Halse Anderson
+14. Thirteen Reasons Why by Jay Asher
+15. The Perks of Being a Wallflower by Stephen Chbosky
+16. Looking for Alaska by John Green
+17. Paper Towns by John Green
+18. An Abundance of Katherines by John Green
+19. The Fault in Our Stars by John Green
+20. It's Kind of a Funny Story by Ned Vizzini
+21. My Sister's Keeper by Jodi Picoult
+22. Nineteen Minutes by Jodi Picoult
+23. The Pact by Jodi Picoult
+24. The Lovely Bones by Alice Sebold
+25. I'd Tell You I Love You, But Then I'd Have to Kill You by Ally Carter
+26. Cross My Heart and Hope to Spy by Ally Carter
+27. Don't Judge a Girl by Her Cover by Ally Carter
+28. Only the Good Spy Young by Ally Carter
+29. Out of Sight, Out of Time by Ally Carter
+30. United We Spy by Ally Carter
+31. The Messenger by Markus Zusak
+32. The Book Thief by Markus Zusak
+33. Fear and Loathing in Las Vegas by Hunter S. Thompson
+34. On the Road by Jack Kerouac
+35. The Electric Kool-Aid Acid Test by Tom Wolfe
+36. One Flew Over the Cuckoo's Nest by Ken Kesey
+37. A Clockwork Orange by Anthony Burgess
+38. The Catcher in the Rye by J.D. Salinger
+39. Lord of the Flies by William Golding
+40. 1984 by George Orwell
+41. Animal Farm by George Orwell
+42. Brave New World by Aldous Huxley
+43. Fahrenheit 451 by Ray Bradbury
+44. The Hunger Games by Suzanne Collins
+45. Catching Fire by Suzanne Collins
+46. Mockingjay by Suzanne Collins
+47. Hate List by Jennifer Brown
+48. Th1rteen R3asons Why by Jay Asher
+49. Cirque du Freak by Darren Shan
+50. Go Ask Alice by Anonymous.

@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Alchemist by Paulo Coelho
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. 1984 by George Orwell
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Pride and Prejudice by Jane Austen
+7. The Hobbit by J.R.R. Tolkien
+8. The Lord of the Rings by J.R.R. Tolkien
+9. The Hunger Games by Suzanne Collins
+10. Harry Potter and the Philosopher's Stone by J.K. Rowling
+11. The Da Vinci Code by Dan Brown
+12. Angels and Demons by Dan Brown
+13. The Girl with the Dragon Tattoo by Stieg Larsson
+14. The Girl Who Played with Fire by Stieg Larsson
+15. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+16. The Help by Kathryn Stockett
+17. The Fault in Our Stars by John Green
+18. Gone Girl by Gillian Flynn
+19. The Maze Runner by James Dashner
+20. The Book Thief by Markus Zusak
+21. The Lovely Bones by Alice Sebold
+22. The Secret Life of Bees by Sue Monk Kidd
+23. The Time Traveler's Wife by Audrey Niffenegger
+24. The Kite Runner by Khaled Hosseini
+25. A Thousand Splendid Suns by Khaled Hosseini
+26. The Shack by William P. Young
+27. The Road by Cormac McCarthy
+28. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+29. Life of Pi by Yann Martel
+30. The Help by Kathryn Stockett
+31. The Color Purple by Alice Walker
+32. The Joy Luck Club by Amy Tan
+33. The God of Small Things by Arundhati Roy
+34. The Poisonwood Bible by Barbara Kingsolver
+35. The Glass Castle by Jeannette Walls
+36. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+37. The Handmaid's Tale by Margaret Atwood
+38. The Picture of Dorian Gray by Oscar Wilde
+39. The Count of Monte Cristo by Alexandre Dumas
+40. Les Misérables by Victor Hugo
+41. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+42. The Chronicles of Narnia by C.S. Lewis
+43. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+44. The Diary of a Young Girl by Anne Frank
+45. The Giver by Lois Lowry
+46. The Outsiders by S.E. Hinton
+47. The Perks of Being a Wallflower by Stephen Chbosky
+48. The Fault in Our Stars by John Green
+49. The

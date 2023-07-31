@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Depeche Mode
+2. Wolfsheim
+3. Diary of Dreams
+4. Anathema
+5. Paradise Lost
+6. Telefon Tel Aviv
+7. Hocico
+8. Агата Кристи
+9. Moby
+10. Lady Gaga
+11. Madonna
+12. Rihanna
+13. Shakira
+14. Britney Spears
+15. Beyoncé
+16. Christina Aguilera
+17. Evanescence
+18. Paramore
+19. Muse
+20. Pink Floyd
+21. U2
+22. The Beatles
+23. Ke$ha
+24. Katy Perry
+25. Taylor Swift
+26. Duran Duran
+27. Coldplay
+28. Blur
+29. Arctic Monkeys
+30. Placebo
+31. The Killers
+32. Nirvana
+33. Iron Maiden
+34. Led Zeppelin
+35. Metallica
+36. Michael Jackson
+37. Pearl Jam
+38. a-ha
+39. Björk
+40. System of a Down
+41. Daft Punk
+42. Nine Inch Nails
+43. Linkin Park
+44. Kelly Clarkson
+45. All Time Low
+46. P!nk
+47. Avenged Sevenfold
+48. Black Eyed Peas
+49. My Chemical Romance
+50. Green Day

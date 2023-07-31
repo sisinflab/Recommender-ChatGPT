@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Uglies by Scott Westerfeld
+2. Leviathan by Scott Westerfeld
+3. The Fault in Our Stars by John Green
+4. Paper Towns by John Green
+5. The Maze Runner by James Dashner
+6. The Hunger Games by Suzanne Collins
+7. Divergent by Veronica Roth
+8. The Giver by Lois Lowry
+9. The Book Thief by Markus Zusak
+10. The Perks of Being a Wallflower by Stephen Chbosky
+11. The Catcher in the Rye by J.D. Salinger
+12. The Outsiders by S.E. Hinton
+13. Lord of the Flies by William Golding
+14. Ender's Game by Orson Scott Card
+15. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+16. The Girl with the Dragon Tattoo by Stieg Larsson
+17. Gone Girl by Gillian Flynn
+18. The Da Vinci Code by Dan Brown
+19. Angels and Demons by Dan Brown
+20. The Shining by Stephen King
+21. Carrie by Stephen King
+22. The Stand by Stephen King
+23. The Dark Tower series by Stephen King
+24. The Road by Cormac McCarthy
+25. 1984 by George Orwell
+26. Animal Farm by George Orwell
+27. Brave New World by Aldous Huxley
+28. Fahrenheit 451 by Ray Bradbury
+29. The Martian by Andy Weir
+30. Ready Player One by Ernest Cline
+31. The Hunger Games Trilogy Boxset by Suzanne Collins
+32. The Maze Runner Series Boxset by James Dashner
+33. The Divergent Series Boxset by Veronica Roth
+34. The Giver Quartet Boxset by Lois Lowry
+35. The Harry Potter Series Boxset by J.K. Rowling
+36. The Lord of the Rings Trilogy Boxset by J.R.R. Tolkien
+37. The Hobbit by J.R.R. Tolkien
+38. The Chronicles of Narnia Boxset by C.S. Lewis
+39. The Percy Jackson and the Olympians Boxset by Rick Riordan
+40. The Heroes of Olympus Boxset by Rick Riordan
+41. The Kane Chronicles Boxset by Rick Riordan
+42. The Inheritance Cycle Boxset by Christopher Paolini
+43. The Hunger Games: Mockingjay Part 1 by Suzanne Collins
+44. The Hunger Games: Mockingjay Part 2 by Suzanne Collins
+45. The Maze Runner: The Scorch Trials by James Dashner
+46. The Maze Runner: The Death Cure by James Dashner
+47. Divergent: Insurgent by Veronica Roth
+48. Divergent: Allegiant by Veronica Roth
+49. The Giver by Lois Lowry (Graphic Novel)
+50. The Hunger Games

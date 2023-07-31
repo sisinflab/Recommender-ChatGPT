@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. All Time Low
+2. Fall Out Boy
+3. Paramore
+4. Boys Like Girls
+5. Hey Monday
+6. Simple Plan
+7. 30 Seconds to Mars
+8. Jonas Brothers
+9. My Chemical Romance
+10. Kudai
+11. We The Kings
+12. Owl City
+13. The Calling
+14. Metro Station
+15. Underoath
+16. Restart
+17. Automatic Loveletter
+18. Demi Lovato
+19. Camp Rock
+20. Katy Perry
+21. Kings of Leon
+22. Ne-Yo
+23. Lady Gaga
+24. Rihanna
+25. Beyoncé
+26. Pink Floyd
+27. Muse
+28. Radiohead
+29. Ke$ha
+30. Coldplay
+31. The Killers
+32. Nirvana
+33. Iron Maiden
+34. Led Zeppelin
+35. Metallica
+36. Michael Jackson
+37. Pearl Jam
+38. System of a Down
+39. Daft Punk
+40. Nine Inch Nails
+41. Linkin Park
+42. Avenged Sevenfold
+43. Green Day
+44. The Cure
+45. Christina Aguilera
+46. Evanescence
+47. Glee Cast
+48. U2
+49. Duran Duran
+50. Arctic Monkeys

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Fault in Our Stars by John Green
+2. The Hunger Games by Suzanne Collins
+3. The Girl with the Dragon Tattoo by Stieg Larsson
+4. The Da Vinci Code by Dan Brown
+5. The Help by Kathryn Stockett
+6. The Kite Runner by Khaled Hosseini
+7. The Catcher in the Rye by J.D. Salinger
+8. To Kill a Mockingbird by Harper Lee
+9. The Great Gatsby by F. Scott Fitzgerald
+10. 1984 by George Orwell
+11. Animal Farm by George Orwell
+12. Brave New World by Aldous Huxley
+13. Lord of the Flies by William Golding
+14. The Hobbit by J.R.R. Tolkien
+15. The Lord of the Rings by J.R.R. Tolkien
+16. The Chronicles of Narnia by C.S. Lewis
+17. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+18. Ender's Game by Orson Scott Card
+19. The Maze Runner by James Dashner
+20. Divergent by Veronica Roth
+21. The Giver by Lois Lowry
+22. The Outsiders by S.E. Hinton
+23. The Perks of Being a Wallflower by Stephen Chbosky
+24. The Book Thief by Markus Zusak
+25. The Alchemist by Paulo Coelho
+26. The Secret Life of Bees by Sue Monk Kidd
+27. The Lovely Bones by Alice Sebold
+28. The Time Traveler's Wife by Audrey Niffenegger
+29. The Road by Cormac McCarthy
+30. A Thousand Splendid Suns by Khaled Hosseini
+31. The Picture of Dorian Gray by Oscar Wilde
+32. The Count of Monte Cristo by Alexandre Dumas
+33. Les Misérables by Victor Hugo
+34. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+35. The Complete Works of William Shakespeare by William Shakespeare
+36. The Divine Comedy by Dante Alighieri
+37. The Canterbury Tales by Geoffrey Chaucer
+38. The Iliad by Homer
+39. The Odyssey by Homer
+40. The Republic by Plato
+41. The Prince by Niccolò Machiavelli
+42. The Art of War by Sun Tzu
+43. The Wealth of Nations by Adam Smith
+44. The Communist Manifesto by Karl Marx and Friedrich Engels
+45. The Origin of Species by Charles Darwin
+46. The Interpretation of Dreams by Sigmund Freud
+47. The Structure of Scientific Revolutions by Thomas S. Kuhn
+48. The Selfish Gene by Richard Dawkins
+49. A Brief History of Time by Stephen Hawking
+50. Guns, Germs, and Steel by Jared Diamond

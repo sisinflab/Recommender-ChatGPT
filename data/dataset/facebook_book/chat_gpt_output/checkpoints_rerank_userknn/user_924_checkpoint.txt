@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Les Mis�rables by Victor Hugo
+2. Pride and Prejudice by Jane Austen
+3. Wuthering Heights by Emily Bronte
+4. Frankenstein by Mary Shelley
+5. Jane Eyre by Charlotte Bronte
+6. The Picture of Dorian Gray by Oscar Wilde
+7. The Hobbit by J.R.R. Tolkien
+8. The Lord of the Rings by J.R.R. Tolkien
+9. The Adventures of Huckleberry Finn by Mark Twain
+10. The Adventures of Tom Sawyer by Mark Twain
+11. A Christmas Carol by Charles Dickens
+12. The Secret Garden by Frances Hodgson Burnett
+13. Alice's Adventures in Wonderland by Lewis Carroll
+14. The Canterbury Tales by Geoffrey Chaucer
+15. The Kite Runner by Khaled Hosseini
+16. The Lion, the Witch and the Wardrobe by C.S. Lewis
+17. Harry Potter series by J.K. Rowling
+18. Black Beauty by Anna Sewell
+19. Little Women by Louisa May Alcott
+20. The Swiss Family Robinson by Johann David Wyss
+21. The Time Machine by H.G. Wells
+22. The Fall of the House of Usher by Edgar Allan Poe
+23. The Legend of Sleepy Hollow by Washington Irving
+24. A Midsummer Night's Dream by William Shakespeare
+25. Macbeth by William Shakespeare
+26. The Screwtape Letters by C.S. Lewis
+27. The Hunchback of Notre-Dame by Victor Hugo
+28. The War of the Worlds by H.G. Wells
+29. The Giver by Lois Lowry
+30. The Little Mermaid by Hans Christian Andersen
+31. Through the Looking-Glass by Lewis Carroll
+32. The Perfect Storm by Sebastian Junger
+33. The Shadow of the Wind by Carlos Ruiz Zafon
+34. Demian by Hermann Hesse
+35. Goethe's Faust by Johann Wolfgang von Goethe
+36. Pedro P�ramo by Juan Rulfo
+37. Bleak House by Charles Dickens
+38. The Queen of the Damned by Anne Rice
+39. Ella Enchanted by Gail Carson Levine
+40. Winnie-the-Pooh by A.A. Milne
+41. The Screwtape Letters by C.S. Lewis
+42. A Clockwork Orange by Anthony Burgess
+43. The Giver by Lois Lowry
+44. The Secret Garden by Frances Hodgson Burnett
+45. The Canterbury Tales by Geoffrey Chaucer
+46. The Time Machine by H.G. Wells
+47. The Fall of the House of Usher by Edgar Allan Poe
+48. The Legend of Sleepy Hollow by Washington Irving
+49. The Shadow of the Wind by Carlos Ruiz Zafon
+50. Demian by Hermann H

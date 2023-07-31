@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Foo Fighters
+2. Nine Inch Nails
+3. Smashing Pumpkins
+4. Soundgarden
+5. Alice in Chains
+6. Nirvana
+7. Deftones
+8. Red Hot Chili Peppers
+9. Tool
+10. Queens of the Stone Age
+11. Muse
+12. Radiohead
+13. Pearl Jam
+14. System of a Down
+15. A Perfect Circle
+16. Chevelle
+17. Incubus
+18. The Mars Volta
+19. Death Cab for Cutie
+20. Coheed and Cambria
+21. Jimmy Eat World
+22. Iron & Wine
+23. Sufjan Stevens
+24. Elliott Smith
+25. Damien Rice
+26. Ray LaMontagne
+27. Michael Jackson
+28. The Black Keys
+29. Coldplay
+30. Kings of Leon
+31. Arcade Fire
+32. Vampire Weekend
+33. The Strokes
+34. The Killers
+35. Interpol
+36. Yeah Yeah Yeahs
+37. Arctic Monkeys
+38. Franz Ferdinand
+39. The White Stripes
+40. The Raconteurs
+41. The Hives
+42. The Vines
+43. The Libertines
+44. The Bravery
+45. The Kooks
+46. The Fratellis
+47. The Wombats
+48. The Ting Tings
+49. The Vaccines
+50. Two Door Cinema Club

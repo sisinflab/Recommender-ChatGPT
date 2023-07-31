@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Crime and Punishment by Fyodor Dostoevsky
+2. The Brothers Karamazov by Fyodor Dostoevsky
+3. War and Peace by Leo Tolstoy
+4. Anna Karenina by Leo Tolstoy
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Catcher in the Rye by J.D. Salinger
+7. 1984 by George Orwell
+8. Animal Farm by George Orwell
+9. Brave New World by Aldous Huxley
+10. The Great Gatsby by F. Scott Fitzgerald
+11. The Picture of Dorian Gray by Oscar Wilde
+12. Wuthering Heights by Emily Bronte
+13. Jane Eyre by Charlotte Bronte
+14. Pride and Prejudice by Jane Austen
+15. Sense and Sensibility by Jane Austen
+16. Emma by Jane Austen
+17. Persuasion by Jane Austen
+18. Northanger Abbey by Jane Austen
+19. The Hobbit by J.R.R. Tolkien
+20. The Lord of the Rings by J.R.R. Tolkien
+21. The Chronicles of Narnia by C.S. Lewis
+22. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+23. The Da Vinci Code by Dan Brown
+24. Angels and Demons by Dan Brown
+25. The Girl with the Dragon Tattoo by Stieg Larsson
+26. The Hunger Games by Suzanne Collins
+27. Catching Fire by Suzanne Collins
+28. Mockingjay by Suzanne Collins
+29. The Fault in Our Stars by John Green
+30. Looking for Alaska by John Green
+31. Paper Towns by John Green
+32. The Alchemist by Paulo Coelho
+33. Siddhartha by Hermann Hesse
+34. The Stranger by Albert Camus
+35. The Plague by Albert Camus
+36. The Trial by Franz Kafka
+37. The Metamorphosis by Franz Kafka
+38. Heart of Darkness by Joseph Conrad
+39. Lord Jim by Joseph Conrad
+40. The Sun Also Rises by Ernest Hemingway
+41. For Whom the Bell Tolls by Ernest Hemingway
+42. The Old Man and the Sea by Ernest Hemingway
+43. The Bell Jar by Sylvia Plath
+44. The Road by Cormac McCarthy
+45. All the Pretty Horses by Cormac McCarthy
+46. The Name of the Wind by Patrick Rothfuss
+47. The Wise Man's Fear by Patrick Rothfuss
+48. The Shadow of the Wind by Carlos Ruiz Zafon
+49. The Angel's Game by Carlos Ruiz Zafon
+50. The Book Thief by Markus Zusak

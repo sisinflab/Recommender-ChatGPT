@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Crime and Punishment by Fyodor Dostoevsky
+2. 1984 by George Orwell
+3. The Brothers Karamazov by Fyodor Dostoevsky
+4. One Hundred Years of Solitude by Gabriel Garcia Marquez
+5. The Picture of Dorian Gray by Oscar Wilde
+6. The Catcher in the Rye by J.D. Salinger
+7. To Kill a Mockingbird by Harper Lee
+8. The Great Gatsby by F. Scott Fitzgerald
+9. The Stranger by Albert Camus
+10. The Trial by Franz Kafka
+11. The Metamorphosis by Franz Kafka
+12. The Bell Jar by Sylvia Plath
+13. The Sun Also Rises by Ernest Hemingway
+14. The Old Man and the Sea by Ernest Hemingway
+15. Heart of Darkness by Joseph Conrad
+16. Lord of the Flies by William Golding
+17. Brave New World by Aldous Huxley
+18. The Sound and the Fury by William Faulkner
+19. As I Lay Dying by William Faulkner
+20. The Grapes of Wrath by John Steinbeck
+21. East of Eden by John Steinbeck
+22. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+23. Slaughterhouse-Five by Kurt Vonnegut
+24. Cat's Cradle by Kurt Vonnegut
+25. The Sirens of Titan by Kurt Vonnegut
+26. The Martian Chronicles by Ray Bradbury
+27. Fahrenheit 451 by Ray Bradbury
+28. The Hobbit by J.R.R. Tolkien
+29. The Lord of the Rings by J.R.R. Tolkien
+30. The Chronicles of Narnia by C.S. Lewis
+31. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+32. The War of the Worlds by H.G. Wells
+33. The Time Machine by H.G. Wells
+34. The Invisible Man by H.G. Wells
+35. The Island of Dr. Moreau by H.G. Wells
+36. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+37. Frankenstein by Mary Shelley
+38. Dracula by Bram Stoker
+39. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+40. The Hound of the Baskervilles by Arthur Conan Doyle
+41. The Count of Monte Cristo by Alexandre Dumas
+42. Les Misérables by Victor Hugo
+43. The Three Musketeers by Alexandre Dumas
+44. The Arabian Nights by Anonymous
+45. The Odyssey by Homer
+46. The Iliad by Homer
+47. The Divine Comedy by Dante Alighieri
+48. Paradise Lost by John Milton
+49. The Canterbury Tales
+50. The Wise Man's Fear by Patrick Rothfuss

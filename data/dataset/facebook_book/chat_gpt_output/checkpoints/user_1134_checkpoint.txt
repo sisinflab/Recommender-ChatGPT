@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Divergent by Veronica Roth
+2. The Maze Runner by James Dashner
+3. The Fault in Our Stars by John Green
+4. The Book Thief by Markus Zusak
+5. The Selection by Kiera Cass
+6. The 5th Wave by Rick Yancey
+7. The Darkest Minds by Alexandra Bracken
+8. Legend by Marie Lu
+9. The Hunger Games: Catching Fire by Suzanne Collins
+10. The Hunger Games: Mockingjay by Suzanne Collins
+11. The Knife of Never Letting Go by Patrick Ness
+12. The Ask and the Answer by Patrick Ness
+13. Monsters of Men by Patrick Ness
+14. The City of Ember by Jeanne DuPrau
+15. The People of Sparks by Jeanne DuPrau
+16. The Prophet of Yonwood by Jeanne DuPrau
+17. The Diamond of Darkhold by Jeanne DuPrau
+18. The Giver Quartet by Lois Lowry
+19. Gathering Blue by Lois Lowry
+20. Messenger by Lois Lowry
+21. Son by Lois Lowry
+22. The Uglies Series by Scott Westerfeld
+23. Extras by Scott Westerfeld
+24. Pretties by Scott Westerfeld
+25. Specials by Scott Westerfeld
+26. The Lunar Chronicles by Marissa Meyer
+27. Cinder by Marissa Meyer
+28. Scarlet by Marissa Meyer
+29. Cress by Marissa Meyer
+30. Winter by Marissa Meyer
+31. The Mortal Instruments by Cassandra Clare
+32. City of Bones by Cassandra Clare
+33. City of Ashes by Cassandra Clare
+34. City of Glass by Cassandra Clare
+35. City of Fallen Angels by Cassandra Clare
+36. City of Lost Souls by Cassandra Clare
+37. City of Heavenly Fire by Cassandra Clare
+38. The Infernal Devices by Cassandra Clare
+39. Clockwork Angel by Cassandra Clare
+40. Clockwork Prince by Cassandra Clare
+41. Clockwork Princess by Cassandra Clare
+42. The Dark Artifices by Cassandra Clare
+43. Lady Midnight by Cassandra Clare
+44. Lord of Shadows by Cassandra Clare
+45. Queen of Air and Darkness by Cassandra Clare
+46. The Selection Series by Kiera Cass
+47. The Elite by Kiera Cass
+48. The One by Kiera Cass
+49. The Heir by Kiera Cass
+50. The Crown by Kiera Cass

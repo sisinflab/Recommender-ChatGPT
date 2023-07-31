@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for user 708 would be:
+
+1. Black Sabbath
+2. Slayer
+3. Iron Maiden
+4. Melvins
+5. Fantômas
+6. Mr. Bungle
+7. Soundgarden
+8. Queens of the Stone Age
+9. Mogwai
+10. Mono
+11. Nirvana
+12. Pearl Jam
+13. Metallica
+14. Led Zeppelin
+15. Frank Zappa
+16. Pink Floyd
+17. The Beatles
+18. Muse
+19. Radiohead
+20. System of a Down
+21. Nine Inch Nails
+22. The Killers
+23. Green Day
+24. My Chemical Romance
+25. Placebo
+26. Arctic Monkeys
+27. Duran Duran
+28. Coldplay
+29. Blur
+30. U2
+31. Michael Jackson
+32. Madonna
+33. Beyoncé
+34. Lady Gaga
+35. Rihanna
+36. Shakira
+37. Christina Aguilera
+38. Katy Perry
+39. Taylor Swift
+40. Ke$ha
+41. Avril Lavigne
+42. Paramore
+43. Evanescence
+44. P!nk
+45. Kelly Clarkson
+46. All Time Low
+47. Black Eyed Peas
+48. Daft Punk
+49. Björk
+50. Kylie Minogue

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Clockwork Angel by Cassandra Clare
+2. The Mortal Instruments series by Cassandra Clare
+3. The Infernal Devices series by Cassandra Clare
+4. Lady Midnight by Cassandra Clare
+5. Lord of Shadows by Cassandra Clare
+6. Queen of Air and Darkness by Cassandra Clare
+7. The Diviners by Libba Bray
+8. Lair of Dreams by Libba Bray
+9. Before the Devil Breaks You by Libba Bray
+10. The Darkest Minds by Alexandra Bracken
+11. Never Fade by Alexandra Bracken
+12. In the Afterlight by Alexandra Bracken
+13. The Maze Runner by James Dashner
+14. The Scorch Trials by James Dashner
+15. The Death Cure by James Dashner
+16. The Kill Order by James Dashner
+17. The 5th Wave by Rick Yancey
+18. The Infinite Sea by Rick Yancey
+19. The Last Star by Rick Yancey
+20. The Chemist by Stephenie Meyer
+21. The Host by Stephenie Meyer
+22. The Twilight Saga by Stephenie Meyer
+23. The Girl with the Dragon Tattoo by Stieg Larsson
+24. The Girl Who Played with Fire by Stieg Larsson
+25. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+26. The Da Vinci Code by Dan Brown
+27. Inferno by Dan Brown
+28. Origin by Dan Brown
+29. The Lost Symbol by Dan Brown
+30. The Secret History by Donna Tartt
+31. The Goldfinch by Donna Tartt
+32. The Catcher in the Rye by J.D. Salinger
+33. To Kill a Mockingbird by Harper Lee
+34. 1984 by George Orwell
+35. Animal Farm by George Orwell
+36. The Handmaid's Tale by Margaret Atwood
+37. The Testaments by Margaret Atwood
+38. The Hunger Games series by Suzanne Collins
+39. Divergent by Veronica Roth
+40. Insurgent by Veronica Roth
+41. Allegiant by Veronica Roth
+42. The Giver by Lois Lowry
+43. Gathering Blue by Lois Lowry
+44. Messenger by Lois Lowry
+45. Son by Lois Lowry
+46. The Book Thief by Markus Zusak
+47. The Nightingale by Kristin Hannah
+48. The Help by Kathryn Stockett
+49. The Lovely Bones by Alice Sebold
+50. The Fault in Our Stars by John Green

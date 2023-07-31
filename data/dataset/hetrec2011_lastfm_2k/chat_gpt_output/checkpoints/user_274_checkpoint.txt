@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Nine Inch Nails
+2. Muse
+3. Radiohead
+4. The Cure
+5. Marilyn Manson
+6. Placebo
+7. Rammstein
+8. Björk
+9. Lady Gaga
+10. Madonna
+11. Britney Spears
+12. Christina Aguilera
+13. Katy Perry
+14. Rihanna
+15. Beyoncé
+16. Justin Timberlake
+17. Backstreet Boys
+18. *NSYNC
+19. Spice Girls
+20. TLC
+21. Destiny's Child
+22. Janet Jackson
+23. Whitney Houston
+24. Mariah Carey
+25. Celine Dion
+26. Adele
+27. Ed Sheeran
+28. Coldplay
+29. Oasis
+30. U2
+31. Bon Jovi
+32. Guns N' Roses
+33. Metallica
+34. AC/DC
+35. Nirvana
+36. Pearl Jam
+37. Soundgarden
+38. Alice in Chains
+39. Foo Fighters
+40. Green Day
+41. Blink-182
+42. The Offspring
+43. Sum 41
+44. My Chemical Romance
+45. Panic! at the Disco
+46. Fall Out Boy
+47. Paramore
+48. Evanescence
+49. Linkin Park
+50. System of a Down

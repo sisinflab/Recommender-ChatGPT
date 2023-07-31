@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Vampire Academy (series) by Richelle Mead
+2. Bloodlines (series) by Richelle Mead
+3. The Hunger Games (series) by Suzanne Collins
+4. Divergent (series) by Veronica Roth
+5. The Maze Runner (series) by James Dashner
+6. The Mortal Instruments (series) by Cassandra Clare
+7. The Infernal Devices (series) by Cassandra Clare
+8. The Selection (series) by Kiera Cass
+9. The Lunar Chronicles (series) by Marissa Meyer
+10. The Fault in Our Stars by John Green
+11. The Book Thief by Markus Zusak
+12. The Giver (series) by Lois Lowry
+13. The Chronicles of Narnia (series) by C.S. Lewis
+14. The Lord of the Rings (series) by J.R.R. Tolkien
+15. The Hobbit by J.R.R. Tolkien
+16. The Harry Potter (series) by J.K. Rowling
+17. The Twilight Saga (series) by Stephenie Meyer
+18. The Host by Stephenie Meyer
+19. The Vampire Diaries (series) by L.J. Smith
+20. The Secret Circle (series) by L.J. Smith
+21. The Dark Artifices (series) by Cassandra Clare
+22. The Bane Chronicles by Cassandra Clare
+23. The Shadowhunter's Codex by Cassandra Clare
+24. The Mortal Instruments: City of Bones (graphic novel) by Cassandra Clare
+25. The Mortal Instruments: City of Ashes (graphic novel) by Cassandra Clare
+26. The Mortal Instruments: City of Glass (graphic novel) by Cassandra Clare
+27. The Mortal Instruments: City of Fallen Angels (graphic novel) by Cassandra Clare
+28. The Mortal Instruments: City of Lost Souls (graphic novel) by Cassandra Clare
+29. The Mortal Instruments: City of Heavenly Fire (graphic novel) by Cassandra Clare
+30. The Mortal Instruments: The Graphic Novel, Vol. 1 by Cassandra Clare
+31. The Mortal Instruments: The Graphic Novel, Vol. 2 by Cassandra Clare
+32. The Mortal Instruments: The Graphic Novel, Vol. 3 by Cassandra Clare
+33. The Mortal Instruments: The Graphic Novel, Vol. 4 by Cassandra Clare
+34. The Mortal Instruments: The Graphic Novel, Vol. 5 by Cassandra Clare
+35. The Mortal Instruments: The Graphic Novel, Vol. 6 by Cassandra Clare
+36. The Mortal Instruments: The Graphic Novel, Vol. 7 by Cassandra Clare
+37. The Mortal Instruments: The Graphic Novel, Vol. 8 by Cassandra Clare
+38. The Mortal Instruments: The Graphic Novel, Vol. 9 by Cassandra Clare
+39. The Mortal Instruments
+40. The Devil in the White City by Erik Larson
+41. The Power of One by Bryce Courtenay
+42. The Pillars of the Earth by Ken Follett
+43. The Help by Kathryn Stockett
+44. Nine Stories by J.D. Salinger
+45. The Bell Jar by Sylvia Plath
+46. The Wise Man's Fear by Patrick Rothfuss
+47. The Help by Kathryn Stockett
+48. Nine Stories by J.D. Salinger
+49. The Bell Jar by Sylvia Plath
+50. The Wise Man's Fear by Patrick Rothfuss

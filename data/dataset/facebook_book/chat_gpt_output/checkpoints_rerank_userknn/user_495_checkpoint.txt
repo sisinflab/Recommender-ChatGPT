@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Slaughterhouse-Five by Kurt Vonnegut
+2. Cat's Cradle by Kurt Vonnegut
+3. The Catcher in the Rye by J.D. Salinger
+4. 1984 by George Orwell
+5. Animal Farm by George Orwell
+6. The Great Gatsby by F. Scott Fitzgerald
+7. To Kill a Mockingbird by Harper Lee
+8. The Lord of the Rings by J.R.R. Tolkien
+9. The Hobbit by J.R.R. Tolkien
+10. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+11. Brave New World by Aldous Huxley
+12. The Tao of Wu by The RZA
+13. Steppenwolf by Hermann Hesse
+14. Jane Eyre by Charlotte Bronte
+15. The Vampire Lestat by Anne Rice
+16. It by Stephen King
+17. Twilight by Stephenie Meyer
+18. The Ugly Duckling by Hans Christian Andersen
+19. Eleven Minutes by Paulo Coelho
+20. The Handmaid's Tale by Margaret Atwood
+21. Harry Potter and the Philosopher's Stone by J.K. Rowling
+22. Harry Potter and the Chamber of Secrets by J.K. Rowling
+23. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+24. Harry Potter and the Goblet of Fire by J.K. Rowling
+25. Harry Potter and the Order of Phoenix by J.K. Rowling
+26. Harry Potter and the Half-Blood Prince by J.K. Rowling
+27. Harry Potter and the Deathly Hallows by J.K. Rowling
+28. The Bell Jar by Sylvia Plath
+29. In the Line of Fire: A Memoir by Pervez Musharraf
+30. The Outsiders by S.E. Hinton
+31. One Hundred Years of Solitude by Gabriel Garcia Marquez
+32. Galapagos by Kurt Vonnegut
+33. The Heart Is a Lonely Hunter by Carson McCullers
+34. The Prince by Niccolo Machiavelli
+35. The Call of the Wild by Jack London
+36. Bless Me, Ultima by Rudolfo Anaya
+37. Green Rider by Kristen Britain
+38. The Old Curiosity Shop by Charles Dickens
+39. Beloved by Toni Morrison
+40. A Wrinkle in Time by Madeleine L'Engle
+41. Rurouni Kenshin by Nobuhiro Watsuki
+42. Das Kapital by Karl Marx
+43. Macbeth by William Shakespeare
+44. The Prophet by Kahlil Gibran
+45. Godel, Escher, Bach by Douglas Hofstadter
+46. Snow Crash by Neal Stephenson
+47. Cryptonomicon by Neal Stephenson
+48. Leviathan by

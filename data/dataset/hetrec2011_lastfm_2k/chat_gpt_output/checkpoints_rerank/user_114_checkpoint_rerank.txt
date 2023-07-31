@@ -1,0 +1,54 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Led Zeppelin
+2. AC/DC
+3. The Doors
+4. Guns N' Roses
+5. Pink Floyd
+6. The Jimi Hendrix Experience
+7. Deep Purple
+8. Van Halen
+9. The Who
+10. Eric Clapton
+11. Bon Jovi
+12. The Rolling Stones
+13. Black Sabbath
+14. Scorpions
+15. Cream
+16. Oasis
+17. INXS
+18. John Lennon
+19. Prince
+20. Sex Pistols
+21. Megadeth
+22. Fleetwood Mac
+23. Rod Stewart
+24. Metallica
+25. Nirvana
+26. Iron Maiden
+27. Michael Jackson
+28. Pearl Jam
+29. a-ha
+30. Björk
+31. System of a Down
+32. Daft Punk
+33. Nine Inch Nails
+34. Linkin Park
+35. Avenged Sevenfold
+36. My Chemical Romance
+37. Green Day
+38. The Cure
+39. U2
+40. Muse
+41. Radiohead
+42. Coldplay
+43. Arctic Monkeys
+44. Placebo
+45. The Killers
+46. Duran Duran
+47. Kylie Minogue
+48. Madonna
+49. Lady Gaga
+50. Christina Aguilera
+
+Note: The Beatles, Katy Perry, Taylor Swift, and Beyoncé were already included in the user's preferences, so they were not added to the recommendations list.

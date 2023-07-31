@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Beatles
+2. Nirvana
+3. Frank Sinatra
+4. Louis Armstrong
+5. John Lennon
+6. Pixies
+7. The White Stripes
+8. Blur
+9. Oasis
+10. Interpol
+11. Modest Mouse
+12. Bloodhound Gang
+13. AC/DC
+14. Chuck Berry
+15. Ramones
+16. Misfits
+17. Alice in Chains
+18. Soundgarden
+19. P.O.D.
+20. Iron Maiden
+21. Arctic Monkeys
+22. Joy Division
+23. Megadeth
+24. Bob Dylan
+25. Phoenix
+26. Crystal Castles
+27. Gorillaz
+28. Paul McCartney
+29. Bush
+30. Franz Ferdinand
+31. Belle and Sebastian
+32. Aphex Twin
+33. Paramore
+34. The Flashbulb
+35. Plain White T's
+36. Bauhaus
+37. The Kooks
+38. Death Cab for Cutie
+39. David Bowie
+40. Foo Fighters
+41. Keane
+42. Coil
+43. Coldplay
+44. The Rolling Stones
+45. Weezer
+46. The Black Keys
+47. The Who
+48. Pearl Jam
+49. Metallica
+50. Travis

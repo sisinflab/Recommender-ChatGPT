@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hobbit by J.R.R. Tolkien
+2. The Lord of the Rings by J.R.R. Tolkien
+3. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+4. Harry Potter series by J.K. Rowling
+5. The Dark Tower series by Stephen King
+6. American Gods by Neil Gaiman
+7. Dracula by Bram Stoker
+8. The Silmarillion by J.R.R. Tolkien
+9. The Dresden Files by Jim Butcher
+10. The Stand by Stephen King
+11. The Watchmen by Alan Moore
+12. The Civil War: A Narrative by Shelby Foote
+13. Paradise Lost by John Milton
+14. The Picture of Dorian Gray by Oscar Wilde
+15. The Iliad by Homer
+16. The Dead Zone by Stephen King
+17. The Running Man by Stephen King
+18. The Regulators by Stephen King
+19. The Long Walk by Stephen King
+20. Of Mice and Men by John Steinbeck
+21. To Kill a Mockingbird by Harper Lee
+22. A Clockwork Orange by Anthony Burgess
+23. Nineteen Eighty-Four by George Orwell
+24. A Confederacy of Dunces by John Kennedy Toole
+25. Rosemary's Baby by Ira Levin
+26. My Sister's Keeper by Jodi Picoult
+27. Journey to the West by Wu Cheng'en
+28. The Stranger by Albert Camus
+29. The Watchman by Robert Crais
+30. Twilight series by Stephenie Meyer
+31. Go Ask Alice by Anonymous
+32. Nightmares & Dreamscapes by Stephen King
+33. The Tommyknockers by Stephen King
+34. Strange Case of Dr Jekyll and Mr Hyde by Robert Louis Stevenson
+35. The Rum Diary by Hunter S. Thompson
+36. The Hatchet by Gary Paulsen
+37. I Am America (And So Can You!) by Stephen Colbert
+38. Pride and Prejudice and Zombies by Seth Grahame-Smith
+39. Pet Sematary by Stephen King
+40. Beautiful Creatures by Kami Garcia and Margaret Stohl
+41. Lullaby by Chuck Palahniuk
+42. Manga by Various Authors
+43. The 19th Wife by David Ebershoff
+44. Warriors anthology by Erin Hunter
+45. The Dark Half by Stephen King
+46. Night Shift by Stephen King
+47. Hunter by Mercedes Lackey
+48. Necronomicon: The Best Weird Tales of H. P. Lovecraft: Commemorative Edition by H.P. Lovecraft
+49. Thirteen Reasons Why by Jay Asher
+50. List of Warhammer 40,000 novels by Various Authors

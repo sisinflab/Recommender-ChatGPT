@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Inferno by Dan Brown
+2. Deception Point by Dan Brown
+3. Digital Fortress by Dan Brown
+4. The Lost Symbol by Dan Brown
+5. The Girl with the Dragon Tattoo by Stieg Larsson
+6. The Girl Who Played with Fire by Stieg Larsson
+7. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+8. The Hunger Games by Suzanne Collins
+9. Catching Fire by Suzanne Collins
+10. Mockingjay by Suzanne Collins
+11. Divergent by Veronica Roth
+12. Insurgent by Veronica Roth
+13. Allegiant by Veronica Roth
+14. The Maze Runner by James Dashner
+15. The Scorch Trials by James Dashner
+16. The Death Cure by James Dashner
+17. The Giver by Lois Lowry
+18. Gathering Blue by Lois Lowry
+19. Messenger by Lois Lowry
+20. Son by Lois Lowry
+21. Ender's Game by Orson Scott Card
+22. Speaker for the Dead by Orson Scott Card
+23. Xenocide by Orson Scott Card
+24. Children of the Mind by Orson Scott Card
+25. The Name of the Wind by Patrick Rothfuss
+26. The Wise Man's Fear by Patrick Rothfuss
+27. The Slow Regard of Silent Things by Patrick Rothfuss
+28. The Fellowship of the Ring by J.R.R. Tolkien
+29. The Two Towers by J.R.R. Tolkien
+30. The Return of the King by J.R.R. Tolkien
+31. The Silmarillion by J.R.R. Tolkien
+32. The Chronicles of Narnia by C.S. Lewis
+33. The Lion, the Witch and the Wardrobe by C.S. Lewis
+34. Prince Caspian by C.S. Lewis
+35. The Voyage of the Dawn Treader by C.S. Lewis
+36. The Horse and His Boy by C.S. Lewis
+37. The Magician's Nephew by C.S. Lewis
+38. The Last Battle by C.S. Lewis
+39. The Dark Tower I: The Gunslinger by Stephen King
+40. The Dark Tower II: The Drawing of the Three by Stephen King
+41. The Dark Tower III: The Waste Lands by Stephen King
+42. The Dark Tower IV: Wizard and Glass by Stephen King
+43. The Dark Tower V: Wolves of the Calla by Stephen King
+44. The Dark Tower VI: Song of Susannah by Stephen King
+45. The Dark Tower VII: The Dark Tower by Stephen King
+46. The Stand by Stephen King
+47. It by Stephen King
+48. The Shining by Stephen King
+49. Carrie by Stephen King
+50. Pet Sematary by Stephen King

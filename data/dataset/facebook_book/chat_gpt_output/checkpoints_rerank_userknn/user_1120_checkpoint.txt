@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. Harry Potter series by J.K. Rowling
+3. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+4. The Hobbit by J.R.R. Tolkien
+5. Inkheart by Cornelia Funke
+6. Inkspell by Cornelia Funke
+7. Eragon by Christopher Paolini
+8. Dragon Rider by Cornelia Funke
+9. The Two Princesses of Bamarre by Gail Carson Levine
+10. The Princess Bride by William Goldman
+11. Alice's Adventures in Wonderland by Lewis Carroll
+12. Through the Looking-Glass by Lewis Carroll
+13. The Little White Horse by Elizabeth Goudge
+14. Ella Enchanted by Gail Carson Levine
+15. Protector of the Small by Tamora Pierce
+16. The Song of the Lioness by Tamora Pierce
+17. Maximum Ride by James Patterson
+18. Twilight series by Stephenie Meyer
+19. Vampire Academy by Richelle Mead
+20. Witch & Wizard by James Patterson
+21. The Hunger Games by Suzanne Collins
+22. Catching Fire by Suzanne Collins
+23. Mockingjay by Suzanne Collins
+24. The Lovely Bones by Alice Sebold
+25. The Host by Stephenie Meyer
+26. Brisingr by Christopher Paolini
+27. The Immortals by Tamora Pierce
+28. Animorphs by K.A. Applegate
+29. Goosebumps by R.L. Stine
+30. Cirque du Freak by Darren Shan
+31. The Ruins by Scott Smith
+32. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+33. The Dark Tower: The Gunslinger by Stephen King
+34. Ender's Game by Orson Scott Card
+35. The Zombie Survival Guide by Max Brooks
+36. The Watchmen by Alan Moore
+37. The Umbrella Academy by Gerard Way
+38. A Midsummer Night's Dream by William Shakespeare
+39. Romeo and Juliet by William Shakespeare
+40. Jane Eyre by Charlotte Bronte
+41. Inferno by Dante Alighieri
+42. The Tale of Despereaux by Kate DiCamillo
+43. The Awakening by Kate Chopin
+44. So Long, and Thanks for All the Fish by Douglas Adams
+45. Kitchen Princess by Natsumi Ando
+46. Manga by Various Authors
+47. Daughters of the Moon by Lynne Ewing
+48. Doctrine and Covenants by The Church of Jesus Christ of Latter-day Saints
+49. To Kill a Mockingbird by Harper Lee
+50. City of Ashes by Cassandra Clare

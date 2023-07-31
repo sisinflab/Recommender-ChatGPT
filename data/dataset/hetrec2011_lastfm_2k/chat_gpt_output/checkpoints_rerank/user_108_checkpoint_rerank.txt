@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Slayer
+2. Behemoth
+3. Marduk
+4. Opeth
+5. Cannibal Corpse
+6. Vader
+7. Dimmu Borgir
+8. Sepultura
+9. Tool
+10. Korn
+11. dredg
+12. Metallica
+13. Iron Maiden
+14. Nirvana
+15. Pearl Jam
+16. Led Zeppelin
+17. System of a Down
+18. Nine Inch Nails
+19. Black Sabbath
+20. AC/DC
+21. Guns N' Roses
+22. Pantera
+23. Slipknot
+24. Lamb of God
+25. Children of Bodom
+26. In Flames
+27. Arch Enemy
+28. Dream Theater
+29. Mastodon
+30. Meshuggah
+31. Gojira
+32. Trivium
+33. Killswitch Engage
+34. As I Lay Dying
+35. Parkway Drive
+36. Bring Me the Horizon
+37. A Day to Remember
+38. The Devil Wears Prada
+39. Whitechapel
+40. Suicide Silence
+41. Chelsea Grin
+42. Born of Osiris
+43. Veil of Maya
+44. After the Burial
+45. Periphery
+46. Animals as Leaders
+47. TesseracT
+48. Between the Buried and Me
+49. Protest the Hero
+50. The Dillinger Escape Plan

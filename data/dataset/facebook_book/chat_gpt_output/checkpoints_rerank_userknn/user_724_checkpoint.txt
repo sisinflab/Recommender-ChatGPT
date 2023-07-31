@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. City of Glass (Mortal Instruments)
+2. City of Bones (Mortal Instruments)
+3. Vampire Kisses
+4. A Great and Terrible Beauty
+5. The Host (novel)
+6. The Chronicles of Narnia: Prince Caspian
+7. The Hitchhiker's Guide to the Galaxy (novel)
+8. The Last Song (novel)
+9. Nightworld (novel)
+10. Gone with the Wind
+11. Burned (Hopkins novel)
+12. Crank (novel)
+13. The Visitation (novel)
+14. Harry Potter
+15. The Watchmen (novel)
+16. A Series of Unfortunate Events
+17. The Notebook (novel)
+18. Generation Dead
+19. Macbeth
+20. Kitchen Princess
+21. The Awakening (Chopin novel)
+22. The Wolves of Mercy Falls
+23. Walk Two Moons
+24. Eragon
+25. Angels & Demons
+26. Nineteen Minutes
+27. Twilight (series)
+28. The Song of the Lioness
+29. Impossible (novel)
+30. Life as We Knew It (novel)
+31. Iliad
+32. My Sister's Keeper (novel)
+33. The House of Thunder
+34. Impulse economy
+35. Along for the Ride
+36. Evermore (book)
+37. His Dark Materials
+38. Witch & Wizard
+39. Chosen (A House of Night novel)
+40. Blue Moon (Noel novel)
+41. This Present Darkness
+42. The Lovely Bones
+43. The Luxe
+44. Inheritance (novel)
+45. Dark-Hunter (series)
+46. Wicked: The Life and Times of the Wicked Witch of the West
+47. Three (novel)
+48. Red (novel) by ['Ted Dekker']
+49. Belinda (Edgeworth novel) by ['Maria Edgeworth']
+50. Vittorio the Vampire by ['Anne Rice']

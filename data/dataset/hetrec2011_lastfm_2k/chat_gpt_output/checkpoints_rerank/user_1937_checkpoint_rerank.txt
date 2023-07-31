@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Paramore
+2. Glee Cast
+3. The Runaways
+4. AC/DC
+5. The Cure
+6. The Who
+7. Gloria
+8. McFly
+9. Elis Regina
+10. Nando Reis
+11. Marisa Monte
+12. Ramones
+13. Michael Bublé
+14. Engenheiros do Hawaii
+15. The Jackson 5
+16. Nickelback
+17. Nirvana
+18. Cueio Limão
+19. Cássia Eller
+20. Daughtry
+21. Camila
+22. Flyleaf
+23. Duffy
+24. Dire Straits
+25. The Kooks
+26. RBD
+27. Christina Aguilera
+28. Evanescence
+29. Madonna
+30. Pink Floyd
+31. Lady Gaga
+32. Rihanna
+33. Shakira
+34. The Beatles
+35. Katy Perry
+36. Avril Lavigne
+37. Taylor Swift
+38. U2
+39. 30 Seconds to Mars
+40. Muse
+41. Kylie Minogue
+42. Miley Cyrus
+43. Radiohead
+44. Ke$ha
+45. Duran Duran
+46. Coldplay
+47. Blur
+48. Arctic Monkeys
+49. Placebo
+50. The Killers

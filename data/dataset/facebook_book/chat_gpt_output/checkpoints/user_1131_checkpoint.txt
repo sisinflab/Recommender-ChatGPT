@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Picture of Dorian Gray by Oscar Wilde
+2. Wuthering Heights by Emily Bronte
+3. Jane Eyre by Charlotte Bronte
+4. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+5. The Hound of the Baskervilles by Arthur Conan Doyle
+6. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+7. The Count of Monte Cristo by Alexandre Dumas
+8. Les Miserables by Victor Hugo
+9. The Three Musketeers by Alexandre Dumas
+10. The Phantom of the Opera by Gaston Leroux
+11. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+12. 1984 by George Orwell
+13. Animal Farm by George Orwell
+14. Brave New World by Aldous Huxley
+15. The Hunger Games by Suzanne Collins
+16. Catching Fire by Suzanne Collins
+17. Mockingjay by Suzanne Collins
+18. The Lord of the Rings by J.R.R. Tolkien
+19. The Hobbit by J.R.R. Tolkien
+20. The Silmarillion by J.R.R. Tolkien
+21. The Chronicles of Narnia by C.S. Lewis
+22. The Lion, the Witch and the Wardrobe by C.S. Lewis
+23. Prince Caspian by C.S. Lewis
+24. The Voyage of the Dawn Treader by C.S. Lewis
+25. The Silver Chair by C.S. Lewis
+26. The Last Battle by C.S. Lewis
+27. The Name of the Wind by Patrick Rothfuss
+28. The Wise Man's Fear by Patrick Rothfuss
+29. The Lies of Locke Lamora by Scott Lynch
+30. The Blade Itself by Joe Abercrombie
+31. The Way of Kings by Brandon Sanderson
+32. Mistborn by Brandon Sanderson
+33. The Final Empire by Brandon Sanderson
+34. The Well of Ascension by Brandon Sanderson
+35. The Hero of Ages by Brandon Sanderson
+36. The Eye of the World by Robert Jordan
+37. A Game of Thrones by George R.R. Martin
+38. A Clash of Kings by George R.R. Martin
+39. A Storm of Swords by George R.R. Martin
+40. A Feast for Crows by George R.R. Martin
+41. A Dance with Dragons by George R.R. Martin
+42. The Name of the Rose by Umberto Eco
+43. The Pillars of the Earth by Ken Follett
+44. World Without End by Ken Follett
+45. The Girl with the Dragon Tattoo by Stieg Larsson
+46. The Girl Who Played with Fire by Stieg Larsson
+47. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+48. The Dark Tower by Stephen King
+49. The Name of the Wind by Patrick Rothfuss
+50. The Wise Man's Fear by Patrick Rothfuss

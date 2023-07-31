@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Taking Back Sunday
+2. Anberlin
+3. Billy Talent
+4. Fall Out Boy
+5. The All-American Rejects
+6. Jimmy Eat World
+7. Something Corporate
+8. Breaking Benjamin
+9. Lostprophets
+10. Funeral for a Friend
+11. Three Days Grace
+12. Plain White T's
+13. Shiny Toy Guns
+14. Panic! At the Disco
+15. Saosin
+16. Boys Like Girls
+17. Mayday Parade
+18. Cute Is What We Aim For
+19. The Wombats
+20. We Are Scientists
+21. Brand New
+22. Kings of Leon
+23. Maxïmo Park
+24. Nightwish
+25. Motion City Soundtrack
+26. Muse
+27. Paramore
+28. The Killers
+29. Nirvana
+30. Green Day
+31. My Chemical Romance
+32. Metallica
+33. Iron Maiden
+34. Pearl Jam
+35. Linkin Park
+36. Nine Inch Nails
+37. System of a Down
+38. Avenged Sevenfold
+39. Arctic Monkeys
+40. Placebo
+41. Blur
+42. Coldplay
+43. Radiohead
+44. Pink Floyd
+45. Led Zeppelin
+46. Michael Jackson
+47. Madonna
+48. Lady Gaga
+49. Christina Aguilera
+50. Britney Spears

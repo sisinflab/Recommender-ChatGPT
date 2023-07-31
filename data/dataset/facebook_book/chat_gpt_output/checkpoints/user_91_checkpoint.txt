@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Silence of the Lambs by Thomas Harris
+2. The Girl with the Dragon Tattoo by Stieg Larsson
+3. The Da Vinci Code by Dan Brown
+4. The Shining by Stephen King
+5. The Catcher in the Rye by J.D. Salinger
+6. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+7. The Hunger Games by Suzanne Collins
+8. The Lord of the Rings by J.R.R. Tolkien
+9. The Great Gatsby by F. Scott Fitzgerald
+10. To Kill a Mockingbird by Harper Lee
+11. 1984 by George Orwell
+12. Animal Farm by George Orwell
+13. The Hobbit by J.R.R. Tolkien
+14. The Stand by Stephen King
+15. The Outsider by Stephen King
+16. Misery by Stephen King
+17. The Green Mile by Stephen King
+18. The Talisman by Stephen King and Peter Straub
+19. The Dark Tower series by Stephen King
+20. The Name of the Wind by Patrick Rothfuss
+21. The Wise Man's Fear by Patrick Rothfuss
+22. The Martian by Andy Weir
+23. Ready Player One by Ernest Cline
+24. The Road by Cormac McCarthy
+25. The Handmaid's Tale by Margaret Atwood
+26. The Testaments by Margaret Atwood
+27. The Secret History by Donna Tartt
+28. The Goldfinch by Donna Tartt
+29. The Catcher in the Rye by J.D. Salinger
+30. The Bell Jar by Sylvia Plath
+31. The Picture of Dorian Gray by Oscar Wilde
+32. Crime and Punishment by Fyodor Dostoyevsky
+33. The Brothers Karamazov by Fyodor Dostoyevsky
+34. War and Peace by Leo Tolstoy
+35. Anna Karenina by Leo Tolstoy
+36. One Hundred Years of Solitude by Gabriel Garcia Marquez
+37. Love in the Time of Cholera by Gabriel Garcia Marquez
+38. The Alchemist by Paulo Coelho
+39. The Kite Runner by Khaled Hosseini
+40. A Thousand Splendid Suns by Khaled Hosseini
+41. The God of Small Things by Arundhati Roy
+42. The Shadow of the Wind by Carlos Ruiz Zafón
+43. The Angel's Game by Carlos Ruiz Zafón
+44. The Girl on the Train by Paula Hawkins
+45. Gone Girl by Gillian Flynn
+46. Sharp Objects by Gillian Flynn
+47. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+48. The Help by Kathryn Stockett
+49. The Nightingale by Kristin Hannah
+50. The Book Thief by Markus Zusak

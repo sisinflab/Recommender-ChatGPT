@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. Brave New World by Aldous Huxley
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Lord of the Flies by William Golding
+6. The Bell Jar by Sylvia Plath
+7. The Stranger by Albert Camus
+8. The Road by Cormac McCarthy
+9. The Handmaid's Tale by Margaret Atwood
+10. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+11. The Picture of Dorian Gray by Oscar Wilde
+12. The Sun Also Rises by Ernest Hemingway
+13. The Old Man and the Sea by Ernest Hemingway
+14. A Farewell to Arms by Ernest Hemingway
+15. The Grapes of Wrath by John Steinbeck
+16. East of Eden by John Steinbeck
+17. Of Mice and Men by John Steinbeck
+18. The Sound and the Fury by William Faulkner
+19. As I Lay Dying by William Faulkner
+20. The Catch-22 by Joseph Heller
+21. Slaughterhouse-Five by Kurt Vonnegut
+22. Cat's Cradle by Kurt Vonnegut
+23. The Sirens of Titan by Kurt Vonnegut
+24. The Martian Chronicles by Ray Bradbury
+25. Fahrenheit 451 by Ray Bradbury
+26. The Chronicles of Narnia by C.S. Lewis
+27. The Lord of the Rings by J.R.R. Tolkien
+28. The Hobbit by J.R.R. Tolkien
+29. The Silmarillion by J.R.R. Tolkien
+30. The Name of the Wind by Patrick Rothfuss
+31. The Wise Man's Fear by Patrick Rothfuss
+32. The Lies of Locke Lamora by Scott Lynch
+33. The Blade Itself by Joe Abercrombie
+34. The Way of Kings by Brandon Sanderson
+35. Mistborn by Brandon Sanderson
+36. The Final Empire by Brandon Sanderson
+37. The Lies of Locke Lamora by Scott Lynch
+38. The Blade Itself by Joe Abercrombie
+39. The Way of Kings by Brandon Sanderson
+40. Mistborn by Brandon Sanderson
+41. The Final Empire by Brandon Sanderson
+42. The Name of the Wind by Patrick Rothfuss
+43. The Wise Man's Fear by Patrick Rothfuss
+44. The Lies of Locke Lamora by Scott Lynch
+45. The Blade Itself by Joe Abercrombie
+46. The Way of Kings by Brandon Sanderson
+47. Mistborn by Brandon Sanderson
+48. The Final Empire by Brandon Sanderson
+49. The Name of the Wind by Patrick Rothfuss
+50. The Wise Man's Fear by Patrick

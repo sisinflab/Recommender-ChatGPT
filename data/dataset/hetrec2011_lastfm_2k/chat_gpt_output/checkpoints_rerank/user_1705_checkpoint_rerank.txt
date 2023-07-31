@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. Muse
+3. Pink Floyd
+4. Nirvana
+5. Led Zeppelin
+6. The Beatles
+7. Metallica
+8. The Killers
+9. Coldplay
+10. Arctic Monkeys
+11. Queens of the Stone Age
+12. Franz Ferdinand
+13. The Strokes
+14. The White Stripes
+15. The Black Keys
+16. Foo Fighters
+17. Pearl Jam
+18. Red Hot Chili Peppers
+19. U2
+20. The Who
+21. Kings of Leon
+22. The Mars Volta
+23. At the Drive-In
+24. ...And You Will Know Us by the Trail of Dead
+25. The Hives
+26. The Libertines
+27. The Futureheads
+28. The Wombats
+29. Foals
+30. Bloc Party
+31. Interpol
+32. Arcade Fire
+33. Vampire Weekend
+34. The National
+35. The Shins
+36. Death Cab for Cutie
+37. Modest Mouse
+38. Spoon
+39. Wilco
+40. Elliott Smith
+41. Sufjan Stevens
+42. Belle and Sebastian
+43. Neutral Milk Hotel
+44. The Decemberists
+45. Fleet Foxes
+46. Bon Iver
+47. Grizzly Bear
+48. Animal Collective
+49. Beach House
+50. Tame Impala

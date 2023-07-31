@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. A Thousand Splendid Suns by Khaled Hosseini
+2. Les Misérables by Victor Hugo
+3. The Count of Monte Cristo by Alexandre Dumas
+4. The Kite Runner by Khaled Hosseini
+5. The Picture of Dorian Gray by Oscar Wilde
+6. Animal Farm by George Orwell
+7. Romeo and Juliet by William Shakespeare
+8. Inferno by Dante Alighieri
+9. The Catcher in the Rye by J.D. Salinger
+10. Pride and Prejudice by Jane Austen
+11. Oliver Twist by Charles Dickens
+12. The Lord of the Rings by J.R.R. Tolkien
+13. Eragon by Christopher Paolini
+14. The Notebook by Nicholas Sparks
+15. The Lion in Winter by James Goldman
+16. World Without End by Ken Follett
+17. The Pelican Brief by John Grisham
+18. The Pact by Jodi Picoult
+19. The Last Song by Nicholas Sparks
+20. The Hamlet by William Faulkner
+21. The Secret by Rhonda Byrne
+22. The Mercy Thompson Series by Patricia Briggs
+23. The Amityville Horror by Jay Anson
+24. The Fountainhead by Ayn Rand
+25. Sweet Valley High by Francine Pascal
+26. Medea by Euripides
+27. Othello by William Shakespeare
+28. A Painted House by John Grisham
+29. The Diary of a Young Girl by Anne Frank
+30. Impulse Economy by Gary Schwartz
+31. The Forgotten Realms Adventures by Jeff Grubb
+32. The Silmarillion by J.R.R. Tolkien
+33. The Vampire Chronicles by Anne Rice
+34. The Picture of Dorian Gray by Oscar Wilde
+35. The Notebook by Nicholas Sparks
+36. The Catcher in the Rye by J.D. Salinger
+37. The Hamlet by William Faulkner
+38. The Pact by Jodi Picoult
+39. The Last Song by Nicholas Sparks
+40. The Secret by Rhonda Byrne
+41. The Mercy Thompson Series by Patricia Briggs
+42. The Amityville Horror by Jay Anson
+43. The Fountainhead by Ayn Rand
+44. Sweet Valley High by Francine Pascal
+45. Medea by Euripides
+46. Othello by William Shakespeare
+47. A Painted House by John Grisham
+48. The Diary of a Young Girl by Anne Frank
+49. Impulse Economy by Gary Schwartz
+50. The Picture of Dorian Gray by Oscar Wilde

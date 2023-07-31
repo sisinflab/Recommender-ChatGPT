@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Harry Potter and the Philosopher's Stone by J.K. Rowling
+3. The Fault in Our Stars by John Green
+4. To Kill a Mockingbird by Harper Lee
+5. The Book Thief by Markus Zusak
+6. The Maze Runner by James Dashner
+7. Divergent by Veronica Roth
+8. The Chronicles of Narnia by C.S. Lewis
+9. The Hobbit by J.R.R. Tolkien
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Catcher in the Rye by J.D. Salinger
+12. The Great Gatsby by F. Scott Fitzgerald
+13. 1984 by George Orwell
+14. Animal Farm by George Orwell
+15. Brave New World by Aldous Huxley
+16. Fahrenheit 451 by Ray Bradbury
+17. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+18. Ender's Game by Orson Scott Card
+19. The Alchemist by Paulo Coelho
+20. The Da Vinci Code by Dan Brown
+21. Angels and Demons by Dan Brown
+22. The Girl with the Dragon Tattoo by Stieg Larsson
+23. The Girl Who Played with Fire by Stieg Larsson
+24. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+25. The Help by Kathryn Stockett
+26. The Kite Runner by Khaled Hosseini
+27. A Thousand Splendid Suns by Khaled Hosseini
+28. The Lovely Bones by Alice Sebold
+29. The Time Traveler's Wife by Audrey Niffenegger
+30. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+31. The Secret Life of Bees by Sue Monk Kidd
+32. The Color Purple by Alice Walker
+33. The Joy Luck Club by Amy Tan
+34. The Poisonwood Bible by Barbara Kingsolver
+35. The Road by Cormac McCarthy
+36. The Stand by Stephen King
+37. The Shining by Stephen King
+38. The Green Mile by Stephen King
+39. The Talisman by Stephen King and Peter Straub
+40. The Dark Tower series by Stephen King
+41. The Name of the Wind by Patrick Rothfuss
+42. The Wise Man's Fear by Patrick Rothfuss
+43. The Lies of Locke Lamora by Scott Lynch
+44. The Blade Itself by Joe Abercrombie
+45. The Way of Kings by Brandon Sanderson
+46. Mistborn by Brandon Sanderson
+47. The Final Empire by Brandon Sanderson
+48. The Well of Ascension by Brandon Sanderson
+49. The Hero of Ages by Brandon Sanderson
+50. Elantris by Brandon Sanderson

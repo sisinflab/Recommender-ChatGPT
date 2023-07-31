@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Cat's Cradle by Kurt Vonnegut
+2. Slaughterhouse-Five by Kurt Vonnegut
+3. The Catcher in the Rye by J.D. Salinger
+4. Brave New World by Aldous Huxley
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Dracula by Bram Stoker
+7. Crime and Punishment by Fyodor Dostoevsky
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Outsiders by S.E. Hinton
+10. Memoirs of a Geisha by Arthur Golden
+11. The Hunger Games by Suzanne Collins
+12. Nineteen Eighty-Four by George Orwell
+13. The Shadow of the Wind by Carlos Ruiz Zafón
+14. Interview with the Vampire by Anne Rice
+15. The World According to Garp by John Irving
+16. The Prince by Niccolò Machiavelli
+17. The Importance of Being Earnest by Oscar Wilde
+18. Atonement by Ian McEwan
+19. The Interpretation of Dreams by Sigmund Freud
+20. Island by Aldous Huxley
+21. The Coldest Winter Ever by Sister Souljah
+22. White Noise by Don DeLillo
+23. The Zombie Survival Guide by Max Brooks
+24. The Cay by Theodore Taylor
+25. Fahrenheit 451 by Ray Bradbury
+26. House of Leaves by Mark Z. Danielewski
+27. The Da Vinci Code by Dan Brown
+28. Ender's Game by Orson Scott Card
+29. Inferno by Dante Alighieri
+30. Go Ask Alice by Anonymous
+31. The Unbearable Lightness of Being by Milan Kundera
+32. Cabal by Clive Barker
+33. Rant by Chuck Palahniuk
+34. Common Sense by Thomas Paine
+35. The Birth of Tragedy by Friedrich Nietzsche
+36. Sense and Sensibility by Jane Austen
+37. The Interpretation of Murder by Jed Rubenfeld
+38. The Watchmen by Alan Moore
+39. Necroscope by Brian Lumley
+40. Musashi by Eiji Yoshikawa
+41. At the Mountains of Madness by H.P. Lovecraft
+42. The Inheritance Cycle by Christopher Paolini
+43. The Rules of Attraction by Bret Easton Ellis
+44. Running with Scissors by Augusten Burroughs
+45. Other Voices, Other Rooms by Truman Capote
+46. Breakfast at Tiffany's by Truman Capote
+47. Lullaby by Chuck Palahniuk
+48. Haunted by Chuck Palahniuk
+49. Choke by Chuck Palahniuk
+50. Brain Droppings by George Carlin

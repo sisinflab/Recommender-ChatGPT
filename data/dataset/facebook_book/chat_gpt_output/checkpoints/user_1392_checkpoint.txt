@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Slaughterhouse-Five by Kurt Vonnegut
+3. The Road by Cormac McCarthy
+4. One Hundred Years of Solitude by Gabriel Garcia Marquez
+5. The Brothers Karamazov by Fyodor Dostoevsky
+6. Crime and Punishment by Fyodor Dostoevsky
+7. The Great Gatsby by F. Scott Fitzgerald
+8. To Kill a Mockingbird by Harper Lee
+9. The Bell Jar by Sylvia Plath
+10. The Picture of Dorian Gray by Oscar Wilde
+11. The Sun Also Rises by Ernest Hemingway
+12. The Old Man and the Sea by Ernest Hemingway
+13. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+14. The Martian by Andy Weir
+15. The Handmaid's Tale by Margaret Atwood
+16. The Catch-22 by Joseph Heller
+17. The Fountainhead by Ayn Rand
+18. Atlas Shrugged by Ayn Rand
+19. The Lord of the Rings by J.R.R. Tolkien
+20. The Hobbit by J.R.R. Tolkien
+21. The Chronicles of Narnia by C.S. Lewis
+22. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+23. The Martian by Andy Weir
+24. The Handmaid's Tale by Margaret Atwood
+25. The Catch-22 by Joseph Heller
+26. The Fountainhead by Ayn Rand
+27. Atlas Shrugged by Ayn Rand
+28. The Lord of the Rings by J.R.R. Tolkien
+29. The Hobbit by J.R.R. Tolkien
+30. The Chronicles of Narnia by C.S. Lewis
+31. The Wind-Up Bird Chronicle by Haruki Murakami
+32. Kafka on the Shore by Haruki Murakami
+33. The Name of the Wind by Patrick Rothfuss
+34. The Wise Man's Fear by Patrick Rothfuss
+35. The Girl with the Dragon Tattoo by Stieg Larsson
+36. The Girl Who Played with Fire by Stieg Larsson
+37. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+38. The Hunger Games by Suzanne Collins
+39. Catching Fire by Suzanne Collins
+40. Mockingjay by Suzanne Collins
+41. The Da Vinci Code by Dan Brown
+42. Angels and Demons by Dan Brown
+43. Inferno by Dan Brown
+44. The Alchemist by Paulo Coelho
+45. The Name of the Rose by Umberto Eco
+46. The Shadow of the Wind by Carlos Ruiz Zafón
+47. The Angel's Game by Carlos Ruiz Zafón
+48. The Prisoner of Heaven by Carlos Ruiz Zafón
+49. The Martian by Andy Weir
+50. Ready Player One by Ernest Cline

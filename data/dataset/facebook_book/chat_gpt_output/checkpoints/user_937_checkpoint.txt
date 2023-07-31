@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Picture of Dorian Gray by Oscar Wilde
+7. The Bell Jar by Sylvia Plath
+8. The Brothers Karamazov by Fyodor Dostoyevsky
+9. The Name of the Rose by Umberto Eco
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Hobbit by J.R.R. Tolkien
+12. The Chronicles of Narnia by C.S. Lewis
+13. The Hitchhiker's Guide to the Galaxy (series) by Douglas Adams
+14. The Dark Tower (series) by Stephen King
+15. The Stand by Stephen King
+16. The Shining by Stephen King
+17. The Silence of the Lambs by Thomas Harris
+18. The Girl with the Dragon Tattoo by Stieg Larsson
+19. The Da Vinci Code by Dan Brown
+20. The Hunger Games by Suzanne Collins
+21. The Road by Cormac McCarthy
+22. The Handmaid's Tale by Margaret Atwood
+23. Brave New World by Aldous Huxley
+24. Fahrenheit 451 by Ray Bradbury
+25. Slaughterhouse-Five by Kurt Vonnegut
+26. Catch-22 by Joseph Heller
+27. The Trial by Franz Kafka
+28. The Metamorphosis by Franz Kafka
+29. The Stranger by Albert Camus
+30. The Plague by Albert Camus
+31. Heart of Darkness by Joseph Conrad
+32. Lord of the Flies by William Golding
+33. Animal Farm by George Orwell
+34. A Clockwork Orange by Anthony Burgess
+35. Do Androids Dream of Electric Sheep? by Philip K. Dick
+36. Neuromancer by William Gibson
+37. Snow Crash by Neal Stephenson
+38. The Diamond Age by Neal Stephenson
+39. The Martian by Andy Weir
+40. Ready Player One by Ernest Cline
+41. Ender's Game by Orson Scott Card
+42. The Hitchhiker's Guide to the Galaxy (radio series) by Douglas Adams
+43. The War of the Worlds by H.G. Wells
+44. The Time Machine by H.G. Wells
+45. The Invisible Man by H.G. Wells
+46. The Island of Dr. Moreau by H.G. Wells
+47. The Picture of Dorian Gray by Oscar Wilde
+48. The Importance of Being Earnest by Oscar Wilde
+49. Dubliners by James Joyce
+50. Ulysses by James Joyce

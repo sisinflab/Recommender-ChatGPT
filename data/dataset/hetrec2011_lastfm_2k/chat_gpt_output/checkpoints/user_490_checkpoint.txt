@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Florence + The Machine
+2. Muse
+3. Imagine Dragons
+4. Linkin Park
+5. Green Day
+6. Panic! At The Disco
+7. Fall Out Boy
+8. The Black Keys
+9. The 1975
+10. Arctic Monkeys
+11. Twenty One Pilots
+12. Hozier
+13. Bastille
+14. The Neighbourhood
+15. Vampire Weekend
+16. Cage The Elephant
+17. The Lumineers
+18. Coldplay
+19. The Fray
+20. The Killers
+21. Radiohead
+22. Kings of Leon
+23. Paramore
+24. My Chemical Romance
+25. The Strokes
+26. Arcade Fire
+27. Crystal Castles
+28. Garbage
+29. Nightwish
+30. Evanescence
+31. Ladyhawke
+32. In Extremo
+33. Bat for Lashes
+34. MGMT
+35. Tarja
+36. The Offspring
+37. Placebo
+38. Oasis
+39. Red Hot Chili Peppers
+40. Foo Fighters
+41. Nirvana
+42. Pearl Jam
+43. Soundgarden
+44. Alice In Chains
+45. Stone Temple Pilots
+46. Bush
+47. Smashing Pumpkins
+48. Nine Inch Nails
+49. Marilyn Manson
+50. Tool

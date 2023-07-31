@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Da Vinci Code by Dan Brown
+2. The Girl Who Played with Fire by Stieg Larsson
+3. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+4. Inferno by Dan Brown
+5. The Lost Symbol by Dan Brown
+6. The Hobbit by J.R.R. Tolkien
+7. The Fellowship of the Ring by J.R.R. Tolkien
+8. The Two Towers by J.R.R. Tolkien
+9. The Return of the King by J.R.R. Tolkien
+10. Slaughterhouse-Five by Kurt Vonnegut
+11. Cat's Cradle by Kurt Vonnegut
+12. Catch-22 by Joseph Heller
+13. 1984 by George Orwell
+14. Animal Farm by George Orwell
+15. Brave New World by Aldous Huxley
+16. The Catcher in the Rye by J.D. Salinger
+17. To Kill a Mockingbird by Harper Lee
+18. The Great Gatsby by F. Scott Fitzgerald
+19. The Hunger Games: Catching Fire by Suzanne Collins
+20. The Hunger Games: Mockingjay by Suzanne Collins
+21. The Hunger Games by Suzanne Collins
+22. Wild by Cheryl Strayed
+23. Big Magic by Elizabeth Gilbert
+24. Committed by Elizabeth Gilbert
+25. The Alchemist by Paulo Coelho
+26. The Diary of Anne Frank: The Critical Edition by Anne Frank
+27. The Mortal Instruments: City of Bones by Cassandra Clare
+28. The Mortal Instruments: City of Glass by Cassandra Clare
+29. The Mortal Instruments: City of Fallen Angels by Cassandra Clare
+30. The Mortal Instruments: City of Lost Souls by Cassandra Clare
+31. The Mortal Instruments: City of Heavenly Fire by Cassandra Clare
+32. Twilight by Stephenie Meyer
+33. New Moon by Stephenie Meyer
+34. Eclipse by Stephenie Meyer
+35. Breaking Dawn by Stephenie Meyer
+36. The Host by Stephenie Meyer
+37. The Maze Runner by James Dashner
+38. The Scorch Trials by James Dashner
+39. The Death Cure by James Dashner
+40. The Kill Order by James Dashner
+41. The Giver by Lois Lowry
+42. Gathering Blue by Lois Lowry
+43. Messenger by Lois Lowry
+44. Son by Lois Lowry
+45. The Fault in Our Stars by John Green
+46. Looking for Alaska by John Green
+47. Paper Towns by John Green
+48. An Abundance of Katherines by John Green
+49. Turtles All the Way Down by John Green
+50. The Book Thief by Markus Zusak

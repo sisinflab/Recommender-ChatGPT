@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Red Dragon by Thomas Harris
+2. Inferno by Dan Brown
+3. American Gods by Neil Gaiman
+4. The Exorcist by William Peter Blatty
+5. The Da Vinci Code by Dan Brown
+6. The Shining by Stephen King
+7. The Girl with the Dragon Tattoo by Stieg Larsson
+8. The Stand by Stephen King
+9. The Silence of the Lambs (movie tie-in edition) by Thomas Harris
+10. The Name of the Rose by Umberto Eco
+11. The Andromeda Strain by Michael Crichton
+12. The Bourne Identity by Robert Ludlum
+13. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+14. The Hunger Games by Suzanne Collins
+15. The Road by Cormac McCarthy
+16. The Martian by Andy Weir
+17. The Catcher in the Rye by J.D. Salinger
+18. The Hobbit by J.R.R. Tolkien
+19. The Lord of the Rings by J.R.R. Tolkien
+20. The Girl Who Played with Fire by Stieg Larsson
+21. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+22. The Dark Tower I: The Gunslinger by Stephen King
+23. The Dark Tower II: The Drawing of the Three by Stephen King
+24. The Dark Tower III: The Waste Lands by Stephen King
+25. The Dark Tower IV: Wizard and Glass by Stephen King
+26. The Dark Tower V: Wolves of the Calla by Stephen King
+27. The Dark Tower VI: Song of Susannah by Stephen King
+28. The Dark Tower VII: The Dark Tower by Stephen King
+29. The Talisman by Stephen King and Peter Straub
+30. The Eyes of the Dragon by Stephen King
+31. The Green Mile by Stephen King
+32. The Dead Zone by Stephen King
+33. The Tommyknockers by Stephen King
+34. The Stand: The Complete and Uncut Edition by Stephen King
+35. The Outsider by Stephen King
+36. The Institute by Stephen King
+37. The Complete Sherlock Holmes by Arthur Conan Doyle
+38. The Adventures of Huckleberry Finn by Mark Twain
+39. The Adventures of Tom Sawyer by Mark Twain
+40. The Picture of Dorian Gray by Oscar Wilde
+41. The Great Gatsby by F. Scott Fitzgerald
+42. To Kill a Mockingbird by Harper Lee
+43. Animal Farm by George Orwell
+44. Brave New World by Aldous Huxley
+45. Fahrenheit 451 by Ray Bradbury
+46. 1984 by George Orwell
+47. The Handmaid's Tale by Margaret Atwood
+48. The Road to Serfdom by Friedrich Hayek
+49. The Wealth of Nations by Adam

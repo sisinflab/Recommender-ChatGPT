@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Flyleaf
+2. Within Temptation
+3. A Perfect Circle
+4. The Smashing Pumpkins
+5. Jimmy Eat World
+6. Pitty
+7. Kate Voegele
+8. Band of Horses
+9. Snow Patrol
+10. Caliban
+11. Dashboard Confessional
+12. Timbaland
+13. A Fine Frenzy
+14. Backstreet Boys
+15. Kerli
+16. Muse
+17. Paramore
+18. Evanescence
+19. Katy Perry
+20. Britney Spears
+21. Michael Jackson
+22. Justin Timberlake
+23. Eminem
+24. Sara Bareilles
+25. Capital Inicial
+26. Avenged Sevenfold
+27. Nick Carter
+28. Luan Santana
+29. Carrie Underwood
+30. The Knife
+31. Depeche Mode
+32. Lady Gaga
+33. Christina Aguilera
+34. Madonna
+35. Rihanna
+36. Shakira
+37. The Beatles
+38. Avril Lavigne
+39. Taylor Swift
+40. Glee Cast
+41. Beyoncé
+42. U2
+43. 30 Seconds to Mars
+44. Pink Floyd
+45. Kylie Minogue
+46. Miley Cyrus
+47. Radiohead
+48. Ke$ha
+49. Duran Duran
+50. Coldplay

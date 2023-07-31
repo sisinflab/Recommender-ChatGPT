@@ -1,0 +1,49 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Great Gatsby by F. Scott Fitzgerald
+4. The Lord of the Rings by J.R.R. Tolkien
+5. The Hobbit by J.R.R. Tolkien
+6. The Hunger Games by Suzanne Collins
+7. The Girl with the Dragon Tattoo by Stieg Larsson
+8. The Da Vinci Code by Dan Brown
+9. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+10. The Chronicles of Narnia by C.S. Lewis
+11. The Shining by Stephen King
+12. The Stand by Stephen King
+13. The Dark Tower series by Stephen King
+14. The Name of the Wind by Patrick Rothfuss
+15. The Wise Man's Fear by Patrick Rothfuss
+16. The Wheel of Time series by Robert Jordan
+17. The Stormlight Archive series by Brandon Sanderson
+18. Mistborn series by Brandon Sanderson
+19. The Kingkiller Chronicle series by Patrick Rothfuss
+20. The Dresden Files series by Jim Butcher
+21. The Catcher in the Rye by J.D. Salinger
+22. Ender's Game by Orson Scott Card
+23. The Secret Garden by Frances Hodgson Burnett
+24. A Clockwork Orange by Anthony Burgess
+25. The Cricket in Times Square by George Selden
+26. Harry Potter series by J.K. Rowling
+27. The Wallflower (manga) by Tomoko Hayakawa
+28. Skip Beat! (manga) by Yoshiki Nakamura
+29. The Picture of Dorian Gray by Oscar Wilde
+30. The Count of Monte Cristo by Alexandre Dumas
+31. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+32. The War of the Worlds by H.G. Wells
+33. The Time Machine by H.G. Wells
+34. The Invisible Man by H.G. Wells
+35. The Island of Dr. Moreau by H.G. Wells
+36. The Call of Cthulhu and Other Weird Stories by H.P. Lovecraft
+37. The Complete Tales and Poems of Edgar Allan Poe by Edgar Allan Poe
+38. The Hitchhiker's Guide to the Galaxy series by Douglas Adams
+39. The Dark Tower series by Stephen King
+40. The Lord of the Rings series by J.R.R. Tolkien
+41. The Hobbit by J.R.R. Tolkien
+42. The Chronicles of Narnia series by C.S. Lewis
+43. The Hunger Games series by Suzanne Collins
+44. The Girl with the Dragon Tattoo series by Stieg Larsson
+45. The Da Vinci Code series by Dan Brown
+46. The Name of the Wind series by Patrick Rothfuss
+47. The Wise Man's Fear series

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Nightingale by Kristin Hannah
+2. The Girl on the Train by Paula Hawkins
+3. The Hunger Games by Suzanne Collins
+4. The Fault in Our Stars by John Green
+5. To Kill a Mockingbird by Harper Lee
+6. The Catcher in the Rye by J.D. Salinger
+7. 1984 by George Orwell
+8. Animal Farm by George Orwell
+9. The Great Gatsby by F. Scott Fitzgerald
+10. Pride and Prejudice by Jane Austen
+11. Jane Eyre by Charlotte Bronte
+12. Wuthering Heights by Emily Bronte
+13. The Picture of Dorian Gray by Oscar Wilde
+14. The Lord of the Rings by J.R.R. Tolkien
+15. The Chronicles of Narnia by C.S. Lewis
+16. The Da Vinci Code by Dan Brown
+17. Angels and Demons by Dan Brown
+18. The Alchemist by Paulo Coelho
+19. One Hundred Years of Solitude by Gabriel Garcia Marquez
+20. Love in the Time of Cholera by Gabriel Garcia Marquez
+21. The Name of the Wind by Patrick Rothfuss
+22. The Wise Man's Fear by Patrick Rothfuss
+23. The Shadow of the Wind by Carlos Ruiz Zafon
+24. The Time Keeper by Mitch Albom
+25. The Five People You Meet in Heaven by Mitch Albom
+26. The Lovely Bones by Alice Sebold
+27. The Help by Kathryn Stockett
+28. The Secret Life of Bees by Sue Monk Kidd
+29. The Color Purple by Alice Walker
+30. The Joy Luck Club by Amy Tan
+31. The God of Small Things by Arundhati Roy
+32. Life of Pi by Yann Martel
+33. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+34. The Handmaid's Tale by Margaret Atwood
+35. The Road by Cormac McCarthy
+36. The Stand by Stephen King
+37. The Shining by Stephen King
+38. It by Stephen King
+39. The Girl with the Dragon Tattoo by Stieg Larsson
+40. The Help by Kathryn Stockett
+41. The Secret Life of Bees by Sue Monk Kidd
+42. The Color Purple by Alice Walker
+43. The Joy Luck Club by Amy Tan
+44. The God of Small Things by Arundhati Roy
+45. Life of Pi by Yann Martel
+46. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+47. The Handmaid's Tale by Margaret Atwood
+48. The Road by Cormac McCarthy
+49. The Stand by Stephen King
+50. The Shining by Stephen King

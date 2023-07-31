@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. The Fault in Our Stars by John Green
+3. 1984 by George Orwell
+4. To Kill a Mockingbird by Harper Lee
+5. The Catcher in the Rye by J.D. Salinger
+6. The Girl with the Dragon Tattoo by Stieg Larsson
+7. The Da Vinci Code by Dan Brown
+8. The Lord of the Rings by J.R.R. Tolkien
+9. The Hobbit by J.R.R. Tolkien
+10. The Chronicles of Narnia by C.S. Lewis
+11. The Great Gatsby by F. Scott Fitzgerald
+12. The Alchemist by Paulo Coelho
+13. The Kite Runner by Khaled Hosseini
+14. The Book Thief by Markus Zusak
+15. The Help by Kathryn Stockett
+16. The Secret Life of Bees by Sue Monk Kidd
+17. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+18. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+19. The Perks of Being a Wallflower by Stephen Chbosky
+20. The Giver by Lois Lowry
+21. The Maze Runner by James Dashner
+22. The Outsiders by S.E. Hinton
+23. The Picture of Dorian Gray by Oscar Wilde
+24. The Road by Cormac McCarthy
+25. The Stand by Stephen King
+26. The Shining by Stephen King
+27. The Silence of the Lambs by Thomas Harris
+28. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+29. The War of the Worlds by H.G. Wells
+30. The Time Machine by H.G. Wells
+31. The Invisible Man by H.G. Wells
+32. The Island of Dr. Moreau by H.G. Wells
+33. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+34. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+35. The Hound of the Baskervilles by Arthur Conan Doyle
+36. The Count of Monte Cristo by Alexandre Dumas
+37. Les Misérables by Victor Hugo
+38. Pride and Prejudice by Jane Austen
+39. Sense and Sensibility by Jane Austen
+40. Emma by Jane Austen
+41. Persuasion by Jane Austen
+42. Northanger Abbey by Jane Austen
+43. Wuthering Heights by Emily Bronte
+44. Jane Eyre by Charlotte Bronte
+45. Great Expectations by Charles Dickens
+46. Oliver Twist by Charles Dickens
+47. David Copperfield by Charles Dickens
+48. A Tale of Two Cities by Charles Dickens
+49. The Adventures of Tom Sawyer by Mark Twain
+50. Adventures of Huckle

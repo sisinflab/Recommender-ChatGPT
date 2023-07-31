@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Lord of the Rings by J.R.R. Tolkien
+7. Pride and Prejudice by Jane Austen
+8. Animal Farm by George Orwell
+9. The Hobbit by J.R.R. Tolkien
+10. The Chronicles of Narnia by C.S. Lewis
+11. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+12. The Picture of Dorian Gray by Oscar Wilde
+13. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+14. The Hunger Games by Suzanne Collins
+15. The Girl with the Dragon Tattoo by Stieg Larsson
+16. The Road by Cormac McCarthy
+17. The Book Thief by Markus Zusak
+18. The Kite Runner by Khaled Hosseini
+19. The Alchemist by Paulo Coelho
+20. The Secret Life of Bees by Sue Monk Kidd
+21. The Help by Kathryn Stockett
+22. The Lovely Bones by Alice Sebold
+23. The Time Traveler's Wife by Audrey Niffenegger
+24. The Fault in Our Stars by John Green
+25. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+26. The Giver by Lois Lowry
+27. The Maze Runner by James Dashner
+28. The Perks of Being a Wallflower by Stephen Chbosky
+29. The Outsiders by S.E. Hinton
+30. The Bell Jar by Sylvia Plath
+31. The Handmaid's Tale by Margaret Atwood
+32. The Stand by Stephen King
+33. The Shining by Stephen King
+34. The Silence of the Lambs by Thomas Harris
+35. The Da Vinci Code by Dan Brown
+36. Angels & Demons by Dan Brown
+37. Inferno by Dan Brown
+38. The Lost Symbol by Dan Brown
+39. The Sound and the Fury by William Faulkner
+40. As I Lay Dying by William Faulkner
+41. The Jungle Book by Rudyard Kipling
+42. Gulliver's Travels by Jonathan Swift
+43. Eragon by Christopher Paolini
+44. Eldest by Christopher Paolini
+45. Brisingr by Christopher Paolini
+46. Inheritance by Christopher Paolini
+47. Winter Rose by Patricia A. McKillip
+48. Red by Ted Dekker
+49. Tuck Everlasting by Natalie Babbitt
+50. The Secret Garden by Frances Hodgson Burnett

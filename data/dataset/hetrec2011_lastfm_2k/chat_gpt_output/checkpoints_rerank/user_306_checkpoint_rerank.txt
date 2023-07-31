@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Depeche Mode
+2. The Cure
+3. Linkin Park
+4. 30 Seconds to Mars
+5. Nirvana
+6. Duran Duran
+7. INXS
+8. Joy Division
+9. Marilyn Manson
+10. Pet Shop Boys
+11. Erasure
+12. Mesh
+13. Apoptygma Berzerk
+14. Recoil
+15. Nitzer Ebb
+16. IAMX
+17. Tool
+18. Disturbed
+19. Soft Cell
+20. Alphaville
+21. Camouflage
+22. Martin L. Gore
+23. Hurts
+24. Savage Garden
+25. Backstreet Boys
+26. Dżem
+27. Myslovitz
+28. Lenny Kravitz
+29. Madonna
+30. Lady Gaga
+31. Christina Aguilera
+32. Rihanna
+33. Shakira
+34. Beyoncé
+35. Katy Perry
+36. Taylor Swift
+37. Evanescence
+38. Muse
+39. Pink Floyd
+40. Radiohead
+41. Ke$ha
+42. Coldplay
+43. Blur
+44. Arctic Monkeys
+45. Placebo
+46. The Killers
+47. Iron Maiden
+48. Led Zeppelin
+49. Metallica
+50. Michael Jackson

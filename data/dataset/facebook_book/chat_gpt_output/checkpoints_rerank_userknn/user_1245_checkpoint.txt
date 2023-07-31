@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Brothers Karamazov by Fyodor Dostoevsky
+2. Brave New World by Aldous Huxley
+3. The Trial by Franz Kafka
+4. The Stranger by Albert Camus
+5. Slaughterhouse-Five by Kurt Vonnegut
+6. To Kill a Mockingbird by Harper Lee
+7. Catch-22 by Joseph Heller
+8. The Great Gatsby by F. Scott Fitzgerald
+9. 1984 by George Orwell
+10. The Hobbit by J.R.R. Tolkien
+11. The Lord of the Rings by J.R.R. Tolkien
+12. The Catcher in the Rye by J.D. Salinger
+13. A Clockwork Orange by Anthony Burgess
+14. The Sound and the Fury by William Faulkner
+15. Lolita by Vladimir Nabokov
+16. Frankenstein by Mary Shelley
+17. Paradise Lost by John Milton
+18. The Picture of Dorian Gray by Oscar Wilde
+19. The Fountainhead by Ayn Rand
+20. Ender's Game by Orson Scott Card
+21. The Hunger Games by Suzanne Collins
+22. The Lovely Bones by Alice Sebold
+23. Invisible Man by Ralph Ellison
+24. The Colour of Magic by Terry Pratchett
+25. Adventures of Huckleberry Finn by Mark Twain
+26. The War of the Worlds by H.G. Wells
+27. The Giver by Lois Lowry
+28. The Last Storytellers: Tales from the Heart of Morocco by Richard Hamilton
+29. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+30. The Hatchet by Gary Paulsen
+31. The Adventures of Tom Sawyer by Mark Twain
+32. Look Me in the Eye by John Elder Robison
+33. Player Piano by Kurt Vonnegut
+34. Lies My Teacher Told Me by James W. Loewen
+35. Black Boy by Richard Wright
+36. The Hamlet by William Faulkner
+37. Christine by Stephen King
+38. Fear and Trembling by Søren Kierkegaard
+39. Guns, Germs, and Steel by Jared Diamond
+40. Cosmos by Carl Sagan
+41. Diary by Chuck Palahniuk
+42. The Zombie Survival Guide by Max Brooks
+43. Memoirs of a Geisha by Arthur Golden
+44. Harry Potter by J.K. Rowling
+45. Their Eyes Were Watching God by Zora Neale Hurston
+46. Girl, Interrupted by Susanna Kaysen
+47. Death Note Another Note: The Los Angeles BB Murder Cases by Nisio Isin
+48. Ferdydurke by Witold Gombrowicz
+49. Inferno by Dante Alighieri
+50. Pyramids by Terry

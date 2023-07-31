@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Catching Fire by Suzanne Collins
+3. Divergent by Veronica Roth
+4. Insurgent by Veronica Roth
+5. Allegiant by Veronica Roth
+6. The Golden Compass by Philip Pullman
+7. The Subtle Knife by Philip Pullman
+8. The Amber Spyglass by Philip Pullman
+9. Inkheart by Cornelia Funke
+10. Inkdeath by Cornelia Funke
+11. Snow Flower and the Secret Fan by Lisa See
+12. The Joy Luck Club by Amy Tan
+13. The Kitchen God's Wife by Amy Tan
+14. The Bonesetter's Daughter by Amy Tan
+15. The Memoirs of Cleopatra by Margaret George
+16. The Red Tent by Anita Diamant
+17. The Giver by Lois Lowry
+18. Gathering Blue by Lois Lowry
+19. Messenger by Lois Lowry
+20. Son by Lois Lowry
+21. The Maze Runner by James Dashner
+22. The Scorch Trials by James Dashner
+23. The Death Cure by James Dashner
+24. The Kill Order by James Dashner
+25. The Uglies by Scott Westerfeld
+26. Specials by Scott Westerfeld
+27. Extras by Scott Westerfeld
+28. Leviathan by Scott Westerfeld
+29. Behemoth by Scott Westerfeld
+30. Goliath by Scott Westerfeld
+31. The Abhorsen Trilogy by Garth Nix
+32. The Old Kingdom Series by Garth Nix
+33. The Mortal Instruments Series by Cassandra Clare
+34. The Infernal Devices Series by Cassandra Clare
+35. The Lunar Chronicles Series by Marissa Meyer
+36. The Selection Series by Kiera Cass
+37. The Chemical Garden Trilogy by Lauren DeStefano
+38. The Delirium Trilogy by Lauren Oliver
+39. The Darkest Minds Series by Alexandra Bracken
+40. The Legend Trilogy by Marie Lu
+41. The Testing Trilogy by Joelle Charbonneau
+42. The Maze of Bones by Rick Riordan
+43. The 39 Clues Series by various authors
+44. The Name of the Wind by Patrick Rothfuss
+45. The Wise Man's Fear by Patrick Rothfuss
+46. The Lies of Locke Lamora by Scott Lynch
+47. The Blade Itself by Joe Abercrombie
+48. The Way of Kings by Brandon Sanderson
+49. Mistborn Trilogy by Brandon Sanderson
+50. The Stormlight Archive Series by Brandon Sanderson

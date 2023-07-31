@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Great Gatsby by F. Scott Fitzgerald
+4. One Hundred Years of Solitude by Gabriel Garcia Marquez
+5. The Bell Jar by Sylvia Plath
+6. The Picture of Dorian Gray by Oscar Wilde
+7. The Stranger by Albert Camus
+8. The Road by Cormac McCarthy
+9. The Handmaid's Tale by Margaret Atwood
+10. The Sun Also Rises by Ernest Hemingway
+11. The Sound and the Fury by William Faulkner
+12. The Grapes of Wrath by John Steinbeck
+13. Crime and Punishment by Fyodor Dostoevsky
+14. Heart of Darkness by Joseph Conrad
+15. The Brothers Karamazov by Fyodor Dostoevsky
+16. The Trial by Franz Kafka
+17. The Metamorphosis by Franz Kafka
+18. The Catcher in the Rye by J.D. Salinger
+19. The Old Man and the Sea by Ernest Hemingway
+20. The Stranger by Albert Camus
+21. The Plague by Albert Camus
+22. The Idiot by Fyodor Dostoevsky
+23. The Master and Margarita by Mikhail Bulgakov
+24. Lolita by Vladimir Nabokov
+25. The Unbearable Lightness of Being by Milan Kundera
+26. The Name of the Rose by Umberto Eco
+27. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+28. The Hobbit by J.R.R. Tolkien
+29. The Lord of the Rings by J.R.R. Tolkien
+30. The Chronicles of Narnia by C.S. Lewis
+31. The Da Vinci Code by Dan Brown
+32. The Girl with the Dragon Tattoo by Stieg Larsson
+33. The Hunger Games by Suzanne Collins
+34. The Help by Kathryn Stockett
+35. The Kite Runner by Khaled Hosseini
+36. The Secret Life of Bees by Sue Monk Kidd
+37. The Color Purple by Alice Walker
+38. The Joy Luck Club by Amy Tan
+39. The Poisonwood Bible by Barbara Kingsolver
+40. The Time Traveler's Wife by Audrey Niffenegger
+41. The Lovely Bones by Alice Sebold
+42. The Book Thief by Markus Zusak
+43. The Fault in Our Stars by John Green
+44. The Alchemist by Paulo Coelho
+45. The Power of One by Bryce Courtenay
+46. The Help by Kathryn Stockett
+47. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+48. The Glass Castle by Jeannette Walls
+49. The Nightingale by Kristin Hannah

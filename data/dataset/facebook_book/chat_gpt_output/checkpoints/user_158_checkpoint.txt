@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Girl with the Dragon Tattoo by Stieg Larsson
+2. The Da Vinci Code by Dan Brown
+3. The Hunger Games by Suzanne Collins
+4. The Help by Kathryn Stockett
+5. The Kite Runner by Khaled Hosseini
+6. The Fault in Our Stars by John Green
+7. The Catcher in the Rye by J.D. Salinger
+8. To Kill a Mockingbird by Harper Lee
+9. The Great Gatsby by F. Scott Fitzgerald
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Hobbit by J.R.R. Tolkien
+12. The Chronicles of Narnia by C.S. Lewis
+13. The Book Thief by Markus Zusak
+14. The Maze Runner by James Dashner
+15. Divergent by Veronica Roth
+16. The Giver by Lois Lowry
+17. The Alchemist by Paulo Coelho
+18. The Secret Life of Bees by Sue Monk Kidd
+19. The Lovely Bones by Alice Sebold
+20. The Time Traveler's Wife by Audrey Niffenegger
+21. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+22. The Perks of Being a Wallflower by Stephen Chbosky
+23. The Picture of Dorian Gray by Oscar Wilde
+24. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+25. The Count of Monte Cristo by Alexandre Dumas
+26. The Three Musketeers by Alexandre Dumas
+27. The War of the Worlds by H.G. Wells
+28. The Invisible Man by H.G. Wells
+29. The Island of Dr. Moreau by H.G. Wells
+30. The Time Machine by H.G. Wells
+31. The Andromeda Strain by Michael Crichton
+32. Jurassic Park by Michael Crichton
+33. The Lost World by Michael Crichton
+34. The Stand by Stephen King
+35. The Shining by Stephen King
+36. Carrie by Stephen King
+37. The Green Mile by Stephen King
+38. The Dark Tower by Stephen King
+39. The Silence of the Lambs by Thomas Harris
+40. Red Dragon by Thomas Harris
+41. Hannibal by Thomas Harris
+42. The Bourne Identity by Robert Ludlum
+43. The Bourne Supremacy by Robert Ludlum
+44. The Bourne Ultimatum by Robert Ludlum
+45. The Firm by John Grisham
+46. The Pelican Brief by John Grisham
+47. A Time to Kill by John Grisham
+48. The Rainmaker by John Grisham
+49. The Runaway Jury by John Grisham
+50. The Street Lawyer by John Grisham

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Smiths
+2. David Bowie
+3. The Beatles
+4. Roxy Music
+5. New Order
+6. Pulp
+7. Kate Bush
+8. T. Rex
+9. Ultravox
+10. Echo & The Bunnymen
+11. The Jesus and Mary Chain
+12. Siouxsie and the Banshees
+13. The Cure
+14. Duran Duran
+15. Suede
+16. Manic Street Preachers
+17. Cocteau Twins
+18. Blondie
+19. Adam and the Ants
+20. The Stranglers
+21. Goldfrapp
+22. The Human League
+23. Kim Wilde
+24. Madonna
+25. Lady Gaga
+26. Britney Spears
+27. Christina Aguilera
+28. Rihanna
+29. Shakira
+30. Katy Perry
+31. Avril Lavigne
+32. Taylor Swift
+33. Beyoncé
+34. Muse
+35. Radiohead
+36. Coldplay
+37. Blur
+38. Arctic Monkeys
+39. Placebo
+40. The Killers
+41. Nirvana
+42. Led Zeppelin
+43. Iron Maiden
+44. Metallica
+45. Pearl Jam
+46. a-ha
+47. Björk
+48. Nine Inch Nails
+49. Daft Punk
+50. Linkin Park

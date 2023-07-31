@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter
+2. The Lord of the Rings
+3. The Chronicles of Narnia: Prince Caspian
+4. Memoirs of a Geisha
+5. The Da Vinci Code
+6. Angels & Demons
+7. Northern Lights (novel)
+8. The Hobbit
+9. Frankenstein
+10. Dracula
+11. Paradise Lost
+12. The Vampire Chronicles
+13. Interview with the Vampire
+14. Inheritance Cycle
+15. Germinal (novel)
+16. The Secret (book)
+17. The Old Man and the Sea
+18. The Cat in the Hat
+19. The Little Prince
+20. Romeo and Juliet
+21. The Coldest Winter Ever
+22. Jane Eyre
+23. The Dark Tower: The Gunslinger
+24. Slaughterhouse-Five
+25. The Unbearable Lightness of Being
+26. Brisingr
+27. The Hamlet
+28. Flowers in the Attic
+29. Eleven Minutes
+30. The Rum Diary (novel)
+31. The Watchmen (novel)
+32. Adventures of Huckleberry Finn
+33. The Hardy Boys
+34. Valiant : A Modern Tale of Faerie
+35. Fear and Loathing in Las Vegas
+36. I Am Legend (novel)
+37. The Zombie Survival Guide
+38. Vampire Kisses
+39. Johnny Tremain
+40. Les Misérables
+41. King Solomon's Mines
+42. David Copperfield
+43. The Naughtiest Girl Again
+44. Fushigi Yūgi
+45. Goosebumps
+46. Percy Jackson & the Olympians
+47. A Walk to Remember (novel)
+48. His Dark Materials
+49. Bible
+50. Nineteen Eighty-Four

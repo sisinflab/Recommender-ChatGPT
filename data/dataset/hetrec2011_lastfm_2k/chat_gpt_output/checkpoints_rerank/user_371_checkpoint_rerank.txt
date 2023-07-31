@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Depeche Mode
+2. Rammstein
+3. Кино
+4. Nautilus Pompilius
+5. Dave Gahan
+6. Queen
+7. Dead Can Dance
+8. Whitesnake
+9. Mesh
+10. Martin L. Gore
+11. Dolphin
+12. Sopor Aeternus & The Ensemble of Shadows
+13. Bob Marley
+14. Everything but the Girl
+15. Sixx:A.M.
+16. Camouflage
+17. HIM
+18. Madonna
+19. Radiohead
+20. Nirvana
+21. Pink Floyd
+22. Led Zeppelin
+23. Metallica
+24. Iron Maiden
+25. Pearl Jam
+26. U2
+27. Muse
+28. Arctic Monkeys
+29. Placebo
+30. The Killers
+31. Duran Duran
+32. Coldplay
+33. Blur
+34. Ke$ha
+35. Lady Gaga
+36. Christina Aguilera
+37. Beyoncé
+38. Shakira
+39. Katy Perry
+40. Taylor Swift
+41. Evanescence
+42. Glee Cast
+43. Miley Cyrus
+44. Kelly Clarkson
+45. P!nk
+46. Avril Lavigne
+47. All Time Low
+48. Avenged Sevenfold
+49. My Chemical Romance
+50. Black Eyed Peas

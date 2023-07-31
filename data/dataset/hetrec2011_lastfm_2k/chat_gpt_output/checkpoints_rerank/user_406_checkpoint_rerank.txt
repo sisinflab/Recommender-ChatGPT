@@ -1,0 +1,54 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Porcupine Tree
+2. Anathema
+3. Dream Theater
+4. Opeth
+5. Pain of Salvation
+6. Katatonia
+7. Blackfield
+8. Cynic
+9. Pink Floyd
+10. Rush
+11. Captain Beefheart & His Magic Band
+12. Nick Drake
+13. Riverside
+14. Camel
+15. Meshuggah
+16. Marillion
+17. Devin Townsend
+18. Between the Buried and Me
+19. Antimatter
+20. David Gilmour
+21. Gentle Giant
+22. Genesis
+23. Muse
+24. Radiohead
+25. Iron Maiden
+26. Led Zeppelin
+27. Metallica
+28. Nirvana
+29. Pearl Jam
+30. System of a Down
+31. Nine Inch Nails
+32. Linkin Park
+33. Avenged Sevenfold
+34. Green Day
+35. My Chemical Romance
+36. The Cure
+37. U2
+38. 30 Seconds to Mars
+39. Coldplay
+40. Blur
+41. Arctic Monkeys
+42. Placebo
+43. The Killers
+44. Michael Jackson
+45. Beyoncé
+46. Madonna
+47. Rihanna
+48. Lady Gaga
+49. Christina Aguilera
+50. Shakira
+
+Note: The artists that are not related to the user's preferences have been removed from the list.

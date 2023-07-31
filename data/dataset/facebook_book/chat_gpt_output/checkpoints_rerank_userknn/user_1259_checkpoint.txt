@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Name of the Rose by Umberto Eco
+2. The Catcher in the Rye by J.D. Salinger
+3. Nineteen Eighty-Four by George Orwell
+4. The Divine Comedy by Dante Alighieri
+5. I, Robot by Isaac Asimov
+6. The Lord of the Rings by J.R.R. Tolkien
+7. Harry Potter series by J.K. Rowling
+8. The Hobbit by J.R.R. Tolkien
+9. Ender's Game by Orson Scott Card
+10. Fahrenheit 451 by Ray Bradbury
+11. Animal Farm by George Orwell
+12. Ulysses by James Joyce
+13. The Once and Future King by T.H. White
+14. The Plague by Albert Camus
+15. The Andromeda Strain by Michael Crichton
+16. The Book of Lost Things by John Connolly
+17. The Master and Margarita by Mikhail Bulgakov
+18. Inferno by Dan Brown
+19. The Old Man and the Sea by Ernest Hemingway
+20. Waiting for Godot by Samuel Beckett
+21. Love in the Time of Cholera by Gabriel Garcia Marquez
+22. The Picture of Dorian Gray by Oscar Wilde
+23. The Great Gatsby by F. Scott Fitzgerald
+24. Brave New World by Aldous Huxley
+25. The Road by Cormac McCarthy
+26. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+27. The Hunger Games by Suzanne Collins
+28. The Girl with the Dragon Tattoo by Stieg Larsson
+29. The Da Vinci Code by Dan Brown
+30. The Secret History by Donna Tartt
+31. The Shadow of the Wind by Carlos Ruiz Zafón
+32. The Kite Runner by Khaled Hosseini
+33. The Help by Kathryn Stockett
+34. The Fault in Our Stars by John Green
+35. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+36. The Alchemist by Paulo Coelho
+37. The Catcher in the Rye by J.D. Salinger
+38. The Picture of Dorian Gray by Oscar Wilde
+39. The Great Gatsby by F. Scott Fitzgerald
+40. The Bell Jar by Sylvia Plath
+41. To Kill a Mockingbird by Harper Lee
+42. One Hundred Years of Solitude by Gabriel Garcia Marquez
+43. Crime and Punishment by Fyodor Dostoevsky
+44. The Brothers Karamazov by Fyodor Dostoevsky
+45. War and Peace by Leo Tolstoy
+46. Anna Karenina by Leo Tolstoy
+47. The Idiot by Fyodor Dostoevsky
+48. The Trial by Franz Kafka

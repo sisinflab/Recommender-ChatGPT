@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Fault in Our Stars by John Green
+2. Divergent by Veronica Roth
+3. The Maze Runner by James Dashner
+4. The Giver by Lois Lowry
+5. The Book Thief by Markus Zusak
+6. The Hunger Games Trilogy Boxset by Suzanne Collins
+7. The Chronicles of Narnia by C.S. Lewis
+8. The Lord of the Rings Trilogy by J.R.R. Tolkien
+9. The Hobbit by J.R.R. Tolkien
+10. The Da Vinci Code by Dan Brown
+11. Angels and Demons by Dan Brown
+12. The Lost Symbol by Dan Brown
+13. The Girl with the Dragon Tattoo by Stieg Larsson
+14. The Girl Who Played with Fire by Stieg Larsson
+15. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+16. The Help by Kathryn Stockett
+17. The Lovely Bones by Alice Sebold
+18. The Catcher in the Rye by J.D. Salinger
+19. 1984 by George Orwell
+20. Animal Farm by George Orwell
+21. Brave New World by Aldous Huxley
+22. Fahrenheit 451 by Ray Bradbury
+23. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+24. The Alchemist by Paulo Coelho
+25. The Picture of Dorian Gray by Oscar Wilde
+26. The Great Gatsby by F. Scott Fitzgerald
+27. The Catcher in the Rye by J.D. Salinger
+28. The Bell Jar by Sylvia Plath
+29. The Color Purple by Alice Walker
+30. The Handmaid's Tale by Margaret Atwood
+31. The Road by Cormac McCarthy
+32. The Stand by Stephen King
+33. The Shining by Stephen King
+34. The Dark Tower Series by Stephen King
+35. The Name of the Wind by Patrick Rothfuss
+36. The Wise Man's Fear by Patrick Rothfuss
+37. The Kingkiller Chronicle Series by Patrick Rothfuss
+38. The Wheel of Time Series by Robert Jordan
+39. The Stormlight Archive Series by Brandon Sanderson
+40. Mistborn Trilogy by Brandon Sanderson
+41. The Way of Kings by Brandon Sanderson
+42. The Lies of Locke Lamora by Scott Lynch
+43. The First Law Trilogy by Joe Abercrombie
+44. The Blade Itself by Joe Abercrombie
+45. The Black Company by Glen Cook
+46. The Malazan Book of the Fallen Series by Steven Erikson
+47. The Lies of Locke Lamora by Scott Lynch
+48. The First Law Trilogy by Joe Abercrombie
+49. The Blade Itself by Joe Abercrombie
+50. The Black Company by Glen Cook

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. David Bowie
+3. Elliott Smith
+4. Jeff Buckley
+5. Cocteau Twins
+6. Björk
+7. The Smiths
+8. The National
+9. Muse
+10. Porcupine Tree
+11. Death Cab for Cutie
+12. Phoenix
+13. Kings of Convenience
+14. R.E.M.
+15. The Velvet Underground
+16. Red Hot Chili Peppers
+17. System of a Down
+18. Sum 41
+19. The Beatles
+20. Mastodon
+21. Arctic Monkeys
+22. The White Stripes
+23. Franz Ferdinand
+24. Genesis
+25. The Killers
+26. Modest Mouse
+27. Depeche Mode
+28. Nick Drake
+29. Grizzly Bear
+30. Arcade Fire
+31. The Strokes
+32. Neutral Milk Hotel
+33. Blur
+34. Yeah Yeah Yeahs
+35. Ladytron
+36. Garbage
+37. Coldplay
+38. Queens of the Stone Age
+39. Cat Stevens
+40. Stereophonics
+41. Oasis
+42. Snow Patrol
+43. Maroon 5
+44. Tegan and Sara
+45. We Are Scientists
+46. Lady Gaga
+47. Goldfrapp
+48. Breaking Benjamin
+49. HIM
+50. 30 Seconds to Mars

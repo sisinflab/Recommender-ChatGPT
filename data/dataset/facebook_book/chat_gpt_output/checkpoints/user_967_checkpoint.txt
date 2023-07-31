@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Stand by Stephen King
+2. The Da Vinci Code by Dan Brown
+3. The Hunger Games by Suzanne Collins
+4. The Girl with the Dragon Tattoo by Stieg Larsson
+5. The Catcher in the Rye by J.D. Salinger
+6. The Shining by Stephen King
+7. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+8. The Great Gatsby by F. Scott Fitzgerald
+9. To Kill a Mockingbird by Harper Lee
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Hobbit by J.R.R. Tolkien
+12. The Chronicles of Narnia by C.S. Lewis
+13. The Harry Potter series by J.K. Rowling
+14. The Book Thief by Markus Zusak
+15. The Fault in Our Stars by John Green
+16. The Help by Kathryn Stockett
+17. The Secret Life of Bees by Sue Monk Kidd
+18. The Color Purple by Alice Walker
+19. The Joy Luck Club by Amy Tan
+20. The Alchemist by Paulo Coelho
+21. The Picture of Dorian Gray by Oscar Wilde
+22. The Road by Cormac McCarthy
+23. The Bell Jar by Sylvia Plath
+24. The Handmaid's Tale by Margaret Atwood
+25. The Giver by Lois Lowry
+26. The Outsiders by S.E. Hinton
+27. The Sun Also Rises by Ernest Hemingway
+28. The Old Man and the Sea by Ernest Hemingway
+29. The Grapes of Wrath by John Steinbeck
+30. One Hundred Years of Solitude by Gabriel Garcia Marquez
+31. Love in the Time of Cholera by Gabriel Garcia Marquez
+32. The Name of the Rose by Umberto Eco
+33. The God of Small Things by Arundhati Roy
+34. The Poisonwood Bible by Barbara Kingsolver
+35. The Time Traveler's Wife by Audrey Niffenegger
+36. The Picture of Dorian Gray by Oscar Wilde
+37. The Count of Monte Cristo by Alexandre Dumas
+38. Les Miserables by Victor Hugo
+39. The Three Musketeers by Alexandre Dumas
+40. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+41. The Hound of the Baskervilles by Arthur Conan Doyle
+42. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+43. Frankenstein by Mary Shelley
+44. Dracula by Bram Stoker
+45. The War of the Worlds by H.G. Wells
+46. 1984 by George Orwell
+47. Animal Farm by George Orwell
+48. Brave New World by Aldous Huxley
+49. Lord of the Flies by William Golding
+50. Catch

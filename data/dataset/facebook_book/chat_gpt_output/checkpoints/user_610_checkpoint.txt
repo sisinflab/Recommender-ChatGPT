@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. The Fault in Our Stars by John Green
+3. The Girl on the Train by Paula Hawkins
+4. The Book Thief by Markus Zusak
+5. The Nightingale by Kristin Hannah
+6. The Help by Kathryn Stockett
+7. The Lovely Bones by Alice Sebold
+8. The Maze Runner by James Dashner
+9. The Da Vinci Code by Dan Brown
+10. The Kite Runner by Khaled Hosseini
+11. The Time Traveler's Wife by Audrey Niffenegger
+12. The Secret Life of Bees by Sue Monk Kidd
+13. The Giver by Lois Lowry
+14. The Catcher in the Rye by J.D. Salinger
+15. The Perks of Being a Wallflower by Stephen Chbosky
+16. The Handmaid's Tale by Margaret Atwood
+17. The Alchemist by Paulo Coelho
+18. The Picture of Dorian Gray by Oscar Wilde
+19. The Bell Jar by Sylvia Plath
+20. The Road by Cormac McCarthy
+21. The Stand by Stephen King
+22. The Shining by Stephen King
+23. The Silence of the Lambs by Thomas Harris
+24. The Bourne Identity by Robert Ludlum
+25. The Girl with the Dragon Tattoo by Stieg Larsson
+26. The Name of the Wind by Patrick Rothfuss
+27. The Lord of the Rings by J.R.R. Tolkien
+28. The Hobbit by J.R.R. Tolkien
+29. The Chronicles of Narnia by C.S. Lewis
+30. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+31. The Martian by Andy Weir
+32. The Help by Kathryn Stockett
+33. The Color Purple by Alice Walker
+34. The Joy Luck Club by Amy Tan
+35. The God of Small Things by Arundhati Roy
+36. The Poisonwood Bible by Barbara Kingsolver
+37. The Glass Castle by Jeannette Walls
+38. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+39. The Devil in the White City by Erik Larson
+40. The 7 Habits of Highly Effective People by Stephen Covey
+41. The Power of Now by Eckhart Tolle
+42. The Four Agreements by Don Miguel Ruiz
+43. The Art of War by Sun Tzu
+44. The Lean Startup by Eric Ries
+45. The Innovator's Dilemma by Clayton Christensen
+46. The Tipping Point by Malcolm Gladwell
+47. The 5 Love Languages by Gary Chapman
+48. The Life-Changing Magic of Tidying Up by Marie Kondo
+49. The Power of Habit by Charles Duhigg
+50. The 4

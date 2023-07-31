@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. OutKast
+2. Kanye West
+3. Nas
+4. J Dilla
+5. MF DOOM
+6. Ghostface Killah
+7. Common
+8. Wu-Tang Clan
+9. GZA/Genius
+10. Flying Lotus
+11. Kid Cudi
+12. Mobb Deep
+13. De La Soul
+14. John Mayer
+15. 2Pac
+16. Gang Starr
+17. The Killers
+18. Radiohead
+19. Muse
+20. Pink Floyd
+21. Nirvana
+22. Metallica
+23. Led Zeppelin
+24. Iron Maiden
+25. Pearl Jam
+26. System of a Down
+27. Nine Inch Nails
+28. Linkin Park
+29. My Chemical Romance
+30. Green Day
+31. The Cure
+32. Arctic Monkeys
+33. Placebo
+34. Blur
+35. Coldplay
+36. U2
+37. 30 Seconds to Mars
+38. Evanescence
+39. Beyoncé
+40. Michael Jackson
+41. Madonna
+42. Lady Gaga
+43. Christina Aguilera
+44. Rihanna
+45. Shakira
+46. Katy Perry
+47. Avril Lavigne
+48. Taylor Swift
+49. Ke$ha
+50. Black Eyed Peas

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Kite Runner by Khaled Hosseini
+2. Norwegian Wood by Haruki Murakami
+3. The Catcher in the Rye by J.D. Salinger
+4. Slaughterhouse-Five by Kurt Vonnegut
+5. The Bell Jar by Sylvia Plath
+6. The Picture of Dorian Gray by Oscar Wilde
+7. The Great Gatsby by F. Scott Fitzgerald
+8. The Road by Cormac McCarthy
+9. The Handmaid's Tale by Margaret Atwood
+10. 1984 by George Orwell
+11. Brave New World by Aldous Huxley
+12. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+13. The Hunger Games by Suzanne Collins
+14. The Girl with the Dragon Tattoo by Stieg Larsson
+15. The Da Vinci Code by Dan Brown
+16. The Help by Kathryn Stockett
+17. The Lovely Bones by Alice Sebold
+18. The Fault in Our Stars by John Green
+19. The Perks of Being a Wallflower by Stephen Chbosky
+20. The Book Thief by Markus Zusak
+21. The Shadow of the Wind by Carlos Ruiz Zafón
+22. The Name of the Wind by Patrick Rothfuss
+23. The Nightingale by Kristin Hannah
+24. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+25. The Poisonwood Bible by Barbara Kingsolver
+26. The Secret History by Donna Tartt
+27. The Goldfinch by Donna Tartt
+28. The Martian by Andy Weir
+29. The Help by Kathryn Stockett
+30. The Hunger Games by Suzanne Collins
+31. The Girl with the Dragon Tattoo by Stieg Larsson
+32. The Da Vinci Code by Dan Brown
+33. The Lovely Bones by Alice Sebold
+34. The Fault in Our Stars by John Green
+35. The Perks of Being a Wallflower by Stephen Chbosky
+36. The Book Thief by Markus Zusak
+37. The Shadow of the Wind by Carlos Ruiz Zafón
+38. The Name of the Wind by Patrick Rothfuss
+39. The Nightingale by Kristin Hannah
+40. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+41. The Poisonwood Bible by Barbara Kingsolver
+42. The Secret History by Donna Tartt
+43. The Goldfinch by Donna Tartt
+44. The Martian by Andy Weir
+45. The Hunger Games by Suzanne Collins
+46. The Girl with the Dragon Tattoo by Stieg Larsson
+47. The Da Vinci Code by Dan Brown
+48. The Lovely Bones by Alice Sebold
+49. The Fault in Our Stars by John Green
+50. The Perks of Being a Wallflower by Stephen Ch

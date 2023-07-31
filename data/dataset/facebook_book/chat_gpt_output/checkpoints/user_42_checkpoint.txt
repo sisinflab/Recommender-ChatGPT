@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Fault in Our Stars by John Green
+4. The Maze Runner by James Dashner
+5. The Selection by Kiera Cass
+6. The Mortal Instruments by Cassandra Clare
+7. The Giver by Lois Lowry
+8. The Book Thief by Markus Zusak
+9. The Perks of Being a Wallflower by Stephen Chbosky
+10. The Sisterhood of the Traveling Pants by Ann Brashares
+11. The Secret Life of Bees by Sue Monk Kidd
+12. The Help by Kathryn Stockett
+13. The Time Traveler's Wife by Audrey Niffenegger
+14. The Girl on the Train by Paula Hawkins
+15. The Nightingale by Kristin Hannah
+16. The Alchemist by Paulo Coelho
+17. The Kite Runner by Khaled Hosseini
+18. The Lovely Bones by Alice Sebold
+19. The Catcher in the Rye by J.D. Salinger
+20. The Outsiders by S.E. Hinton
+21. The Chronicles of Narnia by C.S. Lewis
+22. The Lord of the Rings by J.R.R. Tolkien
+23. The Hobbit by J.R.R. Tolkien
+24. The Harry Potter series by J.K. Rowling
+25. The Percy Jackson series by Rick Riordan
+26. The Heroes of Olympus series by Rick Riordan
+27. The Kane Chronicles series by Rick Riordan
+28. The Infernal Devices series by Cassandra Clare
+29. The Lunar Chronicles by Marissa Meyer
+30. The Selection series by Kiera Cass
+31. The Maze Runner series by James Dashner
+32. The Giver quartet by Lois Lowry
+33. The Uglies series by Scott Westerfeld
+34. The Twilight series by Stephenie Meyer
+35. The Vampire Academy series by Richelle Mead
+36. The House of Night series by P.C. Cast and Kristin Cast
+37. The Mortal Instruments series by Cassandra Clare
+38. The Infernal Devices series by Cassandra Clare
+39. The Hunger Games trilogy by Suzanne Collins
+40. The Divergent trilogy by Veronica Roth
+41. The Maze Runner trilogy by James Dashner
+42. The Percy Jackson and the Olympians series by Rick Riordan
+43. The Heroes of Olympus series by Rick Riordan
+44. The Kane Chronicles series by Rick Riordan
+45. The Fault in Our Stars by John Green
+46. Looking for Alaska by John Green
+47. Paper Towns by John Green
+48. An Abundance of Katherines by John Green
+49. Will Grayson, Will Grayson by John Green and David Levithan
+50. Eleanor & Park by Rainbow Rowell

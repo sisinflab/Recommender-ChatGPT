@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Depeche Mode
+2. Muse
+3. Michael Jackson
+4. Pet Shop Boys
+5. Daft Punk
+6. The Beatles
+7. Radiohead
+8. Pink Floyd
+9. Recoil
+10. Enigma
+11. Tori Amos
+12. Martin L. Gore
+13. UNKLE
+14. The Future Sound of London
+15. Rammstein
+16. Coldplay
+17. Led Zeppelin
+18. Nightwish
+19. Kings of Leon
+20. The Who
+21. Camouflage
+22. Thom Yorke
+23. Sonic Youth
+24. Black Rebel Motorcycle Club
+25. Air
+26. New Order
+27. Natalie Imbruglia
+28. Lady Gaga
+29. Madonna
+30. Rihanna
+31. Shakira
+32. Katy Perry
+33. Taylor Swift
+34. Beyoncé
+35. U2
+36. 30 Seconds to Mars
+37. Kylie Minogue
+38. Duran Duran
+39. Blur
+40. Arctic Monkeys
+41. Placebo
+42. The Killers
+43. Nirvana
+44. Iron Maiden
+45. Pearl Jam
+46. a-ha
+47. Björk
+48. System of a Down
+49. Nine Inch Nails
+50. Linkin Park

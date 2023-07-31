@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. The Old Man and the Sea by Ernest Hemingway
+3. The Count of Monte Cristo by Alexandre Dumas
+4. The Brothers Karamazov by Fyodor Dostoevsky
+5. The Sound and the Fury by William Faulkner
+6. Dracula by Bram Stoker
+7. Memoirs of a Geisha by Arthur Golden
+8. Othello by William Shakespeare
+9. The Handmaid's Tale by Margaret Atwood
+10. The Time Traveler's Wife by Audrey Niffenegger
+11. Rebecca by Daphne du Maurier
+12. A Streetcar Named Desire by Tennessee Williams
+13. The Winter's Tale by William Shakespeare
+14. Waiting for Godot by Samuel Beckett
+15. The Blind Assassin by Margaret Atwood
+16. The Grapes of Wrath by John Steinbeck
+17. The Alchemist by Paulo Coelho
+18. The Little Prince by Antoine de Saint-Exupéry
+19. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+20. The Watchmen by Alan Moore and Dave Gibbons
+21. The Sandman by Neil Gaiman
+22. The Da Vinci Code by Dan Brown
+23. The Canterbury Tales by Geoffrey Chaucer
+24. The Jungle Book by Rudyard Kipling
+25. Alice's Adventures in Wonderland by Lewis Carroll
+26. The Wind-Up Bird Chronicle by Haruki Murakami
+27. The Satanic Verses by Salman Rushdie
+28. Divine Comedy by Dante Alighieri
+29. The Winner Stands Alone by Paulo Coelho
+30. Midnight's Children by Salman Rushdie
+31. Choke by Chuck Palahniuk
+32. The Girl Who Played with Fire by Stieg Larsson
+33. Angels & Demons by Dan Brown
+34. The Murder of Roger Ackroyd by Agatha Christie
+35. Demian by Hermann Hesse
+36. Story of O by Pauline Réage
+37. Breaking the Spell: Religion as a Natural Phenomenon by Daniel Dennett
+38. The Chaos by Gerard Nolst Trenité
+39. Bhagavad Gita by Vyasa
+40. Our Mutual Friend by Charles Dickens
+41. The Tipping Point by Malcolm Gladwell
+42. Lady Chatterley's Lover by D. H. Lawrence
+43. A Midsummer Night's Dream by William Shakespeare
+44. Don Quixote by Miguel de Cervantes
+45. Iliad by Homer
+46. King Leary by Paul Quarrington
+47. Where the Wild Things Are by Maurice Sendak
+48. Red Inferno: 1945 by Robert Conroy
+49. Romeo

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Nirvana
+2. The Smashing Pumpkins
+3. Radiohead
+4. Pearl Jam
+5. Red Hot Chili Peppers
+6. Arctic Monkeys
+7. Muse
+8. The Strokes
+9. Oasis
+10. Green Day
+11. The Killers
+12. Coldplay
+13. U2
+14. Foo Fighters
+15. System of a Down
+16. Metallica
+17. AC/DC
+18. Guns N' Roses
+19. Led Zeppelin
+20. Pink Floyd
+21. Queen
+22. The Beatles
+23. The Rolling Stones
+24. David Bowie
+25. Prince
+26. Madonna
+27. Lady Gaga
+28. Beyoncé
+29. Rihanna
+30. Adele
+31. Amy Winehouse
+32. Lana Del Rey
+33. Florence + The Machine
+34. Lorde
+35. Hozier
+36. Billie Eilish
+37. Tame Impala
+38. Vampire Weekend
+39. The Black Keys
+40. Kings of Leon
+41. The White Stripes
+42. Franz Ferdinand
+43. The Kooks
+44. The Libertines
+45. The Vaccines
+46. Arctic Monkeys
+47. The 1975
+48. Two Door Cinema Club
+49. Phoenix
+50. Foster the People

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. Slaughterhouse-Five by Kurt Vonnegut
+4. The Catcher in the Rye by J.D. Salinger
+5. To Kill a Mockingbird by Harper Lee
+6. The Great Gatsby by F. Scott Fitzgerald
+7. Animal Farm by George Orwell
+8. Fahrenheit 451 by Ray Bradbury
+9. The Road by Cormac McCarthy
+10. The Handmaid's Tale by Margaret Atwood
+11. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+12. The Lord of the Rings by J.R.R. Tolkien
+13. The Hobbit by J.R.R. Tolkien
+14. The Hunger Games by Suzanne Collins
+15. Catch-22 by Joseph Heller
+16. One Hundred Years of Solitude by Gabriel Garcia Marquez
+17. The Picture of Dorian Gray by Oscar Wilde
+18. The Bell Jar by Sylvia Plath
+19. The Stranger by Albert Camus
+20. The Sun Also Rises by Ernest Hemingway
+21. The Old Man and the Sea by Ernest Hemingway
+22. The Grapes of Wrath by John Steinbeck
+23. The Color Purple by Alice Walker
+24. The Adventures of Huckleberry Finn by Mark Twain
+25. The Adventures of Tom Sawyer by Mark Twain
+26. The Brothers Karamazov by Fyodor Dostoevsky
+27. Crime and Punishment by Fyodor Dostoevsky
+28. The Idiot by Fyodor Dostoevsky
+29. War and Peace by Leo Tolstoy
+30. Anna Karenina by Leo Tolstoy
+31. The Count of Monte Cristo by Alexandre Dumas
+32. Les Miserables by Victor Hugo
+33. The Three Musketeers by Alexandre Dumas
+34. The Picture of Dorian Gray by Oscar Wilde
+35. The Importance of Being Earnest by Oscar Wilde
+36. The Canterbury Tales by Geoffrey Chaucer
+37. Don Quixote by Miguel de Cervantes
+38. The Divine Comedy by Dante Alighieri
+39. The Iliad by Homer
+40. The Odyssey by Homer
+41. The Aeneid by Virgil
+42. Beowulf by Unknown
+43. Paradise Lost by John Milton
+44. The Canterbury Tales by Geoffrey Chaucer
+45. The Faerie Queene by Edmund Spenser
+46. The Tempest by William Shakespeare
+47. Hamlet by William Shakespeare
+48. Macbeth by William Shakespeare
+49. Romeo and Juliet by William Shakespeare
+50. Othello by William Shakespeare

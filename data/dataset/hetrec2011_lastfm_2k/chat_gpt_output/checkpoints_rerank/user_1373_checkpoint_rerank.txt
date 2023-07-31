@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Nightwish
+2. Epica
+3. Evanescence
+4. Avantasia
+5. Little Joy
+6. Portishead
+7. Copeland
+8. Death Cab for Cutie
+9. Joni Mitchell
+10. Aqualung
+11. Mute Math
+12. Switchfoot
+13. Green Day
+14. Paramore
+15. Blur
+16. Michael Bublé
+17. ABBA
+18. Elvis Presley
+19. Björk
+20. Madonna
+21. The Beatles
+22. Pink Floyd
+23. Radiohead
+24. Muse
+25. U2
+26. Coldplay
+27. Duran Duran
+28. Arctic Monkeys
+29. Placebo
+30. The Killers
+31. Nirvana
+32. Iron Maiden
+33. Led Zeppelin
+34. Metallica
+35. Michael Jackson
+36. Pearl Jam
+37. a-ha
+38. System of a Down
+39. Daft Punk
+40. Nine Inch Nails
+41. Linkin Park
+42. Kelly Clarkson
+43. All Time Low
+44. P!nk
+45. Avenged Sevenfold
+46. Black Eyed Peas
+47. My Chemical Romance
+48. Lady Gaga
+49. Christina Aguilera
+50. Shakira

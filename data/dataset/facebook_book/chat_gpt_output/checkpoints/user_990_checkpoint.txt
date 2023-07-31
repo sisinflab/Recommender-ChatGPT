@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Mockingjay by Suzanne Collins
+3. The Hobbit by J.R.R. Tolkien
+4. The Fellowship of the Ring by J.R.R. Tolkien
+5. The Two Towers by J.R.R. Tolkien
+6. The Return of the King by J.R.R. Tolkien
+7. The Chronicles of Narnia by C.S. Lewis
+8. The Name of the Wind by Patrick Rothfuss
+9. The Wise Man's Fear by Patrick Rothfuss
+10. Mistborn by Brandon Sanderson
+11. Warbreaker by Brandon Sanderson
+12. The Final Empire by Brandon Sanderson
+13. The Well of Ascension by Brandon Sanderson
+14. The Hero of Ages by Brandon Sanderson
+15. The Way of Kings by Brandon Sanderson
+16. Words of Radiance by Brandon Sanderson
+17. Oathbringer by Brandon Sanderson
+18. The Stormlight Archive by Brandon Sanderson
+19. The Kingkiller Chronicle by Patrick Rothfuss
+20. The Lies of Locke Lamora by Scott Lynch
+21. Red Seas Under Red Skies by Scott Lynch
+22. The Republic of Thieves by Scott Lynch
+23. The First Law Trilogy by Joe Abercrombie
+24. The Blade Itself by Joe Abercrombie
+25. Before They Are Hanged by Joe Abercrombie
+26. Last Argument of Kings by Joe Abercrombie
+27. The Broken Empire Trilogy by Mark Lawrence
+28. Prince of Thorns by Mark Lawrence
+29. King of Thorns by Mark Lawrence
+30. Emperor of Thorns by Mark Lawrence
+31. The Black Company by Glen Cook
+32. Gardens of the Moon by Steven Erikson
+33. Deadhouse Gates by Steven Erikson
+34. Memories of Ice by Steven Erikson
+35. House of Chains by Steven Erikson
+36. Midnight Tides by Steven Erikson
+37. The Bonehunters by Steven Erikson
+38. Reaper's Gale by Steven Erikson
+39. Toll the Hounds by Steven Erikson
+40. Dust of Dreams by Steven Erikson
+41. The Crippled God by Steven Erikson
+42. The Malazan Book of the Fallen by Steven Erikson
+43. The Lies of Locke Lamora by Scott Lynch
+44. The Republic of Thieves by Scott Lynch
+45. The First Law Trilogy by Joe Abercrombie
+46. The Blade Itself by Joe Abercrombie
+47. Before They Are Hanged by Joe Abercrombie
+48. Last Argument of Kings by Joe Abercrombie
+49. The Broken Empire Trilogy by Mark Lawrence
+50. Prince of Thorns by Mark Lawrence

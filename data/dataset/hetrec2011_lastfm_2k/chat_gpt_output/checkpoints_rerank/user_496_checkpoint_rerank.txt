@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Nightwish
+2. Lacrimosa
+3. HIM
+4. Yann Tiersen
+5. Queen
+6. Franz Ferdinand
+7. The 69 Eyes
+8. Muse
+9. Placebo
+10. Daft Punk
+11. Coldplay
+12. And One
+13. Pink Floyd
+14. Antonio Vivaldi
+15. Mägo de Oz
+16. Combichrist
+17. Incubus
+18. The Doors
+19. Apoptygma Berzerk
+20. Sopor Aeternus & The Ensemble of Shadows
+21. Blutengel
+22. Opeth
+23. VNV Nation
+24. Joe Satriani
+25. Dream Theater
+26. The Cranberries
+27. Clan of Xymox
+28. Apocalyptica
+29. Siouxsie and the Banshees
+30. Depeche Mode
+31. Radiohead
+32. Nirvana
+33. Iron Maiden
+34. Led Zeppelin
+35. Metallica
+36. Michael Jackson
+37. Pearl Jam
+38. a-ha
+39. Björk
+40. System of a Down
+41. Nine Inch Nails
+42. Linkin Park
+43. Avenged Sevenfold
+44. My Chemical Romance
+45. Green Day
+46. The Cure
+47. U2
+48. The Beatles
+49. Duran Duran
+50. Arctic Monkeys

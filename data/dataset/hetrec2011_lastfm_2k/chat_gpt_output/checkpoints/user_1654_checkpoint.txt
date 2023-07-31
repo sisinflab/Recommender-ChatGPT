@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Arcade Fire
+2. Radiohead
+3. The Shins
+4. Vampire Weekend
+5. The Decemberists
+6. Modest Mouse
+7. The Postal Service
+8. The Flaming Lips
+9. Spoon
+10. Wilco
+11. The National
+12. Death Cab for Cutie
+13. Yo La Tengo
+14. Pavement
+15. Sonic Youth
+16. The Magnetic Fields
+17. Belle and Sebastian (similar artist)
+18. The New Pornographers (similar artist)
+19. They Might Be Giants (similar artist)
+20. Camera Obscura (similar artist)
+21. Pixies (similar artist)
+22. Blur (similar artist)
+23. De La Soul (similar artist)
+24. Neutral Milk Hotel (similar artist)
+25. Aimee Mann (similar artist)
+26. Le Tigre (similar artist)
+27. The Smiths (similar artist)
+28. R.E.M.
+29. Beck
+30. The Cure
+31. Talking Heads
+32. The Clash
+33. David Bowie
+34. Joy Division
+35. The Velvet Underground
+36. The Strokes
+37. Interpol
+38. Arctic Monkeys
+39. Franz Ferdinand
+40. The Libertines
+41. The White Stripes
+42. The Black Keys
+43. The Kills
+44. Yeah Yeah Yeahs
+45. LCD Soundsystem
+46. MGMT
+47. Animal Collective
+48. Grizzly Bear
+49. Fleet Foxes
+50. Bon Iver

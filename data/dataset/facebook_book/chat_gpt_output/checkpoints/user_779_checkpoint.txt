@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Maze Runner by James Dashner
+4. The Fault in Our Stars by John Green
+5. The Book Thief by Markus Zusak
+6. The Catcher in the Rye by J.D. Salinger
+7. To Kill a Mockingbird by Harper Lee
+8. 1984 by George Orwell
+9. Animal Farm by George Orwell
+10. Lord of the Flies by William Golding
+11. Brave New World by Aldous Huxley
+12. The Handmaid's Tale by Margaret Atwood
+13. The Girl with the Dragon Tattoo by Stieg Larsson
+14. The Da Vinci Code by Dan Brown
+15. Angels and Demons by Dan Brown
+16. The Bourne Identity by Robert Ludlum
+17. The Bourne Supremacy by Robert Ludlum
+18. The Bourne Ultimatum by Robert Ludlum
+19. The Lord of the Rings by J.R.R. Tolkien
+20. The Hobbit by J.R.R. Tolkien
+21. The Chronicles of Narnia by C.S. Lewis
+22. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+23. Ender's Game by Orson Scott Card
+24. The Alchemist by Paulo Coelho
+25. The Secret Life of Bees by Sue Monk Kidd
+26. The Help by Kathryn Stockett
+27. The Color Purple by Alice Walker
+28. The Joy Luck Club by Amy Tan
+29. The Kite Runner by Khaled Hosseini
+30. A Thousand Splendid Suns by Khaled Hosseini
+31. The Great Gatsby by F. Scott Fitzgerald
+32. The Picture of Dorian Gray by Oscar Wilde
+33. The Time Machine by H.G. Wells
+34. The War of the Worlds by H.G. Wells
+35. The Invisible Man by H.G. Wells
+36. The Island of Dr. Moreau by H.G. Wells
+37. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+38. The Hound of the Baskervilles by Arthur Conan Doyle
+39. The Return of Sherlock Holmes by Arthur Conan Doyle
+40. The Complete Sherlock Holmes by Arthur Conan Doyle
+41. The Hardy Boys by Franklin W. Dixon
+42. Nancy Drew by Carolyn Keene
+43. The Boxcar Children by Gertrude Chandler Warner
+44. The Secret Seven by Enid Blyton
+45. The Famous Five by Enid Blyton
+46. The Chronicles of Prydain by Lloyd Alexander
+47. The Dark is Rising by Susan Cooper
+48. The Wind in the Willows by Kenneth Grahame
+49. Watership Down by Richard Adams
+50. The Once and Future King by

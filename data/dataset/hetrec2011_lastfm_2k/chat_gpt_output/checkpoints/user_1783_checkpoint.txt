@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Pearl Jam
+3. Muse
+4. System of a Down
+5. Foo Fighters
+6. Green Day
+7. Guns N' Roses
+8. Black Sabbath
+9. Iron Maiden
+10. Pantera
+11. Tool
+12. Nine Inch Nails
+13. Soundgarden
+14. Rage Against the Machine
+15. Alice Cooper
+16. Deep Purple
+17. Kiss
+18. Aerosmith
+19. Bon Jovi
+20. Journey
+21. Foreigner
+22. Boston
+23. Styx
+24. Kansas
+25. Yes
+26. Genesis
+27. Pink
+28. Fleetwood Mac
+29. The Eagles
+30. Tom Petty and the Heartbreakers
+31. Bruce Springsteen
+32. Bob Seger
+33. The Rolling Stones
+34. The Doors
+35. Creedence Clearwater Revival
+36. ZZ Top
+37. Lynyrd Skynyrd
+38. Steely Dan
+39. The Allman Brothers Band
+40. The Marshall Tucker Band
+41. The Doobie Brothers
+42. Santana
+43. The Grateful Dead
+44. Jefferson Airplane
+45. The Byrds
+46. The Mamas & The Papas
+47. The Beach Boys
+48. The Kinks
+49. The Who
+50. The Jimi Hendrix Experience

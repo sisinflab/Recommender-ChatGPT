@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter
+2. Catching Fire
+3. The Hunger Games
+4. Mockingjay
+5. The Giver
+6. The Lovely Bones
+7. The Picture of Dorian Gray
+8. Crime and Punishment
+9. The Host (novel)
+10. The Immortal Life of Henrietta Lacks
+11. The Hitchhiker's Guide to the Galaxy (novel)
+12. Alice's Adventures in Wonderland
+13. Inkheart
+14. Inkspell
+15. Inkdeath
+16. Naruto
+17. The Book of Lost Things
+18. The Secrets of the Immortal Nicholas Flamel
+19. Abarat
+20. Bible
+21. Great Expectations
+22. Northanger Abbey
+23. A Tale of Two Cities
+24. Emma (novel)
+25. Self-Reliance
+26. The Faerie Wars Chronicles
+27. The Demonata
+28. Fallen (Kate novel)
+29. Chosen (A House of Night novel)
+30. The Tenth Circle
+31. An Abundance of Katherines
+32. Will Grayson, Will Grayson
+33. Into Thin Air
+34. Airman (novel)
+35. Ranger's Apprentice
+36. The Idiot
+37. Things Fall Apart
+38. The Jungle Book
+39. The End of the Affair
+40. God Bless You, Mr. Rosewater
+41. Of Course I Love You ..! Till I Find Someone Better
+42. Ramayana
+43. Bhagavad Gita
+44. Milkweed (novel)
+45. The Tale of Genji
+46. Skeleton Creek (novel)
+47. Grimms' Fairy Tales
+48. Ella Enchanted
+49. Blue Bloods (novel series)
+50. Goosebumps

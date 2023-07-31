@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Great Gatsby by F. Scott Fitzgerald
+2. Lolita by Vladimir Nabokov
+3. Brave New World by Aldous Huxley
+4. Fahrenheit 451 by Ray Bradbury
+5. Nineteen Eighty-Four by George Orwell
+6. The Picture of Dorian Gray by Oscar Wilde
+7. The Bell Jar by Sylvia Plath
+8. The Secret History by Donna Tartt
+9. The Thirteenth Tale by Diane Setterfield
+10. The History of Love by Nicole Krauss
+11. The Name of the Wind by Patrick Rothfuss
+12. The Glass Bead Game by Hermann Hesse
+13. The Dark Tower: The Gunslinger by Stephen King
+14. The Lord of the Rings by J.R.R. Tolkien
+15. The Girl Who Played with Fire by Stieg Larsson
+16. The Hamlet by William Faulkner
+17. The Awakening by Kate Chopin
+18. The Giver by Lois Lowry
+19. The Watchmen by Alan Moore
+20. The Last Lecture by Randy Pausch
+21. The Doors of Perception by Aldous Huxley
+22. The Art of Deception by Kevin Mitnick
+23. The Age of Innocence by Edith Wharton
+24. The Secret Life of Bees by Sue Monk Kidd
+25. The Lathe of Heaven by Ursula K. Le Guin
+26. The Picture of Dorian Gray by Oscar Wilde
+27. The Call of Cthulhu and Other Weird Stories by H.P. Lovecraft
+28. The Name of the Wind by Patrick Rothfuss
+29. The Thirteenth Tale by Diane Setterfield
+30. The Glass Bead Game by Hermann Hesse
+31. The Dark Tower: The Gunslinger by Stephen King
+32. The Lord of the Rings by J.R.R. Tolkien
+33. The Girl Who Played with Fire by Stieg Larsson
+34. The Hamlet by William Faulkner
+35. The Awakening by Kate Chopin
+36. The Giver by Lois Lowry
+37. The Watchmen by Alan Moore
+38. The Last Lecture by Randy Pausch
+39. The Doors of Perception by Aldous Huxley
+40. The Art of Deception by Kevin Mitnick
+41. The Age of Innocence by Edith Wharton
+42. The Secret Life of Bees by Sue Monk Kidd
+43. The Lathe of Heaven by Ursula K. Le Guin
+44. The Picture of Dorian Gray by Oscar Wilde
+45. The Call of Cthulhu and Other Weird Stories by H.P. Lovecraft
+46. The Name of the Wind by Patrick Rothfuss
+47. The Thirteenth Tale by Diane Setterfield
+48. The

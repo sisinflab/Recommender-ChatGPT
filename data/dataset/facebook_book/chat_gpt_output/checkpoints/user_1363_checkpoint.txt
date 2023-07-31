@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+2. The Hound of the Baskervilles by Arthur Conan Doyle
+3. The Count of Monte Cristo by Alexandre Dumas
+4. And Then There Were None by Agatha Christie
+5. The Island of Dr. Moreau by H.G. Wells
+6. The War of the Worlds by H.G. Wells
+7. The Invisible Man by H.G. Wells
+8. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+9. The Time Machine by H.G. Wells
+10. The Call of the Wild by Jack London
+11. The Picture of Dorian Gray by Oscar Wilde
+12. The Legend of Sleepy Hollow by Washington Irving
+13. The Scarlet Letter by Nathaniel Hawthorne
+14. The Tell-Tale Heart by Edgar Allan Poe
+15. The Masque of the Red Death by Edgar Allan Poe
+16. The Fall of the House of Usher by Edgar Allan Poe
+17. The Pit and the Pendulum by Edgar Allan Poe
+18. The Cask of Amontillado by Edgar Allan Poe
+19. The Raven by Edgar Allan Poe
+20. The Murders in the Rue Morgue by Edgar Allan Poe
+21. The Adventures of Tom Sawyer by Mark Twain
+22. The Adventures of Huckleberry Finn by Mark Twain
+23. The Great Gatsby by F. Scott Fitzgerald
+24. To Kill a Mockingbird by Harper Lee
+25. 1984 by George Orwell
+26. Animal Farm by George Orwell
+27. Brave New World by Aldous Huxley
+28. Fahrenheit 451 by Ray Bradbury
+29. Lord of the Flies by William Golding
+30. The Hunger Games by Suzanne Collins
+31. Ender's Game by Orson Scott Card
+32. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+33. The Hobbit by J.R.R. Tolkien
+34. The Lord of the Rings by J.R.R. Tolkien
+35. The Chronicles of Narnia by C.S. Lewis
+36. Mere Christianity by C.S. Lewis
+37. The Screwtape Letters by C.S. Lewis
+38. I Am Legend by Richard Matheson
+39. The Three Musketeers by Alexandre Dumas
+40. Frankenstein by Mary Shelley
+41. Dracula by Bram Stoker
+42. Interview with the Vampire by Anne Rice
+43. The Vampire Lestat by Anne Rice
+44. The Witching Hour by Anne Rice
+45. Red Dragon by Thomas Harris
+46. The Silence of the Lambs by Thomas Harris
+47. Hannibal by Thomas Harris
+48. Black by Ted Dekker
+49. White by Ted Dekker
+50. Green by Ted Dekker

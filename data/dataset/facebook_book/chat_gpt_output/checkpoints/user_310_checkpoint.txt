@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Name of the Wind by Patrick Rothfuss
+2. The Wise Man's Fear by Patrick Rothfuss
+3. The Way of Kings by Brandon Sanderson
+4. Mistborn: The Final Empire by Brandon Sanderson
+5. The Lies of Locke Lamora by Scott Lynch
+6. The Blade Itself by Joe Abercrombie
+7. The Black Prism by Brent Weeks
+8. The Eye of the World by Robert Jordan
+9. The Fellowship of the Ring by J.R.R. Tolkien
+10. The Two Towers by J.R.R. Tolkien
+11. The Return of the King by J.R.R. Tolkien
+12. The Hobbit by J.R.R. Tolkien
+13. The Magicians by Lev Grossman
+14. The Magician King by Lev Grossman
+15. The Magician's Land by Lev Grossman
+16. The Final Empire by Michael A. Stackpole
+17. The Dragon Reborn by Robert Jordan
+18. The Shadow Rising by Robert Jordan
+19. The Fires of Heaven by Robert Jordan
+20. Lord of Chaos by Robert Jordan
+21. A Game of Thrones by George R.R. Martin
+22. A Clash of Kings by George R.R. Martin
+23. A Storm of Swords by George R.R. Martin
+24. A Feast for Crows by George R.R. Martin
+25. A Dance with Dragons by George R.R. Martin
+26. The Dark Tower I: The Gunslinger by Stephen King
+27. The Dark Tower II: The Drawing of the Three by Stephen King
+28. The Dark Tower III: The Waste Lands by Stephen King
+29. The Dark Tower IV: Wizard and Glass by Stephen King
+30. The Dark Tower V: Wolves of the Calla by Stephen King
+31. The Dark Tower VI: Song of Susannah by Stephen King
+32. The Dark Tower VII: The Dark Tower by Stephen King
+33. The Hunger Games by Suzanne Collins
+34. Catching Fire by Suzanne Collins
+35. Mockingjay by Suzanne Collins
+36. Ender's Game by Orson Scott Card
+37. Speaker for the Dead by Orson Scott Card
+38. Xenocide by Orson Scott Card
+39. Children of the Mind by Orson Scott Card
+40. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+41. The Restaurant at the End of the Universe by Douglas Adams
+42. Life, the Universe and Everything by Douglas Adams
+43. So Long, and Thanks for All the Fish by Douglas Adams
+44. Mostly Harmless by Douglas Adams
+45. The Martian by Andy Weir
+46. Ready Player One by Ernest Cline
+47. Snow Crash by Neal Stephenson
+48. Neuromancer by William Gibson
+49. Altered Carbon by Richard K. Morgan

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. System of a Down
+2. Foo Fighters
+3. Muse
+4. Metallica
+5. Nirvana
+6. Pearl Jam
+7. Soundgarden
+8. Alice in Chains
+9. Stone Temple Pilots
+10. Rage Against the Machine
+11. Slipknot
+12. Korn
+13. Disturbed
+14. Breaking Benjamin
+15. Three Days Grace
+16. Shinedown
+17. Seether
+18. Chevelle
+19. Tool
+20. A Perfect Circle
+21. Deftones
+22. Nine Inch Nails
+23. Marilyn Manson
+24. Rob Zombie
+25. Iron Maiden
+26. Judas Priest
+27. Black Sabbath
+28. AC/DC
+29. Guns N' Roses
+30. Van Halen
+31. Led Zeppelin
+32. The Who
+33. Pink Floyd
+34. Queen
+35. The Beatles
+36. The Rolling Stones
+37. U2
+38. Cold War Kids
+39. The Black Keys
+40. Arctic Monkeys
+41. Vampire Weekend
+42. The Killers
+43. Kings of Leon
+44. Imagine Dragons
+45. Foster the People
+46. Cage the Elephant
+47. Young the Giant
+48. The Lumineers
+49. Of Monsters and Men
+50. Mumford & Sons

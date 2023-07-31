@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. ABNKKBSNPLAKo?! by Bob Ong
+2. The Da Vinci Code by Dan Brown
+3. The Alchemist by Paulo Coelho
+4. The Catcher in the Rye by J.D. Salinger
+5. The Girl with the Dragon Tattoo by Stieg Larsson
+6. The Hunger Games by Suzanne Collins
+7. The Kite Runner by Khaled Hosseini
+8. The Lovely Bones by Alice Sebold
+9. The Notebook by Nicholas Sparks
+10. The Picture of Dorian Gray by Oscar Wilde
+11. The Secret Life of Bees by Sue Monk Kidd
+12. The Shack by William P. Young
+13. The Time Traveler's Wife by Audrey Niffenegger
+14. To Kill a Mockingbird by Harper Lee
+15. Tuesdays with Morrie by Mitch Albom
+16. Water for Elephants by Sara Gruen
+17. Wuthering Heights by Emily Bronte
+18. 1984 by George Orwell
+19. A Walk to Remember by Nicholas Sparks
+20. And Then There Were None by Agatha Christie
+21. Animal Farm by George Orwell
+22. Anne of Green Gables by L.M. Montgomery
+23. Bridget Jones's Diary by Helen Fielding
+24. Catch-22 by Joseph Heller
+25. Charlie and the Chocolate Factory by Roald Dahl
+26. Crime and Punishment by Fyodor Dostoevsky
+27. Dracula by Bram Stoker
+28. Eat, Pray, Love by Elizabeth Gilbert
+29. Fahrenheit 451 by Ray Bradbury
+30. Gone Girl by Gillian Flynn
+31. Harry Potter and the Philosopher's Stone by J.K. Rowling
+32. Heart of Darkness by Joseph Conrad
+33. Jane Eyre by Charlotte Bronte
+34. Les Miserables by Victor Hugo
+35. Life of Pi by Yann Martel
+36. Little Women by Louisa May Alcott
+37. Memoirs of a Geisha by Arthur Golden
+38. One Hundred Years of Solitude by Gabriel Garcia Marquez
+39. Pride and Prejudice by Jane Austen
+40. Rebecca by Daphne du Maurier
+41. Sense and Sensibility by Jane Austen
+42. The Adventures of Huckleberry Finn by Mark Twain
+43. The Adventures of Tom Sawyer by Mark Twain
+44. The Book Thief by Markus Zusak
+45. The Bridges of Madison County by Robert James Waller
+46. The Chronicles of Narnia by C.S. Lewis
+47. The Color Purple by Alice Walker
+48. The Fault in Our Stars by John Green
+49. The Great Gatsby by F. Scott Fitzgerald
+50. The Help by Kathryn Stockett

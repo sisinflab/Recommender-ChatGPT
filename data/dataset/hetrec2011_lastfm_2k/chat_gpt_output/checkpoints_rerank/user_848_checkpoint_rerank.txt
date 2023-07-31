@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. Arcade Fire
+3. The National
+4. LCD Soundsystem
+5. Modest Mouse
+6. Elliott Smith
+7. Mogwai
+8. Talking Heads
+9. The Mountain Goats
+10. Beach House
+11. Animal Collective
+12. Joanna Newsom
+13. Cat Power
+14. The Flaming Lips
+15. Bon Iver
+16. Broken Social Scene
+17. Tegan and Sara
+18. Crystal Castles
+19. Stars of the Lid
+20. Explosions in the Sky
+21. of Montreal
+22. Pink Floyd
+23. Muse
+24. Nirvana
+25. Led Zeppelin
+26. Metallica
+27. The Beatles
+28. Iron Maiden
+29. Pearl Jam
+30. Nine Inch Nails
+31. The Killers
+32. Coldplay
+33. Blur
+34. Arctic Monkeys
+35. Placebo
+36. Duran Duran
+37. Michael Jackson
+38. Beyoncé
+39. Madonna
+40. Lady Gaga
+41. Shakira
+42. Björk
+43. Daft Punk
+44. System of a Down
+45. Linkin Park
+46. All Time Low
+47. Avenged Sevenfold
+48. My Chemical Romance
+49. Green Day
+50. The Cure

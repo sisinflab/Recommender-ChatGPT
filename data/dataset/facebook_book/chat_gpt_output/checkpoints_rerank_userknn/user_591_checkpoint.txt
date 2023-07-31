@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 'Salem's Lot by Stephen King
+2. The Silence of the Lambs by Thomas Harris
+3. Red Dragon by Thomas Harris
+4. Helter Skelter by Vincent Bugliosi
+5. The Da Vinci Code by Dan Brown
+6. American Psycho by Bret Easton Ellis
+7. Brave New World by Aldous Huxley
+8. Nineteen Eighty-Four by George Orwell
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Aeneid by Virgil
+11. The Catcher in the Rye by J.D. Salinger
+12. The Outsiders by S.E. Hinton
+13. To Kill a Mockingbird by Harper Lee
+14. The Lovely Bones by Alice Sebold
+15. The Girl with the Dragon Tattoo by Stieg Larsson
+16. The Girl Who Played with Fire by Stieg Larsson
+17. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+18. Atonement by Ian McEwan
+19. Next by Michael Crichton
+20. Jurassic Park by Michael Crichton
+21. Sphere by Michael Crichton
+22. Cujo by Stephen King
+23. The Hatchet by Gary Paulsen
+24. Soldier X by Don L. Wulffson
+25. The Interpretation of Dreams by Sigmund Freud
+26. Sybil by Flora Rheta Schreiber
+27. Running with Scissors by Augusten Burroughs
+28. Dry by Augusten Burroughs
+29. Magical Thinking by Augusten Burroughs
+30. A Wolf at the Table by Augusten Burroughs
+31. Sellevision by Augusten Burroughs
+32. Peeps by Scott Westerfeld
+33. The Last Storytellers: Tales from the Heart of Morocco by Richard Hamilton
+34. Blood of the Fold by Terry Goodkind
+35. Wizard's First Rule by Terry Goodkind
+36. Beyond Good and Evil by Friedrich Nietzsche
+37. The Queen's Fool by Philippa Gregory
+38. Torah Or by Rabbi Laitman Michael
+39. Manga by Various Authors
+40. Ella Enchanted by Gail Carson Levine
+41. The Butter Battle Book by Dr. Seuss
+42. Wayside School is Falling Down by Louis Sachar
+43. Alice's Adventures in Wonderland by Lewis Carroll
+44. Where the Wild Things Are by Maurice Sendak
+45. The Little Mermaid by Hans Christian Andersen
+46. Star Wars: Shadows of the Empire by Steve Perry
+47. The Watchmen by Alan Moore
+48. Book of Revelation by John of Patmos
+49. Twilight by Stephenie Meyer
+50. I Hope They Serve Beer in Hell by Tucker Max

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. One Hundred Years of Solitude by Gabriel Garcia Marquez
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Brave New World by Aldous Huxley
+7. The Brothers Karamazov by Fyodor Dostoyevsky
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+10. The Count of Monte Cristo by Alexandre Dumas
+11. The Odyssey by Homer
+12. The Divine Comedy by Dante Alighieri
+13. The Canterbury Tales by Geoffrey Chaucer
+14. The Iliad by Homer
+15. Don Quixote by Miguel de Cervantes
+16. Les Miserables by Victor Hugo
+17. War and Peace by Leo Tolstoy
+18. Crime and Punishment by Fyodor Dostoyevsky
+19. The Hobbit by J.R.R. Tolkien
+20. The Pilgrim's Progress by John Bunyan
+21. Twenty Thousand Leagues Under the Sea by Jules Verne
+22. The Lord of the Rings by J.R.R. Tolkien
+23. Adventures of Huckleberry Finn by Mark Twain
+24. Tender Is the Night by F. Scott Fitzgerald
+25. Paradise Lost by John Milton
+26. A Farewell to Arms by Ernest Hemingway
+27. Moby-Dick by Herman Melville
+28. The Sun Also Rises by Ernest Hemingway
+29. Heart of Darkness by Joseph Conrad
+30. The Sound and the Fury by William Faulkner
+31. The Grapes of Wrath by John Steinbeck
+32. The Old Man and the Sea by Ernest Hemingway
+33. The Stranger by Albert Camus
+34. The Trial by Franz Kafka
+35. The Metamorphosis by Franz Kafka
+36. The Bell Jar by Sylvia Plath
+37. The Handmaid's Tale by Margaret Atwood
+38. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+39. The Martian by Andy Weir
+40. The Hunger Games by Suzanne Collins
+41. The Girl with the Dragon Tattoo by Stieg Larsson
+42. The Da Vinci Code by Dan Brown
+43. The Name of the Rose by Umberto Eco
+44. The Shadow of the Wind by Carlos Ruiz Zafon
+45. The Alchemist by Paulo Coelho
+46. The Picture of Dorian Gray by Oscar Wilde
+47. The Adventures of Tom Sawyer by Mark Twain
+48. The War of the Worlds by H.G. Wells
+49. The Time Machine by H.G. Wells
+50. Frankenstein

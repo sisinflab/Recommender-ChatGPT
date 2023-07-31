@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. If Tomorrow Comes by Sidney Sheldon
+2. The Da Vinci Code by Dan Brown
+3. The Girl with the Dragon Tattoo by Stieg Larsson
+4. The Hunger Games by Suzanne Collins
+5. The Help by Kathryn Stockett
+6. The Lovely Bones by Alice Sebold
+7. The Kite Runner by Khaled Hosseini
+8. The Time Traveler's Wife by Audrey Niffenegger
+9. The Notebook by Nicholas Sparks
+10. The Fault in Our Stars by John Green
+11. The Alchemist by Paulo Coelho
+12. The Great Gatsby by F. Scott Fitzgerald
+13. To Kill a Mockingbird by Harper Lee
+14. The Catcher in the Rye by J.D. Salinger
+15. The Secret Life of Bees by Sue Monk Kidd
+16. The Book Thief by Markus Zusak
+17. The Help by Kathryn Stockett
+18. The Picture of Dorian Gray by Oscar Wilde
+19. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+20. The Adventures of Tom Sawyer by Mark Twain
+21. The Adventures of Huckleberry Finn by Mark Twain
+22. The Count of Monte Cristo by Alexandre Dumas
+23. The Three Musketeers by Alexandre Dumas
+24. The Scarlet Letter by Nathaniel Hawthorne
+25. The Grapes of Wrath by John Steinbeck
+26. The Old Man and the Sea by Ernest Hemingway
+27. The Sun Also Rises by Ernest Hemingway
+28. The Sound and the Fury by William Faulkner
+29. The Catcher in the Rye by J.D. Salinger
+30. The Bell Jar by Sylvia Plath
+31. The Color Purple by Alice Walker
+32. The Joy Luck Club by Amy Tan
+33. The God of Small Things by Arundhati Roy
+34. The Poisonwood Bible by Barbara Kingsolver
+35. The Handmaid's Tale by Margaret Atwood
+36. The Road by Cormac McCarthy
+37. The Stand by Stephen King
+38. The Shining by Stephen King
+39. The Silence of the Lambs by Thomas Harris
+40. The Bourne Identity by Robert Ludlum
+41. The Firm by John Grisham
+42. The Pelican Brief by John Grisham
+43. The Rainmaker by John Grisham
+44. The Chamber by John Grisham
+45. The Partner by John Grisham
+46. The Testament by John Grisham
+47. The Street Lawyer by John Grisham
+48. The Client by John Grisham
+49. The Runaway Jury by John Grisham
+50. The Brethren by John Grisham

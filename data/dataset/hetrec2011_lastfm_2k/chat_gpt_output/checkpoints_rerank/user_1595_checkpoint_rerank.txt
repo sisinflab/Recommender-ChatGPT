@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Depeche Mode
+2. Pink Floyd
+3. The Beatles
+4. Led Zeppelin
+5. David Bowie
+6. Queen
+7. The Cure
+8. AC/DC
+9. Ultravox
+10. George Michael
+11. Lady Gaga
+12. Marillion
+13. Tears for Fears
+14. Einstürzende Neubauten
+15. The Velvet Underground
+16. The Sisters of Mercy
+17. Roxy Music
+18. Billy Idol
+19. John Lennon
+20. Kings of Leon
+21. The Who
+22. Eurythmics
+23. The Beach Boys
+24. Nirvana
+25. INXS
+26. The Police
+27. Electric Light Orchestra
+28. Foreigner
+29. Crystal Castles
+30. Sigur Rós
+31. New Order
+32. Radiohead
+33. Muse
+34. U2
+35. Duran Duran
+36. Coldplay
+37. Blur
+38. Arctic Monkeys
+39. Placebo
+40. The Killers
+41. Iron Maiden
+42. Metallica
+43. Michael Jackson
+44. Pearl Jam
+45. a-ha
+46. Björk
+47. Nine Inch Nails
+48. Daft Punk
+49. Linkin Park
+50. Kelly Clarkson

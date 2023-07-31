@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Help by Kathryn Stockett
+2. The Kite Runner by Khaled Hosseini
+3. The Hunger Games by Suzanne Collins
+4. The Girl with the Dragon Tattoo by Stieg Larsson
+5. The Fault in Our Stars by John Green
+6. The Book Thief by Markus Zusak
+7. The Time Traveler's Wife by Audrey Niffenegger
+8. The Lovely Bones by Alice Sebold
+9. The Da Vinci Code by Dan Brown
+10. The Secret Life of Bees by Sue Monk Kidd
+11. The Catcher in the Rye by J.D. Salinger
+12. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+13. The Maze Runner by James Dashner
+14. The Giver by Lois Lowry
+15. The Alchemist by Paulo Coelho
+16. The Perks of Being a Wallflower by Stephen Chbosky
+17. The Picture of Dorian Gray by Oscar Wilde
+18. The Great Gatsby by F. Scott Fitzgerald
+19. The Hobbit by J.R.R. Tolkien
+20. The Lord of the Rings by J.R.R. Tolkien
+21. The Chronicles of Narnia by C.S. Lewis
+22. The Harry Potter series by J.K. Rowling
+23. The Hunger Games trilogy by Suzanne Collins
+24. The Twilight Saga by Stephenie Meyer
+25. The Mortal Instruments series by Cassandra Clare
+26. The Infernal Devices series by Cassandra Clare
+27. The Selection series by Kiera Cass
+28. The Lunar Chronicles series by Marissa Meyer
+29. The Divergent trilogy by Veronica Roth
+30. The Maze Runner series by James Dashner
+31. The Percy Jackson and the Olympians series by Rick Riordan
+32. The Heroes of Olympus series by Rick Riordan
+33. The Kane Chronicles series by Rick Riordan
+34. The Fault in Our Stars by John Green
+35. Looking for Alaska by John Green
+36. Paper Towns by John Green
+37. An Abundance of Katherines by John Green
+38. The Book Thief by Markus Zusak
+39. I Am the Messenger by Markus Zusak
+40. The Maze Runner by James Dashner
+41. The Scorch Trials by James Dashner
+42. The Death Cure by James Dashner
+43. The Kill Order by James Dashner
+44. The Giver by Lois Lowry
+45. Gathering Blue by Lois Lowry
+46. Messenger by Lois Lowry
+47. Son by Lois Lowry
+48. The Outsiders by S.E. Hinton
+49. That Was Then, This Is Now by S.E. Hinton
+50. Rumble Fish by S.E. Hinton

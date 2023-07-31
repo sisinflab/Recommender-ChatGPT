@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter
+2. The Book Thief
+3. Thirteen Reasons Why
+4. If I Stay
+5. The Host (novel)
+6. Extremely Loud and Incredibly Close
+7. The Perks of Being a Wallflower
+8. Looking for Alaska
+9. Wintergirls
+10. The Black Tattoo
+11. The Pigman
+12. A Lion Among Men
+13. Reviving Ophelia
+14. I Am Number Four
+15. Son of a Witch
+16. Leven Thumps
+17. Catching Fire
+18. Twilight (series)
+19. Vampire Academy (novel)
+20. Burned (Hopkins novel)
+21. Impulse (Hopkins novel)
+22. City of Bones (Mortal Instruments)
+23. The Summoning (novel)
+24. City of Ashes
+25. City of Glass (Mortal Instruments)
+26. The City of Ember
+27. Beautiful Darkness
+28. Impulse economy
+29. Before I Die
+30. The Haunting of Alaizabel Cray
+31. The Legend of Sleepy Hollow
+32. The Messenger (Markus Zusak novel)
+33. Under the Dome
+34. Fear and Loathing in Las Vegas
+35. The Zombie Survival Guide
+36. The Chocolate War
+37. Garfield
+38. Breaking Point (novel)
+39. The Little Mermaid
+40. Eighth Grade Bites
+41. Eat This, Not That
+42. A Million Little Pieces
+43. Be More Chill
+44. The Notebook (novel)
+45. What I Saw and How I Lied
+46. Gingerbread (novel)
+47. It's Kind of a Funny Story by ['Ned Vizzini']
+48. Go Ask Alice
+49. Chelsea Chelsea Bang Bang by ['Chelsea Handler']
+50. Middlesex (novel) by ['Jeffrey Eugenides']

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. One Hundred Years of Solitude by Gabriel Garcia Marquez
+2. The Name of the Rose by Umberto Eco
+3. The Master and Margarita by Mikhail Bulgakov
+4. Lolita by Vladimir Nabokov
+5. Ulysses by James Joyce
+6. The Satanic Verses by Salman Rushdie
+7. Don Quixote by Miguel de Cervantes
+8. The Divine Comedy by Dante Alighieri
+9. Thus Spoke Zarathustra by Friedrich Nietzsche
+10. The Power of Myth by Joseph Campbell
+11. The Great Gatsby by F. Scott Fitzgerald
+12. Brave New World by Aldous Huxley
+13. The Outsiders by S.E. Hinton
+14. Macbeth by William Shakespeare
+15. Paradise Lost by John Milton
+16. A Clockwork Orange by Anthony Burgess
+17. Harry Potter by J.K. Rowling
+18. The Witch of Portobello by Paulo Coelho
+19. The Sandman by Neil Gaiman
+20. The Kite Runner by Khaled Hosseini
+21. American Gods by Neil Gaiman
+22. The Things They Carried by Tim O'Brien
+23. Northern Lights by Philip Pullman
+24. The Last Temptation of Christ by Nikos Kazantzakis
+25. The Plague by Albert Camus
+26. The Unbearable Lightness of Being by Milan Kundera
+27. The Magus by John Fowles
+28. The Sword of Truth by Terry Goodkind
+29. The Elegant Universe by Brian Greene
+30. The Seven Habits of Highly Effective People by Stephen Covey
+31. Running with Scissors by Augusten Burroughs
+32. The Book of the Law by Aleister Crowley
+33. The Vampire Chronicles by Anne Rice
+34. Good Omens by Neil Gaiman and Terry Pratchett
+35. The Rigveda: A Historical Analysis by Shrikant Talageri
+36. The Name of the Wind by Patrick Rothfuss
+37. The Alchemist by Paulo Coelho
+38. The Bhagavad Gita
+39. The Tao of Physics by Fritjof Capra
+40. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+41. The Art of War by Sun Tzu
+42. The Prophet by Kahlil Gibran
+43. The Picture of Dorian Gray by Oscar Wilde
+44. The Catcher in the Rye by J.D. Salinger
+45. The Bell Jar by Sylvia Plath
+46. The Stranger by Albert Camus
+47. The Metamorphosis by Franz Kafka
+48. Crime and Punishment by Fyodor Dostoevsky
+49. Heart of Darkness by Joseph Conrad
+50. The Brothers K

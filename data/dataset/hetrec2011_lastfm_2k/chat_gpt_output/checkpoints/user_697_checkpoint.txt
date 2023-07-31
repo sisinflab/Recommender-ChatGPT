@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Aphex Twin
+2. Four Tet
+3. Jon Hopkins
+4. Caribou
+5. Plaid
+6. Ulrich Schnauss
+7. Apparat
+8. The Chemical Brothers
+9. DJ Shadow
+10. Orbital
+11. Underworld
+12. Leftfield
+13. The Future Sound of London
+14. Amon Tobin
+15. Squarepusher
+16. Boards of Canada & Mike Sandison
+17. Telefon Tel Aviv & Joshua Eustis
+18. Tycho & Scott Hansen
+19. Enigma & Michael Cretu
+20. Bonobo & Simon Green
+21. Schiller & Christopher von Deylen
+22. Parov Stelar & Marcus Füreder
+23. Shpongle & Simon Posford
+24. M83 & Anthony Gonzalez
+25. The Prodigy & Liam Howlett
+26. Groove Armada & Tom Findlay
+27. Thievery Corporation & Rob Garza
+28. Röyksopp & Svein Berge
+29. Massive Attack & Robert Del Naja
+30. Linkin Park & Mike Shinoda
+31. Autechre & Rob Brown
+32. Bola & Darrell Fitton
+33. Morcheeba & Ross Godfrey
+34. Papa Roach & Jacoby Shaddix
+35. Coil & John Balance
+36. Air & Nicolas Godin
+37. Biosphere
+38. Brian Eno
+39. Burial
+40. Clark
+41. Daft Punk
+42. Deadmau5
+43. Depeche Mode
+44. Faithless
+45. Goldfrapp
+46. Kraftwerk
+47. LCD Soundsystem
+48. Moderat
+49. Radiohead
+50. Trentemøller

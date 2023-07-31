@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Coldplay
+2. Queen
+3. Death Cab for Cutie
+4. The Beatles
+5. Guns N' Roses
+6. Yellowcard
+7. Dashboard Confessional
+8. Brand New
+9. The Postal Service
+10. James Blunt
+11. Say Anything
+12. Lil' Wayne
+13. Lady Gaga
+14. All Time Low
+15. Taking Back Sunday
+16. Underoath
+17. Chiodos
+18. Imogen Heap
+19. Matisyahu
+20. Panic! At the Disco
+21. Coheed and Cambria
+22. Saosin
+23. Metro Station
+24. Blink-182
+25. Boys Like Girls
+26. Jack Johnson
+27. Brad Paisley
+28. Bryan Adams
+29. Dream Theater
+30. Opeth
+31. Symphony X
+32. Foo Fighters
+33. Mastodon
+34. Iron Maiden
+35. Megadeth
+36. Metallica
+37. Rammstein
+38. Sepultura
+39. Lamb of God
+40. Hardcore Superstar
+41. Red Hot Chili Peppers
+42. Aerosmith
+43. Van Halen
+44. Scorpions
+45. Def Leppard
+46. Led Zeppelin
+47. Ozzy Osbourne
+48. The Rolling Stones
+49. The Police
+50. System of a Down

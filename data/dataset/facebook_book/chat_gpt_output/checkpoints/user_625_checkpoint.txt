@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Chronicles of Narnia by C.S. Lewis
+2. The Lord of the Rings by J.R.R. Tolkien
+3. The Hobbit by J.R.R. Tolkien
+4. The Hunger Games by Suzanne Collins
+5. Divergent by Veronica Roth
+6. The Maze Runner by James Dashner
+7. Percy Jackson and the Olympians by Rick Riordan
+8. The Mortal Instruments by Cassandra Clare
+9. The Fault in Our Stars by John Green
+10. The Giver by Lois Lowry
+11. Ender's Game by Orson Scott Card
+12. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+13. The Catcher in the Rye by J.D. Salinger
+14. To Kill a Mockingbird by Harper Lee
+15. The Great Gatsby by F. Scott Fitzgerald
+16. Animal Farm by George Orwell
+17. Brave New World by Aldous Huxley
+18. The Handmaid's Tale by Margaret Atwood
+19. The Girl with the Dragon Tattoo by Stieg Larsson
+20. The Da Vinci Code by Dan Brown
+21. The Girl on the Train by Paula Hawkins
+22. Gone Girl by Gillian Flynn
+23. The Help by Kathryn Stockett
+24. The Book Thief by Markus Zusak
+25. The Kite Runner by Khaled Hosseini
+26. A Thousand Splendid Suns by Khaled Hosseini
+27. The Alchemist by Paulo Coelho
+28. The Picture of Dorian Gray by Oscar Wilde
+29. Dracula by Bram Stoker
+30. Frankenstein by Mary Shelley
+31. Jane Eyre by Charlotte Bronte
+32. Wuthering Heights by Emily Bronte
+33. Pride and Prejudice by Jane Austen
+34. Sense and Sensibility by Jane Austen
+35. Emma by Jane Austen
+36. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+37. The Count of Monte Cristo by Alexandre Dumas
+38. Les Miserables by Victor Hugo
+39. The Three Musketeers by Alexandre Dumas
+40. Treasure Island by Robert Louis Stevenson
+41. Robinson Crusoe by Daniel Defoe
+42. Gulliver's Travels by Jonathan Swift
+43. Alice's Adventures in Wonderland by Lewis Carroll
+44. The War of the Worlds by H.G. Wells
+45. The Time Machine by H.G. Wells
+46. The Invisible Man by H.G. Wells
+47. The Island of Dr. Moreau by H.G. Wells
+48. The Call of the Wild by Jack London
+49. White Fang by Jack London
+50. The Adventures of Tom Sawyer by Mark Twain

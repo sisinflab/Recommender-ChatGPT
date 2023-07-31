@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Dream Theater
+2. Tool
+3. Porcupine Tree
+4. Opeth
+5. A Perfect Circle
+6. Nevermore
+7. Anathema
+8. Alice in Chains
+9. Testament
+10. Pink Floyd
+11. Metallica
+12. Joe Satriani
+13. In Flames
+14. Skillet
+15. Switchfoot
+16. Our Lady Peace
+17. Blue October
+18. Anberlin
+19. Coldplay
+20. Keane
+21. Linkin Park
+22. Saliva
+23. A Day to Remember
+24. Bush
+25. Owl City
+26. Green Day
+27. Theory of a Deadman
+28. The Used
+29. Pantera
+30. Britney Spears
+31. Lady Gaga
+32. Christina Aguilera
+33. Paramore
+34. Rihanna
+35. Shakira
+36. Katy Perry
+37. Avril Lavigne
+38. Taylor Swift
+39. Evanescence
+40. Glee Cast
+41. Beyoncé
+42. U2
+43. 30 Seconds to Mars
+44. Muse
+45. Kylie Minogue
+46. Miley Cyrus
+47. Radiohead
+48. Ke$ha
+49. Duran Duran
+50. Coldplay

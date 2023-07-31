@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations are:
+
+1. Daft Punk
+2. The Chemical Brothers
+3. Arctic Monkeys
+4. Crystal Castles
+5. MGMT
+6. Pendulum
+7. Sigur Rós
+8. Tool
+9. Digitalism
+10. The Cure
+11. Flunk
+12. Venetian Snares
+13. O.S.T.R.
+14. Róisín Murphy
+15. Calvin Harris
+16. Kate Nash
+17. The Ting Tings
+18. Lenny Kravitz
+19. Prefuse 73
+20. Bonobo
+21. Franz Ferdinand
+22. Nirvana
+23. Yeah Yeah Yeahs
+24. Gorillaz
+25. Florence + the Machine
+26. Linkin Park
+27. Aphex Twin
+28. Justice
+29. Mogwai
+30. Air
+31. Björk
+32. Thrice
+33. Archive
+34. J Dilla
+35. Yann Tiersen
+36. Keane
+37. Röyksopp
+38. ABBA
+39. The Album Leaf
+40. Nas
+41. Michael Jackson
+42. Jack Johnson
+43. Enya
+44. Mos Def
+45. Eminem
+46. Jay-Z
+47. Moby
+48. De La Soul
+49. Kanye West
+50. Nelly Furtado

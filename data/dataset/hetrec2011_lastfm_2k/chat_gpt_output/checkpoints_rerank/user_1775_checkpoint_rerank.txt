@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. HIM
+2. KISS
+3. The Offspring
+4. Depeche Mode
+5. Alphaville
+6. New Order
+7. The Rasmus
+8. Dead by April
+9. Linkin Park
+10. Mötley Crüe
+11. Duran Duran
+12. Tears for Fears
+13. Danny
+14. Orchestral Manoeuvres in the Dark
+15. Avenged Sevenfold
+16. The 69 Eyes
+17. Green Day
+18. Guns N' Roses
+19. Hurts
+20. The Human League
+21. Muse
+22. Pink Floyd
+23. Radiohead
+24. Nirvana
+25. Led Zeppelin
+26. Metallica
+27. Iron Maiden
+28. Pearl Jam
+29. The Cure
+30. My Chemical Romance
+31. Arctic Monkeys
+32. Placebo
+33. The Killers
+34. Nine Inch Nails
+35. System of a Down
+36. Daft Punk
+37. a-ha
+38. Björk
+39. Coldplay
+40. Blur
+41. Michael Jackson
+42. Madonna
+43. Lady Gaga
+44. Christina Aguilera
+45. Beyoncé
+46. Rihanna
+47. Shakira
+48. Katy Perry
+49. Taylor Swift
+50. Ke$ha

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Blink-182
+2. Weezer
+3. Muse
+4. The Killers
+5. Arctic Monkeys
+6. Coldplay
+7. The White Stripes
+8. Queens of the Stone Age
+9. The Black Keys
+10. Arcade Fire
+11. Vampire Weekend
+12. The Smashing Pumpkins
+13. The Shins
+14. Death Cab for Cutie
+15. Modest Mouse
+16. Interpol
+17. The National
+18. The Stills
+19. Metric
+20. Yeah Yeah Yeahs
+21. The Hives
+22. The Vines
+23. The Libertines
+24. Franz Ferdinand
+25. The Kooks
+26. The Fratellis
+27. The Raconteurs
+28. The Bravery
+29. The Stills-Young Band
+30. The Mars Volta
+31. The Flaming Lips
+32. The Postal Service
+33. The Decemberists
+34. Spoon
+35. Wilco
+36. My Morning Jacket
+37. Band of Horses
+38. Fleet Foxes
+39. Iron & Wine
+40. Sufjan Stevens
+41. Bon Iver
+42. The Avett Brothers
+43. Mumford & Sons
+44. The Lumineers
+45. Of Monsters and Men
+46. Imagine Dragons
+47. Foster the People
+48. Passion Pit
+49. MGMT
+50. Phoenix

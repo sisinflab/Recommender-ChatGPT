@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Fushigi Yûgi by Yuu Watase
+2. Cardcaptor Sakura by CLAMP
+3. Fullmetal Alchemist by Hiromu Arakawa
+4. Death Note by Tsugumi Ohba and Takeshi Obata
+5. Sailor Moon by Naoko Takeuchi
+6. Naruto by Masashi Kishimoto
+7. Bleach by Tite Kubo
+8. Attack on Titan by Hajime Isayama
+9. The Hunger Games by Suzanne Collins
+10. Divergent by Veronica Roth
+11. The Maze Runner by James Dashner
+12. The Fault in Our Stars by John Green
+13. The Perks of Being a Wallflower by Stephen Chbosky
+14. The Book Thief by Markus Zusak
+15. The Giver by Lois Lowry
+16. The Chronicles of Narnia by C.S. Lewis
+17. Harry Potter series by J.K. Rowling
+18. The Lord of the Rings by J.R.R. Tolkien
+19. The Hobbit by J.R.R. Tolkien
+20. The Hunger Games trilogy by Suzanne Collins
+21. The Mortal Instruments series by Cassandra Clare
+22. The Infernal Devices series by Cassandra Clare
+23. The Dark Artifices series by Cassandra Clare
+24. The Twilight Saga by Stephenie Meyer
+25. The Host by Stephenie Meyer
+26. The Lunar Chronicles by Marissa Meyer
+27. The Selection series by Kiera Cass
+28. The 5th Wave by Rick Yancey
+29. The Darkest Minds by Alexandra Bracken
+30. The Maze Runner series by James Dashner
+31. The Scorch Trials by James Dashner
+32. The Death Cure by James Dashner
+33. The Kill Order by James Dashner
+34. The Selection by Kiera Cass
+35. The Elite by Kiera Cass
+36. The One by Kiera Cass
+37. The Heir by Kiera Cass
+38. The Crown by Kiera Cass
+39. The Red Queen by Victoria Aveyard
+40. The Glass Sword by Victoria Aveyard
+41. The King's Cage by Victoria Aveyard
+42. The Warcross by Marie Lu
+43. The Legend series by Marie Lu
+44. The Young Elites series by Marie Lu
+45. The Lunar Chronicles by Marissa Meyer
+46. The Renegades series by Marissa Meyer
+47. The Illuminae Files series by Amie Kaufman and Jay Kristoff
+48. The Lunar Chronicles by Marissa Meyer
+49. The Renegades series by Marissa Meyer
+50. The Illuminae Files series by Amie Kaufman and Jay Kristoff

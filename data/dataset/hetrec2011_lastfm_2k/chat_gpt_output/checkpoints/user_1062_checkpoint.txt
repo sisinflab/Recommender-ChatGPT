@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Nirvana
+3. The Smashing Pumpkins
+4. Sonic Youth
+5. Tool
+6. Nine Inch Nails
+7. Soundgarden
+8. Alice in Chains
+9. Rage Against the Machine
+10. Queens of the Stone Age
+11. Muse
+12. The Mars Volta
+13. At the Drive-In
+14. Deftones
+15. System of a Down
+16. Tool
+17. A Perfect Circle
+18. Faith No More
+19. Jane's Addiction
+20. Stone Temple Pilots
+21. Foo Fighters
+22. Weezer
+23. The White Stripes
+24. The Black Keys
+25. Arctic Monkeys
+26. The Strokes
+27. Interpol
+28. Joy Division
+29. The Cure
+30. New Order
+31. The Smiths
+32. Morrissey
+33. David Bowie
+34. Iggy Pop
+35. Lou Reed
+36. The Velvet Underground
+37. Talking Heads
+38. Blondie
+39. The Clash
+40. Sex Pistols
+41. Ramones
+42. Green Day
+43. Blink-182
+44. Sum 41
+45. The Offspring
+46. Rancid
+47. NOFX
+48. Bad Religion
+49. Pennywise
+50. Social Distortion

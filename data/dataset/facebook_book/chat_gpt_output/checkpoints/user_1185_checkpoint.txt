@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Great Gatsby by F. Scott Fitzgerald
+4. Animal Farm by George Orwell
+5. The Hobbit by J.R.R. Tolkien
+6. The Lord of the Rings by J.R.R. Tolkien
+7. The Hunger Games by Suzanne Collins
+8. The Fault in Our Stars by John Green
+9. The Book Thief by Markus Zusak
+10. The Maze Runner by James Dashner
+11. The Chronicles of Narnia by C.S. Lewis
+12. The Da Vinci Code by Dan Brown
+13. The Girl with the Dragon Tattoo by Stieg Larsson
+14. The Help by Kathryn Stockett
+15. The Kite Runner by Khaled Hosseini
+16. The Lovely Bones by Alice Sebold
+17. The Secret Life of Bees by Sue Monk Kidd
+18. The Time Traveler's Wife by Audrey Niffenegger
+19. The Catcher in the Rye by J.D. Salinger
+20. The Giver by Lois Lowry
+21. The Picture of Dorian Gray by Oscar Wilde
+22. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+23. The Adventures of Tom Sawyer by Mark Twain
+24. The Alchemist by Paulo Coelho
+25. The Bell Jar by Sylvia Plath
+26. The Color Purple by Alice Walker
+27. The Count of Monte Cristo by Alexandre Dumas
+28. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+29. The Diary of a Young Girl by Anne Frank
+30. The Divine Comedy by Dante Alighieri
+31. The Girl on the Train by Paula Hawkins
+32. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+33. The House of the Spirits by Isabel Allende
+34. The Joy Luck Club by Amy Tan
+35. The Name of the Wind by Patrick Rothfuss
+36. The Nightingale by Kristin Hannah
+37. The Outsiders by S.E. Hinton
+38. The Perks of Being a Wallflower by Stephen Chbosky
+39. The Picture of Dorian Gray by Oscar Wilde
+40. The Pillars of the Earth by Ken Follett
+41. The Road by Cormac McCarthy
+42. The Secret History by Donna Tartt
+43. The Shadow of the Wind by Carlos Ruiz Zafón
+44. The Stand by Stephen King
+45. The Sun Also Rises by Ernest Hemingway
+46. The Talisman by Stephen King and Peter Straub
+47. The Time Machine by H.G. Wells
+48. The Wind-Up Bird Chronicle by Haruki Murakami
+49. The Woman in White by Wilkie Collins
+50. The World According

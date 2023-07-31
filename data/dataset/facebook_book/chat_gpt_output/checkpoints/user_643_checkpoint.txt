@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Identical by Ellen Hopkins
+2. Fallout by Ellen Hopkins
+3. Perfect by Ellen Hopkins
+4. The Maze Runner by James Dashner
+5. The Hunger Games by Suzanne Collins
+6. Divergent by Veronica Roth
+7. Insurgent by Veronica Roth
+8. Allegiant by Veronica Roth
+9. The Fault in Our Stars by John Green
+10. Looking for Alaska by John Green
+11. Paper Towns by John Green
+12. An Abundance of Katherines by John Green
+13. The Book Thief by Markus Zusak
+14. Thirteen Reasons Why by Jay Asher
+15. The Perks of Being a Wallflower by Stephen Chbosky
+16. The Catcher in the Rye by J.D. Salinger
+17. The Great Gatsby by F. Scott Fitzgerald
+18. To Kill a Mockingbird by Harper Lee
+19. The Lord of the Rings by J.R.R. Tolkien
+20. The Hobbit by J.R.R. Tolkien
+21. The Chronicles of Narnia by C.S. Lewis
+22. The Da Vinci Code by Dan Brown
+23. Angels and Demons by Dan Brown
+24. Inferno by Dan Brown
+25. Digital Fortress by Dan Brown
+26. The Girl with the Dragon Tattoo by Stieg Larsson
+27. The Girl Who Played with Fire by Stieg Larsson
+28. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+29. The Shining by Stephen King
+30. Carrie by Stephen King
+31. The Stand by Stephen King
+32. It by Stephen King
+33. The Dark Tower series by Stephen King
+34. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+35. Ender's Game by Orson Scott Card
+36. Speaker for the Dead by Orson Scott Card
+37. Xenocide by Orson Scott Card
+38. Children of the Mind by Orson Scott Card
+39. The Ender's Shadow series by Orson Scott Card
+40. The Wheel of Time series by Robert Jordan
+41. A Song of Ice and Fire series by George R.R. Martin
+42. The Name of the Wind by Patrick Rothfuss
+43. The Wise Man's Fear by Patrick Rothfuss
+44. The Kingkiller Chronicle series by Patrick Rothfuss
+45. The Dark Tower series by Stephen King
+46. The Dresden Files series by Jim Butcher
+47. The Belgariad series by David Eddings
+48. The Malloreon series by David Eddings
+49. The Sword of Truth series by Terry Goodkind
+50. The Mistborn series by Brandon Sanderson

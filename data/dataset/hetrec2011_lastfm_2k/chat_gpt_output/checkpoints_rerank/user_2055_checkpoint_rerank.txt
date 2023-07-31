@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Birthday Massacre
+2. Duran Duran
+3. Lady Gaga
+4. Bauhaus
+5. Akira Yamaoka
+6. Gary Numan
+7. The Crüxshadows
+8. HIM
+9. Emilie Autumn
+10. Ayria
+11. Clan of Xymox
+12. Katy Perry
+13. The Cure
+14. Depeche Mode
+15. Pet Shop Boys
+16. Siouxsie and the Banshees
+17. Covenant
+18. Garbage
+19. Madonna
+20. Britney Spears
+21. Christina Aguilera
+22. Beyoncé
+23. Rihanna
+24. Shakira
+25. Ke$ha
+26. Avril Lavigne
+27. Taylor Swift
+28. Evanescence
+29. Muse
+30. Pink Floyd
+31. U2
+32. 30 Seconds to Mars
+33. Radiohead
+34. Coldplay
+35. Blur
+36. Arctic Monkeys
+37. Placebo
+38. The Killers
+39. Nirvana
+40. Iron Maiden
+41. Led Zeppelin
+42. Metallica
+43. Michael Jackson
+44. Pearl Jam
+45. a-ha
+46. Björk
+47. System of a Down
+48. Daft Punk
+49. Nine Inch Nails
+50. Linkin Park

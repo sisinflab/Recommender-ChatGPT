@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for them would be:
+
+1. Dream Theater
+2. Symphony X
+3. Iced Earth
+4. Helloween
+5. Blind Guardian
+6. Stratovarius
+7. Gamma Ray
+8. Angra
+9. Rhapsody of Fire
+10. Edguy
+11. Kamelot
+12. Sonata Arctica
+13. Devin Townsend
+14. Opeth
+15. Norther
+16. Arch Enemy
+17. Children of Bodom
+18. Dark Tranquillity
+19. Porcupine Tree
+20. Megadeth
+21. Ozzy Osbourne
+22. Katatonia
+23. Nightwish
+24. Agalloch
+25. Nevermore
+26. As I Lay Dying
+27. Ensiferum
+28. Hypocrisy
+29. Gojira
+30. Amon Amarth
+31. Ayreon
+32. Bloodbath
+33. Dokken
+34. Frédéric Chopin
+35. Scar Symmetry
+36. Amorphis
+37. Slayer
+38. Soilwork
+39. Iron Maiden
+40. Metallica
+41. Led Zeppelin
+42. Nirvana
+43. Pearl Jam
+44. System of a Down
+45. Linkin Park
+46. Avenged Sevenfold
+47. Green Day
+48. My Chemical Romance
+49. The Killers
+50. Muse

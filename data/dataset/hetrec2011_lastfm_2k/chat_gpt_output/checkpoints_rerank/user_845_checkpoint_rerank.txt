@@ -1,0 +1,52 @@
+Based on the user's liking history, the top 50 recommendations would be:
+
+1. Iron Maiden
+2. Metallica
+3. Dark Tranquillity
+4. Megadeth
+5. Motörhead
+6. Mägo de Oz
+7. In Flames
+8. Opeth
+9. Dream Theater
+10. Death
+11. Jethro Tull
+12. King Crimson
+13. Oasis
+14. Apocalyptica
+15. Slayer
+16. Exodus
+17. Led Zeppelin
+18. Pink Floyd
+19. Nirvana
+20. Pearl Jam
+21. Michael Jackson
+22. The Beatles
+23. Muse
+24. U2
+25. Radiohead
+26. System of a Down
+27. Nine Inch Nails
+28. Linkin Park
+29. Avenged Sevenfold
+30. My Chemical Romance
+31. Green Day
+32. The Cure
+33. Evanescence
+34. Glee Cast
+35. Beyoncé
+36. Katy Perry
+37. Taylor Swift
+38. Ke$ha
+39. Coldplay
+40. Blur
+41. Arctic Monkeys
+42. Placebo
+43. The Killers
+44. Madonna
+45. Rihanna
+46. Lady Gaga
+47. Christina Aguilera
+48. Shakira
+49. Britney Spears
+50. Kylie Minogue

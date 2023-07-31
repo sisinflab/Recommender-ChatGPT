@@ -1,0 +1,48 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Watchmen by Alan Moore
+2. The Walking Dead by Robert Kirkman
+3. The Hobbit by J.R.R. Tolkien
+4. World War Z by Max Brooks
+5. The Complete Fiction of H.P. Lovecraft by H.P. Lovecraft
+6. The Art of War by Sun Tzu
+7. The Dark Tower II: The Drawing of the Three by Stephen King
+8. The Odyssey by Homer
+9. Berserk by Kentaro Miura
+10. Animal Farm by George Orwell
+11. Good Omens by Neil Gaiman and Terry Pratchett
+12. The Children of Hurin by J.R.R. Tolkien
+13. The War of the Worlds by H.G. Wells
+14. The Gunslinger Born by Stephen King
+15. The Divine Comedy by Dante Alighieri
+16. The Sandman by Neil Gaiman
+17. The Name of the Wind by Patrick Rothfuss
+18. The Lord of the Rings: The Fellowship of the Ring by J.R.R. Tolkien
+19. The Hitchhiker's Guide to the Galaxy: The Restaurant at the End of the Universe by Douglas Adams
+20. The Iliad and The Odyssey by Homer
+21. The Silmarillion by J.R.R. Tolkien
+22. The Dark Tower III: The Waste Lands by Stephen King
+23. The Catcher in the Rye by J.D. Salinger
+24. The Hunger Games by Suzanne Collins
+25. The Dark Tower IV: Wizard and Glass by Stephen King
+26. The Great Gatsby by F. Scott Fitzgerald
+27. The Dark Tower V: Wolves of the Calla by Stephen King
+28. The Dark Tower VI: Song of Susannah by Stephen King
+29. The Dark Tower VII: The Dark Tower by Stephen King
+30. The Picture of Dorian Gray by Oscar Wilde
+31. The Count of Monte Cristo by Alexandre Dumas
+32. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+33. The Complete Works of William Shakespeare by William Shakespeare
+34. The Stand by Stephen King
+35. The Shining by Stephen King
+36. The Girl with the Dragon Tattoo by Stieg Larsson
+37. The Da Vinci Code by Dan Brown
+38. The Chronicles of Narnia by C.S. Lewis
+39. The Complete Tales and Poems of Edgar Allan Poe by Edgar Allan Poe
+40. The Complete Sherlock Holmes by Arthur Conan Doyle
+41. The Dark Knight Returns by Frank Miller
+42. The Road by Cormac McCarthy
+43. The Complete Grimm's Fairy Tales by Jacob and Wilhelm Grimm
+44. The Complete Tales of Winnie-the-Pooh by A.A. Milne
+45. The Complete Adventures of Curious George by H.A. and Margret Rey
+46. The Complete Adventures of

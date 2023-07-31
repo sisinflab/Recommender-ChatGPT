@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. The Hunger Games by Suzanne Collins
+3. Ender's Game by Orson Scott Card
+4. The Catcher in the Rye by J.D. Salinger
+5. The Lord of the Rings by J.R.R. Tolkien
+6. To Kill a Mockingbird by Harper Lee
+7. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+8. The Great Gatsby by F. Scott Fitzgerald
+9. The Hobbit by J.R.R. Tolkien
+10. The Da Vinci Code by Dan Brown
+11. The Martian by Andy Weir
+12. The Catcher in the Rye by J.D. Salinger
+13. The Chronicles of Narnia by C.S. Lewis
+14. The Giver by Lois Lowry
+15. The Maze Runner by James Dashner
+16. The Girl with the Dragon Tattoo by Stieg Larsson
+17. The Shining by Stephen King
+18. The Silence of the Lambs by Thomas Harris
+19. The Stand by Stephen King
+20. The Road by Cormac McCarthy
+21. The Picture of Dorian Gray by Oscar Wilde
+22. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+23. The Count of Monte Cristo by Alexandre Dumas
+24. The Three Musketeers by Alexandre Dumas
+25. The Name of the Wind by Patrick Rothfuss
+26. The Wise Man's Fear by Patrick Rothfuss
+27. The Dark Tower series by Stephen King
+28. The Dresden Files series by Jim Butcher
+29. The Wheel of Time series by Robert Jordan
+30. The Stormlight Archive series by Brandon Sanderson
+31. The Mistborn series by Brandon Sanderson
+32. The Kingkiller Chronicle series by Patrick Rothfuss
+33. The First Law trilogy by Joe Abercrombie
+34. The Lies of Locke Lamora by Scott Lynch
+35. The Blade Itself by Joe Abercrombie
+36. The Way of Kings by Brandon Sanderson
+37. The Final Empire by Brandon Sanderson
+38. The Well of Ascension by Brandon Sanderson
+39. The Hero of Ages by Brandon Sanderson
+40. The Lies of Locke Lamora by Scott Lynch
+41. The Blade Itself by Joe Abercrombie
+42. The Way of Kings by Brandon Sanderson
+43. The Final Empire by Brandon Sanderson
+44. The Well of Ascension by Brandon Sanderson
+45. The Hero of Ages by Brandon Sanderson
+46. The Name of the Wind by Patrick Rothfuss
+47. The Wise Man's Fear by Patrick Rothfuss
+48. The Dark Tower series by Stephen King
+49. The Dresden Files series by Jim Butcher
+50. The Wheel of Time series by Robert Jordan

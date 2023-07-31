@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Catcher in the Rye by J.D. Salinger
+3. Animal Farm by George Orwell
+4. Brave New World by Aldous Huxley
+5. The Great Gatsby by F. Scott Fitzgerald
+6. The Handmaid's Tale by Margaret Atwood
+7. The Hunger Games by Suzanne Collins
+8. Lord of the Flies by William Golding
+9. The Giver by Lois Lowry
+10. The Book Thief by Markus Zusak
+11. Fahrenheit 451 by Ray Bradbury
+12. The Road by Cormac McCarthy
+13. One Hundred Years of Solitude by Gabriel Garcia Marquez
+14. The Picture of Dorian Gray by Oscar Wilde
+15. The Hobbit by J.R.R. Tolkien
+16. The Lord of the Rings Trilogy by J.R.R. Tolkien
+17. The Chronicles of Narnia by C.S. Lewis
+18. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+19. The Girl with the Dragon Tattoo by Stieg Larsson
+20. The Da Vinci Code by Dan Brown
+21. The Name of the Rose by Umberto Eco
+22. The Shadow of the Wind by Carlos Ruiz Zafón
+23. The Alchemist by Paulo Coelho
+24. The Secret History by Donna Tartt
+25. The Bell Jar by Sylvia Plath
+26. The Color Purple by Alice Walker
+27. The Joy Luck Club by Amy Tan
+28. The Help by Kathryn Stockett
+29. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+30. The Poisonwood Bible by Barbara Kingsolver
+31. The God of Small Things by Arundhati Roy
+32. The Hand That First Held Mine by Maggie O'Farrell
+33. The Nightingale by Kristin Hannah
+34. The Time Traveler's Wife by Audrey Niffenegger
+35. The Lovely Bones by Alice Sebold
+36. The Fault in Our Stars by John Green
+37. The Perks of Being a Wallflower by Stephen Chbosky
+38. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+39. The Road Less Traveled by M. Scott Peck
+40. The Power of Now by Eckhart Tolle
+41. The 7 Habits of Highly Effective People by Stephen Covey
+42. The Lean Startup by Eric Ries
+43. The Innovator's Dilemma by Clayton Christensen
+44. The Art of War by Sun Tzu
+45. The Prince by Niccolo Machiavelli
+46. The Republic by Plato
+47. The Wealth of Nations by Adam Smith
+48. The Origin of Species by Charles Darwin
+49. The Structure of Scientific Rev
+50. The Wise Man's Fear by Patrick Rothfuss

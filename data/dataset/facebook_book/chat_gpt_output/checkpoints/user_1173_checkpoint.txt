@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Vampire Lestat by Anne Rice
+2. The Picture of Dorian Gray by Oscar Wilde
+3. The Phantom of the Opera by Gaston Leroux
+4. The Complete Tales and Poems of Edgar Allan Poe by Edgar Allan Poe
+5. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+6. The Canterbury Tales by Geoffrey Chaucer
+7. The Divine Comedy by Dante Alighieri
+8. The Odyssey by Homer
+9. The Iliad by Homer
+10. The Inferno by Dante Alighieri
+11. The Republic by Plato
+12. The Brothers Karamazov by Fyodor Dostoevsky
+13. Crime and Punishment by Fyodor Dostoevsky
+14. The Picture of Dorian Gray by Oscar Wilde
+15. The Count of Monte Cristo by Alexandre Dumas
+16. The Three Musketeers by Alexandre Dumas
+17. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+18. The Hound of the Baskervilles by Arthur Conan Doyle
+19. The War of the Worlds by H.G. Wells
+20. The Time Machine by H.G. Wells
+21. The Invisible Man by H.G. Wells
+22. The Island of Dr. Moreau by H.G. Wells
+23. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+24. 1984 by George Orwell
+25. Animal Farm by George Orwell
+26. Brave New World by Aldous Huxley
+27. Fahrenheit 451 by Ray Bradbury
+28. The Martian Chronicles by Ray Bradbury
+29. The Chronicles of Narnia by C.S. Lewis
+30. The Lord of the Rings by J.R.R. Tolkien
+31. The Hobbit by J.R.R. Tolkien
+32. The Silmarillion by J.R.R. Tolkien
+33. The Catcher in the Rye by J.D. Salinger
+34. To Kill a Mockingbird by Harper Lee
+35. One Hundred Years of Solitude by Gabriel Garcia Marquez
+36. Love in the Time of Cholera by Gabriel Garcia Marquez
+37. The Great Gatsby by F. Scott Fitzgerald
+38. The Sun Also Rises by Ernest Hemingway
+39. For Whom the Bell Tolls by Ernest Hemingway
+40. The Old Man and the Sea by Ernest Hemingway
+41. The Sound and the Fury by William Faulkner
+42. As I Lay Dying by William Faulkner
+43. The Grapes of Wrath by John Steinbeck
+44. East of Eden by John Steinbeck
+45. Of Mice and Men by John Steinbeck
+46. The Picture of Dorian Gray by Oscar Wilde
+47. The Importance of Being
+48. The Dark Tower by Stephen King
+49. The Name of the Wind by Patrick Rothfuss
+50. The Wise Man's Fear by Patrick Rothfuss

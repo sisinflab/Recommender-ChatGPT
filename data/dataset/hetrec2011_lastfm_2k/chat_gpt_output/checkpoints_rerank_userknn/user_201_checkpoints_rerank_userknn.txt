@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Muse
+2. Evanescence
+3. Rammstein
+4. Within Temptation
+5. Depeche Mode
+6. Portishead
+7. The Cardigans
+8. Anathema
+9. Leaves' Eyes
+10. Blackfield
+11. Laura Pausini
+12. Alicia Keys
+13. The Gathering
+14. Lily Allen
+15. Theatre of Tragedy
+16. Roxette
+17. Helloween
+18. Glee Cast
+19. INXS
+20. New Order
+21. Joy Division
+22. Daft Punk
+23. Radiohead
+24. Metallica
+25. Kraftwerk
+26. Boards of Canada
+27. David Guetta
+28. deadmau5
+29. Ladytron
+30. Crystal Castles
+31. IAMX
+32. Recoil
+33. Nelly Furtado
+34. Pet Shop Boys
+35. Madonna
+36. Tiësto
+37. Jean-Michel Jarre
+38. Marilyn Manson
+39. U2
+40. Nitzer Ebb
+41. Linkin Park
+42. Placebo
+43. Coldplay
+44. Massive Attack
+45. Keane
+46. Air
+47. Yann Tiersen
+48. Britney Spears
+49. Kylie Minogue
+50. No Doubt

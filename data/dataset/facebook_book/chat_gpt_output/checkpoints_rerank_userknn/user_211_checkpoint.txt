@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Harry Potter series by J.K. Rowling
+2. The Hunger Games series by Suzanne Collins
+3. Twilight series by Stephenie Meyer
+4. Maximum Ride series by James Patterson
+5. Uglies series by Scott Westerfeld
+6. Percy Jackson & the Olympians series by Rick Riordan
+7. The Hobbit by J.R.R. Tolkien
+8. The Lord of the Rings series by J.R.R. Tolkien
+9. Inkheart series by Cornelia Funke
+10. A Series of Unfortunate Events by Lemony Snicket
+11. The Alchemist by Paulo Coelho
+12. Little Women by Louisa May Alcott
+13. To Kill a Mockingbird by Harper Lee
+14. The Scarlet Pimpernel by Baroness Orczy
+15. Adventures of Huckleberry Finn by Mark Twain
+16. Romeo and Juliet by William Shakespeare
+17. The Catcher in the Rye by J.D. Salinger
+18. Les Misérables by Victor Hugo
+19. A Thousand Splendid Suns by Khaled Hosseini
+20. The Joy Luck Club by Amy Tan
+21. Speak by Laurie Halse Anderson
+22. The Boy in the Striped Pyjamas by John Boyne
+23. The Crucible of Time by John Brunner
+24. The Messenger by Markus Zusak
+25. Where the Heart Is by Billie Letts
+26. Tuesdays with Morrie by Mitch Albom
+27. Marley & Me by John Grogan
+28. The Umbrella Academy by Gerard Way
+29. In Cold Blood by Truman Capote
+30. The Reader by Bernhard Schlink
+31. Beautiful Creatures by Kami Garcia and Margaret Stohl
+32. Thirteen Reasons Why by Jay Asher
+33. Cirque du Freak by Darren Shan
+34. Go Ask Alice by Anonymous
+35. Fade by Lisa McMann
+36. Anthem by Ayn Rand
+37. Evermore by Alyson Noël
+38. Ways to Live Forever by Sally Nicholls
+39. Ink Exchange by Melissa Marr
+40. City of Ashes by Cassandra Clare
+41. The Zombie Survival Guide by Max Brooks
+42. Alice's Adventures in Wonderland by Lewis Carroll
+43. The Hamlet by William Faulkner
+44. How the García Girls Lost Their Accents by Julia Alvarez
+45. Last Sacrifice by Richelle Mead
+46. Suck It Up by Brian Meehl
+47. The Supernaturalist by Eoin Colfer
+48. Mark of the Lion series by Francine Rivers
+49. A Midsummer Night's Dream by William Shakespeare
+50. God Is Not Great by Christopher Hitchens

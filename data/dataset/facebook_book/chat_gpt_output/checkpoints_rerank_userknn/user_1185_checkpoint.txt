@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird
+2. The Lord of the Rings
+3. The Book Thief
+4. Little Women
+5. The Princess Bride
+6. The BFG
+7. Holes
+8. The Catcher in the Rye
+9. Jane Eyre
+10. Wuthering Heights
+11. The Giver
+12. Fahrenheit 451
+13. Memoirs of a Geisha
+14. The Color of Water
+15. The Scarlet Letter
+16. Dracula
+17. Frankenstein
+18. The Shadow of the Wind
+19. The Bell Jar
+20. My Sister's Keeper
+21. Water for Elephants
+22. Nine Princes in Amber
+23. Dress Your Family in Corduroy and Denim
+24. It's Kind of a Funny Story
+25. The Other Boleyn Girl
+26. Naked
+27. Gospel of Matthew
+28. Epistle to the Romans
+29. Inferno
+30. Macbeth
+31. Bridge to Terabithia
+32. Angela's Ashes
+33. The Messenger
+34. The Prisoner of Zenda
+35. Sunshine
+36. Persepolis
+37. Eldest
+38. The Sisterhood of the Traveling Pants
+39. The Princess Diaries
+40. Project 17
+41. Impulse economy
+42. King Dork
+43. Burned
+44. A Christmas Carol
+45. Will Grayson, Will Grayson
+46. The Umbrella Academy
+47. Twilight
+48. City of Ashes
+49. Doppelganger
+50. Hoot

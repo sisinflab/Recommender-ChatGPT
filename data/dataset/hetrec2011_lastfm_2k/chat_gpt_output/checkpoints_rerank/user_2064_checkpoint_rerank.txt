@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Flyleaf
+2. Kings of Leon
+3. The Pretty Reckless
+4. Breaking Benjamin
+5. Bring Me The Horizon
+6. Bullet for My Valentine
+7. Papa Roach
+8. Florence + the Machine
+9. Green Day
+10. Death Cab for Cutie
+11. Silversun Pickups
+12. Black Rebel Motorcycle Club
+13. Marina & the Diamonds
+14. Boys Like Girls
+15. Ellie Goulding
+16. Gorillaz
+17. The Bravery
+18. The Kooks
+19. Sia
+20. Automatic Loveletter
+21. Interpol
+22. Metric
+23. Three Days Grace
+24. Paramore
+25. Muse
+26. Glee Cast
+27. Pink Floyd
+28. Radiohead
+29. Nirvana
+30. Led Zeppelin
+31. Metallica
+32. Michael Jackson
+33. Pearl Jam
+34. a-ha
+35. Björk
+36. System of a Down
+37. Daft Punk
+38. Nine Inch Nails
+39. Linkin Park
+40. Avril Lavigne
+41. Taylor Swift
+42. Evanescence
+43. Beyoncé
+44. U2
+45. Coldplay
+46. Blur
+47. Arctic Monkeys
+48. Placebo
+49. Iron Maiden
+50. My Chemical Romance

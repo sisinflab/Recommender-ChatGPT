@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. Nineteen Eighty-Four by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+5. The Hobbit by J.R.R. Tolkien
+6. Romeo and Juliet by William Shakespeare
+7. The Giver by Lois Lowry
+8. Frankenstein by Mary Shelley
+9. Memoirs of a Geisha by Arthur Golden
+10. The Dante Club by Matthew Pearl
+11. The Crucible of Time by John Brunner
+12. The Outsiders by S.E. Hinton
+13. The Thief of Always by Clive Barker
+14. Inkheart by Cornelia Funke
+15. The End of Mr. Y by Scarlett Thomas
+16. I Am Legend by Richard Matheson
+17. Uglies by Scott Westerfeld
+18. The Eyes of the Dragon by Stephen King
+19. Paper Towns by John Green
+20. Will Grayson, Will Grayson by John Green and David Levithan
+21. Farewell, My Lovely by Raymond Chandler
+22. Night by Elie Wiesel
+23. A Clockwork Orange by Anthony Burgess
+24. Ella Enchanted by Gail Carson Levine
+25. Where the Red Fern Grows by Wilson Rawls
+26. A Tale of Two Cities by Charles Dickens
+27. His Dark Materials by Philip Pullman
+28. Utopia by Thomas More
+29. The Zombie Survival Guide by Max Brooks
+30. All Quiet on the Western Front by Erich Maria Remarque
+31. Twilight by Stephenie Meyer
+32. The Wedding by Danielle Steel
+33. The Sisterhood of the Traveling Pants by Ann Brashares
+34. The Kite Runner by Khaled Hosseini
+35. Harry Potter by J.K. Rowling
+36. The Princess Bride by William Goldman
+37. The Prosecution of George W. Bush for Murder by Vincent Bugliosi
+38. The Jungle Book by Rudyard Kipling
+39. Dear John by Nicholas Sparks
+40. The Notebook by Nicholas Sparks
+41. Bible
+42. An Abundance of Katherines by John Green
+43. Don Quixote by Miguel de Cervantes
+44. Angel by James Patterson
+45. Tuesdays with Morrie by Mitch Albom
+46. Cecilia by Linda Ferri
+47. Haunted by Meg Cabot
+48. Stargirl by Jerry Spinelli
+49. The Prestige by Christopher Priest
+50. Fullmetal Alchemist by Hiromu Arakawa and Makoto Inoue

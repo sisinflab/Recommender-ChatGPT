@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Chronicles of Narnia by C.S. Lewis
+2. The Catcher in the Rye by J.D. Salinger
+3. To Kill a Mockingbird by Harper Lee
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Pride and Prejudice by Jane Austen
+6. Wuthering Heights by Emily Bronte
+7. The Picture of Dorian Gray by Oscar Wilde
+8. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+9. The Hobbit by J.R.R. Tolkien
+10. The Hunger Games by Suzanne Collins
+11. The Da Vinci Code by Dan Brown
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+14. The Shining by Stephen King
+15. The Road by Cormac McCarthy
+16. The Handmaid's Tale by Margaret Atwood
+17. 1984 by George Orwell
+18. Animal Farm by George Orwell
+19. Brave New World by Aldous Huxley
+20. Fahrenheit 451 by Ray Bradbury
+21. The Martian by Andy Weir
+22. The Alchemist by Paulo Coelho
+23. The Name of the Wind by Patrick Rothfuss
+24. The Wise Man's Fear by Patrick Rothfuss
+25. The Shadow of the Wind by Carlos Ruiz Zafón
+26. One Hundred Years of Solitude by Gabriel Garcia Marquez
+27. Love in the Time of Cholera by Gabriel Garcia Marquez
+28. The Catcher in the Rye by J.D. Salinger
+29. The Bell Jar by Sylvia Plath
+30. The Color Purple by Alice Walker
+31. The Joy Luck Club by Amy Tan
+32. The Kite Runner by Khaled Hosseini
+33. A Thousand Splendid Suns by Khaled Hosseini
+34. The God of Small Things by Arundhati Roy
+35. The Poisonwood Bible by Barbara Kingsolver
+36. The Secret History by Donna Tartt
+37. The Goldfinch by Donna Tartt
+38. The Girl on the Train by Paula Hawkins
+39. Gone Girl by Gillian Flynn
+40. The Help by Kathryn Stockett
+41. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+42. The Glass Castle by Jeannette Walls
+43. The Road Less Traveled by M. Scott Peck
+44. The Power of Now by Eckhart Tolle
+45. The 7 Habits of Highly Effective People by Stephen Covey
+46. The Lean Startup by Eric Ries
+47. The Innovator's Dilemma by Clayton Christensen
+48. The Art of War by Sun Tzu
+49. The Prince by Niccolo Machiavelli

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. The Fault in Our Stars by John Green
+3. Divergent by Veronica Roth
+4. The Maze Runner by James Dashner
+5. The Girl on the Train by Paula Hawkins
+6. Gone Girl by Gillian Flynn
+7. The Book Thief by Markus Zusak
+8. The Help by Kathryn Stockett
+9. The Lovely Bones by Alice Sebold
+10. The Da Vinci Code by Dan Brown
+11. The Catcher in the Rye by J.D. Salinger
+12. To Kill a Mockingbird by Harper Lee
+13. The Great Gatsby by F. Scott Fitzgerald
+14. 1984 by George Orwell
+15. Animal Farm by George Orwell
+16. The Hobbit by J.R.R. Tolkien
+17. The Lord of the Rings by J.R.R. Tolkien
+18. Harry Potter and the Philosopher's Stone by J.K. Rowling
+19. Harry Potter and the Chamber of Secrets by J.K. Rowling
+20. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+21. Harry Potter and the Goblet of Fire by J.K. Rowling
+22. Harry Potter and the Order of Phoenix by J.K. Rowling
+23. Harry Potter and the Half-Blood Prince by J.K. Rowling
+24. Harry Potter and the Deathly Hallows by J.K. Rowling
+25. The Chronicles of Narnia by C.S. Lewis
+26. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+27. The Alchemist by Paulo Coelho
+28. The Kite Runner by Khaled Hosseini
+29. A Thousand Splendid Suns by Khaled Hosseini
+30. The Time Traveler's Wife by Audrey Niffenegger
+31. The Secret Life of Bees by Sue Monk Kidd
+32. The Color Purple by Alice Walker
+33. The Joy Luck Club by Amy Tan
+34. The Picture of Dorian Gray by Oscar Wilde
+35. The Count of Monte Cristo by Alexandre Dumas
+36. Les Misérables by Victor Hugo
+37. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+38. The Hound of the Baskervilles by Arthur Conan Doyle
+39. The Name of the Wind by Patrick Rothfuss
+40. The Wise Man's Fear by Patrick Rothfuss
+41. The Nightingale by Kristin Hannah
+42. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+43. The Glass Castle by Jeannette Walls
+44. The Devil in the White City by Erik Larson
+45. The Power of One by Bryce Courtenay
+46. The Pillars of the Earth by Ken Follett
+47. The Help by Kathryn Stockett
+48. Nine Stories by J.D. Salinger
+49. The Bell Jar by Sylvia Plath
+50. The Wise Man's Fear by Patrick Rothfuss

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Depeche Mode
+2. Radiohead
+3. The Smiths
+4. New Order
+5. Ultravox
+6. Gary Numan
+7. John Foxx
+8. Wolfsheim
+9. Simple Minds
+10. Eurythmics
+11. INXS
+12. Coldplay
+13. Queen
+14. The Verve
+15. Lady Gaga
+16. Moby
+17. PJ Harvey
+18. Goldfrapp
+19. Yann Tiersen
+20. Philip Glass
+21. Lenny Kravitz
+22. Caetano Veloso
+23. a-ha
+24. Japan
+25. Robbie Williams
+26. U2
+27. Duran Duran
+28. Blur
+29. Arctic Monkeys
+30. Placebo
+31. The Killers
+32. Nirvana
+33. Iron Maiden
+34. Led Zeppelin
+35. Metallica
+36. Michael Jackson
+37. Pearl Jam
+38. Björk
+39. Nine Inch Nails
+40. Linkin Park
+41. Avril Lavigne
+42. Katy Perry
+43. Taylor Swift
+44. Ke$ha
+45. Christina Aguilera
+46. Paramore
+47. Evanescence
+48. P!nk
+49. My Chemical Romance
+50. Green Day

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. A Brief History of Time by Stephen Hawking
+2. Outliers by Malcolm Gladwell
+3. The Power of Now by Eckhart Tolle
+4. The 7 Habits of Highly Effective People by Stephen Covey
+5. The Alchemist by Paulo Coelho
+6. The Four Agreements by Don Miguel Ruiz
+7. The Lean Startup by Eric Ries
+8. The Art of War by Sun Tzu
+9. The Innovator's Dilemma by Clayton Christensen
+10. The Tipping Point by Malcolm Gladwell
+11. The 5 Love Languages by Gary Chapman
+12. The Secret by Rhonda Byrne
+13. The War of Art by Steven Pressfield
+14. The 48 Laws of Power by Robert Greene
+15. The Subtle Art of Not Giving a F*ck by Mark Manson
+16. The One Minute Manager by Kenneth Blanchard and Spencer Johnson
+17. The Richest Man in Babylon by George S. Clason
+18. The Science of Getting Rich by Wallace D. Wattles
+19. The Millionaire Next Door by Thomas J. Stanley and William D. Danko
+20. The 4-Hour Work Week by Timothy Ferriss
+21. The E-Myth Revisited by Michael E. Gerber
+22. The Art of Possibility by Rosamund Stone Zander and Benjamin Zander
+23. The Power of Positive Thinking by Norman Vincent Peale
+24. The Magic of Believing by Claude M. Bristol
+25. The Psychology of Selling by Brian Tracy
+26. The Sales Bible by Jeffrey Gitomer
+27. The Challenger Sale by Brent Adamson and Matthew Dixon
+28. The Art of Closing the Sale by Brian Tracy
+29. The Ultimate Sales Machine by Chet Holmes
+30. The Little Red Book of Selling by Jeffrey Gitomer
+31. The 80/20 Principle by Richard Koch
+32. The Compound Effect by Darren Hardy
+33. The Law of Success by Napoleon Hill
+34. The Success Principles by Jack Canfield
+35. The Magic of Thinking Success by David J. Schwartz
+36. The Power of Positive Leadership by Jon Gordon
+37. The 21 Irrefutable Laws of Leadership by John C. Maxwell
+38. The Leadership Challenge by James M. Kouzes and Barry Z. Posner
+39. The Art of Possibility by Rosamund Stone Zander and Benjamin Zander
+40. The Lean Six Sigma Pocket Toolbook by Michael L. George, John Maxey, David Rowlands, and Malcolm Upton
+41. The Toyota Way by Jeffrey K. Liker
+42. The Phoenix Project by Gene Kim, Kevin Behr, and George Spafford
+43. The Goal by Eliyahu M. Goldratt and Jeff Cox
+44. The Lean Toolbox by John
+45. The Old Man and the Sea by Ernest Hemingway
+46. The Catcher in the Rye by J.D. Salinger
+47. Franny and Zooey by J.D. Salinger
+48. Nine Stories by J.D. Salinger
+49. The Bell Jar by Sylvia Plath
+50. The Wise Man's Fear by Patrick Rothfuss

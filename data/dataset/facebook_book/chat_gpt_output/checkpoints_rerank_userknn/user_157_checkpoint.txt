@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Thirteen Reasons Why by Jay Asher
+3. The Giver by Lois Lowry
+4. Fahrenheit 451 by Ray Bradbury
+5. Lord of the Flies by William Golding
+6. Native Son by Richard Wright
+7. Black Boy by Richard Wright
+8. All Quiet on the Western Front by Erich Maria Remarque
+9. The Hobbit by J.R.R. Tolkien
+10. The Lord of the Rings by J.R.R. Tolkien
+11. Romeo and Juliet by William Shakespeare
+12. A Midsummer Night's Dream by William Shakespeare
+13. The Canterbury Tales by Geoffrey Chaucer
+14. Othello by William Shakespeare
+15. The Lorax by Dr. Seuss
+16. Charlie and the Chocolate Factory by Roald Dahl
+17. Marley & Me by John Grogan
+18. Old Yeller by Fred Gipson
+19. Ink Exchange by Melissa Marr
+20. Wicked Lovely by Melissa Marr
+21. The Host by Stephenie Meyer
+22. Anne of Green Gables by L.M. Montgomery
+23. The Pact by Jodi Picoult
+24. Nineteen Minutes by Jodi Picoult
+25. Speak by Laurie Halse Anderson
+26. The Lost Boy by Dave Pelzer
+27. Gospel of Matthew by Anonymous
+28. Epistle to the Romans by Anonymous
+29. The Last Storytellers: Tales from the Heart of Morocco by Richard Hamilton
+30. City of Ashes by Cassandra Clare
+31. The Seventh Tower by Garth Nix
+32. The Mark by Tim LaHaye and Jerry B. Jenkins
+33. Les Misérables by Victor Hugo
+34. A Clockwork Orange by Anthony Burgess
+35. Impulse economy by Gary Vaynerchuk
+36. The Tipping Point by Malcolm Gladwell
+37. Chicken Soup for the Soul by Jack Canfield and Mark Victor Hansen
+38. My Sister's Keeper by Jodi Picoult
+39. Plain Truth by Jodi Picoult
+40. Lush: A Novel by Natasha Friend
+41. Perfect: A Novel by Natasha Friend
+42. Wings by Christopher Pike
+43. Burned by Ellen Hopkins
+44. Cut by Patricia McCormick
+45. Go Ask Alice by Anonymous
+46. The Hamlet by William Faulkner
+47. Black Beauty by Anna Sewell
+48. The Tipping Point by Malcolm Gladwell
+49. Fade by Lisa McMann
+50. Along for the Ride by Sarah Dessen

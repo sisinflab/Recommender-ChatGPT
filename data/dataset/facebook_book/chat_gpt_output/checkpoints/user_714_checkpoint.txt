@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Fear and Loathing in Las Vegas by Hunter S. Thompson
+2. On the Road by Jack Kerouac
+3. The Electric Kool-Aid Acid Test by Tom Wolfe
+4. The Catcher in the Rye by J.D. Salinger
+5. One Flew Over the Cuckoo's Nest by Ken Kesey
+6. The Great Gatsby by F. Scott Fitzgerald
+7. 1984 by George Orwell
+8. Brave New World by Aldous Huxley
+9. Slaughterhouse-Five by Kurt Vonnegut
+10. The Bell Jar by Sylvia Plath
+11. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+12. The Lord of the Rings by J.R.R. Tolkien
+13. The Hobbit by J.R.R. Tolkien
+14. The Shining by Stephen King
+15. The Stand by Stephen King
+16. The Dark Tower series by Stephen King
+17. The Road by Cormac McCarthy
+18. The Stranger by Albert Camus
+19. Crime and Punishment by Fyodor Dostoevsky
+20. The Brothers Karamazov by Fyodor Dostoevsky
+21. The Picture of Dorian Gray by Oscar Wilde
+22. The Importance of Being Earnest by Oscar Wilde
+23. The Sun Also Rises by Ernest Hemingway
+24. For Whom the Bell Tolls by Ernest Hemingway
+25. The Old Man and the Sea by Ernest Hemingway
+26. The Grapes of Wrath by John Steinbeck
+27. East of Eden by John Steinbeck
+28. Of Mice and Men by John Steinbeck
+29. The Adventures of Huckleberry Finn by Mark Twain
+30. The Adventures of Tom Sawyer by Mark Twain
+31. The Canterbury Tales by Geoffrey Chaucer
+32. The Divine Comedy by Dante Alighieri
+33. The Iliad by Homer
+34. The Odyssey by Homer
+35. The Aeneid by Virgil
+36. Don Quixote by Miguel de Cervantes
+37. The Count of Monte Cristo by Alexandre Dumas
+38. Les Misérables by Victor Hugo
+39. Anna Karenina by Leo Tolstoy
+40. War and Peace by Leo Tolstoy
+41. The Trial by Franz Kafka
+42. The Metamorphosis by Franz Kafka
+43. Heart of Darkness by Joseph Conrad
+44. Lord Jim by Joseph Conrad
+45. Moby-Dick by Herman Melville
+46. Frankenstein by Mary Shelley
+47. Dracula by Bram Stoker
+48. Wuthering Heights by Emily Bronte
+49. Jane Eyre by Charlotte Bronte
+50. Pride and Prejudice by Jane Austen

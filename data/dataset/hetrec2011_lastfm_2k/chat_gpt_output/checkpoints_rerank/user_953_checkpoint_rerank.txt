@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Beatles
+2. Vampire Weekend
+3. Lady Gaga
+4. The Ting Tings
+5. Franz Ferdinand
+6. Glee Cast
+7. Green Day
+8. Rooney
+9. McFly
+10. Beirut
+11. Plain White T's
+12. nevershoutnever!
+13. Hot Chip
+14. The Wombats
+15. of Montreal
+16. Yeah Yeah Yeahs
+17. The All-American Rejects
+18. MGMT
+19. Oasis
+20. Kings of Leon
+21. Cobra Starship
+22. Katy Perry
+23. Mika
+24. Ke$ha
+25. Ramones
+26. The Drums
+27. Justice
+28. La Roux
+29. Los Hermanos
+30. The Lonely Island
+31. Madonna
+32. Rihanna
+33. Beyoncé
+34. Shakira
+35. Pink Floyd
+36. Muse
+37. Radiohead
+38. Coldplay
+39. The Killers
+40. Nirvana
+41. Led Zeppelin
+42. Metallica
+43. Michael Jackson
+44. Pearl Jam
+45. Björk
+46. Daft Punk
+47. Nine Inch Nails
+48. Linkin Park
+49. Avril Lavigne
+50. Paramore

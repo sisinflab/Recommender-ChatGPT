@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Avril Lavigne
+2. Linkin Park
+3. Three Days Grace
+4. My Chemical Romance
+5. Green Day
+6. Nickelback
+7. Fall Out Boy
+8. Panic! At The Disco
+9. All Time Low
+10. The All-American Rejects
+11. Good Charlotte
+12. Simple Plan
+13. The Used
+14. 30 Seconds to Mars
+15. The Killers
+16. Muse
+17. Coldplay
+18. Imagine Dragons
+19. Maroon 5
+20. OneRepublic
+21. The Fray
+22. Snow Patrol
+23. The Script
+24. Train
+25. Goo Goo Dolls
+26. Lifehouse
+27. Daughtry
+28. Hinder
+29. Theory of a Deadman
+30. Seether
+31. Shinedown
+32. Breaking Benjamin
+33. Staind
+34. Chevelle
+35. Red Hot Chili Peppers
+36. Foo Fighters
+37. Incubus
+38. Kings of Leon
+39. Arctic Monkeys
+40. The Black Keys
+41. Florence + The Machine
+42. Lana Del Rey
+43. Adele
+44. Sia
+45. Ellie Goulding
+46. Halsey
+47. Billie Eilish
+48. Lorde
+49. Taylor Swift
+50. Ed Sheeran

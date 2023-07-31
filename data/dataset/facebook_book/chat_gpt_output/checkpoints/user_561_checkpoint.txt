@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. Fahrenheit 451 by Ray Bradbury
+4. The Handmaid's Tale by Margaret Atwood
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Lord of the Flies by William Golding
+7. The Picture of Dorian Gray by Oscar Wilde
+8. The Bell Jar by Sylvia Plath
+9. One Hundred Years of Solitude by Gabriel Garcia Marquez
+10. Crime and Punishment by Fyodor Dostoevsky
+11. The Brothers Karamazov by Fyodor Dostoevsky
+12. The Stranger by Albert Camus
+13. Heart of Darkness by Joseph Conrad
+14. The Road by Cormac McCarthy
+15. Slaughterhouse-Five by Kurt Vonnegut
+16. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+17. The Lord of the Rings by J.R.R. Tolkien
+18. The Hobbit by J.R.R. Tolkien
+19. The Chronicles of Narnia by C.S. Lewis
+20. The Hunger Games by Suzanne Collins
+21. Catching Fire by Suzanne Collins
+22. Mockingjay by Suzanne Collins
+23. The Girl with the Dragon Tattoo by Stieg Larsson
+24. The Girl Who Played with Fire by Stieg Larsson
+25. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+26. The Da Vinci Code by Dan Brown
+27. Angels and Demons by Dan Brown
+28. Inferno by Dan Brown
+29. The Name of the Wind by Patrick Rothfuss
+30. The Wise Man's Fear by Patrick Rothfuss
+31. The Lies of Locke Lamora by Scott Lynch
+32. The Blade Itself by Joe Abercrombie
+33. The Way of Kings by Brandon Sanderson
+34. Mistborn by Brandon Sanderson
+35. The Final Empire by Brandon Sanderson
+36. The Eye of the World by Robert Jordan
+37. A Game of Thrones by George R.R. Martin
+38. A Clash of Kings by George R.R. Martin
+39. A Storm of Swords by George R.R. Martin
+40. The Catcher in the Rye by J.D. Salinger
+41. To Kill a Mockingbird by Harper Lee
+42. The Adventures of Huckleberry Finn by Mark Twain
+43. The Adventures of Tom Sawyer by Mark Twain
+44. The War of the Worlds by H.G. Wells
+45. The Time Machine by H.G. Wells
+46. The Invisible Man by H.G. Wells
+47. The Island of Dr. Moreau by H.G. Wells
+48. The Picture of Dorian Gray by Oscar Wilde
+49. The Importance of Being Earn

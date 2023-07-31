@@ -1,0 +1,48 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. The Fault in Our Stars by John Green
+3. To Kill a Mockingbird by Harper Lee
+4. The Catcher in the Rye by J.D. Salinger
+5. 1984 by George Orwell
+6. Animal Farm by George Orwell
+7. Lord of the Flies by William Golding
+8. The Giver by Lois Lowry
+9. The Maze Runner by James Dashner
+10. Divergent by Veronica Roth
+11. The Book Thief by Markus Zusak
+12. The Perks of Being a Wallflower by Stephen Chbosky
+13. The Two Princesses of Bamarre by Gail Carson Levine
+14. Peeps by Scott Westerfeld
+15. Absolutely Normal Chaos by Sharon Creech
+16. Freakonomics by Stephen J. Dubner and Steven Levitt
+17. Skinny Bitch by Rory Freedman and Kim Barnouin
+18. Girl, Interrupted by Susanna Kaysen
+19. Where the Sidewalk Ends by Shel Silverstein
+20. The Giving Tree by Shel Silverstein
+21. The Lorax by Dr. Seuss
+22. The Cat in the Hat by Dr. Seuss
+23. Green Eggs and Ham by Dr. Seuss
+24. One Fish Two Fish Red Fish Blue Fish by Dr. Seuss
+25. The Very Hungry Caterpillar by Eric Carle
+26. Goodnight Moon by Margaret Wise Brown
+27. The Polar Express by Chris Van Allsburg
+28. The Velveteen Rabbit by Margery Williams
+29. The Little Prince by Antoine de Saint-Exupéry
+30. The Hobbit by J.R.R. Tolkien
+31. The Lord of the Rings by J.R.R. Tolkien
+32. The Chronicles of Narnia by C.S. Lewis
+33. Harry Potter and the Philosopher's Stone by J.K. Rowling
+34. Harry Potter and the Chamber of Secrets by J.K. Rowling
+35. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+36. Harry Potter and the Goblet of Fire by J.K. Rowling
+37. Harry Potter and the Order of Phoenix by J.K. Rowling
+38. Harry Potter and the Half-Blood Prince by J.K. Rowling
+39. Harry Potter and the Deathly Hallows by J.K. Rowling
+40. Where the Wild Things Are by Maurice Sendak
+41. The Giving Tree by Shel Silverstein
+42. The Cat in the Hat by Dr. Seuss
+43. Green Eggs and Ham by Dr. Seuss
+44. One Fish Two Fish Red Fish Blue Fish by Dr. Seuss
+45. The Very Hungry Caterpillar by Eric Carle
+46. Goodnight Moon by

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. One Hundred Years of Solitude by Gabriel Garcia Marquez
+2. The Brothers Karamazov by Fyodor Dostoyevsky
+3. The Stranger by Albert Camus
+4. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+5. The Catcher in the Rye by J.D. Salinger
+6. Slaughterhouse-Five by Kurt Vonnegut
+7. The Great Gatsby by F. Scott Fitzgerald
+8. To Kill a Mockingbird by Harper Lee
+9. 1984 by George Orwell
+10. Brave New World by Aldous Huxley
+11. The Picture of Dorian Gray by Oscar Wilde
+12. The Bell Jar by Sylvia Plath
+13. The Road by Cormac McCarthy
+14. The Handmaid's Tale by Margaret Atwood
+15. The Lord of the Rings by J.R.R. Tolkien
+16. The Hobbit by J.R.R. Tolkien
+17. The Chronicles of Narnia by C.S. Lewis
+18. The Name of the Wind by Patrick Rothfuss
+19. The Wise Man's Fear by Patrick Rothfuss
+20. The Dark Tower series by Stephen King
+21. The Stand by Stephen King
+22. The Shining by Stephen King
+23. The Girl with the Dragon Tattoo by Stieg Larsson
+24. The Hunger Games by Suzanne Collins
+25. Catching Fire by Suzanne Collins
+26. Mockingjay by Suzanne Collins
+27. The Da Vinci Code by Dan Brown
+28. Angels and Demons by Dan Brown
+29. Inferno by Dan Brown
+30. The Alchemist by Paulo Coelho
+31. The Power of Now by Eckhart Tolle
+32. A Brief History of Time by Stephen Hawking
+33. The Elegant Universe by Brian Greene
+34. The God Delusion by Richard Dawkins
+35. The Selfish Gene by Richard Dawkins
+36. The Origin of Species by Charles Darwin
+37. The Structure of Scientific Revolutions by Thomas S. Kuhn
+38. The Art of War by Sun Tzu
+39. The Prince by Niccolo Machiavelli
+40. Meditations by Marcus Aurelius
+41. The Republic by Plato
+42. The Tao Te Ching by Lao Tzu
+43. The Analects by Confucius
+44. The Book of Five Rings by Miyamoto Musashi
+45. The Art of Possibility by Rosamund Stone Zander and Benjamin Zander
+46. The Lean Startup by Eric Ries
+47. The Innovator's Dilemma by Clayton M. Christensen
+48. The 7 Habits of Highly Effective People by Stephen Covey
+49. How to Win Friends and Influence People by Dale Carnegie
+50. Think and Grow Rich by Napoleon

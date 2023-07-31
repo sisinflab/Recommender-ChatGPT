@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. Pride and Prejudice by Jane Austen
+5. The Lord of the Rings by J.R.R. Tolkien
+6. Crime and Punishment by Fyodor Dostoevsky
+7. One Hundred Years of Solitude by Gabriel Garcia Marquez
+8. The Brothers Karamazov by Fyodor Dostoevsky
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Adventures of Huckleberry Finn by Mark Twain
+11. The Count of Monte Cristo by Alexandre Dumas
+12. The Scarlet Letter by Nathaniel Hawthorne
+13. The Odyssey by Homer
+14. The Divine Comedy by Dante Alighieri
+15. Les Miserables by Victor Hugo
+16. The Canterbury Tales by Geoffrey Chaucer
+17. The Iliad by Homer
+18. The Republic by Plato
+19. The Stranger by Albert Camus
+20. The Sun Also Rises by Ernest Hemingway
+21. The Sound and the Fury by William Faulkner
+22. Heart of Darkness by Joseph Conrad
+23. The Grapes of Wrath by John Steinbeck
+24. The Great Gatsby by F. Scott Fitzgerald
+25. The Hobbit by J.R.R. Tolkien
+26. War and Peace by Leo Tolstoy
+27. The Giver by Lois Lowry
+28. The Secrets of the Immortal Nicholas Flamel by Michael Scott
+29. The Secret Dreamworld of a Shopaholic by Sophie Kinsella
+30. You Shall Know Our Velocity by Dave Eggers
+31. Beyond Good and Evil by Friedrich Nietzsche
+32. Naked Lunch by William S. Burroughs
+33. The Tipping Point by Malcolm Gladwell
+34. The Hunger Games by Suzanne Collins
+35. Catching Fire by Suzanne Collins
+36. Mockingjay by Suzanne Collins
+37. The Girl with the Dragon Tattoo by Stieg Larsson
+38. The Girl Who Played with Fire by Stieg Larsson
+39. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+40. The Da Vinci Code by Dan Brown
+41. Angels and Demons by Dan Brown
+42. Inferno by Dan Brown
+43. The Help by Kathryn Stockett
+44. The Fault in Our Stars by John Green
+45. Looking for Alaska by John Green
+46. Paper Towns by John Green
+47. The Maze Runner by James Dashner
+48. The Scorch Trials by James Dashner
+49. The Death Cure by James Dashner
+50. The Book Thief by Markus Zusak

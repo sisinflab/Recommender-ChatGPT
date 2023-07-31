@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Fault in Our Stars by John Green
+2. The Hunger Games by Suzanne Collins
+3. To Kill a Mockingbird by Harper Lee
+4. The Book Thief by Markus Zusak
+5. The Perks of Being a Wallflower by Stephen Chbosky
+6. The Catcher in the Rye by J.D. Salinger
+7. The Great Gatsby by F. Scott Fitzgerald
+8. 1984 by George Orwell
+9. Animal Farm by George Orwell
+10. Lord of the Flies by William Golding
+11. Brave New World by Aldous Huxley
+12. The Giver by Lois Lowry
+13. The Maze Runner by James Dashner
+14. Divergent by Veronica Roth
+15. The Selection by Kiera Cass
+16. The Mortal Instruments by Cassandra Clare
+17. The Infernal Devices by Cassandra Clare
+18. The Twilight Saga by Stephenie Meyer
+19. The Vampire Diaries by L.J. Smith
+20. The Secret Circle by L.J. Smith
+21. The Host by Stephenie Meyer
+22. The Time Traveler's Wife by Audrey Niffenegger
+23. The Girl with the Dragon Tattoo by Stieg Larsson
+24. The Girl on the Train by Paula Hawkins
+25. Gone Girl by Gillian Flynn
+26. The Da Vinci Code by Dan Brown
+27. Angels and Demons by Dan Brown
+28. The Bourne Identity by Robert Ludlum
+29. The Hunger Games Trilogy Boxset by Suzanne Collins
+30. The Maze Runner Series Boxed Set by James Dashner
+31. The Divergent Series Boxed Set by Veronica Roth
+32. The Mortal Instruments Boxed Set by Cassandra Clare
+33. The Infernal Devices Boxed Set by Cassandra Clare
+34. The Twilight Saga Collection by Stephenie Meyer
+35. The Vampire Diaries Collection by L.J. Smith
+36. The Secret Circle Collection by L.J. Smith
+37. The Harry Potter Series by J.K. Rowling
+38. The Lord of the Rings Trilogy by J.R.R. Tolkien
+39. The Hobbit by J.R.R. Tolkien
+40. The Chronicles of Narnia by C.S. Lewis
+41. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+42. Ender's Game by Orson Scott Card
+43. The Alchemist by Paulo Coelho
+44. The Kite Runner by Khaled Hosseini
+45. A Thousand Splendid Suns by Khaled Hosseini
+46. The Help by Kathryn Stockett
+47. The Color Purple by Alice Walker
+48. The Joy Luck Club by Amy Tan
+49. The House on Mango Street by Sandra Cisneros
+50. The Bell Jar by Sylvia Plath

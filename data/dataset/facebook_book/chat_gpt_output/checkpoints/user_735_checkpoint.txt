@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Crime and Punishment by Fyodor Dostoevsky
+2. The Brothers Karamazov by Fyodor Dostoevsky
+3. One Hundred Years of Solitude by Gabriel Garcia Marquez
+4. The Stranger by Albert Camus
+5. The Trial by Franz Kafka
+6. The Picture of Dorian Gray by Oscar Wilde
+7. The Great Gatsby by F. Scott Fitzgerald
+8. To Kill a Mockingbird by Harper Lee
+9. 1984 by George Orwell
+10. Animal Farm by George Orwell
+11. Brave New World by Aldous Huxley
+12. The Catcher in the Rye by J.D. Salinger
+13. Lord of the Flies by William Golding
+14. The Bell Jar by Sylvia Plath
+15. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+16. The Hobbit by J.R.R. Tolkien
+17. The Lord of the Rings by J.R.R. Tolkien
+18. The Chronicles of Narnia by C.S. Lewis
+19. The Da Vinci Code by Dan Brown
+20. Angels and Demons by Dan Brown
+21. The Girl with the Dragon Tattoo by Stieg Larsson
+22. The Hunger Games by Suzanne Collins
+23. Catching Fire by Suzanne Collins
+24. Mockingjay by Suzanne Collins
+25. The Road by Cormac McCarthy
+26. The Shining by Stephen King
+27. The Stand by Stephen King
+28. The Dark Tower series by Stephen King
+29. The Name of the Wind by Patrick Rothfuss
+30. The Wise Man's Fear by Patrick Rothfuss
+31. American Gods by Neil Gaiman
+32. The Graveyard Book by Neil Gaiman
+33. The Alchemist by Paulo Coelho
+34. The Picture of Dorian Gray by Oscar Wilde
+35. The Count of Monte Cristo by Alexandre Dumas
+36. Les Miserables by Victor Hugo
+37. War and Peace by Leo Tolstoy
+38. Anna Karenina by Leo Tolstoy
+39. The Idiot by Fyodor Dostoevsky
+40. The Master and Margarita by Mikhail Bulgakov
+41. Lolita by Vladimir Nabokov
+42. The Metamorphosis by Franz Kafka
+43. The Trial by Franz Kafka
+44. The Plague by Albert Camus
+45. The Outsider by Albert Camus
+46. The Old Man and the Sea by Ernest Hemingway
+47. For Whom the Bell Tolls by Ernest Hemingway
+48. A Farewell to Arms by Ernest Hemingway
+49. The Sun Also Rises by Ernest Hemingway
+50. The Sound and the Fury by William Faulkner

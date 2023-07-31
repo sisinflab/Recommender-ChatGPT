@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Feist
+2. Caetano Veloso
+3. Simply Red
+4. Marisa Monte
+5. Elis Regina
+6. Roberta Sá
+7. The xx
+8. Luis Miguel
+9. Janelle Monáe
+10. Céline Dion
+11. Blondie
+12. Mika
+13. Elton John
+14. Helloween
+15. Solange
+16. Norah Jones
+17. Vampire Weekend
+18. Angra
+19. Erykah Badu
+20. Maria Bethânia
+21. George Michael
+22. Destiny's Child
+23. Nina Simone
+24. Jamiroquai
+25. Madonna
+26. Rihanna
+27. Beyoncé
+28. Katy Perry
+29. Lady Gaga
+30. Shakira
+31. The Beatles
+32. Taylor Swift
+33. Muse
+34. Pink Floyd
+35. Kylie Minogue
+36. Radiohead
+37. Ke$ha
+38. Coldplay
+39. Nirvana
+40. Michael Jackson
+41. Pearl Jam
+42. Björk
+43. System of a Down
+44. Daft Punk
+45. Nine Inch Nails
+46. Linkin Park
+47. Avril Lavigne
+48. Paramore
+49. Green Day
+50. The Killers

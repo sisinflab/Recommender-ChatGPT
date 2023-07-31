@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Foo Fighters
+2. Red Hot Chili Peppers
+3. Muse
+4. Nirvana
+5. Soundgarden
+6. Stone Temple Pilots
+7. Oasis
+8. Kings of Leon
+9. Coldplay
+10. Bon Jovi
+11. Guns N' Roses
+12. Metallica
+13. AC/DC
+14. Led Zeppelin
+15. The Rolling Stones
+16. The Beatles
+17. Pink Floyd
+18. Radio Moscow
+19. The Black Keys
+20. The White Stripes
+21. Arctic Monkeys
+22. Vampire Weekend
+23. The Strokes
+24. The Kooks
+25. The Libertines
+26. The Vaccines
+27. The Wombats
+28. Two Door Cinema Club
+29. Phoenix
+30. Arcade Fire
+31. The National
+32. Interpol
+33. Editors
+34. Bloc Party
+35. Franz Ferdinand
+36. The Killers
+37. Snow Patrol
+38. Keane
+39. Travis
+40. Razorlight
+41. The Fray
+42. John Mayer
+43. James Blunt
+44. Damien Rice
+45. Ray LaMontagne
+46. Jack Johnson
+47. Ben Harper
+48. Paolo Nutini
+49. David Gray
+50. Amos Lee

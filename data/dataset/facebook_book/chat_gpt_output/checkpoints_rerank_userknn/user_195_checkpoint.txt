@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter
+2. The Book Thief
+3. The Hunger Games
+4. The Great Gatsby
+5. Romeo and Juliet
+6. Jane Eyre
+7. Nineteen Eighty-Four
+8. A Tale of Two Cities
+9. The Catcher in the Rye
+10. The Things They Carried
+11. The Outsiders (novel)
+12. Island of the Blue Dolphins
+13. Inkheart
+14. A Wrinkle in Time
+15. The Lord of the Rings
+16. The Memoirs of Sherlock Holmes
+17. Dracula
+18. The Da Vinci Code
+19. Under the Dome
+20. The Gargoyle (novel)
+21. The Forest of Hands and Teeth
+22. The Awakening (Chopin novel)
+23. The Coral Island
+24. Many Waters
+25. Eighth Grade Bites
+26. Vampire Kisses
+27. Black Butler
+28. Vampire$
+29. The Most Dangerous Game (novel)
+30. Running with Scissors (memoir)
+31. Sarah's Key (novel)
+32. I Am America (And So Can You!)
+33. The Kane Chronicles
+34. Torah Or
+35. Diary of a Wimpy Kid (series)
+36. Black (novel)
+37. Go Ask Alice
+38. Resident Evil
+39. The Runaways (novel)
+40. Dune (novel)
+41. As I Lay Dying (novel)
+42. The Amulet of Samarkand
+43. The City of Ember
+44. Nineteen Minutes
+45. I Am Legend (novel)
+46. Quran
+47. A Time to Kill (Grisham novel)
+48. Twilight (series)
+49. Stargirl (novel)
+50. Luna (Peters novel)

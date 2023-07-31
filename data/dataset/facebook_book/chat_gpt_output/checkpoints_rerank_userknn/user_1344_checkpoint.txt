@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. Dune by Frank Herbert
+3. Ender's Game by Orson Scott Card
+4. Brave New World by Aldous Huxley
+5. To Kill a Mockingbird by Harper Lee
+6. The Hobbit by J.R.R. Tolkien
+7. Frankenstein by Mary Shelley
+8. The Dark Tower: The Gunslinger by Stephen King
+9. The Name of the Rose by Umberto Eco
+10. Zen and the Art of Motorcycle Maintenance by Robert M. Pirsig
+11. The Iliad by Homer
+12. Les Misérables by Victor Hugo
+13. The Bell Jar by Sylvia Plath
+14. Flowers for Algernon by Daniel Keyes
+15. The Picture of Dorian Gray by Oscar Wilde
+16. White Noise by Don DeLillo
+17. Waiting for Godot by Samuel Beckett
+18. Cat's Cradle by Kurt Vonnegut
+19. The End of Eternity by Isaac Asimov
+20. The War of the Worlds by H.G. Wells
+21. Life of Pi by Yann Martel
+22. The Outsiders by S.E. Hinton
+23. The Fountainhead by Ayn Rand
+24. The Watchmen by Alan Moore
+25. The Raw Shark Texts by Steven Hall
+26. The Zombie Survival Guide by Max Brooks
+27. The Crying of Lot 49 by Thomas Pynchon
+28. I, Robot by Isaac Asimov
+29. Starship Troopers by Robert A. Heinlein
+30. Foundation by Isaac Asimov
+31. Atlas Shrugged by Ayn Rand
+32. Jurassic Park by Michael Crichton
+33. The Sirens of Titan by Kurt Vonnegut
+34. The Wind in the Door by Madeleine L'Engle
+35. A Wizard of Earthsea by Ursula K. Le Guin
+36. The Enders Shadow series by Orson Scott Card
+37. The Harry Potter series by J.K. Rowling
+38. The Chronicles of Narnia by C.S. Lewis
+39. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+40. The Wheel of Time series by Robert Jordan
+41. The Dresden Files series by Jim Butcher
+42. The Mistborn series by Brandon Sanderson
+43. The Kingkiller Chronicle series by Patrick Rothfuss
+44. The Stormlight Archive series by Brandon Sanderson
+45. The First Law Trilogy by Joe Abercrombie
+46. The Malazan Book of the Fallen series by Steven Erikson
+47. The Black Company series by Glen Cook
+48. The Gentlemen Bastards series by Scott Lynch
+49. The Broken Empire series by Mark Lawrence
+50

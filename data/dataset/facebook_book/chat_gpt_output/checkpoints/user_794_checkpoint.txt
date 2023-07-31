@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Bell Jar by Sylvia Plath
+2. The Catcher in the Rye by J.D. Salinger
+3. The Picture of Dorian Gray by Oscar Wilde
+4. Wuthering Heights by Emily Bronte
+5. The Great Gatsby by F. Scott Fitzgerald
+6. To Kill a Mockingbird by Harper Lee
+7. 1984 by George Orwell
+8. Animal Farm by George Orwell
+9. The Handmaid's Tale by Margaret Atwood
+10. The Road by Cormac McCarthy
+11. The Hunger Games by Suzanne Collins
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Da Vinci Code by Dan Brown
+14. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+15. The Lord of the Rings by J.R.R. Tolkien
+16. The Hobbit by J.R.R. Tolkien
+17. The Chronicles of Narnia by C.S. Lewis
+18. The Name of the Wind by Patrick Rothfuss
+19. The Wise Man's Fear by Patrick Rothfuss
+20. The Shadow of the Wind by Carlos Ruiz Zafón
+21. The Book Thief by Markus Zusak
+22. The Kite Runner by Khaled Hosseini
+23. A Thousand Splendid Suns by Khaled Hosseini
+24. The Alchemist by Paulo Coelho
+25. One Hundred Years of Solitude by Gabriel Garcia Marquez
+26. Love in the Time of Cholera by Gabriel Garcia Marquez
+27. Crime and Punishment by Fyodor Dostoevsky
+28. The Brothers Karamazov by Fyodor Dostoevsky
+29. Anna Karenina by Leo Tolstoy
+30. War and Peace by Leo Tolstoy
+31. The Count of Monte Cristo by Alexandre Dumas
+32. Les Miserables by Victor Hugo
+33. Jane Eyre by Charlotte Bronte
+34. Rebecca by Daphne du Maurier
+35. Gone with the Wind by Margaret Mitchell
+36. The Color Purple by Alice Walker
+37. Beloved by Toni Morrison
+38. The Joy Luck Club by Amy Tan
+39. The God of Small Things by Arundhati Roy
+40. Life of Pi by Yann Martel
+41. The Time Traveler's Wife by Audrey Niffenegger
+42. The Help by Kathryn Stockett
+43. The Secret Life of Bees by Sue Monk Kidd
+44. The Lovely Bones by Alice Sebold
+45. The Fault in Our Stars by John Green
+46. Me Before You by Jojo Moyes
+47. The Nightingale by Kristin Hannah
+48. All the Light We Cannot See by Anthony Doerr
+49. The Immortal Life of Henrietta Lacks by

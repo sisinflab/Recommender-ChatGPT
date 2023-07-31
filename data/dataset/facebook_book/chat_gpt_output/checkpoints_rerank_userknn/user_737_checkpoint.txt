@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Great Gatsby by F. Scott Fitzgerald
+2. To Kill a Mockingbird by Harper Lee
+3. 1984 by George Orwell
+4. A Clockwork Orange by Anthony Burgess
+5. Brave New World by Aldous Huxley
+6. Crime and Punishment by Fyodor Dostoevsky
+7. The Catcher in the Rye by J.D. Salinger
+8. The God of Small Things by Arundhati Roy
+9. The Bell Jar by Sylvia Plath
+10. The Picture of Dorian Gray by Oscar Wilde
+11. The Old Man and the Sea by Ernest Hemingway
+12. The Sun Also Rises by Ernest Hemingway
+13. The Outsiders by S.E. Hinton
+14. The Lord of the Rings by J.R.R. Tolkien
+15. The Hobbit by J.R.R. Tolkien
+16. The Chronicles of Narnia by C.S. Lewis
+17. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+18. The Da Vinci Code by Dan Brown
+19. The Girl with the Dragon Tattoo by Stieg Larsson
+20. The Hunger Games by Suzanne Collins
+21. The Road by Cormac McCarthy
+22. The Shining by Stephen King
+23. The Stand by Stephen King
+24. The Silence of the Lambs by Thomas Harris
+25. The Lovely Bones by Alice Sebold
+26. The Color Purple by Alice Walker
+27. The Handmaid's Tale by Margaret Atwood
+28. The Secret History by Donna Tartt
+29. The Picture of Dorian Gray by Oscar Wilde
+30. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+31. The Complete Works of William Shakespeare
+32. The Divine Comedy by Dante Alighieri
+33. The Canterbury Tales by Geoffrey Chaucer
+34. The Iliad by Homer
+35. The Odyssey by Homer
+36. Paradise Lost by John Milton
+37. The Inferno by Dante Alighieri
+38. The Republic by Plato
+39. The Prince by Niccolo Machiavelli
+40. The Art of War by Sun Tzu
+41. The Tao Te Ching by Lao Tzu
+42. The Analects by Confucius
+43. The Book of Five Rings by Miyamoto Musashi
+44. The Wealth of Nations by Adam Smith
+45. The Communist Manifesto by Karl Marx and Friedrich Engels
+46. The Origin of Species by Charles Darwin
+47. The Structure of Scientific Revolutions by Thomas S. Kuhn
+48. The Selfish Gene by Richard Dawkins
+49. The Blind Watchmaker by Richard Dawkins
+50. The Elegant Universe by Brian Greene

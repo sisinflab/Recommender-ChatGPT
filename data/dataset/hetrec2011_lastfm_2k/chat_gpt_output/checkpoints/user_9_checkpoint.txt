@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. EXO
+2. BTS
+3. SHINee
+4. Girls' Generation
+5. Red Velvet
+6. NCT
+7. SuperM
+8. BLACKPINK
+9. TWICE
+10. GOT7
+11. MONSTA X
+12. DAY6
+13. SEVENTEEN
+14. Stray Kids
+15. ATEEZ
+16. Dreamcatcher
+17. Mamamoo
+18. ITZY
+19. NU'EST
+20. VIXX
+21. B.A.P
+22. CNBLUE
+23. f(x)
+24. Wonder Girls
+25. 2PM
+26. Infinite
+27. GFRIEND
+28. Apink
+29. Highlight
+30. BTOB
+31. Pentagon
+32. iKON
+33. Winner
+34. BIGBANG (G-Dragon, Taeyang, Daesung, Seungri)
+35. Skillet (RED, Thousand Foot Krutch, Disciple, Fireflight)
+36. 宇多田ヒカル (Ayumi Hamasaki, Utada Hikaru, YUI, Aimer)
+37. 浜崎あゆみ (Koda Kumi, Namie Amuro, Ayumi Hamasaki, Utada Hikaru)
+38. DIR EN GREY (the GazettE, MUCC, D'espairsRay, X Japan)
+39. Blackmore's Night (Nightwish, Within Temptation, Epica, Delain)
+40. Bad Religion (NOFX, Pennywise, Descendents, The Offspring)
+41. B2ST (Highlight, BTOB, EXO, SHINee)
+42. Enya (Loreena McKennitt, Clannad, Celtic Woman, Secret Garden)
+43. Super Junior (TVXQ, EXO, SHINee, BTS)
+44. L'Arc~en~Ciel (X Japan, Gackt, Miyavi, Dir en Grey)
+45. 2NE1 (BLACKPINK, Red Velvet, Girls' Generation, f(x))
+46. The All-American Rejects (Fall Out Boy, Panic! at the Disco, Paramore, My Chemical Romance)
+47. The Rasmus (HIM, Nightwish, Within Temptation, Lacuna Coil)
+48. Akira Yamaoka (Yasunori Mitsuda, Nobuo Uematsu, Yoko Shimomura, Motoi Sakuraba)
+49. Crossfade (Breaking Benjamin, Three Days Grace, Seether, Shinedown)
+50. Linkin Park (Papa Roach, Three Days Grace, Breaking Benjamin, Disturbed)

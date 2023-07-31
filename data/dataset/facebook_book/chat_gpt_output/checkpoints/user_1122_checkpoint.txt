@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Alice's Adventures in Wonderland by Lewis Carroll
+2. The Chronicles of Narnia by C.S. Lewis
+3. The Hobbit by J.R.R. Tolkien
+4. The Hunger Games by Suzanne Collins
+5. Harry Potter series by J.K. Rowling
+6. The Giver by Lois Lowry
+7. Ender's Game by Orson Scott Card
+8. The Maze Runner by James Dashner
+9. The Fault in Our Stars by John Green
+10. The Book Thief by Markus Zusak
+11. The Catcher in the Rye by J.D. Salinger
+12. To Kill a Mockingbird by Harper Lee
+13. 1984 by George Orwell
+14. Animal Farm by George Orwell
+15. Brave New World by Aldous Huxley
+16. Fahrenheit 451 by Ray Bradbury
+17. The Great Gatsby by F. Scott Fitzgerald
+18. Lord of the Flies by William Golding
+19. The Outsiders by S.E. Hinton
+20. A Wrinkle in Time by Madeleine L'Engle
+21. The Secret Garden by Frances Hodgson Burnett
+22. Little Women by Louisa May Alcott
+23. Anne of Green Gables by L.M. Montgomery
+24. The Adventures of Tom Sawyer by Mark Twain
+25. The Adventures of Huckleberry Finn by Mark Twain
+26. The Phantom of the Opera by Gaston Leroux
+27. The Picture of Dorian Gray by Oscar Wilde
+28. Dracula by Bram Stoker
+29. Frankenstein by Mary Shelley
+30. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+31. The War of the Worlds by H.G. Wells
+32. The Time Machine by H.G. Wells
+33. The Invisible Man by H.G. Wells
+34. The Island of Dr. Moreau by H.G. Wells
+35. The Call of the Wild by Jack London
+36. White Fang by Jack London
+37. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+38. The Hound of the Baskervilles by Arthur Conan Doyle
+39. The Count of Monte Cristo by Alexandre Dumas
+40. The Three Musketeers by Alexandre Dumas
+41. Treasure Island by Robert Louis Stevenson
+42. The Swiss Family Robinson by Johann David Wyss
+43. Robinson Crusoe by Daniel Defoe
+44. Gulliver's Travels by Jonathan Swift
+45. The Canterbury Tales by Geoffrey Chaucer
+46. Beowulf by Unknown
+47. The Iliad by Homer
+48. The Odyssey by Homer
+49. The Divine Comedy by Dante Alighieri
+50. Don Quixote by Miguel de Cervantes

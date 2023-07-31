@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations are:
+
+1. The Smiths
+2. Joy Division
+3. Depeche Mode
+4. New Order
+5. Siouxsie and the Banshees
+6. David Bowie
+7. Morrissey
+8. Echo & The Bunnymen
+9. The Cure
+10. Cocteau Twins
+11. Dead Can Dance
+12. Clan of Xymox
+13. Editors
+14. Suede
+15. Placebo
+16. Sigur Rós
+17. Gary Numan
+18. Martin L. Gore
+19. And One
+20. Duran Duran
+21. Recoil
+22. Kraftwerk
+23. Camouflage
+24. Massive Attack
+25. Portishead
+26. Boards of Canada
+27. Yann Tiersen
+28. The Human League
+29. Alphaville
+30. Ladytron
+31. Air
+32. The Police
+33. INXS
+34. Manic Street Preachers
+35. Hurts
+36. 30 Seconds to Mars
+37. De/Vision
+38. Muse
+39. Evanescence
+40. U2
+41. Tears for Fears
+42. The Rasmus
+43. Crystal Castles
+44. The Cranberries
+45. Daft Punk
+46. No Doubt
+47. Nitzer Ebb
+48. Interpol
+49. Jean-Michel Jarre
+50. The Beatles

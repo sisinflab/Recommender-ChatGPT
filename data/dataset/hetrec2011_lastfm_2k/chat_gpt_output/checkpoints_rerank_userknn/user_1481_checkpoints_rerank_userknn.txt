@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Muse
+2. Arctic Monkeys
+3. Green Day
+4. The Killers
+5. My Chemical Romance
+6. The Strokes
+7. Oasis
+8. Rammstein
+9. Blink-182
+10. Sum 41
+11. Billy Talent
+12. The Offspring
+13. Fall Out Boy
+14. Kasabian
+15. Wolfmother
+16. The Hives
+17. Jet
+18. Biffy Clyro
+19. Placebo
+20. The Vines
+21. Kings of Leon
+22. Franz Ferdinand
+23. Radiohead
+24. Queens of the Stone Age
+25. The White Stripes
+26. The National
+27. Arcade Fire
+28. Florence + the Machine
+29. Vampire Weekend
+30. Two Door Cinema Club
+31. Feeder
+32. dredg
+33. Blind Guardian
+34. Mastodon
+35. Metallica
+36. Iron Maiden
+37. Queen
+38. Ramones
+39. The Gaslight Anthem
+40. The Fratellis
+41. The Beatles
+42. Editors
+43. The Libertines
+44. Gorillaz
+45. Pixies
+46. New Order
+47. Depeche Mode
+48. The Prodigy
+49. Lady Gaga
+50. Duffy

@@ -1,0 +1,49 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. Animal Farm by George Orwell
+5. The Hobbit by J.R.R. Tolkien
+6. The Lord of the Rings by J.R.R. Tolkien
+7. The Diary of a Young Girl by Anne Frank
+8. The Hunger Games by Suzanne Collins
+9. Harry Potter and the Philosopher's Stone by J.K. Rowling
+10. Harry Potter and the Chamber of Secrets by J.K. Rowling
+11. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+12. Harry Potter and the Goblet of Fire by J.K. Rowling
+13. Harry Potter and the Order of Phoenix by J.K. Rowling
+14. Harry Potter and the Half-Blood Prince by J.K. Rowling
+15. Harry Potter and the Deathly Hallows by J.K. Rowling
+16. The Fault in Our Stars by John Green
+17. The Book Thief by Markus Zusak
+18. The Alchemist by Paulo Coelho
+19. The Da Vinci Code by Dan Brown
+20. Angels and Demons by Dan Brown
+21. The Girl with the Dragon Tattoo by Stieg Larsson
+22. The Girl Who Played with Fire by Stieg Larsson
+23. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+24. The Help by Kathryn Stockett
+25. The Kite Runner by Khaled Hosseini
+26. A Thousand Splendid Suns by Khaled Hosseini
+27. The Lovely Bones by Alice Sebold
+28. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+29. The Road by Cormac McCarthy
+30. The Picture of Dorian Gray by Oscar Wilde
+31. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+32. The Count of Monte Cristo by Alexandre Dumas
+33. Les Misérables by Victor Hugo
+34. Pride and Prejudice by Jane Austen
+35. Sense and Sensibility by Jane Austen
+36. Emma by Jane Austen
+37. Persuasion by Jane Austen
+38. Northanger Abbey by Jane Austen
+39. Wuthering Heights by Emily Bronte
+40. Jane Eyre by Charlotte Bronte
+41. The Time Traveler's Wife by Audrey Niffenegger
+42. The Secret Life of Bees by Sue Monk Kidd
+43. The Color Purple by Alice Walker
+44. The Joy Luck Club by Amy Tan
+45. The God of Small Things by Arundhati Roy
+46. The Namesake by Jhumpa Lahiri
+47. The Immortal Life of Henrietta Lacks by Rebecca Skloot

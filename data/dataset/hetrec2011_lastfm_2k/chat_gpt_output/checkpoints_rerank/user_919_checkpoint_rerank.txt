@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Muse
+2. Radiohead
+3. Crystal Castles
+4. Sonic Youth
+5. The xx
+6. Metric
+7. The Kills
+8. Portishead
+9. Massive Attack
+10. Kate Nash
+11. 65daysofstatic
+12. Thom Yorke
+13. OK Go
+14. Regina Spektor
+15. Blonde Redhead
+16. Bring Me The Horizon
+17. Marina & the Diamonds
+18. Lily Allen
+19. Sophie Ellis-Bextor
+20. Goldfrapp
+21. Mylène Farmer
+22. Björk
+23. MGMT
+24. The Ting Tings
+25. Explosions in the Sky
+26. Jónsi
+27. James Blunt
+28. Silversun Pickups
+29. Blood Red Shoes
+30. The Horrors
+31. Arctic Monkeys
+32. The Sounds
+33. Owl City
+34. Franz Ferdinand
+35. Pink Floyd
+36. Nirvana
+37. Led Zeppelin
+38. Metallica
+39. Michael Jackson
+40. Pearl Jam
+41. a-ha
+42. System of a Down
+43. Daft Punk
+44. Nine Inch Nails
+45. Linkin Park
+46. Avril Lavigne
+47. Coldplay
+48. Placebo
+49. The Killers
+50. Amy Winehouse

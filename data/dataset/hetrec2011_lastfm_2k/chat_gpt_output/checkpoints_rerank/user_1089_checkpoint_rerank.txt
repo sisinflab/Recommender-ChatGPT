@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Depeche Mode
+2. The Cure
+3. Nine Inch Nails
+4. Radiohead
+5. Dead Can Dance
+6. VNV Nation
+7. Covenant
+8. And One
+9. Clan of Xymox
+10. Portishead
+11. PJ Harvey
+12. Gary Numan
+13. David Bowie
+14. Pet Shop Boys
+15. Erasure
+16. Duran Duran
+17. New Order
+18. The Gathering
+19. Hocico
+20. Combichrist
+21. a-ha
+22. Tori Amos
+23. Madonna
+24. Lady Gaga
+25. Beyoncé
+26. Rihanna
+27. Shakira
+28. Britney Spears
+29. Christina Aguilera
+30. Katy Perry
+31. Avril Lavigne
+32. Taylor Swift
+33. Evanescence
+34. Muse
+35. Pink Floyd
+36. U2
+37. 30 Seconds to Mars
+38. Ke$ha
+39. Coldplay
+40. Blur
+41. Arctic Monkeys
+42. Placebo
+43. The Killers
+44. Nirvana
+45. Iron Maiden
+46. Led Zeppelin
+47. Metallica
+48. Michael Jackson
+49. Pearl Jam
+50. Amy Winehouse

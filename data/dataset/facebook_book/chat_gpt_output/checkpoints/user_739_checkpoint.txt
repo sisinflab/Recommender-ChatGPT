@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. 1984 by George Orwell
+5. The Great Gatsby by F. Scott Fitzgerald
+6. The Lord of the Rings by J.R.R. Tolkien
+7. The Hobbit by J.R.R. Tolkien
+8. The Chronicles of Narnia by C.S. Lewis
+9. The Da Vinci Code by Dan Brown
+10. Angels and Demons by Dan Brown
+11. The Girl with the Dragon Tattoo by Stieg Larsson
+12. The Girl Who Played with Fire by Stieg Larsson
+13. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+14. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+15. The Shining by Stephen King
+16. It by Stephen King
+17. The Stand by Stephen King
+18. Carrie by Stephen King
+19. The Silence of the Lambs by Thomas Harris
+20. Red Dragon by Thomas Harris
+21. Hannibal by Thomas Harris
+22. The Bourne Identity by Robert Ludlum
+23. The Bourne Supremacy by Robert Ludlum
+24. The Bourne Ultimatum by Robert Ludlum
+25. The Andromeda Strain by Michael Crichton
+26. Jurassic Park by Michael Crichton
+27. The Lost World by Michael Crichton
+28. The Firm by John Grisham
+29. A Time to Kill by John Grisham
+30. The Pelican Brief by John Grisham
+31. The Rainmaker by John Grisham
+32. The Client by John Grisham
+33. The Chamber by John Grisham
+34. The Runaway Jury by John Grisham
+35. The Street Lawyer by John Grisham
+36. The Testament by John Grisham
+37. The Partner by John Grisham
+38. The Summons by John Grisham
+39. The Brethren by John Grisham
+40. The Kingkiller Chronicle by Patrick Rothfuss
+41. The Name of the Wind by Patrick Rothfuss
+42. The Wise Man's Fear by Patrick Rothfuss
+43. The Wheel of Time by Robert Jordan
+44. The Eye of the World by Robert Jordan
+45. The Great Hunt by Robert Jordan
+46. The Dragon Reborn by Robert Jordan
+47. The Shadow Rising by Robert Jordan
+48. The Fires of Heaven by Robert Jordan
+49. The Lord of Chaos by Robert Jordan
+50. A Game of Thrones by George R.R. Martin

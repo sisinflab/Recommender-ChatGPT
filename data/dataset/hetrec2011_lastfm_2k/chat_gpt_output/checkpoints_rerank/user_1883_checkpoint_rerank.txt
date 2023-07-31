@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Smiths
+2. Joy Division
+3. New Order
+4. Siouxsie and the Banshees
+5. Echo & the Bunnymen
+6. The Jesus and Mary Chain
+7. The Velvet Underground
+8. Pixies
+9. Talking Heads
+10. Joy Zipper
+11. The Stone Roses
+12. The Charlatans
+13. The La's
+14. The House of Love
+15. The Psychedelic Furs
+16. The Chameleons
+17. The Teardrop Explodes
+18. The Sound
+19. The Mission
+20. The Sisters of Mercy
+21. Bauhaus
+22. The Birthday Party
+23. Nick Cave and the Bad Seeds
+24. The Gun Club
+25. The Cramps
+26. The Damned
+27. The Clash
+28. The Jam
+29. The Specials
+30. The Selecter
+31. Madness
+32. The English Beat
+33. The Cure
+34. The Smithereens
+35. The Replacements
+36. R.E.M.
+37. The Lemonheads
+38. Dinosaur Jr.
+39. Sonic Youth
+40. Pavement
+41. Guided by Voices
+42. Yo La Tengo
+43. Neutral Milk Hotel
+44. Belle and Sebastian
+45. The Magnetic Fields
+46. The Flaming Lips
+47. Mercury Rev
+48. Spiritualized
+49. My Morning Jacket
+50. Fleet Foxes

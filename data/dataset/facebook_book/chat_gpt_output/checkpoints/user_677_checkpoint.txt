@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. One Hundred Years of Solitude by Gabriel Garcia Marquez
+5. To Kill a Mockingbird by Harper Lee
+6. The Great Gatsby by F. Scott Fitzgerald
+7. Crime and Punishment by Fyodor Dostoevsky
+8. The Brothers Karamazov by Fyodor Dostoevsky
+9. The Stranger by Albert Camus
+10. The Trial by Franz Kafka
+11. The Metamorphosis by Franz Kafka
+12. The Picture of Dorian Gray by Oscar Wilde
+13. Heart of Darkness by Joseph Conrad
+14. Lord of the Flies by William Golding
+15. The Road by Cormac McCarthy
+16. The Bell Jar by Sylvia Plath
+17. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+18. The Stand by Stephen King
+19. The Shining by Stephen King
+20. The Dark Tower series by Stephen King
+21. The Name of the Wind by Patrick Rothfuss
+22. The Wise Man's Fear by Patrick Rothfuss
+23. The Hunger Games by Suzanne Collins
+24. The Girl with the Dragon Tattoo by Stieg Larsson
+25. The Da Vinci Code by Dan Brown
+26. Angels and Demons by Dan Brown
+27. The Bourne Identity by Robert Ludlum
+28. The Bourne Supremacy by Robert Ludlum
+29. The Bourne Ultimatum by Robert Ludlum
+30. The Girl on the Train by Paula Hawkins
+31. Gone Girl by Gillian Flynn
+32. The Martian by Andy Weir
+33. Ready Player One by Ernest Cline
+34. Ender's Game by Orson Scott Card
+35. The Foundation series by Isaac Asimov
+36. The Hitchhiker's Guide to the Galaxy series by Douglas Adams
+37. The Chronicles of Narnia by C.S. Lewis
+38. The Harry Potter series by J.K. Rowling
+39. The Lord of the Rings series by J.R.R. Tolkien
+40. The Hobbit by J.R.R. Tolkien
+41. The Silmarillion by J.R.R. Tolkien
+42. The Wheel of Time series by Robert Jordan
+43. The Malazan Book of the Fallen series by Steven Erikson
+44. The First Law trilogy by Joe Abercrombie
+45. The Kingkiller Chronicle series by Patrick Rothfuss
+46. The Mistborn series by Brandon Sanderson
+47. The Stormlight Archive series by Brandon Sanderson
+48. The Dresden Files series by Jim Butcher
+49. The Dark Tower series by Stephen King
+50. The Song of Ice and

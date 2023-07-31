@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Coldplay
+2. Linkin Park
+3. Eminem
+4. The Killers
+5. Owl City
+6. Keane
+7. Maroon 5
+8. Red
+9. Breaking Benjamin
+10. The Fray
+11. Gorillaz
+12. Metallica
+13. P!nk
+14. Daughtry
+15. Limp Bizkit
+16. Michael Bublé
+17. In Flames
+18. Poets of the Fall
+19. Within Temptation
+20. Matchbox Twenty
+21. Augustana
+22. Dido
+23. Ben Folds
+24. Sunrise Avenue
+25. Moby
+26. Anberlin
+27. Pendulum
+28. Theory of a Deadman
+29. Goo Goo Dolls
+30. Enya
+31. Kanye West
+32. Alanis Morissette
+33. Foo Fighters
+34. Scorpions
+35. Florence + the Machine
+36. Blur
+37. Travis
+38. Kings of Leon
+39. Radiohead
+40. The Kooks
+41. Oasis
+42. Erasure
+43. The Rasmus
+44. George Michael
+45. Jason Mraz
+46. Katy Perry
+47. Michael Jackson
+48. James Blunt
+49. Snow Patrol
+50. Jack Johnson

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Thrice
+2. Metallica
+3. Sum 41
+4. Megadeth
+5. Fresno
+6. Gloria
+7. Avenged Sevenfold
+8. Atreyu
+9. Papa Roach
+10. Rise Against
+11. The Hives
+12. New Found Glory
+13. Three Days Grace
+14. Muse
+15. Chevelle
+16. Adema
+17. Foo Fighters
+18. Nirvana
+19. Dream Theater
+20. Paramore
+21. Beeshop
+22. Bloodhound Gang
+23. The Dillinger Escape Plan
+24. Alkaline Trio
+25. All That Remains
+26. Jay Vaquer
+27. Pearl Jam
+28. Hatebreed
+29. Iron Maiden
+30. Led Zeppelin
+31. Michael Jackson
+32. Pink Floyd
+33. Radiohead
+34. The Beatles
+35. Nine Inch Nails
+36. System of a Down
+37. Daft Punk
+38. Linkin Park
+39. Coldplay
+40. Blur
+41. Arctic Monkeys
+42. Placebo
+43. The Killers
+44. Amy Winehouse
+45. a-ha
+46. Björk
+47. U2
+48. Duran Duran
+49. Green Day
+50. My Chemical Romance

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Pet Shop Boys
+2. Tears for Fears
+3. A-ha
+4. New Order
+5. OMD
+6. The Human League
+7. INXS
+8. The Cure
+9. Echo & The Bunnymen
+10. The Police
+11. U2
+12. Blondie
+13. Talking Heads
+14. Joy Division
+15. The Clash
+16. Elvis Costello
+17. The Jam
+18. The Pretenders
+19. Siouxsie and the Banshees
+20. The Psychedelic Furs
+21. The Stranglers
+22. The B-52's
+23. The Go-Go's
+24. The Cars
+25. Duran Duran (similar artist)
+26. Nik Kershaw (similar artist)
+27. Paul McCartney (similar artist)
+28. Madness (similar artist)
+29. The Beatles (similar artist)
+30. Erasure (similar artist)
+31. Japan (similar artist)
+32. Depeche Mode (similar artist)
+33. David Bowie (similar artist)
+34. George Harrison (similar artist)
+35. Icehouse (similar artist)
+36. Ultravox (similar artist)
+37. Simple Minds (similar artist)
+38. Howard Jones (similar artist)
+39. The Smiths (similar artist)
+40. Bryan Ferry (similar artist)
+41. Roxy Music (similar artist)
+42. Jamie Cullum (similar artist)
+43. Kate Bush (similar artist)
+44. Talk Talk (similar artist)
+45. Jamiroquai (similar artist)
+46. ABC
+47. Heaven 17
+48. Soft Cell
+49. Gary Numan
+50. Kraftwerk

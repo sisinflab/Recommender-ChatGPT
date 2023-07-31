@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. Brave New World by Aldous Huxley
+4. To Kill a Mockingbird by Harper Lee
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Catch-22 by Joseph Heller
+7. One Hundred Years of Solitude by Gabriel Garcia Marquez
+8. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Hobbit by J.R.R. Tolkien
+11. The Catcher in the Rye by J.D. Salinger
+12. The Bell Jar by Sylvia Plath
+13. The Picture of Dorian Gray by Oscar Wilde
+14. The Importance of Being Earnest by Oscar Wilde
+15. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+16. Crime and Punishment by Fyodor Dostoevsky
+17. The Brothers Karamazov by Fyodor Dostoevsky
+18. The Stranger by Albert Camus
+19. The Plague by Albert Camus
+20. The Trial by Franz Kafka
+21. The Metamorphosis by Franz Kafka
+22. The Road by Cormac McCarthy
+23. The Old Man and the Sea by Ernest Hemingway
+24. For Whom the Bell Tolls by Ernest Hemingway
+25. The Sun Also Rises by Ernest Hemingway
+26. Lord of the Flies by William Golding
+27. Heart of Darkness by Joseph Conrad
+28. The Secret History by Donna Tartt
+29. The Name of the Rose by Umberto Eco
+30. The Da Vinci Code by Dan Brown
+31. Angels and Demons by Dan Brown
+32. The Girl with the Dragon Tattoo by Stieg Larsson
+33. The Hunger Games by Suzanne Collins
+34. The Road to Serfdom by Friedrich Hayek
+35. The Wealth of Nations by Adam Smith
+36. The Communist Manifesto by Karl Marx and Friedrich Engels
+37. The Republic by Plato
+38. The Prince by Niccolo Machiavelli
+39. The Art of War by Sun Tzu
+40. The Tao Te Ching by Lao Tzu
+41. The Bible
+42. The Quran
+43. The Bhagavad Gita
+44. The Tao of Physics by Fritjof Capra
+45. The Selfish Gene by Richard Dawkins
+46. The God Delusion by Richard Dawkins
+47. The Origin of Species by Charles Darwin
+48. The Structure of Scientific Revolutions by Thomas Kuhn
+49. The Elegant Universe by Brian Greene
+50. A Brief History of Time by Stephen Hawking

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Midnight's Children by Salman Rushdie
+2. One Hundred Years of Solitude by Gabriel Garcia Marquez
+3. The Satanic Verses by Salman Rushdie
+4. Love in the Time of Cholera by Gabriel Garcia Marquez
+5. The Brief Wondrous Life of Oscar Wao by Junot Diaz
+6. The Name of the Rose by Umberto Eco
+7. The Shadow of the Wind by Carlos Ruiz Zafon
+8. The Wind-Up Bird Chronicle by Haruki Murakami
+9. The Master and Margarita by Mikhail Bulgakov
+10. The Unbearable Lightness of Being by Milan Kundera
+11. Crime and Punishment by Fyodor Dostoevsky
+12. The Brothers Karamazov by Fyodor Dostoevsky
+13. War and Peace by Leo Tolstoy
+14. Anna Karenina by Leo Tolstoy
+15. The Picture of Dorian Gray by Oscar Wilde
+16. The Importance of Being Earnest by Oscar Wilde
+17. Dubliners by James Joyce
+18. Ulysses by James Joyce
+19. The Catcher in the Rye by J.D. Salinger
+20. 1984 by George Orwell
+21. Animal Farm by George Orwell
+22. Brave New World by Aldous Huxley
+23. Slaughterhouse-Five by Kurt Vonnegut
+24. Cat's Cradle by Kurt Vonnegut
+25. The Stranger by Albert Camus
+26. The Plague by Albert Camus
+27. The Trial by Franz Kafka
+28. The Metamorphosis by Franz Kafka
+29. Siddhartha by Hermann Hesse
+30. Steppenwolf by Hermann Hesse
+31. The Alchemist by Paulo Coelho
+32. The Kite Runner by Khaled Hosseini
+33. A Thousand Splendid Suns by Khaled Hosseini
+34. The Girl with the Dragon Tattoo by Stieg Larsson
+35. The Hunger Games by Suzanne Collins
+36. Catching Fire by Suzanne Collins
+37. Mockingjay by Suzanne Collins
+38. The Da Vinci Code by Dan Brown
+39. Angels and Demons by Dan Brown
+40. The Bourne Identity by Robert Ludlum
+41. The Silence of the Lambs by Thomas Harris
+42. Red Dragon by Thomas Harris
+43. The Shining by Stephen King
+44. Carrie by Stephen King
+45. The Stand by Stephen King
+46. The Gunslinger by Stephen King
+47. The Hobbit by J.R.R. Tolkien
+48. The Lord of the Rings by J.R.R. Tolkien
+49. The Chronicles of Narnia by C.S. Lewis
+50. Harry Potter and the Philosopher's Stone by J.K

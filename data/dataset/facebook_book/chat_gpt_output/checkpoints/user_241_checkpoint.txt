@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Animal Farm by George Orwell
+2. The Selfish Gene by Richard Dawkins
+3. The Hunger Games by Suzanne Collins
+4. The Girl with the Dragon Tattoo by Stieg Larsson
+5. The Hobbit by J.R.R. Tolkien
+6. The Lord of the Rings by J.R.R. Tolkien
+7. The Chronicles of Narnia by C.S. Lewis
+8. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+9. The Da Vinci Code by Dan Brown
+10. The Girl on the Train by Paula Hawkins
+11. The Fault in Our Stars by John Green
+12. The Book Thief by Markus Zusak
+13. The Maze Runner by James Dashner
+14. The Giver by Lois Lowry
+15. The Catcher in the Rye by J.D. Salinger
+16. To Kill a Mockingbird by Harper Lee
+17. The Great Gatsby by F. Scott Fitzgerald
+18. 1984 by George Orwell
+19. Brave New World by Aldous Huxley
+20. Fahrenheit 451 by Ray Bradbury
+21. The Road by Cormac McCarthy
+22. The Handmaid's Tale by Margaret Atwood
+23. The Stand by Stephen King
+24. The Shining by Stephen King
+25. The Dark Tower series by Stephen King
+26. The Name of the Wind by Patrick Rothfuss
+27. The Wise Man's Fear by Patrick Rothfuss
+28. The Kingkiller Chronicle series by Patrick Rothfuss
+29. The Harry Potter series by J.K. Rowling
+30. The Outsiders by S.E. Hinton
+31. Holes by Louis Sachar
+32. The Secret Life of Bees by Sue Monk Kidd
+33. The Help by Kathryn Stockett
+34. The Color Purple by Alice Walker
+35. The Joy Luck Club by Amy Tan
+36. The Alchemist by Paulo Coelho
+37. Siddhartha by Hermann Hesse
+38. The Tao of Pooh by Benjamin Hoff
+39. The Prophet by Kahlil Gibran
+40. The Power of Now by Eckhart Tolle
+41. The Celestine Prophecy by James Redfield
+42. The Four Agreements by Don Miguel Ruiz
+43. The Art of Happiness by Dalai Lama XIV and Howard C. Cutler
+44. The Seven Spiritual Laws of Success by Deepak Chopra
+45. The Road Less Traveled by M. Scott Peck
+46. The 7 Habits of Highly Effective People by Stephen R. Covey
+47. The Lean Startup by Eric Ries
+48. The Innovator's Dilemma by Clayton M. Christensen
+49. The Lean Product Playbook by Dan Olsen
+50. The Design of Everyday Things by Don Norman

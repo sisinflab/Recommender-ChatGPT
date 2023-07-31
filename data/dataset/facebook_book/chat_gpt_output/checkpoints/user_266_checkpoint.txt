@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Alice's Adventures in Wonderland by Lewis Carroll
+2. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+3. The Secret Garden by Frances Hodgson Burnett
+4. The Hound of the Baskervilles by Arthur Conan Doyle
+5. Little Women by Louisa May Alcott
+6. The Picture of Dorian Gray by Oscar Wilde
+7. The Catcher in the Rye by J.D. Salinger
+8. To Kill a Mockingbird by Harper Lee
+9. The Great Gatsby by F. Scott Fitzgerald
+10. The Hobbit by J.R.R. Tolkien
+11. The Lord of the Rings by J.R.R. Tolkien
+12. The Chronicles of Narnia by C.S. Lewis
+13. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+14. The Da Vinci Code by Dan Brown
+15. The Girl with the Dragon Tattoo by Stieg Larsson
+16. The Hunger Games by Suzanne Collins
+17. The Fault in Our Stars by John Green
+18. The Book Thief by Markus Zusak
+19. The Maze Runner by James Dashner
+20. The Giver by Lois Lowry
+21. The Outsiders by S.E. Hinton
+22. The Perks of Being a Wallflower by Stephen Chbosky
+23. The Lovely Bones by Alice Sebold
+24. The Help by Kathryn Stockett
+25. The Kite Runner by Khaled Hosseini
+26. The Alchemist by Paulo Coelho
+27. The Name of the Wind by Patrick Rothfuss
+28. The Nightingale by Kristin Hannah
+29. The Handmaid's Tale by Margaret Atwood
+30. The Road by Cormac McCarthy
+31. The Stand by Stephen King
+32. The Shining by Stephen King
+33. The Silence of the Lambs by Thomas Harris
+34. The Girl on the Train by Paula Hawkins
+35. The Martian by Andy Weir
+36. The Time Traveler's Wife by Audrey Niffenegger
+37. The Help by Kathryn Stockett
+38. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+39. The Devil in the White City by Erik Larson
+40. The Glass Castle by Jeannette Walls
+41. The Color Purple by Alice Walker
+42. The Joy Luck Club by Amy Tan
+43. The God of Small Things by Arundhati Roy
+44. The Poisonwood Bible by Barbara Kingsolver
+45. The Handmaid's Tale by Margaret Atwood
+46. The Road by Cormac McCarthy
+47. The Stand by Stephen King
+48. The Shining by Stephen King
+49. The Silence of the Lambs by Thomas Harris
+50. The Girl on the Train by Paula Hawkins

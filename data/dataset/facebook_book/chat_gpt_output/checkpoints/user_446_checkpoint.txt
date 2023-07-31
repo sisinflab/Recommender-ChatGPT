@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. 1984 by George Orwell
+3. Lord of the Flies by William Golding
+4. The Giver by Lois Lowry
+5. The Hunger Games by Suzanne Collins
+6. The Maze Runner by James Dashner
+7. The Fault in Our Stars by John Green
+8. The Book Thief by Markus Zusak
+9. The Girl on the Train by Paula Hawkins
+10. The Da Vinci Code by Dan Brown
+11. Angels and Demons by Dan Brown
+12. The Lost Symbol by Dan Brown
+13. Inferno by Dan Brown
+14. The Lovely Bones by Alice Sebold
+15. The Help by Kathryn Stockett
+16. The Secret Life of Bees by Sue Monk Kidd
+17. The Color Purple by Alice Walker
+18. The Joy Luck Club by Amy Tan
+19. The Kite Runner by Khaled Hosseini
+20. A Thousand Splendid Suns by Khaled Hosseini
+21. The Alchemist by Paulo Coelho
+22. The Picture of Dorian Gray by Oscar Wilde
+23. The Great Gatsby by F. Scott Fitzgerald
+24. The Adventures of Huckleberry Finn by Mark Twain
+25. The Adventures of Tom Sawyer by Mark Twain
+26. The Hobbit by J.R.R. Tolkien
+27. The Lord of the Rings by J.R.R. Tolkien
+28. The Chronicles of Narnia by C.S. Lewis
+29. Harry Potter and the Philosopher's Stone by J.K. Rowling
+30. Harry Potter and the Chamber of Secrets by J.K. Rowling
+31. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+32. Harry Potter and the Goblet of Fire by J.K. Rowling
+33. Harry Potter and the Order of Phoenix by J.K. Rowling
+34. Harry Potter and the Half-Blood Prince by J.K. Rowling
+35. Harry Potter and the Deathly Hallows by J.K. Rowling
+36. The Name of the Wind by Patrick Rothfuss
+37. The Wise Man's Fear by Patrick Rothfuss
+38. The Way of Kings by Brandon Sanderson
+39. Mistborn: The Final Empire by Brandon Sanderson
+40. The Lies of Locke Lamora by Scott Lynch
+41. The Blade Itself by Joe Abercrombie
+42. The Final Empire by Michael J. Sullivan
+43. The Eye of the World by Robert Jordan
+44. The Fellowship of the Ring by J.R.R. Tolkien
+45. The Two Towers by J.R.R. Tolkien
+46. The Return of the King by J.R.R. Tolkien
+47. The Name of the Rose by Umberto Eco
+48. The Pillars of the Earth

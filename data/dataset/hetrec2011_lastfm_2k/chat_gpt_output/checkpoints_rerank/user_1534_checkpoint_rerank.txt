@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Porcupine Tree
+2. Enter Shikari
+3. Coheed and Cambria
+4. Mindless Self Indulgence
+5. Death Cab for Cutie
+6. Underoath
+7. Crystal Castles
+8. Fleetwood Mac
+9. The Smiths
+10. The Birthday Massacre
+11. IAMX
+12. Escape The Fate
+13. Florence + the Machine
+14. Brand New
+15. Bon Iver
+16. Funeral for a Friend
+17. The Prodigy
+18. M83
+19. Damien Rice
+20. The Blackout
+21. Pendulum
+22. Type O Negative
+23. Jethro Tull
+24. George Michael
+25. Goldfrapp
+26. Bombay Bicycle Club
+27. Hadouken!
+28. Rammstein
+29. David Gray
+30. Cream
+31. Poets of the Fall
+32. Snow Patrol
+33. Muse
+34. Pink Floyd
+35. Radiohead
+36. Iron Maiden
+37. Led Zeppelin
+38. Metallica
+39. Nirvana
+40. System of a Down
+41. Nine Inch Nails
+42. The Cure
+43. Placebo
+44. Arctic Monkeys
+45. Blur
+46. Michael Jackson
+47. Pearl Jam
+48. a-ha
+49. Björk
+50. Duran Duran

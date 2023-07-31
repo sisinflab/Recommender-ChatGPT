@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Graceling by Kristin Cashore
+2. The Hunger Games by Suzanne Collins
+3. Throne of Glass by Sarah J. Maas
+4. The Mortal Instruments by Cassandra Clare
+5. The Name of the Wind by Patrick Rothfuss
+6. Mistborn by Brandon Sanderson
+7. The Raven Boys by Maggie Stiefvater
+8. The Kingkiller Chronicle by Patrick Rothfuss
+9. Red Queen by Victoria Aveyard
+10. The Lunar Chronicles by Marissa Meyer
+11. The Inheritance Cycle by Christopher Paolini
+12. The Dark Artifices by Cassandra Clare
+13. The Selection by Kiera Cass
+14. The Maze Runner by James Dashner
+15. The Giver by Lois Lowry
+16. The Fault in Our Stars by John Green
+17. The Book Thief by Markus Zusak
+18. Divergent by Veronica Roth
+19. The 5th Wave by Rick Yancey
+20. The Darkest Minds by Alexandra Bracken
+21. The Knife of Never Letting Go by Patrick Ness
+22. The Magicians by Lev Grossman
+23. The Girl of Fire and Thorns by Rae Carson
+24. The Grisha Trilogy by Leigh Bardugo
+25. The Legend Trilogy by Marie Lu
+26. The Lunar Chronicles by Marissa Meyer
+27. The Maze Runner by James Dashner
+28. The Mortal Engines Quartet by Philip Reeve
+29. The Percy Jackson and the Olympians series by Rick Riordan
+30. The Red Rising Trilogy by Pierce Brown
+31. The Selection by Kiera Cass
+32. The Shadowhunter Chronicles by Cassandra Clare
+33. The Shatter Me series by Tahereh Mafi
+34. The Throne of Glass series by Sarah J. Maas
+35. The Uglies series by Scott Westerfeld
+36. The Vampire Academy series by Richelle Mead
+37. The Witchlands series by Susan Dennard
+38. The Young Elites series by Marie Lu
+39. The 100 by Kass Morgan
+40. The Alchemist by Paulo Coelho
+41. The Chronicles of Narnia by C.S. Lewis
+42. The Dark Tower series by Stephen King
+43. The Dresden Files by Jim Butcher
+44. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+45. The Lord of the Rings by J.R.R. Tolkien
+46. The Magicians by Lev Grossman
+47. The Mistborn Trilogy by Brandon Sanderson
+48. The Night Circus by Erin Morgenstern
+49. The Outlander series by Diana Gabaldon
+50. The Wheel of Time series by Robert Jordan

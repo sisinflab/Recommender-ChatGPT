@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Pink Floyd
+2. Radiohead
+3. Led Zeppelin
+4. Muse
+5. The Beatles
+6. Coldplay
+7. The Who
+8. Jimi Hendrix
+9. Neil Young
+10. The Verve
+11. Massive Attack
+12. Sigur Rós
+13. Arcade Fire
+14. The Killers
+15. Red Hot Chili Peppers
+16. Oasis
+17. Blur
+18. System of a Down
+19. The Strokes
+20. Franz Ferdinand
+21. Travis
+22. Keane
+23. Eagles
+24. Snow Patrol
+25. The Shins
+26. The White Stripes
+27. Kings of Leon
+28. Death Cab for Cutie
+29. Elliott Smith
+30. Modest Mouse
+31. Spoon
+32. Beck
+33. The Stone Roses
+34. Suede
+35. Interpol
+36. Daft Punk
+37. Klaxons
+38. The Kooks
+39. Manic Street Preachers
+40. Depeche Mode
+41. Björk
+42. Nine Inch Nails
+43. Kasabian
+44. Paolo Nutini
+45. The Chemical Brothers
+46. The Last Shadow Puppets
+47. Black Rebel Motorcycle Club
+48. MGMT
+49. Apocalyptica
+50. Colbie Caillat

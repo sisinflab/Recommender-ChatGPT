@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. To Kill a Mockingbird by Harper Lee
+3. The Great Gatsby by F. Scott Fitzgerald
+4. 1984 by George Orwell
+5. The Catcher in the Rye by J.D. Salinger
+6. The Lord of the Rings by J.R.R. Tolkien
+7. The Hobbit by J.R.R. Tolkien
+8. The Chronicles of Narnia by C.S. Lewis
+9. The Da Vinci Code by Dan Brown
+10. The Girl with the Dragon Tattoo by Stieg Larsson
+11. The Help by Kathryn Stockett
+12. The Fault in Our Stars by John Green
+13. The Book Thief by Markus Zusak
+14. The Maze Runner by James Dashner
+15. The Giver by Lois Lowry
+16. The Outsiders by S.E. Hinton
+17. The Secret Life of Bees by Sue Monk Kidd
+18. The Lovely Bones by Alice Sebold
+19. The Perks of Being a Wallflower by Stephen Chbosky
+20. The Road by Cormac McCarthy
+21. The Handmaid's Tale by Margaret Atwood
+22. The Stand by Stephen King
+23. The Shining by Stephen King
+24. The Silence of the Lambs by Thomas Harris
+25. The Picture of Dorian Gray by Oscar Wilde
+26. Jane Eyre by Charlotte Brontë
+27. Burned by Ellen Hopkins
+28. Vampire Academy by Richelle Mead
+29. The Alchemist by Paulo Coelho
+30. Harry Potter and the Philosopher's Stone by J.K. Rowling
+31. Pride and Prejudice and Zombies by Seth Grahame-Smith
+32. Crime and Punishment by Fyodor Dostoyevsky
+33. Wuthering Heights by Emily Brontë
+34. The Girl Who Played with Fire by Stieg Larsson
+35. The Hunted by Elmore Leonard
+36. Eleven Minutes by Paulo Coelho
+37. The Last Temptation of Christ by Nikos Kazantzakis
+38. Tempted by Kristin Cast and P.C. Cast
+39. Fallen by Lauren Kate
+40. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+41. The Name of the Wind by Patrick Rothfuss
+42. The Wise Man's Fear by Patrick Rothfuss
+43. The Nightingale by Kristin Hannah
+44. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+45. The Help by Kathryn Stockett
+46. The Kite Runner by Khaled Hosseini
+47. A Thousand Splendid Suns by Khaled Hosseini
+48. The Time Traveler's Wife by Audrey Niffenegger
+49. The Curious

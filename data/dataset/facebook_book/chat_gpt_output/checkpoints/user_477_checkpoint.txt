@@ -1,0 +1,49 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Brave New World by Aldous Huxley
+2. Animal Farm by George Orwell
+3. Slaughterhouse-Five by Kurt Vonnegut
+4. To Kill a Mockingbird by Harper Lee
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Great Gatsby by F. Scott Fitzgerald
+7. The Bell Jar by Sylvia Plath
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Stranger by Albert Camus
+10. The Road by Cormac McCarthy
+11. The Handmaid's Tale by Margaret Atwood
+12. The Grapes of Wrath by John Steinbeck
+13. Lord of the Flies by William Golding
+14. A Clockwork Orange by Anthony Burgess
+15. The Sun Also Rises by Ernest Hemingway
+16. The Old Man and the Sea by Ernest Hemingway
+17. Heart of Darkness by Joseph Conrad
+18. Crime and Punishment by Fyodor Dostoyevsky
+19. The Trial by Franz Kafka
+20. The Metamorphosis by Franz Kafka
+21. The Plague by Albert Camus
+22. The Hitchhiker's Guide to the Galaxy: The Complete Trilogy of Five by Douglas Adams
+23. The Catcher in the Rye by J.D. Salinger
+24. 1984 by George Orwell
+25. Catch-22 by Joseph Heller
+26. The Brothers Karamazov by Fyodor Dostoyevsky
+27. The Idiot by Fyodor Dostoyevsky
+28. Dracula by Bram Stoker
+29. The Scarlet Letter by Nathaniel Hawthorne
+30. The Count of Monte Cristo by Alexandre Dumas
+31. Les Miserables by Victor Hugo
+32. War and Peace by Leo Tolstoy
+33. Anna Karenina by Leo Tolstoy
+34. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+35. The Hound of the Baskervilles by Arthur Conan Doyle
+36. The Lord of the Rings by J.R.R. Tolkien
+37. The Hobbit by J.R.R. Tolkien
+38. The Chronicles of Narnia by C.S. Lewis
+39. The Da Vinci Code by Dan Brown
+40. Angels and Demons by Dan Brown
+41. The Girl with the Dragon Tattoo by Stieg Larsson
+42. The Hunger Games by Suzanne Collins
+43. Harry Potter and the Philosopher's Stone by J.K. Rowling
+44. Harry Potter and the Chamber of Secrets by J.K. Rowling
+45. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+46. Harry Potter and the Goblet of Fire by J.K. Rowling
+47. Harry Potter and the Order of Phoenix by J.K. Rowling

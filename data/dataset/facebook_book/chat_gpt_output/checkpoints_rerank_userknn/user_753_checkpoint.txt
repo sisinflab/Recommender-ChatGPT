@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. Nineteen Eighty-Four by George Orwell
+3. The Great Gatsby by F. Scott Fitzgerald
+4. The Catcher in the Rye by J. D. Salinger
+5. The Lord of the Rings by J.R.R. Tolkien
+6. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+7. Charlotte's Web by E.B. White
+8. The Outsiders by S.E. Hinton
+9. Milkweed by Jerry Spinelli
+10. The Notebook by Nicholas Sparks
+11. Dear John by Nicholas Sparks
+12. Bible
+13. A Series of Unfortunate Events by Lemony Snicket
+14. The Wedding by Danielle Steel
+15. The Scarlet Letter by Nathaniel Hawthorne
+16. Angela's Ashes by Frank McCourt
+17. Inkdeath by Cornelia Funke
+18. The Lovely Bones by Alice Sebold
+19. Persepolis by Marjane Satrapi
+20. Romeo and Juliet by William Shakespeare
+21. The Kite Runner by Khaled Hosseini
+22. Flowers in the Attic by V.C. Andrews
+23. Lolita by Vladimir Nabokov
+24. Frankenstein by Mary Shelley
+25. Heart of Darkness by Joseph Conrad
+26. The BFG by Roald Dahl
+27. The Southern Vampire Mysteries by Charlaine Harris
+28. Number the Stars by Lois Lowry
+29. The Canterville Ghost by Oscar Wilde
+30. No Country for Old Men by Cormac McCarthy
+31. Blue Is for Nightmares by Laurie Faria Stolarz
+32. Choke by Chuck Palahniuk
+33. Alice's Adventures in Wonderland by Lewis Carroll
+34. The Heroin Diaries by Nikki Sixx
+35. Rose Madder by Stephen King
+36. Trivia by Logan Pearsall Smith
+37. The Good Earth by Pearl S. Buck
+38. Vampire$ by John Steakley
+39. Manga by Various Authors
+40. The Stand by Stephen King
+41. Pride and Prejudice by Jane Austen
+42. Harry Potter by J.K. Rowling
+43. Macbeth by William Shakespeare
+44. Crank by Ellen Hopkins
+45. Faster than a Kiss by Meca Tanaka
+46. The Last Song by Nicholas Sparks
+47. The Zombie Survival Guide by Max Brooks
+48. Slaughterhouse-Five by Kurt Vonnegut
+49. The Magician's Nephew by C.S. Lewis
+50. Atlas Shrugged by Ayn Rand

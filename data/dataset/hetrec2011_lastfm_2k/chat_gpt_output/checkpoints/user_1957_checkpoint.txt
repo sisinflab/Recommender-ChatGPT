@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Panic! At The Disco
+2. My Chemical Romance
+3. Paramore
+4. All Time Low
+5. Green Day
+6. The Killers
+7. Arctic Monkeys
+8. Twenty One Pilots
+9. Imagine Dragons
+10. The 1975
+11. Muse
+12. Radiohead
+13. Coldplay
+14. Red Hot Chili Peppers
+15. Foo Fighters
+16. Nirvana
+17. Pearl Jam
+18. Soundgarden
+19. Alice In Chains
+20. Stone Temple Pilots
+21. Bush
+22. Oasis
+23. The Strokes
+24. Vampire Weekend
+25. Arcade Fire
+26. The Black Keys
+27. Kings Of Leon
+28. Florence + The Machine
+29. Hozier
+30. Lorde
+31. Billie Eilish
+32. Lana Del Rey
+33. Adele
+34. Ed Sheeran
+35. Sam Smith
+36. Shawn Mendes
+37. Justin Bieber
+38. Ariana Grande
+39. Demi Lovato
+40. Selena Gomez
+41. Miley Cyrus
+42. One Direction
+43. Backstreet Boys
+44. *NSYNC
+45. Britney Spears
+46. Spice Girls
+47. Destiny's Child
+48. TLC
+49. Janet Jackson
+50. Madonna

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for this user would be:
+
+1. Radiohead
+2. Nick Drake
+3. Leonard Cohen
+4. PJ Harvey
+5. Bruce Springsteen
+6. R.E.M.
+7. Ani DiFranco
+8. Damien Rice
+9. Andrew Bird
+10. Feist
+11. Pulp
+12. Johann Sebastian Bach
+13. Jason Mraz
+14. Sarah McLachlan
+15. CAKE
+16. Madonna
+17. Nirvana
+18. Pink Floyd
+19. Muse
+20. The Beatles
+21. U2
+22. Soundtrack
+23. Coldplay
+24. Blur
+25. Arctic Monkeys
+26. Placebo
+27. The Killers
+28. Metallica
+29. Led Zeppelin
+30. Michael Jackson
+31. Amy Winehouse
+32. Nine Inch Nails
+33. Daft Punk
+34. System of a Down
+35. Linkin Park
+36. Kelly Clarkson
+37. Avenged Sevenfold
+38. Black Eyed Peas
+39. My Chemical Romance
+40. Green Day
+41. The Cure
+42. Taylor Swift
+43. Evanescence
+44. Ke$ha
+45. Lady Gaga
+46. Christina Aguilera
+47. Rihanna
+48. Shakira
+49. Katy Perry
+50. Paramore

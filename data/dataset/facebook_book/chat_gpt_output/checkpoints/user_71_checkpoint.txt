@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Eragon by Christopher Paolini
+2. Brisingr by Christopher Paolini
+3. Inheritance by Christopher Paolini
+4. The Alchemyst by Michael Scott
+5. The Magician by Michael Scott
+6. The Sorceress by Michael Scott
+7. The Necromancer by Michael Scott
+8. The Warlock by Michael Scott
+9. The Enchantress by Michael Scott
+10. The Lightning Thief by Rick Riordan
+11. The Sea of Monsters by Rick Riordan
+12. The Titan's Curse by Rick Riordan
+13. The Battle of the Labyrinth by Rick Riordan
+14. The Last Olympian by Rick Riordan
+15. The Lost Hero by Rick Riordan
+16. The Son of Neptune by Rick Riordan
+17. The Mark of Athena by Rick Riordan
+18. The House of Hades by Rick Riordan
+19. The Blood of Olympus by Rick Riordan
+20. The Hunger Games by Suzanne Collins
+21. Catching Fire by Suzanne Collins
+22. Mockingjay by Suzanne Collins
+23. Divergent by Veronica Roth
+24. Insurgent by Veronica Roth
+25. Allegiant by Veronica Roth
+26. The Maze Runner by James Dashner
+27. The Scorch Trials by James Dashner
+28. The Death Cure by James Dashner
+29. The Kill Order by James Dashner
+30. The Fever Code by James Dashner
+31. The Fault in Our Stars by John Green
+32. Looking for Alaska by John Green
+33. Paper Towns by John Green
+34. An Abundance of Katherines by John Green
+35. Will Grayson, Will Grayson by John Green and David Levithan
+36. The Perks of Being a Wallflower by Stephen Chbosky
+37. The Giver by Lois Lowry
+38. Gathering Blue by Lois Lowry
+39. Messenger by Lois Lowry
+40. Son by Lois Lowry
+41. The Book Thief by Markus Zusak
+42. I Am the Messenger by Markus Zusak
+43. The Chronicles of Narnia by C.S. Lewis
+44. The Lord of the Rings by J.R.R. Tolkien
+45. The Hobbit by J.R.R. Tolkien
+46. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+47. The Da Vinci Code by Dan Brown
+48. Angels and Demons by Dan Brown
+49. Inferno by Dan Brown
+50. Origin by Dan Brown

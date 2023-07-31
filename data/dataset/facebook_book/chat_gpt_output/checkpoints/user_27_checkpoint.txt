@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Angels and Demons by Dan Brown
+2. The Stand by Stephen King
+3. The Lord of the Rings by J.R.R. Tolkien
+4. Ender's Game by Orson Scott Card
+5. The Name of the Wind by Patrick Rothfuss
+6. The Hunger Games by Suzanne Collins
+7. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+8. The Chronicles of Narnia by C.S. Lewis
+9. The Dark Tower series by Stephen King
+10. The Wheel of Time series by Robert Jordan
+11. The Dresden Files series by Jim Butcher
+12. The Mistborn series by Brandon Sanderson
+13. The Kingkiller Chronicle series by Patrick Rothfuss
+14. The Belgariad series by David Eddings
+15. The Malazan Book of the Fallen series by Steven Erikson
+16. The Earthsea series by Ursula K. Le Guin
+17. The First Law trilogy by Joe Abercrombie
+18. The Riyria Revelations series by Michael J. Sullivan
+19. The Stormlight Archive series by Brandon Sanderson
+20. The Lightbringer series by Brent Weeks
+21. The Black Company series by Glen Cook
+22. The Farseer Trilogy by Robin Hobb
+23. The Liveship Traders Trilogy by Robin Hobb
+24. The Tawny Man Trilogy by Robin Hobb
+25. The Rain Wild Chronicles by Robin Hobb
+26. The Inheritance Trilogy by N.K. Jemisin
+27. The Broken Earth trilogy by N.K. Jemisin
+28. The Hyperion Cantos by Dan Simmons
+29. The Foundation series by Isaac Asimov
+30. Dune by Frank Herbert
+31. 1984 by George Orwell
+32. Brave New World by Aldous Huxley
+33. Fahrenheit 451 by Ray Bradbury
+34. The Handmaid's Tale by Margaret Atwood
+35. The Road by Cormac McCarthy
+36. The Martian by Andy Weir
+37. Ready Player One by Ernest Cline
+38. Snow Crash by Neal Stephenson
+39. Neuromancer by William Gibson
+40. Do Androids Dream of Electric Sheep? by Philip K. Dick
+41. The Hitchhiker's Guide to the Galaxy series by Douglas Adams
+42. The Discworld series by Terry Pratchett
+43. The Bartimaeus Trilogy by Jonathan Stroud
+44. The Abhorsen Trilogy by Garth Nix
+45. The Dark is Rising Sequence by Susan Cooper
+46. The Prydain Chronicles by Lloyd Alexander
+47. The Phantom Tollbooth by Norton Juster
+48. The Secret History by Donna Tartt
+49. The Picture of Dorian Gray by Oscar Wilde
+50. Crime and Punishment by

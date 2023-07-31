@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Silmarillion by J.R.R. Tolkien
+2. His Dark Materials by Philip Pullman
+3. The Great Gatsby by F. Scott Fitzgerald
+4. Frankenstein by Mary Shelley
+5. The Lord of the Flies by William Golding
+6. Brave New World by Aldous Huxley
+7. Animal Farm by George Orwell
+8. Nineteen Eighty-Four by George Orwell
+9. The Dante Club by Matthew Pearl
+10. The Bourne Ultimatum by Robert Ludlum
+11. The Giver by Lois Lowry
+12. Moby-Dick by Herman Melville
+13. The Watchmen by Alan Moore
+14. The Scarlet Letter by Nathaniel Hawthorne
+15. Life of Pi by Yann Martel
+16. Eragon by Christopher Paolini
+17. King Solomon's Mines by H. Rider Haggard
+18. Ivanhoe by Sir Walter Scott
+19. Bible by Various Authors
+20. The Thief of Always by Clive Barker
+21. The Notebook by Nicholas Sparks
+22. The Wonderful Wizard of Oz by L. Frank Baum
+23. The Mists of Avalon by Marion Zimmer Bradley
+24. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+25. Speaker for the Dead by Orson Scott Card
+26. The Beautiful Boy by Germaine Greer
+27. Night by Elie Wiesel
+28. Cry, the Beloved Country by Alan Paton
+29. Mountains Beyond Mountains by Tracy Kidder
+30. The End of Mr. Y by Scarlett Thomas
+31. A Clockwork Orange by Anthony Burgess
+32. The Cask of Amontillado by Edgar Allan Poe
+33. The Raven by Edgar Allan Poe
+34. The Importance of Being Earnest by Oscar Wilde
+35. The Fountainhead by Ayn Rand
+36. Strange Case of Dr Jekyll and Mr Hyde by Robert Louis Stevenson
+37. The Wish by Gail Carson Levine
+38. The Eyes of the Dragon by Stephen King
+39. Misery by Stephen King
+40. Hot Gimmick by Miki Aihara
+41. The Swiss Family Robinson by Johann David Wyss
+42. Journey to the Center of the Earth by Jules Verne
+43. Venus in Furs by Leopold von Sacher-Masoch
+44. The Vampire Lestat by Anne Rice
+45. Timequake by Kurt Vonnegut
+46. Nietzsche: Philosopher, Psychologist, Antichrist by Walter Kaufmann
+47. Magic Study by Maria V. Snyder
+48. Sun Bin's Art of War by Sun Bin
+49. Strange Angels by Lili St. Crow
+50. The Count of Monte Cristo by Alexandre Dumas and Auguste Maquet

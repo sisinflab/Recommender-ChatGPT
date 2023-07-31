@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Nineteen Eighty-Four
+2. The Picture of Dorian Gray
+3. Lolita
+4. Brave New World
+5. The Trial
+6. The Stranger (novel)
+7. Catch-22
+8. Blood Meridian
+9. Iliad
+10. Divine Comedy
+11. Leaves of Grass
+12. Wuthering Heights
+13. Jane Eyre
+14. A Farewell to Arms
+15. Memoirs of a Geisha
+16. Black Boy
+17. The Giver
+18. Thirteen Reasons Why
+19. Infinite Jest
+20. Gravity's Rainbow
+21. The Doors of Perception
+22. Dune (novel)
+23. Inferno (Dante)
+24. The Hamlet
+25. Hyperion Cantos
+26. Fahrenheit 451
+27. Man and His Symbols
+28. The Colour of Magic
+29. Speaker for the Dead
+30. Another Roadside Attraction
+31. On the Road
+32. The Prince
+33. As I Lay Dying (novel)
+34. Harry Potter
+35. Guns, Germs, and Steel
+36. His Dark Materials
+37. Xenocide
+38. Sunshine (novel)
+39. I Hope They Serve Beer in Hell
+40. For Whom the Bell Tolls
+41. The Zombie Survival Guide
+42. The Long Hard Road Out of Hell
+43. Pride and Prejudice and Zombies
+44. Ferdydurke
+45. Naked (book)
+46. Adventures of Huckleberry Finn
+47. Pyramids (novel)
+48. The Occult: A History
+49. Choke (novel)
+50. Life of Pi

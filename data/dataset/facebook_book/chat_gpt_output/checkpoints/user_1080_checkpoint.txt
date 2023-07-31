@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Glass (novel) by Ellen Hopkins
+2. Fallout (novel) by Ellen Hopkins
+3. Identical (novel) by Ellen Hopkins
+4. Perfect (novel) by Ellen Hopkins
+5. Tricks (novel) by Ellen Hopkins
+6. Burned (Hopkins novel) by Ellen Hopkins
+7. Impulse (novel) by Ellen Hopkins
+8. Tilt (novel) by Ellen Hopkins
+9. Smoke (novel) by Ellen Hopkins
+10. Go Ask Alice by Anonymous
+11. A Million Little Pieces by James Frey
+12. Scar Tissue by Anthony Kiedis
+13. The Perks of Being a Wallflower by Stephen Chbosky
+14. The Catcher in the Rye by J.D. Salinger
+15. The Bell Jar by Sylvia Plath
+16. The Fault in Our Stars by John Green
+17. Looking for Alaska by John Green
+18. Paper Towns by John Green
+19. Thirteen Reasons Why by Jay Asher
+20. Speak by Laurie Halse Anderson
+21. Wintergirls by Laurie Halse Anderson
+22. The Lovely Bones by Alice Sebold
+23. Room by Emma Donoghue
+24. The Hunger Games by Suzanne Collins
+25. Catching Fire by Suzanne Collins
+26. Mockingjay by Suzanne Collins
+27. Divergent by Veronica Roth
+28. Insurgent by Veronica Roth
+29. Allegiant by Veronica Roth
+30. The Maze Runner by James Dashner
+31. The Scorch Trials by James Dashner
+32. The Death Cure by James Dashner
+33. The Giver by Lois Lowry
+34. Gathering Blue by Lois Lowry
+35. Messenger by Lois Lowry
+36. Son by Lois Lowry
+37. The Outsiders by S.E. Hinton
+38. That Was Then, This Is Now by S.E. Hinton
+39. Rumble Fish by S.E. Hinton
+40. The Chocolate War by Robert Cormier
+41. I Am the Cheese by Robert Cormier
+42. After the First Death by Robert Cormier
+43. The Rag and Bone Shop by Robert Cormier
+44. Be More Chill by Ned Vizzini
+45. It's Kind of a Funny Story by Ned Vizzini
+46. The Absolutely True Diary of a Part-Time Indian by Sherman Alexie
+47. The House on Mango Street by Sandra Cisneros
+48. The Joy Luck Club by Amy Tan
+49. The Kite Runner by Khaled Hosseini
+50. A Thousand Splendid Suns by Khaled Hosseini

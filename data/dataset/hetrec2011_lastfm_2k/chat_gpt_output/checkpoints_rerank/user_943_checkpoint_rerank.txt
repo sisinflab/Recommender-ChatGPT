@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Beatles
+2. Pink Floyd
+3. Led Zeppelin
+4. David Bowie
+5. Radiohead
+6. Nirvana
+7. The Rolling Stones
+8. The White Stripes
+9. The Strokes
+10. Muse
+11. Arctic Monkeys
+12. The Killers
+13. Metallica
+14. Pearl Jam
+15. Nine Inch Nails
+16. Daft Punk
+17. Iron Maiden
+18. System of a Down
+19. Linkin Park
+20. Green Day
+21. My Chemical Romance
+22. Blink-182
+23. Red Hot Chili Peppers
+24. Gorillaz
+25. MGMT
+26. Motion City Soundtrack
+27. The Used
+28. The Flaming Lips
+29. Band of Horses
+30. Angels & Airwaves
+31. Imogen Heap
+32. Girl Talk
+33. The Postal Service
+34. Bob Dylan
+35. The Raconteurs
+36. Cat Power
+37. Audioslave
+38. Massive Attack
+39. Pixies
+40. Depeche Mode
+41. Madonna
+42. Lady Gaga
+43. Christina Aguilera
+44. Paramore
+45. Rihanna
+46. Shakira
+47. Avril Lavigne
+48. Taylor Swift
+49. Evanescence
+50. Beyoncé

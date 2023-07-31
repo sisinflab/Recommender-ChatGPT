@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Evanescence
+2. Nightwish
+3. Apocalyptica
+4. Dead Can Dance
+5. Loreena McKennitt
+6. Hans Zimmer
+7. James Horner
+8. Bryan Adams
+9. Bob Marley & The Wailers
+10. Amethystium
+11. Shpongle
+12. Green Day
+13. Iron Maiden
+14. Lacuna Coil
+15. Within Temptation
+16. Epica
+17. Kamelot
+18. Tarja
+19. Sonata Arctica
+20. Children of Bodom
+21. In Flames
+22. Breaking Benjamin
+23. Avantasia
+24. The Killers
+25. Simple Minds
+26. Florence + the Machine
+27. Robbie Williams
+28. Nine Inch Nails
+29. Johnny Cash
+30. Glee Cast
+31. Amy Winehouse
+32. The Police
+33. Alanis Morissette
+34. Pet Shop Boys
+35. Enigma
+36. Madonna
+37. Incubus
+38. Therion
+39. Dido
+40. Flyleaf
+41. U2
+42. AC/DC
+43. Aerosmith
+44. Scorpions
+45. Judas Priest
+46. Avril Lavigne
+47. Lady Gaga
+48. Opeth
+49. Howard Shore
+50. Michael Jackson

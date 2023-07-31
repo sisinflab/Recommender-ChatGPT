@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lost World (Crichton novel)
+2. Nineteen Eighty-Four
+3. Angels & Demons
+4. The God Delusion
+5. The Great Gatsby
+6. The Lord of the Rings
+7. Harry Potter
+8. The Chronicles of Prydain
+9. Les Misérables
+10. The Scarlet Letter
+11. The Phantom of the Opera
+12. The Count of Monte Cristo
+13. The Historian
+14. The Watchmen (novel)
+15. Inferno (Dante)
+16. Flowers for Algernon
+17. Slaughterhouse-Five
+18. The Southern Vampire Mysteries
+19. A Thousand Splendid Suns
+20. His Dark Materials
+21. The Last Song (novel)
+22. The Man Who Was Thursday
+23. I Am Legend (novel)
+24. The Messenger (Markus Zusak novel)
+25. North and South (trilogy)
+26. Pride and Prejudice
+27. The Outsiders (novel)
+28. City of Ashes
+29. Generation Dead
+30. The Chronicles of Narnia: Prince Caspian
+31. The Notebook (novel)
+32. Anne of Green Gables
+33. Cujo
+34. Dreamcatcher (novel)
+35. A Wrinkle in Time
+36. The Host (novel)
+37. Brother Odd
+38. The Perks of Being a Wallflower
+39. Anne of the Island
+40. The Runaway Jury
+41. Jurassic Park (novel)
+42. Twilight (series)
+43. Forever Odd
+44. Congo (novel)
+45. 2nd Chance (novel)
+46. Eragon
+47. 1st to Die
+48. The Door to December
+49. Eat This, Not That
+50. The Chosen (Potok novel)

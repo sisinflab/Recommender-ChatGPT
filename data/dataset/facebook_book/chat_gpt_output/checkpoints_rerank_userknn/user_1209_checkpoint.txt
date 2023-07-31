@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Fabric of the Cosmos by Brian Greene
+2. The Elegant Universe by Brian Greene
+3. The Universe in a Nutshell by Stephen Hawking
+4. A Brief History of Time by Stephen Hawking
+5. The God Delusion by Richard Dawkins
+6. Flowers for Algernon by Daniel Keyes
+7. The Selfish Gene by Richard Dawkins
+8. The Brain That Changes Itself by Norman Doidge
+9. The Fountainhead by Ayn Rand
+10. The Catcher in the Rye by J.D. Salinger
+11. Les Misérables by Victor Hugo
+12. Brave New World by Aldous Huxley
+13. The Scarlet Letter by Nathaniel Hawthorne
+14. Romeo and Juliet by William Shakespeare
+15. The Age of Reason by Jean-Paul Sartre
+16. The Wealth of Nations by Adam Smith
+17. The Gulag Archipelago by Aleksandr Solzhenitsyn
+18. Man's Search for Meaning by Viktor Frankl
+19. Surely You're Joking, Mr. Feynman! by Richard Feynman
+20. Me Talk Pretty One Day by David Sedaris
+21. The Death and Life of Great American Cities by Jane Jacobs
+22. On Food and Cooking by Harold McGee
+23. The Theory of Everything by Stephen Hawking
+24. The Antichrist by Friedrich Nietzsche
+25. The Spirit Catches You and You Fall Down by Anne Fadiman
+26. The Maltese Falcon by Dashiell Hammett
+27. Outliers by Malcolm Gladwell
+28. The World Without Us by Alan Weisman
+29. The Da Vinci Code by Dan Brown
+30. Angels & Demons by Dan Brown
+31. The Hobbit by J.R.R. Tolkien
+32. Crime and Punishment by Fyodor Dostoevsky
+33. The Wealth of Nations by Adam Smith
+34. Atlas Shrugged by Ayn Rand
+35. The Elegant Universe by Brian Greene
+36. The Fabric of the Cosmos by Brian Greene
+37. The Universe in a Nutshell by Stephen Hawking
+38. The God Delusion by Richard Dawkins
+39. The Selfish Gene by Richard Dawkins
+40. The Brain That Changes Itself by Norman Doidge
+41. The Fountainhead by Ayn Rand
+42. The Catcher in the Rye by J.D. Salinger
+43. Les Misérables by Victor Hugo
+44. Brave New World by Aldous Huxley
+45. The Scarlet Letter by Nathaniel Hawthorne
+46. Romeo and Juliet by William Shakespeare
+47. The Age of Reason by Jean-Paul Sartre
+48. The Wealth of Nations by Adam Smith
+49. The Gulag Archipelago by Aleks

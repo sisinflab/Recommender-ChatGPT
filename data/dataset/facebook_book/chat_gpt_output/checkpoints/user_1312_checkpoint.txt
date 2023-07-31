@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. Wuthering Heights by Emily Bronte
+3. The Count of Monte Cristo by Alexandre Dumas
+4. Rebecca by Daphne du Maurier
+5. The Hound of the Baskervilles by Arthur Conan Doyle
+6. The Picture of Dorian Gray by Oscar Wilde
+7. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+8. The Secret Garden by Frances Hodgson Burnett
+9. Little Women by Louisa May Alcott
+10. The Great Gatsby by F. Scott Fitzgerald
+11. To Kill a Mockingbird by Harper Lee
+12. The Catcher in the Rye by J.D. Salinger
+13. The Bell Jar by Sylvia Plath
+14. The Handmaid's Tale by Margaret Atwood
+15. The Hunger Games by Suzanne Collins
+16. 1984 by George Orwell
+17. Animal Farm by George Orwell
+18. Brave New World by Aldous Huxley
+19. Lord of the Flies by William Golding
+20. The Lord of the Rings by J.R.R. Tolkien
+21. The Hobbit by J.R.R. Tolkien
+22. The Chronicles of Narnia by C.S. Lewis
+23. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+24. The Da Vinci Code by Dan Brown
+25. Angels and Demons by Dan Brown
+26. The Girl with the Dragon Tattoo by Stieg Larsson
+27. The Help by Kathryn Stockett
+28. The Kite Runner by Khaled Hosseini
+29. A Thousand Splendid Suns by Khaled Hosseini
+30. The Alchemist by Paulo Coelho
+31. The Name of the Rose by Umberto Eco
+32. The Shadow of the Wind by Carlos Ruiz Zafon
+33. One Hundred Years of Solitude by Gabriel Garcia Marquez
+34. Love in the Time of Cholera by Gabriel Garcia Marquez
+35. The God of Small Things by Arundhati Roy
+36. Midnight's Children by Salman Rushdie
+37. The Satanic Verses by Salman Rushdie
+38. The Joy Luck Club by Amy Tan
+39. Memoirs of a Geisha by Arthur Golden
+40. The Color Purple by Alice Walker
+41. The Handmaid and the Carpenter by Elizabeth Berg
+42. The Poisonwood Bible by Barbara Kingsolver
+43. The Time Traveler's Wife by Audrey Niffenegger
+44. The Lovely Bones by Alice Sebold
+45. The Road by Cormac McCarthy
+46. The Book Thief by Markus Zusak
+47. Life of Pi by Yann Martel
+48. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+49. The Fault in Our Stars by
+50. Moby-Dick by Herman Melville

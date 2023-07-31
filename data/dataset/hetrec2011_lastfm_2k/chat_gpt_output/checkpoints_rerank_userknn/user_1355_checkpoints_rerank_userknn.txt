@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Beatles
+2. David Bowie
+3. Pink Floyd
+4. Neil Young
+5. Led Zeppelin
+6. Tom Waits
+7. Beck
+8. Björk
+9. Arcade Fire
+10. The Smiths
+11. Animal Collective
+12. Miles Davis
+13. Nine Inch Nails
+14. Feist
+15. Crystal Castles
+16. Bloc Party
+17. Death Cab for Cutie
+18. Air
+19. Four Tet
+20. Underworld
+21. The Album Leaf
+22. Tegan and Sara
+23. Ray LaMontagne
+24. Mumford & Sons
+25. Beirut
+26. The Cinematic Orchestra
+27. Flying Lotus
+28. Aphex Twin
+29. Boards of Canada
+30. Burial
+31. Imogen Heap
+32. Mew
+33. Yeasayer
+34. Copeland
+35. Jethro Tull
+36. Snow Patrol
+37. Juanes
+38. Sum 41
+39. Rancid
+40. The Black Keys
+41. The White Stripes
+42. The Killers
+43. Coldplay
+44. blink-182
+45. Green Day
+46. The Decemberists
+47. Spoon
+48. Kings of Convenience
+49. Iron & Wine
+50. Florence + the Machine

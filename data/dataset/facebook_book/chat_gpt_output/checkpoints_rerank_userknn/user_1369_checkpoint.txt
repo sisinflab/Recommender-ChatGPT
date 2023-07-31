@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Kite Runner by Khaled Hosseini
+2. A Thousand Splendid Suns by Khaled Hosseini
+3. The White Tiger by Aravind Adiga
+4. The God of Small Things by Arundhati Roy
+5. The Namesake by Jhumpa Lahiri
+6. The Da Vinci Code by Dan Brown
+7. Angels & Demons by Dan Brown
+8. Inferno by Dan Brown
+9. The Brothers Karamazov by Fyodor Dostoevsky
+10. Love in the Time of Cholera by Gabriel Garcia Marquez
+11. One Hundred Years of Solitude by Gabriel Garcia Marquez
+12. The Great Gatsby by F. Scott Fitzgerald
+13. To Kill a Mockingbird by Harper Lee
+14. Wuthering Heights by Emily Bronte
+15. Jane Eyre by Charlotte Bronte
+16. The Scarlet Letter by Nathaniel Hawthorne
+17. The Catcher in the Rye by J.D. Salinger
+18. The Bell Jar by Sylvia Plath
+19. The Picture of Dorian Gray by Oscar Wilde
+20. The Importance of Being Earnest by Oscar Wilde
+21. The Jungle Book by Rudyard Kipling
+22. Alice's Adventures in Wonderland by Lewis Carroll
+23. Where the Wild Things Are by Maurice Sendak
+24. Goosebumps by R.L. Stine
+25. Nancy Drew by Carolyn Keene
+26. The Tipping Point by Malcolm Gladwell
+27. Tuesdays with Morrie by Mitch Albom
+28. The Notebook by Nicholas Sparks
+29. The Lucky One by Nicholas Sparks
+30. PS, I Love You by Cecelia Ahern
+31. The Grapes of Wrath by John Steinbeck
+32. One Day in the Life of Ivan Denisovich by Aleksandr Solzhenitsyn
+33. The Demon-Haunted World by Carl Sagan
+34. The Portable Atheist by Christopher Hitchens
+35. Thus Spoke Zarathustra by Friedrich Nietzsche
+36. The Alchemist by Paulo Coelho
+37. Perfume by Patrick Suskind
+38. The Monk Who Sold His Ferrari by Robin Sharma
+39. The Satanic Verses by Salman Rushdie
+40. Midnight's Children by Salman Rushdie
+41. Pygmalion by George Bernard Shaw
+42. Sense and Sensibility by Jane Austen
+43. Pride and Prejudice by Jane Austen
+44. Atlas Shrugged by Ayn Rand
+45. Bhagavad Gita by Anonymous
+46. Quran by Anonymous
+47. The Hamlet by William Faulkner
+48. Kane and Abel by Jeffrey Archer
+49. Rage of Angels by Sidney Sheldon
+50. Vanity Fair by William Makepeace Thackeray

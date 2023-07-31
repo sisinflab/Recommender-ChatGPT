@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Hunger Games Trilogy by Suzanne Collins
+2. Divergent Trilogy by Veronica Roth
+3. The Maze Runner Trilogy by James Dashner
+4. The Giver Quartet by Lois Lowry
+5. The Mortal Instruments Series by Cassandra Clare
+6. The Infernal Devices Series by Cassandra Clare
+7. The Twilight Saga by Stephenie Meyer
+8. The Harry Potter Series by J.K. Rowling
+9. The Lord of the Rings Trilogy by J.R.R. Tolkien
+10. The Hobbit by J.R.R. Tolkien
+11. The Chronicles of Narnia by C.S. Lewis
+12. The Fault in Our Stars by John Green
+13. The Book Thief by Markus Zusak
+14. The Secret Life of Bees by Sue Monk Kidd
+15. The Help by Kathryn Stockett
+16. The Girl with the Dragon Tattoo by Stieg Larsson
+17. The Girl on the Train by Paula Hawkins
+18. The Da Vinci Code by Dan Brown
+19. Angels and Demons by Dan Brown
+20. The Catcher in the Rye by J.D. Salinger
+21. To Kill a Mockingbird by Harper Lee
+22. The Great Gatsby by F. Scott Fitzgerald
+23. 1984 by George Orwell
+24. Animal Farm by George Orwell
+25. Brave New World by Aldous Huxley
+26. A Tale of Two Cities by Charles Dickens
+27. Jane Eyre by Charlotte Bronte
+28. Wuthering Heights by Emily Bronte
+29. Pride and Prejudice by Jane Austen
+30. Sense and Sensibility by Jane Austen
+31. Emma by Jane Austen
+32. Northanger Abbey by Jane Austen
+33. Persuasion by Jane Austen
+34. Anne of Green Gables by L.M. Montgomery
+35. Little Women by Louisa May Alcott
+36. The Secret Garden by Frances Hodgson Burnett
+37. Alice's Adventures in Wonderland by Lewis Carroll
+38. Through the Looking Glass by Lewis Carroll
+39. The Little Prince by Antoine de Saint-Exupéry
+40. The Alchemist by Paulo Coelho
+41. The Kite Runner by Khaled Hosseini
+42. A Thousand Splendid Suns by Khaled Hosseini
+43. Memoirs of a Geisha by Arthur Golden
+44. The Joy Luck Club by Amy Tan
+45. The Color Purple by Alice Walker
+46. The Handmaid's Tale by Margaret Atwood
+47. The Hunger Artist by Franz Kafka
+48. The Metamorphosis by Franz Kafka
+49. The Picture of Dorian Gray by Oscar Wilde
+50. Dracula by Bram Stoker

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Breaking Benjamin
+2. Three Days Grace
+3. Red
+4. Staind
+5. Nickelback
+6. Hoobastank
+7. Fightstar
+8. Trapt
+9. Foo Fighters
+10. The Red Jumpsuit Apparatus
+11. Lifehouse
+12. The Fray
+13. Paramore
+14. Evanescence
+15. Muse
+16. 30 Seconds to Mars
+17. Linkin Park
+18. The Killers
+19. My Chemical Romance
+20. Green Day
+21. Nirvana
+22. Pearl Jam
+23. Iron Maiden
+24. Metallica
+25. Led Zeppelin
+26. Michael Jackson
+27. Pink Floyd
+28. U2
+29. Coldplay
+30. Radiohead
+31. Duran Duran
+32. Arctic Monkeys
+33. Placebo
+34. Blur
+35. The Beatles
+36. Madonna
+37. Lady Gaga
+38. Christina Aguilera
+39. Beyoncé
+40. Rihanna
+41. Shakira
+42. Katy Perry
+43. Avril Lavigne
+44. Taylor Swift
+45. Glee Cast
+46. Ke$ha
+47. Daft Punk
+48. Nine Inch Nails
+49. Amy Winehouse
+50. Björk

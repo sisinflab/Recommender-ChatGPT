@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Notebook by Nicholas Sparks
+2. A Walk to Remember by Nicholas Sparks
+3. The Last Song by Nicholas Sparks
+4. The Lucky One by Nicholas Sparks
+5. Message in a Bottle by Nicholas Sparks
+6. The Rescue by Nicholas Sparks
+7. Nights in Rodanthe by Nicholas Sparks
+8. The Wedding by Nicholas Sparks
+9. The Choice by Nicholas Sparks
+10. The Best of Me by Nicholas Sparks
+11. The Longest Ride by Nicholas Sparks
+12. The Swiss Family Robinson by Johann David Wyss
+13. Robinson Crusoe by Daniel Defoe
+14. Treasure Island by Robert Louis Stevenson
+15. The Adventures of Tom Sawyer by Mark Twain
+16. The Adventures of Huckleberry Finn by Mark Twain
+17. Harry Potter and the Philosopher's Stone by J.K. Rowling
+18. Harry Potter and the Chamber of Secrets by J.K. Rowling
+19. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+20. Harry Potter and the Goblet of Fire by J.K. Rowling
+21. Harry Potter and the Order of Phoenix by J.K. Rowling
+22. Harry Potter and the Half-Blood Prince by J.K. Rowling
+23. Harry Potter and the Deathly Hallows by J.K. Rowling
+24. Pride and Prejudice by Jane Austen
+25. Persuasion by Jane Austen
+26. Mansfield Park by Jane Austen
+27. Northanger Abbey by Jane Austen
+28. Wuthering Heights by Emily Bronte
+29. Jane Eyre by Charlotte Bronte
+30. Little Women by Louisa May Alcott
+31. Anne of Green Gables by Lucy Maud Montgomery
+32. Anne of Avonlea by Lucy Maud Montgomery
+33. Anne of the Island by Lucy Maud Montgomery
+34. Anne of Windy Poplars by Lucy Maud Montgomery
+35. Anne's House of Dreams by Lucy Maud Montgomery
+36. Strange Case of Dr Jekyll and Mr Hyde by Robert Louis Stevenson
+37. The Picture of Dorian Gray by Oscar Wilde
+38. The Count of Monte Cristo by Alexandre Dumas
+39. Les Miserables by Victor Hugo
+40. The Bible
+41. The Quran
+42. The Bhagavad Gita
+43. Cheaper by the Dozen by Frank B. Gilbreth Jr. and Ernestine Gilbreth Carey
+44. Beloved by Toni Morrison
+45. To Kill a Mockingbird by Harper Lee
+46. The Catcher in the Rye by J.D. Salinger
+47. 1984 by George Orwell
+48. Animal Farm by George Orwell
+49. The Great Gatsby by F. Scott Fitzgerald
+50. The Lord of the Rings by J.R.R. Tolkien

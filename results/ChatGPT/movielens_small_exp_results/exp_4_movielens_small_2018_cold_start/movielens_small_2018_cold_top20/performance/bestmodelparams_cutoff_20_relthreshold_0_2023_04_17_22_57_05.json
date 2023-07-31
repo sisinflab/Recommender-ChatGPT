@@ -1,0 +1,133 @@
+[
+    {
+        "default_validation_metric": "nDCG",
+        "default_validation_cutoff": 20,
+        "rel_threshold": 0
+    },
+    {
+        "meta": {},
+        "recommender": "ItemKNN_nn=40_sim=cosine_imp=standard_bin=False_shrink=0_norm=True_asymalpha=_tvalpha=_tvbeta=_rweights=",
+        "configuration": {
+            "folder": "../results/movielens_small_exp_results/exp_4_movielens_small_2018_cold_start/best_models/best_models_top_20",
+            "path": "../results/movielens_small_exp_results/exp_4_movielens_small_2018_cold_start/best_models/best_models_top_20/ItemKNN_nn=40_sim=cosine_imp=standard_bin=False_shrink=0_norm=True_asymalpha=_tvalpha=_tvbeta=_rweights=.tsv",
+            "name": "ItemKNN_nn=40_sim=cosine_imp=standard_bin=False_shrink=0_norm=True_asymalpha=_tvalpha=_tvbeta=_rweights="
+        }
+    },
+    {
+        "meta": {},
+        "recommender": "output_exp_1_rec_movie_copy",
+        "configuration": {
+            "folder": "../results/movielens_small_exp_results/exp_4_movielens_small_2018_cold_start/best_models/best_models_top_20",
+            "path": "../results/movielens_small_exp_results/exp_4_movielens_small_2018_cold_start/best_models/best_models_top_20/output_exp_1_rec_movie_copy.tsv",
+            "name": "output_exp_1_rec_movie_copy"
+        }
+    },
+    {
+        "meta": {},
+        "recommender": "output_exp_2_rec_movie_no_rerank_mostpop",
+        "configuration": {
+            "folder": "../results/movielens_small_exp_results/exp_4_movielens_small_2018_cold_start/best_models/best_models_top_20",
+            "path": "../results/movielens_small_exp_results/exp_4_movielens_small_2018_cold_start/best_models/best_models_top_20/output_exp_2_rec_movie_no_rerank_mostpop.tsv",
+            "name": "output_exp_2_rec_movie_no_rerank_mostpop"
+        }
+    },
+    {
+        "meta": {},
+        "recommender": "output_exp_3_rec_movie_no_rerank_userknn",
+        "configuration": {
+            "folder": "../results/movielens_small_exp_results/exp_4_movielens_small_2018_cold_start/best_models/best_models_top_20",
+            "path": "../results/movielens_small_exp_results/exp_4_movielens_small_2018_cold_start/best_models/best_models_top_20/output_exp_3_rec_movie_no_rerank_userknn.tsv",
+            "name": "output_exp_3_rec_movie_no_rerank_userknn"
+        }
+    },
+    {
+        "meta": {},
+        "recommender": "EASER_neighborhood=1861_l2_norm=18374136$168271586",
+        "configuration": {
+            "folder": "../results/movielens_small_exp_results/exp_4_movielens_small_2018_cold_start/best_models/best_models_top_20",
+            "path": "../results/movielens_small_exp_results/exp_4_movielens_small_2018_cold_start/best_models/best_models_top_20/EASER_neighborhood=1861_l2_norm=18374136$168271586.tsv",
+            "name": "EASER_neighborhood=1861_l2_norm=18374136$168271586"
+        }
+    },
+    {
+        "meta": {},
+        "recommender": "AttributeUserKNN_nn=40_sim=correlation_profile=binary_bin=False_load=ItemAttributes",
+        "configuration": {
+            "folder": "../results/movielens_small_exp_results/exp_4_movielens_small_2018_cold_start/best_models/best_models_top_20",
+            "path": "../results/movielens_small_exp_results/exp_4_movielens_small_2018_cold_start/best_models/best_models_top_20/AttributeUserKNN_nn=40_sim=correlation_profile=binary_bin=False_load=ItemAttributes.tsv",
+            "name": "AttributeUserKNN_nn=40_sim=correlation_profile=binary_bin=False_load=ItemAttributes"
+        }
+    },
+    {
+        "meta": {},
+        "recommender": "UserKNN_nn=80_sim=correlation_imp=standard_bin=False_shrink=0_norm=True_asymalpha=_tvalpha=_tvbeta=_rweights=",
+        "configuration": {
+            "folder": "../results/movielens_small_exp_results/exp_4_movielens_small_2018_cold_start/best_models/best_models_top_20",
+            "path": "../results/movielens_small_exp_results/exp_4_movielens_small_2018_cold_start/best_models/best_models_top_20/UserKNN_nn=80_sim=correlation_imp=standard_bin=False_shrink=0_norm=True_asymalpha=_tvalpha=_tvbeta=_rweights=.tsv",
+            "name": "UserKNN_nn=80_sim=correlation_imp=standard_bin=False_shrink=0_norm=True_asymalpha=_tvalpha=_tvbeta=_rweights="
+        }
+    },
+    {
+        "meta": {},
+        "recommender": "AttributeItemKNN_nn=20_sim=correlation_bin=False_load=ItemAttributes",
+        "configuration": {
+            "folder": "../results/movielens_small_exp_results/exp_4_movielens_small_2018_cold_start/best_models/best_models_top_20",
+            "path": "../results/movielens_small_exp_results/exp_4_movielens_small_2018_cold_start/best_models/best_models_top_20/AttributeItemKNN_nn=20_sim=correlation_bin=False_load=ItemAttributes.tsv",
+            "name": "AttributeItemKNN_nn=20_sim=correlation_bin=False_load=ItemAttributes"
+        }
+    },
+    {
+        "meta": {},
+        "recommender": "VSM_sim=cosine_up=tfidf_ip=binary_load=ItemAttributes",
+        "configuration": {
+            "folder": "../results/movielens_small_exp_results/exp_4_movielens_small_2018_cold_start/best_models/best_models_top_20",
+            "path": "../results/movielens_small_exp_results/exp_4_movielens_small_2018_cold_start/best_models/best_models_top_20/VSM_sim=cosine_up=tfidf_ip=binary_load=ItemAttributes.tsv",
+            "name": "VSM_sim=cosine_up=tfidf_ip=binary_load=ItemAttributes"
+        }
+    },
+    {
+        "meta": {},
+        "recommender": "Random_seed=42",
+        "configuration": {
+            "folder": "../results/movielens_small_exp_results/exp_4_movielens_small_2018_cold_start/best_models/best_models_top_20",
+            "path": "../results/movielens_small_exp_results/exp_4_movielens_small_2018_cold_start/best_models/best_models_top_20/Random_seed=42.tsv",
+            "name": "Random_seed=42"
+        }
+    },
+    {
+        "meta": {},
+        "recommender": "output_exp_3_rec_movie_rerank_userknn_copy",
+        "configuration": {
+            "folder": "../results/movielens_small_exp_results/exp_4_movielens_small_2018_cold_start/best_models/best_models_top_20",
+            "path": "../results/movielens_small_exp_results/exp_4_movielens_small_2018_cold_start/best_models/best_models_top_20/output_exp_3_rec_movie_rerank_userknn_copy.tsv",
+            "name": "output_exp_3_rec_movie_rerank_userknn_copy"
+        }
+    },
+    {
+        "meta": {},
+        "recommender": "output_exp_2_rec_movie_rerank_most_pop_copy",
+        "configuration": {
+            "folder": "../results/movielens_small_exp_results/exp_4_movielens_small_2018_cold_start/best_models/best_models_top_20",
+            "path": "../results/movielens_small_exp_results/exp_4_movielens_small_2018_cold_start/best_models/best_models_top_20/output_exp_2_rec_movie_rerank_most_pop_copy.tsv",
+            "name": "output_exp_2_rec_movie_rerank_most_pop_copy"
+        }
+    },
+    {
+        "meta": {},
+        "recommender": "RP3beta_neighborhood=507_alpha=1$0180281935718316_beta=0$41875971052261285_normalize_similarity=True",
+        "configuration": {
+            "folder": "../results/movielens_small_exp_results/exp_4_movielens_small_2018_cold_start/best_models/best_models_top_20",
+            "path": "../results/movielens_small_exp_results/exp_4_movielens_small_2018_cold_start/best_models/best_models_top_20/RP3beta_neighborhood=507_alpha=1$0180281935718316_beta=0$41875971052261285_normalize_similarity=True.tsv",
+            "name": "RP3beta_neighborhood=507_alpha=1$0180281935718316_beta=0$41875971052261285_normalize_similarity=True"
+        }
+    },
+    {
+        "meta": {},
+        "recommender": "MostPop",
+        "configuration": {
+            "folder": "../results/movielens_small_exp_results/exp_4_movielens_small_2018_cold_start/best_models/best_models_top_20",
+            "path": "../results/movielens_small_exp_results/exp_4_movielens_small_2018_cold_start/best_models/best_models_top_20/MostPop.tsv",
+            "name": "MostPop"
+        }
+    }
+]

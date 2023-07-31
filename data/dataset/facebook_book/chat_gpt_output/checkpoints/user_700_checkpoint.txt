@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Maze Runner by James Dashner
+4. The Fault in Our Stars by John Green
+5. The Giver by Lois Lowry
+6. Ender's Game by Orson Scott Card
+7. The Selection by Kiera Cass
+8. Legend by Marie Lu
+9. The Mortal Instruments by Cassandra Clare
+10. The Chronicles of Narnia by C.S. Lewis
+11. Percy Jackson and the Olympians by Rick Riordan
+12. The Lord of the Rings by J.R.R. Tolkien
+13. The Hobbit by J.R.R. Tolkien
+14. The Girl with the Dragon Tattoo by Stieg Larsson
+15. The Da Vinci Code by Dan Brown
+16. The Catcher in the Rye by J.D. Salinger
+17. To Kill a Mockingbird by Harper Lee
+18. 1984 by George Orwell
+19. Animal Farm by George Orwell
+20. Brave New World by Aldous Huxley
+21. Fahrenheit 451 by Ray Bradbury
+22. The Handmaid's Tale by Margaret Atwood
+23. The Road by Cormac McCarthy
+24. The Stand by Stephen King
+25. The Shining by Stephen King
+26. It by Stephen King
+27. The Dark Tower by Stephen King
+28. The Name of the Wind by Patrick Rothfuss
+29. The Wise Man's Fear by Patrick Rothfuss
+30. The Kingkiller Chronicle by Patrick Rothfuss
+31. The Wheel of Time by Robert Jordan
+32. A Song of Ice and Fire by George R.R. Martin
+33. The Hunger Games Trilogy Boxset by Suzanne Collins
+34. The Maze Runner Series Boxset by James Dashner
+35. The Mortal Instruments Boxset by Cassandra Clare
+36. The Lord of the Rings Boxset by J.R.R. Tolkien
+37. The Hobbit and The Lord of the Rings Boxset by J.R.R. Tolkien
+38. The Girl with the Dragon Tattoo Trilogy Boxset by Stieg Larsson
+39. The Da Vinci Code and Angels & Demons Boxset by Dan Brown
+40. The Catcher in the Rye and To Kill a Mockingbird Boxset
+41. 1984 and Animal Farm Boxset by George Orwell
+42. Brave New World and Fahrenheit 451 Boxset
+43. The Handmaid's Tale and The Road Boxset
+44. The Stand and The Shining Boxset by Stephen King
+45. The Name of the Wind and The Wise Man's Fear Boxset by Patrick Rothfuss
+46. The Wheel of Time Boxset by Robert Jordan
+47. A Song of Ice and Fire Boxset by George R.R. Martin
+48. The Hunger Games and D

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. To Kill a Mockingbird by Harper Lee
+3. The Fault in Our Stars by John Green
+4. The Girl on the Train by Paula Hawkins
+5. The Help by Kathryn Stockett
+6. The Catcher in the Rye by J.D. Salinger
+7. The Great Gatsby by F. Scott Fitzgerald
+8. 1984 by George Orwell
+9. Animal Farm by George Orwell
+10. The Hobbit by J.R.R. Tolkien
+11. The Lord of the Rings by J.R.R. Tolkien
+12. Harry Potter series by J.K. Rowling
+13. The Chronicles of Narnia by C.S. Lewis
+14. The Da Vinci Code by Dan Brown
+15. Angels and Demons by Dan Brown
+16. The Alchemist by Paulo Coelho
+17. The Kite Runner by Khaled Hosseini
+18. A Thousand Splendid Suns by Khaled Hosseini
+19. The Book Thief by Markus Zusak
+20. The Secret Life of Bees by Sue Monk Kidd
+21. The Lovely Bones by Alice Sebold
+22. The Time Traveler's Wife by Audrey Niffenegger
+23. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+24. The Perks of Being a Wallflower by Stephen Chbosky
+25. The Maze Runner by James Dashner
+26. Divergent by Veronica Roth
+27. The Giver by Lois Lowry
+28. The Outsiders by S.E. Hinton
+29. The Fault in Our Stars by John Green
+30. Looking for Alaska by John Green
+31. Paper Towns by John Green
+32. The Selection by Kiera Cass
+33. The Mortal Instruments series by Cassandra Clare
+34. The Infernal Devices series by Cassandra Clare
+35. The Maze Runner series by James Dashner
+36. The Hunger Games series by Suzanne Collins
+37. The Twilight series by Stephenie Meyer
+38. The Host by Stephenie Meyer
+39. The Notebook by Nicholas Sparks
+40. A Walk to Remember by Nicholas Sparks
+41. Safe Haven by Nicholas Sparks
+42. The Lucky One by Nicholas Sparks
+43. The Last Song by Nicholas Sparks
+44. Water for Elephants by Sara Gruen
+45. The Call of the Wild by Jack London
+46. Little Women by Louisa May Alcott
+47. The BFG by Roald Dahl
+48. Charlie and the Chocolate Factory by Roald Dahl
+49. James and the Giant Peach by Roald Dahl
+50. Matilda by Roald Dahl

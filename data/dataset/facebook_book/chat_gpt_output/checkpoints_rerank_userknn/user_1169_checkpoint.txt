@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter by J.K. Rowling
+2. The Hobbit by J.R.R. Tolkien
+3. The Lord of the Rings by J.R.R. Tolkien
+4. Alice's Adventures in Wonderland by Lewis Carroll
+5. The Little Prince by Antoine de Saint-Exupéry
+6. The Kite Runner by Khaled Hosseini
+7. To Kill a Mockingbird by Harper Lee
+8. Wuthering Heights by Emily Bronte
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Old Man and the Sea by Ernest Hemingway
+11. The Scarlet Letter by Nathaniel Hawthorne
+12. Romeo and Juliet by William Shakespeare
+13. The Taming of the Shrew by William Shakespeare
+14. The Prince by Niccolo Machiavelli
+15. The Solitaire Mystery by Jostein Gaarder
+16. The Screwtape Letters by C.S. Lewis
+17. The Adventures of Tom Sawyer by Mark Twain
+18. The Swiss Family Robinson by Johann David Wyss
+19. The Dark Tower: The Gunslinger by Stephen King
+20. The Rules of Attraction by Bret Easton Ellis
+21. The Shack by William P. Young
+22. Mansfield Park by Jane Austen
+23. Pride and Prejudice and Zombies by Seth Grahame-Smith
+24. Sophie's World by Jostein Gaarder
+25. Franny and Zooey by J.D. Salinger
+26. I, Claudius by Robert Graves
+27. The Godfather by Mario Puzo
+28. Murder on the Orient Express by Agatha Christie
+29. The Prodigal Daughter by Jeffrey Archer
+30. The Hollow Kingdom Trilogy by Clare B. Dunkle
+31. The Tao of Pooh by Benjamin Hoff
+32. The 19th Wife by David Ebershoff
+33. The Hamlet by William Faulkner
+34. The Screwtape Letters by C.S. Lewis
+35. The Prince by Niccolo Machiavelli
+36. The Solitaire Mystery by Jostein Gaarder
+37. The Adventures of Tom Sawyer by Mark Twain
+38. The Swiss Family Robinson by Johann David Wyss
+39. The Dark Tower: The Gunslinger by Stephen King
+40. The Rules of Attraction by Bret Easton Ellis
+41. The Shack by William P. Young
+42. Mansfield Park by Jane Austen
+43. Pride and Prejudice and Zombies by Seth Grahame-Smith
+44. Sophie's World by Jostein Gaarder
+45. Franny and Zooey by J.D. Salinger
+46. I, Claudius by Robert Graves
+47. The Godfather by Mario Puzo
+48. Murder on the Orient Express by Agatha

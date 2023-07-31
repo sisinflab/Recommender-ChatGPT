@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for user 1857 would be:
+
+1. Foo Fighters
+2. Radiohead
+3. Rise Against
+4. Thrice
+5. Fugazi
+6. Circa Survive
+7. Bad Religion
+8. The Gaslight Anthem
+9. Minus the Bear
+10. Against Me!
+11. Weezer
+12. Brand New
+13. Motion City Soundtrack
+14. Alkaline Trio
+15. Say Anything
+16. NOFX
+17. Muse
+18. Pearl Jam
+19. Nirvana
+20. Iron Maiden
+21. Metallica
+22. Led Zeppelin
+23. Pink Floyd
+24. The Beatles
+25. U2
+26. 30 Seconds to Mars
+27. Arctic Monkeys
+28. Placebo
+29. The Killers
+30. Green Day
+31. My Chemical Romance
+32. Avenged Sevenfold
+33. Linkin Park
+34. Nine Inch Nails
+35. System of a Down
+36. Daft Punk
+37. Blur
+38. Coldplay
+39. Evanescence
+40. Katy Perry
+41. Lady Gaga
+42. Paramore
+43. Rihanna
+44. Beyoncé
+45. P!nk
+46. Kelly Clarkson
+47. Christina Aguilera
+48. Madonna
+49. Shakira
+50. Ke$ha

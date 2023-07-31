@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Inferno by Dan Brown
+2. The Lost Symbol by Dan Brown
+3. Origin by Dan Brown
+4. The Girl with the Dragon Tattoo by Stieg Larsson
+5. The Girl Who Played with Fire by Stieg Larsson
+6. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+7. Romeo and Juliet by William Shakespeare
+8. Hamlet by William Shakespeare
+9. Othello by William Shakespeare
+10. Jane Eyre by Charlotte Bronte
+11. Pride and Prejudice by Jane Austen
+12. Sense and Sensibility by Jane Austen
+13. Emma by Jane Austen
+14. Mansfield Park by Jane Austen
+15. Northanger Abbey by Jane Austen
+16. The Great Gatsby by F. Scott Fitzgerald
+17. To Kill a Mockingbird by Harper Lee
+18. The Catcher in the Rye by J.D. Salinger
+19. 1984 by George Orwell
+20. Animal Farm by George Orwell
+21. Brave New World by Aldous Huxley
+22. Lord of the Flies by William Golding
+23. The Hobbit by J.R.R. Tolkien
+24. The Lord of the Rings by J.R.R. Tolkien
+25. The Chronicles of Narnia by C.S. Lewis
+26. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+27. The Hunger Games by Suzanne Collins
+28. Catching Fire by Suzanne Collins
+29. Mockingjay by Suzanne Collins
+30. Dune by Frank Herbert
+31. The Foundation Trilogy by Isaac Asimov
+32. Ender's Game by Orson Scott Card
+33. The Martian by Andy Weir
+34. Ready Player One by Ernest Cline
+35. The Name of the Wind by Patrick Rothfuss
+36. The Wise Man's Fear by Patrick Rothfuss
+37. The Lies of Locke Lamora by Scott Lynch
+38. Mistborn by Brandon Sanderson
+39. The Way of Kings by Brandon Sanderson
+40. American Gods by Neil Gaiman
+41. Neverwhere by Neil Gaiman
+42. Good Omens by Neil Gaiman and Terry Pratchett
+43. The Dresden Files by Jim Butcher
+44. The Belgariad by David Eddings
+45. The Malazan Book of the Fallen by Steven Erikson
+46. The Wheel of Time by Robert Jordan
+47. A Song of Ice and Fire by George R.R. Martin
+48. The Kingkiller Chronicle by Patrick Rothfuss
+49. The Stormlight Archive by Brandon Sanderson
+50. The First Law Trilogy by Joe Abercrombie

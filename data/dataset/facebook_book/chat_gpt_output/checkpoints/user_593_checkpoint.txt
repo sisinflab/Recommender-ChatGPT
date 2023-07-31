@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Kite Runner by Khaled Hosseini
+2. To Kill a Mockingbird by Harper Lee
+3. Pride and Prejudice by Jane Austen
+4. The Great Gatsby by F. Scott Fitzgerald
+5. 1984 by George Orwell
+6. The Catcher in the Rye by J.D. Salinger
+7. The Lord of the Rings by J.R.R. Tolkien
+8. The Hobbit by J.R.R. Tolkien
+9. The Hunger Games by Suzanne Collins
+10. The Girl with the Dragon Tattoo by Stieg Larsson
+11. The Da Vinci Code by Dan Brown
+12. The Help by Kathryn Stockett
+13. The Secret Life of Bees by Sue Monk Kidd
+14. The Color Purple by Alice Walker
+15. The Alchemist by Paulo Coelho
+16. The Picture of Dorian Gray by Oscar Wilde
+17. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+18. The Adventures of Tom Sawyer by Mark Twain
+19. The Count of Monte Cristo by Alexandre Dumas
+20. The Three Musketeers by Alexandre Dumas
+21. The Time Traveler's Wife by Audrey Niffenegger
+22. The Lovely Bones by Alice Sebold
+23. The Book Thief by Markus Zusak
+24. The Fault in Our Stars by John Green
+25. The Maze Runner by James Dashner
+26. The Chronicles of Narnia by C.S. Lewis
+27. The Giver by Lois Lowry
+28. The Outsiders by S.E. Hinton
+29. The Perks of Being a Wallflower by Stephen Chbosky
+30. The Road by Cormac McCarthy
+31. The Stand by Stephen King
+32. The Shining by Stephen King
+33. The Silence of the Lambs by Thomas Harris
+34. The Bourne Identity by Robert Ludlum
+35. The Firm by John Grisham
+36. The Pelican Brief by John Grisham
+37. The Godfather by Mario Puzo
+38. The Catch-22 by Joseph Heller
+39. The Bell Jar by Sylvia Plath
+40. The Picture of Dorian Gray by Oscar Wilde
+41. The Sun Also Rises by Ernest Hemingway
+42. The Old Man and the Sea by Ernest Hemingway
+43. The Grapes of Wrath by John Steinbeck
+44. The Sound and the Fury by William Faulkner
+45. The Catcher in the Rye by J.D. Salinger
+46. The Adventures of Huckleberry Finn by Mark Twain
+47. The Scarlet Letter by Nathaniel Hawthorne
+48. The Iliad by Homer
+49. The Odyssey by Homer
+50. The Divine Comedy by Dante Alighieri

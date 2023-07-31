@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Fullmetal Alchemist by Hiromu Arakawa
+2. Attack on Titan by Hajime Isayama
+3. Death Note by Tsugumi Ohba and Takeshi Obata
+4. Naruto by Masashi Kishimoto
+5. One Piece by Eiichiro Oda
+6. Bleach by Tite Kubo
+7. Black Butler by Yana Toboso
+8. The Chronicles of Narnia by C.S. Lewis
+9. The Hobbit by J.R.R. Tolkien
+10. The Silmarillion by J.R.R. Tolkien
+11. The Catcher in the Rye by J.D. Salinger
+12. 1984 by George Orwell
+13. Animal Farm by George Orwell
+14. Brave New World by Aldous Huxley
+15. Fahrenheit 451 by Ray Bradbury
+16. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+17. The Hunger Games by Suzanne Collins
+18. The Maze Runner by James Dashner
+19. The Giver by Lois Lowry
+20. Ender's Game by Orson Scott Card
+21. The Alchemist by Paulo Coelho
+22. Siddhartha by Hermann Hesse
+23. Crime and Punishment by Fyodor Dostoevsky
+24. The Brothers Karamazov by Fyodor Dostoevsky
+25. War and Peace by Leo Tolstoy
+26. Anna Karenina by Leo Tolstoy
+27. The Picture of Dorian Gray by Oscar Wilde
+28. Dracula by Bram Stoker
+29. Frankenstein by Mary Shelley
+30. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+31. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+32. The Count of Monte Cristo by Alexandre Dumas
+33. Les Misérables by Victor Hugo
+34. The Three Musketeers by Alexandre Dumas
+35. The Phantom of the Opera by Gaston Leroux
+36. The Name of the Wind by Patrick Rothfuss
+37. The Way of Kings by Brandon Sanderson
+38. Mistborn by Brandon Sanderson
+39. The Lies of Locke Lamora by Scott Lynch
+40. The Kingkiller Chronicle by Patrick Rothfuss
+41. The Stormlight Archive by Brandon Sanderson
+42. The First Law Trilogy by Joe Abercrombie
+43. The Blade Itself by Joe Abercrombie
+44. The Lies of Locke Lamora by Scott Lynch
+45. The Wheel of Time by Robert Jordan
+46. The Malazan Book of the Fallen by Steven Erikson
+47. The Black Company by Glen Cook
+48. The Dark Tower by Stephen King
+49. The Dresden Files by Jim Butcher
+50. The Name of the

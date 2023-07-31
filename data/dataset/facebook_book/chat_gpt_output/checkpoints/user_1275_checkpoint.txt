@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. Sense and Sensibility by Jane Austen
+3. Northanger Abbey by Jane Austen
+4. Mansfield Park by Jane Austen
+5. Jane Eyre by Charlotte Bronte
+6. Wuthering Heights by Emily Bronte
+7. The Great Gatsby by F. Scott Fitzgerald
+8. To Kill a Mockingbird by Harper Lee
+9. 1984 by George Orwell
+10. Animal Farm by George Orwell
+11. The Catcher in the Rye by J.D. Salinger
+12. The Hobbit by J.R.R. Tolkien
+13. The Lord of the Rings by J.R.R. Tolkien
+14. The Chronicles of Narnia by C.S. Lewis
+15. The Hunger Games Trilogy by Suzanne Collins
+16. Divergent Trilogy by Veronica Roth
+17. The Maze Runner Trilogy by James Dashner
+18. The Giver Quartet by Lois Lowry
+19. The Fault in Our Stars by John Green
+20. Looking for Alaska by John Green
+21. Paper Towns by John Green
+22. The Book Thief by Markus Zusak
+23. The Girl with the Dragon Tattoo by Stieg Larsson
+24. The Da Vinci Code by Dan Brown
+25. Angels and Demons by Dan Brown
+26. The Bourne Identity by Robert Ludlum
+27. The Bourne Supremacy by Robert Ludlum
+28. The Bourne Ultimatum by Robert Ludlum
+29. The Girl on the Train by Paula Hawkins
+30. Gone Girl by Gillian Flynn
+31. The Silence of the Lambs by Thomas Harris
+32. Red Dragon by Thomas Harris
+33. Hannibal by Thomas Harris
+34. The Shining by Stephen King
+35. Carrie by Stephen King
+36. The Stand by Stephen King
+37. The Dark Tower Series by Stephen King
+38. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+39. The Chronicles of Prydain by Lloyd Alexander
+40. The Belgariad Series by David Eddings
+41. The Malloreon Series by David Eddings
+42. The Wheel of Time Series by Robert Jordan
+43. The Stormlight Archive Series by Brandon Sanderson
+44. Mistborn Trilogy by Brandon Sanderson
+45. Warbreaker by Brandon Sanderson
+46. Elantris by Brandon Sanderson
+47. The Name of the Wind by Patrick Rothfuss
+48. The Wise Man's Fear by Patrick Rothfuss
+49. The Lies of Locke Lamora by Scott Lynch
+50. The Kingkiller Chronicle Series by Scott Lynch

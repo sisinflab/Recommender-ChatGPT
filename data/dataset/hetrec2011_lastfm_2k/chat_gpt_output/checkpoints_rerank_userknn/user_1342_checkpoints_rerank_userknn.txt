@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Metallica
+2. Black Sabbath
+3. Pink Floyd
+4. Led Zeppelin
+5. Slayer
+6. King Crimson
+7. David Gilmour
+8. Joe Satriani
+9. Rainbow
+10. Cat Stevens
+11. Dire Straits
+12. Creedence Clearwater Revival
+13. Skid Row
+14. Norah Jones
+15. Bob Dylan
+16. Ólafur Arnalds
+17. The Beatles
+18. Queen
+19. The Doors
+20. Santana
+21. Jethro Tull
+22. Miles Davis
+23. Simon & Garfunkel
+24. Frank Sinatra
+25. Eric Clapton
+26. Whitesnake
+27. Jefferson Airplane
+28. The Who
+29. Talk Talk
+30. Porcupine Tree
+31. Nick Drake
+32. John Frusciante
+33. Thrice
+34. Alexisonfire
+35. The Cure
+36. All That Remains
+37. Thom Yorke
+38. Antimatter
+39. Jack Johnson
+40. Depeche Mode
+41. Minus the Bear
+42. Chico Buarque
+43. Scorpions
+44. Captain Beefheart & His Magic Band
+45. Phoenix
+46. Roger Waters
+47. Brian Eno
+48. Lily Allen
+49. Sigur Rós
+50. Kings of Leon

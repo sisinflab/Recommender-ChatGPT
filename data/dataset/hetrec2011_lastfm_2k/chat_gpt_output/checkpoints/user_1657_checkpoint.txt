@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Sigur Rós
+3. Aphex Twin
+4. Portishead
+5. The Flaming Lips
+6. Mogwai
+7. Explosions in the Sky
+8. Godspeed You! Black Emperor
+9. The Postal Service
+10. The Notwist
+11. Four Tet
+12. Animal Collective
+13. Bon Iver
+14. Grizzly Bear
+15. The Antlers
+16. Sufjan Stevens
+17. Arcade Fire
+18. The National
+19. Interpol
+20. Joy Division
+21. The Smiths
+22. New Order
+23. The Cure
+24. Depeche Mode
+25. Talking Heads
+26. David Bowie
+27. Nick Cave & The Bad Seeds
+28. Tom Waits
+29. Leonard Cohen
+30. Neil Young
+31. Bob Dylan
+32. The Beatles
+33. The Rolling Stones
+34. Pink Floyd
+35. Led Zeppelin
+36. Jimi Hendrix
+37. The Doors
+38. Black Sabbath
+39. Metallica
+40. Slayer
+41. Pantera
+42. Tool
+43. Nine Inch Nails
+44. Marilyn Manson
+45. Rammstein
+46. System of a Down
+47. Slipknot
+48. Korn
+49. Linkin Park
+50. Limp Bizkit

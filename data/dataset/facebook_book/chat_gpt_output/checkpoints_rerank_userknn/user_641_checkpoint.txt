@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. The Great Gatsby by F. Scott Fitzgerald
+3. Animal Farm by George Orwell
+4. Nineteen Eighty-Four by George Orwell
+5. Crime and Punishment by Fyodor Dostoevsky
+6. The Fountainhead by Ayn Rand
+7. Brave New World by Aldous Huxley
+8. Ulysses by James Joyce
+9. The Sound and the Fury by William Faulkner
+10. Don Quixote by Miguel de Cervantes
+11. The Name of the Rose by Umberto Eco
+12. Divine Comedy by Dante Alighieri
+13. Wuthering Heights by Emily Bronte
+14. Lolita by Vladimir Nabokov
+15. The Castle of Otranto by Horace Walpole
+16. Les Fleurs du mal by Charles Baudelaire
+17. The Prince by Niccolo Machiavelli
+18. The Chronicles of Narnia by C.S. Lewis
+19. The Year of Living Biblically by A.J. Jacobs
+20. Running with Scissors by Augusten Burroughs
+21. The Raw Shark Texts by Steven Hall
+22. Stargirl by Jerry Spinelli
+23. Rhinoceros by Eugene Ionesco
+24. We by Yevgeny Zamyatin
+25. The Importance of Being Earnest by Oscar Wilde
+26. I, Robot by Isaac Asimov
+27. Dracula by Bram Stoker
+28. Zeitoun by Dave Eggers
+29. Armor by John Steakley
+30. The Once and Future King by T.H. White
+31. The Watchmen by Alan Moore
+32. The Dark Tower: The Gunslinger by Stephen King
+33. The Grapes of Wrath by John Steinbeck
+34. Jurassic Park by Michael Crichton
+35. The Book of Lost Things by John Connolly
+36. On Writing by Stephen King
+37. The Neverending Story by Michael Ende
+38. The Sirens of Titan by Kurt Vonnegut
+39. High Fidelity by Nick Hornby
+40. Narcissus and Goldmund by Hermann Hesse
+41. Water for Elephants by Sara Gruen
+42. Iliad by Homer
+43. Zen and the Art of Motorcycle Maintenance by Robert M. Pirsig
+44. A Room of One's Own by Virginia Woolf
+45. Congo by Michael Crichton
+46. The Devil Wears Prada by Lauren Weisberger
+47. The Crying of Lot 49 by Thomas Pynchon
+48. Foundation by Isaac Asimov
+49. Redeeming Love by Francine Rivers
+50. A Wind in the Door by Madeleine

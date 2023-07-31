@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Kelly Clarkson
+2. Miranda Lambert
+3. Blake Shelton
+4. Tim McGraw
+5. Reba McEntire
+6. Kenny Chesney
+7. Luke Bryan
+8. Jason Aldean
+9. Florida Georgia Line
+10. Zac Brown Band
+11. Dolly Parton
+12. Martina McBride
+13. George Strait
+14. Alan Jackson
+15. Toby Keith
+16. Vince Gill
+17. Trisha Yearwood
+18. LeAnn Rimes
+19. Dixie Chicks
+20. Sara Evans
+21. Jennifer Nettles
+22. Sugarland
+23. Little Big Town
+24. Kacey Musgraves
+25. Chris Stapleton
+26. Eric Church
+27. Brantley Gilbert
+28. Thomas Rhett
+29. Brett Eldredge
+30. Dan + Shay
+31. Old Dominion
+32. Maren Morris
+33. Carrie Underwood (more of her songs)
+34. Lady Antebellum (more of their songs)
+35. Rascal Flatts (more of their songs)
+36. Keith Urban (more of his songs)
+37. Shania Twain (more of her songs)
+38. Faith Hill (more of her songs)
+39. Garth Brooks (more of his songs)
+40. Céline Dion (more of her songs)
+41. Brad Paisley (more of his songs)
+42. Bon Jovi (more of their songs)
+43. Mariah Carey (more of her songs)
+44. Adam Lambert (more of his songs)
+45. Josh Groban (more of his songs)
+46. Britney Spears (more of her songs)
+47. Jessica Simpson (more of her songs)
+48. Whitney Houston
+49. Christina Aguilera
+50. Justin Timberlake

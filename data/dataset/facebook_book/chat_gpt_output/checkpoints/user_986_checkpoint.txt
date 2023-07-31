@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. 1984 by George Orwell
+3. To Kill a Mockingbird by Harper Lee
+4. The Catcher in the Rye by J.D. Salinger
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Animal Farm by George Orwell
+7. Lord of the Flies by William Golding
+8. Brave New World by Aldous Huxley
+9. The Hobbit by J.R.R. Tolkien
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Da Vinci Code by Dan Brown
+12. Angels and Demons by Dan Brown
+13. The Girl with the Dragon Tattoo by Stieg Larsson
+14. The Girl Who Played with Fire by Stieg Larsson
+15. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+16. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+17. The Shining by Stephen King
+18. The Stand by Stephen King
+19. The Dark Tower series by Stephen King
+20. The Silence of the Lambs by Thomas Harris
+21. Red Dragon by Thomas Harris
+22. Hannibal by Thomas Harris
+23. The Bourne Identity by Robert Ludlum
+24. The Bourne Supremacy by Robert Ludlum
+25. The Bourne Ultimatum by Robert Ludlum
+26. The Maze Runner by James Dashner
+27. The Scorch Trials by James Dashner
+28. The Death Cure by James Dashner
+29. The Giver by Lois Lowry
+30. Gathering Blue by Lois Lowry
+31. Messenger by Lois Lowry
+32. Son by Lois Lowry
+33. The Fault in Our Stars by John Green
+34. Paper Towns by John Green
+35. Looking for Alaska by John Green
+36. The Perks of Being a Wallflower by Stephen Chbosky
+37. The Book Thief by Markus Zusak
+38. The Help by Kathryn Stockett
+39. The Secret Life of Bees by Sue Monk Kidd
+40. The Kite Runner by Khaled Hosseini
+41. A Thousand Splendid Suns by Khaled Hosseini
+42. The Alchemist by Paulo Coelho
+43. The Chronicles of Narnia: The Lion, the Witch and the Wardrobe by C.S. Lewis
+44. The Chronicles of Narnia: The Voyage of the Dawn Treader by C.S. Lewis
+45. The Chronicles of Narnia: The Silver Chair by C.S. Lewis
+46. The Chronicles of Narnia: The Horse and His Boy by C.S. Lewis
+47. The Chronicles of Narnia: The Magician's Nephew by C.S. Lewis
+48. Nine Stories by J.D. Salinger
+49. The Bell Jar by Sylvia Plath
+50. The Wise Man's Fear by Patrick Rothfuss

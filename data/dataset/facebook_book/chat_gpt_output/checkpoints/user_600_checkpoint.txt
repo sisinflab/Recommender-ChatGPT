@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. Pride and Prejudice by Jane Austen
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Animal Farm by George Orwell
+7. The Hobbit by J.R.R. Tolkien
+8. The Lord of the Rings by J.R.R. Tolkien
+9. The Hunger Games by Suzanne Collins
+10. The Da Vinci Code by Dan Brown
+11. The Girl with the Dragon Tattoo by Stieg Larsson
+12. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+13. The Chronicles of Narnia by C.S. Lewis
+14. The Diary of a Young Girl by Anne Frank
+15. The Picture of Dorian Gray by Oscar Wilde
+16. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+17. The War of the Worlds by H.G. Wells
+18. The Time Machine by H.G. Wells
+19. The Invisible Man by H.G. Wells
+20. The Island of Dr. Moreau by H.G. Wells
+21. The Call of the Wild by Jack London
+22. White Fang by Jack London
+23. The Adventures of Tom Sawyer by Mark Twain
+24. The Adventures of Huckleberry Finn by Mark Twain
+25. The Count of Monte Cristo by Alexandre Dumas
+26. The Three Musketeers by Alexandre Dumas
+27. The Phantom of the Opera by Gaston Leroux
+28. Frankenstein by Mary Shelley
+29. Dracula by Bram Stoker
+30. Wuthering Heights by Emily Bronte
+31. Sense and Sensibility by Jane Austen
+32. Emma by Jane Austen
+33. Persuasion by Jane Austen
+34. Northanger Abbey by Jane Austen
+35. The Scarlet Letter by Nathaniel Hawthorne
+36. Moby-Dick by Herman Melville
+37. The Adventures of Pinocchio by Carlo Collodi
+38. The Wonderful Wizard of Oz by L. Frank Baum
+39. Alice's Adventures in Wonderland by Lewis Carroll
+40. Through the Looking-Glass by Lewis Carroll
+41. The Wind in the Willows by Kenneth Grahame
+42. Treasure Island by Robert Louis Stevenson
+43. Kidnapped by Robert Louis Stevenson
+44. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+45. The Picture of Dorian Gray by Oscar Wilde
+46. The Importance of Being Earnest by Oscar Wilde
+47. The Brothers Karamazov by Fyodor Dostoevsky
+48. Crime and Punishment by Fyodor Dostoevsky
+49. War and Peace by Leo Tolstoy

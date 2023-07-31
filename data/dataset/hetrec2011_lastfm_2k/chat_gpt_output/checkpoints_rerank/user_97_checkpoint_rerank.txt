@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Protest The Hero
+2. Between the Buried and Me
+3. The Fall of Troy
+4. Biffy Clyro
+5. Architects
+6. A Day to Remember
+7. Foals
+8. 65daysofstatic
+9. Late of the Pier
+10. Bloc Party
+11. Thrice
+12. Born of Osiris
+13. Parkway Drive
+14. Funeral for a Friend
+15. The Dillinger Escape Plan
+16. Franz Ferdinand
+17. Radiohead
+18. Dream Theater
+19. Klaxons
+20. Arcade Fire
+21. Los Campesinos!
+22. Explosions in the Sky
+23. The Maccabees
+24. Muse
+25. Paramore
+26. Coldplay
+27. Blur
+28. Arctic Monkeys
+29. Placebo
+30. The Killers
+31. Nirvana
+32. Iron Maiden
+33. Led Zeppelin
+34. Metallica
+35. Michael Jackson
+36. Pearl Jam
+37. a-ha
+38. Björk
+39. System of a Down
+40. Daft Punk
+41. Nine Inch Nails
+42. Linkin Park
+43. Avenged Sevenfold
+44. My Chemical Romance
+45. Green Day
+46. The Cure
+47. U2
+48. Pink Floyd
+49. The Beatles
+50. Madonna

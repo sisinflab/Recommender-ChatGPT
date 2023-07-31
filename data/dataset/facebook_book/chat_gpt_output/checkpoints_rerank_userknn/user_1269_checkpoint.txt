@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Haunted (Palahniuk novel)
+2. Fight Club (novel)
+3. Rant (novel)
+4. Invisible Monsters by ['Chuck Palahniuk']
+5. Lullaby (Palahniuk novel) by ['Chuck Palahniuk']
+6. The Stand
+7. The Godfather (novel)
+8. Slaughterhouse-Five
+9. Blindness (novel) by ['José Saramago']
+10. The Bell Jar
+11. One Hundred Years of Solitude by ['Gabriel García Márquez']
+12. The Alchemist (novel)
+13. The Crying of Lot 49
+14. Atlas Shrugged
+15. A Heartbreaking Work of Staggering Genius by ['Dave Eggers']
+16. The Sirens of Titan
+17. Stranger than Fiction: True Stories by ['Chuck Palahniuk']
+18. The Lost World (Crichton novel)
+19. The Great Gatsby
+20. Still Life with Woodpecker
+21. Player Piano (novel)
+22. Alice's Adventures in Wonderland
+23. The Fountainhead
+24. The Prince
+25. Sex, Drugs, and Cocoa Puffs by ['Chuck Klosterman']
+26. The Watchmen (novel)
+27. Choke (novel)
+28. Dexter by Design
+29. The Zombie Survival Guide
+30. A Clockwork Orange
+31. Frankenstein
+32. The Girl Who Loved Tom Gordon
+33. All Quiet on the Western Front
+34. Howl
+35. The Perks of Being a Wallflower by ['Stephen Chbosky']
+36. Siddhartha (novel)
+37. Murder on the Orient Express
+38. Water for Elephants
+39. A Tale of Two Cities
+40. That Was Then, This Is Now
+41. Fear and Loathing in Las Vegas
+42. The Big Over Easy
+43. She Walks in Beauty
+44. Prozac Nation
+45. Peter and Wendy
+46. Green Eggs and Ham
+47. Dexter Is Delicious
+48. Macbeth
+49. A Swiftly Tilting Planet
+50. Where the Sidewalk Ends (book)

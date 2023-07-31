@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. Lord of the Flies by William Golding
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Animal Farm by George Orwell
+7. Brave New World by Aldous Huxley
+8. The Hobbit by J.R.R. Tolkien
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+11. The Hunger Games by Suzanne Collins
+12. Catch-22 by Joseph Heller
+13. One Hundred Years of Solitude by Gabriel Garcia Marquez
+14. The Picture of Dorian Gray by Oscar Wilde
+15. The Road by Cormac McCarthy
+16. The Brothers Karamazov by Fyodor Dostoevsky
+17. Crime and Punishment by Fyodor Dostoevsky
+18. The Name of the Wind by Patrick Rothfuss
+19. The Wise Man's Fear by Patrick Rothfuss
+20. The Dark Tower series by Stephen King
+21. The Stand by Stephen King
+22. The Shining by Stephen King
+23. The Girl with the Dragon Tattoo by Stieg Larsson
+24. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+25. The Girl Who Takes an Eye for an Eye by David Lagercrantz
+26. The Outsider by Stephen King
+27. The Talisman by Stephen King and Peter Straub
+28. The Gunslinger by Stephen King
+29. The Drawing of the Three by Stephen King
+30. The Waste Lands by Stephen King
+31. Wizard and Glass by Stephen King
+32. Wolves of the Calla by Stephen King
+33. Song of Susannah by Stephen King
+34. The Dark Tower by Stephen King
+35. The Chronicles of Narnia by C.S. Lewis
+36. The Magician's Nephew by C.S. Lewis
+37. The Lion, the Witch and the Wardrobe by C.S. Lewis
+38. The Horse and His Boy by C.S. Lewis
+39. Prince Caspian by C.S. Lewis
+40. The Voyage of the Dawn Treader by C.S. Lewis
+41. The Silver Chair by C.S. Lewis
+42. The Last Battle by C.S. Lewis
+43. The Complete Works of William Shakespeare
+44. The Canterbury Tales by Geoffrey Chaucer
+45. The Divine Comedy by Dante Alighieri
+46. The Odyssey by Homer
+47. The Iliad by Homer
+48. The Aeneid by Virgil
+49. The Inferno by Dante Alighieri
+50. The Republic by Plato

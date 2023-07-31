@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Green Day
+2. My Chemical Romance
+3. The Beatles
+4. Queen
+5. AC/DC
+6. Guns N' Roses
+7. Ramones
+8. Rise Against
+9. Red Hot Chili Peppers
+10. Nickelback
+11. Bon Jovi
+12. Oasis
+13. Linkin Park
+14. Nirvana
+15. Metallica
+16. The Killers
+17. Muse
+18. Pink Floyd
+19. Radiohead
+20. Iron Maiden
+21. Pearl Jam
+22. Led Zeppelin
+23. Coldplay
+24. Arctic Monkeys
+25. Placebo
+26. System of a Down
+27. Nine Inch Nails
+28. Blur
+29. Duran Duran
+30. Michael Jackson
+31. Madonna
+32. Beyoncé
+33. Lady Gaga
+34. Christina Aguilera
+35. Rihanna
+36. Shakira
+37. Ke$ha
+38. Katy Perry
+39. Taylor Swift
+40. Avril Lavigne
+41. Amy Winehouse
+42. Björk
+43. Daft Punk
+44. Kylie Minogue
+45. P!nk
+46. Black Eyed Peas
+47. All Time Low
+48. Avenged Sevenfold
+49. Kelly Clarkson
+50. Glee Cast

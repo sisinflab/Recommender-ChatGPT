@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Led Zeppelin
+2. Radiohead
+3. Black Sabbath
+4. Rush
+5. Tool
+6. Metallica
+7. Queen
+8. AC/DC
+9. Iron Maiden
+10. Pink Floyd (similar artist)
+11. The Jimi Hendrix Experience (similar artist)
+12. Cream
+13. The Who
+14. Deep Purple (similar artist)
+15. Yes
+16. Genesis
+17. King Crimson
+18. Jethro Tull
+19. Emerson, Lake & Palmer
+20. Dream Theater (similar artist)
+21. Opeth
+22. Porcupine Tree
+23. Symphony X
+24. Haken
+25. Riverside
+26. Steven Wilson
+27. Camel
+28. Gentle Giant
+29. Van Der Graaf Generator
+30. Kansas
+31. Styx
+32. Boston
+33. Foreigner
+34. Journey
+35. Toto
+36. Steely Dan
+37. The Eagles
+38. Fleetwood Mac
+39. The Rolling Stones
+40. The Beatles (similar artist)
+41. The Kinks
+42. The Who
+43. The Doors (similar artist)
+44. Cream (similar artist)
+45. Jimi Hendrix (similar artist)
+46. Eric Clapton (similar artist)
+47. Bob Dylan (similar artist)
+48. Neil Young
+49. Tom Petty and the Heartbreakers
+50. Bruce Springsteen

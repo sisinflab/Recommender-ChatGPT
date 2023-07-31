@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Gone Girl by Gillian Flynn
+2. The Girl on the Train by Paula Hawkins
+3. The Silent Patient by Alex Michaelides
+4. The Nightingale by Kristin Hannah
+5. The Hunger Games by Suzanne Collins
+6. The Fault in Our Stars by John Green
+7. The Book Thief by Markus Zusak
+8. The Catcher in the Rye by J.D. Salinger
+9. The Great Gatsby by F. Scott Fitzgerald
+10. To Kill a Mockingbird by Harper Lee
+11. 1984 by George Orwell
+12. Animal Farm by George Orwell
+13. The Lord of the Rings by J.R.R. Tolkien
+14. The Hobbit by J.R.R. Tolkien
+15. The Chronicles of Narnia by C.S. Lewis
+16. Harry Potter and the Philosopher's Stone by J.K. Rowling
+17. Harry Potter and the Chamber of Secrets by J.K. Rowling
+18. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+19. Harry Potter and the Goblet of Fire by J.K. Rowling
+20. Harry Potter and the Order of Phoenix by J.K. Rowling
+21. Harry Potter and the Half-Blood Prince by J.K. Rowling
+22. Harry Potter and the Deathly Hallows by J.K. Rowling
+23. The Alchemist by Paulo Coelho
+24. The Kite Runner by Khaled Hosseini
+25. A Thousand Splendid Suns by Khaled Hosseini
+26. The Help by Kathryn Stockett
+27. The Secret Life of Bees by Sue Monk Kidd
+28. The Color Purple by Alice Walker
+29. The Joy Luck Club by Amy Tan
+30. The God of Small Things by Arundhati Roy
+31. The Namesake by Jhumpa Lahiri
+32. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+33. The Glass Castle by Jeannette Walls
+34. The Lovely Bones by Alice Sebold
+35. The Time Traveler's Wife by Audrey Niffenegger
+36. The Handmaid's Tale by Margaret Atwood
+37. The Road by Cormac McCarthy
+38. The Picture of Dorian Gray by Oscar Wilde
+39. The Count of Monte Cristo by Alexandre Dumas
+40. Les Misérables by Victor Hugo
+41. Pride and Prejudice by Jane Austen
+42. Sense and Sensibility by Jane Austen
+43. Emma by Jane Austen
+44. Persuasion by Jane Austen
+45. Northanger Abbey by Jane Austen
+46. Wuthering Heights by Emily Bronte
+47. Jane Eyre by Charlotte Bronte
+48. Rebecca by Daphne du Maurier
+49. The Bell Jar

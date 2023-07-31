@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for this user are:
+
+1. Fleetwood Mac
+2. Muse
+3. Blondie
+4. Heart
+5. Maroon 5
+6. Cyndi Lauper
+7. Siouxsie and the Banshees
+8. The Veronicas
+9. Sarah Brightman
+10. Enya
+11. Elvis Presley
+12. ABBA
+13. Jonathan Larson
+14. Mika
+15. Marilyn Manson
+16. Roxette
+17. Madonna
+18. Michael Jackson
+19. Christina Aguilera
+20. Rihanna
+21. Avril Lavigne
+22. Bon Jovi
+23. Amy Winehouse
+24. Dido
+25. Kylie Minogue
+26. Laura Pausini
+27. Mariah Carey
+28. Andrea Bocelli
+29. Josh Groban
+30. Robbie Williams
+31. Enrique Iglesias
+32. Lady Antebellum
+33. Tears for Fears
+34. Norah Jones
+35. Natalie Imbruglia
+36. Cher
+37. Natasha Bedingfield
+38. Joss Stone
+39. Goldfrapp
+40. Stereophonics
+41. A*Teens
+42. Secondhand Serenade
+43. Thalía
+44. Gregorian
+45. Era
+46. Britney Spears
+47. Andrew Lloyd Webber
+48. Leona Lewis
+49. Justin Timberlake
+50. In This Moment

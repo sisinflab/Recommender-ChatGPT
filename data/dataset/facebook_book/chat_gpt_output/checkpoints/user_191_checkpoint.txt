@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. A Song of Ice and Fire by George R.R. Martin
+3. The Chronicles of Narnia by C.S. Lewis
+4. The Name of the Wind by Patrick Rothfuss
+5. The Kingkiller Chronicle by Patrick Rothfuss
+6. The Dark Tower by Stephen King
+7. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+8. The Hunger Games by Suzanne Collins
+9. Ender's Game by Orson Scott Card
+10. The Martian by Andy Weir
+11. The Dresden Files by Jim Butcher
+12. The Mistborn Trilogy by Brandon Sanderson
+13. The Stormlight Archive by Brandon Sanderson
+14. The Belgariad by David Eddings
+15. The Malazan Book of the Fallen by Steven Erikson
+16. The First Law Trilogy by Joe Abercrombie
+17. The Lies of Locke Lamora by Scott Lynch
+18. The Way of Kings by Brandon Sanderson
+19. The Lightbringer Series by Brent Weeks
+20. The Black Company by Glen Cook
+21. The Riyria Revelations by Michael J. Sullivan
+22. The Farseer Trilogy by Robin Hobb
+23. The Gentleman Bastard Sequence by Scott Lynch
+24. The Broken Empire Trilogy by Mark Lawrence
+25. The Powder Mage Trilogy by Brian McClellan
+26. The Codex Alera by Jim Butcher
+27. The Inheritance Trilogy by N.K. Jemisin
+28. The Night Angel Trilogy by Brent Weeks
+29. The Demon Cycle by Peter V. Brett
+30. The Bartimaeus Trilogy by Jonathan Stroud
+31. The Abhorsen Trilogy by Garth Nix
+32. The Earthsea Cycle by Ursula K. Le Guin
+33. The Chronicles of Prydain by Lloyd Alexander
+34. The Dark is Rising Sequence by Susan Cooper
+35. The Once and Future King by T.H. White
+36. The Black Magician Trilogy by Trudi Canavan
+37. The Old Kingdom Series by Garth Nix
+38. The Riddle-Master Trilogy by Patricia A. McKillip
+39. The Belgariad and The Malloreon by David Eddings
+40. The Sword of Shannara Trilogy by Terry Brooks
+41. The Memory, Sorrow, and Thorn Trilogy by Tad Williams
+42. The Hyperion Cantos by Dan Simmons
+43. The Culture Series by Iain M. Banks
+44. The Foundation Series by Isaac Asimov
+45. The Dune Chronicles by Frank Herbert
+46. The Wheel of Time Series by Robert Jordan
+47. The Sword of Truth Series by Terry Goodkind
+48. The Dresden Files by Jim But

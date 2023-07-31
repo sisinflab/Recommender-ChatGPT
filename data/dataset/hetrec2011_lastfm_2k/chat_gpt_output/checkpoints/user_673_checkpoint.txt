@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Red Hot Chili Peppers
+2. Muse
+3. Green Day
+4. Linkin Park
+5. Radiohead
+6. Nirvana
+7. The Killers
+8. Arctic Monkeys
+9. System of a Down
+10. Queens of the Stone Age
+11. Blink-182
+12. The Strokes
+13. Foo Fighters (other albums)
+14. Apocalyptica (other albums)
+15. Relient K (other albums)
+16. Goo Goo Dolls (other albums)
+17. Joss Stone (other albums)
+18. Coldplay (other albums)
+19. Slipknot (other albums)
+20. Gavin DeGraw (other albums)
+21. Dead Fish (other albums)
+22. AC/DC (other albums)
+23. Forfun (other albums)
+24. Nickelback (other albums)
+25. Jack Johnson (other albums)
+26. Train (other albums)
+27. Charlie Brown Jr. (other albums)
+28. 3 Doors Down (other albums)
+29. Pearl Jam (other albums)
+30. Avenged Sevenfold (other albums)
+31. Metallica (other albums)
+32. Era (other albums)
+33. Capital Inicial (other albums)
+34. Audioslave
+35. Incubus
+36. Foo Fighters (live albums)
+37. Apocalyptica (live albums)
+38. Relient K (live albums)
+39. Goo Goo Dolls (live albums)
+40. Joss Stone (live albums)
+41. Coldplay (live albums)
+42. Slipknot (live albums)
+43. Gavin DeGraw (live albums)
+44. Dead Fish (live albums)
+45. AC/DC (live albums)
+46. Forfun (live albums)
+47. Nickelback (live albums)
+48. Jack Johnson (live albums)
+49. Train (live albums)
+50. Charlie Brown Jr. (live albums)

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Bring Me The Horizon
+2. Asking Alexandria
+3. A Day to Remember
+4. Dead by April
+5. Caliban
+6. A Skylit Drive
+7. Attack Attack!
+8. Underoath
+9. Funeral for a Friend
+10. My Chemical Romance
+11. Paramore
+12. Yellowcard
+13. Avril Lavigne
+14. Björk
+15. Enter Shikari
+16. Owl City
+17. Психея
+18. 30 Seconds to Mars
+19. Muse
+20. Nirvana
+21. Iron Maiden
+22. Metallica
+23. Pearl Jam
+24. Led Zeppelin
+25. Michael Jackson
+26. The Beatles
+27. Pink Floyd
+28. Radiohead
+29. Duran Duran
+30. Coldplay
+31. Blur
+32. Arctic Monkeys
+33. Placebo
+34. The Killers
+35. System of a Down
+36. Daft Punk
+37. Nine Inch Nails
+38. Linkin Park
+39. All Time Low
+40. Avenged Sevenfold
+41. Green Day
+42. The Cure
+43. Lady Gaga
+44. Rihanna
+45. Katy Perry
+46. Beyoncé
+47. Taylor Swift
+48. Ke$ha
+49. P!nk
+50. Black Eyed Peas

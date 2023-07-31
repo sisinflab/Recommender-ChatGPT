@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Florence + the Machine
+2. Yeah Yeah Yeahs
+3. The Dead Weather
+4. The Pretty Reckless
+5. Bat for Lashes
+6. Lykke Li
+7. Fever Ray
+8. The Kills
+9. Gossip
+10. The White Stripes
+11. David Bowie
+12. The Runaways
+13. MGMT
+14. Joy Division
+15. Sex Pistols
+16. The xx
+17. Babyshambles
+18. Marilyn Manson
+19. Animal Collective
+20. Uffie
+21. The Last Shadow Puppets
+22. Depeche Mode
+23. Madonna
+24. Shakira
+25. Beyoncé
+26. Muse
+27. Pink Floyd
+28. Radiohead
+29. Duran Duran
+30. Coldplay
+31. Blur
+32. Arctic Monkeys
+33. Placebo
+34. The Killers
+35. Nirvana
+36. Iron Maiden
+37. Led Zeppelin
+38. Metallica
+39. a-ha
+40. Björk
+41. System of a Down
+42. Daft Punk
+43. Nine Inch Nails
+44. Linkin Park
+45. Kelly Clarkson
+46. All Time Low
+47. P!nk
+48. Avenged Sevenfold
+49. My Chemical Romance
+50. Green Day

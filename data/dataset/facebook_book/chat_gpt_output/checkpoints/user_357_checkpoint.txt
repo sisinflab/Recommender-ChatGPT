@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Divergent by Veronica Roth
+2. Delirium by Lauren Oliver
+3. The Maze Runner by James Dashner
+4. The Giver by Lois Lowry
+5. Legend by Marie Lu
+6. The Selection by Kiera Cass
+7. The Fault in Our Stars by John Green
+8. The Mortal Instruments series by Cassandra Clare
+9. The Infernal Devices series by Cassandra Clare
+10. The Lunar Chronicles series by Marissa Meyer
+11. The 5th Wave by Rick Yancey
+12. The Darkest Minds by Alexandra Bracken
+13. The Hunger Games trilogy by Suzanne Collins
+14. The Twilight Saga by Stephenie Meyer
+15. The Host by Stephenie Meyer
+16. The Chemical Garden trilogy by Lauren DeStefano
+17. The Uglies series by Scott Westerfeld
+18. The Leviathan trilogy by Scott Westerfeld
+19. The Gone series by Michael Grant
+20. The Unwind Dystology by Neal Shusterman
+21. The Knife of Never Letting Go by Patrick Ness
+22. The Chaos Walking trilogy by Patrick Ness
+23. The Reckoners series by Brandon Sanderson
+24. The Mistborn trilogy by Brandon Sanderson
+25. The Kingkiller Chronicle series by Patrick Rothfuss
+26. The Name of the Wind by Patrick Rothfuss
+27. The Wise Man's Fear by Patrick Rothfuss
+28. The Lies of Locke Lamora by Scott Lynch
+29. The Gentleman Bastard series by Scott Lynch
+30. The First Law trilogy by Joe Abercrombie
+31. The Night Angel trilogy by Brent Weeks
+32. The Lightbringer series by Brent Weeks
+33. The Black Prism by Brent Weeks
+34. The Powder Mage trilogy by Brian McClellan
+35. The Stormlight Archive series by Brandon Sanderson
+36. Mistborn: The Final Empire by Brandon Sanderson
+37. Warbreaker by Brandon Sanderson
+38. Elantris by Brandon Sanderson
+39. The Riyria Revelations series by Michael J. Sullivan
+40. The Riyria Chronicles series by Michael J. Sullivan
+41. The Broken Empire trilogy by Mark Lawrence
+42. The Red Queen's War trilogy by Mark Lawrence
+43. The King of Thorns by Mark Lawrence
+44. The Prince of Fools by Mark Lawrence
+45. The Wheel of Time series by Robert Jordan and Brandon Sanderson
+46. The Malazan Book of the Fallen series by Steven Erikson
+47. The Black Company series by Glen Cook
+48. The Chronicles of Amber series by Roger Zelazny
+49. The Earthsea Cycle series by Ursula K. Le Guin
+50. The Dark Tower series by Stephen King

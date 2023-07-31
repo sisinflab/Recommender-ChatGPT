@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Paramore
+2. Lady Gaga
+3. Evanescence
+4. Cinema Bizarre
+5. Placebo
+6. System of a Down
+7. t.A.T.u.
+8. Automatic Loveletter
+9. Papa Roach
+10. Pink
+11. Slipknot
+12. Ray Charles
+13. YUI
+14. Good Charlotte
+15. The Cure
+16. Jack Johnson
+17. P!nk
+18. 30 Seconds to Mars
+19. Lifehouse
+20. The Smashing Pumpkins
+21. Three Days Grace
+22. Incubus
+23. Green Day
+24. Ludwig van Beethoven
+25. Creed
+26. Foo Fighters
+27. Dido
+28. Within Temptation
+29. Janis Joplin
+30. Funeral for a Friend
+31. Katy Perry
+32. The Ting Tings
+33. Adele
+34. MGMT
+35. All Time Low
+36. Muse
+37. Nirvana
+38. Iron Maiden
+39. Led Zeppelin
+40. Metallica
+41. Michael Jackson
+42. Pearl Jam
+43. System of a Down
+44. Nine Inch Nails
+45. Linkin Park
+46. Avenged Sevenfold
+47. My Chemical Romance
+48. The Killers
+49. Coldplay
+50. Arctic Monkeys

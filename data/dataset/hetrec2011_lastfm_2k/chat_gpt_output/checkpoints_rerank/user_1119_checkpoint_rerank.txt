@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Paramore
+2. Flyleaf
+3. VersaEmerge
+4. Taylor Swift
+5. James Blunt
+6. Lily Allen
+7. James Horner
+8. CAKE
+9. Soundtrack
+10. Aloha From Hell
+11. Red Hot Chili Peppers
+12. Pixie Lott
+13. Regina Spektor
+14. The Cranberries
+15. B.o.B
+16. The Mamas & The Papas
+17. Muse
+18. Evanescence
+19. Katy Perry
+20. Lady Gaga
+21. Pink Floyd
+22. The Beatles
+23. Rihanna
+24. U2
+25. Shakira
+26. Beyoncé
+27. Ke$ha
+28. Coldplay
+29. Radiohead
+30. Duran Duran
+31. Arctic Monkeys
+32. Placebo
+33. The Killers
+34. Nirvana
+35. Iron Maiden
+36. Led Zeppelin
+37. Metallica
+38. Michael Jackson
+39. Pearl Jam
+40. a-ha
+41. Björk
+42. System of a Down
+43. Daft Punk
+44. Nine Inch Nails
+45. Linkin Park
+46. Kelly Clarkson
+47. All Time Low
+48. P!nk
+49. Avenged Sevenfold
+50. My Chemical Romance

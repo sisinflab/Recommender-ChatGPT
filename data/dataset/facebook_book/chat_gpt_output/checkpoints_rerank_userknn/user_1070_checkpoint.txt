@@ -1,0 +1,48 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. A Clockwork Orange by Anthony Burgess
+2. American Psycho by Bret Easton Ellis
+3. Choke (novel) by Chuck Palahniuk
+4. Fear and Loathing in Las Vegas by Hunter S. Thompson
+5. Finnegans Wake by James Joyce
+6. I Hope They Serve Beer in Hell by Tucker Max
+7. Inferno (Dante) by Dante Alighieri
+8. Junkie (novel) by William S. Burroughs
+9. Less Than Zero (novel) by Bret Easton Ellis
+10. Naked Lunch by William S. Burroughs
+11. Night (book) by Elie Wiesel
+12. Nineteen Eighty-Four by George Orwell
+13. Of Mice and Men by John Steinbeck
+14. Slaughterhouse-Five by Kurt Vonnegut
+15. The Bell Jar by Sylvia Plath
+16. The Catcher in the Rye by J.D. Salinger
+17. The Glass Menagerie by Tennessee Williams
+18. The Great Gatsby by F. Scott Fitzgerald
+19. The Hobbit by J.R.R. Tolkien
+20. The Lord of the Rings by J.R.R. Tolkien
+21. The Lost Boy (memoir) by Dave Pelzer
+22. The Outsiders (novel) by S. E. Hinton
+23. The Psychedelic Experience by Timothy Leary
+24. The Rum Diary (novel) by Hunter S. Thompson
+25. The Stranger (novel) by Albert Camus
+26. The Things They Carried by Tim O'Brien
+27. The Trial by Franz Kafka
+28. To Kill a Mockingbird by Harper Lee
+29. Treasure Island by Robert Louis Stevenson
+30. Ulysses (novel) by James Joyce
+31. Where the Wild Things Are by Maurice Sendak
+32. Alice's Adventures in Wonderland by Lewis Carroll
+33. Bluebeard (Vonnegut novel) by Kurt Vonnegut
+34. Candy: A Novel of Love and Addiction by Luke Davies
+35. Childhood's End by Arthur C. Clarke
+36. Essays (Montaigne) by Michel de Montaigne
+37. Franny and Zooey by J.D. Salinger
+38. Harry Potter by J.K. Rowling
+39. I, Robot by Isaac Asimov
+40. Murder on the Orient Express by Agatha Christie
+41. Prometheus Rising by Robert Anton Wilson
+42. Slash (autobiography) by Slash
+43. Tao Te Ching by Lao Tzu
+44. The Chosen (Potok novel) by Chaim Potok
+45. The Dirt by Mötley Crüe
+46. The Lost World (Crichton novel) by Michael

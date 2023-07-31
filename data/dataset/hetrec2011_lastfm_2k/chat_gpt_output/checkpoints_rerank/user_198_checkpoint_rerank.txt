@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Deftones
+2. A Day to Remember
+3. Alexisonfire
+4. blessthefall
+5. Lamb of God
+6. Pantera
+7. As I Lay Dying
+8. August Burns Red
+9. Thrice
+10. Chevelle
+11. Atreyu
+12. Sum 41
+13. In Flames
+14. Bring Me The Horizon
+15. Slipknot
+16. Funeral for a Friend
+17. Mastodon
+18. Arctic Monkeys
+19. Protest The Hero
+20. Scary Kids Scaring Kids
+21. Static-X
+22. Pearl Jam
+23. Avenged Sevenfold
+24. Cold
+25. Rise Against
+26. Muse
+27. Pink Floyd
+28. Radiohead
+29. Nirvana
+30. Iron Maiden
+31. Led Zeppelin
+32. Metallica
+33. Michael Jackson
+34. The Beatles
+35. U2
+36. Duran Duran
+37. Coldplay
+38. Blur
+39. Placebo
+40. The Killers
+41. Amy Winehouse
+42. a-ha
+43. Björk
+44. System of a Down
+45. Daft Punk
+46. Nine Inch Nails
+47. Linkin Park
+48. My Chemical Romance
+49. Green Day
+50. The Cure

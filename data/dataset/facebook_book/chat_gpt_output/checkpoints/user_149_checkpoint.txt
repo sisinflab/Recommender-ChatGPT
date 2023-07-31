@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Harry Potter and the Philosopher's Stone by J.K. Rowling
+3. Divergent by Veronica Roth
+4. The Maze Runner by James Dashner
+5. The Fault in Our Stars by John Green
+6. The Giver by Lois Lowry
+7. The Hobbit by J.R.R. Tolkien
+8. The Lord of the Rings by J.R.R. Tolkien
+9. The Chronicles of Prydain by Lloyd Alexander
+10. The Dark is Rising by Susan Cooper
+11. The Golden Compass by Philip Pullman
+12. Eragon by Christopher Paolini
+13. The Mortal Instruments by Cassandra Clare
+14. The Infernal Devices by Cassandra Clare
+15. The Selection by Kiera Cass
+16. The Lunar Chronicles by Marissa Meyer
+17. The 5th Wave by Rick Yancey
+18. The Darkest Minds by Alexandra Bracken
+19. The Knife of Never Letting Go by Patrick Ness
+20. The Ask and the Answer by Patrick Ness
+21. The War of the Worlds by H.G. Wells
+22. The Time Machine by H.G. Wells
+23. The Invisible Man by H.G. Wells
+24. The Island of Dr. Moreau by H.G. Wells
+25. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+26. The Picture of Dorian Gray by Oscar Wilde
+27. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+28. The Hound of the Baskervilles by Arthur Conan Doyle
+29. The Sign of Four by Arthur Conan Doyle
+30. The Valley of Fear by Arthur Conan Doyle
+31. The Adventures of Tom Sawyer by Mark Twain
+32. The Adventures of Huckleberry Finn by Mark Twain
+33. The Call of the Wild by Jack London
+34. White Fang by Jack London
+35. The Swiss Family Robinson by Johann David Wyss
+36. Robinson Crusoe by Daniel Defoe
+37. Gulliver's Travels by Jonathan Swift
+38. Treasure Island by Robert Louis Stevenson
+39. The Three Musketeers by Alexandre Dumas
+40. The Count of Monte Cristo by Alexandre Dumas
+41. Les Misérables by Victor Hugo
+42. The Phantom of the Opera by Gaston Leroux
+43. Dracula by Bram Stoker
+44. Frankenstein by Mary Shelley
+45. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+46. The Picture of Dorian Gray by Oscar Wilde
+47. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+48. The Hound of the Baskervilles by Arthur Conan Doyle
+49. The Sign of Four by Arthur Conan Doyle
+50. The Valley of Fear by Arthur Conan Doyle

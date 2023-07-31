@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Adele
+2. Dixie Chicks
+3. Sheryl Crow
+4. Miranda Lambert
+5. Christina Aguilera
+6. George Strait
+7. U2
+8. Jewel
+9. Keith Urban
+10. Jessie James
+11. Garth Brooks
+12. Josh Groban
+13. Dire Straits
+14. P!nk
+15. Mariah Carey
+16. Bruce Springsteen
+17. Rihanna
+18. Arcade Fire
+19. Janelle Monáe
+20. Lady Gaga
+21. Britney Spears
+22. Jennifer Lopez
+23. Beyoncé
+24. Katy Perry
+25. Alicia Keys
+26. Taylor Swift
+27. Lily Allen
+28. Dido
+29. Avril Lavigne
+30. The Pretty Reckless
+31. Rascal Flatts
+32. The Cure
+33. Cher
+34. Kylie Minogue
+35. Buddy Holly
+36. Ke$ha
+37. Joss Stone
+38. Incubus
+39. Pixie Lott
+40. Stone Sour
+41. Cobra Starship
+42. Jeff Buckley
+43. Simon & Garfunkel
+44. The All-American Rejects
+45. Florence + the Machine
+46. Janis Joplin
+47. Alanis Morissette
+48. Demi Lovato
+49. Hilary Duff
+50. Elvis Presley

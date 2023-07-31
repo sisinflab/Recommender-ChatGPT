@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for this user are:
+
+1. Depeche Mode
+2. Ultravox
+3. Orchestral Manoeuvres in the Dark
+4. A Flock of Seagulls
+5. The Cure
+6. Gary Numan
+7. The Stranglers
+8. Erasure
+9. Heaven 17
+10. Duran Duran
+11. Japan
+12. Kim Wilde
+13. Thomas Dolby
+14. ABC
+15. Tears for Fears
+16. Pet Shop Boys
+17. Devo
+18. John Foxx
+19. Mike Oldfield
+20. Camouflage
+21. Yazoo
+22. New Order
+23. INXS
+24. Icehouse
+25. Martin L. Gore
+26. Recoil
+27. Dave Gahan
+28. Roxy Music
+29. Siouxsie and the Banshees
+30. Eurythmics
+31. Ladytron
+32. Spandau Ballet
+33. Kate Bush
+34. Thompson Twins
+35. The Police
+36. Simple Minds
+37. De/Vision
+38. Soft Cell
+39. Joy Division
+40. David Bowie
+41. Electric Light Orchestra
+42. Nik Kershaw
+43. The Cars
+44. Madonna
+45. ZZ Top
+46. Genesis
+47. Talk Talk
+48. Billy Idol
+49. Motörhead
+50. Kylie Minogue

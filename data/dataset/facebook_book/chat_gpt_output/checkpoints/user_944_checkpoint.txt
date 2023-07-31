@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Girl with the Dragon Tattoo by Stieg Larsson
+2. The Da Vinci Code by Dan Brown
+3. The Hunger Games by Suzanne Collins
+4. The Catcher in the Rye by J.D. Salinger
+5. To Kill a Mockingbird by Harper Lee
+6. The Lord of the Rings by J.R.R. Tolkien
+7. The Hobbit by J.R.R. Tolkien
+8. The Chronicles of Narnia by C.S. Lewis
+9. Harry Potter (series) by J.K. Rowling
+10. The Fault in Our Stars by John Green
+11. The Book Thief by Markus Zusak
+12. The Alchemist by Paulo Coelho
+13. The Picture of Dorian Gray by Oscar Wilde
+14. The Great Gatsby by F. Scott Fitzgerald
+15. Animal Farm by George Orwell
+16. 1984 by George Orwell
+17. Brave New World by Aldous Huxley
+18. The Road by Cormac McCarthy
+19. The Stand by Stephen King
+20. The Shining by Stephen King
+21. The Silence of the Lambs by Thomas Harris
+22. The Bourne Identity by Robert Ludlum
+23. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+24. The Martian by Andy Weir
+25. The Help by Kathryn Stockett
+26. The Secret Life of Bees by Sue Monk Kidd
+27. The Color Purple by Alice Walker
+28. The Joy Luck Club by Amy Tan
+29. The House on Mango Street by Sandra Cisneros
+30. The Poisonwood Bible by Barbara Kingsolver
+31. The Time Traveler's Wife by Audrey Niffenegger
+32. The Lovely Bones by Alice Sebold
+33. The Giver by Lois Lowry
+34. The Maze Runner by James Dashner
+35. The Hunger Games (series) by Suzanne Collins
+36. Divergent (series) by Veronica Roth
+37. The Mortal Instruments (series) by Cassandra Clare
+38. The Infernal Devices (series) by Cassandra Clare
+39. The Selection (series) by Kiera Cass
+40. The Lunar Chronicles (series) by Marissa Meyer
+41. The Maze Runner (series) by James Dashner
+42. The Fault in Our Stars by John Green
+43. Looking for Alaska by John Green
+44. Paper Towns by John Green
+45. An Abundance of Katherines by John Green
+46. The Perks of Being a Wallflower by Stephen Chbosky
+47. The Outsiders by S.E. Hinton
+48. The Fault in Our Stars by John Green
+49. The Book Thief by Markus Zusak
+50. The Hunger Games (series) by Suzanne Collins

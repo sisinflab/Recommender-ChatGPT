@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. The Catcher in the Rye by J.D. Salinger
+4. To Kill a Mockingbird by Harper Lee
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Animal Farm by George Orwell
+7. The Bell Jar by Sylvia Plath
+8. Catch-22 by Joseph Heller
+9. The Road by Cormac McCarthy
+10. The Handmaid's Tale by Margaret Atwood
+11. The Picture of Dorian Gray by Oscar Wilde
+12. The Brothers Karamazov by Fyodor Dostoevsky
+13. Crime and Punishment by Fyodor Dostoevsky
+14. Lolita by Vladimir Nabokov
+15. One Flew Over the Cuckoo's Nest by Ken Kesey
+16. The Sun Also Rises by Ernest Hemingway
+17. For Whom the Bell Tolls by Ernest Hemingway
+18. The Old Man and the Sea by Ernest Hemingway
+19. The Sound and the Fury by William Faulkner
+20. As I Lay Dying by William Faulkner
+21. The Grapes of Wrath by John Steinbeck
+22. East of Eden by John Steinbeck
+23. Of Mice and Men by John Steinbeck
+24. The Lord of the Rings by J.R.R. Tolkien
+25. The Hobbit by J.R.R. Tolkien
+26. The Chronicles of Narnia by C.S. Lewis
+27. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+28. The Foundation Trilogy by Isaac Asimov
+29. Dune by Frank Herbert
+30. Neuromancer by William Gibson
+31. Snow Crash by Neal Stephenson
+32. The Name of the Rose by Umberto Eco
+33. The Shadow of the Wind by Carlos Ruiz Zafón
+34. The Girl with the Dragon Tattoo by Stieg Larsson
+35. The Hunger Games by Suzanne Collins
+36. The Road to Serfdom by Friedrich Hayek
+37. The Wealth of Nations by Adam Smith
+38. The Communist Manifesto by Karl Marx and Friedrich Engels
+39. The Republic by Plato
+40. The Prince by Niccolò Machiavelli
+41. The Art of War by Sun Tzu
+42. The Tao Te Ching by Lao Tzu
+43. The Bible
+44. The Quran
+45. The Bhagavad Gita
+46. The Book of Mormon
+47. The Iliad by Homer
+48. The Odyssey by Homer
+49. Beowulf
+50. The Divine Comedy by Dante Alighieri

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. City of Bones by Cassandra Clare
+2. City of Glass by Cassandra Clare
+3. City of Fallen Angels by Cassandra Clare
+4. City of Lost Souls by Cassandra Clare
+5. Clockwork Angel by Cassandra Clare
+6. Clockwork Prince by Cassandra Clare
+7. Clockwork Princess by Cassandra Clare
+8. The Mortal Instruments: The Graphic Novel, Vol. 1 by Cassandra Clare
+9. The Mortal Instruments: The Graphic Novel, Vol. 2 by Cassandra Clare
+10. The Mortal Instruments: The Graphic Novel, Vol. 3 by Cassandra Clare
+11. The Infernal Devices: The Graphic Novel, Vol. 1 by Cassandra Clare
+12. The Infernal Devices: The Graphic Novel, Vol. 2 by Cassandra Clare
+13. The Infernal Devices: The Graphic Novel, Vol. 3 by Cassandra Clare
+14. The Bane Chronicles by Cassandra Clare
+15. Tales from the Shadowhunter Academy by Cassandra Clare
+16. The Dark Artifices: Lady Midnight by Cassandra Clare
+17. The Dark Artifices: Lord of Shadows by Cassandra Clare
+18. The Dark Artifices: Queen of Air and Darkness by Cassandra Clare
+19. The Hunger Games by Suzanne Collins
+20. Catching Fire by Suzanne Collins
+21. Mockingjay by Suzanne Collins
+22. Divergent by Veronica Roth
+23. Insurgent by Veronica Roth
+24. Allegiant by Veronica Roth
+25. The Maze Runner by James Dashner
+26. The Scorch Trials by James Dashner
+27. The Death Cure by James Dashner
+28. The Kill Order by James Dashner
+29. The Fever Code by James Dashner
+30. The Giver by Lois Lowry
+31. Gathering Blue by Lois Lowry
+32. Messenger by Lois Lowry
+33. Son by Lois Lowry
+34. The Selection by Kiera Cass
+35. The Elite by Kiera Cass
+36. The One by Kiera Cass
+37. The Heir by Kiera Cass
+38. The Crown by Kiera Cass
+39. The Fault in Our Stars by John Green
+40. Looking for Alaska by John Green
+41. Paper Towns by John Green
+42. An Abundance of Katherines by John Green
+43. Will Grayson, Will Grayson by John Green and David Levithan
+44. Eleanor & Park by Rainbow Rowell
+45. Fangirl by Rainbow Rowell
+46. Carry On by Rainbow Rowell
+47. The Book Thief by Markus Zusak
+48. I Am Number Four by Pittacus Lore
+49. The Power of Six by Pittacus Lore
+50. The Rise of Nine by Pittacus Lore

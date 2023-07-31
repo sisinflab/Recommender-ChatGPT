@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. A Spell for Chameleon by Piers Anthony
+2. The Sword of Truth by Terry Goodkind
+3. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+4. The Amber Spyglass by Philip Pullman
+5. A Wizard of Earthsea by Ursula K. Le Guin
+6. Wielding a Red Sword by Piers Anthony
+7. Prey by Michael Crichton
+8. The Golem's Eye by Jonathan Stroud
+9. The Picture of Dorian Gray by Oscar Wilde
+10. Of Mice and Men by John Steinbeck
+11. Brave New World by Aldous Huxley
+12. The Great Gatsby by F. Scott Fitzgerald
+13. The Crystal Cave by Mary Stewart
+14. Valiant: A Modern Tale of Faerie by Holly Black
+15. The Canterbury Tales by Geoffrey Chaucer
+16. Blood Meridian by Cormac McCarthy
+17. Paradise Lost by John Milton
+18. The Lord of the Rings by J.R.R. Tolkien
+19. A Midsummer Night's Dream by William Shakespeare
+20. Madame Bovary by Gustave Flaubert
+21. Gospel of Matthew by Anonymous
+22. Gospel of Mark by Anonymous
+23. Angels & Demons by Dan Brown
+24. Dear John by Nicholas Sparks
+25. Wild Magic by Tamora Pierce
+26. The Last Song by Nicholas Sparks
+27. Lock and Key by Sarah Dessen
+28. Flirt by Laurell K. Hamilton
+29. The Crucible of Time by John Brunner
+30. Into Thin Air by Jon Krakauer
+31. Digital Fortress by Dan Brown
+32. Deception Point by Dan Brown
+33. Sphere by Michael Crichton
+34. Chainfire by Terry Goodkind
+35. City of Glass by Cassandra Clare
+36. Blood of the Fold by Terry Goodkind
+37. Shade's Children by Garth Nix
+38. The Demon in the Freezer by Richard Preston
+39. Twilight by Stephenie Meyer
+40. Underworld by Don DeLillo
+41. Trainspotting by Irvine Welsh
+42. The Pillars of Creation by Terry Goodkind
+43. City of Ashes by Cassandra Clare
+44. Soul of the Fire by Terry Goodkind
+45. Green Angel by Alice Hoffman
+46. Frankenstein by Mary Shelley
+47. The World According to Garp by John Irving
+48. Diary of a Wimpy Kid by Jeff Kinney
+49. Sin City by Frank Miller
+50. With a Tangled Skein by Piers Anthony

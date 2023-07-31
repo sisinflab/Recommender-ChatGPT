@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for user 785 are:
+
+1. Queen
+2. Guns N' Roses
+3. AC/DC
+4. Oasis
+5. Foo Fighters
+6. The Who
+7. Bon Jovi
+8. Aerosmith
+9. Pink Floyd
+10. Led Zeppelin
+11. Metallica
+12. Nirvana
+13. Red Hot Chili Peppers
+14. The Rolling Stones
+15. U2
+16. The Beatles
+17. Radiohead
+18. Iron Maiden
+19. Michael Jackson
+20. David Bowie
+21. Pearl Jam
+22. The Smashing Pumpkins
+23. System of a Down
+24. Muse
+25. Coldplay
+26. The Killers
+27. Green Day
+28. My Chemical Romance
+29. Linkin Park
+30. Nine Inch Nails
+31. Depeche Mode
+32. The Cure
+33. Duran Duran
+34. Arctic Monkeys
+35. Placebo
+36. Blur
+37. Evanescence
+38. Paramore
+39. Avenged Sevenfold
+40. Black Eyed Peas
+41. Lady Gaga
+42. Christina Aguilera
+43. Madonna
+44. Beyoncé
+45. Rihanna
+46. Katy Perry
+47. Ke$ha
+48. Pink
+49. Kelly Clarkson
+50. Miley Cyrus

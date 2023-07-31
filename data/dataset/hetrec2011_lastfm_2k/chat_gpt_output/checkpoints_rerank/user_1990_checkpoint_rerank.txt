@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Wu-Tang Clan
+2. MF DOOM
+3. J Dilla
+4. Gang Starr
+5. Cypress Hill
+6. Notorious B.I.G.
+7. Mobb Deep
+8. Raekwon
+9. Kanye West
+10. Lupe Fiasco
+11. DJ Shadow
+12. Snoop Dogg
+13. The Roots
+14. Nirvana
+15. Metallica
+16. Pearl Jam
+17. Iron Maiden
+18. Led Zeppelin
+19. Michael Jackson
+20. Pink Floyd
+21. U2
+22. Muse
+23. Radiohead
+24. Nine Inch Nails
+25. System of a Down
+26. Daft Punk
+27. Linkin Park
+28. The Beatles
+29. The Killers
+30. Coldplay
+31. Arctic Monkeys
+32. Placebo
+33. Duran Duran
+34. Blur
+35. Green Day
+36. My Chemical Romance
+37. Avenged Sevenfold
+38. Black Eyed Peas
+39. Beyoncé
+40. Lady Gaga
+41. Rihanna
+42. Madonna
+43. Christina Aguilera
+44. Katy Perry
+45. Taylor Swift
+46. Ke$ha
+47. Paramore
+48. Evanescence
+49. P!nk
+50. Kelly Clarkson

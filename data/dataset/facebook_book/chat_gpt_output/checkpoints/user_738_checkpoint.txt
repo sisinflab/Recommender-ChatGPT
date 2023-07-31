@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Percy Jackson and the Lightning Thief by Rick Riordan
+3. Harry Potter and the Philosopher's Stone by J.K. Rowling
+4. Divergent by Veronica Roth
+5. The Maze Runner by James Dashner
+6. The Fault in Our Stars by John Green
+7. The Lightning Thief by Rick Riordan
+8. The Giver by Lois Lowry
+9. The Chronicles of Narnia by C.S. Lewis
+10. The Hobbit by J.R.R. Tolkien
+11. The Lord of the Rings by J.R.R. Tolkien
+12. The Mortal Instruments by Cassandra Clare
+13. The Infernal Devices by Cassandra Clare
+14. The Selection by Kiera Cass
+15. The Lunar Chronicles by Marissa Meyer
+16. The 5th Wave by Rick Yancey
+17. The Darkest Minds by Alexandra Bracken
+18. Legend by Marie Lu
+19. The Knife of Never Letting Go by Patrick Ness
+20. The Ask and the Answer by Patrick Ness
+21. Monsters of Men by Patrick Ness
+22. The Name of the Wind by Patrick Rothfuss
+23. The Wise Man's Fear by Patrick Rothfuss
+24. The Lies of Locke Lamora by Scott Lynch
+25. Mistborn by Brandon Sanderson
+26. The Final Empire by Brandon Sanderson
+27. The Well of Ascension by Brandon Sanderson
+28. The Hero of Ages by Brandon Sanderson
+29. The Way of Kings by Brandon Sanderson
+30. Steelheart by Brandon Sanderson
+31. Firefight by Brandon Sanderson
+32. Calamity by Brandon Sanderson
+33. Red Rising by Pierce Brown
+34. Golden Son by Pierce Brown
+35. Morning Star by Pierce Brown
+36. The Magicians by Lev Grossman
+37. The Magician King by Lev Grossman
+38. The Magician's Land by Lev Grossman
+39. The Dark Tower by Stephen King
+40. The Gunslinger by Stephen King
+41. The Drawing of the Three by Stephen King
+42. The Waste Lands by Stephen King
+43. Wizard and Glass by Stephen King
+44. Wolves of the Calla by Stephen King
+45. Song of Susannah by Stephen King
+46. The Dark Tower by Stephen King
+47. The Eye of the World by Robert Jordan
+48. The Great Hunt by Robert Jordan
+49. The Dragon Reborn by Robert Jordan
+50. A Game of Thrones by George R.R. Martin

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. Brave New World by Aldous Huxley
+4. The Catcher in the Rye by J.D. Salinger
+5. To Kill a Mockingbird by Harper Lee
+6. The Great Gatsby by F. Scott Fitzgerald
+7. One Hundred Years of Solitude by Gabriel Garcia Marquez
+8. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+9. The Hobbit by J.R.R. Tolkien
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Hunger Games by Suzanne Collins
+12. Catching Fire by Suzanne Collins
+13. Mockingjay by Suzanne Collins
+14. The Maze Runner by James Dashner
+15. The Giver by Lois Lowry
+16. The Book Thief by Markus Zusak
+17. The Fault in Our Stars by John Green
+18. Looking for Alaska by John Green
+19. Paper Towns by John Green
+20. The Perks of Being a Wallflower by Stephen Chbosky
+21. The Road by Cormac McCarthy
+22. The Girl with the Dragon Tattoo by Stieg Larsson
+23. The Girl Who Played with Fire by Stieg Larsson
+24. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+25. The Da Vinci Code by Dan Brown
+26. Angels and Demons by Dan Brown
+27. Inferno by Dan Brown
+28. The Shining by Stephen King
+29. Carrie by Stephen King
+30. The Stand by Stephen King
+31. The Dark Tower series by Stephen King
+32. The Chronicles of Narnia by C.S. Lewis
+33. The Harry Potter series by J.K. Rowling
+34. The Girl on the Train by Paula Hawkins
+35. Gone Girl by Gillian Flynn
+36. The Silence of the Lambs by Thomas Harris
+37. Red Dragon by Thomas Harris
+38. Hannibal by Thomas Harris
+39. The Bourne Identity by Robert Ludlum
+40. The Bourne Supremacy by Robert Ludlum
+41. The Bourne Ultimatum by Robert Ludlum
+42. The Bourne Legacy by Eric Van Lustbader
+43. The Bourne Betrayal by Eric Van Lustbader
+44. The Bourne Sanction by Eric Van Lustbader
+45. The Bourne Deception by Eric Van Lustbader
+46. The Bourne Objective by Eric Van Lustbader
+47. The Bourne Dominion by Eric Van Lustbader
+48. The Bourne Imperative by Eric Van Lustbader
+49. The Bourne Retribution by Eric Van Lustbader
+50. The Bourne Ascendancy by Eric Van Lustbader

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Arcade Fire
+2. Foals
+3. Vampire Weekend
+4. Tame Impala
+5. The National
+6. Alt-J
+7. Interpol
+8. Phoenix
+9. The Black Keys
+10. The xx
+11. Two Door Cinema Club
+12. The Kooks
+13. Bombay Bicycle Club
+14. The Vaccines
+15. Florence + The Machine
+16. The 1975
+17. Arctic Monkeys (Tranquility Base Hotel & Casino)
+18. Radiohead (In Rainbows)
+19. Muse (Black Holes and Revelations)
+20. Coldplay (A Rush of Blood to the Head)
+21. The Killers (Hot Fuss)
+22. Franz Ferdinand (Franz Ferdinand)
+23. Kasabian (West Ryder Pauper Lunatic Asylum)
+24. The Strokes (Is This It)
+25. Blur (Parklife)
+26. Oasis (Definitely Maybe)
+27. The Beatles (Revolver)
+28. Pink Floyd (The Dark Side of the Moon)
+29. Led Zeppelin (IV)
+30. Queen (A Night at the Opera)
+31. David Bowie (The Rise and Fall of Ziggy Stardust and the Spiders from Mars)
+32. The Rolling Stones (Exile on Main St.)
+33. Bob Dylan (Highway 61 Revisited)
+34. Neil Young (Harvest)
+35. Fleetwood Mac (Rumours)
+36. The Who (Who's Next)
+37. The Doors (The Doors)
+38. Jimi Hendrix (Are You Experienced)
+39. Cream (Disraeli Gears)
+40. The Velvet Underground (The Velvet Underground & Nico)
+41. Talking Heads (Remain in Light)
+42. Joy Division (Unknown Pleasures)
+43. The Cure (Disintegration)
+44. New Order (Power, Corruption & Lies)
+45. Depeche Mode (Violator)
+46. The Smiths (The Queen Is Dead)
+47. R.E.M. (Automatic for the People)
+48. U2 (The Joshua Tree)
+49. Pearl Jam (Ten)
+50. Nirvana (Nevermind)

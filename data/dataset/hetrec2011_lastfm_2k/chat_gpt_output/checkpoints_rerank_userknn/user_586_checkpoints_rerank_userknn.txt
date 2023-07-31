@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Slayer
+2. Behemoth
+3. Morbid Angel
+4. Dimmu Borgir
+5. Immortal
+6. Burzum
+7. Hypocrisy
+8. Marduk
+9. Vader
+10. Amon Amarth
+11. Children of Bodom
+12. Sodom
+13. Kreator
+14. Soilwork
+15. Arch Enemy
+16. Cannibal Corpse
+17. Death
+18. Metallica
+19. Pantera
+20. Led Zeppelin
+21. Black Sabbath
+22. Deep Purple
+23. Iron Maiden
+24. Judas Priest
+25. Napalm Death
+26. Sepultura
+27. Pink Floyd
+28. Explosions in the Sky
+29. Mono
+30. Johann Sebastian Bach
+31. Frédéric Chopin
+32. Yann Tiersen
+33. Howard Shore
+34. Sigur Rós
+35. Architects
+36. Testament
+37. Opeth
+38. King Diamond
+39. Slayer
+40. Tom Waits
+41. Madness
+42. Destruction
+43. The Beatles
+44. The Rolling Stones
+45. Nirvana
+46. Death Cab for Cutie
+47. Foals
+48. Tori Amos
+49. P!nk
+50. Lady Gaga

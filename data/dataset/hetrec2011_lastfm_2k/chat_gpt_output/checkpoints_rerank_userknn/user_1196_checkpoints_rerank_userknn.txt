@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Nirvana
+2. Engenheiros do Hawaii
+3. Puddle of Mudd
+4. Foo Fighters
+5. Soundgarden
+6. Alice in Chains
+7. Silverchair
+8. P.O.D.
+9. Bush
+10. Paramore
+11. Pearl Jam
+12. Hoobastank
+13. Nickelback
+14. Green Day
+15. Rage Against the Machine
+16. Evanescence
+17. Red Hot Chili Peppers
+18. Limp Bizkit
+19. Audioslave
+20. Metallica
+21. Mudhoney
+22. The Offspring
+23. Chevelle
+24. Stone Temple Pilots
+25. Weezer
+26. Capital Inicial
+27. The Cure
+28. Incubus
+29. Hole
+30. Box Car Racer
+31. Modest Mouse
+32. The Beatles
+33. My Chemical Romance
+34. Korn
+35. Deftones
+36. Ramones
+37. Linkin Park
+38. Trivium
+39. The Smashing Pumpkins
+40. Joy Division
+41. AFI
+42. Bad Religion
+43. Gorillaz
+44. Blink-182
+45. Placebo
+46. Bauhaus
+47. Slayer
+48. Marilyn Manson
+49. R.E.M.
+50. Bloodhound Gang

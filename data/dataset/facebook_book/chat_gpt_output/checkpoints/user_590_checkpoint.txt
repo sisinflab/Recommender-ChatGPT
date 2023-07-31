@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. Wuthering Heights by Emily Bronte
+3. Jane Eyre by Charlotte Bronte
+4. Sense and Sensibility by Jane Austen
+5. To Kill a Mockingbird by Harper Lee
+6. The Catcher in the Rye by J.D. Salinger
+7. 1984 by George Orwell
+8. Brave New World by Aldous Huxley
+9. The Great Gatsby by F. Scott Fitzgerald
+10. One Hundred Years of Solitude by Gabriel Garcia Marquez
+11. Crime and Punishment by Fyodor Dostoevsky
+12. The Brothers Karamazov by Fyodor Dostoevsky
+13. Anna Karenina by Leo Tolstoy
+14. War and Peace by Leo Tolstoy
+15. Les Miserables by Victor Hugo
+16. The Count of Monte Cristo by Alexandre Dumas
+17. The Hunchback of Notre Dame by Victor Hugo
+18. The Scarlet Letter by Nathaniel Hawthorne
+19. Moby-Dick by Herman Melville
+20. Frankenstein by Mary Shelley
+21. Dracula by Bram Stoker
+22. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+23. Heart of Darkness by Joseph Conrad
+24. Lord of the Flies by William Golding
+25. The Lord of the Rings by J.R.R. Tolkien
+26. The Hobbit by J.R.R. Tolkien
+27. The Chronicles of Narnia by C.S. Lewis
+28. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+29. The Da Vinci Code by Dan Brown
+30. Angels and Demons by Dan Brown
+31. The Girl with the Dragon Tattoo by Stieg Larsson
+32. The Hunger Games by Suzanne Collins
+33. Catching Fire by Suzanne Collins
+34. Mockingjay by Suzanne Collins
+35. The Maze Runner by James Dashner
+36. The Bourne Identity by Robert Ludlum
+37. The Firm by John Grisham
+38. The Pelican Brief by John Grisham
+39. The Silence of the Lambs by Thomas Harris
+40. Red Dragon by Thomas Harris
+41. The Shining by Stephen King
+42. Carrie by Stephen King
+43. The Stand by Stephen King
+44. The Dark Tower series by Stephen King
+45. The Girl on the Train by Paula Hawkins
+46. Gone Girl by Gillian Flynn
+47. The Help by Kathryn Stockett
+48. The Secret Life of Bees by Sue Monk Kidd
+49. The Kite Runner by Khaled Hosseini
+50. A Thousand Splendid Suns by Khaled Hosseini

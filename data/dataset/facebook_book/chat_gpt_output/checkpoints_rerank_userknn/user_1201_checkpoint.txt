@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Bell Jar by Sylvia Plath
+3. The Book Thief by Markus Zusak
+4. A Thousand Splendid Suns by Khaled Hosseini
+5. The Help by Kathryn Stockett
+6. The Kite Runner by Khaled Hosseini
+7. One Hundred Years of Solitude by Gabriel Garcia Marquez
+8. Frankenstein by Mary Shelley
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Girl Who Played with Fire by Stieg Larsson
+11. Fahrenheit 451 by Ray Bradbury
+12. A Clockwork Orange by Anthony Burgess
+13. Slaughterhouse-Five by Kurt Vonnegut
+14. Walden by Henry David Thoreau
+15. The Scarlet Letter by Nathaniel Hawthorne
+16. Middlesex by Jeffrey Eugenides
+17. Crime and Punishment by Fyodor Dostoyevsky
+18. The Picture of Dorian Gray by Oscar Wilde
+19. Vanity Fair by William Makepeace Thackeray
+20. The Namesake by Jhumpa Lahiri
+21. Life of Pi by Yann Martel
+22. The Secret Life of Bees by Sue Monk Kidd
+23. The God of Small Things by Arundhati Roy
+24. The Devil in the White City by Erik Larson
+25. Night by Elie Wiesel
+26. My Sister's Keeper by Jodi Picoult
+27. Stiff: The Curious Lives of Human Cadavers by Mary Roach
+28. Ink Exchange by Melissa Marr
+29. Sabriel by Garth Nix
+30. Speak by Laurie Halse Anderson
+31. The Perks of Being a Wallflower by Stephen Chbosky
+32. The Giver by Lois Lowry
+33. Adventures of Huckleberry Finn by Mark Twain
+34. The Lathe of Heaven by Ursula K. Le Guin
+35. Girl with a Pearl Earring by Tracy Chevalier
+36. The Vagina Monologues by Eve Ensler
+37. I Am the Cheese by Robert Cormier
+38. The Island of Doctor Moreau by H.G. Wells
+39. Revolutionary Road by Richard Yates
+40. Galápagos by Kurt Vonnegut
+41. Oh, the Places You'll Go! by Dr. Seuss
+42. The Importance of Being Earnest by Oscar Wilde
+43. Romeo and Juliet by William Shakespeare
+44. Interview with the Vampire by Anne Rice
+45. Oedipus the King by Sophocles
+46. Hush, Hush by Becca Fitzpatrick
+47. Eldest by Christopher Paolini
+48. Dear John by Nicholas Sparks
+49. Twilight by Stephenie Meyer
+50. The

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Daft Punk
+2. Black Eyed Peas
+3. Coldplay
+4. David Guetta
+5. Armin van Buuren
+6. Tiësto
+7. Justice
+8. Groove Armada
+9. Simian Mobile Disco
+10. Digitalism
+11. Capsule
+12. Infected Mushroom
+13. The Prodigy
+14. Massive Attack
+15. Brown Eyed Girls
+16. 2NE1
+17. Lady Gaga
+18. Madonna
+19. Rihanna
+20. Beyoncé
+21. Katy Perry
+22. Pink Floyd
+23. Muse
+24. Radiohead
+25. Nirvana
+26. Led Zeppelin
+27. Metallica
+28. Iron Maiden
+29. Pearl Jam
+30. Depeche Mode
+31. The Beatles
+32. U2
+33. Duran Duran
+34. Blur
+35. Arctic Monkeys
+36. Placebo
+37. The Killers
+38. Michael Jackson
+39. Amy Winehouse
+40. Björk
+41. Nine Inch Nails
+42. Linkin Park
+43. Avenged Sevenfold
+44. System of a Down
+45. Kelly Clarkson
+46. All Time Low
+47. P!nk
+48. My Chemical Romance
+49. Green Day
+50. The Cure

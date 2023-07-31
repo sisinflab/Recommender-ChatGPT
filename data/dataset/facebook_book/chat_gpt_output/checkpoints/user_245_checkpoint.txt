@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. The Fault in Our Stars by John Green
+3. To Kill a Mockingbird by Harper Lee
+4. The Chronicles of Narnia by C.S. Lewis
+5. The Lord of the Rings by J.R.R. Tolkien
+6. The Giver by Lois Lowry
+7. The Maze Runner by James Dashner
+8. Divergent by Veronica Roth
+9. The Secret Garden by Frances Hodgson Burnett
+10. The Hobbit by J.R.R. Tolkien
+11. The Catcher in the Rye by J.D. Salinger
+12. The Outsiders by S.E. Hinton
+13. The Perks of Being a Wallflower by Stephen Chbosky
+14. The Great Gatsby by F. Scott Fitzgerald
+15. The Alchemist by Paulo Coelho
+16. The Little Prince by Antoine de Saint-Exupéry
+17. The Girl with the Dragon Tattoo by Stieg Larsson
+18. The Da Vinci Code by Dan Brown
+19. The Help by Kathryn Stockett
+20. The Kite Runner by Khaled Hosseini
+21. The Lovely Bones by Alice Sebold
+22. The Picture of Dorian Gray by Oscar Wilde
+23. The Adventures of Tom Sawyer by Mark Twain
+24. The Adventures of Huckleberry Finn by Mark Twain
+25. The Count of Monte Cristo by Alexandre Dumas
+26. The Three Musketeers by Alexandre Dumas
+27. Les Misérables by Victor Hugo
+28. The Scarlet Letter by Nathaniel Hawthorne
+29. Jane Eyre by Charlotte Bronte
+30. Wuthering Heights by Emily Bronte
+31. Pride and Prejudice by Jane Austen
+32. Sense and Sensibility by Jane Austen
+33. Emma by Jane Austen
+34. Persuasion by Jane Austen
+35. Northanger Abbey by Jane Austen
+36. The Time Traveler's Wife by Audrey Niffenegger
+37. The Notebook by Nicholas Sparks
+38. A Walk to Remember by Nicholas Sparks
+39. The Last Song by Nicholas Sparks
+40. The Lucky One by Nicholas Sparks
+41. The Best of Me by Nicholas Sparks
+42. The Longest Ride by Nicholas Sparks
+43. The Choice by Nicholas Sparks
+44. The Shack by William P. Young
+45. The Help by Kathryn Stockett
+46. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+47. The Devil in the White City by Erik Larson
+48. The Glass Castle by Jeannette Walls
+49. The Nightingale by Kristin Hannah
+50. The Book of Lost Things by John Connolly

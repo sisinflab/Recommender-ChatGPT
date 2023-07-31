@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Maze Runner by James Dashner
+4. The Fault in Our Stars by John Green
+5. The Giver by Lois Lowry
+6. The Selection by Kiera Cass
+7. The Mortal Instruments by Cassandra Clare
+8. The Infernal Devices by Cassandra Clare
+9. The Chronicles of Narnia by C.S. Lewis
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Hobbit by J.R.R. Tolkien
+12. The Percy Jackson series by Rick Riordan
+13. The Heroes of Olympus series by Rick Riordan
+14. The Kane Chronicles by Rick Riordan
+15. The Secret Circle by L.J. Smith
+16. The Vampire Diaries by L.J. Smith
+17. The Twilight Saga by Stephenie Meyer
+18. The Host by Stephenie Meyer
+19. The Uglies series by Scott Westerfeld
+20. The Leviathan series by Scott Westerfeld
+21. The Lunar Chronicles by Marissa Meyer
+22. The Selection series by Kiera Cass
+23. The 5th Wave by Rick Yancey
+24. The Darkest Minds by Alexandra Bracken
+25. The Maze Runner series by James Dashner
+26. The Giver Quartet by Lois Lowry
+27. The Legend series by Marie Lu
+28. The Chemical Garden Trilogy by Lauren DeStefano
+29. The Delirium Trilogy by Lauren Oliver
+30. The Matched Trilogy by Ally Condie
+31. The Testing Trilogy by Joelle Charbonneau
+32. The Unwind Dystology by Neal Shusterman
+33. The Lunar Chronicles by Marissa Meyer
+34. The Selection series by Kiera Cass
+35. The 5th Wave by Rick Yancey
+36. The Darkest Minds by Alexandra Bracken
+37. The Maze Runner series by James Dashner
+38. The Giver Quartet by Lois Lowry
+39. The Legend series by Marie Lu
+40. The Chemical Garden Trilogy by Lauren DeStefano
+41. The Delirium Trilogy by Lauren Oliver
+42. The Matched Trilogy by Ally Condie
+43. The Testing Trilogy by Joelle Charbonneau
+44. The Unwind Dystology by Neal Shusterman
+45. The Lunar Chronicles by Marissa Meyer
+46. The Selection series by Kiera Cass
+47. The 5th Wave by Rick Yancey
+48. The Darkest Minds by Alexandra Bracken
+49. The Maze Runner series by James Dashner
+50. The Giver Quartet by Lois Lowry

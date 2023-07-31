@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. Brave New World by Aldous Huxley
+4. Catch-22 by Joseph Heller
+5. Crime and Punishment by Fyodor Dostoevsky
+6. Dracula by Bram Stoker
+7. Fahrenheit 451 by Ray Bradbury
+8. Frankenstein by Mary Shelley
+9. Heart of Darkness by Joseph Conrad
+10. Jane Eyre by Charlotte Bronte
+11. Les Miserables by Victor Hugo
+12. Lolita by Vladimir Nabokov
+13. Lord of the Flies by William Golding
+14. Moby-Dick by Herman Melville
+15. Nineteen Eighty-Four by George Orwell
+16. One Hundred Years of Solitude by Gabriel Garcia Marquez
+17. Pride and Prejudice by Jane Austen
+18. Slaughterhouse-Five by Kurt Vonnegut
+19. The Adventures of Huckleberry Finn by Mark Twain
+20. The Brothers Karamazov by Fyodor Dostoevsky
+21. The Catcher in the Rye by J.D. Salinger
+22. The Count of Monte Cristo by Alexandre Dumas
+23. The Grapes of Wrath by John Steinbeck
+24. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+25. The Hobbit by J.R.R. Tolkien
+26. The Iliad by Homer
+27. The Odyssey by Homer
+28. The Picture of Dorian Gray by Oscar Wilde
+29. The Plague by Albert Camus
+30. The Road by Cormac McCarthy
+31. The Shining by Stephen King
+32. The Stranger by Albert Camus
+33. The Sun Also Rises by Ernest Hemingway
+34. The Time Machine by H.G. Wells
+35. The Trial by Franz Kafka
+36. The War of the Worlds by H.G. Wells
+37. The Wind in the Willows by Kenneth Grahame
+38. The Wonderful Wizard of Oz by L. Frank Baum
+39. Things Fall Apart by Chinua Achebe
+40. To the Lighthouse by Virginia Woolf
+41. Ulysses by James Joyce
+42. War and Peace by Leo Tolstoy
+43. Watership Down by Richard Adams
+44. Wuthering Heights by Emily Bronte
+45. A Clockwork Orange by Anthony Burgess
+46. A Tale of Two Cities by Charles Dickens
+47. Anna Karenina by Leo Tolstoy
+48. Don Quixote by Miguel de Cervantes
+49. Dubliners by James Joyce
+50. The Canterbury Tales by Geoffrey Chaucer

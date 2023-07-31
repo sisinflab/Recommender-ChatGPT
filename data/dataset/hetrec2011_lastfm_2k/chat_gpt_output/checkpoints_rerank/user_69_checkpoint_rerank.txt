@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. Björk
+3. Aphex Twin
+4. The Flaming Lips
+5. Madlib
+6. Flying Lotus
+7. J Dilla
+8. Neutral Milk Hotel
+9. Mos Def
+10. MF DOOM
+11. Joy Division
+12. Four Tet
+13. Belle and Sebastian
+14. Pavement
+15. De La Soul
+16. Raekwon
+17. Yeasayer
+18. Deerhunter
+19. The Smiths
+20. Burial
+21. Prefuse 73
+22. GZA/Genius
+23. The Beatles
+24. Pink Floyd
+25. Led Zeppelin
+26. Nirvana
+27. Metallica
+28. Iron Maiden
+29. Pearl Jam
+30. Duran Duran
+31. The Cure
+32. Daft Punk
+33. Nine Inch Nails
+34. Linkin Park
+35. Muse
+36. Coldplay
+37. Arctic Monkeys
+38. Placebo
+39. The Killers
+40. My Chemical Romance
+41. Green Day
+42. Avenged Sevenfold
+43. Black Eyed Peas
+44. Michael Jackson
+45. Amy Winehouse
+46. U2
+47. Kylie Minogue
+48. Madonna
+49. Lady Gaga
+50. Christina Aguilera

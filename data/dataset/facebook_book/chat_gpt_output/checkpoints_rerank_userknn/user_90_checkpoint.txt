@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Nineteen Eighty-Four by George Orwell
+2. The Scarlet Pimpernel by Baroness Orczy
+3. Cat's Cradle by Kurt Vonnegut
+4. The Hunger Games by Suzanne Collins
+5. Les Misérables by Victor Hugo
+6. Othello by William Shakespeare
+7. Romeo and Juliet by William Shakespeare
+8. The Great Gatsby by F. Scott Fitzgerald
+9. Heart of Darkness by Joseph Conrad
+10. The Kite Runner by Khaled Hosseini
+11. Pride and Prejudice by Jane Austen
+12. Slaughterhouse-Five by Kurt Vonnegut
+13. The Catcher in the Rye by J.D. Salinger
+14. The Lord of the Rings by J.R.R. Tolkien
+15. The Diary of a Young Girl by Anne Frank
+16. Inferno by Dante Alighieri
+17. The Perks of Being a Wallflower by Stephen Chbosky
+18. Look Me in the Eye by John Elder Robison
+19. No Country for Old Men by Cormac McCarthy
+20. The Messenger by Markus Zusak
+21. Player Piano by Kurt Vonnegut
+22. Silas Marner by George Eliot
+23. The Last Song by Nicholas Sparks
+24. My Name Is Red by Orhan Pamuk
+25. Death Note Another Note: The Los Angeles BB Murder Cases by Nisio Isin
+26. Little Women by Louisa May Alcott
+27. Miss Christina by Mircea Eliade
+28. Macbeth by William Shakespeare
+29. The Alchemist by Paulo Coelho
+30. The Dirt by Mötley Crüe
+31. Oedipus the King by Sophocles
+32. Gone with the Wind by Margaret Mitchell
+33. The Lovely Bones by Alice Sebold
+34. The Hours by Michael Cunningham
+35. Sun Bin's Art of War by Sun Bin
+36. The Anarchist Cookbook by William Powell
+37. The Secret by Rhonda Byrne
+38. Rebecca by Daphne du Maurier
+39. Medea by Euripides
+40. Red Inferno: 1945 by Robert Conroy
+41. Evermore by Alyson Noël
+42. The Stand by Stephen King
+43. Identical by Ellen Hopkins
+44. Percy Jackson & the Olympians by Rick Riordan
+45. King Leary by Paul Quarrington
+46. The Joy Luck Club by Amy Tan
+47. Antigone by Sophocles
+48. Fear and Loathing in Las Vegas by Hunter S. Thompson
+49. Atlas Shrugged by Ayn Rand
+50. The Hamlet by William Faulkner

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for user 1543 would be:
+
+1. Dream Theater
+2. Kamelot
+3. Queensrÿche
+4. Iron Maiden
+5. Edguy
+6. Infected Mushroom
+7. Los Hermanos
+8. Legião Urbana
+9. Evanescence
+10. Muse
+11. Pink Floyd
+12. Radiohead
+13. Nirvana
+14. Led Zeppelin
+15. Metallica
+16. Pearl Jam
+17. System of a Down
+18. Nine Inch Nails
+19. Linkin Park
+20. Avenged Sevenfold
+21. Green Day
+22. My Chemical Romance
+23. The Killers
+24. Coldplay
+25. Arctic Monkeys
+26. Placebo
+27. U2
+28. Duran Duran
+29. Blur
+30. The Cure
+31. Michael Jackson
+32. Madonna
+33. Beyoncé
+34. Lady Gaga
+35. Rihanna
+36. Shakira
+37. Christina Aguilera
+38. Britney Spears
+39. Katy Perry
+40. Taylor Swift
+41. Ke$ha
+42. Miley Cyrus
+43. Avril Lavigne
+44. Black Eyed Peas
+45. Daft Punk
+46. Kylie Minogue
+47. P!nk
+48. Kelly Clarkson
+49. All Time Low
+50. Glee Cast

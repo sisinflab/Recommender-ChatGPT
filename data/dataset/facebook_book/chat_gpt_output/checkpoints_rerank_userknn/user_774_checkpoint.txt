@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Alchemist (novel)
+2. Siddhartha (novel)
+3. Brave New World
+4. Nineteen Eighty-Four
+5. Fahrenheit 451
+6. The Picture of Dorian Gray
+7. The Outsiders (novel)
+8. Cat's Cradle
+9. Slaughterhouse-Five
+10. A Tale of Two Cities
+11. The Great Gatsby
+12. The Stranger (novel)
+13. White Noise (novel)
+14. The Watchmen (novel)
+15. The Running Man (novel)
+16. Choke (novel)
+17. Inferno (Dante)
+18. Macbeth
+19. The Sirens of Titan
+20. The Melancholy Death of Oyster Boy & Other Stories
+21. The Velveteen Rabbit
+22. Everything's Eventual
+23. Night Shift (book)
+24. The Last Lecture
+25. The Prophet (book)
+26. Tao Te Ching
+27. Common Sense (pamphlet)
+28. The World According to Garp
+29. Utopia (book)
+30. The Zombie Survival Guide
+31. John Dies at the End
+32. Lock and Key
+33. Peter and Wendy
+34. Lullaby (Palahniuk novel)
+35. Other Voices, Other Rooms (novel)
+36. Someone like You (novel)
+37. Breakfast at Tiffany's (novella)
+38. Keeping the Moon
+39. Crank (novel)
+40. Diary (novel)
+41. Candy: A Novel of Love and Addiction
+42. You Don't Know Me (novel)
+43. Phantoms (novel)
+44. Thirteen Reasons Why
+45. Nicholas Nickleby
+46. Haunted (Palahniuk novel)
+47. Running with Scissors (memoir)
+48. The Pact (novel)
+49. The Perks of Being a Wallflower
+50. Girl, Interrupted

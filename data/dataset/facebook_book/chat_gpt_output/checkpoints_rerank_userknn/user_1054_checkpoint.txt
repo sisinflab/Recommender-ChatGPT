@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. The Bell Jar by Sylvia Plath
+3. The Great Gatsby by F. Scott Fitzgerald
+4. Nineteen Eighty-Four by George Orwell
+5. Lolita by Vladimir Nabokov
+6. The Handmaid's Tale by Margaret Atwood
+7. The Lord of the Rings by J.R.R. Tolkien
+8. Harry Potter by J.K. Rowling
+9. The Hobbit by J.R.R. Tolkien
+10. The Blind Assassin by Margaret Atwood
+11. The Glass Bead Game by Hermann Hesse
+12. The Silence of the Lambs by Thomas Harris
+13. Cat's Cradle by Kurt Vonnegut
+14. Love, Stargirl by Jerry Spinelli
+15. Othello by William Shakespeare
+16. Invisible Cities by Italo Calvino
+17. Rebecca by Daphne du Maurier
+18. The Grapes of Wrath by John Steinbeck
+19. Iliad by Homer
+20. Paper Towns by John Green
+21. Of Mice and Men by John Steinbeck
+22. Moby-Dick by Herman Melville
+23. Crank by Ellen Hopkins
+24. Fast Food Nation by Eric Schlosser
+25. Le Morte d'Arthur by Thomas Malory
+26. Inferno by Dante Alighieri
+27. Fear and Loathing in Las Vegas by Hunter S. Thompson
+28. Impulse Economy by Gary Schwartz
+29. The Hamlet by William Faulkner
+30. Just Kids by Patti Smith
+31. Ender's Game by Orson Scott Card
+32. Steppenwolf by Hermann Hesse
+33. The Little Prince by Antoine de Saint-Exupéry
+34. Our Mutual Friend by Charles Dickens
+35. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+36. King Leary by Paul Quarrington
+37. The Watchmen by Alan Moore
+38. The Solitaire Mystery by Jostein Gaarder
+39. Nietzsche: Philosopher, Psychologist, Antichrist by Walter Kaufmann
+40. The Hunchback of Notre-Dame by Victor Hugo
+41. Outliers by Malcolm Gladwell
+42. A Streetcar Named Desire by Tennessee Williams
+43. Sophie's World by Jostein Gaarder
+44. The Time Traveler's Wife by Audrey Niffenegger
+45. Number the Stars by Lois Lowry
+46. Freakonomics by Stephen J. Dubner and Steven Levitt
+47. Trainspotting by Irvine Welsh
+48. Shalimar the Clown by Salman Rushdie
+49. The Collector by John Fowles
+50. Alice's Adventures in Wonderland by Lewis

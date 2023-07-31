@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. Jane Eyre by Charlotte Bronte
+3. To Kill a Mockingbird by Harper Lee
+4. The Book Thief by Markus Zusak
+5. The Lord of the Rings by J.R.R. Tolkien
+6. The Secret Garden by Frances Hodgson Burnett
+7. The Catcher in the Rye by J.D. Salinger
+8. Little Women by Louisa May Alcott
+9. The Notebook by Nicholas Sparks
+10. Romeo and Juliet by William Shakespeare
+11. The Scarlet Letter by Nathaniel Hawthorne
+12. Frankenstein by Mary Shelley
+13. Nineteen Eighty-Four by George Orwell
+14. Alice's Adventures in Wonderland by Lewis Carroll
+15. Les Miserables by Victor Hugo
+16. The Giver by Lois Lowry
+17. The Merchant of Venice by William Shakespeare
+18. Mansfield Park by Jane Austen
+19. Tess of the d'Urbervilles by Thomas Hardy
+20. The Princess Bride by William Goldman
+21. The Importance of Being Earnest by Oscar Wilde
+22. A Clockwork Orange by Anthony Burgess
+23. The Southern Vampire Mysteries by Charlaine Harris
+24. The True Believer by Eric Hoffer
+25. Moby-Dick by Herman Melville
+26. Out of the Dust by Karen Hesse
+27. The Guardian by Nicholas Sparks
+28. Will Grayson, Will Grayson by John Green and David Levithan
+29. At First Sight by Nicholas Sparks
+30. Dear John by Nicholas Sparks
+31. Persepolis by Marjane Satrapi
+32. The Umbrella Academy by Gerard Way
+33. Leaving a Doll's House: A Memoir by Claire Bloom
+34. Go Ask Alice by Anonymous
+35. The Lion, the Witch and the Wardrobe by C.S. Lewis
+36. A Million Little Pieces by James Frey
+37. The World as Will and Representation by Arthur Schopenhauer
+38. The Messenger by Markus Zusak
+39. The Wedding by Danielle Steel
+40. Seeds of Yesterday by V.C. Andrews
+41. A Hero of Our Time by Mikhail Lermontov
+42. The Twelve by Justin Cronin
+43. Soldier X by Don L. Wulffson
+44. Emma by Jane Austen
+45. Northanger Abbey by Jane Austen
+46. Harry Potter by J.K. Rowling
+47. Twilight by Stephenie Meyer
+48. Sense and Sensibility by Jane Austen
+49. Book of Revelation by Anonymous
+50. Crank by Ellen Hopkins

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Muse
+2. Coldplay
+3. Depeche Mode
+4. Duran Duran
+5. Sigur Rós
+6. Michael Bublé
+7. Bryan Adams
+8. Keane
+9. Crowded House
+10. Imogen Heap
+11. The Presets
+12. Delta Goodrem
+13. Röyksopp
+14. Sneaker Pimps
+15. Carter Burwell
+16. INXS
+17. Silverchair
+18. Howard Shore
+19. Enya
+20. Ultravox
+21. Spandau Ballet
+22. Soft Cell
+23. Orchestral Manoeuvres in the Dark
+24. Tears for Fears
+25. New Order
+26. Pet Shop Boys
+27. Erasure
+28. Nik Kershaw
+29. David Bowie
+30. Lady Gaga
+31. Madonna
+32. Nouvelle Vague
+33. The Killers
+34. Brandon Flowers
+35. Franz Ferdinand
+36. The Pipettes
+37. Placebo
+38. Garbage
+39. Cyndi Lauper
+40. U2
+41. The Doors
+42. Christina Aguilera
+43. Britney Spears
+44. Maroon 5
+45. Daft Punk
+46. Massive Attack
+47. Timbaland
+48. Shakira
+49. Guano Apes
+50. Enrique Iglesias

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Rolling Stones
+2. Primus
+3. Motörhead
+4. The Doors
+5. Einstürzende Neubauten
+6. Ramones
+7. Black Sabbath
+8. Iron Maiden
+9. The Residents
+10. Ulver
+11. Pink Floyd
+12. Cypress Hill
+13. Led Zeppelin
+14. Mudhoney
+15. Nirvana
+16. Oingo Boingo
+17. Pixies
+18. Tori Amos
+19. Queen
+20. KISS
+21. Faith No More
+22. Melvins
+23. Beastie Boys
+24. The Cramps
+25. Red Hot Chili Peppers
+26. Fantômas
+27. Radiohead
+28. Muse
+29. Metallica
+30. Pearl Jam
+31. Nirvana
+32. Iron Maiden
+33. Michael Jackson
+34. U2
+35. The Beatles
+36. Coldplay
+37. Blur
+38. Arctic Monkeys
+39. Placebo
+40. The Killers
+41. Amy Winehouse
+42. Duran Duran
+43. Björk
+44. System of a Down
+45. Daft Punk
+46. Nine Inch Nails
+47. Linkin Park
+48. Avenged Sevenfold
+49. My Chemical Romance
+50. Green Day

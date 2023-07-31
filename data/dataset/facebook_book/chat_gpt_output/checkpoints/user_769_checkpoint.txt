@@ -1,0 +1,47 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+2. The Restaurant at the End of the Universe by Douglas Adams
+3. Dirk Gently's Holistic Detective Agency by Douglas Adams
+4. The Salmon of Doubt by Douglas Adams
+5. The Long Dark Tea-Time of the Soul by Douglas Adams
+6. The Ultimate Hitchhiker's Guide to the Galaxy by Douglas Adams
+7. The Dune Chronicles by Frank Herbert
+8. The Foundation Trilogy by Isaac Asimov
+9. The Name of the Rose by Umberto Eco
+10. The Prague Cemetery by Umberto Eco
+11. The Island of the Day Before by Umberto Eco
+12. The Feynman Lectures on Physics by Richard Feynman
+13. Surely You're Joking, Mr. Feynman! by Richard Feynman and Ralph Leighton
+14. What Do You Care What Other People Think? by Richard Feynman
+15. Anthem by Ayn Rand
+16. The Fountainhead by Ayn Rand
+17. We the Living by Ayn Rand
+18. The Lord of the Rings by J.R.R. Tolkien
+19. The Hobbit by J.R.R. Tolkien
+20. The Silmarillion by J.R.R. Tolkien
+21. The Children of Hurin by J.R.R. Tolkien
+22. The Book of Lost Tales by J.R.R. Tolkien
+23. The Crying of Lot 49 by Thomas Pynchon
+24. Gravity's Rainbow by Thomas Pynchon
+25. V. by Thomas Pynchon
+26. Infinite Jest by David Foster Wallace
+27. The Pale King by David Foster Wallace
+28. The Broom of the System by David Foster Wallace
+29. The Catcher in the Rye by J.D. Salinger
+30. Franny and Zooey by J.D. Salinger
+31. Nine Stories by J.D. Salinger
+32. The Great Gatsby by F. Scott Fitzgerald
+33. Tender Is the Night by F. Scott Fitzgerald
+34. This Side of Paradise by F. Scott Fitzgerald
+35. The Sun Also Rises by Ernest Hemingway
+36. A Farewell to Arms by Ernest Hemingway
+37. For Whom the Bell Tolls by Ernest Hemingway
+38. The Old Man and the Sea by Ernest Hemingway
+39. One Hundred Years of Solitude by Gabriel Garcia Marquez
+40. Love in the Time of Cholera by Gabriel Garcia Marquez
+41. Chronicle of a Death Foretold by Gabriel Garcia Marquez
+42. The Third Policeman by Flann O'Brien
+43. At Swim-Two-Birds by Flann O'Brien
+44. The Poor Mouth by Flann O'Brien
+45. The Master and Margarita by

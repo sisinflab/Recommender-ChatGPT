@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Fight Club by Chuck Palahniuk
+2. Slaughterhouse-Five by Kurt Vonnegut
+3. Watchmen by Alan Moore and Dave Gibbons
+4. The Catcher in the Rye by J.D. Salinger
+5. The Great Gatsby by F. Scott Fitzgerald
+6. The Lord of the Rings by J.R.R. Tolkien
+7. The Hobbit by J.R.R. Tolkien
+8. The Girl with the Dragon Tattoo by Stieg Larsson
+9. The Hunger Games by Suzanne Collins
+10. The Da Vinci Code by Dan Brown
+11. The Shining by Stephen King
+12. 1984 by George Orwell
+13. Animal Farm by George Orwell
+14. Brave New World by Aldous Huxley
+15. The Road by Cormac McCarthy
+16. The Stand by Stephen King
+17. The Dark Tower series by Stephen King
+18. The Martian by Andy Weir
+19. Ender's Game by Orson Scott Card
+20. Dune by Frank Herbert
+21. The Hitchhiker's Guide to the Galaxy series by Douglas Adams
+22. The Chronicles of Narnia by C.S. Lewis
+23. The Harry Potter series by J.K. Rowling
+24. The Name of the Wind by Patrick Rothfuss
+25. American Gods by Neil Gaiman
+26. Good Omens by Neil Gaiman and Terry Pratchett
+27. The Dresden Files series by Jim Butcher
+28. The Wheel of Time series by Robert Jordan
+29. Mistborn series by Brandon Sanderson
+30. The Stormlight Archive series by Brandon Sanderson
+31. The Kingkiller Chronicle series by Patrick Rothfuss
+32. The First Law trilogy by Joe Abercrombie
+33. The Lies of Locke Lamora by Scott Lynch
+34. The Blade Itself by Joe Abercrombie
+35. The Malazan Book of the Fallen series by Steven Erikson
+36. The Black Company series by Glen Cook
+37. The Gentlemen Bastards series by Scott Lynch
+38. The Broken Empire trilogy by Mark Lawrence
+39. The Powder Mage trilogy by Brian McClellan
+40. The Lightbringer series by Brent Weeks
+41. The Night Angel trilogy by Brent Weeks
+42. The Riyria Revelations series by Michael J. Sullivan
+43. The Farseer trilogy by Robin Hobb
+44. The Liveship Traders trilogy by Robin Hobb
+45. The Tawny Man trilogy by Robin Hobb
+46. The Realm of the Elderlings series by Robin Hobb
+47. The Black Prism by Brent Weeks
+48. The Way of Kings by Brandon Sanderson
+49. The Final Empire by Brandon Sanderson
+50. The Well of Ascension by Brandon Sanderson

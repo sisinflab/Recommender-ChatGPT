@@ -1,0 +1,49 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Great Gatsby by F. Scott Fitzgerald
+3. Adventures of Huckleberry Finn by Mark Twain
+4. Romeo and Juliet by William Shakespeare
+5. Little Women by Louisa May Alcott
+6. The Hobbit by J.R.R. Tolkien
+7. The Lion, the Witch and the Wardrobe by C.S. Lewis
+8. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+9. A Midsummer Night's Dream by William Shakespeare
+10. David Copperfield by Charles Dickens
+11. The Canterbury Tales by Geoffrey Chaucer
+12. The Masque of the Red Death by Edgar Allan Poe
+13. The Pit and the Pendulum by Edgar Allan Poe
+14. Frankenstein by Mary Shelley
+15. The Mummy! by Jane Loudon
+16. Robinson Crusoe by Daniel Defoe
+17. The Gold Bug Variations by Richard Powers
+18. The Devil Wears Prada by Lauren Weisberger
+19. The God of Small Things by Arundhati Roy
+20. The Unbearable Lightness of Being by Milan Kundera
+21. Inferno by Dante Alighieri
+22. The Cask of Amontillado by Edgar Allan Poe
+23. The Last Storytellers: Tales from the Heart of Morocco by Richard Hamilton
+24. The Coldest Winter Ever by Sister Souljah
+25. The Queen of the Damned by Anne Rice
+26. The Hardy Boys by Franklin W. Dixon
+27. The Feast of All Saints by Anne Rice
+28. The Winner Stands Alone by Paulo Coelho
+29. The Alchemist by Paulo Coelho
+30. Veronika Decides to Die by Paulo Coelho
+31. Memoirs of a Geisha by Arthur Golden
+32. Windmills of the Gods by Sidney Sheldon
+33. Blood Canticle by Anne Rice
+34. The Hunchback of Notre-Dame by Victor Hugo
+35. The Count of Monte Cristo by Alexandre Dumas
+36. The Story of My Experiments with Truth by Mohandas Karamchand Gandhi
+37. The Da Vinci Code by Dan Brown
+38. Angels & Demons by Dan Brown
+39. The Hound of the Baskervilles by Arthur Conan Doyle
+40. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+41. The Sign of the Four by Arthur Conan Doyle
+42. The Valley of Fear by Arthur Conan Doyle
+43. The Memoirs of Sherlock Holmes by Arthur Conan Doyle
+44. The Return of Sherlock Holmes by Arthur Conan Doyle
+45. The Case-Book of Sherlock Holmes by Arthur Conan Doyle
+46. The Complete Sherlock Holmes by Arthur Conan Doyle
+47. The Picture of Dorian Gray by Oscar Wilde

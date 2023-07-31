@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. Harry Potter by J.K. Rowling
+3. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+4. Frankenstein by Mary Shelley
+5. Wuthering Heights by Emily Bronte
+6. The Hobbit by J.R.R. Tolkien
+7. Nineteen Eighty-Four by George Orwell
+8. The Giver by Lois Lowry
+9. Fahrenheit 451 by Ray Bradbury
+10. Dracula by Bram Stoker
+11. The Catcher in the Rye by J.D. Salinger
+12. Angels & Demons by Dan Brown
+13. The Da Vinci Code by Dan Brown
+14. Great Expectations by Charles Dickens
+15. Les Miserables by Victor Hugo
+16. A Portrait of the Artist as a Young Man by James Joyce
+17. The Outsiders by S.E. Hinton
+18. The Zombie Survival Guide by Max Brooks
+19. The Princess Diaries by Meg Cabot
+20. The Lost Boy by Dave Pelzer
+21. The Girl Who Loved Tom Gordon by Stephen King
+22. Maximum Ride by James Patterson
+23. The Sisterhood of the Traveling Pants by Ann Brashares
+24. Gossip Girl by Cecily von Ziegesar
+25. Pretty Little Liars by Sara Shepard
+26. The Lorax by Dr. Seuss
+27. The Smurfs by Peyo
+28. Pellinor by Alison Croggon
+29. Ranger's Apprentice by John Flanagan
+30. Warriors by Erin Hunter
+31. The Call of the Wild by Jack London
+32. Magic Tree House series by Mary Pope Osborne
+33. The God Delusion by Richard Dawkins
+34. King Rat by James Clavell
+35. A Cry in the Night by Mary Higgins Clark
+36. Holes by Louis Sachar
+37. Northern Lights by Philip Pullman
+38. Dragons of Autumn Twilight by Tracy Hickman and Margaret Weis
+39. The Gift by Alison Croggon
+40. Sunshine by Robin McKinley
+41. Jane Eyre by Charlotte Bronte
+42. Ender's Shadow by Orson Scott Card
+43. Speak by Laurie Halse Anderson
+44. The Chosen by Chaim Potok
+45. Iliad by Homer
+46. Utopia by Thomas More
+47. Leviathan by Paul Auster
+48. Twisted by Laurie Halse Anderson
+49. Macbeth by William Shakespeare
+50. World Almanac by World Almanac Books

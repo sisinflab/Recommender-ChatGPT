@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Ender's Game by Orson Scott Card
+2. Xenocide by Orson Scott Card
+3. Speaker for the Dead by Orson Scott Card
+4. Children of the Mind by Orson Scott Card
+5. Ender's Shadow by Orson Scott Card
+6. Dune by Frank Herbert
+7. God Emperor of Dune by Frank Herbert
+8. Dune Messiah by Frank Herbert
+9. The Dark Elf Trilogy by R.A. Salvatore
+10. The Hunter's Blades Trilogy by R.A. Salvatore
+11. The Three Musketeers by Alexandre Dumas
+12. The Da Vinci Code by Dan Brown
+13. The Silence of the Lambs by Thomas Harris
+14. The Picture of Dorian Gray by Oscar Wilde
+15. Digital Fortress by Dan Brown
+16. Harry Potter by J.K. Rowling
+17. The Fountainhead by Ayn Rand
+18. The God Delusion by Richard Dawkins
+19. Anthem by Ayn Rand
+20. The Hunger Games by Suzanne Collins
+21. I Hope They Serve Beer in Hell by Tucker Max
+22. Pride and Prejudice by Jane Austen
+23. Othello by William Shakespeare
+24. The Things They Carried by Tim O'Brien
+25. Through the Looking-Glass by Lewis Carroll
+26. I Am Legend by Richard Matheson
+27. The Greatest Show on Earth by Richard Dawkins
+28. Halo: Ghosts of Onyx by Eric Nylund
+29. Deception Point by Dan Brown
+30. Brisingr by Christopher Paolini
+31. Shadow of the Giant by Orson Scott Card
+32. The Watchmen by Alan Moore
+33. The Scarlet Letter by Nathaniel Hawthorne
+34. The Yellow Wallpaper by Charlotte Perkins Gilman
+35. The Shadow Out of Time by H.P. Lovecraft
+36. The Last Storytellers by Richard Hamilton
+37. Zen and the Art of Motorcycle Maintenance by Robert M. Pirsig
+38. Catching Fire by Suzanne Collins
+39. Halo: First Strike by Eric Nylund
+40. The Hatchet by Gary Paulsen
+41. Gates of Fire by Steven Pressfield
+42. Teaching with Calvin and Hobbes by Linda Holmen
+43. Peter and Wendy by J.M. Barrie
+44. Halo: The Flood by William C. Dietz
+45. Eric by Terry Pratchett
+46. Congo by Michael Crichton
+47. Alice's Adventures in Wonderland by Lewis Carroll
+48. Pride and Prejudice and Zombies by Seth Grahame-Smith
+49. The Melancholy Death of Oyster Boy & Other Stories by Tim Burton
+50. Mockingjay by Suzanne Collins

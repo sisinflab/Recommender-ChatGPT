@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Animal Farm by George Orwell
+6. Brave New World by Aldous Huxley
+7. Lord of the Flies by William Golding
+8. The Hobbit by J.R.R. Tolkien
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Hunger Games by Suzanne Collins
+11. Catching Fire by Suzanne Collins
+12. Mockingjay by Suzanne Collins
+13. Divergent by Veronica Roth
+14. Insurgent by Veronica Roth
+15. Allegiant by Veronica Roth
+16. The Maze Runner by James Dashner
+17. The Scorch Trials by James Dashner
+18. The Death Cure by James Dashner
+19. The Girl with the Dragon Tattoo by Stieg Larsson
+20. The Girl Who Played with Fire by Stieg Larsson
+21. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+22. The Da Vinci Code by Dan Brown
+23. Angels and Demons by Dan Brown
+24. Inferno by Dan Brown
+25. The Shining by Stephen King
+26. Carrie by Stephen King
+27. Misery by Stephen King
+28. The Stand by Stephen King
+29. The Dark Tower I: The Gunslinger by Stephen King
+30. The Dark Tower II: The Drawing of the Three by Stephen King
+31. The Dark Tower III: The Waste Lands by Stephen King
+32. The Dark Tower IV: Wizard and Glass by Stephen King
+33. The Dark Tower V: Wolves of the Calla by Stephen King
+34. The Dark Tower VI: Song of Susannah by Stephen King
+35. The Dark Tower VII: The Dark Tower by Stephen King
+36. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+37. The Restaurant at the End of the Universe by Douglas Adams
+38. Life, the Universe and Everything by Douglas Adams
+39. So Long, and Thanks for All the Fish by Douglas Adams
+40. Mostly Harmless by Douglas Adams
+41. The Martian by Andy Weir
+42. Ready Player One by Ernest Cline
+43. Ender's Game by Orson Scott Card
+44. Speaker for the Dead by Orson Scott Card
+45. Xenocide by Orson Scott Card
+46. Children of the Mind by Orson Scott Card
+47. The Name of the Wind by Patrick Rothfuss
+48. The Wise Man's Fear by Patrick Rothfuss
+49. The Way of Kings by Brandon Sanderson
+50. Mistborn: The Final Empire by Brandon Sanderson

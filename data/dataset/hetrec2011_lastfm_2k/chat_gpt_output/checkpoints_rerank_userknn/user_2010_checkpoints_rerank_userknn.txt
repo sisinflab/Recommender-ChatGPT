@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations are:
+
+1. Arctic Monkeys
+2. The Beatles
+3. Arcade Fire
+4. Muse
+5. We Are Scientists
+6. Moptop
+7. Fall Out Boy
+8. Hot Chip
+9. Kings of Leon
+10. Beck
+11. Kasabian
+12. Marilyn Manson
+13. Blackfield
+14. Linkin Park
+15. Cachorro Grande
+16. Oasis
+17. The Killers
+18. Oomph!
+19. Jorge & Mateus
+20. Placebo
+21. Spoon
+22. Clap Your Hands Say Yeah
+23. Coldplay
+24. The Offspring
+25. The White Stripes
+26. Maxïmo Park
+27. Lifehouse
+28. Dirty Pretty Things
+29. ...And You Will Know Us by the Trail of Dead
+30. Pato Fu
+31. OneRepublic
+32. Snow Patrol
+33. Gorillaz
+34. The Subways
+35. Yeah Yeah Yeahs
+36. Franz Ferdinand
+37. The Shins
+38. The Wombats
+39. Regina Spektor
+40. MGMT
+41. Vampire Weekend
+42. Death Cab for Cutie
+43. Grizzly Bear
+44. Beirut
+45. Laura Marling
+46. Lily Allen
+47. Travis
+48. Blur
+49. The Strokes
+50. Interpol

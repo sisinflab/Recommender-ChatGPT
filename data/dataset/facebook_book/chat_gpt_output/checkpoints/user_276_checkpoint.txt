@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Fault in Our Stars by John Green
+2. The Hunger Games by Suzanne Collins
+3. Divergent by Veronica Roth
+4. The Maze Runner by James Dashner
+5. The Book Thief by Markus Zusak
+6. The Perks of Being a Wallflower by Stephen Chbosky
+7. Looking for Alaska by John Green
+8. Eleanor & Park by Rainbow Rowell
+9. If I Stay by Gayle Forman
+10. Me Before You by Jojo Moyes
+11. The Lovely Bones by Alice Sebold
+12. The Girl on the Train by Paula Hawkins
+13. The Help by Kathryn Stockett
+14. The Kite Runner by Khaled Hosseini
+15. The Secret Life of Bees by Sue Monk Kidd
+16. The Time Keeper by Mitch Albom
+17. The Alchemist by Paulo Coelho
+18. The Giver by Lois Lowry
+19. The Outsiders by S.E. Hinton
+20. The Catcher in the Rye by J.D. Salinger
+21. To Kill a Mockingbird by Harper Lee
+22. The Great Gatsby by F. Scott Fitzgerald
+23. 1984 by George Orwell
+24. Animal Farm by George Orwell
+25. Brave New World by Aldous Huxley
+26. Fahrenheit 451 by Ray Bradbury
+27. The Handmaid's Tale by Margaret Atwood
+28. The Road by Cormac McCarthy
+29. The Stand by Stephen King
+30. The Shining by Stephen King
+31. Carrie by Stephen King
+32. Misery by Stephen King
+33. The Green Mile by Stephen King
+34. The Dark Tower series by Stephen King
+35. The Lord of the Rings by J.R.R. Tolkien
+36. The Hobbit by J.R.R. Tolkien
+37. The Chronicles of Narnia by C.S. Lewis
+38. The Harry Potter series by J.K. Rowling
+39. The Twilight series by Stephenie Meyer
+40. The Hunger Games trilogy by Suzanne Collins
+41. The Maze Runner series by James Dashner
+42. The Divergent trilogy by Veronica Roth
+43. The Mortal Instruments series by Cassandra Clare
+44. The Infernal Devices series by Cassandra Clare
+45. The Fault in Our Stars by John Green
+46. Paper Towns by John Green
+47. An Abundance of Katherines by John Green
+48. Will Grayson, Will Grayson by John Green and David Levithan
+49. Let It Snow by John Green, Maureen Johnson, and Lauren Myracle
+50. Fangirl by Rainbow Rowell

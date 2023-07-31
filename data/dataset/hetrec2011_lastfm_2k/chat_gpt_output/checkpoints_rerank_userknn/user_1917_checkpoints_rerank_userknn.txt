@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for user 1917 are:
+
+1. Beyoncé
+2. Rihanna
+3. Britney Spears
+4. Chris Brown
+5. Mariah Carey
+6. Justin Bieber
+7. Miley Cyrus
+8. P!nk
+9. Katy Perry
+10. Nicki Minaj
+11. Ke$ha
+12. Black Eyed Peas
+13. Avril Lavigne
+14. Christina Aguilera
+15. Fergie
+16. Madonna
+17. Pink
+18. Ne-Yo
+19. Lady Gaga
+20. David Guetta
+21. Jennifer Lopez
+22. Nelly Furtado
+23. Cheryl Cole
+24. Shakira
+25. Alicia Keys
+26. Michael Jackson
+27. Demi Lovato
+28. Kelly Clarkson
+29. Taylor Swift
+30. Destiny's Child
+31. Ciara
+32. Mary J. Blige
+33. Sugababes
+34. Kylie Minogue
+35. Paulina Rubio
+36. t.A.T.u.
+37. Glee Cast
+38. Girlicious
+39. Jesse McCartney
+40. The Veronicas
+41. Jay-Z
+42. Aly & AJ
+43. Carrie Underwood
+44. Lily Allen
+45. Ashley Tisdale
+46. David Archuleta
+47. Katharine McPhee
+48. Amy Winehouse
+49. Vanessa Hudgens
+50. Colbie Caillat

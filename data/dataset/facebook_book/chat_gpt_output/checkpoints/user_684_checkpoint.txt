@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. The Fault in Our Stars by John Green
+3. Divergent by Veronica Roth
+4. The Maze Runner by James Dashner
+5. The Book Thief by Markus Zusak
+6. The Girl on the Train by Paula Hawkins
+7. Gone Girl by Gillian Flynn
+8. The Da Vinci Code by Dan Brown
+9. Angels and Demons by Dan Brown
+10. The Catcher in the Rye by J.D. Salinger
+11. The Great Gatsby by F. Scott Fitzgerald
+12. 1984 by George Orwell
+13. Animal Farm by George Orwell
+14. Brave New World by Aldous Huxley
+15. Lord of the Flies by William Golding
+16. The Lord of the Rings by J.R.R. Tolkien
+17. The Hobbit by J.R.R. Tolkien
+18. The Chronicles of Narnia by C.S. Lewis
+19. The Harry Potter series by J.K. Rowling
+20. The Twilight series by Stephenie Meyer
+21. The Mortal Instruments series by Cassandra Clare
+22. The Infernal Devices series by Cassandra Clare
+23. The Selection series by Kiera Cass
+24. The Lunar Chronicles series by Marissa Meyer
+25. The Percy Jackson and the Olympians series by Rick Riordan
+26. The Heroes of Olympus series by Rick Riordan
+27. The Kane Chronicles series by Rick Riordan
+28. The Hunger Games trilogy by Suzanne Collins
+29. The Maze Runner trilogy by James Dashner
+30. The Divergent trilogy by Veronica Roth
+31. The Giver by Lois Lowry
+32. The Outsiders by S.E. Hinton
+33. The Fault in Our Stars by John Green
+34. Paper Towns by John Green
+35. Looking for Alaska by John Green
+36. The Alchemist by Paulo Coelho
+37. A Thousand Splendid Suns by Khaled Hosseini
+38. And the Mountains Echoed by Khaled Hosseini
+39. The Kite Runner by Khaled Hosseini
+40. The Reader by Bernhard Schlink
+41. Inkheart by Cornelia Funke
+42. Inkspell by Cornelia Funke
+43. Inkdeath by Cornelia Funke
+44. The Name of the Wind by Patrick Rothfuss
+45. The Wise Man's Fear by Patrick Rothfuss
+46. The Kingkiller Chronicle series by Patrick Rothfuss
+47. The Shadow of the Wind by Carlos Ruiz Zafón
+48. The Angel's Game by Carlos Ruiz Zafón
+49. The Prisoner of Heaven by Carlos Ruiz Zafón
+50. To Kill a Mockingbird by Harper Lee

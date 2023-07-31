@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Flyleaf
+2. The Birthday Massacre
+3. Katatonia
+4. Crystal Castles
+5. Florence + the Machine
+6. In Flames
+7. Behemoth
+8. Architects
+9. Heaven Shall Burn
+10. Immortal
+11. Sigur Rós
+12. Bright Eyes
+13. Silverstein
+14. Die Ärzte
+15. Atreyu
+16. Suicide Silence
+17. Marduk
+18. Justice
+19. Linkin Park
+20. Coldplay
+21. Radiohead
+22. Lady Gaga
+23. Paramore
+24. Rihanna
+25. Ke$ha
+26. Madonna
+27. Beyoncé
+28. Shakira
+29. Pink Floyd
+30. Muse
+31. U2
+32. Arctic Monkeys
+33. Placebo
+34. The Killers
+35. Nirvana
+36. Iron Maiden
+37. Led Zeppelin
+38. Metallica
+39. Michael Jackson
+40. Pearl Jam
+41. a-ha
+42. Björk
+43. System of a Down
+44. Daft Punk
+45. Nine Inch Nails
+46. Kelly Clarkson
+47. All Time Low
+48. P!nk
+49. Avenged Sevenfold
+50. My Chemical Romance

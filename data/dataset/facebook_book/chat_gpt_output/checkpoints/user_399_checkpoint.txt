@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. To Kill a Mockingbird by Harper Lee
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. Crime and Punishment by Fyodor Dostoevsky
+7. The Brothers Karamazov by Fyodor Dostoevsky
+8. The Great Gatsby by F. Scott Fitzgerald
+9. The Picture of Dorian Gray by Oscar Wilde
+10. Heart of Darkness by Joseph Conrad
+11. The Stranger by Albert Camus
+12. The Trial by Franz Kafka
+13. The Metamorphosis by Franz Kafka
+14. The Bell Jar by Sylvia Plath
+15. Lolita by Vladimir Nabokov
+16. The Road by Cormac McCarthy
+17. The Old Man and the Sea by Ernest Hemingway
+18. Slaughterhouse-Five by Kurt Vonnegut
+19. Cat's Cradle by Kurt Vonnegut
+20. Brave New World Revisited by Aldous Huxley
+21. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+22. The Martian Chronicles by Ray Bradbury
+23. The Illustrated Man by Ray Bradbury
+24. The Stand by Stephen King
+25. The Shining by Stephen King
+26. The Dark Tower series by Stephen King
+27. The Name of the Wind by Patrick Rothfuss
+28. The Wise Man's Fear by Patrick Rothfuss
+29. The Hunger Games by Suzanne Collins
+30. Catching Fire by Suzanne Collins
+31. Mockingjay by Suzanne Collins
+32. The Girl with the Dragon Tattoo by Stieg Larsson
+33. The Girl Who Played with Fire by Stieg Larsson
+34. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+35. The Da Vinci Code by Dan Brown
+36. Angels and Demons by Dan Brown
+37. Inferno by Dan Brown
+38. The Bourne Identity by Robert Ludlum
+39. The Bourne Supremacy by Robert Ludlum
+40. The Bourne Ultimatum by Robert Ludlum
+41. The Hunger Games Trilogy Boxset by Suzanne Collins
+42. The Millennium Trilogy Boxset by Stieg Larsson
+43. The Dan Brown Boxed Set by Dan Brown
+44. The Bourne Trilogy Boxed Set by Robert Ludlum
+45. The Complete Sherlock Holmes by Arthur Conan Doyle
+46. The Lord of the Rings by J.R.R. Tolkien
+47. The Hobbit by J.R.R. Tolkien
+48. The Silmarillion by J.R.R. Tolkien
+49. The Chronicles of Narnia by C.S. Lewis
+50.

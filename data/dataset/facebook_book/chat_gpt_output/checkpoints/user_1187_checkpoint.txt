@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Animal Farm by George Orwell
+6. Lord of the Flies by William Golding
+7. The Hobbit by J.R.R. Tolkien
+8. The Lord of the Rings by J.R.R. Tolkien
+9. The Hunger Games by Suzanne Collins
+10. Harry Potter and the Philosopher's Stone by J.K. Rowling
+11. The Da Vinci Code by Dan Brown
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+14. The Chronicles of Narnia by C.S. Lewis
+15. The Diary of a Young Girl by Anne Frank
+16. The Picture of Dorian Gray by Oscar Wilde
+17. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+18. The War of the Worlds by H.G. Wells
+19. The Time Machine by H.G. Wells
+20. The Invisible Man by H.G. Wells
+21. The Island of Dr. Moreau by H.G. Wells
+22. The Call of the Wild by Jack London
+23. White Fang by Jack London
+24. The Adventures of Tom Sawyer by Mark Twain
+25. The Adventures of Huckleberry Finn by Mark Twain
+26. The Old Man and the Sea by Ernest Hemingway
+27. A Farewell to Arms by Ernest Hemingway
+28. The Sun Also Rises by Ernest Hemingway
+29. The Sound and the Fury by William Faulkner
+30. As I Lay Dying by William Faulkner
+31. The Grapes of Wrath by John Steinbeck
+32. East of Eden by John Steinbeck
+33. One Hundred Years of Solitude by Gabriel Garcia Marquez
+34. Love in the Time of Cholera by Gabriel Garcia Marquez
+35. Crime and Punishment by Fyodor Dostoevsky
+36. The Brothers Karamazov by Fyodor Dostoevsky
+37. Anna Karenina by Leo Tolstoy
+38. War and Peace by Leo Tolstoy
+39. The Count of Monte Cristo by Alexandre Dumas
+40. Les Miserables by Victor Hugo
+41. Dracula by Bram Stoker
+42. Frankenstein by Mary Shelley
+43. Wuthering Heights by Emily Bronte
+44. Jane Eyre by Charlotte Bronte
+45. Pride and Prejudice by Jane Austen
+46. Sense and Sensibility by Jane Austen
+47. Emma by Jane Austen
+48. Persuasion by Jane Austen
+49. The Name of the Wind by Patrick Rothfuss
+50. The Wise Man's Fear by Patrick Rothfuss

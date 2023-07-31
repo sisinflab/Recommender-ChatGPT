@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Animal Collective
+2. Sufjan Stevens
+3. Grizzly Bear
+4. Bon Iver
+5. Vampire Weekend
+6. Arcade Fire
+7. Tame Impala
+8. Caribou
+9. The War on Drugs
+10. LCD Soundsystem
+11. Dirty Projectors
+12. The Shins
+13. The Antlers
+14. Neutral Milk Hotel
+15. Sigur Rós
+16. The Flaming Lips
+17. Fleetwood Mac
+18. The Beatles
+19. David Bowie
+20. Pink Floyd
+21. Led Zeppelin
+22. The Rolling Stones
+23. Bob Dylan
+24. Neil Young
+25. Tom Waits
+26. Leonard Cohen
+27. Nick Drake
+28. Joni Mitchell
+29. Van Morrison
+30. Simon & Garfunkel
+31. The Beach Boys
+32. The Kinks
+33. The Who
+34. The Doors
+35. Jimi Hendrix
+36. The Velvet Underground
+37. Talking Heads
+38. Joy Division
+39. New Order
+40. The Cure
+41. Depeche Mode
+42. Radiohead (other albums)
+43. Panda Bear (other albums)
+44. Atlas Sound (other albums)
+45. The Mountain Goats (other albums)
+46. Beach House (other albums)
+47. J Dilla (other albums)
+48. Jay-Z (other albums)
+49. Toro y Moi (other albums)
+50. The National (other albums)

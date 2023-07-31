@@ -1,0 +1,52 @@
+Based on the user's liking for the books mentioned, here are the top 50 recommendations:
+
+1. The Great Gatsby by F. Scott Fitzgerald
+2. The Catcher in the Rye by J.D. Salinger
+3. The Hobbit by J.R.R. Tolkien
+4. Frankenstein by Mary Shelley
+5. The Lord of the Rings by J.R.R. Tolkien
+6. Crime and Punishment by Fyodor Dostoevsky
+7. The Picture of Dorian Gray by Oscar Wilde
+8. Brave New World by Aldous Huxley
+9. The Giver by Lois Lowry
+10. The Stand by Stephen King
+11. Dracula by Bram Stoker
+12. The Scarlet Letter by Nathaniel Hawthorne
+13. Invisible Man by Ralph Ellison
+14. Pygmalion by George Bernard Shaw
+15. The House of Mirth by Edith Wharton
+16. The Unbearable Lightness of Being by Milan Kundera
+17. Through the Looking-Glass by Lewis Carroll
+18. The Rapture by Liz Jensen
+19. The Maze Runner by James Dashner
+20. The City of Ember by Jeanne DuPrau
+21. The Southern Vampire Mysteries by Charlaine Harris
+22. Medea by Euripides
+23. The Phantom of the Opera by Gaston Leroux
+24. The Silmarillion by J.R.R. Tolkien
+25. The Love Song of J. Alfred Prufrock by T.S. Eliot
+26. The Little Prince by Antoine de Saint-Exupéry
+27. The Outsiders by S.E. Hinton
+28. Walden by Henry David Thoreau
+29. For Whom the Bell Tolls by Ernest Hemingway
+30. Less Than Zero by Bret Easton Ellis
+31. Howl by Allen Ginsberg
+32. Ariel by Sylvia Plath
+33. Iliad by Homer
+34. Delta of Venus by Anaïs Nin
+35. Dexter in the Dark by Jeff Lindsay
+36. And the Ass Saw the Angel by Nick Cave
+37. Incarceron by Catherine Fisher
+38. Made in America by Bill Bryson
+39. World War Z by Max Brooks
+40. List of Scott Pilgrim characters by Bryan Lee O'Malley
+41. W.I.T.C.H. by Elisabetta Gnone
+42. If There Be Thorns by V.C. Andrews
+43. Petals on the Wind by V.C. Andrews
+44. Cut by Patricia McCormick
+45. Vampire Kisses by Ellen Schreiber
+46. The Pillowman by Martin McDonagh
+47. Dragon Ball Z by Akira Toriyama
+48. Gantz by Hiroya Oku
+49. Twilight Eyes by Dean Koontz
+50. Gravity's Rainbow by Thomas Pynchon

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Bell Jar by Sylvia Plath
+2. Brave New World by Aldous Huxley
+3. The Picture of Dorian Gray by Oscar Wilde
+4. The Lord of the Rings by J.R.R. Tolkien
+5. American Psycho by Bret Easton Ellis
+6. Nineteen Eighty-Four by George Orwell
+7. Dracula by Bram Stoker
+8. The Giver by Lois Lowry
+9. The Children of Men by P.D. James
+10. The Count of Monte Cristo by Alexandre Dumas
+11. The Lost Boy by Dave Pelzer
+12. The Lovely Bones by Alice Sebold
+13. Memoirs of a Geisha by Arthur Golden
+14. The Vampire Lestat by Anne Rice
+15. The Awakening by Kate Chopin
+16. The Old Man and the Sea by Ernest Hemingway
+17. Night by Elie Wiesel
+18. Where the Wild Things Are by Maurice Sendak
+19. Inkheart by Cornelia Funke
+20. Treasure Island by Robert Louis Stevenson
+21. The Bean Trees by Barbara Kingsolver
+22. A Tree Grows in Brooklyn by Betty Smith
+23. Speak by Laurie Halse Anderson
+24. The Hours by Michael Cunningham
+25. Fahrenheit 451 by Ray Bradbury
+26. In Cold Blood by Truman Capote
+27. Naked Lunch by William S. Burroughs
+28. Notes from Underground by Fyodor Dostoevsky
+29. Crank by Ellen Hopkins
+30. Haunted by Chuck Palahniuk
+31. A Million Little Pieces by James Frey
+32. This Lullaby by Sarah Dessen
+33. The Good Earth by Pearl S. Buck
+34. Junkie by William S. Burroughs
+35. Pygmy by Chuck Palahniuk
+36. The Watchmen by Alan Moore
+37. The Last Lecture by Randy Pausch
+38. I, Robot by Isaac Asimov
+39. The Zombie Survival Guide by Max Brooks
+40. The Psychedelic Experience by Timothy Leary, Richard Alpert, and Ralph Metzner
+41. The Stranger by Albert Camus
+42. Running with Scissors by Augusten Burroughs
+43. The Perks of Being a Wallflower by Stephen Chbosky
+44. The Outsiders by S.E. Hinton
+45. Candy by Luke Davies
+46. Tao Te Ching by Laozi
+47. You Don't Know Me by David Klass
+48. Strange Case of Dr Jekyll and Mr Hyde by Robert Louis Stevenson
+49. Choke by Chuck Palahniuk
+50. Necronomicon: The Best Weird Tales of H.P. Lovecraft by H.P. Lovecraft

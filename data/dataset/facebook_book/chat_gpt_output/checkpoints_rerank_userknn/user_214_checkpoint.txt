@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Catcher in the Rye by J.D. Salinger
+3. Night by Elie Wiesel
+4. One Hundred Years of Solitude by Gabriel García Márquez
+5. The Great Gatsby by F. Scott Fitzgerald
+6. The Pearl by John Steinbeck
+7. The Heart Is a Lonely Hunter by Carson McCullers
+8. Ethan Frome by Edith Wharton
+9. Roll of Thunder, Hear My Cry by Mildred D. Taylor
+10. The Joy Luck Club by Amy Tan
+11. Little Women by Louisa May Alcott
+12. The Hobbit by J.R.R. Tolkien
+13. The Lord of the Rings by J.R.R. Tolkien
+14. A Wrinkle in Time by Madeleine L'Engle
+15. The Princess Bride by William Goldman
+16. Frankenstein by Mary Shelley
+17. Jane Eyre by Charlotte Bronte
+18. The Scarlet Letter by Nathaniel Hawthorne
+19. Les Misérables by Victor Hugo
+20. The Book Thief by Markus Zusak
+21. The Autobiography of Malcolm X by Malcolm X
+22. The Giver by Lois Lowry
+23. Persepolis by Marjane Satrapi
+24. Speak by Laurie Halse Anderson
+25. The Kite Runner by Khaled Hosseini
+26. Brave New World by Aldous Huxley
+27. Lolita by Vladimir Nabokov
+28. The Bell Jar by Sylvia Plath
+29. Rose Madder by Stephen King
+30. The Hunger Games by Suzanne Collins
+31. Into Thin Air by Jon Krakauer
+32. The Umbrella Academy by Gerard Way
+33. The Monk by Matthew Lewis
+34. Will Grayson, Will Grayson by John Green and David Levithan
+35. The Messenger by Markus Zusak
+36. Someday This Pain Will Be Useful to You by Peter Cameron
+37. Common Sense by Thomas Paine
+38. Everyone Poops by Taro Gomi
+39. Titus Andronicus by William Shakespeare
+40. Eat This, Not That by David Zinczenko
+41. A Midsummer Night's Dream by William Shakespeare
+42. The Canterville Ghost by Oscar Wilde
+43. The Awakening by Kate Chopin
+44. Hey Nostradamus! by Douglas Coupland
+45. Of Mice and Men by John Steinbeck
+46. Trivia by Logan Pearsall Smith
+47. Macbeth by William Shakespeare
+48. I Hope They Serve Beer in Hell by Tucker Max
+49. The Chicago Manual of Style by University of Chicago Press
+50. Encyclopædia Britannica by Encyclopædia Britannica Inc.

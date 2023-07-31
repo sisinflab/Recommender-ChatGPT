@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations are:
+
+1. Metallica
+2. Disturbed
+3. Korn
+4. Linkin Park
+5. Muse
+6. Slayer
+7. AC/DC
+8. Guns N' Roses
+9. Bullet for My Valentine
+10. Parkway Drive
+11. All That Remains
+12. Killswitch Engage
+13. August Burns Red
+14. Suicide Silence
+15. Despised Icon
+16. All Shall Perish
+17. Dethklok
+18. Whitechapel
+19. Bring Me The Horizon
+20. DevilDriver
+21. Static-X
+22. Five Finger Death Punch
+23. Rammstein
+24. As I Lay Dying
+25. Pantera
+26. Lamb of God
+27. Meshuggah
+28. The Dillinger Escape Plan
+29. HORSE the band
+30. Protest The Hero
+31. Slipknot
+32. Rise Against
+33. Municipal Waste
+34. Avenged Sevenfold
+35. Dark Tranquillity
+36. Soilwork
+37. Amon Amarth
+38. Ensiferum
+39. Emmure
+40. Attack Attack!
+41. In Flames
+42. Machine Head
+43. Motörhead
+44. Limp Bizkit
+45. Enter Shikari
+46. Asking Alexandria
+47. The Word Alive
+48. Converge
+49. Born of Osiris
+50. My Chemical Romance

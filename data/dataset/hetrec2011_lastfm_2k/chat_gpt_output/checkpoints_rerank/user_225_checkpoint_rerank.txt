@@ -1,0 +1,52 @@
+Based on the user's liking history, the top 50 recommendations for user 225 are:
+
+1. Metallica
+2. Slayer
+3. In Flames
+4. Hatebreed
+5. Death
+6. Kreator
+7. Exodus
+8. Marduk
+9. Hypocrisy
+10. Sodom
+11. Destruction
+12. All Shall Perish
+13. Despised Icon
+14. Converge
+15. Suicide Silence
+16. Pain
+17. The Dillinger Escape Plan
+18. Caliban
+19. Walls of Jericho
+20. Fear Factory
+21. Machine Head
+22. The Prodigy
+23. Muse
+24. Pink Floyd
+25. Radiohead
+26. Iron Maiden
+27. Nirvana
+28. Led Zeppelin
+29. Nine Inch Nails
+30. System of a Down
+31. Daft Punk
+32. Linkin Park
+33. Avenged Sevenfold
+34. The Killers
+35. Green Day
+36. My Chemical Romance
+37. Evanescence
+38. Paramore
+39. P!nk
+40. Katy Perry
+41. Lady Gaga
+42. Rihanna
+43. Beyoncé
+44. Michael Jackson
+45. Madonna
+46. U2
+47. The Beatles
+48. Coldplay
+49. Arctic Monkeys
+50. Blur

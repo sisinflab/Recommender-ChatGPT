@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Eragon by Christopher Paolini
+3. The Name of the Wind by Patrick Rothfuss
+4. The Girl with the Dragon Tattoo by Stieg Larsson
+5. The Maze Runner by James Dashner
+6. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+7. The Giver by Lois Lowry
+8. The Chronicles of Narnia by C.S. Lewis
+9. The Hobbit by J.R.R. Tolkien
+10. Divergent by Veronica Roth
+11. The Fault in Our Stars by John Green
+12. The Book Thief by Markus Zusak
+13. The Catcher in the Rye by J.D. Salinger
+14. The Great Gatsby by F. Scott Fitzgerald
+15. To Kill a Mockingbird by Harper Lee
+16. 1984 by George Orwell
+17. Animal Farm by George Orwell
+18. Brave New World by Aldous Huxley
+19. Fahrenheit 451 by Ray Bradbury
+20. The Handmaid's Tale by Margaret Atwood
+21. The Road by Cormac McCarthy
+22. The Stand by Stephen King
+23. The Shining by Stephen King
+24. It by Stephen King
+25. The Dark Tower series by Stephen King
+26. The Lord of the Rings by J.R.R. Tolkien
+27. The Silmarillion by J.R.R. Tolkien
+28. The Children of Hurin by J.R.R. Tolkien
+29. The Hobbit and The Lord of the Rings Boxed Set by J.R.R. Tolkien
+30. The Inheritance Cycle by Christopher Paolini
+31. The Dark is Rising Sequence by Susan Cooper
+32. The Abhorsen Trilogy by Garth Nix
+33. The Mortal Instruments series by Cassandra Clare
+34. The Infernal Devices series by Cassandra Clare
+35. The Kingkiller Chronicle series by Patrick Rothfuss
+36. The Stormlight Archive series by Brandon Sanderson
+37. Mistborn series by Brandon Sanderson
+38. The Wheel of Time series by Robert Jordan
+39. The Malazan Book of the Fallen series by Steven Erikson
+40. The First Law Trilogy by Joe Abercrombie
+41. The Lies of Locke Lamora by Scott Lynch
+42. The Blade Itself by Joe Abercrombie
+43. The Black Company series by Glen Cook
+44. The Dresden Files series by Jim Butcher
+45. The Riyria Revelations series by Michael J. Sullivan
+46. The Powder Mage Trilogy by Brian McClellan
+47. The Lightbringer series by Brent Weeks
+48. The Broken Empire Trilogy by Mark Lawrence
+49. The Farseer Trilogy by Robin Hobb
+50. The Liveship Traders Trilogy by Robin Hobb

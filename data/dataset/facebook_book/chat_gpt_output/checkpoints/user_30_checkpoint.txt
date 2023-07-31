@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Mortal Instruments series by Cassandra Clare
+4. The Maze Runner by James Dashner
+5. The Fault in Our Stars by John Green
+6. The Selection by Kiera Cass
+7. The Giver by Lois Lowry
+8. The Lunar Chronicles by Marissa Meyer
+9. The Infernal Devices series by Cassandra Clare
+10. The Twilight Saga by Stephenie Meyer
+11. The Uglies series by Scott Westerfeld
+12. The Blue Sword by Robin McKinley
+13. A Little Princess by Frances Hodgson Burnett
+14. The Hero and the Crown by Robin McKinley
+15. Anne of Green Gables by Lucy Maud Montgomery
+16. The House of Night series by P.C. Cast and Kristin Cast
+17. The Gift by Alison Croggon
+18. The Mediator series by Meg Cabot
+19. The Percy Jackson and the Olympians series by Rick Riordan
+20. The Harry Potter series by J.K. Rowling
+21. The Chronicles of Narnia by C.S. Lewis
+22. The Lord of the Rings by J.R.R. Tolkien
+23. The Hobbit by J.R.R. Tolkien
+24. The Hunger Games trilogy by Suzanne Collins
+25. The Maze Runner series by James Dashner
+26. The Fault in Our Stars by John Green
+27. The Selection series by Kiera Cass
+28. The Giver quartet by Lois Lowry
+29. The Lunar Chronicles series by Marissa Meyer
+30. The Infernal Devices trilogy by Cassandra Clare
+31. The Twilight Saga by Stephenie Meyer
+32. The Uglies series by Scott Westerfeld
+33. The Blue Sword by Robin McKinley
+34. A Little Princess by Frances Hodgson Burnett
+35. The Hero and the Crown by Robin McKinley
+36. Anne of Green Gables by Lucy Maud Montgomery
+37. The House of Night series by P.C. Cast and Kristin Cast
+38. The Gift by Alison Croggon
+39. The Mediator series by Meg Cabot
+40. The Percy Jackson and the Olympians series by Rick Riordan
+41. The Harry Potter series by J.K. Rowling
+42. The Chronicles of Narnia by C.S. Lewis
+43. The Lord of the Rings by J.R.R. Tolkien
+44. The Hobbit by J.R.R. Tolkien
+45. The Hunger Games trilogy by Suzanne Collins
+46. The Maze Runner series by James Dashner
+47. The Fault in Our Stars by John Green
+48. The Selection series by Kiera Cass
+49. The Giver quartet by Lois Lowry
+50. The Lunar Chronicles series by Marissa Meyer

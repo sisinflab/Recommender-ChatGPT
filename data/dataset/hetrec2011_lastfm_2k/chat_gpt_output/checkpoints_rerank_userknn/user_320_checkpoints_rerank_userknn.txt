@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Johnny Cash
+2. The Beatles
+3. Elvis Presley
+4. Garth Brooks
+5. Dolly Parton
+6. Frank Sinatra
+7. Taylor Swift
+8. John Lee Hooker
+9. Modest Mouse
+10. Stars
+11. Regina Spektor
+12. The Cure
+13. Goldfrapp
+14. Gorillaz
+15. VNV Nation
+16. Skinny Puppy
+17. Thievery Corporation
+18. Hanson
+19. Jack Johnson
+20. Miranda Lambert
+21. She & Him
+22. Demi Lovato
+23. HorrorPops
+24. Apoptygma Berzerk
+25. The Crüxshadows
+26. Eric Clapton
+27. Coldplay
+28. Kate Bush
+29. Sublime
+30. John Mayer
+31. The Who
+32. AC/DC
+33. Joy Division
+34. Siouxsie and the Banshees
+35. Nas
+36. Timbaland
+37. Fall Out Boy
+38. Duran Duran
+39. Kasabian
+40. Recoil
+41. Chuck Berry
+42. Jimmy Eat World
+43. System of a Down
+44. Incubus
+45. The Fray
+46. Madonna
+47. Foo Fighters
+48. Placebo
+49. Nine Inch Nails
+50. Lily Allen

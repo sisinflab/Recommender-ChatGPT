@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for this user are:
+
+1. Florence + the Machine
+2. Lady Gaga
+3. The Kills
+4. Yeah Yeah Yeahs
+5. Crystal Castles
+6. Björk
+7. Kanye West
+8. Madonna
+9. The White Stripes
+10. Gnarls Barkley
+11. Goldfrapp
+12. Justice
+13. Marilyn Manson
+14. Shakira
+15. Pink Floyd
+16. M.I.A.
+17. La Roux
+18. Katy Perry
+19. Beyoncé
+20. Duffy
+21. The xx
+22. She & Him
+23. Scissor Sisters
+24. Kraftwerk
+25. Hurts
+26. Hole
+27. CocoRosie
+28. Uffie
+29. deadmau5
+30. She Wants Revenge
+31. Gwen Stefani
+32. Rihanna
+33. Kylie Minogue
+34. Britney Spears
+35. David Guetta
+36. Michael Jackson
+37. ABBA
+38. Queen
+39. Elvis Presley
+40. James Blunt
+41. Nelly Furtado
+42. Timbaland
+43. 30 Seconds to Mars
+44. Kings of Leon
+45. Jessie J
+46. Pixie Lott
+47. Amy Winehouse
+48. Marina & the Diamonds
+49. Christina Aguilera
+50. P!nk

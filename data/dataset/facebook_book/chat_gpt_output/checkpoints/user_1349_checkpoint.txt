@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Pride and Prejudice by Jane Austen
+6. The Hobbit by J.R.R. Tolkien
+7. The Lord of the Rings by J.R.R. Tolkien
+8. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+9. The Hunger Games by Suzanne Collins
+10. Harry Potter and the Philosopher's Stone by J.K. Rowling
+11. The Da Vinci Code by Dan Brown
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Kite Runner by Khaled Hosseini
+14. The Road by Cormac McCarthy
+15. The Picture of Dorian Gray by Oscar Wilde
+16. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+17. The Secret History by Donna Tartt
+18. The Bell Jar by Sylvia Plath
+19. The Handmaid's Tale by Margaret Atwood
+20. The Stand by Stephen King
+21. The Shining by Stephen King
+22. The Silence of the Lambs by Thomas Harris
+23. The Lovely Bones by Alice Sebold
+24. The Book Thief by Markus Zusak
+25. The Fault in Our Stars by John Green
+26. The Perks of Being a Wallflower by Stephen Chbosky
+27. The Road Less Traveled by M. Scott Peck
+28. The Alchemist by Paulo Coelho
+29. The Power of Now by Eckhart Tolle
+30. The Art of War by Sun Tzu
+31. The Prince by Niccolò Machiavelli
+32. The Divine Comedy by Dante Alighieri
+33. The Canterbury Tales by Geoffrey Chaucer
+34. The Odyssey by Homer
+35. The Iliad by Homer
+36. The Republic by Plato
+37. The Wealth of Nations by Adam Smith
+38. The Communist Manifesto by Karl Marx and Friedrich Engels
+39. The Origin of Species by Charles Darwin
+40. The Interpretation of Dreams by Sigmund Freud
+41. The Structure of Scientific Revolutions by Thomas S. Kuhn
+42. The Selfish Gene by Richard Dawkins
+43. The God Delusion by Richard Dawkins
+44. The Elegant Universe by Brian Greene
+45. The Fabric of the Cosmos by Brian Greene
+46. The Structure of Scientific Revolutions by Thomas S. Kuhn
+47. The Blind Watchmaker by Richard Dawkins
+48. The Demon-Haunted World by Carl Sagan
+49. The Varieties of Scientific Experience by Carl Sagan
+50. The Grand Design by Stephen Hawking and Leonard Mlodinow

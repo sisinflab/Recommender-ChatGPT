@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games
+2. Catching Fire
+3. Mockingjay
+4. Maximum Ride
+5. The Host
+6. Inkheart
+7. The Da Vinci Code
+8. The Lovely Bones
+9. Dracula
+10. City of Glass (Mortal Instruments)
+11. The Notebook (novel)
+12. Love Story (novel)
+13. To Kill a Mockingbird
+14. Siddhartha (novel)
+15. A Christmas Carol
+16. Macbeth
+17. A Midsummer Night's Dream
+18. Othello
+19. The Purpose Driven Life
+20. The Sea of Monsters
+21. Odyssey
+22. Jane Eyre
+23. The Melancholy Death of Oyster Boy & Other Stories
+24. The Hitchhiker's Guide to the Galaxy
+25. Alice's Adventures in Wonderland
+26. Labyrinth (novel)
+27. Gingerbread (novel)
+28. Boy Meets Boy (novel)
+29. Metamorphoses
+30. Sepulchre (comics)
+31. The Summoning (novel)
+32. Brother Odd
+33. The Last Song (novel)
+34. Five Point Someone
+35. The Hamlet
+36. Reviving Ophelia
+37. I Am Number Four
+38. Deadly Little Secrets
+39. Stargazer (novel)
+40. Unwind (novel)
+41. Mills & Boon
+42. The Tale of Despereaux
+43. Fablehaven
+44. Magyk
+45. Flyte
+46. Night (book)
+47. Burned (Hopkins novel)
+48. The Hunted (novel)
+49. Extras (novel)
+50. Eighth Grade Bites

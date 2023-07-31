@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. City of Bones by Cassandra Clare
+2. The Maze Runner by James Dashner
+3. Divergent by Veronica Roth
+4. The Fault in Our Stars by John Green
+5. The Giver by Lois Lowry
+6. The Hunger Games: Mockingjay by Suzanne Collins
+7. The Hobbit by J.R.R. Tolkien
+8. The Fellowship of the Ring by J.R.R. Tolkien
+9. The Two Towers by J.R.R. Tolkien
+10. The Return of the King by J.R.R. Tolkien
+11. The Girl with the Dragon Tattoo by Stieg Larsson
+12. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+13. The Girl in the Spider's Web by David Lagercrantz
+14. The Vampire Lestat by Anne Rice
+15. Interview with the Vampire by Anne Rice
+16. The Vampire Diaries: The Awakening by L.J. Smith
+17. The Vampire Diaries: The Struggle by L.J. Smith
+18. The Vampire Diaries: The Fury by L.J. Smith
+19. The Vampire Diaries: Dark Reunion by L.J. Smith
+20. The Vampire Diaries: The Return: Nightfall by L.J. Smith
+21. The Vampire Diaries: The Return: Shadow Souls by L.J. Smith
+22. The Vampire Diaries: The Return: Midnight by L.J. Smith
+23. The Vampire Diaries: The Hunters: Phantom by L.J. Smith
+24. The Vampire Diaries: The Hunters: Moonsong by L.J. Smith
+25. The Vampire Diaries: The Hunters: Destiny Rising by L.J. Smith
+26. The Vampire Academy: Frostbite by Richelle Mead
+27. The Vampire Academy: Shadow Kiss by Richelle Mead
+28. The Vampire Academy: Blood Promise by Richelle Mead
+29. The Vampire Academy: Spirit Bound by Richelle Mead
+30. The Vampire Academy: Last Sacrifice by Richelle Mead
+31. The Mortal Instruments: City of Ashes by Cassandra Clare
+32. The Mortal Instruments: City of Glass by Cassandra Clare
+33. The Mortal Instruments: City of Fallen Angels by Cassandra Clare
+34. The Mortal Instruments: City of Lost Souls by Cassandra Clare
+35. The Mortal Instruments: City of Heavenly Fire by Cassandra Clare
+36. The Infernal Devices: Clockwork Angel by Cassandra Clare
+37. The Infernal Devices: Clockwork Prince by Cassandra Clare
+38. The Infernal Devices: Clockwork Princess by Cassandra Clare
+39. The Dark Artifices: Lady Midnight by Cassandra Clare
+40. The Dark Artifices: Lord of Shadows by Cassandra Clare
+41. The Dark Artifices: Queen of Air and Darkness by Cassandra Clare
+42. Wizard and Glass by Stephen King
+43. Wolves of the Calla by Stephen King
+44. Song of Susannah by Stephen King
+45. The Dark Tower by Stephen King
+46. The Name of the Wind by Patrick Rothfuss
+47. The Wise Man's Fear by Patrick Rothfuss
+48. The Dark Tower by Stephen King
+49. The Name of the Wind by Patrick Rothfuss
+50. The Wise Man's Fear by Patrick Rothfuss

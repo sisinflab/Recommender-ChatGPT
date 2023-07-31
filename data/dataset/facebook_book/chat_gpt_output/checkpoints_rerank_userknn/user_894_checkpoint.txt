@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Jurassic Park by Michael Crichton
+2. The Hunger Games by Suzanne Collins
+3. The Maze Runner by James Dashner
+4. The Bourne Identity by Robert Ludlum
+5. The Girl with the Dragon Tattoo by Stieg Larsson
+6. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+7. The Catcher in the Rye by J.D. Salinger
+8. The Shining by Stephen King
+9. The Hobbit by J.R.R. Tolkien
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Da Vinci Code by Dan Brown
+12. Angels and Demons by Dan Brown
+13. The Silence of the Lambs by Thomas Harris
+14. Red Dragon by Thomas Harris
+15. Hannibal by Thomas Harris
+16. The Andromeda Strain by Michael Crichton
+17. Congo by Michael Crichton
+18. Sphere by Michael Crichton
+19. Prey by Michael Crichton
+20. Timeline by Michael Crichton
+21. The Lost World by Michael Crichton
+22. Ender's Game by Orson Scott Card
+23. Dune by Frank Herbert
+24. The Stand by Stephen King
+25. The Dark Tower series by Stephen King
+26. The Girl on the Train by Paula Hawkins
+27. Gone Girl by Gillian Flynn
+28. The Lovely Bones by Alice Sebold
+29. The Help by Kathryn Stockett
+30. The Fault in Our Stars by John Green
+31. The Book Thief by Markus Zusak
+32. The Kite Runner by Khaled Hosseini
+33. A Thousand Splendid Suns by Khaled Hosseini
+34. The Alchemist by Paulo Coelho
+35. The Chronicles of Narnia by C.S. Lewis
+36. The Harry Potter series by J.K. Rowling
+37. The Hunger Games trilogy by Suzanne Collins
+38. The Twilight series by Stephenie Meyer
+39. The Mortal Instruments series by Cassandra Clare
+40. The Infernal Devices series by Cassandra Clare
+41. The Maze Runner series by James Dashner
+42. The Divergent series by Veronica Roth
+43. The Percy Jackson series by Rick Riordan
+44. The Heroes of Olympus series by Rick Riordan
+45. The Kane Chronicles series by Rick Riordan
+46. The Fault in Our Stars by John Green
+47. Looking for Alaska by John Green
+48. Paper Towns by John Green
+49. An Abundance of Katherines by John Green
+50. Will Grayson, Will Grayson by John Green and David Levithan

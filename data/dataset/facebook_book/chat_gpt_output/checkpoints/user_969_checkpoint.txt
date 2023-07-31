@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. Pride and Prejudice by Jane Austen
+5. The Great Gatsby by F. Scott Fitzgerald
+6. The Picture of Dorian Gray by Oscar Wilde
+7. The Bell Jar by Sylvia Plath
+8. The Handmaid's Tale by Margaret Atwood
+9. The Hobbit by J.R.R. Tolkien
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Hunger Games by Suzanne Collins
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Da Vinci Code by Dan Brown
+14. The Kite Runner by Khaled Hosseini
+15. The Road by Cormac McCarthy
+16. The Book Thief by Markus Zusak
+17. The Fault in Our Stars by John Green
+18. The Help by Kathryn Stockett
+19. The Lovely Bones by Alice Sebold
+20. The Secret Life of Bees by Sue Monk Kidd
+21. The Time Traveler's Wife by Audrey Niffenegger
+22. The Alchemist by Paulo Coelho
+23. The Chronicles of Narnia by C.S. Lewis
+24. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+25. The Shining by Stephen King
+26. The Stand by Stephen King
+27. The Silence of the Lambs by Thomas Harris
+28. The Girl on the Train by Paula Hawkins
+29. The Nightingale by Kristin Hannah
+30. The Help by Kathryn Stockett
+31. The Lovely Bones by Alice Sebold
+32. The Secret Life of Bees by Sue Monk Kidd
+33. The Time Traveler's Wife by Audrey Niffenegger
+34. The Alchemist by Paulo Coelho
+35. The Chronicles of Narnia by C.S. Lewis
+36. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+37. The Shining by Stephen King
+38. The Stand by Stephen King
+39. The Silence of the Lambs by Thomas Harris
+40. The Girl on the Train by Paula Hawkins
+41. The Nightingale by Kristin Hannah
+42. The Help by Kathryn Stockett
+43. The Lovely Bones by Alice Sebold
+44. The Secret Life of Bees by Sue Monk Kidd
+45. The Time Traveler's Wife by Audrey Niffenegger
+46. The Alchemist by Paulo Coelho
+47. The Chronicles of Narnia by C.S. Lewis
+48. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+49. The Shining by Stephen King
+50. The Stand by Stephen King

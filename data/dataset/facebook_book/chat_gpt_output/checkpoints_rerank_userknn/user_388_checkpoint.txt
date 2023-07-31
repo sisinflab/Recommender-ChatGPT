@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Jane Austen - Mansfield Park
+2. Jane Austen - Sense and Sensibility
+3. Charlotte Brontë - Wuthering Heights
+4. Daphne du Maurier - Rebecca (novel)
+5. William Golding - Lord of the Flies
+6. Jane Austen - Emma (novel)
+7. Kate DiCamillo - Because of Winn-Dixie
+8. Jane Austen - Pride and Prejudice
+9. George Orwell - Nineteen Eighty-Four
+10. J.R.R. Tolkien - The Lord of the Rings
+11. C.S. Lewis - The Chronicles of Narnia
+12. J.D. Salinger - The Catcher in the Rye
+13. F. Scott Fitzgerald - The Great Gatsby
+14. Harper Lee - To Kill a Mockingbird
+15. J.K. Rowling - Harry Potter
+16. Lewis Carroll - Alice's Adventures in Wonderland
+17. Emily Brontë - Wuthering Heights
+18. Aldous Huxley - Brave New World
+19. Ray Bradbury - Fahrenheit 451
+20. Mary Shelley - Frankenstein
+21. Nathaniel Hawthorne - The Scarlet Letter
+22. Charles Dickens - Oliver Twist
+23. Homer - The Iliad
+24. Jules Verne - Around the World in Eighty Days
+25. Alexandre Dumas - The Three Musketeers
+26. Mark Twain - The Adventures of Tom Sawyer
+27. J.R.R. Tolkien - The Hobbit
+28. Lewis Carroll - Through the Looking-Glass
+29. Louisa May Alcott - Little Women
+30. Herman Melville - Moby-Dick
+31. Robert Louis Stevenson - Treasure Island
+32. H.G. Wells - The Time Machine
+33. Bram Stoker - Dracula
+34. Oscar Wilde - The Picture of Dorian Gray
+35. Mary Shelley - The Last Man
+36. Edgar Allan Poe - The Raven
+37. Fyodor Dostoevsky - Crime and Punishment
+38. Leo Tolstoy - War and Peace
+39. George Eliot - Middlemarch
+40. Gustave Flaubert - Madame Bovary
+41. Victor Hugo - Les Misérables
+42. Jane Austen - Northanger Abbey
+43. Charles Dickens - Great Expectations
+44. Charlotte Brontë - Jane Eyre
+45. Emily Brontë - The Tenant of Wildfell Hall
+46. Thomas Hardy - Tess of the d'Urbervilles
+47. Joseph Conrad - Heart of Darkness
+48. Virginia Woolf - Mrs Dalloway
+49. James Joyce - Ulysses
+50. Franz Kafka - The Metamorphosis

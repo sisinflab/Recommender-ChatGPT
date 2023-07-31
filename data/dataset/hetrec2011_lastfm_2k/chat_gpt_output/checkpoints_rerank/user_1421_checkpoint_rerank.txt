@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Nick Cave & The Bad Seeds
+2. Radiohead
+3. Tom Waits
+4. Leonard Cohen
+5. David Bowie
+6. The Beatles
+7. Pink Floyd
+8. The Velvet Underground
+9. Joy Division
+10. The Smiths
+11. Bob Dylan
+12. Neil Young
+13. The Rolling Stones
+14. Iggy Pop
+15. Lou Reed
+16. Talking Heads
+17. The Clash
+18. Bruce Springsteen
+19. Elvis Costello
+20. The Doors
+21. The Who
+22. Led Zeppelin
+23. The Kinks
+24. The Cure
+25. Pixies
+26. Sonic Youth
+27. R.E.M.
+28. U2
+29. Pearl Jam
+30. Nirvana
+31. Metallica
+32. Guns N' Roses
+33. AC/DC
+34. Iron Maiden
+35. Black Sabbath
+36. Judas Priest
+37. Slayer
+38. Megadeth
+39. Pantera
+40. System of a Down
+41. Nine Inch Nails
+42. Depeche Mode
+43. New Order
+44. The Chemical Brothers
+45. Daft Punk
+46. Massive Attack
+47. Portishead
+48. Björk
+49. Aphex Twin
+50. Boards of Canada

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. Harry Potter by J.K. Rowling
+3. The Hobbit by J.R.R. Tolkien
+4. The Da Vinci Code by Dan Brown
+5. Angels & Demons by Dan Brown
+6. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+7. Memoirs of a Geisha by Arthur Golden
+8. The Girl Who Loved Tom Gordon by Stephen King
+9. The Outsiders by S.E. Hinton
+10. Flowers in the Attic by V.C. Andrews
+11. Les Misérables by Victor Hugo
+12. The Little Prince by Antoine de Saint-Exupéry
+13. Adventures of Huckleberry Finn by Mark Twain
+14. The Adventures of Tom Sawyer by Mark Twain
+15. Romeo and Juliet by William Shakespeare
+16. The Scarlet Letter by Nathaniel Hawthorne
+17. Looking for Alaska by John Green
+18. Lamb: The Gospel According to Biff, Christ's Childhood Pal by Christopher Moore
+19. The Bourne Supremacy by Robert Ludlum
+20. Deception Point by Dan Brown
+21. Digital Fortress by Dan Brown
+22. The Watchmen by Alan Moore
+23. Fear and Loathing in Las Vegas by Hunter S. Thompson
+24. Cujo by Stephen King
+25. Merrick by Anne Rice
+26. The Tale of the Body Thief by Anne Rice
+27. Interview with the Vampire by Anne Rice
+28. Millennium series by Stieg Larsson
+29. Sabriel by Garth Nix
+30. Tuck Everlasting by Natalie Babbitt
+31. The Hardy Boys by Franklin W. Dixon
+32. Nancy Drew by Carolyn Keene
+33. The Famous Five by Enid Blyton
+34. Ranger's Apprentice by John Flanagan
+35. Dragons of Autumn Twilight by Margaret Weis and Tracy Hickman
+36. Johnny Tremain by Esther Forbes
+37. A Memory of Light by Robert Jordan and Brandon Sanderson
+38. The Naughtiest Girl Again by Enid Blyton
+39. Shopgirl by Steve Martin
+40. Utopia by Thomas More
+41. King Rat by James Clavell
+42. Have a Little Faith by Mitch Albom
+43. For One More Day by Mitch Albom
+44. This Is Your Brain On Music by Daniel J. Levitin
+45. I Am America (And So Can You!) by Stephen Colbert
+46. The God Delusion by Richard Dawkins
+47. The Theory of Everything by Stephen Hawking
+48. The Elegant Universe by Brian Greene
+49. Hoot by Carl Hiaasen
+50. Horrible Histories by Terry Deary

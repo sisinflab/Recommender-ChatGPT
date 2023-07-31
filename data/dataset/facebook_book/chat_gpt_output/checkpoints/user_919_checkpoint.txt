@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Ender's Game by Orson Scott Card
+2. The Hobbit by J.R.R. Tolkien
+3. Jurassic Park by Michael Crichton
+4. The Hunger Games by Suzanne Collins
+5. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+6. The Chronicles of Narnia by C.S. Lewis
+7. Dune by Frank Herbert
+8. The Maze Runner by James Dashner
+9. The Giver by Lois Lowry
+10. The War of the Worlds by H.G. Wells
+11. The Andromeda Strain by Michael Crichton
+12. The Lord of the Rings by J.R.R. Tolkien
+13. The Time Machine by H.G. Wells
+14. The Martian by Andy Weir
+15. The Stand by Stephen King
+16. The Dark Tower series by Stephen King
+17. The Girl with the Dragon Tattoo by Stieg Larsson
+18. The Da Vinci Code by Dan Brown
+19. The Bourne Identity by Robert Ludlum
+20. The Catcher in the Rye by J.D. Salinger
+21. The Great Gatsby by F. Scott Fitzgerald
+22. To Kill a Mockingbird by Harper Lee
+23. 1984 by George Orwell
+24. Animal Farm by George Orwell
+25. Brave New World by Aldous Huxley
+26. Fahrenheit 451 by Ray Bradbury
+27. The Hitchhiker's Guide to the Galaxy series by Douglas Adams
+28. The Harry Potter series by J.K. Rowling
+29. The Chronicles of Prydain by Lloyd Alexander
+30. The Belgariad series by David Eddings
+31. The Wheel of Time series by Robert Jordan
+32. The Sword of Shannara series by Terry Brooks
+33. The Dark Elf Trilogy by R.A. Salvatore
+34. The Dresden Files series by Jim Butcher
+35. The Name of the Wind by Patrick Rothfuss
+36. The Lies of Locke Lamora by Scott Lynch
+37. The First Law Trilogy by Joe Abercrombie
+38. The Kingkiller Chronicle by Patrick Rothfuss
+39. The Stormlight Archive by Brandon Sanderson
+40. Mistborn series by Brandon Sanderson
+41. The Way of Kings by Brandon Sanderson
+42. The Malazan Book of the Fallen series by Steven Erikson
+43. The Black Company series by Glen Cook
+44. The Chronicles of Amber by Roger Zelazny
+45. The Earthsea Cycle by Ursula K. Le Guin
+46. The Hyperion Cantos by Dan Simmons
+47. The Culture series by Iain M. Banks
+48. The Foundation series by Isaac Asimov
+49. The Hitchhiker's Guide to the Galaxy: A Trilogy in Five Parts by Douglas Adams
+50. The Wise Man's Fear by Patrick Rothfuss

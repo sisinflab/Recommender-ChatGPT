@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for them would be:
+
+1. David Bowie
+2. R.E.M.
+3. Fiona Apple
+4. Norah Jones
+5. Simon & Garfunkel
+6. The Beach Boys
+7. Metallica
+8. Johann Sebastian Bach
+9. Wolfgang Amadeus Mozart
+10. Cyndi Lauper
+11. Iggy Pop
+12. Annie Lennox
+13. XTC
+14. ABBA
+15. Echo & The Bunnymen
+16. Britney Spears
+17. Lou Reed
+18. The Velvet Underground
+19. Sade
+20. Sarah McLachlan
+21. Björk
+22. Tori Amos
+23. Alanis Morissette
+24. Sarah Brightman
+25. Pink Floyd
+26. The Stooges
+27. Blondie
+28. Tears for Fears
+29. Ludwig van Beethoven
+30. Billie Holiday
+31. Regina Spektor
+32. Marillion
+33. Korn
+34. Slipknot
+35. Avenged Sevenfold
+36. Dream Theater
+37. Sonata Arctica
+38. Edguy
+39. Cradle of Filth
+40. A Perfect Circle
+41. Feist
+42. Lady Antebellum
+43. Sheryl Crow
+44. Ingrid Michaelson
+45. Amy Winehouse
+46. Daughtry
+47. Moby
+48. A Fine Frenzy
+49. Maria Rita
+50. Maria Bethânia

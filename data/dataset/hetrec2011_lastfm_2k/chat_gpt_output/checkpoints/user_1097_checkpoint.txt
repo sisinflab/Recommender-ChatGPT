@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Imogen Heap
+2. Robyn
+3. Marina and the Diamonds
+4. Ellie Goulding
+5. Lykke Li
+6. Sia
+7. Lana Del Rey
+8. Florence + The Machine
+9. Lorde
+10. CHVRCHES
+11. Grimes
+12. Tove Lo
+13. Charli XCX
+14. Halsey
+15. Aurora
+16. Zara Larsson
+17. BANKS
+18. Birdy
+19. Oh Land
+20. Kate Bush
+21. Bat for Lashes
+22. FKA Twigs
+23. The xx
+24. Metric
+25. The Naked and Famous
+26. M83
+27. Passion Pit
+28. Phoenix
+29. Two Door Cinema Club
+30. Vampire Weekend
+31. The Strokes
+32. Arctic Monkeys
+33. The Killers
+34. Muse
+35. Radiohead
+36. Coldplay
+37. U2
+38. The Beatles
+39. Queen
+40. David Bowie
+41. Prince
+42. Michael Jackson
+43. Janet Jackson
+44. Whitney Houston
+45. Mariah Carey
+46. Celine Dion
+47. Christina Aguilera
+48. Jennifer Lopez
+49. Shakira
+50. Rihanna

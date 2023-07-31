@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Jane Eyre by Charlotte Bronte
+2. The Picture of Dorian Gray by Oscar Wilde
+3. The Catcher in the Rye by J.D. Salinger
+4. To Kill a Mockingbird by Harper Lee
+5. Pride and Prejudice by Jane Austen
+6. The Great Gatsby by F. Scott Fitzgerald
+7. 1984 by George Orwell
+8. Animal Farm by George Orwell
+9. The Hobbit by J.R.R. Tolkien
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Hunger Games by Suzanne Collins
+12. Catching Fire by Suzanne Collins
+13. Mockingjay by Suzanne Collins
+14. The Fault in Our Stars by John Green
+15. Looking for Alaska by John Green
+16. Paper Towns by John Green
+17. The Book Thief by Markus Zusak
+18. The Girl with the Dragon Tattoo by Stieg Larsson
+19. The Girl Who Played with Fire by Stieg Larsson
+20. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+21. The Da Vinci Code by Dan Brown
+22. Angels and Demons by Dan Brown
+23. Inferno by Dan Brown
+24. The Alchemist by Paulo Coelho
+25. The Name of the Wind by Patrick Rothfuss
+26. The Wise Man's Fear by Patrick Rothfuss
+27. The Way of Kings by Brandon Sanderson
+28. Mistborn by Brandon Sanderson
+29. The Final Empire by Brandon Sanderson
+30. The Lies of Locke Lamora by Scott Lynch
+31. Red Seas Under Red Skies by Scott Lynch
+32. The Republic of Thieves by Scott Lynch
+33. The Name of the Rose by Umberto Eco
+34. The Shadow of the Wind by Carlos Ruiz Zafon
+35. The Angel's Game by Carlos Ruiz Zafon
+36. The Prisoner of Heaven by Carlos Ruiz Zafon
+37. The Night Circus by Erin Morgenstern
+38. The Magicians by Lev Grossman
+39. The Magician King by Lev Grossman
+40. The Magician's Land by Lev Grossman
+41. The Lies of Locke Lamora by Scott Lynch
+42. Red Seas Under Red Skies by Scott Lynch
+43. The Republic of Thieves by Scott Lynch
+44. The Name of the Rose by Umberto Eco
+45. The Shadow of the Wind by Carlos Ruiz Zafon
+46. The Angel's Game by Carlos Ruiz Zafon
+47. The Prisoner of Heaven by Carlos Ruiz Zafon
+48. The Night Circus by Erin Morgenstern
+49. The Magicians by Lev Grossman
+50. The Magician King by Lev Grossman

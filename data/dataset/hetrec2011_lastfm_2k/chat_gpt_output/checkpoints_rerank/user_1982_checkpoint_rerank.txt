@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Massive Attack
+2. Portishead
+3. Beirut
+4. Lamb
+5. The xx
+6. Tricky
+7. Klaxons
+8. Depeche Mode
+9. Hans Zimmer
+10. Clint Mansell
+11. Moby
+12. Nine Inch Nails
+13. The Dillinger Escape Plan
+14. Garbage
+15. IAMX
+16. Placebo
+17. The Killers
+18. Radiohead
+19. Muse
+20. Pink Floyd
+21. Keane
+22. Coldplay
+23. Blur
+24. Arctic Monkeys
+25. Nirvana
+26. Iron Maiden
+27. Led Zeppelin
+28. Metallica
+29. Michael Jackson
+30. Pearl Jam
+31. a-ha
+32. Björk
+33. System of a Down
+34. Daft Punk
+35. Linkin Park
+36. Avenged Sevenfold
+37. My Chemical Romance
+38. Green Day
+39. The Cure
+40. Evanescence
+41. Katy Perry
+42. Lady Gaga
+43. Rihanna
+44. Beyoncé
+45. Christina Aguilera
+46. Shakira
+47. Britney Spears
+48. Madonna
+49. P!nk
+50. Kelly Clarkson

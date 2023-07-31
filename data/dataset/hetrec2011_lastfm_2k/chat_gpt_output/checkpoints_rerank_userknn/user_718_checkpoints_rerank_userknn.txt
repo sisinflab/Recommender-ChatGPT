@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. Björk
+3. Aphex Twin
+4. M.I.A.
+5. Daft Punk
+6. Arctic Monkeys
+7. Muse
+8. Grizzly Bear
+9. New Order
+10. Röyksopp
+11. Crystal Castles
+12. Bloc Party
+13. LCD Soundsystem
+14. The Knife
+15. Hot Chip
+16. Air
+17. Goldfrapp
+18. Cut Copy
+19. The Presets
+20. Vive la Fête
+21. Alice in Videoland
+22. Prefuse 73
+23. Yeasayer
+24. Stereolab
+25. Squarepusher
+26. Apparat
+27. Ladytron
+28. Fever Ray
+29. Beach House
+30. Sigur Rós
+31. Kings of Leon
+32. Matt & Kim
+33. Coldplay
+34. Scissor Sisters
+35. A Tribe Called Quest
+36. La Roux
+37. Florence + the Machine
+38. Soulwax
+39. Metric
+40. De La Soul
+41. Feist
+42. Madonna
+43. Evanescence
+44. Regina Spektor
+45. The xx
+46. Mika
+47. White Lies
+48. Belle and Sebastian
+49. Travis
+50. The Rakes

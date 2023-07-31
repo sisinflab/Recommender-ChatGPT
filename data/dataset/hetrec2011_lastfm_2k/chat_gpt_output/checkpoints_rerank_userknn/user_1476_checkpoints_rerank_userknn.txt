@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations are:
+
+1. My Chemical Romance
+2. Lady Gaga
+3. Muse
+4. Michael Jackson
+5. Beyoncé
+6. HIM
+7. Britney Spears
+8. Taylor Swift
+9. Ke$ha
+10. Adam Lambert
+11. McFly
+12. All Time Low
+13. Simple Plan
+14. 30 Seconds to Mars
+15. Pixie Lott
+16. Leona Lewis
+17. Jason Mraz
+18. Kelly Clarkson
+19. Jonas Brothers
+20. Cheryl Cole
+21. nevershoutnever!
+22. Lostprophets
+23. Drake
+24. The Rasmus
+25. Nick Jonas & The Administration
+26. Josh Groban
+27. Chris Brown
+28. B.o.B
+29. Enrique Iglesias
+30. Avril Lavigne
+31. Katy Perry
+32. The Killers
+33. Metallica
+34. In Flames
+35. Linkin Park
+36. System of a Down
+37. Rammstein
+38. Coheed and Cambria
+39. Dead by April
+40. The Birthday Massacre
+41. Nine Inch Nails
+42. Eisbrecher
+43. Escape The Fate
+44. In This Moment
+45. Saosin
+46. The Offspring
+47. Placebo
+48. Moonspell
+49. Opeth
+50. Nirvana

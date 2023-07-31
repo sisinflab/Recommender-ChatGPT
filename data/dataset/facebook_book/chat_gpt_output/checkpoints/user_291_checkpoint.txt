@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Graceling by Kristin Cashore
+2. Throne of Glass by Sarah J. Maas
+3. The Selection by Kiera Cass
+4. Red Queen by Victoria Aveyard
+5. Shadow and Bone by Leigh Bardugo
+6. The Mortal Instruments by Cassandra Clare
+7. Divergent by Veronica Roth
+8. The Maze Runner by James Dashner
+9. The Fault in Our Stars by John Green
+10. Eleanor & Park by Rainbow Rowell
+11. Fangirl by Rainbow Rowell
+12. The Perks of Being a Wallflower by Stephen Chbosky
+13. The Giver by Lois Lowry
+14. The Hunger Games Trilogy by Suzanne Collins
+15. The Lunar Chronicles by Marissa Meyer
+16. The Infernal Devices by Cassandra Clare
+17. The Raven Boys by Maggie Stiefvater
+18. The Scorpio Races by Maggie Stiefvater
+19. The Name of the Wind by Patrick Rothfuss
+20. Mistborn by Brandon Sanderson
+21. The Lies of Locke Lamora by Scott Lynch
+22. The Kingkiller Chronicle by Patrick Rothfuss
+23. The Night Circus by Erin Morgenstern
+24. The Girl with the Dragon Tattoo by Stieg Larsson
+25. The Girl on the Train by Paula Hawkins
+26. Gone Girl by Gillian Flynn
+27. The Help by Kathryn Stockett
+28. The Secret Life of Bees by Sue Monk Kidd
+29. The Time Traveler's Wife by Audrey Niffenegger
+30. The Lovely Bones by Alice Sebold
+31. The Picture of Dorian Gray by Oscar Wilde
+32. The Great Gatsby by F. Scott Fitzgerald
+33. To Kill a Mockingbird by Harper Lee
+34. 1984 by George Orwell
+35. Animal Farm by George Orwell
+36. Brave New World by Aldous Huxley
+37. Fahrenheit 451 by Ray Bradbury
+38. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+39. The Hobbit by J.R.R. Tolkien
+40. The Lord of the Rings Trilogy by J.R.R. Tolkien
+41. Harry Potter Series by J.K. Rowling
+42. The Chronicles of Narnia by C.S. Lewis
+43. The Dark Tower Series by Stephen King
+44. The Stand by Stephen King
+45. It by Stephen King
+46. The Shining by Stephen King
+47. The Silence of the Lambs by Thomas Harris
+48. The Da Vinci Code by Dan Brown
+49. Angels and Demons by Dan Brown
+50. The Bourne Identity by Robert Ludlum

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Les Misérables by Victor Hugo
+2. The Secret Garden by Frances Hodgson Burnett
+3. Emma by Jane Austen
+4. Persuasion by Jane Austen
+5. Great Expectations by Charles Dickens
+6. Jane Eyre by Charlotte Bronte
+7. The Other Boleyn Girl by Philippa Gregory
+8. The Princess Bride by William Goldman
+9. A Separate Peace by John Knowles
+10. The Hunger Games by Suzanne Collins
+11. Ender's Game by Orson Scott Card
+12. Twilight by Stephenie Meyer
+13. Inkheart by Cornelia Funke
+14. Dragon Rider by Cornelia Funke
+15. The Graveyard Book by Neil Gaiman
+16. American Gods by Neil Gaiman
+17. The Bell Jar by Sylvia Plath
+18. Lord of the Flies by William Golding
+19. Slaughterhouse-Five by Kurt Vonnegut
+20. Nineteen Eighty-Four by George Orwell
+21. The Catcher in the Rye by J.D. Salinger
+22. Bridget Jones's Diary by Helen Fielding
+23. The Tipping Point by Malcolm Gladwell
+24. The Seven Habits of Highly Effective People by Stephen Covey
+25. Angels & Demons by Dan Brown
+26. Gulliver's Travels by Jonathan Swift
+27. Candide by Voltaire
+28. A Midsummer Night's Dream by William Shakespeare
+29. The Mayor of Casterbridge by Thomas Hardy
+30. Paradise Lost by John Milton
+31. The Varieties of Religious Experience by William James
+32. Around the World in Eighty Days by Jules Verne
+33. Left Behind by Tim LaHaye and Jerry B. Jenkins
+34. The Chosen by Chaim Potok
+35. Speak by Laurie Halse Anderson
+36. Three by Ted Dekker
+37. The Zombie Survival Guide by Max Brooks
+38. The Gay Science by Friedrich Nietzsche
+39. Iliad by Homer
+40. So Long, and Thanks for All the Fish by Douglas Adams
+41. The Tale of Despereaux by Kate DiCamillo
+42. Cirque du Freak by Darren Shan
+43. Guardians of Ga'Hoole: The Capture by Kathryn Lasky
+44. Skeleton Creek by Patrick Carman
+45. Inkspell by Cornelia Funke
+46. Eragon by Christopher Paolini
+47. Manga by Various Authors
+48. The Forgotten Garden by Kate Morton
+49. A Course in Miracles by Helen Schucman
+50. The Crucible of Time by John Brunner

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Impulse by Ellen Hopkins
+2. Glass by Ellen Hopkins
+3. Fallout by Ellen Hopkins
+4. Tricks by Ellen Hopkins
+5. Perfect by Ellen Hopkins
+6. Tilt by Ellen Hopkins
+7. Burned by Ellen Hopkins
+8. Smoke by Ellen Hopkins
+9. Crank by Ellen Hopkins
+10. Go Ask Alice by Anonymous
+11. Jay's Journal by Anonymous
+12. Candy by Luke Davies
+13. A Million Little Pieces by James Frey
+14. Dry by Augusten Burroughs
+15. Running with Scissors by Augusten Burroughs
+16. Cut by Patricia McCormick
+17. Willow by Julia Hoban
+18. Wintergirls by Laurie Halse Anderson
+19. Speak by Laurie Halse Anderson
+20. Thirteen Reasons Why by Jay Asher
+21. Looking for Alaska by John Green
+22. The Fault in Our Stars by John Green
+23. Paper Towns by John Green
+24. Lucas by Kevin Brooks
+25. Candy Girl by Diablo Cody
+26. The Perks of Being a Wallflower by Stephen Chbosky
+27. The Hunger Games by Suzanne Collins
+28. Divergent by Veronica Roth
+29. The Maze Runner by James Dashner
+30. City of Bones by Cassandra Clare
+31. Twilight by Stephenie Meyer
+32. New Moon by Stephenie Meyer
+33. Eclipse by Stephenie Meyer
+34. Breaking Dawn by Stephenie Meyer
+35. The Host by Stephenie Meyer
+36. The Silver Kiss by Annette Curtis Klause
+37. Blood and Chocolate by Annette Curtis Klause
+38. Shiver by Maggie Stiefvater
+39. Beautiful Creatures by Kami Garcia and Margaret Stohl
+40. Hush, Hush by Becca Fitzpatrick
+41. Fallen by Lauren Kate
+42. The Vampire Diaries by L.J. Smith
+43. The Secret Circle by L.J. Smith
+44. The Mortal Instruments by Cassandra Clare
+45. Carrie by Stephen King
+46. The Shining by Stephen King
+47. It by Stephen King
+48. Pet Sematary by Stephen King
+49. Misery by Stephen King
+50. Romeo and Juliet by William Shakespeare

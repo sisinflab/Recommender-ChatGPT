@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Catcher in the Rye by J.D. Salinger
+3. 1984 by George Orwell
+4. Animal Farm by George Orwell
+5. The Adventures of Huckleberry Finn by Mark Twain
+6. The Grapes of Wrath by John Steinbeck
+7. The Old Man and the Sea by Ernest Hemingway
+8. The Sun Also Rises by Ernest Hemingway
+9. The Great Gatsby by F. Scott Fitzgerald
+10. The Sound and the Fury by William Faulkner
+11. As I Lay Dying by William Faulkner
+12. The Bell Jar by Sylvia Plath
+13. One Hundred Years of Solitude by Gabriel Garcia Marquez
+14. Love in the Time of Cholera by Gabriel Garcia Marquez
+15. Crime and Punishment by Fyodor Dostoevsky
+16. The Brothers Karamazov by Fyodor Dostoevsky
+17. Anna Karenina by Leo Tolstoy
+18. War and Peace by Leo Tolstoy
+19. The Picture of Dorian Gray by Oscar Wilde
+20. Frankenstein by Mary Shelley
+21. Dracula by Bram Stoker
+22. Wuthering Heights by Emily Bronte
+23. Jane Eyre by Charlotte Bronte
+24. Pride and Prejudice by Jane Austen
+25. Sense and Sensibility by Jane Austen
+26. Emma by Jane Austen
+27. Persuasion by Jane Austen
+28. Northanger Abbey by Jane Austen
+29. The Scarlet Letter by Nathaniel Hawthorne
+30. Moby-Dick by Herman Melville
+31. Heart of Darkness by Joseph Conrad
+32. Lord of the Flies by William Golding
+33. Brave New World by Aldous Huxley
+34. Fahrenheit 451 by Ray Bradbury
+35. Slaughterhouse-Five by Kurt Vonnegut
+36. Catch-22 by Joseph Heller
+37. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+38. The Lord of the Rings by J.R.R. Tolkien
+39. The Hobbit by J.R.R. Tolkien
+40. The Chronicles of Narnia by C.S. Lewis
+41. Harry Potter and the Philosopher's Stone by J.K. Rowling
+42. The Hunger Games by Suzanne Collins
+43. Divergent by Veronica Roth
+44. The Maze Runner by James Dashner
+45. The Fault in Our Stars by John Green
+46. Looking for Alaska by John Green
+47. Paper Towns by John Green
+48. The Perks of Being a Wallflower by Stephen Chbosky
+49. The Book Thief by Markus Zusak
+50. All the Light We Cannot See by

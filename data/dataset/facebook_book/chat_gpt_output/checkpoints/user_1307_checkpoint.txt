@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+4. The Catcher in the Rye by J.D. Salinger
+5. Slaughterhouse-Five by Kurt Vonnegut
+6. The Road by Cormac McCarthy
+7. The Handmaid's Tale by Margaret Atwood
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Stranger by Albert Camus
+10. The Great Gatsby by F. Scott Fitzgerald
+11. To Kill a Mockingbird by Harper Lee
+12. The Lord of the Rings by J.R.R. Tolkien
+13. The Hobbit by J.R.R. Tolkien
+14. The Chronicles of Narnia by C.S. Lewis
+15. The Dark Tower series by Stephen King
+16. The Stand by Stephen King
+17. The Shining by Stephen King
+18. The Silence of the Lambs by Thomas Harris
+19. The Girl with the Dragon Tattoo by Stieg Larsson
+20. The Da Vinci Code by Dan Brown
+21. The Hunger Games by Suzanne Collins
+22. The Road to Serfdom by Friedrich Hayek
+23. The Communist Manifesto by Karl Marx and Friedrich Engels
+24. The Wealth of Nations by Adam Smith
+25. The Origin of Species by Charles Darwin
+26. The God Delusion by Richard Dawkins
+27. The Selfish Gene by Richard Dawkins
+28. The Blind Watchmaker by Richard Dawkins
+29. The Elegant Universe by Brian Greene
+30. A Brief History of Time by Stephen Hawking
+31. The Demon-Haunted World by Carl Sagan
+32. The Hitchhiker's Guide to the Galaxy: The Complete Radio Series by Douglas Adams
+33. The Complete Sherlock Holmes by Arthur Conan Doyle
+34. The Adventures of Huckleberry Finn by Mark Twain
+35. The Adventures of Tom Sawyer by Mark Twain
+36. The War of the Worlds by H.G. Wells
+37. The Time Machine by H.G. Wells
+38. The Island of Dr. Moreau by H.G. Wells
+39. The Invisible Man by H.G. Wells
+40. The Picture of Dorian Gray by Oscar Wilde
+41. The Importance of Being Earnest by Oscar Wilde
+42. The Canterbury Tales by Geoffrey Chaucer
+43. Beowulf by Anonymous
+44. The Divine Comedy by Dante Alighieri
+45. The Iliad by Homer
+46. The Odyssey by Homer
+47. The Aeneid by Virgil
+48. The Inferno by Dante Alighieri
+49. The Republic by Plato
+50. The Prince by Niccolo Machiavelli

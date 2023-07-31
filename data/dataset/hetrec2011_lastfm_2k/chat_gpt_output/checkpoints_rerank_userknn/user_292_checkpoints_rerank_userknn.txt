@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Pink Floyd
+2. The Beatles
+3. Yes
+4. Joy Division
+5. Porcupine Tree
+6. Tool
+7. Brian Eno
+8. David Gilmour
+9. Captain Beefheart & His Magic Band
+10. Led Zeppelin
+11. Miles Davis
+12. Talk Talk
+13. The Velvet Underground
+14. Syd Barrett
+15. Nine Inch Nails
+16. Black Sabbath
+17. Swans
+18. Sigur Rós
+19. Queen
+20. Jethro Tull
+21. The Jimi Hendrix Experience
+22. Rush
+23. The Rolling Stones
+24. The Smashing Pumpkins
+25. Bob Dylan
+26. The Cure
+27. Interpol
+28. Emerson, Lake & Palmer
+29. Nick Drake
+30. Ólafur Arnalds
+31. Simon & Garfunkel
+32. Depeche Mode
+33. Jimi Hendrix
+34. The Doors
+35. Supertramp
+36. Slayer
+37. Frank Sinatra
+38. Jack Johnson
+39. Eric Clapton
+40. Morrissey
+41. Santana
+42. The Who
+43. Eagles
+44. Dire Straits
+45. Stereophonics
+46. Bryan Adams
+47. Metallica
+48. Red Hot Chili Peppers
+49. Alanis Morissette
+50. Creedence Clearwater Revival

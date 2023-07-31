@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Fault in Our Stars by John Green
+2. To Kill a Mockingbird by Harper Lee
+3. The Hunger Games by Suzanne Collins
+4. The Book Thief by Markus Zusak
+5. The Chronicles of Narnia by C.S. Lewis
+6. Harry Potter series by J.K. Rowling
+7. The Lord of the Rings by J.R.R. Tolkien
+8. The Catcher in the Rye by J.D. Salinger
+9. The Great Gatsby by F. Scott Fitzgerald
+10. Pride and Prejudice by Jane Austen
+11. Little Women by Louisa May Alcott
+12. The Hobbit by J.R.R. Tolkien
+13. The Da Vinci Code by Dan Brown
+14. The Girl with the Dragon Tattoo by Stieg Larsson
+15. The Help by Kathryn Stockett
+16. The Kite Runner by Khaled Hosseini
+17. The Lovely Bones by Alice Sebold
+18. The Maze Runner by James Dashner
+19. The Outsiders by S.E. Hinton
+20. The Perks of Being a Wallflower by Stephen Chbosky
+21. The Picture of Dorian Gray by Oscar Wilde
+22. The Secret Life of Bees by Sue Monk Kidd
+23. The Time Traveler's Wife by Audrey Niffenegger
+24. The Twilight Saga by Stephenie Meyer
+25. Water for Elephants by Sara Gruen
+26. Wuthering Heights by Emily Bronte
+27. A Wrinkle in Time by Madeleine L'Engle
+28. Anne of Green Gables by L.M. Montgomery
+29. The Bell Jar by Sylvia Plath
+30. The Color Purple by Alice Walker
+31. The Count of Monte Cristo by Alexandre Dumas
+32. Dracula by Bram Stoker
+33. Frankenstein by Mary Shelley
+34. Gone with the Wind by Margaret Mitchell
+35. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+36. The House of the Spirits by Isabel Allende
+37. Jane Eyre by Charlotte Bronte
+38. Les Miserables by Victor Hugo
+39. Life of Pi by Yann Martel
+40. The Little Prince by Antoine de Saint-Exupéry
+41. Memoirs of a Geisha by Arthur Golden
+42. One Hundred Years of Solitude by Gabriel Garcia Marquez
+43. The Picture of Dorian Gray by Oscar Wilde
+44. The Pillars of the Earth by Ken Follett
+45. The Red Tent by Anita Diamant
+46. The Road by Cormac McCarthy
+47. The Stand by Stephen King
+48. The Sun Also Rises by Ernest Hemingway
+49. The Wind-Up Bird Chronicle by Haruki Murakami
+50. The Woman in White

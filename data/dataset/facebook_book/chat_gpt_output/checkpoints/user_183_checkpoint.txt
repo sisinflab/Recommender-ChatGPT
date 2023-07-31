@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. One Flew Over the Cuckoo's Nest by Ken Kesey
+2. The Catcher in the Rye by J.D. Salinger
+3. The Great Gatsby by F. Scott Fitzgerald
+4. To Kill a Mockingbird by Harper Lee
+5. 1984 by George Orwell
+6. Animal Farm by George Orwell
+7. Slaughterhouse-Five by Kurt Vonnegut
+8. Brave New World by Aldous Huxley
+9. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Hobbit by J.R.R. Tolkien
+12. The Da Vinci Code by Dan Brown
+13. Inferno by Dan Brown
+14. Origin by Dan Brown
+15. The Fountainhead by Ayn Rand
+16. Atlas Shrugged by Ayn Rand
+17. The Stand by Stephen King
+18. It by Stephen King
+19. The Shining by Stephen King
+20. Misery by Stephen King
+21. The Gunslinger by Stephen King
+22. The Drawing of the Three by Stephen King
+23. The Waste Lands by Stephen King
+24. Wizard and Glass by Stephen King
+25. Wolves of the Calla by Stephen King
+26. Song of Susannah by Stephen King
+27. The Dark Tower by Stephen King
+28. The Girl with the Dragon Tattoo by Stieg Larsson
+29. The Girl Who Played with Fire by Stieg Larsson
+30. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+31. The Hunger Games by Suzanne Collins
+32. Catching Fire by Suzanne Collins
+33. Mockingjay by Suzanne Collins
+34. The Road by Cormac McCarthy
+35. No Country for Old Men by Cormac McCarthy
+36. Blood Meridian by Cormac McCarthy
+37. The Name of the Wind by Patrick Rothfuss
+38. The Wise Man's Fear by Patrick Rothfuss
+39. American Gods by Neil Gaiman
+40. Neverwhere by Neil Gaiman
+41. Good Omens by Neil Gaiman and Terry Pratchett
+42. The Hitchhiker's Guide to the Galaxy: The Restaurant at the End of the Universe by Douglas Adams
+43. The Hitchhiker's Guide to the Galaxy: Life, the Universe and Everything by Douglas Adams
+44. The Hitchhiker's Guide to the Galaxy: So Long, and Thanks for All the Fish by Douglas Adams
+45. The Hitchhiker's Guide to the Galaxy: Mostly Harmless by Douglas Adams
+46. The Picture of Dorian Gray by Oscar Wilde
+47. The Count of Monte Cristo by Alexandre Dumas
+48. Les Misérables by Victor Hugo
+49. Crime and Punishment by

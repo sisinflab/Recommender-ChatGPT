@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Nine Inch Nails
+2. Ministry
+3. Skinny Puppy
+4. Front 242
+5. Einstürzende Neubauten
+6. Swans
+7. Throbbing Gristle
+8. Coil
+9. Dead Can Dance
+10. The Residents
+11. Sonic Youth
+12. Björk
+13. The Chemical Brothers
+14. Massive Attack
+15. Cocteau Twins
+16. The Sisters of Mercy
+17. Nick Cave and the Bad Seeds
+18. Radiohead
+19. Muse
+20. Pink Floyd
+21. Nirvana
+22. Iron Maiden
+23. Led Zeppelin
+24. Metallica
+25. The Beatles
+26. U2
+27. Duran Duran
+28. Coldplay
+29. Blur
+30. Arctic Monkeys
+31. Placebo
+32. The Killers
+33. Michael Jackson
+34. Pearl Jam
+35. a-ha
+36. System of a Down
+37. Daft Punk
+38. Linkin Park
+39. Green Day
+40. My Chemical Romance
+41. Avenged Sevenfold
+42. Black Eyed Peas
+43. Amy Winehouse
+44. Lady Gaga
+45. Rihanna
+46. Beyoncé
+47. Shakira
+48. Madonna
+49. P!nk
+50. Kelly Clarkson

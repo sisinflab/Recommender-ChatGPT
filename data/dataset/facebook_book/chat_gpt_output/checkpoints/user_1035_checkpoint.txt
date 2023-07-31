@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. Animal Farm by George Orwell
+4. The Catcher in the Rye by J.D. Salinger
+5. To Kill a Mockingbird by Harper Lee
+6. The Great Gatsby by F. Scott Fitzgerald
+7. Lord of the Flies by William Golding
+8. The Bell Jar by Sylvia Plath
+9. One Hundred Years of Solitude by Gabriel Garcia Marquez
+10. The Handmaid's Tale by Margaret Atwood
+11. The Road by Cormac McCarthy
+12. Slaughterhouse-Five by Kurt Vonnegut
+13. The Stranger by Albert Camus
+14. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+15. The Hobbit by J.R.R. Tolkien
+16. The Lord of the Rings by J.R.R. Tolkien
+17. The Chronicles of Narnia by C.S. Lewis
+18. The Hunger Games by Suzanne Collins
+19. Catch-22 by Joseph Heller
+20. The Stand by Stephen King
+21. The Shining by Stephen King
+22. The Girl with the Dragon Tattoo by Stieg Larsson
+23. The Da Vinci Code by Dan Brown
+24. Angels and Demons by Dan Brown
+25. The Name of the Rose by Umberto Eco
+26. The Shadow of the Wind by Carlos Ruiz Zafon
+27. The Kite Runner by Khaled Hosseini
+28. A Thousand Splendid Suns by Khaled Hosseini
+29. The Alchemist by Paulo Coelho
+30. The Picture of Dorian Gray by Oscar Wilde
+31. Lolita by Vladimir Nabokov
+32. Fahrenheit 451 by Ray Bradbury
+33. Go Ask Alice by Anonymous
+34. Harry Potter and the Philosopher's Stone by J.K. Rowling
+35. Harry Potter and the Chamber of Secrets by J.K. Rowling
+36. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+37. Harry Potter and the Goblet of Fire by J.K. Rowling
+38. Harry Potter and the Order of Phoenix by J.K. Rowling
+39. Harry Potter and the Half-Blood Prince by J.K. Rowling
+40. Harry Potter and the Deathly Hallows by J.K. Rowling
+41. Twilight by Stephenie Meyer
+42. New Moon by Stephenie Meyer
+43. Eclipse by Stephenie Meyer
+44. Breaking Dawn by Stephenie Meyer
+45. The Fountainhead by Ayn Rand
+46. Atlas Shrugged by Ayn Rand
+47. The Pact by Jodi Picoult
+48. My Sister's Keeper by Jodi Picoult
+49. Nineteen Minutes by Jodi Picoult
+50. The Lovely

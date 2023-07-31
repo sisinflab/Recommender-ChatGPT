@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for this user would be:
+
+1. Lady Gaga
+2. Katy Perry
+3. Britney Spears
+4. Rihanna
+5. Selena Gomez
+6. Demi Lovato
+7. Justin Bieber
+8. Shakira
+9. Black Eyed Peas
+10. Hilary Duff
+11. Kelly Clarkson
+12. Vanessa Hudgens
+13. Backstreet Boys
+14. Jesse McCartney
+15. Cobra Starship
+16. Paulina Rubio
+17. Fergie
+18. Glee Cast
+19. Paramore
+20. RBD
+21. Ricky Martin
+22. Lindsay Lohan
+23. Lady Antebellum
+24. Jonas Brothers
+25. Christina Aguilera
+26. Michael Jackson
+27. Avril Lavigne
+28. P!nk
+29. Miley Cyrus
+30. The Pussycat Dolls
+31. Enrique Iglesias
+32. Ashley Tisdale
+33. Panic! At the Disco
+34. Ke$ha
+35. Gwen Stefani
+36. The Saturdays
+37. My Chemical Romance
+38. Ellie Goulding
+39. David Archuleta
+40. Fall Out Boy
+41. Arctic Monkeys
+42. Taylor Swift
+43. Kings of Leon
+44. Muse
+45. The Black Keys
+46. High School Musical
+47. McFly
+48. Camp Rock
+49. Carrie Underwood
+50. Jason Mraz

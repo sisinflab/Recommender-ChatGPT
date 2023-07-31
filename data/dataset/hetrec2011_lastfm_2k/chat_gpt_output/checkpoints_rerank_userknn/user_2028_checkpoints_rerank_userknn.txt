@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. Björk
+3. Massive Attack
+4. The Knife
+5. Crystal Castles
+6. Aphex Twin
+7. Telefon Tel Aviv
+8. UNKLE
+9. Four Tet
+10. Goldfrapp
+11. Tricky
+12. Proem
+13. Arovane
+14. Flunk
+15. Bola
+16. The Future Sound of London
+17. Ratatat
+18. Venetian Snares
+19. Apparat
+20. Justice
+21. Depeche Mode
+22. Franz Ferdinand
+23. The Album Leaf
+24. Mogwai
+25. Sigur Rós
+26. Archive
+27. Air
+28. Portishead
+29. Fever Ray
+30. Scissor Sisters
+31. Hot Chip
+32. Röyksopp
+33. Lily Allen
+34. Ladytron
+35. New Order
+36. Bonobo
+37. Boards of Canada
+38. Autechre
+39. Plaid
+40. The Cinematic Orchestra
+41. Arctic Monkeys
+42. MGMT
+43. Shakira
+44. Emilie Simon
+45. Norah Jones
+46. Paradise Lost
+47. Squarepusher
+48. AFX
+49. Prefuse 73
+50. 65daysofstatic

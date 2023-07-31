@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Name of the Wind by Patrick Rothfuss
+2. The Night Circus by Erin Morgenstern
+3. The Shadow of the Wind by Carlos Ruiz Zafón
+4. The Book Thief by Markus Zusak
+5. The Graveyard Book by Neil Gaiman
+6. The Ocean at the End of the Lane by Neil Gaiman
+7. The Alchemist by Paulo Coelho
+8. The Time Traveler's Wife by Audrey Niffenegger
+9. The Hunger Games by Suzanne Collins
+10. The Girl with the Dragon Tattoo by Stieg Larsson
+11. The Da Vinci Code by Dan Brown
+12. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+13. The Lord of the Rings by J.R.R. Tolkien
+14. The Hobbit by J.R.R. Tolkien
+15. The Chronicles of Narnia by C.S. Lewis
+16. Harry Potter and the Philosopher's Stone by J.K. Rowling
+17. Harry Potter and the Chamber of Secrets by J.K. Rowling
+18. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+19. Harry Potter and the Goblet of Fire by J.K. Rowling
+20. Harry Potter and the Order of Phoenix by J.K. Rowling
+21. Harry Potter and the Half-Blood Prince by J.K. Rowling
+22. Harry Potter and the Deathly Hallows by J.K. Rowling
+23. The Magicians by Lev Grossman
+24. American Gods by Neil Gaiman
+25. Neverwhere by Neil Gaiman
+26. Stardust by Neil Gaiman
+27. Coraline by Neil Gaiman
+28. Good Omens by Neil Gaiman and Terry Pratchett
+29. The Lies of Locke Lamora by Scott Lynch
+30. The Kingkiller Chronicle by Patrick Rothfuss
+31. The Dresden Files by Jim Butcher
+32. The Dark Tower by Stephen King
+33. The Wheel of Time by Robert Jordan
+34. Mistborn by Brandon Sanderson
+35. The Stormlight Archive by Brandon Sanderson
+36. The First Law Trilogy by Joe Abercrombie
+37. The Malazan Book of the Fallen by Steven Erikson
+38. The Black Company by Glen Cook
+39. The Lies of Locke Lamora by Scott Lynch
+40. The Blade Itself by Joe Abercrombie
+41. The Way of Kings by Brandon Sanderson
+42. The Wise Man's Fear by Patrick Rothfuss
+43. The Final Empire by Brandon Sanderson
+44. The Well of Ascension by Brandon Sanderson
+45. The Hero of Ages by Brandon Sanderson
+46. The Lies of Locke Lamora by Scott Lynch
+47. The Blade Itself by Joe Abercrom
+48. The Innovator's Dilemma by Clayton M. Christensen
+49. The Art of War
+50. American Gods by Neil Gaiman

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter
+2. The Lord of the Rings
+3. The Chronicles of Narnia
+4. The Hobbit
+5. Ender's Game
+6. Mockingjay
+7. Catching Fire
+8. The Stand
+9. Nineteen Eighty-Four
+10. A Clockwork Orange
+11. Crime and Punishment
+12. The Picture of Dorian Gray
+13. Romeo and Juliet
+14. A Midsummer Night's Dream
+15. Othello
+16. The Giver
+17. Bridge to Terabithia
+18. The Maze Runner
+19. Lord of the Flies
+20. The Time Machine
+21. Persepolis (comics)
+22. The Screwtape Letters
+23. Brave New World
+24. Mountains Beyond Mountains
+25. The Old Man and the Sea
+26. Tess of the d'Urbervilles
+27. Ivanhoe
+28. Silas Marner
+29. The Prince
+30. The Godfather (novel)
+31. Son of a Witch
+32. Wicked Lovely
+33. A Lion Among Men
+34. Dry (memoir)
+35. Cosmos (book)
+36. The Illuminatus! Trilogy
+37. Time Enough for Love
+38. Esperanza Rising
+39. Strange Angels (novel)
+40. Twisted (book)
+41. Charlie and the Chocolate Factory
+42. The Beautiful Boy
+43. Star Trek
+44. The New Jedi Order
+45. Graphic novel
+46. Encyclopædia Britannica
+47. Scarecrow (novel)
+48. King Leary
+49. The Lorax
+50. Gathering Blue

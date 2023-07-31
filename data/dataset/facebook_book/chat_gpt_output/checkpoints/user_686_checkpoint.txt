@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+2. 1984 by George Orwell
+3. To Kill a Mockingbird by Harper Lee
+4. The Catcher in the Rye by J.D. Salinger
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Animal Farm by George Orwell
+7. Brave New World by Aldous Huxley
+8. Slaughterhouse-Five by Kurt Vonnegut
+9. The Hobbit by J.R.R. Tolkien
+10. The Fellowship of the Ring by J.R.R. Tolkien
+11. The Two Towers by J.R.R. Tolkien
+12. The Return of the King by J.R.R. Tolkien
+13. The Chronicles of Narnia by C.S. Lewis
+14. The Hunger Games by Suzanne Collins
+15. Catch-22 by Joseph Heller
+16. The Road by Cormac McCarthy
+17. The Book Thief by Markus Zusak
+18. The Giver by Lois Lowry
+19. The Alchemist by Paulo Coelho
+20. The Da Vinci Code by Dan Brown
+21. The Girl with the Dragon Tattoo by Stieg Larsson
+22. The Girl Who Played with Fire by Stieg Larsson
+23. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+24. The Help by Kathryn Stockett
+25. The Kite Runner by Khaled Hosseini
+26. A Thousand Splendid Suns by Khaled Hosseini
+27. The Fault in Our Stars by John Green
+28. Looking for Alaska by John Green
+29. Paper Towns by John Green
+30. The Perks of Being a Wallflower by Stephen Chbosky
+31. The Maze Runner by James Dashner
+32. The Scorch Trials by James Dashner
+33. The Death Cure by James Dashner
+34. The Martian by Andy Weir
+35. The Name of the Wind by Patrick Rothfuss
+36. The Wise Man's Fear by Patrick Rothfuss
+37. The Lies of Locke Lamora by Scott Lynch
+38. The Blade Itself by Joe Abercrombie
+39. The Way of Kings by Brandon Sanderson
+40. Mistborn by Brandon Sanderson
+41. The Final Empire by Brandon Sanderson
+42. The Well of Ascension by Brandon Sanderson
+43. The Hero of Ages by Brandon Sanderson
+44. The Lies of Locke Lamora by Scott Lynch
+45. The Republic of Thieves by Scott Lynch
+46. The Kingkiller Chronicle by Patrick Rothfuss
+47. The First Law Trilogy by Joe Abercrombie
+48. The Stormlight Archive by Brandon Sanderson
+49. The Dark Tower by Stephen King
+50. The Stand by Stephen King

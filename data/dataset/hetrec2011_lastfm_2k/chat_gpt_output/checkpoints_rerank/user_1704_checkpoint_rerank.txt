@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Take That
+2. Westlife
+3. Girls Aloud
+4. The Saturdays
+5. Sugababes
+6. Delta Goodrem
+7. JoJo
+8. Hilary Duff
+9. Ashlee Simpson
+10. Jessica Simpson
+11. Mariah Carey
+12. Phil Collins
+13. Frank Sinatra
+14. Modern Talking
+15. Blue
+16. Guns N' Roses
+17. Sting
+18. Mr. Big
+19. Lady Gaga
+20. Madonna
+21. Britney Spears
+22. Christina Aguilera
+23. Rihanna
+24. Beyoncé
+25. Shakira
+26. Katy Perry
+27. Avril Lavigne
+28. Taylor Swift
+29. Miley Cyrus
+30. Ke$ha
+31. P!nk
+32. Paramore
+33. Evanescence
+34. Muse
+35. Radiohead
+36. Coldplay
+37. Blur
+38. Arctic Monkeys
+39. Placebo
+40. The Killers
+41. Nirvana
+42. Iron Maiden
+43. Led Zeppelin
+44. Metallica
+45. Michael Jackson
+46. Pearl Jam
+47. a-ha
+48. Björk
+49. System of a Down
+50. Daft Punk

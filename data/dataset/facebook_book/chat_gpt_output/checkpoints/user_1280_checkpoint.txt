@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Night Circus by Erin Morgenstern
+2. The Book Thief by Markus Zusak
+3. The Hunger Games by Suzanne Collins
+4. The Fault in Our Stars by John Green
+5. The Giver by Lois Lowry
+6. The Maze Runner by James Dashner
+7. The Girl on the Train by Paula Hawkins
+8. The Help by Kathryn Stockett
+9. The Lovely Bones by Alice Sebold
+10. The Da Vinci Code by Dan Brown
+11. The Alchemist by Paulo Coelho
+12. The Secret Life of Bees by Sue Monk Kidd
+13. The Kite Runner by Khaled Hosseini
+14. The Catcher in the Rye by J.D. Salinger
+15. The Picture of Dorian Gray by Oscar Wilde
+16. The Great Gatsby by F. Scott Fitzgerald
+17. The Hobbit by J.R.R. Tolkien
+18. The Lord of the Rings by J.R.R. Tolkien
+19. The Chronicles of Narnia by C.S. Lewis
+20. Harry Potter and the Philosopher's Stone by J.K. Rowling
+21. Harry Potter and the Chamber of Secrets by J.K. Rowling
+22. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+23. Harry Potter and the Goblet of Fire by J.K. Rowling
+24. Harry Potter and the Order of Phoenix by J.K. Rowling
+25. Harry Potter and the Half-Blood Prince by J.K. Rowling
+26. Harry Potter and the Deathly Hallows by J.K. Rowling
+27. The Name of the Wind by Patrick Rothfuss
+28. The Wise Man's Fear by Patrick Rothfuss
+29. The Lies of Locke Lamora by Scott Lynch
+30. The Blade Itself by Joe Abercrombie
+31. The Way of Kings by Brandon Sanderson
+32. Mistborn by Brandon Sanderson
+33. The Final Empire by Brandon Sanderson
+34. The Well of Ascension by Brandon Sanderson
+35. The Hero of Ages by Brandon Sanderson
+36. The Lies of Locke Lamora by Scott Lynch
+37. The Eye of the World by Robert Jordan
+38. The Dragon Reborn by Robert Jordan
+39. The Shadow Rising by Robert Jordan
+40. The Fires of Heaven by Robert Jordan
+41. The Lord of Chaos by Robert Jordan
+42. The Crown Conspiracy by Michael J. Sullivan
+43. Theft of Swords by Michael J. Sullivan
+44. Rise of Empire by Michael J. Sullivan
+45. Heir of Novron by Michael J. Sullivan
+46. The Name of the Rose by Umberto Eco
+47. The Pillars of the Earth by Ken Follett
+48. The Girl with the Dragon Tattoo by Stieg Larsson
+49. The Art of War
+50. American Gods by Neil Gaiman

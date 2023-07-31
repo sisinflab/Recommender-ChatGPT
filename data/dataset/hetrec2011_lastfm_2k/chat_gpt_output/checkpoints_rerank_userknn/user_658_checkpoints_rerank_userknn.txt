@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations are:
+
+1. Radiohead
+2. Daft Punk
+3. LCD Soundsystem
+4. The Knife
+5. Goldfrapp
+6. Hot Chip
+7. Pet Shop Boys
+8. Duran Duran
+9. Interpol
+10. Soft Cell
+11. Visage
+12. Serge Gainsbourg
+13. Depeche Mode
+14. Röyksopp
+15. Ultravox
+16. Martin L. Gore
+17. Orchestral Manoeuvres in the Dark
+18. The Bloody Beetroots
+19. Cut Copy
+20. Soulwax
+21. Peter Doherty
+22. Jimi Hendrix
+23. John Lennon
+24. Hurts
+25. Recoil
+26. Massive Attack
+27. Portishead
+28. Sneaker Pimps
+29. Ladytron
+30. The Cure
+31. De/Vision
+32. Boards of Canada
+33. Air
+34. Joy Division
+35. New Order
+36. IAMX
+37. Crystal Castles
+38. Placebo
+39. Muse
+40. Green Day
+41. Nitzer Ebb
+42. Front 242
+43. And One
+44. Justice
+45. Kraftwerk
+46. Queen
+47. Michael Jackson
+48. Savage Garden
+49. t.A.T.u.
+50. Kylie Minogue

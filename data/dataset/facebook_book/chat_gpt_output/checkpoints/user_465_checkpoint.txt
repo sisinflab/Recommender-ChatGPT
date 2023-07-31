@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. To Kill a Mockingbird by Harper Lee
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Lord of the Flies by William Golding
+6. The Picture of Dorian Gray by Oscar Wilde
+7. The Stranger by Albert Camus
+8. Crime and Punishment by Fyodor Dostoevsky
+9. One Hundred Years of Solitude by Gabriel Garcia Marquez
+10. The Brothers Karamazov by Fyodor Dostoevsky
+11. The Road by Cormac McCarthy
+12. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+13. The Bell Jar by Sylvia Plath
+14. The Sun Also Rises by Ernest Hemingway
+15. Slaughterhouse-Five by Kurt Vonnegut
+16. The Handmaid's Tale by Margaret Atwood
+17. The Lord of the Rings by J.R.R. Tolkien
+18. The Hobbit by J.R.R. Tolkien
+19. The Chronicles of Narnia by C.S. Lewis
+20. The Hunger Games by Suzanne Collins
+21. Catch-22 by Joseph Heller
+22. The Stand by Stephen King
+23. The Shining by Stephen King
+24. The Girl with the Dragon Tattoo by Stieg Larsson
+25. The Da Vinci Code by Dan Brown
+26. The Name of the Rose by Umberto Eco
+27. The Shadow of the Wind by Carlos Ruiz Zafón
+28. The Kite Runner by Khaled Hosseini
+29. The Alchemist by Paulo Coelho
+30. The Picture of Dorian Gray by Oscar Wilde
+31. The Count of Monte Cristo by Alexandre Dumas
+32. Les Misérables by Victor Hugo
+33. War and Peace by Leo Tolstoy
+34. Anna Karenina by Leo Tolstoy
+35. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+36. The Hound of the Baskervilles by Arthur Conan Doyle
+37. The Time Machine by H.G. Wells
+38. The Invisible Man by H.G. Wells
+39. Frankenstein by Mary Shelley
+40. Dracula by Bram Stoker
+41. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+42. Heart of Darkness by Joseph Conrad
+43. The Picture of Dorian Gray by Oscar Wilde
+44. The Importance of Being Earnest by Oscar Wilde
+45. The Canterbury Tales by Geoffrey Chaucer
+46. Don Quixote by Miguel de Cervantes
+47. The Divine Comedy by Dante Alighieri
+48. The Odyssey by Homer
+49. The Aeneid by Virgil
+50. Beowulf by Unknown

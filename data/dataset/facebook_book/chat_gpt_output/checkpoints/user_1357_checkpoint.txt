@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Animal Farm by George Orwell
+6. The Hobbit by J.R.R. Tolkien
+7. Lord of the Rings by J.R.R. Tolkien
+8. The Hunger Games by Suzanne Collins
+9. The Da Vinci Code by Dan Brown
+10. The Girl with the Dragon Tattoo by Stieg Larsson
+11. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+12. The Picture of Dorian Gray by Oscar Wilde
+13. The Time Machine by H.G. Wells
+14. The War of the Worlds by H.G. Wells
+15. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+16. The Chronicles of Narnia by C.S. Lewis
+17. The Lord of the Flies by William Golding
+18. The Diary of a Young Girl by Anne Frank
+19. The Adventures of Tom Sawyer by Mark Twain
+20. The Adventures of Huckleberry Finn by Mark Twain
+21. The Secret Garden by Frances Hodgson Burnett
+22. Little Women by Louisa May Alcott
+23. The Outsiders by S.E. Hinton
+24. The Giver by Lois Lowry
+25. The Fault in Our Stars by John Green
+26. The Maze Runner by James Dashner
+27. The Book Thief by Markus Zusak
+28. The Alchemist by Paulo Coelho
+29. The Kite Runner by Khaled Hosseini
+30. The Road by Cormac McCarthy
+31. The Stand by Stephen King
+32. The Shining by Stephen King
+33. The Silence of the Lambs by Thomas Harris
+34. The Bourne Identity by Robert Ludlum
+35. The Girl on the Train by Paula Hawkins
+36. The Help by Kathryn Stockett
+37. The Color Purple by Alice Walker
+38. The Joy Luck Club by Amy Tan
+39. The God of Small Things by Arundhati Roy
+40. The Handmaid's Tale by Margaret Atwood
+41. The Bell Jar by Sylvia Plath
+42. One Hundred Years of Solitude by Gabriel Garcia Marquez
+43. Love in the Time of Cholera by Gabriel Garcia Marquez
+44. The Name of the Rose by Umberto Eco
+45. The Picture of Dorian Gray by Oscar Wilde
+46. The Importance of Being Earnest by Oscar Wilde
+47. The Sun Also Rises by Ernest Hemingway
+48. A Farewell to Arms by Ernest Hemingway
+49. For Whom the Bell Tolls by Ernest Hemingway
+50. The Old Man and the Sea by Ernest

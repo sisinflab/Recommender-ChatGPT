@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. Sigur Rós
+3. Arcade Fire
+4. Animal Collective
+5. Bloc Party
+6. Belle and Sebastian
+7. J Dilla
+8. Crystal Castles
+9. Bon Iver
+10. Death Cab for Cutie
+11. Explosions in the Sky
+12. Grizzly Bear
+13. Beirut
+14. MF DOOM
+15. Air
+16. Mew
+17. Bob Dylan
+18. Kanye West
+19. Fleet Foxes
+20. The Album Leaf
+21. Elliott Smith
+22. Amiina
+23. The xx
+24. Kings of Convenience
+25. M83
+26. Bang Gang
+27. The National
+28. Flying Lotus
+29. Muse
+30. Pink Floyd
+31. Nirvana
+32. Led Zeppelin
+33. Metallica
+34. Michael Jackson
+35. Pearl Jam
+36. Björk
+37. Daft Punk
+38. Nine Inch Nails
+39. Iron Maiden
+40. The Beatles
+41. U2
+42. Coldplay
+43. Blur
+44. Arctic Monkeys
+45. Placebo
+46. The Killers
+47. Amy Winehouse
+48. Green Day
+49. My Chemical Romance
+50. The Cure

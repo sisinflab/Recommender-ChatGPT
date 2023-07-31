@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Name of the Rose by Umberto Eco
+2. The Master and Margarita by Mikhail Bulgakov
+3. Ulysses by James Joyce
+4. Don Quixote by Miguel de Cervantes
+5. The Great Gatsby by F. Scott Fitzgerald
+6. The Plague by Albert Camus
+7. Animal Farm by George Orwell
+8. The Last Temptation of Christ by Nikos Kazantzakis
+9. Still Life with Woodpecker by Tom Robbins
+10. Divine Comedy by Dante Alighieri
+11. Les Misérables by Victor Hugo
+12. Pride and Prejudice by Jane Austen
+13. Dracula by Bram Stoker
+14. Heart of Darkness by Joseph Conrad
+15. The Lord of the Rings by J.R.R. Tolkien
+16. Fahrenheit 451 by Ray Bradbury
+17. The Book of Lost Things by John Connolly
+18. The Silmarillion by J.R.R. Tolkien
+19. War and Peace by Leo Tolstoy
+20. The Dark Tower: The Gunslinger by Stephen King
+21. To Kill a Mockingbird by Harper Lee
+22. Nineteen Eighty-Four by George Orwell
+23. The Giver by Lois Lowry
+24. Les Fleurs du mal by Charles Baudelaire
+25. The Fountainhead by Ayn Rand
+26. Atlas Shrugged by Ayn Rand
+27. In Cold Blood by Truman Capote
+28. The Once and Future King by T.H. White
+29. Iliad by Homer
+30. Waiting for Godot by Samuel Beckett
+31. And Then There Were None by Agatha Christie
+32. American Pastoral by Philip Roth
+33. Breakfast of Champions by Kurt Vonnegut
+34. Dune by Frank Herbert
+35. Girlfriend in a Coma by Douglas Coupland
+36. Inheritance by Christopher Paolini
+37. Journey to the West by Wu Cheng'en
+38. Le Morte d'Arthur by Thomas Malory
+39. Lord Jim by Joseph Conrad
+40. Manga by Various Authors
+41. Naked by David Sedaris
+42. Night by Elie Wiesel
+43. Old Farmer's Almanac by Robert B. Thomas
+44. Peanuts by Charles M. Schulz
+45. Rhinoceros by Eugène Ionesco
+46. Saving Fish from Drowning by Amy Tan
+47. Stranger than Fiction: True Stories by Chuck Palahniuk
+48. The Anarchist Cookbook by William Powell
+49. The Hunger Games by Suzanne Collins
+50. Underworld by Don DeLillo

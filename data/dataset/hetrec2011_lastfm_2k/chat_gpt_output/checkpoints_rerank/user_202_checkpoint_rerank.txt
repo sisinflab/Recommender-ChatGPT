@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Metallica
+2. Megadeth
+3. AC/DC
+4. Millencolin
+5. Helloween
+6. Die Ärzte
+7. Iron Maiden
+8. Die Toten Hosen
+9. HIM
+10. Matanza
+11. King Diamond
+12. Children of Bodom
+13. Twisted Sister
+14. Iced Earth
+15. Oomph!
+16. Kreator
+17. Amon Amarth
+18. Journey
+19. Korpiklaani
+20. Testament
+21. Hypocrisy
+22. Dio
+23. Bathory
+24. In Flames
+25. Eluveitie
+26. Pantera
+27. Jethro Tull
+28. Poison
+29. Rammstein
+30. Nirvana
+31. Led Zeppelin
+32. Iron Maiden
+33. Pearl Jam
+34. Michael Jackson
+35. System of a Down
+36. Nine Inch Nails
+37. Linkin Park
+38. Avenged Sevenfold
+39. Green Day
+40. The Cure
+41. Muse
+42. Pink Floyd
+43. U2
+44. Radiohead
+45. Arctic Monkeys
+46. Placebo
+47. The Killers
+48. My Chemical Romance
+49. Black Eyed Peas
+50. Daft Punk

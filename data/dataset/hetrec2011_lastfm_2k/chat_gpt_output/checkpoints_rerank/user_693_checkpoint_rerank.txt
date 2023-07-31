@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Death Cab for Cutie
+2. The Smiths
+3. Elliott Smith
+4. Interpol
+5. My Bloody Valentine
+6. Rilo Kiley
+7. Bright Eyes
+8. Radiohead
+9. Wilco
+10. Built to Spill
+11. The Jesus and Mary Chain
+12. The Raveonettes
+13. Tegan and Sara
+14. Metric
+15. Little Boots
+16. Ladyhawke
+17. Ke$ha
+18. Dragonette
+19. Matt & Kim
+20. Band of Horses
+21. Kings of Leon
+22. Muse
+23. Pink Floyd
+24. Nirvana
+25. Led Zeppelin
+26. Metallica
+27. Iron Maiden
+28. The Beatles
+29. U2
+30. Duran Duran
+31. Coldplay
+32. Blur
+33. Arctic Monkeys
+34. Placebo
+35. The Killers
+36. Madonna
+37. Lady Gaga
+38. Beyoncé
+39. Rihanna
+40. Shakira
+41. Katy Perry
+42. Christina Aguilera
+43. Paramore
+44. Taylor Swift
+45. Evanescence
+46. Glee Cast
+47. Michael Jackson
+48. Nine Inch Nails
+49. Daft Punk
+50. Black Eyed Peas

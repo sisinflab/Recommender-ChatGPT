@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Shining by Stephen King
+2. The Girl with the Dragon Tattoo by Stieg Larsson
+3. The Stand by Stephen King
+4. The Lost Symbol by Dan Brown
+5. The Catcher in the Rye by J.D. Salinger
+6. The Hunger Games by Suzanne Collins
+7. The Hobbit by J.R.R. Tolkien
+8. The Lord of the Rings by J.R.R. Tolkien
+9. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+10. The Chronicles of Narnia by C.S. Lewis
+11. The Great Gatsby by F. Scott Fitzgerald
+12. To Kill a Mockingbird by Harper Lee
+13. 1984 by George Orwell
+14. Animal Farm by George Orwell
+15. Brave New World by Aldous Huxley
+16. Fahrenheit 451 by Ray Bradbury
+17. The Martian by Andy Weir
+18. The Road by Cormac McCarthy
+19. The Book Thief by Markus Zusak
+20. The Fault in Our Stars by John Green
+21. The Maze Runner by James Dashner
+22. The Giver by Lois Lowry
+23. The Alchemist by Paulo Coelho
+24. The Picture of Dorian Gray by Oscar Wilde
+25. The Count of Monte Cristo by Alexandre Dumas
+26. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+27. The Time Machine by H.G. Wells
+28. The War of the Worlds by H.G. Wells
+29. The Invisible Man by H.G. Wells
+30. The Island of Dr. Moreau by H.G. Wells
+31. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+32. The Three Musketeers by Alexandre Dumas
+33. Les Misérables by Victor Hugo
+34. The Hunchback of Notre-Dame by Victor Hugo
+35. The Picture of Dorian Gray by Oscar Wilde
+36. The Importance of Being Earnest by Oscar Wilde
+37. The Adventures of Tom Sawyer by Mark Twain
+38. The Adventures of Huckleberry Finn by Mark Twain
+39. The Call of the Wild by Jack London
+40. White Fang by Jack London
+41. The Old Man and the Sea by Ernest Hemingway
+42. For Whom the Bell Tolls by Ernest Hemingway
+43. The Sun Also Rises by Ernest Hemingway
+44. A Farewell to Arms by Ernest Hemingway
+45. The Sound and the Fury by William Faulkner
+46. As I Lay Dying by William Faulkner
+47. The Grapes of Wrath by John Steinbeck
+48. Of Mice and Men by John Steinbeck
+49. East of Eden by John Steinbeck
+50. One Hundred Years of

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Nineteen Eighty-Four by George Orwell
+2. The Great Gatsby by F. Scott Fitzgerald
+3. Catch-22 by Joseph Heller
+4. Fahrenheit 451 by Ray Bradbury
+5. The Iliad by Homer
+6. The Lord of the Rings by J.R.R. Tolkien
+7. Brave New World by Aldous Huxley
+8. The Catcher in the Rye by J.D. Salinger
+9. The Silence of the Lambs by Thomas Harris
+10. Angels & Demons by Dan Brown
+11. Hannibal by Thomas Harris
+12. The Fountainhead by Ayn Rand
+13. Player Piano by Kurt Vonnegut
+14. The Dresden Files by Jim Butcher
+15. The Tipping Point by Malcolm Gladwell
+16. Look Me in the Eye by John Elder Robison
+17. The Electric Kool-Aid Acid Test by Tom Wolfe
+18. The Watchmen by Alan Moore
+19. Pygmalion by George Bernard Shaw
+20. Henry V by William Shakespeare
+21. Sense and Sensibility and Sea Monsters by Jane Austen and Ben H. Winters
+22. Death of a Salesman by Arthur Miller
+23. The Lovely Bones by Alice Sebold
+24. A Midsummer Night's Dream by William Shakespeare
+25. The Scarlet Letter by Nathaniel Hawthorne
+26. The Interpretation of Dreams by Sigmund Freud
+27. The Hamlet by William Faulkner
+28. The Heroin Diaries by Nikki Sixx
+29. The Rule of Four by Ian Caldwell and Dustin Thomason
+30. The Art of Racing in the Rain by Garth Stein
+31. Life of Pi by Yann Martel
+32. Cat's Cradle by Kurt Vonnegut
+33. Slaughterhouse-Five by Kurt Vonnegut
+34. The Martian Chronicles by Ray Bradbury
+35. 'Tis by Frank McCourt
+36. Strange Case of Dr Jekyll and Mr Hyde by Robert Louis Stevenson
+37. The Dirt by Vince Neil, Tommy Lee, Nikki Sixx, Mick Mars, and Neil Strauss
+38. The Hamlet by William Faulkner
+39. Rant by Chuck Palahniuk
+40. Choke by Chuck Palahniuk
+41. Invisible Monsters by Chuck Palahniuk
+42. Running with Scissors by Augusten Burroughs
+43. Diary by Chuck Palahniuk
+44. Green Eggs and Ham by Dr. Seuss
+45. Mythologies by Roland Barthes
+46. Digital Fortress by Dan Brown
+47. Inferno by Dante Alighieri
+48. Touching the Void by Joe Simpson
+49. Cabal by Clive Barker
+50. Pride and Prejudice and Zombies by Jane Austen

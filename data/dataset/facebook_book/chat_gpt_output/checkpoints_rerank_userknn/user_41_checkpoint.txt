@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. To Kill a Mockingbird
+2. The Lord of the Rings
+3. Harry Potter
+4. The Hobbit
+5. The Book Thief
+6. Catch-22
+7. The Catcher in the Rye
+8. Les Misérables
+9. Crime and Punishment
+10. Frankenstein
+11. Romeo and Juliet
+12. The Stand
+13. The Five People You Meet in Heaven
+14. The Da Vinci Code
+15. Angels & Demons
+16. The Good Earth
+17. The Feminine Mystique
+18. The Thief of Always
+19. The Jungle Book
+20. Alice's Adventures in Wonderland
+21. Outliers (book)
+22. The Walking Dead (comic book)
+23. My Sister's Keeper (novel)
+24. The Dragons of Eden
+25. His Dark Materials
+26. Flowers in the Attic
+27. Jane Eyre
+28. Othello
+29. Marley & Me
+30. The Watchmen (novel)
+31. Lord of the Flies
+32. The Temple of My Familiar
+33. Thus Spoke Zarathustra
+34. Lies My Teacher Told Me
+35. Fahrenheit 451
+36. Brave New World
+37. The Count of Monte Cristo
+38. Holes (novel)
+39. Night (book)
+40. Adventures of Huckleberry Finn
+41. A Midsummer Night's Dream
+42. Where the Red Fern Grows
+43. Wuthering Heights
+44. Moll Flanders
+45. Gone with the Wind
+46. The Things They Carried
+47. Tuesdays with Morrie
+48. Unwind (novel)
+49. I Am Legend (novel)
+50. Teaching with Calvin and Hobbes

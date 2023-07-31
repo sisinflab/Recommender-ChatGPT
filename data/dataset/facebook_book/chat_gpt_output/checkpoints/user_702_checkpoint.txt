@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Animal Farm by George Orwell
+2. Fahrenheit 451 by Ray Bradbury
+3. Slaughterhouse-Five by Kurt Vonnegut
+4. The Catcher in the Rye by J.D. Salinger
+5. To Kill a Mockingbird by Harper Lee
+6. Lord of the Flies by William Golding
+7. The Bell Jar by Sylvia Plath
+8. One Flew Over the Cuckoo's Nest by Ken Kesey
+9. The Handmaid's Tale by Margaret Atwood
+10. A Clockwork Orange by Anthony Burgess
+11. The Giver by Lois Lowry
+12. The Road by Cormac McCarthy
+13. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+14. The Picture of Dorian Gray by Oscar Wilde
+15. The Great Gatsby by F. Scott Fitzgerald
+16. The Hobbit by J.R.R. Tolkien
+17. The Lord of the Rings by J.R.R. Tolkien
+18. The Chronicles of Narnia by C.S. Lewis
+19. The Book Thief by Markus Zusak
+20. The Fault in Our Stars by John Green
+21. The Perks of Being a Wallflower by Stephen Chbosky
+22. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+23. The Road Less Traveled by M. Scott Peck
+24. The Alchemist by Paulo Coelho
+25. The Power of Now by Eckhart Tolle
+26. The Secret by Rhonda Byrne
+27. The 7 Habits of Highly Effective People by Stephen Covey
+28. The Art of War by Sun Tzu
+29. The Prince by Niccolo Machiavelli
+30. The Divine Comedy by Dante Alighieri
+31. The Odyssey by Homer
+32. The Iliad by Homer
+33. The Canterbury Tales by Geoffrey Chaucer
+34. The Inferno by Dante Alighieri
+35. The Republic by Plato
+36. The Tao Te Ching by Lao Tzu
+37. The Analects by Confucius
+38. The Bhagavad Gita by Vyasa
+39. The Bible by Various Authors
+40. The Quran by Various Authors
+41. The Book of Mormon by Various Authors
+42. The Teachings of Buddha by Various Authors
+43. The Tao of Pooh by Benjamin Hoff
+44. The Prophet by Kahlil Gibran
+45. The Celestine Prophecy by James Redfield
+46. The Da Vinci Code by Dan Brown
+47. Angels and Demons by Dan Brown
+48. The Girl with the Dragon Tattoo by Stieg Larsson
+49. The Girl Who Played with Fire by Stieg Larsson
+50. The Girl Who Kicked the Hornet's Nest by St

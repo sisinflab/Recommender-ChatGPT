@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Pride and Prejudice by Jane Austen
+6. The Hobbit by J.R.R. Tolkien
+7. The Lord of the Rings by J.R.R. Tolkien
+8. The Chronicles of Narnia by C.S. Lewis
+9. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+10. The Hunger Games by Suzanne Collins
+11. The Book Thief by Markus Zusak
+12. The Fault in Our Stars by John Green
+13. The Giver by Lois Lowry
+14. The Maze Runner by James Dashner
+15. The Girl with the Dragon Tattoo by Stieg Larsson
+16. The Da Vinci Code by Dan Brown
+17. The Alchemist by Paulo Coelho
+18. The Secret Life of Bees by Sue Monk Kidd
+19. The Help by Kathryn Stockett
+20. The Kite Runner by Khaled Hosseini
+21. The Road by Cormac McCarthy
+22. The Stand by Stephen King
+23. The Shining by Stephen King
+24. The Silence of the Lambs by Thomas Harris
+25. The Girl on the Train by Paula Hawkins
+26. The Lovely Bones by Alice Sebold
+27. The Time Traveler's Wife by Audrey Niffenegger
+28. The Picture of Dorian Gray by Oscar Wilde
+29. The Outsiders by S.E. Hinton
+30. The Little Prince by Antoine de Saint-Exupéry
+31. The Wee Free Men by Terry Pratchett
+32. The House on Mango Street by Sandra Cisneros
+33. Hogfather by Terry Pratchett
+34. Gone with the Wind by Margaret Mitchell
+35. Lolita by Vladimir Nabokov
+36. House of Leaves by Mark Z. Danielewski
+37. Alice's Adventures in Wonderland by Lewis Carroll
+38. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+39. The Count of Monte Cristo by Alexandre Dumas
+40. Frankenstein by Mary Shelley
+41. Dracula by Bram Stoker
+42. Wuthering Heights by Emily Bronte
+43. Jane Eyre by Charlotte Bronte
+44. The Scarlet Letter by Nathaniel Hawthorne
+45. Moby-Dick by Herman Melville
+46. The Adventures of Tom Sawyer by Mark Twain
+47. The Adventures of Huckleberry Finn by Mark Twain
+48. Little Women by Louisa May Alcott
+49. Anne of Green Gables by L.M. Montgomery
+50. The Call of the Wild by Jack London

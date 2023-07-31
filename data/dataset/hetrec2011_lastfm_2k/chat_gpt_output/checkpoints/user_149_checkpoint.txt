@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. My Chemical Romance
+2. Fall Out Boy
+3. Panic! at the Disco
+4. Muse
+5. Linkin Park
+6. Avril Lavigne
+7. The All-American Rejects
+8. Nickelback
+9. Breaking Benjamin
+10. Red Hot Chili Peppers
+11. Coldplay
+12. Maroon 5
+13. The Killers
+14. Arctic Monkeys
+15. Imagine Dragons
+16. Florence + The Machine
+17. The Fray
+18. Snow Patrol
+19. Kings of Leon
+20. Radiohead
+21. The Black Keys
+22. Vampire Weekend
+23. Death Cab for Cutie
+24. The Strokes
+25. Franz Ferdinand
+26. Arcade Fire
+27. The White Stripes
+28. The Kooks
+29. Bloc Party
+30. The Shins
+31. Phoenix
+32. Two Door Cinema Club
+33. Foals
+34. The 1975
+35. Alt-J
+36. Bombay Bicycle Club
+37. The xx
+38. Tame Impala
+39. Hozier
+40. Lorde
+41. Lana Del Rey
+42. Billie Eilish
+43. Harry Styles
+44. Shawn Mendes
+45. Ed Sheeran
+46. Taylor Swift
+47. Justin Bieber
+48. Ariana Grande
+49. Dua Lipa
+50. Camila Cabello

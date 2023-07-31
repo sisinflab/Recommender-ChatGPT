@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Brave New World by Aldous Huxley
+2. Animal Farm by George Orwell
+3. Crime and Punishment by Fyodor Dostoevsky
+4. The Catcher in the Rye by J.D. Salinger
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. To Kill a Mockingbird by Harper Lee
+7. The Great Gatsby by F. Scott Fitzgerald
+8. Heart of Darkness by Joseph Conrad
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Stranger by Albert Camus
+11. The Road by Cormac McCarthy
+12. The Bell Jar by Sylvia Plath
+13. Slaughterhouse-Five by Kurt Vonnegut
+14. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+15. The Brothers Karamazov by Fyodor Dostoevsky
+16. The Sun Also Rises by Ernest Hemingway
+17. The Trial by Franz Kafka
+18. The Sound and the Fury by William Faulkner
+19. Lolita by Vladimir Nabokov
+20. The Handmaid's Tale by Margaret Atwood
+21. The Grapes of Wrath by John Steinbeck
+22. The Old Man and the Sea by Ernest Hemingway
+23. The Shining by Stephen King
+24. The Martian Chronicles by Ray Bradbury
+25. The Lord of the Rings by J.R.R. Tolkien
+26. The Hobbit by J.R.R. Tolkien
+27. The Chronicles of Narnia by C.S. Lewis
+28. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+29. The Stand by Stephen King
+30. The Dark Tower series by Stephen King
+31. The Name of the Wind by Patrick Rothfuss
+32. The Lies of Locke Lamora by Scott Lynch
+33. The Blade Itself by Joe Abercrombie
+34. The Way of Kings by Brandon Sanderson
+35. Mistborn by Brandon Sanderson
+36. The First Law Trilogy by Joe Abercrombie
+37. The Kingkiller Chronicle by Patrick Rothfuss
+38. The Stormlight Archive by Brandon Sanderson
+39. The Malazan Book of the Fallen by Steven Erikson
+40. The Black Company by Glen Cook
+41. The Dresden Files by Jim Butcher
+42. The Wheel of Time by Robert Jordan
+43. The Belgariad by David Eddings
+44. The Sword of Truth by Terry Goodkind
+45. The Chronicles of Amber by Roger Zelazny
+46. The Earthsea Cycle by Ursula K. Le Guin
+47. The Dark is Rising Sequence by Susan Cooper
+48. The Prydain Chronicles by Lloyd Alexander
+49. The Once and Future King by T.H. White
+50. The Wise Man's Fear by Patrick Rothfuss

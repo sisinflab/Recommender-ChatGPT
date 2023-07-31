@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Five People You Meet in Heaven by Mitch Albom
+2. The Time Keeper by Mitch Albom
+3. The First Phone Call from Heaven by Mitch Albom
+4. The Magic Strings of Frankie Presto by Mitch Albom
+5. The Testament by John Grisham
+6. The Da Vinci Code by Dan Brown
+7. Angels and Demons by Dan Brown
+8. The Lost Symbol by Dan Brown
+9. The Shack by William P. Young
+10. The Purpose Driven Life by Rick Warren
+11. The Chronicles of Narnia by C.S. Lewis
+12. The Lord of the Rings by J.R.R. Tolkien
+13. The Hobbit by J.R.R. Tolkien
+14. The Silmarillion by J.R.R. Tolkien
+15. The Bible (New International Version)
+16. The Bible (King James Version)
+17. The Bible (New Living Translation)
+18. The Bible (English Standard Version)
+19. The Bible (New American Standard Bible)
+20. The Bible (Revised Standard Version)
+21. Harry Potter and the Philosopher's Stone by J.K. Rowling
+22. Harry Potter and the Chamber of Secrets by J.K. Rowling
+23. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+24. Harry Potter and the Goblet of Fire by J.K. Rowling
+25. Harry Potter and the Order of Phoenix by J.K. Rowling
+26. Harry Potter and the Half-Blood Prince by J.K. Rowling
+27. Harry Potter and the Deathly Hallows by J.K. Rowling
+28. Romeo and Juliet by William Shakespeare
+29. Hamlet by William Shakespeare
+30. Macbeth by William Shakespeare
+31. Othello by William Shakespeare
+32. King Lear by William Shakespeare
+33. To Kill a Mockingbird by Harper Lee
+34. Go Set a Watchman by Harper Lee
+35. The Adventures of Tom Sawyer by Mark Twain
+36. The Adventures of Huckleberry Finn by Mark Twain
+37. The Prince and the Pauper by Mark Twain
+38. A Connecticut Yankee in King Arthur's Court by Mark Twain
+39. The Crucible by Arthur Miller
+40. Death of a Salesman by Arthur Miller
+41. The Great Gatsby by F. Scott Fitzgerald
+42. The Catcher in the Rye by J.D. Salinger
+43. 1984 by George Orwell
+44. Animal Farm by George Orwell
+45. Brave New World by Aldous Huxley
+46. Lord of the Flies by William Golding
+47. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+48. The Martian by Andy Weir
+49. The Hunger Games by Suzanne Collins
+50. Divergent by Veronica Roth

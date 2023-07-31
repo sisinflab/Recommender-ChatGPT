@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Harry Potter and the Philosopher's Stone by J.K. Rowling
+3. The Girl with the Dragon Tattoo by Stieg Larsson
+4. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+5. The Catcher in the Rye by J.D. Salinger
+6. To Kill a Mockingbird by Harper Lee
+7. 1984 by George Orwell
+8. Animal Farm by George Orwell
+9. The Hobbit by J.R.R. Tolkien
+10. The Lord of the Rings Trilogy by J.R.R. Tolkien
+11. The Chronicles of Narnia by C.S. Lewis
+12. The Giver by Lois Lowry
+13. Ender's Game by Orson Scott Card
+14. The Maze Runner by James Dashner
+15. Divergent by Veronica Roth
+16. The Fault in Our Stars by John Green
+17. The Book Thief by Markus Zusak
+18. The Alchemist by Paulo Coelho
+19. The Secret Life of Bees by Sue Monk Kidd
+20. The Help by Kathryn Stockett
+21. The Kite Runner by Khaled Hosseini
+22. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+23. The Lovely Bones by Alice Sebold
+24. The Time Traveler's Wife by Audrey Niffenegger
+25. The Road by Cormac McCarthy
+26. The Stand by Stephen King
+27. The Shining by Stephen King
+28. The Silence of the Lambs by Thomas Harris
+29. The Da Vinci Code by Dan Brown
+30. Angels and Demons by Dan Brown
+31. Inferno by Dan Brown
+32. Digital Fortress by Dan Brown
+33. The Lost Symbol by Dan Brown
+34. The Andromeda Strain by Michael Crichton
+35. Jurassic Park by Michael Crichton
+36. Timeline by Michael Crichton
+37. State of Fear by Michael Crichton
+38. The Magician: The Secrets of the Immortal Nicholas Flamel by Michael Scott
+39. The Name of the Wind by Patrick Rothfuss
+40. The Wise Man's Fear by Patrick Rothfuss
+41. The Lies of Locke Lamora by Scott Lynch
+42. The Blade Itself by Joe Abercrombie
+43. The Way of Kings by Brandon Sanderson
+44. Mistborn by Brandon Sanderson
+45. The Final Empire by Brandon Sanderson
+46. The Eye of the World by Robert Jordan
+47. A Game of Thrones by George R.R. Martin
+48. The Fellowship of the Ring by J.R.R. Tolkien
+49. The Two Towers by J.R.R. Tolkien
+50. The Return of the King by J.R.R. Tolkien

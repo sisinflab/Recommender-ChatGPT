@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Tool
+2. Soundgarden
+3. Alice in Chains
+4. Kyuss
+5. Baroness
+6. Opeth
+7. Deftones
+8. Mastodon (if not already in user's library)
+9. Queens of the Stone Age (if not already in user's library)
+10. Red Fang
+11. Russian Circles
+12. Pelican
+13. Mogwai
+14. Explosions in the Sky
+15. Godspeed You! Black Emperor
+16. Sigur Rós
+17. Radiohead (if not already in user's library)
+18. Pink Floyd (if not already in user's library)
+19. Led Zeppelin
+20. The Doors
+21. The Who
+22. Cream (if not already in user's library)
+23. Jimi Hendrix
+24. Black Sabbath (if not already in user's library)
+25. Iron Maiden
+26. Judas Priest
+27. Metallica (if not already in user's library)
+28. Slayer
+29. Megadeth
+30. Lamb of God (if not already in user's library)
+31. Pantera
+32. Sepultura
+33. Opeth
+34. Dream Theater
+35. Porcupine Tree
+36. Steven Wilson
+37. Riverside
+38. Anathema
+39. Katatonia
+40. Tool (if not already in user's library)
+41. A Perfect Circle
+42. Puscifer
+43. Nine Inch Nails (if not already in user's library)
+44. Marilyn Manson
+45. Ministry
+46. Korn
+47. Slipknot
+48. System of a Down
+49. Depeche Mode
+50. The Cure

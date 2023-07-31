@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Slaughterhouse-Five by Kurt Vonnegut
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. To Kill a Mockingbird by Harper Lee
+6. The Lord of the Rings by J.R.R. Tolkien
+7. The Hobbit by J.R.R. Tolkien
+8. The Chronicles of Narnia by C.S. Lewis
+9. The Hunger Games by Suzanne Collins
+10. Harry Potter series by J.K. Rowling
+11. The Da Vinci Code by Dan Brown
+12. Angels and Demons by Dan Brown
+13. The Girl with the Dragon Tattoo by Stieg Larsson
+14. The Girl Who Played with Fire by Stieg Larsson
+15. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+16. The Road by Cormac McCarthy
+17. The Stand by Stephen King
+18. It by Stephen King
+19. The Shining by Stephen King
+20. The Dark Tower series by Stephen King
+21. The Hitchhiker's Guide to the Galaxy series by Douglas Adams
+22. The Foundation series by Isaac Asimov
+23. Ender's Game by Orson Scott Card
+24. The Martian by Andy Weir
+25. Ready Player One by Ernest Cline
+26. The Handmaid's Tale by Margaret Atwood
+27. Fahrenheit 451 by Ray Bradbury
+28. The Giver by Lois Lowry
+29. The Maze Runner by James Dashner
+30. The Bourne Identity by Robert Ludlum
+31. The Bourne Supremacy by Robert Ludlum
+32. The Bourne Ultimatum by Robert Ludlum
+33. The Silence of the Lambs by Thomas Harris
+34. Red Dragon by Thomas Harris
+35. Hannibal by Thomas Harris
+36. The Name of the Rose by Umberto Eco
+37. The Picture of Dorian Gray by Oscar Wilde
+38. The Count of Monte Cristo by Alexandre Dumas
+39. Les Misérables by Victor Hugo
+40. The Three Musketeers by Alexandre Dumas
+41. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+42. The Hound of the Baskervilles by Arthur Conan Doyle
+43. The War of the Worlds by H.G. Wells
+44. The Time Machine by H.G. Wells
+45. The Invisible Man by H.G. Wells
+46. The Island of Dr. Moreau by H.G. Wells
+47. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+48. Treasure Island by Robert Louis Stevenson
+49. The Adventures of Tom Sawyer by Mark Twain
+50. The Adventures of Huckleberry

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. All Time Low
+2. A Day to Remember
+3. Paramore
+4. My Chemical Romance
+5. Blink-182
+6. Fall Out Boy
+7. Green Day
+8. Panic! At the Disco
+9. The Killers
+10. Muse
+11. We The Kings
+12. Avenged Sevenfold
+13. Yellowcard
+14. Plain White T's
+15. Good Charlotte
+16. Underoath
+17. Saosin
+18. Forever the Sickest Kids
+19. Relient K
+20. Owl City
+21. nevershoutnever!
+22. Bullet for My Valentine
+23. Flyleaf
+24. +44
+25. Foo Fighters
+26. Radiohead
+27. Nirvana
+28. Metallica
+29. Iron Maiden
+30. Pearl Jam
+31. Duran Duran
+32. Arctic Monkeys
+33. Placebo
+34. Coldplay
+35. Blur
+36. Michael Jackson
+37. Madonna
+38. Lady Gaga
+39. Christina Aguilera
+40. Britney Spears
+41. Rihanna
+42. Beyoncé
+43. Shakira
+44. Katy Perry
+45. Taylor Swift
+46. Evanescence
+47. Glee Cast
+48. U2
+49. Pink Floyd
+50. Kylie Minogue

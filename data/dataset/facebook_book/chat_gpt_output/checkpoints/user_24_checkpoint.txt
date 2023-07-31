@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Ender's Game by Orson Scott Card
+2. 1984 by George Orwell
+3. The Hunger Games by Suzanne Collins
+4. Brave New World by Aldous Huxley
+5. The Martian by Andy Weir
+6. The Chronicles of Narnia by C.S. Lewis
+7. The Name of the Wind by Patrick Rothfuss
+8. The Dresden Files by Jim Butcher
+9. The Wheel of Time by Robert Jordan
+10. The Mistborn Trilogy by Brandon Sanderson
+11. The Kingkiller Chronicle by Patrick Rothfuss
+12. The Dark Tower by Stephen King
+13. The Stormlight Archive by Brandon Sanderson
+14. The First Law Trilogy by Joe Abercrombie
+15. The Lies of Locke Lamora by Scott Lynch
+16. The Malazan Book of the Fallen by Steven Erikson
+17. The Way of Kings by Brandon Sanderson
+18. The Black Company by Glen Cook
+19. The Belgariad by David Eddings
+20. The Sword of Shannara by Terry Brooks
+21. The Farseer Trilogy by Robin Hobb
+22. The Riyria Revelations by Michael J. Sullivan
+23. The Broken Empire Trilogy by Mark Lawrence
+24. The Lightbringer Series by Brent Weeks
+25. The Powder Mage Trilogy by Brian McClellan
+26. The Gentleman Bastard Sequence by Scott Lynch
+27. The Codex Alera by Jim Butcher
+28. The Inheritance Trilogy by N.K. Jemisin
+29. The Black Magician Trilogy by Trudi Canavan
+30. The Night Angel Trilogy by Brent Weeks
+31. The Demon Cycle by Peter V. Brett
+32. The Bartimaeus Trilogy by Jonathan Stroud
+33. The Abhorsen Trilogy by Garth Nix
+34. The Chronicles of Prydain by Lloyd Alexander
+35. The Earthsea Cycle by Ursula K. Le Guin
+36. The Belgariad by David Eddings
+37. The Sword of Shannara by Terry Brooks
+38. The Farseer Trilogy by Robin Hobb
+39. The Riyria Revelations by Michael J. Sullivan
+40. The Broken Empire Trilogy by Mark Lawrence
+41. The Lightbringer Series by Brent Weeks
+42. The Powder Mage Trilogy by Brian McClellan
+43. The Gentleman Bastard Sequence by Scott Lynch
+44. The Codex Alera by Jim Butcher
+45. The Inheritance Trilogy by N.K. Jemisin
+46. The Black Magician Trilogy by Trudi Canavan
+47. The Night Angel Trilogy by Brent Weeks
+48. The Demon Cycle by Peter V. Brett
+49. The Bartimaeus Trilogy by Jonathan Stroud
+50. The Abh

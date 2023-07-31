@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Michael Jackson
+2. Prince
+3. Marvin Gaye
+4. Stevie Wonder
+5. Donna Summer
+6. Janet Jackson
+7. The Game
+8. Zero 7
+9. The Chemical Brothers
+10. Mos Def
+11. Nina Simone
+12. The Cinematic Orchestra
+13. Erykah Badu
+14. Orbital
+15. Enigma
+16. Radiohead
+17. Beyoncé
+18. Madonna
+19. Rihanna
+20. Shakira
+21. The Beatles
+22. Muse
+23. Pink Floyd
+24. U2
+25. 30 Seconds to Mars
+26. Katy Perry
+27. Taylor Swift
+28. Evanescence
+29. Glee Cast
+30. Ke$ha
+31. Coldplay
+32. Blur
+33. Arctic Monkeys
+34. Placebo
+35. The Killers
+36. Nirvana
+37. Iron Maiden
+38. Led Zeppelin
+39. Metallica
+40. Pearl Jam
+41. a-ha
+42. Björk
+43. System of a Down
+44. Daft Punk
+45. Nine Inch Nails
+46. Linkin Park
+47. Kelly Clarkson
+48. All Time Low
+49. P!nk
+50. Avenged Sevenfold

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. 1984 by George Orwell
+3. To Kill a Mockingbird by Harper Lee
+4. The Great Gatsby by F. Scott Fitzgerald
+5. The Hobbit by J.R.R. Tolkien
+6. The Lord of the Rings by J.R.R. Tolkien
+7. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+8. The Hunger Games by Suzanne Collins
+9. The Girl with the Dragon Tattoo by Stieg Larsson
+10. The Da Vinci Code by Dan Brown
+11. The Shining by Stephen King
+12. The Stand by Stephen King
+13. The Dark Tower series by Stephen King
+14. The Silence of the Lambs by Thomas Harris
+15. The Lovely Bones by Alice Sebold
+16. The Help by Kathryn Stockett
+17. The Secret Life of Bees by Sue Monk Kidd
+18. The Color Purple by Alice Walker
+19. The Joy Luck Club by Amy Tan
+20. The Kite Runner by Khaled Hosseini
+21. The Alchemist by Paulo Coelho
+22. The Picture of Dorian Gray by Oscar Wilde
+23. The Time Traveler's Wife by Audrey Niffenegger
+24. The Road by Cormac McCarthy
+25. The Book Thief by Markus Zusak
+26. The Fault in Our Stars by John Green
+27. The Perks of Being a Wallflower by Stephen Chbosky
+28. The Bell Jar by Sylvia Plath
+29. One Hundred Years of Solitude by Gabriel Garcia Marquez
+30. Love in the Time of Cholera by Gabriel Garcia Marquez
+31. The Unbearable Lightness of Being by Milan Kundera
+32. A Million Little Pieces by James Frey
+33. Running with Scissors by Augusten Burroughs
+34. If Nobody Speaks of Remarkable Things by Jon McGregor
+35. Affinity by Sarah Waters
+36. Fingersmith by Sarah Waters
+37. The Handmaid's Tale by Margaret Atwood
+38. Brave New World by Aldous Huxley
+39. Fahrenheit 451 by Ray Bradbury
+40. Slaughterhouse-Five by Kurt Vonnegut
+41. Catch-22 by Joseph Heller
+42. The Sun Also Rises by Ernest Hemingway
+43. The Old Man and the Sea by Ernest Hemingway
+44. Animal Farm by George Orwell
+45. Lord of the Flies by William Golding
+46. The Outsiders by S.E. Hinton
+47. The Giver by Lois Lowry
+48. The Chronicles of Narnia by C.S. Lewis
+49. Harry Potter series by J.K. Rowling
+50. Green Eggs and Ham by Dr. Seuss

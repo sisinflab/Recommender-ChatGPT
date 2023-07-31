@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter
+2. The Chronicles of Narnia: Prince Caspian
+3. Memoirs of a Geisha
+4. The Picture of Dorian Gray
+5. Inkheart
+6. The Merchant of Venice
+7. Jane Eyre
+8. Romeo and Juliet
+9. The Giver
+10. The Book Thief
+11. The Once and Future King
+12. Medea (play)
+13. The Wind Singer
+14. The League of Extraordinary Gentlemen (novel)
+15. American Gods
+16. The Silence of the Lambs (novel)
+17. Love Story (novel)
+18. The Notebook (novel)
+19. She: A History of Adventure
+20. The Taming of the Shrew
+21. Waiting for Godot
+22. City of Glass (Mortal Instruments)
+23. The Last Lecture
+24. Burned (Hopkins novel)
+25. Untamed (novel)
+26. Cujo
+27. Hannibal (novel)
+28. The Wonderful Wizard of Oz
+29. Watchers (novel)
+30. Jack the Ripper: The Final Solution
+31. Fear Street
+32. Slaughterhouse-Five
+33. House of Night
+34. Vampire Academy (novel)
+35. Goosebumps
+36. The Space Vampires
+37. Marked (novel)
+38. Weetzie Bat
+39. Bad Girls (Wilson novel)
+40. Rosemary's Baby
+41. City of Ashes
+42. Evermore (book)
+43. The Acid House
+44. The Gathering (Enright novel)
+45. Stargirl (novel)
+46. The Perks of Being a Wallflower
+47. Candy Girl: A Year in the Life of an Unlikely Stripper
+48. Atlas Shrugged
+49. A Great and Terrible Beauty
+50. King Leary

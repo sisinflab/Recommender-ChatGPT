@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. The Catcher in the Rye by J.D. Salinger
+3. The Great Gatsby by F. Scott Fitzgerald
+4. To Kill a Mockingbird by Harper Lee
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Alchemist by Paulo Coelho
+7. The Picture of Dorian Gray by Oscar Wilde
+8. The Brothers Karamazov by Fyodor Dostoevsky
+9. Crime and Punishment by Fyodor Dostoevsky
+10. The Name of the Wind by Patrick Rothfuss
+11. The Lord of the Rings by J.R.R. Tolkien
+12. The Hobbit by J.R.R. Tolkien
+13. The Silmarillion by J.R.R. Tolkien
+14. The Dark Tower series by Stephen King
+15. The Stand by Stephen King
+16. The Shining by Stephen King
+17. The Road by Cormac McCarthy
+18. Blood Meridian by Cormac McCarthy
+19. The Martian by Andy Weir
+20. Ender's Game by Orson Scott Card
+21. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+22. The Chronicles of Narnia by C.S. Lewis
+23. The Hunger Games by Suzanne Collins
+24. Catching Fire by Suzanne Collins
+25. Mockingjay by Suzanne Collins
+26. The Girl with the Dragon Tattoo by Stieg Larsson
+27. The Girl Who Played with Fire by Stieg Larsson
+28. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+29. The Da Vinci Code by Dan Brown
+30. Angels and Demons by Dan Brown
+31. Inferno by Dan Brown
+32. The Bourne Identity by Robert Ludlum
+33. The Bourne Supremacy by Robert Ludlum
+34. The Bourne Ultimatum by Robert Ludlum
+35. The Girl on the Train by Paula Hawkins
+36. Gone Girl by Gillian Flynn
+37. The Silence of the Lambs by Thomas Harris
+38. Red Dragon by Thomas Harris
+39. Hannibal by Thomas Harris
+40. The Talented Mr. Ripley by Patricia Highsmith
+41. The Secret History by Donna Tartt
+42. The Goldfinch by Donna Tartt
+43. The Shadow of the Wind by Carlos Ruiz Zafón
+44. The Angel's Game by Carlos Ruiz Zafón
+45. The Prisoner of Heaven by Carlos Ruiz Zafón
+46. The Wind-Up Bird Chronicle by Haruki Murakami
+47. Kafka on the Shore by Haruki Murakami
+48. Norwegian Wood by Haruki Murakami
+49. The Handmaid's Tale by Margaret Atwood
+50.

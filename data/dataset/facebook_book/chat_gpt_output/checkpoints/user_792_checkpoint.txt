@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. Wuthering Heights by Emily Bronte
+3. To Kill a Mockingbird by Harper Lee
+4. The Catcher in the Rye by J.D. Salinger
+5. The Great Gatsby by F. Scott Fitzgerald
+6. 1984 by George Orwell
+7. Animal Farm by George Orwell
+8. The Adventures of Huckleberry Finn by Mark Twain
+9. The Adventures of Tom Sawyer by Mark Twain
+10. The Picture of Dorian Gray by Oscar Wilde
+11. The Importance of Being Earnest by Oscar Wilde
+12. The Hobbit by J.R.R. Tolkien
+13. The Lord of the Rings by J.R.R. Tolkien
+14. The Chronicles of Narnia by C.S. Lewis
+15. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+16. The Da Vinci Code by Dan Brown
+17. Angels and Demons by Dan Brown
+18. The Girl with the Dragon Tattoo by Stieg Larsson
+19. The Hunger Games by Suzanne Collins
+20. Catching Fire by Suzanne Collins
+21. Mockingjay by Suzanne Collins
+22. The Maze Runner by James Dashner
+23. The Fault in Our Stars by John Green
+24. Looking for Alaska by John Green
+25. Paper Towns by John Green
+26. The Book Thief by Markus Zusak
+27. The Kite Runner by Khaled Hosseini
+28. A Thousand Splendid Suns by Khaled Hosseini
+29. The Alchemist by Paulo Coelho
+30. One Hundred Years of Solitude by Gabriel Garcia Marquez
+31. Love in the Time of Cholera by Gabriel Garcia Marquez
+32. The Name of the Rose by Umberto Eco
+33. The Shadow of the Wind by Carlos Ruiz Zafon
+34. The Time Traveler's Wife by Audrey Niffenegger
+35. The Lovely Bones by Alice Sebold
+36. The Help by Kathryn Stockett
+37. The Color Purple by Alice Walker
+38. The Handmaid's Tale by Margaret Atwood
+39. The Road by Cormac McCarthy
+40. The Stand by Stephen King
+41. It by Stephen King
+42. The Shining by Stephen King
+43. The Silence of the Lambs by Thomas Harris
+44. Red Dragon by Thomas Harris
+45. The Bourne Identity by Robert Ludlum
+46. The Bourne Supremacy by Robert Ludlum
+47. The Bourne Ultimatum by Robert Ludlum
+48. The Girl on the Train by Paula Hawkins
+49. Gone Girl by Gillian Flynn
+50. The Martian by Andy Weir

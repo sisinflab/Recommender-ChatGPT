@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Wuthering Heights by Emily Bronte
+2. To Kill a Mockingbird by Harper Lee
+3. Pride and Prejudice by Jane Austen
+4. Jane Eyre by Charlotte Bronte
+5. The Great Gatsby by F. Scott Fitzgerald
+6. The Picture of Dorian Gray by Oscar Wilde
+7. The Adventures of Huckleberry Finn by Mark Twain
+8. The Grapes of Wrath by John Steinbeck
+9. The Scarlet Letter by Nathaniel Hawthorne
+10. The Sun Also Rises by Ernest Hemingway
+11. The Sound and the Fury by William Faulkner
+12. The Old Man and the Sea by Ernest Hemingway
+13. The Bell Jar by Sylvia Plath
+14. One Hundred Years of Solitude by Gabriel Garcia Marquez
+15. The Brothers Karamazov by Fyodor Dostoevsky
+16. Crime and Punishment by Fyodor Dostoevsky
+17. Anna Karenina by Leo Tolstoy
+18. War and Peace by Leo Tolstoy
+19. Heart of Darkness by Joseph Conrad
+20. Lord of the Flies by William Golding
+21. Animal Farm by George Orwell
+22. 1984 by George Orwell
+23. Brave New World by Aldous Huxley
+24. Fahrenheit 451 by Ray Bradbury
+25. The Martian Chronicles by Ray Bradbury
+26. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+27. The Lord of the Rings by J.R.R. Tolkien
+28. The Hobbit by J.R.R. Tolkien
+29. The Chronicles of Narnia by C.S. Lewis
+30. The Hunger Games by Suzanne Collins
+31. Catching Fire by Suzanne Collins
+32. Mockingjay by Suzanne Collins
+33. The Girl with the Dragon Tattoo by Stieg Larsson
+34. The Da Vinci Code by Dan Brown
+35. Angels and Demons by Dan Brown
+36. The Bourne Identity by Robert Ludlum
+37. The Bourne Supremacy by Robert Ludlum
+38. The Bourne Ultimatum by Robert Ludlum
+39. The Girl on the Train by Paula Hawkins
+40. Gone Girl by Gillian Flynn
+41. The Help by Kathryn Stockett
+42. The Secret Life of Bees by Sue Monk Kidd
+43. The Color Purple by Alice Walker
+44. The Joy Luck Club by Amy Tan
+45. Snow Flower and the Secret Fan by Lisa See
+46. The Kite Runner by Khaled Hosseini
+47. A Thousand Splendid Suns by Khaled Hosseini
+48. The Alchemist by Paulo Coelho
+49. Life of Pi by Yann Martel
+50. The Time Traveler's Wife by Audrey

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. My Chemical Romance
+2. Linkin Park
+3. Paramore
+4. Three Days Grace
+5. Rise Against
+6. A Day to Remember
+7. Papa Roach
+8. Stone Sour
+9. Hollywood Undead
+10. Escape The Fate
+11. BrokeNCYDE
+12. Eminem
+13. Savage Garden
+14. Yellowcard
+15. Story of the Year
+16. Alexisonfire
+17. Heaven Shall Burn
+18. Parkway Drive
+19. Limp Bizkit
+20. Audioslave
+21. Hoobastank
+22. Dope
+23. Haste the Day
+24. 3OH!3
+25. Lady Gaga
+26. Rihanna
+27. Beyoncé
+28. Katy Perry
+29. Ke$ha
+30. P!nk
+31. Avril Lavigne
+32. Taylor Swift
+33. Evanescence
+34. Muse
+35. Coldplay
+36. The Killers
+37. Nirvana
+38. Metallica
+39. Iron Maiden
+40. Led Zeppelin
+41. Michael Jackson
+42. Pearl Jam
+43. System of a Down
+44. Nine Inch Nails
+45. Black Eyed Peas
+46. Green Day
+47. The Cure
+48. Depeche Mode
+49. Madonna
+50. Shakira

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Twilight by Stephenie Meyer
+2. New Moon by Stephenie Meyer
+3. Eclipse by Stephenie Meyer
+4. Breaking Dawn by Stephenie Meyer
+5. City of Bones by Cassandra Clare
+6. City of Ashes by Cassandra Clare
+7. City of Glass by Cassandra Clare
+8. City of Fallen Angels by Cassandra Clare
+9. City of Lost Souls by Cassandra Clare
+10. City of Heavenly Fire by Cassandra Clare
+11. The Mortal Instruments Boxed Set by Cassandra Clare
+12. The Infernal Devices Boxed Set by Cassandra Clare
+13. The Bane Chronicles by Cassandra Clare
+14. The Shadowhunter's Codex by Cassandra Clare
+15. The Dark Artifices Boxed Set by Cassandra Clare
+16. The Red Scrolls of Magic by Cassandra Clare
+17. The Lost Book of the White by Cassandra Clare
+18. The Hunger Games: Catching Fire by Suzanne Collins
+19. The Hunger Games: Mockingjay Part 1 by Suzanne Collins
+20. The Hunger Games: Mockingjay Part 2 by Suzanne Collins
+21. The Maze Runner by James Dashner
+22. The Scorch Trials by James Dashner
+23. The Death Cure by James Dashner
+24. The Kill Order by James Dashner
+25. The Fever Code by James Dashner
+26. The Giver by Lois Lowry
+27. Gathering Blue by Lois Lowry
+28. Messenger by Lois Lowry
+29. Son by Lois Lowry
+30. The Selection by Kiera Cass
+31. The Elite by Kiera Cass
+32. The One by Kiera Cass
+33. The Heir by Kiera Cass
+34. The Crown by Kiera Cass
+35. The Selection Series Boxed Set by Kiera Cass
+36. The Lunar Chronicles Boxed Set by Marissa Meyer
+37. Cinder by Marissa Meyer
+38. Scarlet by Marissa Meyer
+39. Cress by Marissa Meyer
+40. Winter by Marissa Meyer
+41. Fairest by Marissa Meyer
+42. Stars Above by Marissa Meyer
+43. Heartless by Marissa Meyer
+44. Renegades by Marissa Meyer
+45. Archenemies by Marissa Meyer
+46. Supernova by Marissa Meyer
+47. The Chemical Garden Trilogy Boxed Set by Lauren DeStefano
+48. Wither by Lauren DeStefano
+49. Fever by Lauren DeStefano
+50. Sever by Lauren DeStefano

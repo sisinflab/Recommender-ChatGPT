@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. The Beatles
+3. Muse
+4. Elliott Smith
+5. Neil Young
+6. Lou Reed
+7. R.E.M.
+8. Nick Drake
+9. Pulp
+10. The Rolling Stones
+11. Blur
+12. Oasis
+13. George Harrison
+14. The Smiths
+15. Richard Ashcroft
+16. Manic Street Preachers
+17. Duffy
+18. MGMT
+19. Paul McCartney
+20. Dream Theater
+21. Eric Clapton
+22. Travis
+23. The Stone Roses
+24. Kings of Leon
+25. The xx
+26. Yeah Yeah Yeahs
+27. Morrissey
+28. U2
+29. Feeder
+30. Red Hot Chili Peppers
+31. The Cranberries
+32. Black Rebel Motorcycle Club
+33. Velvet Revolver
+34. White Lies
+35. Suede
+36. The Killers
+37. Franz Ferdinand
+38. Spiritualized
+39. Razorlight
+40. Doves
+41. The Cure
+42. The Strokes
+43. Keane
+44. Stereophonics
+45. The Script
+46. Gorillaz
+47. Justice
+48. Mew
+49. Manu Chao
+50. Belle and Sebastian

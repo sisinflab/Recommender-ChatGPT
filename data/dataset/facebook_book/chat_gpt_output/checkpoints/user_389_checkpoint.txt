@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Fault in Our Stars by John Green
+4. The Maze Runner by James Dashner
+5. The Girl on the Train by Paula Hawkins
+6. Gone Girl by Gillian Flynn
+7. The Da Vinci Code by Dan Brown
+8. Angels and Demons by Dan Brown
+9. The Catcher in the Rye by J.D. Salinger
+10. To Kill a Mockingbird by Harper Lee
+11. 1984 by George Orwell
+12. Animal Farm by George Orwell
+13. The Great Gatsby by F. Scott Fitzgerald
+14. The Lord of the Rings by J.R.R. Tolkien
+15. The Hobbit by J.R.R. Tolkien
+16. The Chronicles of Narnia by C.S. Lewis
+17. The Harry Potter series by J.K. Rowling
+18. The Twilight series by Stephenie Meyer
+19. The Hunger Games trilogy by Suzanne Collins
+20. The Maze Runner series by James Dashner
+21. The Divergent trilogy by Veronica Roth
+22. The Fault in Our Stars by John Green
+23. Looking for Alaska by John Green
+24. Paper Towns by John Green
+25. An Abundance of Katherines by John Green
+26. The Perks of Being a Wallflower by Stephen Chbosky
+27. The Book Thief by Markus Zusak
+28. The Kite Runner by Khaled Hosseini
+29. A Thousand Splendid Suns by Khaled Hosseini
+30. The Alchemist by Paulo Coelho
+31. The Catcher in the Rye by J.D. Salinger
+32. The Bell Jar by Sylvia Plath
+33. The Picture of Dorian Gray by Oscar Wilde
+34. The Importance of Being Earnest by Oscar Wilde
+35. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+36. The Hound of the Baskervilles by Arthur Conan Doyle
+37. The Complete Works of William Shakespeare
+38. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+39. The Stand by Stephen King
+40. It by Stephen King
+41. The Shining by Stephen King
+42. Carrie by Stephen King
+43. Misery by Stephen King
+44. The Dark Tower series by Stephen King
+45. The Girl with the Dragon Tattoo by Stieg Larsson
+46. The Girl Who Played with Fire by Stieg Larsson
+47. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+48. The Bourne Identity by Robert Ludlum
+49. The Bourne Supremacy by Robert Ludlum
+50. The Bourne Ultimatum by Robert Ludlum

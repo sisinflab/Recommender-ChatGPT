@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. His Dark Materials by Philip Pullman
+2. Nineteen Eighty-Four by George Orwell
+3. The Hunger Games by Suzanne Collins
+4. The Lord of the Rings by J.R.R. Tolkien
+5. Frankenstein by Mary Shelley
+6. Dracula by Bram Stoker
+7. Heart of Darkness by Joseph Conrad
+8. The Silmarillion by J.R.R. Tolkien
+9. Inkheart by Cornelia Funke
+10. The Phantom Tollbooth by Norton Juster
+11. The Giver by Lois Lowry
+12. Anne of Green Gables by L.M. Montgomery
+13. Fablehaven by Brandon Mull
+14. The Merchant of Venice by William Shakespeare
+15. Tuck Everlasting by Natalie Babbitt
+16. Crime and Punishment by Fyodor Dostoevsky
+17. The Trumpet of the Swan by E.B. White
+18. The Shipping News by Annie Proulx
+19. Burned by Ellen Hopkins
+20. The Tale of the Body Thief by Anne Rice
+21. Daughter of the Forest by Juliet Marillier
+22. Hawksong by Amelia Atwater-Rhodes
+23. The Lovely Bones by Alice Sebold
+24. Merrick by Anne Rice
+25. The Vampire Chronicles by Anne Rice
+26. The Southern Vampire Mysteries by Charlaine Harris
+27. Valiant: A Modern Tale of Faerie by Holly Black
+28. Tithe: A Modern Faerie Tale by Holly Black
+29. Dark Prince by Christine Feehan
+30. Vampire Kisses by Ellen Schreiber
+31. Twisted by Laurie Halse Anderson
+32. The Taming of the Shrew by William Shakespeare
+33. Inferno by Dante Alighieri
+34. At the Mountains of Madness by H.P. Lovecraft
+35. The Zombie Survival Guide by Max Brooks
+36. Batman: The Killing Joke by Alan Moore
+37. Darkly Dreaming Dexter by Jeff Lindsay
+38. Fear and Loathing in Las Vegas by Hunter S. Thompson
+39. I Am America (And So Can You!) by Stephen Colbert
+40. A Demon in My View by Ruth Rendell
+41. Brisingr by Christopher Paolini
+42. The Mist by Stephen King
+43. Breaking the Spell: Religion as a Natural Phenomenon by Daniel C. Dennett
+44. On the Origin of Species by Charles Darwin
+45. The Portable Atheist by Christopher Hitchens
+46. Letter to a Christian Nation by Sam Harris
+47. The Moral Landscape by Sam Harris
+48. Angels & Demons by Dan Brown
+49. The Lost Symbol by Dan Brown
+50. The Da Vinci Code by Dan Brown

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Smashing Pumpkins
+2. Nine Inch Nails
+3. Stone Sour
+4. System of a Down
+5. Korn
+6. Deftones
+7. Tool
+8. Slipknot
+9. Marilyn Manson
+10. Disturbed
+11. Alice Cooper
+12. Black Sabbath
+13. Iron Maiden
+14. Judas Priest
+15. AC/DC
+16. Guns N' Roses
+17. Led Zeppelin
+18. Pink Floyd
+19. The Doors
+20. The Rolling Stones
+21. The Who
+22. Queen
+23. Deep Purple
+24. Van Halen
+25. Aerosmith
+26. Bon Jovi
+27. Def Leppard
+28. Motley Crue
+29. Poison
+30. Scorpions
+31. Whitesnake
+32. ZZ Top
+33. Foo Fighters (acoustic)
+34. Nirvana (acoustic)
+35. Pearl Jam (acoustic)
+36. Alice in Chains (acoustic)
+37. Soundgarden (acoustic)
+38. Red Hot Chili Peppers (acoustic)
+39. Bush (acoustic)
+40. Green Day (acoustic)
+41. The Offspring (acoustic)
+42. Weezer (acoustic)
+43. Paramore (acoustic)
+44. The Cure (acoustic)
+45. Incubus (acoustic)
+46. Audioslave (acoustic)
+47. Metallica (acoustic)
+48. Rage Against the Machine (acoustic)
+49. Chevelle (acoustic)
+50. Stone Temple Pilots (acoustic)

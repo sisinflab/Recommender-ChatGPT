@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Muse
+2. 30 Seconds to Mars
+3. Linkin Park
+4. Breaking Benjamin
+5. Chevelle
+6. Silverchair
+7. A Perfect Circle
+8. Daughtry
+9. Our Lady Peace
+10. Saosin
+11. Sick Puppies
+12. Sixx:A.M.
+13. The Red Jumpsuit Apparatus
+14. Boys Like Girls
+15. Panic! At the Disco
+16. Feeder
+17. Fightstar
+18. VersaEmerge
+19. James Blunt
+20. Katy Perry
+21. Augustana
+22. Nickelback
+23. The Bravery
+24. Jimmy Eat World
+25. Avril Lavigne
+26. Paramore
+27. Evanescence
+28. Glee Cast
+29. Beyoncé
+30. U2
+31. Pink Floyd
+32. Coldplay
+33. Radiohead
+34. Ke$ha
+35. Duran Duran
+36. Arctic Monkeys
+37. Placebo
+38. The Killers
+39. Nirvana
+40. Iron Maiden
+41. Led Zeppelin
+42. Metallica
+43. Michael Jackson
+44. Pearl Jam
+45. a-ha
+46. Björk
+47. System of a Down
+48. Nine Inch Nails
+49. Black Eyed Peas
+50. My Chemical Romance

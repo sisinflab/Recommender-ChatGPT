@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Harry Potter
+2. The Hunger Games
+3. Ender's Shadow
+4. Dune (novel)
+5. Catching Fire
+6. The Kite Runner
+7. A Clockwork Orange
+8. Slaughterhouse-Five
+9. Lolita
+10. The Lovely Bones
+11. Crime and Punishment
+12. A Separate Peace
+13. Looking for Alaska
+14. The Curious Incident of the Dog in the Night-Time
+15. The Secret Garden
+16. The Red Tent
+17. Great Expectations
+18. Wuthering Heights
+19. Pride and Prejudice
+20. Tuesdays with Morrie
+21. A Wrinkle in Time
+22. The Little Prince
+23. Winnie-the-Pooh (book)
+24. The Cricket in Times Square
+25. The Mayor of Casterbridge
+26. Adventures of Huckleberry Finn
+27. That Was Then, This Is Now
+28. The Dresden Files
+29. The Wallflower (manga)
+30. Congo (novel)
+31. Alice's Adventures in Wonderland
+32. The Screwtape Letters
+33. Manga
+34. Skip Beat!
+35. Oil!
+36. A Tree Grows in Brooklyn (novel)
+37. Franny and Zooey
+38. Speaker for the Dead
+39. The Catcher in the Rye
+40. Ender's Game
+41. Uglies
+42. Mockingjay
+43. Lord of the Flies
+44. Thirteen Reasons Why
+45. Inheritance (novel)
+46. Pretty Little Liars (book)
+47. The Last Storytellers: Tales from the Heart of Morocco
+48. The Prince
+49. Perfect Chemistry
+50. Warrior (novel)

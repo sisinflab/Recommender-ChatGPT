@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Iron Maiden
+2. Metallica
+3. Judas Priest
+4. HammerFall
+5. Bruce Dickinson
+6. Helloween
+7. Black Sabbath
+8. Stratovarius
+9. Blind Guardian
+10. Accept
+11. Deep Purple
+12. Saxon
+13. Edguy
+14. Pink Floyd
+15. Ozzy Osbourne
+16. Avantasia
+17. Dokken
+18. Slayer
+19. Sonata Arctica
+20. Nightwish
+21. Dimmu Borgir
+22. Nevermore
+23. Def Leppard
+24. Overkill
+25. Pantera
+26. Megadeth
+27. Rainbow
+28. KISS
+29. Van Halen
+30. Rammstein
+31. Nirvana
+32. Pain
+33. Anthrax
+34. Scorpions
+35. Slipknot
+36. Kamelot
+37. Queensrÿche
+38. Motörhead
+39. UFO
+40. Mötley Crüe
+41. Avenged Sevenfold
+42. W.A.S.P.
+43. Testament
+44. Cream
+45. Alice Cooper
+46. Uriah Heep
+47. Mr. Big
+48. Jethro Tull
+49. Depeche Mode
+50. David Gilmour

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. Wuthering Heights by Emily Brontë
+3. The Picture of Dorian Gray by Oscar Wilde
+4. Mansfield Park by Jane Austen
+5. Romeo and Juliet by William Shakespeare
+6. The Scarlet Letter by Nathaniel Hawthorne
+7. The Adventures of Tom Sawyer by Mark Twain
+8. The Jungle Book by Rudyard Kipling
+9. The Secret Garden by Frances Hodgson Burnett
+10. The Great Gatsby by F. Scott Fitzgerald
+11. The Lord of the Rings by J.R.R. Tolkien
+12. Nineteen Eighty-Four by George Orwell
+13. The Little Prince by Antoine de Saint-Exupéry
+14. The Canterbury Tales by Geoffrey Chaucer
+15. Fahrenheit 451 by Ray Bradbury
+16. Macbeth by William Shakespeare
+17. A Midsummer Night's Dream by William Shakespeare
+18. Lolita by Vladimir Nabokov
+19. Emma by Jane Austen
+20. The Kite Runner by Khaled Hosseini
+21. Angels & Demons by Dan Brown
+22. The Da Vinci Code by Dan Brown
+23. The Hollow Kingdom Trilogy by Clare B. Dunkle
+24. The Merchant of Venice by William Shakespeare
+25. The Tao of Pooh by Benjamin Hoff
+26. The Glass Menagerie by Tennessee Williams
+27. All Quiet on the Western Front by Erich Maria Remarque
+28. Slaughterhouse-Five by Kurt Vonnegut
+29. Moby-Dick by Herman Melville
+30. Leaving a Doll's House: A Memoir by Claire Bloom
+31. The Sleeping Beauty by Mercedes Lackey
+32. Sounder by William H. Armstrong
+33. My Sister's Keeper by Jodi Picoult
+34. The Looking Glass Wars by Frank Beddor
+35. The Wonderful Wizard of Oz by L. Frank Baum
+36. The Taming of the Shrew by William Shakespeare
+37. The Prosecution of George W. Bush for Murder by Vincent Bugliosi
+38. Anne of Green Gables by L.M. Montgomery
+39. The Zombie Survival Guide by Max Brooks
+40. You Don't Know Me by David Klass
+41. The Hollow Kingdom Trilogy by Clare B. Dunkle
+42. The Glass Menagerie by Tennessee Williams
+43. Ragtime by E.L. Doctorow
+44. Cecilia by Fanny Burney
+45. For Whom the Bell Tolls by Ernest Hemingway
+46. Never Cry Wolf by Farley Mowat
+47. I Am Legend by Richard Matheson
+48. Batman: The Killing Joke by Alan Moore
+49. Castaways of the Flying Dutchman by Brian Jacques
+50. Choose Your Own

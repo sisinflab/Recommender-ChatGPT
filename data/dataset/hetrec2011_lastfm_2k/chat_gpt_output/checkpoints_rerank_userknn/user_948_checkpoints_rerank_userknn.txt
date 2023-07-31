@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. Muse
+3. Arcade Fire
+4. Pixies
+5. Interpol
+6. Yeah Yeah Yeahs
+7. Sigur Rós
+8. Joy Division
+9. Coldplay
+10. The Strokes
+11. Bon Iver
+12. Sufjan Stevens
+13. R.E.M.
+14. The National
+15. Grizzly Bear
+16. of Montreal
+17. Porcupine Tree
+18. Mew
+19. dredg
+20. Peter Bjorn and John
+21. Beirut
+22. Fleet Foxes
+23. Bat for Lashes
+24. Editors
+25. New Order
+26. Manic Street Preachers
+27. Thin Lizzy
+28. The Hives
+29. The Killers
+30. Massive Attack
+31. Goldfrapp
+32. Morrissey
+33. Queen
+34. Electric Light Orchestra
+35. Neil Young
+36. The Cranberries
+37. Doves
+38. Tokyo Police Club
+39. The Subways
+40. U2
+41. Crowded House
+42. Fall Out Boy
+43. Bowling for Soup
+44. Phil Collins
+45. Die Ärzte
+46. Sum 41
+47. The Offspring
+48. Jet
+49. Bright Eyes
+50. Mastodon

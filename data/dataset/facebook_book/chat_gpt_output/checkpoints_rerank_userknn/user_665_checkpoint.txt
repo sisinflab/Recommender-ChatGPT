@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Giver
+2. Ender's Game
+3. The Catcher in the Rye
+4. To Kill a Mockingbird
+5. Pride and Prejudice
+6. Frankenstein
+7. Twilight (series)
+8. Angels & Demons
+9. Interview with the Vampire
+10. Dracula
+11. Les Misérables
+12. The Phantom of the Opera
+13. Romeo and Juliet
+14. A Midsummer Night's Dream
+15. Oliver Twist
+16. Life of Pi
+17. The Lorax
+18. Charlie and the Chocolate Factory
+19. The Watchmen (novel)
+20. The Lost World (Crichton novel)
+21. Jurassic Park (novel)
+22. Brave New World
+23. It (novel)
+24. Holes (novel)
+25. The Stand
+26. The History of the Decline and Fall of the Roman Empire
+27. Inheritance Cycle
+28. Son of a Witch
+29. Ways to Live Forever
+30. Heaven Is for Real
+31. The Anarchist Cookbook
+32. The Long Hard Road Out of Hell
+33. The Dirt
+34. Red Inferno: 1945
+35. The New Jedi Order
+36. The Giver Quartet
+37. The Hunger Games
+38. Divergent
+39. The Maze Runner
+40. The Fault in Our Stars
+41. The Perks of Being a Wallflower
+42. The Book Thief
+43. The Lovely Bones
+44. The Help
+45. The Girl with the Dragon Tattoo
+46. The Da Vinci Code
+47. The Bourne Identity
+48. The Hitchhiker's Guide to the Galaxy
+49. The Chronicles of Narnia
+50. Harry Potter

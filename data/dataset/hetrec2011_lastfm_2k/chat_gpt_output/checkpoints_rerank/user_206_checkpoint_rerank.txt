@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Strokes
+2. Franz Ferdinand
+3. The Kooks
+4. Arcade Fire
+5. Foals
+6. Vampire Weekend
+7. The Black Keys
+8. The Raconteurs
+9. The Hives
+10. The Vaccines
+11. The Arctic Monkeys
+12. The White Stripes
+13. The Libertines
+14. The Last Shadow Puppets
+15. The Beatles
+16. Radiohead
+17. Placebo
+18. Muse
+19. Queens of the Stone Age
+20. Nirvana
+21. Pearl Jam
+22. Led Zeppelin
+23. Iron Maiden
+24. Metallica
+25. Pink Floyd
+26. The Doors
+27. The Clash
+28. The Jam
+29. The Cardigans
+30. The Yardbirds
+31. U2
+32. Coldplay
+33. Blur
+34. Duran Duran
+35. Depeche Mode
+36. Madonna
+37. Lady Gaga
+38. Christina Aguilera
+39. Britney Spears
+40. Rihanna
+41. Shakira
+42. Beyoncé
+43. Ke$ha
+44. Katy Perry
+45. Avril Lavigne
+46. Taylor Swift
+47. Evanescence
+48. Glee Cast
+49. Michael Jackson
+50. Amy Winehouse

@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Wuthering Heights by Emily Bronte
+2. Pride and Prejudice by Jane Austen
+3. The Great Gatsby by F. Scott Fitzgerald
+4. To Kill a Mockingbird by Harper Lee
+5. The Catcher in the Rye by J.D. Salinger
+6. The Picture of Dorian Gray by Oscar Wilde
+7. The Bell Jar by Sylvia Plath
+8. The Handmaid's Tale by Margaret Atwood
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Hobbit by J.R.R. Tolkien
+11. The Hunger Games by Suzanne Collins
+12. Catching Fire by Suzanne Collins
+13. Mockingjay by Suzanne Collins
+14. The Fault in Our Stars by John Green
+15. Looking for Alaska by John Green
+16. Paper Towns by John Green
+17. The Perks of Being a Wallflower by Stephen Chbosky
+18. The Book Thief by Markus Zusak
+19. The Girl with the Dragon Tattoo by Stieg Larsson
+20. The Girl Who Played with Fire by Stieg Larsson
+21. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+22. The Da Vinci Code by Dan Brown
+23. Angels and Demons by Dan Brown
+24. Inferno by Dan Brown
+25. The Shining by Stephen King
+26. Carrie by Stephen King
+27. The Stand by Stephen King
+28. The Road by Cormac McCarthy
+29. A Game of Thrones by George R.R. Martin
+30. A Clash of Kings by George R.R. Martin
+31. A Storm of Swords by George R.R. Martin
+32. A Feast for Crows by George R.R. Martin
+33. A Dance with Dragons by George R.R. Martin
+34. The Name of the Wind by Patrick Rothfuss
+35. The Wise Man's Fear by Patrick Rothfuss
+36. The Fellowship of the Ring by J.R.R. Tolkien
+37. The Two Towers by J.R.R. Tolkien
+38. The Return of the King by J.R.R. Tolkien
+39. The Chronicles of Narnia by C.S. Lewis
+40. The Lion, the Witch and the Wardrobe by C.S. Lewis
+41. Prince Caspian by C.S. Lewis
+42. The Voyage of the Dawn Treader by C.S. Lewis
+43. The Silver Chair by C.S. Lewis
+44. The Last Battle by C.S. Lewis
+45. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+46. The Restaurant at the End of the Universe by Douglas Adams
+47. Life, the Universe and Everything by Douglas Adams
+48. So Long, and Thanks for All the Fish by Douglas Adams
+49. Mostly Harm

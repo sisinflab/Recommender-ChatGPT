@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Aphex Twin
+2. Apparat
+3. Arovane
+4. Björk
+5. The Knife
+6. Tricky
+7. Proem
+8. Goldfrapp
+9. Justice
+10. Venetian Snares
+11. Massive Attack
+12. Depeche Mode
+13. Flunk
+14. Crystal Castles
+15. Bola
+16. UNKLE
+17. Ratatat
+18. Four Tet
+19. Franz Ferdinand
+20. Radiohead
+21. Telefon Tel Aviv
+22. múm
+23. The Future Sound of London
+24. Muse
+25. Pink Floyd
+26. Nirvana
+27. Led Zeppelin
+28. Metallica
+29. Michael Jackson
+30. Pearl Jam
+31. a-ha
+32. System of a Down
+33. Daft Punk
+34. Nine Inch Nails
+35. Linkin Park
+36. Avril Lavigne
+37. Coldplay
+38. Blur
+39. Arctic Monkeys
+40. Placebo
+41. The Killers
+42. Amy Winehouse
+43. Iron Maiden
+44. U2
+45. Duran Duran
+46. Madonna
+47. Rihanna
+48. Lady Gaga
+49. Beyoncé
+50. Katy Perry

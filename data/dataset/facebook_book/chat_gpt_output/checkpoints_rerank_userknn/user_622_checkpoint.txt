@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. Harry Potter by J.K. Rowling
+3. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+4. Slaughterhouse-Five by Kurt Vonnegut
+5. Nineteen Eighty-Four by George Orwell
+6. Brave New World by Aldous Huxley
+7. The Great Gatsby by F. Scott Fitzgerald
+8. Catcher in the Rye by J.D. Salinger
+9. To Kill a Mockingbird by Harper Lee
+10. Animal Farm by George Orwell
+11. Lord of the Flies by William Golding
+12. The Catcher in the Rye by J.D. Salinger
+13. The Giver by Lois Lowry
+14. The Outsiders by S.E. Hinton
+15. The Hobbit by J.R.R. Tolkien
+16. The Hunger Games by Suzanne Collins
+17. The Chronicles of Narnia by C.S. Lewis
+18. The Fault in Our Stars by John Green
+19. The Book Thief by Markus Zusak
+20. The Alchemist by Paulo Coelho
+21. The Picture of Dorian Gray by Oscar Wilde
+22. The Bell Jar by Sylvia Plath
+23. The Road by Cormac McCarthy
+24. The Color Purple by Alice Walker
+25. The Secret Life of Bees by Sue Monk Kidd
+26. The Lovely Bones by Alice Sebold
+27. The Handmaid's Tale by Margaret Atwood
+28. The Stand by Stephen King
+29. The Shining by Stephen King
+30. The Girl with the Dragon Tattoo by Stieg Larsson
+31. The Da Vinci Code by Dan Brown
+32. The Name of the Wind by Patrick Rothfuss
+33. The Wise Man's Fear by Patrick Rothfuss
+34. The Dark Tower series by Stephen King
+35. The Dresden Files series by Jim Butcher
+36. The Wheel of Time series by Robert Jordan
+37. The Stormlight Archive series by Brandon Sanderson
+38. The Kingkiller Chronicle series by Patrick Rothfuss
+39. The Mistborn series by Brandon Sanderson
+40. The First Law trilogy by Joe Abercrombie
+41. The Blade Itself by Joe Abercrombie
+42. The Lies of Locke Lamora by Scott Lynch
+43. The Name of the Rose by Umberto Eco
+44. The Count of Monte Cristo by Alexandre Dumas
+45. Les Miserables by Victor Hugo
+46. Candide by Voltaire
+47. Flowers in the Attic by V.C. Andrews
+48. The Zombie Survival Guide by Max Brooks
+49. Blindness by Jose Saramago
+50. Death Note Another Note: The Los Angeles BB Murder Cases by Nisio Isin

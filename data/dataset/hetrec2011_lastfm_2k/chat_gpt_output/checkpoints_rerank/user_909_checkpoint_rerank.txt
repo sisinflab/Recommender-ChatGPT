@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Green Day
+2. My Chemical Romance
+3. Nirvana
+4. Linkin Park
+5. Slipknot
+6. System of a Down
+7. The Killers
+8. Papa Roach
+9. Fall Out Boy
+10. Three Days Grace
+11. Muse
+12. Avenged Sevenfold
+13. Metallica
+14. Iron Maiden
+15. The Offspring
+16. Blink-182
+17. Sum 41
+18. Good Charlotte
+19. Coldplay
+20. Radiohead
+21. Pearl Jam
+22. The Beatles
+23. Led Zeppelin
+24. Pink Floyd
+25. Def Leppard
+26. Duran Duran
+27. Depeche Mode
+28. The Cure
+29. Arctic Monkeys
+30. Placebo
+31. Evanescence
+32. Paramore
+33. Katy Perry
+34. Lady Gaga
+35. Rihanna
+36. Beyoncé
+37. Shakira
+38. Madonna
+39. Christina Aguilera
+40. Ke$ha
+41. Taylor Swift
+42. Miley Cyrus
+43. Kelly Clarkson
+44. P!nk
+45. All Time Low
+46. Glee Cast
+47. Daft Punk
+48. Nine Inch Nails
+49. Amy Winehouse
+50. Kylie Minogue

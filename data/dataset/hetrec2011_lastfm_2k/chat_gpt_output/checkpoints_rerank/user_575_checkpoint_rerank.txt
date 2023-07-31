@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Depeche Mode
+2. Muse
+3. Lady Gaga
+4. Madonna
+5. U2
+6. Michael Jackson
+7. Eminem
+8. Robbie Williams
+9. Franz Ferdinand
+10. Scorpions
+11. Alanis Morissette
+12. Hans Zimmer
+13. Bon Jovi
+14. Marilyn Manson
+15. Hurts
+16. Dave Gahan
+17. Moby
+18. Recoil
+19. Kanye West
+20. Sting
+21. Gorillaz
+22. The Pussycat Dolls
+23. Martin L. Gore
+24. Mika
+25. Leona Lewis
+26. Lily Allen
+27. Elton John
+28. Arctic Monkeys
+29. Yann Tiersen
+30. Enrique Iglesias
+31. OneRepublic
+32. Enigma
+33. Pendulum
+34. George Michael
+35. Britney Spears
+36. Christina Aguilera
+37. Rihanna
+38. Shakira
+39. Katy Perry
+40. Avril Lavigne
+41. Taylor Swift
+42. Evanescence
+43. Beyoncé
+44. Pink Floyd
+45. Kylie Minogue
+46. Miley Cyrus
+47. Radiohead
+48. Ke$ha
+49. Duran Duran
+50. Coldplay

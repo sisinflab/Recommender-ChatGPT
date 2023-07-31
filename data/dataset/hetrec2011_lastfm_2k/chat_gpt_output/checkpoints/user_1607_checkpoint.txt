@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Lady Gaga
+2. Katy Perry
+3. Taylor Swift
+4. Ariana Grande
+5. Beyoncé
+6. Justin Timberlake
+7. Maroon 5
+8. Bruno Mars
+9. Ed Sheeran
+10. Pink
+11. Kelly Clarkson
+12. Christina Aguilera
+13. Demi Lovato
+14. Selena Gomez
+15. One Direction
+16. Backstreet Boys
+17. *NSYNC
+18. Spice Girls
+19. Destiny's Child
+20. TLC
+21. Janet Jackson
+22. Madonna
+23. Gwen Stefani
+24. No Doubt
+25. The Black Eyed Peas
+26. Fergie
+27. Jennifer Lopez
+28. Shakira
+29. Enrique Iglesias
+30. Pitbull
+31. Usher
+32. Ne-Yo
+33. Chris Brown
+34. Rihanna
+35. Nicki Minaj
+36. Drake
+37. Jay-Z
+38. Kanye West
+39. Eminem
+40. Linkin Park
+41. Green Day
+42. Fall Out Boy
+43. Panic! At The Disco
+44. My Chemical Romance
+45. Paramore
+46. The All-American Rejects
+47. The Killers
+48. Muse
+49. Coldplay
+50. Radiohead

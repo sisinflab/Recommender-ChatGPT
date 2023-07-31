@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Cocteau Twins
+2. David Bowie
+3. The Cure
+4. Depeche Mode
+5. Duran Duran
+6. Pet Shop Boys
+7. Goldfrapp
+8. Dead Can Dance
+9. Bat for Lashes
+10. Patrick Wolf
+11. New Order
+12. IAMX
+13. Grace Jones
+14. Thompson Twins
+15. Air
+16. Visage
+17. Cut Copy
+18. Eurythmics
+19. M83
+20. The Smiths
+21. Morrissey
+22. The Presets
+23. The Jesus and Mary Chain
+24. Soft Cell
+25. Lush
+26. Madonna
+27. Lady Gaga
+28. Rihanna
+29. Britney Spears
+30. Beyoncé
+31. Shakira
+32. Christina Aguilera
+33. Katy Perry
+34. Taylor Swift
+35. Ke$ha
+36. Paramore
+37. Muse
+38. Pink Floyd
+39. Radiohead
+40. Coldplay
+41. Blur
+42. Arctic Monkeys
+43. The Killers
+44. Nirvana
+45. Led Zeppelin
+46. Metallica
+47. Michael Jackson
+48. Pearl Jam
+49. a-ha
+50. Björk

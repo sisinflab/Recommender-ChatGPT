@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Linkin Park
+2. Eminem
+3. Kid Cudi
+4. Lupe Fiasco
+5. Hollywood Undead
+6. Parkway Drive
+7. A Day to Remember
+8. The Devil Wears Prada
+9. Suicide Silence
+10. Motion City Soundtrack
+11. B.o.B
+12. Blink-182
+13. Whitechapel
+14. Alexisonfire
+15. The All-American Rejects
+16. Asking Alexandria
+17. The Black Dahlia Murder
+18. blessthefall
+19. Muse
+20. Avenged Sevenfold
+21. Silverstein
+22. Paramore
+23. Four Year Strong
+24. Chiodos
+25. Lily Allen
+26. Zebrahead
+27. Nas
+28. Jay-Z
+29. The Game
+30. Mobb Deep
+31. Nelly
+32. DMX
+33. 2Pac
+34. Beyoncé
+35. August Burns Red
+36. Red Hot Chili Peppers
+37. Led Zeppelin
+38. Death Cab for Cutie
+39. Ghostface Killah
+40. Korn
+41. Megadeth
+42. Dr. Dre
+43. Van Halen
+44. Third Eye Blind
+45. Snoop Dogg
+46. Lil' Wayne
+47. Katy Perry
+48. Rihanna
+49. P!nk
+50. Hot Chip

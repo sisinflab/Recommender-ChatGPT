@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Brothers Karamazov by Fyodor Dostoevsky
+7. Crime and Punishment by Fyodor Dostoevsky
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Stranger by Albert Camus
+10. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+11. The Lord of the Rings by J.R.R. Tolkien
+12. The Hobbit by J.R.R. Tolkien
+13. The Chronicles of Narnia by C.S. Lewis
+14. The Name of the Wind by Patrick Rothfuss
+15. The Wise Man's Fear by Patrick Rothfuss
+16. The Hunger Games by Suzanne Collins
+17. Catching Fire by Suzanne Collins
+18. Mockingjay by Suzanne Collins
+19. The Girl with the Dragon Tattoo by Stieg Larsson
+20. The Girl Who Played with Fire by Stieg Larsson
+21. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+22. The Da Vinci Code by Dan Brown
+23. Angels and Demons by Dan Brown
+24. Inferno by Dan Brown
+25. The Stand by Stephen King
+26. It by Stephen King
+27. The Shining by Stephen King
+28. The Dark Tower series by Stephen King
+29. The Road by Cormac McCarthy
+30. Blood Meridian by Cormac McCarthy
+31. The Satanic Verses by Salman Rushdie
+32. Midnight's Children by Salman Rushdie
+33. The God of Small Things by Arundhati Roy
+34. The Handmaid's Tale by Margaret Atwood
+35. 1984 by George Orwell
+36. Animal Farm by George Orwell
+37. The Bell Jar by Sylvia Plath
+38. The Picture of Dorian Gray by Oscar Wilde
+39. The Importance of Being Earnest by Oscar Wilde
+40. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+41. The Hound of the Baskervilles by Arthur Conan Doyle
+42. The Complete Works of William Shakespeare by William Shakespeare
+43. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+44. The Tao of Physics by Fritjof Capra
+45. The Power of Myth by Joseph Campbell
+46. The Alchemist by Paulo Coelho
+47. The Name of the Rose by Umberto Eco
+48. The Shadow of the Wind by Carlos Ruiz Zafon
+49. The Book Thief by Markus Zusak
+50. The Kite Runner by

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations are:
+
+1. Radiohead
+2. The Beatles
+3. Pink Floyd
+4. Muse
+5. Coldplay
+6. The Killers
+7. Oasis
+8. U2
+9. The Smiths
+10. The Stone Roses
+11. Franz Ferdinand
+12. Arctic Monkeys
+13. The Strokes
+14. Blur
+15. Keane
+16. Travis
+17. Razorlight
+18. Kasabian
+19. The Verve
+20. Simple Minds
+21. Duran Duran
+22. Pet Shop Boys
+23. James Blunt
+24. Maroon 5
+25. Doves
+26. Snow Patrol
+27. Manic Street Preachers
+28. Stereophonics
+29. Morcheeba
+30. Thirteen Senses
+31. Flunk
+32. Lily Allen
+33. Regina Spektor
+34. Suzanne Vega
+35. KT Tunstall
+36. Alphaville
+37. Alanis Morissette
+38. Demi Lovato
+39. Madonna
+40. Ladytron
+41. My Chemical Romance
+42. The Bravery
+43. Moby
+44. Lifehouse
+45. Pearl Jam
+46. Bryan Adams
+47. Roxette
+48. Aqualung
+49. Frankie Goes to Hollywood
+50. Zемфира

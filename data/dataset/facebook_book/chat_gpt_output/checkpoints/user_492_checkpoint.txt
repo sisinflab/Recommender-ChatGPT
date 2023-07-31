@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Jurassic Park by Michael Crichton
+2. The Firm by John Grisham
+3. Ender's Game by Orson Scott Card
+4. The Da Vinci Code by Dan Brown
+5. The Lost World by Michael Crichton
+6. Angels & Demons by Dan Brown
+7. The Pelican Brief by John Grisham
+8. Digital Fortress by Dan Brown
+9. Prey by Michael Crichton
+10. The Summons by John Grisham
+11. The Hunger Games by Suzanne Collins
+12. The Maze Runner by James Dashner
+13. The Bourne Identity by Robert Ludlum
+14. The Bourne Supremacy by Robert Ludlum
+15. The Bourne Ultimatum by Robert Ludlum
+16. The Martian by Andy Weir
+17. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+18. The Catcher in the Rye by J.D. Salinger
+19. The Great Gatsby by F. Scott Fitzgerald
+20. To Kill a Mockingbird by Harper Lee
+21. 1984 by George Orwell
+22. Animal Farm by George Orwell
+23. Brave New World by Aldous Huxley
+24. Fahrenheit 451 by Ray Bradbury
+25. The Lord of the Rings by J.R.R. Tolkien
+26. The Hobbit by J.R.R. Tolkien
+27. The Chronicles of Narnia by C.S. Lewis
+28. The Harry Potter series by J.K. Rowling
+29. The Girl with the Dragon Tattoo by Stieg Larsson
+30. The Girl Who Played with Fire by Stieg Larsson
+31. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+32. The Silence of the Lambs by Thomas Harris
+33. Red Dragon by Thomas Harris
+34. Hannibal by Thomas Harris
+35. The Shining by Stephen King
+36. Carrie by Stephen King
+37. The Stand by Stephen King
+38. It by Stephen King
+39. Misery by Stephen King
+40. The Green Mile by Stephen King
+41. The Dark Tower series by Stephen King
+42. The Name of the Wind by Patrick Rothfuss
+43. The Wise Man's Fear by Patrick Rothfuss
+44. The Lies of Locke Lamora by Scott Lynch
+45. The Blade Itself by Joe Abercrombie
+46. The Way of Kings by Brandon Sanderson
+47. Mistborn by Brandon Sanderson
+48. The Final Empire by Brandon Sanderson
+49. The Well of Ascension by Brandon Sanderson
+50. The Hero of Ages by Brandon Sanderson

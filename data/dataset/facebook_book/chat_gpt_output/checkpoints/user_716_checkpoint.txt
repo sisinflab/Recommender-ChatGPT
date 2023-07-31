@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Maze Runner by James Dashner
+4. The Fault in Our Stars by John Green
+5. The Chronicles of Narnia by C.S. Lewis
+6. The Giver by Lois Lowry
+7. The Da Vinci Code by Dan Brown
+8. The Girl with the Dragon Tattoo by Stieg Larsson
+9. The Girl on the Train by Paula Hawkins
+10. The Catcher in the Rye by J.D. Salinger
+11. To Kill a Mockingbird by Harper Lee
+12. The Great Gatsby by F. Scott Fitzgerald
+13. 1984 by George Orwell
+14. Animal Farm by George Orwell
+15. Brave New World by Aldous Huxley
+16. The Handmaid's Tale by Margaret Atwood
+17. The Shining by Stephen King
+18. It by Stephen King
+19. The Stand by Stephen King
+20. The Dark Tower series by Stephen King
+21. The Hobbit by J.R.R. Tolkien
+22. The Silmarillion by J.R.R. Tolkien
+23. The Children of Hurin by J.R.R. Tolkien
+24. The Name of the Wind by Patrick Rothfuss
+25. The Wise Man's Fear by Patrick Rothfuss
+26. The Way of Kings by Brandon Sanderson
+27. Mistborn by Brandon Sanderson
+28. Warbreaker by Brandon Sanderson
+29. Elantris by Brandon Sanderson
+30. The Final Empire by Brandon Sanderson
+31. The Well of Ascension by Brandon Sanderson
+32. The Hero of Ages by Brandon Sanderson
+33. The Stormlight Archive by Brandon Sanderson
+34. The Kingkiller Chronicle by Patrick Rothfuss
+35. The Dresden Files by Jim Butcher
+36. The Wheel of Time series by Robert Jordan
+37. The Malazan Book of the Fallen series by Steven Erikson
+38. The First Law trilogy by Joe Abercrombie
+39. The Lies of Locke Lamora by Scott Lynch
+40. The Blade Itself by Joe Abercrombie
+41. The Black Company by Glen Cook
+42. The Magicians by Lev Grossman
+43. American Gods by Neil Gaiman
+44. Neverwhere by Neil Gaiman
+45. Good Omens by Neil Gaiman and Terry Pratchett
+46. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+47. Ender's Game by Orson Scott Card
+48. Speaker for the Dead by Orson Scott Card
+49. Xenocide by Orson Scott Card
+50. Children of the Mind by Orson Scott Card

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Outsiders by S.E. Hinton
+2. Rumble Fish by S.E. Hinton
+3. Taming the Star Runner by S.E. Hinton
+4. The Giver by Lois Lowry
+5. Gathering Blue by Lois Lowry
+6. Messenger by Lois Lowry
+7. The Hunger Games by Suzanne Collins
+8. Catching Fire by Suzanne Collins
+9. Mockingjay by Suzanne Collins
+10. Through the Looking-Glass by Lewis Carroll
+11. Jabberwocky by Lewis Carroll
+12. Glass by Ellen Hopkins
+13. Fallout by Ellen Hopkins
+14. Tricks by Ellen Hopkins
+15. The Arabian Nights: Tales of 1,001 Nights by Anonymous
+16. The Collected Stories of Lydia Davis by Lydia Davis
+17. The Bell Jar by Sylvia Plath
+18. The Catcher in the Rye by J.D. Salinger
+19. The Perks of Being a Wallflower by Stephen Chbosky
+20. The Fault in Our Stars by John Green
+21. The Maze Runner by James Dashner
+22. The Scorch Trials by James Dashner
+23. The Death Cure by James Dashner
+24. The Knife of Never Letting Go by Patrick Ness
+25. The Ask and the Answer by Patrick Ness
+26. Monsters of Men by Patrick Ness
+27. The Uglies Series by Scott Westerfeld
+28. The Leviathan Trilogy by Scott Westerfeld
+29. The Mortal Instruments Series by Cassandra Clare
+30. The Infernal Devices Series by Cassandra Clare
+31. The Dark Artifices Series by Cassandra Clare
+32. The Martian by Andy Weir
+33. 1984 by George Orwell
+34. Animal Farm by George Orwell
+35. Brave New World by Aldous Huxley
+36. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+37. The Lord of the Rings Trilogy by J.R.R. Tolkien
+38. The Hobbit by J.R.R. Tolkien
+39. The Chronicles of Narnia Series by C.S. Lewis
+40. The Harry Potter Series by J.K. Rowling
+41. The Name of the Wind by Patrick Rothfuss
+42. The Wise Man's Fear by Patrick Rothfuss
+43. The Lies of Locke Lamora by Scott Lynch
+44. The Kingkiller Chronicle Series by Scott Lynch
+45. The Dresden Files Series by Jim Butcher
+46. The Dark Tower Series by Stephen King
+47. The Stand by Stephen King
+48. The Shining by Stephen King
+49. The Girl with the Dragon Tattoo by Stieg Larsson
+50. The Girl Who Played with Fire by Stieg Larsson

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter
+2. The Hunger Games
+3. Twilight (series)
+4. The Lord of the Rings
+5. The Hobbit
+6. The Da Vinci Code
+7. Angels & Demons
+8. Digital Fortress
+9. Inferno (Dante)
+10. The Silmarillion
+11. The Princess Bride
+12. Romeo and Juliet
+13. The Giver
+14. Never Let Me Go (novel)
+15. The Outsiders (novel)
+16. Holes (novel)
+17. Fablehaven
+18. Inkheart
+19. Inkspell
+20. The Little Prince
+21. Tuck Everlasting
+22. Sabriel
+23. The Southern Vampire Mysteries
+24. Merrick (novel)
+25. Burned (Hopkins novel)
+26. Fear and Loathing in Las Vegas
+27. Jitterbug Perfume
+28. Shopgirl (novella)
+29. Small Steps (novel)
+30. Of Mice and Men
+31. Lord of the Flies
+32. Go Ask Alice
+33. The Tale of the Body Thief
+34. The Vampire Chronicles
+35. Midnight Sun (novel)
+36. Looking for Alaska
+37. The Perks of Being a Wallflower
+38. Paper Towns
+39. Thus Spoke Zarathustra
+40. Great Expectations
+41. Frankenstein
+42. Earl Cain
+43. Manga
+44. Johnny the Homicidal Maniac
+45. The Tao of Pooh
+46. At the Mountains of Madness
+47. The Antichrist (book)
+48. I Am America (And So Can You!)
+49. Hoot (novel)
+50. Through the Looking-Glass

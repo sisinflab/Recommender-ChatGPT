@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Arcade Fire
+2. The Smiths
+3. Interpol
+4. Bloc Party
+5. The Killers
+6. The Postal Service
+7. Belle and Sebastian
+8. The Cure
+9. Placebo
+10. Tori Amos
+11. Maxïmo Park
+12. Mystery Jets
+13. Snow Patrol
+14. Patrick Wolf
+15. Morrissey
+16. Biffy Clyro
+17. The Kooks
+18. Elliott Smith
+19. Beach House
+20. She Wants Revenge
+21. We Are Scientists
+22. The Pipettes
+23. The Dresden Dolls
+24. Taking Back Sunday
+25. Franz Ferdinand
+26. The Shins
+27. Hot Hot Heat
+28. Frightened Rabbit
+29. Florence + the Machine
+30. Radiohead
+31. Nirvana
+32. Muse
+33. Pink Floyd
+34. Led Zeppelin
+35. Metallica
+36. Iron Maiden
+37. Pearl Jam
+38. a-ha
+39. Björk
+40. System of a Down
+41. Nine Inch Nails
+42. Linkin Park
+43. My Chemical Romance
+44. Green Day
+45. The Cure
+46. Duran Duran
+47. Blur
+48. Arctic Monkeys
+49. Placebo
+50. Depeche Mode

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Boys Like Girls
+2. Cute Is What We Aim For
+3. The Academy Is...
+4. The Fratellis
+5. Plain White T's
+6. Rooney
+7. The Strokes
+8. Avenged Sevenfold
+9. Atreyu
+10. Kaiser Chiefs
+11. Simple Plan
+12. 3OH!3
+13. Bowling for Soup
+14. Cash Cash
+15. Cobra Starship
+16. Fresno
+17. Jack's Mannequin
+18. Katy Perry
+19. nevershoutnever!
+20. Papa Roach
+21. Britney Spears
+22. Lady Gaga
+23. Paramore
+24. Christina Aguilera
+25. Rihanna
+26. Shakira
+27. Beyoncé
+28. Ke$ha
+29. Pink Floyd
+30. Muse
+31. Radiohead
+32. U2
+33. Coldplay
+34. The Beatles
+35. Nirvana
+36. Metallica
+37. Led Zeppelin
+38. Iron Maiden
+39. Pearl Jam
+40. Nine Inch Nails
+41. System of a Down
+42. Daft Punk
+43. Linkin Park
+44. Green Day
+45. My Chemical Romance
+46. The Killers
+47. Duran Duran
+48. Arctic Monkeys
+49. Placebo
+50. Michael Jackson

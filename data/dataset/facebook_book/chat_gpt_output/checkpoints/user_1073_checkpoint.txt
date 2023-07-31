@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+3. Slaughterhouse-Five by Kurt Vonnegut
+4. The Catcher in the Rye by J.D. Salinger
+5. The Hunger Games by Suzanne Collins
+6. The Giver by Lois Lowry
+7. The Road by Cormac McCarthy
+8. The Handmaid's Tale by Margaret Atwood
+9. Fahrenheit 451 by Ray Bradbury
+10. The Martian by Andy Weir
+11. The Maze Runner by James Dashner
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Da Vinci Code by Dan Brown
+14. The Lord of the Rings by J.R.R. Tolkien
+15. The Hobbit by J.R.R. Tolkien
+16. The Chronicles of Narnia by C.S. Lewis
+17. The Harry Potter series by J.K. Rowling
+18. The Fault in Our Stars by John Green
+19. To Kill a Mockingbird by Harper Lee
+20. Animal Farm by George Orwell
+21. The Great Gatsby by F. Scott Fitzgerald
+22. The Picture of Dorian Gray by Oscar Wilde
+23. The Count of Monte Cristo by Alexandre Dumas
+24. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+25. The War of the Worlds by H.G. Wells
+26. The Time Machine by H.G. Wells
+27. The Invisible Man by H.G. Wells
+28. The Island of Dr. Moreau by H.G. Wells
+29. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+30. Frankenstein by Mary Shelley
+31. Dracula by Bram Stoker
+32. The Shining by Stephen King
+33. Carrie by Stephen King
+34. The Stand by Stephen King
+35. It by Stephen King
+36. The Silence of the Lambs by Thomas Harris
+37. Red Dragon by Thomas Harris
+38. Hannibal by Thomas Harris
+39. The Bourne Identity by Robert Ludlum
+40. The Bourne Supremacy by Robert Ludlum
+41. The Bourne Ultimatum by Robert Ludlum
+42. The Girl on the Train by Paula Hawkins
+43. Gone Girl by Gillian Flynn
+44. The Lovely Bones by Alice Sebold
+45. The Help by Kathryn Stockett
+46. The Kite Runner by Khaled Hosseini
+47. A Thousand Splendid Suns by Khaled Hosseini
+48. The Alchemist by Paulo Coelho
+49. The Name of the Wind by Patrick Rothfuss
+50. The Wise Man's Fear by Patrick Rothfuss

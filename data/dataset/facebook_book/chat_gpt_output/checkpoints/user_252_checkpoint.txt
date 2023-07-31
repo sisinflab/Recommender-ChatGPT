@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Maze Runner by James Dashner
+4. The Giver by Lois Lowry
+5. The Fault in Our Stars by John Green
+6. The Book Thief by Markus Zusak
+7. The Girl on the Train by Paula Hawkins
+8. Gone Girl by Gillian Flynn
+9. The Da Vinci Code by Dan Brown
+10. Angels and Demons by Dan Brown
+11. The Bourne Identity by Robert Ludlum
+12. The Bourne Supremacy by Robert Ludlum
+13. The Bourne Ultimatum by Robert Ludlum
+14. The Girl with the Dragon Tattoo by Stieg Larsson
+15. The Girl Who Played with Fire by Stieg Larsson
+16. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+17. The Silence of the Lambs by Thomas Harris
+18. Red Dragon by Thomas Harris
+19. Hannibal by Thomas Harris
+20. The Shining by Stephen King
+21. Carrie by Stephen King
+22. Misery by Stephen King
+23. The Stand by Stephen King
+24. It by Stephen King
+25. The Dark Tower I: The Gunslinger by Stephen King
+26. The Dark Tower II: The Drawing of the Three by Stephen King
+27. The Dark Tower III: The Waste Lands by Stephen King
+28. The Dark Tower IV: Wizard and Glass by Stephen King
+29. The Dark Tower V: Wolves of the Calla by Stephen King
+30. The Dark Tower VI: Song of Susannah by Stephen King
+31. The Dark Tower VII: The Dark Tower by Stephen King
+32. The Lord of the Rings by J.R.R. Tolkien
+33. The Hobbit by J.R.R. Tolkien
+34. The Silmarillion by J.R.R. Tolkien
+35. The Chronicles of Narnia by C.S. Lewis
+36. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+37. Ender's Game by Orson Scott Card
+38. Speaker for the Dead by Orson Scott Card
+39. Xenocide by Orson Scott Card
+40. Children of the Mind by Orson Scott Card
+41. The Hunger Games: Catching Fire by Suzanne Collins
+42. The Hunger Games: Mockingjay by Suzanne Collins
+43. Insurgent by Veronica Roth
+44. Allegiant by Veronica Roth
+45. The Scorch Trials by James Dashner
+46. The Death Cure by James Dashner
+47. The Kill Order by James Dashner
+48. The Giver Quartet by Lois Lowry
+49. The Fault in Our Stars by John Green
+50. Looking for Alaska by John Green

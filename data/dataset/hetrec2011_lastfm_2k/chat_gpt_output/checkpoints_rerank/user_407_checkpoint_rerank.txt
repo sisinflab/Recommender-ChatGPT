@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Daft Punk
+2. Justice
+3. Hot Chip
+4. Simian Mobile Disco
+5. Cut Copy
+6. The Knife
+7. Ratatat
+8. Groove Armada
+9. Röyksopp
+10. Air
+11. Kraftwerk
+12. Ulrich Schnauss
+13. Brian Eno
+14. Belle and Sebastian
+15. The Velvet Underground
+16. Camera Obscura
+17. Andrew Bird
+18. Nina Simone
+19. Cabaret Voltaire
+20. Black Flag
+21. Social Distortion
+22. Gossip
+23. Peter Bjorn and John
+24. Muse
+25. Radiohead
+26. Pink Floyd
+27. Led Zeppelin
+28. Nirvana
+29. Metallica
+30. Iron Maiden
+31. Pearl Jam
+32. The Beatles
+33. U2
+34. Duran Duran
+35. Coldplay
+36. Blur
+37. Arctic Monkeys
+38. Placebo
+39. The Killers
+40. Amy Winehouse
+41. Björk
+42. Nine Inch Nails
+43. Linkin Park
+44. Avenged Sevenfold
+45. My Chemical Romance
+46. Green Day
+47. The Cure
+48. Michael Jackson
+49. Lady Gaga
+50. Britney Spears

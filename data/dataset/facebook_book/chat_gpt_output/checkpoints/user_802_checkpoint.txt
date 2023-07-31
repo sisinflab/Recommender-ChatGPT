@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Animal Farm by George Orwell
+2. Fahrenheit 451 by Ray Bradbury
+3. The Handmaid's Tale by Margaret Atwood
+4. 1984 by George Orwell
+5. The Catcher in the Rye by J.D. Salinger
+6. To Kill a Mockingbird by Harper Lee
+7. The Hunger Games by Suzanne Collins
+8. The Maze Runner by James Dashner
+9. Divergent by Veronica Roth
+10. The Giver by Lois Lowry
+11. The Outsiders by S.E. Hinton
+12. Lord of the Flies by William Golding
+13. The Road by Cormac McCarthy
+14. The Stand by Stephen King
+15. The Shining by Stephen King
+16. The Dark Tower series by Stephen King
+17. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+18. Ender's Game by Orson Scott Card
+19. The Martian by Andy Weir
+20. Ready Player One by Ernest Cline
+21. Snow Crash by Neal Stephenson
+22. Neuromancer by William Gibson
+23. Do Androids Dream of Electric Sheep? by Philip K. Dick
+24. The War of the Worlds by H.G. Wells
+25. The Time Machine by H.G. Wells
+26. The Invisible Man by H.G. Wells
+27. The Island of Dr. Moreau by H.G. Wells
+28. The Picture of Dorian Gray by Oscar Wilde
+29. Dracula by Bram Stoker
+30. Frankenstein by Mary Shelley
+31. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+32. The Call of Cthulhu and Other Weird Stories by H.P. Lovecraft
+33. The Complete Sherlock Holmes by Arthur Conan Doyle
+34. The Adventures of Tom Sawyer by Mark Twain
+35. The Adventures of Huckleberry Finn by Mark Twain
+36. The Great Gatsby by F. Scott Fitzgerald
+37. One Hundred Years of Solitude by Gabriel Garcia Marquez
+38. Love in the Time of Cholera by Gabriel Garcia Marquez
+39. The Name of the Rose by Umberto Eco
+40. The Da Vinci Code by Dan Brown
+41. Angels and Demons by Dan Brown
+42. The Girl with the Dragon Tattoo by Stieg Larsson
+43. The Girl Who Played with Fire by Stieg Larsson
+44. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+45. The Bourne Identity by Robert Ludlum
+46. The Bourne Supremacy by Robert Ludlum
+47. The Bourne Ultimatum by Robert Ludlum
+48. The Silence of the Lambs by Thomas Harris
+49. Red Dragon by Thomas Harris
+50. Hannibal

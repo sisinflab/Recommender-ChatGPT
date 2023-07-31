@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. 1984 by George Orwell
+3. To Kill a Mockingbird by Harper Lee
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Brave New World by Aldous Huxley
+6. Animal Farm by George Orwell
+7. The Lord of the Rings by J.R.R. Tolkien
+8. The Hobbit by J.R.R. Tolkien
+9. The Chronicles of Narnia by C.S. Lewis
+10. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+11. The Alchemist by Paulo Coelho
+12. The Little Prince by Antoine de Saint-Exupéry
+13. The Picture of Dorian Gray by Oscar Wilde
+14. The Adventures of Huckleberry Finn by Mark Twain
+15. The Adventures of Tom Sawyer by Mark Twain
+16. The Brothers Karamazov by Fyodor Dostoevsky
+17. Crime and Punishment by Fyodor Dostoevsky
+18. One Hundred Years of Solitude by Gabriel Garcia Marquez
+19. The Stranger by Albert Camus
+20. The Trial by Franz Kafka
+21. The Metamorphosis by Franz Kafka
+22. Heart of Darkness by Joseph Conrad
+23. The Old Man and the Sea by Ernest Hemingway
+24. For Whom the Bell Tolls by Ernest Hemingway
+25. The Sun Also Rises by Ernest Hemingway
+26. The Sound and the Fury by William Faulkner
+27. As I Lay Dying by William Faulkner
+28. The Grapes of Wrath by John Steinbeck
+29. East of Eden by John Steinbeck
+30. Of Mice and Men by John Steinbeck
+31. The Bell Jar by Sylvia Plath
+32. The Color Purple by Alice Walker
+33. Beloved by Toni Morrison
+34. Slaughterhouse-Five by Kurt Vonnegut
+35. Cat's Cradle by Kurt Vonnegut
+36. The Sirens of Titan by Kurt Vonnegut
+37. The Divine Comedy by Dante Alighieri
+38. The Canterbury Tales by Geoffrey Chaucer
+39. Beowulf by Unknown
+40. The Odyssey by Homer
+41. The Aeneid by Virgil
+42. The Inferno by Dante Alighieri
+43. The Republic by Plato
+44. The Prince by Niccolò Machiavelli
+45. The Art of War by Sun Tzu
+46. The Tao Te Ching by Lao Tzu
+47. The Analects by Confucius
+48. The Book of Five Rings by Miyamoto Musashi
+49. The Bhagavad Gita by Unknown
+50. The Wise Man's Fear by Patrick Rothfuss

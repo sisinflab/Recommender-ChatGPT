@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter
+2. The Hobbit
+3. The Great Gatsby
+4. Lord of the Flies
+5. The Name of the Wind
+6. Nineteen Eighty-Four
+7. Let the Right One In (novel)
+8. The Shining (novel)
+9. The Handmaid's Tale
+10. Room (novel)
+11. Alice's Adventures in Wonderland
+12. Through the Looking-Glass
+13. Macbeth
+14. Romeo and Juliet
+15. The Outsiders (novel)
+16. Ender's Game
+17. The Hitchhiker's Guide to the Galaxy (novel)
+18. Don Quixote
+19. The Phantom Tollbooth
+20. Brave New World
+21. Pride and Prejudice
+22. Never Let Me Go (novel)
+23. Good Omens
+24. The City of Ember
+25. The Old Man and the Sea
+26. The Stinky Cheese Man and Other Fairly Stupid Tales
+27. Garfield
+28. Choose Your Own Adventure
+29. Symposium (Plato)
+30. The Perks of Being a Wallflower
+31. Confessions of an Ugly Stepsister
+32. Johnny the Homicidal Maniac
+33. The Pit and the Pendulum
+34. Glass (novel)
+35. John Dies at the End
+36. Old Man's War
+37. Neuromancer
+38. The Stainless Steel Rat
+39. The Call of Cthulhu and Other Weird Stories
+40. Collected Ghost Stories
+41. Necronomicon: The Best Weird Tales of H. P. Lovecraft: Commemorative Edition
+42. Crank (novel)
+43. Batman: The Killing Joke
+44. The Art of Deception
+45. Animal Farm
+46. Fahrenheit 451
+47. The Watchmen (novel)
+48. Twilight (series)
+49. Batman: Year One
+50. Looking for Alaska

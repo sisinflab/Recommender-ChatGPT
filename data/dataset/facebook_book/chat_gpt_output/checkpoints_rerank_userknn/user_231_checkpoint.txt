@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Nineteen Eighty-Four by George Orwell
+2. The Handmaid's Tale by Margaret Atwood
+3. Fahrenheit 451 by Ray Bradbury
+4. The Giver by Lois Lowry
+5. A Wrinkle in Time by Madeleine L'Engle
+6. Ender's Game by Orson Scott Card
+7. The Hunger Games by Suzanne Collins
+8. Mockingjay by Suzanne Collins
+9. Uglies by Scott Westerfeld
+10. Pretties by Scott Westerfeld
+11. Specials by Scott Westerfeld
+12. The Historian by Elizabeth Kostova
+13. The Watchmen by Alan Moore
+14. The Girl with the Dragon Tattoo by Stieg Larsson
+15. The Girl Who Played with Fire by Stieg Larsson
+16. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+17. Dracula by Bram Stoker
+18. Anne of Green Gables by L.M. Montgomery
+19. Night by Elie Wiesel
+20. Hiroshima by John Hersey
+21. The Hatchet by Gary Paulsen
+22. The Hamlet by William Faulkner
+23. The Catcher in the Rye by J.D. Salinger
+24. Lullaby by Chuck Palahniuk
+25. American Psycho by Bret Easton Ellis
+26. The Outsiders by S.E. Hinton
+27. Choke by Chuck Palahniuk
+28. Glass by Ellen Hopkins
+29. Pygmy by Chuck Palahniuk
+30. Chelsea Chelsea Bang Bang by Chelsea Handler
+31. The Messenger by Markus Zusak
+32. Tricks by Ellen Hopkins
+33. Tamar by Mal Peet
+34. The Zombie Survival Guide by Max Brooks
+35. Go Ask Alice by Anonymous
+36. So Yesterday by Scott Westerfeld
+37. Last Words by George Carlin
+38. Sex, Drugs, and Cocoa Puffs by Chuck Klosterman
+39. Hard Times by Charles Dickens
+40. Encyclopedia by DK Publishing
+41. Dry by Augusten Burroughs
+42. Franny and Zooey by J.D. Salinger
+43. Halo: The Flood by William C. Dietz
+44. The Twilight Saga by Stephenie Meyer
+45. Impulse Economy by Gary Schwartz
+46. Lies My Teacher Told Me by James W. Loewen
+47. Ella Enchanted by Gail Carson Levine
+48. Brave New World by Aldous Huxley
+49. His Dark Materials by Philip Pullman
+50. Tithe by Holly Black

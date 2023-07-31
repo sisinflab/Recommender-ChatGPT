@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. The Lord of the Rings by J.R.R. Tolkien
+5. The Hobbit by J.R.R. Tolkien
+6. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+7. The Chronicles of Narnia by C.S. Lewis
+8. The Hunger Games by Suzanne Collins
+9. The Da Vinci Code by Dan Brown
+10. The Girl with the Dragon Tattoo by Stieg Larsson
+11. The Girl on the Train by Paula Hawkins
+12. The Help by Kathryn Stockett
+13. The Kite Runner by Khaled Hosseini
+14. The Lovely Bones by Alice Sebold
+15. The Maze Runner by James Dashner
+16. The Name of the Wind by Patrick Rothfuss
+17. The Picture of Dorian Gray by Oscar Wilde
+18. The Road by Cormac McCarthy
+19. The Secret Life of Bees by Sue Monk Kidd
+20. The Shining by Stephen King
+21. The Stand by Stephen King
+22. The Time Traveler's Wife by Audrey Niffenegger
+23. The War of the Worlds by H.G. Wells
+24. The Wind in the Willows by Kenneth Grahame
+25. The Wonderful Wizard of Oz by L. Frank Baum
+26. A Clockwork Orange by Anthony Burgess
+27. A Tale of Two Cities by Charles Dickens
+28. Animal Farm by George Orwell
+29. Brave New World by Aldous Huxley
+30. Catch-22 by Joseph Heller
+31. Dracula by Bram Stoker
+32. Fahrenheit 451 by Ray Bradbury
+33. Frankenstein by Mary Shelley
+34. Gone with the Wind by Margaret Mitchell
+35. Heart of Darkness by Joseph Conrad
+36. Jane Eyre by Charlotte Bronte
+37. Les Miserables by Victor Hugo
+38. Little Women by Louisa May Alcott
+39. Moby-Dick by Herman Melville
+40. Pride and Prejudice by Jane Austen
+41. Sense and Sensibility by Jane Austen
+42. The Adventures of Huckleberry Finn by Mark Twain
+43. The Adventures of Tom Sawyer by Mark Twain
+44. The Count of Monte Cristo by Alexandre Dumas
+45. The Hound of the Baskervilles by Arthur Conan Doyle
+46. The Picture of Dorian Gray by Oscar Wilde
+47. The Three Musketeers by Alexandre Dumas
+48. The Time Machine by H.G. Wells
+49. Treasure Island by Robert Louis Stevenson
+50. Wuthering Heights by Emily Bronte

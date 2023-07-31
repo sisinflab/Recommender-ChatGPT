@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Black Sabbath
+2. AC/DC
+3. Rush
+4. Iron Maiden
+5. Van Halen
+6. Aerosmith
+7. ZZ Top
+8. Lynyrd Skynyrd
+9. Guns N' Roses
+10. The Allman Brothers Band
+11. Stevie Ray Vaughan
+12. The Kinks
+13. The Clash
+14. The Ramones
+15. The Sex Pistols
+16. The Stooges
+17. MC5
+18. The New York Dolls
+19. The Velvet Underground & Nico
+20. The Modern Lovers
+21. Television
+22. Talking Heads
+23. Joy Division
+24. The Cure
+25. Siouxsie and the Banshees
+26. Bauhaus
+27. The Sisters of Mercy
+28. The Mission
+29. Fields of the Nephilim
+30. The Cult
+31. The Smiths
+32. The Stone Roses
+33. The Jesus and Mary Chain
+34. My Bloody Valentine
+35. Sonic Youth
+36. Dinosaur Jr.
+37. Nirvana
+38. Pearl Jam
+39. Soundgarden
+40. Alice in Chains
+41. Stone Temple Pilots
+42. Tool
+43. Nine Inch Nails
+44. Marilyn Manson
+45. Slipknot
+46. System of a Down
+47. Mastodon
+48. Opeth
+49. Gojira
+50. Ghost

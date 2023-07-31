@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Maze Runner by James Dashner
+4. The Fault in Our Stars by John Green
+5. The Book Thief by Markus Zusak
+6. The Giver by Lois Lowry
+7. The Chronicles of Narnia by C.S. Lewis
+8. The Lord of the Rings by J.R.R. Tolkien
+9. The Hobbit by J.R.R. Tolkien
+10. The Da Vinci Code by Dan Brown
+11. Angels and Demons by Dan Brown
+12. Inferno by Dan Brown
+13. The Girl with the Dragon Tattoo by Stieg Larsson
+14. The Girl Who Played with Fire by Stieg Larsson
+15. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+16. The Help by Kathryn Stockett
+17. The Secret Life of Bees by Sue Monk Kidd
+18. The Lovely Bones by Alice Sebold
+19. The Time Traveler's Wife by Audrey Niffenegger
+20. The Notebook by Nicholas Sparks
+21. A Walk to Remember by Nicholas Sparks
+22. The Last Song by Nicholas Sparks
+23. The Lucky One by Nicholas Sparks
+24. Safe Haven by Nicholas Sparks
+25. The Best of Me by Nicholas Sparks
+26. The Longest Ride by Nicholas Sparks
+27. The Choice by Nicholas Sparks
+28. The Shack by William P. Young
+29. The Alchemist by Paulo Coelho
+30. The Catcher in the Rye by J.D. Salinger
+31. To Kill a Mockingbird by Harper Lee
+32. The Great Gatsby by F. Scott Fitzgerald
+33. 1984 by George Orwell
+34. Animal Farm by George Orwell
+35. The Catcher in the Rye by J.D. Salinger
+36. The Picture of Dorian Gray by Oscar Wilde
+37. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+38. The Hound of the Baskervilles by Arthur Conan Doyle
+39. The Count of Monte Cristo by Alexandre Dumas
+40. Les Misérables by Victor Hugo
+41. The Three Musketeers by Alexandre Dumas
+42. The War of the Worlds by H.G. Wells
+43. The Invisible Man by H.G. Wells
+44. The Island of Dr. Moreau by H.G. Wells
+45. The Time Machine by H.G. Wells
+46. The Adventures of Tom Sawyer by Mark Twain
+47. The Adventures of Huckleberry Finn by Mark Twain
+48. The Picture of Dorian Gray by Oscar Wilde
+49. The Importance of Being Earnest by Oscar Wilde
+50. The Canterbury Tales by Geoffrey Chaucer

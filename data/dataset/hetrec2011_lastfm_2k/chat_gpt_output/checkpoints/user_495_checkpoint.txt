@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Rihanna
+2. Lady Gaga
+3. Ariana Grande
+4. Justin Timberlake
+5. Madonna
+6. Mariah Carey
+7. Selena Gomez
+8. Demi Lovato
+9. Bruno Mars
+10. Ed Sheeran
+11. Adele
+12. One Direction
+13. Backstreet Boys
+14. *NSYNC
+15. Spice Girls
+16. Destiny's Child
+17. TLC
+18. Janet Jackson
+19. Whitney Houston
+20. Michael Jackson
+21. Prince
+22. David Bowie
+23. Queen
+24. Coldplay
+25. U2
+26. The Beatles
+27. Elvis Presley
+28. Bob Dylan
+29. Bob Marley
+30. Stevie Wonder
+31. Earth, Wind & Fire
+32. The Temptations
+33. The Supremes
+34. Marvin Gaye
+35. Aretha Franklin
+36. Otis Redding
+37. James Brown
+38. Ray Charles
+39. Nina Simone
+40. Billie Holiday
+41. Ella Fitzgerald
+42. Frank Sinatra
+43. Dean Martin
+44. Nat King Cole
+45. Louis Armstrong
+46. Miles Davis
+47. John Coltrane
+48. Charlie Parker
+49. Thelonious Monk
+50. Duke Ellington

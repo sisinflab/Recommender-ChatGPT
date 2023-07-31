@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for user 1670 would be:
+
+1. Three Days Grace
+2. Shinedown
+3. Seether
+4. Chevelle
+5. Alter Bridge
+6. Hinder
+7. Theory of a Deadman
+8. Nickelback
+9. Daughtry
+10. Papa Roach
+11. Sick Puppies
+12. Adema
+13. Puddle of Mudd
+14. Saliva
+15. Cold
+16. Chris Cornell
+17. Hoobastank
+18. 3 Doors Down
+19. Linkin Park
+20. Muse
+21. Evanescence
+22. The Killers
+23. Radiohead
+24. U2
+25. Pink Floyd
+26. Nirvana
+27. Metallica
+28. Led Zeppelin
+29. Iron Maiden
+30. Pearl Jam
+31. Nine Inch Nails
+32. System of a Down
+33. Arctic Monkeys
+34. Placebo
+35. Blur
+36. Green Day
+37. My Chemical Romance
+38. Avenged Sevenfold
+39. Black Eyed Peas
+40. Michael Jackson
+41. Madonna
+42. Lady Gaga
+43. Beyoncé
+44. Christina Aguilera
+45. Rihanna
+46. Katy Perry
+47. Taylor Swift
+48. Ke$ha
+49. Britney Spears
+50. Glee Cast

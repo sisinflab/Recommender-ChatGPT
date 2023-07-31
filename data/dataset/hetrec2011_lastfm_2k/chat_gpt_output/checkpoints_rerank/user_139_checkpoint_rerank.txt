@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Avenged Sevenfold
+2. Paramore
+3. Nightwish
+4. Bullet for My Valentine
+5. Slipknot
+6. Limp Bizkit
+7. Escape The Fate
+8. Good Charlotte
+9. Coma
+10. Arch Enemy
+11. Eminem
+12. Marilyn Manson
+13. Static-X
+14. Anti-Flag
+15. Sum 41
+16. Dead by April
+17. Evanescence
+18. Tool
+19. Dope
+20. Deathstars
+21. The Rasmus
+22. Linkin Park
+23. Skillet
+24. Within Temptation
+25. The Pretty Reckless
+26. Epica
+27. Avril Lavigne
+28. Lostprophets
+29. The Birthday Massacre
+30. Hurts
+31. Metallica
+32. Muse
+33. Iron Maiden
+34. Nirvana
+35. Pearl Jam
+36. System of a Down
+37. Nine Inch Nails
+38. Black Sabbath
+39. AC/DC
+40. Guns N' Roses
+41. Ozzy Osbourne
+42. Led Zeppelin
+43. Pink Floyd
+44. Queen
+45. The Beatles
+46. U2
+47. Coldplay
+48. Radiohead
+49. Arctic Monkeys
+50. The Killers

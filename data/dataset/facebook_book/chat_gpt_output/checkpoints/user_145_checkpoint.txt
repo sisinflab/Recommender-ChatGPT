@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. The Hobbit by J.R.R. Tolkien
+3. The Chronicles of Narnia by C.S. Lewis
+4. The Hunger Games by Suzanne Collins
+5. Divergent by Veronica Roth
+6. The Maze Runner by James Dashner
+7. Ender's Game by Orson Scott Card
+8. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+9. The Girl with the Dragon Tattoo by Stieg Larsson
+10. The Girl on the Train by Paula Hawkins
+11. The Shining by Stephen King
+12. It by Stephen King
+13. 1984 by George Orwell
+14. Animal Farm by George Orwell
+15. Brave New World by Aldous Huxley
+16. Fahrenheit 451 by Ray Bradbury
+17. To Kill a Mockingbird by Harper Lee
+18. The Catcher in the Rye by J.D. Salinger
+19. The Great Gatsby by F. Scott Fitzgerald
+20. Pride and Prejudice by Jane Austen
+21. Sense and Sensibility by Jane Austen
+22. Emma by Jane Austen
+23. Persuasion by Jane Austen
+24. Northanger Abbey by Jane Austen
+25. Wuthering Heights by Emily Bronte
+26. Jane Eyre by Charlotte Bronte
+27. Rebecca by Daphne du Maurier
+28. Gone with the Wind by Margaret Mitchell
+29. The Time Traveler's Wife by Audrey Niffenegger
+30. The Book Thief by Markus Zusak
+31. The Fault in Our Stars by John Green
+32. Looking for Alaska by John Green
+33. Paper Towns by John Green
+34. The Perks of Being a Wallflower by Stephen Chbosky
+35. The Alchemist by Paulo Coelho
+36. The Name of the Wind by Patrick Rothfuss
+37. The Wise Man's Fear by Patrick Rothfuss
+38. The Night Circus by Erin Morgenstern
+39. The Magicians by Lev Grossman
+40. American Gods by Neil Gaiman
+41. Neverwhere by Neil Gaiman
+42. Stardust by Neil Gaiman
+43. The Ocean at the End of the Lane by Neil Gaiman
+44. The Graveyard Book by Neil Gaiman
+45. The Handmaid's Tale by Margaret Atwood
+46. Alias Grace by Margaret Atwood
+47. The Testaments by Margaret Atwood
+48. The Power by Naomi Alderman
+49. The Hunger by Alma Katsu
+50. The Institute by Stephen King

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Pink Floyd
+2. Radiohead
+3. The Doors
+4. Jimi Hendrix
+5. Black Sabbath
+6. Deep Purple
+7. Rush
+8. Metallica
+9. The Clash
+10. Aerosmith
+11. The Kinks
+12. The Smiths
+13. Oasis
+14. The Cure
+15. Red Hot Chili Peppers
+16. Green Day
+17. System of a Down
+18. Slayer
+19. Alice in Chains
+20. Soundgarden
+21. Stone Temple Pilots
+22. Tool
+23. Nine Inch Nails
+24. Depeche Mode
+25. Joy Division
+26. New Order
+27. The Velvet Underground
+28. Talking Heads
+29. R.E.M.
+30. Pixies
+31. Sonic Youth
+32. The Strokes
+33. Franz Ferdinand
+34. Arctic Monkeys
+35. Vampire Weekend
+36. The Black Keys
+37. The White Stripes
+38. Kings of Leon
+39. Muse
+40. Foo Fighters
+41. Queens of the Stone Age
+42. The Raconteurs
+43. The Killers
+44. Interpol
+45. Arcade Fire
+46. LCD Soundsystem
+47. Tame Impala
+48. Fleet Foxes
+49. Bon Iver
+50. Vampire Weekend

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Great Gatsby by F. Scott Fitzgerald
+2. Slaughterhouse-Five by Kurt Vonnegut
+3. Dune by Frank Herbert
+4. The Mists of Avalon by Marion Zimmer Bradley
+5. Brave New World by Aldous Huxley
+6. Inferno by Dante Alighieri
+7. The Hunger Games by Suzanne Collins
+8. Memoirs of a Geisha by Arthur Golden
+9. The Hobbit by J.R.R. Tolkien
+10. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+11. The Catcher in the Rye by J.D. Salinger
+12. The Picture of Dorian Gray by Oscar Wilde
+13. The Fountainhead by Ayn Rand
+14. Adventures of Huckleberry Finn by Mark Twain
+15. Batman: The Killing Joke by Alan Moore
+16. Harry Potter by J.K. Rowling
+17. Les Misérables by Victor Hugo
+18. Ender's Game by Orson Scott Card
+19. Romeo and Juliet by William Shakespeare
+20. The Secret Garden by Frances Hodgson Burnett
+21. A Wrinkle in Time by Madeleine L'Engle
+22. Thirteen Reasons Why by Jay Asher
+23. The Adventures of Tom Sawyer by Mark Twain
+24. Fahrenheit 451 by Ray Bradbury
+25. The Bell Jar by Sylvia Plath
+26. Girl, Interrupted by Susanna Kaysen
+27. The Giver by Lois Lowry
+28. Speak by Laurie Halse Anderson
+29. Earthsea by Ursula K. Le Guin
+30. The Secret Life of Bees by Sue Monk Kidd
+31. Rosemary's Baby by Ira Levin
+32. Percy Jackson & the Olympians by Rick Riordan
+33. Lolita by Vladimir Nabokov
+34. The Bible
+35. A People's History of the United States by Howard Zinn
+36. Paradise Lost by John Milton
+37. Carrie by Stephen King
+38. Goodnight Moon by Margaret Wise Brown
+39. Old Farmer's Almanac
+40. Gone with the Wind by Margaret Mitchell
+41. Atlas Shrugged by Ayn Rand
+42. Night by Elie Wiesel
+43. Divine Comedy by Dante Alighieri
+44. Strange Case of Dr Jekyll and Mr Hyde by Robert Louis Stevenson
+45. The Iron Heel by Jack London
+46. Flowers for Algernon by Daniel Keyes
+47. Starship Troopers by Robert A. Heinlein
+48. Tuesdays with Morrie by Mitch Albom
+49. To Kill a Mockingbird by Harper Lee
+50. Frankenstein by Mary Shelley

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Opeth
+2. Insomnium
+3. In Flames
+4. Gojira
+5. Agalloch
+6. Swallow the Sun
+7. Be'lakor
+8. Enslaved
+9. Ne Obliviscaris
+10. Dark Fortress
+11. Septicflesh
+12. Moonsorrow
+13. Omnium Gatherum
+14. Wintersun
+15. Katatonia (similar artist)
+16. Apocalyptica (similar artist)
+17. Amorphis (similar artist)
+18. Dark Tranquillity (similar artist)
+19. Death (similar artist)
+20. Norther (similar artist)
+21. Hypocrisy (similar artist)
+22. Tool (similar artist)
+23. Scar Symmetry (similar artist)
+24. Metallica (similar artist)
+25. Anathema (similar artist)
+26. DevilDriver (similar artist)
+27. System of a Down (similar artist)
+28. Megadeth (similar artist)
+29. Immortal (similar artist)
+30. Amon Amarth (similar artist)
+31. Behemoth (similar artist)
+32. Kreator (similar artist)
+33. Children of Bodom
+34. Soilwork
+35. Arch Enemy
+36. At the Gates
+37. Darkane
+38. Dissection
+39. Emperor
+40. Gorgoroth
+41. Iced Earth
+42. Iron Maiden
+43. Judas Priest
+44. Lamb of God
+45. Mastodon
+46. Meshuggah
+47. Nile
+48. Pantera
+49. Slayer
+50. Testament

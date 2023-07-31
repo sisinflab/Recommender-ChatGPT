@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Goldfrapp
+2. Röyksopp
+3. Sneaker Pimps
+4. IAMX
+5. Hooverphonic
+6. Ladytron
+7. The Knife
+8. Garbage
+9. Simian Mobile Disco
+10. Dragonette
+11. La Roux
+12. Little Boots
+13. Air
+14. Nouvelle Vague
+15. Primal Scream
+16. Blonde Redhead
+17. Le Tigre
+18. Client
+19. Ace of Base
+20. CocoRosie
+21. Madonna
+22. Britney Spears
+23. Lady Gaga
+24. Christina Aguilera
+25. Shakira
+26. Beyoncé
+27. Pink Floyd
+28. Muse
+29. Radiohead
+30. Ke$ha
+31. Duran Duran
+32. Coldplay
+33. Blur
+34. Arctic Monkeys
+35. Placebo
+36. The Killers
+37. Nirvana
+38. Iron Maiden
+39. Led Zeppelin
+40. Metallica
+41. Michael Jackson
+42. Pearl Jam
+43. a-ha
+44. Björk
+45. Nine Inch Nails
+46. Daft Punk
+47. Linkin Park
+48. Kelly Clarkson
+49. Green Day
+50. My Chemical Romance

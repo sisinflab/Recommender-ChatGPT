@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Shining by Stephen King
+2. Watchers by Dean Koontz
+3. The Stand by Stephen King
+4. Intensity by Dean Koontz
+5. The Silence of the Lambs by Thomas Harris
+6. The Girl with the Dragon Tattoo by Stieg Larsson
+7. American Psycho by Bret Easton Ellis
+8. The Da Vinci Code by Dan Brown
+9. The Exorcist by William Peter Blatty
+10. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+11. The Catcher in the Rye by J.D. Salinger
+12. The Lord of the Rings by J.R.R. Tolkien
+13. The Hunger Games by Suzanne Collins
+14. The Road by Cormac McCarthy
+15. The Dark Tower series by Stephen King
+16. The Bourne Identity by Robert Ludlum
+17. The Andromeda Strain by Michael Crichton
+18. The Martian by Andy Weir
+19. The Girl on the Train by Paula Hawkins
+20. The Silence of the Sea by Yrsa Sigurdardottir
+21. The Name of the Rose by Umberto Eco
+22. The Talisman by Stephen King and Peter Straub
+23. The Gunslinger by Stephen King
+24. The Outsider by Stephen King
+25. The Dead Zone by Stephen King
+26. The Long Walk by Stephen King
+27. The Running Man by Stephen King
+28. The Regulators by Stephen King
+29. The Tommyknockers by Stephen King
+30. The Dark Half by Stephen King
+31. The Eyes of the Dragon by Stephen King
+32. The Green Mile by Stephen King
+33. The Stand: The Complete and Uncut Edition by Stephen King
+34. The Mist by Stephen King
+35. The Dead Zone by Stephen King
+36. The Talisman by Stephen King and Peter Straub
+37. The Gunslinger by Stephen King
+38. The Outsider by Stephen King
+39. The Dead Zone by Stephen King
+40. The Long Walk by Stephen King
+41. The Running Man by Stephen King
+42. The Regulators by Stephen King
+43. The Tommyknockers by Stephen King
+44. The Dark Half by Stephen King
+45. The Eyes of the Dragon by Stephen King
+46. The Green Mile by Stephen King
+47. The Stand: The Complete and Uncut Edition by Stephen King
+48. The Mist by Stephen King
+49. The Dead Zone by Stephen King
+50. The Talisman by Stephen King and Peter Straub

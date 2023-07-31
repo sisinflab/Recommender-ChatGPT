@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. One Hundred Years of Solitude by Gabriel Garcia Marquez
+2. The Catcher in the Rye by J.D. Salinger
+3. 1984 by George Orwell
+4. Slaughterhouse-Five by Kurt Vonnegut
+5. The Bell Jar by Sylvia Plath
+6. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+7. The Picture of Dorian Gray by Oscar Wilde
+8. The Stranger by Albert Camus
+9. The Road by Cormac McCarthy
+10. The Handmaid's Tale by Margaret Atwood
+11. The Sun Also Rises by Ernest Hemingway
+12. The Grapes of Wrath by John Steinbeck
+13. The Old Man and the Sea by Ernest Hemingway
+14. The Sound and the Fury by William Faulkner
+15. The Brothers Karamazov by Fyodor Dostoevsky
+16. Crime and Punishment by Fyodor Dostoevsky
+17. The Trial by Franz Kafka
+18. The Metamorphosis by Franz Kafka
+19. The Great Train Robbery by Michael Crichton
+20. The Andromeda Strain by Michael Crichton
+21. The Martian by Andy Weir
+22. The Hunger Games by Suzanne Collins
+23. The Girl with the Dragon Tattoo by Stieg Larsson
+24. The Da Vinci Code by Dan Brown
+25. The Name of the Rose by Umberto Eco
+26. The Shadow of the Wind by Carlos Ruiz Zafon
+27. The Kite Runner by Khaled Hosseini
+28. A Thousand Splendid Suns by Khaled Hosseini
+29. The God of Small Things by Arundhati Roy
+30. The Joy Luck Club by Amy Tan
+31. The Color Purple by Alice Walker
+32. The Help by Kathryn Stockett
+33. The Secret Life of Bees by Sue Monk Kidd
+34. The Poisonwood Bible by Barbara Kingsolver
+35. The Time Traveler's Wife by Audrey Niffenegger
+36. The Alchemist by Paulo Coelho
+37. The Picture of Dorian Gray by Oscar Wilde
+38. The Importance of Being Earnest by Oscar Wilde
+39. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+40. The Hound of the Baskervilles by Arthur Conan Doyle
+41. The Lord of the Rings by J.R.R. Tolkien
+42. The Hobbit by J.R.R. Tolkien
+43. The Chronicles of Narnia by C.S. Lewis
+44. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+45. The War of the Worlds by H.G. Wells
+46. The Time Machine by H.G. Wells
+47. The Invisible Man by H.G. Wells
+48. The

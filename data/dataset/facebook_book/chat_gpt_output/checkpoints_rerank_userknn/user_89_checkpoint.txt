@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter by J.K. Rowling
+2. The Kite Runner by Khaled Hosseini
+3. The Great Gatsby by F. Scott Fitzgerald
+4. To Kill a Mockingbird by Harper Lee
+5. The Lord of the Rings by J.R.R. Tolkien
+6. Dracula by Bram Stoker
+7. The Iliad by Homer
+8. The War of the Worlds by H.G. Wells
+9. The Zombie Survival Guide by Max Brooks
+10. The Secret by Rhonda Byrne
+11. The Tao of Pooh by Benjamin Hoff
+12. The Little Prince by Antoine de Saint-Exupéry
+13. The Anarchist Cookbook by William Powell
+14. The Watchman by Robert Crais
+15. The Tommyknockers by Stephen King
+16. The Prodigal Daughter by Jeffrey Archer
+17. The Shack by William P. Young
+18. The Hollow Kingdom Trilogy by Clare B. Dunkle
+19. The Civil War: A Narrative by Shelby Foote
+20. The Last Hero by Terry Pratchett
+21. The Heroin Diaries: A Year in the Life of a Shattered Rock Star by Nikki Sixx
+22. The Picture of Dorian Gray by Oscar Wilde
+23. The Taking by Dean Koontz
+24. The Dark Tower: The Gunslinger by Stephen King
+25. The 19th Wife by David Ebershoff
+26. Beautiful Creatures by Kami Garcia and Margaret Stohl
+27. Pride and Prejudice and Zombies by Seth Grahame-Smith
+28. Pet Sematary by Stephen King
+29. Carrie by Stephen King
+30. Needful Things by Stephen King
+31. Misery by Stephen King
+32. It by Stephen King
+33. Lullaby by Chuck Palahniuk
+34. Mort by Terry Pratchett
+35. Castaways of the Flying Dutchman by Brian Jacques
+36. Night Watch by Sergei Lukyanenko
+37. Blindness by José Saramago
+38. Ways to Live Forever by Sally Nicholls
+39. Persepolis by Marjane Satrapi
+40. Choke by Chuck Palahniuk
+41. Small Gods by Terry Pratchett
+42. Macbeth by William Shakespeare
+43. Speak by Laurie Halse Anderson
+44. Anne of Green Gables by L.M. Montgomery
+45. Ragtime by E.L. Doctorow
+46. A Series of Unfortunate Events by Lemony Snicket
+47. Venus in Furs by Leopold von Sacher-Masoch
+48. Fight Club by Chuck Palahniuk
+49. Intensity by Dean Koontz
+50. Guards! Guards! by Terry Pratchett

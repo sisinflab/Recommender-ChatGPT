@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Green Day
+2. Foo Fighters
+3. My Chemical Romance
+4. The Offspring
+5. Sum 41
+6. Weezer
+7. The Strokes
+8. The White Stripes
+9. The Killers
+10. Muse
+11. Radiohead
+12. Coldplay
+13. Oasis
+14. The Black Keys
+15. Arctic Monkeys
+16. Vampire Weekend
+17. The 1975
+18. Panic! At The Disco
+19. Twenty One Pilots
+20. Imagine Dragons
+21. Florence + The Machine
+22. Hozier
+23. Lana Del Rey
+24. Lorde
+25. Billie Eilish
+26. Taylor Swift
+27. Ariana Grande
+28. Demi Lovato
+29. Selena Gomez
+30. Shawn Mendes
+31. Ed Sheeran
+32. Justin Timberlake
+33. Beyoncé
+34. Rihanna
+35. Lady Gaga
+36. Katy Perry
+37. Britney Spears
+38. Christina Aguilera
+39. Pink
+40. Kelly Clarkson
+41. Avril Lavigne
+42. Paramore
+43. The Pretty Reckless
+44. blink-182
+45. Ramones
+46. MGMT
+47. Red Hot Chili Peppers
+48. The Kooks
+49. Pixies
+50. Nirvana

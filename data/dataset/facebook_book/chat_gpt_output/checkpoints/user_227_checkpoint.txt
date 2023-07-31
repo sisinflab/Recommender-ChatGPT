@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Wicked Lovely by Melissa Marr
+2. Ironside: A Modern Faery's Tale by Holly Black
+3. Blue Bloods by Melissa de la Cruz
+4. Evernight by Claudia Gray
+5. Hush, Hush by Becca Fitzpatrick
+6. The Mortal Instruments series by Cassandra Clare
+7. The Vampire Diaries by L.J. Smith
+8. Shiver by Maggie Stiefvater
+9. Beautiful Creatures by Kami Garcia and Margaret Stohl
+10. The Iron Fey series by Julie Kagawa
+11. The Dark Divine by Bree Despain
+12. The Wolves of Mercy Falls series by Maggie Stiefvater
+13. The House of Night series by P.C. Cast and Kristin Cast
+14. The Immortals series by Alyson Noel
+15. The Hunger Games by Suzanne Collins
+16. The Maze Runner by James Dashner
+17. The Giver by Lois Lowry
+18. The Fault in Our Stars by John Green
+19. Divergent by Veronica Roth
+20. Matched by Ally Condie
+21. Delirium by Lauren Oliver
+22. Legend by Marie Lu
+23. The Selection by Kiera Cass
+24. Cinder by Marissa Meyer
+25. Graceling by Kristin Cashore
+26. The Raven Boys by Maggie Stiefvater
+27. The Scorpio Races by Maggie Stiefvater
+28. The Night Circus by Erin Morgenstern
+29. The Name of the Wind by Patrick Rothfuss
+30. The Lies of Locke Lamora by Scott Lynch
+31. The Kingkiller Chronicle series by Patrick Rothfuss
+32. Mistborn by Brandon Sanderson
+33. The Way of Kings by Brandon Sanderson
+34. The Stormlight Archive series by Brandon Sanderson
+35. The First Law trilogy by Joe Abercrombie
+36. The Blade Itself by Joe Abercrombie
+37. The Lies of Locke Lamora by Scott Lynch
+38. The Gentlemen Bastards series by Scott Lynch
+39. The Black Prism by Brent Weeks
+40. The Lightbringer series by Brent Weeks
+41. The Powder Mage trilogy by Brian McClellan
+42. The Shadow Campaigns series by Django Wexler
+43. The Broken Empire trilogy by Mark Lawrence
+44. The Red Queen's War trilogy by Mark Lawrence
+45. The King of Thorns by Mark Lawrence
+46. The Prince of Fools by Mark Lawrence
+47. The Broken Empire series by Mark Lawrence
+48. The Red Rising series by Pierce Brown
+49. The Expanse series by James S.A. Corey
+50. The Martian by Andy Weir

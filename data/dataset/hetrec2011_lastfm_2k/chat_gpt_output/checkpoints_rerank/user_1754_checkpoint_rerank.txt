@@ -1,0 +1,54 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Opeth
+2. Anathema
+3. Tool
+4. Death
+5. Megadeth
+6. Slayer
+7. Sepultura
+8. Mastodon
+9. Dark Tranquillity
+10. Iron Maiden
+11. Metallica
+12. Black Sabbath
+13. Alice in Chains
+14. Rainbow
+15. Frank Zappa
+16. A Perfect Circle
+17. System of a Down
+18. Rage Against the Machine
+19. Jimi Hendrix
+20. Pink Floyd
+21. Michael Jackson
+22. Motörhead
+23. Ben Harper
+24. Hans Zimmer
+25. Dire Straits
+26. Accept
+27. Radiohead
+28. Nirvana
+29. Led Zeppelin
+30. Pearl Jam
+31. The Beatles
+32. U2
+33. Muse
+34. Coldplay
+35. Blur
+36. Arctic Monkeys
+37. Placebo
+38. The Killers
+39. Amy Winehouse
+40. Björk
+41. Daft Punk
+42. Nine Inch Nails
+43. Linkin Park
+44. Avenged Sevenfold
+45. Green Day
+46. The Cure
+47. P!nk
+48. Kelly Clarkson
+49. All Time Low
+50. My Chemical Romance
+
+Note: Pink Floyd, Radiohead, Iron Maiden, and Michael Jackson are already in the user's list of liked artists, so they are included in the recommendations but not re-ranked.

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Brothers Karamazov by Fyodor Dostoevsky
+2. Crime and Punishment by Fyodor Dostoevsky
+3. 1984 by George Orwell
+4. To Kill a Mockingbird by Harper Lee
+5. The Catcher in the Rye by J.D. Salinger
+6. One Hundred Years of Solitude by Gabriel Garcia Marquez
+7. The Great Gatsby by F. Scott Fitzgerald
+8. The Lord of the Rings by J.R.R. Tolkien
+9. The Hobbit by J.R.R. Tolkien
+10. The Chronicles of Narnia by C.S. Lewis
+11. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+12. The Picture of Dorian Gray by Oscar Wilde
+13. The Bell Jar by Sylvia Plath
+14. The Alchemist by Paulo Coelho
+15. The Little Prince by Antoine de Saint-Exupéry
+16. The Road by Cormac McCarthy
+17. The Book Thief by Markus Zusak
+18. The Kite Runner by Khaled Hosseini
+19. The Girl with the Dragon Tattoo by Stieg Larsson
+20. The Hunger Games by Suzanne Collins
+21. The Da Vinci Code by Dan Brown
+22. The Name of the Rose by Umberto Eco
+23. The Shadow of the Wind by Carlos Ruiz Zafón
+24. The God of Small Things by Arundhati Roy
+25. The Handmaid's Tale by Margaret Atwood
+26. The Stand by Stephen King
+27. The Shining by Stephen King
+28. The Silence of the Lambs by Thomas Harris
+29. The Picture of Dorian Gray by Oscar Wilde
+30. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+31. The Hound of the Baskervilles by Arthur Conan Doyle
+32. The Complete Works of William Shakespeare by William Shakespeare
+33. The Divine Comedy by Dante Alighieri
+34. The Canterbury Tales by Geoffrey Chaucer
+35. The Iliad by Homer
+36. The Odyssey by Homer
+37. The Republic by Plato
+38. The Prince by Niccolò Machiavelli
+39. The Art of War by Sun Tzu
+40. The Tao Te Ching by Lao Tzu
+41. The Analects by Confucius
+42. The Bhagavad Gita by Vyasa
+43. The Upanishads by Anonymous
+44. The Bible by Various Authors
+45. The Quran by Various Authors
+46. The Book of Mormon by Joseph Smith Jr.
+47. The Tao of Physics by Fritjof Capra
+48. The Structure of Scientific Revolutions by Thomas S. Kuhn
+49. The Selfish Gene by Richard Dawkins
+50. The Origin of

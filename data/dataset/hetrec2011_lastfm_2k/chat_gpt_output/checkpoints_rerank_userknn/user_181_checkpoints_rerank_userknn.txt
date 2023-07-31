@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Beatles
+2. The Doors
+3. The Clash
+4. Ramones
+5. Bob Marley & The Wailers
+6. Rammstein
+7. Muse
+8. Guano Apes
+9. Paramore
+10. The Offspring
+11. Dolphin
+12. Сплин
+13. Nautilus Pompilius
+14. System of a Down
+15. Queen
+16. The Red Jumpsuit Apparatus
+17. Kings of Leon
+18. Arctic Monkeys
+19. Oasis
+20. The Strokes
+21. Franz Ferdinand
+22. Arcade Fire
+23. MGMT
+24. Bloc Party
+25. Death Cab for Cutie
+26. Phoenix
+27. The Wombats
+28. Simple Plan
+29. Keane
+30. Red Hot Chili Peppers
+31. Linkin Park
+32. Audioslave
+33. Florence + the Machine
+34. Tokyo Police Club
+35. Noize MC
+36. IAMX
+37. Placebo
+38. Yeah Yeah Yeahs
+39. Garbage
+40. Marilyn Manson
+41. Depeche Mode
+42. Scorpions
+43. 30 Seconds to Mars
+44. Celldweller
+45. Assemblage 23
+46. HIM
+47. Skillet
+48. Christina Aguilera
+49. Britney Spears
+50. Beyoncé

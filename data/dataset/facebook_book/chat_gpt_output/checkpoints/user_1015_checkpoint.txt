@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Da Vinci Code by Dan Brown
+2. Inferno by Dan Brown
+3. Origin by Dan Brown
+4. The Lost Symbol by Dan Brown
+5. A Short History of Nearly Everything by Bill Bryson
+6. Notes from a Small Island by Bill Bryson
+7. A Walk in the Woods by Bill Bryson
+8. And the Mountains Echoed by Khaled Hosseini
+9. A Thousand Splendid Suns by Khaled Hosseini
+10. The Reluctant Fundamentalist by Mohsin Hamid
+11. The White Tiger by Aravind Adiga
+12. Life of Pi by Yann Martel
+13. The Alchemist by Paulo Coelho
+14. The Catcher in the Rye by J.D. Salinger
+15. To Kill a Mockingbird by Harper Lee
+16. 1984 by George Orwell
+17. Animal Farm by George Orwell
+18. Brave New World by Aldous Huxley
+19. Fahrenheit 451 by Ray Bradbury
+20. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+21. The Lord of the Rings by J.R.R. Tolkien
+22. The Hobbit by J.R.R. Tolkien
+23. Harry Potter and the Philosopher's Stone by J.K. Rowling
+24. Harry Potter and the Chamber of Secrets by J.K. Rowling
+25. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+26. Harry Potter and the Goblet of Fire by J.K. Rowling
+27. Harry Potter and the Order of Phoenix by J.K. Rowling
+28. Harry Potter and the Half-Blood Prince by J.K. Rowling
+29. Harry Potter and the Deathly Hallows by J.K. Rowling
+30. The Hunger Games by Suzanne Collins
+31. Catching Fire by Suzanne Collins
+32. Mockingjay by Suzanne Collins
+33. Divergent by Veronica Roth
+34. Insurgent by Veronica Roth
+35. Allegiant by Veronica Roth
+36. The Fault in Our Stars by John Green
+37. Looking for Alaska by John Green
+38. Paper Towns by John Green
+39. The Girl with the Dragon Tattoo by Stieg Larsson
+40. The Girl Who Played with Fire by Stieg Larsson
+41. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+42. The Martian by Andy Weir
+43. Ready Player One by Ernest Cline
+44. The Name of the Wind by Patrick Rothfuss
+45. The Wise Man's Fear by Patrick Rothfuss
+46. American Gods by Neil Gaiman
+47. Neverwhere by Neil Gaiman
+48. Good Omens by Neil Gaiman and Terry Pratchett
+49. The Handmaid's Tale by Margaret At
+50. The Wise Man's Fear by Patrick Rothfuss

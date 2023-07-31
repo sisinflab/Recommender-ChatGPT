@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Da Vinci Code by Dan Brown
+2. Harry Potter series by J.K. Rowling
+3. Nineteen Eighty-Four by George Orwell
+4. Dracula by Bram Stoker
+5. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+6. A Thousand Splendid Suns by Khaled Hosseini
+7. The Count of Monte Cristo by Alexandre Dumas
+8. Inkheart by Cornelia Funke
+9. Ender's Game by Orson Scott Card
+10. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+11. Romeo and Juliet by William Shakespeare
+12. The Picture of Dorian Gray by Oscar Wilde
+13. Jane Eyre by Charlotte Bronte
+14. The Scarlet Pimpernel by Baroness Orczy
+15. The Host by Stephenie Meyer
+16. A Midsummer Night's Dream by William Shakespeare
+17. The Phantom Tollbooth by Norton Juster
+18. The Truth About Forever by Sarah Dessen
+19. Catch-22 by Joseph Heller
+20. The Notebook by Nicholas Sparks
+21. PS, I Love You by Cecelia Ahern
+22. The Boleyn Inheritance by Philippa Gregory
+23. The Other Boleyn Girl by Philippa Gregory
+24. Wild at Heart by John Eldredge
+25. Garfield by Jim Davis
+26. Mere Christianity by C.S. Lewis
+27. The Last Battle by C.S. Lewis
+28. The Wind in the Willows by Kenneth Grahame
+29. The Messenger by Markus Zusak
+30. Eragon by Christopher Paolini
+31. Eldest by Christopher Paolini
+32. Inkspell by Cornelia Funke
+33. Inkdeath by Cornelia Funke
+34. The Kane Chronicles by Rick Riordan
+35. Brisingr by Christopher Paolini
+36. Malazan Book of the Fallen by Steven Erikson
+37. The Scarlet Thread by Francine Rivers
+38. Sense and Sensibility by Jane Austen
+39. Lisey's Story by Stephen King
+40. Memoirs of a Geisha by Arthur Golden
+41. The Confession by John Grisham
+42. Pride and Prejudice by Jane Austen
+43. The Scarlet Letter by Nathaniel Hawthorne
+44. Double Fudge by Judy Blume
+45. The Last Storytellers: Tales from the Heart of Morocco by Richard Hamilton
+46. Nightfall by Isaac Asimov
+47. Twilight by Stephenie Meyer
+48. The Man Who Was Thursday by G.K. Chesterton
+49. Angels & Demons by Dan Brown
+50. Digital Fortress by Dan Brown

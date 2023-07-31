@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Dracula
+2. The Hobbit
+3. The Lord of the Rings
+4. 'Salem's Lot
+5. The Stand
+6. Bag of Bones
+7. The Dark Tower: The Gunslinger
+8. Paradise Lost
+9. The Picture of Dorian Gray
+10. Brave New World
+11. Pride and Prejudice
+12. Sense and Sensibility
+13. Alice's Adventures in Wonderland
+14. The Once and Future King
+15. A Midsummer Night's Dream
+16. Romeo and Juliet
+17. The Grapes of Wrath
+18. Of Mice and Men
+19. The Catcher in the Rye
+20. Beauty: A Retelling of the Story of Beauty and the Beast
+21. Inkheart
+22. A Wrinkle in Time
+23. Lullaby (Palahniuk novel)
+24. Haunted (Palahniuk novel)
+25. The Long Hard Road Out of Hell
+26. The Watchmen (novel)
+27. No Country for Old Men
+28. The Black Dahlia (novel)
+29. Lilith (novel)
+30. She Walks in Beauty
+31. To Kill a Mockingbird
+32. Duma Key
+33. Go Ask Alice
+34. His Majesty's Dragon
+35. Metaphysics of War
+36. The Civil War: A Narrative
+37. Tunnels (novel)
+38. A Light in the Attic
+39. Iliad
+40. Animorphs
+41. Percy Jackson & the Olympians
+42. Interview with the Vampire
+43. Twilight (series)
+44. Book of Shadows
+45. The Hitchhiker's Guide to the Galaxy (novel)
+46. Stranger in a Strange Land
+47. Swan Song (novel)
+48. Around the World in Eighty Days
+49. A Walk in the Woods
+50. Hulk (comics)

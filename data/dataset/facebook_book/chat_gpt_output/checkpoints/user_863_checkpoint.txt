@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. To Kill a Mockingbird by Harper Lee
+3. 1984 by George Orwell
+4. Animal Farm by George Orwell
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Lord of the Flies by William Golding
+7. Brave New World by Aldous Huxley
+8. The Bell Jar by Sylvia Plath
+9. One Hundred Years of Solitude by Gabriel Garcia Marquez
+10. The Picture of Dorian Gray by Oscar Wilde
+11. The Hobbit by J.R.R. Tolkien
+12. The Lord of the Rings by J.R.R. Tolkien
+13. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+14. The Hunger Games by Suzanne Collins
+15. Catching Fire by Suzanne Collins
+16. Mockingjay by Suzanne Collins
+17. Divergent by Veronica Roth
+18. Insurgent by Veronica Roth
+19. Allegiant by Veronica Roth
+20. The Maze Runner by James Dashner
+21. The Scorch Trials by James Dashner
+22. The Death Cure by James Dashner
+23. The Fault in Our Stars by John Green
+24. Looking for Alaska by John Green
+25. Paper Towns by John Green
+26. The Book Thief by Markus Zusak
+27. The Giver by Lois Lowry
+28. Gathering Blue by Lois Lowry
+29. Messenger by Lois Lowry
+30. Son by Lois Lowry
+31. The Outsiders by S.E. Hinton
+32. The Perks of Being a Wallflower by Stephen Chbosky
+33. The Girl with the Dragon Tattoo by Stieg Larsson
+34. The Girl Who Played with Fire by Stieg Larsson
+35. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+36. The Da Vinci Code by Dan Brown
+37. Angels and Demons by Dan Brown
+38. Inferno by Dan Brown
+39. The Shining by Stephen King
+40. Carrie by Stephen King
+41. Misery by Stephen King
+42. The Stand by Stephen King
+43. The Dark Tower I: The Gunslinger by Stephen King
+44. The Dark Tower II: The Drawing of the Three by Stephen King
+45. The Dark Tower III: The Waste Lands by Stephen King
+46. The Dark Tower IV: Wizard and Glass by Stephen King
+47. The Dark Tower V: Wolves of the Calla by Stephen King
+48. The Dark Tower VI: Song of Susannah by Stephen King
+49. The Dark Tower VII: The Dark Tower by Stephen King
+50. The Name of the Wind by Patrick Rothfuss

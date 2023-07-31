@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Great Gatsby by F. Scott Fitzgerald
+2. Pride and Prejudice by Jane Austen
+3. Romeo and Juliet by William Shakespeare
+4. The Lord of the Rings by J.R.R. Tolkien
+5. Harry Potter series by J.K. Rowling
+6. The Catcher in the Rye by J.D. Salinger
+7. A Clockwork Orange by Anthony Burgess
+8. Emma by Jane Austen
+9. The Hobbit by J.R.R. Tolkien
+10. Lord of the Flies by William Golding
+11. A Midsummer Night's Dream by William Shakespeare
+12. The Grapes of Wrath by John Steinbeck
+13. The Scarlet Pimpernel by Baroness Orczy
+14. The Three Musketeers by Alexandre Dumas
+15. Candide by Voltaire
+16. The Taming of the Shrew by William Shakespeare
+17. The Merchant of Venice by William Shakespeare
+18. Bridge to Terabithia by Katherine Paterson
+19. The Little Prince by Antoine de Saint-Exupéry
+20. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+21. Water for Elephants by Sara Gruen
+22. Things Fall Apart by Chinua Achebe
+23. Fear and Loathing in Las Vegas by Hunter S. Thompson
+24. The Secrets of the Immortal Nicholas Flamel by Michael Scott
+25. The Time Traveler's Wife by Audrey Niffenegger
+26. The Giver by Lois Lowry
+27. Sophie's Choice by William Styron
+28. Beyond Good and Evil by Friedrich Nietzsche
+29. The Host by Stephenie Meyer
+30. The Year of Magical Thinking by Joan Didion
+31. Underworld by Don DeLillo
+32. The Hamlet by William Faulkner
+33. The Executioner's Song by Norman Mailer
+34. The Painted Bird by Jerzy Kosiński
+35. Brideshead Revisited by Evelyn Waugh
+36. War and Peace by Leo Tolstoy
+37. Bible by Various Authors
+38. The Secret by Rhonda Byrne
+39. Blood Meridian by Cormac McCarthy
+40. Neuromancer by William Gibson
+41. Tuesdays with Morrie by Mitch Albom
+42. Speak by Laurie Halse Anderson
+43. Evermore by Alyson Noël
+44. The Tipping Point by Malcolm Gladwell
+45. Miss Christina by Mircea Eliade
+46. Fantastic Mr Fox by Roald Dahl
+47. Halo series by Various Authors
+48. Twilight series by Stephenie Meyer
+49. Guinness World Records by Various Authors
+50. Charmed by Paul Ruditis.

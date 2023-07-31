@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. To Kill a Mockingbird by Harper Lee
+3. 1984 by George Orwell
+4. Animal Farm by George Orwell
+5. Lord of the Flies by William Golding
+6. The Great Gatsby by F. Scott Fitzgerald
+7. Brave New World by Aldous Huxley
+8. The Picture of Dorian Gray by Oscar Wilde
+9. Frankenstein by Mary Shelley
+10. Slaughterhouse-Five by Kurt Vonnegut
+11. The Time Traveler's Wife by Audrey Niffenegger
+12. The Perks of Being a Wallflower by Stephen Chbosky
+13. A Wrinkle in Time by Madeleine L'Engle
+14. The Lovely Bones by Alice Sebold
+15. Neverwhere by Neil Gaiman
+16. Looking for Alaska by John Green
+17. The BFG by Roald Dahl
+18. Alice's Adventures in Wonderland by Lewis Carroll
+19. The Walking Dead (comic book) by Robert Kirkman
+20. Eragon by Christopher Paolini
+21. A Series of Unfortunate Events by Lemony Snicket
+22. Twilight (series) by Stephenie Meyer
+23. The City of Ember by Jeanne DuPrau
+24. Flowers in the Attic by V.C. Andrews
+25. The Lost Boy by Dave Pelzer
+26. Ethan Frome by Edith Wharton
+27. Of Mice and Men by John Steinbeck
+28. Needful Things by Stephen King
+29. Mythology by Edith Hamilton
+30. Paradise Lost by John Milton
+31. Treasure Island by Robert Louis Stevenson
+32. Good Omens by Neil Gaiman and Terry Pratchett
+33. Common Sense by Thomas Paine
+34. The World According to Garp by John Irving
+35. Blue Is for Nightmares (series) by Laurie Faria Stolarz
+36. Garfield by Jim Davis
+37. Asterix the Gaul by René Goscinny and Albert Uderzo
+38. Complete Works of Shakespeare by William Shakespeare
+39. Catching Fire by Suzanne Collins
+40. The Class by Erich Segal
+41. Dear John by Nicholas Sparks
+42. Fullmetal Alchemist by Hiromu Arakawa
+43. Haunted by Chuck Palahniuk
+44. Paper Towns by John Green
+45. Fear and Loathing in Las Vegas by Hunter S. Thompson
+46. Manga by Various Authors
+47. Across the Universe by Beth Revis
+48. A Million Little Pieces by James Frey
+49. Firewing by Kenneth Oppel
+50. The Stinky Cheese Man and Other Fairly Stupid Tales by Jon Scieszka

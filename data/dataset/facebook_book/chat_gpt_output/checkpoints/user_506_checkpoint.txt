@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. To Kill a Mockingbird by Harper Lee
+5. Brave New World by Aldous Huxley
+6. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+7. The Alchemist by Paulo Coelho
+8. The Chronicles of Narnia by C.S. Lewis
+9. The Giver by Lois Lowry
+10. The Hunger Games by Suzanne Collins
+11. The Da Vinci Code by Dan Brown
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Great Gatsby by F. Scott Fitzgerald
+14. The Picture of Dorian Gray by Oscar Wilde
+15. The Road by Cormac McCarthy
+16. The Shining by Stephen King
+17. The Stand by Stephen King
+18. The Sun Also Rises by Ernest Hemingway
+19. The Time Traveler's Wife by Audrey Niffenegger
+20. The Wind-Up Bird Chronicle by Haruki Murakami
+21. A Clockwork Orange by Anthony Burgess
+22. Animal Farm by George Orwell
+23. Catch-22 by Joseph Heller
+24. Dune by Frank Herbert
+25. Ender's Game by Orson Scott Card
+26. Fahrenheit 451 by Ray Bradbury
+27. Fight Club by Chuck Palahniuk
+28. Harry Potter series by J.K. Rowling
+29. Hitch-22 by Christopher Hitchens
+30. House of Leaves by Mark Z. Danielewski
+31. Infinite Jest by David Foster Wallace
+32. Lolita by Vladimir Nabokov
+33. One Hundred Years of Solitude by Gabriel Garcia Marquez
+34. Slaughterhouse-Five by Kurt Vonnegut
+35. The Bell Jar by Sylvia Plath
+36. The Brothers Karamazov by Fyodor Dostoevsky
+37. The Count of Monte Cristo by Alexandre Dumas
+38. The Divine Comedy by Dante Alighieri
+39. The God of Small Things by Arundhati Roy
+40. The Grapes of Wrath by John Steinbeck
+41. The Handmaid's Tale by Margaret Atwood
+42. The Name of the Rose by Umberto Eco
+43. The Old Man and the Sea by Ernest Hemingway
+44. The Picture of Dorian Gray by Oscar Wilde
+45. The Stranger by Albert Camus
+46. The Trial by Franz Kafka
+47. The Unbearable Lightness of Being by Milan Kundera
+48. The War of the Worlds by H.G. Wells
+49. The World According to Garp by John Irving
+50. Zen and the Art of Motorcycle Maintenance by Robert

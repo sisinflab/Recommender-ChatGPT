@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Boards of Canada
+2. Telefon Tel Aviv
+3. Tycho
+4. Enigma
+5. Bonobo
+6. Schiller
+7. Parov Stelar
+8. Shpongle
+9. M83
+10. The Prodigy
+11. Groove Armada
+12. Thievery Corporation
+13. Röyksopp
+14. Massive Attack
+15. Linkin Park
+16. Autechre
+17. Bola
+18. Morcheeba
+19. Explosions in the Sky
+20. Mogwai
+21. Aphex Twin
+22. Plaid
+23. Sigur Rós
+24. Four Tet
+25. Apparat
+26. Ólafur Arnalds
+27. The Flashbulb
+28. Kettel
+29. Flying Lotus
+30. Crystal Castles
+31. Radiohead
+32. The Album Leaf
+33. Animal Collective
+34. Cut Copy
+35. Justice
+36. Fleet Foxes
+37. Snow Patrol
+38. Led Zeppelin
+39. Bob Dylan
+40. The Cure
+41. Björk
+42. José González
+43. Fatboy Slim
+44. Gorillaz
+45. The Mountain Goats
+46. Pink Floyd
+47. DJ Shadow
+48. Daft Punk
+49. Billie Holiday
+50. Kings of Leon

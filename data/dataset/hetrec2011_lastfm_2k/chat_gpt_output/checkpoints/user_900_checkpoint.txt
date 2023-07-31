@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Muse
+3. The Killers
+4. Oasis
+5. Arctic Monkeys
+6. Green Day
+7. Linkin Park
+8. Red Hot Chili Peppers
+9. Foo Fighters
+10. Nirvana
+11. Queen
+12. U2
+13. Bon Jovi
+14. Guns N' Roses
+15. Metallica
+16. AC/DC
+17. Led Zeppelin
+18. Pink Floyd
+19. The Beatles
+20. The Rolling Stones
+21. David Bowie
+22. Prince
+23. Michael Jackson
+24. Madonna
+25. Beyoncé
+26. Lady Gaga
+27. Taylor Swift
+28. Katy Perry
+29. Rihanna
+30. Justin Timberlake
+31. Bruno Mars
+32. Ed Sheeran
+33. Adele
+34. Sam Smith
+35. Shawn Mendes
+36. Ariana Grande
+37. Billie Eilish
+38. Dua Lipa
+39. Calvin Harris
+40. The Weeknd
+41. Drake
+42. Kendrick Lamar
+43. Jay-Z
+44. Kanye West
+45. Eminem
+46. Snoop Dogg
+47. Tupac
+48. Notorious B.I.G.
+49. Nas
+50. Wu-Tang Clan

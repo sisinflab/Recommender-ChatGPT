@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Muse
+2. Arctic Monkeys
+3. Daft Punk
+4. The Chemical Brothers
+5. Justice
+6. The Black Keys
+7. Queens of the Stone Age
+8. Nine Inch Nails
+9. The Strokes
+10. System of a Down
+11. Linkin Park
+12. Foo Fighters
+13. Nirvana
+14. Metallica
+15. Slipknot
+16. Rage Against the Machine
+17. Green Day
+18. Blink-182
+19. Sum 41
+20. My Chemical Romance
+21. Fall Out Boy
+22. Panic! at the Disco
+23. Paramore
+24. The Killers
+25. Coldplay
+26. U2
+27. Oasis
+28. The Beatles
+29. Led Zeppelin
+30. Pink Floyd
+31. Queen
+32. AC/DC
+33. Guns N' Roses
+34. Iron Maiden
+35. Judas Priest
+36. Black Sabbath
+37. Deep Purple
+38. Van Halen
+39. Aerosmith
+40. Bon Jovi
+41. Def Leppard
+42. Motley Crue
+43. Poison
+44. Whitesnake
+45. Scorpions
+46. Rammstein
+47. Korn
+48. Limp Bizkit
+49. Slipknot
+50. Marilyn Manson

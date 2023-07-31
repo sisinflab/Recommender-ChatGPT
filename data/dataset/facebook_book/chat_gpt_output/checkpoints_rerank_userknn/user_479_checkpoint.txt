@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter
+2. The Hunger Games
+3. Catching Fire
+4. Mockingjay
+5. Twilight (series)
+6. The Vampire Diaries (novel series)
+7. Maximum Ride
+8. The Reckoning (Armstrong novel)
+9. Last Sacrifice
+10. Fallen (Kate novel)
+11. Hush, Hush
+12. Vampire Academy (novel)
+13. Beautiful Darkness
+14. Ironside: A Modern Faery's Tale
+15. Ink Exchange
+16. Tithe: A Modern Faerie Tale
+17. The Short Second Life of Bree Tanner
+18. The Notebook (novel)
+19. The Secret Garden
+20. The Wolves of Mercy Falls
+21. The Lost Hero
+22. The Kane Chronicles
+23. Inferno (Dante)
+24. A Series of Unfortunate Events
+25. The Truth About Forever
+26. Along for the Ride
+27. Speak (novel)
+28. Thirteen Reasons Why
+29. If I Stay
+30. Wake (Lisa McMann novel)
+31. Dead Beautiful
+32. The Devouring
+33. The Summoning (novel)
+34. The Awakening (Chopin novel)
+35. Stolen (Christopher novel)
+36. Bitten (novel)
+37. The Raven
+38. Haunted (The Mediator)
+39. Northern Lights (novel)
+40. Fablehaven
+41. L.A. Candy
+42. All American Girl (novel)
+43. Marley & Me
+44. The Zombie Survival Guide
+45. Suck It Up
+46. Elixir (novel)
+47. Manga
+48. Annie's Baby
+49. It Happened to Nancy: By an Anonymous Teenager
+50. Cut (novel)

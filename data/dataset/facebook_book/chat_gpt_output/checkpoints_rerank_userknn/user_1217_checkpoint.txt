@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. The Great Gatsby by F. Scott Fitzgerald
+3. To Kill a Mockingbird by Harper Lee
+4. 1984 by George Orwell
+5. Brave New World by Aldous Huxley
+6. The Bell Jar by Sylvia Plath
+7. Catch-22 by Joseph Heller
+8. The Stranger by Albert Camus
+9. The Sun Also Rises by Ernest Hemingway
+10. The Picture of Dorian Gray by Oscar Wilde
+11. The Road by Cormac McCarthy
+12. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+13. The Handmaid's Tale by Margaret Atwood
+14. The Brothers Karamazov by Fyodor Dostoevsky
+15. Crime and Punishment by Fyodor Dostoevsky
+16. One Flew Over the Cuckoo's Nest by Ken Kesey
+17. The Grapes of Wrath by John Steinbeck
+18. The Sound and the Fury by William Faulkner
+19. The Old Man and the Sea by Ernest Hemingway
+20. The Trial by Franz Kafka
+21. Heart of Darkness by Joseph Conrad
+22. The Scarlet Letter by Nathaniel Hawthorne
+23. The Count of Monte Cristo by Alexandre Dumas
+24. The Adventures of Huckleberry Finn by Mark Twain
+25. The Adventures of Tom Sawyer by Mark Twain
+26. The Canterbury Tales by Geoffrey Chaucer
+27. The Divine Comedy by Dante Alighieri
+28. The Iliad by Homer
+29. The Odyssey by Homer
+30. The Aeneid by Virgil
+31. Don Quixote by Miguel de Cervantes
+32. Les Misérables by Victor Hugo
+33. War and Peace by Leo Tolstoy
+34. Anna Karenina by Leo Tolstoy
+35. The Idiot by Fyodor Dostoevsky
+36. The Master and Margarita by Mikhail Bulgakov
+37. The Name of the Rose by Umberto Eco
+38. The Lord of the Rings by J.R.R. Tolkien
+39. The Hobbit by J.R.R. Tolkien
+40. The Chronicles of Narnia by C.S. Lewis
+41. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+42. The Hunger Games by Suzanne Collins
+43. Harry Potter and the Philosopher's Stone by J.K. Rowling
+44. The Da Vinci Code by Dan Brown
+45. Angels and Demons by Dan Brown
+46. The Girl with the Dragon Tattoo by Stieg Larsson
+47. The Girl Who Played with Fire by Stieg Larsson
+48. The Girl Who Kicked the Hornets' Nest by Stieg Larsson

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Dracula by Bram Stoker
+2. The Silence of the Lambs by Thomas Harris
+3. Alice's Adventures in Wonderland by Lewis Carroll
+4. The Picture of Dorian Gray by Oscar Wilde
+5. City of Ashes by Cassandra Clare
+6. Hannibal by Thomas Harris
+7. Jack the Ripper: The Final Solution by Stephen Knight
+8. Bad Girls by Jacqueline Wilson
+9. The Acid House by Irvine Welsh
+10. Hopscotch by Julio Cortázar
+11. To Kill a Mockingbird by Harper Lee
+12. A Clockwork Orange by Anthony Burgess
+13. Jane Eyre by Charlotte Bronte
+14. Memoirs of a Geisha by Arthur Golden
+15. Les Misérables by Victor Hugo
+16. Romeo and Juliet by William Shakespeare
+17. The Da Vinci Code by Dan Brown
+18. Harry Potter series by J.K. Rowling
+19. The Princess Bride by William Goldman
+20. Catching Fire by Suzanne Collins
+21. Carrie by Stephen King
+22. Cujo by Stephen King
+23. Heart of Darkness by Joseph Conrad
+24. Lord of the Flies by William Golding
+25. Matilda by Roald Dahl
+26. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+27. Twilight series by Stephenie Meyer
+28. The Shadow of the Wind by Carlos Ruiz Zafón
+29. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+30. The Perks of Being a Wallflower by Stephen Chbosky
+31. Death Note by Tsugumi Ohba
+32. Gone series by Michael Grant
+33. Inkheart by Cornelia Funke
+34. Les Fleurs du mal by Charles Baudelaire
+35. Medea by Euripides
+36. Around the World in Eighty Days by Jules Verne
+37. The Love Song of J. Alfred Prufrock by T.S. Eliot
+38. Moby-Dick by Herman Melville
+39. Rosemary's Baby by Ira Levin
+40. Chronicle of a Death Foretold by Gabriel Garcia Marquez
+41. Fairest by Gail Carson Levine
+42. Vampire Academy by Richelle Mead
+43. Demian by Hermann Hesse
+44. Weetzie Bat by Francesca Lia Block
+45. The Luxe by Anna Godbersen
+46. Pedro Páramo by Juan Rulfo
+47. The Space Vampires by Colin Wilson
+48. Anime by Frederik L. Schodt
+49. Goethe's Faust by Johann Wolfgang von Goethe
+50. The Wonderful Wizard of Oz by L. Frank Baum

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for this user would be:
+
+1. The Beatles
+2. Kings of Convenience
+3. Iron & Wine
+4. Feist
+5. Sufjan Stevens
+6. MGMT
+7. Kanye West
+8. Ella Fitzgerald
+9. Erykah Badu
+10. Madonna
+11. Katy Perry
+12. M.I.A.
+13. Joni Mitchell
+14. Maria Bethânia
+15. Duffy
+16. PJ Harvey
+17. She & Him
+18. Corinne Bailey Rae
+19. Britney Spears
+20. The Strokes
+21. Ladyhawke
+22. Franz Ferdinand
+23. Norah Jones
+24. Damien Rice
+25. Florence + the Machine
+26. Kylie Minogue
+27. Alicia Keys
+28. Yeah Yeah Yeahs
+29. Tegan and Sara
+30. Black Kids
+31. Bon Iver
+32. Ne-Yo
+33. Blondie
+34. Paramore
+35. Lady Gaga
+36. Coldplay
+37. Green Day
+38. Joss Stone
+39. Dido
+40. Kelis
+41. Marisa Monte
+42. Cyndi Lauper
+43. Travis
+44. Nouvelle Vague
+45. Red Hot Chili Peppers
+46. Cher
+47. Tori Amos
+48. Yeasayer
+49. Imogen Heap
+50. Caribou

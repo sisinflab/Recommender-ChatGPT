@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Catcher in the Rye by J.D. Salinger
+3. The Great Gatsby by F. Scott Fitzgerald
+4. 1984 by George Orwell
+5. Animal Farm by George Orwell
+6. Brave New World by Aldous Huxley
+7. Lord of the Flies by William Golding
+8. The Grapes of Wrath by John Steinbeck
+9. One Hundred Years of Solitude by Gabriel Garcia Marquez
+10. The Brothers Karamazov by Fyodor Dostoevsky
+11. Crime and Punishment by Fyodor Dostoevsky
+12. The Idiot by Fyodor Dostoevsky
+13. War and Peace by Leo Tolstoy
+14. Anna Karenina by Leo Tolstoy
+15. The Hobbit by J.R.R. Tolkien
+16. The Lord of the Rings by J.R.R. Tolkien
+17. The Silmarillion by J.R.R. Tolkien
+18. The Chronicles of Narnia by C.S. Lewis
+19. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+20. The Picture of Dorian Gray by Oscar Wilde
+21. Frankenstein by Mary Shelley
+22. Dracula by Bram Stoker
+23. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+24. Heart of Darkness by Joseph Conrad
+25. The Trial by Franz Kafka
+26. The Metamorphosis by Franz Kafka
+27. The Bell Jar by Sylvia Plath
+28. The Handmaid's Tale by Margaret Atwood
+29. The Road by Cormac McCarthy
+30. The Stand by Stephen King
+31. The Shining by Stephen King
+32. The Dark Tower series by Stephen King
+33. The Name of the Wind by Patrick Rothfuss
+34. The Lies of Locke Lamora by Scott Lynch
+35. The Blade Itself by Joe Abercrombie
+36. The First Law Trilogy by Joe Abercrombie
+37. The Kingkiller Chronicle by Patrick Rothfuss
+38. The Wheel of Time series by Robert Jordan and Brandon Sanderson
+39. The Malazan Book of the Fallen series by Steven Erikson
+40. The Mistborn Trilogy by Brandon Sanderson
+41. The Stormlight Archive by Brandon Sanderson
+42. The Way of Kings by Brandon Sanderson
+43. The Lies of Locke Lamora by Scott Lynch
+44. The Gentlemen Bastards series by Scott Lynch
+45. The Dresden Files by Jim Butcher
+46. American Gods by Neil Gaiman
+47. The Sandman series by Neil Gaiman
+48. The Dark Tower series by Stephen King
+49. The Hitchhiker's Guide to the Galaxy

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. The Dark Tower series by Stephen King
+3. The Name of the Wind by Patrick Rothfuss
+4. The Wheel of Time series by Robert Jordan
+5. The Dresden Files series by Jim Butcher
+6. The Way of Kings by Brandon Sanderson
+7. American Gods by Neil Gaiman
+8. The Lies of Locke Lamora by Scott Lynch
+9. The First Law trilogy by Joe Abercrombie
+10. The Malazan Book of the Fallen series by Steven Erikson
+11. The Kingkiller Chronicle series by Patrick Rothfuss
+12. The Stormlight Archive series by Brandon Sanderson
+13. The Mistborn trilogy by Brandon Sanderson
+14. The Belgariad series by David Eddings
+15. The Riyria Revelations series by Michael J. Sullivan
+16. The Farseer Trilogy by Robin Hobb
+17. The Black Company series by Glen Cook
+18. The Chronicles of Narnia by C.S. Lewis
+19. The Earthsea Cycle series by Ursula K. Le Guin
+20. The Sword of Shannara series by Terry Brooks
+21. The Magicians series by Lev Grossman
+22. The Broken Empire trilogy by Mark Lawrence
+23. The Lightbringer series by Brent Weeks
+24. The Powder Mage trilogy by Brian McClellan
+25. The Night Angel trilogy by Brent Weeks
+26. The Hyperion Cantos series by Dan Simmons
+27. The Chronicles of Amber series by Roger Zelazny
+28. The Dark is Rising sequence by Susan Cooper
+29. The Inheritance Trilogy by N.K. Jemisin
+30. The Bartimaeus Trilogy by Jonathan Stroud
+31. The Abhorsen Trilogy by Garth Nix
+32. The Codex Alera series by Jim Butcher
+33. The Riyria Chronicles series by Michael J. Sullivan
+34. The Black Magician trilogy by Trudi Canavan
+35. The Demon Cycle series by Peter V. Brett
+36. The Light Novel series by Ryohgo Narita
+37. The Red Rising series by Pierce Brown
+38. The Gentleman Bastard series by Scott Lynch
+39. The Chronicles of Thomas Covenant series by Stephen R. Donaldson
+40. The Dark Tower Companion by Bev Vincent
+41. The Dresden Files Companion by Jim Butcher
+42. The Kingkiller Chronicle Companion by Patrick Rothfuss
+43. The Wheel of Time Companion by Robert Jordan and Harriet McDougal
+44. The Malazan Book of the Fallen Companion by Steven Erikson
+45. The Stormlight Archive Companion by Brandon Sanderson
+46. The Mistborn Companion by Brandon Sanderson
+47. The Belgariad Companion by David
+48. Nine Stories by J.D. Salinger
+49. The Bell Jar by Sylvia Plath
+50. The Wise Man's Fear by Patrick Rothfuss

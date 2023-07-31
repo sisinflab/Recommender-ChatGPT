@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Lord of the Rings
+2. Harry Potter
+3. The Hobbit
+4. The Great Gatsby
+5. Crime and Punishment
+6. A Tale of Two Cities
+7. Romeo and Juliet
+8. The Giver
+9. The Merchant of Venice
+10. The Cat in the Hat
+11. The Scarlet Pimpernel
+12. The Importance of Being Earnest
+13. Tess of the d'Urbervilles
+14. Great Expectations
+15. The Zombie Survival Guide
+16. Northern Lights (novel)
+17. Brisingr
+18. The Kite Runner
+19. Ender's Game
+20. Paradise Lost
+21. The Lost Symbol
+22. Percy Jackson & the Olympians
+23. Macbeth
+24. The Antichrist (book)
+25. Dracula
+26. Thus Spoke Zarathustra
+27. Fear and Loathing in Las Vegas
+28. A Clash of Kings
+29. The Blind Assassin
+30. The Historian
+31. A Farewell to Arms
+32. Eat, Pray, Love
+33. Brave New World
+34. Inferno (Dante)
+35. The Rum Diary (novel)
+36. Go Ask Alice
+37. Digital Fortress
+38. Red Inferno: 1945
+39. Manga
+40. Candide
+41. The Choice (novel)
+42. New Arabian Nights
+43. Night (book)
+44. The Watchmen (novel)
+45. The Memory Keeper's Daughter
+46. The Hardy Boys
+47. The Awakening (Chopin novel)
+48. Jane Eyre
+49. Germinal (novel)
+50. Nineteen Eighty-Four

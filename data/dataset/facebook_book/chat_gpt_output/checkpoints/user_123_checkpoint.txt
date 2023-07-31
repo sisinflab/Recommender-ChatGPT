@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Looking for Alaska by John Green
+2. The Fault in Our Stars by John Green
+3. Paper Towns by John Green
+4. Eleanor & Park by Rainbow Rowell
+5. Fangirl by Rainbow Rowell
+6. Carry On by Rainbow Rowell
+7. All the Bright Places by Jennifer Niven
+8. It's Kind of a Funny Story by Ned Vizzini
+9. Thirteen Reasons Why by Jay Asher
+10. The Maze Runner by James Dashner
+11. Divergent by Veronica Roth
+12. The Hunger Games by Suzanne Collins
+13. Catching Fire by Suzanne Collins
+14. Mockingjay by Suzanne Collins
+15. The Giver by Lois Lowry
+16. Gathering Blue by Lois Lowry
+17. Messenger by Lois Lowry
+18. Son by Lois Lowry
+19. The Selection by Kiera Cass
+20. The Elite by Kiera Cass
+21. The One by Kiera Cass
+22. The 5th Wave by Rick Yancey
+23. The Infinite Sea by Rick Yancey
+24. The Last Star by Rick Yancey
+25. The Lunar Chronicles by Marissa Meyer
+26. Cinder by Marissa Meyer
+27. Scarlet by Marissa Meyer
+28. Cress by Marissa Meyer
+29. Winter by Marissa Meyer
+30. The Mortal Instruments by Cassandra Clare
+31. City of Bones by Cassandra Clare
+32. City of Ashes by Cassandra Clare
+33. City of Glass by Cassandra Clare
+34. City of Fallen Angels by Cassandra Clare
+35. City of Lost Souls by Cassandra Clare
+36. City of Heavenly Fire by Cassandra Clare
+37. The Infernal Devices by Cassandra Clare
+38. Clockwork Angel by Cassandra Clare
+39. Clockwork Prince by Cassandra Clare
+40. Clockwork Princess by Cassandra Clare
+41. The Dark Artifices by Cassandra Clare
+42. Lady Midnight by Cassandra Clare
+43. Lord of Shadows by Cassandra Clare
+44. Queen of Air and Darkness by Cassandra Clare
+45. The Raven Cycle by Maggie Stiefvater
+46. The Raven Boys by Maggie Stiefvater
+47. The Dream Thieves by Maggie Stiefvater
+48. Blue Lily, Lily Blue by Maggie Stiefvater
+49. The Raven King by Maggie Stiefvater
+50. The Darkest Minds by Alexandra Bracken

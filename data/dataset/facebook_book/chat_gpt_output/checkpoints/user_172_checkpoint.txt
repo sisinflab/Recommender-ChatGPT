@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Mockingjay by Suzanne Collins
+3. The Catcher in the Rye by J.D. Salinger
+4. To Kill a Mockingbird by Harper Lee
+5. The Great Gatsby by F. Scott Fitzgerald
+6. 1984 by George Orwell
+7. Animal Farm by George Orwell
+8. Lord of the Flies by William Golding
+9. The Hobbit by J.R.R. Tolkien
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Chronicles of Narnia by C.S. Lewis
+12. The Da Vinci Code by Dan Brown
+13. Angels and Demons by Dan Brown
+14. The Girl with the Dragon Tattoo by Stieg Larsson
+15. The Girl Who Played with Fire by Stieg Larsson
+16. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+17. The Shining by Stephen King
+18. It by Stephen King
+19. Carrie by Stephen King
+20. The Stand by Stephen King
+21. The Dark Tower series by Stephen King
+22. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+23. Ender's Game by Orson Scott Card
+24. Dune by Frank Herbert
+25. The Foundation series by Isaac Asimov
+26. The Martian by Andy Weir
+27. Ready Player One by Ernest Cline
+28. The Maze Runner by James Dashner
+29. The Giver by Lois Lowry
+30. The Fault in Our Stars by John Green
+31. Paper Towns by John Green
+32. Looking for Alaska by John Green
+33. The Perks of Being a Wallflower by Stephen Chbosky
+34. The Book Thief by Markus Zusak
+35. The Help by Kathryn Stockett
+36. The Secret Life of Bees by Sue Monk Kidd
+37. The Lovely Bones by Alice Sebold
+38. The Time Traveler's Wife by Audrey Niffenegger
+39. The Alchemist by Paulo Coelho
+40. The Kite Runner by Khaled Hosseini
+41. A Thousand Splendid Suns by Khaled Hosseini
+42. The Road by Cormac McCarthy
+43. The Handmaid's Tale by Margaret Atwood
+44. Brave New World by Aldous Huxley
+45. Fahrenheit 451 by Ray Bradbury
+46. The Picture of Dorian Gray by Oscar Wilde
+47. The Count of Monte Cristo by Alexandre Dumas
+48. Les Misérables by Victor Hugo
+49. Pride and Prejudice by Jane Austen
+50. Wuthering Heights by Emily Bronte

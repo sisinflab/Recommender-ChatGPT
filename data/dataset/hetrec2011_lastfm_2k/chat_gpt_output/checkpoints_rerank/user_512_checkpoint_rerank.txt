@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Slipknot
+2. Korn
+3. In Flames
+4. Breaking Benjamin
+5. Static-X
+6. Rise Against
+7. Demon Hunter
+8. Saliva
+9. HIM
+10. Pain
+11. Celldweller
+12. Stone Sour
+13. Seether
+14. Mindless Self Indulgence
+15. DIR EN GREY
+16. All That Remains
+17. Poets of the Fall
+18. Deathstars
+19. Pendulum
+20. Mudvayne
+21. Zebrahead
+22. Sick Puppies
+23. Eluveitie
+24. Alice in Videoland
+25. Metallica
+26. Iron Maiden
+27. Nirvana
+28. Pearl Jam
+29. Led Zeppelin
+30. System of a Down
+31. Nine Inch Nails
+32. Linkin Park
+33. Avenged Sevenfold
+34. Green Day
+35. My Chemical Romance
+36. The Cure
+37. Muse
+38. 30 Seconds to Mars
+39. Pink Floyd
+40. Radiohead
+41. Arctic Monkeys
+42. Placebo
+43. The Killers
+44. Duran Duran
+45. Coldplay
+46. Blur
+47. Michael Jackson
+48. Madonna
+49. Depeche Mode
+50. Lady Gaga

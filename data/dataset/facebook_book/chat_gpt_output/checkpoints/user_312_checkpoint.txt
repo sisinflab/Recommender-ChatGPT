@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Identical by Ellen Hopkins
+2. The Maze Runner by James Dashner
+3. The Hunger Games by Suzanne Collins
+4. The Fault in Our Stars by John Green
+5. The Book Thief by Markus Zusak
+6. The Giver by Lois Lowry
+7. The Perks of Being a Wallflower by Stephen Chbosky
+8. The Outsiders by S.E. Hinton
+9. Looking for Alaska by John Green
+10. Thirteen Reasons Why by Jay Asher
+11. The Catcher in the Rye by J.D. Salinger
+12. The Lovely Bones by Alice Sebold
+13. Speak by Laurie Halse Anderson
+14. The Secret Life of Bees by Sue Monk Kidd
+15. The Help by Kathryn Stockett
+16. The Girl on the Train by Paula Hawkins
+17. Gone Girl by Gillian Flynn
+18. The Da Vinci Code by Dan Brown
+19. Angels and Demons by Dan Brown
+20. The Girl with the Dragon Tattoo by Stieg Larsson
+21. The Girl Who Played with Fire by Stieg Larsson
+22. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+23. The Hunger Games: Catching Fire by Suzanne Collins
+24. The Hunger Games: Mockingjay by Suzanne Collins
+25. Divergent by Veronica Roth
+26. Insurgent by Veronica Roth
+27. Allegiant by Veronica Roth
+28. The Selection by Kiera Cass
+29. The Elite by Kiera Cass
+30. The One by Kiera Cass
+31. The 5th Wave by Rick Yancey
+32. The Infinite Sea by Rick Yancey
+33. The Last Star by Rick Yancey
+34. The Maze Runner: The Scorch Trials by James Dashner
+35. The Maze Runner: The Death Cure by James Dashner
+36. The Kill Order by James Dashner
+37. The Death Cure by James Dashner
+38. The Scorch Trials by James Dashner
+39. The Death Cure by James Dashner
+40. The Maze Runner Files by James Dashner
+41. The Maze Runner: The Fever Code by James Dashner
+42. The Selection Stories: The Prince & The Guard by Kiera Cass
+43. The Selection Stories: The Queen & The Favorite by Kiera Cass
+44. The Selection Stories: The One & The Only by Kiera Cass
+45. The Selection Coloring Book by Kiera Cass
+46. The Selection Series Box Set by Kiera Cass
+47. The Selection Novellas by Kiera Cass
+48. The Selection Series: The Selection, The Elite, The One by Kiera Cass
+49. The Selection Series: The Selection, The Elite, The One, The Heir by Kiera Cass
+50. The

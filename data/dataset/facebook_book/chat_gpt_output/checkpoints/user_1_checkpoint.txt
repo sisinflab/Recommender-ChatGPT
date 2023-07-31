@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Slaughterhouse-Five by Kurt Vonnegut
+3. To Kill a Mockingbird by Harper Lee
+4. The Brothers Karamazov by Fyodor Dostoyevsky
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Stranger by Albert Camus
+7. The Road by Cormac McCarthy
+8. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+9. The Bell Jar by Sylvia Plath
+10. The Handmaid's Tale by Margaret Atwood
+11. The Sun Also Rises by Ernest Hemingway
+12. The Grapes of Wrath by John Steinbeck
+13. The Trial by Franz Kafka
+14. The Name of the Rose by Umberto Eco
+15. The Old Man and the Sea by Ernest Hemingway
+16. The Sound and the Fury by William Faulkner
+17. The Picture of Dorian Gray by Oscar Wilde
+18. The Catcher in the Rye by J.D. Salinger
+19. The Great Gatsby by F. Scott Fitzgerald
+20. The Unbearable Lightness of Being by Milan Kundera
+21. Brave New World by Aldous Huxley
+22. Crime and Punishment by Fyodor Dostoyevsky
+23. Choke by Chuck Palahniuk
+24. The Shadow of the Wind by Carlos Ruiz Zafón
+25. Musashi by Eiji Yoshikawa
+26. Dracula by Bram Stoker
+27. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+28. The Count of Monte Cristo by Alexandre Dumas
+29. The Three Musketeers by Alexandre Dumas
+30. The Iliad by Homer
+31. The Odyssey by Homer
+32. The Divine Comedy by Dante Alighieri
+33. The Canterbury Tales by Geoffrey Chaucer
+34. The Prince by Niccolo Machiavelli
+35. The Republic by Plato
+36. The Symposium by Plato
+37. The Analects by Confucius
+38. The Art of War by Sun Tzu
+39. The Tao Te Ching by Lao Tzu
+40. The Book of Five Rings by Miyamoto Musashi
+41. The Arabian Nights by Anonymous
+42. The Complete Works of William Shakespeare by William Shakespeare
+43. The Lord of the Rings by J.R.R. Tolkien
+44. The Hobbit by J.R.R. Tolkien
+45. A Song of Ice and Fire by George R.R. Martin
+46. The Hunger Games by Suzanne Collins
+47. Dune by Frank Herbert
+48. Ender's Game by Orson Scott Card
+49. The Martian by Andy Weir
+50. Ready Player One by Ernest Cline

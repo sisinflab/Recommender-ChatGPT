@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Crime and Punishment by Fyodor Dostoevsky
+3. The Picture of Dorian Gray by Oscar Wilde
+4. The Catcher in the Rye by J.D. Salinger
+5. The Stranger by Albert Camus
+6. One Hundred Years of Solitude by Gabriel Garcia Marquez
+7. The Brothers Karamazov by Fyodor Dostoevsky
+8. The Trial by Franz Kafka
+9. The Great Gatsby by F. Scott Fitzgerald
+10. The Metamorphosis by Franz Kafka
+11. The Road by Cormac McCarthy
+12. The Handmaid's Tale by Margaret Atwood
+13. Slaughterhouse-Five by Kurt Vonnegut
+14. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+15. The Sun Also Rises by Ernest Hemingway
+16. The Fountainhead by Ayn Rand
+17. The Plague by Albert Camus
+18. The Sound and the Fury by William Faulkner
+19. The Grapes of Wrath by John Steinbeck
+20. The Old Man and the Sea by Ernest Hemingway
+21. To Kill a Mockingbird by Harper Lee
+22. The Lord of the Rings by J.R.R. Tolkien
+23. The Hobbit by J.R.R. Tolkien
+24. The Chronicles of Narnia by C.S. Lewis
+25. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+26. The Shining by Stephen King
+27. The Stand by Stephen King
+28. The Dark Tower series by Stephen King
+29. The Silence of the Lambs by Thomas Harris
+30. The Girl with the Dragon Tattoo by Stieg Larsson
+31. The Da Vinci Code by Dan Brown
+32. The Hunger Games by Suzanne Collins
+33. The Maze Runner by James Dashner
+34. The Giver by Lois Lowry
+35. The Outsiders by S.E. Hinton
+36. Lord of the Flies by William Golding
+37. Animal Farm by George Orwell
+38. Fahrenheit 451 by Ray Bradbury
+39. A Clockwork Orange by Anthony Burgess
+40. Do Androids Dream of Electric Sheep? by Philip K. Dick
+41. Neuromancer by William Gibson
+42. Snow Crash by Neal Stephenson
+43. Ender's Game by Orson Scott Card
+44. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+45. The War of the Worlds by H.G. Wells
+46. The Time Machine by H.G. Wells
+47. The Invisible Man by H.G. Wells
+48. The Island of Dr. Moreau by H.G. Wells
+49. The Picture of Dorian Gray by Oscar Wilde
+50. The

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Soundgarden
+2. Nirvana
+3. Red Hot Chili Peppers
+4. Foo Fighters
+5. Nine Inch Nails
+6. Deftones
+7. Queens of the Stone Age
+8. Metallica
+9. Slipknot
+10. Green Day
+11. Muse
+12. Radiohead
+13. Tool
+14. Pearl Jam
+15. Marilyn Manson
+16. A Perfect Circle
+17. Disturbed
+18. Rammstein
+19. Children of Bodom
+20. Billy Talent
+21. Pendulum
+22. Alice in Chains
+23. Seether
+24. Rise Against
+25. Arch Enemy
+26. Nickelback
+27. Korn
+28. Silverchair
+29. LMFAO
+30. Creed
+31. The Bloody Beetroots
+32. System of a Down
+33. Crystal Castles
+34. The National
+35. Linkin Park
+36. The John Butler Trio
+37. 3OH!3
+38. Bloc Party
+39. Kid Cudi
+40. Pitbull
+41. Arctic Monkeys
+42. The Strokes
+43. The White Stripes
+44. The Black Keys
+45. Cage the Elephant
+46. Imagine Dragons
+47. Florence + The Machine
+48. The Killers
+49. Vampire Weekend
+50. Coldplay

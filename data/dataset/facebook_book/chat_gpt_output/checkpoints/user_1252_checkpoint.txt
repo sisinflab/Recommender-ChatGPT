@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. New Moon (Twilight series) by Stephenie Meyer
+2. Eclipse (Twilight series) by Stephenie Meyer
+3. Breaking Dawn (Twilight series) by Stephenie Meyer
+4. Midnight Sun (Twilight series) by Stephenie Meyer
+5. The Host by Stephenie Meyer
+6. The Chemist by Stephenie Meyer
+7. The Hunger Games by Suzanne Collins
+8. Catching Fire (The Hunger Games series) by Suzanne Collins
+9. Mockingjay (The Hunger Games series) by Suzanne Collins
+10. Divergent by Veronica Roth
+11. Insurgent (Divergent series) by Veronica Roth
+12. Allegiant (Divergent series) by Veronica Roth
+13. The Maze Runner by James Dashner
+14. The Scorch Trials (Maze Runner series) by James Dashner
+15. The Death Cure (Maze Runner series) by James Dashner
+16. The Kill Order (Maze Runner series) by James Dashner
+17. The Giver by Lois Lowry
+18. Gathering Blue (The Giver series) by Lois Lowry
+19. Messenger (The Giver series) by Lois Lowry
+20. Son (The Giver series) by Lois Lowry
+21. The Fault in Our Stars by John Green
+22. Looking for Alaska by John Green
+23. Paper Towns by John Green
+24. An Abundance of Katherines by John Green
+25. The Selection by Kiera Cass
+26. The Elite (The Selection series) by Kiera Cass
+27. The One (The Selection series) by Kiera Cass
+28. The Heir (The Selection series) by Kiera Cass
+29. The Crown (The Selection series) by Kiera Cass
+30. The Vampire Lestat by Anne Rice
+31. Queen of the Damned (The Vampire Chronicles) by Anne Rice
+32. The Tale of the Body Thief (The Vampire Chronicles) by Anne Rice
+33. Memnoch the Devil (The Vampire Chronicles) by Anne Rice
+34. The Vampire Armand (The Vampire Chronicles) by Anne Rice
+35. Pride and Prejudice by Jane Austen
+36. Emma by Jane Austen
+37. Persuasion by Jane Austen
+38. Northanger Abbey by Jane Austen
+39. Sense and Sensibility and Sea Monsters by Jane Austen and Ben H. Winters
+40. The Jane Austen Book Club by Karen Joy Fowler
+41. My Sister's Keeper by Jodi Picoult
+42. Nineteen Minutes by Jodi Picoult
+43. The Pact by Jodi Picoult
+44. Plain Truth by Jodi Picoult
+45. The Adoration of Jenna Fox by Mary E. Pearson
+46. The Two Towers by J.R.R. Tolkien
+47. The Bell Jar by Sylvia Plath
+48. The Innovator's Dilemma by Clayton M. Christensen
+49. The Art of War
+50. American Gods by Neil Gaiman

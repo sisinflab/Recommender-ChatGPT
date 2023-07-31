@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Fault in Our Stars by John Green
+2. The Hunger Games by Suzanne Collins
+3. Divergent by Veronica Roth
+4. The Maze Runner by James Dashner
+5. The Book Thief by Markus Zusak
+6. The Perks of Being a Wallflower by Stephen Chbosky
+7. Looking for Alaska by John Green
+8. Paper Towns by John Green
+9. Eleanor & Park by Rainbow Rowell
+10. The Selection by Kiera Cass
+11. The Giver by Lois Lowry
+12. The 5th Wave by Rick Yancey
+13. Legend by Marie Lu
+14. Matched by Ally Condie
+15. Delirium by Lauren Oliver
+16. Shatter Me by Tahereh Mafi
+17. The Mortal Instruments by Cassandra Clare
+18. City of Bones by Cassandra Clare
+19. City of Ashes by Cassandra Clare
+20. City of Glass by Cassandra Clare
+21. City of Fallen Angels by Cassandra Clare
+22. City of Lost Souls by Cassandra Clare
+23. City of Heavenly Fire by Cassandra Clare
+24. The Infernal Devices by Cassandra Clare
+25. Clockwork Angel by Cassandra Clare
+26. Clockwork Prince by Cassandra Clare
+27. Clockwork Princess by Cassandra Clare
+28. The Lunar Chronicles by Marissa Meyer
+29. Cinder by Marissa Meyer
+30. Scarlet by Marissa Meyer
+31. Cress by Marissa Meyer
+32. Winter by Marissa Meyer
+33. Red Queen by Victoria Aveyard
+34. Glass Sword by Victoria Aveyard
+35. King's Cage by Victoria Aveyard
+36. War Storm by Victoria Aveyard
+37. The Selection by Kiera Cass
+38. The Elite by Kiera Cass
+39. The One by Kiera Cass
+40. The Heir by Kiera Cass
+41. The Crown by Kiera Cass
+42. The Chemical Garden Trilogy by Lauren DeStefano
+43. Wither by Lauren DeStefano
+44. Fever by Lauren DeStefano
+45. Sever by Lauren DeStefano
+46. The Darkest Minds by Alexandra Bracken
+47. Never Fade by Alexandra Bracken
+48. In the Afterlight by Alexandra Bracken
+49. The Testing by Joelle Charbonneau
+50. Independent Study by Joelle Charbonneau

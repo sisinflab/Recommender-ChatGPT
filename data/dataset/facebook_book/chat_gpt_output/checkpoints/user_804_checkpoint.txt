@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Giver by Lois Lowry
+2. The Maze Runner by James Dashner
+3. The Fault in Our Stars by John Green
+4. The Book Thief by Markus Zusak
+5. The Hunger Games: Mockingjay by Suzanne Collins
+6. The Hunger Games: Catching Fire by Suzanne Collins
+7. The Hunger Games by Suzanne Collins
+8. Divergent by Veronica Roth
+9. Insurgent by Veronica Roth
+10. Allegiant by Veronica Roth
+11. The Selection by Kiera Cass
+12. The Elite by Kiera Cass
+13. The One by Kiera Cass
+14. The 5th Wave by Rick Yancey
+15. The Infinite Sea by Rick Yancey
+16. The Last Star by Rick Yancey
+17. The Darkest Minds by Alexandra Bracken
+18. Never Fade by Alexandra Bracken
+19. In the Afterlight by Alexandra Bracken
+20. The Mortal Instruments: City of Bones by Cassandra Clare
+21. The Mortal Instruments: City of Ashes by Cassandra Clare
+22. The Mortal Instruments: City of Glass by Cassandra Clare
+23. The Mortal Instruments: City of Fallen Angels by Cassandra Clare
+24. The Mortal Instruments: City of Lost Souls by Cassandra Clare
+25. The Mortal Instruments: City of Heavenly Fire by Cassandra Clare
+26. The Infernal Devices: Clockwork Angel by Cassandra Clare
+27. The Infernal Devices: Clockwork Prince by Cassandra Clare
+28. The Infernal Devices: Clockwork Princess by Cassandra Clare
+29. The Dark Artifices: Lady Midnight by Cassandra Clare
+30. The Dark Artifices: Lord of Shadows by Cassandra Clare
+31. The Dark Artifices: Queen of Air and Darkness by Cassandra Clare
+32. The Lunar Chronicles: Cinder by Marissa Meyer
+33. The Lunar Chronicles: Scarlet by Marissa Meyer
+34. The Lunar Chronicles: Cress by Marissa Meyer
+35. The Lunar Chronicles: Winter by Marissa Meyer
+36. The Lunar Chronicles: Fairest by Marissa Meyer
+37. The Lunar Chronicles: Stars Above by Marissa Meyer
+38. Red Queen by Victoria Aveyard
+39. Glass Sword by Victoria Aveyard
+40. King's Cage by Victoria Aveyard
+41. War Storm by Victoria Aveyard
+42. The Selection: The Heir by Kiera Cass
+43. The Selection: The Crown by Kiera Cass
+44. The Selection: The Prince by Kiera Cass
+45. The Selection: The Guard by Kiera Cass
+46. The Selection: The Favorite by Kiera Cass
+47. The Selection: The One by Kiera Cass
+48. The Selection: The Elite by Kiera Cass
+49. The Selection: The Selection by K

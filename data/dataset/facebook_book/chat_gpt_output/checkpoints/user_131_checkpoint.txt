@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Notebook by Nicholas Sparks
+2. The Bridges of Madison County by Robert James Waller
+3. The Fault in Our Stars by John Green
+4. Me Before You by Jojo Moyes
+5. The Time Traveler's Wife by Audrey Niffenegger
+6. The Last Song by Nicholas Sparks
+7. The Lucky One by Nicholas Sparks
+8. The Best of Me by Nicholas Sparks
+9. The Choice by Nicholas Sparks
+10. The Wedding by Nicholas Sparks
+11. The Rescue by Nicholas Sparks
+12. Nights in Rodanthe by Nicholas Sparks
+13. The Guardian by Nicholas Sparks
+14. The Host by Stephenie Meyer
+15. The Hunger Games by Suzanne Collins
+16. Catching Fire by Suzanne Collins
+17. Mockingjay by Suzanne Collins
+18. Divergent by Veronica Roth
+19. Insurgent by Veronica Roth
+20. Allegiant by Veronica Roth
+21. The Maze Runner by James Dashner
+22. The Scorch Trials by James Dashner
+23. The Death Cure by James Dashner
+24. The Kill Order by James Dashner
+25. The Giver by Lois Lowry
+26. Gathering Blue by Lois Lowry
+27. Messenger by Lois Lowry
+28. Son by Lois Lowry
+29. The Girl on the Train by Paula Hawkins
+30. Gone Girl by Gillian Flynn
+31. The Lovely Bones by Alice Sebold
+32. The Help by Kathryn Stockett
+33. Water for Elephants by Sara Gruen
+34. The Kite Runner by Khaled Hosseini
+35. A Thousand Splendid Suns by Khaled Hosseini
+36. And the Mountains Echoed by Khaled Hosseini
+37. The Alchemist by Paulo Coelho
+38. The Zahir by Paulo Coelho
+39. The Valkyries by Paulo Coelho
+40. The Devil and Miss Prym by Paulo Coelho
+41. The Fifth Mountain by Paulo Coelho
+42. The Pilgrimage by Paulo Coelho
+43. The Witch of Portobello by Paulo Coelho
+44. The Winner Stands Alone by Paulo Coelho
+45. The Spy by Paulo Coelho
+46. The Girl with the Dragon Tattoo by Stieg Larsson
+47. The Girl Who Played with Fire by Stieg Larsson
+48. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+49. Angels and Demons by Dan Brown
+50. Inferno by Dan Brown

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games (series) by Suzanne Collins
+2. Percy Jackson and the Olympians (series) by Rick Riordan
+3. Harry Potter (series) by J.K. Rowling
+4. The Fault in Our Stars by John Green
+5. Divergent (series) by Veronica Roth
+6. The Maze Runner (series) by James Dashner
+7. The Giver by Lois Lowry
+8. The Chronicles of Narnia (series) by C.S. Lewis
+9. The Book Thief by Markus Zusak
+10. The Outsiders by S.E. Hinton
+11. To Kill a Mockingbird by Harper Lee
+12. The Catcher in the Rye by J.D. Salinger
+13. The Perks of Being a Wallflower by Stephen Chbosky
+14. The Lord of the Rings (series) by J.R.R. Tolkien
+15. The Hobbit by J.R.R. Tolkien
+16. The Girl on the Train by Paula Hawkins
+17. Gone Girl by Gillian Flynn
+18. The Da Vinci Code by Dan Brown
+19. Angels and Demons by Dan Brown
+20. The Lovely Bones by Alice Sebold
+21. The Help by Kathryn Stockett
+22. Water for Elephants by Sara Gruen
+23. The Time Traveler's Wife by Audrey Niffenegger
+24. The Notebook by Nicholas Sparks
+25. A Walk to Remember by Nicholas Sparks
+26. The Lucky One by Nicholas Sparks
+27. Safe Haven by Nicholas Sparks
+28. The Best of Me by Nicholas Sparks
+29. The Choice by Nicholas Sparks
+30. The Longest Ride by Nicholas Sparks
+31. The Shack by William P. Young
+32. The Alchemist by Paulo Coelho
+33. The Secret Life of Bees by Sue Monk Kidd
+34. The Kite Runner by Khaled Hosseini
+35. A Thousand Splendid Suns by Khaled Hosseini
+36. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+37. The Help by Kathryn Stockett
+38. The Nightingale by Kristin Hannah
+39. The Great Gatsby by F. Scott Fitzgerald
+40. The Picture of Dorian Gray by Oscar Wilde
+41. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+42. The Count of Monte Cristo by Alexandre Dumas
+43. Les Misérables by Victor Hugo
+44. Pride and Prejudice by Jane Austen
+45. Sense and Sensibility by Jane Austen
+46. Emma by Jane Austen
+47. Persuasion by Jane Austen
+48. Northanger Abbey by Jane Austen
+49. Wuthering Heights by Emily Bronte
+50. Jane Eyre by Charlotte Bronte

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations are:
+
+1. Maroon 5
+2. Muse
+3. The Black Keys
+4. Arctic Monkeys
+5. Kings of Leon
+6. Phoenix
+7. Franz Ferdinand
+8. The Killers
+9. Taylor Swift
+10. Katy Perry
+11. Ellie Goulding
+12. Alanis Morissette
+13. Kelly Clarkson
+14. Ashlee Simpson
+15. OK Go
+16. Lifehouse
+17. Feist
+18. Lily Allen
+19. The Ting Tings
+20. Rooney
+21. Glee Cast
+22. Plain White T's
+23. Panic! At the Disco
+24. Phantom Planet
+25. Friendly Fires
+26. All Time Low
+27. Cobra Starship
+28. Fall Out Boy
+29. Boys Like Girls
+30. The Veronicas
+31. Britney Spears
+32. Lady Gaga
+33. Rihanna
+34. Justin Bieber
+35. Green Day
+36. P!nk
+37. Ke$ha
+38. Jason Mraz
+39. Michael Jackson
+40. Coldplay
+41. Fergie
+42. 3OH!3
+43. Mika
+44. Kate Voegele
+45. Carrie Underwood
+46. Aly & AJ
+47. Danity Kane
+48. Ashley Tisdale
+49. Nick Jonas & The Administration
+50. Hannah Montana

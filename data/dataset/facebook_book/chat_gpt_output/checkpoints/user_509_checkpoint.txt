@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Dubliners by James Joyce
+2. Tinker Tailor Soldier Spy by John le Carré
+3. Lord Jim by Joseph Conrad
+4. War and Peace by Leo Tolstoy
+5. The Magus by John Fowles
+6. The Glass Palace by Amitav Ghosh
+7. Wuthering Heights by Emily Brontë
+8. The Plague by Albert Camus
+9. The Hobbit by J.R.R. Tolkien
+10. Little Women by Louisa May Alcott
+11. The Chronicles of Narnia by C.S. Lewis
+12. A Suitable Boy by Vikram Seth
+13. The Hound of the Baskervilles by Arthur Conan Doyle
+14. Into Thin Air by Jon Krakauer
+15. The Remains of the Day by Kazuo Ishiguro
+16. The Secret History by Donna Tartt
+17. The Catcher in the Rye by J.D. Salinger
+18. The Great Gatsby by F. Scott Fitzgerald
+19. To Kill a Mockingbird by Harper Lee
+20. Pride and Prejudice by Jane Austen
+21. Sense and Sensibility by Jane Austen
+22. Emma by Jane Austen
+23. Mansfield Park by Jane Austen
+24. Persuasion by Jane Austen
+25. Northanger Abbey by Jane Austen
+26. The Picture of Dorian Gray by Oscar Wilde
+27. The Importance of Being Earnest by Oscar Wilde
+28. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+29. The Return of Sherlock Holmes by Arthur Conan Doyle
+30. The Valley of Fear by Arthur Conan Doyle
+31. The Sign of Four by Arthur Conan Doyle
+32. The Memoirs of Sherlock Holmes by Arthur Conan Doyle
+33. The Case-Book of Sherlock Holmes by Arthur Conan Doyle
+34. The Adventures of Tom Sawyer by Mark Twain
+35. The Adventures of Huckleberry Finn by Mark Twain
+36. The Time Machine by H.G. Wells
+37. The War of the Worlds by H.G. Wells
+38. The Island of Dr. Moreau by H.G. Wells
+39. The Invisible Man by H.G. Wells
+40. The Call of the Wild by Jack London
+41. White Fang by Jack London
+42. The Old Man and the Sea by Ernest Hemingway
+43. For Whom the Bell Tolls by Ernest Hemingway
+44. The Sun Also Rises by Ernest Hemingway
+45. The Catcher in the Rye by J.D. Salinger
+46. Franny and Zooey by J.D. Salinger
+47. Nine Stories by J.D. Salinger
+48. The Bell Jar by Sylvia Plath
+49. The Crying of Lot 49 by Thomas Pynchon

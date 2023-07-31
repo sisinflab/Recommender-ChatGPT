@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. On the Road by Jack Kerouac
+2. The Great Gatsby by F. Scott Fitzgerald
+3. Crime and Punishment by Fyodor Dostoevsky
+4. The Picture of Dorian Gray by Oscar Wilde
+5. The Lord of the Rings by J.R.R. Tolkien
+6. Frankenstein by Mary Shelley
+7. Brave New World by Aldous Huxley
+8. The Stranger by Albert Camus
+9. The Silence of the Lambs by Thomas Harris
+10. Nineteen Eighty-Four by George Orwell
+11. The Catcher in the Rye by J.D. Salinger
+12. Inferno by Dante Alighieri
+13. The Giver by Lois Lowry
+14. A Wrinkle in Time by Madeleine L'Engle
+15. The Fountainhead by Ayn Rand
+16. Thirteen Reasons Why by Jay Asher
+17. Burned by Ellen Hopkins
+18. The Shadow of the Wind by Carlos Ruiz Zafón
+19. Hannibal by Thomas Harris
+20. Running with Scissors by Augusten Burroughs
+21. Musashi by Eiji Yoshikawa
+22. The Watchmen by Alan Moore
+23. American Psycho by Bret Easton Ellis
+24. Pygmy by Chuck Palahniuk
+25. Choke by Chuck Palahniuk
+26. Crank by Ellen Hopkins
+27. Glass by Ellen Hopkins
+28. Go Ask Alice by Anonymous
+29. Of Mice and Men by John Steinbeck
+30. Dracula by Bram Stoker
+31. Iliad by Homer
+32. Diary by Chuck Palahniuk
+33. Martyn Pig by Kevin Brooks
+34. Paradise Lost by John Milton
+35. Last Words by George Carlin
+36. The Tao of Pooh by Benjamin Hoff
+37. The Subtle Knife by Philip Pullman
+38. The Amber Spyglass by Philip Pullman
+39. Eragon by Christopher Paolini
+40. The Secret by Rhonda Byrne
+41. Twilight by Stephenie Meyer
+42. A Farewell to Arms by Ernest Hemingway
+43. The Prince by Niccolò Machiavelli
+44. Miss Christina by Mircea Eliade
+45. Reviving Ophelia by Mary Pipher
+46. Identical by Ellen Hopkins
+47. Manga by Various Authors
+48. Charmed by Paul Ruditis
+49. Evermore by Alyson Noël
+50. It Happened to Nancy by Anonymous Teenager

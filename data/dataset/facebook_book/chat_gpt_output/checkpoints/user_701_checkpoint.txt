@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Alchemist by Paulo Coelho
+2. Veronika Decides to Die by Paulo Coelho
+3. The Zahir by Paulo Coelho
+4. The Valkyries by Paulo Coelho
+5. The Witch of Portobello by Paulo Coelho
+6. Brida by Paulo Coelho
+7. The Winner Stands Alone by Paulo Coelho
+8. The Devil and Miss Prym by Paulo Coelho
+9. By the River Piedra I Sat Down and Wept by Paulo Coelho
+10. The Fifth Mountain by Paulo Coelho
+11. The Pilgrimage by Paulo Coelho
+12. The Spy by Paulo Coelho
+13. The Witch Elm by Tana French
+14. The Hunger Games by Suzanne Collins
+15. The Fault in Our Stars by John Green
+16. The Girl on the Train by Paula Hawkins
+17. The Da Vinci Code by Dan Brown
+18. Angels and Demons by Dan Brown
+19. Inferno by Dan Brown
+20. Origin by Dan Brown
+21. The Twilight Saga by Stephenie Meyer
+22. New Moon by Stephenie Meyer
+23. Eclipse by Stephenie Meyer
+24. Breaking Dawn by Stephenie Meyer
+25. Midnight Sun by Stephenie Meyer
+26. A Thousand Splendid Suns by Khaled Hosseini
+27. The Kite Runner by Khaled Hosseini
+28. And the Mountains Echoed by Khaled Hosseini
+29. The Prophet by Kahlil Gibran
+30. The Madman by Kahlil Gibran
+31. The Garden of the Prophet by Kahlil Gibran
+32. The Essential Rumi by Rumi
+33. Conversations with God by Neale Donald Walsch
+34. The Celestine Prophecy by James Redfield
+35. The Power of Now by Eckhart Tolle
+36. The Secret by Rhonda Byrne
+37. The Magic by Rhonda Byrne
+38. The Hero by Rhonda Byrne
+39. The Monk Who Sold His Ferrari by Robin Sharma
+40. Raja Yoga by Swami Vivekananda
+41. The Bhagavad Gita by Vyasa
+42. The Upanishads by Anonymous
+43. The Tao Te Ching by Lao Tzu
+44. The Art of War by Sun Tzu
+45. One Hundred Years of Solitude by Gabriel García Márquez
+46. Love in the Time of Cholera by Gabriel García Márquez
+47. Chronicle of a Death Foretold by Gabriel García Márquez
+48. The General in His Labyrinth by Gabriel García Márquez
+49. Memories of My Melancholy Whores by Gabriel García Márquez
+50. PS, I Love You by Cecelia Ahern

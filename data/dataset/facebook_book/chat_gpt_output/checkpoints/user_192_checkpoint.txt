@@ -1,0 +1,46 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Dreams from My Father by Barack Obama
+2. The Power of Now by Eckhart Tolle
+3. The 7 Habits of Highly Effective People by Stephen Covey
+4. The Alchemist by Paulo Coelho
+5. The Art of War by Sun Tzu
+6. The Secret by Rhonda Byrne
+7. The Four Agreements by Don Miguel Ruiz
+8. The Road Less Traveled by M. Scott Peck
+9. The Celestine Prophecy by James Redfield
+10. The Prophet by Kahlil Gibran
+11. The Bhagavad Gita
+12. The Tao Te Ching by Lao Tzu
+13. The Power of Positive Thinking by Norman Vincent Peale
+14. The 48 Laws of Power by Robert Greene
+15. The Lean Startup by Eric Ries
+16. The Innovator's Dilemma by Clayton Christensen
+17. The Lean Product Playbook by Dan Olsen
+18. The Design of Everyday Things by Don Norman
+19. The Lean UX by Jeff Gothelf
+20. The Lean Enterprise by Jez Humble
+21. The Lean Product Development Guidebook by Ronald Mascitelli
+22. The Lean Mindset by Mary Poppendieck
+23. The Lean Six Sigma Pocket Toolbook by Michael George
+24. The Lean Six Sigma Black Belt Handbook by Frank Voehl
+25. The Lean Six Sigma Green Belt Handbook by Roderick A. Munro
+26. The Lean Six Sigma Yellow Belt Handbook by Roderick A. Munro
+27. The Lean Six Sigma Pocket Guide by Rob Ptacek
+28. The Lean Six Sigma Deployment Memory Jogger by Karen Martin
+29. The Lean Six Sigma Black Belt Memory Jogger by Sarah Carleton
+30. The Lean Six Sigma Green Belt Memory Jogger by Sarah Carleton
+31. The Lean Six Sigma Yellow Belt Memory Jogger by Sarah Carleton
+32. The Lean Six Sigma Pocket Toolbook for Healthcare by Michael George
+33. The Lean Six Sigma Pocket Toolbook for Service by Michael George
+34. The Lean Six Sigma Pocket Toolbook for Financial Services by Michael George
+35. The Lean Six Sigma Pocket Toolbook for Manufacturing by Michael George
+36. The Lean Six Sigma Pocket Toolbook for Non-Profit by Michael George
+37. The Lean Six Sigma Pocket Toolbook for Government by Michael George
+38. The Lean Six Sigma Pocket Toolbook for Education by Michael George
+39. The Lean Six Sigma Pocket Toolbook for IT by Michael George
+40. The Lean Six Sigma Pocket Toolbook for Sales by Michael George
+41. The Lean Six Sigma Pocket Toolbook for Marketing by Michael George
+42. The Lean Six Sigma Pocket Toolbook for HR by Michael George
+43. The Lean Six Sigma Pocket Toolbook for Legal by Michael George
+44. The

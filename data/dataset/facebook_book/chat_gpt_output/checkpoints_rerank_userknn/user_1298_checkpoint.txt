@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. Nineteen Eighty-Four by George Orwell
+3. The Lord of the Rings by J.R.R. Tolkien
+4. Pride and Prejudice by Jane Austen
+5. The Book Thief by Markus Zusak
+6. The Hunger Games by Suzanne Collins
+7. The Kite Runner by Khaled Hosseini
+8. Things Fall Apart by Chinua Achebe
+9. One Hundred Years of Solitude by Gabriel Garcia Marquez
+10. The Giver by Lois Lowry
+11. The Outsiders by S.E. Hinton
+12. Les Misérables by Victor Hugo
+13. Brave New World by Aldous Huxley
+14. The Scarlet Letter by Nathaniel Hawthorne
+15. Macbeth by William Shakespeare
+16. Tess of the d'Urbervilles by Thomas Hardy
+17. The Winter's Tale by William Shakespeare
+18. Little Women by Louisa May Alcott
+19. Heart of Darkness by Joseph Conrad
+20. The Catcher in the Rye by J.D. Salinger
+21. The Great Gatsby by F. Scott Fitzgerald
+22. Jane Eyre by Charlotte Brontë
+23. The Tempest by William Shakespeare
+24. A Midsummer Night's Dream by William Shakespeare
+25. Leaves of Grass by Walt Whitman
+26. The Secret Life of Bees by Sue Monk Kidd
+27. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+28. Ender's Game by Orson Scott Card
+29. The Giver by Lois Lowry
+30. The Joy Luck Club by Amy Tan
+31. The Glass Menagerie by Tennessee Williams
+32. The Return of the Native by Thomas Hardy
+33. The Umbrella Academy by Gerard Way
+34. Fried Green Tomatoes at the Whistle Stop Cafe by Fannie Flagg
+35. Emma by Jane Austen
+36. The God Delusion by Richard Dawkins
+37. Ishmael by Daniel Quinn
+38. Titus Andronicus by William Shakespeare
+39. Persepolis by Marjane Satrapi
+40. The Messenger by Markus Zusak
+41. My Sister's Keeper by Jodi Picoult
+42. The Good Earth by Pearl S. Buck
+43. Will Grayson, Will Grayson by John Green and David Levithan
+44. Holes by Louis Sachar
+45. Skinny Bitch by Rory Freedman and Kim Barnouin
+46. The Five People You Meet in Heaven by Mitch Albom
+47. Of Mice and Men by John Steinbeck
+48. Philosophical Investigations by Ludwig Wittgenstein
+49. Where the Heart Is by Billie Letts
+50. Freedom by Jonathan Franzen

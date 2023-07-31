@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for user 1770 would be:
+
+1. The Prodigy
+2. Chase & Status
+3. Beastie Boys
+4. Ghostface Killah
+5. A Tribe Called Quest
+6. Digitalism
+7. Empire of the Sun
+8. Black Eyed Peas
+9. Ke$ha
+10. Jason Derülo
+11. 50 Cent
+12. Lady Gaga
+13. Rihanna
+14. Beyoncé
+15. Madonna
+16. Pink Floyd
+17. Muse
+18. Radiohead
+19. Nirvana
+20. Metallica
+21. Led Zeppelin
+22. Iron Maiden
+23. Michael Jackson
+24. The Beatles
+25. U2
+26. Shakira
+27. Christina Aguilera
+28. Katy Perry
+29. Taylor Swift
+30. Avril Lavigne
+31. Evanescence
+32. Glee Cast
+33. Duran Duran
+34. Coldplay
+35. Blur
+36. Arctic Monkeys
+37. Placebo
+38. The Killers
+39. Amy Winehouse
+40. a-ha
+41. Björk
+42. System of a Down
+43. Daft Punk
+44. Nine Inch Nails
+45. Linkin Park
+46. Kelly Clarkson
+47. All Time Low
+48. P!nk
+49. Avenged Sevenfold
+50. My Chemical Romance

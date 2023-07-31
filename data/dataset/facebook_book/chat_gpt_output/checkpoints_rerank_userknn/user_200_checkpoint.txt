@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. The Lord of the Rings by J.R.R. Tolkien
+3. The Chronicles of Narnia by C.S. Lewis
+4. The Bourne Identity by Robert Ludlum
+5. The Da Vinci Code by Dan Brown
+6. Romeo and Juliet by William Shakespeare
+7. The Notebook by Nicholas Sparks
+8. Lolita by Vladimir Nabokov
+9. Sense and Sensibility by Jane Austen
+10. The Truth About Forever by Sarah Dessen
+11. Touching Spirit Bear by Ben Mikaelsen
+12. Sabriel by Garth Nix
+13. Nightfall by Isaac Asimov
+14. The Umbrella Academy by Gerard Way
+15. The Sword of Truth by Terry Goodkind
+16. The Once and Future King by T.H. White
+17. Johnny the Homicidal Maniac by Jhonen Vasquez
+18. Crank by Ellen Hopkins
+19. Gathering Blue by Lois Lowry
+20. The Hero and the Crown by Robin McKinley
+21. Song of the Sparrow by Lisa Ann Sandell
+22. Rhapsody: Child of Blood by Elizabeth Haydon
+23. Witch & Wizard by James Patterson
+24. The Last Unicorn by Peter S. Beagle
+25. Abhorsen by Garth Nix
+26. A Series of Unfortunate Events by Lemony Snicket
+27. The Hardy Boys by Franklin W. Dixon
+28. Go Ask Alice by Anonymous
+29. That Was Then, This Is Now by S.E. Hinton
+30. The Time Traveler's Wife by Audrey Niffenegger
+31. The Last Storytellers: Tales from the Heart of Morocco by Richard Hamilton
+32. Yu-Gi-Oh! by Kazuki Takahashi
+33. Rurouni Kenshin by Nobuhiro Watsuki
+34. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+35. Along for the Ride by Sarah Dessen
+36. Fablehaven by Brandon Mull
+37. The Boleyn Inheritance by Philippa Gregory
+38. Eldest by Christopher Paolini
+39. Pride and Prejudice by Jane Austen
+40. The Kane Chronicles by Rick Riordan
+41. Studies of the Book of Mormon by B.H. Roberts
+42. Alice's Adventures in Wonderland by Lewis Carroll
+43. Brisingr by Christopher Paolini
+44. Fahrenheit 451 by Ray Bradbury
+45. Looking for Alaska by John Green
+46. Uglies by Scott Westerfeld
+47. An Abundance of Katherines by John Green
+48. Redwall by Brian Jacques and Stuart Moore
+49. Goodnight Moon by Margaret Wise Brown
+50. Eragon by Christopher Paolini

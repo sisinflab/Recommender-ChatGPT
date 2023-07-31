@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Nirvana
+2. Black Flag
+3. Wu-Tang Clan
+4. Pixies
+5. Fugazi
+6. Public Enemy
+7. The Clash
+8. Sonic Youth
+9. Beastie Boys
+10. Minor Threat
+11. Dead Kennedys
+12. N.W.A.
+13. Misfits
+14. Operation Ivy
+15. Rage Against the Machine
+16. The Smiths
+17. Radiohead
+18. The Ramones
+19. Melvins
+20. 2Pac
+21. Bob Marley & The Wailers
+22. Bad Brains
+23. Babyshambles
+24. System of a Down
+25. Joy Division
+26. Bone Thugs-N-Harmony
+27. GZA/Genius
+28. The Doors
+29. The Libertines
+30. The Hives
+31. Notorious B.I.G.
+32. Dr. Dre
+33. The Distillers
+34. D12
+35. Madlib
+36. The Stooges
+37. The Velvet Underground
+38. The White Stripes
+39. The Black Keys
+40. Arctic Monkeys
+41. Queens of the Stone Age
+42. The Strokes
+43. Interpol
+44. Yeah Yeah Yeahs
+45. Vampire Weekend
+46. LCD Soundsystem
+47. Arcade Fire
+48. The National
+49. Tame Impala
+50. Foals

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Fallout by Ellen Hopkins
+2. Wintergirls by Laurie Halse Anderson
+3. The Perks of Being a Wallflower by Stephen Chbosky
+4. Looking for Alaska by John Green
+5. Speak by Laurie Halse Anderson
+6. If I Stay by Gayle Forman
+7. The Fault in Our Stars by John Green
+8. The Hunger Games by Suzanne Collins
+9. Divergent by Veronica Roth
+10. The Maze Runner by James Dashner
+11. The Giver by Lois Lowry
+12. The Book Thief by Markus Zusak
+13. The Lovely Bones by Alice Sebold
+14. The Catcher in the Rye by J.D. Salinger
+15. The Bell Jar by Sylvia Plath
+16. The Girl on the Train by Paula Hawkins
+17. Gone Girl by Gillian Flynn
+18. Sharp Objects by Gillian Flynn
+19. Dark Places by Gillian Flynn
+20. The Girl with the Dragon Tattoo by Stieg Larsson
+21. The Girl Who Played with Fire by Stieg Larsson
+22. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+23. The Da Vinci Code by Dan Brown
+24. Angels and Demons by Dan Brown
+25. Inferno by Dan Brown
+26. The Hunger Games: Catching Fire by Suzanne Collins
+27. The Hunger Games: Mockingjay by Suzanne Collins
+28. Insurgent by Veronica Roth
+29. Allegiant by Veronica Roth
+30. The Scorch Trials by James Dashner
+31. The Death Cure by James Dashner
+32. The Kill Order by James Dashner
+33. The 5th Wave by Rick Yancey
+34. The Infinite Sea by Rick Yancey
+35. The Last Star by Rick Yancey
+36. The Selection by Kiera Cass
+37. The Elite by Kiera Cass
+38. The One by Kiera Cass
+39. The Crown by Kiera Cass
+40. The Maze Runner Files by James Dashner
+41. The Maze Runner: The Scorch Trials Official Graphic Novel Prelude by Jackson Lanzing
+42. The Maze Runner: The Scorch Trials Official Graphic Novel by Wes Ball
+43. The Maze Runner: The Death Cure Official Graphic Novel Prelude by Jackson Lanzing
+44. The Maze Runner: The Death Cure Official Graphic Novel by Wes Ball
+45. The Maze Runner: The Fever Code by James Dashner
+46. The Maze Runner: The Kill Order Official Graphic Novel Prelude by Jackson Lanzing
+47. The Maze Runner: The Kill Order Official Graphic Novel by Wes Ball
+48. The Maze Runner: The Maze Runner Official Graphic Novel Prelude by Jackson Lanzing
+49. The Maze Runner: The Maze Runner Official Graphic Novel by Wes Ball
+50. The Maze

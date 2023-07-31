@@ -1,0 +1,48 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter by J.K. Rowling
+2. Twilight (series) by Stephenie Meyer
+3. The Hunger Games by Suzanne Collins
+4. The Lord of the Rings by J.R.R. Tolkien
+5. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+6. The Host (novel) by Stephenie Meyer
+7. Eragon by Christopher Paolini
+8. The Great Gatsby by F. Scott Fitzgerald
+9. The Historian by Elizabeth Kostova
+10. The Queen of the Damned by Anne Rice
+11. The Time Traveler's Wife by Audrey Niffenegger
+12. Wuthering Heights by Emily Bronte
+13. Romeo and Juliet by William Shakespeare
+14. Pride and Prejudice and Zombies by Seth Grahame-Smith
+15. The Song of the Lioness by Tamora Pierce
+16. His Dark Materials by Philip Pullman
+17. The Mysterious Benedict Society by Trenton Lee Stewart
+18. The Summoning (novel) by Kelley Armstrong
+19. The Secrets of the Immortal Nicholas Flamel by Michael Scott
+20. The Luxe by Anna Godbersen
+21. The Wolves of Mercy Falls by Maggie Stiefvater
+22. Little Women by Louisa May Alcott
+23. The Last Song (novel) by Nicholas Sparks
+24. The Sisterhood of the Traveling Pants (novel) by Ann Brashares
+25. The Last Storytellers: Tales from the Heart of Morocco by Richard Hamilton
+26. Impulse economy by Paul Marsden
+27. A Great and Terrible Beauty by Libba Bray
+28. Burned (Hopkins novel) by Ellen Hopkins
+29. Identical (novel) by Ellen Hopkins
+30. Thirteen Reasons Why by Jay Asher
+31. The Messenger (Markus Zusak novel) by Markus Zusak
+32. Inheritance (novel) by Christopher Paolini
+33. The Awakening (Chopin novel) by Kate Chopin
+34. Fantastic Mr Fox by Roald Dahl
+35. The Chronicles of Narnia: The Lion, the Witch and the Wardrobe by C.S. Lewis
+36. The Luxe (novel) by Anna Godbersen
+37. The Time Keeper by Mitch Albom
+38. The Book Thief by Markus Zusak
+39. The Fault in Our Stars by John Green
+40. The Alchemist by Paulo Coelho
+41. The Secret Life of Bees by Sue Monk Kidd
+42. The Help by Kathryn Stockett
+43. The Kite Runner by Khaled Hosseini
+44. The Girl with the Dragon Tattoo by Stieg Larsson
+45. The Da Vinci Code by Dan Brown
+46. The Catcher in the Rye

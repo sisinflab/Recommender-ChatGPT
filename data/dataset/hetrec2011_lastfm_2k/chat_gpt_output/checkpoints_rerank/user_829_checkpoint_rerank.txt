@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. Björk
+3. Elliott Smith
+4. The Shins
+5. Arcade Fire
+6. Neutral Milk Hotel
+7. Death Cab for Cutie
+8. Bright Eyes
+9. The Knife
+10. Portishead
+11. Feist
+12. Broken Social Scene
+13. The Strokes
+14. Spoon
+15. Ladytron
+16. MGMT
+17. Stars
+18. CocoRosie
+19. Sufjan Stevens
+20. PJ Harvey
+21. Beck
+22. Bloc Party
+23. Yeah Yeah Yeahs
+24. Cat Power
+25. Fiona Apple
+26. Snow Patrol
+27. Andrew Bird
+28. Kaiser Chiefs
+29. Sonic Youth
+30. Eels
+31. Ladyhawke
+32. Rilo Kiley
+33. Sigur Rós
+34. Muse
+35. Pink Floyd
+36. Nirvana
+37. Led Zeppelin
+38. Metallica
+39. Michael Jackson
+40. Pearl Jam
+41. Duran Duran
+42. Coldplay
+43. Blur
+44. Arctic Monkeys
+45. Placebo
+46. The Killers
+47. Amy Winehouse
+48. Daft Punk
+49. Nine Inch Nails
+50. Linkin Park

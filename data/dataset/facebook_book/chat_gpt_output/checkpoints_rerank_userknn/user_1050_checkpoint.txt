@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. Nineteen Eighty-Four by George Orwell
+3. The Grapes of Wrath by John Steinbeck
+4. A Clockwork Orange by Anthony Burgess
+5. Slaughterhouse-Five by Kurt Vonnegut
+6. Brave New World by Aldous Huxley
+7. The Cask of Amontillado by Edgar Allan Poe
+8. The Masque of the Red Death by Edgar Allan Poe
+9. The Canterbury Tales by Geoffrey Chaucer
+10. A Tale of Two Cities by Charles Dickens
+11. The Forever War by Joe Haldeman
+12. Doctor Zhivago by Boris Pasternak
+13. The Universe in a Nutshell by Stephen Hawking
+14. The Watchmen by Alan Moore
+15. V for Vendetta by Alan Moore
+16. The Lorax by Dr. Seuss
+17. The Butter Battle Book by Dr. Seuss
+18. The Giver by Lois Lowry
+19. The Outsiders by S.E. Hinton
+20. Lord of the Flies by William Golding
+21. The City of Ember by Jeanne DuPrau
+22. Little Women by Louisa May Alcott
+23. Ethan Frome by Edith Wharton
+24. Persuasion by Jane Austen
+25. Mansfield Park by Jane Austen
+26. A Midsummer Night's Dream by William Shakespeare
+27. The Complete Works of William Shakespeare
+28. The Wanderers by Richard Price
+29. Battle Royale by Koushun Takami
+30. Kick-Ass by Mark Millar
+31. The Last Storytellers by Richard Hamilton
+32. The Melancholy Death of Oyster Boy by Tim Burton
+33. Neverwhere by Neil Gaiman
+34. Stardust by Neil Gaiman
+35. Mythology by Edith Hamilton
+36. The Watchmen (novelization) by John Altman
+37. Flashforward by Robert J. Sawyer
+38. Rendezvous with Rama by Arthur C. Clarke
+39. Timequake by Kurt Vonnegut
+40. Bone by Jeff Smith
+41. Isaac Asimov's Robot City by William F. Wu
+42. The Hamlet by William Faulkner
+43. Mother Night by Kurt Vonnegut
+44. The Gold Bug Variations by Richard Powers
+45. Absolutely Normal Chaos by Sharon Creech
+46. List of Scott Pilgrim characters by Bryan Lee O'Malley
+47. Fade by Robert Cormier
+48. The Class by Erich Segal
+49. Alice's Adventures in Wonderland by Lewis Carroll
+50. Jabberwocky by Lewis Carroll

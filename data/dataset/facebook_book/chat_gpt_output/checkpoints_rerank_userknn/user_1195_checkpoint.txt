@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. To Kill a Mockingbird by Harper Lee
+3. Nineteen Eighty-Four by George Orwell
+4. The Lord of the Rings by J.R.R. Tolkien
+5. The Hobbit by J.R.R. Tolkien
+6. The Hunger Games by Suzanne Collins
+7. The Grapes of Wrath by John Steinbeck
+8. Alice's Adventures in Wonderland by Lewis Carroll
+9. The Little Prince by Antoine de Saint-Exupéry
+10. Winnie-the-Pooh by A.A. Milne
+11. Sophie's World by Jostein Gaarder
+12. House of Leaves by Mark Z. Danielewski
+13. Franny and Zooey by J.D. Salinger
+14. Fahrenheit 451 by Ray Bradbury
+15. The Bell Jar by Sylvia Plath
+16. Moby-Dick by Herman Melville
+17. The Fountainhead by Ayn Rand
+18. The Secret by Rhonda Byrne
+19. The Spiderwick Chronicles by Tony DiTerlizzi and Holly Black
+20. The Perks of Being a Wallflower by Stephen Chbosky
+21. The Adventures of Tom Sawyer by Mark Twain
+22. The Nanny Diaries by Emma McLaughlin and Nicola Kraus
+23. The Pact by Jodi Picoult
+24. The World According to Garp by John Irving
+25. Guinness World Records by Guinness World Records
+26. Number the Stars by Lois Lowry
+27. The Sleeping Beauty by Mercedes Lackey
+28. Black Butler by Yana Toboso
+29. The Sea of Trolls by Nancy Farmer
+30. Inheritance Cycle by Christopher Paolini
+31. Tuesdays with Morrie by Mitch Albom
+32. Batman: The Killing Joke by Alan Moore and Brian Bolland
+33. Le Morte d'Arthur by Thomas Malory
+34. The Zombie Survival Guide by Max Brooks
+35. Haunted by Chuck Palahniuk
+36. Choke by Chuck Palahniuk
+37. The Solitaire Mystery by Jostein Gaarder
+38. Impulse economy by Gary Schwartz (designer)
+39. Water for Elephants by Sara Gruen
+40. Peter and Wendy by J.M. Barrie
+41. Through the Looking-Glass by Lewis Carroll
+42. Rant by Chuck Palahniuk
+43. The Picture of Dorian Gray by Oscar Wilde
+44. A Light in the Attic by Shel Silverstein
+45. Slaughterhouse-Five by Kurt Vonnegut
+46. Common Sense by Thomas Paine
+47. Brave New World by Aldous Huxley
+48. Necroscope by Brian Lumley
+49. Go Ask

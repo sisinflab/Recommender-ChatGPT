@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Catcher in the Rye by J.D. Salinger
+3. 1984 by George Orwell
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Pride and Prejudice by Jane Austen
+6. The Hobbit by J.R.R. Tolkien
+7. The Lord of the Rings by J.R.R. Tolkien
+8. The Hunger Games by Suzanne Collins
+9. Harry Potter and the Philosopher's Stone by J.K. Rowling
+10. The Fault in Our Stars by John Green
+11. The Book Thief by Markus Zusak
+12. The Chronicles of Narnia by C.S. Lewis
+13. The Picture of Dorian Gray by Oscar Wilde
+14. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+15. The Secret Garden by Frances Hodgson Burnett
+16. Little Women by Louisa May Alcott
+17. The Color Purple by Alice Walker
+18. The Bell Jar by Sylvia Plath
+19. The Handmaid's Tale by Margaret Atwood
+20. The Road by Cormac McCarthy
+21. The Kite Runner by Khaled Hosseini
+22. The Girl with the Dragon Tattoo by Stieg Larsson
+23. The Da Vinci Code by Dan Brown
+24. The Help by Kathryn Stockett
+25. The Lovely Bones by Alice Sebold
+26. The Alchemist by Paulo Coelho
+27. The Picture of Dorian Gray by Oscar Wilde
+28. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+29. The Secret Garden by Frances Hodgson Burnett
+30. Little Women by Louisa May Alcott
+31. The Color Purple by Alice Walker
+32. The Bell Jar by Sylvia Plath
+33. The Handmaid's Tale by Margaret Atwood
+34. The Road by Cormac McCarthy
+35. The Kite Runner by Khaled Hosseini
+36. The Girl with the Dragon Tattoo by Stieg Larsson
+37. The Da Vinci Code by Dan Brown
+38. The Help by Kathryn Stockett
+39. The Lovely Bones by Alice Sebold
+40. The Alchemist by Paulo Coelho
+41. The Picture of Dorian Gray by Oscar Wilde
+42. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+43. The Secret Garden by Frances Hodgson Burnett
+44. Little Women by Louisa May Alcott
+45. The Color Purple by Alice Walker
+46. The Bell Jar by Sylvia Plath
+47. The Handmaid's Tale by Margaret Atwood
+48. The Road by Cormac McCarthy
+49. The Kite Runner by Khaled Hosseini
+50. The Girl with the Dragon Tattoo by Stieg Larsson

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. American Gods by Neil Gaiman
+2. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+3. The Shining by Stephen King
+4. The Stand by Stephen King
+5. The Road by Cormac McCarthy
+6. The Girl with the Dragon Tattoo by Stieg Larsson
+7. The Hunger Games by Suzanne Collins
+8. The Catcher in the Rye by J.D. Salinger
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Silence of the Lambs by Thomas Harris
+11. The Da Vinci Code by Dan Brown
+12. The Name of the Wind by Patrick Rothfuss
+13. The Dark Tower series by Stephen King
+14. The Lord of the Rings by J.R.R. Tolkien
+15. The Hobbit by J.R.R. Tolkien
+16. The Chronicles of Narnia by C.S. Lewis
+17. The Harry Potter series by J.K. Rowling
+18. The Shadow of the Wind by Carlos Ruiz Zafón
+19. The Great Gatsby by F. Scott Fitzgerald
+20. The Old Man and the Sea by Ernest Hemingway
+21. Brave New World by Aldous Huxley
+22. Fahrenheit 451 by Ray Bradbury
+23. 1984 by George Orwell
+24. Animal Farm by George Orwell
+25. To Kill a Mockingbird by Harper Lee
+26. One Hundred Years of Solitude by Gabriel García Márquez
+27. Love in the Time of Cholera by Gabriel García Márquez
+28. Crime and Punishment by Fyodor Dostoevsky
+29. The Brothers Karamazov by Fyodor Dostoevsky
+30. War and Peace by Leo Tolstoy
+31. Anna Karenina by Leo Tolstoy
+32. Dubliners by James Joyce
+33. Ulysses by James Joyce
+34. The Bell Jar by Sylvia Plath
+35. Heart of Darkness by Joseph Conrad
+36. Lord of the Flies by William Golding
+37. The Picture of Dorian Gray by Oscar Wilde
+38. The Trial by Franz Kafka
+39. The Metamorphosis by Franz Kafka
+40. The Stranger by Albert Camus
+41. The Plague by Albert Camus
+42. The Outsider by Albert Camus
+43. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+44. The Restaurant at the End of the Universe by Douglas Adams
+45. The Long Dark Tea-Time of the Soul by Douglas Adams
+46. The War of the Worlds by H.G. Wells
+47. The Time Machine by H.G. Wells
+48. The Invisible Man by H.G. Wells
+49. The Island of Dr. Moreau by H.G. Wells
+50. The Call

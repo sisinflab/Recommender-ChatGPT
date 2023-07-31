@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. Fahrenheit 451 by Ray Bradbury
+4. The Giver by Lois Lowry
+5. The Hunger Games by Suzanne Collins
+6. Ender's Game by Orson Scott Card
+7. Dune by Frank Herbert
+8. The Lord of the Rings by J.R.R. Tolkien
+9. Harry Potter and the Philosopher's Stone by J.K. Rowling
+10. The Chronicles of Narnia by C.S. Lewis
+11. The Hobbit by J.R.R. Tolkien
+12. The Catcher in the Rye by J.D. Salinger
+13. To Kill a Mockingbird by Harper Lee
+14. The Great Gatsby by F. Scott Fitzgerald
+15. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+16. The Da Vinci Code by Dan Brown
+17. Angels and Demons by Dan Brown
+18. The Girl with the Dragon Tattoo by Stieg Larsson
+19. The Girl Who Played with Fire by Stieg Larsson
+20. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+21. The Name of the Wind by Patrick Rothfuss
+22. The Wise Man's Fear by Patrick Rothfuss
+23. The Way of Kings by Brandon Sanderson
+24. Mistborn: The Final Empire by Brandon Sanderson
+25. The Eye of the World by Robert Jordan
+26. The Gunslinger by Stephen King
+27. The Stand by Stephen King
+28. It by Stephen King
+29. The Shining by Stephen King
+30. The Dark Tower by Stephen King
+31. The Hitchhiker's Guide to the Galaxy: The Complete Radio Series by Douglas Adams
+32. The Restaurant at the End of the Universe by Douglas Adams
+33. Life, the Universe and Everything by Douglas Adams
+34. So Long, and Thanks for All the Fish by Douglas Adams
+35. Mostly Harmless by Douglas Adams
+36. The War of the Worlds by H.G. Wells
+37. The Time Machine by H.G. Wells
+38. The Invisible Man by H.G. Wells
+39. The Island of Dr. Moreau by H.G. Wells
+40. The Picture of Dorian Gray by Oscar Wilde
+41. Dracula by Bram Stoker
+42. Frankenstein by Mary Shelley
+43. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+44. The Adventures of Tom Sawyer by Mark Twain
+45. The Adventures of Huckleberry Finn by Mark Twain
+46. The Count of Monte Cristo by Alexandre Dumas
+47. Les Misérables by Victor Hugo
+48. The Three Musketeers by Alexandre Dumas
+49. The Phantom of the Opera by Gast

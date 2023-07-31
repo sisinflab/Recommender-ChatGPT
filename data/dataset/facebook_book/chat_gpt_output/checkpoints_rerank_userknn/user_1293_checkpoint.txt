@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. Harry Potter by J.K. Rowling
+3. Pride and Prejudice by Jane Austen
+4. Jane Eyre by Charlotte Bronte
+5. The Picture of Dorian Gray by Oscar Wilde
+6. Wuthering Heights by Emily Bronte
+7. Crime and Punishment by Fyodor Dostoyevsky
+8. The Count of Monte Cristo by Alexandre Dumas
+9. The Catcher in the Rye by J.D. Salinger
+10. The Kite Runner by Khaled Hosseini
+11. The Little Prince by Antoine de Saint-Exupéry
+12. Great Expectations by Charles Dickens
+13. Sense and Sensibility by Jane Austen
+14. War and Peace by Leo Tolstoy
+15. Frankenstein by Mary Shelley
+16. The Trial by Franz Kafka
+17. The Hobbit by J.R.R. Tolkien
+18. The Master and Margarita by Mikhail Bulgakov
+19. Inferno by Dante Alighieri
+20. Fahrenheit 451 by Ray Bradbury
+21. Don Quixote by Miguel de Cervantes
+22. The Red Tent by Anita Diamant
+23. The Screwtape Letters by C.S. Lewis
+24. The Queen of the Damned by Anne Rice
+25. Memoirs of a Geisha by Arthur Golden
+26. Their Eyes Were Watching God by Zora Neale Hurston
+27. The Thief of Always by Clive Barker
+28. The Castle by Franz Kafka
+29. Misery by Stephen King
+30. The Silver Wolf by Alice Borchardt
+31. The Girl Who Loved Tom Gordon by Stephen King
+32. The Temple of My Familiar by Alice Walker
+33. Justine by Lawrence Durrell
+34. Waiting for Godot by Samuel Beckett
+35. Things Fall Apart by Chinua Achebe
+36. The Picture of Dorian Gray by Oscar Wilde
+37. Ballet Shoes by Noel Streatfeild
+38. Motherless Brooklyn by Jonathan Lethem
+39. Being and Nothingness by Jean-Paul Sartre
+40. The Catcher in the Rye by J.D. Salinger
+41. The Screwtape Letters by C.S. Lewis
+42. The Queen of the Damned by Anne Rice
+43. Memoirs of a Geisha by Arthur Golden
+44. Their Eyes Were Watching God by Zora Neale Hurston
+45. The Thief of Always by Clive Barker
+46. The Castle by Franz Kafka
+47. Misery by Stephen King
+48. The Silver Wolf by Alice Borchardt
+49. The Girl Who Loved Tom Gordon by Stephen King
+50. The Temple of My Familiar by Alice Walker

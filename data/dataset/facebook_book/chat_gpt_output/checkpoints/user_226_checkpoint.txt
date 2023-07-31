@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Where She Went by Gayle Forman
+2. Perfect by Ellen Hopkins
+3. Wicked by Gregory Maguire
+4. Out of Oz by Gregory Maguire
+5. The Replacement by Brenna Yovanoff
+6. The Maze Runner by James Dashner
+7. Catching Fire by Suzanne Collins
+8. Mockingjay by Suzanne Collins
+9. Divergent by Veronica Roth
+10. Insurgent by Veronica Roth
+11. Allegiant by Veronica Roth
+12. The Fault in Our Stars by John Green
+13. Looking for Alaska by John Green
+14. Paper Towns by John Green
+15. An Abundance of Katherines by John Green
+16. The Perks of Being a Wallflower by Stephen Chbosky
+17. Thirteen Reasons Why by Jay Asher
+18. The Lovely Bones by Alice Sebold
+19. The Book Thief by Markus Zusak
+20. The Giver by Lois Lowry
+21. The Hunger Games Trilogy Boxset by Suzanne Collins
+22. The Mortal Instruments Boxed Set by Cassandra Clare
+23. The Infernal Devices Boxed Set by Cassandra Clare
+24. The Dark Artifices Boxed Set by Cassandra Clare
+25. The Bane Chronicles by Cassandra Clare
+26. The Shadowhunter's Codex by Cassandra Clare
+27. The Iron Fey Boxed Set by Julie Kagawa
+28. The Lunar Chronicles Boxed Set by Marissa Meyer
+29. The Selection Boxed Set by Kiera Cass
+30. The Maze Runner Series Boxed Set by James Dashner
+31. The 5th Wave Boxed Set by Rick Yancey
+32. The Darkest Minds Boxed Set by Alexandra Bracken
+33. The Legend Trilogy Boxed Set by Marie Lu
+34. The Chemical Garden Trilogy Boxed Set by Lauren DeStefano
+35. The Delirium Trilogy Boxed Set by Lauren Oliver
+36. The Matched Trilogy Boxed Set by Ally Condie
+37. The Uglies Boxed Set by Scott Westerfeld
+38. The Leviathan Trilogy Boxed Set by Scott Westerfeld
+39. The Maze Runner Files by James Dashner
+40. The Kill Order by James Dashner
+41. The Scorch Trials by James Dashner
+42. The Death Cure by James Dashner
+43. The Eye of Minds by James Dashner
+44. The Rule of Thoughts by James Dashner
+45. The Game of Lives by James Dashner
+46. The Testing Trilogy Boxed Set by Joelle Charbonneau
+47. The Program Series Boxed Set by Suzanne Young
+48. The Chemical Heart by Krystal Sutherland
+49. The Sky is Everywhere by Jandy Nelson
+50. All the Bright Places by Jennifer Niven

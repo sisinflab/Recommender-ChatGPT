@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Diary of a Wimpy Kid: Cabin Fever by Jeff Kinney
+2. The Hunger Games by Suzanne Collins
+3. Percy Jackson and the Lightning Thief by Rick Riordan
+4. The Maze Runner by James Dashner
+5. Divergent by Veronica Roth
+6. The Fault in Our Stars by John Green
+7. The Giver by Lois Lowry
+8. The Lightning Thief (Percy Jackson and the Olympians) by Rick Riordan
+9. The Hobbit by J.R.R. Tolkien
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Chronicles of Narnia by C.S. Lewis
+12. The Mortal Instruments series by Cassandra Clare
+13. The Infernal Devices series by Cassandra Clare
+14. The Selection by Kiera Cass
+15. The Lunar Chronicles by Marissa Meyer
+16. The Harry Potter series by J.K. Rowling
+17. The Percy Jackson series by Rick Riordan
+18. The Heroes of Olympus series by Rick Riordan
+19. The Kane Chronicles series by Rick Riordan
+20. The Secret Series by Enid Blyton
+21. The Hardy Boys series by Franklin W. Dixon
+22. The Nancy Drew series by Carolyn Keene
+23. The Famous Five series by Enid Blyton
+24. The Secret Seven series by Enid Blyton
+25. The Magic Faraway Tree series by Enid Blyton
+26. The Wishing Chair series by Enid Blyton
+27. The Enchanted Wood series by Enid Blyton
+28. The Adventures of Tintin by Hergé
+29. The Diary of a Young Girl by Anne Frank
+30. The Outsiders by S.E. Hinton
+31. To Kill a Mockingbird by Harper Lee
+32. The Catcher in the Rye by J.D. Salinger
+33. Lord of the Flies by William Golding
+34. Animal Farm by George Orwell
+35. 1984 by George Orwell
+36. Brave New World by Aldous Huxley
+37. Fahrenheit 451 by Ray Bradbury
+38. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+39. The Da Vinci Code by Dan Brown
+40. Angels and Demons by Dan Brown
+41. The Girl with the Dragon Tattoo by Stieg Larsson
+42. The Girl Who Played with Fire by Stieg Larsson
+43. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+44. The Bourne Identity by Robert Ludlum
+45. The Bourne Supremacy by Robert Ludlum
+46. The Bourne Ultimatum by Robert Ludlum
+47. The Hunger Games: Catching Fire by Suzanne Collins
+48. The Hunger

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Avenged Sevenfold
+2. Green Day
+3. In Flames
+4. Escape The Fate
+5. Linkin Park
+6. All That Remains
+7. Slipknot
+8. The Black Dahlia Murder
+9. A Day to Remember
+10. Rise Against
+11. Trivium
+12. The Offspring
+13. Stratovarius
+14. Metallica
+15. Muse
+16. Pendulum
+17. Cascada
+18. Yellowcard
+19. Pantera
+20. Three Days Grace
+21. The Devil Wears Prada
+22. Children of Bodom
+23. blink-182
+24. Dead by April
+25. Bring Me The Horizon
+26. Disturbed
+27. Slayer
+28. Rammstein
+29. Stone Sour
+30. Ke$ha
+31. Bon Jovi
+32. Alexisonfire
+33. Five Finger Death Punch
+34. Suicide Silence
+35. Guns N' Roses
+36. Volbeat
+37. Nirvana
+38. Iron Maiden
+39. Led Zeppelin
+40. Metallica
+41. Pearl Jam
+42. System of a Down
+43. Nine Inch Nails
+44. The Killers
+45. My Chemical Romance
+46. Black Eyed Peas
+47. P!nk
+48. All Time Low
+49. Radiohead
+50. Arctic Monkeys

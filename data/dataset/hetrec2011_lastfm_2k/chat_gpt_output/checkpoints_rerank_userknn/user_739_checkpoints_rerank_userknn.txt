@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Regina Spektor
+2. Chico Buarque
+3. Marisa Monte
+4. Alanis Morissette
+5. Joni Mitchell
+6. Maria Rita
+7. Lenine
+8. Elis Regina
+9. Ingrid Michaelson
+10. Amy Winehouse
+11. Maria Bethânia
+12. Avril Lavigne
+13. Engenheiros do Hawaii
+14. Beyoncé
+15. Norah Jones
+16. Pitty
+17. David Bowie
+18. Leonard Cohen
+19. Dixie Chicks
+20. Sandy Leah
+21. Cat Stevens
+22. Caetano Veloso
+23. Nina Simone
+24. Billie Holiday
+25. Imogen Heap
+26. Björk
+27. Prince
+28. Radiohead
+29. The Beatles
+30. Coldplay
+31. Miles Davis
+32. Florence + the Machine
+33. R.E.M.
+34. Pink Floyd
+35. Simon & Garfunkel
+36. Sade
+37. Tegan and Sara
+38. The Beach Boys
+39. Legião Urbana
+40. Los Hermanos
+41. Arctic Monkeys
+42. Jack Johnson
+43. Marcelo Camelo
+44. Belle and Sebastian
+45. Sigur Rós
+46. The Cranberries
+47. Gorillaz
+48. Metallica
+49. The Killers
+50. Green Day

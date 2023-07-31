@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Hunger Games (series) by Suzanne Collins
+2. Divergent (series) by Veronica Roth
+3. The Mortal Instruments (series) by Cassandra Clare
+4. Percy Jackson and the Olympians (series) by Rick Riordan
+5. The Maze Runner (series) by James Dashner
+6. The Giver (series) by Lois Lowry
+7. The Inheritance Cycle (series) by Christopher Paolini
+8. Twilight (series) by Stephenie Meyer
+9. Vampire Academy (series) by Richelle Mead
+10. The Host by Stephenie Meyer
+11. The Lord of the Rings (series) by J.R.R. Tolkien
+12. The Chronicles of Narnia (series) by C.S. Lewis
+13. His Dark Materials (series) by Philip Pullman
+14. The Alchemist by Paulo Coelho
+15. The Book Thief by Markus Zusak
+16. The Hobbit by J.R.R. Tolkien
+17. The Secret Life of Bees by Sue Monk Kidd
+18. The Fault in Our Stars by John Green
+19. The Help by Kathryn Stockett
+20. The Girl with the Dragon Tattoo by Stieg Larsson
+21. The Da Vinci Code by Dan Brown
+22. The Catcher in the Rye by J.D. Salinger
+23. To Kill a Mockingbird by Harper Lee
+24. The Great Gatsby by F. Scott Fitzgerald
+25. 1984 by George Orwell
+26. Animal Farm by George Orwell
+27. Brave New World by Aldous Huxley
+28. Fahrenheit 451 by Ray Bradbury
+29. The Handmaid's Tale by Margaret Atwood
+30. The Road by Cormac McCarthy
+31. The Stand by Stephen King
+32. The Shining by Stephen King
+33. It by Stephen King
+34. The Dark Tower (series) by Stephen King
+35. The Girl on the Train by Paula Hawkins
+36. Gone Girl by Gillian Flynn
+37. The Lovely Bones by Alice Sebold
+38. The Time Traveler's Wife by Audrey Niffenegger
+39. Water for Elephants by Sara Gruen
+40. The Help by Kathryn Stockett
+41. The Kite Runner by Khaled Hosseini
+42. A Thousand Splendid Suns by Khaled Hosseini
+43. The Hunger Games by Suzanne Collins
+44. Catching Fire by Suzanne Collins
+45. Mockingjay by Suzanne Collins
+46. The Maze Runner by James Dashner
+47. The Scorch Trials by James Dashner
+48. The Death Cure by James Dashner
+49. The Giver by Lois Lowry
+50. Gathering Blue by Lois Lowry

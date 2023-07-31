@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Arcade Fire
+2. Sufjan Stevens
+3. The National
+4. Bon Iver
+5. Tame Impala
+6. Vampire Weekend
+7. Fleet Foxes
+8. The Strokes
+9. The xx
+10. LCD Soundsystem
+11. Grimes
+12. Caribou
+13. Phoenix
+14. Foals
+15. Alt-J
+16. Beach House
+17. Animal Collective
+18. Radiohead
+19. Sigur Rós
+20. Modest Mouse
+21. Deerhunter
+22. Explosions in the Sky
+23. Neutral Milk Hotel
+24. Panda Bear
+25. Four Tet
+26. Elliott Smith
+27. Boards of Canada
+28. Madvillain
+29. Thom Yorke
+30. Interpol
+31. At the Drive-In
+32. The Beatles
+33. Muse
+34. Pink Floyd
+35. Nirvana
+36. Led Zeppelin
+37. Michael Jackson
+38. Pearl Jam
+39. Björk
+40. Daft Punk
+41. Nine Inch Nails
+42. Linkin Park
+43. My Chemical Romance
+44. Green Day
+45. The Cure
+46. Iron Maiden
+47. Metallica
+48. Duran Duran
+49. Blur
+50. Arctic Monkeys

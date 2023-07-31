@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Wintergirls by Laurie Halse Anderson
+2. Thirteen Reasons Why by Jay Asher
+3. Identical by Ellen Hopkins
+4. Impulse by Ellen Hopkins
+5. Glass by Ellen Hopkins
+6. Burned by Ellen Hopkins
+7. Tricks by Ellen Hopkins
+8. Fallout: An American Nuclear Tragedy by Philip L. Fradkin
+9. A Million Little Pieces by James Frey
+10. The Bell Jar by Sylvia Plath
+11. The Lovely Bones by Alice Sebold
+12. Slaughterhouse-Five by Kurt Vonnegut
+13. Brave New World by Aldous Huxley
+14. Animal Farm by George Orwell
+15. Pride and Prejudice by Jane Austen
+16. Wuthering Heights by Emily Bronte
+17. Jane Eyre by Charlotte Bronte
+18. Romeo and Juliet by William Shakespeare
+19. The Catcher in the Rye by J.D. Salinger
+20. Of Mice and Men by John Steinbeck
+21. The Grapes of Wrath by John Steinbeck
+22. Oliver Twist by Charles Dickens
+23. Inkheart by Cornelia Funke
+24. Harry Potter series by J.K. Rowling
+25. Twilight series by Stephenie Meyer
+26. Vampire Academy by Richelle Mead
+27. Fallen by Lauren Kate
+28. Mockingjay by Suzanne Collins
+29. Catching Fire by Suzanne Collins
+30. The Summoning by Kelley Armstrong
+31. Cathy's Book by Sean Stewart
+32. The Watchmen by Alan Moore
+33. Necronomicon: The Best Weird Tales of H.P. Lovecraft: Commemorative Edition by H.P. Lovecraft
+34. Under the Dome by Stephen King
+35. Running with Scissors by Augusten Burroughs
+36. Be More Chill by Ned Vizzini
+37. Boy Meets Boy by David Levithan
+38. The Chocolate War by Robert Cormier
+39. Annie on My Mind by Nancy Garden
+40. From the Corner of His Eye by Dean Koontz
+41. It Happened to Nancy: By an Anonymous Teenager by Beatrice Sparks
+42. Moby-Dick by Herman Melville
+43. The Oxford English Dictionary by Oxford University Press
+44. Bowie: A Biography by Marc Spitz
+45. Hairstyles of the Damned by Joe Meno
+46. Vampire Kisses by Ellen Schreiber
+47. Extremely Loud and Incredibly Close by Jonathan Safran Foer
+48. Number the Stars by Lois Lowry
+49. Cut by Patricia McCormick
+50. Unwind by Neal Shusterman

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. Brave New World by Aldous Huxley
+3. Animal Farm by George Orwell
+4. Dracula by Bram Stoker
+5. Frankenstein by Mary Shelley
+6. Wuthering Heights by Emily Bronte
+7. The Great Gatsby by F. Scott Fitzgerald
+8. Crime and Punishment by Fyodor Dostoevsky
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Book Thief by Markus Zusak
+11. The Kite Runner by Khaled Hosseini
+12. The Giver by Lois Lowry
+13. Romeo and Juliet by William Shakespeare
+14. The Old Man and the Sea by Ernest Hemingway
+15. The Children of Men by P.D. James
+16. The Prophet by Kahlil Gibran
+17. Ethan Frome by Edith Wharton
+18. The Hatchet by Gary Paulsen
+19. To Sir, With Love by E.R. Braithwaite
+20. Macbeth by William Shakespeare
+21. The Hours by Michael Cunningham
+22. The Little Prince by Antoine de Saint-Exupéry
+23. The Perks of Being a Wallflower by Stephen Chbosky
+24. The Trumpet of the Swan by E.B. White
+25. A Scanner Darkly by Philip K. Dick
+26. The Chosen by Chaim Potok
+27. VALIS by Philip K. Dick
+28. The Count of Monte Cristo by Alexandre Dumas
+29. The Hobbit by J.R.R. Tolkien
+30. Tess of the d'Urbervilles by Thomas Hardy
+31. A Tale of Two Cities by Charles Dickens
+32. The Handmaid's Tale by Margaret Atwood
+33. The Grapes of Wrath by John Steinbeck
+34. The Good Earth by Pearl S. Buck
+35. Great Expectations by Charles Dickens
+36. Angels & Demons by Dan Brown
+37. Far from the Madding Crowd by Thomas Hardy
+38. Oliver Twist by Charles Dickens
+39. Twilight by Stephenie Meyer
+40. Flow My Tears, the Policeman Said by Philip K. Dick
+41. Fear and Loathing in Las Vegas by Hunter S. Thompson
+42. The Crucible of Time by John Brunner
+43. The Cosmic Serpent by Jeremy Narby
+44. The Crow by James O'Barr
+45. Glass by Ellen Hopkins
+46. Only Revolutions by Mark Z. Danielewski
+47. Inferno by Dante Alighieri
+48. Black Beauty by Anna Sewell
+49. The Kane Chronicles by Rick Riordan
+50. Fallen by Lauren Kate

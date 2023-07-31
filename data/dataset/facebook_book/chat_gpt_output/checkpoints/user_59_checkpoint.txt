@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. To Kill a Mockingbird by Harper Lee
+3. The Fault in Our Stars by John Green
+4. 1984 by George Orwell
+5. The Catcher in the Rye by J.D. Salinger
+6. Animal Farm by George Orwell
+7. The Giver by Lois Lowry
+8. The Maze Runner by James Dashner
+9. The Chronicles of Narnia by C.S. Lewis
+10. The Lord of the Rings by J.R.R. Tolkien
+11. Harry Potter series by J.K. Rowling
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Da Vinci Code by Dan Brown
+14. The Girl on the Train by Paula Hawkins
+15. The Help by Kathryn Stockett
+16. The Kite Runner by Khaled Hosseini
+17. The Alchemist by Paulo Coelho
+18. The Secret Life of Bees by Sue Monk Kidd
+19. The Lovely Bones by Alice Sebold
+20. The Time Traveler's Wife by Audrey Niffenegger
+21. The Picture of Dorian Gray by Oscar Wilde
+22. The Great Gatsby by F. Scott Fitzgerald
+23. The Adventures of Huckleberry Finn by Mark Twain
+24. The Adventures of Tom Sawyer by Mark Twain
+25. The Count of Monte Cristo by Alexandre Dumas
+26. Les Misérables by Victor Hugo
+27. Pride and Prejudice by Jane Austen
+28. Sense and Sensibility by Jane Austen
+29. Emma by Jane Austen
+30. Persuasion by Jane Austen
+31. Northanger Abbey by Jane Austen
+32. Wuthering Heights by Emily Bronte
+33. Jane Eyre by Charlotte Bronte
+34. The Scarlet Letter by Nathaniel Hawthorne
+35. Moby-Dick by Herman Melville
+36. Frankenstein by Mary Shelley
+37. Dracula by Bram Stoker
+38. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+39. Heart of Darkness by Joseph Conrad
+40. The Picture of Dorian Gray by Oscar Wilde
+41. The Importance of Being Earnest by Oscar Wilde
+42. The Canterbury Tales by Geoffrey Chaucer
+43. The Divine Comedy by Dante Alighieri
+44. The Iliad by Homer
+45. The Odyssey by Homer
+46. The Aeneid by Virgil
+47. Beowulf by Unknown
+48. The Canterbury Tales by Geoffrey Chaucer
+49. The Decameron by Giovanni Boccaccio
+50. The Prince by Niccolò Machiavelli

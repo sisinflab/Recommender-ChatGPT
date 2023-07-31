@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. John Coltrane
+2. Kendrick Lamar
+3. Herbie Hancock
+4. Nas
+5. Outkast
+6. Billie Holiday
+7. Jay-Z
+8. Erykah Badu
+9. D'Angelo
+10. Robert Glasper
+11. Esperanza Spalding
+12. Anderson .Paak
+13. Lauryn Hill
+14. Miles Davis Quintet
+15. Freddie Gibbs
+16. Thundercat
+17. Roy Hargrove
+18. The Internet
+19. J. Cole
+20. Snarky Puppy
+21. Hiatus Kaiyote
+22. Childish Gambino
+23. Jill Scott
+24. The Weeknd
+25. Chance the Rapper
+26. SZA
+27. Frank Ocean
+28. Solange
+29. Robert Johnson
+30. Gary Clark Jr.
+31. Jimi Hendrix
+32. Led Zeppelin
+33. The Rolling Stones
+34. The Beatles
+35. Pink Floyd
+36. Radiohead
+37. Arctic Monkeys
+38. Tame Impala
+39. Vampire Weekend
+40. Arcade Fire
+41. The Strokes
+42. Queens of the Stone Age
+43. Foo Fighters
+44. Red Hot Chili Peppers
+45. Pearl Jam
+46. Nirvana
+47. Soundgarden
+48. Alice in Chains
+49. Metallica
+50. Guns N' Roses

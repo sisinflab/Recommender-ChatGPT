@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Fault in Our Stars by John Green
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Pride and Prejudice by Jane Austen
+6. 1984 by George Orwell
+7. Animal Farm by George Orwell
+8. The Hobbit by J.R.R. Tolkien
+9. The Fellowship of the Ring by J.R.R. Tolkien
+10. The Two Towers by J.R.R. Tolkien
+11. The Return of the King by J.R.R. Tolkien
+12. The Chronicles of Narnia by C.S. Lewis
+13. The Book Thief by Markus Zusak
+14. The Hunger Games Trilogy by Suzanne Collins
+15. Divergent by Veronica Roth
+16. The Maze Runner by James Dashner
+17. The Girl with the Dragon Tattoo by Stieg Larsson
+18. The Da Vinci Code by Dan Brown
+19. Angels and Demons by Dan Brown
+20. The Bourne Identity by Robert Ludlum
+21. The Bourne Supremacy by Robert Ludlum
+22. The Bourne Ultimatum by Robert Ludlum
+23. The Girl on the Train by Paula Hawkins
+24. Gone Girl by Gillian Flynn
+25. The Lovely Bones by Alice Sebold
+26. The Help by Kathryn Stockett
+27. The Secret Life of Bees by Sue Monk Kidd
+28. The Color Purple by Alice Walker
+29. The Joy Luck Club by Amy Tan
+30. The Alchemist by Paulo Coelho
+31. The Kite Runner by Khaled Hosseini
+32. A Thousand Splendid Suns by Khaled Hosseini
+33. The Time Traveler's Wife by Audrey Niffenegger
+34. The Notebook by Nicholas Sparks
+35. A Walk to Remember by Nicholas Sparks
+36. The Bridges of Madison County by Robert James Waller
+37. The Shack by William P. Young
+38. The Five People You Meet in Heaven by Mitch Albom
+39. Tuesdays with Morrie by Mitch Albom
+40. The Art of Racing in the Rain by Garth Stein
+41. Water for Elephants by Sara Gruen
+42. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+43. The Perks of Being a Wallflower by Stephen Chbosky
+44. Looking for Alaska by John Green
+45. The Little Prince by Antoine de Saint-Exupéry
+46. Candide by Voltaire
+47. A Wrinkle in Time by Madeleine L'Engle
+48. Murder on the Orient Express by Agatha Christie
+49. And Then There Were None by Agatha Christie
+50. The

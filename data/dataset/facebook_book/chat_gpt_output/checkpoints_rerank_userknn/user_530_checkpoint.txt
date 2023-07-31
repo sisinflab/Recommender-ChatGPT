@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Hobbit by J.R.R. Tolkien
+2. The Lord of the Rings by J.R.R. Tolkien
+3. The Silmarillion by J.R.R. Tolkien
+4. Night by Elie Wiesel
+5. Animal Farm by George Orwell
+6. Lord of the Flies by William Golding
+7. The Count of Monte Cristo by Alexandre Dumas
+8. Frankenstein by Mary Shelley
+9. To Kill a Mockingbird by Harper Lee
+10. The Catcher in the Rye by J.D. Salinger
+11. The Kite Runner by Khaled Hosseini
+12. Life of Pi by Yann Martel
+13. The Things They Carried by Tim O'Brien
+14. The Plague by Albert Camus
+15. Don Quixote by Miguel de Cervantes
+16. War and Peace by Leo Tolstoy
+17. The Master and Margarita by Mikhail Bulgakov
+18. A Wrinkle in Time by Madeleine L'Engle
+19. His Dark Materials by Philip Pullman
+20. The Giver by Lois Lowry
+21. The Stand by Stephen King
+22. The Watchmen by Alan Moore
+23. Nineteen Eighty-Four by George Orwell
+24. The Silence of the Lambs by Thomas Harris
+25. The Dark Tower: The Gunslinger by Stephen King
+26. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+27. Steppenwolf by Hermann Hesse
+28. The Autobiography of Malcolm X by Malcolm X
+29. The Hatchet by Gary Paulsen
+30. Gray's Anatomy by Henry Gray
+31. The Feminine Mystique by Betty Friedan
+32. The Da Vinci Code by Dan Brown
+33. The Zombie Survival Guide by Max Brooks
+34. Manga by Various Authors
+35. The Walking Dead by Robert Kirkman
+36. Kidnapped by Robert Louis Stevenson
+37. A Midsummer Night's Dream by William Shakespeare
+38. Eragon by Christopher Paolini
+39. Speak by Laurie Halse Anderson
+40. Cry, the Beloved Country by Alan Paton
+41. Harry Potter by J.K. Rowling
+42. Holes by Louis Sachar
+43. Sin City by Frank Miller
+44. Angels & Demons by Dan Brown
+45. I Am Legend by Richard Matheson
+46. Hannibal by Thomas Harris
+47. Fablehaven by Brandon Mull
+48. An Inconvenient Book by Glenn Beck
+49. Tarzan of the Apes by Edgar Rice Burroughs
+50. The Wish by Gail Carson Levine

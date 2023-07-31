@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Smiths
+2. Joy Division
+3. The Jesus and Mary Chain
+4. Echo & The Bunnymen
+5. Cocteau Twins
+6. David Bowie
+7. The Cure
+8. Kate Bush
+9. Sonic Youth
+10. Lush
+11. Stereolab
+12. Black Kids
+13. Nitzer Ebb
+14. Front 242
+15. KMFDM
+16. Skinny Puppy
+17. The Human League
+18. The B-52's
+19. Duran Duran
+20. Madonna
+21. Grace Jones
+22. Depeche Mode
+23. Radiohead
+24. Nirvana
+25. Pearl Jam
+26. Led Zeppelin
+27. Iron Maiden
+28. Metallica
+29. Pink Floyd
+30. The Doors
+31. Arctic Monkeys
+32. Placebo
+33. The Killers
+34. U2
+35. Muse
+36. Coldplay
+37. Blur
+38. Daft Punk
+39. Nine Inch Nails
+40. System of a Down
+41. Avenged Sevenfold
+42. My Chemical Romance
+43. Green Day
+44. Linkin Park
+45. All Time Low
+46. P!nk
+47. Kelly Clarkson
+48. Lady Gaga
+49. Rihanna
+50. Beyoncé

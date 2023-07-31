@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Aphex Twin
+2. Boards of Canada
+3. Autechre
+4. Plaid
+5. Kraftwerk
+6. Amon Tobin
+7. Telefon Tel Aviv
+8. Squarepusher
+9. Björk
+10. múm
+11. Proem
+12. The Beatles
+13. AFX
+14. Prefuse 73
+15. Sigur Rós
+16. Mogwai
+17. The Album Leaf
+18. Hammock
+19. Tycho
+20. Bonobo
+21. The Cinematic Orchestra
+22. Emilie Simon
+23. Ólafur Arnalds
+24. Stars of the Lid
+25. Portishead
+26. Crystal Castles
+27. Flying Lotus
+28. Four Tet
+29. Antonio Vivaldi
+30. The Magnetic Fields
+31. Radiohead
+32. Philip Glass
+33. Interpol
+34. Deftones
+35. Infected Mushroom
+36. Norah Jones
+37. Nina Simone
+38. Bola
+39. Archive
+40. The Future Sound of London
+41. Porcupine Tree
+42. Miles Davis
+43. Beck
+44. Venetian Snares
+45. Manu Chao
+46. A Silver Mt. Zion
+47. Isis
+48. 65daysofstatic
+49. Bang Gang
+50. The Flashbulb

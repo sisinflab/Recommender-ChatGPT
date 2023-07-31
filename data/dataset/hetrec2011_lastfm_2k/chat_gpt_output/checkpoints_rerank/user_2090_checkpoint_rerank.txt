@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for user 2090 would be:
+
+1. Joy Division
+2. Katatonia
+3. Type O Negative
+4. The Sisters of Mercy
+5. Bauhaus
+6. PJ Harvey
+7. Melvins
+8. Kyuss
+9. The Distillers
+10. Dethklok
+11. The Prodigy
+12. Wire
+13. Nirvana
+14. The Dresden Dolls
+15. Depeche Mode
+16. Radiohead
+17. Muse
+18. Pink Floyd
+19. The Beatles
+20. Nine Inch Nails
+21. Iron Maiden
+22. Led Zeppelin
+23. Metallica
+24. Pearl Jam
+25. System of a Down
+26. Placebo
+27. Arctic Monkeys
+28. The Killers
+29. My Chemical Romance
+30. Green Day
+31. The Cure
+32. Evanescence
+33. Avenged Sevenfold
+34. Linkin Park
+35. All Time Low
+36. P!nk
+37. Kelly Clarkson
+38. Beyoncé
+39. Lady Gaga
+40. Christina Aguilera
+41. Rihanna
+42. Shakira
+43. Katy Perry
+44. Ke$ha
+45. Madonna
+46. Taylor Swift
+47. Black Eyed Peas
+48. Daft Punk
+49. Michael Jackson
+50. a-ha

@@ -1,0 +1,10 @@
+model_name	kendall_tau_coefficient	p_value
+VSM_sim=cosine_up=tfidf_ip=binary_load=ItemAttributes	0.04289756595443956	0.5415150995317373
+AttributeItemKNN_nn=40_sim=correlation_bin=False_load=ItemAttributes	0.023138713791345224	0.5463077433414492
+AttributeUserKNN_nn=100_sim=correlation_profile=binary_bin=False_load=ItemAttributes	0.05045680537612454	0.5397377643535815
+ItemKNN_nn=100_sim=cosine_imp=standard_bin=False_shrink=0_norm=True_asymalpha=_tvalpha=_tvbeta=_rweights=	0.01915217842363521	0.5347171224274508
+UserKNN_nn=100_sim=cosine_imp=standard_bin=False_shrink=0_norm=True_asymalpha=_tvalpha=_tvbeta=_rweights=	0.030734619856151064	0.5388089685143166
+EASER_neighborhood=1507_l2_norm=28754079$46612463	0.038033597842174784	0.5444835927940133
+RP3beta_neighborhood=507_alpha=1$0180281935718316_beta=0$41875971052261285_normalize_similarity=True	0.04476430025359205	0.5277975030689029
+MostPop	0.007045779096901568	0.5630665692982023
+Random_seed=42	0.004051185810234892	0.5509762973569071

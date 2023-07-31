@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for them would be:
+
+1. The Smiths
+2. Depeche Mode
+3. INXS
+4. Pixies
+5. Howard Jones
+6. Erasure
+7. Culture Club
+8. George Harrison
+9. Paul McCartney
+10. The Police
+11. Duran Duran
+12. U2
+13. David Bowie
+14. New Order
+15. The Human League
+16. Pet Shop Boys
+17. Garbage
+18. Eurythmics
+19. Oasis
+20. Simple Minds
+21. Yazoo
+22. Prince
+23. Morrissey
+24. Goldfrapp
+25. Cyndi Lauper
+26. Frankie Goes to Hollywood
+27. The B-52's
+28. Ultravox
+29. Orchestral Manoeuvres in the Dark
+30. Sigur Rós
+31. Archive
+32. Scissor Sisters
+33. Spice Girls
+34. Hall & Oates
+35. Amon Tobin
+36. Kylie Minogue
+37. No Doubt
+38. Simply Red
+39. The Cure
+40. Madonna
+41. George Michael
+42. The Beatles
+43. Spandau Ballet
+44. Tears for Fears
+45. Japan
+46. Iron Maiden
+47. Cocteau Twins
+48. a-ha
+49. Genesis
+50. Michael Jackson

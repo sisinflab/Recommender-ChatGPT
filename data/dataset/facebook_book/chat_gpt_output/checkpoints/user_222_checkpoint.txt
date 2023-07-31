@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Ulysses by James Joyce
+2. To the Lighthouse by Virginia Woolf
+3. Heart of Darkness by Joseph Conrad
+4. The Catcher in the Rye by J.D. Salinger
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Picture of Dorian Gray by Oscar Wilde
+7. The Trial by Franz Kafka
+8. Crime and Punishment by Fyodor Dostoevsky
+9. The Brothers Karamazov by Fyodor Dostoevsky
+10. The Idiot by Fyodor Dostoevsky
+11. The Metamorphosis by Franz Kafka
+12. The Plague by Albert Camus
+13. The Stranger by Albert Camus
+14. The Sun Also Rises by Ernest Hemingway
+15. For Whom the Bell Tolls by Ernest Hemingway
+16. The Old Man and the Sea by Ernest Hemingway
+17. A Moveable Feast by Ernest Hemingway
+18. The Grapes of Wrath by John Steinbeck
+19. East of Eden by John Steinbeck
+20. Of Mice and Men by John Steinbeck
+21. The Sound of the Mountain by Yasunari Kawabata
+22. Snow Country by Yasunari Kawabata
+23. The Wind-Up Bird Chronicle by Haruki Murakami
+24. Norwegian Wood by Haruki Murakami
+25. Kafka on the Shore by Haruki Murakami
+26. The Name of the Rose by Umberto Eco
+27. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+28. The Foundation Trilogy by Isaac Asimov
+29. 1984 by George Orwell
+30. Animal Farm by George Orwell
+31. Brave New World by Aldous Huxley
+32. The Handmaid's Tale by Margaret Atwood
+33. The Bell Jar by Sylvia Plath
+34. Lolita by Vladimir Nabokov
+35. Pale Fire by Vladimir Nabokov
+36. The Crying of Lot 49 by Thomas Pynchon
+37. Gravity's Rainbow by Thomas Pynchon
+38. Infinite Jest by David Foster Wallace
+39. The Corrections by Jonathan Franzen
+40. Freedom by Jonathan Franzen
+41. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+42. The Road by Cormac McCarthy
+43. Blood Meridian by Cormac McCarthy
+44. The Brief Wondrous Life of Oscar Wao by Junot Diaz
+45. The Kite Runner by Khaled Hosseini
+46. A Thousand Splendid Suns by Khaled Hosseini
+47. The Shadow of the Wind by Carlos Ruiz Zafon
+48. The Book Thief by Markus Zusak
+49. The Girl with the Dragon Tattoo

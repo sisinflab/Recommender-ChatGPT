@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. A Walk to Remember by Nicholas Sparks
+2. Dear John by Nicholas Sparks
+3. The Best of Me by Nicholas Sparks
+4. Safe Haven by Nicholas Sparks
+5. The Lucky One by Nicholas Sparks
+6. The Choice by Nicholas Sparks
+7. The Notebook (film) by Nicholas Sparks
+8. The Hunger Games by Suzanne Collins
+9. Mockingjay by Suzanne Collins
+10. Divergent by Veronica Roth
+11. Insurgent by Veronica Roth
+12. Allegiant by Veronica Roth
+13. The Maze Runner by James Dashner
+14. The Scorch Trials by James Dashner
+15. The Death Cure by James Dashner
+16. The Lightning Thief by Rick Riordan
+17. The Titan's Curse by Rick Riordan
+18. The Battle of the Labyrinth by Rick Riordan
+19. The Last Olympian by Rick Riordan
+20. The Lost Hero by Rick Riordan
+21. The Son of Neptune by Rick Riordan
+22. The Mark of Athena by Rick Riordan
+23. The House of Hades by Rick Riordan
+24. The Blood of Olympus by Rick Riordan
+25. The Girl on the Train by Paula Hawkins
+26. Gone Girl by Gillian Flynn
+27. The Da Vinci Code by Dan Brown
+28. Angels and Demons by Dan Brown
+29. Inferno by Dan Brown
+30. The Bourne Identity by Robert Ludlum
+31. The Bourne Supremacy by Robert Ludlum
+32. The Bourne Ultimatum by Robert Ludlum
+33. The Bourne Legacy by Eric Van Lustbader
+34. The Bourne Betrayal by Eric Van Lustbader
+35. The Bourne Sanction by Eric Van Lustbader
+36. The Bourne Deception by Eric Van Lustbader
+37. The Bourne Objective by Eric Van Lustbader
+38. The Bourne Dominion by Eric Van Lustbader
+39. The Bourne Imperative by Eric Van Lustbader
+40. The Bourne Retribution by Eric Van Lustbader
+41. The Bourne Ascendancy by Eric Van Lustbader
+42. The Bourne Enigma by Eric Van Lustbader
+43. The Bourne Initiative by Eric Van Lustbader
+44. The Bourne Nemesis by Eric Van Lustbader
+45. The Bourne Evolution by Brian Freeman
+46. The Bourne Treachery by Brian Freeman
+47. The Bourne Objective by Robert Ludlum and Gayle Lynds
+48. The Bourne Dominion by Robert Ludlum and Eric Van Lustbader
+49. The Bourne Imperative by Robert Ludlum and Eric Van Lustbader
+50. The Bourne Retribution by Robert Ludlum and Eric

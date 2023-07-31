@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. 1984 by George Orwell
+3. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+4. The Da Vinci Code by Dan Brown
+5. The Girl with the Dragon Tattoo by Stieg Larsson
+6. The Catcher in the Rye by J.D. Salinger
+7. To Kill a Mockingbird by Harper Lee
+8. The Great Gatsby by F. Scott Fitzgerald
+9. The Hobbit by J.R.R. Tolkien
+10. The Fellowship of the Ring by J.R.R. Tolkien
+11. The Two Towers by J.R.R. Tolkien
+12. The Return of the King by J.R.R. Tolkien
+13. The Chronicles of Narnia by C.S. Lewis
+14. The Lion, the Witch and the Wardrobe by C.S. Lewis
+15. The Magician's Nephew by C.S. Lewis
+16. The Horse and His Boy by C.S. Lewis
+17. The Last Battle by C.S. Lewis
+18. The Golden Compass by Philip Pullman
+19. The Subtle Knife by Philip Pullman
+20. The Amber Spyglass by Philip Pullman
+21. Ender's Game by Orson Scott Card
+22. Dune by Frank Herbert
+23. The Name of the Wind by Patrick Rothfuss
+24. The Wise Man's Fear by Patrick Rothfuss
+25. The Way of Kings by Brandon Sanderson
+26. Mistborn by Brandon Sanderson
+27. The Final Empire by Brandon Sanderson
+28. The Well of Ascension by Brandon Sanderson
+29. The Hero of Ages by Brandon Sanderson
+30. The Lies of Locke Lamora by Scott Lynch
+31. The Blade Itself by Joe Abercrombie
+32. The Black Company by Glen Cook
+33. The First Law Trilogy by Joe Abercrombie
+34. The Kingkiller Chronicle by Patrick Rothfuss
+35. The Dresden Files by Jim Butcher
+36. American Gods by Neil Gaiman
+37. Good Omens by Neil Gaiman and Terry Pratchett
+38. The Dark Tower by Stephen King
+39. The Stand by Stephen King
+40. It by Stephen King
+41. The Shining by Stephen King
+42. The Gunslinger by Stephen King
+43. The Drawing of the Three by Stephen King
+44. The Waste Lands by Stephen King
+45. Wizard and Glass by Stephen King
+46. Wolves of the Calla by Stephen King
+47. Song of Susannah by Stephen King
+48. The Dark Tower by Stephen King
+49. The Eye of the World by Robert Jordan
+50. A Game of Thrones by George R.R. Martin

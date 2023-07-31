@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Arctic Monkeys
+2. Florence + The Machine
+3. Panic! At The Disco
+4. Radiohead
+5. Twenty One Pilots
+6. My Chemical Romance
+7. The 1975
+8. Imagine Dragons
+9. Hozier
+10. Bastille
+11. The Black Keys
+12. Foster The People
+13. The Neighbourhood
+14. Lorde
+15. Cage The Elephant
+16. Muse (similar to user's favorite)
+17. Paramore (similar to user's favorite)
+18. A Day to Remember (similar to user's favorite)
+19. The All-American Rejects (similar to user's favorite)
+20. Bring Me The Horizon (similar to user's favorite)
+21. Kings of Leon (similar to user's favorite)
+22. Coldplay (similar to user's favorite)
+23. The Beatles (similar to user's favorite)
+24. Crystal Castles (similar to user's favorite)
+25. Cobra Starship (similar to user's favorite)
+26. The Killers (similar to user's favorite)
+27. Green Day (similar to user's favorite)
+28. MGMT (similar to user's favorite)
+29. Linkin Park (similar to user's favorite)
+30. Angels & Airwaves (similar to user's favorite)
+31. Vampire Weekend (similar to user's favorite)
+32. Oasis (similar to user's favorite)
+33. Tegan and Sara (similar to user's favorite)
+34. Phoenix (similar to user's favorite)
+35. Avenged Sevenfold (similar to user's favorite)
+36. Fall Out Boy (similar to user's favorite)
+37. Red Hot Chili Peppers (similar to user's favorite)
+38. Sum 41 (similar to user's favorite)
+39. Lady Gaga (similar to user's favorite)
+40. Boys Like Girls (similar to user's favorite)
+41. Eminem (similar to user's favorite)
+42. Jason Mraz (similar to user's favorite)
+43. The Fray
+44. Death Cab for Cutie
+45. The Shins
+46. Arcade Fire
+47. The Postal Service
+48. The Lumineers
+49. Of Monsters and Men
+50. Mumford & Sons

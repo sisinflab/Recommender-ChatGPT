@@ -1,0 +1,15 @@
+[
+    {
+        "default_validation_metric": "nDCG",
+        "default_validation_cutoff": 10,
+        "rel_threshold": 0
+    },
+    {
+        "meta": {},
+        "recommender": "output_exp_2_rec_book_no_rerank_mostpop",
+        "configuration": {
+            "path": "../data/dataset/facebook_book/chat_gpt_output/output_exp_2_rec_book_no_rerank_mostpop.tsv",
+            "name": "output_exp_2_rec_book_no_rerank_mostpop"
+        }
+    }
+]

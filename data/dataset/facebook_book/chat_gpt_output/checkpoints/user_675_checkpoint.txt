@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. Slaughterhouse-Five by Kurt Vonnegut
+3. The Bell Jar by Sylvia Plath
+4. To Kill a Mockingbird by Harper Lee
+5. The Great Gatsby by F. Scott Fitzgerald
+6. 1984 by George Orwell
+7. Brave New World by Aldous Huxley
+8. Animal Farm by George Orwell
+9. The Road by Cormac McCarthy
+10. The Picture of Dorian Gray by Oscar Wilde
+11. The Stranger by Albert Camus
+12. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+13. The Hobbit by J.R.R. Tolkien
+14. The Lord of the Rings by J.R.R. Tolkien
+15. The Hunger Games by Suzanne Collins
+16. The Girl with the Dragon Tattoo by Stieg Larsson
+17. The Da Vinci Code by Dan Brown
+18. The Kite Runner by Khaled Hosseini
+19. The Alchemist by Paulo Coelho
+20. The Name of the Wind by Patrick Rothfuss
+21. The Shadow of the Wind by Carlos Ruiz Zafón
+22. The Book Thief by Markus Zusak
+23. The Fault in Our Stars by John Green
+24. The Perks of Being a Wallflower by Stephen Chbosky
+25. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+26. The Time Traveler's Wife by Audrey Niffenegger
+27. The Help by Kathryn Stockett
+28. The Secret Life of Bees by Sue Monk Kidd
+29. The Lovely Bones by Alice Sebold
+30. The Poisonwood Bible by Barbara Kingsolver
+31. The Color Purple by Alice Walker
+32. The Joy Luck Club by Amy Tan
+33. The House on Mango Street by Sandra Cisneros
+34. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+35. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+36. The Corrections by Jonathan Franzen
+37. The Road Less Traveled by M. Scott Peck
+38. The Power of Now by Eckhart Tolle
+39. The 7 Habits of Highly Effective People by Stephen Covey
+40. The Art of War by Sun Tzu
+41. The Prince by Niccolò Machiavelli
+42. The Republic by Plato
+43. The Divine Comedy by Dante Alighieri
+44. The Canterbury Tales by Geoffrey Chaucer
+45. The Iliad by Homer
+46. The Odyssey by Homer
+47. Beowulf by Unknown
+48. The Epic of Gilgamesh by Unknown
+49. The Bible by Various Authors
+50. The Quran by Various Authors

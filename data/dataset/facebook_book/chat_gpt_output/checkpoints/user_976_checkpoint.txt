@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. 1984 by George Orwell
+3. To Kill a Mockingbird by Harper Lee
+4. The Great Gatsby by F. Scott Fitzgerald
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Bell Jar by Sylvia Plath
+7. The Picture of Dorian Gray by Oscar Wilde
+8. The Road by Cormac McCarthy
+9. The Handmaid's Tale by Margaret Atwood
+10. The Stranger by Albert Camus
+11. The Sun Also Rises by Ernest Hemingway
+12. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+13. The Lord of the Rings by J.R.R. Tolkien
+14. The Hobbit by J.R.R. Tolkien
+15. The Hunger Games by Suzanne Collins
+16. The Girl with the Dragon Tattoo by Stieg Larsson
+17. The Da Vinci Code by Dan Brown
+18. The Shining by Stephen King
+19. The Stand by Stephen King
+20. The Silence of the Lambs by Thomas Harris
+21. The Name of the Rose by Umberto Eco
+22. The Shadow of the Wind by Carlos Ruiz Zafón
+23. The Time Traveler's Wife by Audrey Niffenegger
+24. The Giver by Lois Lowry
+25. The Maze Runner by James Dashner
+26. The Fault in Our Stars by John Green
+27. The Perks of Being a Wallflower by Stephen Chbosky
+28. The Book Thief by Markus Zusak
+29. The Kite Runner by Khaled Hosseini
+30. The Alchemist by Paulo Coelho
+31. The Chronicles of Narnia by C.S. Lewis
+32. The Dark Tower series by Stephen King
+33. The Harry Potter series by J.K. Rowling
+34. The Chronicles of Prydain by Lloyd Alexander
+35. The Once and Future King by T.H. White
+36. The Wheel of Time series by Robert Jordan
+37. The Belgariad series by David Eddings
+38. The Malazan Book of the Fallen series by Steven Erikson
+39. The Mistborn series by Brandon Sanderson
+40. The Kingkiller Chronicle series by Patrick Rothfuss
+41. The Stormlight Archive series by Brandon Sanderson
+42. The First Law trilogy by Joe Abercrombie
+43. The Lies of Locke Lamora by Scott Lynch
+44. The Dresden Files series by Jim Butcher
+45. The Riyria Revelations series by Michael J. Sullivan
+46. The Black Company series by Glen Cook
+47. The Farseer Trilogy by Robin Hobb
+48. The Broken Empire trilogy by Mark Lawrence
+49. The Powder Mage trilogy by Brian McClellan
+50. The Wise Man's Fear by Patrick Rothfuss

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. Mogwai
+3. God Is an Astronaut
+4. Porcupine Tree
+5. Biffy Clyro
+6. Death Cab for Cutie
+7. Protest The Hero
+8. Between the Buried and Me
+9. Gojira
+10. Deftones
+11. ASIAN KUNG-FU GENERATION
+12. In Flames
+13. Modest Mouse
+14. City and Colour
+15. Bloc Party
+16. The American Dollar
+17. 65daysofstatic
+18. dredg
+19. Say Anything
+20. This Will Destroy You
+21. Fightstar
+22. Taking Back Sunday
+23. Yann Tiersen
+24. Brand New
+25. Fall Out Boy
+26. Muse
+27. Pink Floyd
+28. Nirvana
+29. Led Zeppelin
+30. Metallica
+31. Iron Maiden
+32. Pearl Jam
+33. System of a Down
+34. Nine Inch Nails
+35. Linkin Park
+36. Avenged Sevenfold
+37. Arctic Monkeys
+38. Placebo
+39. The Killers
+40. Green Day
+41. My Chemical Romance
+42. Duran Duran
+43. Coldplay
+44. Blur
+45. Michael Jackson
+46. Madonna
+47. Lady Gaga
+48. Christina Aguilera
+49. Rihanna
+50. Katy Perry

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Aphex Twin
+2. Radiohead
+3. Sigur Rós
+4. Portishead
+5. Björk
+6. Four Tet
+7. Massive Attack
+8. Autechre
+9. Bonobo
+10. The Books
+11. Animal Collective
+12. Burial
+13. FKA Twigs
+14. Tim Hecker
+15. J Dilla
+16. Mount Kimbie
+17. The Field
+18. Oneohtrix Point Never
+19. James Blake
+20. Nicolas Jaar
+21. Clark
+22. The Cinematic Orchestra
+23. DJ Shadow
+24. Jon Hopkins
+25. Boards of Canada
+26. Flying Lotus
+27. Caribou
+28. Ulver
+29. Telefon Tel Aviv
+30. Max Richter
+31. GZA/Genius
+32. Ghostface Killah
+33. The Knife
+34. Prefuse 73
+35. Joanna Newsom
+36. Aphex Twin & Autechre
+37. Radiohead & Sigur Rós
+38. Portishead & Massive Attack
+39. Björk & Four Tet
+40. Animal Collective & The Books
+41. Burial & FKA Twigs
+42. Tim Hecker & J Dilla
+43. Mount Kimbie & The Field
+44. Oneohtrix Point Never & James Blake
+45. Nicolas Jaar & Clark
+46. The Cinematic Orchestra & DJ Shadow
+47. Jon Hopkins & Boards of Canada
+48. Flying Lotus & Caribou
+49. Ulver & Telefon Tel Aviv
+50. Max Richter & GZA/Genius

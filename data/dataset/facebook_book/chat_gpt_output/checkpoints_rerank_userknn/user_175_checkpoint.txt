@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Harry Potter and the Sorcerer's Stone by J.K. Rowling
+2. The Hunger Games by Suzanne Collins
+3. The Hobbit by J.R.R. Tolkien
+4. The Catcher in the Rye by J.D. Salinger
+5. To Kill a Mockingbird by Harper Lee
+6. 1984 by George Orwell
+7. The Lord of the Rings by J.R.R. Tolkien
+8. The Chronicles of Narnia by C.S. Lewis
+9. Ender's Game by Orson Scott Card
+10. The Giver by Lois Lowry
+11. The Fault in Our Stars by John Green
+12. The Maze Runner by James Dashner
+13. Divergent by Veronica Roth
+14. The Book Thief by Markus Zusak
+15. The Girl with the Dragon Tattoo by Stieg Larsson
+16. The Da Vinci Code by Dan Brown
+17. The Shining by Stephen King
+18. The Stand by Stephen King
+19. The Dark Tower: The Gunslinger by Stephen King
+20. The Walking Dead (comic book) by Robert Kirkman
+21. Frankenstein by Mary Shelley
+22. Dracula by Bram Stoker
+23. Alice's Adventures in Wonderland by Lewis Carroll
+24. The Secret Garden by Frances Hodgson Burnett
+25. The Time Machine by H.G. Wells
+26. The War of the Worlds by H.G. Wells
+27. The Invisible Man by H.G. Wells
+28. The Island of Dr. Moreau by H.G. Wells
+29. The Picture of Dorian Gray by Oscar Wilde
+30. The Importance of Being Earnest by Oscar Wilde
+31. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+32. The Hound of the Baskervilles by Arthur Conan Doyle
+33. The Return of Sherlock Holmes by Arthur Conan Doyle
+34. The Memoirs of Sherlock Holmes by Arthur Conan Doyle
+35. The Case-Book of Sherlock Holmes by Arthur Conan Doyle
+36. The Complete Sherlock Holmes by Arthur Conan Doyle
+37. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+38. The Restaurant at the End of the Universe by Douglas Adams
+39. Life, the Universe and Everything by Douglas Adams
+40. So Long, and Thanks for All the Fish by Douglas Adams
+41. Mostly Harmless by Douglas Adams
+42. The Ultimate Hitchhiker's Guide to the Galaxy by Douglas Adams
+43. The Cat in the Hat by Dr. Seuss
+44. Green Eggs and Ham by Dr. Seuss
+45. One Fish Two Fish Red Fish Blue Fish by Dr. Seuss
+46. Oh, the Places You'll Go! by Dr. Seuss
+47. The Lorax by Dr. Seuss
+48. The Butter Battle Book by Dr. Seuss
+49

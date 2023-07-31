@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Time Traveler's Wife by Audrey Niffenegger
+2. The Fault in Our Stars by John Green
+3. The Catcher in the Rye by J.D. Salinger
+4. To Kill a Mockingbird by Harper Lee
+5. The Great Gatsby by F. Scott Fitzgerald
+6. 1984 by George Orwell
+7. Pride and Prejudice by Jane Austen
+8. The Hunger Games by Suzanne Collins
+9. The Girl with the Dragon Tattoo by Stieg Larsson
+10. The Da Vinci Code by Dan Brown
+11. The Hobbit by J.R.R. Tolkien
+12. The Lord of the Rings by J.R.R. Tolkien
+13. The Chronicles of Narnia by C.S. Lewis
+14. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+15. The Shining by Stephen King
+16. The Stand by Stephen King
+17. The Silence of the Lambs by Thomas Harris
+18. The Bourne Identity by Robert Ludlum
+19. The Name of the Rose by Umberto Eco
+20. The Picture of Dorian Gray by Oscar Wilde
+21. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+22. The War of the Worlds by H.G. Wells
+23. The Island of Dr. Moreau by H.G. Wells
+24. The Invisible Man by H.G. Wells
+25. The Time Machine by H.G. Wells
+26. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+27. The Count of Monte Cristo by Alexandre Dumas
+28. Les Misérables by Victor Hugo
+29. The Three Musketeers by Alexandre Dumas
+30. The Adventures of Tom Sawyer by Mark Twain
+31. The Adventures of Huckleberry Finn by Mark Twain
+32. The Picture of Dorian Gray by Oscar Wilde
+33. The Importance of Being Earnest by Oscar Wilde
+34. The Canterbury Tales by Geoffrey Chaucer
+35. The Divine Comedy by Dante Alighieri
+36. The Iliad by Homer
+37. The Odyssey by Homer
+38. The Aeneid by Virgil
+39. The Inferno by Dante Alighieri
+40. The Decameron by Giovanni Boccaccio
+41. The Canterbury Tales by Geoffrey Chaucer
+42. The Prince by Niccolò Machiavelli
+43. The Republic by Plato
+44. The Symposium by Plato
+45. The Nicomachean Ethics by Aristotle
+46. The Politics by Aristotle
+47. The Wealth of Nations by Adam Smith
+48. The Communist Manifesto by Karl Marx and Friedrich Engels
+49. The Origin of Species by Charles Darwin
+50. The Interpretation of Dreams by Sigmund Freud

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Catching Fire by Suzanne Collins
+2. Mockingjay by Suzanne Collins
+3. Divergent by Veronica Roth
+4. Insurgent by Veronica Roth
+5. Allegiant by Veronica Roth
+6. Red Queen by Victoria Aveyard
+7. Glass Sword by Victoria Aveyard
+8. King's Cage by Victoria Aveyard
+9. War Storm by Victoria Aveyard
+10. The Maze Runner by James Dashner
+11. The Scorch Trials by James Dashner
+12. The Death Cure by James Dashner
+13. The Kill Order by James Dashner
+14. The Fever Code by James Dashner
+15. The 5th Wave by Rick Yancey
+16. The Infinite Sea by Rick Yancey
+17. The Last Star by Rick Yancey
+18. Legend by Marie Lu
+19. Prodigy by Marie Lu
+20. Champion by Marie Lu
+21. The Selection by Kiera Cass
+22. The Elite by Kiera Cass
+23. The One by Kiera Cass
+24. The Heir by Kiera Cass
+25. The Crown by Kiera Cass
+26. Shatter Me by Tahereh Mafi
+27. Unravel Me by Tahereh Mafi
+28. Ignite Me by Tahereh Mafi
+29. Restore Me by Tahereh Mafi
+30. Defy Me by Tahereh Mafi
+31. Cinder by Marissa Meyer
+32. Scarlet by Marissa Meyer
+33. Cress by Marissa Meyer
+34. Winter by Marissa Meyer
+35. Fairest by Marissa Meyer
+36. The Lunar Chronicles Coloring Book by Marissa Meyer
+37. The Host by Stephenie Meyer
+38. Twilight by Stephenie Meyer
+39. New Moon by Stephenie Meyer
+40. Eclipse by Stephenie Meyer
+41. Breaking Dawn by Stephenie Meyer
+42. The Chemist by Stephenie Meyer
+43. The Fault in Our Stars by John Green
+44. Looking for Alaska by John Green
+45. Paper Towns by John Green
+46. An Abundance of Katherines by John Green
+47. Turtles All the Way Down by John Green
+48. The Hunger Games Tribute Guide by Emily Seife
+49. The Hunger Games: Official Illustrated Movie Companion by Kate Egan
+50. The Hunger Games: Catching Fire: The Official Illustrated Movie Companion by Kate Egan

@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. Animal Farm by George Orwell
+3. The Hobbit by J.R.R. Tolkien
+4. The Lord of the Rings by J.R.R. Tolkien
+5. Pride and Prejudice by Jane Austen
+6. The Chronicles of Narnia by C.S. Lewis
+7. The Hunger Games by Suzanne Collins
+8. The Fault in Our Stars by John Green
+9. The Book Thief by Markus Zusak
+10. The Giver by Lois Lowry
+11. The Maze Runner by James Dashner
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Da Vinci Code by Dan Brown
+14. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+15. The Picture of Dorian Gray by Oscar Wilde
+16. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+17. The War of the Worlds by H.G. Wells
+18. The Time Machine by H.G. Wells
+19. The Invisible Man by H.G. Wells
+20. The Island of Dr. Moreau by H.G. Wells
+21. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+22. Frankenstein by Mary Shelley
+23. Dracula by Bram Stoker
+24. Wuthering Heights by Emily Bronte
+25. Sense and Sensibility by Jane Austen
+26. Emma by Jane Austen
+27. Persuasion by Jane Austen
+28. Northanger Abbey by Jane Austen
+29. The Adventures of Tom Sawyer by Mark Twain
+30. The Adventures of Huckleberry Finn by Mark Twain
+31. The Picture of Dorian Gray by Oscar Wilde
+32. The Importance of Being Earnest by Oscar Wilde
+33. The Call of the Wild by Jack London
+34. White Fang by Jack London
+35. The Old Man and the Sea by Ernest Hemingway
+36. For Whom the Bell Tolls by Ernest Hemingway
+37. The Sun Also Rises by Ernest Hemingway
+38. A Farewell to Arms by Ernest Hemingway
+39. The Catcher in the Rye by J.D. Salinger
+40. Franny and Zooey by J.D. Salinger
+41. Raise High the Roof Beam, Carpenters and Seymour: An Introduction by J.D. Salinger
+42. The Bell Jar by Sylvia Plath
+43. One Hundred Years of Solitude by Gabriel Garcia Marquez
+44. Love in the Time of Cholera by Gabriel Garcia Marquez
+45. Crime and Punishment by Fyodor Dostoevsky
+46. The Brothers Karamazov by Fyodor Dostoevsky
+47. Anna Karenina by Leo Tolstoy
+48

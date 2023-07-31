@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Girl with the Dragon Tattoo by Stieg Larsson
+2. The Shadow of the Wind by Carlos Ruiz Zafón
+3. The Picture of Dorian Gray by Oscar Wilde
+4. Jane Eyre by Charlotte Brontë
+5. Crime and Punishment by Fyodor Dostoyevsky
+6. Wuthering Heights by Emily Brontë
+7. The Alchemist by Paulo Coelho
+8. The Lord of the Rings by J.R.R. Tolkien
+9. The Hunger Games by Suzanne Collins
+10. Frankenstein by Mary Shelley
+11. Memoirs of a Geisha by Arthur Golden
+12. Sense and Sensibility by Jane Austen
+13. The Catcher in the Rye by J.D. Salinger
+14. Running with Scissors by Augusten Burroughs
+15. The Lovely Bones by Alice Sebold
+16. Inferno by Dante Alighieri
+17. Thirteen Reasons Why by Jay Asher
+18. The Bell Jar by Sylvia Plath
+19. To the Lighthouse by Virginia Woolf
+20. The Other Boleyn Girl by Philippa Gregory
+21. The Secrets of the Immortal Nicholas Flamel by Michael Scott
+22. Wide Sargasso Sea by Jean Rhys
+23. The Mysterious Benedict Society by Trenton Lee Stewart
+24. Glass by Ellen Hopkins
+25. Uglies by Scott Westerfeld
+26. Tithe: A Modern Faerie Tale by Holly Black
+27. The Tipping Point by Malcolm Gladwell
+28. City of Bones by Cassandra Clare
+29. The Girl Who Played with Fire by Stieg Larsson
+30. City of Glass by Cassandra Clare
+31. The Merchant of Venice by William Shakespeare
+32. Impulse by Ellen Hopkins
+33. Evermore by Alyson Noël
+34. Blink by Malcolm Gladwell
+35. The Picture of Dorian Gray by Oscar Wilde
+36. The Last Temptation of Christ by Nikos Kazantzakis
+37. Burned by Ellen Hopkins
+38. Vampire Academy by Richelle Mead
+39. Pride and Prejudice and Zombies by Seth Grahame-Smith
+40. The Hunted by Elmore Leonard
+41. Untamed by P.C. Cast and Kristin Cast
+42. Eleven Minutes by Paulo Coelho
+43. Tempted by P.C. Cast and Kristin Cast
+44. Body Language by Julius Fast
+45. Fallen by Lauren Kate
+46. Peeps by Scott Westerfeld
+47. Twisted by Laurie Halse Anderson
+48. Things Fall Apart by Chinua Achebe
+49. He's Just Not That Into You by Greg Behrendt and Liz Tuccillo
+50. Hood by Stephen R. Lawhead

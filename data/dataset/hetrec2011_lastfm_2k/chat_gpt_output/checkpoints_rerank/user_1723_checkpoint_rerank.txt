@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Ludwig van Beethoven
+2. Johann Sebastian Bach
+3. Wolfgang Amadeus Mozart
+4. Antonio Vivaldi
+5. Sigur Rós
+6. Stars of the Lid
+7. Max Richter
+8. Hammock
+9. Boards of Canada
+10. Massive Attack
+11. Bonobo
+12. The Beatles
+13. Radiohead
+14. Pink Floyd
+15. Muse
+16. Led Zeppelin
+17. Nirvana
+18. Metallica
+19. Iron Maiden
+20. Pearl Jam
+21. U2
+22. Coldplay
+23. Blur
+24. Arctic Monkeys
+25. Placebo
+26. The Killers
+27. Amy Winehouse
+28. Michael Jackson
+29. Björk
+30. Daft Punk
+31. Nine Inch Nails
+32. Linkin Park
+33. Green Day
+34. My Chemical Romance
+35. Avenged Sevenfold
+36. Black Eyed Peas
+37. Kelly Clarkson
+38. P!nk
+39. Lady Gaga
+40. Christina Aguilera
+41. Rihanna
+42. Shakira
+43. Katy Perry
+44. Taylor Swift
+45. Avril Lavigne
+46. Evanescence
+47. Glee Cast
+48. Madonna
+49. Duran Duran
+50. Kylie Minogue

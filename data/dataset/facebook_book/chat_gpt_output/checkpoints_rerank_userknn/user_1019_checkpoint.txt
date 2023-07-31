@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. Nineteen Eighty-Four by George Orwell
+3. Dune by Frank Herbert
+4. Frankenstein by Mary Shelley
+5. Les Misérables by Victor Hugo
+6. Harry Potter series by J.K. Rowling
+7. The Hobbit by J.R.R. Tolkien
+8. Inferno by Dante Alighieri
+9. The Catcher in the Rye by J.D. Salinger
+10. Lolita by Vladimir Nabokov
+11. Good Omens by Neil Gaiman and Terry Pratchett
+12. The Brothers Karamazov by Fyodor Dostoevsky
+13. Paradise Lost by John Milton
+14. The Name of the Rose by Umberto Eco
+15. Cat's Cradle by Kurt Vonnegut
+16. Memoirs of a Geisha by Arthur Golden
+17. The Martian Chronicles by Ray Bradbury
+18. Snow Crash by Neal Stephenson
+19. Hyperion Cantos by Dan Simmons
+20. His Dark Materials by Philip Pullman
+21. Speaker for the Dead by Orson Scott Card
+22. The Picture of Dorian Gray by Oscar Wilde
+23. The Zombie Survival Guide by Max Brooks
+24. The Clan of the Cave Bear by Jean M. Auel
+25. The Coldest Winter Ever by Sister Souljah
+26. The Mill on the Floss by George Eliot
+27. As I Lay Dying by William Faulkner
+28. Twilight series by Stephenie Meyer
+29. Jane Eyre by Charlotte Bronte
+30. Naked by David Sedaris
+31. Transmetropolitan by Warren Ellis
+32. Catch-22 by Joseph Heller
+33. The Diary of a Young Girl by Anne Frank
+34. On the Road by Jack Kerouac
+35. Stardust by Neil Gaiman
+36. Angela's Ashes by Frank McCourt
+37. The Pact by Jodi Picoult
+38. Fathom by Michael Turner
+39. One Night @ the Call Center by Chetan Bhagat
+40. Running with Scissors by Augusten Burroughs
+41. The Lords of Discipline by Pat Conroy
+42. Pygmalion by George Bernard Shaw
+43. Where the Wild Things Are by Maurice Sendak
+44. Fahrenheit 451 by Ray Bradbury
+45. Man and His Symbols by Carl Jung
+46. The Satanic Bible by Anton LaVey
+47. At the Mountains of Madness by H.P. Lovecraft
+48. Death of a Salesman by Arthur Miller
+49. Adventures of Huckleberry Finn by Mark Twain
+50. The Dark Tower: The Gunslinger by Stephen King

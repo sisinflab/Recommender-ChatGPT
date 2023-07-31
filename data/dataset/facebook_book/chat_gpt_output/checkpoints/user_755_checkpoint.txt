@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Good Omens by Neil Gaiman and Terry Pratchett
+2. American Gods by Neil Gaiman
+3. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+4. Neverwhere by Neil Gaiman
+5. The Dresden Files by Jim Butcher
+6. The Name of the Wind by Patrick Rothfuss
+7. The Lies of Locke Lamora by Scott Lynch
+8. The Dark Tower series by Stephen King
+9. The Magicians by Lev Grossman
+10. The Hunger Games by Suzanne Collins
+11. The Lord of the Rings by J.R.R. Tolkien
+12. The Hobbit by J.R.R. Tolkien
+13. The Chronicles of Narnia by C.S. Lewis
+14. Harry Potter series by J.K. Rowling
+15. The Kingkiller Chronicle by Patrick Rothfuss
+16. Mistborn series by Brandon Sanderson
+17. The Wheel of Time series by Robert Jordan
+18. The Stormlight Archive by Brandon Sanderson
+19. The First Law Trilogy by Joe Abercrombie
+20. The Malazan Book of the Fallen by Steven Erikson
+21. The Gentlemen Bastards series by Scott Lynch
+22. The Broken Empire Trilogy by Mark Lawrence
+23. The Riyria Revelations by Michael J. Sullivan
+24. The Black Company by Glen Cook
+25. The Farseer Trilogy by Robin Hobb
+26. The Liveship Traders Trilogy by Robin Hobb
+27. The Tawny Man Trilogy by Robin Hobb
+28. The Lightbringer series by Brent Weeks
+29. The Night Angel Trilogy by Brent Weeks
+30. The Powder Mage Trilogy by Brian McClellan
+31. The Chronicles of Amber by Roger Zelazny
+32. The Earthsea Cycle by Ursula K. Le Guin
+33. The Belgariad by David Eddings
+34. The Malloreon by David Eddings
+35. The Elenium by David Eddings
+36. The Tamuli by David Eddings
+37. The Sword of Truth series by Terry Goodkind
+38. The Black Magician Trilogy by Trudi Canavan
+39. The Lightbringer Trilogy by K.D. McEntire
+40. The Inheritance Trilogy by N.K. Jemisin
+41. The Broken Earth Trilogy by N.K. Jemisin
+42. The Mistborn Trilogy by Brandon Sanderson
+43. The Way of Kings by Brandon Sanderson
+44. The Lies of Locke Lamora by Scott Lynch
+45. The Blade Itself by Joe Abercrombie
+46. The Heroes by Joe Abercrombie
+47. The Republic of Thieves by Scott Lynch
+48. The Lies of Locke Lamora by Scott Lynch
+49. The Kingkiller Chronicle

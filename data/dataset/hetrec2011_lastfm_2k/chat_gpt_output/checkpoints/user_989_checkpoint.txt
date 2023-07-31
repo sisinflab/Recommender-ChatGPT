@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Grimes
+2. Tame Impala
+3. LCD Soundsystem
+4. The National
+5. Fleet Foxes
+6. Sigur Rós
+7. The xx
+8. Bon Iver
+9. Yeah Yeah Yeahs
+10. The Postal Service
+11. The Shins
+12. The Flaming Lips
+13. The Decemberists
+14. Neutral Milk Hotel
+15. The Magnetic Fields
+16. Belle and Sebastian
+17. Radiohead
+18. Animal Collective
+19. Arcade Fire
+20. Vampire Weekend
+21. Sufjan Stevens
+22. The Strokes
+23. Phoenix
+24. The Radio Dept.
+25. The Smiths
+26. The Cure
+27. Joy Division
+28. New Order
+29. Depeche Mode
+30. Talking Heads
+31. David Bowie
+32. Kate Bush
+33. Siouxsie and the Banshees
+34. Cocteau Twins
+35. My Bloody Valentine
+36. Sonic Youth
+37. Pavement
+38. Yo La Tengo
+39. The Velvet Underground
+40. Nick Cave and the Bad Seeds
+41. Tom Waits
+42. Leonard Cohen
+43. Bob Dylan
+44. Neil Young
+45. Joni Mitchell
+46. Fleetwood Mac
+47. The Rolling Stones
+48. The Beatles
+49. Pink Floyd
+50. Led Zeppelin

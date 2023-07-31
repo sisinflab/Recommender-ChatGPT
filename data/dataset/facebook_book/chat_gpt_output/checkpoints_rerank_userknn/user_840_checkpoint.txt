@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. Harry Potter and the Philosopher's Stone by J.K. Rowling
+3. The Hobbit by J.R.R. Tolkien
+4. The Lion, the Witch and the Wardrobe by C.S. Lewis
+5. Pride and Prejudice by Jane Austen
+6. Frankenstein by Mary Shelley
+7. Nineteen Eighty-Four by George Orwell
+8. Alice's Adventures in Wonderland by Lewis Carroll
+9. The Picture of Dorian Gray by Oscar Wilde
+10. Les Misérables by Victor Hugo
+11. The Hunger Games by Suzanne Collins
+12. The Giver by Lois Lowry
+13. The Little Prince by Antoine de Saint-Exupéry
+14. Dracula by Bram Stoker
+15. Sophie's World by Jostein Gaarder
+16. The Screwtape Letters by C.S. Lewis
+17. The Maze Runner by James Dashner
+18. The Lovely Bones by Alice Sebold
+19. The Time Traveler's Wife by Audrey Niffenegger
+20. Angels & Demons by Dan Brown
+21. The Hunchback of Notre-Dame by Victor Hugo
+22. The Shadow of the Wind by Carlos Ruiz Zafón
+23. The Swiss Family Robinson by Johann David Wyss
+24. Anne of Green Gables by L.M. Montgomery
+25. Around the World in Eighty Days by Jules Verne
+26. The Hardy Boys by Franklin W. Dixon
+27. The Trumpet of the Swan by E.B. White
+28. Moby-Dick by Herman Melville
+29. The Bourne Supremacy by Robert Ludlum
+30. The Boy in the Striped Pyjamas by John Boyne
+31. Tuck Everlasting by Natalie Babbitt
+32. Island of the Blue Dolphins by Scott O'Dell
+33. The Last Olympian by Rick Riordan
+34. Uglies by Scott Westerfeld
+35. The Solitaire Mystery by Jostein Gaarder
+36. The Wish List by Eoin Colfer
+37. Textbook by Amy Krouse Rosenthal
+38. Hoot by Carl Hiaasen
+39. Holes by Louis Sachar
+40. Duma Key by Stephen King
+41. Demian by Hermann Hesse
+42. The Hatchet by Gary Paulsen
+43. Quidditch Through the Ages by J.K. Rowling
+44. Chinese Cinderella by Adeline Yen Mah
+45. Sarah's Key by Tatiana de Rosnay
+46. Pedro Páramo by Juan Rulfo
+47. Le Morte d'Arthur by Thomas Malory
+48. Fantastic Beasts and Where to Find Them by J.K

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Notebook by Nicholas Sparks
+2. A Walk to Remember by Nicholas Sparks
+3. The Last Song by Nicholas Sparks
+4. Safe Haven by Nicholas Sparks
+5. The Best of Me by Nicholas Sparks
+6. The Fault in Our Stars by John Green
+7. Looking for Alaska by John Green
+8. Paper Towns by John Green
+9. Thirteen Reasons Why by Jay Asher
+10. The Hunger Games by Suzanne Collins
+11. Catching Fire by Suzanne Collins
+12. Mockingjay by Suzanne Collins
+13. Divergent by Veronica Roth
+14. Insurgent by Veronica Roth
+15. Allegiant by Veronica Roth
+16. The Maze Runner by James Dashner
+17. The Scorch Trials by James Dashner
+18. The Death Cure by James Dashner
+19. The Giver by Lois Lowry
+20. Gathering Blue by Lois Lowry
+21. Messenger by Lois Lowry
+22. Son by Lois Lowry
+23. The Selection by Kiera Cass
+24. The Elite by Kiera Cass
+25. The One by Kiera Cass
+26. The 5th Wave by Rick Yancey
+27. The Infinite Sea by Rick Yancey
+28. The Last Star by Rick Yancey
+29. The Girl on the Train by Paula Hawkins
+30. Gone Girl by Gillian Flynn
+31. The Da Vinci Code by Dan Brown
+32. Angels and Demons by Dan Brown
+33. Inferno by Dan Brown
+34. The Help by Kathryn Stockett
+35. Water for Elephants by Sara Gruen
+36. The Time Traveler's Wife by Audrey Niffenegger
+37. The Lovely Bones by Alice Sebold
+38. The Book Thief by Markus Zusak
+39. The Kite Runner by Khaled Hosseini
+40. A Thousand Splendid Suns by Khaled Hosseini
+41. And the Mountains Echoed by Khaled Hosseini
+42. The Alchemist by Paulo Coelho
+43. The Nightingale by Kristin Hannah
+44. Me Before You by Jojo Moyes
+45. The Rosie Project by Graeme Simsion
+46. The Rosie Effect by Graeme Simsion
+47. The Rosie Result by Graeme Simsion
+48. The Martian by Andy Weir
+49. Ready Player One by Ernest Cline
+50. The Handmaid's Tale by Margaret Atwood

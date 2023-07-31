@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Harry Potter
+2. The Hobbit
+3. The Hunger Games
+4. The Lord of the Rings
+5. The Hitchhiker's Guide to the Galaxy (novel)
+6. Dune (novel)
+7. The Martian Chronicles
+8. Les Misérables
+9. Dracula
+10. Interview with the Vampire
+11. The Princess Bride
+12. The Alchemist (novel)
+13. Good Omens
+14. The Bell Jar
+15. Nineteen Eighty-Four
+16. Inkspell
+17. Leaves of Grass
+18. For Whom the Bell Tolls
+19. The Grapes of Wrath
+20. The Secret Life of Bees
+21. The Zombie Survival Guide
+22. Red Dragon (novel)
+23. The Watchmen (novel)
+24. John Dies at the End
+25. The Walking Dead (comic book)
+26. Sin City
+27. Old Man's War
+28. His Dark Materials
+29. The Land of Elyon
+30. Ranger's Apprentice
+31. The Runaway Jury
+32. Impulse economy
+33. Burned (Hopkins novel)
+34. Handle with Care (novel)
+35. Small Steps (novel)
+36. Choke (novel)
+37. Invisible Monsters
+38. Go Ask Alice
+39. Pretties
+40. Speak (novel)
+41. Anansi Boys
+42. Paper Towns
+43. Elantris
+44. Born to Rock (novel)
+45. No Country for Old Men
+46. Looking for Alaska
+47. Of Mice and Men
+48. Will Grayson, Will Grayson
+49. Identical (novel)
+50. Unwind (novel)

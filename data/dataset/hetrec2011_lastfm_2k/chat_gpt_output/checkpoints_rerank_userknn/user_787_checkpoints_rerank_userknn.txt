@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations are:
+
+1. Linkin Park
+2. Deftones
+3. Arctic Monkeys
+4. Rise Against
+5. The Killers
+6. The Strokes
+7. Biffy Clyro
+8. Pendulum
+9. Enter Shikari
+10. All Time Low
+11. Foals
+12. The Wombats
+13. Lostprophets
+14. Klaxons
+15. The Maine
+16. Good Charlotte
+17. 30 Seconds to Mars
+18. Keane
+19. The Script
+20. Arcade Fire
+21. City and Colour
+22. Doves
+23. Owl City
+24. Take That
+25. Shiny Toy Guns
+26. A Day to Remember
+27. You Me At Six
+28. Mystery Jets
+29. Bring Me The Horizon
+30. The Used
+31. Simple Plan
+32. Boys Like Girls
+33. Hey Monday
+34. We The Kings
+35. Mayday Parade
+36. New Found Glory
+37. Sum 41
+38. Metro Station
+39. Alesana
+40. Silverstein
+41. Senses Fail
+42. The Devil Wears Prada
+43. Thrice
+44. The Pretty Reckless
+45. Gloria
+46. Miley Cyrus
+47. August Burns Red
+48. Lamb of God
+49. Saosin
+50. Four Year Strong

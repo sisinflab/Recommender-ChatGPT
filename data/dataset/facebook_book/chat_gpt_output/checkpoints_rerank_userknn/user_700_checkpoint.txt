@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. Twilight by Stephenie Meyer
+4. The Host by Stephenie Meyer
+5. The Fault in Our Stars by John Green
+6. The Maze Runner by James Dashner
+7. The Giver by Lois Lowry
+8. The Selection by Kiera Cass
+9. The Mortal Instruments by Cassandra Clare
+10. The Infernal Devices by Cassandra Clare
+11. The Lunar Chronicles by Marissa Meyer
+12. The 5th Wave by Rick Yancey
+13. Legend by Marie Lu
+14. Matched by Ally Condie
+15. Delirium by Lauren Oliver
+16. Shatter Me by Tahereh Mafi
+17. The Darkest Minds by Alexandra Bracken
+18. Red Queen by Victoria Aveyard
+19. The Testing by Joelle Charbonneau
+20. The Chemical Garden Trilogy by Lauren DeStefano
+21. The Uglies Series by Scott Westerfeld
+22. The Leviathan Trilogy by Scott Westerfeld
+23. The Lunar Chronicles by Marissa Meyer
+24. The Selection Series by Kiera Cass
+25. The Maze Runner Series by James Dashner
+26. The Giver Quartet by Lois Lowry
+27. The Mortal Instruments Series by Cassandra Clare
+28. The Infernal Devices Series by Cassandra Clare
+29. The 5th Wave Series by Rick Yancey
+30. Legend Series by Marie Lu
+31. Matched Series by Ally Condie
+32. Delirium Series by Lauren Oliver
+33. Shatter Me Series by Tahereh Mafi
+34. The Darkest Minds Series by Alexandra Bracken
+35. Red Queen Series by Victoria Aveyard
+36. The Testing Series by Joelle Charbonneau
+37. The Chemical Garden Trilogy by Lauren DeStefano
+38. The Uglies Series by Scott Westerfeld
+39. The Leviathan Trilogy by Scott Westerfeld
+40. The Lunar Chronicles by Marissa Meyer
+41. The Selection Series by Kiera Cass
+42. The Maze Runner Series by James Dashner
+43. The Giver Quartet by Lois Lowry
+44. The Mortal Instruments Series by Cassandra Clare
+45. The Infernal Devices Series by Cassandra Clare
+46. The 5th Wave Series by Rick Yancey
+47. Legend Series by Marie Lu
+48. Matched Series by Ally Condie
+49. Delirium Series by Lauren Oliver
+50. Shatter Me Series by Tahereh Mafi

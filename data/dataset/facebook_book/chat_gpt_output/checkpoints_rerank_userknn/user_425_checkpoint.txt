@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter by J.K. Rowling
+2. The Hunger Games by Suzanne Collins
+3. Thirteen Reasons Why by Jay Asher
+4. Speak by Laurie Halse Anderson
+5. Twilight by Stephenie Meyer
+6. Catching Fire by Suzanne Collins
+7. The Great Gatsby by F. Scott Fitzgerald
+8. To Kill a Mockingbird by Harper Lee
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Catcher in the Rye by J.D. Salinger
+11. All Quiet on the Western Front by Erich Maria Remarque
+12. Les Misérables by Victor Hugo
+13. Macbeth by William Shakespeare
+14. The Canterbury Tales by Geoffrey Chaucer
+15. Through the Looking-Glass by Lewis Carroll
+16. Grimm's Fairy Tales by Jacob and Wilhelm Grimm
+17. Ironside: A Modern Faery's Tale by Holly Black
+18. Tithe: A Modern Faerie Tale by Holly Black
+19. Rebel Angels by Libba Bray
+20. City of Bones by Cassandra Clare
+21. City of Ashes by Cassandra Clare
+22. Female Chauvinist Pigs by Ariel Levy
+23. How to Read Literature Like a Professor by Thomas C. Foster
+24. The Sweet Far Thing by Libba Bray
+25. Salem Falls by Jodi Picoult
+26. My Sister's Keeper by Jodi Picoult
+27. Clear and Present Danger by Tom Clancy
+28. The Hunt for Red October by Tom Clancy
+29. A Clockwork Orange by Anthony Burgess
+30. The Zombie Survival Guide by Max Brooks
+31. Night by Elie Wiesel
+32. All the King's Men by Robert Penn Warren
+33. Seven Pillars of Wisdom by T.E. Lawrence
+34. Starship Troopers by Robert A. Heinlein
+35. Hush, Hush by Becca Fitzpatrick
+36. Wake by Lisa McMann
+37. Ink Exchange by Melissa Marr
+38. Fade by Robert Cormier
+39. Little Men by Louisa May Alcott
+40. Gravitation by Maki Murakami
+41. The Seventh Tower by Garth Nix
+42. Perfect Chemistry by Simone Elkeles
+43. Uglies by Scott Westerfeld
+44. Eldest by Christopher Paolini
+45. Son of a Witch by Gregory Maguire
+46. The It Girl by Cecily von Ziegesar
+47. This Lullaby by Sarah Dessen
+48. Sunshine by Robin McKinley
+49. Vampire Academy by Richelle Mead
+50. Charlie and the Chocolate Factory by Roald Dahl

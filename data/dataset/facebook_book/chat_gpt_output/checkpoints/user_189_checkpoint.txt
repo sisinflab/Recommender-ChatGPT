@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. 1984 by George Orwell
+3. To Kill a Mockingbird by Harper Lee
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Brave New World by Aldous Huxley
+6. Animal Farm by George Orwell
+7. The Bell Jar by Sylvia Plath
+8. One Hundred Years of Solitude by Gabriel Garcia Marquez
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Stranger by Albert Camus
+11. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+12. The Road by Cormac McCarthy
+13. The Handmaid's Tale by Margaret Atwood
+14. The Sun Also Rises by Ernest Hemingway
+15. Slaughterhouse-Five by Kurt Vonnegut
+16. The Old Man and the Sea by Ernest Hemingway
+17. The Grapes of Wrath by John Steinbeck
+18. The Lord of the Rings by J.R.R. Tolkien
+19. The Hobbit by J.R.R. Tolkien
+20. The Chronicles of Narnia by C.S. Lewis
+21. The Hunger Games by Suzanne Collins
+22. Catch-22 by Joseph Heller
+23. The Color Purple by Alice Walker
+24. The Kite Runner by Khaled Hosseini
+25. The Alchemist by Paulo Coelho
+26. The Secret Life of Bees by Sue Monk Kidd
+27. The Help by Kathryn Stockett
+28. The Girl with the Dragon Tattoo by Stieg Larsson
+29. The Da Vinci Code by Dan Brown
+30. The Name of the Rose by Umberto Eco
+31. The Shadow of the Wind by Carlos Ruiz Zafón
+32. The Time Traveler's Wife by Audrey Niffenegger
+33. The Lovely Bones by Alice Sebold
+34. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+35. The Fault in Our Stars by John Green
+36. The Perks of Being a Wallflower by Stephen Chbosky
+37. The Book Thief by Markus Zusak
+38. The Giver by Lois Lowry
+39. The Maze Runner by James Dashner
+40. The Outsiders by S.E. Hinton
+41. The Adventures of Tom Sawyer by Mark Twain
+42. The Adventures of Huckleberry Finn by Mark Twain
+43. The Count of Monte Cristo by Alexandre Dumas
+44. Les Misérables by Victor Hugo
+45. Crime and Punishment by Fyodor Dostoevsky
+46. The Brothers Karamazov by Fyodor Dostoevsky
+47. Anna Karenina by Leo Tolstoy
+48. War and Peace by Leo Tolstoy
+49

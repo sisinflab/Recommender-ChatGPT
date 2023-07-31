@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Black Butler by Yana Toboso
+2. Death Note by Tsugumi Ohba
+3. Fullmetal Alchemist by Hiromu Arakawa
+4. Vampire Knight by Matsuri Hino
+5. Fruits Basket by Natsuki Takaya
+6. The Mortal Instruments by Cassandra Clare
+7. The Infernal Devices by Cassandra Clare
+8. The Hunger Games by Suzanne Collins
+9. Divergent by Veronica Roth
+10. The Maze Runner by James Dashner
+11. The Giver by Lois Lowry
+12. The Fault in Our Stars by John Green
+13. The Book Thief by Markus Zusak
+14. The Chronicles of Narnia by C.S. Lewis
+15. Harry Potter series by J.K. Rowling
+16. Percy Jackson and the Olympians by Rick Riordan
+17. Heroes of Olympus by Rick Riordan
+18. The Kane Chronicles by Rick Riordan
+19. The Lord of the Rings by J.R.R. Tolkien
+20. The Hobbit by J.R.R. Tolkien
+21. The Silmarillion by J.R.R. Tolkien
+22. The Wheel of Time by Robert Jordan
+23. A Song of Ice and Fire by George R.R. Martin
+24. The Name of the Wind by Patrick Rothfuss
+25. Mistborn by Brandon Sanderson
+26. The Stormlight Archive by Brandon Sanderson
+27. The Kingkiller Chronicle by Patrick Rothfuss
+28. The Dark Tower by Stephen King
+29. The Stand by Stephen King
+30. It by Stephen King
+31. The Shining by Stephen King
+32. The Girl with the Dragon Tattoo by Stieg Larsson
+33. The Da Vinci Code by Dan Brown
+34. Angels and Demons by Dan Brown
+35. The Hunger Games trilogy by Suzanne Collins
+36. The Maze Runner trilogy by James Dashner
+37. The Divergent trilogy by Veronica Roth
+38. The Twilight Saga by Stephenie Meyer
+39. The Host by Stephenie Meyer
+40. The Chemist by Stephenie Meyer
+41. The Selection by Kiera Cass
+42. The Lunar Chronicles by Marissa Meyer
+43. The 5th Wave by Rick Yancey
+44. The Darkest Minds by Alexandra Bracken
+45. The Maze of Bones by Rick Riordan
+46. The Sword of Summer by Rick Riordan
+47. The Hidden Oracle by Rick Riordan
+48. The Red Pyramid by Rick Riordan
+49. The Throne of Fire by Rick Riordan
+50. The Serpent's Shadow by Rick Riordan

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. Brave New World by Aldous Huxley
+4. Fahrenheit 451 by Ray Bradbury
+5. The Martian Chronicles by Ray Bradbury
+6. The Illustrated Man by Ray Bradbury
+7. The Time Machine by H.G. Wells
+8. The War of the Worlds by H.G. Wells
+9. The Invisible Man by H.G. Wells
+10. The Island of Dr. Moreau by H.G. Wells
+11. The Hitchhiker's Guide to the Galaxy: The Complete Trilogy of Five by Douglas Adams
+12. The Restaurant at the End of the Universe by Douglas Adams
+13. Life, the Universe and Everything by Douglas Adams
+14. So Long, and Thanks for All the Fish by Douglas Adams
+15. Mostly Harmless by Douglas Adams
+16. The Hobbit by J.R.R. Tolkien
+17. The Lord of the Rings by J.R.R. Tolkien
+18. The Silmarillion by J.R.R. Tolkien
+19. The Chronicles of Narnia by C.S. Lewis
+20. The Screwtape Letters by C.S. Lewis
+21. The Great Divorce by C.S. Lewis
+22. The Dark Tower series by Stephen King
+23. The Stand by Stephen King
+24. It by Stephen King
+25. The Shining by Stephen King
+26. The Gunslinger by Stephen King
+27. The Talisman by Stephen King and Peter Straub
+28. The Dark Half by Stephen King
+29. The Dead Zone by Stephen King
+30. The Tommyknockers by Stephen King
+31. The Green Mile by Stephen King
+32. The Shawshank Redemption by Stephen King
+33. The Mist by Stephen King
+34. The Girl Who Loved Tom Gordon by Stephen King
+35. The Catcher in the Rye by J.D. Salinger
+36. To Kill a Mockingbird by Harper Lee
+37. The Adventures of Huckleberry Finn by Mark Twain
+38. The Adventures of Tom Sawyer by Mark Twain
+39. The Picture of Dorian Gray by Oscar Wilde
+40. Dracula by Bram Stoker
+41. Frankenstein by Mary Shelley
+42. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+43. The Call of the Wild by Jack London
+44. White Fang by Jack London
+45. The Red Badge of Courage by Stephen Crane
+46. The Three Musketeers by Alexandre Dumas
+47. The Count of Monte Cristo by Alexandre Dumas
+48. Les Misérables by Victor Hugo
+49. The Hunchback of Notre-Dame by Victor Hugo
+50. The Adventures of Sherlock Holmes by Arthur Conan Doyle

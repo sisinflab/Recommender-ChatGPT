@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. American Gods by Neil Gaiman
+2. The Graveyard Book by Neil Gaiman
+3. Good Omens by Neil Gaiman and Terry Pratchett
+4. The Ocean at the End of the Lane by Neil Gaiman
+5. The Sandman by Neil Gaiman
+6. The Annotated Alice: The Definitive Edition by Lewis Carroll
+7. Alice's Adventures in Wonderland and Through the Looking-Glass by Lewis Carroll
+8. The Dark Tower series by Stephen King
+9. The Stand by Stephen King
+10. The Shining by Stephen King
+11. Dracula by Bram Stoker
+12. Frankenstein by Mary Shelley
+13. The Picture of Dorian Gray by Oscar Wilde
+14. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+15. The Complete Sherlock Holmes by Arthur Conan Doyle
+16. The Dresden Files by Jim Butcher
+17. The Iron Druid Chronicles by Kevin Hearne
+18. The Southern Vampire Mysteries by Charlaine Harris
+19. Interview with the Vampire by Anne Rice
+20. The Vampire Lestat by Anne Rice
+21. The Historian by Elizabeth Kostova
+22. The Shadow of the Wind by Carlos Ruiz Zafón
+23. The Name of the Wind by Patrick Rothfuss
+24. The Lies of Locke Lamora by Scott Lynch
+25. The Book Thief by Markus Zusak
+26. The Night Circus by Erin Morgenstern
+27. The Hunger Games by Suzanne Collins
+28. Divergent by Veronica Roth
+29. The Maze Runner by James Dashner
+30. Ender's Game by Orson Scott Card
+31. Ready Player One by Ernest Cline
+32. Snow Crash by Neal Stephenson
+33. Neuromancer by William Gibson
+34. Do Androids Dream of Electric Sheep? by Philip K. Dick
+35. Fahrenheit 451 by Ray Bradbury
+36. 1984 by George Orwell
+37. Brave New World by Aldous Huxley
+38. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+39. The Lord of the Rings by J.R.R. Tolkien
+40. The Hobbit by J.R.R. Tolkien
+41. A Song of Ice and Fire by George R.R. Martin
+42. The Wheel of Time by Robert Jordan
+43. Mistborn by Brandon Sanderson
+44. The Kingkiller Chronicle by Patrick Rothfuss
+45. The First Law Trilogy by Joe Abercrombie
+46. The Malazan Book of the Fallen by Steven Erikson
+47. The Black Company by Glen Cook
+48. The Chronicles of Amber by Roger Zelazny
+49. The Earthsea Cycle by Ursula K. Le Guin
+50. The Dark is Rising Sequence

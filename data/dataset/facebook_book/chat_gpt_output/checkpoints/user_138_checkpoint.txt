@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. Brave New World by Aldous Huxley
+4. Fahrenheit 451 by Ray Bradbury
+5. The Handmaid's Tale by Margaret Atwood
+6. The Catcher in the Rye by J.D. Salinger
+7. To Kill a Mockingbird by Harper Lee
+8. The Great Gatsby by F. Scott Fitzgerald
+9. Lord of the Flies by William Golding
+10. The Road by Cormac McCarthy
+11. The Hunger Games by Suzanne Collins
+12. Catch-22 by Joseph Heller
+13. Slaughterhouse-Five by Kurt Vonnegut
+14. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+15. The Stand by Stephen King
+16. The Shining by Stephen King
+17. The Silence of the Lambs by Thomas Harris
+18. The Girl with the Dragon Tattoo by Stieg Larsson
+19. The Da Vinci Code by Dan Brown
+20. Angels and Demons by Dan Brown
+21. The Bourne Identity by Robert Ludlum
+22. The Hunt for Red October by Tom Clancy
+23. The Andromeda Strain by Michael Crichton
+24. Jurassic Park by Michael Crichton
+25. The Lost World by Michael Crichton
+26. The Name of the Rose by Umberto Eco
+27. The Picture of Dorian Gray by Oscar Wilde
+28. Dracula by Bram Stoker
+29. Frankenstein by Mary Shelley
+30. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+31. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+32. The Hound of the Baskervilles by Arthur Conan Doyle
+33. The Maltese Falcon by Dashiell Hammett
+34. The Big Sleep by Raymond Chandler
+35. The Long Goodbye by Raymond Chandler
+36. The Postman Always Rings Twice by James M. Cain
+37. The Talented Mr. Ripley by Patricia Highsmith
+38. The Silence of the Sea by Yrsa Sigurdardottir
+39. The Girl on the Train by Paula Hawkins
+40. Gone Girl by Gillian Flynn
+41. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+42. The Girl Who Played with Fire by Stieg Larsson
+43. The Snowman by Jo Nesbo
+44. The Redbreast by Jo Nesbo
+45. The Bat by Jo Nesbo
+46. The Cuckoo's Calling by Robert Galbraith (J.K. Rowling)
+47. The Silkworm by Robert Galbraith (J.K. Rowling)
+48. The Secret History by Donna Tartt
+49. The Goldfinch by Donna Tart

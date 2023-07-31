@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Jay-Z
+2. Dr. Dre
+3. Snoop Dogg
+4. Notorious B.I.G.
+5. Kendrick Lamar
+6. J. Cole
+7. Outkast
+8. Wu-Tang Clan
+9. A Tribe Called Quest
+10. N.W.A.
+11. Ice Cube
+12. Public Enemy
+13. Run-DMC
+14. LL Cool J
+15. Beastie Boys
+16. Missy Elliott
+17. Lauryn Hill
+18. Mary J. Blige
+19. Alicia Keys
+20. Rihanna
+21. Beyoncé
+22. Janet Jackson
+23. Mariah Carey
+24. Whitney Houston
+25. Michael Jackson
+26. Prince
+27. Madonna
+28. Britney Spears
+29. Lady Gaga
+30. Katy Perry
+31. Taylor Swift
+32. Adele
+33. Ed Sheeran
+34. Bruno Mars
+35. Justin Bieber
+36. Shawn Mendes
+37. Ariana Grande
+38. Demi Lovato
+39. Selena Gomez
+40. Miley Cyrus
+41. Nicki Minaj
+42. Cardi B
+43. Post Malone
+44. Travis Scott
+45. Lil Wayne
+46. Jay Rock
+47. Schoolboy Q
+48. Ab-Soul
+49. Isaiah Rashad
+50. Anderson .Paak

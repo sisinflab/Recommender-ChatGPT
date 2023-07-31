@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Metallica
+2. Iron Maiden
+3. AC/DC
+4. Pantera
+5. Dream Theater
+6. Rage Against the Machine
+7. Frank Zappa
+8. Bad Religion
+9. The Smiths
+10. Fugazi
+11. Beastie Boys
+12. Sublime
+13. The Distillers
+14. Millencolin
+15. Social Distortion
+16. Dead Kennedys
+17. Bikini Kill
+18. Hole
+19. The Mountain Goats
+20. Mr. Bungle
+21. Fantômas
+22. Nevermore
+23. Opeth
+24. Dark Tranquillity
+25. In Flames
+26. Kamelot
+27. Blind Guardian
+28. Symphony X
+29. Children of Bodom
+30. Devin Townsend
+31. A Perfect Circle
+32. Porcupine Tree
+33. The Mars Volta
+34. Rush
+35. King Crimson
+36. Enigma
+37. Nightwish
+38. Ayreon
+39. Moonspell
+40. Fear Factory
+41. Pain of Salvation
+42. Lacuna Coil
+43. The Birthday Massacre
+44. Alestorm
+45. Stratovarius
+46. Whitesnake
+47. KISS
+48. Guns N' Roses
+49. Rammstein
+50. Michael Jackson

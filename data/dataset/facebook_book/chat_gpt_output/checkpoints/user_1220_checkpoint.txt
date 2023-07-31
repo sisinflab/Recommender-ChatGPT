@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Sense and Sensibility by Jane Austen
+2. Emma by Jane Austen
+3. Wuthering Heights by Emily Bronte
+4. Jane Eyre by Charlotte Bronte
+5. The Fault in Our Stars by John Green
+6. Divergent by Veronica Roth
+7. The Maze Runner by James Dashner
+8. The Giver by Lois Lowry
+9. The Book Thief by Markus Zusak
+10. The Catcher in the Rye by J.D. Salinger
+11. To Kill a Mockingbird by Harper Lee
+12. The Great Gatsby by F. Scott Fitzgerald
+13. The Lord of the Rings by J.R.R. Tolkien
+14. The Hobbit by J.R.R. Tolkien
+15. The Chronicles of Narnia by C.S. Lewis
+16. The Hunger Games: Catching Fire by Suzanne Collins
+17. The Hunger Games: Mockingjay by Suzanne Collins
+18. The Hunger Games: The Ballad of Songbirds and Snakes by Suzanne Collins
+19. The Twilight Saga: New Moon by Stephenie Meyer
+20. The Twilight Saga: Eclipse by Stephenie Meyer
+21. The Twilight Saga: Breaking Dawn by Stephenie Meyer
+22. Romeo and Juliet by William Shakespeare
+23. Hamlet by William Shakespeare
+24. Macbeth by William Shakespeare
+25. Othello by William Shakespeare
+26. The Work and the Glory: Pillar of Light by Gerald N. Lund
+27. The Work and the Glory: Like a Fire is Burning by Gerald N. Lund
+28. The Work and the Glory: Truth Will Prevail by Gerald N. Lund
+29. Inkspell by Cornelia Funke
+30. Inkdeath by Cornelia Funke
+31. The Thief Lord by Cornelia Funke
+32. Dragon Rider by Cornelia Funke
+33. The Notebook by Nicholas Sparks
+34. A Walk to Remember by Nicholas Sparks
+35. The Last Song by Nicholas Sparks
+36. Safe Haven by Nicholas Sparks
+37. The Lucky One by Nicholas Sparks
+38. The Help by Kathryn Stockett
+39. The Girl on the Train by Paula Hawkins
+40. Gone Girl by Gillian Flynn
+41. The Da Vinci Code by Dan Brown
+42. Angels and Demons by Dan Brown
+43. The Bourne Identity by Robert Ludlum
+44. The Bourne Supremacy by Robert Ludlum
+45. The Bourne Ultimatum by Robert Ludlum
+46. The Girl with the Dragon Tattoo by Stieg Larsson
+47. The Girl Who Played with Fire by Stieg Larsson
+48. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+49. The Hunger Games Trilogy Boxset by Suzanne Collins
+50. The Wheel of Time Series Boxset by

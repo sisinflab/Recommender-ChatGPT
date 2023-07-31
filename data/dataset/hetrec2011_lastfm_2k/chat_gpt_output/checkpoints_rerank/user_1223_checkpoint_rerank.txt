@@ -1,0 +1,54 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Prince
+2. Janelle Monáe
+3. Phoenix
+4. Stevie Wonder
+5. Bruce Springsteen
+6. David Bowie
+7. Elvis Costello
+8. Eric Clapton
+9. Ryan Adams
+10. B.B. King
+11. Gossip
+12. Amy Winehouse
+13. New Order
+14. Jean-Michel Jarre
+15. Tom Petty and the Heartbreakers
+16. Eels
+17. ZZ Top
+18. The Rolling Stones
+19. Kings of Leon
+20. Faithless
+21. Pink Floyd
+22. Led Zeppelin
+23. Michael Jackson
+24. The Beatles
+25. Depeche Mode
+26. Madonna
+27. Rihanna
+28. Beyoncé
+29. U2
+30. Muse
+31. Radiohead
+32. Coldplay
+33. Blur
+34. Arctic Monkeys
+35. Placebo
+36. The Killers
+37. Nirvana
+38. Iron Maiden
+39. Metallica
+40. Pearl Jam
+41. a-ha
+42. Björk
+43. System of a Down
+44. Daft Punk
+45. Nine Inch Nails
+46. Linkin Park
+47. Avenged Sevenfold
+48. My Chemical Romance
+49. Green Day
+50. The Cure
+
+Note: The remaining artists (Britney Spears, Lady Gaga, Christina Aguilera, Paramore, Shakira, Katy Perry, Avril Lavigne, Taylor Swift, Evanescence, Glee Cast, Ke$ha, Kelly Clarkson, All Time Low, P!nk, Black Eyed Peas) were not included in the top 50 recommendations as they were not similar to the user's preferences.

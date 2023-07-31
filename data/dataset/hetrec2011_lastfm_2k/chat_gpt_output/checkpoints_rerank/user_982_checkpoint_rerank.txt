@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Lady Gaga
+2. Daft Punk
+3. Armin van Buuren
+4. Jay Sean
+5. Amon Tobin
+6. Hans Zimmer
+7. M.I.A.
+8. Madonna
+9. The Lonely Island
+10. Nightwish
+11. Infected Mushroom
+12. Sam Sparro
+13. Jay-Z
+14. Chase & Status
+15. Pendulum
+16. Tim Hecker
+17. Dr. Dre
+18. Owl City
+19. Faithless
+20. Enter Shikari
+21. Britney Spears
+22. Christina Aguilera
+23. Rihanna
+24. Shakira
+25. Beyoncé
+26. Katy Perry
+27. Taylor Swift
+28. Evanescence
+29. Muse
+30. Pink Floyd
+31. Radiohead
+32. Ke$ha
+33. Coldplay
+34. The Killers
+35. Nirvana
+36. Iron Maiden
+37. Led Zeppelin
+38. Metallica
+39. Michael Jackson
+40. Pearl Jam
+41. Björk
+42. System of a Down
+43. Nine Inch Nails
+44. Linkin Park
+45. Kelly Clarkson
+46. All Time Low
+47. P!nk
+48. Avenged Sevenfold
+49. My Chemical Romance
+50. Green Day

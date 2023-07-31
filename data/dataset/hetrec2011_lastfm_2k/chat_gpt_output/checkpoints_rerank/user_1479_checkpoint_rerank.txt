@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. A Day to Remember
+2. Bring Me The Horizon
+3. Crystal Castles
+4. August Burns Red
+5. DevilDriver
+6. Parkway Drive
+7. Korn
+8. Emmure
+9. blink-182
+10. The Offspring
+11. Zebrahead
+12. Caliban
+13. Limp Bizkit
+14. Red Hot Chili Peppers
+15. Kid Cudi
+16. Hot Chip
+17. Death Cab for Cutie
+18. Muse
+19. Nirvana
+20. Iron Maiden
+21. Metallica
+22. Led Zeppelin
+23. Pearl Jam
+24. Radiohead
+25. System of a Down
+26. Nine Inch Nails
+27. Arctic Monkeys
+28. The Killers
+29. Green Day
+30. My Chemical Romance
+31. The Cure
+32. Pink Floyd
+33. U2
+34. Michael Jackson
+35. Madonna
+36. Lady Gaga
+37. Beyoncé
+38. Rihanna
+39. Shakira
+40. Christina Aguilera
+41. Britney Spears
+42. Katy Perry
+43. Taylor Swift
+44. Avril Lavigne
+45. Kelly Clarkson
+46. P!nk
+47. Avenged Sevenfold
+48. Black Eyed Peas
+49. Ke$ha
+50. Glee Cast

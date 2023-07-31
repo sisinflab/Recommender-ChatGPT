@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Brave New World by Aldous Huxley
+2. Fahrenheit 451 by Ray Bradbury
+3. Slaughterhouse-Five by Kurt Vonnegut
+4. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+5. The Catcher in the Rye by J.D. Salinger
+6. One Hundred Years of Solitude by Gabriel Garcia Marquez
+7. The Bell Jar by Sylvia Plath
+8. The Handmaid's Tale by Margaret Atwood
+9. 1984 by George Orwell
+10. Animal Farm by George Orwell
+11. The Road by Cormac McCarthy
+12. The Giver by Lois Lowry
+13. The Hunger Games by Suzanne Collins
+14. Dune by Frank Herbert
+15. Ender's Game by Orson Scott Card
+16. The Lord of the Rings by J.R.R. Tolkien
+17. The Hobbit by J.R.R. Tolkien
+18. The Chronicles of Narnia by C.S. Lewis
+19. The Dark Tower series by Stephen King
+20. The Stand by Stephen King
+21. The Shining by Stephen King
+22. The Girl with the Dragon Tattoo by Stieg Larsson
+23. The Da Vinci Code by Dan Brown
+24. The Name of the Wind by Patrick Rothfuss
+25. The Lies of Locke Lamora by Scott Lynch
+26. The Blade Itself by Joe Abercrombie
+27. The Way of Kings by Brandon Sanderson
+28. Mistborn by Brandon Sanderson
+29. The Kingkiller Chronicle by Patrick Rothfuss
+30. The First Law Trilogy by Joe Abercrombie
+31. The Dresden Files by Jim Butcher
+32. American Gods by Neil Gaiman
+33. Good Omens by Neil Gaiman and Terry Pratchett
+34. The Hitchhiker's Guide to the Galaxy series by Douglas Adams
+35. The Discworld series by Terry Pratchett
+36. The Dark Materials trilogy by Philip Pullman
+37. The Magicians by Lev Grossman
+38. The Night Circus by Erin Morgenstern
+39. The Book Thief by Markus Zusak
+40. The Kite Runner by Khaled Hosseini
+41. The Secret History by Donna Tartt
+42. The Picture of Dorian Gray by Oscar Wilde
+43. The Great Gatsby by F. Scott Fitzgerald
+44. To Kill a Mockingbird by Harper Lee
+45. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+46. The Complete Works of Edgar Allan Poe by Edgar Allan Poe
+47. The Canterbury Tales by Geoffrey Chaucer
+48. The Divine Comedy by Dante Alighieri
+49. The Iliad by Homer
+50. The Odyssey by Homer

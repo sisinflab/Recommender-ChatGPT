@@ -1,0 +1,49 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. Brave New World by Aldous Huxley
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Animal Farm by George Orwell
+7. One Hundred Years of Solitude by Gabriel Garcia Marquez
+8. The Handmaid's Tale by Margaret Atwood
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Bell Jar by Sylvia Plath
+11. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+12. The Hobbit by J.R.R. Tolkien
+13. The Fellowship of the Ring by J.R.R. Tolkien
+14. The Two Towers by J.R.R. Tolkien
+15. The Return of the King by J.R.R. Tolkien
+16. The Name of the Wind by Patrick Rothfuss
+17. The Wise Man's Fear by Patrick Rothfuss
+18. The Hunger Games by Suzanne Collins
+19. Catching Fire by Suzanne Collins
+20. Mockingjay by Suzanne Collins
+21. The Girl with the Dragon Tattoo by Stieg Larsson
+22. The Girl Who Played with Fire by Stieg Larsson
+23. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+24. The Road by Cormac McCarthy
+25. The Stand by Stephen King
+26. The Shining by Stephen King
+27. It by Stephen King
+28. The Dark Tower I: The Gunslinger by Stephen King
+29. The Dark Tower II: The Drawing of the Three by Stephen King
+30. The Dark Tower III: The Waste Lands by Stephen King
+31. The Dark Tower IV: Wizard and Glass by Stephen King
+32. The Dark Tower V: Wolves of the Calla by Stephen King
+33. The Dark Tower VI: Song of Susannah by Stephen King
+34. The Dark Tower VII: The Dark Tower by Stephen King
+35. The Chronicles of Narnia by C.S. Lewis
+36. The Lord of the Rings by J.R.R. Tolkien
+37. The Silmarillion by J.R.R. Tolkien
+38. The Children of Hurin by J.R.R. Tolkien
+39. The Hobbit and The Lord of the Rings Boxed Set by J.R.R. Tolkien
+40. The Complete Sherlock Holmes by Arthur Conan Doyle
+41. The Adventures of Huckleberry Finn by Mark Twain
+42. The Adventures of Tom Sawyer by Mark Twain
+43. The Count of Monte Cristo by Alexandre Dumas
+44. Les Miserables by Victor Hugo
+45. The Three Musketeers by Alexandre Dumas
+46. War and Peace by Leo Tolstoy
+47. Crime and Punishment

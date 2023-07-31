@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Strokes
+2. Arcade Fire
+3. The National
+4. Arctic Monkeys
+5. Radiohead
+6. Interpol
+7. The White Stripes
+8. The Black Keys
+9. The Libertines
+10. The Killers
+11. Franz Ferdinand
+12. Muse
+13. Queens of the Stone Age
+14. Yeah Yeah Yeahs
+15. Foals
+16. Vampire Weekend
+17. The xx
+18. Bloc Party
+19. Editors
+20. The Kooks
+21. The Vaccines
+22. The Hives
+23. The Raconteurs
+24. The Arctic Monkeys
+25. The Fratellis
+26. The Wombats
+27. The Maccabees
+28. The Pigeon Detectives
+29. The Futureheads
+30. The View
+31. The Ting Tings
+32. The Bravery
+33. The Rakes
+34. The Horrors
+35. The Drums
+36. The Cribs
+37. The Raveonettes
+38. The Jesus and Mary Chain
+39. The Ramones
+40. The Misfits
+41. Nirvana
+42. Kings of Leon
+43. White Lies
+44. Sigur Rós
+45. Jónsi
+46. ...And You Will Know Us by the Trail of Dead
+47. Guided by Voices
+48. Hammock
+49. Angels & Airwaves
+50. Empire of the Sun

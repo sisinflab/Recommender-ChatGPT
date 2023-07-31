@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Coldplay
+2. Arcade Fire
+3. The Beatles
+4. U2
+5. Oasis
+6. The Killers
+7. Red Hot Chili Peppers
+8. Pearl Jam
+9. Foo Fighters
+10. R.E.M.
+11. The Smashing Pumpkins
+12. Depeche Mode
+13. The Cure
+14. Nine Inch Nails
+15. Radiohead (similar artist)
+16. Muse (similar artist)
+17. Boards of Canada (similar artist)
+18. Pink Floyd (similar artist)
+19. Massive Attack (similar artist)
+20. Nirvana (similar artist)
+21. Madonna (similar artist)
+22. Queen (similar artist)
+23. Robbie Williams (similar artist)
+24. David Gilmour (similar artist)
+25. The Doors (similar artist)
+26. Phil Collins (similar artist)
+27. Amethystium (similar artist)
+28. Eagles (similar artist)
+29. Placebo (similar artist)
+30. Enigma (similar artist)
+31. James Blunt (similar artist)
+32. Bob Dylan (similar artist)
+33. Led Zeppelin (similar artist)
+34. ABBA (similar artist)
+35. The Rolling Stones
+36. Pink
+37. Beyoncé
+38. Michael Jackson
+39. Prince
+40. Bruce Springsteen
+41. Neil Young
+42. Tom Petty and the Heartbreakers
+43. Fleetwood Mac
+44. The Who
+45. Genesis
+46. Rush
+47. Yes
+48. Jethro Tull
+49. Emerson, Lake & Palmer
+50. King Crimson

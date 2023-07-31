@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. To Kill a Mockingbird by Harper Lee
+4. The Catcher in the Rye by J.D. Salinger
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Great Gatsby by F. Scott Fitzgerald
+7. The Bell Jar by Sylvia Plath
+8. The Handmaid's Tale by Margaret Atwood
+9. The Road by Cormac McCarthy
+10. The Stranger by Albert Camus
+11. The Sun Also Rises by Ernest Hemingway
+12. The Old Man and the Sea by Ernest Hemingway
+13. The Sound and the Fury by William Faulkner
+14. The Grapes of Wrath by John Steinbeck
+15. East of Eden by John Steinbeck
+16. Of Mice and Men by John Steinbeck
+17. The Picture of Dorian Gray by Oscar Wilde
+18. Frankenstein by Mary Shelley
+19. Dracula by Bram Stoker
+20. The Fall of the House of Usher by Edgar Allan Poe
+21. The Raven by Edgar Allan Poe
+22. The Tell-Tale Heart by Edgar Allan Poe
+23. The Cask of Amontillado by Edgar Allan Poe
+24. The Masque of the Red Death by Edgar Allan Poe
+25. The Black Cat by Edgar Allan Poe
+26. The Complete Stories and Poems by Edgar Allan Poe
+27. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+28. The Lord of the Rings by J.R.R. Tolkien
+29. The Hobbit by J.R.R. Tolkien
+30. The Chronicles of Narnia by C.S. Lewis
+31. The Hunger Games by Suzanne Collins
+32. Harry Potter and the Philosopher's Stone by J.K. Rowling
+33. The Girl with the Dragon Tattoo by Stieg Larsson
+34. The Da Vinci Code by Dan Brown
+35. The Name of the Rose by Umberto Eco
+36. The Shadow of the Wind by Carlos Ruiz Zafón
+37. The Kite Runner by Khaled Hosseini
+38. A Thousand Splendid Suns by Khaled Hosseini
+39. The Alchemist by Paulo Coelho
+40. The God of Small Things by Arundhati Roy
+41. The Joy Luck Club by Amy Tan
+42. The Color Purple by Alice Walker
+43. Beloved by Toni Morrison
+44. The Handmaid's Tale by Margaret Atwood
+45. Never Let Me Go by Kazuo Ishiguro
+46. Atonement by Ian McEwan
+47. Catch-22 by Joseph Heller
+48. Things Fall Apart by Chinua Achebe
+49. Wuthering Heights by Emily Brontë
+50. The Wise Man's Fear by Patrick Rothfuss

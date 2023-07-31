@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Björk
+3. David Bowie
+4. Arcade Fire
+5. Fiona Apple
+6. Beck
+7. Portishead
+8. The Smiths
+9. Talking Heads
+10. Massive Attack
+11. Sigur Rós
+12. The National
+13. Nick Cave & The Bad Seeds
+14. PJ Harvey
+15. Sufjan Stevens
+16. The Strokes
+17. The White Stripes
+18. LCD Soundsystem
+19. The Flaming Lips
+20. Animal Collective
+21. Grizzly Bear
+22. Fleet Foxes
+23. Bon Iver
+24. Tame Impala
+25. Vampire Weekend
+26. The xx
+27. Phoenix
+28. MGMT
+29. Arctic Monkeys
+30. The Black Keys
+31. Yeah Yeah Yeahs
+32. Interpol
+33. The Killers
+34. Franz Ferdinand
+35. The Libertines
+36. The Kooks
+37. The Shins
+38. Death Cab for Cutie
+39. Belle and Sebastian
+40. The Decemberists
+41. Neutral Milk Hotel
+42. Elliott Smith
+43. Nick Drake
+44. Jeff Buckley
+45. Joni Mitchell
+46. Leonard Cohen
+47. Bob Dylan
+48. Neil Young
+49. Tom Waits
+50. Van Morrison

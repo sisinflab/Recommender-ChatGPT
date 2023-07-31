@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games (series) by Suzanne Collins
+2. Divergent (series) by Veronica Roth
+3. The Maze Runner (series) by James Dashner
+4. The Fault in Our Stars by John Green
+5. The Giver by Lois Lowry
+6. Ender's Game by Orson Scott Card
+7. The Chronicles of Narnia by C.S. Lewis
+8. The Hobbit by J.R.R. Tolkien
+9. The Girl with the Dragon Tattoo by Stieg Larsson
+10. The Da Vinci Code by Dan Brown
+11. The Girl on the Train by Paula Hawkins
+12. The Help by Kathryn Stockett
+13. The Book Thief by Markus Zusak
+14. The Catcher in the Rye by J.D. Salinger
+15. To Kill a Mockingbird by Harper Lee
+16. 1984 by George Orwell
+17. Animal Farm by George Orwell
+18. Brave New World by Aldous Huxley
+19. Fahrenheit 451 by Ray Bradbury
+20. The Handmaid's Tale by Margaret Atwood
+21. The Stand by Stephen King
+22. It by Stephen King
+23. The Shining by Stephen King
+24. Carrie by Stephen King
+25. Misery by Stephen King
+26. The Silence of the Lambs by Thomas Harris
+27. Red Dragon by Thomas Harris
+28. Hannibal by Thomas Harris
+29. The Bourne Identity by Robert Ludlum
+30. The Bourne Supremacy by Robert Ludlum
+31. The Bourne Ultimatum by Robert Ludlum
+32. The Girl with the Dragon Tattoo (series) by Stieg Larsson
+33. The Girl Who Played with Fire by Stieg Larsson
+34. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+35. Angels and Demons by Dan Brown
+36. Inferno by Dan Brown
+37. Digital Fortress by Dan Brown
+38. The Lost Symbol by Dan Brown
+39. The Andromeda Strain by Michael Crichton
+40. Sphere by Michael Crichton
+41. Prey by Michael Crichton
+42. Congo by Michael Crichton
+43. The Terminal Man by Michael Crichton
+44. The Island of Dr. Moreau by H.G. Wells
+45. The Time Machine by H.G. Wells
+46. The War of the Worlds by H.G. Wells
+47. The Invisible Man by H.G. Wells
+48. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+49. Treasure Island by Robert Louis Stevenson
+50. Kidnapped by Robert Louis Stevenson

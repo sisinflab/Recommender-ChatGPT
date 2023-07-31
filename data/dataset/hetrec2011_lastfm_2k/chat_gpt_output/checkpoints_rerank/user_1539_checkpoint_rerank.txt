@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Strokes
+2. Vampire Weekend
+3. Wolfmother
+4. Arctic Monkeys
+5. The Dead Weather
+6. The Pretty Reckless
+7. Franz Ferdinand
+8. MGMT
+9. The Distillers
+10. The Killers
+11. The Runaways
+12. Gorillaz
+13. She & Him
+14. Coldplay
+15. Them Crooked Vultures
+16. Kaiser Chiefs
+17. The Fratellis
+18. Blondie
+19. Flyleaf
+20. The Kills
+21. Lily Allen
+22. The Donnas
+23. The Pigeon Detectives
+24. Santigold
+25. Daft Punk
+26. The Drums
+27. Queen
+28. The Doors
+29. KISS
+30. Nirvana
+31. Led Zeppelin
+32. Metallica
+33. Michael Jackson
+34. Pearl Jam
+35. System of a Down
+36. Nine Inch Nails
+37. Linkin Park
+38. Iron Maiden
+39. Pink Floyd
+40. Muse
+41. U2
+42. Radiohead
+43. Duran Duran
+44. Blur
+45. Placebo
+46. Amy Winehouse
+47. Björk
+48. Kylie Minogue
+49. Madonna
+50. Rihanna

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations are:
+
+1. Arctic Monkeys
+2. The Killers
+3. Nirvana
+4. Foo Fighters
+5. Green Day
+6. My Chemical Romance
+7. The Kooks
+8. Fall Out Boy
+9. The Libertines
+10. Motion City Soundtrack
+11. Silverstein
+12. Mindless Self Indulgence
+13. +44
+14. Box Car Racer
+15. Three Days Grace
+16. As I Lay Dying
+17. Limp Bizkit
+18. Escape The Fate
+19. A Day to Remember
+20. 3OH!3
+21. Relient K
+22. Plain White T's
+23. The Pretty Reckless
+24. The Subways
+25. Mayday Parade
+26. Misfits
+27. Cobra Starship
+28. Alkaline Trio
+29. Caliban
+30. Britney Spears
+31. Lady Gaga
+32. Christina Aguilera
+33. Paramore
+34. Rihanna
+35. Shakira
+36. Katy Perry
+37. Avril Lavigne
+38. Taylor Swift
+39. Evanescence
+40. Beyoncé
+41. Muse
+42. Pink Floyd
+43. Radiohead
+44. Ke$ha
+45. Coldplay
+46. Blur
+47. Duran Duran
+48. U2
+49. Madonna
+50. Kylie Minogue

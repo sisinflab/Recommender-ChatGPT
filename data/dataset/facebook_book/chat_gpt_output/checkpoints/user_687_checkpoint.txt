@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. The Catcher in the Rye by J.D. Salinger
+4. To Kill a Mockingbird by Harper Lee
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Animal Farm by George Orwell
+7. The Lord of the Rings by J.R.R. Tolkien
+8. The Hobbit by J.R.R. Tolkien
+9. The Chronicles of Narnia by C.S. Lewis
+10. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+11. The Da Vinci Code by Dan Brown
+12. Angels and Demons by Dan Brown
+13. The Girl with the Dragon Tattoo by Stieg Larsson
+14. The Hunger Games by Suzanne Collins
+15. Catching Fire by Suzanne Collins
+16. Mockingjay by Suzanne Collins
+17. The Maze Runner by James Dashner
+18. The Bourne Identity by Robert Ludlum
+19. The Bourne Supremacy by Robert Ludlum
+20. The Bourne Ultimatum by Robert Ludlum
+21. The Girl on the Train by Paula Hawkins
+22. Gone Girl by Gillian Flynn
+23. The Lovely Bones by Alice Sebold
+24. The Help by Kathryn Stockett
+25. The Kite Runner by Khaled Hosseini
+26. A Thousand Splendid Suns by Khaled Hosseini
+27. The Alchemist by Paulo Coelho
+28. The Name of the Wind by Patrick Rothfuss
+29. The Wise Man's Fear by Patrick Rothfuss
+30. The Way of Kings by Brandon Sanderson
+31. Mistborn by Brandon Sanderson
+32. The Final Empire by Brandon Sanderson
+33. The Well of Ascension by Brandon Sanderson
+34. The Hero of Ages by Brandon Sanderson
+35. The Gunslinger by Stephen King
+36. The Drawing of the Three by Stephen King
+37. The Waste Lands by Stephen King
+38. Wizard and Glass by Stephen King
+39. Wolves of the Calla by Stephen King
+40. Song of Susannah by Stephen King
+41. The Dark Tower by Stephen King
+42. The Stand by Stephen King
+43. It by Stephen King
+44. The Shining by Stephen King
+45. Doctor Sleep by Stephen King
+46. The Green Mile by Stephen King
+47. The Talisman by Stephen King and Peter Straub
+48. The Eyes of the Dragon by Stephen King
+49. The Dead Zone by Stephen King
+50. Carrie by Stephen King

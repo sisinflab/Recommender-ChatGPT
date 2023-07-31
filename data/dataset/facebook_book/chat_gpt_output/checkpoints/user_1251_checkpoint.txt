@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Great Gatsby by F. Scott Fitzgerald
+4. Pride and Prejudice by Jane Austen
+5. The Catcher in the Rye by J.D. Salinger
+6. The Lord of the Rings by J.R.R. Tolkien
+7. The Hobbit by J.R.R. Tolkien
+8. The Chronicles of Narnia by C.S. Lewis
+9. The Da Vinci Code by Dan Brown
+10. Angels and Demons by Dan Brown
+11. The Girl on the Train by Paula Hawkins
+12. Gone Girl by Gillian Flynn
+13. The Help by Kathryn Stockett
+14. The Secret Life of Bees by Sue Monk Kidd
+15. The Kite Runner by Khaled Hosseini
+16. A Thousand Splendid Suns by Khaled Hosseini
+17. The Alchemist by Paulo Coelho
+18. The Picture of Dorian Gray by Oscar Wilde
+19. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+20. The Count of Monte Cristo by Alexandre Dumas
+21. Les Misérables by Victor Hugo
+22. The Three Musketeers by Alexandre Dumas
+23. The Name of the Wind by Patrick Rothfuss
+24. The Wise Man's Fear by Patrick Rothfuss
+25. The Hunger Games Trilogy by Suzanne Collins
+26. Divergent by Veronica Roth
+27. The Maze Runner by James Dashner
+28. The Fault in Our Stars by John Green
+29. Looking for Alaska by John Green
+30. The Perks of Being a Wallflower by Stephen Chbosky
+31. The Book Thief by Markus Zusak
+32. The Nightingale by Kristin Hannah
+33. The Help by Kathryn Stockett
+34. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+35. The Devil in the White City by Erik Larson
+36. The Glass Castle by Jeannette Walls
+37. The Color Purple by Alice Walker
+38. The Joy Luck Club by Amy Tan
+39. The God of Small Things by Arundhati Roy
+40. The Handmaid's Tale by Margaret Atwood
+41. The Testaments by Margaret Atwood
+42. The Road by Cormac McCarthy
+43. The Picture of Dorian Gray by Oscar Wilde
+44. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+45. The Count of Monte Cristo by Alexandre Dumas
+46. Les Misérables by Victor Hugo
+47. The Three Musketeers by Alexandre Dumas
+48. The Name of the Wind by Patrick Rothfuss
+49. The Wise Man's Fear by Patrick Rothfuss
+50. The Hunger Games Trilogy by Suzanne Collins

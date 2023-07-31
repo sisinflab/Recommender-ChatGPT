@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Tuesdays with Morrie by Mitch Albom
+2. The First Phone Call from Heaven by Mitch Albom
+3. For One More Day by Mitch Albom
+4. The Time Keeper by Mitch Albom
+5. The Magic Strings of Frankie Presto by Mitch Albom
+6. The Next Person You Meet in Heaven by Mitch Albom
+7. The Choose Your Own Adventure series
+8. The Walking Dead: The Road to Woodbury by Robert Kirkman and Jay Bonansinga
+9. World War Z by Max Brooks
+10. The Zombie Survival Guide: Complete Protection from the Living Dead by Max Brooks
+11. Pride and Prejudice and Zombies by Seth Grahame-Smith
+12. Sense and Sensibility and Sea Monsters by Ben H. Winters
+13. Abraham Lincoln: Vampire Hunter by Seth Grahame-Smith
+14. Warm Bodies by Isaac Marion
+15. The Fault in Our Stars by John Green
+16. Me Before You by Jojo Moyes
+17. The Notebook by Nicholas Sparks
+18. A Walk to Remember by Nicholas Sparks
+19. The Last Song by Nicholas Sparks
+20. The Lucky One by Nicholas Sparks
+21. The Best of Me by Nicholas Sparks
+22. The Choice by Nicholas Sparks
+23. The Longest Ride by Nicholas Sparks
+24. The Rescue by Nicholas Sparks
+25. The Guardian by Nicholas Sparks
+26. The Wedding by Nicholas Sparks
+27. The Notebook by Nicholas Sparks
+28. The Bridges of Madison County by Robert James Waller
+29. The Time Traveler's Wife by Audrey Niffenegger
+30. The Lovely Bones by Alice Sebold
+31. The Hunger Games by Suzanne Collins
+32. Catching Fire by Suzanne Collins
+33. Mockingjay by Suzanne Collins
+34. Divergent by Veronica Roth
+35. Insurgent by Veronica Roth
+36. Allegiant by Veronica Roth
+37. The Maze Runner by James Dashner
+38. The Scorch Trials by James Dashner
+39. The Death Cure by James Dashner
+40. The Kill Order by James Dashner
+41. The Giver by Lois Lowry
+42. Gathering Blue by Lois Lowry
+43. Messenger by Lois Lowry
+44. Son by Lois Lowry
+45. The Chronicles of Narnia by C.S. Lewis
+46. Harry Potter series by J.K. Rowling
+47. The Lord of the Rings by J.R.R. Tolkien
+48. The Hobbit by J.R.R. Tolkien
+49. The Hunger Games Trilogy Boxed Set by Suzanne Collins
+50. The Divergent Series Boxed Set by Veronica Roth

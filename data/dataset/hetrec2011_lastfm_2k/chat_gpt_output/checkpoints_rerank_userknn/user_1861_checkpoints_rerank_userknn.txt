@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Smiths
+2. Joy Division
+3. Nick Drake
+4. Tom Waits
+5. Morrissey
+6. Elliott Smith
+7. The Velvet Underground
+8. Jeff Buckley
+9. David Bowie
+10. Spiritualized
+11. PJ Harvey
+12. The Cure
+13. Radiohead
+14. Franz Ferdinand
+15. Arcade Fire
+16. Muse
+17. Beck
+18. Bright Eyes
+19. The Verve
+20. Suede
+21. Gorillaz
+22. The Kills
+23. Animal Collective
+24. The Mars Volta
+25. Depeche Mode
+26. Kent
+27. Razorlight
+28. The Cribs
+29. Placebo
+30. The Clash
+31. Ramones
+32. Bad Brains
+33. Black Flag
+34. Misfits
+35. Slayer
+36. Manic Street Preachers
+37. Melvins
+38. Throbbing Gristle
+39. Ghostface Killah
+40. Nine Inch Nails
+41. U2
+42. The Beatles
+43. Blur
+44. The Killers
+45. Eminem
+46. Noize MC
+47. AFI
+48. Mando Diao
+49. Porcupine Tree
+50. Kings of Leon

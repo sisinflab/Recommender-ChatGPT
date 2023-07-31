@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Snow Patrol
+2. Katy Perry
+3. Calvin Harris
+4. Fall Out Boy
+5. The All-American Rejects
+6. OneRepublic
+7. Ke$ha
+8. Nickelback
+9. Lena
+10. Phoenix
+11. Robbie Williams
+12. Rooney
+13. LCD Soundsystem
+14. Timbaland
+15. Linkin Park
+16. Black Eyed Peas
+17. Papa Roach
+18. Marina & the Diamonds
+19. Jason Mraz
+20. Fatboy Slim
+21. Taylor Swift
+22. Weezer
+23. Paolo Nutini
+24. Metro Station
+25. Michael Bublé
+26. Cobra Starship
+27. Pendulum
+28. Daughtry
+29. The Ting Tings
+30. Jet
+31. Lady Gaga
+32. Beyoncé
+33. Pink Floyd
+34. Muse
+35. Radiohead
+36. Coldplay
+37. Nirvana
+38. Led Zeppelin
+39. Metallica
+40. Michael Jackson
+41. Pearl Jam
+42. a-ha
+43. Björk
+44. System of a Down
+45. Daft Punk
+46. Nine Inch Nails
+47. Kelly Clarkson
+48. Avril Lavigne
+49. Paramore
+50. The Killers

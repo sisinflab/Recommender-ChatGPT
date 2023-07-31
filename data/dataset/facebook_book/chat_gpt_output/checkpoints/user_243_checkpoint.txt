@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. To Kill a Mockingbird by Harper Lee
+3. 1984 by George Orwell
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Pride and Prejudice by Jane Austen
+6. The Hobbit by J.R.R. Tolkien
+7. The Lord of the Rings by J.R.R. Tolkien
+8. The Chronicles of Narnia by C.S. Lewis
+9. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+10. The Da Vinci Code by Dan Brown
+11. The Hunger Games by Suzanne Collins
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Kite Runner by Khaled Hosseini
+14. The Alchemist by Paulo Coelho
+15. The Road by Cormac McCarthy
+16. The Book Thief by Markus Zusak
+17. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+18. The Adventures of Tom Sawyer by Mark Twain
+19. The Adventures of Huckleberry Finn by Mark Twain
+20. The Secret Life of Bees by Sue Monk Kidd
+21. The Help by Kathryn Stockett
+22. The Lovely Bones by Alice Sebold
+23. The Time Traveler's Wife by Audrey Niffenegger
+24. The Fault in Our Stars by John Green
+25. The Maze Runner by James Dashner
+26. The Outsiders by S.E. Hinton
+27. The Perks of Being a Wallflower by Stephen Chbosky
+28. The Bell Jar by Sylvia Plath
+29. The Picture of Dorian Gray by Oscar Wilde
+30. The Giver by Lois Lowry
+31. His Dark Materials by Philip Pullman
+32. The Secret Garden by Frances Hodgson Burnett
+33. Alice's Adventures in Wonderland by Lewis Carroll
+34. Crime and Punishment by Fyodor Dostoyevsky
+35. The Brothers Karamazov by Fyodor Dostoyevsky
+36. War and Peace by Leo Tolstoy
+37. Anna Karenina by Leo Tolstoy
+38. One Hundred Years of Solitude by Gabriel Garcia Marquez
+39. Love in the Time of Cholera by Gabriel Garcia Marquez
+40. The Old Man and the Sea by Ernest Hemingway
+41. A Farewell to Arms by Ernest Hemingway
+42. For Whom the Bell Tolls by Ernest Hemingway
+43. The Sun Also Rises by Ernest Hemingway
+44. The Sound and the Fury by William Faulkner
+45. As I Lay Dying by William Faulkner
+46. The Grapes of Wrath by John Steinbeck
+47. East of Eden by John Steinbeck
+48. Of Mice

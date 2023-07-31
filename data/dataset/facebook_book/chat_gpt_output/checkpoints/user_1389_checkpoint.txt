@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Fault in Our Stars by John Green
+2. The Hunger Games by Suzanne Collins
+3. Divergent by Veronica Roth
+4. Twilight by Stephenie Meyer
+5. The Maze Runner by James Dashner
+6. The Mortal Instruments series by Cassandra Clare
+7. The Selection by Kiera Cass
+8. The Giver by Lois Lowry
+9. The Book Thief by Markus Zusak
+10. The Perks of Being a Wallflower by Stephen Chbosky
+11. The Chronicles of Narnia by C.S. Lewis
+12. The Lord of the Rings by J.R.R. Tolkien
+13. The Hobbit by J.R.R. Tolkien
+14. The Girl on the Train by Paula Hawkins
+15. The Da Vinci Code by Dan Brown
+16. The Help by Kathryn Stockett
+17. The Time Traveler's Wife by Audrey Niffenegger
+18. The Lovely Bones by Alice Sebold
+19. The Secret Life of Bees by Sue Monk Kidd
+20. The Kite Runner by Khaled Hosseini
+21. The Alchemist by Paulo Coelho
+22. The Catcher in the Rye by J.D. Salinger
+23. The Picture of Dorian Gray by Oscar Wilde
+24. The Great Gatsby by F. Scott Fitzgerald
+25. To Kill a Mockingbird by Harper Lee
+26. The Outsiders by S.E. Hinton
+27. The Chronicles of Prydain by Lloyd Alexander
+28. The Dark is Rising by Susan Cooper
+29. The Once and Future King by T.H. White
+30. The Belgariad by David Eddings
+31. The Malloreon by David Eddings
+32. The Wheel of Time by Robert Jordan
+33. The Sword of Shannara by Terry Brooks
+34. The Elfstones of Shannara by Terry Brooks
+35. The Wishsong of Shannara by Terry Brooks
+36. The Black Company by Glen Cook
+37. The Dresden Files by Jim Butcher
+38. The Name of the Wind by Patrick Rothfuss
+39. The Lies of Locke Lamora by Scott Lynch
+40. The Blade Itself by Joe Abercrombie
+41. The Way of Kings by Brandon Sanderson
+42. Mistborn by Brandon Sanderson
+43. The Final Empire by Brandon Sanderson
+44. The Well of Ascension by Brandon Sanderson
+45. The Hero of Ages by Brandon Sanderson
+46. The Lies of Locke Lamora by Scott Lynch
+47. The Blade Itself by Joe Abercrombie
+48. The Way of Kings by Brandon Sanderson
+49. Mistborn by Brandon Sanderson
+50. The Final Empire by Brandon Sanderson

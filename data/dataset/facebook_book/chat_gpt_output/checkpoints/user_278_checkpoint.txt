@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Remains of the Day by Kazuo Ishiguro
+2. The Shadow of the Wind by Carlos Ruiz Zafón
+3. The Name of the Rose by Umberto Eco
+4. The Picture of Dorian Gray by Oscar Wilde
+5. The Catcher in the Rye by J.D. Salinger
+6. The Bell Jar by Sylvia Plath
+7. The Great Gatsby by F. Scott Fitzgerald
+8. To Kill a Mockingbird by Harper Lee
+9. 1984 by George Orwell
+10. Animal Farm by George Orwell
+11. One Hundred Years of Solitude by Gabriel Garcia Marquez
+12. Love in the Time of Cholera by Gabriel Garcia Marquez
+13. Crime and Punishment by Fyodor Dostoevsky
+14. The Brothers Karamazov by Fyodor Dostoevsky
+15. Anna Karenina by Leo Tolstoy
+16. War and Peace by Leo Tolstoy
+17. The Idiot by Fyodor Dostoevsky
+18. The Trial by Franz Kafka
+19. The Metamorphosis by Franz Kafka
+20. The Stranger by Albert Camus
+21. The Plague by Albert Camus
+22. The Unbearable Lightness of Being by Milan Kundera
+23. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+24. The Hobbit by J.R.R. Tolkien
+25. The Lord of the Rings by J.R.R. Tolkien
+26. The Chronicles of Narnia by C.S. Lewis
+27. The Da Vinci Code by Dan Brown
+28. Angels and Demons by Dan Brown
+29. The Girl with the Dragon Tattoo by Stieg Larsson
+30. The Girl Who Played with Fire by Stieg Larsson
+31. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+32. The Hunger Games by Suzanne Collins
+33. Catching Fire by Suzanne Collins
+34. Mockingjay by Suzanne Collins
+35. The Maze Runner by James Dashner
+36. The Scorch Trials by James Dashner
+37. The Death Cure by James Dashner
+38. The Fault in Our Stars by John Green
+39. Looking for Alaska by John Green
+40. Paper Towns by John Green
+41. The Book Thief by Markus Zusak
+42. The Help by Kathryn Stockett
+43. The Secret Life of Bees by Sue Monk Kidd
+44. The Color Purple by Alice Walker
+45. Beloved by Toni Morrison
+46. The Handmaid's Tale by Margaret Atwood
+47. The Road by Cormac McCarthy
+48. The Stand by Stephen King
+49. It by Stephen King
+50. The Shining by Stephen King

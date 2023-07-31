@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Strokes
+2. Arcade Fire
+3. Arctic Monkeys
+4. She & Him
+5. Florence + the Machine
+6. MGMT
+7. Interpol
+8. Passion Pit
+9. Marina & the Diamonds
+10. Móveis Coloniais de Acaju
+11. The Fratellis
+12. Franz Ferdinand
+13. Los Hermanos
+14. The All-American Rejects
+15. Death Cab for Cutie
+16. Kasabian
+17. Oasis
+18. Regina Spektor
+19. Simon & Garfunkel
+20. The White Stripes
+21. Beirut
+22. Travis
+23. Daft Punk
+24. Yeah Yeah Yeahs
+25. Justice
+26. The Kooks
+27. Klaxons
+28. Radiohead
+29. Nirvana
+30. Pearl Jam
+31. Iron Maiden
+32. Metallica
+33. Michael Jackson
+34. a-ha
+35. Björk
+36. Nine Inch Nails
+37. Linkin Park
+38. Coldplay
+39. Blur
+40. Placebo
+41. The Killers
+42. Green Day
+43. My Chemical Romance
+44. Avenged Sevenfold
+45. Pink Floyd
+46. U2
+47. Muse
+48. Duran Duran
+49. Amy Winehouse
+50. Led Zeppelin

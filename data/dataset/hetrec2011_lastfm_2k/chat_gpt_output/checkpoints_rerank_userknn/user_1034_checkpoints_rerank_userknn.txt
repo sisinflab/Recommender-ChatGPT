@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Rihanna
+2. Eminem
+3. Drake
+4. Katy Perry
+5. Jay-Z
+6. Ne-Yo
+7. Chris Brown
+8. Black Eyed Peas
+9. P!nk
+10. Timbaland
+11. BoA
+12. Super Junior
+13. Girlicious
+14. Keri Hilson
+15. B.o.B
+16. Flo Rida
+17. Marilyn Manson
+18. AC/DC
+19. The Pretty Reckless
+20. JoJo
+21. Destiny's Child
+22. 2NE1
+23. Ciara
+24. Nelly Furtado
+25. Jesse McCartney
+26. Leighton Meester
+27. 동방신기
+28. Sugababes
+29. OneRepublic
+30. Christina Aguilera
+31. Dr. Dre
+32. The Game
+33. Avril Lavigne
+34. Stone Sour
+35. Rise Against
+36. David Guetta
+37. Third Eye Blind
+38. Demi Lovato
+39. Nas
+40. Paramore
+41. Ice Cube
+42. Hollywood Undead
+43. Green Day
+44. Leona Lewis
+45. Hey Monday
+46. Kid Cudi
+47. Ghostface Killah
+48. Nelly
+49. VersaEmerge
+50. Beyoncé

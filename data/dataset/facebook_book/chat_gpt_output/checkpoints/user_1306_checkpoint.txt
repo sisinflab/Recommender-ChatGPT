@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. To Kill a Mockingbird by Harper Lee
+3. 1984 by George Orwell
+4. The Great Gatsby by F. Scott Fitzgerald
+5. The Bell Jar by Sylvia Plath
+6. The Picture of Dorian Gray by Oscar Wilde
+7. The Road by Cormac McCarthy
+8. The Hunger Games by Suzanne Collins
+9. The Fault in Our Stars by John Green
+10. The Book Thief by Markus Zusak
+11. The Girl with the Dragon Tattoo by Stieg Larsson
+12. The Da Vinci Code by Dan Brown
+13. The Hobbit by J.R.R. Tolkien
+14. The Lord of the Rings by J.R.R. Tolkien
+15. The Chronicles of Narnia by C.S. Lewis
+16. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+17. The Shining by Stephen King
+18. The Stand by Stephen King
+19. The Silence of the Lambs by Thomas Harris
+20. The Girl on the Train by Paula Hawkins
+21. The Help by Kathryn Stockett
+22. The Color Purple by Alice Walker
+23. The Joy Luck Club by Amy Tan
+24. The Kite Runner by Khaled Hosseini
+25. A Thousand Splendid Suns by Khaled Hosseini
+26. The Alchemist by Paulo Coelho
+27. One Hundred Years of Solitude by Gabriel Garcia Marquez
+28. Love in the Time of Cholera by Gabriel Garcia Marquez
+29. The Name of the Rose by Umberto Eco
+30. The Picture of Dorian Gray by Oscar Wilde
+31. The Importance of Being Earnest by Oscar Wilde
+32. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+33. The Hound of the Baskervilles by Arthur Conan Doyle
+34. The Time Machine by H.G. Wells
+35. The War of the Worlds by H.G. Wells
+36. The Invisible Man by H.G. Wells
+37. The Island of Dr. Moreau by H.G. Wells
+38. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+39. Treasure Island by Robert Louis Stevenson
+40. The Count of Monte Cristo by Alexandre Dumas
+41. Les Miserables by Victor Hugo
+42. The Three Musketeers by Alexandre Dumas
+43. The Adventures of Tom Sawyer by Mark Twain
+44. The Adventures of Huckleberry Finn by Mark Twain
+45. The Picture of Dorian Gray by Oscar Wilde
+46. The Importance of Being Earnest by Oscar Wilde
+47. The Picture of Dorian Gray by Oscar Wilde
+48. The Importance of Being Earnest by Oscar Wilde
+49. The Picture of Dorian Gray
+50. American Gods by Neil Gaiman

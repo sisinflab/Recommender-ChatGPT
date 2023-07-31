@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Time Traveler's Wife by Audrey Niffenegger
+2. The Fault in Our Stars by John Green
+3. The Hunger Games by Suzanne Collins
+4. Divergent by Veronica Roth
+5. The Maze Runner by James Dashner
+6. The Book Thief by Markus Zusak
+7. The Girl on the Train by Paula Hawkins
+8. Gone Girl by Gillian Flynn
+9. The Help by Kathryn Stockett
+10. The Lovely Bones by Alice Sebold
+11. Water for Elephants by Sara Gruen
+12. The Secret Life of Bees by Sue Monk Kidd
+13. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+14. The Nightingale by Kristin Hannah
+15. The Handmaid's Tale by Margaret Atwood
+16. The Catcher in the Rye by J.D. Salinger
+17. To Kill a Mockingbird by Harper Lee
+18. The Great Gatsby by F. Scott Fitzgerald
+19. 1984 by George Orwell
+20. Animal Farm by George Orwell
+21. Brave New World by Aldous Huxley
+22. Lord of the Flies by William Golding
+23. The Picture of Dorian Gray by Oscar Wilde
+24. Wuthering Heights by Emily Bronte
+25. Pride and Prejudice by Jane Austen
+26. Sense and Sensibility by Jane Austen
+27. Emma by Jane Austen
+28. Persuasion by Jane Austen
+29. Northanger Abbey by Jane Austen
+30. Jane Eyre by Charlotte Bronte
+31. Rebecca by Daphne du Maurier
+32. The Bell Jar by Sylvia Plath
+33. One Hundred Years of Solitude by Gabriel Garcia Marquez
+34. Love in the Time of Cholera by Gabriel Garcia Marquez
+35. The God of Small Things by Arundhati Roy
+36. The Namesake by Jhumpa Lahiri
+37. Interpreter of Maladies by Jhumpa Lahiri
+38. The Joy Luck Club by Amy Tan
+39. Memoirs of a Geisha by Arthur Golden
+40. The Color Purple by Alice Walker
+41. The Poisonwood Bible by Barbara Kingsolver
+42. The Bean Trees by Barbara Kingsolver
+43. The Glass Castle by Jeannette Walls
+44. Half of a Yellow Sun by Chimamanda Ngozi Adichie
+45. Americanah by Chimamanda Ngozi Adichie
+46. The Brief Wondrous Life of Oscar Wao by Junot Diaz
+47. The Namesake by Jhumpa Lahiri
+48. The House on Mango Street by Sandra Cisneros
+49. The Alchemist by Paulo Coelho
+50. The Shack by William P. Young

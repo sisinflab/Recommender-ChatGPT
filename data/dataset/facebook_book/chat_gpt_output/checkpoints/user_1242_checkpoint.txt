@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. To Kill a Mockingbird by Harper Lee
+3. The Great Gatsby by F. Scott Fitzgerald
+4. 1984 by George Orwell
+5. Animal Farm by George Orwell
+6. Lord of the Flies by William Golding
+7. Brave New World by Aldous Huxley
+8. The Catcher in the Rye by J.D. Salinger
+9. The Hobbit by J.R.R. Tolkien
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Chronicles of Narnia by C.S. Lewis
+12. The Da Vinci Code by Dan Brown
+13. Angels and Demons by Dan Brown
+14. The Girl with the Dragon Tattoo by Stieg Larsson
+15. The Girl Who Played with Fire by Stieg Larsson
+16. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+17. The Shining by Stephen King
+18. It by Stephen King
+19. Carrie by Stephen King
+20. The Stand by Stephen King
+21. The Dark Tower series by Stephen King
+22. The Name of the Wind by Patrick Rothfuss
+23. The Wise Man's Fear by Patrick Rothfuss
+24. The Way of Kings by Brandon Sanderson
+25. Mistborn series by Brandon Sanderson
+26. The Final Empire by Brandon Sanderson
+27. Warbreaker by Brandon Sanderson
+28. Elantris by Brandon Sanderson
+29. The Lies of Locke Lamora by Scott Lynch
+30. Red Seas Under Red Skies by Scott Lynch
+31. The Republic of Thieves by Scott Lynch
+32. The Blade Itself by Joe Abercrombie
+33. Before They Are Hanged by Joe Abercrombie
+34. Last Argument of Kings by Joe Abercrombie
+35. The First Law Trilogy by Joe Abercrombie
+36. The Kingkiller Chronicle by Patrick Rothfuss
+37. The Dresden Files by Jim Butcher
+38. American Gods by Neil Gaiman
+39. Neverwhere by Neil Gaiman
+40. Good Omens by Neil Gaiman and Terry Pratchett
+41. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+42. Ender's Game by Orson Scott Card
+43. Speaker for the Dead by Orson Scott Card
+44. Xenocide by Orson Scott Card
+45. Children of the Mind by Orson Scott Card
+46. The Ender Quartet by Orson Scott Card
+47. The Belgariad by David Eddings
+48. The Malloreon by David Eddings
+49. The Wheel of Time by Robert Jordan
+50. A Song of Ice and Fire by George R.R. Martin

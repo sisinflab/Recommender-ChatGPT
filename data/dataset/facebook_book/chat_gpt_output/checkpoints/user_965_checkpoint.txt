@@ -1,0 +1,53 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Catching Fire by Suzanne Collins
+2. The Maze Runner by James Dashner
+3. Divergent by Veronica Roth
+4. The Giver by Lois Lowry
+5. The Selection by Kiera Cass
+6. Legend by Marie Lu
+7. The 5th Wave by Rick Yancey
+8. The Fault in Our Stars by John Green
+9. The Host by Stephenie Meyer
+10. The Mortal Instruments by Cassandra Clare
+11. The Infernal Devices by Cassandra Clare
+12. The Lunar Chronicles by Marissa Meyer
+13. The Chemical Garden Trilogy by Lauren DeStefano
+14. Delirium by Lauren Oliver
+15. Shatter Me by Tahereh Mafi
+16. The Darkest Minds by Alexandra Bracken
+17. The Program by Suzanne Young
+18. The Unbecoming of Mara Dyer by Michelle Hodkin
+19. The Knife of Never Letting Go by Patrick Ness
+20. The Ask and the Answer by Patrick Ness
+21. Monsters of Men by Patrick Ness
+22. The City of Ember by Jeanne DuPrau
+23. The City of Bones by Cassandra Clare
+24. The City of Ashes by Cassandra Clare
+25. The City of Glass by Cassandra Clare
+26. The City of Fallen Angels by Cassandra Clare
+27. The City of Lost Souls by Cassandra Clare
+28. The City of Heavenly Fire by Cassandra Clare
+29. The Hunger Games: Catching Fire Official Illustrated Movie Companion by Kate Egan
+30. The Hunger Games: Mockingjay Part 1 Official Illustrated Movie Companion by Kate Egan
+31. The Hunger Games: Mockingjay Part 2 Official Illustrated Movie Companion by Kate Egan
+32. The Twilight Saga: The Official Illustrated Guide by Stephenie Meyer
+33. The Twilight Saga: Breaking Dawn Part 1 Official Illustrated Movie Companion by Mark Cotta Vaz
+34. The Twilight Saga: Breaking Dawn Part 2 Official Illustrated Movie Companion by Mark Cotta Vaz
+35. The Twilight Saga: Eclipse Official Illustrated Movie Companion by Mark Cotta Vaz
+36. The Twilight Saga: New Moon Official Illustrated Movie Companion by Mark Cotta Vaz
+37. The Twilight Saga: The Official Illustrated Movie Companion by Mark Cotta Vaz
+38. The Twilight Saga: The Official Illustrated Movie Companion: The Complete Collection by Mark Cotta Vaz
+39. The Twilight Saga: Breaking Dawn by Stephenie Meyer
+40. The Twilight Saga: Eclipse by Stephenie Meyer
+41. The Twilight Saga: New Moon by Stephenie Meyer
+42. The Twilight Saga: Twilight by Stephenie Meyer
+43. The Twilight Saga: The Short Second Life of Bree Tanner by Stephenie Meyer
+44. The Twilight Saga: The Official Illustrated Movie Companion: Eclipse by Mark Cotta Vaz
+44. The Plains of Passage by Jean M. Auel
+45. The Shelters of Stone by Jean M. Auel
+46. The Land of Painted Caves by Jean M. Auel
+47. The Wind in the Willows by Kenneth Grahame
+48. Nine Stories by J.D. Salinger
+49. The Bell Jar by Sylvia Plath
+50. The Wise Man's Fear by Patrick Rothfuss

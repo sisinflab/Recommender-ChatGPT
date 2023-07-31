@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Wuthering Heights by Emily Bronte
+2. Rebecca by Daphne du Maurier
+3. The Picture of Dorian Gray by Oscar Wilde
+4. The Great Gatsby by F. Scott Fitzgerald
+5. To Kill a Mockingbird by Harper Lee
+6. Pride and Prejudice by Jane Austen
+7. Little Women by Louisa May Alcott
+8. The Catcher in the Rye by J.D. Salinger
+9. The Bell Jar by Sylvia Plath
+10. The Handmaid's Tale by Margaret Atwood
+11. The Hunger Games by Suzanne Collins
+12. The Fault in Our Stars by John Green
+13. The Girl on the Train by Paula Hawkins
+14. Gone Girl by Gillian Flynn
+15. The Lovely Bones by Alice Sebold
+16. The Help by Kathryn Stockett
+17. The Time Traveler's Wife by Audrey Niffenegger
+18. The Notebook by Nicholas Sparks
+19. The Da Vinci Code by Dan Brown
+20. Angels and Demons by Dan Brown
+21. The Lord of the Rings by J.R.R. Tolkien
+22. The Hobbit by J.R.R. Tolkien
+23. The Chronicles of Narnia by C.S. Lewis
+24. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+25. The Shining by Stephen King
+26. Carrie by Stephen King
+27. The Stand by Stephen King
+28. The Silence of the Lambs by Thomas Harris
+29. The Bourne Identity by Robert Ludlum
+30. The Girl with the Dragon Tattoo by Stieg Larsson
+31. The Maze Runner by James Dashner
+32. The Giver by Lois Lowry
+33. The Outsiders by S.E. Hinton
+34. The Perks of Being a Wallflower by Stephen Chbosky
+35. The Fault in Our Stars by John Green
+36. The Book of Lost Things by John Connolly
+37. The Name of the Wind by Patrick Rothfuss
+38. The Wise Man's Fear by Patrick Rothfuss
+39. The Lies of Locke Lamora by Scott Lynch
+40. The Blade Itself by Joe Abercrombie
+41. The Way of Kings by Brandon Sanderson
+42. Mistborn by Brandon Sanderson
+43. The Final Empire by Brandon Sanderson
+44. The Eye of the World by Robert Jordan
+45. The Fellowship of the Ring by J.R.R. Tolkien
+46. The Two Towers by J.R.R. Tolkien
+47. The Return of the King by J.R.R. Tolkien
+48. The Dark Tower by Stephen King
+49. The Gunslinger by Stephen King
+50. The Drawing of the Three by Stephen King

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Good Omens by Terry Pratchett and Neil Gaiman
+2. Slaughterhouse-Five by Kurt Vonnegut
+3. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+4. The Catcher in the Rye by J.D. Salinger
+5. To Kill a Mockingbird by Harper Lee
+6. The Great Gatsby by F. Scott Fitzgerald
+7. 1984 by George Orwell
+8. Animal Farm by George Orwell
+9. The Bell Jar by Sylvia Plath
+10. The Picture of Dorian Gray by Oscar Wilde
+11. The Handmaid's Tale by Margaret Atwood
+12. The Road by Cormac McCarthy
+13. The Stand by Stephen King
+14. The Shining by Stephen King
+15. The Girl with the Dragon Tattoo by Stieg Larsson
+16. The Da Vinci Code by Dan Brown
+17. Angels and Demons by Dan Brown
+18. The Hunger Games by Suzanne Collins
+19. Catching Fire by Suzanne Collins
+20. Mockingjay by Suzanne Collins
+21. The Help by Kathryn Stockett
+22. The Lovely Bones by Alice Sebold
+23. The Kite Runner by Khaled Hosseini
+24. A Thousand Splendid Suns by Khaled Hosseini
+25. The Alchemist by Paulo Coelho
+26. The Name of the Wind by Patrick Rothfuss
+27. The Wise Man's Fear by Patrick Rothfuss
+28. The Fellowship of the Ring by J.R.R. Tolkien
+29. The Two Towers by J.R.R. Tolkien
+30. The Return of the King by J.R.R. Tolkien
+31. The Hobbit by J.R.R. Tolkien
+32. The Chronicles of Narnia by C.S. Lewis
+33. The Lion, the Witch and the Wardrobe by C.S. Lewis
+34. The Magician's Nephew by C.S. Lewis
+35. The Horse and His Boy by C.S. Lewis
+36. The Last Battle by C.S. Lewis
+37. The Voyage of the Dawn Treader by C.S. Lewis
+38. The Silver Chair by C.S. Lewis
+39. The Amber Spyglass by Philip Pullman
+40. The Subtle Knife by Philip Pullman
+41. Northern Lights by Philip Pullman
+42. The Golden Compass by Philip Pullman
+43. The Giver by Lois Lowry
+44. Gathering Blue by Lois Lowry
+45. Messenger by Lois Lowry
+46. Son by Lois Lowry
+47. The Maze Runner by James Dashner
+48. The Scorch Trials by James Dashner
+49. The Death Cure by James Dashner
+50. The Kill Order by James Dashner

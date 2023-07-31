@@ -1,0 +1,48 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter by J.K. Rowling
+2. The Hunger Games by Suzanne Collins
+3. Catching Fire by Suzanne Collins
+4. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+5. His Dark Materials by Philip Pullman
+6. Twilight (series) by Stephenie Meyer
+7. Poison Study by Maria V. Snyder
+8. The Host (novel) by Stephenie Meyer
+9. The Queen of the Damned by Anne Rice
+10. The Historian by Elizabeth Kostova
+11. Romeo and Juliet by William Shakespeare
+12. Fahrenheit 451 by Ray Bradbury
+13. Lolita by Vladimir Nabokov
+14. The Great Gatsby by F. Scott Fitzgerald
+15. The Outsiders (novel) by S.E. Hinton
+16. Thirteen Reasons Why by Jay Asher
+17. The Lovely Bones by Alice Sebold
+18. Speak (novel) by Laurie Halse Anderson
+19. A Series of Unfortunate Events by Lemony Snicket
+20. The Song of the Lioness by Tamora Pierce
+21. The Last Storytellers: Tales from the Heart of Morocco by Richard Hamilton
+22. Kitchen Princess by Natsumi Ando
+23. Alice's Adventures in Wonderland by Lewis Carroll
+24. Ironside: A Modern Faery's Tale by Holly Black
+25. The Messenger (Markus Zusak novel) by Markus Zusak
+26. The Luxe by Anna Godbersen
+27. The Awakening (Chopin novel) by Kate Chopin
+28. The Heroin Diaries: A Year in the Life of a Shattered Rock Star by Nikki Sixx
+29. The Clique (series) by Lisi Harrison
+30. Warrior (novel) by Erin Hunter
+31. The Last Song (novel) by Nicholas Sparks
+32. That Was Then, This Is Now by S.E. Hinton
+33. Haunted (The Mediator) by Meg Cabot
+34. Generation Dead by Daniel Waters
+35. Pretty Little Liars (book) by Sara Shepard
+36. The Hunted (novel) by Elmore Leonard
+37. Vampire Beach by Alex Duval
+38. City of Bones (Mortal Instruments) by Cassandra Clare
+39. City of Ashes by Cassandra Clare
+40. Fallen (Kate novel) by Lauren Kate
+41. Chosen (A House of Night novel) by P.C. Cast and Kristin Cast
+42. The Queen of Attolia by Megan Whalen Turner
+43. The Thief by Megan Whalen Turner
+44. The King of Attolia by Megan Whalen Turner
+45. The Magician's Nephew by C.S. Lewis
+46. The Horse and His Boy by C.S. Lewis

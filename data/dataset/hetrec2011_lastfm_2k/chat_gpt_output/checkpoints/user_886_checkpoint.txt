@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Evanescence
+2. Nightwish
+3. Muse
+4. Florence + The Machine
+5. Paramore
+6. Linkin Park
+7. Within Temptation
+8. Epica
+9. Lacuna Coil
+10. Delain
+11. The Pretty Reckless
+12. My Chemical Romance
+13. Green Day
+14. Depeche Mode
+15. Camila
+16. Shakira
+17. Taylor Swift
+18. Pink Floyd
+19. Queen
+20. Guns N' Roses
+21. Metallica
+22. Iron Maiden
+23. AC/DC
+24. Led Zeppelin
+25. The Beatles
+26. Nirvana
+27. Pearl Jam
+28. Soundgarden
+29. Alice in Chains
+30. Stone Temple Pilots
+31. Creed
+32. Korn
+33. Slipknot
+34. System of a Down
+35. Disturbed
+36. Breaking Benjamin
+37. Three Days Grace
+38. Seether
+39. Shinedown
+40. Nickelback
+41. Apocalyptica
+42. Oasis
+43. Coldplay
+44. U2
+45. Radiohead
+46. The Killers
+47. Kings of Leon
+48. Arctic Monkeys
+49. Foo Fighters
+50. Red Hot Chili Peppers

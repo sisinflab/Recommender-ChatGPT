@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Parkway Drive
+2. Killswitch Engage
+3. August Burns Red
+4. All That Remains
+5. Caliban
+6. The Black Dahlia Murder
+7. Heaven Shall Burn
+8. Whitechapel
+9. Suicide Silence
+10. Despised Icon
+11. DevilDriver
+12. Bullet for My Valentine
+13. Disturbed
+14. Korn
+15. Slayer
+16. Dethklok
+17. Metallica
+18. Linkin Park
+19. AC/DC
+20. BrokeNCYDE
+21. Atreyu
+22. Celldweller
+23. Muse
+24. Pink Floyd
+25. Nirvana
+26. Iron Maiden
+27. Led Zeppelin
+28. Pearl Jam
+29. System of a Down
+30. Nine Inch Nails
+31. Avenged Sevenfold
+32. My Chemical Romance
+33. Green Day
+34. The Cure
+35. Arctic Monkeys
+36. Placebo
+37. Blur
+38. Radiohead
+39. Ke$ha
+40. Lady Gaga
+41. Rihanna
+42. Beyoncé
+43. Madonna
+44. Christina Aguilera
+45. Katy Perry
+46. Taylor Swift
+47. Evanescence
+48. Glee Cast
+49. Michael Jackson
+50. U2

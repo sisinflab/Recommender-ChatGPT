@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Dead Until Dark by Charlaine Harris
+2. Interview with the Vampire by Anne Rice
+3. The Hunger Games by Suzanne Collins
+4. The Lord of the Rings by J.R.R. Tolkien
+5. The Hobbit by J.R.R. Tolkien
+6. The Chronicles of Narnia by C.S. Lewis
+7. The Girl with the Dragon Tattoo by Stieg Larsson
+8. The Da Vinci Code by Dan Brown
+9. The Catcher in the Rye by J.D. Salinger
+10. To Kill a Mockingbird by Harper Lee
+11. 1984 by George Orwell
+12. Animal Farm by George Orwell
+13. The Great Gatsby by F. Scott Fitzgerald
+14. Pride and Prejudice by Jane Austen
+15. Sense and Sensibility by Jane Austen
+16. Emma by Jane Austen
+17. Mansfield Park by Jane Austen
+18. Persuasion by Jane Austen
+19. Northanger Abbey by Jane Austen
+20. Wuthering Heights by Emily Bronte
+21. Jane Eyre by Charlotte Bronte
+22. The Picture of Dorian Gray by Oscar Wilde
+23. Dracula by Bram Stoker
+24. Frankenstein by Mary Shelley
+25. The Shining by Stephen King
+26. Carrie by Stephen King
+27. Misery by Stephen King
+28. The Stand by Stephen King
+29. The Dark Tower series by Stephen King
+30. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+31. The Chronicles of Prydain by Lloyd Alexander
+32. The Earthsea series by Ursula K. Le Guin
+33. The Belgariad series by David Eddings
+34. The Malloreon series by David Eddings
+35. The Wheel of Time series by Robert Jordan
+36. The Sword of Truth series by Terry Goodkind
+37. The Dresden Files series by Jim Butcher
+38. The Mistborn series by Brandon Sanderson
+39. The Kingkiller Chronicle series by Patrick Rothfuss
+40. The Stormlight Archive series by Brandon Sanderson
+41. The First Law trilogy by Joe Abercrombie
+42. The Gentleman Bastard series by Scott Lynch
+43. The Broken Empire trilogy by Mark Lawrence
+44. The Powder Mage trilogy by Brian McClellan
+45. The Lightbringer series by Brent Weeks
+46. The Black Prism by Brent Weeks
+47. The Night Angel trilogy by Brent Weeks
+48. The Farseer trilogy by Robin Hobb
+49. The Liveship Traders trilogy by Robin Hobb
+50. The Tawny Man trilogy by Robin Hobb

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for user 1098 would be:
+
+1. Portishead
+2. Lamb
+3. Goldfrapp
+4. Zero 7
+5. Ulver
+6. Aphex Twin
+7. Imogen Heap
+8. Hooverphonic
+9. Thievery Corporation
+10. Sneaker Pimps
+11. Air
+12. Ladytron
+13. The Dresden Dolls
+14. Depeche Mode
+15. Tori Amos
+16. Alice in Chains
+17. Nine Inch Nails
+18. Feist
+19. The Cramps
+20. AFX
+21. Jonathan Larson
+22. Jean-Michel Jarre
+23. Weezer
+24. Counting Crows
+25. Amy Winehouse
+26. Elvis Presley
+27. P!nk
+28. Madonna
+29. Radiohead
+30. The Beatles
+31. Muse
+32. Pink Floyd
+33. Nirvana
+34. Led Zeppelin
+35. Metallica
+36. Michael Jackson
+37. Pearl Jam
+38. Björk
+39. Iron Maiden
+40. Duran Duran
+41. Arctic Monkeys
+42. Placebo
+43. The Killers
+44. Daft Punk
+45. System of a Down
+46. Linkin Park
+47. Green Day
+48. My Chemical Romance
+49. All Time Low
+50. Avenged Sevenfold

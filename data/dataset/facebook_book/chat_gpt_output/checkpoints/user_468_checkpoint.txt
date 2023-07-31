@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Shadow of the Wind by Carlos Ruiz Zafón
+2. The Girl with the Dragon Tattoo by Stieg Larsson
+3. The Kite Runner by Khaled Hosseini
+4. The Help by Kathryn Stockett
+5. The Hunger Games by Suzanne Collins
+6. The Fault in Our Stars by John Green
+7. The Book Thief by Markus Zusak
+8. The Time Traveler's Wife by Audrey Niffenegger
+9. The Lovely Bones by Alice Sebold
+10. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+11. The Catcher in the Rye by J.D. Salinger
+12. The Picture of Dorian Gray by Oscar Wilde
+13. The Great Gatsby by F. Scott Fitzgerald
+14. To Kill a Mockingbird by Harper Lee
+15. The Bell Jar by Sylvia Plath
+16. The Handmaid's Tale by Margaret Atwood
+17. The Road by Cormac McCarthy
+18. The Stand by Stephen King
+19. The Shining by Stephen King
+20. The Silence of the Lambs by Thomas Harris
+21. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+22. The Lord of the Rings by J.R.R. Tolkien
+23. The Hobbit by J.R.R. Tolkien
+24. The Chronicles of Narnia by C.S. Lewis
+25. The Dark Tower series by Stephen King
+26. The Name of the Wind by Patrick Rothfuss
+27. The Wise Man's Fear by Patrick Rothfuss
+28. The Lies of Locke Lamora by Scott Lynch
+29. The Blade Itself by Joe Abercrombie
+30. The Way of Kings by Brandon Sanderson
+31. Mistborn by Brandon Sanderson
+32. The Final Empire by Brandon Sanderson
+33. The Alloy of Law by Brandon Sanderson
+34. The Emperor's Soul by Brandon Sanderson
+35. The Lies of Locke Lamora by Scott Lynch
+36. The Blade Itself by Joe Abercrombie
+37. The Way of Kings by Brandon Sanderson
+38. Mistborn by Brandon Sanderson
+39. The Final Empire by Brandon Sanderson
+40. The Alloy of Law by Brandon Sanderson
+41. The Emperor's Soul by Brandon Sanderson
+42. The Name of the Wind by Patrick Rothfuss
+43. The Wise Man's Fear by Patrick Rothfuss
+44. The Lies of Locke Lamora by Scott Lynch
+45. The Blade Itself by Joe Abercrombie
+46. The Way of Kings by Brandon Sanderson
+47. Mistborn by Brandon Sanderson
+48. The Final Empire by Brandon Sanderson
+49. The Alloy of Law by Brandon Sanderson
+50. The Emperor's Soul by Brandon Sanderson

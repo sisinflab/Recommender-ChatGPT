@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. Nineteen Eighty-Four by George Orwell
+3. The Count of Monte Cristo by Alexandre Dumas
+4. The Name of the Rose by Umberto Eco
+5. The Brothers Karamazov by Fyodor Dostoevsky
+6. Heart of Darkness by Joseph Conrad
+7. Divine Comedy by Dante Alighieri
+8. Ulysses by James Joyce
+9. Dracula by Bram Stoker
+10. The Silence of the Lambs by Thomas Harris
+11. The God Delusion by Richard Dawkins
+12. Thus Spoke Zarathustra by Friedrich Nietzsche
+13. The Social Contract by Jean-Jacques Rousseau
+14. Great Expectations by Charles Dickens
+15. Gulliver's Travels by Jonathan Swift
+16. The Myth of Sisyphus by Albert Camus
+17. Things Fall Apart by Chinua Achebe
+18. Cry, the Beloved Country by Alan Paton
+19. The Power of Now by Eckhart Tolle
+20. The Giver by Lois Lowry
+21. The Tale of Despereaux by Kate DiCamillo
+22. The City of Ember by Jeanne DuPrau
+23. Tuck Everlasting by Natalie Babbitt
+24. A Tree Grows in Brooklyn by Betty Smith
+25. The Watchmen by Alan Moore
+26. The Queen of the Damned by Anne Rice
+27. The Vampire Lestat by Anne Rice
+28. Les Fleurs du mal by Charles Baudelaire
+29. The Name of this Book is Secret by Pseudonymous Bosch
+30. Unwind by Neal Shusterman
+31. The Castle of Otranto by Horace Walpole
+32. The Cask of Amontillado by Edgar Allan Poe
+33. Macbeth by William Shakespeare
+34. Antigone by Sophocles
+35. The Raven by Edgar Allan Poe
+36. Fahrenheit 451 by Ray Bradbury
+37. Romeo and Juliet by William Shakespeare
+38. Waiting for Godot by Samuel Beckett
+39. The Prince by Niccolò Machiavelli
+40. Siddhartha by Hermann Hesse
+41. Impulse economy by Gary Vaynerchuk
+42. Holes by Louis Sachar
+43. Iliad by Homer
+44. Walk Two Moons by Sharon Creech
+45. Eragon by Christopher Paolini
+46. The Good Earth by Pearl S. Buck
+47. Running with Scissors by Augusten Burroughs
+48. Cut by Patricia McCormick
+49. Pir-e-Kamil by Umera Ahmed
+50. Something Wicked This Way Comes by Ray Bradbury

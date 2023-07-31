@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations are:
+
+1. My Chemical Romance
+2. Green Day
+3. Blink-182
+4. Paramore
+5. All Time Low
+6. Sum 41
+7. Oasis
+8. Coldplay
+9. The Beatles
+10. Angels & Airwaves
+11. Kings of Leon
+12. Michael Bublé
+13. City and Colour
+14. Three Days Grace
+15. Avenged Sevenfold
+16. Dead Fish
+17. Boys Like Girls
+18. Forever the Sickest Kids
+19. 30 Seconds to Mars
+20. +44
+21. The Distillers
+22. Alexisonfire
+23. Anberlin
+24. Bowling for Soup
+25. Papa Roach
+26. Four Year Strong
+27. Vanguart
+28. Silverstein
+29. Simple Plan
+30. Panic! At the Disco
+31. Arctic Monkeys
+32. The Devil Wears Prada
+33. Escape The Fate
+34. Enter Shikari
+35. Lostprophets
+36. Snow Patrol
+37. Lily Allen
+38. Red Hot Chili Peppers
+39. Asking Alexandria
+40. The Libertines
+41. Silversun Pickups
+42. Mayday Parade
+43. Legião Urbana
+44. Chiodos
+45. Parkway Drive
+46. Bloc Party
+47. The Used
+48. The Killers
+49. Guns N' Roses
+50. Fall Out Boy

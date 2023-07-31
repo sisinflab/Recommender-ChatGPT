@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. The Hunger Games by Suzanne Collins
+4. Fahrenheit 451 by Ray Bradbury
+5. The Handmaid's Tale by Margaret Atwood
+6. Animal Farm by George Orwell
+7. The Catcher in the Rye by J.D. Salinger
+8. Lord of the Flies by William Golding
+9. To Kill a Mockingbird by Harper Lee
+10. The Great Gatsby by F. Scott Fitzgerald
+11. The Hobbit by J.R.R. Tolkien
+12. The Lord of the Rings by J.R.R. Tolkien
+13. The Chronicles of Narnia by C.S. Lewis
+14. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+15. Ender's Game by Orson Scott Card
+16. Dune by Frank Herbert
+17. The Martian by Andy Weir
+18. Ready Player One by Ernest Cline
+19. The Girl with the Dragon Tattoo by Stieg Larsson
+20. The Da Vinci Code by Dan Brown
+21. The Name of the Wind by Patrick Rothfuss
+22. The Way of Kings by Brandon Sanderson
+23. Mistborn by Brandon Sanderson
+24. The Lies of Locke Lamora by Scott Lynch
+25. The Blade Itself by Joe Abercrombie
+26. The First Law Trilogy by Joe Abercrombie
+27. The Kingkiller Chronicle by Patrick Rothfuss
+28. The Stormlight Archive by Brandon Sanderson
+29. The Dark Tower by Stephen King
+30. The Stand by Stephen King
+31. It by Stephen King
+32. The Shining by Stephen King
+33. The Silence of the Lambs by Thomas Harris
+34. Red Dragon by Thomas Harris
+35. American Psycho by Bret Easton Ellis
+36. Fight Club by Chuck Palahniuk
+37. The Road by Cormac McCarthy
+38. A Clockwork Orange by Anthony Burgess
+39. The Picture of Dorian Gray by Oscar Wilde
+40. Dracula by Bram Stoker
+41. Frankenstein by Mary Shelley
+42. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+43. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+44. The Count of Monte Cristo by Alexandre Dumas
+45. Les Misérables by Victor Hugo
+46. The Three Musketeers by Alexandre Dumas
+47. The War of the Worlds by H.G. Wells
+48. The Time Machine by H.G. Wells
+49. The Invisible Man by H.G. Wells
+50. Journey to the Center of the Earth by Jules Verne

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Pride and Prejudice by Jane Austen
+6. Animal Farm by George Orwell
+7. The Lord of the Rings by J.R.R. Tolkien
+8. The Hobbit by J.R.R. Tolkien
+9. The Hunger Games by Suzanne Collins
+10. Harry Potter and the Philosopher's Stone by J.K. Rowling
+11. The Da Vinci Code by Dan Brown
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Help by Kathryn Stockett
+14. The Kite Runner by Khaled Hosseini
+15. The Fault in Our Stars by John Green
+16. The Alchemist by Paulo Coelho
+17. The Chronicles of Narnia by C.S. Lewis
+18. The Road by Cormac McCarthy
+19. The Picture of Dorian Gray by Oscar Wilde
+20. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+21. The Shining by Stephen King
+22. The Stand by Stephen King
+23. The Silence of the Lambs by Thomas Harris
+24. The Girl on the Train by Paula Hawkins
+25. The Martian by Andy Weir
+26. The Name of the Wind by Patrick Rothfuss
+27. The Book Thief by Markus Zusak
+28. The Time Traveler's Wife by Audrey Niffenegger
+29. The Handmaid's Tale by Margaret Atwood
+30. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+31. The House of Thunder by Dean Koontz
+32. The Iliad by Homer
+33. The Odyssey by Homer
+34. The Divine Comedy by Dante Alighieri
+35. The Inferno by Dante Alighieri
+36. The Canterbury Tales by Geoffrey Chaucer
+37. The Picture of Dorian Gray by Oscar Wilde
+38. The Portrait of a Lady by Henry James
+39. The Turn of the Screw by Henry James
+40. The Age of Innocence by Edith Wharton
+41. The Sun Also Rises by Ernest Hemingway
+42. The Old Man and the Sea by Ernest Hemingway
+43. The Sound and the Fury by William Faulkner
+44. The Catch-22 by Joseph Heller
+45. The Bell Jar by Sylvia Plath
+46. The Color Purple by Alice Walker
+47. The Joy Luck Club by Amy Tan
+48. The God of Small Things by Arundhati Roy
+49. The Poisonwood Bible by Barbara Kingsolver
+50. The Secret Life of Bees by Sue Monk Kidd

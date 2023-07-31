@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Iron Maiden
+2. Dream Theater
+3. Symphony X
+4. Helloween
+5. Blind Guardian
+6. Gamma Ray
+7. Rhapsody of Fire
+8. Kamelot
+9. Sonata Arctica
+10. Children of Bodom
+11. Avantasia
+12. Edguy
+13. Manowar
+14. Metallica
+15. Led Zeppelin
+16. Nirvana
+17. Pearl Jam
+18. System of a Down
+19. Nine Inch Nails
+20. Linkin Park
+21. Avenged Sevenfold
+22. Green Day
+23. My Chemical Romance
+24. The Killers
+25. Muse
+26. Pink Floyd
+27. U2
+28. Radiohead
+29. Arctic Monkeys
+30. Placebo
+31. Duran Duran
+32. Coldplay
+33. Blur
+34. Michael Jackson
+35. Beyoncé
+36. Lady Gaga
+37. Madonna
+38. Rihanna
+39. Shakira
+40. Christina Aguilera
+41. Katy Perry
+42. Taylor Swift
+43. Ke$ha
+44. Paramore
+45. All Time Low
+46. P!nk
+47. Evanescence
+48. Glee Cast
+49. Kylie Minogue
+50. Amy Winehouse

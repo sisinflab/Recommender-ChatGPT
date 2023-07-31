@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. God Is an Astronaut
+2. Blackfield
+3. Metallica
+4. Nirvana
+5. Depeche Mode
+6. HIM
+7. Moby
+8. Coldplay
+9. Lacuna Coil
+10. Röyksopp
+11. Korn
+12. Dido
+13. Iron & Wine
+14. Evanescence
+15. Blind Guardian
+16. The Presets
+17. Stratovarius
+18. Yann Tiersen
+19. Shpongle
+20. Oasis
+21. Radiohead
+22. Pink Floyd
+23. Muse
+24. Led Zeppelin
+25. The Beatles
+26. U2
+27. 30 Seconds to Mars
+28. Arctic Monkeys
+29. Placebo
+30. The Killers
+31. Iron Maiden
+32. Pearl Jam
+33. System of a Down
+34. Nine Inch Nails
+35. Linkin Park
+36. Avenged Sevenfold
+37. My Chemical Romance
+38. Green Day
+39. The Cure
+40. Michael Jackson
+41. Beyoncé
+42. Lady Gaga
+43. Rihanna
+44. Shakira
+45. Madonna
+46. Christina Aguilera
+47. Katy Perry
+48. Ke$ha
+49. Britney Spears
+50. Avril Lavigne

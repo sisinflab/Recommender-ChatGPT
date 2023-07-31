@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. Slaughterhouse-Five by Kurt Vonnegut
+3. The Master and Margarita by Mikhail Bulgakov
+4. The Handmaid's Tale by Margaret Atwood
+5. To Kill a Mockingbird by Harper Lee
+6. The Great Gatsby by F. Scott Fitzgerald
+7. 1984 by George Orwell
+8. Brave New World by Aldous Huxley
+9. The Hobbit by J.R.R. Tolkien
+10. Harry Potter series by J.K. Rowling
+11. The Adventures of Tom Sawyer by Mark Twain
+12. Romeo and Juliet by William Shakespeare
+13. The Scarlet Letter by Nathaniel Hawthorne
+14. The Taming of the Shrew by William Shakespeare
+15. A Tale of Two Cities by Charles Dickens
+16. Les Misérables by Victor Hugo
+17. The Grapes of Wrath by John Steinbeck
+18. Invisible Man by Ralph Ellison
+19. Life of Pi by Yann Martel
+20. Things Fall Apart by Chinua Achebe
+21. Wide Sargasso Sea by Jean Rhys
+22. Jane Eyre by Charlotte Bronte
+23. Inferno by Dante Alighieri
+24. All Quiet on the Western Front by Erich Maria Remarque
+25. Civil Disobedience by Henry David Thoreau
+26. Mere Christianity by C.S. Lewis
+27. The Constitution of Liberty by Friedrich Hayek
+28. The Little Prince by Antoine de Saint-Exupéry
+29. The Call of the Wild by Jack London
+30. A Midsummer Night's Dream by William Shakespeare
+31. The Legend of Sleepy Hollow by Washington Irving
+32. Grimms' Fairy Tales by Jacob and Wilhelm Grimm
+33. The Picture of Dorian Gray by Oscar Wilde
+34. The House of the Scorpion by Nancy Farmer
+35. The Five People You Meet in Heaven by Mitch Albom
+36. Leaving a Doll's House: A Memoir by Claire Bloom
+37. Bartleby, the Scrivener by Herman Melville
+38. Twilight series by Stephenie Meyer
+39. Tess of the d'Urbervilles by Thomas Hardy
+40. The Good Earth by Pearl S. Buck
+41. The Jungle Book by Rudyard Kipling
+42. The Master and Margarita by Mikhail Bulgakov
+43. No Exit by Jean-Paul Sartre
+44. Blink by Malcolm Gladwell
+45. Macbeth by William Shakespeare
+46. The Handmaid's Tale by Margaret Atwood
+47. The Great Divorce by C.S. Lewis
+48. Studies of the Book of Mormon by B.H. Roberts
+49. The Dragons of Eden by Carl Sagan

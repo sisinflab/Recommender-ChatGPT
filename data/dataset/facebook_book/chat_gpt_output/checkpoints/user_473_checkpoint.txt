@@ -1,0 +1,46 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. Fahrenheit 451 by Ray Bradbury
+4. The Catcher in the Rye by J.D. Salinger
+5. To Kill a Mockingbird by Harper Lee
+6. Lord of the Flies by William Golding
+7. The Handmaid's Tale by Margaret Atwood
+8. Slaughterhouse-Five by Kurt Vonnegut
+9. One Hundred Years of Solitude by Gabriel Garcia Marquez
+10. The Stranger by Albert Camus
+11. Crime and Punishment by Fyodor Dostoevsky
+12. The Brothers Karamazov by Fyodor Dostoevsky
+13. The Picture of Dorian Gray by Oscar Wilde
+14. Heart of Darkness by Joseph Conrad
+15. The Road by Cormac McCarthy
+16. The Bell Jar by Sylvia Plath
+17. The Sun Also Rises by Ernest Hemingway
+18. The Old Man and the Sea by Ernest Hemingway
+19. The Great Gatsby by F. Scott Fitzgerald (if not already read)
+20. Brave New World by Aldous Huxley (if not already read)
+21. The Hatchet by Mihail Sadoveanu (if not already read)
+22. Free to Choose by Rose Friedman and Milton Friedman (if not already read)
+23. The Wealth of Nations by Adam Smith (if not already read)
+24. The Communist Manifesto by Karl Marx and Friedrich Engels (if not already read)
+25. The Structure of Scientific Revolutions by Thomas S. Kuhn (if not already read)
+26. A Lesson Before Dying by Ernest J. Gaines (if not already read)
+27. The Shock Doctrine by Naomi Klein (if not already read)
+28. On the Origin of Species by Charles Darwin (if not already read)
+29. Jaws by Peter Benchley (if not already read)
+30. Letter to a Christian Nation by Sam Harris (if not already read)
+31. God Is Not Great by Christopher Hitchens (if not already read)
+32. The Age of Reason by Jean-Paul Sartre (if not already read)
+33. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+34. The Lord of the Rings by J.R.R. Tolkien
+35. Harry Potter series by J.K. Rowling
+36. The Hunger Games by Suzanne Collins
+37. Dune by Frank Herbert
+38. The Martian by Andy Weir
+39. Ender's Game by Orson Scott Card
+40. The Girl with the Dragon Tattoo by Stieg Larsson
+41. The Da Vinci Code by Dan Brown
+42. The Name of the Rose by Umberto Eco
+43. The Shadow of the Wind by Carlos Ruiz Zafón
+44.

@@ -1,0 +1,52 @@
+Based on user 3's preferences, here are the top 50 book recommendations:
+
+1. American Psycho by Bret Easton Ellis
+2. Fight Club by Chuck Palahniuk
+3. The Catcher in the Rye by J.D. Salinger
+4. The Shining by Stephen King
+5. A Clockwork Orange by Anthony Burgess
+6. The Great Gatsby by F. Scott Fitzgerald
+7. 1984 by George Orwell
+8. The Hunger Games by Suzanne Collins
+9. The Girl Who Played with Fire by Stieg Larsson
+10. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+11. The Girl on the Train by Paula Hawkins
+12. The Silence of the Lambs by Thomas Harris
+13. The Da Vinci Code by Dan Brown
+14. The Bourne Identity by Robert Ludlum
+15. The Lord of the Rings by J.R.R. Tolkien
+16. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+17. The Martian by Andy Weir
+18. The Road by Cormac McCarthy
+19. The Stand by Stephen King
+20. The Dark Tower series by Stephen King
+21. The Dresden Files series by Jim Butcher
+22. The Wheel of Time series by Robert Jordan
+23. The Name of the Wind by Patrick Rothfuss
+24. The Wise Man's Fear by Patrick Rothfuss
+25. The Lies of Locke Lamora by Scott Lynch
+26. The Blade Itself by Joe Abercrombie
+27. The First Law Trilogy by Joe Abercrombie
+28. The Kingkiller Chronicle by Patrick Rothfuss
+29. The Stormlight Archive by Brandon Sanderson
+30. Mistborn by Brandon Sanderson
+31. The Way of Kings by Brandon Sanderson
+32. The Final Empire by Brandon Sanderson
+33. The Lies of Locke Lamora by Scott Lynch
+34. The Blade Itself by Joe Abercrombie
+35. The First Law Trilogy by Joe Abercrombie
+36. The Kingkiller Chronicle by Patrick Rothfuss
+37. The Stormlight Archive by Brandon Sanderson
+38. Mistborn by Brandon Sanderson
+39. The Way of Kings by Brandon Sanderson
+40. The Final Empire by Brandon Sanderson
+41. The Dark Tower series by Stephen King
+42. The Dresden Files series by Jim Butcher
+43. The Wheel of Time series by Robert Jordan
+44. The Name of the Wind by Patrick Rothfuss
+45. The Wise Man's Fear by Patrick Rothfuss
+46. The Lies of Locke Lamora by Scott Lynch
+47. The Blade Itself by Joe Abercrombie
+48. The First Law Trilogy by Joe Abercrombie
+49. The Kingkiller Chronicle by Patrick Rothfuss
+50. The Stormlight Archive by Brandon Sanderson

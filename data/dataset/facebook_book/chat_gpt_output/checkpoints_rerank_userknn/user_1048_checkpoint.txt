@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Twilight (series) by []
+2. Dracula by ['Bram Stoker']
+3. The Last Song (novel) by ['Nicholas Sparks']
+4. Freakonomics by ['Stephen J. Dubner', 'Steven Levitt']
+5. Crime (novel) by ['Irvine Welsh']
+6. The Vampire Chronicles
+7. Frankenstein
+8. Blood and Chocolate (novel)
+9. Angels & Demons
+10. The Chronicles of Narnia: Prince Caspian
+11. Harry Potter
+12. The Southern Vampire Mysteries
+13. The Lost Symbol
+14. The Giver
+15. Moby-Dick
+16. Romeo and Juliet
+17. The Merchant of Venice
+18. A Midsummer Night's Dream
+19. The Taming of the Shrew
+20. Sense and Sensibility
+21. Pride and Prejudice
+22. The Secret Garden
+23. The Wonderful Wizard of Oz
+24. Mythology (book)
+25. Number the Stars
+26. Someone like You (novel)
+27. The Perks of Being a Wallflower
+28. Under the Dome
+29. Gospel of Mark
+30. To Kill a Mockingbird
+31. Fences (play)
+32. Forever... (Blume novel)
+33. Gospel of Matthew
+34. Dear John (novel)
+35. Eldest
+36. Brisingr
+37. The Runaways (novel)
+38. Percy Jackson & the Olympians
+39. The Outsiders (novel)
+40. Along for the Ride
+41. So B. It
+42. The Shack
+43. Dune (novel)
+44. Book of Revelation
+45. King James Version
+46. Vampire: The Masquerade
+47. Going Rogue: An American Life
+48. I Am America (And So Can You!)
+49. A Million Little Pieces
+50. Tunnels (novel)

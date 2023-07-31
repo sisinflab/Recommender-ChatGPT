@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Ariana Grande
+2. Ed Sheeran
+3. Justin Bieber
+4. Maroon 5
+5. Adele
+6. Shawn Mendes
+7. Demi Lovato
+8. Selena Gomez
+9. Imagine Dragons
+10. Halsey
+11. The Weeknd
+12. Bruno Mars
+13. Billie Eilish
+14. Dua Lipa
+15. Camila Cabello
+16. Khalid
+17. Sam Smith
+18. Lizzo
+19. Post Malone
+20. Harry Styles
+21. Taylor Swift (similar to user's favorite)
+22. Britney Spears (similar to user's favorite)
+23. Kelly Clarkson (similar to user's favorite)
+24. Linkin Park (similar to user's favorite)
+25. Carrie Underwood (similar to user's favorite)
+26. Paramore (similar to user's favorite)
+27. Joss Stone (similar to user's favorite)
+28. Jordin Sparks (similar to user's favorite)
+29. Christina Aguilera (similar to user's favorite)
+30. Kris Allen (similar to user's favorite)
+31. Chris Brown (similar to user's favorite)
+32. OneRepublic (similar to user's favorite)
+33. Jessie J (similar to user's favorite)
+34. Rihanna (similar to user's favorite)
+35. Beyoncé (similar to user's favorite)
+36. Ashlee Simpson (similar to user's favorite)
+37. Coldplay (similar to user's favorite)
+38. Alicia Keys (similar to user's favorite)
+39. Shakira (similar to user's favorite)
+40. Avril Lavigne (similar to user's favorite)
+41. All Time Low (similar to user's favorite)
+42. Lady Antebellum (similar to user's favorite)
+43. Hey Monday (similar to user's favorite)
+44. Katy Perry (similar to user's favorite)
+45. Miley Cyrus (similar to user's favorite)
+46. Eminem (similar to user's favorite)
+47. Alexandra Burke (similar to user's favorite)
+48. Billy Talent (similar to user's favorite)
+49. Kanye West (similar to user's favorite)
+50. 30 Seconds to Mars (similar to user's favorite)

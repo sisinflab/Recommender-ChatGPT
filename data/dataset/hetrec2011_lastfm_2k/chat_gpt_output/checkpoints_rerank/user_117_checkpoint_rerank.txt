@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Depeche Mode
+2. Duran Duran
+3. Pet Shop Boys
+4. Erasure
+5. New Order
+6. Orchestral Manoeuvres in the Dark
+7. Madonna
+8. Kylie Minogue
+9. The Beatles
+10. Yazoo
+11. Eurythmics
+12. The Human League
+13. Michael Jackson
+14. Bryan Adams
+15. Fleetwood Mac
+16. ABC
+17. Talk Talk
+18. The Cars
+19. Echo & The Bunnymen
+20. Thompson Twins
+21. Kim Wilde
+22. Crowded House
+23. INXS
+24. Elton John
+25. Lady Gaga
+26. Rihanna
+27. Beyoncé
+28. Pink Floyd
+29. U2
+30. Muse
+31. Radiohead
+32. Coldplay
+33. Blur
+34. Arctic Monkeys
+35. Placebo
+36. The Killers
+37. Nirvana
+38. Iron Maiden
+39. Led Zeppelin
+40. Metallica
+41. Pearl Jam
+42. Björk
+43. System of a Down
+44. Daft Punk
+45. Nine Inch Nails
+46. Kelly Clarkson
+47. P!nk
+48. Avenged Sevenfold
+49. My Chemical Romance
+50. Green Day

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Mockingjay by Suzanne Collins
+2. The Hunger Games by Suzanne Collins
+3. Divergent by Veronica Roth
+4. The Fault in Our Stars by John Green
+5. The Maze Runner by James Dashner
+6. The Giver by Lois Lowry
+7. The Selection by Kiera Cass
+8. Legend by Marie Lu
+9. The Mortal Instruments series by Cassandra Clare
+10. The Infernal Devices series by Cassandra Clare
+11. The Lunar Chronicles series by Marissa Meyer
+12. The 5th Wave by Rick Yancey
+13. The Darkest Minds by Alexandra Bracken
+14. The Knife of Never Letting Go by Patrick Ness
+15. The Ask and the Answer by Patrick Ness
+16. Monsters of Men by Patrick Ness
+17. The Uglies series by Scott Westerfeld
+18. The Leviathan series by Scott Westerfeld
+19. The Selection series by Kiera Cass
+20. The Testing series by Joelle Charbonneau
+21. The Chemical Garden series by Lauren DeStefano
+22. The Delirium series by Lauren Oliver
+23. The Matched series by Ally Condie
+24. The Maze Runner series by James Dashner
+25. The Scorch Trials by James Dashner
+26. The Death Cure by James Dashner
+27. The Kill Order by James Dashner
+28. The Unwind series by Neal Shusterman
+29. The Chaos Walking series by Patrick Ness
+30. The Raven Boys by Maggie Stiefvater
+31. The Dream Thieves by Maggie Stiefvater
+32. The Scorpio Races by Maggie Stiefvater
+33. The Diviners by Libba Bray
+34. The Gemma Doyle trilogy by Libba Bray
+35. The Luxe series by Anna Godbersen
+36. The Gemma Hardy by Margot Livesey
+37. The Night Circus by Erin Morgenstern
+38. The Magicians by Lev Grossman
+39. The Magician King by Lev Grossman
+40. The Magician's Land by Lev Grossman
+41. The Name of the Wind by Patrick Rothfuss
+42. The Wise Man's Fear by Patrick Rothfuss
+43. The Kingkiller Chronicle series by Patrick Rothfuss
+44. The Mistborn series by Brandon Sanderson
+45. The Way of Kings by Brandon Sanderson
+46. The Stormlight Archive series by Brandon Sanderson
+47. The Lightbringer series by Brent Weeks
+48. The Black Prism by Brent Weeks
+49. The Night Angel trilogy by Brent Weeks
+50. The Powder Mage trilogy by Brian McClellan

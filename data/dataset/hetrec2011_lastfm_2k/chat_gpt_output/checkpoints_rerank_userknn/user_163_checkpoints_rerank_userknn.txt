@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for user 163 would be:
+
+1. Taylor Swift
+2. Lady Antebellum
+3. Carrie Underwood
+4. Shania Twain
+5. Keith Urban
+6. Brad Paisley
+7. Dixie Chicks
+8. Rascal Flatts
+9. Garth Brooks
+10. George Strait
+11. Maroon 5
+12. Sara Bareilles
+13. Kelly Clarkson
+14. Bon Jovi
+15. Bruce Springsteen
+16. The Beatles
+17. Queen
+18. The Script
+19. Josh Groban
+20. Céline Dion
+21. Mariah Carey
+22. Faith Hill
+23. Madonna
+24. Britney Spears
+25. Katy Perry
+26. Owl City
+27. Avril Lavigne
+28. Justin Timberlake
+29. Miley Cyrus
+30. Hilary Duff
+31. Emily Osment
+32. Lily Allen
+33. Adam Lambert
+34. Scorpions
+35. Chuck Berry
+36. Billy Joel
+37. Buddy Holly
+38. Lynyrd Skynyrd
+39. The Who
+40. The Police
+41. Juanes
+42. Enya
+43. David Archuleta
+44. Howard Shore
+45. Alexandre Desplat
+46. Carter Burwell
+47. Justin Bieber
+48. Colbie Caillat
+49. Shakira
+50. Alanis Morissette

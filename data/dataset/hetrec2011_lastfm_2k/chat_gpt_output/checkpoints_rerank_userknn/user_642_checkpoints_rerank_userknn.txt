@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Stevie Wonder
+2. Sam Cooke
+3. Marvin Gaye
+4. Ray Charles
+5. Aretha Franklin
+6. Louis Armstrong
+7. Buddy Guy
+8. Muddy Waters
+9. Howlin' Wolf
+10. Janis Joplin
+11. Stevie Ray Vaughan and Double Trouble
+12. Eric Clapton
+13. Cream
+14. John Lee Hooker
+15. Bob Marley
+16. Santana
+17. The Doors
+18. Jimi Hendrix
+19. The Beatles
+20. Paul McCartney & Wings
+21. Tom Waits
+22. Red Hot Chili Peppers
+23. U2
+24. Coldplay
+25. Radiohead
+26. Beck
+27. David Gray
+28. Ben Harper
+29. Creedence Clearwater Revival
+30. ZZ Top
+31. Chuck Berry
+32. The Who
+33. The Yardbirds
+34. Aerosmith
+35. Elvis Presley
+36. Johnny Cash
+37. George Strait
+38. Nelly Furtado
+39. Shakira
+40. Britney Spears
+41. Demi Lovato
+42. Amy Winehouse
+43. James Blunt
+44. John Mayer
+45. Andrew Bird
+46. Tears for Fears
+47. Dulce María
+48. Manu Chao
+49. INXS
+50. Soda Stereo

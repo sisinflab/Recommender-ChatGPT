@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Kite Runner by Khaled Hosseini
+2. The God of Small Things by Arundhati Roy
+3. A Thousand Splendid Suns by Khaled Hosseini
+4. The Alchemist by Paulo Coelho
+5. To Kill a Mockingbird by Harper Lee
+6. The Reader by Bernhard Schlink
+7. Frankenstein by Mary Shelley
+8. The Blind Assassin by Margaret Atwood
+9. The Scarlet Letter by Nathaniel Hawthorne
+10. The Da Vinci Code by Dan Brown
+11. Angels & Demons by Dan Brown
+12. The Hunger Games by Suzanne Collins
+13. Inkheart by Cornelia Funke
+14. Inkspell by Cornelia Funke
+15. Dragon Rider by Cornelia Funke
+16. Fablehaven by Brandon Mull
+17. The Luxe by Anna Godbersen
+18. The Lord of the Rings by J.R.R. Tolkien
+19. The Tempest by William Shakespeare
+20. Emma by Jane Austen
+21. Tuesdays with Morrie by Mitch Albom
+22. A Wrinkle in Time by Madeleine L'Engle
+23. Speak by Laurie Halse Anderson
+24. Divine Comedy by Dante Alighieri
+25. Adventures of Huckleberry Finn by Mark Twain
+26. Five Point Someone by Chetan Bhagat
+27. The Notebook by Nicholas Sparks
+28. PS, I Love You by Cecelia Ahern
+29. Eat, Pray, Love by Elizabeth Gilbert
+30. Thank You for Smoking by Christopher Buckley
+31. The Female Brain by Louann Brizendine
+32. Zen and the Art of Motorcycle Maintenance by Robert M. Pirsig
+33. The White Tiger by Aravind Adiga
+34. Where the Heart Is by Billie Letts
+35. A Passage to India by E.M. Forster
+36. Unaccustomed Earth by Jhumpa Lahiri
+37. Maximum City by Suketu Mehta
+38. Not Without My Daughter by Betty Mahmoody
+39. One Night @ the Call Center by Chetan Bhagat
+40. The Name of this Book is Secret by Pseudonymous Bosch
+41. Bloodbrothers by Richard Price
+42. The Secrets of the Immortal Nicholas Flamel by Michael Scott
+43. Percy Jackson & the Olympians by Rick Riordan
+44. It by Stephen King
+45. The Cat Who Saw Red by Lilian Jackson Braun
+46. Goosebumps by R.L. Stine
+47. Animorphs by K.A. Applegate
+48. Ways to Live Forever by Sally Nicholls
+49. Esperanza Rising by Pam Muñoz Ryan
+50. How the García Girls Lost Their Accents by Julia Alvarez

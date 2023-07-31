@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Beatles
+2. Queen
+3. Coldplay
+4. Green Day
+5. Michael Jackson
+6. The Cure
+7. Kings of Leon
+8. Daft Punk
+9. U2
+10. Foo Fighters
+11. Maroon 5
+12. Avril Lavigne
+13. My Chemical Romance
+14. MGMT
+15. blink-182
+16. John Mayer
+17. Lady Gaga
+18. We The Kings
+19. 30 Seconds to Mars
+20. Good Charlotte
+21. The Kooks
+22. Garbage
+23. The All-American Rejects
+24. Paramore
+25. The Killers
+26. Linkin Park
+27. Katy Perry
+28. Rihanna
+29. The Fray
+30. Keane
+31. The Beach Boys
+32. Billy Joel
+33. Simon & Garfunkel
+34. Eminem
+35. Taylor Swift
+36. Kelly Clarkson
+37. Lily Allen
+38. Hollywood Undead
+39. Jason Mraz
+40. Jonas Brothers
+41. Miley Cyrus
+42. All Time Low
+43. Kaiser Chiefs
+44. Kris Allen
+45. Kasabian
+46. Adam Lambert
+47. Hilary Duff
+48. Panic! At the Disco
+49. Britney Spears
+50. Madonna

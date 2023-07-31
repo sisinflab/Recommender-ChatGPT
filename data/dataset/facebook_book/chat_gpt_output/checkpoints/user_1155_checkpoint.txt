@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Good Omens by Terry Pratchett and Neil Gaiman
+2. The Lord of the Rings by J.R.R. Tolkien
+3. The Name of the Wind by Patrick Rothfuss
+4. American Gods by Neil Gaiman
+5. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+6. The Lies of Locke Lamora by Scott Lynch
+7. The Dark Tower series by Stephen King
+8. The Dresden Files series by Jim Butcher
+9. The Wheel of Time series by Robert Jordan
+10. The Kingkiller Chronicle series by Patrick Rothfuss
+11. The First Law trilogy by Joe Abercrombie
+12. The Malazan Book of the Fallen series by Steven Erikson
+13. The Stormlight Archive series by Brandon Sanderson
+14. The Mistborn trilogy by Brandon Sanderson
+15. The Belgariad series by David Eddings
+16. The Farseer Trilogy by Robin Hobb
+17. The Black Company series by Glen Cook
+18. The Chronicles of Narnia by C.S. Lewis
+19. The Earthsea series by Ursula K. Le Guin
+20. The Sword of Shannara series by Terry Brooks
+21. The Dark Elf Trilogy by R.A. Salvatore
+22. The Riyria Revelations series by Michael J. Sullivan
+23. The Codex Alera series by Jim Butcher
+24. The Lightbringer series by Brent Weeks
+25. The Powder Mage trilogy by Brian McClellan
+26. The Broken Empire trilogy by Mark Lawrence
+27. The Night Angel trilogy by Brent Weeks
+28. The Black Prism by Brent Weeks
+29. The Way of Kings by Brandon Sanderson
+30. The Final Empire by Brandon Sanderson
+31. The Lies of Locke Lamora by Scott Lynch
+32. The Blade Itself by Joe Abercrombie
+33. The Last Unicorn by Peter S. Beagle
+34. The Once and Future King by T.H. White
+35. The Chronicles of Amber series by Roger Zelazny
+36. The Picture of Dorian Gray by Oscar Wilde
+37. The Great Gatsby by F. Scott Fitzgerald
+38. To Kill a Mockingbird by Harper Lee
+39. 1984 by George Orwell
+40. Animal Farm by George Orwell
+41. Brave New World by Aldous Huxley
+42. The Catcher in the Rye by J.D. Salinger
+43. One Hundred Years of Solitude by Gabriel Garcia Marquez
+44. The Bell Jar by Sylvia Plath
+45. The Handmaid's Tale by Margaret Atwood
+46. The Road by Cormac McCarthy
+47. The Stand by Stephen King
+48. The Shining by Stephen King
+49. It by Stephen King
+50. The Wise Man's Fear by Patrick Rothfuss

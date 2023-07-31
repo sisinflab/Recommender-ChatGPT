@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Metallica
+2. Slayer
+3. Pantera
+4. Lamb of God
+5. Slipknot
+6. System of a Down
+7. Tool
+8. Opeth
+9. Dream Theater
+10. Mastodon
+11. Gojira
+12. Meshuggah
+13. Killswitch Engage
+14. In Flames
+15. Arch Enemy
+16. Children of Bodom
+17. Trivium
+18. Black Label Society
+19. Megadeth
+20. Bullet for My Valentine
+21. Kreator
+22. Pearl Jam
+23. Eddie Vedder
+24. Dio
+25. Soulfly
+26. Iron Maiden
+27. Rage Against the Machine
+28. The Beatles
+29. Eluveitie
+30. Dimmu Borgir
+31. Bring Me The Horizon
+32. Amorphis
+33. Judas Priest
+34. AC/DC
+35. Guns N' Roses
+36. Led Zeppelin
+37. Pink Floyd
+38. Queen
+39. Nirvana
+40. Soundgarden
+41. Alice in Chains
+42. Stone Temple Pilots
+43. Red Hot Chili Peppers
+44. Foo Fighters
+45. Green Day
+46. The Offspring
+47. Blink-182
+48. Sum 41
+49. My Chemical Romance
+50. Paramore

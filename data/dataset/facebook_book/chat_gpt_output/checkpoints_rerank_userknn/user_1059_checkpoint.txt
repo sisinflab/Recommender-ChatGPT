@@ -1,0 +1,45 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Sabriel by Garth Nix
+2. The Hunger Games by Suzanne Collins
+3. The Girl with the Dragon Tattoo by Stieg Larsson
+4. Harry Potter by J.K. Rowling
+5. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+6. The Lord of the Rings by J.R.R. Tolkien
+7. Divergent by Veronica Roth
+8. Maximum Ride by James Patterson
+9. The Immortals by Alyson Noel
+10. The Vampire Diaries by L.J. Smith
+11. The Bourne Identity by Robert Ludlum
+12. The Da Vinci Code by Dan Brown
+13. Life of Pi by Yann Martel
+14. The Lovely Bones by Alice Sebold
+15. The Shipping News by Annie Proulx
+16. His Dark Materials by Philip Pullman
+17. The Kite Runner by Khaled Hosseini
+18. Eragon by Christopher Paolini
+19. The Magician's Nephew by C.S. Lewis
+20. The Lost Symbol by Dan Brown
+21. The Southern Vampire Mysteries by Charlaine Harris
+22. The Hardy Boys by Franklin W. Dixon
+23. The Horse and His Boy by C.S. Lewis
+24. The Sight by David Clement-Davies
+25. The Passage by Justin Cronin
+26. Uglies by Scott Westerfeld
+27. The Vampire Diaries: The Awakening by L.J. Smith
+28. The Hunger Games: Catching Fire by Suzanne Collins
+29. The Hunger Games: Mockingjay by Suzanne Collins
+30. The Chronicles of Narnia: The Lion, the Witch and the Wardrobe by C.S. Lewis
+31. The Chronicles of Narnia: The Horse and His Boy by C.S. Lewis
+32. The Chronicles of Narnia: The Magician's Nephew by C.S. Lewis
+33. The Chronicles of Narnia: The Silver Chair by C.S. Lewis
+34. The Chronicles of Narnia: The Last Battle by C.S. Lewis
+35. The Vampire Diaries: The Struggle by L.J. Smith
+36. The Vampire Diaries: The Fury by L.J. Smith
+37. The Vampire Diaries: Dark Reunion by L.J. Smith
+38. The Vampire Diaries: The Return: Nightfall by L.J. Smith
+39. The Vampire Diaries: The Return: Shadow Souls by L.J. Smith
+40. The Vampire Diaries: The Return: Midnight by L.J. Smith
+41. The Vampire Diaries: The Hunters: Phantom by L.J. Smith
+42. The Vampire Diaries: The Hunters: Moonsong by L.J. Smith
+43. The Vampire Diaries: The Hunters: Destiny Rising

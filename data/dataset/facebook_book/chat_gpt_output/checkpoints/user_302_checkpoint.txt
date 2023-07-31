@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Maze Runner by James Dashner
+2. The Giver by Lois Lowry
+3. The Selection by Kiera Cass
+4. The Mortal Instruments by Cassandra Clare
+5. The Fault in Our Stars by John Green
+6. The Lunar Chronicles by Marissa Meyer
+7. The 5th Wave by Rick Yancey
+8. The Infernal Devices by Cassandra Clare
+9. The Darkest Minds by Alexandra Bracken
+10. The Hunger Games Trilogy by Suzanne Collins
+11. The Twilight Saga by Stephenie Meyer
+12. The Chronicles of Narnia by C.S. Lewis
+13. The Lord of the Rings by J.R.R. Tolkien
+14. The Hobbit by J.R.R. Tolkien
+15. The Harry Potter Series by J.K. Rowling
+16. The Divergent Series by Veronica Roth
+17. The Percy Jackson Series by Rick Riordan
+18. The Heroes of Olympus Series by Rick Riordan
+19. The Kane Chronicles by Rick Riordan
+20. The Secrets of the Immortal Nicholas Flamel by Michael Scott
+21. The Dark Tower Series by Stephen King
+22. The Stand by Stephen King
+23. The Shining by Stephen King
+24. The Girl with the Dragon Tattoo by Stieg Larsson
+25. The Girl Who Played with Fire by Stieg Larsson
+26. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+27. The Da Vinci Code by Dan Brown
+28. Angels and Demons by Dan Brown
+29. Inferno by Dan Brown
+30. The Hunger Games by Suzanne Collins
+31. Catching Fire by Suzanne Collins
+32. Mockingjay by Suzanne Collins
+33. The Host by Stephenie Meyer
+34. The Chemist by Stephenie Meyer
+35. The Vampire Academy by Richelle Mead
+36. The House of Night Series by P.C. Cast and Kristin Cast
+37. The Sookie Stackhouse Series by Charlaine Harris
+38. The Southern Vampire Mysteries by Charlaine Harris
+39. The Anita Blake Series by Laurell K. Hamilton
+40. The Merry Gentry Series by Laurell K. Hamilton
+41. The Hollows Series by Kim Harrison
+42. The Black Dagger Brotherhood Series by J.R. Ward
+43. The Night Huntress Series by Jeaniene Frost
+44. The Fever Series by Karen Marie Moning
+45. The Outlander Series by Diana Gabaldon
+46. The Wheel of Time Series by Robert Jordan
+47. The Kingkiller Chronicle by Patrick Rothfuss
+48. The Stormlight Archive by Brandon Sanderson
+49. The Mistborn Trilogy by Brandon Sanderson
+50. The Way of Kings by Brandon Sanderson

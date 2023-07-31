@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter
+2. The Hunger Games
+3. Twilight (series)
+4. The Vampire Chronicles
+5. Vampire Academy (novel)
+6. The Wolves of Mercy Falls
+7. The Reckoning (Armstrong novel)
+8. The Host (novel)
+9. Inkheart
+10. Dark-Hunter (series)
+11. The Luxe
+12. A Great and Terrible Beauty
+13. Before I Fall
+14. The Shadowlands
+15. The Notebook (novel)
+16. Lolita
+17. The Great Gatsby
+18. Macbeth
+19. Speak (novel)
+20. Inheritance (novel)
+21. Perfect Chemistry
+22. City of Ashes by ['Cassandra Clare']
+23. Fragile Eternity by ['Melissa Marr (author)']
+24. Stargazer (novel) by ['Claudia Gray']
+25. Hush, Hush by ['Becca Fitzpatrick']
+26. Terrier (novel) by ['Tamora Pierce']
+27. The Summoning (novel)
+28. Rebel Angels
+29. Deadly Little Secrets
+30. All American Girl (novel)
+31. Cross My Heart and Hope to Spy
+32. The Hollow
+33. The Coldest Winter Ever
+34. L.A. Candy
+35. Rose Madder (novel)
+36. I'd Tell You I Love You, But Then I'd Have to Kill You
+37. It Happened to Nancy: By an Anonymous Teenager
+38. Hourglass (novel)
+39. Cut (novel)
+40. Freakshow (comics)
+41. Annie's Baby
+42. Suck It Up
+43. Haunted (The Mediator)
+44. I Am Not a Serial Killer
+45. Before I Fall
+46. Eighth Grade Bites
+47. Manga
+48. Gone with the Wind
+49. Fablehaven
+50. Elixir (novel)

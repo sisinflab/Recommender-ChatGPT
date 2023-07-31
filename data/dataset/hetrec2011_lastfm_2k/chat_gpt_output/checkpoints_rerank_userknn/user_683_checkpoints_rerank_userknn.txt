@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Depeche Mode
+2. New Order
+3. The Cure
+4. David Bowie
+5. Duran Duran
+6. Roxy Music
+7. The Human League
+8. Siouxsie and the Banshees
+9. INXS
+10. Blondie
+11. Japan
+12. Gary Numan
+13. Cocteau Twins
+14. Billy Idol
+15. Devo
+16. Talk Talk
+17. Eurythmics
+18. Tears for Fears
+19. Orchestral Manoeuvres in the Dark
+20. Bauhaus
+21. Clan of Xymox
+22. Fischerspooner
+23. IAMX
+24. Alphaville
+25. KMFDM
+26. Madonna
+27. Nik Kershaw
+28. The Stranglers
+29. Iron Maiden
+30. Kraftwerk
+31. Muse
+32. The Smiths
+33. George Harrison
+34. The Faint
+35. The B-52's
+36. Heaven 17
+37. The Birthday Massacre
+38. Garbage
+39. Howard Jones
+40. The Dandy Warhols
+41. The Cars
+42. The Presets
+43. Yazoo
+44. Ultravox
+45. Sparks
+46. Culture Club
+47. The Chemical Brothers
+48. ABC
+49. Simple Minds
+50. XTC

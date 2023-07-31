@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Catching Fire by Suzanne Collins
+3. Mockingjay by Suzanne Collins
+4. The Lord of the Rings by J.R.R. Tolkien
+5. The Hobbit by J.R.R. Tolkien
+6. Eragon by Christopher Paolini
+7. Inkheart by Cornelia Funke
+8. Memoirs of a Geisha by Arthur Golden
+9. Dune by Frank Herbert
+10. Mistborn: The Hero of Ages by Brandon Sanderson
+11. Harry Potter by J.K. Rowling
+12. The Name of the Rose by Umberto Eco
+13. The Handmaid's Tale by Margaret Atwood
+14. The Great Gatsby by F. Scott Fitzgerald
+15. Romeo and Juliet by William Shakespeare
+16. Macbeth by William Shakespeare
+17. The Faerie Wars Chronicles by Herbie Brennan
+18. A Great and Terrible Beauty by Libba Bray
+19. The Secrets of the Immortal Nicholas Flamel by Michael Scott
+20. The Forest of Hands and Teeth by Carrie Ryan
+21. Sabriel by Garth Nix
+22. City of Bones by Cassandra Clare
+23. City of Glass by Cassandra Clare
+24. The Seekers by Daniel Boorstin
+25. Little Women by Louisa May Alcott
+26. Maximum Ride by James Patterson
+27. Before I Die by Jenny Downham
+28. The Bourne Legacy by Eric Van Lustbader
+29. The Illuminatus! Trilogy by Robert Shea and Robert Anton Wilson
+30. A Northern Light by Jennifer Donnelly
+31. The Last Dog on Earth by Daniel Ehrenhaft
+32. Witch & Wizard by James Patterson
+33. The History of the Decline and Fall of the Roman Empire by Edward Gibbon
+34. Self-Reliance by Ralph Waldo Emerson
+35. This Lullaby by Sarah Dessen
+36. Keeping the Moon by Sarah Dessen
+37. Inheritance by Christopher Paolini
+38. Naruto by Masashi Kishimoto
+39. Ranger's Apprentice by John Flanagan
+40. Warriors by Erin Hunter
+41. Warriors (anthology) by Erin Hunter
+42. Skeleton Creek by Patrick Carman
+43. Fallen by Lauren Kate
+44. I Am Number Four by Pittacus Lore
+45. The Faerie Wars Chronicles by Herbie Brennan
+46. Aztec by Gary Jennings
+47. Prozac Nation by Elizabeth Wurtzel
+48. When God Writes Your Love Story by Eric and Leslie Ludy
+49. Airman by Eoin Colfer
+50. 100 Bullets by Brian Azzarello

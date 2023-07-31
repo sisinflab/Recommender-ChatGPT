@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Maze Runner by James Dashner
+4. The Fault in Our Stars by John Green
+5. The Giver by Lois Lowry
+6. The Book Thief by Markus Zusak
+7. The Chronicles of Narnia by C.S. Lewis
+8. The Adventures of Huckleberry Finn by Mark Twain
+9. The Great Gatsby by F. Scott Fitzgerald
+10. Lord of the Flies by William Golding
+11. Animal Farm by George Orwell
+12. 1984 by George Orwell
+13. The Hobbit by J.R.R. Tolkien
+14. The Lord of the Rings by J.R.R. Tolkien
+15. The Catcher in the Rye by J.D. Salinger
+16. The Outsiders by S.E. Hinton
+17. To Kill a Mockingbird by Harper Lee
+18. The Kite Runner by Khaled Hosseini
+19. Of Mice and Men by John Steinbeck
+20. Frankenstein by Mary Shelley
+21. Brave New World by Aldous Huxley
+22. The Stand by Stephen King
+23. The Shining by Stephen King
+24. Cujo by Stephen King
+25. Red Dragon by Thomas Harris
+26. Jaws by Peter Benchley
+27. The Da Vinci Code by Dan Brown
+28. Angels & Demons by Dan Brown
+29. The Lost Boy by Dave Pelzer
+30. My Sister's Keeper by Jodi Picoult
+31. Burned by Ellen Hopkins
+32. Into Thin Air by Jon Krakauer
+33. A Brief History of Time by Stephen Hawking
+34. Cosmos by Carl Sagan
+35. The Man Who Mistook His Wife for a Hat by Oliver Sacks
+36. The Bible
+37. The Quran
+38. Torah Or by Rabbi Lawrence Kushner
+39. The Book of Revelation
+40. The Iliad by Homer
+41. The Odyssey by Homer
+42. Alice's Adventures in Wonderland by Lewis Carroll
+43. Where the Wild Things Are by Maurice Sendak
+44. Hop on Pop by Dr. Seuss
+45. A Light in the Attic by Shel Silverstein
+46. Bone by Jeff Smith
+47. Captain Underpants by Dav Pilkey
+48. Diary of a Wimpy Kid by Jeff Kinney
+49. A Series of Unfortunate Events by Lemony Snicket
+50. The Morganville Vampires by Rachel Caine

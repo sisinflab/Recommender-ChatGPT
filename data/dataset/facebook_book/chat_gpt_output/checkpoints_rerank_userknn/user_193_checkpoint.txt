@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Frankenstein
+2. The Child Thief
+3. The Monk
+4. Carmilla
+5. Perfume (novel)
+6. The Sirens of Titan
+7. The Amazing Adventures of Kavalier & Clay
+8. The Hobbit
+9. The Lord of the Rings
+10. The Chronicles of Narnia: Prince Caspian
+11. Stardust (novel)
+12. The Amber Spyglass
+13. The Southern Vampire Mysteries
+14. Interview with the Vampire
+15. The Hunger Games
+16. Catching Fire
+17. Ranger's Apprentice
+18. Percy Jackson & the Olympians
+19. Uglies
+20. The Zombie Survival Guide
+21. The Prosecution of George W. Bush for Murder
+22. Sense and Sensibility and Sea Monsters
+23. Sense and Sensibility
+24. Northanger Abbey
+25. Pride and Prejudice
+26. Romeo and Juliet
+27. A Midsummer Night's Dream
+28. Inferno (Dante)
+29. One Hundred Years of Solitude
+30. The Watchmen (novel)
+31. Arkham Asylum: A Serious House on Serious Earth
+32. The Dark Tower: The Gunslinger
+33. Twenty Thousand Leagues Under the Sea
+34. Dune (novel)
+35. Eldest
+36. The Ruins (novel)
+37. Choke (novel)
+38. Dealing with Dragons
+39. Peter and the Shadow Thieves
+40. The Hitchhiker's Guide to the Galaxy (novel)
+41. Tunnels (novel)
+42. Go Ask Alice
+43. The Book Thief
+44. Touching Spirit Bear
+45. Hannibal Rising by ['Thomas Harris']
+46. Nicholas Nickleby by ['Charles Dickens']
+47. Bloodlines (Mead novel) by ['Richelle Mead']
+48. Johnny the Homicidal Maniac by []
+49. Sin City
+50. Rhapsody: Child of Blood

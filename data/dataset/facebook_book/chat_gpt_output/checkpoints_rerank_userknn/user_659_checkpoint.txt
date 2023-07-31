@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Ender's Shadow by Orson Scott Card
+2. Harry Potter by J.K. Rowling
+3. Dune by Frank Herbert
+4. The Hunger Games by Suzanne Collins
+5. Catching Fire by Suzanne Collins
+6. Mockingjay by Suzanne Collins
+7. Speaker for the Dead by Orson Scott Card
+8. Children of the Mind by Orson Scott Card
+9. The Dark Elf Trilogy by R.A. Salvatore
+10. The Hobbit by J.R.R. Tolkien
+11. His Dark Materials by Philip Pullman
+12. Hyperion Cantos by Dan Simmons
+13. Angels & Demons by Dan Brown
+14. The Da Vinci Code by Dan Brown
+15. Water for Elephants by Sara Gruen
+16. The Watchmen by Alan Moore
+17. Nineteen Eighty-Four by George Orwell
+18. Franny and Zooey by J.D. Salinger
+19. Paradise Lost by John Milton
+20. The Picture of Dorian Gray by Oscar Wilde
+21. For Whom the Bell Tolls by Ernest Hemingway
+22. Starship Troopers by Robert A. Heinlein
+23. The Catcher in the Rye by J.D. Salinger
+24. The Three Musketeers by Alexandre Dumas
+25. The Last Storytellers: Tales from the Heart of Morocco by Richard Hamilton
+26. Through the Looking-Glass by Lewis Carroll
+27. Peter and Wendy by J.M. Barrie
+28. I Am Legend by Richard Matheson
+29. The Melancholy Death of Oyster Boy & Other Stories by Tim Burton
+30. A Light in the Attic by Shel Silverstein
+31. Deception Point by Dan Brown
+32. Teaching with Calvin and Hobbes by Linda Holmen
+33. Pride and Prejudice and Zombies by Seth Grahame-Smith
+34. Heir to the Empire by Timothy Zahn
+35. Inheritance by Christopher Paolini
+36. Thirteen Reasons Why by Jay Asher
+37. Rant by Chuck Palahniuk
+38. God Emperor of Dune by Frank Herbert
+39. Eragon by Christopher Paolini
+40. The Hunter's Blades Trilogy by R.A. Salvatore
+41. Impulse economy by Alex Osterwalder
+42. Dhammapada by Anonymous
+43. Sun Bin's Art of War by Sun Bin
+44. Naked by David Sedaris
+45. Congo by Michael Crichton
+46. Eric by Terry Pratchett
+47. I Hope They Serve Beer in Hell by Tucker Max
+48. Halo: The Flood by William C. Dietz
+49. Halo: First Strike by Eric Nylund
+50. Halo: Ghosts of Onyx by Eric Nylund

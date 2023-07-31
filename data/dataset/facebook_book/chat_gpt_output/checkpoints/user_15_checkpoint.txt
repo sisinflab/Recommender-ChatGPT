@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. The Chronicles of Narnia by C.S. Lewis
+3. A Song of Ice and Fire by George R.R. Martin
+4. The Hunger Games by Suzanne Collins
+5. The Name of the Wind by Patrick Rothfuss
+6. Ender's Game by Orson Scott Card
+7. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+8. The Alchemist by Paulo Coelho
+9. 1984 by George Orwell
+10. Brave New World by Aldous Huxley
+11. The Catcher in the Rye by J.D. Salinger
+12. To Kill a Mockingbird by Harper Lee
+13. The Great Gatsby by F. Scott Fitzgerald
+14. Animal Farm by George Orwell
+15. The Picture of Dorian Gray by Oscar Wilde
+16. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+17. The Girl with the Dragon Tattoo by Stieg Larsson
+18. The Girl on the Train by Paula Hawkins
+19. The Silence of the Lambs by Thomas Harris
+20. The Shining by Stephen King
+21. The Stand by Stephen King
+22. The Dark Tower series by Stephen King
+23. The Road by Cormac McCarthy
+24. The Martian by Andy Weir
+25. Ready Player One by Ernest Cline
+26. The Fault in Our Stars by John Green
+27. The Book Thief by Markus Zusak
+28. The Help by Kathryn Stockett
+29. The Kite Runner by Khaled Hosseini
+30. The Secret Life of Bees by Sue Monk Kidd
+31. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+32. The Power of Now by Eckhart Tolle
+33. The 7 Habits of Highly Effective People by Stephen Covey
+34. How to Win Friends and Influence People by Dale Carnegie
+35. The Art of War by Sun Tzu
+36. The Four Agreements by Don Miguel Ruiz
+37. The Seven Spiritual Laws of Success by Deepak Chopra
+38. The Celestine Prophecy by James Redfield
+39. The Road Less Traveled by M. Scott Peck
+40. The Power of Positive Thinking by Norman Vincent Peale
+41. The Magic of Thinking Big by David J. Schwartz
+42. The 5 Love Languages by Gary Chapman
+43. The Purpose Driven Life by Rick Warren
+44. The Life-Changing Magic of Tidying Up by Marie Kondo
+45. The Lean Startup by Eric Ries
+46. The Innovator's Dilemma by Clayton Christensen
+47. The Lean Six Sigma Pocket Toolbook by Michael L. George
+48. The Design of Everyday Things by Don Norman
+49. The Elements

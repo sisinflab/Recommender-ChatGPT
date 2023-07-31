@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Interview with the Vampire by Anne Rice
+2. The Hobbit by J.R.R. Tolkien
+3. The Chronicles of Narnia by C.S. Lewis
+4. Dracula by Bram Stoker
+5. The Hunger Games by Suzanne Collins
+6. The Giver by Lois Lowry
+7. The Da Vinci Code by Dan Brown
+8. The Girl with the Dragon Tattoo by Stieg Larsson
+9. The Catcher in the Rye by J.D. Salinger
+10. To Kill a Mockingbird by Harper Lee
+11. The Great Gatsby by F. Scott Fitzgerald
+12. 1984 by George Orwell
+13. Animal Farm by George Orwell
+14. The Alchemist by Paulo Coelho
+15. The Fault in Our Stars by John Green
+16. The Book Thief by Markus Zusak
+17. The Maze Runner by James Dashner
+18. The Outsiders by S.E. Hinton
+19. The Lord of the Flies by William Golding
+20. The Shining by Stephen King
+21. The Stand by Stephen King
+22. The Dark Tower series by Stephen King
+23. The Green Mile by Stephen King
+24. The Girl on the Train by Paula Hawkins
+25. Gone Girl by Gillian Flynn
+26. The Help by Kathryn Stockett
+27. The Secret Life of Bees by Sue Monk Kidd
+28. The Color Purple by Alice Walker
+29. The Joy Luck Club by Amy Tan
+30. The Kite Runner by Khaled Hosseini
+31. A Thousand Splendid Suns by Khaled Hosseini
+32. The God of Small Things by Arundhati Roy
+33. The Handmaid's Tale by Margaret Atwood
+34. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+35. The Name of the Wind by Patrick Rothfuss
+36. The Wise Man's Fear by Patrick Rothfuss
+37. The Way of Kings by Brandon Sanderson
+38. Mistborn by Brandon Sanderson
+39. The Final Empire by Brandon Sanderson
+40. The Well of Ascension by Brandon Sanderson
+41. The Hero of Ages by Brandon Sanderson
+42. The Lies of Locke Lamora by Scott Lynch
+43. The Blade Itself by Joe Abercrombie
+44. The Black Company by Glen Cook
+45. The First Law Trilogy by Joe Abercrombie
+46. The Kingkiller Chronicle by Patrick Rothfuss
+47. The Stormlight Archive by Brandon Sanderson
+48. The Malazan Book of the Fallen by Steven Erikson
+49. The Dresden Files by Jim Butcher
+50. The Wheel of Time by Robert Jordan

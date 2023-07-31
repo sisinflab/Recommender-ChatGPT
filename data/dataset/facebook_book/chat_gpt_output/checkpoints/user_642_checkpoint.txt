@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. The Book Thief by Markus Zusak
+3. The Fault in Our Stars by John Green
+4. 1984 by George Orwell
+5. The Lord of the Rings by J.R.R. Tolkien
+6. The Hobbit by J.R.R. Tolkien
+7. The Chronicles of Narnia by C.S. Lewis
+8. The Girl with the Dragon Tattoo by Stieg Larsson
+9. The Da Vinci Code by Dan Brown
+10. The Help by Kathryn Stockett
+11. The Kite Runner by Khaled Hosseini
+12. The Great Gatsby by F. Scott Fitzgerald
+13. The Picture of Dorian Gray by Oscar Wilde
+14. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+15. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+16. The Alchemist by Paulo Coelho
+17. The Catcher in the Rye by J.D. Salinger
+18. The Giver by Lois Lowry
+19. The Maze Runner by James Dashner
+20. The Secret Life of Bees by Sue Monk Kidd
+21. The Time Traveler's Wife by Audrey Niffenegger
+22. The Lovely Bones by Alice Sebold
+23. The Perks of Being a Wallflower by Stephen Chbosky
+24. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+25. The Name of the Wind by Patrick Rothfuss
+26. The Nightingale by Kristin Hannah
+27. The Handmaid's Tale by Margaret Atwood
+28. The Road by Cormac McCarthy
+29. The Stand by Stephen King
+30. The Shining by Stephen King
+31. The Silence of the Lambs by Thomas Harris
+32. The Bourne Identity by Robert Ludlum
+33. The Girl on the Train by Paula Hawkins
+34. The Martian by Andy Weir
+35. The Help by Kathryn Stockett
+36. The Color Purple by Alice Walker
+37. The Joy Luck Club by Amy Tan
+38. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+39. The Glass Castle by Jeannette Walls
+40. The Devil in the White City by Erik Larson
+41. The Power of One by Bryce Courtenay
+42. The Pillars of the Earth by Ken Follett
+43. The Clan of the Cave Bear by Jean M. Auel
+44. The Poisonwood Bible by Barbara Kingsolver
+45. The Memory Keeper's Daughter by Kim Edwards
+46. The Help by Kathryn Stockett
+47. The Color of Water by James McBride
+48. The Immortalists by Chloe Benjamin
+49. The Night Circus by Erin Morgenstern
+50. The Immortal Life of Henrietta

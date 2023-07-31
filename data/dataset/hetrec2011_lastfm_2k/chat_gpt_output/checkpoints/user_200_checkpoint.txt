@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Black Sabbath
+2. Deep Purple
+3. Rush
+4. Scorpions
+5. Dio
+6. Metallica
+7. Guns N' Roses
+8. Megadeth
+9. Ozzy Osbourne
+10. Alice Cooper
+11. Kiss
+12. Motorhead
+13. Van Morrison
+14. The Rolling Stones
+15. David Bowie
+16. The Doors
+17. Jimi Hendrix
+18. Lynyrd Skynyrd
+19. ZZ Top
+20. Aerosmith
+21. Bon Jovi
+22. Journey
+23. Foreigner
+24. Boston
+25. Kansas
+26. Styx
+27. REO Speedwagon
+28. Heart
+29. Fleetwood Mac
+30. The Eagles
+31. Tom Petty and the Heartbreakers
+32. Bob Dylan
+33. Neil Young
+34. The Allman Brothers Band
+35. Grateful Dead
+36. Pink Floyd (related artists)
+37. Led Zeppelin (related artists)
+38. The Who (related artists)
+39. Queen (related artists)
+40. The Beatles (related artists)
+41. The Rolling Stones (related artists)
+42. Bruce Springsteen (related artists)
+43. U2 (related artists)
+44. The Police (related artists)
+45. Talking Heads
+46. The Cars
+47. Depeche Mode
+48. New Order
+49. Joy Division
+50. The Smiths

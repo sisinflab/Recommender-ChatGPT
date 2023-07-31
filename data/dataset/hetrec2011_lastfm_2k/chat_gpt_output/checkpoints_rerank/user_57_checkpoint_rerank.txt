@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Bring Me The Horizon
+2. Escape The Fate
+3. nevershoutnever!
+4. The Pretty Reckless
+5. Gloria
+6. Avenged Sevenfold
+7. Boys Like Girls
+8. Simple Plan
+9. Tokio Hotel
+10. Metro Station
+11. Asking Alexandria
+12. Fresno
+13. Suicide Silence
+14. Alesana
+15. BrokeNCYDE
+16. The Devil Wears Prada
+17. The Strokes
+18. Selena Gomez & the Scene
+19. Panic! At the Disco
+20. Linkin Park
+21. Katy Perry
+22. Evanescence
+23. Christian Chávez
+24. Cine
+25. Ke$ha
+26. Christina Aguilera
+27. Nirvana
+28. Lady Gaga
+29. Paramore
+30. Britney Spears
+31. Rihanna
+32. Beyoncé
+33. Michael Jackson
+34. Madonna
+35. U2
+36. 30 Seconds to Mars
+37. Muse
+38. Pink Floyd
+39. Kylie Minogue
+40. Radiohead
+41. Duran Duran
+42. Coldplay
+43. Blur
+44. Arctic Monkeys
+45. Placebo
+46. The Killers
+47. Iron Maiden
+48. Led Zeppelin
+49. Metallica
+50. Amy Winehouse

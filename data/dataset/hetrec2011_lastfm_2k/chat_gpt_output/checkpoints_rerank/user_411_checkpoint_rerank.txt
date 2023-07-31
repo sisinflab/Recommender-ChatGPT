@@ -1,0 +1,52 @@
+Based on the user's liking history, here are the top 50 recommendations:
+
+1. Jay-Z
+2. Nas
+3. Eminem
+4. Dr. Dre
+5. Snoop Dogg
+6. Notorious B.I.G.
+7. Kanye West
+8. 50 Cent
+9. DMX
+10. Mobb Deep
+11. Busta Rhymes
+12. Ice Cube
+13. Cypress Hill
+14. Akon
+15. Lil' Wayne
+16. Missy Elliott
+17. Timbaland
+18. The Pussycat Dolls
+19. Rihanna
+20. Lady Gaga
+21. Beyoncé
+22. Michael Jackson
+23. Madonna
+24. Pink Floyd
+25. The Beatles
+26. U2
+27. Muse
+28. Radiohead
+29. Nirvana
+30. Metallica
+31. Led Zeppelin
+32. Pearl Jam
+33. Iron Maiden
+34. System of a Down
+35. Nine Inch Nails
+36. Daft Punk
+37. Linkin Park
+38. Green Day
+39. My Chemical Romance
+40. The Killers
+41. Avenged Sevenfold
+42. Coldplay
+43. Blur
+44. Arctic Monkeys
+45. Placebo
+46. Duran Duran
+47. Depeche Mode
+48. Björk
+49. Amy Winehouse
+50. Ke$ha

@@ -1,0 +1,49 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter series by J.K. Rowling
+2. The Lord of the Rings by J.R.R. Tolkien
+3. The Chronicles of Narnia by C.S. Lewis
+4. The Dark Tower series by Stephen King
+5. The Dresden Files series by Jim Butcher
+6. The Wheel of Time series by Robert Jordan
+7. The Name of the Wind by Patrick Rothfuss
+8. The Mistborn series by Brandon Sanderson
+9. The Kingkiller Chronicle series by Patrick Rothfuss
+10. The Stormlight Archive series by Brandon Sanderson
+11. The First Law trilogy by Joe Abercrombie
+12. The Lies of Locke Lamora by Scott Lynch
+13. The Malazan Book of the Fallen series by Steven Erikson
+14. The Black Company series by Glen Cook
+15. The Gentlemen Bastards series by Scott Lynch
+16. The Broken Empire trilogy by Mark Lawrence
+17. The Riyria Revelations series by Michael J. Sullivan
+18. The Powder Mage trilogy by Brian McClellan
+19. The Lightbringer series by Brent Weeks
+20. The Codex Alera series by Jim Butcher
+21. The Farseer Trilogy by Robin Hobb
+22. The Liveship Traders trilogy by Robin Hobb
+23. The Tawny Man trilogy by Robin Hobb
+24. The Night Angel trilogy by Brent Weeks
+25. The Black Prism by Brent Weeks
+26. The Way of Kings by Brandon Sanderson
+27. The Final Empire by Brandon Sanderson
+28. The Well of Ascension by Brandon Sanderson
+29. The Hero of Ages by Brandon Sanderson
+30. The Alloy of Law by Brandon Sanderson
+31. The Bands of Mourning by Brandon Sanderson
+32. The Emperor's Soul by Brandon Sanderson
+33. The Rithmatist by Brandon Sanderson
+34. The Reckoners series by Brandon Sanderson
+35. The Mistborn: Secret History by Brandon Sanderson
+36. The Dark Tower: The Gunslinger by Stephen King
+37. The Dark Tower II: The Drawing of the Three by Stephen King
+38. The Dark Tower III: The Waste Lands by Stephen King
+39. The Dark Tower IV: Wizard and Glass by Stephen King
+40. The Dark Tower V: Wolves of the Calla by Stephen King
+41. The Dark Tower VI: Song of Susannah by Stephen King
+42. The Dark Tower VII: The Dark Tower by Stephen King
+43. American Gods by Neil Gaiman
+44. Neverwhere by Neil Gaiman
+45. Good Omens by Neil Gaiman and Terry Pratchett
+46. The Hitchhiker's Guide to the Galaxy: The Complete Trilogy of Five by Douglas Adams
+47. The Vampire Chronicles series by

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hobbit by J.R.R. Tolkien
+2. The Silmarillion by J.R.R. Tolkien
+3. The Dark Tower series by Stephen King
+4. The Shining by Stephen King
+5. Carrie by Stephen King
+6. The Gunslinger by Stephen King
+7. Wicked by Gregory Maguire
+8. Out of Oz by Gregory Maguire
+9. The Tempest by William Shakespeare
+10. A Midsummer Night's Dream by William Shakespeare
+11. Romeo and Juliet by William Shakespeare
+12. Star Wars: Thrawn Trilogy by Timothy Zahn
+13. Star Wars: Darth Bane Trilogy by Drew Karpyshyn
+14. Star Wars: X-Wing series by Michael A. Stackpole and Aaron Allston
+15. Ender's Shadow by Orson Scott Card
+16. Speaker for the Dead by Orson Scott Card
+17. Xenocide by Orson Scott Card
+18. Children of the Mind by Orson Scott Card
+19. The Hunger Games by Suzanne Collins
+20. Catching Fire by Suzanne Collins
+21. Mockingjay by Suzanne Collins
+22. Divergent by Veronica Roth
+23. Insurgent by Veronica Roth
+24. Allegiant by Veronica Roth
+25. The Maze Runner by James Dashner
+26. The Scorch Trials by James Dashner
+27. The Death Cure by James Dashner
+28. The Giver by Lois Lowry
+29. Gathering Blue by Lois Lowry
+30. Messenger by Lois Lowry
+31. The Book Thief by Markus Zusak
+32. The Fault in Our Stars by John Green
+33. Looking for Alaska by John Green
+34. Paper Towns by John Green
+35. The Chronicles of Narnia by C.S. Lewis
+36. The Magician's Nephew by C.S. Lewis
+37. The Lion, the Witch and the Wardrobe by C.S. Lewis
+38. Prince Caspian by C.S. Lewis
+39. The Voyage of the Dawn Treader by C.S. Lewis
+40. The Horse and His Boy by C.S. Lewis
+41. The Silver Chair by C.S. Lewis
+42. The Last Battle by C.S. Lewis
+43. The Name of the Wind by Patrick Rothfuss
+44. The Wise Man's Fear by Patrick Rothfuss
+45. The Way of Kings by Brandon Sanderson
+46. Mistborn: The Final Empire by Brandon Sanderson
+47. Elantris by Brandon Sanderson
+48. Warbreaker by Brandon Sanderson
+49. The Emperor's Soul by Brandon Sanderson
+50. Steelheart by Brandon Sanderson

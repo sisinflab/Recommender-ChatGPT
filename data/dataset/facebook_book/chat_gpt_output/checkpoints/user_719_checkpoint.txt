@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Road by Cormac McCarthy
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. To Kill a Mockingbird by Harper Lee
+6. One Hundred Years of Solitude by Gabriel Garcia Marquez
+7. The Bell Jar by Sylvia Plath
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Handmaid's Tale by Margaret Atwood
+10. The Stranger by Albert Camus
+11. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+12. The Hobbit by J.R.R. Tolkien
+13. The Lord of the Rings by J.R.R. Tolkien
+14. The Hunger Games by Suzanne Collins
+15. The Girl with the Dragon Tattoo by Stieg Larsson
+16. The Da Vinci Code by Dan Brown
+17. The Shining by Stephen King
+18. The Stand by Stephen King
+19. The Dark Tower series by Stephen King
+20. The Silence of the Lambs by Thomas Harris
+21. The Name of the Wind by Patrick Rothfuss
+22. The Lies of Locke Lamora by Scott Lynch
+23. The Blade Itself by Joe Abercrombie
+24. The Way of Kings by Brandon Sanderson
+25. Mistborn by Brandon Sanderson
+26. The Dresden Files by Jim Butcher
+27. American Gods by Neil Gaiman
+28. Neverwhere by Neil Gaiman
+29. Good Omens by Neil Gaiman and Terry Pratchett
+30. The Chronicles of Narnia by C.S. Lewis
+31. The Dark Materials trilogy by Philip Pullman
+32. The Magicians by Lev Grossman
+33. The Name of the Rose by Umberto Eco
+34. The Count of Monte Cristo by Alexandre Dumas
+35. Les Miserables by Victor Hugo
+36. Crime and Punishment by Fyodor Dostoevsky
+37. The Brothers Karamazov by Fyodor Dostoevsky
+38. War and Peace by Leo Tolstoy
+39. Anna Karenina by Leo Tolstoy
+40. Pride and Prejudice by Jane Austen
+41. Sense and Sensibility by Jane Austen
+42. Emma by Jane Austen
+43. Persuasion by Jane Austen
+44. Northanger Abbey by Jane Austen
+45. Wuthering Heights by Emily Bronte
+46. Jane Eyre by Charlotte Bronte
+47. Rebecca by Daphne du Maurier
+48. Gone with the Wind by Margaret Mitchell
+49. The Picture of Dorian Gray by Oscar Wilde
+50. Frankenstein by Mary Shelley

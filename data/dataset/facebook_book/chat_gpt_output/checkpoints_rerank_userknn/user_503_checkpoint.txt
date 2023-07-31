@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Nineteen Eighty-Four by George Orwell
+2. The Count of Monte Cristo by Alexandre Dumas
+3. Ulysses by James Joyce
+4. Don Quixote by Miguel de Cervantes
+5. The Hobbit by J.R.R. Tolkien
+6. The Catcher in the Rye by J.D. Salinger
+7. Brave New World by Aldous Huxley
+8. Lord of the Flies by William Golding
+9. The Glass Menagerie by Tennessee Williams
+10. The Sound and the Fury by William Faulkner
+11. A Clockwork Orange by Anthony Burgess
+12. In Cold Blood by Truman Capote
+13. The Giver by Lois Lowry
+14. The Grapes of Wrath by John Steinbeck
+15. Blindness by Jose Saramago
+16. The Magus by John Fowles
+17. The Power of Myth by Joseph Campbell
+18. The Sickness Unto Death by Soren Kierkegaard
+19. The Tibetan Book of Living and Dying by Sogyal Rinpoche
+20. The Zombie Survival Guide by Max Brooks
+21. Prometheus Rising by Robert Anton Wilson
+22. Reservation Blues by Sherman Alexie
+23. A Christmas Carol by Charles Dickens
+24. Fear and Trembling by Soren Kierkegaard
+25. Infinite Jest by David Foster Wallace
+26. Symposium by Plato
+27. Othello by William Shakespeare
+28. State of Fear by Michael Crichton
+29. The Book of the Law by Aleister Crowley
+30. Through the Looking-Glass by Lewis Carroll
+31. Genome by Matt Ridley
+32. Howl by Allen Ginsberg
+33. Civil Disobedience by Henry David Thoreau
+34. Das Nibelungenlied by Unknown
+35. Harry Potter by J.K. Rowling
+36. Timeline by Michael Crichton
+37. Airframe by Michael Crichton
+38. Gormenghast by Mervyn Peake
+39. For Whom the Bell Tolls by Ernest Hemingway
+40. The Phantom Tollbooth by Norton Juster
+41. The Selfish Gene by Richard Dawkins
+42. Self-Reliance by Ralph Waldo Emerson
+43. Sun Bin's Art of War by Sun Bin
+44. Steal This Book by Abbie Hoffman
+45. Thus Spoke Zarathustra by Friedrich Nietzsche
+46. Common Sense by Thomas Paine
+47. A Light in the Attic by Shel Silverstein
+48. The Social Contract by Jean-Jacques Rousseau
+49. Fast Food Nation by Eric Schlosser
+50. The Communist Manifesto by Karl Marx and Friedrich Engels

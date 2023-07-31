@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Harry Potter series by J.K. Rowling
+2. The Hobbit by J.R.R. Tolkien
+3. The Lord of the Rings by J.R.R. Tolkien
+4. A Series of Unfortunate Events by Lemony Snicket
+5. The Kite Runner by Khaled Hosseini
+6. Les Misérables by Victor Hugo
+7. Dracula by Bram Stoker
+8. Frankenstein by Mary Shelley
+9. The Stand by Stephen King
+10. Nineteen Eighty-Four by George Orwell
+11. The Silence of the Lambs by Thomas Harris
+12. Angels & Demons by Dan Brown
+13. The Da Vinci Code by Dan Brown
+14. Murder on the Orient Express by Agatha Christie
+15. Great Expectations by Charles Dickens
+16. A Wrinkle in Time by Madeleine L'Engle
+17. The Things They Carried by Tim O'Brien
+18. The Watchmen by Alan Moore
+19. The Little Prince by Antoine de Saint-Exupéry
+20. The Feminine Mystique by Betty Friedan
+21. The Autobiography of Malcolm X by Malcolm X
+22. The Purpose Driven Life by Rick Warren
+23. The Tao of Pooh by Benjamin Hoff
+24. The Antichrist by Friedrich Nietzsche
+25. Thus Spoke Zarathustra by Friedrich Nietzsche
+26. I Am Legend by Richard Matheson
+27. The Fire Within by Chris d'Lacey
+28. The Wardstone Chronicles by Joseph Delaney
+29. The Walking Dead by Robert Kirkman
+30. Sun Bin's Art of War by Sun Bin
+31. Oedipus the King by Sophocles
+32. A Midsummer Night's Dream by William Shakespeare
+33. The Swiss Family Robinson by Johann David Wyss
+34. Holes by Louis Sachar
+35. Johnny Tremain by Esther Forbes
+36. Among the Impostors by Margaret Peterson Haddix
+37. The Catcher in the Rye by J.D. Salinger
+38. The Rules of Attraction by Bret Easton Ellis
+39. Hannibal by Thomas Harris
+40. The Silmarillion by J.R.R. Tolkien
+41. Twilight series by Stephenie Meyer
+42. Goodnight Moon by Margaret Wise Brown
+43. Charlotte's Web by E.B. White
+44. To Kill a Mockingbird by Harper Lee
+45. Night by Elie Wiesel
+46. The Giver by Lois Lowry
+47. Magic Tree House series by Mary Pope Osborne
+48. The Magician's Nephew by C.S. Lewis
+49. The Old Man and the Sea by Ernest Hemingway
+50. The Lorax by Dr. Seuss

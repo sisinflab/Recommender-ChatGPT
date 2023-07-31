@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. U2
+2. Madonna
+3. Michael Jackson
+4. Amy Winehouse
+5. The Police
+6. Enigma
+7. Loreena McKennitt
+8. Pet Shop Boys
+9. Robbie Williams
+10. Simple Minds
+11. Santana
+12. Oasis
+13. Within Temptation
+14. Katie Melua
+15. Prince
+16. Sade
+17. The Smiths
+18. AC/DC
+19. George Michael
+20. Depeche Mode
+21. The Beatles
+22. Coldplay
+23. Muse
+24. Pink Floyd
+25. Radiohead
+26. Nirvana
+27. Led Zeppelin
+28. Metallica
+29. Iron Maiden
+30. Pearl Jam
+31. a-ha
+32. Björk
+33. Duran Duran
+34. Blur
+35. Arctic Monkeys
+36. Placebo
+37. The Killers
+38. System of a Down
+39. Daft Punk
+40. Nine Inch Nails
+41. Linkin Park
+42. Avril Lavigne
+43. Taylor Swift
+44. Katy Perry
+45. Lady Gaga
+46. Christina Aguilera
+47. Shakira
+48. Ke$ha
+49. Kelly Clarkson
+50. Black Eyed Peas

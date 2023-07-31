@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Foo Fighters
+2. Pearl Jam
+3. Santana
+4. Iron Maiden
+5. Garbage
+6. Blondie
+7. David Guetta
+8. Kasabian
+9. Duran Duran
+10. The Cardigans
+11. Nickelback
+12. Bush
+13. Shakira
+14. Jamiroquai
+15. The Mars Volta
+16. At the Drive-In
+17. Killing Joke
+18. Disturbed
+19. Yanni
+20. Armin van Buuren
+21. Zoé
+22. Emilíana Torrini
+23. Bat for Lashes
+24. Tori Amos
+25. Ellie Goulding
+26. Apocalyptica
+27. Inna
+28. Frank Sinatra
+29. t.A.T.u.
+30. Depeche Mode
+31. Björk
+32. Regina Spektor
+33. Fiona Apple
+34. Metric
+35. Yeah Yeah Yeahs
+36. The xx
+37. Death Cab for Cutie
+38. Radiohead
+39. Wilco
+40. Broken Social Scene
+41. Placebo
+42. The Used
+43. Fever Ray
+44. La Roux
+45. Stars
+46. M. Ward
+47. Thom Yorke
+48. The Album Leaf
+49. Florence + the Machine
+50. Sia

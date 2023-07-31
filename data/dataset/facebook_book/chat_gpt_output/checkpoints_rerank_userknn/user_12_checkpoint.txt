@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Uglies by Scott Westerfeld
+2. Specials by Scott Westerfeld
+3. Extras by Scott Westerfeld
+4. Pretties by Scott Westerfeld
+5. Thirteen Reasons Why by Jay Asher
+6. The Hunger Games by Suzanne Collins
+7. Divergent by Veronica Roth
+8. Lock and Key by Sarah Dessen
+9. Someone like You by Sarah Dessen
+10. This Lullaby by Sarah Dessen
+11. The Time Traveler's Wife by Audrey Niffenegger
+12. Memoirs of a Geisha by Arthur Golden
+13. The Host by Stephenie Meyer
+14. Twilight series by Stephenie Meyer
+15. PS, I Love You by Cecelia Ahern
+16. The Last Lecture by Randy Pausch
+17. Veronika Decides to Die by Paulo Coelho
+18. The Pact by Jodi Picoult
+19. Mansfield Park by Jane Austen
+20. Sense and Sensibility by Jane Austen
+21. Great Expectations by Charles Dickens
+22. Romeo and Juliet by William Shakespeare
+23. A Midsummer Night's Dream by William Shakespeare
+24. The Merchant of Venice by William Shakespeare
+25. The Awakening by Kate Chopin
+26. Leaving a Doll's House: A Memoir by Claire Bloom
+27. She's Come Undone by Wally Lamb
+28. The Things They Carried by Tim O'Brien
+29. In the Forests of the Night by Amelia Atwater-Rhodes
+30. The Song of the Lioness by Tamora Pierce
+31. A Demon in My View by Ruth Rendell
+32. The Thief of Always by Clive Barker
+33. Watchers by Dean Koontz
+34. The Passage by Justin Cronin
+35. Impulse economy by Paul Marsden
+36. The Last Storytellers: Tales from the Heart of Morocco by Richard Hamilton
+37. When I was Puerto Rican by Esmeralda Santiago
+38. Ghostgirl by Tonya Hurley
+39. Summer of the Monkeys by Wilson Rawls
+40. Moby-Dick by Herman Melville
+41. An Abundance of Katherines by John Green
+42. Looking for Alaska by John Green
+43. The Rules of Attraction by Bret Easton Ellis
+44. Extremely Loud and Incredibly Close by Jonathan Safran Foer
+45. Everything Is Illuminated by Jonathan Safran Foer
+46. Unwind by Neal Shusterman
+47. Where the Sidewalk Ends by Shel Silverstein
+48. Keeping the Moon by Sarah Dessen
+49. So B. It by Sarah Weeks
+50. Crank by Ellen Hopkins

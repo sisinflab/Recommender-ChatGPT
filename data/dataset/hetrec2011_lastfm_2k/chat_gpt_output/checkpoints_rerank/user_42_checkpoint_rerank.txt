@@ -1,0 +1,54 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Muse
+2. Radiohead
+3. Evanescence
+4. Snow Patrol
+5. Travis
+6. Damien Rice
+7. Keane
+8. White Lies
+9. James Blunt
+10. Nickelback
+11. The Fray
+12. Franz Ferdinand
+13. Kelly Clarkson
+14. Jimmy Eat World
+15. Blue October
+16. David Gray
+17. Imogen Heap
+18. Rihanna
+19. The Verve
+20. Yeah Yeah Yeahs
+21. Placebo
+22. Interpol
+23. Thirteen Senses
+24. Kings of Leon
+25. Pink
+26. U2
+27. The Kooks
+28. Lady Gaga
+29. Coldplay
+30. Blur
+31. Arctic Monkeys
+32. The Killers
+33. Nirvana
+34. Iron Maiden
+35. Led Zeppelin
+36. Metallica
+37. Michael Jackson
+38. Pearl Jam
+39. a-ha
+40. Björk
+41. System of a Down
+42. Daft Punk
+43. Nine Inch Nails
+44. Linkin Park
+45. All Time Low
+46. P!nk
+47. Avenged Sevenfold
+48. My Chemical Romance
+49. Green Day
+50. The Cure
+
+Note: The artists that were not mentioned in the user's preferences were not included in the recommendations.

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Beatles
+2. Oasis
+3. Coldplay
+4. Eric Clapton
+5. Elvis Presley
+6. Keane
+7. Simon & Garfunkel
+8. The Beach Boys
+9. Razorlight
+10. Nirvana
+11. Jimmy Eat World
+12. We Are Scientists
+13. The Kinks
+14. Michael Jackson
+15. The Killers
+16. My Chemical Romance
+17. Muse
+18. Kings of Leon
+19. Bob Marley
+20. The Rolling Stones
+21. Buddy Holly
+22. Van Morrison
+23. Neil Young
+24. Paul McCartney
+25. John Lennon
+26. Metallica
+27. Foo Fighters
+28. Demi Lovato
+29. Alanis Morissette
+30. R.E.M.
+31. Three Days Grace
+32. Eagles
+33. Taylor Swift
+34. David Gilmour
+35. Bruce Springsteen
+36. Leonard Cohen
+37. U2
+38. Stevie Ray Vaughan and Double Trouble
+39. Buddy Guy
+40. Weird Al Yankovic
+41. AC/DC
+42. 30 Seconds to Mars
+43. Spice Girls
+44. ABBA
+45. Eminem
+46. Justin Timberlake
+47. Stevie Ray Vaughan
+48. Megadeth
+49. White Lies
+50. Arctic Monkeys

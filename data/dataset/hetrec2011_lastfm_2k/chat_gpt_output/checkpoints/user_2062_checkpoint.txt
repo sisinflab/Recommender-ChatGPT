@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Muse
+3. Arcade Fire
+4. The National
+5. Bon Iver
+6. Sigur Rós
+7. The Postal Service
+8. Death Cab for Cutie
+9. Sufjan Stevens
+10. Fleet Foxes
+11. The Shins
+12. Vampire Weekend
+13. The Lumineers
+14. Mumford & Sons
+15. Of Monsters and Men
+16. Edward Sharpe & The Magnetic Zeros
+17. The Avett Brothers
+18. Iron & Wine
+19. Beirut
+20. The Head and the Heart
+21. The Tallest Man on Earth
+22. Band of Horses
+23. The xx
+24. Alt-J
+25. Grizzly Bear
+26. Animal Collective
+27. Beach House
+28. Tame Impala
+29. Foals
+30. Bombay Bicycle Club
+31. Two Door Cinema Club
+32. Phoenix
+33. The Black Keys
+34. Arctic Monkeys
+35. Franz Ferdinand
+36. The Strokes
+37. Kings of Leon
+38. The Killers
+39. Cold War Kids
+40. Spoon
+41. The Decemberists
+42. Belle and Sebastian
+43. The Flaming Lips
+44. Wilco
+45. My Morning Jacket
+46. Fleetwood Mac
+47. Tom Petty and the Heartbreakers
+48. Bruce Springsteen
+49. Bob Dylan
+50. Neil Young

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for this user are:
+
+1. Katy Perry
+2. Muse
+3. Coldplay
+4. Linkin Park
+5. Mariah Carey
+6. Britney Spears
+7. Alanis Morissette
+8. Good Charlotte
+9. Simple Plan
+10. The Veronicas
+11. Beyoncé
+12. Pink
+13. Taylor Swift
+14. All Time Low
+15. Ashley Tisdale
+16. Vanessa Hudgens
+17. Adam Lambert
+18. Nelly Furtado
+19. Aly & AJ
+20. Mandy Moore
+21. Katharine McPhee
+22. Joss Stone
+23. Céline Dion
+24. Jessie J
+25. Delta Goodrem
+26. Hilary Duff
+27. Natalie Imbruglia
+28. Rihanna
+29. Backstreet Boys
+30. Ke$ha
+31. Sugababes
+32. Natasha Bedingfield
+33. Selena Gomez & the Scene
+34. Paramore
+35. The Pussycat Dolls
+36. Lady Gaga
+37. Leona Lewis
+38. Girls Aloud
+39. Eminem
+40. Chris Brown
+41. Dido
+42. Lindsay Lohan
+43. Hans Zimmer
+44. David Archuleta
+45. The Saturdays
+46. JoJo
+47. Metallica
+48. Queen
+49. Glee Cast
+50. Miley Cyrus

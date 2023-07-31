@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Coldplay
+2. Ed Sheeran
+3. Taylor Swift
+4. Maroon 5
+5. OneRepublic
+6. Imagine Dragons
+7. Adele
+8. Bruno Mars
+9. Justin Timberlake
+10. Shawn Mendes
+11. Ariana Grande
+12. Sam Smith
+13. Katy Perry
+14. The Script
+15. Train
+16. Jason Mraz
+17. James Bay
+18. Hozier
+19. Vance Joy
+20. The Lumineers
+21. Mumford & Sons
+22. Florence + The Machine
+23. Of Monsters and Men
+24. The Head and the Heart
+25. Death Cab for Cutie
+26. The Postal Service
+27. Vampire Weekend
+28. Phoenix
+29. The Shins
+30. Fleet Foxes
+31. Sufjan Stevens
+32. Bon Iver
+33. Iron & Wine
+34. José González
+35. Damien Rice
+36. Ray LaMontagne
+37. Ben Howard
+38. James Blunt
+39. David Gray
+40. Jack Johnson
+41. John Mayer Trio
+42. Ben Folds
+43. Regina Spektor
+44. Ingrid Michaelson
+45. Sara Bareilles
+46. Colbie Caillat
+47. Norah Jones
+48. Alicia Keys
+49. John Legend
+50. Michael Bublé

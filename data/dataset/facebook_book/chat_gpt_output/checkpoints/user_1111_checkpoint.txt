@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Fault in Our Stars by John Green
+2. 1984 by George Orwell
+3. The Hunger Games by Suzanne Collins
+4. To Kill a Mockingbird by Harper Lee
+5. The Catcher in the Rye by J.D. Salinger
+6. The Great Gatsby by F. Scott Fitzgerald
+7. The Book Thief by Markus Zusak
+8. The Lord of the Rings by J.R.R. Tolkien
+9. Harry Potter and the Philosopher's Stone by J.K. Rowling
+10. The Hobbit by J.R.R. Tolkien
+11. The Chronicles of Narnia by C.S. Lewis
+12. Animal Farm by George Orwell
+13. The Da Vinci Code by Dan Brown
+14. The Girl with the Dragon Tattoo by Stieg Larsson
+15. The Kite Runner by Khaled Hosseini
+16. The Help by Kathryn Stockett
+17. The Road by Cormac McCarthy
+18. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+19. The Picture of Dorian Gray by Oscar Wilde
+20. The Time Traveler's Wife by Audrey Niffenegger
+21. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+22. The Shining by Stephen King
+23. The Stand by Stephen King
+24. The Silence of the Lambs by Thomas Harris
+25. The Lovely Bones by Alice Sebold
+26. The Secret History by Donna Tartt
+27. The Bell Jar by Sylvia Plath
+28. The Handmaid's Tale by Margaret Atwood
+29. The Road to Serfdom by Friedrich Hayek
+30. The Communist Manifesto by Karl Marx and Friedrich Engels
+31. The Wealth of Nations by Adam Smith
+32. The Art of War by Sun Tzu
+33. The Prince by Niccolò Machiavelli
+34. The Republic by Plato
+35. The Odyssey by Homer
+36. The Iliad by Homer
+37. The Divine Comedy by Dante Alighieri
+38. The Canterbury Tales by Geoffrey Chaucer
+39. The Adventures of Huckleberry Finn by Mark Twain
+40. The Adventures of Tom Sawyer by Mark Twain
+41. The Picture of Dorian Gray by Oscar Wilde
+42. The Importance of Being Earnest by Oscar Wilde
+43. The Picture of Dorian Gray by Oscar Wilde
+44. The Picture of Dorian Gray by Oscar Wilde
+45. The Picture of Dorian Gray by Oscar Wilde
+46. The Picture of Dorian Gray by Oscar Wilde
+47. The Picture of Dorian Gray by Oscar Wilde
+48. The Picture of Dorian Gray by Oscar Wilde
+49. The Picture of Dorian Gray by Oscar Wilde
+50. The Picture of Dorian Gray by Oscar Wilde

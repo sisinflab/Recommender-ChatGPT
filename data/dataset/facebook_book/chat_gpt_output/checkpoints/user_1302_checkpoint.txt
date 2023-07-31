@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. Pride and Prejudice by Jane Austen
+4. The Catcher in the Rye by J.D. Salinger
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Animal Farm by George Orwell
+7. The Hobbit by J.R.R. Tolkien
+8. The Fellowship of the Ring by J.R.R. Tolkien
+9. The Two Towers by J.R.R. Tolkien
+10. The Return of the King by J.R.R. Tolkien
+11. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+12. The Alchemist by Paulo Coelho
+13. The Little Prince by Antoine de Saint-Exupéry
+14. The Picture of Dorian Gray by Oscar Wilde
+15. The Count of Monte Cristo by Alexandre Dumas
+16. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+17. The Hound of the Baskervilles by Arthur Conan Doyle
+18. The Da Vinci Code by Dan Brown
+19. Angels and Demons by Dan Brown
+20. The Girl with the Dragon Tattoo by Stieg Larsson
+21. The Hunger Games by Suzanne Collins
+22. Catching Fire by Suzanne Collins
+23. Mockingjay by Suzanne Collins
+24. The Road by Cormac McCarthy
+25. The Name of the Wind by Patrick Rothfuss
+26. The Wise Man's Fear by Patrick Rothfuss
+27. The Dark Tower I: The Gunslinger by Stephen King
+28. The Dark Tower II: The Drawing of the Three by Stephen King
+29. The Dark Tower III: The Waste Lands by Stephen King
+30. The Dark Tower IV: Wizard and Glass by Stephen King
+31. The Dark Tower V: Wolves of the Calla by Stephen King
+32. The Dark Tower VI: Song of Susannah by Stephen King
+33. The Dark Tower VII: The Dark Tower by Stephen King
+34. The Stand by Stephen King
+35. The Shining by Stephen King
+36. It by Stephen King
+37. The Silence of the Lambs by Thomas Harris
+38. Red Dragon by Thomas Harris
+39. Hannibal by Thomas Harris
+40. The Bourne Identity by Robert Ludlum
+41. The Bourne Supremacy by Robert Ludlum
+42. The Bourne Ultimatum by Robert Ludlum
+43. The Girl on the Train by Paula Hawkins
+44. Gone Girl by Gillian Flynn
+45. The Martian by Andy Weir
+46. Ready Player One by Ernest Cline
+47. Ender's Game by Orson Scott Card
+48. The Maze Runner by James Dashner
+49. The Giver by Lois Lowry
+50. The Fault in Our Stars by

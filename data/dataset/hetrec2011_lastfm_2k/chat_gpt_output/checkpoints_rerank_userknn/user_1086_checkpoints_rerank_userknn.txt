@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Beatles
+2. Billy Joel
+3. Elton John
+4. Simon & Garfunkel
+5. Bob Dylan
+6. Gavin DeGraw
+7. John Mayer
+8. Hanson
+9. The Beach Boys
+10. Elvis Costello
+11. Alanis Morissette
+12. The Kinks
+13. Matchbox Twenty
+14. Avril Lavigne
+15. Fiona Apple
+16. Ryan Cabrera
+17. Imogen Heap
+18. Jonas Brothers
+19. The Rocket Summer
+20. Interpol
+21. No Doubt
+22. Michael Jackson
+23. Madonna
+24. Britney Spears
+25. Cobra Starship
+26. Katy Perry
+27. Rihanna
+28. The Killers
+29. My Chemical Romance
+30. Paramore
+31. Lady Gaga
+32. Ke$ha
+33. P!nk
+34. Adele
+35. Beyoncé
+36. Christina Aguilera
+37. Demi Lovato
+38. Selena Gomez & the Scene
+39. Taylor Swift
+40. Owl City
+41. Lights
+42. Colbie Caillat
+43. R.E.M.
+44. Shakira
+45. David Archuleta
+46. Emily Osment
+47. Ellie Goulding
+48. The National
+49. Manic Street Preachers
+50. Leona Lewis

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. The Catcher in the Rye by J.D. Salinger
+4. To Kill a Mockingbird by Harper Lee
+5. The Great Gatsby by F. Scott Fitzgerald
+6. One Hundred Years of Solitude by Gabriel Garcia Marquez
+7. The Bell Jar by Sylvia Plath
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Stranger by Albert Camus
+10. The Road by Cormac McCarthy
+11. The Handmaid's Tale by Margaret Atwood
+12. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+13. The Sun Also Rises by Ernest Hemingway
+14. The Old Man and the Sea by Ernest Hemingway
+15. The Grapes of Wrath by John Steinbeck
+16. The Lord of the Rings by J.R.R. Tolkien
+17. The Hobbit by J.R.R. Tolkien
+18. The Chronicles of Narnia by C.S. Lewis
+19. The Da Vinci Code by Dan Brown
+20. Angels and Demons by Dan Brown
+21. The Girl with the Dragon Tattoo by Stieg Larsson
+22. The Hunger Games by Suzanne Collins
+23. Catching Fire by Suzanne Collins
+24. Mockingjay by Suzanne Collins
+25. The Maze Runner by James Dashner
+26. The Fault in Our Stars by John Green
+27. Looking for Alaska by John Green
+28. Paper Towns by John Green
+29. The Book Thief by Markus Zusak
+30. The Kite Runner by Khaled Hosseini
+31. A Thousand Splendid Suns by Khaled Hosseini
+32. The Lovely Bones by Alice Sebold
+33. The Help by Kathryn Stockett
+34. The Secret Life of Bees by Sue Monk Kidd
+35. The Color Purple by Alice Walker
+36. The Joy Luck Club by Amy Tan
+37. The God of Small Things by Arundhati Roy
+38. Life of Pi by Yann Martel
+39. The Time Traveler's Wife by Audrey Niffenegger
+40. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+41. The Picture of Dorian Gray by Oscar Wilde
+42. The Count of Monte Cristo by Alexandre Dumas
+43. Les Miserables by Victor Hugo
+44. War and Peace by Leo Tolstoy
+45. Crime and Punishment by Fyodor Dostoevsky
+46. Anna Karenina by Leo Tolstoy
+47. The Brothers Karamazov by Fyodor Dostoevsky
+48. Don Quixote by Miguel de Cervantes
+49. The Canterbury Tales by Geoffrey Chaucer
+50

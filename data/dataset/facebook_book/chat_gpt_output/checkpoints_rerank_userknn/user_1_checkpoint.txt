@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Nineteen Eighty-Four by George Orwell
+2. The Outsiders by S.E. Hinton
+3. The Fountainhead by Ayn Rand
+4. The Prince by Niccolò Machiavelli
+5. Macbeth by William Shakespeare
+6. Frankenstein by Mary Shelley
+7. A Farewell to Arms by Ernest Hemingway
+8. Dune by Frank Herbert
+9. The Brothers Karamazov by Fyodor Dostoyevsky
+10. Lolita by Vladimir Nabokov
+11. The Great Divorce by C.S. Lewis
+12. Alice's Adventures in Wonderland by Lewis Carroll
+13. The Sound and the Fury by William Faulkner
+14. Invisible Man by Ralph Ellison
+15. Demian by Hermann Hesse
+16. The Iliad by Homer
+17. Interview with the Vampire by Anne Rice
+18. The Awakening by Kate Chopin
+19. Thirteen Reasons Why by Jay Asher
+20. Paradise Lost by John Milton
+21. The Little Prince by Antoine de Saint-Exupéry
+22. The Tenth Circle by Jodi Picoult
+23. A Tree Grows in Brooklyn by Betty Smith
+24. Twenty Thousand Leagues Under the Sea by Jules Verne
+25. Notes from Underground by Fyodor Dostoyevsky
+26. Les Misérables by Victor Hugo
+27. The Stranger by Albert Camus
+28. Sin City by Frank Miller
+29. The Trial by Franz Kafka
+30. Mark of the Lion Series by Francine Rivers
+31. Chronicle of a Death Foretold by Gabriel García Márquez
+32. The Watchmen by Alan Moore
+33. Till We Have Faces by C.S. Lewis
+34. The Bean Trees by Barbara Kingsolver
+35. A Tale of Two Cities by Charles Dickens
+36. Goethe's Faust by Johann Wolfgang von Goethe
+37. The Giver by Lois Lowry
+38. Les Fleurs du mal by Charles Baudelaire
+39. A Passage to India by E.M. Forster
+40. The Great Gatsby by F. Scott Fitzgerald
+41. Crime and Punishment by Fyodor Dostoyevsky
+42. Choke by Chuck Palahniuk
+43. The Shadow of the Wind by Carlos Ruiz Zafón
+44. The Picture of Dorian Gray by Oscar Wilde
+45. Musashi by Eiji Yoshikawa
+46. The Catcher in the Rye by J.D. Salinger
+47. Dracula by Bram Stoker
+48. Brave New World by Aldous Huxley
+49. The Unbearable Lightness of Being by Milan Kundera
+50. Inkheart by Cornelia Funke

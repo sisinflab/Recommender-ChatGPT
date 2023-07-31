@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Maze Runner by James Dashner
+4. The Giver by Lois Lowry
+5. The Fault in Our Stars by John Green
+6. The Book Thief by Markus Zusak
+7. The Selection by Kiera Cass
+8. Legend by Marie Lu
+9. Matched by Ally Condie
+10. Delirium by Lauren Oliver
+11. The Mortal Instruments by Cassandra Clare
+12. The Infernal Devices by Cassandra Clare
+13. Percy Jackson and the Olympians by Rick Riordan
+14. Heroes of Olympus by Rick Riordan
+15. The Kane Chronicles by Rick Riordan
+16. The Chronicles of Narnia by C.S. Lewis
+17. Harry Potter series by J.K. Rowling
+18. The Lord of the Rings by J.R.R. Tolkien
+19. The Hobbit by J.R.R. Tolkien
+20. The Chronicles of Prydain by Lloyd Alexander
+21. The Dark is Rising by Susan Cooper
+22. The Secret Series by Enid Blyton
+23. The Famous Five by Enid Blyton
+24. The Secret Seven by Enid Blyton
+25. The Hardy Boys by Franklin W. Dixon
+26. Nancy Drew by Carolyn Keene
+27. The Babysitters Club by Ann M. Martin
+28. Goosebumps by R.L. Stine
+29. Animorphs by K.A. Applegate
+30. The Magic Tree House by Mary Pope Osborne
+31. A Series of Unfortunate Events by Lemony Snicket
+32. The Spiderwick Chronicles by Tony DiTerlizzi and Holly Black
+33. The Pendragon Adventure by D.J. MacHale
+34. The Ranger's Apprentice by John Flanagan
+35. The Secrets of the Immortal Nicholas Flamel by Michael Scott
+36. The Bartimaeus Trilogy by Jonathan Stroud
+37. The Inheritance Cycle by Christopher Paolini
+38. The Dark Tower by Stephen King
+39. The Stand by Stephen King
+40. The Shining by Stephen King
+41. The Girl with the Dragon Tattoo by Stieg Larsson
+42. The Da Vinci Code by Dan Brown
+43. Angels and Demons by Dan Brown
+44. The Bourne Identity by Robert Ludlum
+45. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+46. The Catcher in the Rye by J.D. Salinger
+47. To Kill a Mockingbird by Harper Lee
+48. 1984 by George Orwell
+49. Animal Farm by George Orwell
+50. Brave New World by Aldous Huxley

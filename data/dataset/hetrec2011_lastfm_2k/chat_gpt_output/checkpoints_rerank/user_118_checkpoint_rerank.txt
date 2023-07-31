@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Korn
+2. Machine Head
+3. Disturbed
+4. Five Finger Death Punch
+5. Black Label Society
+6. In Flames
+7. Three Days Grace
+8. Dope
+9. Guano Apes
+10. The 69 Eyes
+11. Avenged Sevenfold
+12. Linkin Park
+13. Atreyu
+14. Thousand Foot Krutch
+15. Good Charlotte
+16. The Offspring
+17. In This Moment
+18. Adema
+19. Eyes Set to Kill
+20. Paramore
+21. Pain
+22. Edguy
+23. Simple Plan
+24. Evanescence
+25. Muse
+26. 30 Seconds to Mars
+27. Nirvana
+28. Iron Maiden
+29. Metallica
+30. Pearl Jam
+31. Led Zeppelin
+32. Michael Jackson
+33. U2
+34. The Beatles
+35. Coldplay
+36. Pink Floyd
+37. Radiohead
+38. Duran Duran
+39. Arctic Monkeys
+40. Placebo
+41. The Killers
+42. My Chemical Romance
+43. Green Day
+44. The Cure
+45. Nine Inch Nails
+46. Daft Punk
+47. Björk
+48. a-ha
+49. Black Eyed Peas
+50. P!nk

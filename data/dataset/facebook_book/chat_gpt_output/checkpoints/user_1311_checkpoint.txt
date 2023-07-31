@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Divergent by Veronica Roth
+2. The Fault in Our Stars by John Green
+3. The Maze Runner by James Dashner
+4. The Giver by Lois Lowry
+5. The Selection by Kiera Cass
+6. The Mortal Instruments series by Cassandra Clare
+7. The Infernal Devices series by Cassandra Clare
+8. The Twilight Saga by Stephenie Meyer
+9. The Hunger Games Trilogy by Suzanne Collins
+10. The Vampire Diaries series by L.J. Smith
+11. The Secret Circle series by L.J. Smith
+12. The Dark Divine by Bree Despain
+13. The Iron Fey series by Julie Kagawa
+14. The Chemical Garden Trilogy by Lauren DeStefano
+15. The 5th Wave by Rick Yancey
+16. The Lunar Chronicles by Marissa Meyer
+17. The Darkest Minds by Alexandra Bracken
+18. The Selection series by Kiera Cass
+19. The Lux series by Jennifer L. Armentrout
+20. The Shatter Me series by Tahereh Mafi
+21. The Delirium Trilogy by Lauren Oliver
+22. The Legend Trilogy by Marie Lu
+23. The Maze Runner series by James Dashner
+24. The Giver Quartet by Lois Lowry
+25. The Uglies series by Scott Westerfeld
+26. The Matched Trilogy by Ally Condie
+27. The Chemical Garden series by Lauren DeStefano
+28. The Testing Trilogy by Joelle Charbonneau
+29. The Unbecoming of Mara Dyer by Michelle Hodkin
+30. The Mara Dyer Trilogy by Michelle Hodkin
+31. The Selection Novellas by Kiera Cass
+32. The Heir by Kiera Cass
+33. The Crown by Kiera Cass
+34. The Red Queen by Victoria Aveyard
+35. The Glass Sword by Victoria Aveyard
+36. The King's Cage by Victoria Aveyard
+37. The Hunger Games by Suzanne Collins
+38. Catching Fire by Suzanne Collins
+39. Mockingjay by Suzanne Collins
+40. The Twilight Saga: New Moon by Stephenie Meyer
+41. The Twilight Saga: Eclipse by Stephenie Meyer
+42. The Twilight Saga: Breaking Dawn by Stephenie Meyer
+43. The Host by Stephenie Meyer
+44. The Mediator series by Meg Cabot
+45. The Princess Diaries series by Meg Cabot
+46. The Little Mermaid by Hans Christian Andersen
+47. The Snow Queen by Hans Christian Andersen
+48. The Complete Grimm's Fairy Tales by Jacob Grimm and Wilhelm Grimm
+49. The Complete Hans Christian Andersen Fairy Tales by Hans Christian Andersen
+50. The Complete Tales of Beatrix Potter by Beatrix Potter

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. Pink Floyd
+3. Muse
+4. Nirvana
+5. Led Zeppelin
+6. The Beatles
+7. Nine Inch Nails
+8. Björk
+9. Tool
+10. Mogwai
+11. Explosions in the Sky
+12. Sigur Rós
+13. The Mars Volta
+14. Deftones
+15. Isis
+16. A Perfect Circle
+17. The Fall of Troy
+18. Circa Survive
+19. She & Him
+20. Thom Yorke
+21. Emilíana Torrini
+22. MGMT
+23. Boards of Canada
+24. Flying Lotus
+25. Autechre
+26. deadmau5
+27. Benny Benassi
+28. DJ Shadow
+29. Erykah Badu
+30. Prince
+31. Miles Davis
+32. Amy Winehouse
+33. Michael Jackson
+34. Madonna
+35. Beyoncé
+36. Rihanna
+37. Lady Gaga
+38. Shakira
+39. Christina Aguilera
+40. Britney Spears
+41. Katy Perry
+42. Taylor Swift
+43. Avril Lavigne
+44. Miley Cyrus
+45. Ke$ha
+46. P!nk
+47. Kelly Clarkson
+48. Paramore
+49. My Chemical Romance
+50. Green Day

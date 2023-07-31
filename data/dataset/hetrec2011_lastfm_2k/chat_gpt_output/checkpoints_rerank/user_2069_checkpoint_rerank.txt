@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Florence + the Machine
+2. A Fine Frenzy
+3. Emilie Autumn
+4. Kent
+5. The Veronicas
+6. Tegan and Sara
+7. Something Corporate
+8. Avenged Sevenfold
+9. Fresno
+10. Evanescence
+11. My Chemical Romance
+12. Kerli
+13. Nine Inch Nails
+14. Panic! At the Disco
+15. The Dresden Dolls
+16. Augustana
+17. Kate Nash
+18. The Libertines
+19. Arctic Monkeys
+20. Alanis Morissette
+21. Apocalyptica
+22. Snow Patrol
+23. Silverchair
+24. HIM
+25. Sixx:A.M.
+26. Fall Out Boy
+27. Slipknot
+28. Muse
+29. Eminem
+30. Escape The Fate
+31. Jay Vaquer
+32. Duffy
+33. Paramore
+34. Lady Gaga
+35. Pink Floyd
+36. Radiohead
+37. Muse
+38. Nirvana
+39. Metallica
+40. Led Zeppelin
+41. Iron Maiden
+42. Pearl Jam
+43. System of a Down
+44. Nine Inch Nails
+45. Linkin Park
+46. My Chemical Romance
+47. Green Day
+48. The Cure
+49. All Time Low
+50. Avenged Sevenfold

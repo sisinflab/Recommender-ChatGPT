@@ -1,0 +1,46 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Guilty Pleasures (novel) by Laurell K. Hamilton
+2. The Laughing Corpse (novel) by Laurell K. Hamilton
+3. Circus of the Damned (novel) by Laurell K. Hamilton
+4. The Lunatic Cafe (novel) by Laurell K. Hamilton
+5. Bloody Bones (novel) by Laurell K. Hamilton
+6. The Killing Dance (novel) by Laurell K. Hamilton
+7. Burnt Offerings (novel) by Laurell K. Hamilton
+8. Blue Is for Nightmares (series) by Laurie Faria Stolarz
+9. White Is for Magic (series) by Laurie Faria Stolarz
+10. Silver Is for Secrets (series) by Laurie Faria Stolarz
+11. Red Is for Remembrance (series) by Laurie Faria Stolarz
+12. A Great and Terrible Beauty by Libba Bray
+13. Rebel Angels by Libba Bray
+14. The Sweet Far Thing by Libba Bray
+15. The Lake House (novel) by James Patterson
+16. Violets Are Blue (novel) by James Patterson
+17. Roses Are Red (novel) by James Patterson
+18. Along Came a Spider (novel) by James Patterson
+19. Kiss the Girls (novel) by James Patterson
+20. Obsidian Butterfly by Laurell K. Hamilton
+21. Narcissus in Chains by Laurell K. Hamilton
+22. Cerulean Sins by Laurell K. Hamilton
+23. Incubus Dreams by Laurell K. Hamilton
+24. Micah by Laurell K. Hamilton
+25. Danse Macabre by Laurell K. Hamilton
+26. The City (book) by Max Weber
+27. The Protestant Ethic and the Spirit of Capitalism by Max Weber
+28. The Theory of Social and Economic Organization by Max Weber
+29. The Division of Labor in Society by Emile Durkheim
+30. Suicide: A Study in Sociology by Emile Durkheim
+31. The Elementary Forms of Religious Life by Emile Durkheim
+32. The Social Contract by Jean-Jacques Rousseau
+33. The Wealth of Nations by Adam Smith
+34. Leviathan by Thomas Hobbes
+35. The Prince by Niccolo Machiavelli
+36. The Republic by Plato
+37. The Nicomachean Ethics by Aristotle
+38. The Odyssey by Homer
+39. The Iliad by Homer
+40. The Divine Comedy by Dante Alighieri
+41. Don Quixote by Miguel de Cervantes
+42. Pride and Prejudice by Jane Austen
+43. Wuthering Heights by Emily Bronte
+44. Jane Eyre by Charlotte

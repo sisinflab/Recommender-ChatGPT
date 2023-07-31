@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Nightwish
+2. Kamelot
+3. Epica
+4. Within Temptation
+5. Iron Maiden
+6. Dire Straits
+7. Scorpions
+8. Angra
+9. Tarja
+10. Avantasia
+11. Sonata Arctica
+12. Apocalyptica
+13. Anathema
+14. Pink Floyd
+15. Sarah Brightman
+16. Andrea Bocelli
+17. Era
+18. David Guetta
+19. Yann Tiersen
+20. Dave Matthews Band
+21. Tiësto
+22. Britney Spears
+23. Evanescence
+24. U2
+25. Lacuna Coil
+26. Rammstein
+27. Madonna
+28. Demi Lovato
+29. Lady Gaga
+30. Whitney Houston
+31. Motörhead
+32. Johnny Cash
+33. In Flames
+34. Paramore
+35. Journey
+36. Kylie Minogue
+37. Tori Amos
+38. Judas Priest
+39. Pain
+40. Manowar
+41. Korpiklaani
+42. Children of Bodom
+43. Hans Zimmer
+44. Rihanna
+45. In This Moment
+46. My Chemical Romance
+47. AC/DC
+48. Korn
+49. Arch Enemy
+50. Opeth

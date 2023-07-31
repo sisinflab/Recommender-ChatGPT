@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter
+2. The Lord of the Rings
+3. Inkheart
+4. Inkspell
+5. Eragon
+6. Brisingr
+7. The Hobbit
+8. Twilight (series)
+9. Vampire Academy (novel)
+10. Memoirs of a Geisha
+11. Atonement (novel)
+12. The Secret Garden
+13. Alice's Adventures in Wonderland
+14. The Phantom Tollbooth
+15. Charlie and the Chocolate Factory
+16. Tithe: A Modern Faerie Tale
+17. Evermore (book)
+18. Sunshine (novel)
+19. The Alchemist (novel)
+20. The Time Traveler's Wife
+21. Angels & Demons
+22. Digital Fortress
+23. The Da Vinci Code
+24. The Name of the Rose
+25. Lolita
+26. To Kill a Mockingbird
+27. The Importance of Being Earnest
+28. Island (book)
+29. The Lovely Bones
+30. A Thousand Splendid Suns
+31. Midnight Sun (novel)
+32. Jinx (novel)
+33. Bloody Jack (novel)
+34. The Morganville Vampires
+35. Vampirates
+36. The Mist
+37. City of Ashes
+38. The Silmarillion
+39. The Lion, the Witch and the Wardrobe
+40. Love Story (novel)
+41. Helter Skelter (book)
+42. To a God Unknown
+43. Cloud Atlas (novel)
+44. Great Expectations
+45. Jane Eyre
+46. The Host (novel)
+47. Gormenghast (novel)
+48. Bored of the Rings
+49. The Call of the Wild
+50. Sun Bin's Art of War

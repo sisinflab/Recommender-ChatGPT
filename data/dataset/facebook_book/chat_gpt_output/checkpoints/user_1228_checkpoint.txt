@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Neuromancer by William Gibson
+2. Snow Crash by Neal Stephenson
+3. Hyperion by Dan Simmons
+4. The Name of the Wind by Patrick Rothfuss
+5. The Martian by Andy Weir
+6. Red Rising by Pierce Brown
+7. The Hunger Games by Suzanne Collins
+8. The Lord of the Rings by J.R.R. Tolkien
+9. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+10. The Foundation Trilogy by Isaac Asimov
+11. The Dark Tower series by Stephen King
+12. The Wheel of Time series by Robert Jordan
+13. The Expanse series by James S.A. Corey
+14. The First Law Trilogy by Joe Abercrombie
+15. The Lies of Locke Lamora by Scott Lynch
+16. The Kingkiller Chronicle by Patrick Rothfuss
+17. The Malazan Book of the Fallen by Steven Erikson
+18. The Mistborn Trilogy by Brandon Sanderson
+19. The Stormlight Archive by Brandon Sanderson
+20. The Chronicles of Narnia by C.S. Lewis
+21. The Earthsea Cycle by Ursula K. Le Guin
+22. The Culture series by Iain M. Banks
+23. The Vorkosigan Saga by Lois McMaster Bujold
+24. The Dresden Files by Jim Butcher
+25. The Belgariad by David Eddings
+26. The Sword of Truth series by Terry Goodkind
+27. The Black Company by Glen Cook
+28. The Chronicles of Amber by Roger Zelazny
+29. The Hyperion Cantos by Dan Simmons
+30. The Culture series by Iain M. Banks
+31. The Vorkosigan Saga by Lois McMaster Bujold
+32. The Dresden Files by Jim Butcher
+33. The Belgariad by David Eddings
+34. The Sword of Truth series by Terry Goodkind
+35. The Black Company by Glen Cook
+36. The Chronicles of Amber by Roger Zelazny
+37. The Hyperion Cantos by Dan Simmons
+38. The Culture series by Iain M. Banks
+39. The Vorkosigan Saga by Lois McMaster Bujold
+40. The Dresden Files by Jim Butcher
+41. The Belgariad by David Eddings
+42. The Sword of Truth series by Terry Goodkind
+43. The Black Company by Glen Cook
+44. The Chronicles of Amber by Roger Zelazny
+45. The Hyperion Cantos by Dan Simmons
+46. The Culture series by Iain M. Banks
+47. The Vorkosigan Saga by Lois McMaster Bujold
+48. The Dresden Files by Jim Butcher
+49. The Belgariad by David Eddings
+50. The Sword of Truth series by Terry Goodkind

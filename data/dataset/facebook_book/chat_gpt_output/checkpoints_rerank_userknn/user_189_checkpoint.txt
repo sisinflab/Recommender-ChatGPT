@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye
+2. Nineteen Eighty-Four
+3. Lord of the Flies
+4. Frankenstein
+5. Crime and Punishment
+6. Dracula
+7. The Picture of Dorian Gray
+8. The Kite Runner
+9. War and Peace
+10. The Lord of the Rings
+11. Middlesex (novel)
+12. The Gargoyle (novel)
+13. Demian by Hermann Hesse
+14. Dandelion Wine by Ray Bradbury
+15. A Thousand Splendid Suns by Khaled Hosseini
+16. Night (book) by Elie Wiesel
+17. Misery (novel) by Stephen King
+18. Inheritance (novel)
+19. The Onion Girl by Charles De Lint
+20. Ingo (novel) by Helen Dunmore
+21. The Curious Incident of the Dog in the Night-Time
+22. The Pearl (novel)
+23. Wake (Lisa McMann novel)
+24. Twilight (series)
+25. The Wardstone Chronicles
+26. Jane Eyre
+27. The Da Vinci Code
+28. Heavier Than Heaven
+29. Walden
+30. Duma Key
+31. The Queen's Fool
+32. Ulysses (novel)
+33. Book of Revelation
+34. Black Dagger Brotherhood
+35. Halo: Contact Harvest
+36. King James Version
+37. Musicophilia
+38. The Silmarillion
+39. Digital Fortress
+40. Prose Edda
+41. The Fire Within (novel)
+42. Stones from the River
+43. The Jungle Book
+44. Quran
+45. The Purpose Driven Life
+46. My Ishmael
+47. A Tree Grows in Brooklyn (novel)
+48. Adam (novel)
+49. Harry Potter
+50. Romance of the Three Kingdoms

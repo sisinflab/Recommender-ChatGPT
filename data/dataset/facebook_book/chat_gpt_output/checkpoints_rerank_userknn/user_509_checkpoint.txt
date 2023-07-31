@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. Nineteen Eighty-Four by George Orwell
+3. The Bell Jar by Sylvia Plath
+4. Slaughterhouse-Five by Kurt Vonnegut
+5. Wuthering Heights by Emily Bronte
+6. Pride and Prejudice by Jane Austen
+7. Emma by Jane Austen
+8. The Kite Runner by Khaled Hosseini
+9. The Giver by Lois Lowry
+10. Romeo and Juliet by William Shakespeare
+11. To Kill a Mockingbird by Harper Lee
+12. Brave New World by Aldous Huxley
+13. The Great Gatsby by F. Scott Fitzgerald
+14. Sense and Sensibility by Jane Austen
+15. The Hobbit by J.R.R. Tolkien
+16. Harry Potter series by J.K. Rowling
+17. Alice's Adventures in Wonderland by Lewis Carroll
+18. Black Beauty by Anna Sewell
+19. The Princess Bride by William Goldman
+20. The Tempest by William Shakespeare
+21. The Lovely Bones by Alice Sebold
+22. The Last Lecture by Randy Pausch
+23. The Hamlet by William Faulkner
+24. Angels & Demons by Dan Brown
+25. Twilight series by Stephenie Meyer
+26. A Connecticut Yankee in King Arthur's Court by Mark Twain
+27. The Ugly Duckling by Hans Christian Andersen
+28. The Hatchet by Gary Paulsen
+29. The Thief Lord by Cornelia Funke
+30. Peter and Wendy by J.M. Barrie
+31. A Series of Unfortunate Events by Lemony Snicket
+32. The Trumpet of the Swan by E.B. White
+33. Bram Stoker's Dracula by Bram Stoker
+34. The Good Earth by Pearl S. Buck
+35. Will Grayson, Will Grayson by John Green and David Levithan
+36. The Last Storytellers: Tales from the Heart of Morocco by Richard Hamilton
+37. Catching Fire by Suzanne Collins
+38. Ivanhoe by Sir Walter Scott
+39. Doctrine and Covenants by The Church of Jesus Christ of Latter-day Saints
+40. Quidditch Through the Ages by J.K. Rowling
+41. Sun Bin's Art of War by Sun Bin
+42. Manga by Various Authors
+43. Wicked Lovely by Melissa Marr
+44. Ceres, Celestial Legend by Yuu Watase
+45. The 48 Laws of Power by Robert Greene
+46. Fushigi Yugi by Yuu Watase
+47. Holes by Louis Sachar
+48. Like Water for Chocolate by Laura Esquivel
+49. Heart of Darkness by Joseph Conrad
+50. Les Miserables by Victor Hugo

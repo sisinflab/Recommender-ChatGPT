@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Twilight by Stephenie Meyer
+2. Interview with the Vampire by Anne Rice
+3. The Hunger Games by Suzanne Collins
+4. The Lord of the Rings by J.R.R. Tolkien
+5. The Chronicles of Narnia by C.S. Lewis
+6. Harry Potter and the Philosopher's Stone by J.K. Rowling
+7. The Da Vinci Code by Dan Brown
+8. The Girl with the Dragon Tattoo by Stieg Larsson
+9. The Catcher in the Rye by J.D. Salinger
+10. To Kill a Mockingbird by Harper Lee
+11. The Great Gatsby by F. Scott Fitzgerald
+12. 1984 by George Orwell
+13. Animal Farm by George Orwell
+14. The Hobbit by J.R.R. Tolkien
+15. The Fellowship of the Ring by J.R.R. Tolkien
+16. The Two Towers by J.R.R. Tolkien
+17. The Return of the King by J.R.R. Tolkien
+18. The Shining by Stephen King
+19. Carrie by Stephen King
+20. Misery by Stephen King
+21. The Stand by Stephen King
+22. The Dark Tower series by Stephen King
+23. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+24. The Martian by Andy Weir
+25. The War of the Worlds by H.G. Wells
+26. The Time Machine by H.G. Wells
+27. The Invisible Man by H.G. Wells
+28. The Island of Dr. Moreau by H.G. Wells
+29. The Picture of Dorian Gray by Oscar Wilde
+30. Frankenstein by Mary Shelley
+31. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+32. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+33. The Hound of the Baskervilles by Arthur Conan Doyle
+34. The Count of Monte Cristo by Alexandre Dumas
+35. Les Misérables by Victor Hugo
+36. The Three Musketeers by Alexandre Dumas
+37. The Phantom of the Opera by Gaston Leroux
+38. The Name of the Rose by Umberto Eco
+39. The Pillars of the Earth by Ken Follett
+40. The Girl on the Train by Paula Hawkins
+41. Gone Girl by Gillian Flynn
+42. The Silence of the Lambs by Thomas Harris
+43. Red Dragon by Thomas Harris
+44. Hannibal by Thomas Harris
+45. The Bourne Identity by Robert Ludlum
+46. The Bourne Supremacy by Robert Ludlum
+47. The Bourne Ultimatum by Robert Ludlum
+48. The Day of the Jackal by Frederick Forsyth
+49. The Spy Who Came in from the Cold by John le Carré
+50. Tinker, Tailor

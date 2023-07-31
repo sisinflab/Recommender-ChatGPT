@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. To Kill a Mockingbird by Harper Lee
+3. The Great Gatsby by F. Scott Fitzgerald
+4. Frankenstein by Mary Shelley
+5. The Hobbit by J.R.R. Tolkien
+6. The Catcher in the Rye by J.D. Salinger
+7. The Picture of Dorian Gray by Oscar Wilde
+8. Night by Elie Wiesel
+9. The Giver by Lois Lowry
+10. A Wrinkle in Time by Madeleine L'Engle
+11. The Bell Jar by Sylvia Plath
+12. Of Mice and Men by John Steinbeck
+13. The Kite Runner by Khaled Hosseini
+14. The Stranger by Albert Camus
+15. Lolita by Vladimir Nabokov
+16. The Fountainhead by Ayn Rand
+17. Brave New World by Aldous Huxley
+18. Fahrenheit 451 by Ray Bradbury
+19. The Autobiography of Malcolm X by Malcolm X
+20. The Prophet by Kahlil Gibran
+21. A Midsummer Night's Dream by William Shakespeare
+22. Macbeth by William Shakespeare
+23. The Taming of the Shrew by William Shakespeare
+24. I, Robot by Isaac Asimov
+25. The Walking Dead (comic book) by Robert Kirkman
+26. Hannibal by Thomas Harris
+27. The Silence of the Lambs by Thomas Harris
+28. The Watchmen by Alan Moore
+29. Ulysses by James Joyce
+30. The Lovely Bones by Alice Sebold
+31. Water for Elephants by Sara Gruen
+32. The Old Man and the Sea by Ernest Hemingway
+33. Dune by Frank Herbert
+34. The Jungle Book by Rudyard Kipling
+35. The Lost Years of Merlin by T.A. Barron
+36. Dreamcatcher by Stephen King
+37. Atlas Shrugged by Ayn Rand
+38. The Virgin Suicides by Jeffrey Eugenides
+39. My Friend Leonard by James Frey
+40. A Million Little Pieces by James Frey
+41. Twilight by Stephenie Meyer
+42. The Last Lecture by Randy Pausch
+43. The Unbearable Lightness of Being by Milan Kundera
+44. The Most Dangerous Game by Richard Connell
+45. Look Me in the Eye by John Elder Robison
+46. Inferno by Dante Alighieri
+47. New Arabian Nights by Robert Louis Stevenson
+48. Point Blanc by Anthony Horowitz
+49. Fierce Invalids Home from Hot Climates by Tom Robbins
+50. Encyclopædia Britannica

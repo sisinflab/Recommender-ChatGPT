@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Joy Division
+2. The Smiths
+3. David Bowie
+4. The Doors
+5. Radiohead
+6. Led Zeppelin
+7. Pink Floyd
+8. The Beatles
+9. Queen
+10. Nirvana
+11. Metallica
+12. Muse
+13. Arctic Monkeys
+14. The Strokes
+15. Jeff Buckley
+16. Interpol
+17. The Libertines
+18. Bloc Party
+19. Placebo
+20. Sex Pistols
+21. Little Joy
+22. MGMT
+23. City and Colour
+24. Legião Urbana
+25. Engenheiros do Hawaii
+26. Zeca Baleiro
+27. Chico Buarque
+28. Manu Chao
+29. Vanguart
+30. Cazuza
+31. From First to Last
+32. Avenged Sevenfold
+33. Paramore
+34. Coldplay
+35. Blur
+36. Duran Duran
+37. U2
+38. 30 Seconds to Mars
+39. Pearl Jam
+40. Iron Maiden
+41. System of a Down
+42. Daft Punk
+43. Nine Inch Nails
+44. Linkin Park
+45. My Chemical Romance
+46. Green Day
+47. The Cure
+48. Amy Winehouse
+49. Michael Jackson
+50. Björk

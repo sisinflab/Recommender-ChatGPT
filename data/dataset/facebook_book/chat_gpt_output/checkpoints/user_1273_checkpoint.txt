@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Great Gatsby by F. Scott Fitzgerald
+4. Animal Farm by George Orwell
+5. The Hobbit by J.R.R. Tolkien
+6. The Lord of the Rings by J.R.R. Tolkien
+7. The Diary of a Young Girl by Anne Frank
+8. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+9. The Alchemist by Paulo Coelho
+10. The Little Prince by Antoine de Saint-Exupéry
+11. The Picture of Dorian Gray by Oscar Wilde
+12. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+13. The Hunger Games by Suzanne Collins
+14. The Girl with the Dragon Tattoo by Stieg Larsson
+15. The Da Vinci Code by Dan Brown
+16. The Catcher in the Rye by J.D. Salinger
+17. Winnie-the-Pooh by A.A. Milne
+18. God Is Not Great by Christopher Hitchens
+19. Tuesdays with Morrie by Mitch Albom
+20. The Cask of Amontillado by Edgar Allan Poe
+21. Thirteen Reasons Why by Jay Asher
+22. The Last Storytellers: Tales from the Heart of Morocco by Richard Hamilton
+23. The Outsiders by S.E. Hinton
+24. The Fault in Our Stars by John Green
+25. The Book Thief by Markus Zusak
+26. The Road by Cormac McCarthy
+27. The Kite Runner by Khaled Hosseini
+28. The Secret Life of Bees by Sue Monk Kidd
+29. The Help by Kathryn Stockett
+30. The Color Purple by Alice Walker
+31. The Bell Jar by Sylvia Plath
+32. The Sun Also Rises by Ernest Hemingway
+33. The Old Man and the Sea by Ernest Hemingway
+34. The Grapes of Wrath by John Steinbeck
+35. One Hundred Years of Solitude by Gabriel García Márquez
+36. Love in the Time of Cholera by Gabriel García Márquez
+37. Crime and Punishment by Fyodor Dostoevsky
+38. The Brothers Karamazov by Fyodor Dostoevsky
+39. War and Peace by Leo Tolstoy
+40. Anna Karenina by Leo Tolstoy
+41. Pride and Prejudice by Jane Austen
+42. Sense and Sensibility by Jane Austen
+43. Emma by Jane Austen
+44. Wuthering Heights by Emily Bronte
+45. Jane Eyre by Charlotte Bronte
+46. Frankenstein by Mary Shelley
+47. Dracula by Bram Stoker
+48. The Picture of Dorian Gray by Oscar Wilde
+49. The Art of War
+50. American Gods by Neil Gaiman

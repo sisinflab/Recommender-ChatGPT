@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Crime and Punishment by Fyodor Dostoevsky
+2. The Catcher in the Rye by J.D. Salinger
+3. 1984 by George Orwell
+4. Brave New World by Aldous Huxley
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Lord of the Flies by William Golding
+7. Animal Farm by George Orwell
+8. A Clockwork Orange by Anthony Burgess
+9. The Stranger by Albert Camus
+10. The Bell Jar by Sylvia Plath
+11. The Picture of Dorian Gray by Oscar Wilde
+12. The Sorrows of Young Werther by Johann Wolfgang von Goethe
+13. The Adventures of Tom Sawyer by Mark Twain
+14. The Little Mermaid by Hans Christian Andersen
+15. The Canterbury Tales by Geoffrey Chaucer
+16. The Giver by Lois Lowry
+17. The Chronicles of Narnia by C.S. Lewis
+18. Harry Potter by J.K. Rowling
+19. The Last Lecture by Randy Pausch
+20. Never Let Me Go by Kazuo Ishiguro
+21. One Hundred Years of Solitude by Gabriel Garcia Marquez
+22. Madame Bovary by Gustave Flaubert
+23. A Farewell to Arms by Ernest Hemingway
+24. The Thirteenth Tale by Diane Setterfield
+25. The History of Love by Nicole Krauss
+26. The Time Machine by H.G. Wells
+27. The Zombie Survival Guide by Max Brooks
+28. The Mysterious Stranger by Mark Twain
+29. The Lovely Bones by Alice Sebold
+30. The Godfather by Mario Puzo
+31. Atlas Shrugged by Ayn Rand
+32. She Walks in Beauty by Caroline Kennedy
+33. The Awakening by Kate Chopin
+34. Stranger than Fiction: True Stories by Chuck Palahniuk
+35. Choke by Chuck Palahniuk
+36. Stargirl by Jerry Spinelli
+37. Thirteen Reasons Why by Jay Asher
+38. Speak by Laurie Halse Anderson
+39. The Jungle Book by Rudyard Kipling
+40. We by Yevgeny Zamyatin
+41. Paradise Lost by John Milton
+42. The Neverending Story by Michael Ende
+43. Peter and Wendy by J.M. Barrie
+44. Why We Suck by Denis Leary
+45. Carrie by Stephen King
+46. Invisible Monsters by Chuck Palahniuk
+47. Last Words by George Carlin
+48. Anne of Green Gables by L.M. Montgomery
+49. Iliad by Homer
+50. Leviathan by Paul Auster

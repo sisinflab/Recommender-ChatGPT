@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Sigur Rós
+2. Radiohead
+3. Mogwai
+4. Explosions in the Sky
+5. Clint Mansell
+6. A Silver Mt. Zion
+7. The Cinematic Orchestra
+8. Philip Glass
+9. Björk
+10. Anathema
+11. Enigma
+12. Archive
+13. Jean-Michel Jarre
+14. Mike Oldfield
+15. Emilie Simon
+16. Parov Stelar
+17. Lenine
+18. Thirteen Senses
+19. Florence + the Machine
+20. Miles Davis
+21. Raul Seixas
+22. Coldplay
+23. Muse
+24. Pink Floyd
+25. Nirvana
+26. Iron Maiden
+27. Led Zeppelin
+28. Metallica
+29. Michael Jackson
+30. Pearl Jam
+31. a-ha
+32. System of a Down
+33. Daft Punk
+34. Nine Inch Nails
+35. Linkin Park
+36. Avenged Sevenfold
+37. My Chemical Romance
+38. Green Day
+39. The Cure
+40. U2
+41. The Beatles
+42. Katy Perry
+43. Lady Gaga
+44. Rihanna
+45. Beyoncé
+46. Shakira
+47. Christina Aguilera
+48. Kelly Clarkson
+49. P!nk
+50. Paramore

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Slaughterhouse-Five by Kurt Vonnegut
+2. The Lord of the Rings by J.R.R. Tolkien
+3. A Clockwork Orange by Anthony Burgess
+4. Fahrenheit 451 by Ray Bradbury
+5. Crime and Punishment by Fyodor Dostoyevsky
+6. The Picture of Dorian Gray by Oscar Wilde
+7. Brave New World by Aldous Huxley
+8. The Hobbit by J.R.R. Tolkien
+9. The Stand by Stephen King
+10. The Dead Zone by Stephen King
+11. Jaws by Peter Benchley
+12. The Thirteenth Tale by Diane Setterfield
+13. The Diary of Anne Frank by Anne Frank
+14. The Grapes of Wrath by John Steinbeck
+15. Doctor Zhivago by Boris Pasternak
+16. A Tale of Two Cities by Charles Dickens
+17. Inferno by Dante Alighieri
+18. Walden by Henry David Thoreau
+19. The Universe in a Nutshell by Stephen Hawking
+20. The Iliad by Homer
+21. The Outsiders by S.E. Hinton
+22. Lord of the Flies by William Golding
+23. On the Road by Jack Kerouac
+24. The Tao of Pooh by Benjamin Hoff
+25. The Merchant of Venice by William Shakespeare
+26. The Watchmen by John Altman
+27. The City of Ember by Jeanne DuPrau
+28. Holes by Louis Sachar
+29. The Last Lecture by Randy Pausch
+30. Kiss the Girls by James Patterson
+31. The Pit and the Pendulum by Edgar Allan Poe
+32. Mother Night by Kurt Vonnegut
+33. Be More Chill by Ned Vizzini
+34. The Far Side by Gary Larson
+35. Women by Charles Bukowski
+36. Alice's Adventures in Wonderland by Lewis Carroll
+37. Mythologies by Roland Barthes
+38. Eldest by Christopher Paolini
+39. 'Salem's Lot by Stephen King
+40. The Perks of Being a Wallflower by Stephen Chbosky
+41. Rant by Chuck Palahniuk
+42. Fear and Loathing in Las Vegas by Hunter S. Thompson
+43. Sun Bin's Art of War by Sun Bin
+44. Little Children by Tom Perrotta
+45. Touching the Void by Joe Simpson
+46. Helter Skelter by Vincent Bugliosi
+47. First They Killed My Father by Loung Ung
+48. Confessions of an Ugly Stepsister by Gregory Maguire
+49. Aztec by Gary Jennings
+50. Civil Disobedience by Henry David Thoreau

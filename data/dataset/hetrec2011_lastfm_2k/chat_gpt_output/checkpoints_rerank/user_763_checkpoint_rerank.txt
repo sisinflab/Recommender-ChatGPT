@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Three Days Grace
+2. Linkin Park
+3. Lacuna Coil
+4. Rammstein
+5. Limp Bizkit
+6. Korn
+7. Slipknot
+8. Lostprophets
+9. Breaking Benjamin
+10. Sum 41
+11. Skillet
+12. Papa Roach
+13. Coldplay
+14. David Guetta
+15. Paradise Lost
+16. Placebo
+17. Cinema Bizarre
+18. HIM
+19. Trivium
+20. 30 Seconds to Mars
+21. OK Go
+22. Disturbed
+23. Marilyn Manson
+24. The All-American Rejects
+25. Thousand Foot Krutch
+26. Within Temptation
+27. Story of the Year
+28. Rise Against
+29. Simple Plan
+30. Muse
+31. Stone Sour
+32. Nickelback
+33. AFI
+34. Evanescence
+35. Paramore
+36. Lady Gaga
+37. Beyoncé
+38. Pink Floyd
+39. U2
+40. The Beatles
+41. Radiohead
+42. Ke$ha
+43. Duran Duran
+44. Arctic Monkeys
+45. The Killers
+46. Nirvana
+47. Iron Maiden
+48. Led Zeppelin
+49. Metallica
+50. Michael Jackson

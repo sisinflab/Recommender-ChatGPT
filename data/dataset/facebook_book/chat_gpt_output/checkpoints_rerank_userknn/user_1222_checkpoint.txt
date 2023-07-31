@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird
+2. Nineteen Eighty-Four
+3. The Lord of the Rings
+4. The Chronicles of Narnia: Prince Caspian
+5. Little Women
+6. The Hobbit
+7. Frankenstein
+8. Memoirs of a Geisha
+9. Ender's Game
+10. The Picture of Dorian Gray
+11. Dracula
+12. The Outsiders (novel)
+13. The Scarlet Pimpernel
+14. The BFG
+15. Inkheart
+16. A Midsummer Night's Dream
+17. Romeo and Juliet
+18. The Joy Luck Club (novel)
+19. Maximum Ride
+20. The Messenger (Markus Zusak novel)
+21. The Hatchet (novel)
+22. Flowers in the Attic
+23. The Lovely Bones
+24. Thirteen Reasons Why
+25. A Tree Grows in Brooklyn (novel)
+26. Girl, Interrupted
+27. The Sevenwaters Trilogy
+28. Ink Exchange
+29. The Bean Trees
+30. Othello
+31. Percy Jackson & the Olympians
+32. The Chronicles of Narnia
+33. The Lorax
+34. Les Misérables
+35. The Hunger Games
+36. Catching Fire
+37. The Great Gatsby
+38. All the King's Men
+39. The Hamlet
+40. Charlie and the Chocolate Factory
+41. Clear and Present Danger
+42. Starship Troopers
+43. The Hunt for Red October
+44. The Catcher in the Rye
+45. Harry Potter
+46. The Zombie Survival Guide
+47. Wicked Lovely
+48. Suck It Up
+49. Marley & Me
+50. Evermore (book)

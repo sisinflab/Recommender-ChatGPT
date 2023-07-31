@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Shining by Stephen King
+2. The Witching Hour by Anne Rice
+3. The Stand by Stephen King
+4. Dracula by Bram Stoker
+5. The Dark Tower series by Stephen King
+6. The Chronicles of Narnia by C.S. Lewis
+7. The Lord of the Rings by J.R.R. Tolkien
+8. The Hobbit by J.R.R. Tolkien
+9. The Complete Sherlock Holmes by Arthur Conan Doyle
+10. The Hunger Games by Suzanne Collins
+11. The Girl with the Dragon Tattoo by Stieg Larsson
+12. The Da Vinci Code by Dan Brown
+13. The Catcher in the Rye by J.D. Salinger
+14. To Kill a Mockingbird by Harper Lee
+15. 1984 by George Orwell
+16. Animal Farm by George Orwell
+17. The Great Gatsby by F. Scott Fitzgerald
+18. Pride and Prejudice by Jane Austen
+19. Wuthering Heights by Emily Bronte
+20. Jane Eyre by Charlotte Bronte
+21. The Picture of Dorian Gray by Oscar Wilde
+22. Frankenstein by Mary Shelley
+23. The Adventures of Tom Sawyer by Mark Twain
+24. The Adventures of Huckleberry Finn by Mark Twain
+25. The War of the Worlds by H.G. Wells
+26. The Time Machine by H.G. Wells
+27. The Invisible Man by H.G. Wells
+28. The Island of Dr. Moreau by H.G. Wells
+29. The Call of Cthulhu and Other Weird Stories by H.P. Lovecraft
+30. The Complete Tales and Poems of Edgar Allan Poe by Edgar Allan Poe
+31. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+32. The Foundation Trilogy by Isaac Asimov
+33. Ender's Game by Orson Scott Card
+34. The Name of the Wind by Patrick Rothfuss
+35. The Way of Kings by Brandon Sanderson
+36. Mistborn: The Final Empire by Brandon Sanderson
+37. The Lies of Locke Lamora by Scott Lynch
+38. The Blade Itself by Joe Abercrombie
+39. The First Law Trilogy by Joe Abercrombie
+40. The Kingkiller Chronicle by Patrick Rothfuss
+41. The Dresden Files by Jim Butcher
+42. American Gods by Neil Gaiman
+43. Neverwhere by Neil Gaiman
+44. Good Omens by Neil Gaiman and Terry Pratchett
+45. The Sandman by Neil Gaiman
+46. Watchmen by Alan Moore and Dave Gibbons
+47. V for Vendetta by Alan Moore and David Lloyd
+48. The Walking Dead by Robert Kirkman and Tony Moore
+49. Saga by Brian K. Vaughan and Fiona Staples

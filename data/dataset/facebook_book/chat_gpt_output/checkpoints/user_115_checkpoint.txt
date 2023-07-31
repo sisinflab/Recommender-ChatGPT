@@ -1,0 +1,45 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Dress Your Family in Corduroy and Denim by David Sedaris
+2. Let's Explore Diabetes with Owls by David Sedaris
+3. When You Are Engulfed in Flames by David Sedaris
+4. Barrel Fever by David Sedaris
+5. Squirrel Seeks Chipmunk: A Modest Bestiary by David Sedaris
+6. Furiously Happy: A Funny Book About Horrible Things by Jenny Lawson
+7. Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened by Allie Brosh
+8. The Glass Castle: A Memoir by Jeannette Walls
+9. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+10. The Girl with the Dragon Tattoo by Stieg Larsson
+11. The Girl Who Played with Fire by Stieg Larsson
+12. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+13. The Hunger Games by Suzanne Collins
+14. Catching Fire by Suzanne Collins
+15. Mockingjay by Suzanne Collins
+16. The Fault in Our Stars by John Green
+17. Looking for Alaska by John Green
+18. Paper Towns by John Green
+19. The Perks of Being a Wallflower by Stephen Chbosky
+20. The Bell Jar by Sylvia Plath
+21. The Catcher in the Rye by J.D. Salinger
+22. The Great Gatsby by F. Scott Fitzgerald
+23. To Kill a Mockingbird by Harper Lee
+24. 1984 by George Orwell
+25. Animal Farm by George Orwell
+26. Brave New World by Aldous Huxley
+27. Fahrenheit 451 by Ray Bradbury
+28. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+29. The Lord of the Rings by J.R.R. Tolkien
+30. The Hobbit by J.R.R. Tolkien
+31. Harry Potter and the Philosopher's Stone by J.K. Rowling
+32. Harry Potter and the Chamber of Secrets by J.K. Rowling
+33. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+34. Harry Potter and the Goblet of Fire by J.K. Rowling
+35. Harry Potter and the Order of Phoenix by J.K. Rowling
+36. Harry Potter and the Half-Blood Prince by J.K. Rowling
+37. Harry Potter and the Deathly Hallows by J.K. Rowling
+38. The Da Vinci Code by Dan Brown
+39. Angels and Demons by Dan Brown
+40. The Girl on the Train by Paula Hawkins
+41. Gone Girl by Gillian Flynn
+42. The Help by Kathryn Stockett
+43. The Kite Runner by

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Pet Shop Boys
+2. Lady Gaga
+3. Goldfrapp
+4. Calvin Harris
+5. Queen
+6. Brandon Flowers
+7. Hurts
+8. Gwen Stefani
+9. Lily Allen
+10. Lacuna Coil
+11. Fleetwood Mac
+12. ABC
+13. Frankie Goes to Hollywood
+14. Madness
+15. Kraftwerk
+16. Cobra Starship
+17. Kate Bush
+18. Little Boots
+19. John Lennon
+20. Scissor Sisters
+21. Julian Casablancas
+22. The Human League
+23. Tears for Fears
+24. Heaven 17
+25. t.A.T.u.
+26. Depeche Mode
+27. Madonna
+28. Rihanna
+29. Beyoncé
+30. Duran Duran
+31. Coldplay
+32. Blur
+33. Arctic Monkeys
+34. Placebo
+35. The Killers
+36. Nirvana
+37. Iron Maiden
+38. Led Zeppelin
+39. Metallica
+40. Michael Jackson
+41. Pearl Jam
+42. a-ha
+43. Björk
+44. Daft Punk
+45. Nine Inch Nails
+46. Linkin Park
+47. Avril Lavigne
+48. Paramore
+49. Katy Perry
+50. Taylor Swift

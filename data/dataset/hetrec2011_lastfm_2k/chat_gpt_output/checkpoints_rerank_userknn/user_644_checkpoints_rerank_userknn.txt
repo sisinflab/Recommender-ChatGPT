@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations are:
+
+1. Sigur Rós
+2. Yann Tiersen
+3. The Beatles
+4. Keane
+5. Regina Spektor
+6. CocoRosie
+7. A Perfect Circle
+8. Carla Bruni
+9. Belle and Sebastian
+10. The Killers
+11. Maroon 5
+12. The Police
+13. Muse
+14. Kate Nash
+15. Jónsi
+16. Porcupine Tree
+17. Pink Floyd
+18. Explosions in the Sky
+19. Stars
+20. Björk
+21. Crystal Castles
+22. Grizzly Bear
+23. Max Richter
+24. Imogen Heap
+25. Kings of Convenience
+26. Beirut
+27. múm
+28. Animal Collective
+29. City and Colour
+30. Underworld
+31. Nick Drake
+32. Eric Clapton
+33. Emilíana Torrini
+34. M83
+35. Foals
+36. Balmorhea
+37. Michael Jackson
+38. The Album Leaf
+39. Coldplay
+40. Mogwai
+41. Sufjan Stevens
+42. Tiësto
+43. God Is an Astronaut
+44. Moby
+45. Minus the Bear
+46. Miles Davis
+47. Arcade Fire
+48. Bloc Party
+49. Bon Iver
+50. Rammstein

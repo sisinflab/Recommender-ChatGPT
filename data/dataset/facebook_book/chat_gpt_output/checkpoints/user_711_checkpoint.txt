@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. To Kill a Mockingbird by Harper Lee
+3. 1984 by George Orwell
+4. The Great Gatsby by F. Scott Fitzgerald
+5. The Bell Jar by Sylvia Plath
+6. One Hundred Years of Solitude by Gabriel Garcia Marquez
+7. The Picture of Dorian Gray by Oscar Wilde
+8. The Alchemist by Paulo Coelho
+9. The Book Thief by Markus Zusak
+10. The Kite Runner by Khaled Hosseini
+11. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+12. The Hobbit by J.R.R. Tolkien
+13. The Lord of the Rings by J.R.R. Tolkien
+14. The Hunger Games by Suzanne Collins
+15. The Girl with the Dragon Tattoo by Stieg Larsson
+16. The Da Vinci Code by Dan Brown
+17. The Help by Kathryn Stockett
+18. The Secret Life of Bees by Sue Monk Kidd
+19. The Fault in Our Stars by John Green
+20. The Perks of Being a Wallflower by Stephen Chbosky
+21. The Giver by Lois Lowry
+22. The Maze Runner by James Dashner
+23. The Chronicles of Narnia by C.S. Lewis
+24. The Outsiders by S.E. Hinton
+25. The Lovely Bones by Alice Sebold
+26. The Road by Cormac McCarthy
+27. The Stand by Stephen King
+28. The Shining by Stephen King
+29. The Silence of the Lambs by Thomas Harris
+30. The Bourne Identity by Robert Ludlum
+31. The Girl on the Train by Paula Hawkins
+32. The Martian by Andy Weir
+33. The Name of the Wind by Patrick Rothfuss
+34. The Nightingale by Kristin Hannah
+35. The Help by Kathryn Stockett
+36. The Secret Life of Bees by Sue Monk Kidd
+37. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+38. The Glass Castle by Jeannette Walls
+39. The Color Purple by Alice Walker
+40. The Joy Luck Club by Amy Tan
+41. The God of Small Things by Arundhati Roy
+42. The Poisonwood Bible by Barbara Kingsolver
+43. The Handmaid's Tale by Margaret Atwood
+44. The Testaments by Margaret Atwood
+45. The Water Dancer by Ta-Nehisi Coates
+46. The Underground Railroad by Colson Whitehead
+47. The Overstory by Richard Powers
+48. The Nickel Boys by Colson Whitehead
+49. The Dutch House by Ann Patchett
+50. The Topeka School by Ben Lerner

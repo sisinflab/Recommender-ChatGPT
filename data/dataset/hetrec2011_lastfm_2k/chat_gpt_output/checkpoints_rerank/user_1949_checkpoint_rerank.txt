@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Arctic Monkeys
+2. Kasabian
+3. Mando Diao
+4. Babyshambles
+5. The Libertines
+6. The Kooks
+7. Gorillaz
+8. Oasis
+9. The Beatles
+10. The Hives
+11. Depeche Mode
+12. The Strokes
+13. The Prodigy
+14. Hard-Fi
+15. Peter Doherty
+16. Hot Hot Heat
+17. Louis Armstrong
+18. Guns N' Roses
+19. Billy Talent
+20. Radiohead
+21. Nirvana
+22. The Pigeon Detectives
+23. Weezer
+24. Death Cab for Cutie
+25. The Cribs
+26. The Vines
+27. The Killers
+28. Jet
+29. Kings of Leon
+30. Muse
+31. Pink Floyd
+32. Led Zeppelin
+33. Metallica
+34. Iron Maiden
+35. Pearl Jam
+36. Nine Inch Nails
+37. System of a Down
+38. Daft Punk
+39. Linkin Park
+40. Avenged Sevenfold
+41. My Chemical Romance
+42. Green Day
+43. The Cure
+44. Blur
+45. Placebo
+46. Duran Duran
+47. Michael Jackson
+48. Beyoncé
+49. Rihanna
+50. Lady Gaga

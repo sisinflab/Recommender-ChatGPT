@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. 1984 by George Orwell
+3. To Kill a Mockingbird by Harper Lee
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Brave New World by Aldous Huxley
+6. Animal Farm by George Orwell
+7. Lord of the Flies by William Golding
+8. One Hundred Years of Solitude by Gabriel Garcia Marquez
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Brothers Karamazov by Fyodor Dostoevsky
+11. Lolita by Vladimir Nabokov
+12. The Handmaid's Tale by Margaret Atwood
+13. The Fountainhead by Ayn Rand
+14. The Old Man and the Sea by Ernest Hemingway
+15. The Sound and the Fury by William Faulkner
+16. Don Quixote by Miguel de Cervantes
+17. The Lord of the Rings by J.R.R. Tolkien
+18. The Giver by Lois Lowry
+19. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+20. The Book Thief by Markus Zusak
+21. The Hours by Michael Cunningham
+22. The Year of Magical Thinking by Joan Didion
+23. Waiting for Godot by Samuel Beckett
+24. Romeo and Juliet by William Shakespeare
+25. A Tale of Two Cities by Charles Dickens
+26. The Good Earth by Pearl S. Buck
+27. The Trial by Franz Kafka
+28. The Once and Future King by T.H. White
+29. The Watchmen by Alan Moore
+30. The Book of Lost Things by John Connolly
+31. The Handmaid's Tale by Margaret Atwood
+32. The Kane Chronicles by Rick Riordan
+33. The Fall of the House of Usher by Edgar Allan Poe
+34. The Executioner's Song by Norman Mailer
+35. The Prophet by Kahlil Gibran
+36. The Great Gatsby by F. Scott Fitzgerald
+37. The Picture of Dorian Gray by Oscar Wilde
+38. The Brothers Karamazov by Fyodor Dostoevsky
+39. Lolita by Vladimir Nabokov
+40. The Handmaid's Tale by Margaret Atwood
+41. The Fountainhead by Ayn Rand
+42. The Old Man and the Sea by Ernest Hemingway
+43. The Sound and the Fury by William Faulkner
+44. Don Quixote by Miguel de Cervantes
+45. The Lord of the Rings by J.R.R. Tolkien
+46. The Giver by Lois Lowry
+47. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+48. The Book Thief by Markus Zusak
+49. The Hours by Michael Cunningham
+50. The Year

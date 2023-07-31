@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. The Hobbit by J.R.R. Tolkien
+3. The Silmarillion by J.R.R. Tolkien
+4. The Dark Tower: The Gunslinger by Stephen King
+5. Dune by Frank Herbert
+6. Nineteen Eighty-Four by George Orwell
+7. The Handmaid's Tale by Margaret Atwood
+8. Dracula by Bram Stoker
+9. The Great Gatsby by F. Scott Fitzgerald
+10. The Hunger Games by Suzanne Collins
+11. Catching Fire by Suzanne Collins
+12. The Amber Spyglass by Philip Pullman
+13. Foundation by Isaac Asimov
+14. The Caves of Steel by Isaac Asimov
+15. Neverwhere by Neil Gaiman
+16. Stardust by Neil Gaiman
+17. The Perks of Being a Wallflower by Stephen Chbosky
+18. The Outsiders by S.E. Hinton
+19. The Tommyknockers by Stephen King
+20. The Stand by Stephen King
+21. The Watchmen by Alan Moore
+22. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+23. The Once and Future King by T.H. White
+24. American Psycho by Bret Easton Ellis
+25. Haunted by Chuck Palahniuk
+26. Atlas Shrugged by Ayn Rand
+27. Hannibal Rising by Thomas Harris
+28. The House of Thunder by Dean Koontz
+29. Arkham Asylum: A Serious House on Serious Earth by Grant Morrison
+30. Johnny the Homicidal Maniac by Jhonen Vasquez
+31. Sin City by Frank Miller
+32. Harry Potter by J.K. Rowling
+33. Walk Two Moons by Sharon Creech
+34. Ulysses by James Joyce
+35. The Monk by Matthew Lewis
+36. The Dark Knight Returns by Frank Miller
+37. The Ruins by Scott Smith
+38. Gone with the Wind by Margaret Mitchell
+39. Iliad by Homer
+40. The Mother Tongue by Bill Bryson
+41. A Walk in the Woods by Bill Bryson
+42. Beauty: A Retelling of the Story of Beauty and the Beast by Robin McKinley
+43. The Prosecution of George W. Bush for Murder by Vincent Bugliosi
+44. Bloodlines by Richelle Mead
+45. City of Ashes by Cassandra Clare
+46. Swan Song by Robert McCammon
+47. Stranger in a Strange Land by Robert A. Heinlein
+48. Dark-Hunter by Sherrilyn Kenyon
+49. Nicholas Nickleby by Charles Dickens
+50. This Present Darkness by Frank E. Peretti

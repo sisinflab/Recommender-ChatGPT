@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Smiths
+2. Joy Division
+3. Echo & the Bunnymen
+4. The Jesus and Mary Chain
+5. The Stone Roses
+6. The Velvet Underground
+7. The Strokes
+8. Arcade Fire
+9. Pixies
+10. Sonic Youth
+11. The National
+12. The Libertines
+13. The Clash
+14. The Cure
+15. Talking Heads
+16. The Doors
+17. Iggy Pop
+18. Lou Reed
+19. David Bowie
+20. Roxy Music
+21. T. Rex
+22. Blondie
+23. Patti Smith
+24. Siouxsie and the Banshees
+25. Bauhaus
+26. New York Dolls
+27. Television
+28. Wire
+29. Gang of Four
+30. The Fall
+31. The Jam
+32. The Buzzcocks
+33. The Adverts
+34. The Damned
+35. The Stranglers
+36. The Undertones
+37. The Replacements
+38. Hüsker Dü
+39. Dinosaur Jr.
+40. Mudhoney
+41. Screaming Trees
+42. Soundgarden
+43. Alice in Chains
+44. Pearl Jam
+45. Nirvana
+46. Smashing Pumpkins
+47. Radiohead
+48. Oasis
+49. Blur
+50. Pulp

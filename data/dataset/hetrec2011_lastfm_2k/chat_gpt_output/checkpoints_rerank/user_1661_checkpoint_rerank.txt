@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Demi Lovato
+2. Paramore
+3. The Pretty Reckless
+4. Taylor Swift
+5. John Mayer
+6. Avril Lavigne
+7. Katy Perry
+8. Ellie Goulding
+9. Kings of Leon
+10. The Black Keys
+11. Arctic Monkeys
+12. Muse
+13. McFly
+14. Alanis Morissette
+15. Kelly Clarkson
+16. Ashlee Simpson
+17. OK Go
+18. Lifehouse
+19. Feist
+20. Lily Allen
+21. The Kills
+22. Jet
+23. Phoenix
+24. Maroon 5
+25. The Kooks
+26. Owl City
+27. The Ting Tings
+28. Stars
+29. Rooney
+30. Glee Cast
+31. The Killers
+32. Plain White T's
+33. Panic! At the Disco
+34. Phantom Planet
+35. Franz Ferdinand
+36. Friendly Fires
+37. Pink Floyd
+38. Radiohead
+39. Nirvana
+40. Led Zeppelin
+41. Metallica
+42. Michael Jackson
+43. Pearl Jam
+44. System of a Down
+45. Nine Inch Nails
+46. Linkin Park
+47. All Time Low
+48. Green Day
+49. My Chemical Romance
+50. The Cure

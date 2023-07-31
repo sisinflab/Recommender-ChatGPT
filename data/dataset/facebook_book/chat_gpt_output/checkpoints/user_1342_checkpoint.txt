@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. My Sister's Keeper by Jodi Picoult
+2. Catching Fire by Suzanne Collins
+3. The Help by Kathryn Stockett
+4. The Kite Runner by Khaled Hosseini
+5. The Fault in Our Stars by John Green
+6. The Book Thief by Markus Zusak
+7. The Hunger Games: Mockingjay by Suzanne Collins
+8. Water for Elephants by Sara Gruen
+9. The Lovely Bones by Alice Sebold
+10. The Girl with the Dragon Tattoo by Stieg Larsson
+11. The Time Traveler's Wife by Audrey Niffenegger
+12. The Secret Life of Bees by Sue Monk Kidd
+13. The Da Vinci Code by Dan Brown
+14. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+15. The Memory Keeper's Daughter by Kim Edwards
+16. The Glass Castle by Jeannette Walls
+17. The Road by Cormac McCarthy
+18. The Catcher in the Rye by J.D. Salinger
+19. The Great Gatsby by F. Scott Fitzgerald
+20. To Kill a Mockingbird by Harper Lee
+21. The Picture of Dorian Gray by Oscar Wilde
+22. The Bell Jar by Sylvia Plath
+23. The Handmaid's Tale by Margaret Atwood
+24. The Color Purple by Alice Walker
+25. The Joy Luck Club by Amy Tan
+26. The Poisonwood Bible by Barbara Kingsolver
+27. The God of Small Things by Arundhati Roy
+28. The Namesake by Jhumpa Lahiri
+29. The Brief Wondrous Life of Oscar Wao by Junot Diaz
+30. The House on Mango Street by Sandra Cisneros
+31. The Alchemist by Paulo Coelho
+32. The Shack by William P. Young
+33. The Help by Kathryn Stockett
+34. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+35. The Hunger Games: Catching Fire by Suzanne Collins
+36. The Hunger Games: Mockingjay by Suzanne Collins
+37. The Maze Runner by James Dashner
+38. The Scorch Trials by James Dashner
+39. The Death Cure by James Dashner
+40. The Giver by Lois Lowry
+41. Gathering Blue by Lois Lowry
+42. Messenger by Lois Lowry
+43. Son by Lois Lowry
+44. A Thousand Splendid Suns by Khaled Hosseini
+45. And the Mountains Echoed by Khaled Hosseini
+46. The Kite Runner by Khaled Hosseini
+47. Sarah's Key by Tatiana de Rosnay
+48. The Forest of Hands and Teeth by Carrie Ryan
+49. The Other Boleyn Girl by Philippa Gregory
+50. The

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. The Fault in Our Stars by John Green
+3. To Kill a Mockingbird by Harper Lee
+4. The Book Thief by Markus Zusak
+5. The Help by Kathryn Stockett
+6. The Girl on the Train by Paula Hawkins
+7. Gone Girl by Gillian Flynn
+8. The Da Vinci Code by Dan Brown
+9. The Catcher in the Rye by J.D. Salinger
+10. The Great Gatsby by F. Scott Fitzgerald
+11. The Kite Runner by Khaled Hosseini
+12. The Alchemist by Paulo Coelho
+13. The Secret Life of Bees by Sue Monk Kidd
+14. The Lovely Bones by Alice Sebold
+15. The Shack by William P. Young
+16. The Time Keeper by Mitch Albom
+17. The Notebook by Nicholas Sparks
+18. A Walk to Remember by Nicholas Sparks
+19. The Bridges of Madison County by Robert James Waller
+20. The Help by Kathryn Stockett
+21. The Color Purple by Alice Walker
+22. The Joy Luck Club by Amy Tan
+23. The Glass Castle by Jeannette Walls
+24. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+25. The Nightingale by Kristin Hannah
+26. The Martian by Andy Weir
+27. The Maze Runner by James Dashner
+28. The Giver by Lois Lowry
+29. The Outsiders by S.E. Hinton
+30. The Perks of Being a Wallflower by Stephen Chbosky
+31. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+32. The Help by Kathryn Stockett
+33. The Hunger Games by Suzanne Collins
+34. The Fault in Our Stars by John Green
+35. To Kill a Mockingbird by Harper Lee
+36. The Book Thief by Markus Zusak
+37. The Girl on the Train by Paula Hawkins
+38. Gone Girl by Gillian Flynn
+39. The Da Vinci Code by Dan Brown
+40. The Catcher in the Rye by J.D. Salinger
+41. The Great Gatsby by F. Scott Fitzgerald
+42. The Kite Runner by Khaled Hosseini
+43. The Alchemist by Paulo Coelho
+44. The Secret Life of Bees by Sue Monk Kidd
+45. The Lovely Bones by Alice Sebold
+46. The Shack by William P. Young
+47. The Time Keeper by Mitch Albom
+48. The Notebook by Nicholas Sparks
+49. A Walk to Remember by Nicholas Sparks
+50. The Bridges of Madison County by Robert James Waller

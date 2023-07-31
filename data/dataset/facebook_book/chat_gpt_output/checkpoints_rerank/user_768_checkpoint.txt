@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Catching Fire by Suzanne Collins
+3. Graceling by Kristin Cashore
+4. Fire by Kristin Cashore
+5. The Maze Runner by James Dashner
+6. The Wolves of Mercy Falls by Maggie Stiefvater
+7. Perfect Chemistry by Simone Elkeles
+8. If I Stay by Gayle Forman
+9. Uglies by Scott Westerfeld
+10. The Great Gatsby by F. Scott Fitzgerald
+11. Harry Potter by J.K. Rowling
+12. The Picture of Dorian Gray by Oscar Wilde
+13. The Hobbit by J.R.R. Tolkien
+14. Frankenstein by Mary Shelley
+15. Dracula by Bram Stoker
+16. The Stand by Stephen King
+17. Brave New World by Aldous Huxley
+18. Crime and Punishment by Fyodor Dostoevsky
+19. The Scarlet Letter by Nathaniel Hawthorne
+20. The Lord of the Rings by J.R.R. Tolkien
+21. The Giver by Lois Lowry
+22. The Outsiders by S.E. Hinton
+23. The Catcher in the Rye by J.D. Salinger
+24. Invisible Man by Ralph Ellison
+25. The Phantom of the Opera by Gaston Leroux
+26. Pygmalion by George Bernard Shaw
+27. The House of Mirth by Edith Wharton
+28. The Rapture by Liz Jensen
+29. The Southern Vampire Mysteries by Charlaine Harris
+30. The City of Ember by Jeanne DuPrau
+31. Across the Universe by Beth Revis
+32. Medea by Euripides
+33. The Silmarillion by J.R.R. Tolkien
+34. And the Ass Saw the Angel by Nick Cave
+35. Incarceron by Catherine Fisher
+36. The Pillowman by Martin McDonagh
+37. Through the Looking-Glass by Lewis Carroll
+38. Lady Chatterley's Lover by D.H. Lawrence
+39. Delta of Venus by Anaïs Nin
+40. The Tenant of Wildfell Hall by Anne Brontë
+41. The Gantz by Hiroya Oku
+42. Twilight Eyes by Dean Koontz
+43. Vampire Kisses by Ellen Schreiber
+44. Cut by Patricia McCormick
+45. If There Be Thorns by V.C. Andrews
+46. Petals on the Wind by V.C. Andrews
+47. List of Scott Pilgrim characters by Bryan Lee O'Malley
+48. A Series of Unfortunate Events by Lemony Snicket
+49. World War Z by Max Brooks
+50. Gravity's Rainbow by Thomas Pynchon

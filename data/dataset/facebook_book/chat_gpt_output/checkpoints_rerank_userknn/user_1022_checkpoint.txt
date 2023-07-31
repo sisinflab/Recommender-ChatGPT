@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter
+2. The Hunger Games: Mockingjay
+3. The Hunger Games: Catching Fire
+4. The Mortal Instruments: City of Glass
+5. The Magician's Nephew
+6. Inkheart
+7. The Lightning Thief
+8. The Book Thief
+9. Twilight
+10. The Lord of the Rings
+11. The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+12. The Chronicles of Narnia: The Voyage of the Dawn Treader
+13. The Chronicles of Narnia: The Silver Chair
+14. The Southern Vampire Mysteries
+15. Vampire Academy
+16. Ink Exchange
+17. Shadow Kiss
+18. Glass
+19. The Summoning
+20. The Demonata
+21. The Lovely Bones
+22. Percy Jackson & the Olympians
+23. The Alchemist
+24. The Last Song
+25. The Good Earth
+26. And Then There Were None
+27. Wuthering Heights
+28. Pride and Prejudice and Zombies
+29. The Horse and His Boy
+30. Eldest
+31. The Amber Spyglass
+32. Northern Lights
+33. The Twits
+34. Oliver Twist
+35. The Coldest Winter Ever
+36. Everworld
+37. Ranger's Apprentice
+38. Chinese Cinderella
+39. Black Butler
+40. The Lightning Thief
+41. The Last Battle
+42. A Midsummer Night's Dream
+43. Brisingr
+44. The Hunted
+45. Marked
+46. Tempted
+47. Vampire Kisses
+48. Cecilia
+49. Blue Moon
+50. Dr. Franklin's Island

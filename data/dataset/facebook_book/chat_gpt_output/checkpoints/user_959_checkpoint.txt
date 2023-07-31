@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Da Vinci Code by Dan Brown
+2. Angels and Demons by Dan Brown
+3. Inferno by Dan Brown
+4. The Girl with the Dragon Tattoo by Stieg Larsson
+5. The Girl Who Played with Fire by Stieg Larsson
+6. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+7. The Hunger Games by Suzanne Collins
+8. Catching Fire by Suzanne Collins
+9. Mockingjay by Suzanne Collins
+10. To Kill a Mockingbird by Harper Lee
+11. 1984 by George Orwell
+12. Animal Farm by George Orwell
+13. The Lord of the Rings by J.R.R. Tolkien
+14. The Hobbit by J.R.R. Tolkien
+15. The Catcher in the Rye by J.D. Salinger
+16. The Great Gatsby by F. Scott Fitzgerald
+17. Pride and Prejudice by Jane Austen
+18. Sense and Sensibility by Jane Austen
+19. Emma by Jane Austen
+20. Persuasion by Jane Austen
+21. Northanger Abbey by Jane Austen
+22. Wuthering Heights by Emily Bronte
+23. Jane Eyre by Charlotte Bronte
+24. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+25. The Hound of the Baskervilles by Arthur Conan Doyle
+26. The Memoirs of Sherlock Holmes by Arthur Conan Doyle
+27. The Return of Sherlock Holmes by Arthur Conan Doyle
+28. The Complete Sherlock Holmes by Arthur Conan Doyle
+29. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+30. The Restaurant at the End of the Universe by Douglas Adams
+31. Life, the Universe and Everything by Douglas Adams
+32. So Long, and Thanks for All the Fish by Douglas Adams
+33. Mostly Harmless by Douglas Adams
+34. The Martian by Andy Weir
+35. Ready Player One by Ernest Cline
+36. The Alchemist by Paulo Coelho
+37. The Kite Runner by Khaled Hosseini
+38. A Thousand Splendid Suns by Khaled Hosseini
+39. The Book Thief by Markus Zusak
+40. The Fault in Our Stars by John Green
+41. Looking for Alaska by John Green
+42. Paper Towns by John Green
+43. An Abundance of Katherines by John Green
+44. The Maze Runner by James Dashner
+45. Divergent by Veronica Roth
+46. Insurgent by Veronica Roth
+47. Allegiant by Veronica Roth
+48. The Selection by Kiera Cass
+49. The Elite by Kiera Cass
+50. The One by Kiera Cass

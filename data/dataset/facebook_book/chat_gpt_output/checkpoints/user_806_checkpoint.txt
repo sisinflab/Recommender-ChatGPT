@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. The Catcher in the Rye by J.D. Salinger
+4. To Kill a Mockingbird by Harper Lee
+5. The Great Gatsby by F. Scott Fitzgerald
+6. One Hundred Years of Solitude by Gabriel Garcia Marquez
+7. The Bell Jar by Sylvia Plath
+8. Lolita by Vladimir Nabokov
+9. The Stranger by Albert Camus
+10. The Trial by Franz Kafka
+11. The Metamorphosis by Franz Kafka
+12. The Brothers Karamazov by Fyodor Dostoevsky
+13. Crime and Punishment by Fyodor Dostoevsky
+14. The Idiot by Fyodor Dostoevsky
+15. Notes from Underground by Fyodor Dostoevsky
+16. The Picture of Dorian Gray by Oscar Wilde
+17. The Importance of Being Earnest by Oscar Wilde
+18. The Canterbury Tales by Geoffrey Chaucer
+19. The Divine Comedy by Dante Alighieri
+20. The Prince by Niccolò Machiavelli
+21. The Art of War by Sun Tzu
+22. The Odyssey by Homer
+23. The Iliad by Homer
+24. The Republic by Plato
+25. Meditations by Marcus Aurelius
+26. The Tao Te Ching by Lao Tzu
+27. The Analects by Confucius
+28. The Book of Five Rings by Miyamoto Musashi
+29. The Art of Love by Ovid
+30. The Aeneid by Virgil
+31. The Inferno by Dante Alighieri
+32. The Divine Comedy by Dante Alighieri
+33. The Canterbury Tales by Geoffrey Chaucer
+34. The Decameron by Giovanni Boccaccio
+35. The Prince and the Pauper by Mark Twain
+36. The Adventures of Huckleberry Finn by Mark Twain
+37. The Adventures of Tom Sawyer by Mark Twain
+38. The Sun Also Rises by Ernest Hemingway
+39. A Farewell to Arms by Ernest Hemingway
+40. For Whom the Bell Tolls by Ernest Hemingway
+41. The Old Man and the Sea by Ernest Hemingway
+42. The Sound and the Fury by William Faulkner
+43. As I Lay Dying by William Faulkner
+44. Light in August by William Faulkner
+45. Absalom, Absalom! by William Faulkner
+46. The Outsiders by S.E. Hinton
+47. Lord of the Flies by William Golding
+48. Heart of Darkness by Joseph Conrad
+49. The Secret History by Donna Tartt
+50. The Picture of

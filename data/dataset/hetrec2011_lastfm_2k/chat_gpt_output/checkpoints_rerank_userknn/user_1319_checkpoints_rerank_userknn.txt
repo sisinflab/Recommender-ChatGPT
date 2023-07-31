@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. Nirvana
+3. Muse
+4. Arctic Monkeys
+5. Green Day
+6. The Beatles
+7. Oasis
+8. Ramones
+9. Metallica
+10. Sex Pistols
+11. The Clash
+12. Jeff Buckley
+13. My Chemical Romance
+14. The Offspring
+15. Bad Religion
+16. The Pretty Reckless
+17. Hole
+18. Sigur Rós
+19. Coldplay
+20. Blur
+21. U2
+22. Vampire Weekend
+23. The Ting Tings
+24. happysad
+25. Florence + the Machine
+26. Archive
+27. Placebo
+28. Marina & the Diamonds
+29. Garbage
+30. R.E.M.
+31. Franz Ferdinand
+32. Queens of the Stone Age
+33. Foo Fighters
+34. Depeche Mode
+35. The Kooks
+36. The Libertines
+37. Justice
+38. Daft Punk
+39. Gorillaz
+40. Animal Collective
+41. MGMT
+42. Yeasayer
+43. Skillet
+44. Avenged Sevenfold
+45. Bowling for Soup
+46. Eels
+47. Pink Floyd
+48. David Gray
+49. Michael Jackson
+50. Bon Jovi

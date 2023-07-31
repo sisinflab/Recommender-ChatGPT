@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Alchemist by Paulo Coelho
+2. The Lord of the Rings by J.R.R. Tolkien
+3. To Kill a Mockingbird by Harper Lee
+4. 1984 by George Orwell
+5. The Catcher in the Rye by J.D. Salinger
+6. Pride and Prejudice by Jane Austen
+7. The Great Gatsby by F. Scott Fitzgerald
+8. Animal Farm by George Orwell
+9. The Hobbit by J.R.R. Tolkien
+10. The Hunger Games by Suzanne Collins
+11. Harry Potter and the Philosopher's Stone by J.K. Rowling
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Kite Runner by Khaled Hosseini
+14. The Da Vinci Code by Dan Brown
+15. The Chronicles of Narnia by C.S. Lewis
+16. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+17. The Picture of Dorian Gray by Oscar Wilde
+18. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+19. The Time Traveler's Wife by Audrey Niffenegger
+20. The Name of the Wind by Patrick Rothfuss
+21. The Road by Cormac McCarthy
+22. The Book Thief by Markus Zusak
+23. The Stand by Stephen King
+24. The Shining by Stephen King
+25. The Silence of the Lambs by Thomas Harris
+26. The Girl on the Train by Paula Hawkins
+27. The Help by Kathryn Stockett
+28. The Fault in Our Stars by John Green
+29. The Maze Runner by James Dashner
+30. The Bourne Identity by Robert Ludlum
+31. The Bourne Supremacy by Robert Ludlum
+32. The Bourne Ultimatum by Robert Ludlum
+33. The Bourne Legacy by Eric Van Lustbader
+34. The Hunger Games: Catching Fire by Suzanne Collins
+35. The Hunger Games: Mockingjay by Suzanne Collins
+36. The Sword of Shannara by Terry Brooks
+37. The Elfstones of Shannara by Terry Brooks
+38. The Wishsong of Shannara by Terry Brooks
+39. The Scorch Trials by James Dashner
+40. The Death Cure by James Dashner
+41. The Kill Order by James Dashner
+42. The Gunslinger by Stephen King
+43. The Drawing of the Three by Stephen King
+44. The Waste Lands by Stephen King
+45. Wizard and Glass by Stephen King
+46. Wolves of the Calla by Stephen King
+47. Song of Susannah by Stephen King
+48. The Dark Tower by Stephen King
+49. The Five People You Meet in Heaven by Mitch Albom
+50. Tuesdays with Morrie by Mitch Albom

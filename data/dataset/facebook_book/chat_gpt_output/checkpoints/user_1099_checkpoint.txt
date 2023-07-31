@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. To Kill a Mockingbird by Harper Lee
+3. 1984 by George Orwell
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Brave New World by Aldous Huxley
+6. The Lord of the Rings by J.R.R. Tolkien
+7. The Chronicles of Narnia by C.S. Lewis
+8. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Time Machine by H.G. Wells
+11. The War of the Worlds by H.G. Wells
+12. The Invisible Man by H.G. Wells
+13. The Island of Dr. Moreau by H.G. Wells
+14. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+15. Frankenstein by Mary Shelley
+16. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+17. The Count of Monte Cristo by Alexandre Dumas
+18. Les Misérables by Victor Hugo
+19. The Three Musketeers by Alexandre Dumas
+20. The Name of the Rose by Umberto Eco
+21. The Da Vinci Code by Dan Brown
+22. Angels and Demons by Dan Brown
+23. The Girl with the Dragon Tattoo by Stieg Larsson
+24. The Hunger Games by Suzanne Collins
+25. Catching Fire by Suzanne Collins
+26. Mockingjay by Suzanne Collins
+27. The Maze Runner by James Dashner
+28. The Scorch Trials by James Dashner
+29. The Death Cure by James Dashner
+30. The Bourne Identity by Robert Ludlum
+31. The Bourne Supremacy by Robert Ludlum
+32. The Bourne Ultimatum by Robert Ludlum
+33. The Firm by John Grisham
+34. The Pelican Brief by John Grisham
+35. The Client by John Grisham
+36. The Shining by Stephen King
+37. The Stand by Stephen King
+38. It by Stephen King
+39. The Silence of the Lambs by Thomas Harris
+40. Hannibal by Thomas Harris
+41. Red Dragon by Thomas Harris
+42. The Girl on the Train by Paula Hawkins
+43. Gone Girl by Gillian Flynn
+44. The Lovely Bones by Alice Sebold
+45. The Help by Kathryn Stockett
+46. The Kite Runner by Khaled Hosseini
+47. A Thousand Splendid Suns by Khaled Hosseini
+48. The Alchemist by Paulo Coelho
+49. One Hundred Years of Solitude by Gabriel Garcia Marquez
+50. Love in the Time of Cholera by Gabriel Garcia Marquez

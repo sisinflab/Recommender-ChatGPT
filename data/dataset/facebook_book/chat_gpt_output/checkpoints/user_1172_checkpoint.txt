@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. The Maze Runner by James Dashner
+3. Percy Jackson and the Olympians by Rick Riordan
+4. Divergent by Veronica Roth
+5. The Giver by Lois Lowry
+6. The Chronicles of Narnia by C.S. Lewis
+7. The Lord of the Rings by J.R.R. Tolkien
+8. The Hobbit by J.R.R. Tolkien
+9. The Fault in Our Stars by John Green
+10. The Book Thief by Markus Zusak
+11. The Girl with the Dragon Tattoo by Stieg Larsson
+12. The Da Vinci Code by Dan Brown
+13. The Catcher in the Rye by J.D. Salinger
+14. To Kill a Mockingbird by Harper Lee
+15. The Great Gatsby by F. Scott Fitzgerald
+16. 1984 by George Orwell
+17. Animal Farm by George Orwell
+18. Brave New World by Aldous Huxley
+19. Fahrenheit 451 by Ray Bradbury
+20. The Handmaid's Tale by Margaret Atwood
+21. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+22. The Shining by Stephen King
+23. It by Stephen King
+24. Pet Sematary by Stephen King
+25. Misery by Stephen King
+26. Carrie by Stephen King
+27. The Dark Tower series by Stephen King
+28. The Stand by Stephen King
+29. The Talisman by Stephen King and Peter Straub
+30. The Green Mile by Stephen King
+31. The Dead Zone by Stephen King
+32. The Tommyknockers by Stephen King
+33. The Eyes of the Dragon by Stephen King
+34. The Drawing of the Three by Stephen King
+35. The Gunslinger by Stephen King
+36. The Waste Lands by Stephen King
+37. The Dark Half by Stephen King
+38. The Regulators by Stephen King (as Richard Bachman)
+39. The Bachman Books by Stephen King (as Richard Bachman)
+40. The Running Man by Stephen King (as Richard Bachman)
+41. The Long Walk by Stephen King (as Richard Bachman)
+42. The Girl Who Loved Tom Gordon by Stephen King
+43. The Outsiders by S.E. Hinton
+44. That Was Then, This Is Now by S.E. Hinton
+45. Rumble Fish by S.E. Hinton
+46. Tex by S.E. Hinton
+47. Taming the Star Runner by S.E. Hinton
+48. The Hardy Boys series by Franklin W. Dixon
+49. The Nancy Drew series by Carolyn Keene
+50. The Boxcar Children series by Gertrude Chandler Warner

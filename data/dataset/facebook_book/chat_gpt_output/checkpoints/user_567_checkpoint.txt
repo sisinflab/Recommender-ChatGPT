@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Fault in Our Stars by John Green
+4. The Maze Runner by James Dashner
+5. Percy Jackson and the Olympians by Rick Riordan
+6. The Chronicles of Narnia by C.S. Lewis
+7. The Giver by Lois Lowry
+8. The Book Thief by Markus Zusak
+9. The Da Vinci Code by Dan Brown
+10. Angels and Demons by Dan Brown
+11. Inferno by Dan Brown
+12. The Lost Symbol by Dan Brown
+13. The Girl with the Dragon Tattoo by Stieg Larsson
+14. The Girl Who Played with Fire by Stieg Larsson
+15. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+16. The Help by Kathryn Stockett
+17. The Secret Life of Bees by Sue Monk Kidd
+18. The Kite Runner by Khaled Hosseini
+19. A Thousand Splendid Suns by Khaled Hosseini
+20. The Time Traveler's Wife by Audrey Niffenegger
+21. The Lovely Bones by Alice Sebold
+22. The Shack by William P. Young
+23. Tuesdays with Morrie by Mitch Albom
+24. The Five People You Meet in Heaven by Mitch Albom
+25. The Magic Strings of Frankie Presto by Mitch Albom
+26. The Notebook by Nicholas Sparks
+27. A Walk to Remember by Nicholas Sparks
+28. The Last Song by Nicholas Sparks
+29. The Lucky One by Nicholas Sparks
+30. The Best of Me by Nicholas Sparks
+31. The Notebook by Nicholas Sparks
+32. The Princess Bride by William Goldman
+33. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+34. The Catcher in the Rye by J.D. Salinger
+35. To Kill a Mockingbird by Harper Lee
+36. The Great Gatsby by F. Scott Fitzgerald
+37. 1984 by George Orwell
+38. Animal Farm by George Orwell
+39. Brave New World by Aldous Huxley
+40. Fahrenheit 451 by Ray Bradbury
+41. The Hobbit by J.R.R. Tolkien
+42. The Lord of the Rings by J.R.R. Tolkien
+43. The Silmarillion by J.R.R. Tolkien
+44. The Chronicles of Prydain by Lloyd Alexander
+45. The Sword of Shannara by Terry Brooks
+46. The Wheel of Time by Robert Jordan
+47. The Name of the Wind by Patrick Rothfuss
+48. The Wise Man's Fear by Patrick Rothfuss
+49. The Way of Kings by Brandon Sanderson
+50. Mistborn by Brandon Sanderson

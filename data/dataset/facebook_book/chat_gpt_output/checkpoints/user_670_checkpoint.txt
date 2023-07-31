@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Complete Fiction of H.P. Lovecraft by H.P. Lovecraft
+2. The Stand by Stephen King
+3. The Complete Fairy Tales of Hans Christian Andersen by Hans Christian Andersen
+4. The Complete Works of William Shakespeare by William Shakespeare
+5. The Complete Chronicles of Narnia by C.S. Lewis
+6. The Complete Sherlock Holmes by Arthur Conan Doyle
+7. The Complete Tales and Poems of Edgar Allan Poe by Edgar Allan Poe
+8. The Complete Works of Mark Twain by Mark Twain
+9. The Complete Works of J.M. Barrie by J.M. Barrie
+10. The Divine Comedy by Dante Alighieri
+11. The Canterbury Tales by Geoffrey Chaucer
+12. The Iliad and The Odyssey by Homer
+13. The Republic by Plato
+14. The Art of War by Sun Tzu
+15. The Picture of Dorian Gray by Oscar Wilde
+16. The Great Gatsby by F. Scott Fitzgerald
+17. To Kill a Mockingbird by Harper Lee
+18. 1984 by George Orwell
+19. Brave New World by Aldous Huxley
+20. Animal Farm by George Orwell
+21. The Catcher in the Rye by J.D. Salinger
+22. One Hundred Years of Solitude by Gabriel Garcia Marquez
+23. Crime and Punishment by Fyodor Dostoevsky
+24. War and Peace by Leo Tolstoy
+25. Anna Karenina by Leo Tolstoy
+26. The Brothers Karamazov by Fyodor Dostoevsky
+27. Don Quixote by Miguel de Cervantes
+28. The Odyssey by Homer
+29. The Aeneid by Virgil
+30. The Inferno by Dante Alighieri
+31. The Divine Comedy by Dante Alighieri
+32. The Canterbury Tales by Geoffrey Chaucer
+33. The Decameron by Giovanni Boccaccio
+34. The Prince by Niccolò Machiavelli
+35. The Leviathan by Thomas Hobbes
+36. The Wealth of Nations by Adam Smith
+37. The Communist Manifesto by Karl Marx and Friedrich Engels
+38. The Origin of Species by Charles Darwin
+39. The Structure of Scientific Revolutions by Thomas S. Kuhn
+40. The Selfish Gene by Richard Dawkins
+41. The Blind Watchmaker by Richard Dawkins
+42. The God Delusion by Richard Dawkins
+43. The Elegant Universe by Brian Greene
+44. A Brief History of Time by Stephen Hawking
+45. The Universe in a Nutshell by Stephen Hawking
+46. The Fabric of the Cosmos by Brian Greene
+47. The Grand Design by Stephen Hawking and Leonard Mlodinow
+48. The Elegant Universe by Brian Greene
+49. The

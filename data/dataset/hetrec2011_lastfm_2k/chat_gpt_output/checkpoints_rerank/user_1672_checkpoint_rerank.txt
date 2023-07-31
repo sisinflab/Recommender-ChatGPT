@@ -1,0 +1,54 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. Nick Cave and the Bad Seeds
+3. The Velvet Underground
+4. Joy Division
+5. The National
+6. The xx
+7. Portishead
+8. The Kills
+9. Massive Attack
+10. Tom Waits
+11. Jeff Buckley
+12. Antony and the Johnsons
+13. PJ Harvey
+14. The Black Keys
+15. Kings of Leon
+16. Bauhaus
+17. Devendra Banhart
+18. Morphine
+19. IAMX
+20. Peter Doherty
+21. Babyshambles
+22. Martin L. Gore
+23. The Rolling Stones
+24. Bob Dylan
+25. Patrick Wolf
+26. Empire of the Sun
+27. Peaches
+28. Arctic Monkeys
+29. Placebo
+30. Blur
+31. The Cure
+32. Nirvana
+33. Led Zeppelin
+34. Metallica
+35. Iron Maiden
+36. Nine Inch Nails
+37. Daft Punk
+38. Linkin Park
+39. System of a Down
+40. Avenged Sevenfold
+41. Pink Floyd
+42. U2
+43. Muse
+44. Michael Jackson
+45. Pearl Jam
+46. Kelly Clarkson
+47. All Time Low
+48. My Chemical Romance
+49. Green Day
+50. Black Eyed Peas
+
+Note: The artists Britney Spears, Lady Gaga, Christina Aguilera, Paramore, Madonna, Rihanna, Shakira, The Beatles, Katy Perry, Avril Lavigne, Taylor Swift, Evanescence, Glee Cast, and Beyoncé were not included in the top 50 recommendations as they do not align with the user's stated preferences.

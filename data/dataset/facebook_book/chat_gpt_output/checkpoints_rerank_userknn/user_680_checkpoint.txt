@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Nineteen Eighty-Four by George Orwell
+2. The Lord of the Rings by J.R.R. Tolkien
+3. Harry Potter by J.K. Rowling
+4. Fahrenheit 451 by Ray Bradbury
+5. Dracula by Bram Stoker
+6. Les Misérables by Victor Hugo
+7. The Alchemist by Paulo Coelho
+8. The Kite Runner by Khaled Hosseini
+9. The Notebook by Nicholas Sparks
+10. The Scarlet Letter by Nathaniel Hawthorne
+11. Jane Eyre by Charlotte Bronte
+12. A Thousand Splendid Suns by Khaled Hosseini
+13. The Old Man and the Sea by Ernest Hemingway
+14. Slaughterhouse-Five by Kurt Vonnegut
+15. The Prince by Niccolò Machiavelli
+16. Great Expectations by Charles Dickens
+17. The Outsiders by S.E. Hinton
+18. War and Peace by Leo Tolstoy
+19. Ethan Frome by Edith Wharton
+20. The Master and Margarita by Mikhail Bulgakov
+21. The Call of the Wild by Jack London
+22. Little Women by Louisa May Alcott
+23. The Purpose Driven Life by Rick Warren
+24. Night by Elie Wiesel
+25. The Chosen by Chaim Potok
+26. Their Eyes Were Watching God by Zora Neale Hurston
+27. Touching Spirit Bear by Ben Mikaelsen
+28. The White Tiger by Aravind Adiga
+29. The Wardstone Chronicles by Joseph Delaney
+30. The Fire Within by Chris d'Lacey
+31. Wild Magic by Tamora Pierce
+32. The Class by Erich Segal
+33. The Zombie Survival Guide by Max Brooks
+34. The 5th Horseman by James Patterson
+35. Halo: Contact Harvest by Joseph Staten
+36. The Notebook by Agota Kristof
+37. The Master and Margarita by Mikhail Bulgakov
+38. The Purpose Driven Life by Rick Warren
+39. Manual of the Warrior of Light by Paulo Coelho
+40. Micah by Laurell K. Hamilton
+41. The Wardstone Chronicles by Joseph Delaney
+42. The Fire Within by Chris d'Lacey
+43. Wild Magic by Tamora Pierce
+44. World Without End by Ken Follett
+45. The Class by Erich Segal
+46. The Outsiders by S.E. Hinton
+47. Twisted by Laurie Halse Anderson
+48. The Notebook by Agota Kristof
+49. The White Tiger by Aravind Adiga
+50. Mythology by Edith Hamilton

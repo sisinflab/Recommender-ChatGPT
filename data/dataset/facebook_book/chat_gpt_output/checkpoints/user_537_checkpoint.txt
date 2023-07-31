@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Catching Fire by Suzanne Collins
+2. The Maze Runner by James Dashner
+3. Divergent by Veronica Roth
+4. The Fault in Our Stars by John Green
+5. The Girl on the Train by Paula Hawkins
+6. The Da Vinci Code by Dan Brown
+7. The Lord of the Rings by J.R.R. Tolkien
+8. The Hobbit by J.R.R. Tolkien
+9. The Chronicles of Narnia by C.S. Lewis
+10. The Alchemist by Paulo Coelho
+11. The Catcher in the Rye by J.D. Salinger
+12. To Kill a Mockingbird by Harper Lee
+13. 1984 by George Orwell
+14. Animal Farm by George Orwell
+15. The Great Gatsby by F. Scott Fitzgerald
+16. Pride and Prejudice by Jane Austen
+17. Sense and Sensibility by Jane Austen
+18. Emma by Jane Austen
+19. Persuasion by Jane Austen
+20. Northanger Abbey by Jane Austen
+21. Wuthering Heights by Emily Bronte
+22. Jane Eyre by Charlotte Bronte
+23. The Picture of Dorian Gray by Oscar Wilde
+24. Frankenstein by Mary Shelley
+25. Dracula by Bram Stoker
+26. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+27. The Hound of the Baskervilles by Arthur Conan Doyle
+28. The War of the Worlds by H.G. Wells
+29. The Time Machine by H.G. Wells
+30. The Invisible Man by H.G. Wells
+31. The Island of Dr. Moreau by H.G. Wells
+32. The Call of the Wild by Jack London
+33. White Fang by Jack London
+34. The Old Man and the Sea by Ernest Hemingway
+35. For Whom the Bell Tolls by Ernest Hemingway
+36. The Sun Also Rises by Ernest Hemingway
+37. A Farewell to Arms by Ernest Hemingway
+38. The Grapes of Wrath by John Steinbeck
+39. Of Mice and Men by John Steinbeck
+40. East of Eden by John Steinbeck
+41. One Hundred Years of Solitude by Gabriel Garcia Marquez
+42. Love in the Time of Cholera by Gabriel Garcia Marquez
+43. The Name of the Rose by Umberto Eco
+44. The Pillars of the Earth by Ken Follett
+45. A Game of Thrones by George R.R. Martin
+46. The Fellowship of the Ring by J.R.R. Tolkien
+47. The Two Towers by J.R.R. Tolkien
+48. The Return of the King by J.R.R. Tolkien
+49. The Silmarillion by J.R.R. Tolkien
+50. The Children of Hurin by J

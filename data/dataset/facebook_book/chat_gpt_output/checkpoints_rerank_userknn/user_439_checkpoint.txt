@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Lord of the Rings by J. R. R. Tolkien
+2. The Silmarillion by J. R. R. Tolkien
+3. The Hobbit by J. R. R. Tolkien
+4. The Catcher in the Rye by J. D. Salinger
+5. Dracula by Bram Stoker
+6. The Canterbury Tales by Geoffrey Chaucer
+7. Crime and Punishment by Fyodor Dostoevsky
+8. Memoirs of a Geisha by Arthur Golden
+9. The Iliad by Homer
+10. The Aeneid by Virgil
+11. The Inferno by Dante Alighieri
+12. The Plague by Albert Camus
+13. Fahrenheit 451 by Ray Bradbury
+14. A Clockwork Orange by Anthony Burgess
+15. The Da Vinci Code by Dan Brown
+16. Angels & Demons by Dan Brown
+17. His Dark Materials by Philip Pullman
+18. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+19. Adventures of Huckleberry Finn by Mark Twain
+20. Tess of the d'Urbervilles by Thomas Hardy
+21. Anne of Green Gables by L. M. Montgomery
+22. Black Beauty by Anna Sewell
+23. A Christmas Carol by Charles Dickens
+24. The Wonderful Wizard of Oz by L. Frank Baum
+25. The Bourne Ultimatum by Robert Ludlum
+26. The Vampire Chronicles by Anne Rice
+27. Twilight by Stephenie Meyer
+28. Vampire Kisses by Ellen Schreiber
+29. The Queen of the Damned by Anne Rice
+30. Dry by Augusten Burroughs
+31. Persepolis by Marjane Satrapi
+32. Ancient History by Joseph McElroy
+33. The Silver Wolf by Alice Borchardt
+34. Fushigi Yugi by Yuu Watase
+35. Graphic Novel by Will Eisner
+36. Kidnapped by Robert Louis Stevenson
+37. Through the Looking-Glass by Lewis Carroll
+38. 300 by Frank Miller
+39. Valiant: A Modern Tale of Faerie by Holly Black
+40. Ceres, Celestial Legend by Yuu Watase
+41. Dune by Frank Herbert
+42. Danse Macabre by Stephen King
+43. Ranger's Apprentice by John Flanagan
+44. Brisingr by Christopher Paolini
+45. The Last Storytellers: Tales from the Heart of Morocco by Richard Hamilton
+46. The Watchmen by Alan Moore
+47. Sin City by Frank Miller
+48. Strange Angels by Lili St. Crow
+49. Mountains Beyond Mountains by Tracy Kidder
+50. Twisted by Laurie Halse Anderson

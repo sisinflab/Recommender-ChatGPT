@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Impulse by Ellen Hopkins
+2. The Giver by Lois Lowry
+3. Thirteen Reasons Why by Jay Asher
+4. The Maze Runner by James Dashner
+5. The Hunger Games by Suzanne Collins
+6. Looking for Alaska by John Green
+7. The Fault in Our Stars by John Green
+8. Speak by Laurie Halse Anderson
+9. Wintergirls by Laurie Halse Anderson
+10. The Perks of Being a Wallflower by Stephen Chbosky
+11. The Bell Jar by Sylvia Plath
+12. The Lovely Bones by Alice Sebold
+13. Room by Emma Donoghue
+14. We Were Liars by E. Lockhart
+15. The Book Thief by Markus Zusak
+16. The Girl on the Train by Paula Hawkins
+17. The Handmaid's Tale by Margaret Atwood
+18. 1984 by George Orwell
+19. Fahrenheit 451 by Ray Bradbury
+20. The Road by Cormac McCarthy
+21. The Stand by Stephen King
+22. The Shining by Stephen King
+23. Misery by Stephen King
+24. Carrie by Stephen King
+25. The Dark Tower series by Stephen King
+26. The Lord of the Rings by J.R.R. Tolkien
+27. The Hobbit by J.R.R. Tolkien
+28. The Chronicles of Narnia by C.S. Lewis
+29. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+30. Ender's Game by Orson Scott Card
+31. Dune by Frank Herbert
+32. The Foundation series by Isaac Asimov
+33. The Martian by Andy Weir
+34. Ready Player One by Ernest Cline
+35. The Da Vinci Code by Dan Brown
+36. Angels and Demons by Dan Brown
+37. The Girl with the Dragon Tattoo by Stieg Larsson
+38. The Bourne Identity by Robert Ludlum
+39. The Silence of the Lambs by Thomas Harris
+40. The Girl Who Loved Tom Gordon by Stephen King
+41. The Talisman by Stephen King and Peter Straub
+42. The Dark Half by Stephen King
+43. The Dead Zone by Stephen King
+44. The Outsider by Stephen King
+45. The Institute by Stephen King
+46. The Eyes of the Dragon by Stephen King
+47. The Stand: The Complete and Uncut Edition by Stephen King
+48. The Tommyknockers by Stephen King
+49. The Green Mile by Stephen King
+50. The Long Walk by Stephen King

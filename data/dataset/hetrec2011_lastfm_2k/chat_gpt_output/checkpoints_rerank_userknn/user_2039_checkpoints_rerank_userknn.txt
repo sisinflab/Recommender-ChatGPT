@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Björk
+3. Florence + the Machine
+4. The Beatles
+5. Keane
+6. U2
+7. Alanis Morissette
+8. R.E.M.
+9. Sarah McLachlan
+10. Loreena McKennitt
+11. The Verve
+12. Snow Patrol
+13. Stereophonics
+14. Maroon 5
+15. Kasabian
+16. Pearl Jam
+17. Depeche Mode
+18. The Chemical Brothers
+19. Everything but the Girl
+20. Annie Lennox
+21. Richard Ashcroft
+22. James Blunt
+23. Destiny's Child
+24. Paramore
+25. The Prodigy
+26. Silversun Pickups
+27. Hanson
+28. Nelly Furtado
+29. Dido
+30. Sugababes
+31. Goldfrapp
+32. Natasha Bedingfield
+33. Garbage
+34. Madonna
+35. Lily Allen
+36. Mylène Farmer
+37. Cyndi Lauper
+38. Ellie Goulding
+39. Shakira
+40. Gwen Stefani
+41. Lady Gaga
+42. Little Boots
+43. Rihanna
+44. Nightwish
+45. Kate Nash
+46. P!nk
+47. Brandon Flowers
+48. Tori Amos
+49. Fiona Apple
+50. Regina Spektor

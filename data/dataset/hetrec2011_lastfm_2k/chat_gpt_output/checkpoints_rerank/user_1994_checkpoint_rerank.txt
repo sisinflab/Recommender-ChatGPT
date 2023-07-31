@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Smiths
+2. David Bowie
+3. Roxy Music
+4. Metric
+5. Yeah Yeah Yeahs
+6. Crystal Castles
+7. Lily Allen
+8. Arctic Monkeys
+9. Weezer
+10. Joy Division
+11. Klaxons
+12. The Sounds
+13. Rilo Kiley
+14. Muse
+15. Tori Amos
+16. Ladyhawke
+17. Amy Winehouse
+18. Vive la Fête
+19. T. Rex
+20. Cat Stevens
+21. Iggy Pop
+22. Le Tigre
+23. MGMT
+24. Kate Nash
+25. Chico Buarque
+26. Depeche Mode
+27. Radiohead
+28. Nirvana
+29. The Beatles
+30. Pink Floyd
+31. Led Zeppelin
+32. Metallica
+33. Iron Maiden
+34. Pearl Jam
+35. a-ha
+36. Björk
+37. Duran Duran
+38. Coldplay
+39. Blur
+40. Placebo
+41. The Killers
+42. U2
+43. 30 Seconds to Mars
+44. Evanescence
+45. Ke$ha
+46. Madonna
+47. Christina Aguilera
+48. Lady Gaga
+49. Rihanna
+50. Shakira

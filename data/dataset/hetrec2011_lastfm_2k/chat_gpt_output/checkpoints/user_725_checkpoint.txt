@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Ludwig van Beethoven
+2. Radiohead
+3. Johann Sebastian Bach
+4. The Beatles
+5. Nine Inch Nails
+6. David Bowie
+7. Sigur Rós
+8. Tool
+9. Massive Attack
+10. Aphex Twin
+11. Portishead
+12. The Doors
+13. Joy Division
+14. Nick Cave and the Bad Seeds
+15. The Cure
+16. Pink Martini
+17. The Rolling Stones
+18. The Smiths
+19. Talking Heads
+20. The Velvet Underground
+21. Arcade Fire
+22. Björk
+23. Brian Eno
+24. The Chemical Brothers
+25. The Clash
+26. The Flaming Lips
+27. Frank Zappa
+28. Genesis
+29. Grateful Dead
+30. Iron Maiden
+31. Jefferson Airplane
+32. King Crimson
+33. Led Zeppelin
+34. Metallica
+35. Miles Davis
+36. Nirvana
+37. Pearl Jam
+38. Pixies
+39. Queen
+40. Radio Tarifa
+41. Red Hot Chili Peppers
+42. Rush
+43. Santana
+44. The Sex Pistols
+45. Sonic Youth
+46. Steely Dan
+47. The Stooges
+48. Tangerine Dream
+49. Tom Waits
+50. Yes

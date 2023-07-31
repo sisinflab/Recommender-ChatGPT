@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Time Traveler's Wife by Audrey Niffenegger
+2. Me Before You by Jojo Moyes
+3. The Fault in Our Stars by John Green
+4. The Notebook by Nicholas Sparks
+5. The Lucky One by Nicholas Sparks
+6. The Last Song by Nicholas Sparks
+7. The Best of Me by Nicholas Sparks
+8. The Choice by Nicholas Sparks
+9. Safe Haven by Nicholas Sparks
+10. The Wedding by Nicholas Sparks
+11. The Longest Ride by Nicholas Sparks
+12. The Rescue by Nicholas Sparks
+13. The Guardian by Nicholas Sparks
+14. The Shack by William P. Young
+15. The Help by Kathryn Stockett
+16. The Hunger Games by Suzanne Collins
+17. Catching Fire by Suzanne Collins
+18. Mockingjay by Suzanne Collins
+19. The Girl on the Train by Paula Hawkins
+20. Gone Girl by Gillian Flynn
+21. The Lovely Bones by Alice Sebold
+22. The Kite Runner by Khaled Hosseini
+23. A Thousand Splendid Suns by Khaled Hosseini
+24. And the Mountains Echoed by Khaled Hosseini
+25. The Alchemist by Paulo Coelho
+26. The Da Vinci Code by Dan Brown
+27. Angels and Demons by Dan Brown
+28. Inferno by Dan Brown
+29. The Lost Symbol by Dan Brown
+30. The Bourne Identity by Robert Ludlum
+31. The Bourne Supremacy by Robert Ludlum
+32. The Bourne Ultimatum by Robert Ludlum
+33. The Bourne Legacy by Eric Van Lustbader
+34. The Bourne Betrayal by Eric Van Lustbader
+35. The Bourne Sanction by Eric Van Lustbader
+36. The Bourne Deception by Eric Van Lustbader
+37. The Bourne Objective by Eric Van Lustbader
+38. The Bourne Dominion by Eric Van Lustbader
+39. The Bourne Imperative by Eric Van Lustbader
+40. The Bourne Retribution by Eric Van Lustbader
+41. The Bourne Ascendancy by Eric Van Lustbader
+42. The Bourne Enigma by Eric Van Lustbader
+43. The Bourne Initiative by Eric Van Lustbader
+44. The Bourne Nemesis by Eric Van Lustbader
+45. The Bourne Objective by Eric Van Lustbader
+46. The Bourne Ascendancy by Eric Van Lustbader
+47. The Bourne Enigma by Eric Van Lustbader
+48. The Bourne Initiative by Eric Van Lustbader
+49. The Bourne Nemesis by Eric Van Lustbader
+50. The Bourne Objective by Eric Van Lustbader

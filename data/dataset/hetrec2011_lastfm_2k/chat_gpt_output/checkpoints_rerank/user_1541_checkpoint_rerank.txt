@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Pet Shop Boys
+2. Yazoo
+3. The Human League
+4. Gary Numan
+5. Soft Cell
+6. New Order
+7. Orchestral Manoeuvres in the Dark
+8. Ladytron
+9. Goldfrapp
+10. Erasure
+11. Little Boots
+12. Sparks
+13. Fischerspooner
+14. Vive la Fête
+15. LCD Soundsystem
+16. Depeche Mode
+17. Madonna
+18. The Beatles
+19. Duran Duran
+20. La Roux
+21. Soulwax
+22. The Faint
+23. Animal Collective
+24. Franz Ferdinand
+25. Radiohead
+26. Arctic Monkeys
+27. Muse
+28. Pink Floyd
+29. Blur
+30. Coldplay
+31. Placebo
+32. The Killers
+33. Nirvana
+34. Led Zeppelin
+35. Iron Maiden
+36. Metallica
+37. Michael Jackson
+38. Pearl Jam
+39. a-ha
+40. Björk
+41. Nine Inch Nails
+42. Daft Punk
+43. Linkin Park
+44. Avenged Sevenfold
+45. My Chemical Romance
+46. Green Day
+47. The Cure
+48. Paramore
+49. Evanescence
+50. Katy Perry

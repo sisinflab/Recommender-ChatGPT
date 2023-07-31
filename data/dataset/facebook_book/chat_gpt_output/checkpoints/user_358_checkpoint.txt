@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Kite Runner by Khaled Hosseini
+2. The Help by Kathryn Stockett
+3. The Hunger Games by Suzanne Collins
+4. The Da Vinci Code by Dan Brown
+5. The Girl with the Dragon Tattoo by Stieg Larsson
+6. The Fault in Our Stars by John Green
+7. To Kill a Mockingbird by Harper Lee
+8. The Alchemist by Paulo Coelho
+9. The Catcher in the Rye by J.D. Salinger
+10. The Lovely Bones by Alice Sebold
+11. The Secret Life of Bees by Sue Monk Kidd
+12. The Notebook by Nicholas Sparks
+13. The Time Traveler's Wife by Audrey Niffenegger
+14. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+15. The Book Thief by Markus Zusak
+16. The Shack by William P. Young
+17. The Help by Kathryn Stockett
+18. The Hunger Games by Suzanne Collins
+19. The Da Vinci Code by Dan Brown
+20. The Girl with the Dragon Tattoo by Stieg Larsson
+21. The Fault in Our Stars by John Green
+22. To Kill a Mockingbird by Harper Lee
+23. The Alchemist by Paulo Coelho
+24. The Catcher in the Rye by J.D. Salinger
+25. The Lovely Bones by Alice Sebold
+26. The Secret Life of Bees by Sue Monk Kidd
+27. The Notebook by Nicholas Sparks
+28. The Time Traveler's Wife by Audrey Niffenegger
+29. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+30. The Book Thief by Markus Zusak
+31. The Shack by William P. Young
+32. The Help by Kathryn Stockett
+33. The Hunger Games by Suzanne Collins
+34. The Da Vinci Code by Dan Brown
+35. The Girl with the Dragon Tattoo by Stieg Larsson
+36. The Fault in Our Stars by John Green
+37. To Kill a Mockingbird by Harper Lee
+38. The Alchemist by Paulo Coelho
+39. The Catcher in the Rye by J.D. Salinger
+40. The Lovely Bones by Alice Sebold
+41. The Secret Life of Bees by Sue Monk Kidd
+42. The Notebook by Nicholas Sparks
+43. The Time Traveler's Wife by Audrey Niffenegger
+44. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+45. The Book Thief by Markus Zusak
+46. The Shack by William P. Young
+47. The Help by Kathryn Stockett
+48. The Hunger Games by Suzanne Collins
+49. The Da Vinci Code by Dan Brown
+50. The Girl with the Dragon Tattoo by Stieg Larsson

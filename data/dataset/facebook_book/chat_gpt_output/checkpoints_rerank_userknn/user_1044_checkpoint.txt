@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. Nineteen Eighty-Four by George Orwell
+3. Dune by Frank Herbert
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Crime and Punishment by Fyodor Dostoevsky
+6. The Catcher in the Rye by J.D. Salinger
+7. Frankenstein by Mary Shelley
+8. A Clockwork Orange by Anthony Burgess
+9. The Lion, the Witch and the Wardrobe by C.S. Lewis
+10. Alice's Adventures in Wonderland by Lewis Carroll
+11. The Phantom of the Opera by Gaston Leroux
+12. The Alchemist by Paulo Coelho
+13. Sense and Sensibility by Jane Austen
+14. The Scarlet Letter by Nathaniel Hawthorne
+15. The Merchant of Venice by William Shakespeare
+16. A Midsummer Night's Dream by William Shakespeare
+17. The Pit and the Pendulum by Edgar Allan Poe
+18. Bram Stoker's Dracula by Bram Stoker
+19. Lady Chatterley's Lover by D.H. Lawrence
+20. Lolita by Vladimir Nabokov
+21. The Outsiders by S.E. Hinton
+22. Fahrenheit 451 by Ray Bradbury
+23. The Giver by Lois Lowry
+24. To Kill a Mockingbird by Harper Lee
+25. The Grapes of Wrath by John Steinbeck
+26. Invisible Man by Ralph Ellison
+27. Brave New World by Aldous Huxley
+28. Lord of the Flies by William Golding
+29. The Boy in the Striped Pyjamas by John Boyne
+30. Watchmen by Alan Moore
+31. Leaving a Doll's House: A Memoir by Claire Bloom
+32. Dreams from My Father by Barack Obama
+33. Roots: The Saga of an American Family by Alex Haley
+34. My Name Is Red by Orhan Pamuk
+35. Matilda by Roald Dahl
+36. Charlie and the Chocolate Factory by Roald Dahl
+37. George's Marvellous Medicine by Roald Dahl
+38. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+39. Eldest by Christopher Paolini
+40. The Lost Years of Merlin by T.A. Barron
+41. Isaac Asimov's Robot City by William F. Wu
+42. Outlander by Diana Gabaldon
+43. The Most Dangerous Game by Richard Connell
+44. New Arabian Nights by Robert Louis Stevenson
+45. Far from the Madding Crowd by Thomas Hardy
+46. Point Blanc by Anthony Horowitz
+47. Into Thin Air by Jon Krakauer
+48. Reviving Ophelia by Mary Pipher
+49. Fear and Loathing in Las Vegas by Hunter S. Thompson

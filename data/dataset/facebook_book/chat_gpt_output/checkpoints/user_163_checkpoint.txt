@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. One Hundred Years of Solitude by Gabriel García Márquez
+2. The Shadow of the Wind by Carlos Ruiz Zafón
+3. The Name of the Rose by Umberto Eco
+4. The Picture of Dorian Gray by Oscar Wilde
+5. The Master and Margarita by Mikhail Bulgakov
+6. The Bell Jar by Sylvia Plath
+7. The Catcher in the Rye by J.D. Salinger
+8. The Great Gatsby by F. Scott Fitzgerald
+9. To Kill a Mockingbird by Harper Lee
+10. 1984 by George Orwell
+11. Animal Farm by George Orwell
+12. The Hobbit by J.R.R. Tolkien
+13. The Lord of the Rings by J.R.R. Tolkien
+14. The Chronicles of Narnia by C.S. Lewis
+15. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+16. The Da Vinci Code by Dan Brown
+17. Angels and Demons by Dan Brown
+18. The Girl with the Dragon Tattoo by Stieg Larsson
+19. The Hunger Games by Suzanne Collins
+20. Catching Fire by Suzanne Collins
+21. Mockingjay by Suzanne Collins
+22. The Maze Runner by James Dashner
+23. The Giver by Lois Lowry
+24. The Fault in Our Stars by John Green
+25. Looking for Alaska by John Green
+26. Paper Towns by John Green
+27. The Book Thief by Markus Zusak
+28. The Kite Runner by Khaled Hosseini
+29. A Thousand Splendid Suns by Khaled Hosseini
+30. The Alchemist by Paulo Coelho
+31. The Little Prince by Antoine de Saint-Exupéry
+32. The Outsiders by S.E. Hinton
+33. Lord of the Flies by William Golding
+34. The Road by Cormac McCarthy
+35. The Stand by Stephen King
+36. It by Stephen King
+37. The Shining by Stephen King
+38. Carrie by Stephen King
+39. The Silence of the Lambs by Thomas Harris
+40. Red Dragon by Thomas Harris
+41. Hannibal by Thomas Harris
+42. The Girl on the Train by Paula Hawkins
+43. The Help by Kathryn Stockett
+44. The Color Purple by Alice Walker
+45. Beloved by Toni Morrison
+46. The Handmaid's Tale by Margaret Atwood
+47. The Testaments by Margaret Atwood
+48. The God of Small Things by Arundhati Roy
+49. The Joy Luck Club by Amy Tan
+50. The House on Mango Street by Sandra Cisneros

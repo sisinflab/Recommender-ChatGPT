@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hobbit by J.R.R. Tolkien
+2. To Kill a Mockingbird by Harper Lee
+3. The Lord of the Rings by J.R.R. Tolkien
+4. Frankenstein by Mary Shelley
+5. Animal Farm by George Orwell
+6. The Catcher in the Rye by J.D. Salinger
+7. The Silence of the Lambs by Thomas Harris
+8. The Name of the Rose by Umberto Eco
+9. The Perks of Being a Wallflower by Stephen Chbosky
+10. The Magician's Nephew by C.S. Lewis
+11. The Screwtape Letters by C.S. Lewis
+12. The Lion, the Witch and the Wardrobe by C.S. Lewis
+13. The Elements of Style by William Strunk Jr. and E.B. White
+14. The Giver by Lois Lowry
+15. One Hundred Years of Solitude by Gabriel García Márquez
+16. The Handmaid's Tale by Margaret Atwood
+17. The History of the Decline and Fall of the Roman Empire by Edward Gibbon
+18. East of Eden by John Steinbeck
+19. Romeo and Juliet by William Shakespeare
+20. The Hunchback of Notre-Dame by Victor Hugo
+21. Dracula by Bram Stoker
+22. The Swiss Family Robinson by Johann David Wyss
+23. Around the World in Eighty Days by Jules Verne
+24. Memoirs of a Geisha by Arthur Golden
+25. Hannibal by Thomas Harris
+26. Red Dragon by Thomas Harris
+27. The Crucible of Time by John Brunner
+28. Oliver Twist by Charles Dickens
+29. Deenie by Judy Blume
+30. The Watchmen by Alan Moore and Dave Gibbons
+31. The Silmarillion by J.R.R. Tolkien
+32. The Illuminatus! Trilogy by Robert Shea and Robert Anton Wilson
+33. The Prince by Niccolò Machiavelli
+34. The Rules of Attraction by Bret Easton Ellis
+35. Extremely Loud and Incredibly Close by Jonathan Safran Foer
+36. All the Pretty Horses by Cormac McCarthy
+37. The Garden of Eden by Ernest Hemingway
+38. The Big Over Easy by Jasper Fforde
+39. The God of Small Things by Arundhati Roy
+40. Coraline by Neil Gaiman
+41. A Study in Scarlet by Arthur Conan Doyle
+42. My Horizontal Life by Chelsea Handler
+43. Naked by David Sedaris
+44. Night by Elie Wiesel
+45. Gathering Blue by Lois Lowry
+46. The Old Man and the Sea by Ernest Hemingway
+47. Harry Potter by J.K. Rowling
+48. Tricks by Ellen Hopkins
+49. Speak by Laurie H

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. System of a Down
+2. Slipknot
+3. Linkin Park
+4. Mindless Self Indulgence
+5. The Prodigy
+6. Muse
+7. Good Charlotte
+8. Cobra Starship
+9. Static-X
+10. Oomph!
+11. Fall Out Boy
+12. Mudvayne
+13. Drowning Pool
+14. Marilyn Manson
+15. Papa Roach
+16. Apocalyptica
+17. Metallica
+18. Nicole Scherzinger
+19. Avenged Sevenfold
+20. Nine Inch Nails
+21. Iron Maiden
+22. Led Zeppelin
+23. Pearl Jam
+24. Daft Punk
+25. Nirvana
+26. Michael Jackson
+27. Amy Winehouse
+28. Black Eyed Peas
+29. My Chemical Romance
+30. Green Day
+31. The Cure
+32. Depeche Mode
+33. Lady Gaga
+34. Paramore
+35. Rihanna
+36. Shakira
+37. Katy Perry
+38. Taylor Swift
+39. Evanescence
+40. Beyoncé
+41. U2
+42. 30 Seconds to Mars
+43. Pink Floyd
+44. Kylie Minogue
+45. Miley Cyrus
+46. Radiohead
+47. Ke$ha
+48. Duran Duran
+49. Coldplay
+50. Blur

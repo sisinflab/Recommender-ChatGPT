@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Depeche Mode
+2. The Sisters of Mercy
+3. Joy Division
+4. White Lies
+5. And One
+6. Martin L. Gore
+7. Hurts
+8. Camouflage
+9. Myslovitz
+10. Dave Gahan
+11. Rammstein
+12. Alphaville
+13. She Wants Revenge
+14. Wolfsheim
+15. The Beatles
+16. U2
+17. Muse
+18. Brandon Flowers
+19. Prince
+20. Elvis Presley
+21. Red Hot Chili Peppers
+22. MGMT
+23. Yazoo
+24. Empire of the Sun
+25. Clan of Xymox
+26. Lacrimosa
+27. Kraftwerk
+28. Tears for Fears
+29. 30 Seconds to Mars
+30. Radiohead
+31. Placebo
+32. The Killers
+33. Nirvana
+34. Iron Maiden
+35. Led Zeppelin
+36. Metallica
+37. Michael Jackson
+38. Pearl Jam
+39. a-ha
+40. Björk
+41. System of a Down
+42. Daft Punk
+43. Nine Inch Nails
+44. Linkin Park
+45. Avenged Sevenfold
+46. My Chemical Romance
+47. Green Day
+48. The Cure
+49. Coldplay
+50. Blur

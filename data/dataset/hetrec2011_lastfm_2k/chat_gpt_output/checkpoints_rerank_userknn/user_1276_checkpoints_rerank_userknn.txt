@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. The Smiths
+2. Morrissey
+3. Weezer
+4. Neutral Milk Hotel
+5. My Bloody Valentine
+6. Fugazi
+7. Wu-Tang Clan
+8. Blink-182
+9. The Stone Roses
+10. Belle and Sebastian
+11. The Cure
+12. Green Day
+13. Sum 41
+14. Oasis
+15. Death Cab for Cutie
+16. R.E.M.
+17. Beck
+18. Blur
+19. New Order
+20. Red Hot Chili Peppers
+21. Simon & Garfunkel
+22. The Beatles
+23. David Bowie
+24. Pulp
+25. LCD Soundsystem
+26. Hot Chip
+27. White Lies
+28. Kings of Leon
+29. The Script
+30. Robbie Williams
+31. Elvis Presley
+32. Papa Roach
+33. Misfits
+34. The Offspring
+35. Chiodos
+36. All Time Low
+37. Parkway Drive
+38. Emmure
+39. Caliban
+40. Four Year Strong
+41. Haste the Day
+42. Manic Street Preachers
+43. Silverstein
+44. The Distillers
+45. Laura Marling
+46. City and Colour
+47. Stereophonics
+48. Dr. Dre
+49. Aphex Twin
+50. Brandon Flowers

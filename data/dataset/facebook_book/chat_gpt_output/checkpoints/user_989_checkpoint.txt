@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. The Catcher in the Rye by J.D. Salinger
+4. To Kill a Mockingbird by Harper Lee
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Great Gatsby by F. Scott Fitzgerald
+7. Animal Farm by George Orwell
+8. The Stranger by Albert Camus
+9. Crime and Punishment by Fyodor Dostoevsky
+10. The Picture of Dorian Gray by Oscar Wilde
+11. Heart of Darkness by Joseph Conrad
+12. The Road by Cormac McCarthy
+13. Slaughterhouse-Five by Kurt Vonnegut
+14. The Handmaid's Tale by Margaret Atwood
+15. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+16. The Sun Also Rises by Ernest Hemingway
+17. The Brothers Karamazov by Fyodor Dostoevsky
+18. Lolita by Vladimir Nabokov
+19. The Sound and the Fury by William Faulkner
+20. The Grapes of Wrath by John Steinbeck
+21. The Old Man and the Sea by Ernest Hemingway
+22. The Trial by Franz Kafka
+23. The Bell Jar by Sylvia Plath
+24. Twenty Thousand Leagues Under the Sea by Jules Verne
+25. A Wrinkle in Time by Madeleine L'Engle
+26. Gravity's Rainbow by Thomas Pynchon
+27. Invisible Man by Ralph Ellison
+28. Fahrenheit 451 by Ray Bradbury
+29. Persepolis (comics) by Marjane Satrapi
+30. A Yellow Raft in Blue Water by Michael Dorris
+31. The Kite Runner by Khaled Hosseini
+32. Ariel (book) by Sylvia Plath
+33. Three Cups of Tea by Greg Mortenson and David Oliver Relin
+34. Welcome to the Monkey House by Kurt Vonnegut
+35. The Alchemist by Paulo Coelho
+36. The Name of the Wind by Patrick Rothfuss
+37. The Hunger Games by Suzanne Collins
+38. The Girl with the Dragon Tattoo by Stieg Larsson
+39. The Da Vinci Code by Dan Brown
+40. The Lord of the Rings by J.R.R. Tolkien
+41. The Hobbit by J.R.R. Tolkien
+42. Harry Potter and the Philosopher's Stone by J.K. Rowling
+43. The Chronicles of Narnia by C.S. Lewis
+44. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+45. The Martian by Andy Weir
+46. The Help by Kathryn Stockett
+47. The Color Purple by Alice Walker
+48. The Joy Luck Club by
+49. The Bell Jar by Sylvia Plath
+50. The Wise Man's Fear by Patrick Rothfuss

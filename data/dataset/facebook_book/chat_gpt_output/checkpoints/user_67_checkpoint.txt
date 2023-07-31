@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Uglies by Scott Westerfeld
+2. Leviathan by Scott Westerfeld
+3. Extras by Scott Westerfeld
+4. Pretties by Scott Westerfeld
+5. Specials by Scott Westerfeld
+6. The Maze Runner by James Dashner
+7. Divergent by Veronica Roth
+8. Insurgent by Veronica Roth
+9. Allegiant by Veronica Roth
+10. The Selection by Kiera Cass
+11. The Elite by Kiera Cass
+12. The One by Kiera Cass
+13. The Giver Quartet by Lois Lowry
+14. Gathering Blue by Lois Lowry
+15. Messenger by Lois Lowry
+16. Son by Lois Lowry
+17. The Mortal Instruments series by Cassandra Clare
+18. Clockwork Angel by Cassandra Clare
+19. Clockwork Prince by Cassandra Clare
+20. Clockwork Princess by Cassandra Clare
+21. The Infernal Devices series by Cassandra Clare
+22. The Hobbit by J.R.R. Tolkien
+23. The Fellowship of the Ring by J.R.R. Tolkien
+24. The Two Towers by J.R.R. Tolkien
+25. The Return of the King by J.R.R. Tolkien
+26. The Silmarillion by J.R.R. Tolkien
+27. The Children of Hurin by J.R.R. Tolkien
+28. The Hunger Games Trilogy by Suzanne Collins
+29. Catching Fire by Suzanne Collins
+30. The Ballad of Songbirds and Snakes by Suzanne Collins
+31. The Vampire Academy series by Richelle Mead
+32. Frostbite by Richelle Mead
+33. Shadow Kiss by Richelle Mead
+34. Blood Promise by Richelle Mead
+35. Spirit Bound by Richelle Mead
+36. Last Sacrifice by Richelle Mead
+37. The Twilight Saga by Stephenie Meyer
+38. New Moon by Stephenie Meyer
+39. Eclipse by Stephenie Meyer
+40. Breaking Dawn by Stephenie Meyer
+41. The Host by Stephenie Meyer
+42. The Chemical Garden Trilogy by Lauren DeStefano
+43. Wither by Lauren DeStefano
+44. Fever by Lauren DeStefano
+45. Sever by Lauren DeStefano
+46. The Lunar Chronicles by Marissa Meyer
+47. Cinder by Marissa Meyer
+48. Scarlet by Marissa Meyer
+49. Cress by Marissa Meyer
+50. Winter by Marissa Meyer

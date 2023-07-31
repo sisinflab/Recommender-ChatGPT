@@ -1,0 +1,49 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Book of Lost Things by John Connolly
+2. The Shadow of the Wind by Carlos Ruiz Zafón
+3. The Nightingale by Kristin Hannah
+4. The Help by Kathryn Stockett
+5. The Hunger Games by Suzanne Collins
+6. The Girl with the Dragon Tattoo by Stieg Larsson
+7. The Fault in Our Stars by John Green
+8. The Maze Runner by James Dashner
+9. The Giver by Lois Lowry
+10. The Alchemist by Paulo Coelho
+11. The Catcher in the Rye by J.D. Salinger
+12. The Lord of the Rings by J.R.R. Tolkien
+13. The Chronicles of Narnia by C.S. Lewis
+14. The Great Gatsby by F. Scott Fitzgerald
+15. The Picture of Dorian Gray by Oscar Wilde
+16. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+17. The Adventures of Tom Sawyer by Mark Twain
+18. The Adventures of Huckleberry Finn by Mark Twain
+19. The Count of Monte Cristo by Alexandre Dumas
+20. The Three Musketeers by Alexandre Dumas
+21. The War of the Worlds by H.G. Wells
+22. The Time Machine by H.G. Wells
+23. The Invisible Man by H.G. Wells
+24. The Island of Dr. Moreau by H.G. Wells
+25. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+26. The Call of the Wild by Jack London
+27. White Fang by Jack London
+28. The Old Man and the Sea by Ernest Hemingway
+29. The Sun Also Rises by Ernest Hemingway
+30. For Whom the Bell Tolls by Ernest Hemingway
+31. The Sound and the Fury by William Faulkner
+32. As I Lay Dying by William Faulkner
+33. The Grapes of Wrath by John Steinbeck
+34. Of Mice and Men by John Steinbeck
+35. East of Eden by John Steinbeck
+36. One Hundred Years of Solitude by Gabriel Garcia Marquez
+37. Love in the Time of Cholera by Gabriel Garcia Marquez
+38. Chronicle of a Death Foretold by Gabriel Garcia Marquez
+39. The Name of the Rose by Umberto Eco
+40. The Picture of Dorian Gray by Oscar Wilde
+41. The Importance of Being Earnest by Oscar Wilde
+42. The Brothers Karamazov by Fyodor Dostoevsky
+43. Crime and Punishment by Fyodor Dostoevsky
+44. War and Peace by Leo Tolstoy
+45. Anna Karenina by Leo Tolstoy
+46. The Idiot by Fyodor Dostoevsky
+47

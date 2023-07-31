@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Girl with the Dragon Tattoo by Stieg Larsson
+2. The Da Vinci Code by Dan Brown
+3. The Hunger Games by Suzanne Collins
+4. The Girl on the Train by Paula Hawkins
+5. The Silence of the Lambs by Thomas Harris
+6. The Shining by Stephen King
+7. The Stand by Stephen King
+8. The Road by Cormac McCarthy
+9. The Catcher in the Rye by J.D. Salinger
+10. The Great Gatsby by F. Scott Fitzgerald
+11. To Kill a Mockingbird by Harper Lee
+12. 1984 by George Orwell
+13. Animal Farm by George Orwell
+14. Brave New World by Aldous Huxley
+15. Fahrenheit 451 by Ray Bradbury
+16. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+17. The Martian by Andy Weir
+18. Ender's Game by Orson Scott Card
+19. Dune by Frank Herbert
+20. The Name of the Wind by Patrick Rothfuss
+21. The Wise Man's Fear by Patrick Rothfuss
+22. The Fellowship of the Ring by J.R.R. Tolkien
+23. The Two Towers by J.R.R. Tolkien
+24. The Return of the King by J.R.R. Tolkien
+25. The Silmarillion by J.R.R. Tolkien
+26. The Chronicles of Narnia by C.S. Lewis
+27. The Dark Tower series by Stephen King
+28. The Wheel of Time series by Robert Jordan
+29. The Malazan Book of the Fallen series by Steven Erikson
+30. The Mistborn series by Brandon Sanderson
+31. The Stormlight Archive series by Brandon Sanderson
+32. The Kingkiller Chronicle series by Patrick Rothfuss
+33. The Dresden Files series by Jim Butcher
+34. The A Song of Ice and Fire series by George R.R. Martin
+35. The Harry Potter series by J.K. Rowling
+36. The Percy Jackson and the Olympians series by Rick Riordan
+37. The Heroes of Olympus series by Rick Riordan
+38. The Kane Chronicles series by Rick Riordan
+39. The Magnus Chase and the Gods of Asgard series by Rick Riordan
+40. The Trials of Apollo series by Rick Riordan
+41. The Inheritance Cycle series by Christopher Paolini
+42. The Hunger Games trilogy by Suzanne Collins
+43. The Maze Runner series by James Dashner
+44. The Divergent trilogy by Veronica Roth
+45. The Twilight series by Stephenie Meyer
+46. The Mortal Instruments series by Cassandra Clare
+47. The Infernal Devices series by Cassandra Clare
+48. The Dark Artifices series by Cassandra Clare
+49. The Witcher series by Andrzej Sapkowski
+50. The First Law trilogy

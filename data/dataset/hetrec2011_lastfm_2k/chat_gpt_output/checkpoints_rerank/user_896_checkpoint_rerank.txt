@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. System of a Down
+2. Massive Attack
+3. DJ Shadow
+4. Portishead
+5. Thievery Corporation
+6. Bonobo
+7. Air
+8. Kings of Leon
+9. Bullet for My Valentine
+10. Regina Spektor
+11. Beastie Boys
+12. Aphex Twin
+13. Alexisonfire
+14. Archive
+15. Alesana
+16. The Strokes
+17. Eminem
+18. Senses Fail
+19. The American Dollar
+20. Nirvana
+21. The Beatles
+22. Fall Out Boy
+23. Björk
+24. Placebo
+25. Muse
+26. Pink Floyd
+27. Radiohead
+28. Iron Maiden
+29. Led Zeppelin
+30. Metallica
+31. Michael Jackson
+32. Pearl Jam
+33. Nine Inch Nails
+34. Linkin Park
+35. Avenged Sevenfold
+36. My Chemical Romance
+37. Green Day
+38. The Cure
+39. Depeche Mode
+40. Lady Gaga
+41. Madonna
+42. Rihanna
+43. Katy Perry
+44. Taylor Swift
+45. Evanescence
+46. Beyoncé
+47. U2
+48. 30 Seconds to Mars
+49. Coldplay
+50. Arctic Monkeys

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. Muse
+3. Nirvana
+4. Joy Division
+5. The Velvet Underground
+6. Portishead
+7. My Bloody Valentine
+8. Sigur Rós
+9. The Verve
+10. Coldplay
+11. Archive
+12. PJ Harvey
+13. Garbage
+14. Bat for Lashes
+15. Hooverphonic
+16. Morcheeba
+17. Tricky
+18. Dead Can Dance
+19. Nitzer Ebb
+20. New Order
+21. Martin L. Gore
+22. Coil
+23. Franz Ferdinand
+24. Dave Gahan
+25. The Human League
+26. Lush
+27. Infected Mushroom
+28. Kasabian
+29. Lady Gaga
+30. Madonna
+31. Björk
+32. Depeche Mode
+33. The Killers
+34. Duran Duran
+35. Arctic Monkeys
+36. Blur
+37. Placebo
+38. Iron Maiden
+39. Led Zeppelin
+40. Metallica
+41. Michael Jackson
+42. Pearl Jam
+43. System of a Down
+44. Daft Punk
+45. Nine Inch Nails
+46. Linkin Park
+47. Avenged Sevenfold
+48. Green Day
+49. The Cure
+50. Pink Floyd

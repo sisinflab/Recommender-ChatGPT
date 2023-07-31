@@ -1,0 +1,54 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. Blur
+3. Gorillaz
+4. Massive Attack
+5. LCD Soundsystem
+6. Aphex Twin
+7. Daft Punk
+8. Arctic Monkeys
+9. The White Stripes
+10. Beck
+11. David Bowie
+12. Oasis
+13. Pink Floyd
+14. Arcade Fire
+15. Jeff Buckley
+16. The Velvet Underground
+17. Björk
+18. Syd Barrett
+19. Sonic Youth
+20. Depeche Mode
+21. Interpol
+22. The Good, the Bad & the Queen
+23. Tricky
+24. Foo Fighters
+25. Weezer
+26. MGMT
+27. Marcelo Camelo
+28. Los Hermanos
+29. Thom Yorke
+30. Silverchair
+31. Bob Dylan
+32. Slipknot
+33. Deftones
+34. OutKast
+35. Nirvana
+36. Led Zeppelin
+37. Metallica
+38. Michael Jackson
+39. Pearl Jam
+40. a-ha
+41. System of a Down
+42. Nine Inch Nails
+43. Linkin Park
+44. Avenged Sevenfold
+45. Iron Maiden
+46. My Chemical Romance
+47. Green Day
+48. The Cure
+49. Coldplay
+50. U2
+
+Note: The artists that were not mentioned in the user's preferences were not included in the recommendations.

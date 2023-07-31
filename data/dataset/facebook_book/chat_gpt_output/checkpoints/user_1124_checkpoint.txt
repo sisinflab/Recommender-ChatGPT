@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. The Fountainhead by Ayn Rand
+4. The Catcher in the Rye by J.D. Salinger
+5. The Great Gatsby by F. Scott Fitzgerald
+6. To Kill a Mockingbird by Harper Lee
+7. One Hundred Years of Solitude by Gabriel Garcia Marquez
+8. Crime and Punishment by Fyodor Dostoevsky
+9. The Brothers Karamazov by Fyodor Dostoevsky
+10. The Picture of Dorian Gray by Oscar Wilde
+11. Heart of Darkness by Joseph Conrad
+12. Lord of the Flies by William Golding
+13. The Road by Cormac McCarthy
+14. The Stranger by Albert Camus
+15. The Trial by Franz Kafka
+16. The Bell Jar by Sylvia Plath
+17. The Sun Also Rises by Ernest Hemingway
+18. Slaughterhouse-Five by Kurt Vonnegut
+19. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+20. The Hobbit by J.R.R. Tolkien
+21. The Lord of the Rings by J.R.R. Tolkien
+22. The Chronicles of Narnia by C.S. Lewis
+23. The Da Vinci Code by Dan Brown
+24. Angels and Demons by Dan Brown
+25. The Girl with the Dragon Tattoo by Stieg Larsson
+26. The Hunger Games by Suzanne Collins
+27. Catching Fire by Suzanne Collins
+28. Mockingjay by Suzanne Collins
+29. The Help by Kathryn Stockett
+30. The Kite Runner by Khaled Hosseini
+31. A Thousand Splendid Suns by Khaled Hosseini
+32. The Alchemist by Paulo Coelho
+33. The Name of the Wind by Patrick Rothfuss
+34. The Wise Man's Fear by Patrick Rothfuss
+35. The Shadow of the Wind by Carlos Ruiz Zafon
+36. The Book Thief by Markus Zusak
+37. The Giver by Lois Lowry
+38. The Maze Runner by James Dashner
+39. The Fault in Our Stars by John Green
+40. The Perks of Being a Wallflower by Stephen Chbosky
+41. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+42. The Secret History by Donna Tartt
+43. The Goldfinch by Donna Tartt
+44. The Girl on the Train by Paula Hawkins
+45. The Nightingale by Kristin Hannah
+46. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+47. The Help by Kathryn Stockett
+48. The Color Purple by Alice Walker
+49. The Handmaid's Tale by Margaret Atwood
+50. The Wise Man's Fear by Patrick Rothfuss

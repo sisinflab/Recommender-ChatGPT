@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Adele
+2. Kings of Leon
+3. John Mayer
+4. Corinne Bailey Rae
+5. Sade
+6. Alicia Keys
+7. Nina Simone
+8. David Archuleta
+9. KT Tunstall
+10. Roberta Sá
+11. Simple Plan
+12. The Strokes
+13. Kate Nash
+14. Coldplay
+15. Beyoncé
+16. Lady Gaga
+17. Rihanna
+18. Amy Winehouse
+19. Michael Jackson
+20. Oasis
+21. Red Hot Chili Peppers
+22. Muse
+23. 30 Seconds to Mars
+24. Paramore
+25. Pink Floyd
+26. Radiohead
+27. The Beatles
+28. Duran Duran
+29. Arctic Monkeys
+30. Placebo
+31. The Killers
+32. Nirvana
+33. Led Zeppelin
+34. Metallica
+35. a-ha
+36. System of a Down
+37. Daft Punk
+38. Nine Inch Nails
+39. Linkin Park
+40. Avenged Sevenfold
+41. Green Day
+42. The Cure
+43. Madonna
+44. Shakira
+45. Christina Aguilera
+46. Ke$ha
+47. Kylie Minogue
+48. Miley Cyrus
+49. Evanescence
+50. Glee Cast

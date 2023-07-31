@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. In Flames
+2. Alter Bridge
+3. Breaking Benjamin
+4. Nickelback
+5. Rise Against
+6. Dark Tranquillity
+7. Lamb of God
+8. Killswitch Engage
+9. Shinedown
+10. Eluveitie
+11. Nightwish
+12. Daughtry
+13. Blind Guardian
+14. System of a Down
+15. Seether
+16. Foo Fighters
+17. Dream Theater
+18. Gojira
+19. Misfits
+20. Judas Priest
+21. Pearl Jam
+22. Trivium
+23. Megadeth
+24. Soilwork
+25. Pantera
+26. Muse
+27. Red Hot Chili Peppers
+28. HIM
+29. Bullet for My Valentine
+30. Iron Maiden
+31. Trapt
+32. Machine Head
+33. Evanescence
+34. Nirvana
+35. Metallica
+36. Led Zeppelin
+37. Michael Jackson
+38. The Beatles
+39. Nine Inch Nails
+40. Linkin Park
+41. Avenged Sevenfold
+42. Green Day
+43. My Chemical Romance
+44. The Killers
+45. Coldplay
+46. Radiohead
+47. Pink Floyd
+48. Blur
+49. Arctic Monkeys
+50. Placebo

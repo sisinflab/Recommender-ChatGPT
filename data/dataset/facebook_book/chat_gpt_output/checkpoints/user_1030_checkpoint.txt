@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. The Catcher in the Rye by J.D. Salinger
+3. The Great Gatsby by F. Scott Fitzgerald
+4. 1984 by George Orwell
+5. Animal Farm by George Orwell
+6. The Hobbit by J.R.R. Tolkien
+7. The Lord of the Rings by J.R.R. Tolkien
+8. The Hunger Games by Suzanne Collins
+9. Catching Fire by Suzanne Collins
+10. Mockingjay by Suzanne Collins
+11. The Fault in Our Stars by John Green
+12. Looking for Alaska by John Green
+13. Paper Towns by John Green
+14. The Da Vinci Code by Dan Brown
+15. Angels and Demons by Dan Brown
+16. Inferno by Dan Brown
+17. The Girl with the Dragon Tattoo by Stieg Larsson
+18. The Girl Who Played with Fire by Stieg Larsson
+19. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+20. The Help by Kathryn Stockett
+21. The Lovely Bones by Alice Sebold
+22. The Time Traveler's Wife by Audrey Niffenegger
+23. The Book Thief by Markus Zusak
+24. The Maze Runner by James Dashner
+25. The Scorch Trials by James Dashner
+26. The Death Cure by James Dashner
+27. The Giver by Lois Lowry
+28. Gathering Blue by Lois Lowry
+29. Messenger by Lois Lowry
+30. Son by Lois Lowry
+31. The Chronicles of Narnia by C.S. Lewis
+32. The Outsiders by S.E. Hinton
+33. The Perks of Being a Wallflower by Stephen Chbosky
+34. The Secret Life of Bees by Sue Monk Kidd
+35. The Alchemist by Paulo Coelho
+36. The Picture of Dorian Gray by Oscar Wilde
+37. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+38. The Hound of the Baskervilles by Arthur Conan Doyle
+39. The Count of Monte Cristo by Alexandre Dumas
+40. Les Misérables by Victor Hugo
+41. The Three Musketeers by Alexandre Dumas
+42. The Name of the Wind by Patrick Rothfuss
+43. The Wise Man's Fear by Patrick Rothfuss
+44. The Nightingale by Kristin Hannah
+45. The Handmaid's Tale by Margaret Atwood
+46. The Road by Cormac McCarthy
+47. The Stand by Stephen King
+48. It by Stephen King
+49. The Shining by Stephen King
+50. Carrie by Stephen King

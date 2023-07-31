@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Depeche Mode
+2. Muse
+3. Florence + the Machine
+4. The Killers
+5. Paramore
+6. Kings of Leon
+7. Franz Ferdinand
+8. Bullet for My Valentine
+9. White Lies
+10. Kaiser Chiefs
+11. Bloc Party
+12. The Prodigy
+13. Madonna
+14. Lady Gaga
+15. Justin Timberlake
+16. Hans Zimmer
+17. The Rasmus
+18. Jimmy Eat World
+19. Taio Cruz
+20. happysad
+21. Björk
+22. Dave Gahan
+23. T.I.
+24. Lil' Wayne
+25. Keri Hilson
+26. The Blackout
+27. Coma
+28. Panic! At the Disco
+29. You Me At Six
+30. The Cure
+31. Radiohead
+32. Nirvana
+33. Pearl Jam
+34. Iron Maiden
+35. Metallica
+36. Led Zeppelin
+37. Michael Jackson
+38. a-ha
+39. System of a Down
+40. Nine Inch Nails
+41. Linkin Park
+42. Avenged Sevenfold
+43. Black Eyed Peas
+44. My Chemical Romance
+45. Green Day
+46. Pink Floyd
+47. Coldplay
+48. Blur
+49. Arctic Monkeys
+50. Placebo

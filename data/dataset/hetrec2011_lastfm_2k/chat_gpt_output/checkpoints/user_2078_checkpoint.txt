@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Pearl Jam
+3. Foo Fighters
+4. Soundgarden
+5. Alice in Chains
+6. Green Day
+7. The Smashing Pumpkins
+8. Nine Inch Nails
+9. Weezer
+10. The White Stripes
+11. Muse
+12. Arctic Monkeys
+13. The Strokes
+14. Interpol
+15. Franz Ferdinand
+16. The Killers
+17. Kings of Leon
+18. Vampire Weekend
+19. Arcade Fire
+20. The Black Keys
+21. Queens of the Stone Age
+22. System of a Down
+23. Slipknot
+24. Tool
+25. Metallica
+26. Iron Maiden
+27. AC/DC
+28. Guns N' Roses
+29. Led Zeppelin
+30. Pink Floyd
+31. The Doors
+32. The Beatles
+33. The Rolling Stones
+34. U2
+35. Coldplay
+36. R.E.M.
+37. Oasis (if not already in user's library)
+38. Red Hot Chili Peppers (if not already in user's library)
+39. Björk (if not already in user's library)
+40. Los Hermanos (if not already in user's library)
+41. Engenheiros do Hawaii (if not already in user's library)
+42. Ben Harper (if not already in user's library)
+43. The Cardigans (if not already in user's library)
+44. Backyard Babies (if not already in user's library)
+45. Limp Bizkit (if not already in user's library)
+46. Final Fantasy (if not already in user's library)
+47. Charlie Brown Jr. (if not already in user's library)
+48. Queen (if not already in user's library)
+49. Garbage (if not already in user's library)
+50. The Corrs (if not already in user's library)

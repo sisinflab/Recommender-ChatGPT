@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Massive Attack
+2. Boards of Canada
+3. Pink Floyd
+4. Beck
+5. Burial
+6. The Cinematic Orchestra
+7. Björk
+8. Led Zeppelin
+9. Iron & Wine
+10. R.E.M.
+11. Everything but the Girl
+12. José González
+13. Sigur Rós
+14. Miles Davis
+15. Trentemøller
+16. Porcupine Tree
+17. Thom Yorke
+18. King Crimson
+19. Ólafur Arnalds
+20. The Beatles
+21. Cat Power
+22. Robyn
+23. Depeche Mode
+24. Joy Division
+25. The Police
+26. Talk Talk
+27. The Cure
+28. David Gilmour
+29. Jethro Tull
+30. Eagles
+31. Coldplay
+32. PJ Harvey
+33. Manu Chao
+34. The Who
+35. Lady Gaga
+36. Autechre
+37. Brian Eno
+38. Belle and Sebastian
+39. Proem
+40. Kings of Leon
+41. M.I.A.
+42. Slayer
+43. The Doors
+44. Cat Stevens
+45. Frank Sinatra
+46. Snow Patrol
+47. Eric Clapton
+48. Vampire Weekend
+49. Beirut
+50. Captain Beefheart & His Magic Band

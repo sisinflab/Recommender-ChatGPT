@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter
+2. The Lord of the Rings
+3. To Kill a Mockingbird
+4. The Kite Runner
+5. Nineteen Eighty-Four
+6. The Alchemist (novel)
+7. Pride and Prejudice and Zombies
+8. The Chronicles of Narnia: Prince Caspian
+9. A Tale of Two Cities
+10. The Godfather (novel)
+11. The Silence of the Lambs (novel)
+12. Love Story (novel)
+13. The Curious Incident of the Dog in the Night-Time
+14. Romeo and Juliet
+15. The Fountainhead
+16. Gone with the Wind
+17. The Winner Stands Alone
+18. My Name Is Red
+19. Anthem (novella)
+20. State of Fear
+21. Gaunt's Ghosts
+22. The Hellbound Heart
+23. The Dirt
+24. Code to Zero
+25. The Famous Five (series)
+26. Asterix the Gaul
+27. Brida (novel)
+28. Inheritance (novel)
+29. The Class (Erich Segal novel)
+30. Sense and Sensibility and Sea Monsters
+31. The Firm (novel)
+32. Congo (novel)
+33. The Lost Symbol by ['Dan Brown']
+34. Angels & Demons by ['Dan Brown']
+35. Digital Fortress by ['Dan Brown']
+36. Deception Point by ['Dan Brown']
+37. The Last Don by ['Mario Puzo']
+38. Hannibal (novel)
+39. Bloodlines (Mead novel)
+40. Timeline (novel)
+41. The Zahir (novel) by ['Paulo Coelho']
+42. A Thousand Splendid Suns by ['Khaled Hosseini']
+43. One Night @ the Call Center by ['Chetan Bhagat']
+44. The 3 Mistakes of My Life by ['Chetan Bhagat']
+45. India Unbound
+46. The Argumentative Indian
+47. Malgudi Days (book)
+48. Quran
+49. Touching the Void
+50. Losing My Virginity

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Lady Gaga
+2. Katy Perry
+3. Rihanna
+4. Beyoncé
+5. Adele
+6. Coldplay
+7. Mariah Carey
+8. Madonna
+9. Britney Spears
+10. Shakira
+11. Alicia Keys
+12. P!nk
+13. Ke$ha
+14. Paramore
+15. Evanescence
+16. Kelly Clarkson
+17. Natasha Bedingfield
+18. Vanessa Carlton
+19. Colbie Caillat
+20. Dido
+21. Sara Bareilles
+22. Lily Allen
+23. Christina Aguilera
+24. Hilary Duff
+25. Ashley Tisdale
+26. Miley Cyrus
+27. Emma Bunton
+28. Spice Girls
+29. Girls Aloud
+30. Ne-Yo
+31. Trey Songz
+32. Usher
+33. Brandy
+34. Ciara
+35. Amerie
+36. Robyn
+37. Kylie Minogue
+38. Janelle Monáe
+39. Imogen Heap
+40. Capsule
+41. YUI
+42. 倖田來未
+43. 安室奈美恵
+44. 宇多田ヒカル
+45. Röyksopp
+46. The Temper Trap
+47. Vampire Weekend
+48. Metallica
+49. HammerFall
+50. Wolfgang Amadeus Mozart

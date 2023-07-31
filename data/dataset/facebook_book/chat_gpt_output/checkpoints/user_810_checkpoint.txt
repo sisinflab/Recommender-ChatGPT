@@ -1,0 +1,49 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. His Dark Materials series by Philip Pullman
+2. The Sandman series by Neil Gaiman
+3. The Lord of the Rings series by J.R.R. Tolkien
+4. The Chronicles of Narnia series by C.S. Lewis
+5. The Hunger Games series by Suzanne Collins
+6. The Dresden Files series by Jim Butcher
+7. The Mistborn series by Brandon Sanderson
+8. The Kingkiller Chronicle series by Patrick Rothfuss
+9. The Wheel of Time series by Robert Jordan
+10. The Name of the Wind by Patrick Rothfuss
+11. American Gods by Neil Gaiman
+12. The Graveyard Book by Neil Gaiman
+13. The Dark Tower series by Stephen King
+14. The Hitchhiker's Guide to the Galaxy series by Douglas Adams
+15. The Discworld series by Terry Pratchett
+16. The Belgariad series by David Eddings
+17. The Malazan Book of the Fallen series by Steven Erikson
+18. The First Law trilogy by Joe Abercrombie
+19. The Lies of Locke Lamora by Scott Lynch
+20. The Stormlight Archive series by Brandon Sanderson
+21. The Mistborn trilogy by Brandon Sanderson
+22. The Riyria Revelations series by Michael J. Sullivan
+23. The Farseer Trilogy by Robin Hobb
+24. The Lightbringer series by Brent Weeks
+25. The Black Company series by Glen Cook
+26. The Broken Empire trilogy by Mark Lawrence
+27. The Powder Mage trilogy by Brian McClellan
+28. The Night Angel trilogy by Brent Weeks
+29. The Chronicles of Amber series by Roger Zelazny
+30. The Earthsea series by Ursula K. Le Guin
+31. The Bartimaeus Trilogy by Jonathan Stroud
+32. The Inheritance Trilogy by N.K. Jemisin
+33. The Mistborn: Secret History novella by Brandon Sanderson
+34. The Riyria Chronicles series by Michael J. Sullivan
+35. The Codex Alera series by Jim Butcher
+36. The Black Prism by Brent Weeks
+37. The Lightbringer series by Brent Weeks
+38. The Demon Cycle series by Peter V. Brett
+39. The Powder Mage trilogy by Brian McClellan
+40. The Night Angel trilogy by Brent Weeks
+41. The Chronicles of Amber series by Roger Zelazny
+42. The Earthsea series by Ursula K. Le Guin
+43. The Bartimaeus Trilogy by Jonathan Stroud
+44. The Inheritance Trilogy by N.K. Jemisin
+45. The Mistborn: Secret History novella by Brandon Sanderson
+46. The Riyria Chronicles series by Michael J. Sullivan
+47. The Codex Alera

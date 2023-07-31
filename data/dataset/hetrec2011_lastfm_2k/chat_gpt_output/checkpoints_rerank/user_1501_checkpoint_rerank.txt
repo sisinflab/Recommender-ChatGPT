@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Architects
+2. The Dillinger Escape Plan
+3. Converge
+4. Dance Gavin Dance
+5. The Black Dahlia Murder
+6. Whitechapel
+7. Born of Osiris
+8. All Shall Perish
+9. Muse
+10. Radiohead
+11. Nirvana
+12. Pearl Jam
+13. Metallica
+14. Iron Maiden
+15. Led Zeppelin
+16. Pink Floyd
+17. U2
+18. The Beatles
+19. The Killers
+20. Coldplay
+21. Arctic Monkeys
+22. Placebo
+23. My Chemical Romance
+24. Green Day
+25. Linkin Park
+26. Avenged Sevenfold
+27. Nine Inch Nails
+28. System of a Down
+29. Daft Punk
+30. Michael Jackson
+31. Madonna
+32. Lady Gaga
+33. Beyoncé
+34. Rihanna
+35. Katy Perry
+36. Christina Aguilera
+37. Britney Spears
+38. Ke$ha
+39. P!nk
+40. Paramore
+41. Taylor Swift
+42. Evanescence
+43. Glee Cast
+44. Shakira
+45. Kylie Minogue
+46. Duran Duran
+47. Blur
+48. Amy Winehouse
+49. Björk
+50. Black Eyed Peas

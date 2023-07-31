@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for them would be:
+
+1. My Chemical Romance
+2. Green Day
+3. Muse
+4. The Killers
+5. Panic! At the Disco
+6. Kings of Leon
+7. Simple Plan
+8. McFly
+9. Linkin Park
+10. Sum 41
+11. The Rasmus
+12. The Fray
+13. Papa Roach
+14. Boys Like Girls
+15. Cobra Starship
+16. HIM
+17. The Academy Is...
+18. Plain White T's
+19. Jonas Brothers
+20. Backstreet Boys
+21. Adam Lambert
+22. Demi Lovato
+23. Sunrise Avenue
+24. Robert Pattinson
+25. Carter Burwell
+26. Britney Spears
+27. David Cook
+28. Blue October
+29. Alexandre Desplat
+30. Pixie Lott
+31. The Kooks
+32. The Pretty Reckless
+33. Paramore
+34. Lady Gaga
+35. Coldplay
+36. Katy Perry
+37. The Beatles
+38. Glee Cast
+39. Sex Pistols
+40. Bowling for Soup
+41. Opeth
+42. Evanescence
+43. All Time Low
+44. AFI
+45. The Donnas
+46. John Mayer
+47. Christina Aguilera
+48. Forever the Sickest Kids
+49. Daft Punk
+50. The Veronicas

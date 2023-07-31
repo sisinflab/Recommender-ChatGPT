@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations are:
+
+1. Linkin Park
+2. Muse
+3. Breaking Benjamin
+4. Chevelle
+5. Silverchair
+6. A Perfect Circle
+7. Daughtry
+8. Our Lady Peace
+9. Nine Inch Nails
+10. Coheed and Cambria
+11. My Chemical Romance
+12. The Used
+13. Slipknot
+14. Bullet for My Valentine
+15. Depeche Mode
+16. Coldplay
+17. Radiohead
+18. Nirvana
+19. Metallica
+20. Thrice
+21. Green Day
+22. The Beatles
+23. The Strokes
+24. Fall Out Boy
+25. Panic! At the Disco
+26. The All-American Rejects
+27. Good Charlotte
+28. Paramore
+29. Escape The Fate
+30. All Time Low
+31. Billy Talent
+32. Taking Back Sunday
+33. Lostprophets
+34. Cobra Starship
+35. blink-182
+36. Angels & Airwaves
+37. Strike
+38. Feeder
+39. VersaEmerge
+40. The Red Jumpsuit Apparatus
+41. Boys Like Girls
+42. Sick Puppies
+43. Augustana
+44. Jimmy Eat World
+45. Lifehouse
+46. Katy Perry
+47. Rihanna
+48. Beyoncé
+49. Avril Lavigne
+50. Ashley Tisdale

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Nine Inch Nails
+2. Phoenix
+3. Queens of the Stone Age
+4. Jamiroquai
+5. Maroon 5
+6. Depeche Mode
+7. Los Hermanos
+8. Slipknot
+9. Soulwax
+10. Two Door Cinema Club
+11. LCD Soundsystem
+12. Vive la Fête
+13. Fischerspooner
+14. Mombojó
+15. Daft Punk
+16. Klaxons
+17. Black Eyed Peas
+18. La Roux
+19. Lenine
+20. OK Go
+21. Tool
+22. Celldweller
+23. The Kills
+24. Primal Scream
+25. Justice
+26. Foo Fighters
+27. Yeah Yeah Yeahs
+28. Mystery Jets
+29. Radiohead
+30. Muse
+31. Pink Floyd
+32. Nirvana
+33. Led Zeppelin
+34. Metallica
+35. Michael Jackson
+36. Pearl Jam
+37. a-ha
+38. Björk
+39. System of a Down
+40. Linkin Park
+41. Avenged Sevenfold
+42. My Chemical Romance
+43. Green Day
+44. The Cure
+45. Iron Maiden
+46. Duran Duran
+47. Arctic Monkeys
+48. Placebo
+49. The Killers
+50. Coldplay

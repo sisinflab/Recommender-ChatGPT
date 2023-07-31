@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Depeche Mode
+2. Radiohead
+3. Ludwig van Beethoven
+4. Alphaville
+5. Kraftwerk
+6. Bob Marley
+7. The Police
+8. Wolfgang Amadeus Mozart
+9. Lady Gaga
+10. Camouflage
+11. Maroon 5
+12. Pet Shop Boys
+13. Röyksopp
+14. The Cure
+15. Rammstein
+16. Arctic Monkeys
+17. R.E.M.
+18. Yeah Yeah Yeahs
+19. Muse
+20. Gary Numan
+21. David Bowie
+22. Kasabian
+23. System of a Down
+24. Queen
+25. The Beatles
+26. Kings of Leon
+27. Dave Gahan
+28. Yann Tiersen
+29. Massive Attack
+30. Keane
+31. Linkin Park
+32. Pink Floyd
+33. Nirvana
+34. Iron Maiden
+35. Led Zeppelin
+36. Metallica
+37. Michael Jackson
+38. Pearl Jam
+39. a-ha
+40. Björk
+41. Nine Inch Nails
+42. Daft Punk
+43. Kelly Clarkson
+44. Avril Lavigne
+45. Coldplay
+46. Placebo
+47. The Killers
+48. Green Day
+49. My Chemical Romance
+50. The Cure

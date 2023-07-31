@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Pink Floyd
+3. The Beatles
+4. Sigur Rós
+5. Johann Sebastian Bach
+6. Frédéric Chopin
+7. Marisa Monte
+8. Cat Power
+9. Beirut
+10. Belle and Sebastian
+11. Norah Jones
+12. Eddie Vedder
+13. Bob Dylan
+14. Carla Bruni
+15. Caetano Veloso
+16. Little Joy
+17. Adriana Calcanhotto
+18. Chico Buarque
+19. Elvis Presley
+20. Maria Bethânia
+21. Los Hermanos
+22. Marcelo Camelo
+23. Legião Urbana
+24. Pato Fu
+25. Era
+26. Johnny Cash
+27. David Bowie
+28. Elliott Smith
+29. Nina Simone
+30. Cássia Eller
+31. Air
+32. Daft Punk
+33. Arctic Monkeys
+34. Travis
+35. The Chemical Brothers
+36. Buddy Holly
+37. Madonna
+38. Paul McCartney
+39. George Harrison
+40. She Wants Revenge
+41. Sade
+42. The Smashing Pumpkins
+43. Joss Stone
+44. Chuck Berry
+45. Franz Ferdinand
+46. Yann Tiersen
+47. The Strokes
+48. ABBA
+49. The Killers
+50. Maxïmo Park

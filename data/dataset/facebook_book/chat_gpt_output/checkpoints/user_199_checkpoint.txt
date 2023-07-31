@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hobbit by J.R.R. Tolkien
+2. The Chronicles of Narnia by C.S. Lewis
+3. Harry Potter and the Philosopher's Stone by J.K. Rowling
+4. The Hunger Games by Suzanne Collins
+5. The Da Vinci Code by Dan Brown
+6. The Catcher in the Rye by J.D. Salinger
+7. To Kill a Mockingbird by Harper Lee
+8. 1984 by George Orwell
+9. Animal Farm by George Orwell
+10. The Great Gatsby by F. Scott Fitzgerald
+11. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+12. The Adventures of Tom Sawyer by Mark Twain
+13. The Adventures of Huckleberry Finn by Mark Twain
+14. The Picture of Dorian Gray by Oscar Wilde
+15. The Count of Monte Cristo by Alexandre Dumas
+16. Les Misérables by Victor Hugo
+17. The Three Musketeers by Alexandre Dumas
+18. The War of the Worlds by H.G. Wells
+19. The Invisible Man by H.G. Wells
+20. The Island of Dr. Moreau by H.G. Wells
+21. The Time Traveler's Wife by Audrey Niffenegger
+22. The Girl with the Dragon Tattoo by Stieg Larsson
+23. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+24. The Girl Who Played with Fire by Stieg Larsson
+25. The Name of the Wind by Patrick Rothfuss
+26. The Wise Man's Fear by Patrick Rothfuss
+27. The Way of Kings by Brandon Sanderson
+28. Mistborn: The Final Empire by Brandon Sanderson
+29. The Eye of the World by Robert Jordan
+30. The Fellowship of the Ring by J.R.R. Tolkien
+31. The Two Towers by J.R.R. Tolkien
+32. The Return of the King by J.R.R. Tolkien
+33. The Silmarillion by J.R.R. Tolkien
+34. The Children of Hurin by J.R.R. Tolkien
+35. The Book Thief by Markus Zusak
+36. The Kite Runner by Khaled Hosseini
+37. A Thousand Splendid Suns by Khaled Hosseini
+38. The Alchemist by Paulo Coelho
+39. The Catcher in the Rye by J.D. Salinger
+40. The Bell Jar by Sylvia Plath
+41. The Handmaid's Tale by Margaret Atwood
+42. Brave New World by Aldous Huxley
+43. Fahrenheit 451 by Ray Bradbury
+44. The Martian by Andy Weir
+45. Ready Player One by Ernest Cline
+46. Ender's Game by Orson Scott Card
+47. Dune by Frank Herbert
+48. The Hitchhiker's

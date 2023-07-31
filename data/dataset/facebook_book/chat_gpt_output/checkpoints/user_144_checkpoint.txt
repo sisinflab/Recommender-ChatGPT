@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. The Great Gatsby by F. Scott Fitzgerald
+3. 1984 by George Orwell
+4. The Catcher in the Rye by J.D. Salinger
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. Crime and Punishment by Fyodor Dostoevsky
+7. The Picture of Dorian Gray by Oscar Wilde
+8. The Brothers Karamazov by Fyodor Dostoevsky
+9. The Handmaid's Tale by Margaret Atwood
+10. The Hobbit by J.R.R. Tolkien
+11. The Lord of the Rings by J.R.R. Tolkien
+12. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+13. The Name of the Rose by Umberto Eco
+14. The Count of Monte Cristo by Alexandre Dumas
+15. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+16. The Time Machine by H.G. Wells
+17. The War of the Worlds by H.G. Wells
+18. The Martian Chronicles by Ray Bradbury
+19. The Chronicles of Narnia by C.S. Lewis
+20. The Hunger Games by Suzanne Collins
+21. The Girl with the Dragon Tattoo by Stieg Larsson
+22. The Da Vinci Code by Dan Brown
+23. The Kite Runner by Khaled Hosseini
+24. The Alchemist by Paulo Coelho
+25. The Picture of Dorian Gray by Oscar Wilde
+26. The Secret History by Donna Tartt
+27. The Road by Cormac McCarthy
+28. The Stand by Stephen King
+29. The Shining by Stephen King
+30. The Silence of the Lambs by Thomas Harris
+31. The God of Small Things by Arundhati Roy
+32. The Color Purple by Alice Walker
+33. The Joy Luck Club by Amy Tan
+34. The Help by Kathryn Stockett
+35. The Fault in Our Stars by John Green
+36. The Book Thief by Markus Zusak
+37. The Giver by Lois Lowry
+38. The Maze Runner by James Dashner
+39. The Hunger Games by Suzanne Collins
+40. The Girl on the Train by Paula Hawkins
+41. The Lovely Bones by Alice Sebold
+42. The Time Traveler's Wife by Audrey Niffenegger
+43. The Handmaid's Tale by Margaret Atwood
+44. The Road by Cormac McCarthy
+45. The Stand by Stephen King
+46. The Shining by Stephen King
+47. The Silence of the Lambs by Thomas Harris
+48. The God of Small Things by Arundhati Roy
+49. The Color Purple by Alice Walker
+50. The Joy Luck Club by Amy Tan

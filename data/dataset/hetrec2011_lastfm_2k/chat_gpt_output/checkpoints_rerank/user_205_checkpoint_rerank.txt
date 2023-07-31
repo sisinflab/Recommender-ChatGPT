@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. My Chemical Romance
+2. Muse
+3. Paramore
+4. 30 Seconds to Mars
+5. A Day to Remember
+6. Bullet for My Valentine
+7. Killswitch Engage
+8. Cradle of Filth
+9. Asking Alexandria
+10. Blackmore's Night
+11. The Used
+12. Caliban
+13. Crystal Castles
+14. M83
+15. The American Dollar
+16. AFI
+17. Placebo
+18. Depeche Mode
+19. Nirvana
+20. Iron Maiden
+21. Metallica
+22. Led Zeppelin
+23. Pink Floyd
+24. Radiohead
+25. The Beatles
+26. Coldplay
+27. Blur
+28. Arctic Monkeys
+29. Duran Duran
+30. Madonna
+31. Lady Gaga
+32. Britney Spears
+33. Christina Aguilera
+34. Rihanna
+35. Shakira
+36. Beyoncé
+37. Michael Jackson
+38. Pearl Jam
+39. a-ha
+40. Björk
+41. System of a Down
+42. Daft Punk
+43. Nine Inch Nails
+44. Linkin Park
+45. Avenged Sevenfold
+46. Green Day
+47. The Cure
+48. Evanescence
+49. Glee Cast
+50. P!nk

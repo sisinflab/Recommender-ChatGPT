@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Secret History by Donna Tartt
+2. The Name of the Rose by Umberto Eco
+3. The Shadow of the Wind by Carlos Ruiz Zafón
+4. The Thirteenth Tale by Diane Setterfield
+5. The Angel's Game by Carlos Ruiz Zafón
+6. The Historian by Elizabeth Kostova
+7. The Picture of Dorian Gray by Oscar Wilde
+8. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+9. The Tell-Tale Heart and Other Writings by Edgar Allan Poe
+10. The Complete Tales and Poems of Edgar Allan Poe by Edgar Allan Poe
+11. The Book of Lost Things by John Connolly
+12. The Night Circus by Erin Morgenstern
+13. The Gargoyle by Andrew Davidson
+14. The Magus by John Fowles
+15. The Master and Margarita by Mikhail Bulgakov
+16. The Wind-Up Bird Chronicle by Haruki Murakami
+17. The House of the Spirits by Isabel Allende
+18. The God of Small Things by Arundhati Roy
+19. The Poisonwood Bible by Barbara Kingsolver
+20. The Kite Runner by Khaled Hosseini
+21. The Shadow of the Sun by Ryszard Kapuściński
+22. The White Tiger by Aravind Adiga
+23. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+24. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+25. The Yiddish Policemen's Union by Michael Chabon
+26. The Road by Cormac McCarthy
+27. The Handmaid's Tale by Margaret Atwood
+28. The Blind Assassin by Margaret Atwood
+29. The Hunger Games by Suzanne Collins
+30. The Girl with the Dragon Tattoo by Stieg Larsson
+31. The Girl Who Played with Fire by Stieg Larsson
+32. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+33. The Da Vinci Code by Dan Brown
+34. Angels and Demons by Dan Brown
+35. The Lost Symbol by Dan Brown
+36. The Bourne Identity by Robert Ludlum
+37. The Bourne Supremacy by Robert Ludlum
+38. The Bourne Ultimatum by Robert Ludlum
+39. The Silence of the Lambs by Thomas Harris
+40. Hannibal by Thomas Harris
+41. Red Dragon by Thomas Harris
+42. The Shining by Stephen King
+43. The Stand by Stephen King
+44. It by Stephen King
+45. The Dark Tower I: The Gunslinger by Stephen King
+46. The Dark Tower II: The Drawing of the Three by Stephen King
+47. The Help by Kathryn Stockett
+48. Nine Stories by J.D. Salinger
+49. The Bell Jar by Sylvia Plath
+50. The Wise Man's Fear by Patrick Rothfuss

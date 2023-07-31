@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. Brave New World by Aldous Huxley
+3. Jane Eyre by Charlotte Brontë
+4. Sense and Sensibility by Jane Austen
+5. The Tempest by William Shakespeare
+6. A Midsummer Night's Dream by William Shakespeare
+7. The French Lieutenant's Woman by John Fowles
+8. Wicked Lovely by Melissa Marr
+9. The Thief Lord by Cornelia Funke
+10. Like Water for Chocolate by Laura Esquivel
+11. A Connecticut Yankee in King Arthur's Court by Mark Twain
+12. Les Misérables by Victor Hugo
+13. A Tale of Two Cities by Charles Dickens
+14. Siddhartha by Hermann Hesse
+15. Macbeth by William Shakespeare
+16. Titus Andronicus by William Shakespeare
+17. The Color of Water by James McBride
+18. Uncle Tom's Cabin by Harriet Beecher Stowe
+19. Cat's Cradle by Kurt Vonnegut
+20. The Perks of Being a Wallflower by Stephen Chbosky
+21. The Merchant of Venice by William Shakespeare
+22. Little Women by Louisa May Alcott
+23. The Scarlet Letter by Nathaniel Hawthorne
+24. The Princess Bride by William Goldman
+25. Moby-Dick by Herman Melville
+26. Lord of the Flies by William Golding
+27. The Chosen by Chaim Potok
+28. The Catcher in the Rye by J.D. Salinger
+29. Harry Potter by J.K. Rowling
+30. The Red Tent by Anita Diamant
+31. Of Mice and Men by John Steinbeck
+32. Alas, Babylon by Pat Frank
+33. Dracula by Bram Stoker
+34. Othello by William Shakespeare
+35. Gulliver's Travels by Jonathan Swift
+36. The Taming of the Shrew by William Shakespeare
+37. Mansfield Park by Jane Austen
+38. Paradise Lost by John Milton
+39. A Separate Peace by John Knowles
+40. Metamorphoses by Ovid
+41. The Chicago Manual of Style by University of Chicago Press
+42. Leaving a Doll's House: A Memoir by Claire Bloom
+43. Hey Nostradamus! by Douglas Coupland
+44. Someday This Pain Will Be Useful to You by Peter Cameron
+45. Inherit the Wind by Jerome Lawrence and Robert E. Lee
+46. Into Thin Air by Jon Krakauer
+47. Catching Fire by Suzanne Collins
+48. Where the Sidewalk Ends by Shel Silverstein
+49. Everyone Poops by Taro Gomi
+50. Oh, the Places You'll Go! by Dr. Seuss

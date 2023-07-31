@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations are:
+
+1. Within Temptation
+2. Lacuna Coil
+3. Epica
+4. 浜崎あゆみ
+5. YUI
+6. 宇多田ヒカル
+7. L'Arc~en~Ciel
+8. Journey
+9. Leaves' Eyes
+10. Nightwish
+11. Kamelot
+12. Tarja
+13. Schiller
+14. Regina Spektor
+15. Tori Amos
+16. My Chemical Romance
+17. Rise Against
+18. Arcade Fire
+19. The Ting Tings
+20. Cobra Starship
+21. Linkin Park
+22. Flyleaf
+23. Paramore
+24. Oasis
+25. The Strokes
+26. Kings of Leon
+27. Rihanna
+28. Britney Spears
+29. Katy Perry
+30. Whitney Houston
+31. Demi Lovato
+32. Eminem
+33. M.I.A.
+34. Shakira
+35. 安室奈美恵
+36. 소녀시대
+37. BoA
+38. Kylie Minogue
+39. Front Line Assembly
+40. Sonata Arctica
+41. Yellowcard
+42. Rammstein
+43. Florence + the Machine
+44. Misfits
+45. DIR EN GREY
+46. 倖田來未
+47. Space Cowboy
+48. In This Moment
+49. Capsule
+50. Kerli

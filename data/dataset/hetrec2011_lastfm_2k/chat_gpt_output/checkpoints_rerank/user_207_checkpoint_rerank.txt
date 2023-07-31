@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Paramore
+2. Avril Lavigne
+3. Taking Back Sunday
+4. The All-American Rejects
+5. Cute Is What We Aim For
+6. Motion City Soundtrack
+7. Alesana
+8. Flyleaf
+9. Attack Attack!
+10. Chiodos
+11. Dashboard Confessional
+12. Maria Mena
+13. Amy Macdonald
+14. Darin
+15. Kerli
+16. Sarah Connor
+17. Adam Lambert
+18. P!nk
+19. Sia
+20. Yeah Yeah Yeahs
+21. Kate Nash
+22. Aloha From Hell
+23. Julieta Venegas
+24. Leona Lewis
+25. t.A.T.u.
+26. Jeffree Star
+27. Ke$ha
+28. Rihanna
+29. Lady Gaga
+30. Madonna
+31. Christina Aguilera
+32. Beyoncé
+33. Katy Perry
+34. Taylor Swift
+35. Evanescence
+36. Glee Cast
+37. U2
+38. 30 Seconds to Mars
+39. Muse
+40. Pink Floyd
+41. Kylie Minogue
+42. Miley Cyrus
+43. Radiohead
+44. Duran Duran
+45. Coldplay
+46. Blur
+47. Arctic Monkeys
+48. Placebo
+49. The Killers
+50. Nirvana

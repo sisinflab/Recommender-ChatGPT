@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Maze Runner by James Dashner
+4. The Fault in Our Stars by John Green
+5. The Giver by Lois Lowry
+6. The Book Thief by Markus Zusak
+7. To Kill a Mockingbird by Harper Lee
+8. The Perks of Being a Wallflower by Stephen Chbosky
+9. The Catcher in the Rye by J.D. Salinger
+10. The Great Gatsby by F. Scott Fitzgerald
+11. Lord of the Flies by William Golding
+12. Animal Farm by George Orwell
+13. 1984 by George Orwell
+14. Brave New World by Aldous Huxley
+15. Fahrenheit 451 by Ray Bradbury
+16. The Handmaid's Tale by Margaret Atwood
+17. The Road by Cormac McCarthy
+18. The Stand by Stephen King
+19. The Shining by Stephen King
+20. It by Stephen King
+21. The Dark Tower series by Stephen King
+22. The Lord of the Rings by J.R.R. Tolkien
+23. The Hobbit by J.R.R. Tolkien
+24. The Chronicles of Narnia by C.S. Lewis
+25. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+26. Ender's Game by Orson Scott Card
+27. Ready Player One by Ernest Cline
+28. The Martian by Andy Weir
+29. The Girl with the Dragon Tattoo by Stieg Larsson
+30. The Da Vinci Code by Dan Brown
+31. Angels and Demons by Dan Brown
+32. The Bourne Identity by Robert Ludlum
+33. The Girl on the Train by Paula Hawkins
+34. Gone Girl by Gillian Flynn
+35. The Silence of the Lambs by Thomas Harris
+36. Red Dragon by Thomas Harris
+37. The Name of the Wind by Patrick Rothfuss
+38. The Wise Man's Fear by Patrick Rothfuss
+39. The Lies of Locke Lamora by Scott Lynch
+40. Mistborn by Brandon Sanderson
+41. The Way of Kings by Brandon Sanderson
+42. The Final Empire by Brandon Sanderson
+43. The Eye of the World by Robert Jordan
+44. A Game of Thrones by George R.R. Martin
+45. The Fellowship of the Ring by J.R.R. Tolkien
+46. The Two Towers by J.R.R. Tolkien
+47. The Return of the King by J.R.R. Tolkien
+48. The Gunslinger by Stephen King
+49. The Drawing of the Three by Stephen King
+50. The Waste Lands by Stephen King

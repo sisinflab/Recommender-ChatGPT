@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. OneRepublic
+2. The Fray
+3. Breaking Benjamin
+4. Ellie Goulding
+5. Kings of Leon
+6. Lifehouse
+7. The Script
+8. Red
+9. Snow Patrol
+10. The Pretty Reckless
+11. Shinedown
+12. In Flames
+13. Hurts
+14. Mumford & Sons
+15. Adam Lambert
+16. Jimmy Eat World
+17. 3OH!3
+18. Crossfade
+19. Skillet
+20. Depeche Mode
+21. Lady Gaga
+22. Rihanna
+23. Katy Perry
+24. Britney Spears
+25. Christina Aguilera
+26. Paramore
+27. Madonna
+28. Shakira
+29. Taylor Swift
+30. Evanescence
+31. Glee Cast
+32. Beyoncé
+33. U2
+34. 30 Seconds to Mars
+35. Muse
+36. Pink Floyd
+37. Kylie Minogue
+38. Miley Cyrus
+39. Radiohead
+40. Ke$ha
+41. Duran Duran
+42. Coldplay
+43. Blur
+44. Arctic Monkeys
+45. Placebo
+46. The Killers
+47. Nirvana
+48. Iron Maiden
+49. Led Zeppelin
+50. Metallica

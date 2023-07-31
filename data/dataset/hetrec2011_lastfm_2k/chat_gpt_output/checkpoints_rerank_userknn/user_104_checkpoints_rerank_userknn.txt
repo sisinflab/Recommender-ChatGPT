@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Nirvana
+2. Green Day
+3. Guns N' Roses
+4. Led Zeppelin
+5. Lady Gaga
+6. Britney Spears
+7. The Fratellis
+8. The Veronicas
+9. All Time Low
+10. Boys Like Girls
+11. Cobra Starship
+12. Hey Monday
+13. A Rocket to the Moon
+14. Anberlin
+15. Sublime
+16. Bloodbath
+17. Opeth
+18. Sepultura
+19. Faith No More
+20. Bad Religion
+21. Helloween
+22. Bullet for My Valentine
+23. Nickelback
+24. Alesana
+25. 3OH!3
+26. Death Cab for Cutie
+27. Red Hot Chili Peppers
+28. Taking Back Sunday
+29. The Offspring
+30. blink-182
+31. Brand New
+32. Katy Perry
+33. Rihanna
+34. Ke$ha
+35. Madonna
+36. AC/DC
+37. Mötley Crüe
+38. Justin Timberlake
+39. Usher
+40. Beyoncé
+41. Shakira
+42. Jennifer Lopez
+43. Christina Aguilera
+44. Sky Ferreira
+45. Jessie J
+46. Evanescence
+47. Ramones
+48. The Beatles
+49. Jack Johnson
+50. Colbie Caillat

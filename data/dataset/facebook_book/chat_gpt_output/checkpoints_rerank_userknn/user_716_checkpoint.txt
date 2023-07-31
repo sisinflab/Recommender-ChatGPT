@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Harry Potter and the Philosopher's Stone by J.K. Rowling
+2. Harry Potter and the Chamber of Secrets by J.K. Rowling
+3. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+4. Harry Potter and the Goblet of Fire by J.K. Rowling
+5. Harry Potter and the Order of Phoenix by J.K. Rowling
+6. Harry Potter and the Half-Blood Prince by J.K. Rowling
+7. Harry Potter and the Deathly Hallows by J.K. Rowling
+8. The Hunger Games by Suzanne Collins
+9. Catching Fire by Suzanne Collins
+10. Mockingjay by Suzanne Collins
+11. To Kill a Mockingbird by Harper Lee
+12. Nineteen Eighty-Four by George Orwell
+13. The Hobbit by J.R.R. Tolkien
+14. The Lord of the Rings by J.R.R. Tolkien
+15. The Walking Dead (comic book) by Robert Kirkman
+16. The Da Vinci Code by Dan Brown
+17. Angels & Demons by Dan Brown
+18. The Picture of Dorian Gray by Oscar Wilde
+19. Wuthering Heights by Emily Bronte
+20. Frankenstein by Mary Shelley
+21. Dracula by Bram Stoker
+22. The Legend of Sleepy Hollow by Washington Irving
+23. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+24. The Giver by Lois Lowry
+25. Anne of Green Gables by L.M. Montgomery
+26. Oliver Twist by Charles Dickens
+27. Great Expectations by Charles Dickens
+28. Emma by Jane Austen
+29. Pride and Prejudice and Zombies by Seth Grahame-Smith
+30. Ella Enchanted by Gail Carson Levine
+31. The Kite Runner by Khaled Hosseini
+32. The Boy in the Striped Pyjamas by John Boyne
+33. Ramayana by Valmiki
+34. Gospel of Matthew by Anonymous
+35. Gospel of Mark by Anonymous
+36. Book of Revelation by Anonymous
+37. Passion and Purity by Elisabeth Elliot
+38. The Autobiography of Malcolm X by Malcolm X
+39. Outliers by Malcolm Gladwell
+40. The Lovely Bones by Alice Sebold
+41. Deception Point by Dan Brown
+42. The Hatchet by Gary Paulsen
+43. Black Beauty by Anna Sewell
+44. Cut by Patricia McCormick
+45. Bitten by Kelley Armstrong
+46. Night by Elie Wiesel
+47. King Solomon's Mines by H. Rider Haggard
+48. The Trumpet of the Swan by E.B. White
+49. Fox in Socks by Dr. Seuss
+50. Diary of a Wimpy Kid by Jeff Kinney

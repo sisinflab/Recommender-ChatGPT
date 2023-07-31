@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Coldplay
+3. Red Hot Chili Peppers
+4. Foo Fighters
+5. Green Day
+6. The Killers
+7. Queens of the Stone Age
+8. Pearl Jam
+9. Kings of Leon
+10. Arcade Fire
+11. Vampire Weekend
+12. The Black Keys
+13. Interpol
+14. The National
+15. The Smashing Pumpkins
+16. Weezer
+17. The Shins
+18. Death Cab for Cutie
+19. Modest Mouse
+20. The Decemberists
+21. The Flaming Lips
+22. Beck
+23. Gorillaz
+24. The Postal Service
+25. Phoenix
+26. Metric
+27. Silversun Pickups
+28. Band of Horses
+29. The Lumineers
+30. Alt-J
+31. Tame Impala
+32. Fleet Foxes
+33. Grizzly Bear
+34. Animal Collective
+35. The xx
+36. Foals
+37. Bombay Bicycle Club
+38. The Vaccines
+39. The Maccabees
+40. The Drums
+41. The Wombats
+42. The 1975
+43. Catfish and the Bottlemen
+44. Arctic Monkeys (Tranquility Base Hotel & Casino)
+45. The Strokes (The New Abnormal)
+46. Franz Ferdinand (Always Ascending)
+47. The Kooks (Let's Go Sunshine)
+48. Two Door Cinema Club (False Alarm)
+49. Florence + the Machine (High as Hope)
+50. MGMT (Little Dark Age)

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Dark Tower II: The Drawing of the Three by Stephen King
+2. The Hobbit by J.R.R. Tolkien
+3. Interview with the Vampire by Anne Rice
+4. The Fellowship of the Ring by J.R.R. Tolkien
+5. The Two Towers by J.R.R. Tolkien
+6. The Return of the King by J.R.R. Tolkien
+7. The Dark Tower III: The Waste Lands by Stephen King
+8. The Dark Tower IV: Wizard and Glass by Stephen King
+9. The Dark Tower V: Wolves of the Calla by Stephen King
+10. The Dark Tower VI: Song of Susannah by Stephen King
+11. The Dark Tower VII: The Dark Tower by Stephen King
+12. The Vampire Lestat by Anne Rice
+13. The Queen of the Damned by Anne Rice
+14. The Tale of the Body Thief by Anne Rice
+15. The Lost Symbol by Dan Brown
+16. The Da Vinci Code by Dan Brown
+17. Angels and Demons by Dan Brown
+18. The Hunger Games by Suzanne Collins
+19. Catching Fire by Suzanne Collins
+20. Mockingjay by Suzanne Collins
+21. The Name of the Wind by Patrick Rothfuss
+22. The Wise Man's Fear by Patrick Rothfuss
+23. The Lightning Thief by Rick Riordan
+24. The Sea of Monsters by Rick Riordan
+25. The Titan's Curse by Rick Riordan
+26. The Battle of the Labyrinth by Rick Riordan
+27. The Last Olympian by Rick Riordan
+28. The Magicians by Lev Grossman
+29. The Magician King by Lev Grossman
+30. The Magician's Land by Lev Grossman
+31. American Gods by Neil Gaiman
+32. Neverwhere by Neil Gaiman
+33. Stardust by Neil Gaiman
+34. Coraline by Neil Gaiman
+35. The Graveyard Book by Neil Gaiman
+36. The Gunslinger Born by Peter David, Robin Furth, Jae Lee, and Richard Isanove
+37. The Long Road Home by Peter David, Robin Furth, Jae Lee, and Richard Isanove
+38. Treachery by Peter David, Robin Furth, Jae Lee, and Richard Isanove
+39. The Fall of Gilead by Peter David, Robin Furth, Jae Lee, and Richard Isanove
+40. The Battle of Jericho Hill by Peter David, Robin Furth, Jae Lee, and Richard Isanove
+41. The Dark Elf Trilogy: Homeland by R.A. Salvatore
+42. The Dark Elf Trilogy: Exile by R.A. Salvatore
+43. The Dark Elf Trilogy: Sojourn by R.A. Salvatore
+44. The Lean Toolbox by John
+45. The Old Man and the Sea by Ernest Hemingway
+46. The Catcher in the Rye by J.D. Salinger
+47. Franny and Zooey by J.D. Salinger
+48. Nine Stories by J.D. Salinger
+49. The Bell Jar by Sylvia Plath
+50. The Wise Man's Fear by Patrick Rothfuss

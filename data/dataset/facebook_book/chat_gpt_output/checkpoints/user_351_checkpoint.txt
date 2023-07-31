@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. Brave New World by Aldous Huxley
+4. The Catcher in the Rye by J.D. Salinger
+5. The Great Gatsby by F. Scott Fitzgerald
+6. The Hobbit by J.R.R. Tolkien
+7. The Lord of the Rings by J.R.R. Tolkien
+8. The Chronicles of Narnia by C.S. Lewis
+9. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+10. The Hunger Games by Suzanne Collins
+11. The Da Vinci Code by Dan Brown
+12. Angels and Demons by Dan Brown
+13. The Girl with the Dragon Tattoo by Stieg Larsson
+14. The Girl Who Played with Fire by Stieg Larsson
+15. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+16. The Shining by Stephen King
+17. The Stand by Stephen King
+18. It by Stephen King
+19. The Silence of the Lambs by Thomas Harris
+20. Red Dragon by Thomas Harris
+21. Hannibal by Thomas Harris
+22. The Bourne Identity by Robert Ludlum
+23. The Bourne Supremacy by Robert Ludlum
+24. The Bourne Ultimatum by Robert Ludlum
+25. The Firm by John Grisham
+26. The Pelican Brief by John Grisham
+27. A Time to Kill by John Grisham
+28. The Andromeda Strain by Michael Crichton
+29. Jurassic Park by Michael Crichton
+30. The Lost World by Michael Crichton
+31. The Hunt for Red October by Tom Clancy
+32. Red Storm Rising by Tom Clancy
+33. Patriot Games by Tom Clancy
+34. The Girl on the Train by Paula Hawkins
+35. Gone Girl by Gillian Flynn
+36. The Lovely Bones by Alice Sebold
+37. The Help by Kathryn Stockett
+38. The Secret Life of Bees by Sue Monk Kidd
+39. The Kite Runner by Khaled Hosseini
+40. A Thousand Splendid Suns by Khaled Hosseini
+41. The Alchemist by Paulo Coelho
+42. The Picture of Dorian Gray by Oscar Wilde
+43. The Importance of Being Earnest by Oscar Wilde
+44. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+45. The Hound of the Baskervilles by Arthur Conan Doyle
+46. The Return of Sherlock Holmes by Arthur Conan Doyle
+47. The War of the Worlds by H.G. Wells
+48. The Time Machine by H.G. Wells
+49. The Invisible Man by H.G. Wells
+50. Frankenstein by Mary Shelley

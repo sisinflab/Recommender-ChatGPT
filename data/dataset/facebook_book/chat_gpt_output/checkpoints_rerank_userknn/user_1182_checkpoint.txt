@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter by J.K. Rowling
+2. Mockingjay by Suzanne Collins
+3. Catching Fire by Suzanne Collins
+4. Nineteen Minutes by Jodi Picoult
+5. My Sister's Keeper by Jodi Picoult
+6. The Bell Jar by Sylvia Plath
+7. The Catcher in the Rye by J.D. Salinger
+8. The Grapes of Wrath by John Steinbeck
+9. The Notebook by Nicholas Sparks
+10. Under the Dome by Stephen King
+11. Wuthering Heights by Emily Bronte
+12. The Truth About Forever by Sarah Dessen
+13. Inkheart by Cornelia Funke
+14. Glass by Ellen Hopkins
+15. Lock and Key by Sarah Dessen
+16. The Messenger by Markus Zusak
+17. The Invention of Hugo Cabret by Brian Selznick
+18. The Summoning by Kelley Armstrong
+19. Three by Ted Dekker
+20. The Named by Marianne Curley
+21. Vampire Academy by Richelle Mead
+22. Wake by Lisa McMann
+23. Identical by Ellen Hopkins
+24. Tricks by Ellen Hopkins
+25. Running with Scissors by Augusten Burroughs
+26. Change of Heart by Jodi Picoult
+27. The Chocolate War by Robert Cormier
+28. Number the Stars by Lois Lowry
+29. Pretties by Scott Westerfeld
+30. Vampire Kisses by Ellen Schreiber
+31. Be More Chill by Ned Vizzini
+32. The Visitation by Frank Peretti
+33. Fear and Loathing in Las Vegas by Hunter S. Thompson
+34. A Million Little Pieces by James Frey
+35. Thirteen Reasons Why by Jay Asher
+36. Cathy's Book by Sean Stewart
+37. Cirque du Freak by Darren Shan
+38. Black by Ted Dekker
+39. Red by Ted Dekker
+40. The Named by Marianne Curley
+41. The Truth About Forever by Sarah Dessen
+42. The Messenger by Markus Zusak
+43. The Invention of Hugo Cabret by Brian Selznick
+44. The Summoning by Kelley Armstrong
+45. Three by Ted Dekker
+46. Vampire Academy by Richelle Mead
+47. Wake by Lisa McMann
+48. Identical by Ellen Hopkins
+49. Tricks by Ellen Hopkins
+50. Running with Scissors by Augusten Burroughs

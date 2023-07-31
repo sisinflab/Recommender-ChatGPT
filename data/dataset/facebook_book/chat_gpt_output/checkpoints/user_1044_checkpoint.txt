@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. The Bell Jar by Sylvia Plath
+6. The Handmaid's Tale by Margaret Atwood
+7. The Picture of Dorian Gray by Oscar Wilde
+8. The Hobbit by J.R.R. Tolkien
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+11. The Hunger Games by Suzanne Collins
+12. Catch-22 by Joseph Heller
+13. One Hundred Years of Solitude by Gabriel Garcia Marquez
+14. The Road by Cormac McCarthy
+15. The Book Thief by Markus Zusak
+16. The Kite Runner by Khaled Hosseini
+17. The Girl with the Dragon Tattoo by Stieg Larsson
+18. The Da Vinci Code by Dan Brown
+19. The Shining by Stephen King
+20. The Stand by Stephen King
+21. The Dark Tower series by Stephen King
+22. The Chronicles of Narnia by C.S. Lewis
+23. The Harry Potter series by J.K. Rowling
+24. The Name of the Wind by Patrick Rothfuss
+25. The Lies of Locke Lamora by Scott Lynch
+26. The Blade Itself by Joe Abercrombie
+27. The First Law Trilogy by Joe Abercrombie
+28. The Kingkiller Chronicle by Patrick Rothfuss
+29. The Mistborn Trilogy by Brandon Sanderson
+30. The Way of Kings by Brandon Sanderson
+31. The Stormlight Archive by Brandon Sanderson
+32. The Malazan Book of the Fallen by Steven Erikson
+33. American Gods by Neil Gaiman
+34. Neverwhere by Neil Gaiman
+35. Good Omens by Neil Gaiman and Terry Pratchett
+36. The Graveyard Book by Neil Gaiman
+37. The Ocean at the End of the Lane by Neil Gaiman
+38. The Dresden Files by Jim Butcher
+39. The Wheel of Time series by Robert Jordan and Brandon Sanderson
+40. The Belgariad by David Eddings
+41. The Elenium by David Eddings
+42. The Tamuli by David Eddings
+43. The Sword of Truth series by Terry Goodkind
+44. The Memory, Sorrow, and Thorn series by Tad Williams
+45. The Farseer Trilogy by Robin Hobb
+46. The Liveship Traders Trilogy by Robin Hobb
+47. The Tawny Man Trilogy by Robin Hobb
+48. The Lightbringer series by Brent Weeks
+49. The Black Prism by Brent Weeks
+50. The Wise Man's Fear by Patrick Rothfuss

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. Animal Farm by George Orwell
+4. The Catcher in the Rye by J.D. Salinger
+5. Lord of the Flies by William Golding
+6. The Great Gatsby by F. Scott Fitzgerald
+7. One Hundred Years of Solitude by Gabriel Garcia Marquez
+8. The Grapes of Wrath by John Steinbeck
+9. The Bell Jar by Sylvia Plath
+10. The Handmaid's Tale by Margaret Atwood
+11. The Road by Cormac McCarthy
+12. The Stranger by Albert Camus
+13. The Sun Also Rises by Ernest Hemingway
+14. The Old Man and the Sea by Ernest Hemingway
+15. A Clockwork Orange by Anthony Burgess
+16. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+17. The Lord of the Rings by J.R.R. Tolkien
+18. The Hobbit by J.R.R. Tolkien
+19. The Chronicles of Narnia by C.S. Lewis
+20. The Da Vinci Code by Dan Brown
+21. Angels and Demons by Dan Brown
+22. The Girl with the Dragon Tattoo by Stieg Larsson
+23. The Hunger Games by Suzanne Collins
+24. Catching Fire by Suzanne Collins
+25. Mockingjay by Suzanne Collins
+26. The Maze Runner by James Dashner
+27. The Fault in Our Stars by John Green
+28. Paper Towns by John Green
+29. Looking for Alaska by John Green
+30. The Book Thief by Markus Zusak
+31. The Kite Runner by Khaled Hosseini
+32. A Thousand Splendid Suns by Khaled Hosseini
+33. The Alchemist by Paulo Coelho
+34. The Picture of Dorian Gray by Oscar Wilde
+35. Dracula by Bram Stoker
+36. Frankenstein by Mary Shelley
+37. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+38. The Count of Monte Cristo by Alexandre Dumas
+39. Les Miserables by Victor Hugo
+40. War and Peace by Leo Tolstoy
+41. Crime and Punishment by Fyodor Dostoevsky
+42. The Brothers Karamazov by Fyodor Dostoevsky
+43. Anna Karenina by Leo Tolstoy
+44. Pride and Prejudice by Jane Austen
+45. Sense and Sensibility by Jane Austen
+46. Emma by Jane Austen
+47. Wuthering Heights by Emily Bronte
+48. Jane Eyre by Charlotte Bronte
+49. The Picture of Dorian Gray by Oscar Wilde
+50. The Importance of Being Earnest by Oscar Wilde

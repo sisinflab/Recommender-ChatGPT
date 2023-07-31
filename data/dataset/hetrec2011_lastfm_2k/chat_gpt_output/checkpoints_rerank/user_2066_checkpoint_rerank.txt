@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Rammstein
+2. HIM
+3. Unheilig
+4. Blutengel
+5. In Extremo
+6. L'Âme Immortelle
+7. Die Ärzte
+8. Eisbrecher
+9. Three Days Grace
+10. The Birthday Massacre
+11. Children of Bodom
+12. Deathstars
+13. Amorphis
+14. Guns N' Roses
+15. Metallica
+16. Nirvana
+17. System of a Down
+18. Bullet for My Valentine
+19. Billy Talent
+20. Diary of Dreams
+21. Iron Maiden
+22. Pearl Jam
+23. Avenged Sevenfold
+24. My Chemical Romance
+25. Green Day
+26. The Cure
+27. Muse
+28. Pink Floyd
+29. Radiohead
+30. Nine Inch Nails
+31. Linkin Park
+32. The Killers
+33. Coldplay
+34. Arctic Monkeys
+35. Placebo
+36. U2
+37. Michael Jackson
+38. Led Zeppelin
+39. a-ha
+40. Björk
+41. Daft Punk
+42. Ke$ha
+43. Duran Duran
+44. Blur
+45. Katy Perry
+46. Lady Gaga
+47. Christina Aguilera
+48. Rihanna
+49. Beyoncé
+50. Shakira

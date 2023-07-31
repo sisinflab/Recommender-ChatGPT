@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for user 1275 are:
+
+1. The Beatles
+2. Pink Floyd
+3. Muse
+4. Led Zeppelin
+5. Radiohead
+6. Nirvana
+7. The Rolling Stones
+8. The Doors
+9. Jimi Hendrix
+10. David Bowie
+11. The Who
+12. The Killers
+13. Arctic Monkeys
+14. Kings of Leon
+15. Franz Ferdinand
+16. Arcade Fire
+17. Yeah Yeah Yeahs
+18. Amy Winehouse
+19. The Jam
+20. Paul McCartney
+21. The Kinks
+22. Cat Power
+23. Goldfrapp
+24. The Last Shadow Puppets
+25. Björk
+26. Bat for Lashes
+27. Blackmore's Night
+28. U2
+29. Metallica
+30. Iron Maiden
+31. Pearl Jam
+32. a-ha
+33. System of a Down
+34. Daft Punk
+35. Nine Inch Nails
+36. Linkin Park
+37. Green Day
+38. The Cure
+39. Depeche Mode
+40. Madonna
+41. Lady Gaga
+42. Christina Aguilera
+43. Rihanna
+44. Shakira
+45. Katy Perry
+46. Avril Lavigne
+47. Taylor Swift
+48. Evanescence
+49. P!nk
+50. My Chemical Romance

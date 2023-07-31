@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Brave New World by Aldous Huxley
+2. Fahrenheit 451 by Ray Bradbury
+3. Ender's Game by Orson Scott Card
+4. Dune by Frank Herbert
+5. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+6. The Catcher in the Rye by J.D. Salinger
+7. The Great Gatsby by F. Scott Fitzgerald
+8. To Kill a Mockingbird by Harper Lee
+9. Animal Farm by George Orwell
+10. Slaughterhouse-Five by Kurt Vonnegut
+11. The Martian by Andy Weir
+12. The Hunger Games by Suzanne Collins
+13. The Maze Runner by James Dashner
+14. The Giver by Lois Lowry
+15. The Chronicles of Narnia by C.S. Lewis
+16. The Harry Potter series by J.K. Rowling
+17. The Percy Jackson series by Rick Riordan
+18. The Lord of the Flies by William Golding
+19. The Road by Cormac McCarthy
+20. The Stand by Stephen King
+21. The Shining by Stephen King
+22. The Dark Tower series by Stephen King
+23. The Girl with the Dragon Tattoo by Stieg Larsson
+24. The Da Vinci Code by Dan Brown
+25. The Bourne Identity by Robert Ludlum
+26. The Silence of the Lambs by Thomas Harris
+27. The Girl on the Train by Paula Hawkins
+28. The Help by Kathryn Stockett
+29. The Fault in Our Stars by John Green
+30. The Alchemist by Paulo Coelho
+31. The Picture of Dorian Gray by Oscar Wilde
+32. The Count of Monte Cristo by Alexandre Dumas
+33. The Three Musketeers by Alexandre Dumas
+34. Les Misérables by Victor Hugo
+35. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+36. The Hound of the Baskervilles by Arthur Conan Doyle
+37. The Name of the Wind by Patrick Rothfuss
+38. The Wise Man's Fear by Patrick Rothfuss
+39. The Lies of Locke Lamora by Scott Lynch
+40. The Blade Itself by Joe Abercrombie
+41. The Way of Kings by Brandon Sanderson
+42. Mistborn by Brandon Sanderson
+43. The Final Empire by Brandon Sanderson
+44. The Eye of the World by Robert Jordan
+45. A Game of Thrones by George R.R. Martin
+46. The Fellowship of the Ring by J.R.R. Tolkien
+47. The Two Towers by J.R.R. Tolkien
+48. The Return of the King by J.R.R. Tolkien
+49. The Silmarillion by J.R.R. Tolkien
+50. The Children of Hurin by J.R.R. Tolkien

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. System of a Down
+2. Slipknot
+3. Linkin Park
+4. Rammstein
+5. Rage Against the Machine
+6. Tool
+7. Three Days Grace
+8. Stone Sour
+9. Comeback Kid
+10. Serj Tankian
+11. Cradle of Filth
+12. HORSE the band
+13. Amorphis
+14. Apocalyptica
+15. Ill Niño
+16. Bloodhound Gang
+17. Incubus
+18. Arctic Monkeys
+19. Muse
+20. Pink Floyd
+21. Nirvana
+22. Metallica
+23. Led Zeppelin
+24. Iron Maiden
+25. Pearl Jam
+26. Nine Inch Nails
+27. The Killers
+28. Green Day
+29. My Chemical Romance
+30. Avenged Sevenfold
+31. Black Eyed Peas
+32. Daft Punk
+33. Michael Jackson
+34. Madonna
+35. Lady Gaga
+36. Beyoncé
+37. Rihanna
+38. Katy Perry
+39. Taylor Swift
+40. Ke$ha
+41. Christina Aguilera
+42. Shakira
+43. P!nk
+44. Paramore
+45. Evanescence
+46. Glee Cast
+47. U2
+48. Coldplay
+49. Blur
+50. The Beatles

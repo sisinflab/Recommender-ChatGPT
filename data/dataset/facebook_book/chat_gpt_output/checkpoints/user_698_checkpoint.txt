@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Alchemist by Paulo Coelho
+2. Pride and Prejudice by Jane Austen
+3. Wuthering Heights by Emily Bronte
+4. The Great Gatsby by F. Scott Fitzgerald
+5. To Kill a Mockingbird by Harper Lee
+6. Jane Eyre by Charlotte Bronte
+7. The Catcher in the Rye by J.D. Salinger
+8. 1984 by George Orwell
+9. One Hundred Years of Solitude by Gabriel Garcia Marquez
+10. The Bell Jar by Sylvia Plath
+11. The Handmaid's Tale by Margaret Atwood
+12. The Lord of the Rings by J.R.R. Tolkien
+13. The Hobbit by J.R.R. Tolkien
+14. The Chronicles of Narnia by C.S. Lewis
+15. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+16. The Da Vinci Code by Dan Brown
+17. The Girl with the Dragon Tattoo by Stieg Larsson
+18. The Hunger Games by Suzanne Collins
+19. The Fault in Our Stars by John Green
+20. The Book Thief by Markus Zusak
+21. The Kite Runner by Khaled Hosseini
+22. The Lovely Bones by Alice Sebold
+23. The Secret Life of Bees by Sue Monk Kidd
+24. The Help by Kathryn Stockett
+25. The Color Purple by Alice Walker
+26. The Joy Luck Club by Amy Tan
+27. The God of Small Things by Arundhati Roy
+28. The Poisonwood Bible by Barbara Kingsolver
+29. The Time Traveler's Wife by Audrey Niffenegger
+30. The Road by Cormac McCarthy
+31. The Picture of Dorian Gray by Oscar Wilde
+32. The Importance of Being Earnest by Oscar Wilde
+33. The Sisterhood of the Traveling Pants by Ann Brashares
+34. Bonjour Tristesse by Françoise Sagan
+35. Lady Chatterley's Lover by D.H. Lawrence
+36. Atonement by Ian McEwan
+37. Moll Flanders by Daniel Defoe
+38. Sense and Sensibility by Jane Austen
+39. Emma by Jane Austen
+40. Persuasion by Jane Austen
+41. Northanger Abbey by Jane Austen
+42. Mansfield Park by Jane Austen
+43. The Age of Innocence by Edith Wharton
+44. The House of Mirth by Edith Wharton
+45. The Picture of Dorian Gray by Oscar Wilde
+46. The Importance of Being Earnest by Oscar Wilde
+47. The Picture of Dorian Gray by Oscar Wilde
+48. The Importance of Being Earnest by Oscar Wilde
+49. The Picture of Dorian Gray by Oscar Wilde
+50. The Importance of Being Earnest

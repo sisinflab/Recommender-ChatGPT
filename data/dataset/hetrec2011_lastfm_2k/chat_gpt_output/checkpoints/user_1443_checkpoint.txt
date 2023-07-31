@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Aerosmith
+2. Nirvana
+3. Metallica
+4. U2
+5. Pearl Jam
+6. Red Hot Chili Peppers
+7. Oasis
+8. Foo Fighters
+9. The Rolling Stones
+10. Black Sabbath
+11. Iron Maiden
+12. Kiss
+13. Van Halen
+14. Deep Purple
+15. The Who
+16. Rush
+17. Judas Priest
+18. Alice Cooper
+19. Soundgarden
+20. System of a Down
+21. Slayer
+22. Megadeth
+23. Pantera
+24. Tool
+25. Nine Inch Nails
+26. Radiohead
+27. Green Day
+28. Blink-182
+29. The Offspring
+30. Weezer
+31. Smashing Pumpkins
+32. Stone Temple Pilots
+33. Jane's Addiction
+34. Guns N' Roses (Appetite for Destruction album)
+35. Bon Jovi (Slippery When Wet album)
+36. Led Zeppelin (IV album)
+37. Pink Floyd (The Wall album)
+38. Queen (A Night at the Opera album)
+39. The Doors (The Doors album)
+40. The Beatles (Sgt. Pepper's Lonely Hearts Club Band album)
+41. R.E.M. (Automatic for the People album)
+42. The Cranberries (No Need to Argue album)
+43. Dire Straits (Brothers in Arms album)
+44. AC/DC (Back in Black album)
+45. Ramones (Ramones album)
+46. The Cure (Disintegration album)
+47. Elvis Presley (Elvis Presley album)
+48. Eric Clapton (Unplugged album)
+49. Cyndi Lauper (She's So Unusual album)
+50. Simon & Garfunkel (Bridge Over Troubled Water album)

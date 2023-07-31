@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Identical (novel) by ['Ellen Hopkins']
+2. Tricks (novel) by ['Ellen Hopkins']
+3. Burned (Hopkins novel) by ['Ellen Hopkins']
+4. Crank (novel) by ['Ellen Hopkins']
+5. A Million Little Pieces by ['James Frey']
+6. The Chocolate War by ['Robert Cormier']
+7. Impulse economy by ['Gary Schwartz (designer)']
+8. Go Ask Alice by []
+9. Under the Dome by []
+10. Be More Chill by []
+11. Wings (Pike novel)
+12. The Secret Life of Bees
+13. Gingerbread (novel)
+14. The Hunger Games
+15. Fahrenheit 451
+16. Wake (Lisa McMann novel)
+17. The Bell Jar
+18. Romeo and Juliet
+19. To Kill a Mockingbird
+20. The Catcher in the Rye
+21. Paper Towns
+22. Thirteen Reasons Why
+23. If I Stay
+24. The Perks of Being a Wallflower
+25. Catching Fire
+26. The Little Prince
+27. Oliver Twist
+28. The Southern Vampire Mysteries
+29. Vampire Academy (novel)
+30. Candy: A Novel of Love and Addiction
+31. Inferno (Dante)
+32. Running with Scissors (memoir)
+33. Vampire Kisses
+34. Looking for Alaska
+35. Cathy's Book
+36. Hairstyles of the Damned
+37. A Lion Among Men
+38. The Haunting of Alaizabel Cray
+39. Brother Odd
+40. Son of a Witch
+41. Reviving Ophelia
+42. Fallen (Kate novel)
+43. The Summoning (novel)
+44. The Wolves of Mercy Falls
+45. Cut (novel)
+46. Pretties
+47. The Watchmen (novel)
+48. Glass (novel)
+49. Before I Die
+50. Fallout: An American Nuclear Tragedy

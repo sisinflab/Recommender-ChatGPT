@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. 1984 by George Orwell
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Animal Farm by George Orwell
+7. Lord of the Flies by William Golding
+8. Brave New World by Aldous Huxley
+9. The Hobbit by J.R.R. Tolkien
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Chronicles of Narnia by C.S. Lewis
+12. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+13. The Giver by Lois Lowry
+14. The Maze Runner by James Dashner
+15. Divergent by Veronica Roth
+16. The Fault in Our Stars by John Green
+17. The Perks of Being a Wallflower by Stephen Chbosky
+18. The Girl with the Dragon Tattoo by Stieg Larsson
+19. The Girl on the Train by Paula Hawkins
+20. Gone Girl by Gillian Flynn
+21. The Help by Kathryn Stockett
+22. The Kite Runner by Khaled Hosseini
+23. A Thousand Splendid Suns by Khaled Hosseini
+24. The Alchemist by Paulo Coelho
+25. The Picture of Dorian Gray by Oscar Wilde
+26. The Count of Monte Cristo by Alexandre Dumas
+27. Les Misérables by Victor Hugo
+28. The Three Musketeers by Alexandre Dumas
+29. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+30. The War of the Worlds by H.G. Wells
+31. The Time Machine by H.G. Wells
+32. The Invisible Man by H.G. Wells
+33. The Island of Dr. Moreau by H.G. Wells
+34. The Call of the Wild by Jack London
+35. White Fang by Jack London
+36. The Old Man and the Sea by Ernest Hemingway
+37. For Whom the Bell Tolls by Ernest Hemingway
+38. The Sun Also Rises by Ernest Hemingway
+39. The Catcher in the Rye by J.D. Salinger
+40. Franny and Zooey by J.D. Salinger
+41. The Bell Jar by Sylvia Plath
+42. One Hundred Years of Solitude by Gabriel Garcia Marquez
+43. Love in the Time of Cholera by Gabriel Garcia Marquez
+44. The Name of the Rose by Umberto Eco
+45. The Picture of Dorian Gray by Oscar Wilde
+46. The Importance of Being Earnest by Oscar Wilde
+47. The Canterbury Tales by Geoffrey Chaucer
+48. The Divine Comedy by Dante Alighieri
+49. The Bell Jar by Sylvia Plath
+50. The Wise Man's Fear by Patrick Rothfuss

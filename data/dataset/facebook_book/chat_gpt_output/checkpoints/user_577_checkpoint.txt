@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. One Hundred Years of Solitude by Gabriel Garcia Marquez
+2. To Kill a Mockingbird by Harper Lee
+3. The Great Gatsby by F. Scott Fitzgerald
+4. Slaughterhouse-Five by Kurt Vonnegut
+5. Catch-22 by Joseph Heller
+6. The Bell Jar by Sylvia Plath
+7. The Stranger by Albert Camus
+8. The Sun Also Rises by Ernest Hemingway
+9. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+10. The Handmaid's Tale by Margaret Atwood
+11. The Road by Cormac McCarthy
+12. The Grapes of Wrath by John Steinbeck
+13. The Old Man and the Sea by Ernest Hemingway
+14. The Crying of Lot 49 by Thomas Pynchon
+15. The Heart is a Lonely Hunter by Carson McCullers
+16. The Trial and Death of Socrates by Plato
+17. The Metamorphosis by Franz Kafka
+18. The Plague by Albert Camus
+19. The Master and Margarita by Mikhail Bulgakov
+20. The Idiot by Fyodor Dostoevsky
+21. The Name of the Rose by Umberto Eco
+22. The Count of Monte Cristo by Alexandre Dumas
+23. The Three Musketeers by Alexandre Dumas
+24. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+25. The Hound of the Baskervilles by Arthur Conan Doyle
+26. The Picture of Dorian Gray by Oscar Wilde
+27. The Importance of Being Earnest by Oscar Wilde
+28. The Canterbury Tales by Geoffrey Chaucer
+29. The Divine Comedy by Dante Alighieri
+30. The Iliad by Homer
+31. The Odyssey by Homer
+32. The Aeneid by Virgil
+33. The Inferno by Dante Alighieri
+34. The Republic by Plato
+35. The Prince by Niccolo Machiavelli
+36. The Art of War by Sun Tzu
+37. The Tao Te Ching by Lao Tzu
+38. The Analects by Confucius
+39. The Book of Five Rings by Miyamoto Musashi
+40. The Wealth of Nations by Adam Smith
+41. The Communist Manifesto by Karl Marx and Friedrich Engels
+42. The Origin of Species by Charles Darwin
+43. The Interpretation of Dreams by Sigmund Freud
+44. The Structure of Scientific Revolutions by Thomas S. Kuhn
+45. The Selfish Gene by Richard Dawkins
+46. The Blind Watchmaker by Richard Dawkins
+47. The Elegant Universe by Brian Greene
+48. The Fabric of the Cosmos by Brian Greene
+49. The God Delusion by Richard Dawkins
+50. A Brief History of Time by Stephen

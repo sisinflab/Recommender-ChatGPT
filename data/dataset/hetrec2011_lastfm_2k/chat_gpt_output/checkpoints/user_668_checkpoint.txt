@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Foo Fighters
+2. Pearl Jam
+3. Nirvana
+4. Alice in Chains
+5. Soundgarden
+6. Stone Temple Pilots
+7. System of a Down
+8. Muse
+9. Radiohead
+10. Queens of the Stone Age
+11. The Strokes
+12. Arctic Monkeys
+13. The White Stripes
+14. The Black Keys
+15. Cage the Elephant
+16. Kings of Leon
+17. Red Hot Chili Peppers (older albums)
+18. Guns N' Roses (older albums)
+19. Metallica (older albums)
+20. Iron Maiden (older albums)
+21. AC/DC (older albums)
+22. Led Zeppelin
+23. Pink Floyd
+24. The Doors
+25. The Who
+26. The Rolling Stones
+27. The Beatles
+28. Jimi Hendrix
+29. Black Sabbath (older albums)
+30. Deep Purple
+31. Rush
+32. Van Halen
+33. Aerosmith
+34. Kiss
+35. Motley Crue
+36. Bon Jovi (older albums)
+37. Def Leppard
+38. Whitesnake
+39. Scorpions (older albums)
+40. Judas Priest
+41. Dio
+42. Ozzy Osbourne
+43. Megadeth (older albums)
+44. Slayer
+45. Anthrax
+46. Testament
+47. Exodus
+48. Kreator
+49. Sodom
+50. Destruction

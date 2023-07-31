@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. The Picture of Dorian Gray by Oscar Wilde
+5. The Handmaid's Tale by Margaret Atwood
+6. The Lord of the Rings by J.R.R. Tolkien
+7. The Hobbit by J.R.R. Tolkien
+8. The Hunger Games by Suzanne Collins
+9. The Girl with the Dragon Tattoo by Stieg Larsson
+10. The Da Vinci Code by Dan Brown
+11. The Shining by Stephen King
+12. The Stand by Stephen King
+13. The Road by Cormac McCarthy
+14. The Great Gatsby by F. Scott Fitzgerald (since the user already likes it)
+15. Brave New World by Aldous Huxley
+16. Animal Farm by George Orwell
+17. Lord of the Flies by William Golding
+18. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+19. The Chronicles of Narnia by C.S. Lewis
+20. The Harry Potter series by J.K. Rowling
+21. The Book Thief by Markus Zusak
+22. The Fault in Our Stars by John Green
+23. The Perks of Being a Wallflower by Stephen Chbosky
+24. The Bell Jar by Sylvia Plath (since the user already likes it)
+25. The Road Not Taken by Robert Frost
+26. The Canterbury Tales by Geoffrey Chaucer (since the user already likes it)
+27. The Divine Comedy by Dante Alighieri
+28. The Iliad by Homer
+29. The Odyssey by Homer
+30. The Aeneid by Virgil
+31. Macbeth by William Shakespeare (since the user already likes it)
+32. Romeo and Juliet by William Shakespeare
+33. Hamlet by William Shakespeare
+34. Othello by William Shakespeare
+35. King Lear by William Shakespeare
+36. A Midsummer Night's Dream by William Shakespeare
+37. Walden by Henry David Thoreau (since the user already likes it)
+38. The Adventures of Huckleberry Finn by Mark Twain
+39. The Adventures of Tom Sawyer by Mark Twain
+40. The Picture of Dorian Gray by Oscar Wilde (since the user already likes it)
+41. The Importance of Being Earnest by Oscar Wilde
+42. The Count of Monte Cristo by Alexandre Dumas
+43. Les Misérables by Victor Hugo
+44. Crime and Punishment by Fyodor Dostoevsky
+45. War and Peace by Leo Tolstoy
+46. Anna Karenina by Leo Tolstoy
+47. One Hundred Years of Solitude by Gabriel Garcia Marquez
+48. Love in the Time of Cholera by Gabriel Garcia Marquez

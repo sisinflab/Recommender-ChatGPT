@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. Crime and Punishment by Fyodor Dostoyevsky
+3. Jane Eyre by Charlotte Bronte
+4. Brave New World by Aldous Huxley
+5. The Handmaid's Tale by Margaret Atwood
+6. The Great Divorce by C.S. Lewis
+7. A Tale of Two Cities by Charles Dickens
+8. Memoirs of a Geisha by Arthur Golden
+9. Life of Pi by Yann Martel
+10. The Alchemist by Paulo Coelho
+11. The Kite Runner by Khaled Hosseini
+12. The Prophet by Kahlil Gibran
+13. The Hardy Boys by Franklin W. Dixon
+14. The Awakening by Kate Chopin
+15. The Good Earth by Pearl S. Buck
+16. A Wrinkle in Time by Madeleine L'Engle
+17. The Illustrated Man by Ray Bradbury
+18. Animal Farm by George Orwell
+19. The Last Song by Nicholas Sparks
+20. The Name of the Rose by Umberto Eco
+21. Les Miserables by Victor Hugo
+22. The Brothers Karamazov by Fyodor Dostoyevsky
+23. Rebecca by Daphne du Maurier
+24. Ethan Frome by Edith Wharton
+25. The Beekeeper's Apprentice by Laurie R. King
+26. The Four Loves by C.S. Lewis
+27. Space by James A. Michener
+28. Mark of the Lion Series by Francine Rivers
+29. Hot, Flat, and Crowded by Thomas L. Friedman
+30. Twilight by Stephenie Meyer
+31. His Dark Materials by Philip Pullman
+32. The Lovely Bones by Alice Sebold
+33. The Tenth Circle by Jodi Picoult
+34. Blue Like Jazz by Donald Miller
+35. A Tree Grows in Brooklyn by Betty Smith
+36. Aztec by Gary Jennings
+37. Confessions of an Economic Hit Man by John Perkins
+38. Dune by Frank Herbert
+39. Speak by Laurie Halse Anderson
+40. Gilead by Marilynne Robinson
+41. Hope Was Here by Joan Bauer
+42. Great Expectations by Charles Dickens
+43. The Omnivore's Dilemma by Michael Pollan
+44. Extremely Loud and Incredibly Close by Jonathan Safran Foer
+45. Far from the Madding Crowd by Thomas Hardy
+46. To Sir, With Love by E.R. Braithwaite
+47. Three Cups of Tea by Greg Mortenson and David Oliver Relin
+48. My Name Is Red by Orhan Pamuk
+49. Peace by Gene Wolfe
+50. The History of the Decline and Fall of the Roman Empire by Edward Gibbon

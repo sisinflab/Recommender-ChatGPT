@@ -1,0 +1,49 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. One Hundred Years of Solitude by Gabriel Garcia Marquez
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. Slaughterhouse-Five by Kurt Vonnegut
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Brave New World by Aldous Huxley
+7. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+8. The Stranger by Albert Camus
+9. The Road by Cormac McCarthy
+10. The Picture of Dorian Gray by Oscar Wilde
+11. The Sun Also Rises by Ernest Hemingway
+12. The Grapes of Wrath by John Steinbeck
+13. The Old Man and the Sea by Ernest Hemingway
+14. The Sound and the Fury by William Faulkner
+15. The Bell Jar by Sylvia Plath
+16. The Electric Kool-Aid Acid Test by Tom Wolfe
+17. The Naked Lunch by William S. Burroughs
+18. The Crying of Lot 49 by Thomas Pynchon
+19. The Dharma Bums by Jack Kerouac
+20. On the Road by Jack Kerouac
+21. The Doors of Perception by Aldous Huxley
+22. The Electric Kool-Aid Acid Test by Tom Wolfe
+23. The Naked Lunch by William S. Burroughs
+24. The Crying of Lot 49 by Thomas Pynchon
+25. The Dharma Bums by Jack Kerouac
+26. On the Road by Jack Kerouac
+27. The Doors of Perception by Aldous Huxley
+28. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+29. The Stranger by Albert Camus
+30. The Road by Cormac McCarthy
+31. The Picture of Dorian Gray by Oscar Wilde
+32. The Sun Also Rises by Ernest Hemingway
+33. The Grapes of Wrath by John Steinbeck
+34. The Old Man and the Sea by Ernest Hemingway
+35. The Sound and the Fury by William Faulkner
+36. The Electric Kool-Aid Acid Test by Tom Wolfe
+37. The Naked Lunch by William S. Burroughs
+38. The Crying of Lot 49 by Thomas Pynchon
+39. The Dharma Bums by Jack Kerouac
+40. On the Road by Jack Kerouac
+41. The Doors of Perception by Aldous Huxley
+42. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+43. The Stranger by Albert Camus
+44. The Road by Cormac McCarthy
+45. The Picture of Dorian Gray by Oscar Wilde
+46. The Sun Also Rises by Ernest Hemingway
+47. The Grapes of Wrath by

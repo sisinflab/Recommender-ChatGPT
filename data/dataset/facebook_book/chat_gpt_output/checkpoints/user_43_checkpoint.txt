@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. The Maze Runner by James Dashner
+3. Divergent by Veronica Roth
+4. The Fault in Our Stars by John Green
+5. The Giver by Lois Lowry
+6. The Book Thief by Markus Zusak
+7. The Perks of Being a Wallflower by Stephen Chbosky
+8. The Outsiders by S.E. Hinton
+9. To Kill a Mockingbird by Harper Lee
+10. The Catcher in the Rye by J.D. Salinger
+11. The Great Gatsby by F. Scott Fitzgerald
+12. 1984 by George Orwell
+13. Animal Farm by George Orwell
+14. Lord of the Flies by William Golding
+15. Brave New World by Aldous Huxley
+16. Fahrenheit 451 by Ray Bradbury
+17. The Handmaid's Tale by Margaret Atwood
+18. The Road by Cormac McCarthy
+19. The Stand by Stephen King
+20. The Shining by Stephen King
+21. It by Stephen King
+22. The Dark Tower series by Stephen King
+23. The Girl with the Dragon Tattoo by Stieg Larsson
+24. The Da Vinci Code by Dan Brown
+25. Angels and Demons by Dan Brown
+26. The Bourne Identity by Robert Ludlum
+27. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+28. Ender's Game by Orson Scott Card
+29. The Lord of the Rings by J.R.R. Tolkien
+30. The Hobbit by J.R.R. Tolkien
+31. Harry Potter series by J.K. Rowling
+32. The Chronicles of Narnia by C.S. Lewis
+33. The Dark is Rising series by Susan Cooper
+34. The Secret History by Donna Tartt
+35. The Goldfinch by Donna Tartt
+36. The Name of the Wind by Patrick Rothfuss
+37. The Lies of Locke Lamora by Scott Lynch
+38. The Blade Itself by Joe Abercrombie
+39. The Way of Kings by Brandon Sanderson
+40. Mistborn series by Brandon Sanderson
+41. The Kingkiller Chronicle by Patrick Rothfuss
+42. The Stormlight Archive by Brandon Sanderson
+43. The First Law trilogy by Joe Abercrombie
+44. The Malazan Book of the Fallen by Steven Erikson
+45. The Black Company by Glen Cook
+46. The Dresden Files by Jim Butcher
+47. The Wheel of Time by Robert Jordan
+48. The Belgariad by David Eddings
+49. The Sword of Shannara by Terry Brooks
+50. The Earthsea Cycle by Ursula K. Le Guin

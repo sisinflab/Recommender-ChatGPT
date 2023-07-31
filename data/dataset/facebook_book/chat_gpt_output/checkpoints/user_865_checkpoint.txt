@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Maze Runner by James Dashner
+4. The Giver by Lois Lowry
+5. The Fault in Our Stars by John Green
+6. The Chronicles of Narnia by C.S. Lewis
+7. The Lord of the Rings by J.R.R. Tolkien
+8. The Hobbit by J.R.R. Tolkien
+9. The Da Vinci Code by Dan Brown
+10. Angels and Demons by Dan Brown
+11. Inferno by Dan Brown
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Girl Who Played with Fire by Stieg Larsson
+14. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+15. The Catcher in the Rye by J.D. Salinger
+16. To Kill a Mockingbird by Harper Lee
+17. 1984 by George Orwell
+18. Animal Farm by George Orwell
+19. Brave New World by Aldous Huxley
+20. Fahrenheit 451 by Ray Bradbury
+21. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+22. The Alchemist by Paulo Coelho
+23. The Picture of Dorian Gray by Oscar Wilde
+24. The Great Gatsby by F. Scott Fitzgerald
+25. The Catcher in the Rye by J.D. Salinger
+26. The Adventures of Huckleberry Finn by Mark Twain
+27. The Adventures of Tom Sawyer by Mark Twain
+28. The Count of Monte Cristo by Alexandre Dumas
+29. Les Misérables by Victor Hugo
+30. The Three Musketeers by Alexandre Dumas
+31. The War of the Worlds by H.G. Wells
+32. The Time Machine by H.G. Wells
+33. The Invisible Man by H.G. Wells
+34. The Island of Dr. Moreau by H.G. Wells
+35. The Call of the Wild by Jack London
+36. White Fang by Jack London
+37. The Old Man and the Sea by Ernest Hemingway
+38. For Whom the Bell Tolls by Ernest Hemingway
+39. The Sun Also Rises by Ernest Hemingway
+40. The Sound and the Fury by William Faulkner
+41. As I Lay Dying by William Faulkner
+42. The Grapes of Wrath by John Steinbeck
+43. Of Mice and Men by John Steinbeck
+44. East of Eden by John Steinbeck
+45. One Hundred Years of Solitude by Gabriel Garcia Marquez
+46. Love in the Time of Cholera by Gabriel Garcia Marquez
+47. The Name of the Rose by Umberto Eco
+48. The Pillars of the Earth by Ken Follett
+49. The Bell Jar by Sylvia Plath
+50. The Wise Man's Fear by Patrick Rothfuss

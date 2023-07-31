@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Joy Division
+2. White Lies
+3. The xx
+4. The Knife
+5. The Killers
+6. Radiohead
+7. Kylie Minogue
+8. Depeche Mode
+9. Кино
+10. Fever Ray
+11. Beyoncé
+12. Thom Yorke
+13. The Kills
+14. Apparat
+15. MGMT
+16. Editors
+17. The Smiths
+18. David Bowie
+19. Passion Pit
+20. Bat for Lashes
+21. The Cars
+22. Caribou
+23. Róisín Murphy
+24. Kasabian
+25. Dolphin
+26. Four Tet
+27. Blondie
+28. Beck
+29. Madonna
+30. Lady Gaga
+31. Rihanna
+32. Britney Spears
+33. Christina Aguilera
+34. Shakira
+35. U2
+36. Muse
+37. Pink Floyd
+38. Katy Perry
+39. Taylor Swift
+40. Coldplay
+41. Blur
+42. Arctic Monkeys
+43. Placebo
+44. Nirvana
+45. Iron Maiden
+46. Led Zeppelin
+47. Metallica
+48. Michael Jackson
+49. Pearl Jam
+50. a-ha

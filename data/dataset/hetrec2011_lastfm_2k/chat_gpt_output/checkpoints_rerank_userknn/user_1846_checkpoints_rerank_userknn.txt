@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Foo Fighters
+2. John Lennon
+3. Pink Floyd
+4. The Who
+5. Metallica
+6. Nirvana
+7. Led Zeppelin
+8. Queen
+9. The Beatles
+10. Michael Jackson
+11. Eric Clapton
+12. The Rolling Stones
+13. Fleetwood Mac
+14. Oasis
+15. Coldplay
+16. Muse
+17. Bob Dylan
+18. AC/DC
+19. The Kinks
+20. Alice in Chains
+21. Iron Maiden
+22. Rammstein
+23. Scorpions
+24. The Doors
+25. George Harrison
+26. Eagles
+27. Keane
+28. Blur
+29. My Chemical Romance
+30. The Beach Boys
+31. Jonas Brothers
+32. Panic! At the Disco
+33. Demi Lovato
+34. Lady Gaga
+35. Katy Perry
+36. Backstreet Boys
+37. Michael Bublé
+38. Britney Spears
+39. Owl City
+40. Lily Allen
+41. High School Musical
+42. Carrie Underwood
+43. James Horner
+44. The Cardigans
+45. Belle and Sebastian
+46. Phoenix
+47. Crystal Castles
+48. Boards of Canada
+49. The National
+50. Jason Mraz

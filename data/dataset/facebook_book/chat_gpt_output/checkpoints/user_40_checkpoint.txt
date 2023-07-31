@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. One Hundred Years of Solitude by Gabriel Garcia Marquez
+2. 1984 by George Orwell
+3. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+4. The Picture of Dorian Gray by Oscar Wilde
+5. The Bell Jar by Sylvia Plath
+6. The Road by Cormac McCarthy
+7. The Brothers Karamazov by Fyodor Dostoevsky
+8. Crime and Punishment by Fyodor Dostoevsky
+9. The Sun Also Rises by Ernest Hemingway
+10. The Old Man and the Sea by Ernest Hemingway
+11. The Sound and the Fury by William Faulkner
+12. To Kill a Mockingbird by Harper Lee
+13. The Lord of the Rings by J.R.R. Tolkien
+14. The Hobbit by J.R.R. Tolkien
+15. The Chronicles of Narnia by C.S. Lewis
+16. The Alchemist by Paulo Coelho
+17. Siddhartha by Hermann Hesse
+18. The Stranger in the Woods by Michael Finkel
+19. The Art of Racing in the Rain by Garth Stein
+20. The Girl with the Dragon Tattoo by Stieg Larsson
+21. The Girl Who Played with Fire by Stieg Larsson
+22. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+23. The Da Vinci Code by Dan Brown
+24. Angels and Demons by Dan Brown
+25. The Lost Symbol by Dan Brown
+26. The Name of the Wind by Patrick Rothfuss
+27. The Wise Man's Fear by Patrick Rothfuss
+28. American Gods by Neil Gaiman
+29. Neverwhere by Neil Gaiman
+30. The Ocean at the End of the Lane by Neil Gaiman
+31. The Shadow of the Wind by Carlos Ruiz Zafon
+32. The Angel's Game by Carlos Ruiz Zafon
+33. The Prisoner of Heaven by Carlos Ruiz Zafon
+34. The Book Thief by Markus Zusak
+35. The Kite Runner by Khaled Hosseini
+36. A Thousand Splendid Suns by Khaled Hosseini
+37. The Help by Kathryn Stockett
+38. The Secret Life of Bees by Sue Monk Kidd
+39. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+40. The Poisonwood Bible by Barbara Kingsolver
+41. The Handmaid's Tale by Margaret Atwood
+42. The Testaments by Margaret Atwood
+43. The Hunger Games by Suzanne Collins
+44. Catching Fire by Suzanne Collins
+45. Mockingjay by Suzanne Collins
+46. The Maze Runner by James Dashner
+47. The Scorch Trials by James Dashner
+48. The Death Cure by

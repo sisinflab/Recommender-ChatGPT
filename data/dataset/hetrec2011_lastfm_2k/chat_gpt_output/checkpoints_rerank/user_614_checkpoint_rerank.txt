@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Avenged Sevenfold
+2. My Chemical Romance
+3. Disturbed
+4. Papa Roach
+5. Bullet for My Valentine
+6. Three Days Grace
+7. Killswitch Engage
+8. Staind
+9. Korn
+10. Iron & Wine
+11. Static-X
+12. Lostprophets
+13. Atreyu
+14. Underoath
+15. As I Lay Dying
+16. Trivium
+17. Stone Sour
+18. Theory of a Deadman
+19. Fall Out Boy
+20. The Used
+21. Audioslave
+22. Nine Inch Nails
+23. Snow Patrol
+24. Lifehouse
+25. Keane
+26. Arctic Monkeys
+27. Placebo
+28. Evanescence
+29. Jimmy Eat World
+30. Augustana
+31. Funeral for a Friend
+32. Incubus
+33. The All-American Rejects
+34. Muse
+35. Pink Floyd
+36. Radiohead
+37. Nirvana
+38. Led Zeppelin
+39. Metallica
+40. Michael Jackson
+41. Pearl Jam
+42. U2
+43. The Beatles
+44. Duran Duran
+45. Coldplay
+46. Blur
+47. The Killers
+48. Green Day
+49. The Cure
+50. System of a Down

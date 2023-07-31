@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Nineteen Eighty-Four by George Orwell
+2. Frankenstein by Mary Shelley
+3. A Clockwork Orange by Anthony Burgess
+4. Dune by Frank Herbert
+5. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+6. Harry Potter by J.K. Rowling
+7. The Giver by Lois Lowry
+8. The Martian Chronicles by Ray Bradbury
+9. Fahrenheit 451 by Ray Bradbury
+10. Brave New World by Aldous Huxley
+11. Ender's Shadow by Orson Scott Card
+12. The Iliad by Homer
+13. Of Mice and Men by John Steinbeck
+14. Angels & Demons by Dan Brown
+15. The Secret Life of Bees by Sue Monk Kidd
+16. A Tale of Two Cities by Charles Dickens
+17. The Glass Menagerie by Tennessee Williams
+18. A Streetcar Named Desire by Tennessee Williams
+19. The Fall of the House of Usher by Edgar Allan Poe
+20. The Yearling by Marjorie Kinnan Rawlings
+21. The Lost Years of Merlin by T.A. Barron
+22. The Call of the Wild by Jack London
+23. The Most Dangerous Game by Richard Connell
+24. Freakonomics by Steven D. Levitt and Stephen J. Dubner
+25. Inkheart by Cornelia Funke
+26. Maximum Ride: School's Out Forever by James Patterson
+27. The Outsiders by S.E. Hinton
+28. Twilight by Stephenie Meyer
+29. Nancy Drew by Carolyn Keene
+30. Marvel Books by various authors
+31. Odyssey by Homer
+32. The Areas of My Expertise by John Hodgman
+33. Oh, the Places You'll Go! by Dr. Seuss
+34. Religious text (based on user's personal beliefs)
+35. Nickel and Dimed by Barbara Ehrenreich
+36. This Is Your Brain On Music by Daniel J. Levitin
+37. New Arabian Nights by Robert Louis Stevenson
+38. On the Road by Jack Kerouac
+39. The Last Lecture by Randy Pausch
+40. Trivia by Logan Pearsall Smith
+41. Teaching with Calvin and Hobbes by Linda Holmen
+42. Anthem by Ayn Rand
+43. Point Blanc by Anthony Horowitz
+44. For Whom the Bell Tolls by Ernest Hemingway
+45. A Swiftly Tilting Planet by Madeleine L'Engle
+46. And Then There Were None by Agatha Christie
+47. Go Ask Alice by Anonymous
+48. Bram Stoker's Dracula by Bram Stoker
+49. The Odyssey by Homer
+50. Highschool of the Dead by Daisuke Satō (based on user's interest in manga)

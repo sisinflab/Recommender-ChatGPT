@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Portishead
+2. Archive
+3. Everything but the Girl
+4. The National
+5. Flunk
+6. New Order
+7. Phoenix
+8. The Radio Dept.
+9. Keane
+10. Empire of the Sun
+11. Kings of Leon
+12. Nouvelle Vague
+13. Broken Social Scene
+14. Ellie Goulding
+15. Depeche Mode
+16. Radiohead
+17. Muse
+18. Pink Floyd
+19. The Beatles
+20. Nirvana
+21. Metallica
+22. Led Zeppelin
+23. Iron Maiden
+24. Pearl Jam
+25. U2
+26. Duran Duran
+27. Coldplay
+28. Blur
+29. Arctic Monkeys
+30. Placebo
+31. The Killers
+32. Michael Jackson
+33. Madonna
+34. Beyoncé
+35. Lady Gaga
+36. Christina Aguilera
+37. Rihanna
+38. Shakira
+39. Katy Perry
+40. Avril Lavigne
+41. Taylor Swift
+42. Evanescence
+43. Glee Cast
+44. Miley Cyrus
+45. Ke$ha
+46. Daft Punk
+47. Nine Inch Nails
+48. Linkin Park
+49. Kelly Clarkson
+50. P!nk

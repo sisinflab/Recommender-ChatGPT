@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter
+2. The Lord of the Rings
+3. The Chronicles of Narnia: Prince Caspian
+4. The Hobbit
+5. Divergent (novel)
+6. The Hunger Games
+7. Maximum Ride
+8. Inkspell
+9. Fallen (Kate novel)
+10. Twilight (series)
+11. The Lost Symbol
+12. Angels & Demons
+13. The Da Vinci Code
+14. Brave New World
+15. Animal Farm
+16. Nineteen Eighty-Four
+17. The Giver
+18. Island of the Blue Dolphins
+19. Romeo and Juliet
+20. The Great Gatsby
+21. Inferno (Dante)
+22. Pendragon: Before the War
+23. The Silmarillion
+24. Evermore (book)
+25. Finding Cassie Crazy
+26. Wicked: The Life and Times of the Wicked Witch of the West
+27. The Absolutely True Diary of a Part-Time Indian
+28. Alice's Adventures in Wonderland
+29. The Hatchet (novel)
+30. The Revenge of the Shadow King
+31. The Phantom Tollbooth
+32. Catching Fire
+33. Dear John (novel)
+34. The Zombie Survival Guide
+35. I Have No Mouth, and I Must Scream
+36. The Vagina Monologues
+37. Gravitation (book)
+38. Journey to the West
+39. The Hamlet
+40. Songs of Innocence and of Experience
+41. Oh, the Places You'll Go!
+42. Mere Christianity
+43. Symposium (Plato)
+44. Anne of Green Gables
+45. The Trumpet of the Swan
+46. Go Ask Alice
+47. Night (book)
+48. Nicomachean Ethics
+49. Artemis Fowl (novel)
+50. D.Gray-man

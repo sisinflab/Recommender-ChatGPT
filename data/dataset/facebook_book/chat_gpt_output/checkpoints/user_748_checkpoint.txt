@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. Pride and Prejudice by Jane Austen
+5. The Great Gatsby by F. Scott Fitzgerald
+6. One Hundred Years of Solitude by Gabriel Garcia Marquez
+7. Crime and Punishment by Fyodor Dostoevsky
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Brothers Karamazov by Fyodor Dostoevsky
+10. The Hobbit by J.R.R. Tolkien
+11. The Lord of the Rings by J.R.R. Tolkien
+12. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+13. The Chronicles of Narnia by C.S. Lewis
+14. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+15. The War of the Worlds by H.G. Wells
+16. The Time Machine by H.G. Wells
+17. The Invisible Man by H.G. Wells
+18. The Island of Dr. Moreau by H.G. Wells
+19. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+20. Frankenstein by Mary Shelley
+21. Dracula by Bram Stoker
+22. The Turn of the Screw by Henry James
+23. Heart of Darkness by Joseph Conrad
+24. The Trial by Franz Kafka
+25. The Metamorphosis by Franz Kafka
+26. The Bell Jar by Sylvia Plath
+27. Brave New World by Aldous Huxley
+28. Slaughterhouse-Five by Kurt Vonnegut
+29. Catch-22 by Joseph Heller
+30. The Sun Also Rises by Ernest Hemingway
+31. A Farewell to Arms by Ernest Hemingway
+32. The Old Man and the Sea by Ernest Hemingway
+33. The Sound and the Fury by William Faulkner
+34. As I Lay Dying by William Faulkner
+35. The Grapes of Wrath by John Steinbeck
+36. East of Eden by John Steinbeck
+37. The Call of the Wild by Jack London
+38. White Fang by Jack London
+39. The Jungle Book by Rudyard Kipling
+40. The Wind in the Willows by Kenneth Grahame
+41. Watership Down by Richard Adams
+42. The Once and Future King by T.H. White
+43. The Name of the Rose by Umberto Eco
+44. The Count of Monte Cristo by Alexandre Dumas
+45. Les Miserables by Victor Hugo
+46. The Three Musketeers by Alexandre Dumas
+47. The Hunchback of Notre-Dame by Victor Hugo
+48. The Picture of Dorian Gray by Oscar

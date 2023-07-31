@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. 1984 by George Orwell
+3. To Kill a Mockingbird by Harper Lee
+4. The Great Gatsby by F. Scott Fitzgerald
+5. The Lord of the Rings by J.R.R. Tolkien
+6. The Hobbit by J.R.R. Tolkien
+7. The Girl with the Dragon Tattoo by Stieg Larsson
+8. The Da Vinci Code by Dan Brown
+9. The Shining by Stephen King
+10. The Stand by Stephen King
+11. The Dark Tower series by Stephen King
+12. The Road by Cormac McCarthy
+13. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+14. The Chronicles of Narnia by C.S. Lewis
+15. The Giver by Lois Lowry
+16. The Maze Runner by James Dashner
+17. The Fault in Our Stars by John Green
+18. The Book Thief by Markus Zusak
+19. The Outsiders by S.E. Hinton
+20. The Perks of Being a Wallflower by Stephen Chbosky
+21. The Bell Jar by Sylvia Plath
+22. The Picture of Dorian Gray by Oscar Wilde
+23. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+24. The Count of Monte Cristo by Alexandre Dumas
+25. The War of the Worlds by H.G. Wells
+26. The Time Machine by H.G. Wells
+27. The Invisible Man by H.G. Wells
+28. The Island of Dr. Moreau by H.G. Wells
+29. The Handmaid's Tale by Margaret Atwood
+30. Brave New World by Aldous Huxley
+31. Animal Farm by George Orwell
+32. Lord of the Flies by William Golding
+33. A Clockwork Orange by Anthony Burgess
+34. Fahrenheit 451 by Ray Bradbury
+35. The Martian by Andy Weir
+36. Ender's Game by Orson Scott Card
+37. The Hitchhiker's Guide to the Galaxy series by Douglas Adams
+38. The Dark Tower series by Stephen King
+39. The Dresden Files series by Jim Butcher
+40. The Wheel of Time series by Robert Jordan
+41. The Stormlight Archive series by Brandon Sanderson
+42. The Kingkiller Chronicle series by Patrick Rothfuss
+43. The Mistborn series by Brandon Sanderson
+44. The First Law trilogy by Joe Abercrombie
+45. The Lies of Locke Lamora by Scott Lynch
+46. The Name of the Wind by Patrick Rothfuss
+47. The Way of Kings by Brandon Sanderson
+48. The Blade Itself by Joe Abercrombie
+49. The Final Empire by Brandon Sanderson
+50. The Wise Man's Fear by Patrick Rothfuss

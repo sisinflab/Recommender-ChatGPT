@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Harry Potter series by J.K. Rowling
+2. The Hobbit by J.R.R. Tolkien
+3. The Lord of the Rings by J.R.R. Tolkien
+4. The Hunger Games by Suzanne Collins
+5. Twilight series by Stephenie Meyer
+6. The Book Thief by Markus Zusak
+7. A Wrinkle in Time by Madeleine L'Engle
+8. Inkheart by Cornelia Funke
+9. The Outsiders by S.E. Hinton
+10. Wuthering Heights by Emily Bronte
+11. Romeo and Juliet by William Shakespeare
+12. A Midsummer Night's Dream by William Shakespeare
+13. Macbeth by William Shakespeare
+14. The Little Prince by Antoine de Saint-Exupéry
+15. The Satanic Verses by Salman Rushdie
+16. The Hunchback of Notre-Dame by Victor Hugo
+17. Anne of Green Gables by L.M. Montgomery
+18. Little Women by Louisa May Alcott
+19. Speak by Laurie Halse Anderson
+20. Misery by Stephen King
+21. The Girl Who Played with Fire by Stieg Larsson
+22. Mockingjay by Suzanne Collins
+23. The Things They Carried by Tim O'Brien
+24. The Black Stallion by Walter Farley
+25. The Cry of the Icemark by Stuart Hill
+26. The Luxe by Anna Godbersen
+27. Rage of Angels by Sidney Sheldon
+28. Inheritance by Christopher Paolini
+29. Bram Stoker's Dracula by Bram Stoker
+30. Uglies by Scott Westerfeld
+31. Cirque du Freak by Darren Shan
+32. Warriors anthology by Erin Hunter
+33. The Sight by David Clement-Davies
+34. Antony and Cleopatra by William Shakespeare
+35. The Last Storytellers: Tales from the Heart of Morocco by Richard Hamilton
+36. The Vampire Diaries by L.J. Smith
+37. The Umbrella Academy by Gerard Way
+38. The Grapes of Wrath by John Steinbeck
+39. Out of the Dust by Karen Hesse
+40. Wringer by Jerry Spinelli
+41. Fushigi Yûgi by Yuu Watase
+42. Ceres, Celestial Legend by Yuu Watase
+43. City of Ashes by Cassandra Clare
+44. Stardust by Neil Gaiman
+45. Through the Looking-Glass by Lewis Carroll
+46. A Series of Unfortunate Events by Lemony Snicket
+47. So B. It by Sarah Weeks
+48. Fell by David Clement-Davies
+49. Flags of Our Fathers by James Bradley and Ron Powers
+50. Alice's Adventures in Wonderland by Lewis Carroll

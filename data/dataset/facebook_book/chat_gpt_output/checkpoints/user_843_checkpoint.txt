@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. The Catcher in the Rye by J.D. Salinger
+4. To Kill a Mockingbird by Harper Lee
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Great Gatsby by F. Scott Fitzgerald
+7. The Lord of the Rings by J.R.R. Tolkien
+8. The Hobbit by J.R.R. Tolkien
+9. Animal Farm by George Orwell
+10. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+11. Slaughterhouse-Five by Kurt Vonnegut
+12. The Picture of Dorian Gray by Oscar Wilde
+13. The Stranger by Albert Camus
+14. The Road by Cormac McCarthy
+15. The Bell Jar by Sylvia Plath
+16. The Handmaid's Tale by Margaret Atwood
+17. The Stand by Stephen King
+18. The Shining by Stephen King
+19. The Dark Tower series by Stephen King
+20. The Martian by Andy Weir
+21. The Hunger Games by Suzanne Collins
+22. Dune by Frank Herbert
+23. Ender's Game by Orson Scott Card
+24. The Name of the Wind by Patrick Rothfuss
+25. The Wise Man's Fear by Patrick Rothfuss
+26. The Chronicles of Narnia by C.S. Lewis
+27. The Silmarillion by J.R.R. Tolkien
+28. The Book Thief by Markus Zusak
+29. The Giver by Lois Lowry
+30. The Maze Runner by James Dashner
+31. The Girl with the Dragon Tattoo by Stieg Larsson
+32. The Girl Who Played with Fire by Stieg Larsson
+33. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+34. The Da Vinci Code by Dan Brown
+35. Angels and Demons by Dan Brown
+36. Inferno by Dan Brown
+37. The Bourne Identity by Robert Ludlum
+38. The Bourne Supremacy by Robert Ludlum
+39. The Bourne Ultimatum by Robert Ludlum
+40. The Girl on the Train by Paula Hawkins
+41. Gone Girl by Gillian Flynn
+42. The Silence of the Lambs by Thomas Harris
+43. Red Dragon by Thomas Harris
+44. Hannibal by Thomas Harris
+45. The Godfather by Mario Puzo
+46. The Godfather Returns by Mark Winegardner
+47. The Godfather's Revenge by Mark Winegardner
+48. The Godfather's Legacy by Ed Falco
+49. The Stand-In by Lily Chu
+50. The Nightingale by Kristin Hannah

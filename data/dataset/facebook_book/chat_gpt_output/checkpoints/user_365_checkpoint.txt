@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. To Kill a Mockingbird by Harper Lee
+3. The Great Gatsby by F. Scott Fitzgerald
+4. 1984 by George Orwell
+5. Animal Farm by George Orwell
+6. Lord of the Flies by William Golding
+7. Brave New World by Aldous Huxley
+8. One Flew Over the Cuckoo's Nest by Ken Kesey
+9. The Bell Jar by Sylvia Plath
+10. The Color Purple by Alice Walker
+11. The Handmaid's Tale by Margaret Atwood
+12. The Picture of Dorian Gray by Oscar Wilde
+13. The Sun Also Rises by Ernest Hemingway
+14. A Clockwork Orange by Anthony Burgess
+15. The Stranger by Albert Camus
+16. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+17. The Hobbit by J.R.R. Tolkien
+18. The Lord of the Rings by J.R.R. Tolkien
+19. The Chronicles of Narnia by C.S. Lewis
+20. Harry Potter and the Philosopher's Stone by J.K. Rowling
+21. Harry Potter and the Chamber of Secrets by J.K. Rowling
+22. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+23. Harry Potter and the Goblet of Fire by J.K. Rowling
+24. Harry Potter and the Order of Phoenix by J.K. Rowling
+25. Harry Potter and the Half-Blood Prince by J.K. Rowling
+26. Harry Potter and the Deathly Hallows by J.K. Rowling
+27. The Hunger Games by Suzanne Collins
+28. Catching Fire by Suzanne Collins
+29. Mockingjay by Suzanne Collins
+30. Divergent by Veronica Roth
+31. Insurgent by Veronica Roth
+32. Allegiant by Veronica Roth
+33. The Maze Runner by James Dashner
+34. The Scorch Trials by James Dashner
+35. The Death Cure by James Dashner
+36. The Fault in Our Stars by John Green
+37. Looking for Alaska by John Green
+38. Paper Towns by John Green
+39. An Abundance of Katherines by John Green
+40. The Book Thief by Markus Zusak
+41. The Kite Runner by Khaled Hosseini
+42. A Thousand Splendid Suns by Khaled Hosseini
+43. The Girl with the Dragon Tattoo by Stieg Larsson
+44. The Girl Who Played with Fire by Stieg Larsson
+45. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+46. The Da Vinci Code by Dan Brown
+47. Angels and Demons by Dan Brown
+48. Inferno by Dan Brown
+49. Gone Girl by Gillian Flynn

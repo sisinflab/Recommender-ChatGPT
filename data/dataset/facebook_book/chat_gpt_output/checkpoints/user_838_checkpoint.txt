@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Chronicles of Narnia by C.S. Lewis
+2. The Hunger Games by Suzanne Collins
+3. To Kill a Mockingbird by Harper Lee
+4. The Catcher in the Rye by J.D. Salinger
+5. The Fault in Our Stars by John Green
+6. The Da Vinci Code by Dan Brown
+7. The Girl with the Dragon Tattoo by Stieg Larsson
+8. The Great Gatsby by F. Scott Fitzgerald
+9. The Diary of a Young Girl by Anne Frank
+10. The Book Thief by Markus Zusak
+11. The Adventures of Tom Sawyer by Mark Twain
+12. The Adventures of Huckleberry Finn by Mark Twain
+13. The Outsiders by S.E. Hinton
+14. The Secret Garden by Frances Hodgson Burnett
+15. Little Women by Louisa May Alcott
+16. The Alchemist by Paulo Coelho
+17. The Picture of Dorian Gray by Oscar Wilde
+18. The Count of Monte Cristo by Alexandre Dumas
+19. The Three Musketeers by Alexandre Dumas
+20. The Sherlock Holmes series by Arthur Conan Doyle
+21. The Lord of the Flies by William Golding
+22. The Shining by Stephen King
+23. The Stand by Stephen King
+24. The Dark Tower series by Stephen King
+25. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+26. The War of the Worlds by H.G. Wells
+27. The Time Machine by H.G. Wells
+28. The Invisible Man by H.G. Wells
+29. The Island of Dr. Moreau by H.G. Wells
+30. The Call of the Wild by Jack London
+31. White Fang by Jack London
+32. The Old Man and the Sea by Ernest Hemingway
+33. For Whom the Bell Tolls by Ernest Hemingway
+34. The Sun Also Rises by Ernest Hemingway
+35. The Sound and the Fury by William Faulkner
+36. As I Lay Dying by William Faulkner
+37. The Grapes of Wrath by John Steinbeck
+38. Of Mice and Men by John Steinbeck
+39. East of Eden by John Steinbeck
+40. One Hundred Years of Solitude by Gabriel Garcia Marquez
+41. Love in the Time of Cholera by Gabriel Garcia Marquez
+42. The Name of the Rose by Umberto Eco
+43. The Picture of Dorian Gray by Oscar Wilde
+44. The Importance of Being Earnest by Oscar Wilde
+45. The Brothers Karamazov by Fyodor Dostoevsky
+46. Crime and Punishment by Fyodor Dostoevsky
+47. War and Peace by Leo Tolstoy
+48. Anna Karenina by Leo Tolst
+49. Moby-Dick by Herman Melville
+50. The Wise Man's Fear by Patrick Rothfuss

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. The Beatles
+3. Bob Dylan
+4. The Strokes
+5. The Killers
+6. Kings of Leon
+7. Phoenix
+8. The xx
+9. MGMT
+10. Florence + the Machine
+11. Coldplay
+12. Pearl Jam
+13. Janis Joplin
+14. Eddie Vedder
+15. Damien Rice
+16. Portishead
+17. Incubus
+18. Devendra Banhart
+19. Lenine
+20. Caetano Veloso
+21. Manu Chao
+22. She & Him
+23. The Kooks
+24. Beirut
+25. CocoRosie
+26. Bob Marley
+27. Cazuza
+28. Los Hermanos
+29. Spiritualized
+30. The National
+31. Leonard Cohen
+32. Belle and Sebastian
+33. Sufjan Stevens
+34. George Harrison
+35. The Smiths
+36. Paul McCartney
+37. Led Zeppelin
+38. The Beach Boys
+39. Kasabian
+40. Franz Ferdinand
+41. Gorillaz
+42. Queens of the Stone Age
+43. Muse
+44. John Lennon
+45. Regina Spektor
+46. Rage Against the Machine
+47. Arctic Monkeys
+48. Interpol
+49. Foo Fighters
+50. Eric Clapton

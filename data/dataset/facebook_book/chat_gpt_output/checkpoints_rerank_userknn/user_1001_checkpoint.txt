@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Identical (novel) by ['Ellen Hopkins']
+2. Burned (Hopkins novel) by ['Ellen Hopkins']
+3. Crank (novel) by ['Ellen Hopkins']
+4. Glass (novel)
+5. Tricks (novel)
+6. Fallout: An American Nuclear Tragedy
+7. The Secret Life of Bees
+8. The Catcher in the Rye
+9. Thirteen Reasons Why
+10. The Giver
+11. Looking for Alaska
+12. Paper Towns
+13. The Bell Jar
+14. Memoirs of a Geisha
+15. My Sister's Keeper (novel)
+16. Before I Die
+17. Hate List
+18. The Messenger (Markus Zusak novel)
+19. The Mark (novel)
+20. The Time Traveler's Wife
+21. Romeo and Juliet
+22. Wuthering Heights
+23. Brave New World
+24. Fahrenheit 451
+25. The Invention of Hugo Cabret
+26. Alice's Adventures in Wonderland
+27. Oliver Twist
+28. Candy: A Novel of Love and Addiction
+29. The Chocolate War
+30. Vampire Academy (novel)
+31. Vampire Kisses
+32. The Thief of Always
+33. It Happened to Nancy: By an Anonymous Teenager
+34. Under the Dome
+35. Feed (Anderson novel)
+36. The Summoning (novel)
+37. Pretties
+38. The Named
+39. Fallen (Kate novel)
+40. Change of Heart (novel)
+41. Gospel of Matthew
+42. Be More Chill
+43. The Truth About Forever
+44. PS, I Love You (novel)
+45. Martyn Pig
+46. Cirque du Freak
+47. Twilight (series)
+48. Old Yeller
+49. Impulse economy by ['Gary Schwartz (designer)']
+50. The Message (Bible)

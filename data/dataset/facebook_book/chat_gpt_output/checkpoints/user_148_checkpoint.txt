@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. A Man Called Ove by Fredrik Backman
+2. The Girl on the Train by Paula Hawkins
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. The Hunger Games by Suzanne Collins
+6. To Kill a Mockingbird by Harper Lee
+7. The Da Vinci Code by Dan Brown
+8. The Alchemist by Paulo Coelho
+9. The Kite Runner by Khaled Hosseini
+10. The Help by Kathryn Stockett
+11. The Fault in Our Stars by John Green
+12. The Book Thief by Markus Zusak
+13. The Lovely Bones by Alice Sebold
+14. The Time Traveler's Wife by Audrey Niffenegger
+15. The Secret Life of Bees by Sue Monk Kidd
+16. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+17. The Road by Cormac McCarthy
+18. The Picture of Dorian Gray by Oscar Wilde
+19. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+20. The Shining by Stephen King
+21. Misery by Stephen King
+22. Carrie by Stephen King
+23. The Stand by Stephen King
+24. The Dark Tower series by Stephen King
+25. The Silence of the Lambs by Thomas Harris
+26. The Bourne Identity by Robert Ludlum
+27. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+28. The Lord of the Rings by J.R.R. Tolkien
+29. The Hobbit by J.R.R. Tolkien
+30. The Chronicles of Narnia by C.S. Lewis
+31. The Harry Potter series by J.K. Rowling
+32. The Hunger Games trilogy by Suzanne Collins
+33. The Maze Runner series by James Dashner
+34. The Divergent trilogy by Veronica Roth
+35. The Giver by Lois Lowry
+36. The Outsiders by S.E. Hinton
+37. The Perks of Being a Wallflower by Stephen Chbosky
+38. The Fault in Our Stars by John Green
+39. Looking for Alaska by John Green
+40. Paper Towns by John Green
+41. The Selection series by Kiera Cass
+42. The Lunar Chronicles by Marissa Meyer
+43. The Mortal Instruments series by Cassandra Clare
+44. The Infernal Devices series by Cassandra Clare
+45. The Twilight series by Stephenie Meyer
+46. The Vampire Diaries series by L.J. Smith
+47. The Sookie Stackhouse series by Charlaine Harris
+48. The Dresden Files series by Jim Butcher
+49. The Wheel of Time series by Robert Jordan
+50. The Song of Ice and Fire series by George R.R. Martin

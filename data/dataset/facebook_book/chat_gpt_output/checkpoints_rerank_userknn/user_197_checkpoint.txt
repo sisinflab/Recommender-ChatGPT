@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter by J.K. Rowling
+2. The Vampire Chronicles by Anne Rice
+3. Dracula by Bram Stoker
+4. The Count of Monte Cristo by Alexandre Dumas
+5. The Da Vinci Code by Dan Brown
+6. Twilight (series) by Stephenie Meyer
+7. The Alchemist by Paulo Coelho
+8. The Book Thief by Markus Zusak
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Hobbit by J.R.R. Tolkien
+11. His Dark Materials by Philip Pullman
+12. A Series of Unfortunate Events by Lemony Snicket
+13. The Jungle Book by Rudyard Kipling
+14. The Winter's Tale by William Shakespeare
+15. Macbeth by William Shakespeare
+16. The Importance of Being Earnest by Oscar Wilde
+17. The Scarlet Letter by Nathaniel Hawthorne
+18. Misery by Stephen King
+19. The Prestige by Christopher Priest
+20. Inkspell by Cornelia Funke
+21. Fablehaven by Brandon Mull
+22. Fullmetal Alchemist by Hiromu Arakawa
+23. The Truth About Forever by Sarah Dessen
+24. Paper Towns by John Green
+25. Looking for Alaska by John Green
+26. The Princess Bride by William Goldman
+27. Farewell, My Lovely by Raymond Chandler
+28. The Eyes of the Dragon by Stephen King
+29. The Dante Club by Matthew Pearl
+30. The Thief of Always by Clive Barker
+31. The Lost Symbol by Dan Brown
+32. Stargirl by Jerry Spinelli
+33. Heidi by Johanna Spyri
+34. The End of Mr. Y by Scarlett Thomas
+35. All Quiet on the Western Front by Erich Maria Remarque
+36. The Vampire Lestat by Anne Rice
+37. The Prosecution of George W. Bush for Murder by Vincent Bugliosi
+38. Venus in Furs by Leopold von Sacher-Masoch
+39. Ramayana by Valmiki
+40. Black Beauty by Anna Sewell
+41. Holes by Louis Sachar
+42. Timequake by Kurt Vonnegut
+43. Small Steps by Louis Sachar
+44. Born to Rock by Gordon Korman
+45. So Long, and Thanks for All the Fish by Douglas Adams
+46. The Zombie Survival Guide by Max Brooks
+47. Nietzsche: Philosopher, Psychologist, Antichrist by Walter Kaufmann
+48. Angels & Demons by Dan Brown
+49. Vampire Kisses by Ellen Schreiber
+50. Valiant: A Modern Tale of Faerie by Holly Black

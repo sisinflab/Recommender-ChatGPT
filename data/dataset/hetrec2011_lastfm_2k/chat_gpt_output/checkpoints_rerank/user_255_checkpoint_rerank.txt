@@ -1,0 +1,52 @@
+Based on the user's liking history, here are the top 50 recommendations:
+
+1. Radiohead
+2. Massive Attack
+3. Portishead
+4. Björk
+5. The Cinematic Orchestra
+6. Amon Tobin
+7. Nine Inch Nails
+8. Deftones
+9. Venetian Snares
+10. Apparat
+11. Crystal Castles
+12. Muse
+13. Pink Floyd
+14. The Dillinger Escape Plan
+15. Iron Maiden
+16. Led Zeppelin
+17. Metallica
+18. Pearl Jam
+19. Nirvana
+20. System of a Down
+21. The Beatles
+22. U2
+23. Duran Duran
+24. Coldplay
+25. Blur
+26. Arctic Monkeys
+27. Placebo
+28. The Killers
+29. Amy Winehouse
+30. Michael Jackson
+31. Madonna
+32. Lady Gaga
+33. Beyoncé
+34. Rihanna
+35. Shakira
+36. Ke$ha
+37. Katy Perry
+38. Christina Aguilera
+39. Paramore
+40. Avril Lavigne
+41. Taylor Swift
+42. Miley Cyrus
+43. Kelly Clarkson
+44. P!nk
+45. All Time Low
+46. Avenged Sevenfold
+47. My Chemical Romance
+48. Green Day
+49. The Cure
+50. Daft Punk

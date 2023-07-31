@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Florence + the Machine
+2. Adele
+3. Lykke Li
+4. Ellie Goulding
+5. Björk
+6. Kanye West
+7. Hurts
+8. Robyn
+9. Mumford & Sons
+10. Antony and the Johnsons
+11. Clare Maguire
+12. Ladyhawke
+13. Beirut
+14. Drake
+15. Burial
+16. Kings of Leon
+17. Gorillaz
+18. Laura Marling
+19. Chase & Status
+20. Emilíana Torrini
+21. The xx
+22. Fever Ray
+23. Bat for Lashes
+24. Marina & the Diamonds
+25. Pixie Lott
+26. Crystal Castles
+27. Cat Power
+28. Radiohead
+29. Vampire Weekend
+30. Beck
+31. Belle and Sebastian
+32. PJ Harvey
+33. Tori Amos
+34. Anathema
+35. Placebo
+36. Architecture in Helsinki
+37. Goldfrapp
+38. Sigur Rós
+39. La Roux
+40. Mika
+41. Black Eyed Peas
+42. Colbie Caillat
+43. P!nk
+44. Sarah Brightman
+45. Kelis
+46. Jordin Sparks
+47. Ashley Tisdale
+48. The Beatles
+49. ATB
+50. Norah Jones

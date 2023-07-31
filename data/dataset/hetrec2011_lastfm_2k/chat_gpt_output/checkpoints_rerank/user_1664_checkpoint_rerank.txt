@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. System of a Down
+2. Linkin Park
+3. Arctic Monkeys
+4. Michael Jackson
+5. Katy Perry
+6. 30 Seconds to Mars
+7. All Time Low
+8. Muse
+9. Pink Floyd
+10. Nirvana
+11. Iron Maiden
+12. Metallica
+13. The Beatles
+14. Anberlin
+15. HEVO84
+16. Charlie Brown Jr.
+17. Skillet
+18. Forfun
+19. Five Finger Death Punch
+20. Angra
+21. Gloria
+22. The Used
+23. Eisley
+24. Before Their Eyes
+25. Hey Monday
+26. Forever the Sickest Kids
+27. Dream Theater
+28. Cute Is What We Aim For
+29. Madonna
+30. Lady Gaga
+31. Rihanna
+32. Beyoncé
+33. Ke$ha
+34. Amy Winehouse
+35. Led Zeppelin
+36. Pearl Jam
+37. Depeche Mode
+38. Christina Aguilera
+39. Paramore
+40. U2
+41. Kylie Minogue
+42. Radiohead
+43. Duran Duran
+44. Coldplay
+45. Blur
+46. Placebo
+47. The Killers
+48. a-ha
+49. Björk
+50. Daft Punk

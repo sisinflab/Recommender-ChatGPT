@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter
+2. The Lord of the Rings
+3. Ender's Game
+4. The Kite Runner
+5. Animal Farm
+6. Sense and Sensibility
+7. Jane Eyre
+8. The Things They Carried
+9. Through the Looking-Glass
+10. The Swiss Family Robinson
+11. The Boxcar Children
+12. Alice's Adventures in Wonderland
+13. The Black Tattoo
+14. The Lost World: Jurassic Park
+15. The Queen of the Damned
+16. The Kane Chronicles
+17. Catching Fire
+18. Pride and Prejudice and Zombies
+19. Studies of the Book of Mormon
+20. Icefire (2003 novel)
+21. Halo: First Strike
+22. Left Behind (novel)
+23. Bless Me, Ultima
+24. City of Ashes
+25. The Shack
+26. The Southern Vampire Mysteries
+27. Ender's Shadow
+28. Untamed (novel)
+29. A Memory of Light
+30. Abraham Lincoln, Vampire Hunter (novel)
+31. Loser (novel)
+32. Vampirates
+33. Twilight (series)
+34. The Truth About Forever
+35. Diary of a Wimpy Kid (series)
+36. Dear Dumb Diary
+37. Nancy Drew
+38. A Summer to Die
+39. The Adventures of Tom Sawyer
+40. The Thief Lord
+41. Pretties
+42. Phantoms (novel)
+43. Inkheart
+44. Lamb: The Gospel According to Biff, Christ's Childhood Pal
+45. Angels & Demons
+46. Slaughterhouse-Five
+47. Eldest
+48. Brisingr
+49. Fablehaven
+50. Percy Jackson & the Olympians

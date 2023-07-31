@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. The God Delusion by Richard Dawkins
+4. The Selfish Gene by Richard Dawkins
+5. The Satanic Verses by Salman Rushdie
+6. The Fountainhead by Ayn Rand
+7. Atlas Shrugged by Ayn Rand
+8. The Antichrist by Friedrich Nietzsche
+9. Thus Spoke Zarathustra by Friedrich Nietzsche
+10. The Age of Reason by Jean-Paul Sartre
+11. The Portable Atheist by Christopher Hitchens
+12. God Is Not Great by Christopher Hitchens
+13. A Brief History of Time by Stephen Hawking
+14. The Demon-Haunted World by Carl Sagan
+15. Ender's Game by Orson Scott Card
+16. Ender's Shadow by Orson Scott Card
+17. Childhood's End by Arthur C. Clarke
+18. Dune by Frank Herbert
+19. Frankenstein by Mary Shelley
+20. The Wind-Up Bird Chronicle by Haruki Murakami
+21. Love in the Time of Cholera by Gabriel Garcia Marquez
+22. One Hundred Years of Solitude by Gabriel Garcia Marquez
+23. The Kite Runner by Khaled Hosseini
+24. The Silence of the Lambs by Thomas Harris
+25. The Murder of Roger Ackroyd by Agatha Christie
+26. Chronicle of a Death Foretold by Gabriel Garcia Marquez
+27. Midnight's Children by Salman Rushdie
+28. The Namesake by Jhumpa Lahiri
+29. Pride and Prejudice by Jane Austen
+30. The Hatchet by Gary Paulsen
+31. Gates of Fire by Steven Pressfield
+32. Catch-22 by Joseph Heller
+33. Les Miserables by Victor Hugo
+34. A Tale of Two Cities by Charles Dickens
+35. The Wealth of Nations by Adam Smith
+36. Capitalism and Freedom by Milton Friedman
+37. Hannibal by Thomas Harris
+38. Perfume by Patrick Suskind
+39. The Unbearable Lightness of Being by Milan Kundera
+40. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+41. The Time Traveler's Wife by Audrey Niffenegger
+42. Earthsea by Ursula K. Le Guin
+43. The Phantom Tollbooth by Norton Juster
+44. Rant by Chuck Palahniuk
+45. PiHKAL by Alexander Shulgin
+46. Sound of the Beast by Ian Christe
+47. Dry by Augusten Burroughs
+48. World Without End by Ken Follett
+49. Elfquest by Wendy and Richard Pini
+50. How We Decide by Jonah Lehrer

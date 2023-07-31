@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Divergent by Veronica Roth
+2. The Hunger Games by Suzanne Collins
+3. The Maze Runner by James Dashner
+4. The Fault in Our Stars by John Green
+5. The Giver by Lois Lowry
+6. The Chronicles of Narnia by C.S. Lewis
+7. The Lord of the Rings by J.R.R. Tolkien
+8. The Hobbit by J.R.R. Tolkien
+9. The Girl with the Dragon Tattoo by Stieg Larsson
+10. The Da Vinci Code by Dan Brown
+11. The Catcher in the Rye by J.D. Salinger
+12. To Kill a Mockingbird by Harper Lee
+13. The Great Gatsby by F. Scott Fitzgerald
+14. 1984 by George Orwell
+15. Animal Farm by George Orwell
+16. Brave New World by Aldous Huxley
+17. Fahrenheit 451 by Ray Bradbury
+18. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+19. The Shining by Stephen King
+20. Carrie by Stephen King
+21. The Stand by Stephen King
+22. The Dark Tower series by Stephen King
+23. The Silence of the Lambs by Thomas Harris
+24. Red Dragon by Thomas Harris
+25. Hannibal by Thomas Harris
+26. The Bourne Identity by Robert Ludlum
+27. The Bourne Supremacy by Robert Ludlum
+28. The Bourne Ultimatum by Robert Ludlum
+29. The Girl on the Train by Paula Hawkins
+30. Gone Girl by Gillian Flynn
+31. The Lovely Bones by Alice Sebold
+32. The Help by Kathryn Stockett
+33. The Secret Life of Bees by Sue Monk Kidd
+34. The Color Purple by Alice Walker
+35. The Joy Luck Club by Amy Tan
+36. The Kite Runner by Khaled Hosseini
+37. A Thousand Splendid Suns by Khaled Hosseini
+38. The Alchemist by Paulo Coelho
+39. The Picture of Dorian Gray by Oscar Wilde
+40. The Importance of Being Earnest by Oscar Wilde
+41. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+42. The Hound of the Baskervilles by Arthur Conan Doyle
+43. The Memoirs of Sherlock Holmes by Arthur Conan Doyle
+44. The Return of Sherlock Holmes by Arthur Conan Doyle
+45. The Complete Sherlock Holmes by Arthur Conan Doyle
+46. The Name of the Wind by Patrick Rothfuss
+47. The Wise Man's Fear by Patrick Rothfuss
+48. The Way of Kings by Brandon Sanderson
+49. Mistborn by Brandon Sanderson
+50. Warbreaker by Brandon Sanderson

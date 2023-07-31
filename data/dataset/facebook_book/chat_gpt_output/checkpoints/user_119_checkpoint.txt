@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. Sense and Sensibility by Jane Austen
+3. Jane Eyre by Charlotte Bronte
+4. Wuthering Heights by Emily Bronte
+5. The Picture of Dorian Gray by Oscar Wilde
+6. The Great Gatsby by F. Scott Fitzgerald
+7. To Kill a Mockingbird by Harper Lee
+8. The Catcher in the Rye by J.D. Salinger
+9. 1984 by George Orwell
+10. Animal Farm by George Orwell
+11. The Hobbit by J.R.R. Tolkien
+12. The Lord of the Rings by J.R.R. Tolkien
+13. The Chronicles of Narnia by C.S. Lewis
+14. The Hunger Games by Suzanne Collins
+15. The Fault in Our Stars by John Green
+16. The Book Thief by Markus Zusak
+17. The Kite Runner by Khaled Hosseini
+18. A Thousand Splendid Suns by Khaled Hosseini
+19. The Girl with the Dragon Tattoo by Stieg Larsson
+20. The Da Vinci Code by Dan Brown
+21. Angels and Demons by Dan Brown
+22. The Help by Kathryn Stockett
+23. The Secret Life of Bees by Sue Monk Kidd
+24. The Color Purple by Alice Walker
+25. The Joy Luck Club by Amy Tan
+26. The God of Small Things by Arundhati Roy
+27. The Namesake by Jhumpa Lahiri
+28. The Time Traveler's Wife by Audrey Niffenegger
+29. The Lovely Bones by Alice Sebold
+30. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+31. The Road by Cormac McCarthy
+32. The Handmaid's Tale by Margaret Atwood
+33. The Bell Jar by Sylvia Plath
+34. One Hundred Years of Solitude by Gabriel Garcia Marquez
+35. Love in the Time of Cholera by Gabriel Garcia Marquez
+36. Crime and Punishment by Fyodor Dostoevsky
+37. The Brothers Karamazov by Fyodor Dostoevsky
+38. Anna Karenina by Leo Tolstoy
+39. War and Peace by Leo Tolstoy
+40. Les Miserables by Victor Hugo
+41. The Count of Monte Cristo by Alexandre Dumas
+42. The Three Musketeers by Alexandre Dumas
+43. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+44. The Hound of the Baskervilles by Arthur Conan Doyle
+45. Frankenstein by Mary Shelley
+46. Dracula by Bram Stoker
+47. The Picture of Dorian Gray by Oscar Wilde
+48. The Importance of Being Earnest by Oscar Wilde
+49. The Canterbury Tales by Geoffrey

@@ -1,0 +1,49 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Spy Who Came in from the Cold by John le Carré
+2. The Silence of the Lambs by Thomas Harris
+3. The Godfather by Mario Puzo
+4. The Bourne Identity by Robert Ludlum
+5. The Da Vinci Code by Dan Brown
+6. The Hunt for Red October by Tom Clancy
+7. The Andromeda Strain by Michael Crichton
+8. The Firm by John Grisham
+9. The Girl with the Dragon Tattoo by Stieg Larsson
+10. The Pelican Brief by John Grisham
+11. The Day of the Triffids by John Wyndham
+12. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+13. The Stand by Stephen King
+14. The Shining by Stephen King
+15. The Silence of the Sea by Yrsa Sigurðardóttir
+16. The Name of the Rose by Umberto Eco
+17. The Talented Mr. Ripley by Patricia Highsmith
+18. The Maltese Falcon by Dashiell Hammett
+19. The Big Sleep by Raymond Chandler
+20. The Postman Always Rings Twice by James M. Cain
+21. The Long Goodbye by Raymond Chandler
+22. The Third Man by Graham Greene
+23. The Secret Agent by Joseph Conrad
+24. The Thirty-Nine Steps by John Buchan
+25. The Day of the Locust by Nathanael West
+26. The Great Gatsby by F. Scott Fitzgerald
+27. The Catcher in the Rye by J.D. Salinger
+28. The Sun Also Rises by Ernest Hemingway
+29. The Old Man and the Sea by Ernest Hemingway
+30. The Grapes of Wrath by John Steinbeck
+31. To Kill a Mockingbird by Harper Lee
+32. One Hundred Years of Solitude by Gabriel García Márquez
+33. Love in the Time of Cholera by Gabriel García Márquez
+34. The House of the Spirits by Isabel Allende
+35. The Shadow of the Wind by Carlos Ruiz Zafón
+36. The Name of the Wind by Patrick Rothfuss
+37. The Lies of Locke Lamora by Scott Lynch
+38. The Blade Itself by Joe Abercrombie
+39. The Way of Kings by Brandon Sanderson
+40. The Eye of the World by Robert Jordan
+41. The Fellowship of the Ring by J.R.R. Tolkien
+42. The Hobbit by J.R.R. Tolkien
+43. The Lion, the Witch and the Wardrobe by C.S. Lewis
+44. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+45. The Martian by Andy Weir
+46. Ready Player One by Ernest Cline
+47. Ender

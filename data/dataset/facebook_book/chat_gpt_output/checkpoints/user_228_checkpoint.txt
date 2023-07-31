@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Inferno by Dan Brown
+2. The Lost Symbol by Dan Brown
+3. Digital Fortress by Dan Brown
+4. Origin by Dan Brown
+5. The Hunger Games: Catching Fire by Suzanne Collins
+6. The Hunger Games: Mockingjay by Suzanne Collins
+7. Divergent by Veronica Roth
+8. Insurgent by Veronica Roth
+9. Allegiant by Veronica Roth
+10. The Fault in Our Stars by John Green
+11. Looking for Alaska by John Green
+12. Paper Towns by John Green
+13. An Abundance of Katherines by John Green
+14. The Maze Runner by James Dashner
+15. The Scorch Trials by James Dashner
+16. The Death Cure by James Dashner
+17. The Kill Order by James Dashner
+18. The Girl with the Dragon Tattoo by Stieg Larsson
+19. The Girl Who Played with Fire by Stieg Larsson
+20. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+21. The Perks of Being a Wallflower by Stephen Chbosky
+22. The Catcher in the Rye by J.D. Salinger
+23. To Kill a Mockingbird by Harper Lee
+24. 1984 by George Orwell
+25. Animal Farm by George Orwell
+26. Brave New World by Aldous Huxley
+27. Fahrenheit 451 by Ray Bradbury
+28. The Giver by Lois Lowry
+29. Never Let Me Go by Kazuo Ishiguro
+30. The Remains of the Day by Kazuo Ishiguro
+31. The Hobbit by J.R.R. Tolkien
+32. The Lord of the Rings by J.R.R. Tolkien
+33. The Princess Bride by William Goldman
+34. Stardust by Neil Gaiman
+35. American Gods by Neil Gaiman
+36. Good Omens by Neil Gaiman and Terry Pratchett
+37. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+38. The Restaurant at the End of the Universe by Douglas Adams
+39. Life, the Universe and Everything by Douglas Adams
+40. So Long, and Thanks for All the Fish by Douglas Adams
+41. Mostly Harmless by Douglas Adams
+42. Jitterbug Perfume by Tom Robbins
+43. Even Cowgirls Get the Blues by Tom Robbins
+44. Harry Potter and the Philosopher's Stone by J.K. Rowling
+45. Harry Potter and the Chamber of Secrets by J.K. Rowling
+46. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+47. Harry Potter and the Goblet of Fire by J.K. Rowling
+48. Harry Potter and the Order of Phoenix by J.K. Rowling
+49. Harry Potter and the Half-Blood Prince by J

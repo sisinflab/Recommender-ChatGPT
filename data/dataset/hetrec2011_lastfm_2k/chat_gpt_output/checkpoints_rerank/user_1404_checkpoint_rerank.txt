@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. Tom Waits
+3. Iron & Wine
+4. Bob Dylan
+5. The National
+6. Wilco
+7. Arcade Fire
+8. The Black Keys
+9. Animal Collective
+10. Grizzly Bear
+11. Cat Power
+12. Spoon
+13. Captain Beefheart & His Magic Band
+14. Sufjan Stevens
+15. Feist
+16. Nick Cave and the Bad Seeds
+17. Band of Horses
+18. The Velvet Underground
+19. Sonic Youth
+20. The Flaming Lips
+21. Elliott Smith
+22. Panda Bear
+23. Leonard Cohen
+24. The New Pornographers
+25. The Decemberists
+26. Nick Drake
+27. Explosions in the Sky
+28. R.E.M.
+29. Pixies
+30. Howlin' Wolf
+31. Nirvana
+32. Pearl Jam
+33. Led Zeppelin
+34. Metallica
+35. Pink Floyd
+36. The Beatles
+37. Muse
+38. U2
+39. Coldplay
+40. Blur
+41. Arctic Monkeys
+42. Placebo
+43. The Killers
+44. Amy Winehouse
+45. Michael Jackson
+46. Björk
+47. Nine Inch Nails
+48. Daft Punk
+49. Linkin Park
+50. The Cure

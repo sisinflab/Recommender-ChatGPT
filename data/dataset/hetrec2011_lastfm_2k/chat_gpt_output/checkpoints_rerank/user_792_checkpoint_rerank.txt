@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Avenged Sevenfold
+2. Green Day
+3. My Chemical Romance
+4. Panic! At the Disco
+5. Evanescence
+6. Bullet for My Valentine
+7. System of a Down
+8. Linkin Park
+9. Enter Shikari
+10. Mindless Self Indulgence
+11. Slipknot
+12. Simple Plan
+13. Serj Tankian
+14. Mötley Crüe
+15. Bikini Kill
+16. The Horrors
+17. Three Days Grace
+18. blink-182
+19. Korn
+20. The Rasmus
+21. Klaxons
+22. Adema
+23. Rammstein
+24. Hardcore Superstar
+25. Muse
+26. Escape The Fate
+27. Coheed and Cambria
+28. Bon Jovi
+29. The Clash
+30. Nickelback
+31. As I Lay Dying
+32. Iron Maiden
+33. Metallica
+34. Pearl Jam
+35. Nirvana
+36. Led Zeppelin
+37. Michael Jackson
+38. Nine Inch Nails
+39. Daft Punk
+40. The Cure
+41. Paramore
+42. Taylor Swift
+43. Katy Perry
+44. Lady Gaga
+45. Christina Aguilera
+46. Rihanna
+47. Shakira
+48. Madonna
+49. Pink Floyd
+50. U2

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. Tool
+3. Porcupine Tree
+4. Cynic
+5. Sigur Rós
+6. King Diamond
+7. Lamb of God
+8. Deep Purple
+9. Pixies
+10. Meshuggah
+11. The Mars Volta
+12. Depeche Mode
+13. The Smashing Pumpkins
+14. Emilie Simon
+15. Air
+16. of Montreal
+17. Massive Attack
+18. Queens of the Stone Age
+19. Muse
+20. Coldplay
+21. Blur
+22. Hooverphonic
+23. Protest The Hero
+24. Katatonia
+25. Björk
+26. Pantera
+27. Despised Icon
+28. Alice in Chains
+29. Gustavo Cerati
+30. Portishead
+31. As I Lay Dying
+32. Arch Enemy
+33. Pink Floyd
+34. Nirvana
+35. Led Zeppelin
+36. Metallica
+37. Iron Maiden
+38. Michael Jackson
+39. Pearl Jam
+40. a-ha
+41. System of a Down
+42. Daft Punk
+43. Nine Inch Nails
+44. Linkin Park
+45. Avenged Sevenfold
+46. My Chemical Romance
+47. Green Day
+48. The Cure
+49. Arctic Monkeys
+50. Placebo

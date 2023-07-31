@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Pink Floyd
+2. David Bowie
+3. Queen
+4. Neil Young
+5. The Doors
+6. Jimi Hendrix
+7. Bob Dylan
+8. The Velvet Underground
+9. Talking Heads
+10. Joy Division
+11. The Cure
+12. The Smiths
+13. Sonic Youth
+14. Pixies
+15. R.E.M.
+16. Tom Waits
+17. Nick Cave and the Bad Seeds
+18. The Stooges
+19. Iggy Pop
+20. Lou Reed
+21. Bruce Springsteen
+22. Elvis Costello
+23. The Jam
+24. The Police
+25. U2
+26. The Replacements
+27. Husker Du
+28. New Order
+29. Depeche Mode
+30. The Human League
+31. Kraftwerk
+32. Gary Numan
+33. Tangerine Dream
+34. Brian Eno
+35. Roxy Music
+36. Genesis
+37. Rush
+38. Jethro Tull
+39. Deep Purple
+40. Van Halen
+41. Aerosmith
+42. ZZ Top
+43. Lynyrd Skynyrd
+44. The Allman Brothers Band
+45. Creedence Clearwater Revival
+46. The Grateful Dead
+47. Jefferson Airplane
+48. Janis Joplin
+49. The Mamas & The Papas
+50. Simon & Garfunkel

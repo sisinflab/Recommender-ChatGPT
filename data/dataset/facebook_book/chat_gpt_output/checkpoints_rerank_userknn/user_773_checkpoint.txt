@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. The Silmarillion by J.R.R. Tolkien
+3. The Hobbit by J.R.R. Tolkien
+4. Dune by Frank Herbert
+5. Nineteen Eighty-Four by George Orwell
+6. Brave New World by Aldous Huxley
+7. Crime and Punishment by Fyodor Dostoevsky
+8. The Brothers Karamazov by Fyodor Dostoevsky
+9. The Great Gatsby by F. Scott Fitzgerald
+10. The Picture of Dorian Gray by Oscar Wilde
+11. Lolita by Vladimir Nabokov
+12. The Stand by Stephen King
+13. The Plague by Albert Camus
+14. The Time Machine by H.G. Wells
+15. The Watchmen by Alan Moore
+16. The Scarlet Letter by Nathaniel Hawthorne
+17. The Importance of Being Earnest by Oscar Wilde
+18. The Unbearable Lightness of Being by Milan Kundera
+19. The Fountainhead by Ayn Rand
+20. Atlas Shrugged by Ayn Rand
+21. The Brethren by John Grisham
+22. Blindness by Jose Saramago
+23. The Pact by Jodi Picoult
+24. The Walking Dead (comic book) by Robert Kirkman
+25. The Twelve by Justin Cronin
+26. Earthsea by Ursula K. Le Guin
+27. The Last Unicorn by Peter S. Beagle
+28. The Queen of the Damned by Anne Rice
+29. The Iliad by Homer
+30. The Odyssey by Homer
+31. The Inferno by Dante Alighieri
+32. Goethe's Faust by Johann Wolfgang von Goethe
+33. The Epic of Gilgamesh by Anonymous
+34. The Waste Land by T.S. Eliot
+35. One Day in the Life of Ivan Denisovich by Aleksandr Solzhenitsyn
+36. Les Miserables by Victor Hugo
+37. Romeo and Juliet by William Shakespeare
+38. The Catcher in the Rye by J.D. Salinger
+39. Fahrenheit 451 by Ray Bradbury
+40. Frankenstein by Mary Shelley
+41. Starship Troopers by Robert A. Heinlein
+42. Cosmos by Carl Sagan
+43. Contact by Carl Sagan
+44. 2001: A Space Odyssey by Arthur C. Clarke
+45. No Country for Old Men by Cormac McCarthy
+46. I Hope They Serve Beer in Hell by Tucker Max
+47. Go Ask Alice by Anonymous
+48. Black Beauty by Anna Sewell
+49. Three Cups of Tea by Greg Mortenson and David Oliver Relin
+50. Brisingr by Christopher Paolini

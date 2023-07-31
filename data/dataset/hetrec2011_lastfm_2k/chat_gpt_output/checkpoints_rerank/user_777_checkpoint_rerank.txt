@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Depeche Mode
+2. Madonna
+3. David Bowie
+4. Michael Jackson
+5. Marilyn Manson
+6. The Sisters of Mercy
+7. The Future Sound of London
+8. IAMX
+9. Sopor Aeternus & The Ensemble of Shadows
+10. And One
+11. Siouxsie and the Banshees
+12. Garbage
+13. No Doubt
+14. Dangerous Muse
+15. :wumpscut:
+16. The Doors
+17. The Chemical Brothers
+18. Anathema
+19. Kylie Minogue
+20. Bauhaus
+21. Rihanna
+22. Lady Gaga
+23. Pink Floyd
+24. Muse
+25. Radiohead
+26. Beyoncé
+27. Shakira
+28. U2
+29. Coldplay
+30. Nirvana
+31. Iron Maiden
+32. Metallica
+33. Led Zeppelin
+34. Pearl Jam
+35. a-ha
+36. Björk
+37. Nine Inch Nails
+38. System of a Down
+39. Daft Punk
+40. Linkin Park
+41. Amy Winehouse
+42. The Beatles
+43. Duran Duran
+44. Arctic Monkeys
+45. Placebo
+46. The Killers
+47. Ke$ha
+48. Taylor Swift
+49. Avril Lavigne
+50. Christina Aguilera

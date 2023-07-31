@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Divergent by Veronica Roth
+2. The Maze Runner by James Dashner
+3. The Fault in Our Stars by John Green
+4. The Book Thief by Markus Zusak
+5. The Selection by Kiera Cass
+6. Legend by Marie Lu
+7. The 5th Wave by Rick Yancey
+8. The Darkest Minds by Alexandra Bracken
+9. The Mortal Instruments by Cassandra Clare
+10. The Infernal Devices by Cassandra Clare
+11. The Hunger Games: Catching Fire by Suzanne Collins
+12. The Hunger Games: Mockingjay Part 1 by Suzanne Collins
+13. The Hunger Games: Mockingjay Part 2 by Suzanne Collins
+14. The Twilight Saga: New Moon by Stephenie Meyer
+15. The Twilight Saga: Eclipse by Stephenie Meyer
+16. The Twilight Saga: Breaking Dawn by Stephenie Meyer
+17. The Host by Stephenie Meyer
+18. The Chemist by Stephenie Meyer
+19. The Giver Quartet by Lois Lowry
+20. Gathering Blue by Lois Lowry
+21. Messenger by Lois Lowry
+22. Son by Lois Lowry
+23. The City of Ember by Jeanne DuPrau
+24. The People of Sparks by Jeanne DuPrau
+25. The Prophet of Yonwood by Jeanne DuPrau
+26. The Diamond of Darkhold by Jeanne DuPrau
+27. The Uglies Series by Scott Westerfeld
+28. Extras by Scott Westerfeld
+29. Specials by Scott Westerfeld
+30. The Leviathan Trilogy by Scott Westerfeld
+31. The Maze of Bones by Rick Riordan
+32. The Lightning Thief by Rick Riordan
+33. The Sea of Monsters by Rick Riordan
+34. The Titan's Curse by Rick Riordan
+35. The Battle of the Labyrinth by Rick Riordan
+36. The Last Olympian by Rick Riordan
+37. The Heroes of Olympus Series by Rick Riordan
+38. The Kane Chronicles Series by Rick Riordan
+39. The Red Pyramid by Rick Riordan
+40. The Throne of Fire by Rick Riordan
+41. The Serpent's Shadow by Rick Riordan
+42. The Lunar Chronicles by Marissa Meyer
+43. Cinder by Marissa Meyer
+44. Scarlet by Marissa Meyer
+45. Cress by Marissa Meyer
+46. Winter by Marissa Meyer
+47. Fairest by Marissa Meyer
+48. Heartless by Marissa Meyer
+49. The Giver of Stars by Jojo Moyes
+50. The Testaments by Margaret Atwood

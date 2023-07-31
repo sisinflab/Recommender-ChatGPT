@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Wuthering Heights by Emily Bronte
+2. To Kill a Mockingbird by Harper Lee
+3. The Great Gatsby by F. Scott Fitzgerald
+4. 1984 by George Orwell
+5. Pride and Prejudice by Jane Austen
+6. The Catcher in the Rye by J.D. Salinger
+7. Jane Eyre by Charlotte Bronte
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+10. The Hobbit by J.R.R. Tolkien
+11. The Lord of the Rings by J.R.R. Tolkien
+12. The Chronicles of Narnia by C.S. Lewis
+13. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+14. The Hunger Games by Suzanne Collins
+15. The Girl with the Dragon Tattoo by Stieg Larsson
+16. The Kite Runner by Khaled Hosseini
+17. The Book Thief by Markus Zusak
+18. The Road by Cormac McCarthy
+19. The Handmaid's Tale by Margaret Atwood
+20. The Alchemist by Paulo Coelho
+21. The Secret History by Donna Tartt
+22. The Bell Jar by Sylvia Plath
+23. The Brothers Karamazov by Fyodor Dostoevsky
+24. Crime and Punishment by Fyodor Dostoevsky
+25. One Hundred Years of Solitude by Gabriel Garcia Marquez
+26. Love in the Time of Cholera by Gabriel Garcia Marquez
+27. The Name of the Rose by Umberto Eco
+28. The Shadow of the Wind by Carlos Ruiz Zafon
+29. The Count of Monte Cristo by Alexandre Dumas
+30. Les Miserables by Victor Hugo
+31. Anna Karenina by Leo Tolstoy
+32. War and Peace by Leo Tolstoy
+33. The Idiot by Fyodor Dostoevsky
+34. The Trial by Franz Kafka
+35. The Metamorphosis by Franz Kafka
+36. The Stranger by Albert Camus
+37. The Plague by Albert Camus
+38. The Picture of Dorian Gray by Oscar Wilde
+39. The Importance of Being Earnest by Oscar Wilde
+40. Dubliners by James Joyce
+41. Ulysses by James Joyce
+42. The Sound and the Fury by William Faulkner
+43. As I Lay Dying by William Faulkner
+44. The Sun Also Rises by Ernest Hemingway
+45. A Farewell to Arms by Ernest Hemingway
+46. For Whom the Bell Tolls by Ernest Hemingway
+47. The Old Man and the Sea by Ernest Hemingway
+48. The Catcher in the Rye by J.D. Salinger

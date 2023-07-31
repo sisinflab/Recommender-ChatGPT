@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Foo Fighters
+2. The Strokes
+3. Queens of the Stone Age
+4. The Killers
+5. Franz Ferdinand
+6. The White Stripes
+7. Interpol
+8. The Black Keys
+9. Arcade Fire
+10. Kings of Leon
+11. The Hives
+12. The Libertines
+13. The Kooks
+14. The Vaccines
+15. The Raconteurs
+16. The Arctic Monkeys
+17. The Yeah Yeah Yeahs
+18. The Smashing Pumpkins
+19. The Cranberries
+20. The Cure
+21. The Smiths
+22. Joy Division
+23. New Order
+24. Depeche Mode
+25. The Human League
+26. Pet Shop Boys
+27. Duran Duran
+28. Tears for Fears
+29. Simple Minds
+30. Talking Heads
+31. Blondie
+32. The B-52's
+33. The Cars
+34. The Police
+35. R.E.M.
+36. The Stone Roses
+37. The Charlatans
+38. The Happy Mondays
+39. The Jesus and Mary Chain
+40. The Psychedelic Furs
+41. Echo and the Bunnymen
+42. The Cult
+43. The Mission
+44. The Sisters of Mercy
+45. The Damned
+46. The Clash
+47. The Ramones
+48. The Sex Pistols
+49. The Buzzcocks
+50. The Dead Kennedys

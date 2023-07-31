@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Slayer
+2. Pantera
+3. Gojira
+4. Opeth
+5. Mastodon
+6. In Flames
+7. Children of Bodom
+8. Arch Enemy
+9. Dimmu Borgir
+10. Trivium
+11. Machine Head
+12. Testament
+13. Kreator
+14. Death
+15. Iron Maiden
+16. Megadeth
+17. Judas Priest
+18. Black Sabbath
+19. Metallica
+20. Anthrax
+21. Exodus
+22. Overkill
+23. Municipal Waste
+24. Havok
+25. Warbringer
+26. Toxic Holocaust
+27. Skeletonwitch
+28. Power Trip
+29. Lamb of God (Burn the Priest)
+30. Eluveitie (Acoustic)
+31. Amon Amarth (Acoustic)
+32. Bloodbath (Acoustic)
+33. Black Label Society (Acoustic)
+34. System of a Down (Acoustic)
+35. Behemoth (Acoustic)
+36. Meshuggah (Acoustic)
+37. Sepultura (Acoustic)
+38. The Prodigy (Electronic)
+39. Cannibal Corpse (Acoustic)
+40. Howard Shore (Soundtrack)
+41. Vader (Acoustic)
+42. Katatonia (Acoustic)
+43. Slipknot
+44. Lamb of God (Acoustic)
+45. Eluveitie (Metal)
+46. Amon Amarth (Metal)
+47. Bloodbath (Metal)
+48. Black Label Society (Metal)
+49. System of a Down (Metal)
+50. Behemoth (Metal)

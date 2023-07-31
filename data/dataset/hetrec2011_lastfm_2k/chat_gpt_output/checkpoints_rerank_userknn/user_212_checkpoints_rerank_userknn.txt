@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Dream Theater
+2. Symphony X
+3. Iron Maiden
+4. Children of Bodom
+5. Helloween
+6. Avantasia
+7. Gamma Ray
+8. Edguy
+9. Blind Guardian
+10. Rhapsody of Fire
+11. Kamelot
+12. Sonata Arctica
+13. Epica
+14. Nightwish
+15. Tarja
+16. Within Temptation
+17. Apocalyptica
+18. Stratovarius
+19. Angra
+20. Therion
+21. Queensrÿche
+22. Iced Earth
+23. HammerFall
+24. Annihilator
+25. Testament
+26. Kreator
+27. Sodom
+28. Alestorm
+29. Black Sabbath
+30. Megadeth
+31. Slayer
+32. Overkill
+33. Death
+34. In Flames
+35. Scorpions
+36. Yngwie Malmsteen
+37. Los Hermanos
+38. Ensiferum
+39. Sarah Brightman
+40. Legião Urbana
+41. Ayreon
+42. Pink Floyd
+43. Dire Straits
+44. Andrew Lloyd Webber
+45. System of a Down
+46. Scars on Broadway
+47. Bruce Dickinson
+48. Linkin Park
+49. Foo Fighters
+50. Enigma

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Sound and the Fury by William Faulkner
+2. Siddhartha by Hermann Hesse
+3. The Stranger by Albert Camus
+4. Brave New World by Aldous Huxley
+5. Fahrenheit 451 by Ray Bradbury
+6. Nineteen Eighty-Four by George Orwell
+7. Frankenstein by Mary Shelley
+8. Wuthering Heights by Emily Bronte
+9. The Kite Runner by Khaled Hosseini
+10. Catch-22 by Joseph Heller
+11. The Old Man and the Sea by Ernest Hemingway
+12. Lord of the Flies by William Golding
+13. The Canterbury Tales by Geoffrey Chaucer
+14. The Giver by Lois Lowry
+15. The Martian Chronicles by Ray Bradbury
+16. The Illustrated Man by Ray Bradbury
+17. The Wonderful Wizard of Oz by L. Frank Baum
+18. Tess of the d'Urbervilles by Thomas Hardy
+19. The Problem of Pain by C.S. Lewis
+20. The Lost Symbol by Dan Brown
+21. Steppenwolf by Hermann Hesse
+22. We by Yevgeny Zamyatin
+23. The Sword of Truth by Terry Goodkind
+24. The Clan of the Cave Bear by Jean M. Auel
+25. Winter Rose by Patricia A. McKillip
+26. Abhorsen by Garth Nix
+27. The Kreutzer Sonata by Leo Tolstoy
+28. The Doors of Perception by Aldous Huxley
+29. The Sight by David Clement-Davies
+30. Fullmetal Alchemist by Hiromu Arakawa
+31. Harry Potter by J.K. Rowling
+32. A Confederacy of Dunces by John Kennedy Toole
+33. Go Ask Alice by Anonymous
+34. Teaching with Calvin and Hobbes by Linda Holmen
+35. Inheritance Cycle by Christopher Paolini
+36. Alas, Babylon by Pat Frank
+37. Teaching with Calvin and Hobbes by Linda Holmen
+38. The Handmaid's Tale by Margaret Atwood
+39. The Selfish Gene by Richard Dawkins
+40. Oryx and Crake by Margaret Atwood
+41. A Heartbreaking Work of Staggering Genius by Dave Eggers
+42. The Jungle Book by Rudyard Kipling
+43. Gulliver's Travels by Jonathan Swift
+44. G�del, Escher, Bach by Douglas Hofstadter
+45. City of God by Augustine of Hippo
+46. Inferno by Dante Alighieri
+47. As I Lay Dying by William Faulkner
+48. Thirteen Reasons Why by Jay Asher
+49. Angels & Demons by Dan Brown
+50. The Da Vinci Code by Dan Brown

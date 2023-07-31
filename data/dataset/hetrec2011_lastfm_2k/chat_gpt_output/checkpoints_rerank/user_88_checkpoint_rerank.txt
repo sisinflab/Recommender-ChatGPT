@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. Arcade Fire
+3. Neutral Milk Hotel
+4. Sufjan Stevens
+5. The Velvet Underground
+6. The Beach Boys
+7. Final Fantasy
+8. Stars
+9. Feist
+10. Broken Social Scene
+11. Joanna Newsom
+12. Damien Rice
+13. Xiu Xiu
+14. Beirut
+15. Bloc Party
+16. The New Pornographers
+17. Copeland
+18. Ennio Morricone
+19. Neil Young
+20. Billie Holiday
+21. Band of Horses
+22. Madonna
+23. The Beatles
+24. Pink Floyd
+25. Muse
+26. U2
+27. Nirvana
+28. Led Zeppelin
+29. Metallica
+30. Iron Maiden
+31. Michael Jackson
+32. Pearl Jam
+33. Björk
+34. System of a Down
+35. Daft Punk
+36. Nine Inch Nails
+37. Linkin Park
+38. Coldplay
+39. Blur
+40. Arctic Monkeys
+41. Placebo
+42. The Killers
+43. Amy Winehouse
+44. Duran Duran
+45. Kylie Minogue
+46. Green Day
+47. My Chemical Romance
+48. Avenged Sevenfold
+49. Black Eyed Peas
+50. P!nk

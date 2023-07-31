@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Nirvana
+2. Pearl Jam
+3. Sonic Youth
+4. Jimi Hendrix
+5. John Frusciante
+6. Chris Cornell
+7. Primal Scream
+8. VAST
+9. Muse
+10. Fugazi
+11. Faith No More
+12. Mogwai
+13. The Mars Volta
+14. ...And You Will Know Us by the Trail of Dead
+15. Radiohead
+16. Queen
+17. Led Zeppelin
+18. Pink Floyd
+19. R.E.M.
+20. The Beatles
+21. Bruce Springsteen
+22. Duran Duran
+23. The Doors
+24. Michael Jackson
+25. Joy Division
+26. U2
+27. The Rolling Stones
+28. Bob Marley
+29. Tricky
+30. Archive
+31. Depeche Mode
+32. AC/DC
+33. Green Day
+34. Pantera
+35. Mr. Bungle
+36. Stevie Wonder
+37. Dinosaur Jr.
+38. The Killers
+39. Fantômas
+40. Nouvelle Vague
+41. Sublime
+42. Sting
+43. Beirut
+44. PJ Harvey
+45. Dire Straits
+46. Elvis Presley
+47. Red Hot Chili Peppers
+48. 65daysofstatic
+49. Cabaret Voltaire
+50. Frédéric Chopin

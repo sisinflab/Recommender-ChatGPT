@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Pink Floyd
+2. Queen
+3. The Doors
+4. Jimi Hendrix
+5. Black Sabbath
+6. Aerosmith
+7. AC/DC
+8. Bob Dylan
+9. Elvis Presley
+10. Fleetwood Mac
+11. Alice Cooper
+12. Cream
+13. Dire Straits
+14. Crowded House
+15. Aretha Franklin
+16. Manu Chao
+17. Cher
+18. Korpiklaani
+19. Pearl Jam
+20. Deep Purple
+21. Van Halen
+22. Michael Jackson
+23. Janis Joplin
+24. Heart
+25. Eurythmics
+26. ZZ Top
+27. Neil Young
+28. The Rolling Stones
+29. Nirvana
+30. Metallica
+31. David Bowie
+32. Iron Maiden
+33. Led Zeppelin
+34. Bruce Springsteen
+35. Bon Jovi
+36. Buddy Holly
+37. Moby
+38. Johann Sebastian Bach
+39. George Harrison
+40. Paul McCartney
+41. Scorpions
+42. ABBA
+43. Bob Marley
+44. Eric Clapton
+45. Dio
+46. Motörhead
+47. Boston
+48. Saint Etienne
+49. P!nk
+50. HammerFall

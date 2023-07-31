@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. A Portrait of the Artist as a Young Man by James Joyce
+2. The Bell Jar by Sylvia Plath
+3. To Kill a Mockingbird by Harper Lee
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Nineteen Eighty-Four by George Orwell
+6. Mrs Dalloway by Virginia Woolf
+7. The Catcher in the Rye by J.D. Salinger
+8. One Hundred Years of Solitude by Gabriel Garcia Marquez
+9. Things Fall Apart by Chinua Achebe
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Kite Runner by Khaled Hosseini
+12. The History of Love by Nicole Krauss
+13. The Hours by Michael Cunningham
+14. Wide Sargasso Sea by Jean Rhys
+15. The Awakening by Kate Chopin
+16. Macbeth by William Shakespeare
+17. The Old Man and the Sea by Ernest Hemingway
+18. Fahrenheit 451 by Ray Bradbury
+19. Brave New World by Aldous Huxley
+20. The Trial by Franz Kafka
+21. Naked Lunch by William S. Burroughs
+22. Inferno by Dante Alighieri
+23. On the Road by Jack Kerouac
+24. The Prophet by Kahlil Gibran
+25. The Good Earth by Pearl S. Buck
+26. Less Than Zero by Bret Easton Ellis
+27. American Psycho by Bret Easton Ellis
+28. The Thirteenth Tale by Diane Setterfield
+29. The Perks of Being a Wallflower by Stephen Chbosky
+30. Howl by Allen Ginsberg
+31. The Monk by Matthew Lewis
+32. Veronika Decides to Die by Paulo Coelho
+33. Night by Elie Wiesel
+34. Middlemarch by George Eliot
+35. The Moral Animal by Robert Wright
+36. The Executioner's Song by Norman Mailer
+37. The Dirt by Mötley Crüe
+38. Tandia by Bryce Courtenay
+39. The Crucible of Time by John Brunner
+40. Essays by Michel de Montaigne
+41. A Good Man Is Hard to Find by Flannery O'Connor
+42. Slash by Slash
+43. Johnny the Homicidal Maniac by Jhonen Vasquez
+44. Of Mice and Men by John Steinbeck
+45. I, Robot by Isaac Asimov
+46. Through the Eye of the Needle by Ken Follett
+47. The Prophet (book) by Kahlil Gibran
+48. City of Glass by Cassandra Clare
+49. Batman: Year One by Frank Miller
+50. Twilight by Stephenie Meyer

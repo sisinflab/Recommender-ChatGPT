@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Andrea Bocelli
+2. Il Divo
+3. Michael Bublé
+4. Charlotte Church
+5. Katherine Jenkins
+6. Plácido Domingo
+7. Luciano Pavarotti
+8. Sarah McLachlan
+9. Enya
+10. Yanni
+11. Kenny G
+12. Vanessa-Mae
+13. Secret Garden
+14. Enigma
+15. Loreena McKennitt
+16. Celtic Woman
+17. Hayley Westenra
+18. The Corrs
+19. Sade
+20. Norah Jones
+21. Adele
+22. Ed Sheeran
+23. Sam Smith
+24. John Legend
+25. Mariah Carey
+26. Whitney Houston
+27. Christina Aguilera
+28. Jennifer Lopez
+29. Shakira
+30. Madonna
+31. Britney Spears
+32. Justin Timberlake
+33. Beyoncé
+34. Rihanna
+35. Lady Gaga
+36. Katy Perry
+37. Taylor Swift
+38. Ariana Grande
+39. Bruno Mars
+40. Shawn Mendes
+41. Dua Lipa
+42. Billie Eilish
+43. Halsey
+44. Post Malone
+45. Drake
+46. The Weeknd
+47. Justin Bieber
+48. Selena Gomez
+49. Demi Lovato
+50. Miley Cyrus

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. The Maze Runner by James Dashner
+3. Divergent by Veronica Roth
+4. The Fault in Our Stars by John Green
+5. The Girl with the Dragon Tattoo by Stieg Larsson
+6. The Girl on the Train by Paula Hawkins
+7. The Catcher in the Rye by J.D. Salinger
+8. The Great Gatsby by F. Scott Fitzgerald
+9. Animal Farm by George Orwell
+10. Lord of the Flies by William Golding
+11. Brave New World by Aldous Huxley
+12. Fahrenheit 451 by Ray Bradbury
+13. The Handmaid's Tale by Margaret Atwood
+14. The Hobbit by J.R.R. Tolkien
+15. The Lord of the Rings by J.R.R. Tolkien
+16. Harry Potter and the Philosopher's Stone by J.K. Rowling
+17. Harry Potter and the Chamber of Secrets by J.K. Rowling
+18. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+19. Harry Potter and the Goblet of Fire by J.K. Rowling
+20. Harry Potter and the Order of Phoenix by J.K. Rowling
+21. Harry Potter and the Half-Blood Prince by J.K. Rowling
+22. Harry Potter and the Deathly Hallows by J.K. Rowling
+23. The Chronicles of Narnia by C.S. Lewis
+24. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+25. The Alchemist by Paulo Coelho
+26. The Picture of Dorian Gray by Oscar Wilde
+27. The Count of Monte Cristo by Alexandre Dumas
+28. The Three Musketeers by Alexandre Dumas
+29. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+30. The Hound of the Baskervilles by Arthur Conan Doyle
+31. The Time Machine by H.G. Wells
+32. The War of the Worlds by H.G. Wells
+33. The Invisible Man by H.G. Wells
+34. The Island of Dr. Moreau by H.G. Wells
+35. The Call of the Wild by Jack London
+36. White Fang by Jack London
+37. The Old Man and the Sea by Ernest Hemingway
+38. The Sun Also Rises by Ernest Hemingway
+39. The Catcher in the Rye by J.D. Salinger
+40. Catch-22 by Joseph Heller
+41. One Hundred Years of Solitude by Gabriel Garcia Marquez
+42. Love in the Time of Cholera by Gabriel Garcia Marquez
+43. Crime and Punishment by Fyodor Dostoevsky
+44. War and Peace by Leo Tolstoy
+45. Anna Karenina by Leo Tolstoy
+46. The Brothers Karam
+47. The Picture of Dorian Gray by Oscar Wilde
+48. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+49. The Bell Jar by Sylvia Plath
+50. The Wise Man's Fear by Patrick Rothfuss

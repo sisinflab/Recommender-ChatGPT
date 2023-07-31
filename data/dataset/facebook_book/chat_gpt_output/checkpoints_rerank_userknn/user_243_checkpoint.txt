@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Jane Eyre by Charlotte Bronte
+2. The Count of Monte Cristo by Alexandre Dumas
+3. Frankenstein by Mary Shelley
+4. Dracula by Bram Stoker
+5. War and Peace by Leo Tolstoy
+6. Adventures of Huckleberry Finn by Mark Twain
+7. To Kill a Mockingbird by Harper Lee
+8. The Picture of Dorian Gray by Oscar Wilde
+9. A Room of One's Own by Virginia Woolf
+10. The Age of Innocence by Edith Wharton
+11. Les Miserables by Victor Hugo
+12. Fahrenheit 451 by Ray Bradbury
+13. Treasure Island by Robert Louis Stevenson
+14. Rebecca by Daphne du Maurier
+15. The Silence of the Lambs by Thomas Harris
+16. The Da Vinci Code by Dan Brown
+17. I Am Legend by Richard Matheson
+18. The Taming of the Shrew by William Shakespeare
+19. Orlando: A Biography by Virginia Woolf
+20. The Coral Island by R. M. Ballantyne
+21. Uncle Tom's Cabin by Harriet Beecher Stowe
+22. The League of Extraordinary Gentlemen by Alan Moore
+23. Marley & Me by John Grogan
+24. Hannibal by Thomas Harris
+25. Eighth Grade Bites by Heather Brewer
+26. The Mill on the Floss by George Eliot
+27. A Room with a View by E. M. Forster
+28. I Am America (And So Can You!) by Stephen Colbert
+29. The Shack by William P. Young
+30. Stargirl by Jerry Spinelli
+31. Bad Girls by Jacqueline Wilson
+32. The Acid House by Irvine Welsh
+33. Finnegans Wake by James Joyce
+34. Watchers by Dean Koontz
+35. Luna by Julie Anne Peters
+36. The Runaways by Ruth Thomas
+37. King Leary by Paul Quarrington
+38. Hopscotch by Julio Cortazar
+39. Black by Ted Dekker
+40. Resident Evil by S. D. Perry
+41. The Messenger by Markus Zusak
+42. Johnny the Homicidal Maniac by Jhonen Vasquez
+43. Fear Street by R. L. Stine
+44. Under the Dome by Stephen King
+45. Because of Winn-Dixie by Kate DiCamillo
+46. The Secret Garden by Frances Hodgson Burnett
+47. Musicophilia by Oliver Sacks
+48. Crime and Punishment by Fyodor Dostoyevsky
+49. Peanuts by Charles M. Schulz
+50. Everything Is Illuminated by Jonathan Safran Foer

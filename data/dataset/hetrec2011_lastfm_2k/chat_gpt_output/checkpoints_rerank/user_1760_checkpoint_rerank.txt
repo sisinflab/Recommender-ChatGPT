@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Nine Inch Nails
+2. Enter Shikari
+3. Placebo
+4. Dead Kennedys
+5. Simple Minds
+6. Billy Talent
+7. Crystal Castles
+8. System of a Down
+9. Linkin Park
+10. Iron Maiden
+11. Calvin Harris
+12. The Prodigy
+13. Alice in Chains
+14. Rage Against the Machine
+15. Justice
+16. Paramore
+17. Elbow
+18. The Doors
+19. Japan
+20. Children of Bodom
+21. Siouxsie and the Banshees
+22. Nirvana
+23. Depeche Mode
+24. Rise Against
+25. Pearl Jam
+26. Black Sabbath
+27. Radiohead
+28. The Police
+29. Muse
+30. Pink Floyd
+31. Metallica
+32. Led Zeppelin
+33. Arctic Monkeys
+34. The Killers
+35. My Chemical Romance
+36. Green Day
+37. Duran Duran
+38. Coldplay
+39. Blur
+40. Michael Jackson
+41. Madonna
+42. Rihanna
+43. Lady Gaga
+44. Beyoncé
+45. Shakira
+46. Ke$ha
+47. Katy Perry
+48. Taylor Swift
+49. Evanescence
+50. Amy Winehouse

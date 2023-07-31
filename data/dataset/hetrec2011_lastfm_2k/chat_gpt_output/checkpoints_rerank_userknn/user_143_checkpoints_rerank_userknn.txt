@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Beatles
+2. Michael Jackson
+3. Elvis Presley
+4. Queen
+5. David Bowie
+6. U2
+7. Stevie Wonder
+8. Led Zeppelin
+9. Bruce Springsteen
+10. Pearl Jam
+11. Santana
+12. Phil Collins
+13. Billy Joel
+14. Whitney Houston
+15. Paul McCartney
+16. Nina Simone
+17. Mary J. Blige
+18. Tina Turner
+19. Robbie Williams
+20. Édith Piaf
+21. Neil Young
+22. Radiohead
+23. The Beach Boys
+24. Nirvana
+25. Guns N' Roses
+26. Patti Smith
+27. The Who
+28. Siouxsie and the Banshees
+29. Tori Amos
+30. Janis Joplin
+31. R.E.M.
+32. The Rolling Stones
+33. AC/DC
+34. The Doors
+35. Simple Minds
+36. George Harrison
+37. Duran Duran
+38. Moby
+39. Oasis
+40. Arctic Monkeys
+41. Foo Fighters
+42. Madonna
+43. Pink Floyd
+44. The Cure
+45. Feist
+46. Buddy Holly
+47. The Mamas & The Papas
+48. The Libertines
+49. Katie Melua
+50. Johann Sebastian Bach

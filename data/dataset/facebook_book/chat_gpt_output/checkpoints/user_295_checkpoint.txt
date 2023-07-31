@@ -1,0 +1,49 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Help by Kathryn Stockett
+2. The Girl on the Train by Paula Hawkins
+3. The Hunger Games by Suzanne Collins
+4. The Fault in Our Stars by John Green
+5. The Book Thief by Markus Zusak
+6. The Catcher in the Rye by J.D. Salinger
+7. The Great Gatsby by F. Scott Fitzgerald
+8. 1984 by George Orwell
+9. Pride and Prejudice by Jane Austen
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Hobbit by J.R.R. Tolkien
+12. The Chronicles of Narnia by C.S. Lewis
+13. Harry Potter and the Philosopher's Stone by J.K. Rowling
+14. Harry Potter and the Chamber of Secrets by J.K. Rowling
+15. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+16. Harry Potter and the Goblet of Fire by J.K. Rowling
+17. Harry Potter and the Order of Phoenix by J.K. Rowling
+18. Harry Potter and the Half-Blood Prince by J.K. Rowling
+19. Harry Potter and the Deathly Hallows by J.K. Rowling
+20. The Alchemist by Paulo Coelho
+21. The Picture of Dorian Gray by Oscar Wilde
+22. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+23. The Count of Monte Cristo by Alexandre Dumas
+24. Les Misérables by Victor Hugo
+25. The Three Musketeers by Alexandre Dumas
+26. The Adventures of Tom Sawyer by Mark Twain
+27. The Adventures of Huckleberry Finn by Mark Twain
+28. The Secret Garden by Frances Hodgson Burnett
+29. Little Women by Louisa May Alcott
+30. The Time Traveler's Wife by Audrey Niffenegger
+31. The Lovely Bones by Alice Sebold
+32. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+33. The Perks of Being a Wallflower by Stephen Chbosky
+34. The Giver by Lois Lowry
+35. The Maze Runner by James Dashner
+36. The Bourne Identity by Robert Ludlum
+37. The Bourne Supremacy by Robert Ludlum
+38. The Bourne Ultimatum by Robert Ludlum
+39. The Da Vinci Code by Dan Brown
+40. Angels & Demons by Dan Brown
+41. Digital Fortress by Dan Brown
+42. Inferno by Dan Brown
+43. The Lost Symbol by Dan Brown
+44. The Girl with the Dragon Tattoo by Stieg Larsson
+45. The Girl Who Played with Fire by Stieg Larsson
+46. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+47. The Name of

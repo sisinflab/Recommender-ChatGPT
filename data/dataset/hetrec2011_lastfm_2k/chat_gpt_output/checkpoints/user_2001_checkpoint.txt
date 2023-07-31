@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Lamb of God
+2. Megadeth
+3. Iron Maiden
+4. Judas Priest
+5. Machine Head
+6. Testament
+7. Exodus
+8. In Flames
+9. Arch Enemy
+10. Gojira
+11. Mastodon
+12. Opeth
+13. Dream Theater
+14. Tool
+15. Nine Inch Nails
+16. Deftones
+17. Faith No More
+18. Soundgarden
+19. Alice Cooper
+20. Guns N' Roses
+21. AC/DC
+22. Van Halen
+23. Motley Crue
+24. Kiss
+25. Aerosmith
+26. Bon Jovi
+27. Whitesnake
+28. Scorpions
+29. Dio
+30. Rainbow
+31. Black Sabbath
+32. Ozzy Osbourne (solo)
+33. Rob Zombie
+34. Marilyn Manson
+35. KISS
+36. Alice Cooper
+37. Motley Crue
+38. Guns N' Roses
+39. AC/DC
+40. Van Halen
+41. Aerosmith
+42. Bon Jovi
+43. Whitesnake
+44. Scorpions
+45. Dio
+46. Rainbow
+47. Black Sabbath
+48. Ozzy Osbourne (solo)
+49. Rob Zombie
+50. Marilyn Manson

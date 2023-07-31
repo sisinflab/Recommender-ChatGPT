@@ -1,0 +1,53 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Fight Club by Chuck Palahniuk
+2. Brave New World by Aldous Huxley
+3. The Road by Cormac McCarthy
+4. American Psycho by Bret Easton Ellis
+5. Slaughterhouse-Five by Kurt Vonnegut
+6. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+7. The Handmaid's Tale by Margaret Atwood
+8. The Stand by Stephen King
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Shining by Stephen King
+11. The Silence of the Lambs by Thomas Harris
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Hunger Games by Suzanne Collins
+14. The Lord of the Rings by J.R.R. Tolkien
+15. The Hobbit by J.R.R. Tolkien
+16. The Catcher in the Rye by J.D. Salinger
+17. 1984 by George Orwell
+18. Animal Farm by George Orwell
+19. The Great Gatsby by F. Scott Fitzgerald
+20. To Kill a Mockingbird by Harper Lee
+21. One Hundred Years of Solitude by Gabriel Garcia Marquez
+22. The Brothers Karamazov by Fyodor Dostoevsky
+23. Crime and Punishment by Fyodor Dostoevsky
+24. The Count of Monte Cristo by Alexandre Dumas
+25. Les Miserables by Victor Hugo
+26. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+27. The Complete Works of Edgar Allan Poe by Edgar Allan Poe
+28. The Complete Stories of Flannery O'Connor by Flannery O'Connor
+29. The Complete Stories of Franz Kafka by Franz Kafka
+30. The Complete Stories of Ernest Hemingway by Ernest Hemingway
+31. The Complete Stories of Truman Capote by Truman Capote
+32. The Complete Stories of Ray Bradbury by Ray Bradbury
+33. The Complete Stories of Isaac Bashevis Singer by Isaac Bashevis Singer
+34. The Complete Stories of Katherine Mansfield by Katherine Mansfield
+35. The Complete Stories of Anton Chekhov by Anton Chekhov
+36. The Complete Stories of James Joyce by James Joyce
+37. The Complete Stories of Virginia Woolf by Virginia Woolf
+38. The Complete Stories of William Faulkner by William Faulkner
+39. The Complete Stories of Nathaniel Hawthorne by Nathaniel Hawthorne
+40. The Complete Stories of Herman Melville by Herman Melville
+41. The Complete Stories of Mark Twain by Mark Twain
+42. The Complete Stories of Edgar Rice Burroughs by Edgar Rice Burroughs
+43. The Complete Stories of H.P. Lovecraft by H.P. Lovecraft
+44. The Complete Stories of Stephen King by Stephen King
+44. World Without End by Ken Follett
+45. The Girl with the Dragon Tattoo by Stieg Larsson
+46. The Girl Who Played with Fire by Stieg Larsson
+47. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+48. The Dark Tower by Stephen King
+49. The Name of the Wind by Patrick Rothfuss
+50. The Wise Man's Fear by Patrick Rothfuss

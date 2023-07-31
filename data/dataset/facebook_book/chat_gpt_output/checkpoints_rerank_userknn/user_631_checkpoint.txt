@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Crime and Punishment by Fyodor Dostoevsky
+2. The Count of Monte Cristo by Alexandre Dumas
+3. Frankenstein by Mary Shelley
+4. Brave New World by Aldous Huxley
+5. 1984 by George Orwell
+6. Dracula by Bram Stoker
+7. The Catcher in the Rye by J.D. Salinger
+8. Jane Eyre by Charlotte Bronte
+9. Moby-Dick by Herman Melville
+10. The Fountainhead by Ayn Rand
+11. The Picture of Dorian Gray by Oscar Wilde
+12. Romeo and Juliet by William Shakespeare
+13. Lord of the Flies by William Golding
+14. The Hobbit by J.R.R. Tolkien
+15. The Lord of the Rings by J.R.R. Tolkien
+16. Ethan Frome by Edith Wharton
+17. Tess of the d'Urbervilles by Thomas Hardy
+18. Paradise Lost by John Milton
+19. Macbeth by William Shakespeare
+20. The Swiss Family Robinson by Johann David Wyss
+21. Gulliver's Travels by Jonathan Swift
+22. As I Lay Dying by William Faulkner
+23. The Maze Runner by James Dashner
+24. The Chronicles of Narnia by C.S. Lewis
+25. Through the Looking-Glass by Lewis Carroll
+26. The Solitaire Mystery by Jostein Gaarder
+27. Sophie's World by Jostein Gaarder
+28. The Screwtape Letters by C.S. Lewis
+29. The Little Prince by Antoine de Saint-Exupéry
+30. King Solomon's Mines by H. Rider Haggard
+31. The Godfather by Mario Puzo
+32. The Old Man and the Sea by Ernest Hemingway
+33. The 48 Laws of Power by Robert Greene
+34. The Prince by Niccolò Machiavelli
+35. Sun Bin's Art of War by Sun Bin
+36. Le Morte d'Arthur by Sir Thomas Malory
+37. Inferno by Dante Alighieri
+38. Night by Elie Wiesel
+39. Snow Flower and the Secret Fan by Lisa See
+40. Alas, Babylon by Pat Frank
+41. Everworld by Katherine Applegate
+42. Big Sur by Jack Kerouac
+43. A Walk in the Woods by Bill Bryson
+44. Catching Fire by Suzanne Collins
+45. Twilight by Stephenie Meyer
+46. Alice's Adventures in Wonderland by Lewis Carroll
+47. Franny and Zooey by J.D. Salinger
+48. Silas Marner by George Eliot
+49. Journey to the Center of the Earth by Jules Verne
+50. The Ugly Duckling by Hans Christian Andersen

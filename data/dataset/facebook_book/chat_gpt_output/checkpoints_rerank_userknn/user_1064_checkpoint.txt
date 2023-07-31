@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Da Vinci Code
+2. Nineteen Eighty-Four
+3. Dracula
+4. Frankenstein
+5. The Hunger Games
+6. The Chronicles of Narnia: Prince Caspian
+7. The Lovely Bones
+8. Twilight (series)
+9. The Picture of Dorian Gray
+10. American Psycho
+11. Inferno (Dante)
+12. The Stranger (novel)
+13. Flowers for Algernon
+14. The Alchemist (novel)
+15. The Phantom of the Opera
+16. The Great Gatsby
+17. Never Let Me Go (novel)
+18. His Dark Materials
+19. The Lost World (Crichton novel)
+20. Jurassic Park (novel)
+21. The Notebook (novel)
+22. Tuesdays with Morrie
+23. A Thousand Splendid Suns
+24. The Purpose Driven Life
+25. The Hours (novel)
+26. Malazan Book of the Fallen
+27. Fear and Loathing in Las Vegas
+28. Jitterbug Perfume
+29. The Fire Within (novel)
+30. The Wardstone Chronicles
+31. Halo: Contact Harvest
+32. Manga
+33. Go Ask Alice
+34. Night (book)
+35. Cut (novel)
+36. Choke (novel)
+37. Impulse economy
+38. Pygmy (novel)
+39. Blood and Chocolate (novel)
+40. Burned (Hopkins novel)
+41. Twisted (book)
+42. Pride and Prejudice
+43. The Shack
+44. Black Beauty
+45. The Zombie Survival Guide
+46. Johnny the Homicidal Maniac
+47. Notes from Underground
+48. Holes (novel)
+49. The Good Earth
+50. The Stranger (novel)

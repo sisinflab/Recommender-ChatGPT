@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Sigur Rós
+2. Anathema
+3. Bat for Lashes
+4. Fever Ray
+5. Tori Amos
+6. Florence + the Machine
+7. Blonde Redhead
+8. Mika
+9. The Gathering
+10. The Knife
+11. Regina Spektor
+12. Röyksopp
+13. Crystal Castles
+14. Air
+15. Blackfield
+16. Lacrimosa
+17. Adele
+18. Moby
+19. Portishead
+20. Massive Attack
+21. Antony and the Johnsons
+22. MGMT
+23. Björk
+24. Radiohead
+25. Lady Gaga
+26. Depeche Mode
+27. Madonna
+28. Muse
+29. Pink Floyd
+30. Nirvana
+31. Iron Maiden
+32. Led Zeppelin
+33. Metallica
+34. Michael Jackson
+35. Pearl Jam
+36. a-ha
+37. System of a Down
+38. Nine Inch Nails
+39. Linkin Park
+40. Avenged Sevenfold
+41. My Chemical Romance
+42. Green Day
+43. The Cure
+44. Placebo
+45. Arctic Monkeys
+46. The Killers
+47. Duran Duran
+48. Coldplay
+49. Blur
+50. Katy Perry

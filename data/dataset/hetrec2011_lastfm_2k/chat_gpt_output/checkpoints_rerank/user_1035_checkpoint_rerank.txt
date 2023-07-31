@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for this user would be:
+
+1. Radiohead
+2. Sigur Rós
+3. The Smiths
+4. M83
+5. Slowdive
+6. Ulrich Schnauss
+7. Explosions in the Sky
+8. Spiritualized
+9. Goldfrapp
+10. New Order
+11. Morcheeba
+12. Siouxsie and the Banshees
+13. Kate Bush
+14. Stereolab
+15. Black Rebel Motorcycle Club
+16. Mew
+17. Clan of Xymox
+18. Madonna
+19. Björk
+20. Pink Floyd
+21. Muse
+22. The Beatles
+23. U2
+24. Duran Duran
+25. Coldplay
+26. Blur
+27. Arctic Monkeys
+28. Placebo
+29. The Killers
+30. Nirvana
+31. Iron Maiden
+32. Led Zeppelin
+33. Metallica
+34. Michael Jackson
+35. Pearl Jam
+36. a-ha
+37. System of a Down
+38. Daft Punk
+39. Nine Inch Nails
+40. Linkin Park
+41. Amy Winehouse
+42. Green Day
+43. My Chemical Romance
+44. Avenged Sevenfold
+45. All Time Low
+46. P!nk
+47. Kelly Clarkson
+48. Ke$ha
+49. Taylor Swift
+50. Rihanna

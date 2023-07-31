@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Harry Potter
+2. To Kill a Mockingbird
+3. Anne of Green Gables
+4. The Chronicles of Narnia: Prince Caspian
+5. Treasure Island
+6. A Midsummer Night's Dream
+7. Lord of the Flies
+8. The Scarlet Letter
+9. Heart of Darkness
+10. Brave New World
+11. The Hitchhiker's Guide to the Galaxy (novel)
+12. Alice's Adventures in Wonderland
+13. Flowers for Algernon
+14. Great Expectations
+15. Pygmalion (play)
+16. Cosmos (book)
+17. The Elegant Universe
+18. The Moral Landscape
+19. Man's Search for Meaning
+20. Self-Reliance
+21. Common Sense (pamphlet)
+22. The Social Contract
+23. Mere Christianity
+24. The God Delusion
+25. God Is Not Great
+26. The Communist Manifesto
+27. Das Kapital
+28. Prometheus Rising by ['Robert Anton Wilson']
+29. The Universe in a Nutshell by ['Stephen Hawking']
+30. Gormenghast (novel) by ['Mervyn Peake']
+31. Think and Grow Rich by ['Napoleon Hill']
+32. Reservation Blues by ['Sherman Alexie']
+33. The Psychedelic Experience by ['Richard Alpert', 'Timothy Leary', 'Ralph Metzner']
+34. Fast Food Nation by ['Eric Schlosser']
+35. Whiteout (Follett novel)
+36. Dear John (novel)
+37. Number the Stars
+38. Angela's Ashes
+39. Lamb: The Gospel According to Biff, Christ's Childhood Pal
+40. Isaac Asimov's Robot City
+41. The Last Song (novel)
+42. This Is Your Brain On Music
+43. Darkly Dreaming Dexter
+44. Batman: The Killing Joke
+45. Surely You're Joking, Mr. Feynman!
+46. I Am America (And So Can You!)
+47. Marvel Zombies (series)
+48. Breakfast at Tiffany's (novella)
+49. Goethe's Faust
+50. He's Just Not That Into You

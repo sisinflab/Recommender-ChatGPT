@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Fall Out Boy
+2. Green Day
+3. Blink-182
+4. Sum 41
+5. The Offspring
+6. Rise Against
+7. AFI
+8. The All-American Rejects
+9. Jimmy Eat World
+10. Weezer
+11. The Killers
+12. Muse
+13. Radiohead
+14. Arctic Monkeys
+15. The Strokes
+16. Franz Ferdinand
+17. The White Stripes
+18. The Black Keys
+19. Cage the Elephant
+20. Foo Fighters
+21. Queens of the Stone Age
+22. Nirvana
+23. Pearl Jam
+24. Soundgarden
+25. Alice in Chains
+26. Stone Temple Pilots
+27. Red Hot Chili Peppers
+28. System of a Down
+29. Slipknot
+30. Korn
+31. Disturbed
+32. Avenged Sevenfold
+33. Metallica
+34. Iron Maiden
+35. AC/DC
+36. Guns N' Roses
+37. Motley Crue
+38. Kiss
+39. Aerosmith
+40. Led Zeppelin
+41. Pink Floyd
+42. The Doors
+43. The Who
+44. Queen
+45. David Bowie
+46. Prince
+47. Madonna
+48. Michael Jackson
+49. Beyonce
+50. Taylor Swift

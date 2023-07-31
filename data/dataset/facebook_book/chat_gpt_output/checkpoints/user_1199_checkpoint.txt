@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Maze Runner by James Dashner
+4. The Mortal Instruments by Cassandra Clare
+5. Percy Jackson and the Olympians by Rick Riordan
+6. The Lord of the Rings by J.R.R. Tolkien
+7. The Chronicles of Narnia by C.S. Lewis
+8. The Giver by Lois Lowry
+9. The Fault in Our Stars by John Green
+10. The Book Thief by Markus Zusak
+11. The Selection by Kiera Cass
+12. The 5th Wave by Rick Yancey
+13. The Lunar Chronicles by Marissa Meyer
+14. The Infernal Devices by Cassandra Clare
+15. The Darkest Minds by Alexandra Bracken
+16. The Raven Boys by Maggie Stiefvater
+17. The Iron Fey by Julie Kagawa
+18. The Grisha Trilogy by Leigh Bardugo
+19. The Kingkiller Chronicle by Patrick Rothfuss
+20. The Name of the Wind by Patrick Rothfuss
+21. The Lies of Locke Lamora by Scott Lynch
+22. Mistborn: The Final Empire by Brandon Sanderson
+23. Warbreaker by Brandon Sanderson
+24. Elantris by Brandon Sanderson
+25. Steelheart by Brandon Sanderson
+26. Red Rising by Pierce Brown
+27. The Hunger Games: Catching Fire by Suzanne Collins
+28. The Hunger Games: Mockingjay by Suzanne Collins
+29. Twilight by Stephenie Meyer
+30. New Moon by Stephenie Meyer
+31. Eclipse by Stephenie Meyer
+32. Breaking Dawn by Stephenie Meyer
+33. The Host by Stephenie Meyer
+34. The Chemist by Stephenie Meyer
+35. The Witching Hour by Anne Rice
+36. Interview with the Vampire by Anne Rice
+37. The Vampire Lestat by Anne Rice
+38. The Queen of the Damned by Anne Rice
+39. The Tale of the Body Thief by Anne Rice
+40. The Vampire Armand by Anne Rice
+41. The Vampire Chronicles by Anne Rice
+42. The Witch & Wizard series by James Patterson and Cate Tiernan
+43. The Inheritance Cycle by Christopher Paolini
+44. Inkheart by Cornelia Funke
+45. Inkspell by Cornelia Funke
+46. Inkdeath by Cornelia Funke
+47. The Fallen series by Lauren Kate
+48. The Dark Artifices by Cassandra Clare
+49. The Bane Chronicles by Cassandra Clare
+50. The Shadowhunter's Codex by Cassandra Clare

@@ -1,0 +1,48 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Fight Club by Chuck Palahniuk
+2. Slaughterhouse-Five by Kurt Vonnegut
+3. The Catcher in the Rye by J.D. Salinger
+4. One Flew Over the Cuckoo's Nest by Ken Kesey
+5. The Great Gatsby by F. Scott Fitzgerald
+6. 1984 by George Orwell
+7. Brave New World by Aldous Huxley
+8. The Road by Cormac McCarthy
+9. The Bell Jar by Sylvia Plath
+10. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+11. The Sun Also Rises by Ernest Hemingway
+12. The Electric Kool-Aid Acid Test by Tom Wolfe
+13. The Doors of Perception by Aldous Huxley
+14. The Rum Diary by Hunter S. Thompson
+15. The Stranger by Albert Camus
+16. The Picture of Dorian Gray by Oscar Wilde
+17. The Shining by Stephen King
+18. The Stand by Stephen King
+19. The Gunslinger by Stephen King
+20. The Dark Tower II: The Drawing of the Three by Stephen King
+21. The Dark Tower III: The Waste Lands by Stephen King
+22. The Dark Tower IV: Wizard and Glass by Stephen King
+23. The Dark Tower V: Wolves of the Calla by Stephen King
+24. The Dark Tower VI: Song of Susannah by Stephen King
+25. The Dark Tower VII: The Dark Tower by Stephen King
+26. The Hobbit by J.R.R. Tolkien
+27. The Lord of the Rings by J.R.R. Tolkien
+28. The Silmarillion by J.R.R. Tolkien
+29. The Chronicles of Narnia by C.S. Lewis
+30. The Hitchhiker's Guide to the Galaxy: The Complete Radio Series by Douglas Adams
+31. The Ultimate Hitchhiker's Guide to the Galaxy by Douglas Adams
+32. The Complete Sherlock Holmes by Arthur Conan Doyle
+33. The Adventures of Tom Sawyer by Mark Twain
+34. The Adventures of Huckleberry Finn by Mark Twain
+35. The Old Man and the Sea by Ernest Hemingway
+36. For Whom the Bell Tolls by Ernest Hemingway
+37. A Farewell to Arms by Ernest Hemingway
+38. The Sound and the Fury by William Faulkner
+39. As I Lay Dying by William Faulkner
+40. Light in August by William Faulkner
+41. Absalom, Absalom! by William Faulkner
+42. The Grapes of Wrath by John Steinbeck
+43. East of Eden by John Steinbeck
+44. Of Mice and Men by John Steinbeck
+45. The Call of the Wild by Jack London
+46. White Fang by Jack London

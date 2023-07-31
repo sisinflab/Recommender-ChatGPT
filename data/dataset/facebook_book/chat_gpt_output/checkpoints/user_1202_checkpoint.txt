@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Looking for Alaska by John Green
+2. The Fault in Our Stars by John Green
+3. Paper Towns by John Green
+4. It's Kind of a Funny Story by Ned Vizzini
+5. The Perks of Being a Wallflower by Stephen Chbosky
+6. Eleanor & Park by Rainbow Rowell
+7. All the Bright Places by Jennifer Niven
+8. Me and Earl and the Dying Girl by Jesse Andrews
+9. Before I Fall by Lauren Oliver
+10. If I Stay by Gayle Forman
+11. The Maze Runner by James Dashner
+12. The Hunger Games by Suzanne Collins
+13. Divergent by Veronica Roth
+14. The Book Thief by Markus Zusak
+15. The Giver by Lois Lowry
+16. The Outsiders by S.E. Hinton
+17. Speak by Laurie Halse Anderson
+18. The Lovely Bones by Alice Sebold
+19. The Secret Life of Bees by Sue Monk Kidd
+20. The Help by Kathryn Stockett
+21. The Girl on the Train by Paula Hawkins
+22. Gone Girl by Gillian Flynn
+23. The Nightingale by Kristin Hannah
+24. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+25. The Alchemist by Paulo Coelho
+26. The Kite Runner by Khaled Hosseini
+27. A Thousand Splendid Suns by Khaled Hosseini
+28. The Time Traveler's Wife by Audrey Niffenegger
+29. Water for Elephants by Sara Gruen
+30. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+31. The Catcher in the Rye by J.D. Salinger
+32. To Kill a Mockingbird by Harper Lee
+33. The Great Gatsby by F. Scott Fitzgerald
+34. 1984 by George Orwell
+35. Animal Farm by George Orwell
+36. Brave New World by Aldous Huxley
+37. Lord of the Flies by William Golding
+38. One Hundred Years of Solitude by Gabriel Garcia Marquez
+39. Love in the Time of Cholera by Gabriel Garcia Marquez
+40. The Picture of Dorian Gray by Oscar Wilde
+41. Frankenstein by Mary Shelley
+42. Dracula by Bram Stoker
+43. Wuthering Heights by Emily Bronte
+44. Jane Eyre by Charlotte Bronte
+45. Pride and Prejudice by Jane Austen
+46. Sense and Sensibility by Jane Austen
+47. Emma by Jane Austen
+48. Persuasion by Jane Austen
+49. Northanger Abbey by Jane Austen
+50. Mansfield Park by Jane Austen

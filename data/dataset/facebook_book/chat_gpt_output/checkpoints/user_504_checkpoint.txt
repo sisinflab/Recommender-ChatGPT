@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Fault in Our Stars by John Green
+2. Thirteen Reasons Why by Jay Asher
+3. Looking for Alaska by John Green
+4. The Perks of Being a Wallflower by Stephen Chbosky
+5. The Hunger Games by Suzanne Collins
+6. Catching Fire by Suzanne Collins
+7. Mockingjay by Suzanne Collins
+8. Divergent by Veronica Roth
+9. Insurgent by Veronica Roth
+10. Allegiant by Veronica Roth
+11. The Maze Runner by James Dashner
+12. The Scorch Trials by James Dashner
+13. The Death Cure by James Dashner
+14. The Giver by Lois Lowry
+15. Gathering Blue by Lois Lowry
+16. Messenger by Lois Lowry
+17. Son by Lois Lowry
+18. The Book Thief by Markus Zusak
+19. The Lovely Bones by Alice Sebold
+20. The Girl on the Train by Paula Hawkins
+21. Gone Girl by Gillian Flynn
+22. The Da Vinci Code by Dan Brown
+23. Angels and Demons by Dan Brown
+24. Inferno by Dan Brown
+25. The Help by Kathryn Stockett
+26. The Secret Life of Bees by Sue Monk Kidd
+27. The Color Purple by Alice Walker
+28. The Joy Luck Club by Amy Tan
+29. The Kite Runner by Khaled Hosseini
+30. A Thousand Splendid Suns by Khaled Hosseini
+31. The Time Traveler's Wife by Audrey Niffenegger
+32. Water for Elephants by Sara Gruen
+33. The Notebook by Nicholas Sparks
+34. A Walk to Remember by Nicholas Sparks
+35. The Last Song by Nicholas Sparks
+36. Safe Haven by Nicholas Sparks
+37. The Lucky One by Nicholas Sparks
+38. The Best of Me by Nicholas Sparks
+39. The Longest Ride by Nicholas Sparks
+40. Me Before You by Jojo Moyes
+41. The Girl with the Dragon Tattoo by Stieg Larsson
+42. The Girl Who Played with Fire by Stieg Larsson
+43. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+44. The Help by Kathryn Stockett
+45. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+46. The Alchemist by Paulo Coelho
+47. The Shack by William P. Young
+48. The Road by Cormac McCarthy
+49. The Stand by Stephen King
+50. It by Stephen King

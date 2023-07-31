@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Great Gatsby by F. Scott Fitzgerald
+2. To Kill a Mockingbird by Harper Lee
+3. Nineteen Eighty-Four by George Orwell
+4. The Catcher in the Rye by J.D. Salinger
+5. Brave New World by Aldous Huxley
+6. Lord of the Flies by William Golding
+7. The Old Man and the Sea by Ernest Hemingway
+8. The Grapes of Wrath by John Steinbeck
+9. The Sound and the Fury by William Faulkner
+10. As I Lay Dying by William Faulkner
+11. A Farewell to Arms by Ernest Hemingway
+12. The Glass Menagerie by Tennessee Williams
+13. Of Mice and Men by John Steinbeck
+14. The Outsiders by S.E. Hinton
+15. The Adventures of Tom Sawyer by Mark Twain
+16. Alice's Adventures in Wonderland by Lewis Carroll
+17. The Princess Bride by William Goldman
+18. Lolita by Vladimir Nabokov
+19. Inkheart by Cornelia Funke
+20. Inkspell by Cornelia Funke
+21. Twilight by Stephenie Meyer
+22. Angels & Demons by Dan Brown
+23. The Lord of the Rings by J.R.R. Tolkien
+24. The Secret Life of Bees by Sue Monk Kidd
+25. The Giver by Lois Lowry
+26. Invisible Man by Ralph Ellison
+27. The Jungle Book by Rudyard Kipling
+28. Candide by Voltaire
+29. Macbeth by William Shakespeare
+30. Oedipus the King by Sophocles
+31. Oliver Twist by Charles Dickens
+32. The Little Prince by Antoine de Saint-Exupéry
+33. The Last Lecture by Randy Pausch
+34. Fear and Loathing in Las Vegas by Hunter S. Thompson
+35. Mansfield Park by Jane Austen
+36. Persuasion by Jane Austen
+37. Bud, Not Buddy by Christopher Paul Curtis
+38. The Hamlet by William Faulkner
+39. The Mists of Avalon by Marion Zimmer Bradley
+40. The Wanderers by Richard Price
+41. And Then There Were None by Agatha Christie
+42. The Call of the Wild by Jack London
+43. The Tale of Peter Rabbit by Beatrix Potter
+44. Trivia by Logan Pearsall Smith
+45. Absolutely Normal Chaos by Sharon Creech
+46. Reviving Ophelia by Mary Pipher
+47. Blood and Chocolate by Annette Curtis Klause
+48. Oh, the Places You'll Go! by Dr. Seuss
+49. This Is Your Brain On Music by Daniel J. Levitin
+50. God Bless You, Dr. Kevorkian by Kurt Vonneg

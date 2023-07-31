@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. 1984 by George Orwell
+3. The Great Gatsby by F. Scott Fitzgerald
+4. The Lord of the Rings by J.R.R. Tolkien
+5. Pride and Prejudice by Jane Austen
+6. The Hobbit by J.R.R. Tolkien
+7. The Hunger Games by Suzanne Collins
+8. The Girl with the Dragon Tattoo by Stieg Larsson
+9. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+10. The Chronicles of Narnia by C.S. Lewis
+11. The Picture of Dorian Gray by Oscar Wilde
+12. The Shining by Stephen King
+13. The Silence of the Lambs by Thomas Harris
+14. The Name of the Rose by Umberto Eco
+15. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+16. The Secret History by Donna Tartt
+17. The Road by Cormac McCarthy
+18. The Stand by Stephen King
+19. The Talented Mr. Ripley by Patricia Highsmith
+20. The Bell Jar by Sylvia Plath
+21. The Shadow of the Wind by Carlos Ruiz Zafón
+22. The Book Thief by Markus Zusak
+23. The Giver by Lois Lowry
+24. The Fault in Our Stars by John Green
+25. The Perks of Being a Wallflower by Stephen Chbosky
+26. The Handmaid's Tale by Margaret Atwood
+27. The Kite Runner by Khaled Hosseini
+28. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+29. The Da Vinci Code by Dan Brown
+30. The Girl on the Train by Paula Hawkins
+31. The Help by Kathryn Stockett
+32. The Lovely Bones by Alice Sebold
+33. The Time Traveler's Wife by Audrey Niffenegger
+34. The Picture of Dorian Gray by Oscar Wilde
+35. The Adventures of Tom Sawyer by Mark Twain
+36. The Adventures of Huckleberry Finn by Mark Twain
+37. The Count of Monte Cristo by Alexandre Dumas
+38. The Three Musketeers by Alexandre Dumas
+39. The Scarlet Letter by Nathaniel Hawthorne
+40. The Canterbury Tales by Geoffrey Chaucer
+41. The Divine Comedy by Dante Alighieri
+42. The Iliad by Homer
+43. The Odyssey by Homer
+44. The Republic by Plato
+45. The Prince by Niccolò Machiavelli
+46. The Art of War by Sun Tzu
+47. The Wealth of Nations by Adam Smith
+48. The Communist Manifesto by Karl Marx and Friedrich Engels
+49. The Origin of Species by Charles Darwin
+50. The Interpretation of Dreams by Sigmund Freud

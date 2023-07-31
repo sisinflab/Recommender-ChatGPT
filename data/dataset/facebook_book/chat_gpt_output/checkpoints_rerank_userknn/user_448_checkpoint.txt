@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. Little Women by Louisa May Alcott
+3. To Kill a Mockingbird by Harper Lee
+4. Wuthering Heights by Emily Bronte
+5. The Hunger Games by Suzanne Collins
+6. The Lovely Bones by Alice Sebold
+7. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+8. Angels & Demons by Dan Brown
+9. Ender's Game by Orson Scott Card
+10. Ender's Shadow by Orson Scott Card
+11. The Tipping Point by Malcolm Gladwell
+12. Persuasion by Jane Austen
+13. The Scarlet Letter by Nathaniel Hawthorne
+14. Bastard Out of Carolina by Dorothy Allison
+15. Jaws by Peter Benchley
+16. Guardians of Ga'Hoole: The Capture by Kathryn Lasky
+17. The Sisterhood of the Traveling Pants by Ann Brashares
+18. Johnny the Homicidal Maniac by Jhonen Vasquez
+19. PS, I Love You by Cecelia Ahern
+20. The Outsiders by S.E. Hinton
+21. Blink by Malcolm Gladwell
+22. His Dark Materials by Philip Pullman
+23. Othello by William Shakespeare
+24. Gone with the Wind by Margaret Mitchell
+25. From the Corner of His Eye by Dean Koontz
+26. The Queen's Fool by Philippa Gregory
+27. The Princess Bride by William Goldman
+28. What I Talk About When I Talk About Running by Haruki Murakami
+29. Digital Fortress by Dan Brown
+30. Things Fall Apart by Chinua Achebe
+31. Go Ask Alice by Anonymous
+32. Norwegian Wood by Haruki Murakami
+33. Burned by Ellen Hopkins
+34. Wide Sargasso Sea by Jean Rhys
+35. Rainbow Fish by Marcus Pfister
+36. Rhapsody: Child of Blood by Elizabeth Haydon
+37. Twilight by Stephenie Meyer
+38. A Midsummer Night's Dream by William Shakespeare
+39. Jitterbug Perfume by Tom Robbins
+40. Never Let Me Go by Kazuo Ishiguro
+41. Where the Wild Things Are by Maurice Sendak
+42. Glass by Ellen Hopkins
+43. Macbeth by William Shakespeare
+44. The Chosen by Chaim Potok
+45. The Perks of Being a Wallflower by Stephen Chbosky
+46. The Picture of Dorian Gray by Oscar Wilde
+47. Death Note by Tsugumi Ohba and Nisio Isin
+48. Dracula by Bram Stoker
+49. The Facebook Effect by David Kirkpatrick
+50. The Da Vinci Code by Dan Brown

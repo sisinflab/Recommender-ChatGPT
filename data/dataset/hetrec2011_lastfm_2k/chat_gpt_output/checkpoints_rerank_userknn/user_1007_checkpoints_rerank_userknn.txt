@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Shania Twain
+2. Dixie Chicks
+3. Taylor Swift
+4. Keith Urban
+5. Rascal Flatts
+6. Garth Brooks
+7. Brad Paisley
+8. Carrie Underwood
+9. Faith Hill
+10. Johnny Cash
+11. Eagles
+12. Billy Joel
+13. Céline Dion
+14. Christina Aguilera
+15. Britney Spears
+16. Adele
+17. Janet Jackson
+18. Scorpions
+19. The Beatles
+20. Lynyrd Skynyrd
+21. Lady Antebellum
+22. Amy Winehouse
+23. Muse
+24. Queen
+25. Lady Gaga
+26. Miley Cyrus
+27. Juanes
+28. Michael Jackson
+29. Enrique Iglesias
+30. Backstreet Boys
+31. Dolly Parton
+32. U2
+33. Kelly Clarkson
+34. Nelly Furtado
+35. The Who
+36. Bon Jovi
+37. Fiona Apple
+38. The xx
+39. Janis Joplin
+40. Usher
+41. Ne-Yo
+42. Elvis Presley
+43. Glee Cast
+44. Josh Groban
+45. Enya
+46. Howard Shore
+47. The Police
+48. Jessie James
+49. Pixie Lott
+50. Rihanna

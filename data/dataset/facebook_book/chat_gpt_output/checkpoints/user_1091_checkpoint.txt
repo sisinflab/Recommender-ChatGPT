@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Wicked: The Life and Times of the Wicked Witch of the West by Gregory Maguire
+2. The Witching Hour by Anne Rice
+3. Slaughterhouse-Five by Kurt Vonnegut
+4. The Kitchen God's Wife by Amy Tan
+5. The Catcher in the Rye by J.D. Salinger
+6. Junky by William S. Burroughs
+7. The Dirt: Confessions of the World's Most Notorious Rock Band by Neil Strauss
+8. Snow Flower and the Secret Fan by Lisa See
+9. The Electric Kool-Aid Acid Test by Tom Wolfe
+10. The Picture of Dorian Gray by Oscar Wilde
+11. The God of Small Things by Arundhati Roy
+12. The Handmaid's Tale by Margaret Atwood
+13. The Great Gatsby by F. Scott Fitzgerald
+14. The Color Purple by Alice Walker
+15. The Road by Cormac McCarthy
+16. The Hunger Games by Suzanne Collins
+17. The Girl with the Dragon Tattoo by Stieg Larsson
+18. The Help by Kathryn Stockett
+19. The Lovely Bones by Alice Sebold
+20. The Da Vinci Code by Dan Brown
+21. The Kite Runner by Khaled Hosseini
+22. The Secret Life of Bees by Sue Monk Kidd
+23. The Poisonwood Bible by Barbara Kingsolver
+24. The Glass Castle by Jeannette Walls
+25. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+26. The Alchemist by Paulo Coelho
+27. The Picture of Dorian Gray by Oscar Wilde
+28. The Sun Also Rises by Ernest Hemingway
+29. The Old Man and the Sea by Ernest Hemingway
+30. The Grapes of Wrath by John Steinbeck
+31. The Sound and the Fury by William Faulkner
+32. The Catcher in the Rye by J.D. Salinger
+33. The Bell Jar by Sylvia Plath
+34. The Shining by Stephen King
+35. The Stand by Stephen King
+36. The Gunslinger by Stephen King
+37. The Dark Tower II: The Drawing of the Three by Stephen King
+38. The Dark Tower III: The Waste Lands by Stephen King
+39. The Dark Tower IV: Wizard and Glass by Stephen King
+40. The Dark Tower V: Wolves of the Calla by Stephen King
+41. The Dark Tower VI: Song of Susannah by Stephen King
+42. The Dark Tower VII: The Dark Tower by Stephen King
+43. The Name of the Wind by Patrick Rothfuss
+44. The Wise Man's Fear by Patrick Rothfuss
+45. The Way of Kings by Brandon Sanderson
+46. Mistborn: The Final Empire by Brandon Sanderson
+47. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+48. The Dark Tower by Stephen King
+49. The Name of the Wind by Patrick Rothfuss
+50. The Wise Man's Fear by Patrick Rothfuss

@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Three Days Grace
+2. Breaking Benjamin
+3. Alter Bridge
+4. Seether
+5. Theory of a Deadman
+6. Adema
+7. Static-X
+8. Saliva
+9. In Flames
+10. Lostprophets
+11. Korn
+12. Rammstein
+13. Marilyn Manson
+14. Audioslave
+15. Ladytron
+16. Trapt
+17. Hoobastank
+18. Puddle of Mudd
+19. Modest Mouse
+20. Bob Marley & The Wailers
+21. The Birthday Massacre
+22. Lady Gaga
+23. Maroon 5
+24. Jimmy Eat World
+25. Delerium
+26. Leaves' Eyes
+27. Akira Yamaoka
+28. Britney Spears
+29. Christina Aguilera
+30. Paramore
+31. Katy Perry
+32. Avril Lavigne
+33. Taylor Swift
+34. Evanescence
+35. Beyoncé
+36. Muse
+37. Pink Floyd
+38. Radiohead
+39. Ke$ha
+40. Coldplay
+41. The Killers
+42. Nirvana
+43. Iron Maiden
+44. Led Zeppelin
+45. Metallica
+46. Michael Jackson
+47. Pearl Jam
+48. System of a Down
+49. Nine Inch Nails
+50. Linkin Park

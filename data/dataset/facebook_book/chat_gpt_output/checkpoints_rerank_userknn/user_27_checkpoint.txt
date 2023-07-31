@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Stand by Stephen King
+2. Les Misérables by Victor Hugo
+3. The Hobbit by J.R.R. Tolkien
+4. To Kill a Mockingbird by Harper Lee
+5. The Picture of Dorian Gray by Oscar Wilde
+6. The Scarlet Letter by Nathaniel Hawthorne
+7. Memoirs of a Geisha by Arthur Golden
+8. The Mists of Avalon by Marion Zimmer Bradley
+9. Angels & Demons by Dan Brown
+10. The Lovely Bones by Alice Sebold
+11. The Bourne Identity by Robert Ludlum
+12. The Bourne Supremacy by Robert Ludlum
+13. The God Delusion by Richard Dawkins
+14. Gone with the Wind by Margaret Mitchell
+15. The Hardy Boys by Franklin W. Dixon
+16. The Da Vinci Code by Dan Brown
+17. The Girl Who Loved Tom Gordon by Stephen King
+18. Dragons of Autumn Twilight by Tracy Hickman and Margaret Weis
+19. Royal Assassin by Robin Hobb
+20. A Memory of Light by Robert Jordan and Brandon Sanderson
+21. Utopia by Thomas More
+22. Bible
+23. Flowers in the Attic by V.C. Andrews
+24. Interview with the Vampire by Anne Rice
+25. Memoirs of a Geisha by Arthur Golden
+26. Go Ask Alice by Anonymous
+27. Johnny Tremain by Esther Forbes
+28. The Elegant Universe by Brian Greene
+29. Eragon by Christopher Paolini
+30. The Theory of Everything by Stephen Hawking
+31. Brisingr by Christopher Paolini
+32. The Naughtiest Girl Again by Enid Blyton
+33. Sabriel by Garth Nix
+34. Adventures of Huckleberry Finn by Mark Twain
+35. Nancy Drew by Carolyn Keene
+36. How to Stop Worrying and Start Living by Dale Carnegie
+37. Percy Jackson & the Olympians by Rick Riordan
+38. The Little Prince by Antoine de Saint-Exupéry
+39. The Queen's Fool by Philippa Gregory
+40. For One More Day by Mitch Albom
+41. Twilight by Stephenie Meyer
+42. Goosebumps by R.L. Stine
+43. Necronomicon: The Best Weird Tales of H. P. Lovecraft: Commemorative Edition by H.P. Lovecraft
+44. Deception Point by Dan Brown
+45. Mythology by Edith Hamilton
+46. Abhorsen by Garth Nix
+47. The Famous Five by Enid Blyton
+48. Storm Front by Jim Butcher
+49. Digital Fortress by Dan Brown
+50. Cujo by Stephen King

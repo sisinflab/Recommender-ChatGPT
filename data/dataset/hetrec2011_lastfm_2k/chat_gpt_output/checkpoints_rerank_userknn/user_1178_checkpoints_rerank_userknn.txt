@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations for them would be:
+
+1. Maroon 5
+2. Lady Gaga
+3. Rihanna
+4. Katy Perry
+5. Adele
+6. Britney Spears
+7. Eminem
+8. Jason Mraz
+9. Oasis
+10. Franz Ferdinand
+11. Arctic Monkeys
+12. Backstreet Boys
+13. Bon Jovi
+14. McFly
+15. John Mayer
+16. Little Joy
+17. Westlife
+18. Kelly Clarkson
+19. The Fratellis
+20. Alanis Morissette
+21. Paolo Nutini
+22. Colbie Caillat
+23. David Guetta
+24. Selena Gomez & the Scene
+25. Brad Paisley
+26. OneRepublic
+27. Demi Lovato
+28. Genesis
+29. Mayday Parade
+30. All Time Low
+31. Fall Out Boy
+32. Lady Antebellum
+33. VersaEmerge
+34. Chris Brown
+35. Carrie Underwood
+36. Jesse McCartney
+37. Jordin Sparks
+38. B.o.B
+39. Justin Bieber
+40. Glee Cast
+41. Ke$ha
+42. Paramore
+43. Avril Lavigne
+44. Joss Stone
+45. Linkin Park
+46. Hoobastank
+47. Natasha Bedingfield
+48. Pierce the Veil
+49. Carter Burwell
+50. Justin Timberlake

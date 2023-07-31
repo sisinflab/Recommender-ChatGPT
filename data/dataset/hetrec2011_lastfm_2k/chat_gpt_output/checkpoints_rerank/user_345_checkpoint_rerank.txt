@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Radiohead
+2. Arctic Monkeys
+3. Daft Punk
+4. The White Stripes
+5. The xx
+6. Kasabian
+7. The Kinks
+8. Lily Allen
+9. Crystal Castles
+10. MGMT
+11. Metric
+12. Foals
+13. Justice
+14. Yeah Yeah Yeahs
+15. The Last Shadow Puppets
+16. Nouvelle Vague
+17. Two Door Cinema Club
+18. La Roux
+19. White Lies
+20. Lykke Li
+21. Peter Bjorn and John
+22. The Sounds
+23. Bang Gang
+24. Dido
+25. Madonna
+26. Beyoncé
+27. Muse
+28. Pink Floyd
+29. Nirvana
+30. Led Zeppelin
+31. Metallica
+32. Michael Jackson
+33. Pearl Jam
+34. Depeche Mode
+35. The Beatles
+36. Coldplay
+37. Blur
+38. Placebo
+39. The Killers
+40. Duran Duran
+41. Iron Maiden
+42. System of a Down
+43. Nine Inch Nails
+44. Linkin Park
+45. Avenged Sevenfold
+46. My Chemical Romance
+47. Green Day
+48. The Cure
+49. Amy Winehouse
+50. Björk

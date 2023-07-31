@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Lord of the Flies by William Golding
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. The Hunger Games by Suzanne Collins
+5. The Maze Runner by James Dashner
+6. The Fault in Our Stars by John Green
+7. The Book Thief by Markus Zusak
+8. The Chronicles of Narnia by C.S. Lewis
+9. The Hobbit by J.R.R. Tolkien
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Da Vinci Code by Dan Brown
+12. Angels and Demons by Dan Brown
+13. The Girl with the Dragon Tattoo by Stieg Larsson
+14. The Girl Who Played with Fire by Stieg Larsson
+15. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+16. The Bourne Identity by Robert Ludlum
+17. The Bourne Supremacy by Robert Ludlum
+18. The Bourne Ultimatum by Robert Ludlum
+19. The Silence of the Lambs by Thomas Harris
+20. Red Dragon by Thomas Harris
+21. Hannibal by Thomas Harris
+22. The Shining by Stephen King
+23. Carrie by Stephen King
+24. Misery by Stephen King
+25. The Stand by Stephen King
+26. The Dark Tower series by Stephen King
+27. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+28. Ender's Game by Orson Scott Card
+29. Dune by Frank Herbert
+30. Brave New World by Aldous Huxley
+31. Fahrenheit 451 by Ray Bradbury
+32. The Martian by Andy Weir
+33. Ready Player One by Ernest Cline
+34. The War of the Worlds by H.G. Wells
+35. The Time Machine by H.G. Wells
+36. The Invisible Man by H.G. Wells
+37. The Island of Dr. Moreau by H.G. Wells
+38. The Picture of Dorian Gray by Oscar Wilde
+39. Dracula by Bram Stoker
+40. Frankenstein by Mary Shelley
+41. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+42. Treasure Island by Robert Louis Stevenson
+43. The Adventures of Tom Sawyer by Mark Twain
+44. The Adventures of Huckleberry Finn by Mark Twain
+45. The Great Gatsby by F. Scott Fitzgerald
+46. The Sun Also Rises by Ernest Hemingway
+47. A Farewell to Arms by Ernest Hemingway
+48. For Whom the Bell Tolls by Ernest Hemingway
+49. The Old Man and the Sea by Ernest Hemingway
+50. One Hundred Years of Solitude by Gabriel Garcia Marquez

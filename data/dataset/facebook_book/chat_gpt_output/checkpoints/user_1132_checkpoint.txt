@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Perks of Being a Wallflower by Stephen Chbosky
+2. To Kill a Mockingbird by Harper Lee
+3. The Great Gatsby by F. Scott Fitzgerald
+4. 1984 by George Orwell
+5. Animal Farm by George Orwell
+6. Brave New World by Aldous Huxley
+7. Lord of the Flies by William Golding
+8. Catch-22 by Joseph Heller
+9. One Hundred Years of Solitude by Gabriel Garcia Marquez
+10. The Bell Jar by Sylvia Plath
+11. The Road by Cormac McCarthy
+12. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+13. The Handmaid's Tale by Margaret Atwood
+14. The Catcher in the Rye by J.D. Salinger (re-read)
+15. The Picture of Dorian Gray by Oscar Wilde (re-read)
+16. Little Women by Louisa May Alcott (re-read)
+17. The Fault in Our Stars by John Green
+18. Paper Towns by John Green
+19. Looking for Alaska by John Green
+20. An Abundance of Katherines by John Green
+21. Will Grayson, Will Grayson by David Levithan and John Green (re-read)
+22. Turtles All the Way Down by John Green
+23. The Hunger Games by Suzanne Collins
+24. Harry Potter and the Philosopher's Stone by J.K. Rowling (re-read)
+25. Harry Potter and the Chamber of Secrets by J.K. Rowling (re-read)
+26. Harry Potter and the Prisoner of Azkaban by J.K. Rowling (re-read)
+27. Harry Potter and the Goblet of Fire by J.K. Rowling (re-read)
+28. Harry Potter and the Order of Phoenix by J.K. Rowling (re-read)
+29. Harry Potter and the Half-Blood Prince by J.K. Rowling (re-read)
+30. Harry Potter and the Deathly Hallows by J.K. Rowling (re-read)
+31. The Hobbit by J.R.R. Tolkien
+32. The Lord of the Rings by J.R.R. Tolkien
+33. The Chronicles of Narnia by C.S. Lewis
+34. The Fountainhead by Ayn Rand (re-read)
+35. Atlas Shrugged by Ayn Rand
+36. The Alchemist by Paulo Coelho
+37. The Kite Runner by Khaled Hosseini
+38. A Thousand Splendid Suns by Khaled Hosseini
+39. The Girl with the Dragon Tattoo by Stieg Larsson
+40. The Girl Who Played with Fire by Stieg Larsson
+41. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+42. The Da Vinci Code by Dan Brown
+43. Angels and Demons by Dan Brown
+44. Wizard and Glass by Stephen King
+45. Wizard and Glass by Stephen King
+46. Wolves of the Calla by Stephen King
+47. Song of Susannah by Stephen King
+48. The Dark Tower by Stephen King
+49. The Name of the Wind by Patrick Rothfuss
+50. The Wise Man's Fear by Patrick Rothfuss

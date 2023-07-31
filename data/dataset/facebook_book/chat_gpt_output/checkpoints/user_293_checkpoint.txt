@@ -1,0 +1,48 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Alchemist by Paulo Coelho
+2. The Kite Runner by Khaled Hosseini
+3. The Girl on the Train by Paula Hawkins
+4. The Da Vinci Code by Dan Brown
+5. To Kill a Mockingbird by Harper Lee
+6. The Catcher in the Rye by J.D. Salinger
+7. The Hunger Games by Suzanne Collins
+8. The Fault in Our Stars by John Green
+9. Gone Girl by Gillian Flynn
+10. The Help by Kathryn Stockett
+11. The Great Gatsby by F. Scott Fitzgerald
+12. 1984 by George Orwell
+13. Animal Farm by George Orwell
+14. The Hobbit by J.R.R. Tolkien
+15. The Lord of the Rings by J.R.R. Tolkien
+16. Harry Potter and the Philosopher's Stone by J.K. Rowling
+17. Harry Potter and the Chamber of Secrets by J.K. Rowling
+18. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+19. Harry Potter and the Goblet of Fire by J.K. Rowling
+20. Harry Potter and the Order of Phoenix by J.K. Rowling
+21. Harry Potter and the Half-Blood Prince by J.K. Rowling
+22. Harry Potter and the Deathly Hallows by J.K. Rowling
+23. The Chronicles of Narnia by C.S. Lewis
+24. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+25. The Diary of a Young Girl by Anne Frank
+26. The Book Thief by Markus Zusak
+27. The Secret Life of Bees by Sue Monk Kidd
+28. The Lovely Bones by Alice Sebold
+29. The Time Traveler's Wife by Audrey Niffenegger
+30. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+31. The Help by Kathryn Stockett
+32. The Color Purple by Alice Walker
+33. The Joy Luck Club by Amy Tan
+34. The God of Small Things by Arundhati Roy
+35. The Namesake by Jhumpa Lahiri
+36. Interpreter of Maladies by Jhumpa Lahiri
+37. The White Tiger by Aravind Adiga
+38. Five Point Someone by Chetan Bhagat
+39. 2 States: The Story of My Marriage by Chetan Bhagat
+40. Dead and Gone by Charlaine Harris
+41. One Night @ the Call Center by Chetan Bhagat
+42. In the Line of Fire: A Memoir by Pervez Musharraf
+43. Godaan by Munshi Premchand
+44. The Winner Stands Alone by Paulo Coelho
+45. The Last Song by Nicholas Sparks
+46. The Monk Who Sold His Ferrari

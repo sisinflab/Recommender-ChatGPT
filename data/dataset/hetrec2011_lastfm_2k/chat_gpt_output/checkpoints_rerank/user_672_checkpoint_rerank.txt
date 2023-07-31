@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Rise Against
+2. Metallica
+3. blink-182
+4. A Day to Remember
+5. Red Hot Chili Peppers
+6. Avenged Sevenfold
+7. Panic! At the Disco
+8. Fall Out Boy
+9. Eyes Set to Kill
+10. Alesana
+11. Sum 41
+12. Daft Punk
+13. deadmau5
+14. Emarosa
+15. The Beatles
+16. Rage Against the Machine
+17. Pierce the Veil
+18. Incubus
+19. Flobots
+20. Yellowcard
+21. Disturbed
+22. We Came As Romans
+23. Owl City
+24. The Word Alive
+25. Asking Alexandria
+26. Muse
+27. Nirvana
+28. System of a Down
+29. Linkin Park
+30. Iron Maiden
+31. Pearl Jam
+32. Michael Jackson
+33. Led Zeppelin
+34. Nine Inch Nails
+35. Radiohead
+36. Coldplay
+37. The Killers
+38. Green Day
+39. My Chemical Romance
+40. Pink Floyd
+41. U2
+42. Arctic Monkeys
+43. Placebo
+44. Blur
+45. Duran Duran
+46. Madonna
+47. Björk
+48. Amy Winehouse
+49. Ke$ha
+50. Lady Gaga

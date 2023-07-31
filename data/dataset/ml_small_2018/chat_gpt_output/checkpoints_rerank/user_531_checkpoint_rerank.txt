@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 movie recommendations:
+
+1. Lord of the Rings: The Fellowship of the Ring
+2. Lord of the Rings: The Two Towers
+3. Lord of the Rings: The Return of the King
+4. Star Wars: Episode IV - A New Hope
+5. Star Wars: Episode V - The Empire Strikes Back
+6. Star Wars: Episode VI - Return of the Jedi
+7. Indiana Jones and the Raiders of the Lost Ark
+8. Indiana Jones and the Last Crusade
+9. Jurassic Park
+10. Terminator 2: Judgment Day
+11. Alien
+12. Aliens
+13. The Matrix
+14. The Dark Knight
+15. Fight Club
+16. Schindler's List
+17. The Silence of the Lambs
+18. The Sixth Sense
+19. Pulp Fiction
+20. Fargo
+21. Chinatown
+22. Braveheart
+23. Saving Private Ryan
+24. Apollo 13
+25. The Shining
+26. Forrest Gump
+27. The Princess Bride
+28. The Maltese Falcon
+29. The Usual Suspects
+30. Goodfellas
+31. The Godfather
+32. The Godfather: Part II
+33. The Shawshank Redemption
+34. The Green Mile
+35. American Beauty
+36. L.A. Confidential
+37. The Departed
+38. No Country for Old Men
+39. There Will Be Blood
+40. Inception
+41. Memento
+42. The Prestige
+43. The Dark Knight Rises
+44. Shrek
+45. Beauty and the Beast
+46. Aladdin
+47. The Lion King
+48. Finding Nemo
+49. Toy Story
+50. Monsters, Inc.

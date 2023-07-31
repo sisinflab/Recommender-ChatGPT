@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Dream Theater
+2. Opeth
+3. Tool
+4. Porcupine Tree
+5. Rush
+6. Yes
+7. Genesis
+8. Camel
+9. King Crimson
+10. Marillion
+11. Haken
+12. Fates Warning
+13. Devin Townsend
+14. Symphony X
+15. Ayreon
+16. Riverside
+17. Spock's Beard
+18. Transatlantic
+19. The Flower Kings
+20. Big Big Train
+21. IQ
+22. Anathema
+23. Katatonia
+24. Steven Wilson
+25. Gazpacho
+26. Beardfish
+27. The Tangent
+28. Pain of Salvation
+29. Pink Floyd
+30. Amorphis
+31. Queen
+32. Faith No More
+33. L'Arc~en~Ciel
+34. Incubus
+35. System of a Down
+36. Pearl Jam
+37. The Mars Volta
+38. Kansas
+39. Metallica
+40. Queensrÿche
+41. Radiohead
+42. Toto
+43. Blackfield
+44. Riverside
+45. Porcupine Tree
+46. Opeth
+47. Dream Theater
+48. Tool
+49. Rush
+50. Yes

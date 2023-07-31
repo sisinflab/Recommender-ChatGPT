@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Animal Farm by George Orwell
+2. Brave New World by Aldous Huxley
+3. The Catcher in the Rye by J.D. Salinger
+4. To Kill a Mockingbird by Harper Lee
+5. The Great Gatsby by F. Scott Fitzgerald
+6. One Hundred Years of Solitude by Gabriel Garcia Marquez
+7. The Alchemist by Paulo Coelho
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Hunger Games by Suzanne Collins
+10. The Book Thief by Markus Zusak
+11. The Road by Cormac McCarthy
+12. The Kite Runner by Khaled Hosseini
+13. The Girl with the Dragon Tattoo by Stieg Larsson
+14. The Da Vinci Code by Dan Brown
+15. The Name of the Wind by Patrick Rothfuss
+16. The Wise Man's Fear by Patrick Rothfuss
+17. The Fellowship of the Ring by J.R.R. Tolkien
+18. The Two Towers by J.R.R. Tolkien
+19. The Return of the King by J.R.R. Tolkien
+20. The Silmarillion by J.R.R. Tolkien
+21. The Hobbit by J.R.R. Tolkien
+22. The Chronicles of Narnia by C.S. Lewis
+23. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+24. The Martian by Andy Weir
+25. The Girl on the Train by Paula Hawkins
+26. The Help by Kathryn Stockett
+27. The Secret Life of Bees by Sue Monk Kidd
+28. The Color Purple by Alice Walker
+29. The Joy Luck Club by Amy Tan
+30. The God of Small Things by Arundhati Roy
+31. The Handmaid's Tale by Margaret Atwood
+32. 1984 by George Orwell
+33. Fahrenheit 451 by Ray Bradbury
+34. Lord of the Flies by William Golding
+35. The Lord of the Rings by J.R.R. Tolkien
+36. The Count of Monte Cristo by Alexandre Dumas
+37. Les Miserables by Victor Hugo
+38. Crime and Punishment by Fyodor Dostoevsky
+39. The Brothers Karamazov by Fyodor Dostoevsky
+40. Anna Karenina by Leo Tolstoy
+41. War and Peace by Leo Tolstoy
+42. The Picture of Dorian Gray by Oscar Wilde
+43. Dracula by Bram Stoker
+44. Frankenstein by Mary Shelley
+45. Wuthering Heights by Emily Bronte
+46. Jane Eyre by Charlotte Bronte
+47. Pride and Prejudice by Jane Austen
+48. Sense and Sensibility by Jane Austen
+49. Emma by Jane Austen
+50. Persuasion by Jane Austen

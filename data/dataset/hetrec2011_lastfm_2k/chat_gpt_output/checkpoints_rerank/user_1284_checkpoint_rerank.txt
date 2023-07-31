@@ -1,0 +1,52 @@
+Based on the user's preferences, the top 50 recommendations would be:
+
+1. Aphex Twin
+2. Autechre
+3. Boards of Canada
+4. Plaid
+5. Squarepusher
+6. Amon Tobin
+7. Kraftwerk
+8. Björk
+9. Telefon Tel Aviv
+10. múm
+11. Proem
+12. AFX
+13. The Beatles
+14. Radiohead
+15. Pink Floyd
+16. Led Zeppelin
+17. Nirvana
+18. Metallica
+19. Iron Maiden
+20. Pearl Jam
+21. Nine Inch Nails
+22. Daft Punk
+23. Muse
+24. U2
+25. Coldplay
+26. Blur
+27. Arctic Monkeys
+28. Placebo
+29. The Killers
+30. My Chemical Romance
+31. Green Day
+32. The Cure
+33. Michael Jackson
+34. Madonna
+35. Lady Gaga
+36. Beyoncé
+37. Rihanna
+38. Katy Perry
+39. Christina Aguilera
+40. Britney Spears
+41. Shakira
+42. Avril Lavigne
+43. Taylor Swift
+44. Ke$ha
+45. Paramore
+46. Evanescence
+47. All Time Low
+48. Avenged Sevenfold
+49. Black Eyed Peas
+50. P!nk

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Metallica
+2. Pink Floyd
+3. Black Sabbath
+4. AC/DC
+5. Guns N' Roses
+6. Soundgarden
+7. Slayer
+8. Ayreon
+9. Amon Amarth
+10. Staind
+11. Evanescence
+12. A Perfect Circle
+13. Chevelle
+14. Ensiferum
+15. Blind Guardian
+16. The Hush Sound
+17. Beck
+18. Yann Tiersen
+19. HIM
+20. Trivium
+21. The White Stripes
+22. Nickelback
+23. Apocalyptica
+24. 3 Doors Down
+25. Enigma
+26. Anathema
+27. Opeth
+28. Devin Townsend
+29. Porcupine Tree
+30. Dream Theater
+31. Tool
+32. Symphony X
+33. Frédéric Chopin
+34. Wolfgang Amadeus Mozart
+35. In Flames
+36. Korpiklaani
+37. Sonata Arctica
+38. HammerFall
+39. Megadeth
+40. Pantera
+41. Nightwish
+42. Rush
+43. Queen
+44. Jimi Hendrix
+45. Bob Dylan
+46. Iron Maiden
+47. Sepultura
+48. Tarja
+49. King Diamond
+50. Therion

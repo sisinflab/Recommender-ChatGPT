@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Fiona Apple
+2. Tori Amos
+3. Adele
+4. Sara Bareilles
+5. Ani DiFranco
+6. Feist
+7. Imogen Heap
+8. Florence + The Machine
+9. Sia
+10. Tracy Chapman
+11. KT Tunstall
+12. Alanis Morissette (Unplugged)
+13. Regina Spektor (Live in London)
+14. Joni Mitchell (Blue)
+15. Marisa Monte (Infinito Particular)
+16. Chico Buarque (Construção)
+17. Maria Rita (Samba Meu)
+18. Lenine (Acústico MTV)
+19. Elis Regina (Elis & Tom)
+20. Ingrid Michaelson (Girls and Boys)
+21. Amy Winehouse (Back to Black)
+22. Maria Bethânia (Ciclo)
+23. Avril Lavigne (Let Go)
+24. Engenheiros do Hawaii (Acústico MTV)
+25. Beyoncé (Lemonade)
+26. Norah Jones (Come Away With Me)
+27. Pitty (Admirável Chip Novo)
+28. David Bowie (The Rise and Fall of Ziggy Stardust and the Spiders from Mars)
+29. Leonard Cohen (Songs of Leonard Cohen)
+30. Dixie Chicks (Taking the Long Way)
+31. Sandy Leah (Manuscrito)
+32. Cat Stevens (Tea for the Tillerman)
+33. Regina Spektor (Begin to Hope)
+34. Joni Mitchell (Court and Spark)
+35. Marisa Monte (Rose and Charcoal)
+36. Chico Buarque (Chico Buarque de Hollanda, Vol. 1)
+37. Maria Rita (Coração a Batucar)
+38. Lenine (Labiata)
+39. Elis Regina (Falso Brilhante)
+40. Ingrid Michaelson (Be OK)
+41. Amy Winehouse (Frank)
+42. Maria Bethânia (Brasileirinho)
+43. Avril Lavigne (Under My Skin)
+44. Engenheiros do Hawaii (O Papa é Pop)
+45. Beyoncé (B'Day)
+46. Norah Jones (Feels Like Home)
+47. Pitty (Anacrônico)
+48. David Bowie (Hunky Dory)
+49. Leonard Cohen (Songs of Love and Hate)
+50. Dixie Chicks (Fly)
