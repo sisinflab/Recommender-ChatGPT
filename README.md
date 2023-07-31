@@ -3,7 +3,7 @@ This repository contains the source code and datasets for the paper titled "**Ev
 
 To correctly clone the repo, use:
 ```bash
-git clone --recursive XYZ
+git clone --recursive https://github.com/sisinflab/Recommender-ChatGPT.git
 ```
 
 The project includes the necessary source code and files to conduct experiments for the baselines, ChatGPT, GPT-3.5 and PaLM-2.
